@@ -1,0 +1,10 @@
+
+# 49
+haec est genealogia illius, quae ad initium retro recurrit. fernmail ipse est, qui regit modo in regionibus duabus buelt et guorthigirniaun, filius teudubir. teudubir ipse est rex bueltiae regionis, filius pascent, filii guoidcant, filii moriud, filii eldat, filii eldoc, filii paul, filii mepurit, filii briacat, filii pascent, filii guorthigirn guortheneu, filii guitaul, filii guitolin, filii gloui. bonus, paul, mauron tres fratres fuerunt filii gloui, qui aedificauit urbem magnam super ripam fluminis sabrinae, quae uocatur brittannico sermone cair gloiu, saxonice autem gloecester.
+
+This is the genealogy of Vortigern, which goes back to Fernvail, who reigned in the kingdom of Guorthegirnaim, and was the son of Teudor; Teudor was the son of Pascent; Pascent of Guoidcant; Guoidcant of Moriud; Moriud of Eltat; Eltat of Eldoc; Eldoc of Paul; Paul of Meuprit; Meuprit of Braciat; Braciat of Pascent; Pascent of Guorthegirn (Vortigern); Guorthegirn of Guortheneu; Guortheneu of Guitaul; Guitaul of Guitolion; Guitolion of Gloui. Bonus, Paul, Mauron, were three brothers, who built Gloiuda, a great city upon the banks of the river Severn, and in British is called Cair Gloui, in Saxon, Gloucester.
+
+# 66
+et a regno guorthigirni usque ad discordiam guitolini et ambrosii anni sunt duodecim, quod est guoloppum; id est catguoloph. guorthigirnus autem tenuit imperium in brittannia theodosio et ualentiniano consulibus et in quarto anno regni sui saxones ad brittanniam uenerunt felice et tauro consulibus quadringentesimo anno ab incarnatione domini nostri iesu christi.
+
+And from the reign of Vortigern to the quarrel between Guitolinus and Ambrosius, are twelve years, which is Guolopum, that is Catgwaloph. Vortigern reigned in Britain when Theodosius and Valentinian were consuls, and in the fourth year of his reign the Saxons came to Britain, in the consulship of Feliz and Taurus, in the four hundredth year from the incarnation of our Lord Jesus Christ.

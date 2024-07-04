@@ -1,0 +1,1 @@
+Everything comes from 1 thing / 0 thing

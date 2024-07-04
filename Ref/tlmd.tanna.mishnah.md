@@ -1,0 +1,6 @@
+# moed
+## ta'anit
+### 2a.3
+אֵין שׁוֹאֲלִים אֶת הַגְּשָׁמִים אֶלָּא סָמוּךְ לַגְּשָׁמִים. רַבִּי יְהוּדָה אוֹמֵר: הָעוֹבֵר לִפְנֵי הַתֵּיבָה בְּיוֹם טוֹב הָאַחֲרוֹן שֶׁל חַג — הָאַחֲרוֹן מַזְכִּיר, הָרִאשׁוֹן אֵינוֹ מַזְכִּיר. בְּיוֹם טוֹב רִאשׁוֹן שֶׁל פֶּסַח — הָרִאשׁוֹן מַזְכִּיר, הָאַחֲרוֹן אֵינוֹ מַזְכִּיר.
+
+The mishna states a general principle: One requests rain only immediately preceding the rainy season. Rabbi Yehuda says: With regard to the one who passes before the ark as prayer leader on the concluding Festival day of the festival of Sukkot, the Eighth Day of Assembly: The last prayer leader, who leads the additional prayer, mentions rain, whereas the first prayer leader, for the morning prayer, does not mention rain. The opposite is the case at the conclusion of the period for mentioning rain on the first Festival day of Passover: Here, the first prayer leader, who leads the morning prayer, mentions rain, while the last prayer leader, who leads the additional prayer, does not mention rain.

@@ -1,0 +1,1 @@
+Joke on how journalist will make news about anything that people wants to hear no matter the outcome

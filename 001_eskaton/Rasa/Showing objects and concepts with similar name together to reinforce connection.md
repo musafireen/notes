@@ -1,0 +1,1 @@
+The axial age was called not after the axe that the nomads used to cut the forests, but the axis

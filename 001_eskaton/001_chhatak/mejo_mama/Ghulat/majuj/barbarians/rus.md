@@ -1,0 +1,1 @@
+874 rurik 1 o novogorod may have met aḥmad ibn rustah o iṣfahān

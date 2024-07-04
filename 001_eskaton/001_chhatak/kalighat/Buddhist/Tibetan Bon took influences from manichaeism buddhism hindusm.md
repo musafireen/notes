@@ -1,0 +1,5 @@
+Some scholars have suggested that elements of Manichaeism may have influenced the development of Bon, particularly in the idea of a cosmic struggle between light and darkness, and the concept of a redeemer figure.
+
+Buddhism arrived in Tibet in the 7th century and had a profound influence on Bon, with many Buddhist ideas and practices being adopted into Bon. The Bon god Trowo Tsochog Khagying is believed to have arisen as a synthesis of various Buddhist and Bon deities, and the figure of Tonpa Shenrab Miwoche, the founder of Bon, is often compared to the Buddha in Bon literature.
+
+adoption of Hindu tantric practices, such as the use of mantras and mandalas, into Bon rituals. Bon also incorporated elements of the ancient Indian shamanic tradition, including the belief in spirits and the practice of divination.

@@ -1,0 +1,1 @@
+North wind force scythians to invade mediterranean. They are are forced to smile less due to cold, forced to be serious except at beer parties.

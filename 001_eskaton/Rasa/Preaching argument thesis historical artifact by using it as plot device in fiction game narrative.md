@@ -1,0 +1,1 @@
+Simplifying complex dialectic by using its simple points as one of few plot devices in an episode

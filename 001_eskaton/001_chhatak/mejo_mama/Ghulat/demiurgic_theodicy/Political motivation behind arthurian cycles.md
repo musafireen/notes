@@ -1,0 +1,1 @@
+Everyone enjoys a good story almost as much as they enjoy propaganda. So what better way to enjoy your time than read a story that was used as propaganda not once, not twice, but at least ? times, being reinterpreted and reshaped

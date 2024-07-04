@@ -1,0 +1,1 @@
+Comedians are the most regressive, right after 

@@ -1,0 +1,1 @@
+Anacharsis criterion pramāṇa

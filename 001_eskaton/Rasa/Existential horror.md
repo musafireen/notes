@@ -1,0 +1,1 @@
+A diary building up to the ultimate, horror, cruelty and indifference of god ends in the unsatisfying conclusion of author accepting the ignorant bliss of conformist endorphine from a loved one

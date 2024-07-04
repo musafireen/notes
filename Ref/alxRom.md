@@ -1,0 +1,9 @@
+# b3
+## c4
+When Alexander realized that they were on the point of defeat, he ordered a cessation of the fighting and sent a message to Porus, as follows:
+‘It does not befit the power of a king to allow one or other of us to gain the victory only by the destruction of our armies; but it will be a mark of our personal bravery if each of us puts a stop to the general fighting and comes forward to decide the victory by single combat.’
+Porus was delighted – he had noticed that Alexander was no match for himself in physical size – and promised to fight him single-handed. Porus was 8 feet tall and Alexander less than 5. Both sides stood around to watch the fight. Suddenly there was a tremendous noise in Porus’ camp. Porus was startled, and turned round to see what the cause of the noise was. At once Alexander knocked his legs from under him, jumped on to him and drove his sword through his ribs. That was the end of Porus, king of the Indians.98
+Then both the armies began to fight again. Alexander called out to the Indians, ‘Wretched Indians, why do you go on fighting when your king is dead?’ But they replied, ‘We fight so as not to be made prisoners of war.’ Then Alexander said, ‘Stop fighting, turn round and return to your city as free men. It was not you who made this audacious attack on my army, but Porus.’ He said this because he knew that his army was no match for that of the Indians.
+Immediately he ordered that Porus be given a royal burial. He took all the treasure from the royal palace and marched on to the Brahmans, or Oxydorkai. These were not for the most part warriors, but naked philosophers who lived in huts and caves.99
+### 8
+### 10

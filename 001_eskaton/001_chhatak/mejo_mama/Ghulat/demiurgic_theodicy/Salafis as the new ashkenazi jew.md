@@ -1,0 +1,5 @@
+persecution
+victimhood
+terrorism
+pro-salafi media propaganda
+brainwashing liberals

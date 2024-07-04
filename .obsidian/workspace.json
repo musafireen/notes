@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "05bb472ce5767d3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7bdb617a2a6da3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b93804006c0c29b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref/tlmd.amora.gemara.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d1c43b255e1e7c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4d7e08c123668b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/sihr/spirituals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83dc74576261ff19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/God's very own argument.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "999dcd56e3ab9aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/jhd/jhd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bdf6601af0df1bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/firawn_taghut_3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd32a6430cd5a1b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/firawn_taghut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80cb83533d7cfb48",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad1a6e7fcb5542d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d43837f788fceb29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4082cb6bed2633dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tlmd",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e98a80cbb54c2f96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5c547e5a99914051",
+    "type": "split",
+    "children": [
+      {
+        "id": "febaf4320edd335a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecfaebda3b6dba8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ref/tlmd.amora.gemara.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "819b83b552397d4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ref/tlmd.amora.gemara.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee853e43d9b1237a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ef2aa3cc9945f9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ref/tlmd.amora.gemara.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4082cb6bed2633dc",
+  "lastOpenFiles": [
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/idols.md",
+    "Ref/tlmd.tanna.mishnah.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/a'jamī/A'jamī_Foreign_words_vocab_in_quran.md",
+    "Ref/clmnt.md",
+    "Ref/clmnt.sync-conflict-20240704-192259-RXT2P7M.md",
+    "Ref/clmnt.sync-conflict-20240704-171405-AFLIAW3.md",
+    "Ref/~syncthing~clmnt.md.tmp",
+    "Ref/~syncthing~clmnt.sync-conflict-20240704-171405-AFLIAW3.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sihr/spirituals.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jhd/jhd.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/God's very own argument.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fadl/Fadl_muhammad_khalisa_awla.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/~syncthing~zann.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/~syncthing~Science_claims.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/zann.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/Zann1.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/~syncthing~God's very own argument.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/~syncthing~Zann1.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sihr/~syncthing~spirituals.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/~syncthing~shirk.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/firawn_taghut.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/firawn_taghut_3.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/~syncthing~firawn_taghut.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nisa/nisa.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.sync-conflict-20240622-140234-AFLIAW3.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/~syncthing~shirk.sync-conflict-20240622-140234-AFLIAW3.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.sync-conflict-20240622-012937-AFLIAW3.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/awla_al_ul_khass_khalisah/Fadl.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fadl/fadl.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/hikmah/Naskh.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ruh/ruh.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nisa/nisa.sync-conflict-20240621-132201-AFLIAW3.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jhd/jhd_qtl.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jhd/ahl_kitab.md"
+  ]
+}

@@ -1,0 +1,1 @@
+There is no scientific discipline that hasn't benefitted from computer science. But more than any other philosophical questions have gotten ever closer to answering it's most important questions, even if those answers turn out to be even further questions.

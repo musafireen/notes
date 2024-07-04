@@ -1,0 +1,1 @@
+Nation can only rejuvenation after their 4 generation cycle through mass migration by being forced to leave and unite

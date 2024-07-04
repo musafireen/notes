@@ -1,0 +1,3 @@
+Any perception of good in life is from comparison, people think their life is good in comparison to others, or in comparison to how one used to live. This is not evidence of real good in life, but an illusion. Good of life needs to be measured irrespective of perception.
+
+But does it mean that man does not have the capacity or ability to enjoy and appreciate a life if it is truly good, devoid of any suffering or necessities. That is what some pro-demiurge want you to believe. They want you to feel what you are designed to feel and do what you are designed to do.

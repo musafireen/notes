@@ -1,0 +1,1 @@
+People fighting for this or that goal projecting their view on uninterested parties

@@ -1,0 +1,1 @@
+People uncontrollably laughs at more jokes when their minds cannot resoove paradox quick enough

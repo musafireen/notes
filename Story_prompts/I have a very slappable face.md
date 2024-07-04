@@ -1,0 +1,1 @@
+But it's okay, because I chose it. I have started the process several lifetimes ago, and only now do I remember my previous life after having attained my goal.

@@ -1,0 +1,5 @@
+Rigveda, one of the oldest Hindu texts, contains references to a monkey god named Vrishakapi, who is thought to be an early precursor to Hanuman.
+
+Some indigenous communities in India have their own distinct traditions of monkey worship that are believed to predate the incorporation of Hanuman into the Brahmanic canon. For example, the Malasar tribe of Tamil Nadu in southern India worship a monkey god named Malaiappan, who is believed to protect the forests and the animals that live in them.
+
+It is worth noting that the worship of Hanuman and other monkey deities has evolved over time and has been shaped by many different cultural and social factors. While the worship of Hanuman is now a prominent feature of the Hindu tradition, it has also been influenced by indigenous traditions and practices.

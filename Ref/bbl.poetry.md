@@ -1,0 +1,178 @@
+# job
+## c1
+### 6
+וַיְהִ֣י הַיּ֔וֹם וַיָּבֹ֙אוּ֙ בְּנֵ֣י הָאֱלֹהִ֔ים לְהִתְיַצֵּ֖ב עַל־יְהוָ֑ה וַיָּב֥וֹא גַֽם־הַשָּׂטָ֖ן בְּתוֹכָֽם ׃
+### 7
+וַיֹּ֧אמֶר יְהוָ֛ה אֶל־הַשָּׂטָ֖ן מֵאַ֣יִן תָּבֹ֑א וַיַּ֨עַן הַשָּׂטָ֤ן אֶת־יְהוָה֙ וַיֹּאמַ֔ר מִשּׁ֣וּט בָּאָ֔רֶץ וּמֵֽהִתְהַלֵּ֖ךְ בָּֽהּ ׃
+## c2
+### 7
+וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵאֵ֖ת פְּנֵ֣י יְהוָ֑ה וַיַּ֤ךְ אֶת־אִיּוֹב֙ בִּשְׁחִ֣ין רָ֔ע מִכַּ֥ף רַגְל֖וֹ עד קָדְקֳדֽוֹ ׃
+## c3
+### 3
+יֹ֣אבַד י֭וֹם אִוָּ֣לֶד בּ֑וֹ וְהַלַּ֥יְלָה אָ֝מַ֗ר הֹ֣רָה גָֽבֶר ׃
+
+Let the day perish wherein I was born, and the night [in which] it was said, There is a man child conceived.
+### 11
+לָ֤מָּה לֹּ֣א מֵרֶ֣חֶם אָמ֑וּת מִבֶּ֖טֶן יָצָ֣אתִי וְאֶגְוָֽע
+
+Why died I not from the womb ? [why] did I [not] give up the ghost when I came out of the belly ?
+### 13
+כִּֽי־עַ֭תָּה שָׁכַ֣בְתִּי וְאֶשְׁק֑וֹט יָ֝שַׁ֗נְתִּי אָ֤ז ׀ יָנ֬וּחַֽ לִֽי ׃
+
+For now should I have lain still and been quiet, I should have slept: then had I been at rest,
+
+## c14
+### 10
+וְגֶ֣בֶר יָ֭מוּת וַֽיֶּחֱלָ֑שׁ וַיִּגְוַ֖ע אָדָ֣ם וְאַיּֽוֹ ׃
+
+But man dieth, and wasteth away: yea, man giveth up the ghost, and where [is] he?
+### 11
+אָֽזְלוּ־מַ֭יִם מִנִּי־יָ֑ם וְ֝נָהָ֗ר יֶחֱרַ֥ב וְיָבֵֽשׁ ׃
+
+[As] the waters fail from the sea, and the flood decayeth and drieth up:
+### 12
+וְאִ֥ישׁ שָׁכַ֗ב וְֽלֹא־יָ֫ק֥וּם עַד־בִּלְתִּ֣י שָׁ֭מַיִם לֹ֣א יָקִ֑יצוּ וְלֹֽא־יֵ֝עֹ֗רוּ מִשְּׁנָתָֽם ׃
+
+So man lieth down, and riseth not: till the heavens [be] no more, they shall not awake, nor be raised out of their sleep.
+# psalms
+## c16
+### 10
+כִּ֤י ׀ לֹא־תַעֲזֹ֣ב נַפְשִׁ֣י לִשְׁא֑וֹל לֹֽא־תִתֵּ֥ן חֲ֝סִידְךָ֗ לִרְא֥וֹת שָֽׁחַת ׃
+
+For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.
+## c21
+### 12
+כִּי־נָט֣וּ עָלֶ֣יךָ רָעָ֑ה חָֽשְׁב֥וּ מְ֝זִמָּ֗ה בַּל־יוּכָֽלוּ ׃
+
+οτι θησεις αυτους νωτον εν τοις περιλοιποις σου ετοιμασεις το προσωπον αυτων
+
+Therefore shalt thou make them turn their back, [when] thou shalt make ready [thine arrows] upon thy strings against the face of them.(shalt thou…: or, thou shalt set them as a butt)
+## c18
+### 4
+מְ֭הֻלָּל אֶקְרָ֣א יְהוָ֑ה וּמִן־אֹ֝יְבַ֗י אִוָּשֵֽׁעַ ׃
+
+περιεσχον με ωδινες θανατου και χειμαρροι ανομιας εξεταραξαν με
+
+The sorrows of death compassed me, and the floods of ungodly men made me afraid.
+## c51
+### 5
+כִּֽי־פְ֭שָׁעַי אֲנִ֣י אֵדָ֑ע וְחַטָּאתִ֖י נֶגְדִּ֣י תָמִֽיד ׃
+
+Behold, I was shapen in iniquity; and in sin did my mother conceive me.
+## c68
+### 18
+רֶ֤כֶב אֱלֹהִ֗ים רִבֹּתַ֣יִם אַלְפֵ֣י שִׁנְאָ֑ן אֲדֹנָ֥י בָ֝֗ם סִינַ֥י בַּקֹּֽדֶשׁ ׃
+
+ανεβης εις υψος ηχμαλωτευσας αιχμαλωσιαν ελαβες δοματα εν ανθρωπω και γαρ απειθουντες του κατασκηνωσαι κυριος ο θεος ευλογητος
+
+Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, [for] the rebellious also, that the LORD God might dwell [among them].
+## c78
+### 49
+יְשַׁלַּח־בָּ֨ם ׀ חֲר֬וֹן אַפּ֗וֹ עֶבְרָ֣ה וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים ׃
+
+εξαπεστειλεν εις αυτους οργην θυμου αυτου θυμον και οργην και θλιψιν αποστολην δι αγγελων πονηρων
+
+He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels [among them].
+## c82
+### 1
+מִזְמ֗וֹר לְאָ֫סָ֥ף אֱֽלֹהִ֗ים נִצָּ֥ב בַּעֲדַת־אֵ֑ל בְּקֶ֖רֶב אֱלֹהִ֣ים יִשְׁפֹּֽט ׃
+
+ψαλμος τω ασαφ ο θεος εστη εν συναγωγη θεων εν μεσω δε θεους διακρινει
+
+A Psalm of Asaph. God standeth in the congregation of the mighty; he judgeth among the gods.
+### 6
+אֲֽנִי־אָ֭מַרְתִּי אֱלֹהִ֣ים אַתֶּ֑ם וּבְנֵ֖י עֶלְי֣וֹן כֻּלְּכֶֽם ׃
+
+εγω ειπα θεοι εστε και υιοι υψιστου παντες
+
+I have said, Ye [are] gods; and all of you [are] children of the most High.
+
+## c84
+### 5
+אַ֭שְׁרֵי יוֹשְׁבֵ֣י בֵיתֶ֑ךָ ע֝֗וֹד יְֽהַלְל֥וּךָ סֶּֽלָה ׃
+
+Blessed [is] the man whose strength [is] in thee; in whose heart [are] the ways [of them].
+## c97
+### 2
+עָנָ֣ן וַעֲרָפֶ֣ל סְבִיבָ֑יו צֶ֥דֶק וּ֝מִשְׁפָּ֗ט מְכ֣וֹן כִּסְאֽוֹ ׃
+
+νεφελη και γνοφος κυκλω αυτου δικαιοσυνη και κριμα κατορθωσις του θρονου αυτου
+
+Clouds and darkness [are] round about him: righteousness and judgment [are] the habitation of his throne.
+### 7
+יֵבֹ֤שׁוּ ׀ כָּל־עֹ֬בְדֵי פֶ֗סֶל הַמִּֽתְהַלְלִ֥ים בָּאֱלִילִ֑ים הִשְׁתַּחֲווּ־ל֝וֹ כָּל־אֱלֹהִֽים ׃
+
+αισχυνθητωσαν παντες οι προσκυνουντες τοις γλυπτοις οι εγκαυχωμενοι εν τοις ειδωλοις αυτων προσκυνησατε αυτω παντες οι αγγελοι αυτου
+
+Confounded be all they that serve graven images, that boast themselves of idols: worship him, all [ye] gods.
+
+## c105
+### 28
+שָׁ֣לַֽח חֹ֭שֶׁךְ וַיַּחְשִׁ֑ךְ וְלֹֽא־מָ֝ר֗וּ אֶת־דברוו ׃
+
+He sent darkness, and made it dark; and they rebelled not against his word.
+
+## c148
+
+### 7
+
+הַֽלְל֣וּ אֶת־יְ֭הוָה מִן־הָאָ֑רֶץ תַּ֝נִּינִ֗ים וְכָל־תְּהֹמֽוֹת ׃
+
+Praise the LORD from the earth, ye dragons, and all deeps:
+
+### 8
+אֵ֣שׁ וּ֭בָרָד שֶׁ֣לֶג וְקִיט֑וֹר ר֥וּחַ סְ֝עָרָ֗ה עֹשָׂ֥ה דְבָרֽוֹ ׃
+
+Fire, and hail; snow, and vapour; stormy wind fulfilling his word:
+
+### 9
+הֶהָרִ֥ים וְכָל־גְּבָע֑וֹת עֵ֥ץ פְּ֝רִ֗י וְכָל־אֲרָזִֽים ׃
+
+Mountains, and all hills; fruitful trees, and all cedars:
+
+### 10
+הַֽחַיָּ֥ה וְכָל־בְּהֵמָ֑ה רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף ׃
+
+Beasts, and all cattle; creeping things, and flying fowl:
+
+# prov
+## c1
+### 12
+נִ֭בְלָעֵם כִּשְׁא֣וֹל חַיִּ֑ים וּ֝תְמִימִ֗ים כְּי֣וֹרְדֵי בֽוֹר ׃
+
+Let us swallow them up alive as the grave; and whole, as those that go down into the pit:
+## c14
+### 22
+הֲֽלוֹא־יִ֭תְעוּ חֹ֣רְשֵׁי רָ֑ע וְחֶ֥סֶד וֶ֝אֱמֶ֗ת חֹ֣רְשֵׁי טֽוֹב ׃
+
+πλανωμενοι τεκταινουσι κακα ελεον δε και αληθειαν τεκταινουσιν αγαθοι ουκ επιστανται ελεον και πιστιν τεκτονες κακων ελεημοσυναι δε και πιστεις παρα τεκτοσιν αγαθοις
+
+Do they not err that devise evil ? but mercy and truth [shall be] to them that devise good.
+
+# eccl
+## c2
+### 8
+כָּנַ֤סְתִּי לִי֙ גַּם־כֶּ֣סֶף וְזָהָ֔ב וּסְגֻלַּ֥ת מְלָכִ֖ים וְהַמְּדִינ֑וֹת עָשִׂ֨יתִי לִ֜י שָׁרִ֣ים וְשָׁר֗וֹת וְתַעֲנוּגֹ֛ת בְּנֵ֥י הָאָדָ֖ם שִׁדָּ֥ה וְשִׁדּֽוֹת ׃
+
+συνηγαγον μοι και γε αργυριον και χρυσιον και περιουσιασμους βασιλεων και των χωρων εποιησα μοι αδοντας και αδουσας και εντρυφηματα υιων του ανθρωπου οινοχοον και οινοχοαςr
+
+I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, [as] musical instruments, and that of all sorts.
+## c4
+### 1
+וְשַׁ֣בְתִּֽי אֲנִ֗י וָאֶרְאֶה֙ אֶת־כָּל־הָ֣עֲשֻׁקִ֔ים אֲשֶׁ֥ר נַעֲשִׂ֖ים תַּ֣חַת הַשָּׁ֑מֶשׁ וְהִנֵּ֣ה ׀ דִּמְעַ֣ת הָעֲשֻׁקִ֗ים וְאֵ֤ין לָהֶם֙ מְנַחֵ֔ם וּמִיַּ֤ד עֹֽשְׁקֵיהֶם֙ כֹּ֔חַ וְאֵ֥ין לָהֶ֖ם מְנַחֵֽם ׃
+
+So I returned, and considered all the oppressions that are done under the sun: and behold the tears of [such as were] oppressed, and they had no comforter; and on the side of their oppressors [there was] power; but they had no comforter.
+### 2
+וְשַׁבֵּ֧חַ אֲנִ֛י אֶת־הַמֵּתִ֖ים שֶׁכְּבָ֣ר מֵ֑תוּ מִן־הַ֣חַיִּ֔ים אֲשֶׁ֛ר הֵ֥מָּה חַיִּ֖ים עֲדֶֽנָה ׃
+
+Wherefore I praised the dead which are already dead more than the living which are yet alive.
+### 3
+וְטוֹב֙ מִשְּׁנֵיהֶ֔ם אֵ֥ת אֲשֶׁר־עֲדֶ֖ן לֹ֣א הָיָ֑ה אֲשֶׁ֤ר לֹֽא־רָאָה֙ אֶת־הַמַּעֲשֶׂ֣ה הָרָ֔ע אֲשֶׁ֥ר נַעֲשָׂ֖ה תַּ֥חַת הַשָּֽׁמֶשׁ ׃
+
+Yea, better [is he] than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.
+## c7
+### 1
+ט֥וֹב שֵׁ֖ם מִשֶּׁ֣מֶן ט֑וֹב וְי֣וֹם הַמָּ֔וֶת מִיּ֖וֹם הִוָּלְדֽוֹ
+
+A good name is better than precious oil; and the day of death, than the day of one´s birth.
+# song of songs

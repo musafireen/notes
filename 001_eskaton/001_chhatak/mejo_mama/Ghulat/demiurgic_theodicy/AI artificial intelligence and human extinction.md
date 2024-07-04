@@ -1,0 +1,1 @@
+Earliest known myth talk about humans being created by beings superior to humans who 

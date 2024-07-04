@@ -1,0 +1,1 @@
+If, instead of sending one book per person, customized to effectively convince them personally, God decided to send only one text for all of humanity for all times, then that one book has to be very special, it has to be equally intelligible and equally convincing to anyone at any point in history.

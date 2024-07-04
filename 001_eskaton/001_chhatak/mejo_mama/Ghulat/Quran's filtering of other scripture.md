@@ -1,0 +1,1 @@
+Is everything that is in other scriptures but not in quran zann ot shairs?

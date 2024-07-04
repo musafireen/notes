@@ -1,0 +1,1 @@
+Most people don't want to talk seriously about anything. They want to laugh about as much thing as possible. The only thing they take seriously is their own lives, things that affect them personally.

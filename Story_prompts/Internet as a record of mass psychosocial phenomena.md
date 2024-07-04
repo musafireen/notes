@@ -1,0 +1,1 @@
+Phenomenon of validation of the miserablel

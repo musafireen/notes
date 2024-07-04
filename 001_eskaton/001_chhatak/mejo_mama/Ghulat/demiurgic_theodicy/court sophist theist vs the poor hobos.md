@@ -1,0 +1,1 @@
+sophist tricks and impresses king with fallacious words, selling hope of theodicy, 

@@ -1,0 +1,1 @@
+sophists forced to trick aristocrats

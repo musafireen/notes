@@ -1,0 +1,2 @@
+Islam extinguish other religions by pretending to offer what those religions actually offer:
+Islam extinguished manichaeism by monopolizing, setting up orphanages and orphan activism, in modern age as islam has stopped the importance of orphanages and embraced prosperity gospel, manichaean and gnostic teachings are coming back

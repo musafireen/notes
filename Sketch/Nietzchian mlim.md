@@ -1,0 +1,1 @@
+Nietzchian mlim who wants to gain all the powers and uses it as a lease from god to do what God wants

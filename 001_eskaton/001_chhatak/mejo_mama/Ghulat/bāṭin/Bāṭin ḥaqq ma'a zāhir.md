@@ -1,0 +1,1 @@
+The ambiguous nature of arabic and other languages point to god intending double meaning

@@ -1,0 +1,1 @@
+In crete, lied about failing to raid nile delta and becoming civilized by them :odyssey.14

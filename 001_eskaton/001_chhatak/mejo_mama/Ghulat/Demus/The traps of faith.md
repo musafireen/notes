@@ -1,0 +1,1 @@
+Faith serves completely worldly purpose, mostly political, administrative

@@ -1,0 +1,5 @@
+Guru said Agnipath protesters wouldn't resort to arson if they did yoga. While I do think yoga is good for your body, possibly also your mind, but for your morality? That's debatable.
+
+More importantly do yoga shastras propose to make people less violent? Because if they do, they are definitely contradicting their own definition of yoga, which proposes to unite practitioners with gods? Don't unity with god make people more like gods? If they do they would make at least some of them more violent. Or are they talking about only certain gods who are not violent? Do the popular yoga practices unite with only peaceful gods?
+
+In Islam there is no peaceful gods. There is only one god and everything is his will. The wildfires are not caused by some free-willed jinn. It's all down to Allah. So for Islam definitely unity with god wouldn't make anyone peaceful. At best they will have a peacrful mind unperturbed by the external suffering caused by their action or carelessness.

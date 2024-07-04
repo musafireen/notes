@@ -1,0 +1,1 @@
+A villain who goes around forgiving people for heinous crimes, and gather the forgiven to attack anyone who attacks the forgiver

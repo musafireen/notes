@@ -1,0 +1,1 @@
+Universes with certain initial conditions come to exist if their final condition leads to their initial condition

@@ -1,0 +1,3 @@
+When you stop believing in islam you merely reject islam from implanting new ideas into your head, but it does not automatically remove all the weed that islam has planted in your mind. Some of these weeds cause you to act in certain ways that benefit islam without you knowing it. You might even think they are harmless. You have to recognize and uproot these weeds individually. This is a long process.
+
+Islam plants the seeds in your mind to collect the fruit. When you reject islam, the plants are still there. You dump the fruits out for anyone to take advantage of it. And a lot of the times it os the same muslims.

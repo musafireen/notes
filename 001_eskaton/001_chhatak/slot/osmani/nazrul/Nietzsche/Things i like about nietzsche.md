@@ -1,0 +1,1 @@
+ Before being inspired into action, I want to know they are inspired by the same spirit that inspires me, so that I don't waste my time. So it is a good idea that nietzsche gives a warning in his work. He isn't inspired to search the truth, but to will to power /life. I'm motivated by will to disempower.

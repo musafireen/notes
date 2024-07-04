@@ -1,0 +1,1 @@
+Buddhist on the way to emperor, dreaming about the possibility of becoming big, died of small accident, his unfulfilled dream messes with the dream of a woman

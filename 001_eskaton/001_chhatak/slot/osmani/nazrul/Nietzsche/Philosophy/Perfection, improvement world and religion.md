@@ -1,0 +1,1 @@
+Improvement is enough. But religions insists that their revered figures are already perfect.

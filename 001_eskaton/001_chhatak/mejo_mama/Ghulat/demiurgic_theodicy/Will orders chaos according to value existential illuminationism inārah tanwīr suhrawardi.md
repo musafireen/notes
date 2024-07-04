@@ -1,0 +1,1 @@
+Value is about changing paths to valued things. Both forging easier path to the valued things, and destroying the path created by others with opposite values that destroys the valued things.

@@ -1,0 +1,4 @@
+
+Everybody likes challenges as long as the stakes are low enough. Give yourself a challenge.  Everytime you have a strong opinion, make the case for it, then try to poke holes in it. Don't announce your conviction to the world or seek people who have similar convictions right away. First see what your own mind can bring to the table. Then first go seek people who think opposite. But even if you get convinced the opposite don't announce your conviction. Suspend your belief and go to people who has your original conviction. See if they can bring arguments that you didn't come up with at first.
+
+Spend equal energy to both side. Don't get socially invested on either side, or you will get stuck.

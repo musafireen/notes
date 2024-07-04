@@ -1,0 +1,1 @@
+They accuse the resentful of dualism yet they view human so separate from nature and god that they deem the god not responsible fro the evil of human action

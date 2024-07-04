@@ -1,0 +1,1 @@
+Omniscient Aliens come to bd, first question kid asks is "which direction do you pray? Who is the best man in the universe?"

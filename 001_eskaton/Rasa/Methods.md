@@ -1,0 +1,1 @@
+Ending of story not self-explanatory, every element refers back to some super-key scenes, whose elements refer back to key scenes whose elements refer back to sub-key scenes

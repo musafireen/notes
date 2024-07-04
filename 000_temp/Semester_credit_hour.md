@@ -1,0 +1,3 @@
+4 yr bachelors = 4 yrs x 3 semesters = 12 semesters x 14 weeks =  168 weeks x 5 courses = 168 weeks x 5 courses x 3 credit hours = 168 weeks x 5 courses x 12 hrs (3 hour class + 9 hour extra) = 168 weeks x 60 hrs = 10,080 hrs
+
+$552.62 per credit hours => $552.62/credit hr x 5 course/semester x 3.5 (avg) credit/course = $9,553/sem = bdt 9,55,300/sem => 9,55,300/sem x 3 = $28,659/yr = bdt 28,65,900/yr => $28,659 x 4 yrs = $114,636 = bdt 1,14,63,600
