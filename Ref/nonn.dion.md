@@ -1,5 +1,4 @@
 
-
 # b1
 – The poem opens with the poet's invocation of the muses, his address to Proteus, and his commitment to sing the various episodes of Dionysus' life in a varied style (stylistic concept of ποικιλία, poikilia). The narrative starts with the origins of Dionysus: Zeus kidnaps Europa and her father orders Cadmus (Dionysus' maternal grandfather) to search for her. While Zeus is distracted making love to the nymph Plouto, the monster Typhon, following orders of his mother, the Earth, steals Zeus' weapons (the thunderbolts) and tries to dominate the world causing chaos and destruction wherever he goes. Zeus is now making love to Europa, but when he realises the dire situation calls Pan, Eros and Cadmus for help: Pan provides Cadmus with a pastoral disguise and he is supposed to charm Typhon with a pastoral song and Eros' help, while Zeus recovers his weapons. Typhon is so charmed by Cadmus' song that he promises him whatever he wants in exchange for it, not understanding that Cadmus is actually singing how he is defeated by Zeus.
 
@@ -26,6 +25,12 @@ The statue of Hermes and baby Dionysus by Praxiteles from Olympia.
 Bacchus and Ampelos by Francesco Righetti (1782)
 
 Bacchus with leopard (1878) by Johann Wilhelm Schütze
+
+## c165
+## c169
+Titan gypsum disguise
+## c173
+
 # b7
 – Life on earth is miserable. Aion, god of time, begs Zeus to ease mortal life. Zeus predicts that the birth of Dionysus will change everything. Eros makes Zeus fall in love with Semele. The girl wakes up after a horrible nightmare predicting her death, consumed by the thunderbolt, and is told to sacrifice to Zeus to avert the omen. Spattered by the victim's blood she bathes naked in a river nearby, where Zeus spots her beauty and falls madly in love with her. That night Zeus joins Semele in her bed and metamorphoses into different animals during the courtship.
 
@@ -90,6 +95,8 @@ Bacchus in his panther-drawn chariot (3rd-century mosaic from Seville).
 
 
 Wilhelm Friedrich Gmelin after Claude Lorrain, Landscape with Bacchus at the Palace of the Dead Staphylus, 1805, etching and engraving
+
+## c48
 # b25 
 – The poet invokes the Muse in his second proem, saying that in emulation of Homer he will skip over the first six years of the war. Comparison of Dionysus' deeds with those of Perseus, Minos, and Heracles, concluding that Dionysus is better than the heroes. Return to the main narrative: the Ganges, Deriades and the Indian people are scared by a number of Bacchic miracles. Dionysus is angry because Hera is delaying his victory. Rhea sends Attis to visit Dionysus and give him a shield that will protect him in battle and promises that he will conquer the city of the Indians in the seventh year of the war. Description of the shield, covered with constellations and adorned with a number of scenes: foundation of Thebes, Ganymede and Zeus and the Lydian myth of Tylos.
 
@@ -113,6 +120,7 @@ A mosaic of Dionysus fighting the Indians in the Palazzo Massimo at Rome.
 # b31 
 – Hera goes to Persephone and tricks her into lending her the services of a Fury, Megaira, whom she instructs to madden Dionysus. Hera also instructs Iris to persuade Hypnus to cause Zeus to sleep, claiming that as god of nocturnal revels, Dionysus is his natural enemy, and that he should not risk angering Hera, the mother of his beloved Pasithea. Hera borrows Aphrodite's girdle, the cestus, in order to seduce Zeus.
 
+## c48
 # b32 
 – Hera charms Zeus with the girdle, they make love, and while Zeus sleeps Megaira drives Dionysus mad. In the absence of Dionysus, Deriades and Morrheus rout the Bacchantes. The Bacchic army panics.
 
@@ -134,6 +142,7 @@ A mosaic of Dionysus fighting the Indians in the Palazzo Massimo at Rome.
 # b38 
 – Two omens foretell Dionysus' victory, first a solar eclipse and then an eagle (i.e. Dionysus) throwing a serpent (i.e. Deriades) to the river. The first of them is interpreted by the seer Idmon, the second by Hermes, who tells at length the story of Phaethon from his genealogy to his death and catasterism.
 
+## c209
 # b39 
 – The sea-battle begins on the arrival of Dionysus' brand-new fleet. Deriades and Dionysus harangue their troops, and Aeacus and Erechtheus ask the gods for help. The narrative of the battle is dominated by descriptions of carnage until the Indians are routed by a burning ship sent into their line. Deriades flees.
 

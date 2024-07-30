@@ -33,3 +33,15 @@ And I heard a man´s voice between [the banks of] Ulai, which called, and said, 
 וַיָּבֹא֙ אֵ֣צֶל עָמְדִ֔י וּבְבֹא֣וֹ נִבְעַ֔תִּי וָאֶפְּלָ֖ה עַל־פָּנָ֑י וַיֹּ֤אמֶר אֵלַי֙ הָבֵ֣ן בֶּן־אָדָ֔ם כִּ֖י לְעֶת־קֵ֥ץ הֶחָזֽוֹן ׃
 
 So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end [shall be] the vision.
+
+## c9
+### 27
+וְהִגְבִּ֥יר בְּרִ֛ית לָרַבִּ֖ים שָׁב֣וּעַ אֶחָ֑ד וַחֲצִ֨י הַשָּׁב֜וּעַ יַשְׁבִּ֣ית ׀ זֶ֣בַח וּמִנְחָ֗ה וְעַ֨ל כְּנַ֤ף שִׁקּוּצִים֙ מְשֹׁמֵ֔ם וְעַד־כָּלָה֙ וְנֶ֣חֱרָצָ֔ה תִּתַּ֖ךְ עַל־שֹׁמֵֽם ׃ פ
+
+And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make [it] desolate, even until the consummation, and that determined shall be poured upon the desolate. (the covenant: or, a covenant)(for the…: or, with the abominable armies)
+
+## c11
+### 31
+וּזְרֹעִ֖ים מִמֶּ֣נּוּ יַעֲמֹ֑דוּ וְחִלְּל֞וּ הַמִּקְדָּ֤שׁ הַמָּעוֹז֙ וְהֵסִ֣ירוּ הַתָּמִ֔יד וְנָתְנ֖וּ הַשִּׁקּ֥וּץ מְשׁוֹמֵֽם ׃
+
+And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily [sacrifice], and they shall place the abomination that maketh desolate.

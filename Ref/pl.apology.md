@@ -1,3 +1,4 @@
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0169%3atext%3dApol.
 
 # 18a
 [18](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0169%3Atext%3DApol.%3Asection%3D18a)
@@ -205,6 +206,10 @@ Now from this investigation, men of Athens,
 • μοι
 it profits me, is better for me
 
+# 29e
+ἣ ἄλλ᾽ ὁτιοῦν πρᾶγμα λίποιμι τὴν τάξιν. δεινόν τἂν εἴη, καὶ ὡς ἀληθῶς τότ᾽ ἄν με δικαίως εἰσάγοι τις εἰς δικαστήριον, ὅτι οὐ νομίζω θεοὺς εἶναι ἀπειθῶν τῇ μαντείᾳ καὶ δεδιὼς θάνατον καὶ οἰόμενος σοφὸς εἶναι οὐκ ὤν. τὸ γάρ τοι θάνατον δεδιέναι, ὦ ἄνδρες, οὐδὲν ἄλλο ἐστὶν ἢ δοκεῖν σοφὸν εἶναι μὴ ὄντα: δοκεῖν γὰρ εἰδέναι ἐστὶν ἃ οὐκ οἶδεν. οἶδε μὲν γὰρ οὐδεὶς τὸν θάνατον οὐδ᾽ εἰ τυγχάνει τῷ ἀνθρώπῳ πάντων μέγιστον ὂν τῶν ἀγαθῶν, δεδίασι δ᾽ ὡς εὖ εἰδότες
+
+then I were to desert my post through fear of death or anything else whatsoever. It would be a terrible thing, and truly one might then justly hale me into court, on the charge that I do not believe that there are gods, since I disobey the oracle and fear death and think I am wise when I am not. For to fear death, gentlemen, is nothing else than to think one is wise when one is not; for it is thinking one knows what one does not know. For no one knows whether death be not even the greatest of all blessings to man, but they fear it as if they knew that it is the greatest of evils.
 # 30d
 εἶναι ἀμείνονι ἀνδρὶ ὑπὸ χείρονος βλάπτεσθαι. ἀποκτείνειε μεντἂν ἴσως ἢ ἐξελάσειεν ἢ ἀτιμώσειεν: ἀλλὰ ταῦτα οὗτος μὲν ἴσως οἴεται καὶ ἄλλος τίς που μεγάλα κακά, ἐγὼ δ᾽ οὐκ οἴομαι, ἀλλὰ πολὺ μᾶλλον ποιεῖν ἃ οὑτοσὶ νῦν ποιεῖ, ἄνδρα ἀδίκως ἐπιχειρεῖν ἀποκτεινύναι. νῦν οὖν, ὦ ἄνδρες Ἀθηναῖοι, πολλοῦ δέω ἐγὼ ὑπὲρ ἐμαυτοῦ ἀπολογεῖσθαι, ὥς τις ἂν οἴοιτο, ἀλλὰ ὑπὲρ ὑμῶν, μή τι ἐξαμάρτητε περὶ τὴν τοῦ
 
@@ -273,6 +278,8 @@ to ask payment
 # 32b
 πώποτε ἦρξα ἐν τῇ πόλει, ἐβούλευσα δέ: καὶ ἔτυχεν ἡμῶν ἡ φυλὴ Ἀντιοχὶς πρυτανεύουσα ὅτε ὑμεῖς τοὺς δέκα στρατηγοὺς τοὺς οὐκ ἀνελομένους τοὺς ἐκ τῆς ναυμαχίας ἐβουλεύσασθε ἁθρόους κρίνειν, παρανόμως, ὡς ἐν τῷ ὑστέρῳ χρόνῳ πᾶσιν ὑμῖν ἔδοξεν. τότ᾽ ἐγὼ μόνος τῶν πρυτάνεων ἠναντιώθην ὑμῖν μηδὲν ποιεῖν παρὰ τοὺς νόμους καὶ ἐναντία ἐψηφισάμην: καὶ ἑτοίμων ὄντων ἐνδεικνύναι με καὶ ἀπάγειν τῶν ῥητόρων, καὶ ὑμῶν κελευόντων καὶ βοώντων, μετὰ τοῦ
 
+I, men of Athens, never held any other office in the state, but I was a senator; and it happened that my tribe held the presidency when you wished to judge collectively, not severally, the ten generals who had failed to gather up the slain after the naval battle; this was illegal, as you all agreed afterwards. At that time I was the only one of the prytanes who opposed doing anything contrary to the laws, and although the orators were ready to impeach and arrest me, and though you urged them with shouts to do so, I thought
+
 • ἀρχὴν 
 • ἄρχω
 to hold an office
@@ -291,6 +298,8 @@ to vote against
 
 # 32c
 νόμου καὶ τοῦ δικαίου ᾤμην μᾶλλόν με δεῖν διακινδυνεύειν ἢ μεθ᾽ ὑμῶν γενέσθαι μὴ δίκαια βουλευομένων, φοβηθέντα δεσμὸν ἢ θάνατον. καὶ ταῦτα μὲν ἦν ἔτι δημοκρατουμένης τῆς πόλεως: ἐπειδὴ δὲ ὀλιγαρχία ἐγένετο, οἱ τριάκοντα αὖ μεταπεμψάμενοί με πέμπτον αὐτὸν εἰς τὴν θόλον προσέταξαν ἀγαγεῖν ἐκ Σαλαμῖνος Λέοντα τὸν Σαλαμίνιον ἵνα ἀποθάνοι, οἷα δὴ καὶ ἄλλοις ἐκεῖνοι πολλοῖς πολλὰ προσέταττον, βουλόμενοι ὡς πλείστους ἀναπλῆσαι αἰτιῶν. τότε μέντοι ἐγὼ
+
+I must run the risk to the end with law and justice on my side, rather than join with you when your wishes were unjust, through fear of imprisonment or death. That was when the democracy still existed; and after the oligarchy was established, the Thirty sent for me with four others to come to the rotunda and ordered us to bring Leon the Salaminian from Salamis to be put to death. They gave many such orders to others also, because they wished to implicate as many in their crimes as they could. Then I, however,
 
 • θόλος, ου, ἡ
 round building with conical roof, rotunda
@@ -319,6 +328,11 @@ if that not be too rude an expression
 
 • ἀνόσιος, ον
 unholy, profane
+
+# 33e
+[33ε] καὶ δημότης, Κριτοβούλου τοῦδε πατήρ, ἔπειτα Λυσανίας ὁ Σφήττιος, Αἰσχίνου τοῦδε πατήρ, ἔτι δ᾽ Ἀντιφῶν ὁ Κηφισιεὺς οὑτοσί, Ἐπιγένους πατήρ, ἄλλοι τοίνυν οὗτοι ὧν οἱ ἀδελφοὶ ἐν ταύτῃ τῇ διατριβῇ γεγόνασιν, Νικόστρατος Θεοζοτίδου, ἀδελφὸς Θεοδότου—καὶ ὁ μὲν Θεόδοτος τετελεύτηκεν, ὥστε οὐκ ἂν ἐκεῖνός γε αὐτοῦ καταδεηθείη—καὶ Παράλιος ὅδε, ὁ Δημοδόκου, οὗ ἦν Θεάγης ἀδελφός: ὅδε δὲ
+
+who is of my own age and my own deme and father of Critobulus, who is also present; then there is Lysanias the Sphettian, father of Aeschines, who is here; and also Antiphon of Cephisus, father of Epigenes. Then here are others whose brothers joined in my conversations, Nicostratus, son of Theozotides and brother of Theodotus (now Theodotus is dead, so he could not stop him by entreaties), and Paralus, son of Demodocus; Theages was his brother; and
 
 # 36b
 χιλίας δραχμάς, οὐ μεταλαβὼν τὸ πέμπτον μέρος τῶν ψήφων.

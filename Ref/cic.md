@@ -1,5 +1,37 @@
 
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D2%3Abook%3D4%3Asection%3D103
+
+https://www.attalus.org/translate/index.html
+# ortr
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.02.0120
+
+https://www.attalus.org/info/deoratore.html
+## b3
+### c137
+
+Sed ut ad Graecos referam orationem, quibus carere hoc quidem in sermonis genere non possumus —
+
+But to direct my remarks to the Greeks, (whom we cannot omit in a dissertation of this nature; 
+
+nam ut virtutis a nostris, sic doctrinae sunt ab illis exempla petenda—septem fuisse dicuntur uno tempore, qui sapientes et haberentur et vocarentur: 
+
+for as examples of virtue are to be sought among our own countrymen, so examples of learning are to be derived from them;) seven are said to have lived at one time, who were esteemed and called wise men. 
+
+hi omnes praeter Milesium Thalen civitatibus suis praefuerunt. 
+
+All these men, except Thales of Miletus, governed their respective cities. 
+
+Quis doctior eisdem temporibus illis aut cuius eloquentia litteris instructior fuisse traditur quam Pisistrati? 
+
+Whose learning is reported, at the same period, to have been greater, or whose eloquence to have received more ornament from literature, than that of Pisistratus? - 
+
+qui primus Homeri libros confusos antea sic disposuisse dicitur, ut nunc habemus. 
+
+who is said to have been the first that arranged the books of Homer as we now have them, when they were previously confused. 
+
+Non fuit ille quidem civibus suis utilis, sed ita eloquentia floruit, ut litteris doctrinaque praestaret.
+
+He was not indeed of any great service to the community, but was eminent for eloquence, and at the same time he excelled in erudition and liberal knowledge.
 # verr
 ## o2
 ### 4.103
@@ -7,7 +39,6 @@ https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Ate
  Insula est Melita, iudices, satis lato a Sicilia1 mari periculosoque diiuncta2; in qua est eodem nomine oppidum, quo iste numquam accessit, quod tamen3 isti textrinum per triennium ad muliebrem vestem conficiendam fuit. ab eo oppido non longe in promunturio fanum est Iunonis antiquum, quod tanta religione semper fuit ut non modo illis Punicis bellis quae in his fere locis navali copia gesta atque versata sunt, sed etiam hac4 praedonum multitudine semper inviolatum sanctumque fuerit. quin etiam hoc memoriae proditum est, classe quondam Masinissae regis ad eum locum adpulsa praefectum regium dentis eburneos incredibili magnitudine e fano sustulisse et eos in Africam portasse Masinissaeque donasse. Regem primo delectatum esse munere; post, ubi audisset unde essent, statim certos homines in quinqueremi misisse ui eos dentis reponerent5. itaque in iis scriptum6 litteris Punicis fuit regem Masinissam imprudentem accepisse, re cognita reportandos reponendosque7 curasse. erat praeterea magna vis eboris, multa ornamenta, in quibus eburneae victoriae antiquo opere ac summa arte perfectae.
 
 There is an island called Melita, O judges, separated from Sicily by a sufficiently wide and perilous navigation, in which there is a town of the same name, to which Verres never went, though it was for three years a manufactory to him for weaving women's garments. Not far from that town, on a promontory, is an ancient temple of Juno, which was always considered so holy, that it was not only always kept inviolate and sacred in those Punic wars, which in those regions were carried on almost wholly by the naval forces, but even by the bands of pirates which ravage those seas. Moreover, it has been handed down to us by tradition, that once, when the fleet of King Masinissa was forced to put into these ports, the king's lieutenant took away some ivory teeth of an incredible size out of the temple, and carried them into Africa, and gave them to Masinissa; that at first the king was delighted with the present, but afterwards, when he heard where they had come from, he immediately sent trustworthy men in a quinquereme to take those teeth back; and that there was engraved on them in Punic characters, “that Masinissa the king had accepted them ignorantly; but that, when he knew the truth, he had taken care that they should be replaced and restored.” There was besides an immense quantity of ivory, and many ornaments, among which were some ivory victories of ancient workmanship, and wrought with exquisite skill.
-
 # tusc
 https://www.gutenberg.org/files/14988/14988-h/14988-h.htm
 
@@ -95,3 +126,37 @@ But endless ages past unheard my moan,
 Sooner shall drops dissolve this very stone.32
 
 And therefore it scarcely seems possible to avoid calling a man who is suffering, miserable; and if he is miserable, then pain is an evil.
+
+# rep
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2007.01.0031
+
+https://www.attalus.org/info/republic.html
+## b6
+### c18
+Quae cum intuerer stupens, ut me recepi, Quid? hic, inquam, quis est, qui conplet aures meas tantus et tam dulcis sonus? 
+
+After recovering from the astonishment with which I viewed these wonders, I said : "What is this loud and agreeable sound that fills my ears ? " **    
+
+Hic est, inquit, ille, qui intervallis disiunctus inparibus, sed tamen pro rata parte ratione distinctis inpulsu et motu ipsorum orbium efficitur et acuta cum gravibus temperans varios aequabiliter concentus efficit; 
+
+"That is produced," he replied, "by the onward rush and motion of the spheres themselves; the intervals between them, though unequal, being exactly arranged in a fixed proportion, by an agreeable blending of high and low tones various harmonies are produced; 
+
+nec enim silentio tanti motus incitari possunt, et natura fert, ut extrema ex altera parte graviter, ex altera autem acute sonent. 
+
+for such mighty motions cannot be carried on so swiftly in silence; and Nature has provided that one extreme shall produce low tones while the other gives forth high. 
+
+Quam ob causam summus ille caeli stellifer cursus, cuius conversio est concitatior, acuto et excitato movetur sono, gravissimo autem hic lunaris atque infimus; 
+
+Therefore this uppermost sphere of heaven, which bears the stars, as it revolves more rapidly, produces a high, shrill tone, whereas the lowest revolving sphere, that of the Moon, gives forth the lowest tone ; 
+
+nam terra nona inmobilis manens una sede semper haeret complexa medium mundi locum. 
+
+for the earthly sphere, the ninth, remains ever motionless and stationary in its position in the centre of the universe. 
+
+Illi autem octo cursus, in quibus eadem vis est duorum, septem efficiunt distinctos intervallis sonos, qui numerus rerum omnium fere nodus est; 
+
+But the other eight spheres, two of which move with the same velocity, produce seven different sounds, - a number which is the key of almost everything. 
+
+quod docti homines nervis imitati atque cantibus aperuerunt sibi reditum in hunc locum, sicut alii, qui praestantibus ingeniis in vita humana divina studia coluerunt.
+
+Learned men, by imitating this harmony on stringed instruments and in song, have gained for themselves a return to this region, as others have obtained the same reward by devoting their brilliant intellects to divine pursuits during their earthly lives. 

@@ -1,0 +1,1 @@
+Are ancient wisdoms redeemable?

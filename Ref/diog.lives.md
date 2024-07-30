@@ -1,9 +1,98 @@
 
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D1%3Achapter%3D11
 # b1
+## c1
+### 4
+Τὸν δὲ Λίνον παῖδα εἶναι Ἑρμοῦ καὶ Μούσης Οὐρανίας: ποιῆσαι δὲ κοσμογονίαν, ἡλίου καὶ σελήνης πορείαν, καὶ ζῴων καὶ καρπῶν γενέσεις. τούτῳ ἀρχὴ τῶν ποιημάτων ἥδε:
+
+Linus again was (so it is said) the son of Hermes and the Muse Urania. He composed a poem describing the creation of the world, the courses of the sun and moon, and the growth of animals and plants. His poem begins with the line:
+
+ἦν ποτέ τοι χρόνος οὗτος, ἐν ᾧ ἅμα πάντ᾽ ἐπεφύκει.
+
+Time was when all things grew up at once;
+
+ὅθεν λαβὼν Ἀναξαγόρας πάντα ἔφη χρήματα
+
+γεγονέναι ὁμοῦ, νοῦν δὲ ἐλθόντα αὐτὰ διακοσμῆσαι. τὸν δὲ Λίνον τελευτῆσαι ἐν Εὐβοίᾳ τοξευθέντα ὑπ᾽ Ἀπόλλωνος, καὶ αὐτῷ ἐπιγεγράφθαι:
+
+and this idea was borrowed by Anaxagoras when he declared that all things were originally together until Mind came and set them in order. Linus died in Euboea, slain by the arrow of Apollo, and this is his epitaph3:
+
+ἥδε5 Λίνον Θηβαῖον ἐδέξατο γαῖα θανόντα,
+
+Here Theban Linus, whom Urania bore,
+
+Μούσης Οὐρανίης υἱὸν ἐϋστεφάνου.
+
+The fair-crowned Muse, sleeps on a foreign shore.
+
+καὶ ὧδε μὲν ἀφ᾽ Ἑλλήνων ἦρξε φιλοσοφία, ἧς καὶ αὐτὸ τὸ ὄνομα τὴν βάρβαρον ἀπέστραπται προσηγορίαν.
+
+And thus it was from the Greeks that philosophy took its rise: its very name refuses to be translated into foreign speech.
+### 42
+Ἕρμιππος δ᾽ ἐν τῷ Περὶ τῶν σοφῶν ἑπτακαίδεκά φησιν, ὧν τοὺς ἑπτὰ ἄλλους ἄλλως αἱρεῖσθαι: εἶναι δὲ Σόλωνα, Θαλῆν, Πιττακόν, Βίαντα, Χίλωνα, <Μύσωνα>, Κλεό-
+
+βουλον, Περίανδρον, Ἀνάχαρσιν, Ἀκουσίλαον, Ἐπιμενίδην, Λεώφαντον, Φερεκύδην, Ἀριστόδημον, Πυθαγόραν, Λᾶσον Χαρμαντίδου ἢ Σισυμβρίνου, ἢ ὡς Ἀριστόξενος Χαβρίνου, Ἑρμιονέα, Ἀναξαγόραν. Ἱππόβοτος δὲ ἐν τῇ Τῶν φιλοσόφων ἀναγραφῇ: Ὀρφέα, Λίνον, Σόλωνα, Περίανδρον, Ἀνάχαρσιν, Κλεόβουλον, Μύσωνα, Θαλῆν Βίαντα, Πιττακόν, Ἐπίχαρμον, Πυθαγόραν.
+
+Hermippus in his work On the Sages reckons seventeen, from which number different people make different selections of seven. They are: Solon, Thales, Pittacus, Bias, Chilon, Myson, Cleobulus, Periander, Ana- charsis, Acusilaus, Epimenides, Leophantus, Pherecydes, Aristodemus, Pythagoras, Lasos, son of Charmantides or Sisymbrinus, or, according to Aristoxenus, of Chabrinus, born at Hermione, Anaxagoras. Hippobotus in his List of Philosophers enumerates: Orpheus, Linus, Solon, Periander, Anacharsis, Cleobulus, Myson, Thales, Bias, Pittacus, Epicharmus, Pythagoras.
+
+## c10
+
+### 109
+[109] Ἐπιμενίδης, καθά φησι Θεόπομπος καὶ ἄλλοι συχνοί, πατρὸς μὲν ἦν Φαιστίου, οἱ δὲ Δωσιάδα οἱ δὲ Ἀγησάρχου: Κρὴς τὸ γένος ἀπὸ Κνωσοῦ, καθέσει τῆς κόμης τὸ εἶδος παραλλάσσων. οὗτός ποτε πεμφθεὶς παρὰ τοῦ πατρὸς εἰς ἀγρὸν ἐπὶ πρόβατον, τῆς ὁδοῦ κατὰ μεσημβρίαν ἐκκλίνας ὑπ᾽ ἄντρῳ τινὶ κατεκοιμήθη ἑπτὰ καὶ πεντήκοντα ἔτη. διαναστὰς δὲ μετὰ ταῦτα ἐζήτει τὸ πρόβατον, νομίζων ἐπ᾽ ὀλίγον κεκοιμῆσθαι. ὡς δὲ οὐχ εὕρισκε, παρεγένετο εἰς τὸν ἀγρόν, καὶ μετεσκευασμένα πάντα καταλαβὼν καὶ παρ᾽ ἑτέρῳ τὴν κτῆσιν, πάλιν ἧκεν εἰς ἄστυ διαπορούμενος. κἀκεῖ δὲ εἰς τὴν ἑαυτοῦ εἰσιὼν οἰκίαν περιέτυχε τοῖς πυνθανομένοις τίς εἴη, ἕως τὸν νεώτερον ἀδελφὸν εὑρὼν τότε ἤδη γέροντα ὄντα, πᾶσαν ἔμαθε παρ᾽ ἐκείνου τὴν ἀλήθειαν. 2
+
+EPIMENIDES (c. 600 B.C.)
+[109] Epimenides, according to Theopompus and many other writers, was the son of Phaestius; some, however, make him the son of Dosiadas, others of Agesarchus. He was a native of Cnossos in Crete, though from wearing his hair long he did not look like a Cretan. One day he was sent into the country by his father to look for a stray sheep, and at noon he turned aside out of the way, and went to sleep in a cave, where he slept for fifty-seven years. After this he got up and went in search of the sheep, thinking he had been asleep only a short time. And when he could not find it, he came to the farm, and found everything changed and another owner in possession. Then he went back to the town in utter perplexity; and there, on entering his own house, he fell in with people who wanted to know who he was. At length he found his younger brother, now an old man, and learnt the truth from him. 
+
+### 110
+[110] γνωσθεὶς δὲ παρὰ τοῖς Ἕλλησι θεοφιλέστατος εἶναι ὑπελήφθη.
+Τότε καὶ Ἀθηναίοις [τότε] λοιμῷ κατεχομένοις ἔχρησεν ἡ Πυθία καθῆραι τὴν πόλιν: οἱ δὲ πέμπουσι ναῦν τε καὶ Νικίαν τὸν Νικηράτου εἰς Κρήτην, καλοῦντες τὸν Ἐπιμενίδην. καὶ ὃς ἐλθὼν Ὀλυμπιάδι τεσσαρακοστῇ ἕκτῇ ἐκάθηρεν αὐτῶν τὴν πόλιν καὶ ἔπαυσε τὸν λοιμὸν τοῦτον τὸν τρόπον. λαβὼν πρόβατα μέλανά τε καὶ λευκὰ ἤγαγε πρὸς τὸν Ἄρειον πάγον: κἀκεῖθεν εἴασεν ἰέναι οἷ βούλοιντο, προστάξας τοῖς ἀκολούθοις ἔνθα ἂν κατακλίνοι αὐτῶν ἕκαστον, θύειν τῷ προσήκοντι θεῷ: καὶ οὕτω λῆξαι τὸ κακόν. ὅθεν ἔτι καὶ νῦν ἔστιν εὑρεῖν κατὰ τοὺς δήμους τῶν
+
+Ἀθηναίωι βωμοὺς ἀνωνύμους, ὑπόμνημα τῆς τότε γενομένης ἐξιλάσεως. οἱ δὲ τὴν αἰτίαν εἰπεῖν τοῦ λοιμοῦ τὸ Κυλώνειον ἄγος σημαίνειν τε τὴν ἀπαλλαγήν: καὶ διὰ τοῦτο ἀποθανεῖν δύο νεανίας, Κρατῖνον καὶ Κτησίβιον, καὶ λυθῆναι τὴν συμφοράν.
+
+So he became famous throughout Greece, and was believed to be a special favourite of heaven.
+Hence, when the Athenians were attacked by pestilence, and the Pythian priestess bade them purify the city, they sent a ship commanded by Nicias, son of Niceratus, to Crete to ask the help of Epimenides. And he came in the 46th Olympiad,1 purified their city, and stopped the pestilence in the following way. He took sheep, some black and others white, and brought them to the Areopagus; and there he let them go whither they pleased, instructing those who followed them to mark the spot where each sheep lay down and offer a sacrifice to the local divinity. And thus, it is said, the plague was stayed. Hence even to this day altars may be found in different parts of Attica with no name inscribed upon them, which are memorials of this atonement. According to some writers he declared the plague to have been caused by the pollution which Cylon brought on the city and showed them how to remove it. In consequence two young men, Cratinus and Ctesibius, were put to death and the city was delivered from the scourge.
+
+### 111
+Ἀθηναῖοι δὲ τάλαντον ἐψηφίσαντο δοῦναι αὐτῷ καὶ ναῦν τὴν ἐς Κρήτην ἀπάξουσαν αὐτόν. ὁ δὲ τὸ μὲν ἀργύριον οὐ προσήκατο: φιλίαν δὲ καὶ συμμαχίαν ἐποιήσατο Κνωσίων καὶ Ἀθηναίων.
+
+The Athenians voted him a talent in money and a ship to convey him back to Crete. The money he declined, but he concluded a treaty of friendship and alliance between Cnossos and Athens.
+
+Καὶ ἐπανελθὼν ἐπ᾽ οἴκου μετ᾽ οὐ πολὺ μετήλλαξεν, ὥς φησι Φλέγων ἐν τῷ Περὶ μακροβίων, βιοὺς ἔτη ἑπτὰ καὶ πεντήκοντα καὶ ἑκατόν: ὡς δὲ Κρῆτες λέγουσιν, ἑνὸς δέοντα τριακόσια: ὡς δὲ Ξενοφάνης ὁ Κολοφώνιος ἀκηκοέναι φησί, τέτταρα πρὸς τοῖς πεντήκοντα καὶ ἑκατόν.
+
+So he returned home and soon afterwards died. According to Phlegon in his work On Longevity he lived one hundred and fifty-seven years; according to the Cretans two hundred and ninety-nine years. Xenophanes of Colophon gives his age as 154, according to hearsay.
+
+Ἐποίησε δὲ Κουρήτων καὶ Κορυβάντων γένεσιν καὶ Θεογονίαν, ἔπη πεντακισχίλια, Ἀργοῦς ναυπηγίαν τε καὶ Ἰάσονος εἰς Κόλχους ἀπόπλουν 4
+
+He wrote a poem On the Birth of the Curetes and Corybantes and a Theogony,2 5000 lines in all; another on the building of the Argo and Jason's voyage to Colchis in 6500 lines.
+
+### 112
+ἔπη ἑξακισχίλια πεντακόσια. συνέγραψε δὲ καὶ καταλογάδην Περὶ θυσιῶν καὶ τῆς ἐν Κρήτῃ πολιτείας καὶ Περὶ Μίνω καὶ Ῥαδαμάνθυος εἰς ἔπη τετρακισχίλια. ἱδρύσατο δὲ καὶ παρ᾽ Ἀθηναίοις τὸ ἱερὸν τῶν Σεμνῶν, ὥς φησι Λόβων ὁ Ἀργεῖος ἐν τῷ Περὶ ποιητῶν. λέγεται δὲ καὶ πρῶτος οἰκίας καὶ ἀγροὺς καθῆραι καὶ ἱερὰ ἱδρύσασθαι. εἰσὶ δ᾽ οἳ μὴ κοιμηθῆναι αὐτὸν λέγουσιν, ἀλλὰ χρόνον τινὰ ἐκπατῆσαι ἀσχολούμενον περὶ ῥιζοτομίαν.
+
+He also compiled prose works On Sacrifices and the Cretan Constitution, also On Minos and Rhadamanthus, running to about 4000 lines. At Athens again he founded the temple of the Eumenides, as Lobon of Argos tells us in his work On Poets. He is stated to have been the first who purified houses and fields, and the first who founded temples. Some are found to maintain that he did not go to sleep but withdrew himself3 for a while, engaged in gathering simples.
+
+Φέρεται δ᾽ αὐτοῦ καὶ ἐπιστολὴ πρὸς Σόλωνα τὸν νομοθέτην, περιέχουσα πολιτείαν ἣν διέταξε Κρησὶ Μίνως. ἀλλὰ Δημήτριος ὁ Μάγνης ἐν τοῖς περὶ ὁμωνύμων ποιητῶν τε καὶ συγγραφέων διελέγχειν πειρᾶται τὴν ἐπιστολὴν ὡς νεαρὰν καὶ μὴ τῇ Κρητικῇ φωνῇ γεγραμμένην, Ἀτθίδι δὲ καὶ ταύτῃ νέᾳ. ἐγὼ δὲ καὶ ἄλλην εὗρον ἐπιστολὴν ἔχουσαν οὕτως:
+
+There is extant a letter of his to Solon the lawgiver, containing a scheme of government which Minos drew up for the Cretans. But Demetrius of Magnesia, in his work on poets and writers of the same name, endeavours to discredit the letter on the ground that it is late and not written in the Cretan dialect but in Attic, and New Attic too. However, I have found another letter by him which runs as follows:
+
+### 113
+Ἐπιμενίδης Σόλωνι
+5 [113] "Θάρρει, ὦ ἑταῖρε. αἰ γὰρ ἔτι θητευόντεσσιν Ἀθηναίοις καὶ μὴ εὐνομημένοις ἐπεθήκατο Πεισίστρατος, εἶχέ κα τὰν ἀρχὰν ἀεί, ἀνδραποδιξάμενος τὼς πολιήτας: νῦν δὲ οὐ κακὼς ἄνδρας δουλῶται: τοὶ μεμναμένοι τᾶς Σόλωνος μανύσιος ἀλγιόντι πεδ᾽ αἰσχύνας οὐδὲ ἀνεξοῦνται τυραννούμενοι. ἀλλ᾽ αἴ κα Πεισίστρατος <αὐτὸς> κατασχέθῃ τὰν πόλιν, οὐ μὰν ἐς παῖδάς γε τήνω ἔλπομαι τὸ κράτος ἵξεσθαι: δυσμάχανον γὰρ ἀνθρώπως ἐλευθεριάξαντας ἐν τεθμοῖς ἀρίστοις δούλως ἦμεν. τὺ δὲ μὴ ἀλᾶσθαι, ἀλλ᾽ ἕρπε ἐς Κρήτην ποθ᾽ ἁμέ. τουτᾶ γὰρ οὐκ ἐσεῖταί τιν δεινὸς ὁ μόναρχος: αἰ δέ πη ἐπ᾽ ἀλατείᾳ ἐγκύρσωντί τοι τοὶ τήνω φίλοι, δειμαίνω μή τι δεινὸν πάθῃς.
+
+Epimenides to Solon
+[113] "Courage, my friend. For if Pisistratus had attacked the Athenians while they were still serfs and before they had good laws, he would have secured power in perpetuity by the enslavement of the citizens. But, as it is, he is reducing to subjection men who are no cowards, men who with pain and shame remember Solon's warning and will never endure to be under a tyrant. But even should Pisistratus himself hold down the city, I do not expect that his power will be continued to his children; for it is hard to contrive that men brought up as free men under the best laws should be slaves. But, instead of going on your travels, come quietly to Crete to me; for here you will have no monarch to fear, whereas, if some of his friends should fall in with you while you are travelling about, I fear you may come to some harm.'
+
+### 114
+
+This is the tenor of the letter. But Demetrius reports a story that he received from the Nymphs food of a special sort and kept it in a cow's hoof; that he took small doses of this food, which was entirely absorbed into his system, and he was never seen to eat. Timaeus mentions him in his second book. Some writers say that the Cretans sacrifice to him as a god; for they say that he had superhuman foresight. For instance, when he saw Munichia, at Athens, he said the Athenians did not know how many evils that place would bring upon them; for, if they did, they would destroy it even if they had to do so with their teeth. And this he said so long before the event. It is also stated that he was the first to call himself Aeacus; that he foretold to the Lacedaemonians their defeat by the Arcadians; and that he claimed that his soul had passed through many incarnations.
+
+### 115
+Theopompus relates in his Mirabilia that, as he was building a temple to the Nymphs, a voice came from heaven: "Epimenides, not a temple to the Nymphs but to Zeus," and that he foretold to the Cretans the defeat of the Lacedaemonians by the Arcadians, as already stated; and in very truth they were crushed at Orchomenus.
+
+And he became old in as many days as he had slept years; for this too is stated by Theopompus. Myronianus in his Parallels declares that the Cretans called him one of the Curetes. The Lacedaemonians guard his body in their own keeping in obedience to a certain oracle; this is stated by Sosibius the Laconian.
+
+There have been two other men named Epimenides, namely, the genealogist and another who wrote in Doric Greek about Rhodes.
 
 ## c11
-
-http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D1%3Achapter%3D11
 
 ### 116
 
@@ -1974,7 +2063,7 @@ under plato, porbably learned pythagoras, discovered earth axial rotation & prob
 [4](#8##1###4)
 In the Metamorphoses of Ovid
 Pythagoras is again said to have claimed to be a reincarnation of Euphorbus
-[ovid.metamorphois:15.160-164](ovd.mm#15##160):8:rome
+[ovid.metamorphois:15.160-164](ovd.md#15##160):8:rome
 
 ### 6
 [15](#8#1#15) [46](#8#1#46)
@@ -2016,9 +2105,52 @@ https://en.m.wikipedia.org/wiki/Hippasus#:~:text=Mystic
 
 https://en.m.wikipedia.org/wiki/Favorinus
 
+## c5
+
+### 83
+Κεφ. ε᾽. ΑΛΚΜΑΙΩΝ
+Ἀλκμαίων Κροτωνιάτης. καὶ οὗτος Πυθαγόρου διήκουσε: καὶ τὰ πλεῖστά γε ἰατρικὰ λέγει, ὅμως δὲ καὶ φυσιολογεῖ ἐνίοτε λέγων "δύο τὰ πολλά ἐστι τῶν ἀνθρωπίνων." δοκεῖ δὲ πρῶτος φυσικὸν λόγον συγγεγραφέναι, καθά φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, καὶ τὴν σελήνην καθόλου1 <τε τὰ ὑπὲρ> ταύτην ἔχειν ἀΐδιον φύσιν.
+Ἦν δὲ Πειρίθου υἱός, ὡς αὐτὸς ἐναρχόμενος τοῦ συγγράμματός φησιν: "Ἀλκμαίων Κροτωνιήτης τάδε ἔλεξε Πειρίθου υἱὸς Βροτίνῳ καὶ Λέοντι καὶ Βαθύλλω: ιπερὶ τῶν ἀφανέων, περὶ τῶν θνητῶν σαφήνειαν μὲν θεοὶ ἔχοντι, ὡς δ᾽ ἀνθρώποις τεκμαίρεσθαι᾽" καὶ τὰ ἑξῆς: ἔφη δὲ καὶ τὴν ψυχὴν ἀθάνατον, καὶ κινεῖσθαι αὐτὴν συνεχὲς ὡς τὸν ἥλιον.
+
+1 καθόλου] καὶ θόλον dubitanter apelt, coll. ii. 9: post καθόλου <τε τὰ ὕπερ> inseruit diels : ὅλον τὸν οὐρανὸν zeller.
+
+Alcmaeon of Croton, another disciple of Pythagoras, wrote chiefly on medicine, but now and again he touches on natural philosophy, as when he says, "Most human affairs go in pairs." He is thought to have been the first to compile a physical treatise, so we learn from Favorinus in his Miscellaneous History ; and he said that the moon [and] generally [the heavenly bodies] are in their nature eternal.
+He was the son of Pirithous, as he himself tells us at the beginning of his treatise1 : "These are the words of Alcmaeon of Croton, son of Pirithous, which he spake to Brotinus, Leon and Bathyllus : `Of things invisible, as of mortal things, only the gods have certain knowledge ; but to us, as men, only inference from evidence is possible,' and so on." He held also that the soul is immortal and that it is continuously in motion like the sun.
+
 # b9
 
-## 11
+## c1
+
+Heraclitus diss pythagoras
+
+## c2
+
+### 18
+ΧΕΝΟΦΑΝΗΣ
+1 [18] Ξενοφάνης Δεξίου ἤ, ὡς Ἀπολλόδωρος, Ὀρθομένους Κολοφώνιος ἐπαινεῖται πρὸς τοῦ Τίμωνος: φησὶ γοῦν,
+Ξεινοφάνην θ᾽ ὑπάτυφον, Ὁμηραπάτην ἐπικόπτην.
+
+XENOPHANES
+Xenophanes, a native of Colophon, the son of Dexius, or, according to Apollodorus, of Orthomenes, is praised by Timon, whose words at all events are:
+Xenophanes, not over-proud, perverter of Homer, castigator.
+
+οὗτος ἐκπεσὼν τῆς πατρίδος ἐν Ζάγκλῃ τῆς Σικελίας : : :2 διέτριβε δὲ καὶ ἐν Κατάνῃ. διήκουσε δὲ κατ᾽ ἐνίους μὲν οὐδενός, κατ᾽ ἐνίους δὲ Βότωνος Ἀθηναίου ἤ, ὥς τινες, Ἀρχελάου. καί, ὡς Σωτίων φησί, κατ᾽ Ἀναξίμανδρον ἦν. γέγραφε δὲ καὶ ἐν ἔπεσι καὶ ἐλεγείας καὶ ἰάμβους καθ᾽ Ἡσιόδου καὶ Ὁμήρου, ἐπικόπτων αὐτῶν τὰ περὶ θεῶν εἰρημένα. ἀλλὰ καὶ αὐτὸς ἐρραψῴδει τὰ ἑαυτοῦ. ἀντιδοξάσαι τε λέγεται Θαλῇ καὶ Πυθαγόρᾳ, καθάψασθαι δὲ καὶ Ἐπιμενίδου. μακροβιώτατός τε γέγονεν, ὥς που καὶ αὐτός φησιν:
+
+He was banished from his native city and lived at Zancle in Sicily [and having joined the colony planted at Elea taught there]. He also lived in Catana. According to some he was no man's pupil, according to others he was a pupil of Boton of Athens, or, as some say, of Archelaus. Sotion makes him a contemporary of Anaximander. His writings are in epic metre, as well as elegiacs and iambics attacking Hesiod and Homer and denouncing what they said about the gods. Furthermore he used to recite his own poems. It is stated that he opposed the views of Thales and Pythagoras, and attacked Epimenides also. He lived to a very great age, as his own words somewhere testify:
+### c19
+ἤδη δ᾽ ἑπτά τ᾽ ἔασι καὶ ἑξήκοντ᾽ ἐνιαυτοὶ βληστρίζοντες ἐμὴν φροντίδ᾽ ἀν᾽ Ἑλλάδα γῆν:
+
+ἐκ γενετῆς δὲ τότ᾽ ἦσαν ἐείκοσι πέντε τε πρὸς τοῖς,
+
+εἴπερ ἐγὼ περὶ τῶνδ᾽ οἶδα λέγειν ἐτύμως.
+
+Seven and sixty are now the years that have been tossing my cares up and down the land of Greece; and there were then twenty and five years more from my birth up, if I know how to speak truly about these things.
+
+Φησὶ δὲ τέτταρα εἶναι τῶν ὄντων στοιχεῖα, κόσμους δ᾽ ἀπείρους, οὐ παραλλακτοὺς δέ. τὰ νέφη συνίστασθαι τῆς ἀφ᾽ ἡλίου ἀτμίδος ἀναφερομένης καὶ αἰρούσης αὐτὰ εἰς τὸ περιέχον. οὐσίαν θεοῦ σφαιροειδῆ, μηδὲν ὅμοιον ἔχουσαν ἀνθρώπῳ: ὅλον δὲ ὁρᾶν καὶ ὅλον ἀκούειν, μὴ μέντοι ἀναπνεῖν: σύμπαντά τε εἶναι νοῦν καὶ φρόνησιν καὶ ἀΐδιον. πρῶτός τε ἀπεφήνατο ὅτι πᾶν τὸ γινόμενον φθαρτόν ἐστι καὶ ἡ ψυχὴ πνεῦμα.
+
+He holds that there are four elements of existent things, and worlds unlimited in number but not overlapping [in time]. Clouds are formed when the vapour from the sun is carried upwards and lifts them into the surrounding air. The substance of God is spherical, in no way resembling man. He is all eye and all ear, but does not breathe; he is the totality of mind and thought, and is eternal. Xenophanes was the first to declare that everything which comes into being is doomed to perish, and that the soul is breath.
+
+## c11
 http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D9%3Achapter%3D11
 ### 61
 1 Πύρρων Ἠλεῖος Πλειστάρχου μὲν ἦν υἱός, καθὰ καὶ Διοκλῆς ἱστορεῖ: ὥς φησι δ᾽ Ἀπολλόδωρος ἐν Χρονικοῖς, πρότερον ἦν ζωγράφος, καὶ ἤκουσε Βρύσωνος τοῦ Στίλπωνος, ὡς Ἀλέξανδρος ἐν Διαδοχαῖς, εἶτ᾽ Ἀναξάρχου, ξυνακολουθῶν πανταχοῦ, ὡς καὶ τοῖς Γυμνοσοφισταῖς ἐν Ἰνδίᾳ συμμίξαι καὶ τοῖς Μάγοις. ὅθεν γενναιότατα δοκεῖ φιλοσοφῆσαι, τὸ τῆς ἀκαταληψίας καὶ ἐποχῆς εἶδος εἰσαγαγών, ὡς Ἀσκάνιος ὁ Ἀβδηρίτης φησίν: οὐδὲν γὰρ ἔφασκεν οὔτε καλὸν οὔτ᾽ αἰσχρὸν οὔτε δίκαιον οὔτ᾽ ἄδικον: καὶ ὁμοίως ἐπὶ πάντων μηδὲν εἶναι τῇ ἀλῃθείᾳ, νόμῳ δὲ καὶ ἔθει πάντα τοὺς ἀνθρώπους πράττειν: οὐ γὰρ μᾶλλον τόδε ἢ τόδε εἶναι ἕκαστον.

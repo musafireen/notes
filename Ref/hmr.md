@@ -218,9 +218,10 @@ IL.1.21   giving honour to Zeus' son who strikes from afar, Apollo.'
 • πάντες 46 
 • ἐπευφήμησαν 
 • Ἀχαιοὶ
-### 22   Then all the rest of the Achaians cried out in favour
 
-IL.1.23   
+Then all the rest of the Achaians cried out in favour
+
+### 23   
 • αἰδεῖσθαί 
 • θ' 
 • ἱερῆα 
@@ -305,7 +306,17 @@ IL.1.29   The girl I will not give back; sooner will old age come upon her
 • πάτρης 58
 IL.1.30   in my own house, in Argos, far from her own land, going
 
+### 205
+Oceanus,tethys
+### 261
+Nyx, zeus
 ## b14
+#### 200
+
+#### 205
+Oceanus,tethys
+#### 261
+Nyx,zeus
 #### 312
 IL.14.312   [9[10[11τὴν δ'7] ἀπαμειβόμενος [12προσέφη11] [13νεφεληγερέτα Ζεύς:10]12]13]
 IL.14.312   Then in turn Zeus who gathers the clouds answered her:
@@ -449,7 +460,19 @@ IL.14.304   I shall go to visit these, and resolve their division of discord,
 IL.14.305   ἤδη γὰρ [55δηρὸν χρόνον55] [56ἀλλήλων ἀπέχονται56]
 IL.14.305   since now for a long time they have stayed apart from each other
 
+## b15
+### 187
+### 193
+## b18
+### 570
+
+ἱμερόεν κιθάριζε, λίνον δ᾽ ὑπὸ καλὸν ἄειδε
+
+and thereto sang sweetly the Linos-song1 with his delicate voice;
 # odys
+## b?
+### 24I?
+### 241?
 ## b11
 ### c12
 OD.11.541   αἱ δ' ἄλλαι8] ψυχαὶ [9νεκύων κατατεθνηώτων9]

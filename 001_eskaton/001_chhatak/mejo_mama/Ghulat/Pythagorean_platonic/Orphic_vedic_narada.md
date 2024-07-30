@@ -20,7 +20,7 @@ Chronos
 
 # noeros
 ## oon
-![[ŚB#6.1.1#10]]
+![[SpB#6.1.1#10]]
 
 ## ?
 ## Prajāpati protogonos phanes

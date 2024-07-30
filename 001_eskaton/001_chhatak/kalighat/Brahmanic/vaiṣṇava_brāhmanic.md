@@ -12,11 +12,15 @@
 ~~ nirṛti > dūrgā :[[RV#10.59]]
 ~~ routed away by male devas
 ~~ sudās tṛtsu vasiṣṭha vs anu viśvāmitra :[[RV#7.18]]
-~~ viśvāmitra prayed for sudās to to get cows of kikaṭa [[RV#3.53.14]]
+~~ viśvāmitra prayed for sudās to to get cows of kikaṭa [[RV#3.53#14]]
 ~~ purūrava urvaśī :[[RV#10.95]]
-~~ soma generates dyaus, indra, viṣṇu :[[RV#9.96.5]]
+~~ soma generates dyaus, indra, viṣṇu :[[RV#9.96#5]]
 ~~ sūrya cakṣu of mitra, varuṇa, agni, ātman of jagat, tasthuṣa :[[RV#1.115.1]]
-~~ nirṛti, yatudhanā, rakṣas :[[RV#7.104]]
+~~ nirṛti, :[[RV#7.104#9]]
+~~ ṛg reciter accused of being yatudhāna by Rakṣas, [[RV#7:104#16]]
+~~ Yātu in the form of owl, dog, vulture, hawk, duck :[[RV#7.104#22]]
+~~ male and female Yātudhānas use Māyā for mischief :[[RV#7:104#24]]
+~~ Yātus attack Indra, defeated by Aśani Vadha of Śakra :[[RV#7.104#20]]
 ~~ vasiṣṭha varuṇa :[[RV#7.86-89]]
 
 § sāma - 12th-10th cent bc
@@ -26,7 +30,7 @@
 ~~ saṃvatsara created five ṛtus from pañcarātra :[[TS#7.1.10]]
 ~~ pañcarātra made babara vācaspati :[[TS#7.1.10]]
 § vājasaneyi s. - 12th-8th c bce
-~~ puruṣa sūkta :[[VS#31#1-16]]
+~~ puruṣa sūkta :[[VS.md#p31#1-16]]
 § atharva - 12th-6th century BCE
 ~~ all feared at virāṭ's birth, that she will become idam :[[AV.ŚS#8.10#1]]
 ~~ indra virāṭ's vatsa while milked by devas :[[AV.ŚS#8.10#12]]
@@ -41,14 +45,14 @@ virocana prāhrādi vatsa of virāṭ while being milked for/as māyā by dvimur
 ~~ yajñavalkya says he janma of śunahśepa :[[AB#14.9#4]]
 ~~ prajāpati pierced for chasing uṣā/dyau as a stag by paśumān bhūtavān created by devas :[[AB#3.33#1-4]]
 § śatapatha br. - 8-6th cent BCE
-~~ matsya in manu's avanegya water saves him from sarvaprajāvaha augha by telling to build a nāva for protecting it from other fishes until it became jhaṣa :[[ŚB#1.8.1#1-4]]
-~~ prajāpati pierced for chasing daughter uṣā /dyau as a stag by rudra created by devas, prajāpati's extracted flesh used for yajña :[[ŚB#1.7.4#1-5]]
-~~ as far rasa, so far ātmā :[[ŚB#7.5.1#2]]
-~~ saṃvatsara prajāpati, afraid of mṛtyu, after creating deva, manuṣya, prāṇi, aprāṇa, to be their ātmā again, divided himself into 24 ardhamāsas :[[ŚB#10.4.2#1-3+18]]
-~~ nārāyana does pancarātra puruṣamedha yajña :[[ŚB#13.6.1#1]]
-~~ vāk tells puruṣa not to do saṃsthāpana, so puruṣa doesnt eat puruṣa :[[ŚB#13.6.2#13]]
+~~ matsya in manu's avanegya water saves him from sarvaprajāvaha augha by telling to build a nāva for protecting it from other fishes until it became jhaṣa :[[SpB#1.8.1#1-4]]
+~~ prajāpati pierced for chasing daughter uṣā /dyau as a stag by rudra created by devas, prajāpati's extracted flesh used for yajña :[[SpB#1.7.4#1-5]]
+~~ as far rasa, so far ātmā :[[SpB#7.5.1#2]]
+~~ saṃvatsara prajāpati, afraid of mṛtyu, after creating deva, manuṣya, prāṇi, aprāṇa, to be their ātmā again, divided himself into 24 ardhamāsas :[[SpB#10.4.2#1-3+18]]
+~~ nārāyana does pancarātra puruṣamedha yajña :[[SpB#13.6.1#1]]
+~~ vāk tells puruṣa not to do saṃsthāpana, so puruṣa doesnt eat puruṣa :[[SpB#13.6.2#13]]
 ~~ kapila asuri
-~~ videgha māthava :[[ŚB#1.4.1#14]]
+~~ videgha māthava :[[SpB#1.4.1#14]]
 § bṛhadāraṇyaka up. - 8-6th c. BC
 ~~ yajñavalkya says he janma of śunahśepa :[[BU#1.4]]
 ~~ dead souls go to gods or insects :[[BU#6.2#15-16]]
@@ -57,7 +61,7 @@ virocana prāhrādi vatsa of virāṭ while being milked for/as māyā by dvimur
 § taittiriya āranyaka - 6-5th c. BC
 ~~ āditya brahman puruṣa :[[TA#10.15]]
 § muṇḍaka u. - 4th c. BC
-~~ anna puruṣa :[[MU#1.8]]
+~~ anna puruṣa :[[MU#1.1#8]]
 § kaṭha ār. - 6-4th c. BC
 ~~ śiva
 § maitri upaniṣad - 4th century BCE
@@ -81,14 +85,14 @@ virocana prāhrādi vatsa of virāṭ while being milked for/as māyā by dvimur
 ~~ jaimini
 § Ramayana - 4th-2th century BCE
 § śvetāśvatara u. - 0 - 200 CE
-~~ svābhāvikī parā śakti of maheśvara in śruti :[[ŚU#6.8]]
-~~ no lokaliṅgam of maheśvara :[[ŚU#6.9]]
-~~ pradhāna from svbhāvatantu of maheśvara :[[ŚU#6.10]]
-~~ maheśvara reached by sāṃkhyayoga, gives mokṣa :[[ŚU#6.13]]
-~~ maheśvara pati of pradhāna, kṣetrajña :[[ŚU#6.16]]
-~~ maheśvara vidhātā of brahmā :[[ŚU#6.18]]
-~~ śvetāśvatara learnt brahma through tapas, taugh to āśramis :[[ŚU#6.21]]
-~~ purākalpa vedānta guhya brahma arthas to be discolsed to guru-bhakta, mahātmā, śānta śiṣya putras :[[ŚU#6.22-23]]
+~~ svābhāvikī parā śakti of maheśvara in śruti :[[SvetU#6.8]]
+~~ no lokaliṅgam of maheśvara :[[SvetU#6.9]]
+~~ pradhāna from svbhāvatantu of maheśvara :[[SvetU#6.10]]
+~~ maheśvara reached by sāṃkhyayoga, gives mokṣa :[[SvetU#6.13]]
+~~ maheśvara pati of pradhāna, kṣetrajña :[[SvetU#6.16]]
+~~ maheśvara vidhātā of brahmā :[[SvetU#6.18]]
+~~ śvetāśvatara learnt brahma through tapas, taugh to āśramis :[[SvetU#6.21]]
+~~ purākalpa vedānta guhya brahma arthas to be discolsed to guru-bhakta, mahātmā, śānta śiṣya putras :[[SvetU#6.22-23]]
 
 § cankam: 1st
 ~~ korravai

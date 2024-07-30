@@ -1,4 +1,9 @@
 
+# Q:87:6
+[Q.87:6](https://quran.com/38:29/tafsirs/ar-tafsir-al-tabari)
+![[Qrsed#87:6]]![[Qrsed#87:7]]
+## qrA nsy ( )
+
 # Q:38:29
 
 [Q.38:29](https://quran.com/38:29/tafsirs/ar-tafsir-al-tabari)

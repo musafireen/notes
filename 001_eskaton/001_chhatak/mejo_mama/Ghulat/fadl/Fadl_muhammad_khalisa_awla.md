@@ -152,6 +152,10 @@ Fadl muhammad
 [Q.66:1](https://quran.com/66:1/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsed#66:1]]![[Qrsed#66:2]]![[Qrsed#66:3]]![[Qrsed#66:4]]![[Qrsed#66:5]]
+# Q:9:24
+![[Qrsed#9:24]]
+
+## rsl Hbb ( beloved)
 
 # Q:9:120
 

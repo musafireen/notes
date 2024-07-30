@@ -2363,10 +2363,17 @@ Many years after this, when Dinarchus and his associates were slain in another b
 ## _265
 -------
 
-Διάδοχος δὲ πρὸς πάντων ὁμολογεῖται Πυθαγόρου γεγονέναι Ἀρισταῖος Δαμοφῶντος ὁ Κροτωνιάτης, κατ’ αὐτὸν Πυθαγόραν τοῖς χρόνοις γενόμενος ἑπτὰ γενεαῖς ἔγγιστα πρὸ Πλάτωνος, καὶ οὐ μόνον τῆς σχολῆς, ἀλλὰ καὶ τῆς παιδοτροφίας καὶ τοῦ Θεανοῦς γάμου κατηξιώθη διὰ τὸ ἐξαιρέτως περικεκρατηκέναι τῶν δογμάτων.
+Διάδοχος δὲ πρὸς πάντων ὁμολογεῖται Πυθαγόρου γεγονέναι Ἀρισταῖος Δαμοφῶντος ὁ Κροτωνιάτης, κατ’ αὐτὸν Πυθαγόραν τοῖς χρόνοις γενόμενος ἑπτὰ γενεαῖς ἔγγιστα πρὸ Πλάτωνος, 
+
+The successor, however, of Pythagoras, is acknowledged by all men to have been Aristæus, the son of Damophon the Crotonian, who existing at the same time as Pythagoras, was seven ages prior to Plato. 
+
+καὶ οὐ μόνον τῆς σχολῆς, ἀλλὰ καὶ τῆς παιδοτροφίας καὶ τοῦ Θεανοῦς γάμου κατηξιώθη διὰ τὸ ἐξαιρέτως περικεκρατηκέναι τῶν δογμάτων.
+
+Aristæus likewise, was not only thought worthy to succeed Pythagoras in his school, but also to educate his children, and marry his wife Theano, because he was eminently skilled in the Pythagoric dogmas. 
 
 αὐτὸν μὲν γὰρ Πυθαγόραν ἀφηγήσασθαι λέγεται ἑνὸς δέοντος ἔτη τεσσαράκοντα, τὰ πάντα βιώσαντα ἔτη ἐγγὺς τῶν ἑκατόν, παραδοῦναι δὲ Ἀρισταίῳ τὴν σχολὴν πρεσβυτάτῳ ὄντι. μεθ’ ὃν ἡγήσασθαι Μνήσαρχον τὸν Πυθαγόρου, τοῦτον δὲ Βουλαγόρᾳ παραδοῦναι, ἐφ’ οὗ διαρπασθῆναι συνέβη τὴν Κροτωνιατῶν πόλιν. μεθ’ ὃν Γαρτύδαν τὸν Κροτωνιάτην διάδοχον γενέσθαι, ἐπανελθόντα ἐκ τῆς ἀποδημίας ἣν ἐποιήσατο πρὸ τοῦ πολέμου· διὰ μέντοι τὴν συμφορὰν τῆς πατρίδος ἐκλιπεῖν τὸν βίον. ἕνα δὴ μόνον γενέσθαι τοῦτον ὃς ὑπὸ λύπης προύλιπε τὸν βίον·
 
+For Pythagoras himself is said to have taught in his school, forty years wanting one, and to have lived nearly one hundred years. But Aristæus, when much advanced inyears, relinquished the school; and after him Mnesarchus succeeded, who was the son of Pythagoras. Bulagoras succeeded Mnesarchus, in whose time it happened that the city of the Crotonians was plundered. Gartydas the Crotonian succeeded Bulagoras, on his return from a journey which he had undertaken prior to the war. Nevertheless on account of the calamity of his country, he suffered so much anxiety, as to die prematurely through grief. 
 ## _266
 -------
 
@@ -2374,38 +2381,74 @@ Many years after this, when Dinarchus and his associates were slain in another b
 
 χρόνῳ μέντοι γε ὕστερον Ἀρέσαν ἐκ τῶν Λευκανῶν, σωθέντα διά τινων ξένων, ἀφηγήσασθαι τῆς σχολῆς· πρὸς ὃν ἀφικέσθαι Διόδωρον τὸν Ἀσπένδιον, ὃν παραδεχθῆναι διὰ τὴν σπάνιν τῶν ἐν τῷ συστήματι ἀνδρῶν. οὗτος δὲ εἰς τὴν Ἑλλάδα ἐπανελθὼν διέδωκε τὰς Πυθαγορείους φωνάς· ζηλωτὰς δὲ γράφει γενέσθαι τῶν ἀνδρῶν περὶ μὲν Ἡράκλειαν Κλεινίαν καὶ Φιλόλαον, (ἐν) Μεταποντίῳ δὲ Θεαρίδαν (καὶ) Εὔρυτον, ἐν Τάραντι δὲ Ἀρχύταν. τῶν δ’ ἔξωθεν ἀκροατῶν γενέσθαι καὶ Ἐπίχαρμον, ἀλλ’ οὐκ ἐκ τοῦ συστήματος τῶν ἀνδρῶν· ἀφικόμενον δὲ εἰς Συρακούσας διὰ τὴν Ἱέρωνος τυραννίδα τοῦ μὲν φανερῶς φιλοσοφεῖν ἀποσχέσθαι, εἰς μέτρον δ’ ἐντεῖναι τὰς διανοίας τῶν ἀνδρῶν, μετὰ παιδιᾶς κρύφα ἐκφέροντα τὰ Πυθαγόρου δόγματα.
 
+But it was the custom with the rest of the Pythagoreans, when they became very old, to liberate themselves from the body as from a prison.
+Moreover, some time after, Aresas Lucanus, being saved through certain strangers, undertook the management of the school; and to him came Diodorus Aspendius, who was received into the school, on account of the paucity of the Pythagoreans it contained. And in Heraclea, indeed, were Clinias and Philolaus; but at Metapontum, Theorides and Eurytus; and at Tarentum Archytas. It is also said that Epicharmus was one of the foreign auditors; but that he was not one of the school. Having however arrived at Syracuse, he abstained from philosophizing openly, on account of the tyranny of Hiero. But he inserted the conceptions of the men in metre, and published in comedies the occult dogmas of Pythagoras.
+
 ## _267
 -------
 
 τῶν δὲ συμπάντων Πυθαγορείων τοὺς μὲν ἀγνῶτάς τε καὶ ἀνωνύμους τινὰς πολλοὺς εἰκὸς γεγονέναι, τῶν δὲ γνωριζομένων ἐστὶ τάδε τὰ ὀνόματα.
 
-Κροτωνιᾶται Ἱππόστρατος, Δύμας, Αἴγων, Αἵμων, Σίλιος,
+Of all the Pythagoreans, however, it is probable that many are unknown and anonymous. But thefollowing are the names of those that are known and celebrated: 
 
-Κλεοσθένης, Ἀγέλας, Ἐπίσυλος, Φυκιάδας, Ἔκφαντος, Τίμαιος, Βοῦθος, Ἔρατος, Ἰταναῖος, Ῥόδιππος, Βρύας, Ἔνανδρος, Μυλίας, Ἀντιμέδων, Ἀγέας, Λεόφρων, Ἀγύλος, Ὄνατος, Ἱπποσθένης, Κλεόφρων, Ἀλκμαίων, Δαμοκλῆς, Μίλων, Μένων. Μεταποντῖνοι Βροντῖνος, Παρμενίσκος, Ὀρεστάδας, Λέων, Δαμάρμενος, Αἰνέας, Χιλᾶς, Μελησίας, Ἀριστέας, Λαφάων, Εὔανδρος, Ἀγησίδαμος, Ξενοκάδης, Εὐρύφαμος, Ἀριστομένης, Ἀγήσαρχος, Ἀλκίας, Ξενοφάντης, Θράσεος, Εὔρυτος, Ἐπίφρων, Εἰρίσκος Μεγιστίας, Λεωκύδης, Θρασυμήδης, Εὔφημος, Προκλῆς, Ἀντιμένης, Λάκριτος, Δαμοτάγης, Πύρρων, Ῥηξίβιος, Ἀλώπεκος, Ἀστύλος, Δακίδας, Ἀλίοχος, Λακράτης, Γλυκῖνος.
+Κροτωνιᾶται Ἱππόστρατος, Δύμας, Αἴγων, Αἵμων, Σίλιος, Κλεοσθένης, Ἀγέλας, Ἐπίσυλος, Φυκιάδας, Ἔκφαντος, Τίμαιος, Βοῦθος, Ἔρατος, Ἰταναῖος, Ῥόδιππος, Βρύας, Ἔνανδρος, Μυλίας, Ἀντιμέδων, Ἀγέας, Λεόφρων, Ἀγύλος, Ὄνατος, Ἱπποσθένης, Κλεόφρων, Ἀλκμαίων, Δαμοκλῆς, Μίλων, Μένων. Μεταποντῖνοι Βροντῖνος, Παρμενίσκος, Ὀρεστάδας, Λέων, Δαμάρμενος, Αἰνέας, Χιλᾶς, Μελησίας, Ἀριστέας, Λαφάων, Εὔανδρος, Ἀγησίδαμος, Ξενοκάδης, Εὐρύφαμος, Ἀριστομένης, Ἀγήσαρχος, Ἀλκίας, Ξενοφάντης, Θράσεος, Εὔρυτος, Ἐπίφρων, Εἰρίσκος Μεγιστίας, Λεωκύδης, Θρασυμήδης, Εὔφημος, Προκλῆς, Ἀντιμένης, Λάκριτος, Δαμοτάγης, Πύρρων, Ῥηξίβιος, Ἀλώπεκος, Ἀστύλος, Δακίδας, Ἀλίοχος, Λακράτης, Γλυκῖνος.
+
+Of the Crotonians, Hippostratus, Dymas, Ægon, Æmon, Sillus, Cleosthenes, Agelas, Episylus, Phyciadas, Ecphantus, Timæus, Buthius, Eratus, Itmæus, Rhodippus, Bryas, Evandrus, Myllias, Antimedon, Ageas, Leophron, Agylus, Onatus, Hipposthenes, Cleophron, Alcmæon, Damocles, Milon, Menon. Of the Metapontines, Brontinus, Parmiseus, Orestadas, Leon, Damarmenus, Æneas, Chilas, Melisias, Aristeas, Laphion, Evandrus, Agesidamus, Xenocades, Euryphemus, Aristomenes, Agesarchus, Alceas, Xenophantes, Thraseus, Arytus, Epiphron, Eiriscus, Megistias, Leocydes, Thrasymedes, Euphemus, Procles, Antimenes, Lacritus, Damotages, Pyrrho, Rhexibius, Alopecus, Astylus, Dacidas, Aliochus, Lacrates, Glycinus. 
 
 Ἀκραγαντῖνος Ἐμπεδοκλῆς.
 
 Ἐλεάτης Παρμενίδης.
 
+Of the Agrigentines, Empedocles. Of the Eleatæ, Parmenides. 
+
 Ταραντῖνοι φιλόλαος, Εὔρυτος, Ἀρχύτας, θεόδωρος, Ἀρίστιππος, Λύκων, Ἑστιαῖος, Πολέμαρχος, Ἀστέας, Καινίας, Κλέων, Εὐρυμέδων, Ἀρκέας, Κλειναγόρας, Ἄρχιππος, Ζώπυρος, Εὔθυνος, Δικαίαρχος, Φιλωνίδης, Φροντίδας, Αῦσις, Λυσίβιος, Δεινοκράτης, Ἐχεκράτης, Πακτίων, Ἀκουσιλάδας, Ἴκκος, Πεισικράτης, Κλεάρατος, Λεοντεύς, Φρύνιχος, Σμιχίας, Ἀριστοκλίδας, Κλεινίας, Ἀβροτέλης, Πισίρροδος, Βρύας, Ἔλανδρος, Ἀρχέμαχος, Μμνόμαχος, Ἀχμονίδας, Δίκας, Κλεοφαντίδας.
+
+Of the Tarentines, Philolaus, Eurytus, Archytas, Theodorus, Aristippus, Lycon, Hestiæus, Polemarchus, Asteas, Clinias, Cleon, Eurymedon, Arceas, Clinagoras, Archippus, Zopyrus, Euthynus, Dicæarchus, Philonidas, Phrontidas, Lysis, Lysibius, Dinocrates, Echecrates, Paction, Acusiladas, Icmus, Pisicrates, Clearatus.
+
+Of the Leontines, Phrynichus, Smichias, Aristoclidas, Clinias, Abroteles, Pisyrrhydus, Bryas, Evandrus, Archemachus, Mimnomachus, Achmonidas, Dicas, Carophantidas. 
 
 Συβαρῖται Μέτωπος, Ἵππασος, Πρόξενος, Εὐάνωρ, Λεάναξ,
 
-Μενέστωρ, Διοκλῆς, Ἔμπεδος, Τιμάσιος, Πτολεμαῖος, Ἔνδιος, Τυρσηνός. Καρχηδόνιοι Μιλτιάδης, Ἄνθην, Ὁδίος, Λεόκριτος. Πάριοι Αἰήτιος, Φαινεκλῆς, Δεξίθεος, Ἀλκίμαχος, Δείναρχος, Μέτων, Τίμαιος, Τιμησιάναξ, Εὔμοιρος, Θυμαρίδας.
+Μενέστωρ, Διοκλῆς, Ἔμπεδος, Τιμάσιος, Πτολεμαῖος, Ἔνδιος, Τυρσηνός. 
+
+Of the Sybarites, Metopus, Hippasus, Proxenus, Evanor, Deanax,Menestor, Diocles, Empedus, Timasius, Polemæus, Evæus, Tyrsenus. 
+
+Καρχηδόνιοι Μιλτιάδης, Ἄνθην, Ὁδίος, Λεόκριτος. 
+
+Of the Carthaginians, Miltiades, Anthen, Odius, Leocritus. 
+
+Πάριοι Αἰήτιος, Φαινεκλῆς, Δεξίθεος, Ἀλκίμαχος, Δείναρχος, Μέτων, Τίμαιος, Τιμησιάναξ, Εὔμοιρος, Θυμαρίδας.
+
+Of the Parians, Æetius, Phænecles, Dexitheus, Alcimachus, Dinarchus, Meton, Timæus, Timesianax, Amærus, Thymaridas. 
 
 Λοκροὶ Γύττιος, Ξένων, Φιλόδαμος, Εὐέτης, Εὔδικος, Σθενωνίδας, Σωσίστρατος, Εὐθύνους, Ζάλευκος, Τιμάρης.
 
+Of the Locrians, Gyptius, Xenon, Philodamus, Evetes, Adicus, Sthenonidas, Sosistratus, Euthynus, Zaleucus, Timares. 
+
 Ποσειδωνιᾶται Ἀθάμας, Σῖμος, Πρόξενος, Κράνοος, Μύης, Βαθύλαος, Φαίδων.
 
+Of the Posidonians, Athamas, Simus, Proxenus, Cranous, Myes, Bathylaus, Phædon. 
+
+Of the Lucani, Ocellus and Occillus who were brothers, Oresandrus, Cerambus, Dardaneus, Malion. 
+
 Λευκανοὶ Ὄκελλος καὶ Ὄκκιλος ἀδελφοί, Ὀρέσανδρος, Κέραμβος, Δαρδανεύς, Μαλίων.
+
+Of the Ægeans, Hippomedon, Timosthenes, Euelthon, Thrasydamus, 
 
 Ἀργεῖοι Ἱππομέδων, Τιμοσθένης, Εὐέλθων, Θρασύδαμος, Κρίτων, Πολύκτωρ.
 
 Λάκωνες Αὐτοχαρίδας, Κλεάνωρ, Εὐρυκράτης.
+Crito, Polyctor. 
+
+Of the Lacones, Autocharidas, Cleanor, Eurycrates. 
 
 Ὑπερβόρειος Ἄβαρις.
 
+Of the Hyperboreans, Abaris. 
+
 Ῥηγῖνοι Ἀριστείδης, Δημοσθένης, Ἀριστοκράτης, Φύτιος, Ἑλικάων, Μνησίβουλος, Ἱππαρχίδης, Εὐθοσίων, Εὐθυκλῆς, Ὄψιμος.
+
+Of the Rheginenses, Aristides, Demosthenes, Aristocrates, Phytius, Helicaon, Mnesibulus, Hipparchides, Athosion, Euthycles, Opsimus. 
 
 Κάλαϊς Σελινούντιος.
 
@@ -2433,14 +2476,28 @@ Many years after this, when Dinarchus and his associates were slain in another b
 
 Ποντικὸς Λύραμνος. οἱ πάντες σιηʹ.
 
-Πυθαγορίδες δὲ γυναῖκες αἱ ἐπιφανέσταται Τιμύχα γυνὴ ἡ Μυλλία τοῦ Κροτωνιάτου, Φίλτυς θυγάτηρ Θεόφριος τοῦ Κροτωνιάτου, Βυνδάκου ἀδελφὴ Ὀκέλλω καὶ Ἐκκέλω τῶν Λευκανῶν, Χειλωνὶς
+Of the Selinuntians, Calais. Of the Syracusans, Leptines, Phintias, Damon. 
 
-θυγάτηρ Χείλωνος τοῦ Λακεδαιμονίου, Κρατησίκλεια Λάκαινα γυνὴ Κλεάνορος τοῦ Λακεδαιμονίου, Θεανὼ γυνὴ τοῦ Μεταποντίνου Βροτίνου, Μυῖα γυνὴ Μίλωνος τοῦ Κροτωνιάτου, Λασθένεια Ἀρκάδισσα, Ἁβροτέλεια Ἁβροτέλους θυγάτηρ τοῦ Ταραντίνου, Ἐχεκράτεια Φλιασία, Τυρσηνὶς Συβαρῖτις, Πισιρρόδη Ταραντίς, Νισθεάδουσα Λάκαινα, Βοιὼ Ἀργεία, Βαβέλυκα Ἀργεία, Κλεαίχμα ἀδελφὴ Αὐτοχαρίδα τοῦ Λάκωνος. αἱ πᾶσαι ιζʹ.
+Of the Samians, Melissus, Lacon, Archippus, Glorippus, Heloris, Hippon,
 
-The successor, however, of Pythagoras, is acknowledged by all men to have been Aristæus, the son of Damophon the Crotonian, who existing at the same time as Pythagoras, was seven ages prior to Plato. Aristæus likewise, was not only thought worthy to succeed Pythagoras in his school, but also to educate his children, and marry his wife Theano, because he was eminently skilled in the Pythagoric dogmas. For Pythagoras himself is said to have taught in his school, forty years wanting one, and to have lived nearly one hundred years. But Aristæus, when much advanced inyears, relinquished the school; and after him Mnesarchus succeeded, who was the son of Pythagoras. Bulagoras succeeded Mnesarchus, in whose time it happened that the city of the Crotonians was plundered. Gartydas the Crotonian succeeded Bulagoras, on his return from a journey which he had undertaken prior to the war. Nevertheless on account of the calamity of his country, he suffered so much anxiety, as to die prematurely through grief. But it was the custom with the rest of the Pythagoreans, when they became very old, to liberate themselves from the body as from a prison.
-Moreover, some time after, Aresas Lucanus, being saved through certain strangers, undertook the management of the school; and to him came Diodorus Aspendius, who was received into the school, on account of the paucity of the Pythagoreans it contained. And in Heraclea, indeed, were Clinias and Philolaus; but at Metapontum, Theorides and Eurytus; and at Tarentum Archytas. It is also said that Epicharmus was one of the foreign auditors; but that he was not one of the school. Having however arrived at Syracuse, he abstained from philosophizing openly, on account of the tyranny of Hiero. But he inserted the conceptions of the men in metre, and published in comedies the occult dogmas of Pythagoras.
-Of all the Pythagoreans, however, it is probable that many are unknown and anonymous. But thefollowing are the names of those that are known and celebrated: Of the Crotonians, Hippostratus, Dymas, Ægon, Æmon, Sillus, Cleosthenes, Agelas, Episylus, Phyciadas, Ecphantus, Timæus, Buthius, Eratus, Itmæus, Rhodippus, Bryas, Evandrus, Myllias, Antimedon, Ageas, Leophron, Agylus, Onatus, Hipposthenes, Cleophron, Alcmæon, Damocles, Milon, Menon. Of the Metapontines, Brontinus, Parmiseus, Orestadas, Leon, Damarmenus, Æneas, Chilas, Melisias, Aristeas, Laphion, Evandrus, Agesidamus, Xenocades, Euryphemus, Aristomenes, Agesarchus, Alceas, Xenophantes, Thraseus, Arytus, Epiphron, Eiriscus, Megistias, Leocydes, Thrasymedes, Euphemus, Procles, Antimenes, Lacritus, Damotages, Pyrrho, Rhexibius, Alopecus, Astylus, Dacidas, Aliochus, Lacrates, Glycinus. Of the Agrigentines, Empedocles. Of the Eleatæ, Parmenides. Of the Tarentines, Philolaus, Eurytus, Archytas, Theodorus, Aristippus, Lycon, Hestiæus, Polemarchus, Asteas, Clinias, Cleon, Eurymedon, Arceas, Clinagoras, Archippus, Zopyrus, Euthynus, Dicæarchus, Philonidas, Phrontidas, Lysis, Lysibius, Dinocrates, Echecrates, Paction, Acusiladas, Icmus, Pisicrates, Clearatus.
-Of the Leontines, Phrynichus, Smichias, Aristoclidas, Clinias, Abroteles, Pisyrrhydus, Bryas, Evandrus, Archemachus, Mimnomachus, Achmonidas, Dicas, Carophantidas. Of the Sybarites, Metopus, Hippasus, Proxenus, Evanor, Deanax,Menestor, Diocles, Empedus, Timasius, Polemæus, Evæus, Tyrsenus. Of the Carthaginians, Miltiades, Anthen, Odius, Leocritus. Of the Parians, Æetius, Phænecles, Dexitheus, Alcimachus, Dinarchus, Meton, Timæus, Timesianax, Amærus, Thymaridas. Of the Locrians, Gyptius, Xenon, Philodamus, Evetes, Adicus, Sthenonidas, Sosistratus, Euthynus, Zaleucus, Timares. Of the Posidonians, Athamas, Simus, Proxenus, Cranous, Myes, Bathylaus, Phædon. Of the Lucani, Ocellus and Occillus who were brothers, Oresandrus, Cerambus, Dardaneus, Malion. Of the Ægeans, Hippomedon, Timosthenes, Euelthon, Thrasydamus, Crito, Polyctor. Of the Lacones, Autocharidas, Cleanor, Eurycrates. Of the Hyperboreans, Abaris. Of the Rheginenses, Aristides, Demosthenes, Aristocrates, Phytius, Helicaon, Mnesibulus, Hipparchides, Athosion, Euthycles, Opsimus. Of the Selinuntians, Calais. Of the Syracusans, Leptines, Phintias, Damon. Of the Samians, Melissus, Lacon, Archippus, Glorippus, Heloris, Hippon, Of the Caulonienses, Callibrotus, Dicon, Nastas, Drymon, Xentas. Of the Phliasians, Diocles, Echecrates, Polymnastus, Phanton. Of the Sicyonians, Poliades, Demon, Sostratius, Sosthenes. Of the Cyrenæans, Prorus, Melanippus, Aristangelus, Theodorus. Of the Cyziceni, Pythodorus, Hipposthenes, Butherus, Xenophilus. Of the Catanæi, Charondas, Lysiades. Of the Corinthians,Chrysippus. Of the Tyrrhenians, Nausitheus. Of the Athenians, Neocritus. And of Pontus, Lyramnus. In all, two hundred and eighteen. [And these, indeed, are not all the Pythagoreans, but of all of them they are the most famous.[56]]
+Of the Caulonienses, Callibrotus, Dicon, Nastas, Drymon, Xentas. 
+
+Of the Phliasians, Diocles, Echecrates, Polymnastus, Phanton. 
+
+Of the Sicyonians, Poliades, Demon, Sostratius, Sosthenes. Of the Cyrenæans, Prorus, Melanippus, Aristangelus, Theodorus. 
+
+Of the Cyziceni, Pythodorus, Hipposthenes, Butherus, Xenophilus. 
+
+Of the Catanæi, Charondas, Lysiades. Of the Corinthians,Chrysippus. 
+
+Of the Tyrrhenians, Nausitheus. Of the Athenians, Neocritus. 
+
+And of Pontus, Lyramnus. 
+
+In all, two hundred and eighteen. [And these, indeed, are not all the Pythagoreans, but of all of them they are the most famous.[56]]
+
+Πυθαγορίδες δὲ γυναῖκες αἱ ἐπιφανέσταται Τιμύχα γυνὴ ἡ Μυλλία τοῦ Κροτωνιάτου, Φίλτυς θυγάτηρ Θεόφριος τοῦ Κροτωνιάτου, Βυνδάκου ἀδελφὴ Ὀκέλλω καὶ Ἐκκέλω τῶν Λευκανῶν, Χειλωνὶς θυγάτηρ Χείλωνος τοῦ Λακεδαιμονίου, Κρατησίκλεια Λάκαινα γυνὴ Κλεάνορος τοῦ Λακεδαιμονίου, Θεανὼ γυνὴ τοῦ Μεταποντίνου Βροτίνου, Μυῖα γυνὴ Μίλωνος τοῦ Κροτωνιάτου, Λασθένεια Ἀρκάδισσα, Ἁβροτέλεια Ἁβροτέλους θυγάτηρ τοῦ Ταραντίνου, Ἐχεκράτεια Φλιασία, Τυρσηνὶς Συβαρῖτις, Πισιρρόδη Ταραντίς, Νισθεάδουσα Λάκαινα, Βοιὼ Ἀργεία, Βαβέλυκα Ἀργεία, Κλεαίχμα ἀδελφὴ Αὐτοχαρίδα τοῦ Λάκωνος. αἱ πᾶσαι ιζʹ.
+
 But the most illustrious Pythagorean women are Timycha, the wife of Myllias the Crotonian. Philtis, the daughter of Theophrius the Crotonian, Byndacis, the sister of Ocellus and Occillus, Lucanians. Chilonis, the daughter of Chilon the Lacedæmonian. Cratesiclea the Lacedæmonian, the wife of Cleanor the Lacedæmonian. Theano, the wife of Brontinus of Metapontum. Mya, the wife of Milon the Crotonian. Lasthenia the Arcadian. Abrotelia, the daughter of Abroteles the Tarentine. Echecratia the Phliasian. Tyrsenis, the Sybarite. Pisirrhonde, the Tarentine. Nisleadusa, the Lacedæmonian. Bryo, the Argive. Babelyma, the Argive. And Cleæchma, the sister of Autocharidas the Lacedæmonian. In all seventeen.
 
 </body>

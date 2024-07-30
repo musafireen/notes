@@ -1,1 +1,0 @@
-Ezekiel: { tammuz : adonis }

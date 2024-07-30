@@ -9,8 +9,38 @@ Myths can
 Does the fact that humans have sentience and conscious aim, make them unsuitable metaphors for processes that does not have conscious aims?
 
 Isn't it just the property of metaphor that not every property of the metaphor is to be expected in the thing itself?
+# matter
+
+Leucippus 440b
+Democritus 420b
+Epicurus 300b
+Lucretius 60b
+
+# kant
+
+# lange
 # thales
+
+## magnet animated
+
+## water
 Hydor
+
+### paracelsus
+
+### la voisiers
+
+### kant laplace
+
+# anaximander
+
+## apeiron
+
+## adice
+
+## atemporal
+
+## on
 # anaximader
 
 Apeiron
@@ -50,6 +80,11 @@ Arithmos
 Pan
 Tetractys
 # heraclitus
+
+## genesis
+
+## strife
+Logos
 genesis?
 Rhea
 Arche
@@ -74,6 +109,9 @@ Payche
 Daemon
 Genesis agon polemon eris
 Ecpyrosis agon homology eirene
+
+## opposites
+### dionysus
 # parmenides
 Eon
 Ananke
@@ -100,6 +138,8 @@ Separation
 Sun firy mass larger than peleponese
 
 N: nous moves arbitrarily. why did nous move one particle instead of other, why chose one moment to move not before or after 
+
+Conservation of mass
 # empedocles
 Stoicheia/Rhizomata
 Aether
@@ -112,6 +152,16 @@ Aphrodite
 Neikos
 
 Genesis?
+
+### darwin
+
+### schoepenhauer
+
+### newton
+
+### leibniz
+
+### boscovitch
 # democritus
 Motion
 Non-being

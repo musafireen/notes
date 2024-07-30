@@ -103,3 +103,11 @@ undefiled, pure
 • Ἡσιόδου 
 • γενεαλογίαν
 If I remembered the genealogy of Hesiod
+
+# 400c
+
+Σωκράτης
+πολλαχῇ μοι δοκεῖ τοῦτό γε: ἂν μὲν καὶ σμικρόν [400ξ] τις παρακλίνῃ, καὶ πάνυ. καὶ γὰρ σῆμά τινές φασιν αὐτὸ εἶναι τῆς ψυχῆς, ὡς τεθαμμένης ἐν τῷ νῦν παρόντι: καὶ διότι αὖ τούτῳ σημαίνει ἃ ἂν σημαίνῃ ἡ ψυχή, καὶ ταύτῃ ‘σῆμα’ ὀρθῶς καλεῖσθαι. δοκοῦσι μέντοι μοι μάλιστα θέσθαι οἱ ἀμφὶ Ὀρφέα τοῦτο τὸ ὄνομα, ὡς δίκην διδούσης τῆς ψυχῆς ὧν δὴ ἕνεκα δίδωσιν, τοῦτον δὲ περίβολον ἔχειν, ἵνα σῴζηται, δεσμωτηρίου εἰκόνα: εἶναι οὖν τῆς ψυχῆς τοῦτο, ὥσπερ αὐτὸ ὀνομάζεται, ἕως ἂν ἐκτείσῃ τὰ ὀφειλόμενα, τὸ ‘σῶμα,’ καὶ οὐδὲν δεῖν παράγειν οὐδ᾽ ἓν γράμμα. [400δ]
+
+Socrates
+I think this admits of many explanations, if a little, even very little, change is made; for some say it is the tomb (σῆμα) of the soul, [400c] their notion being that the soul is buried in the present life; and again, because by its means the soul gives any signs which it gives, it is for this reason also properly called “sign” (σῆμα). But I think it most likely that the Orphic poets gave this name, with the idea that the soul is undergoing punishment for something; they think it has the body as an enclosure to keep it safe, like a prison, and this is, as the name itself denotes, the safe (σῶμα) for the soul, until the penalty is paid, and not even a letter needs to be changed. [400d]

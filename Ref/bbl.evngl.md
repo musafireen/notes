@@ -75,6 +75,16 @@ Verily I say unto you, Whosoever shall not receive the kingdom of God as a littl
 
 Now the brother shall betray the brother to death, and the father the son; and children shall rise up against [their] parents, and shall cause them to be put to death.
 
+### 14
+οταν δε ιδητε το βδελυγμα της ερημωσεως το ρηθεν υπο δανιηλ του προφητου [εστος] [εστως] οπου ου δει ο αναγινωσκων νοειτω τοτε οι εν τη ιουδαια φευγετωσαν εις τα ορη
+
+But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand, ) then let them that be in Judaea flee to the mountains:
+
+### 15
+ο δε επι του δωματος μη καταβατω εις την οικιαν μηδε εισελθετω αραι τι εκ της οικιας αυτου
+
+And let him that is on the housetop not go down into the house, neither enter [therein], to take any thing out of his house:
+
 ### 30
 αμην λεγω υμιν οτι ου μη παρελθη η γενεα αυτη μεχρις ου παντα ταυτα γενηται
 

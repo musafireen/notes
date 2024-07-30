@@ -187,6 +187,10 @@ to turn out to be respected and conspicuous
 • οἰκειότης οἰκεῖος οἶκος 
 strangeness and familiarity
 
+# 179d
+τῷ ἔργῳ: οὕτω καὶ θεοὶ τὴν περὶ τὸν ἔρωτα σπουδήν τε καὶ ἀρετὴν μάλιστα τιμῶσιν. Ὀρφέα δὲ τὸν Οἰάγρου ἀτελῆ ἀπέπεμψαν ἐξ Ἅιδου, φάσμα δείξαντες τῆς γυναικὸς ἐφ᾽ ἣν ἧκεν, αὐτὴν δὲ οὐ δόντες, ὅτι μαλθακίζεσθαι ἐδόκει, ἅτε ὢν κιθαρῳδός, καὶ οὐ τολμᾶν ἕνεκα τοῦ ἔρωτος ἀποθνῄσκειν ὥσπερ Ἄλκηστις, ἀλλὰ διαμηχανᾶσθαι ζῶν εἰσιέναι εἰς Ἅιδου. τοιγάρτοι διὰ ταῦτα δίκην αὐτῷ ἐπέθεσαν, καὶ ἐποίησαν τὸν θάνατον αὐτοῦ ὑπὸ γυναικῶν
+
+In this manner even the gods give special honor to zeal and courage in concerns of love. But Orpheus, son of Oeagrus, they sent back with failure from Hades, showing him only a wraith of the woman for whom he came; her real self they would not bestow, for he was accounted to have gone upon a coward's quest, too like the minstrel that he was, and to have lacked the spirit to die as Alcestis did for the sake of love, when he contrived the means of entering Hades alive. Wherefore they laid upon him the penalty he deserved, and caused him to meet his death
 
 # 210b
 τὸ ἐπὶ ὁτῳοῦν σώματι τῷ ἐπὶ ἑτέρῳ σώματι ἀδελφόν ἐστι, 
@@ -277,7 +281,12 @@ I withhold my ears from the Sirens, and make off in flight
 • δραπετεύω δραπέτης διδράσκω 
 • τινά / παρά τινος
 to run away from someone
+# 218b
+Ἐρυξιμάχους, Παυσανίας, Ἀριστοδήμους τε καὶ Ἀριστοφάνας: Σωκράτη δὲ αὐτὸν τί δεῖ λέγειν, καὶ ὅσοι ἄλλοι; πάντες γὰρ κεκοινωνήκατε τῆς φιλοσόφου μανίας τε καὶ βακχείας—διὸ πάντες ἀκούσεσθε: συγγνώσεσθε γὰρ τοῖς τε τότε πραχθεῖσι καὶ τοῖς νῦν λεγομένοις. οἱ δὲ οἰκέται, καὶ εἴ τις ἄλλος ἐστὶν βέβηλός τε καὶ ἄγροικος, πύλας πάνυ μεγάλας τοῖς ὠσὶν ἐπίθεσθε.
+ἐπειδὴ γὰρ οὖν, ὦ ἄνδρες, ὅ τε λύχνος ἀπεσβήκει καὶ
 
+a Pausanias, an Aristodemus, and an Aristophanes—I need not mention Socrates himself—and all the rest of them; every one of you has had his share of philosophic frenzy and transport, so all of you shall hear. You shall stand up alike for what then was done and for what now is spoken. But the domestics, and all else profane and clownish, must clap the heaviest of doors upon their ears.
+“Well, gentlemen, when the lamp had been put out
 # 219e
 
 [pl.sym.219e](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0173%3Atext%3DSym.%3Asection%3D219e)

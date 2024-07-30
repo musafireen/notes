@@ -19,7 +19,7 @@ c 100 use lyre for soul to return to sphere
 
 [[iamb.pyth.md#28#_153]]
 
-[[Ref/hesiod]]
+[[hsd]]
 
 # animal taming with music
 solomon
@@ -85,7 +85,7 @@ at libertha aglaophamus initated pythagoras into the mysteries of orpheus that h
 
 Orpheus worshipped helios apollo in pangaeus near olympus near libethra and killed by ciconian maenads & buried in libethra near mouth pireia
 :aesch.bass
-:[[ovd.mm]]
+:[[ovd]]
 
 # lesbos
 Lyre-staked Head of orpheus used by thracian lesbian women for prophecy

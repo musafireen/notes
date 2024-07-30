@@ -1,4 +1,39 @@
 
+# 59b
+[pl.phaedo.59b](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Phaedo:section=59b)
+οἶσθα γάρ που τὸν ἄνδρα καὶ τὸν τρόπον αὐτοῦ.
+
+you know him [59b] and his character.
+
+Ἐχεκράτης
+πῶς γὰρ οὔ;γ
+
+Echecrates
+To be sure I do.
+
+Φαίδων
+ἐκεῖνός τε τοίνυν παντάπασιν οὕτως εἶχεν, καὶ αὐτὸς ἔγωγε ἐτεταράγμην καὶ οἱ ἄλλοι.
+
+Phaedo
+He was quite unrestrained, and I was much agitated myself, as were the others.
+
+Ἐχεκράτης
+ἔτυχον δέ, ὦ Φαίδων, τίνες παραγενόμενοι;
+
+Echecrates
+Who were these, Phaedo?
+
+Φαίδων
+οὗτός τε δὴ ὁ Ἀπολλόδωρος τῶν ἐπιχωρίων παρῆν καὶ Κριτόβουλος καὶ ὁ πατὴρ αὐτοῦ καὶ ἔτι Ἑρμογένης καὶ Ἐπιγένης καὶ Αἰσχίνης καὶ Ἀντισθένης: ἦν δὲ καὶ Κτήσιππος ὁ Παιανιεὺς καὶ Μενέξενος καὶ ἄλλοι τινὲς τῶν ἐπιχωρίων. Πλάτων δὲ οἶμαι ἠσθένει.
+
+Phaedo
+Of native Athenians there was this Apollodorus, and Critobulus and his father, and Hermogenes and Epiganes and Aeschines and Antisthenes; and Ctesippus the Paeanian was there too, and Menexenus and some other Athenians. But Plato, I think, was ill.
+
+Ἐχεκράτης
+ξένοι δέ τινες παρῆσαν;
+
+Echecrates
+Were any foreigners there?
 # 59d
 [pl.phaedo.59d](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Phaedo:section=59d)
 • τὰς αἱ τήν ἡ ὁ
@@ -102,8 +137,10 @@ to compose a fable
 [pl.phaedo.61e](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Phaedo:section=61e)
 "Why in the world do they say that it is not permitted to kill oneself, Socrates? 
 Κατὰ τί δὴ οὖν ποτε οὔ φασι θεμιτὸν εἶναι αὐτὸν ἑαυτὸν ἀποκτεινύναι͵ ὦ Σώκρατες;  
+
 I heard Philolaus, when he was living in our city, say the same thing you just said, and I have heard it from others, too, that one must not do this; 
 ἤδη γὰρ ἔγωγε͵ ὅπερ νυνδὴ σὺ ἤρου͵ καὶ Φιλολάου ἤκουσα͵ ὅτε παρ΄ ἡμῖν διῃτᾶτο͵ ἤδη δὲ καὶ ἄλλων τινῶν͵ ὡς οὐ δέοι τοῦτο ποιεῖν·
+
 but I never heard anyone say anything definite about it.”
 σαφὲς δὲ περὶ αὐτῶν οὐδενὸς πώποτε οὐδὲν ἀκήκοα.
 
@@ -132,20 +169,28 @@ and speaking in his native Doric.
 [pl.phaedo.62b](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Phaedo:section=62bd)
 “It would seem unreasonable, if put in this way,” said Socrates,
 Καὶ γὰρ ἂν δόξειεν͵ ἔφη ὁ Σωκράτης͵ οὕτω γ΄ εἶναι ἄλογον·
+
 but perhaps there is some reason in it.
 οὐ μέντοι ἀλλ΄ ἴσως γ΄ ἔχει τινὰ λόγον. 
+
 Now the doctrine that is taught in secret about this matter, that we men are in a kind of prison 
 ὁ μὲν οὖν ἐν ἀπορρήτοις λεγόμενος περὶ αὐτῶν λόγος͵ ὡς ἔν τινι φρουρᾷ ἐσμεν οἱ ἄνθρωποι  
+
 and must not set ourselves free or run away, 
 καὶ οὐ δεῖ δὴ ἑαυτὸν ἐκ ταύτης λύειν οὐδ΄ ἀποδιδράσκειν͵ 
+
 seems to me to be weighty and not easy to understand. 
 μέγας τέ τίς μοι φαίνεται καὶ οὐ ῥᾴδιος διιδεῖν· 
+
 But this at least, Cebes, I do believe is sound, that the gods are our guardians 
 οὐ μέντοι ἀλλὰ τόδε γέ μοι δοκεῖ͵ ὦ Κέβης͵ εὖ λέγεσθαι͵ τὸ θεοὺς εἶναι ἡμῶν τοὺς ἐπιμελουμένους 
+
 and that we men are one of the chattels to the gods. 
 καὶ ἡμᾶς τοὺς ἀνθρώπους ἓν τῶν κτημάτων τοῖς θεοῖς εἶναι. 
+
 Or does it not seem to you thus?”                             
 ἢ σοὶ οὐ δοκεῖ οὕτως;
+
 To me at least, said Cebes.           
 Ἔμοιγε͵ φησὶν ὁ Κέβης. 
 
@@ -170,6 +215,7 @@ such as has now come upon me. (...)       
 
 # 64c
 [pl.phaedo.64c](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Phaedo:section=64c)
+
 But let us leave them and have a word with ourselves: 
 εἴπωμεν γάρ͵ ἔφη͵ πρὸς ἡμᾶς αὐτούς͵ χαίρειν εἰπόντες ἐκείνοις· 
 Do we believe that there is such a thing as death?
@@ -456,6 +502,11 @@ the release of the soul from the chains of the body?
 ἐκλυομένην ὥσπερ [ἐκ] δεσμῶν ἐκ τοῦ σώματος;
 Very true, he said.                                 
 Πάνυ μὲν οὖν͵ ἔφη.
+
+# 69c
+[69ξ] κάθαρσίς τις τῶν τοιούτων πάντων καὶ ἡ σωφροσύνη καὶ ἡ δικαιοσύνη καὶ ἀνδρεία, καὶ αὐτὴ ἡ φρόνησις μὴ καθαρμός τις ᾖ. καὶ κινδυνεύουσι καὶ οἱ τὰς τελετὰς ἡμῖν οὗτοι καταστήσαντες οὐ φαῦλοί τινες εἶναι, ἀλλὰ τῷ ὄντι πάλαι αἰνίττεσθαι ὅτι ὃς ἂν ἀμύητος καὶ ἀτέλεστος εἰς Ἅιδου ἀφίκηται ἐν βορβόρῳ κείσεται, ὁ δὲ κεκαθαρμένος τε καὶ τετελεσμένος ἐκεῖσε ἀφικόμενος μετὰ θεῶν οἰκήσει. εἰσὶν γὰρ δή, ὥς φασιν οἱ περὶ τὰς τελετάς, ‘ναρθηκοφόροι
+
+[69c] from all these things, and self-restraint and justice and courage and wisdom itself are a kind of purification. And I fancy that those men who established the mysteries were not unenlightened, but in reality had a hidden meaning when they said long ago that whoever goes uninitiated and unsanctified to the other world will lie in the mire, but he who arrives there initiated and purified will dwell with the gods. For as they say in the mysteries, 'the thyrsus-bearers are many, but the mystics few';
 
 # 79e
 [pl.phaedo.79e](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Phaedo:section=79e)
@@ -1193,18 +1244,31 @@ others deeper and with a narrower opening than ours, 
 # 111d
 [pl.phaedo.111d](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Phaedo:section=111d)
 and some are shallower and wider;  
+
 ἔστι δ΄ οὓς καὶ βραχυτέρους τῷ βάθει τοῦ ἐνθάδε εἶναι καὶ πλατυτέρους. 
+
 all have numerous perforations, and passages broad and narrow in the interior of the earth, connecting them with one another; 
+
 τούτους δὲ πάντας ὑπὸ γῆν εἰς ἀλλήλους συντετρῆσθαί τε πολλαχῇ καὶ κατὰ στενότερα καὶ εὐρύτερα καὶ διεξόδους ἔχειν͵ 
+
 and there flows into and out of them, as into basins, a vast tide of water, 
+
 ᾗ πολὺ μὲν ὕδωρ ῥεῖν ἐξ ἀλλήλων εἰς ἀλλήλους ὥσπερ εἰς κρατῆρας͵ 
+
 and huge subterranean streams of perennial rivers, 
+
 καὶ ἀενάων ποταμῶν ἀμήχανα μεγέθη ὑπὸ τὴν γῆν 
-and springs hot and cold,                    
+
+and springs hot and cold,              
+
 καὶ θερμῶν ὑδάτων καὶ ψυχρῶν͵ 
+
 and a great fire, and great rivers of fire, 
+
 πολὺ δὲ πῦρ καὶ πυρὸς μεγάλους ποταμούς͵ 
+
 and streams of liquid mud, thin or thick 
+
 πολλοὺς δὲ ὑγροῦ πηλοῦ καὶ καθαρωτέρου καὶ βορβορωδεστέρου͵ 
 
 # 111e

@@ -1,6 +1,12 @@
 # dionysus_orpheus_pythagoras
 
 :[[aesch]]
+
+Dionysus śiva
+Orpheus nārada
+Apollo nārāyana
+Helios sūrya
+Pythagoras kapila
 # pylos mycenaean linear b
 c b1250 in pylos nestor castle linear b mycenaean tablet Dionysus associated with viticulture
 c b1250 athens st irene of kea church shrine to dionysus
@@ -19,6 +25,10 @@ c b1250 athens st irene of kea church shrine to dionysus
 ##### crete
 
 # thiasos bacchae
+
+## bassarae
+
+### bassaris
 
 Bacchic initiate uses frenzy to join thiasos
 :[[eurp]]

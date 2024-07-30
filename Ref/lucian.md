@@ -63,3 +63,20 @@ https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0420
 
 # scytha
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0520
+
+# sch
+## p275
+
+## p280
+### 22f
+
+# ?
+## c45
+### 10
+### 39
+
+### 79
+## c49
+### 12
+
+### 32

@@ -62,7 +62,7 @@ virocana prāhrādi vatsa of virāṭ while being milked for/as māyā by dvimur
 ##### takṣaka
 #### Nāga
 born of kadru's daughter surasā :[[MB#p1#c60#66]]
-:[[ŚB#11.2.7#12]]
+:[[SpB#11.2.7#12]]
 Pṛthivī, antarīkṣa, dyau, avaṭa, āpas Sarpa namas, & vanaspati yātudhāna namas :[[MtSm#2.7#15]]
 ask deva to ward off ahi :[[AV.ŚS#6.56#1]]
 Tiraściraji, Asita, pṛdaku, kaṅkaparvan :[[AV.ŚS#7.56#1-2]]

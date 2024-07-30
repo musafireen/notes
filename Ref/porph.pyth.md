@@ -1,3 +1,6 @@
+
+https://www.tertullian.org/fathers/porphyry_life_of_pythagoras_02_text.htm
+
 THE LIFE OF PYTHAGORAS
 [Translated by Kenneth Sylvan Guthrie]
 
@@ -118,7 +121,19 @@ It is well known that he showed his golden thigh to Abaris the Hyperborean, to c
 Verified predictions of earthquakes are handed down, also that he immediately chased a pestilence, suppressed violent winds and hail, calmed storms both on rivers and on seas, for the comfort and safe passage of his friends. As their poems attest, the like was often performed by Empedocles, Epimenides and Abaris, who had learned the art of doing these things from him. Empedocles, indeed, was surnamed Alexanemos, as the chaser of winds; Epimenides, Cathartes, the lustrator. Abaris was called Aethrobates, the walker in air; for he was carried in the air on an arrow of the Hyperborean Apollo, over rivers, seas and inaccessible places. It is believed that this was the method employed by Pythagoras when on the same day he discoursed with his friends at Metapontum and Tauromenium.
 
 # 30
-He soothed the passions of the soul and body by rhythms, songs and incantations. These he adapted and applied to his friends. He himself could hear the harmony of the Universe, and understood the universal music of the spheres, and of the stars which move in concert with them, and which we cannot hear because of the limitations of our weak nature. This is testified to by these characteristic verses of Empedocles:
+129 [440-445 K., 415-420 St.]. PORPH. V. Pyth. 30 
+
+αὐτὸς δὲ (Pythagoras) τῆς τοῦ παντὸς ἁρμονίας ἠκροᾶτο συνιεὶς τῆς καθολικῆς τῶν σφαιρῶν καὶ τῶν κατ᾿ αὐτὰς κινουμένων ἀστέρων ἁρμονίας, ἧς ἡμᾶς μὴ ἀκούειν διὰ σμικρότητα τῆς φύσεως. 
+
+(aus Nikomachos wie Iambl. V. P. 15). 1. 2 DIOG. VIII 54 [vgl. A 1 1 277.33]
+
+He soothed the passions of the soul and body by rhythms, songs and incantations. These he adapted and applied to his friends. He himself could hear the harmony of the Universe, and understood the universal music of the spheres, and of the stars which move in concert with them, and which we cannot hear because of the limitations of our weak nature. 
+
+τούτοις καὶ Ε. μαρτυρεῖ λέγων περὶ αὐτοῦ· 
+
+This is testified to by these characteristic verses of Empedocles:
+
+ἦν... αἰώνεσσιν᾽. 15 τὸ γὰρ περιώσια καὶ τῶν ὄντων λεύσσεσκεν ἕκαστα καὶ πραπίδων πλοῦτον καὶ τὰ ἐοικότα ἐμφαντικά μάλιστα τῆς ἐξαιρέτου καὶ ἀκριβεστέρας παρὰ τοὺς ἄλλους διοργανώσεως ἔν τε τῶι ὁρᾶν καὶ τῶι ἀκούειν καὶ τῶι νοεῖν τοῦ Πυθαγόρου 
 
 "Amongst these was one in things sublimest skilled,
 His mind with all the wealth of learning filled,
@@ -126,6 +141,7 @@ Whatever sages did invent, he sought;
 And whilst his thoughts were on this work intent,
 All things existent, easily he viewed,
 Through ten or twenty ages making search."
+
 
 # 31
 Indicating by sublimest things, and, he surveyed all existent things, and the wealth of the mind, and the like, Pythagoras 's constitution of body, mind, seeing, hearing and understanding, which was exquisite, and surpassingly accurate, Pythagoras affirmed that the nine Muses were constituted by the sounds made by the seven planets, the sphere of the fixed stars, and that which is opposed to our earth, called "anti-earth." He called Mnemosyne, or Memory, the composition, symphony and connexion of then all, which is eternal and unbegotten as being composed of all of them.

@@ -138,6 +138,25 @@ they will correspond in every way
 τὸ πρέπον εἰς δύναμιν
 as good as possible
 
+# 35
+συνεστήσατο ἐκ τῶνδέ τε καὶ τοιῷδε τρόπῳ. τῆς ἀμερίστου καὶ ἀεὶ κατὰ ταὐτὰ ἐχούσης οὐσίας καὶ τῆς αὖ περὶ τὰ σώματα γιγνομένης μεριστῆς τρίτον ἐξ ἀμφοῖν ἐν μέσῳ συνεκεράσατο οὐσίας εἶδος, τῆς τε ταὐτοῦ φύσεως αὖ πέρι καὶ τῆς τοῦ ἑτέρου, καὶ κατὰ ταὐτὰ συνέστησεν ἐν μέσῳ τοῦ τε ἀμεροῦς αὐτῶν καὶ τοῦ κατὰ τὰ σώματα μεριστοῦ: καὶ τρία λαβὼν αὐτὰ ὄντα συνεκεράσατο εἰς μίαν πάντα ἰδέαν, τὴν θατέρου φύσιν δύσμεικτον οὖσαν εἰς ταὐτὸν συναρμόττων βίᾳ. [35β] μειγνὺς δὲ μετὰ τῆς οὐσίας καὶ ἐκ τριῶν ποιησάμενος ἕν, πάλιν ὅλον τοῦτο μοίρας ὅσας προσῆκεν διένειμεν, ἑκάστην δὲ ἔκ τε ταὐτοῦ καὶ θατέρου καὶ τῆς οὐσίας μεμειγμένην. ἤρχετο δὲ διαιρεῖν ὧδε. μίαν ἀφεῖλεν τὸ πρῶτον ἀπὸ παντὸς μοῖραν, μετὰ δὲ ταύτην ἀφῄρει διπλασίαν ταύτης, τὴν δ᾽ αὖ τρίτην ἡμιολίαν μὲν τῆς δευτέρας, τριπλασίαν δὲ τῆς πρώτης, τετάρτην δὲ τῆς δευτέρας διπλῆν, πέμπτην δὲ τριπλῆν τῆς [35ξ] τρίτης, τὴν δ᾽ ἕκτην τῆς πρώτης ὀκταπλασίαν, ἑβδόμην δ᾽ ἑπτακαιεικοσιπλασίαν τῆς πρώτης: μετὰ δὲ ταῦτα συνεπληροῦτο
+
+and in the fashion which I shall now describe.
+Midway between the Being which is indivisible and remains always the same and the Being which is transient and divisible in bodies, He blended a third form of Being compounded out of the twain, that is to say, out of the Same and the Other; and in like manner He compounded it midway between that one of them which is indivisible and that one which is divisible in bodies. And He took the three of them, and blent them all together into one form, by forcing the Other into union with the Same, in spite of its being naturally difficult to mix. [35b] And when with the aid of Being He had mixed them, and had made of them one out of three, straightway He began to distribute the whole thereof into so many portions as was meet; and each portion was a mixture of the Same, of the Other, and of Being.1 And He began making the division thus: First He took one portion from the whole; then He took a portion double of this; then a third portion, half as much again as the second portion, that is, three times as much as the first; he fourth portion He took was twice as much as the second; the fifth three times as much as the third; [35c] the sixth eight times as much as the first; and the seventh twenty-seven times as much as the first.2
+# 40e
+παισὶν ἀπιστεῖν, καίπερ ἄνευ τε εἰκότων καὶ ἀναγκαίων ἀποδείξεων λέγουσιν, ἀλλ᾽ ὡς οἰκεῖα φασκόντων ἀπαγγέλλειν ἑπομένους τῷ νόμῳ πιστευτέον. οὕτως οὖν κατ᾽ ἐκείνους ἡμῖν ἡ γένεσις περὶ τούτων τῶν θεῶν ἐχέτω καὶ λεγέσθω. Γῆς τε καὶ Οὐρανοῦ παῖδες Ὠκεανός τε καὶ Τηθὺς ἐγενέσθην, τούτων δὲ Φόρκυς Κρόνος τε καὶ Ῥέα καὶ ὅσοι μετὰ
+
+It is, as I say, impossible to disbelieve the children of gods, even though their statements lack either probable or necessary demonstration; and inasmuch as they profess to speak of family matters, we must follow custom and believe them. Therefore let the generation of these gods be stated by us, following their account, in this wise: Of Ge and Uranus were born the children Oceanus and Tethys; and of these, Phorkys, Cronos, Rhea, and all that go with them;
+
+# 41d
+ἐγὼ παραδώσω: τὸ δὲ λοιπὸν ὑμεῖς, ἀθανάτῳ θνητὸν προσυφαίνοντες, ἀπεργάζεσθε ζῷα καὶ γεννᾶτε τροφήν τε διδόντες αὐξάνετε καὶ φθίνοντα πάλιν δέχεσθε.’
+
+For the rest, do ye weave together the mortal with the immortal, and thereby fashion and generate living creatures, and give them food that they may grow, and when they waste away receive them to yourselves again.”
+
+ταῦτ᾽ εἶπε, καὶ πάλιν ἐπὶ τὸν πρότερον κρατῆρα, ἐν ᾧ τὴν τοῦ παντὸς ψυχὴν κεραννὺς ἔμισγεν, τὰ τῶν πρόσθεν ὑπόλοιπα κατεχεῖτο μίσγων τρόπον μέν τινα τὸν αὐτόν, ἀκήρατα δὲ οὐκέτι κατὰ ταὐτὰ ὡσαύτως, ἀλλὰ δεύτερα καὶ τρίτα. συστήσας δὲ τὸ πᾶν διεῖλεν ψυχὰς ἰσαρίθμους τοῖς ἄστροις,
+
+Thus He spake, and once more into the former bowl, wherein He had blended and mixed the Soul of the Universe, He poured the residue of the previous material, mixing it in somewhat the same manner, yet no longer with a uniform and invariable purity, but second and third in degree of purity. And when He had compounded the whole He divided it into souls equal in number to the stars, and each several soul He assigned to one star, 
+
 # 91.d
 
 [pl.timaeus.91.d](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0179%3Atext%3DTim.%3Asection%3D91d)

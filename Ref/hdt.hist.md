@@ -1,5 +1,5 @@
 
-https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D1%3Achapter%3D102%3Asection%3D2
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0126
 # b1
 
 ## 102.1
@@ -67,10 +67,103 @@ But the Scythians who pillaged the temple, and all their descendants after them,
 
 1 The derivation of this word is uncertain; it is agreed that the disease was a loss of virility. In Hdt. 4.67 ἐναρής = ἀνδρόγονος.
 # b2
-## 44
-καὶ θέλων δὲ τούτων πέρι σαφές τι εἰδέναι ἐξ ὧν οἷόν τε ἦν, ἔπλευσα καὶ ἐς Τύρον τῆς Φοινίκης, πυνθανόμενος αὐτόθι εἶναι ἱρὸν Ἡρακλέος ἅγιον. [2] καὶ εἶδον πλουσίως κατεσκευασμένον ἄλλοισί τε πολλοῖσι ἀναθήμασι, καὶ ἐν αὐτῷ ἦσαν στῆλαι δύο, ἣ μὲν χρυσοῦ ἀπέφθου, ἣ δὲ σμαράγδου λίθου λάμποντος τὰς νύκτας μέγαθος. ἐς λόγους δὲ ἐλθὼν τοῖσι ἱρεῦσι τοῦ θεοῦ εἰρόμην ὁκόσος χρόνος εἴη ἐξ οὗ σφι τὸ ἱρὸν ἵδρυται. [3] εὗρον δὲ οὐδὲ τούτους τοῖσι Ἕλλησι συμφερομένους: ἔφασαν γὰρ ἅμα Τύρῳ οἰκιζομένῃ καὶ τὸ ἱρὸν τοῦ θεοῦ ἱδρυθῆναι, εἶναι δὲ ἔτεα ἀπ᾽ οὗ Τύρον οἰκέουσι τριηκόσια καὶ δισχίλια. εἶδον δὲ ἐν τῇ Τύρῳ καὶ ἄλλο ἱρὸν Ἡρακλέος ἐπωνυμίην ἔχοντος Θασίου εἶναι: [4] ἀπικόμην δὲ καὶ ἐς Θάσον, ἐν τῇ εὗρον ἱρὸν Ἡρακλέος ὑπὸ Φοινίκων ἱδρυμένον, οἳ κατ᾽ Εὐρώπης ζήτησιν ἐκπλώσαντες Θάσον ἔκτισαν: καὶ ταῦτα καὶ πέντε γενεῇσι ἀνδρῶν πρότερα ἐστὶ ἢ τὸν Ἀμφιτρύωνος Ἡρακλέα ἐν τῇ Ἑλλάδι γενέσθαι. [5] τὰ μέν νυν ἱστορημένα δηλοῖ σαφέως παλαιὸν θεὸν Ἡρακλέα ἐόντα, καὶ δοκέουσι δέ μοι οὗτοι ὀρθότατα Ἑλλήνων ποιέειν, οἳ διξὰ Ἡράκλεια ἱδρυσάμενοι ἔκτηνται, καὶ τῷ μὲν ὡς ἀθανάτῳ Ὀλυμπίῳ δὲ ἐπωνυμίην θύουσι, τῷ δὲ ἑτέρῳ ὡς ἥρωι ἐναγίζουσι.
+## c43
+τοιούτοισι ἐπείτε οὗτος ἀμείψατο Κροῖσον, ἤισαν μετὰ ταῦτα ἐξηρτυμένοι λογάσι τε νεηνίῃσι καὶ κυσί. ἀπικόμενοι δὲ ἐς τὸν Ὄλυμπον τὸ ὄρος ἐζήτεον τὸ θηρίον, εὑρόντες δὲ καὶ περιστάντες αὐτὸ κύκλῳ ἐσηκόντιζον.
 
-Moreover, wishing to get clear information about this matter where it was possible so to do, I took ship for Tyre in Phoenicia, where I had learned by inquiry that there was a holy temple of Heracles.1 [2] There I saw it, richly equipped with many other offerings, besides two pillars, one of refined gold, one of emerald: a great pillar that shone at night; and in conversation with the priests, I asked how long it was since their temple was built. [3] I found that their account did not tally with the belief of the Greeks, either; for they said that the temple of the god was founded when Tyre first became a city, and that was two thousand three hundred years ago. At Tyre I saw yet another temple of the so-called Thasian Heracles. [4] Then I went to Thasos, too, where I found a temple of Heracles built by the Phoenicians, who made a settlement there when they voyaged in search of Europe; now they did so as much as five generations before the birth of Heracles the son of Amphitryon in Hellas. [5] Therefore, what I have discovered by inquiry plainly shows that Heracles is an ancient god. And furthermore, those Greeks, I think, are most in the right, who have established and practise two worships of Heracles, sacrificing to one Heracles as to an immortal, and calling him the Olympian, but to the other bringing offerings as to a dead hero2.
+So when Adrastus had answered Croesus thus, they went out provided with chosen young men and dogs. When they came to Mount Olympus, they hunted for the beast and, finding him, formed a circle and threw their spears at him:
+
+ἔνθα δὴ ὁ ξεῖνος, οὗτος δὴ ὁ καθαρθεὶς τὸν φόνον, καλεόμενος δὲ Ἄδρηστος, ἀκοντίζων τὸν ὗν τοῦ μὲν ἁμαρτάνει, τυγχάνει δὲ τοῦ Κροίσου παιδός.
+
+then the guest called Adrastus, the man who had been cleansed of the deed of blood, missed the boar with his spear and hit the son of Croesus.
+
+
+
+So Atys was struck by the spear and fulfilled the prophecy of the dream. One ran to tell Croesus what had happened, and coming to Sardis told the king of the fight and the fate of his son.
+## c44
+### 1
+καὶ θέλων δὲ τούτων πέρι σαφές τι εἰδέναι ἐξ ὧν οἷόν τε ἦν, ἔπλευσα καὶ ἐς Τύρον τῆς Φοινίκης, πυνθανόμενος αὐτόθι εἶναι ἱρὸν Ἡρακλέος ἅγιον. 
+
+Moreover, wishing to get clear information about this matter where it was possible so to do, I took ship for Tyre in Phoenicia, where I had learned by inquiry that there was a holy temple of Heracles.1 
+
+### 2
+καὶ εἶδον πλουσίως κατεσκευασμένον ἄλλοισί τε πολλοῖσι ἀναθήμασι, καὶ ἐν αὐτῷ ἦσαν στῆλαι δύο, ἣ μὲν χρυσοῦ ἀπέφθου, ἣ δὲ σμαράγδου λίθου λάμποντος τὰς νύκτας μέγαθος. ἐς λόγους δὲ ἐλθὼν τοῖσι ἱρεῦσι τοῦ θεοῦ εἰρόμην ὁκόσος χρόνος εἴη ἐξ οὗ σφι τὸ ἱρὸν ἵδρυται. 
+
+[2] There I saw it, richly equipped with many other offerings, besides two pillars, one of refined gold, one of emerald: a great pillar that shone at night; and in conversation with the priests, I asked how long it was since their temple was built. 
+
+### 3
+εὗρον δὲ οὐδὲ τούτους τοῖσι Ἕλλησι συμφερομένους: ἔφασαν γὰρ ἅμα Τύρῳ οἰκιζομένῃ καὶ τὸ ἱρὸν τοῦ θεοῦ ἱδρυθῆναι, εἶναι δὲ ἔτεα ἀπ᾽ οὗ Τύρον οἰκέουσι τριηκόσια καὶ δισχίλια. εἶδον δὲ ἐν τῇ Τύρῳ καὶ ἄλλο ἱρὸν Ἡρακλέος ἐπωνυμίην ἔχοντος Θασίου εἶναι: 
+
+[3] I found that their account did not tally with the belief of the Greeks, either; for they said that the temple of the god was founded when Tyre first became a city, and that was two thousand three hundred years ago. At Tyre I saw yet another temple of the so-called Thasian Heracles. 
+
+### 4
+ἀπικόμην δὲ καὶ ἐς Θάσον, ἐν τῇ εὗρον ἱρὸν Ἡρακλέος ὑπὸ Φοινίκων ἱδρυμένον, οἳ κατ᾽ Εὐρώπης ζήτησιν ἐκπλώσαντες Θάσον ἔκτισαν: καὶ ταῦτα καὶ πέντε γενεῇσι ἀνδρῶν πρότερα ἐστὶ ἢ τὸν Ἀμφιτρύωνος Ἡρακλέα ἐν τῇ Ἑλλάδι γενέσθαι. 
+
+[4] Then I went to Thasos, too, where I found a temple of Heracles built by the Phoenicians, who made a settlement there when they voyaged in search of Europe; now they did so as much as five generations before the birth of Heracles the son of Amphitryon in Hellas. 
+
+### 5
+τὰ μέν νυν ἱστορημένα δηλοῖ σαφέως παλαιὸν θεὸν Ἡρακλέα ἐόντα, καὶ δοκέουσι δέ μοι οὗτοι ὀρθότατα Ἑλλήνων ποιέειν, οἳ διξὰ Ἡράκλεια ἱδρυσάμενοι ἔκτηνται, καὶ τῷ μὲν ὡς ἀθανάτῳ Ὀλυμπίῳ δὲ ἐπωνυμίην θύουσι, τῷ δὲ ἑτέρῳ ὡς ἥρωι ἐναγίζουσι.
+
+[5] Therefore, what I have discovered by inquiry plainly shows that Heracles is an ancient god. And furthermore, those Greeks, I think, are most in the right, who have established and practise two worships of Heracles, sacrificing to one Heracles as to an immortal, and calling him the Olympian, but to the other bringing offerings as to a dead hero2.
+
+## c49
+### 1
+ἤδη ὦν δοκέει μοι Μελάμπους ὁ Ἀμυθέωνος τῆς θυσίης ταύτης οὐκ εἶναι ἀδαὴς ἀλλ᾽ ἔμπειρος. Ἕλλησι γὰρ δὴ Μελάμπους ἐστὶ ὁ ἐξηγησάμενος τοῦ Διονύσου τό τε οὔνομα καὶ τὴν θυσίην καὶ τὴν πομπὴν τοῦ φαλλοῦ: ἀτρεκέως μὲν οὐ πάντα συλλαβὼν τὸν λόγον ἔφηνε, ἀλλ᾽ οἱ ἐπιγενόμενοι τούτῳ σοφισταὶ μεζόνως ἐξέφηναν: τὸν δ᾽ ὦν φαλλὸν τὸν τῷ Διονύσῳ πεμπόμενον Μελάμπους ἐστὶ ὁ κατηγησάμενος, καὶ ἀπὸ τούτου μαθόντες ποιεῦσι τὰ ποιεῦσι Ἕλληνες. 
+
+Now then, it seems to me that Melampus son of Amytheon was not ignorant of but was familiar with this sacrifice. For Melampus was the one who taught the Greeks the name of Dionysus and the way of sacrificing to him and the phallic procession; he did not exactly unveil the subject taking all its details into consideration, for the teachers who came after him made a fuller revelation; but it was from him that the Greeks learned to bear the phallus along in honor of Dionysus, and they got their present practice from his teaching. 
+
+### 2
+ἐγὼ μέν νυν φημὶ Μελάμποδα γενόμενον ἄνδρα σοφὸν μαντικήν τε ἑωυτῷ συστῆσαι καὶ πυθόμενον ἀπ᾽ Αἰγύπτου ἄλλα τε πολλὰ ἐσηγήσασθαι Ἕλλησι καὶ τὰ περὶ τὸν Διόνυσον, ὀλίγα αὐτῶν παραλλάξαντα. οὐ γὰρ δὴ συμπεσεῖν γε φήσω τά τε ἐν Αἰγύπτῳ ποιεύμενα τῷ θεῷ καὶ τὰ ἐν τοῖσι Ἕλλησι: ὁμότροπα γὰρ ἂν ἦν τοῖσι Ἕλλησι καὶ οὐ νεωστὶ ἐσηγμένα. 
+
+[2] I say, then, that Melampus acquired the prophetic art, being a discerning man, and that, besides many other things which he learned from Egypt, he also taught the Greeks things concerning Dionysus, altering few of them; for I will not say that what is done in Egypt in connection with the god and what is done among the Greeks originated independently: for they would then be of an Hellenic character and not recently introduced. 
+
+[3] οὐ μὲν οὐδὲ φήσω ὅκως Αἰγύπτιοι παρ᾽ Ἑλλήνων ἔλαβον ἢ τοῦτο ἢ ἄλλο κού τι νόμαιον. πυθέσθαι δέ μοι δοκέει μάλιστα Μελάμπους τὰ περὶ τὸν Διόνυσον παρὰ Κάδμου τε τοῦ Τυρίου καὶ τῶν σὺν αὐτῷ ἐκ Φοινίκης ἀπικομένων ἐς τὴν νῦν Βοιωτίην καλεομένην χώρην.
+
+[3] Nor again will I say that the Egyptians took either this or any other custom from the Greeks. But I believe that Melampus learned the worship of Dionysus chiefly from Cadmus of Tyre and those who came with Cadmus from Phoenicia to the land now called Boeotia.
+
+## c53
+
+ἔνθεν δὲ ἐγένοντο ἕκαστος τῶν θεῶν, εἴτε αἰεὶ ἦσαν πάντες, ὁκοῖοί τε τινὲς τὰ εἴδεα, οὐκ ἠπιστέατο μέχρι οὗ πρώην τε καὶ χθὲς ὡς εἰπεῖν λόγῳ. 
+
+But whence each of the gods came to be, or whether all had always been, and how they appeared in form, they did not know until yesterday or the day before, so to speak; 
+
+[2] Ἡσίοδον γὰρ καὶ Ὅμηρον ἡλικίην τετρακοσίοισι ἔτεσι δοκέω μευ πρεσβυτέρους γενέσθαι καὶ οὐ πλέοσι: οὗτοι δὲ εἰσὶ οἱ ποιήσαντες θεογονίην Ἕλλησι καὶ τοῖσι θεοῖσι τὰς ἐπωνυμίας δόντες καὶ τιμάς τε καὶ τέχνας διελόντες καὶ εἴδεα αὐτῶν σημήναντες. 
+
+[2] for I suppose Hesiod and Homer flourished not more than four hundred years earlier than I; and these are the ones who taught the Greeks the descent of the gods, and gave the gods their names, and determined their spheres and functions, and described their outward forms. 
+
+[3] οἱ δὲ πρότερον ποιηταὶ λεγόμενοι τούτων τῶν ἀνδρῶν γενέσθαι ὕστερον, ἔμοιγε δοκέειν, ἐγένοντο. τούτων τὰ μὲν πρῶτα αἱ Δωδωνίδες ἱρεῖαι λέγουσι, τὰ δὲ ὕστερα τὰ ἐς Ἡσίοδόν τε καὶ Ὅμηρον ἔχοντα ἐγὼ λέγω.
+
+[3] But the poets who are said to have been earlier than these men were, in my opinion, later. The earlier part of all this is what the priestesses of Dodona tell; the later, that which concerns Hesiod and Homer, is what I myself say.
+
+## c81
+### 1
+ἐνδεδύκασι δὲ κιθῶνας λινέους περὶ τὰ σκέλεα θυσανωτούς, τοὺς καλέουσι καλασίρις: ἐπὶ τούτοισι δὲ εἰρίνεα εἵματα λευκὰ ἐπαναβληδὸν φορέουσι. οὐ μέντοι ἔς γε τὰ ἱρὰ ἐσφέρεται εἰρίνεα οὐδὲ συγκαταθάπτεταί σφι: οὐ γὰρ ὅσιον.
+
+They wear linen tunics with fringes hanging about the legs, called “calasiris,” and loose white woolen mantles over these. But nothing woolen is brought into temples, or buried with them: that is impious.
+
+### 2
+ὁμολογέουσι δὲ ταῦτα τοῖσι Ὀρφικοῖσι καλεομένοισι καὶ Βακχικοῖσι, ἐοῦσι δὲ Αἰγυπτίοισι καὶ Πυθαγορείοισι: οὐδὲ γὰρ τούτων τῶν ὀργίων μετέχοντα ὅσιον ἐστὶ ἐν εἰρινέοισι εἵμασι θαφθῆναι. ἔστι δὲ περὶ αὐτῶν ἱρὸς λόγος λεγόμενος.
+
+They agree in this with practices called Orphic and Bacchic, but in fact Egyptian and Pythagorean: for it is impious, too, for one partaking of these rites to be buried in woolen wrappings. There is a sacred legend about this.
+
+## c123
+### 1
+τοῖσι μέν νυν ὑπ᾽ Αἰγυπτίων λεγομένοισι χράσθω ὅτεῳ τὰ τοιαῦτα πιθανά ἐστι: ἐμοὶ δὲ παρὰ πάντα τὸν λόγον ὑπόκειται ὅτι τὰ λεγόμενα ὑπ᾽ ἑκάστων ἀκοῇ γράφω. ἀρχηγετέειν δὲ τῶν κάτω Αἰγύπτιοι λέγουσι Δήμητρα καὶ Διόνυσον.
+
+These Egyptian stories are for the benefit of whoever believes such tales: my rule in this history is that I record what is said by all as I have heard it. The Egyptians say that Demeter and Dionysus are the rulers of the lower world.1
+
+1 Isis and Osiris.
+
+### 2
+πρῶτοι δὲ καὶ τόνδε τὸν λόγον Αἰγύπτιοι εἰσὶ οἱ εἰπόντες, ὡς ἀνθρώπου ψυχὴ ἀθάνατος ἐστί, τοῦ σώματος δὲ καταφθίνοντος ἐς ἄλλο ζῷον αἰεὶ γινόμενον ἐσδύεται, ἐπεὰν δὲ πάντα περιέλθῃ τὰ χερσαῖα καὶ τὰ θαλάσσια καὶ τὰ πετεινά, αὖτις ἐς ἀνθρώπου σῶμα γινόμενον ἐσδύνει: τὴν περιήλυσιν δὲ αὐτῇ γίνεσθαι ἐν τρισχιλίοισι ἔτεσι.
+
+The Egyptians were the first who maintained the following doctrine, too, that the human soul is immortal, and at the death of the body enters into some other living thing then coming to birth; and after passing through all creatures of land, sea, and air, it enters once more into a human body at birth, a cycle which it completes in three thousand years.
+
+### 3
+τούτῳ τῷ λόγῳ εἰσὶ οἳ Ἑλλήνων ἐχρήσαντο, οἳ μὲν πρότερον οἳ δὲ ὕστερον, ὡς ἰδίῳ ἑωυτῶν ἐόντι: τῶν ἐγὼ εἰδὼς τὰ οὐνόματα οὐ γράφω.
+
+There are Greeks who have used this doctrine, some earlier and some later, as if it were their own; I know their names, but do not record them.
+
+## 144
 ## 146.2
 νῦν δὲ Διόνυσόν τε λέγουσι οἱ Ἕλληνες ὡς αὐτίκα γενόμενον ἐς τὸν μηρὸν ἐνερράψατο Ζεὺς καὶ ἤνεικε ἐς Νύσαν τὴν ὑπὲρ Αἰγύπτου ἐοῦσαν ἐν τῇ Αἰθιοπίῃ, καὶ Πανός γε πέρι οὐκ ἔχουσι εἰπεῖν ὅκῃ ἐτράπετο γενόμενος. δῆλά μοι γέγονε ὅτι ὕστερον ἐπύθοντο οἱ Ἕλληνες τούτων τὰ οὐνόματα ἢ τὰ τῶν ἄλλων θεῶν: ἀπ᾽ οὗ δὲ ἐπύθοντο χρόνου, ἀπὸ τούτου γενεηλογέουσι αὐτῶν τὴν γένεσιν.
 
@@ -85,7 +178,9 @@ but as it is, the Greek story has it that no sooner was Dionysus born than Zeus 
 # b4
 
 ## 11.1
+## c36
 
+## c79
 
 # b7
 ## 64.1
@@ -99,4 +194,9 @@ but as it is, the Greek story has it that no sooner was Dionysus born than Zeus 
 
 ## 66.1
 ἄριοι δὲ τόξοισι μὲν ἐσκευασμένοι ἦσαν Μηδικοῖσι, τὰ δὲ ἄλλα κατά περ Βάκτριοι. Ἀρίων δὲ ἦρχε Σισάμνης ὁ Ὑδάρνεος. Πάρθοι δὲ καὶ Χοράσμιοι καὶ Σόγδοι τε καὶ Γανδάριοι καὶ Δαδίκαι τὴν αὐτὴν σκευὴν ἔχοντες τὴν καὶ Βάκτριοι ἐστρατεύοντο.
+
+# b8
+## c27
+### 3
+### 4
 

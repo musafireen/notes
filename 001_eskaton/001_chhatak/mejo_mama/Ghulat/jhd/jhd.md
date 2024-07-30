@@ -114,6 +114,7 @@
 
 ## byE $jr ( ) hudaybiyah
 ## wEd gnm ( ) khaybar
+## xlf gnm ( ) khaybar
 
 # 5.11
 
@@ -146,13 +147,34 @@
 # 9:42-99
 
 ![[Qrsed#r9.6]]![[Qrsed#r9.7]]![[Qrsed#r9.8]]![[Qrsed#r9.9]]![[Qrsed#r9.11]]![[Qrsed#r9.12]]
-## tabouk
+
+## Amr qlb ftn (  ) uhud
+## xlf qEd ( ) tabouk
 
 # 9:107
 
 ![[Qrsed#9:107]]
 
 ## dirar
+
+# 9:117
+
+![[Qrsed#9:117]]
+
+## tbE Esr ( ) tabuk
+
+# 9:118
+
+![[Qrsed#9:118]]
+
+## xlf Dyq ( )
+
+# 9:120
+
+![[Qrsed#9:120]]
+
+## xlf Erb madiynap (  )
+
 
 # 17:73
 

@@ -1,4 +1,6 @@
 # jud
+https://www.sefaria.org/The_Antiquities_of_the_Jews
+
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D8%3Awhiston%20chapter%3D6%3Awhiston%20section%3D1
 ## b8
 ### 5.3

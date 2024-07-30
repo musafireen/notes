@@ -1,10 +1,78 @@
 https://penelope.uchicago.edu/Thayer/H/Roman/Texts/Diodorus_Siculus/10*.html
 
+https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html
+
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0540
 
 https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0060.tlg001.perseus-grc4:/
 
+# b1
+## c11
+### 3
+## c16
+## c21
+## c22
+
+## c96
+
+1
+But now that we have examined these matters, we must enumerate what Greeks, who have won fame for their wisdom and learning, visited Egypt in ancient times, in order to become acquainted with its customs and learning. 
+### 2 
+οἱ γὰρ ἱερεῖς τῶν Αἰγυπτίων ἱστοροῦσιν ἐκ τῶν ἀναγραφῶν τῶν ἐν ταῖς ἱεραῖς βίβλοις παραβαλεῖν πρὸς ἑαυτοὺς τὸ παλαιὸν Ὀρφέα τε καὶ Μουσαῖον καὶ Μελάμποδα καὶ Δαίδαλον, πρὸς δὲ τούτοις Ὅμηρόν τε τὸν ποιητὴν καὶ Λυκοῦργον τὸν Σπαρτιάτην, ἔτι δὲ Σόλωνα τὸν Ἀθηναῖον καὶ Πλάτωνα τὸν φιλόσοφον, ἐλθεῖν δὲ καὶ Πυθαγόραν τὸν Σάμιον καὶ τὸν μαθηματικὸν Εὔδοξον, ἔτι δὲ Δημόκριτον τὸν Ἀβδηρίτην καὶ Οἰνοπίδην τὸν Χῖον.
+
+For the priests of Egypt recount from the records of their sacred books that they were visited in early times by Orpheus, Musaeus, Melampus, and Daedalus, also by the poet Homer and Lycurgus of Sparta, later by Solon of Athens and the philosopher Plato, and that there also came Pythagoras of Samos and the mathematician Eudoxus,52 as well as Democritus of Abdera and Oenopides53 of Chios. 
+
+### 3 
+As evidence for the visits of all these men they point in some cases to their statues and in others to places or buildings54 which bear their names, and they offer proofs from the branch of learning which each one of these men pursued, arguing that all the things for which they were admired among the Greeks were transferred from Egypt.
+
+4 Orpheus, for instance, brought from Egypt most of his mystic ceremonies, the orgiastic rites that accompanied his wanderings, and his fabulous account of his experiences in Hades. 5 For the rite of Osiris is the same as that of Dionysus and that of Isis very similar to that of Demeter, the names alone having been interchanged; and the punishments in Hades of the unrighteous, the Fields of the Righteous, and the fantastic conceptions, current among the  p329 many, which are figments of the imagination — all these were introduced by Orpheus in imitation of the Egyptian funeral customs. 6 Hermes, for instance, the Conductor of Souls, according to the ancient Egyptian custom, brings up the body of the Apis to a certain point and then gives it over to one who wears the mask of Cerberus. And after Orpheus had introduced this notion among the Greeks, Homer55 followed it when he wrote:
+
+Cyllenian Hermes then did summon forth
+
+The suitors's souls, holding his wand in hand.
+
+And again a little further56 on he says:
+
+They passed Oceanus' streams, the Gleaming Rock,
+
+The Portals of the Sun, the Land of Dreams;
+
+And now they reached the Meadow of Asphodel,
+
+Where dwell the Souls, the shades of men outworn.
+
+7 Now he calls the river "Oceanus"57 because in their language the Egyptians speak of the Nile as Oceanus; the "Portals of the Sun" (Heliopulai) is his name for the city of Heliopolis; and "Meadows," the mythical dwelling of the dead, is his term for the place near the lake which is called Acherousia, which is near Memphis, and around it are fairest meadows, of a marsh-land and lotus and reeds. The same explanation also serves for the statement that the dwelling of the dead is in these regions, since the most and the largest tombs of the Egyptians are situated there, the  p331 dead being ferried across both the river and Lake Acherousia and their bodies laid in the vaults situated there.
+
+8 The other myths about Hades, current among the Greeks, also agree with the customs which are practised even now in Egypt. For the boat which receives the bodies is called baris,58 and the passenger's fee is given to the boatman, who in the Egyptian tongue is called charon. 9 And near these regions, they say, are also the "Shades," which is a temple of Hecate, and "portals" of Cocytus and Lethe, which are covered at intervals with bands of bronze.59 There are, moreover, other portals, namely, those of Truth, and near them stands a headless statue60 of Justice.
+
+## c97
+1 Many other things as well, of which mythology tells, are still to be found among the Egyptians, the name being still preserved and the customs actually being practised. 
+
+2 In the city of Acanthi, for instance, across the Nile in the direction of Libya one hundred and twenty stades from Memphis, there is a perforated jar to which three hundred and sixty priests, one each day, bring water from the Nile;61 
+
+3 and not far from there the actual performance of the myth of Ocnus62 is to be seen in one of their festivals, where a single man is weaving at one end of a long  p333 rope and many others beyond him are unravelling it. 
+
+### 4 
+Μελάμποδα δέ φασι μετενεγκεῖν ἐξ Αἰγύπτου τὰ Διονύσῳ νομιζόμενα τελεῖσθαι παρὰ τοῖς Ἕλλησι καὶ τὰ περὶ Κρόνου μυθολογούμενα καὶ τὰ περὶ τῆς Τιτανομαχίας καὶ τὸ σύνολον τὴν περὶ τὰ πάθη τῶν θεῶν ἱστορίαν.
+
+Melampus also, they say, brought from Egypt the rites which the Greeks celebrate in the name of Dionysus, the myths about Cronus and the War with the Titans, and, in a word, the account of the things which happened to the gods. 
+
+### 5 
+Daedalus, they relate, copied the maze of the Labyrinth which stands to our day and was built, according to some, by Mendes,63 but according to others, by king Marrus, many years before the reign of Minos. 
+
+6 And the proportions of the ancient statues of Egypt are the same as in those made by Daedalus among the Greeks. The very beautiful propylon of the temple of Hephaestus in Memphis was also built by Daedalus, who became an object of admiration and was granted a statue of himself in wood, which was made by his own hands and set up in this temple; furthermore, he was accorded great fame because of his genius and, after making many discoveries, was granted divine honours; for on one of the islands off Memphis there stands even to this day a temple of Daedalus, which is honoured by the people of that region.
+
+7 And as proof of the presence of Homer in Egypt they adduce various pieces of evidence, and especially the healing drink which brings forgetfulness of all past evils, which was given by Helen to Telemachus in the home of Menelaüs. For it is manifest that the poet had acquired exact knowledge of the "nepenthic"64 drug which he says Helen brought from Egyptian Thebes, given her by Polydamna the  p335 wife of Thon; for, they allege, even to this day the women of this city use this powerful remedy, and in ancient times, they say, a drug to cure anger and sorrow was discovered exclusively among the women of Diospolis; but Thebes and Diospolis, they add, are the same city. 
+
+8 Again, Aphroditê is called "golden"65 by the natives in accordance with an old tradition, and near the city which is called Momemphis there is a plain "of golden Aphroditê." 
+
+9 Likewise, the myths which are related about the dalliance of Zeus and Hera and of their journey to Ethiopia he also got from Egypt; for each year among the Egyptians the shrine of Zeus is carried across the river into Libya and then brought back some days later, as if the god were arriving from Ethiopia; and as for the dalliance of these deities, in their festal gatherings the priests carry the shrines of both to an elevation that has been strewn with flowers of every description.66
+
 # b3
+## c60
+## c62
+### 6
+### 10
 ## c64
 ### 1
 δεύτερον δὲ μυθολογοῦσι γενέσθαι Διόνυσον ἐκ Διὸς καὶ Φερσεφόνης, ὡς δέ τινες, ἐκ Δήμητρος. τοῦτον δὲ παρεισάγουσι πρῶτον βοῦς ὑπ᾽ ἄροτρον ζεῦξαι, τὸ πρὸ τοῦ ταῖς χερσὶ τῶν ἀνθρώπων τὴν γῆν κατεργαζομένων. πολλὰ δὲ καὶ ἄλλα φιλοτέχνως ἐπινοῆσαι τῶν πρὸς τὴν γεωργίαν χρησίμων, δι᾽ [p. 371] ὧν ἀπολυθῆναι τοὺς ὄχλους τῆς πολλῆς κακοπαθείας:
@@ -57,6 +125,8 @@ Mythologising, you and another Dionysus happened much earlier than this. for fro
 λέγουσι δ᾽ αὐτὸν ἀγχινοίᾳ διενεγκεῖν, καὶ πρῶτον ἐπιχειρῆσαι βοῦς ζευγνύειν καὶ διὰ τούτων τὸν σπόρον τῶν καρπῶν ἐπιτελεῖν: ἀφ᾽ οὗ δὴ καὶ κερατίαν αὐτὸν παρεισάγουσι. καὶ τὸν μὲν ἐκ Σεμέλης γενόμενον ἐν τοῖς νεωτέροις χρόνοις φασὶ τῷ σώματι γενέσθαι τρυφερὸν καὶ παντελῶς ἁπαλόν, εὐπρεπείᾳ δὲ πολὺ τῶν ἄλλων διενεγκεῖν καὶ πρὸς τὰς ἀφροδισιακὰς ἡδονὰς εὐκατάφορον γεγονέναι, κατὰ δὲ τὰς στρατείας γυναικῶν πλῆθος περιάγεσθαι καθωπλισμένων λόγχαις τεθυρσωμέναις.
 
 they say, let them dispose of it with stinging nettles, and first try to marry them, and by means of these they will produce the seed of the fruits: whence they shall also bring him in. and the one who was born from Semele in recent times was born tender and completely gentle, and in the decency of others they conducted many events favorable to aphrodisiac pleasures, and according to the hosts of women they were surrounded by prostrate ones don't be fooled.
+
+## c6
 
 ## c25
 

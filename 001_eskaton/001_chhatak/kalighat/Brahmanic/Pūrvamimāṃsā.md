@@ -1,1 +1,1 @@
-devatā same as rg, yajur applying to devatā :[[ŚB#7.5.1#4]]
+devatā same as rg, yajur applying to devatā :[[SpB#7.5.1#4]]

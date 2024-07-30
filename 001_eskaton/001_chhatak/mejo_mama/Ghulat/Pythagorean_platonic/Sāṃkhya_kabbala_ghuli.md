@@ -1,4 +1,4 @@
-1 
+# 1 
 § aḥad
 § monad
 § idea of agatha
@@ -6,7 +6,7 @@
 § ananke
 § kāla
 
-2
+# 2
 § nūr 'ala nūr, nur-muhammad śūrāt allāh 
 (inārah tanwīr munawwar (নুর এ মুহাম্মদ, ইনারা, তানভীর, মনোয়ার) illuminati)
 § allāh, śayṭān
@@ -18,7 +18,7 @@
 § puruṣa, prakṛti
 § ahura mazda, angra mainyu
 
-3 
+# 3 
 § 'alī, muḥammad, salmān
 § ma'nā, ism/ḥijāb, bāb
 § aḥad, 'aql, nafs
@@ -37,11 +37,9 @@
 § adoxastus, aclineis, acradans (ontea)
 § lāt, ',uzza, manāt
 § athena, aphrodite, tyche
-§ olympic, nemean, pythian, isthmian
-§ elis, argos, delphi, corinth
-§ zeus, heracles, apollo, sisyphus
+§ zas, cthonie, chronos (pherecydes arche)
 
-4 
+# 4 
 § (weeks in a month, directions, seasons) 
 § ab bakr, 'umar, uthmān, 'alī (rashidun khalifs)
 § hanifa-kufa-balkh, malik-madina, shafi'i-ghaza-makka-fustat, hanbal-basra-harran-baghdad (faqihs)
@@ -85,8 +83,11 @@
 § nara, nārāyana, hari, kṛṣṇa (mūrti /vidha)
 § dharma, jñāna, aiśvarya, vairāgya (?viśeṣaṇa)
 § (dhyāna)
+§ olympic, nemean, pythian, isthmian
+§ elis, argos, delphi, corinth
+§ zeus, heracles, apollo, sisyphus
 
-5 
+# 5 
 § 'muḥammad, fātima, 'alī, ḥasan, ḥusen (ahl bayt)
 § (mālikan)
 § salmān, , , ,  ()
@@ -106,8 +107,9 @@
 § viṣṇu, puruṣa, satya, acyuta, aniruddha (mūrti)
 § matsya, kūrma, varāha, nṛsimha, vāmana (āvirbhāva)
 § paraśurāma, rāghavarāma, balarāma, kṛṣṇa, kalkin (prādurbhāva)
+§ ahunavaiti, ushtavaiti, spenta mainyu, vohu khshathra, vahishto ishti (gatha sections)
 
-6
+# 6
 § adam, nūḥ, ibrāhīm, mūsā, 'īsā, muḥammad (nāṭiq)
 § seth, sem, ishmael, aaron, simeon, 'alī (wasī)
 § bukhari, naysaburi, zaranji, tirmidhī, qazwīni, nasā'i (sahih)
@@ -115,7 +117,7 @@
 § anupalabdhi, arthāpatti, upamāṇa, śabda, anumāṇa, pratyakṣa (pramāṇa)
 § marīci, atri, aṅgirā, pulatsya, pulaha, kratu (brahmāmānasaputra)
 
-7 
+# 7 
 § (weekdays) 
 § adam, nūḥ, ibrāhīm, mūsā, (dāwūd,) 'īsā, muḥammad (nāṭiq)
 § seth, sem, ishmael, aaron, (solomom,) simeon, 'alī (wasī)
@@ -132,12 +134,13 @@
 § āgastya, ||, ||, ||, ||, ||, || (jaiminiya vaivasvata saptarṣi)
 § imru' l qays o qaryah l faw, labīd o ? /nābigha o rummah, tarafa o gerrha, zuhayr b abi sulma o ? /a'śa o yamama, antara b śaddād o qusaybah, amr b kulthum o mardin ayn tamr, harith b hilliza o gerrha (mu'alallaqāt)
 § ṣaḍja, ṛṣabha, gāndhāra, madhyama, pancama, dhaivata, niṣād (svara saptaka)
+§ chronos, eros, pyr, aer, hydor, gaia, chthon (pherecydes sphere/peplos)
 
-10 
+# 10 
 § murāqaba, qurb, wajd, sukr, wudd, 'iśq, yaqīn (aḥwāl)
 § kāli, tārā, tripurā, bhuvaneśvarī, bhairavi, chinnamastā, dhumavati, bagalamukhi, mātaṅgi, kamalā
 
-12
+# 12
 § (months) 
 § 'alī, ḥasan, ḥusen, a. zen, m. bāqir, ja'far, kāz.im, a. riḍā, m. jawwād, a. hādī, ḥ. 'askarī, mahdīy (imams)
 § , , , , , , , , , , , (naqīban)
@@ -146,20 +149,20 @@
 § C, C#, D, D#, E, F, F#, G, G#, A, A#, B (diatonic scale notes)
 § mitra, varuṇa, śakra, aryamā, tvaṣṭā, puṣā, dhāta, bhaga, aṃśa, savitā, viṣṇu, vivasvān (āditya)
 
-18
+# 18
 § 'alī, ḥusen, a. zen, m. bāqir, ja'far, ismā'īl, m. b ismā'īl, aḥ. wafī, m. ṭaqī, ḥu. raḍī, aa. maḥdī b l., qāim b 'amr, manṣūr b naṣr, mu'izz b dīn, nizār 'azīz ḥākim b 'amr, z.āhir l i'zāz dīn, mustanṣir b l., (fātimī imām)
 § ādi, sabhā, vana, virāṭ, udyoga, bhiṣma, droṇa, karṇa, śālya, sauptika, strī, śānti, anuśāsana, aśvamedha, āśramavāsika, mauṣala, mahāprasthāna, svargārohana (mahābharata parvas)
 
-22
+# 22
 
-23
+# 23
 
-24
+# 24
 
-25
+# 25
 § nizār mustafā, (a. hadī, muhtadī /sinān,) jalal dīn, 'alā dīn, rukn dīn, ' śams (mu'minī mongoled imāms)
 
-28
+# 28
 § (nājiban)
 § nizār mustafā, (a. hadī, muhtadī, ḥ. qāhir,) ḥ. 'alā dhikrih l salām', nūr dīn, jalal dīn, 'alā dīn, rukn dīn, ' śams (qāṣimī mongoled imāms)
 § aliph, ba, ta, tha, gim, ha, kha
@@ -168,7 +171,7 @@ sin, shin, ṣād, ḍād, ṭā, zā,
 'ain, ghain, fa, qaf, kaf,
 lam, mim, nun, ha, wa, ya
 
-49
+# 49
 § (qāsimi imams)
 
 

@@ -131,6 +131,17 @@
 
 ## fwj ((?:group|company|.*))
 
+# Q:7:46
+
+![[Qrsed#7:44]]![[Qrsed#7:46]]![[Qrsed#7:47]]
+
+## siyma` ()
+
+
+# Q:7:48
+
+![[Qrsed#7:48]]
+
 # Q:7:74
 
 [Q.7:74](https://quran.com/7:74/tafsirs/ar-tafsir-al-tabari)

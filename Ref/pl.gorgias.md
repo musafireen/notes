@@ -204,3 +204,11 @@ the legitimate brother
 to choke, throttle; to drown
 • χήν, χηνός, ὁ and ἡ
 wild goose, Anser cinereus
+
+# 523ab
+
+ἦν οὖν νόμος ὅδε περὶ ἀνθρώπων ἐπὶ Κρόνου, καὶ ἀεὶ καὶ νῦν ἔτι ἔστιν ἐν θεοῖς, τῶν ἀνθρώπων τὸν μὲν δικαίως τὸν βίον διελθόντα καὶ ὁσίως, ἐπειδὰν τελευτήσῃ, εἰς μακάρων νήσους ἀπιόντα οἰκεῖν ἐν πάσῃ εὐδαιμονίᾳ ἐκτὸς κακῶν, τὸν δὲ ἀδίκως καὶ ἀθέως εἰς τὸ τῆς τίσεώς τε καὶ δίκης δεσμωτήριον, ὃ δὴ Τάρταρον καλοῦσιν, ἰέναι. τούτων δὲ δικασταὶ ἐπὶ Κρόνου καὶ ἔτι νεωστὶ τοῦ Διὸς τὴν ἀρχὴν ἔχοντος ζῶντες ἦσαν ζώντων, ἐκείνῃ τῇ ἡμέρᾳ δικάζοντες ᾗ μέλλοιεν τελευτᾶν: κακῶς οὖν αἱ δίκαι ἐκρίνοντο.
+
+“Now in the days of Cronos (Κρόνος) there existed a law respecting the destiny of man, which has always been, and still continues to be in Heaven,---that he who has lived all his life in justice and holiness shall go, when he is dead, to the Islands of the Blessed, and dwell there in perfect happiness out of the reach of evil; but that he who has lived unjustly and impiously shall go to the house of vengeance and punishment, which is called Tartarus.”
+
+(trans. Benjamin Jowett, 1892)

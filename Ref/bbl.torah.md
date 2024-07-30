@@ -524,6 +524,14 @@ And Israel joined himself unto Baalpeor: and the anger of the LORD was kindled a
 עֵֽינֵיכֶם֙ הָֽרֹאֹ֔ת אֵ֛ת אֲשֶׁר־עָשָׂ֥ה יְהוָ֖ה בְּבַ֣עַל פְּע֑וֹר כִּ֣י כָל־הָאִ֗ישׁ אֲשֶׁ֤ר הָלַךְ֙ אַחֲרֵ֣י בַֽעַל־פְּע֔וֹר הִשְׁמִיד֛וֹ יְהוָ֥ה אֱלֹהֶ֖יךָ מִקִּרְבֶּֽךָ ׃
 
 Your eyes have seen what the LORD did because of Baalpeor: for all the men that followed Baalpeor, the LORD thy God hath destroyed them from among you.
+
+## c6
+
+### 4
+שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד
+
+Hear, O Israel: The LORD our God [is] one LORD:
+
 ## c21
 ### 3
 וְהָיָ֣ה הָעִ֔יר הַקְּרֹבָ֖ה אֶל־הֶחָלָ֑ל וְלָֽקְח֡וּ זִקְנֵי֩ הָעִ֨יר הַהִ֜וא עֶגְלַ֣ת בָּקָ֗ר אֲשֶׁ֤ר לֹֽא־עֻבַּד֙ בָּ֔הּ אֲשֶׁ֥ר לֹא־מָשְׁכָ֖ה בְּעֹֽל ׃
