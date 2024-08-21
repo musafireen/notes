@@ -103,6 +103,15 @@ And the devil that deceived them was cast into the lake of fire and brimstone, w
 και αυτη εστιν η [επαγγελια] [αγγελια] ην ακηκοαμεν απ αυτου και αναγγελλομεν υμιν οτι ο θεος φως εστιν και σκοτια εν αυτω ουκ εστιν ουδεμια
 
 This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
+## c3
+### 9
+πας ο γεγεννημενος εκ του θεου αμαρτιαν ου ποιει οτι σπερμα αυτου εν αυτω μενει και ου δυναται αμαρτανειν οτι εκ του θεου γεγεννηται
+
+Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.
+### 10
+εν τουτω φανερα εστιν τα τεκνα του θεου και τα τεκνα του διαβολου πας ο μη ποιων δικαιοσυνην ουκ εστιν εκ του θεου και ο μη αγαπων τον αδελφον αυτου
+
+In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
 ## c4
 ### 16
 και ημεις εγνωκαμεν και πεπιστευκαμεν την αγαπην ην εχει ο θεος εν ημιν ο θεος αγαπη εστιν και ο μενων εν τη αγαπη εν τω θεω μενει και ο θεος εν αυτω

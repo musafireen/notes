@@ -7,6 +7,20 @@ https://sanskritdocuments.org/doc_purana/bhagpur.html
 https://www.wisdomlib.org/hinduism/book/bhagavata-purana-sanskrit
 
 # p3
+## c16
+##### 10
+ये  मे  तनूर्  द्विज-वरान्  दुहतीर्  
+
+The brāhmaṇas, the cows and the defenseless creatures are My own body. 
+
+मदीया भूतान्य्  अलब्ध-शरानि  च  भेद-बुद्ध्या
+
+Those whose faculty of judgment has been impaired by their own sin look upon these as distinct from Me. 
+
+द्रक्ष्यन्त्य्  अध-क्षत-दृशो  ह्य्  अहि-मन्यवस्  तान्
+गृध्रा  रुषा  मम  कुषन्त्य्  अधिदंड-नेतुः
+
+They are just like furious serpents, and they are angrily torn apart by the bills of the vulturelike messengers of Yamarāja, the superintendent of sinful persons.
 ## c24
 ०३२४००१० मैत्रेय उवाच
 ०३२४००११ निर्वेदवादिनीमेवं मनोर्दुहितरं मुनिः
@@ -109,9 +123,33 @@ https://www.wisdomlib.org/hinduism/book/bhagavata-purana-sanskrit
 ०३२४०४६२ अपश्यत्सर्वभूतानि भगवत्यपि चात्मनि
 ०३२४०४७१ इच्छाद्वेषविहीनेन सर्वत्र समचेतसा
 ०३२४०४७२ भगवद्भक्तियुक्तेन प्राप्ता भागवती गतिः
+# p9
+### c16
+#### 29-30
+##### 29
+विश्वामित्रस्य चैवासन् पुत्रा एकशतं नृप मध्यमस्तु मधुच्छन्दा मधुच्छन्दस एव ते
+
+Viśvāmitra had a hundred sons. Out of them Madhucchandas was the middle, but all of them are known by the same (group) name Madhucchandas, Oh King!
+##### 30
+पुत्रं कृत्वा शुनःशेपं देवरातं च भार्गवम् आजीगर्तं सुतानाह ज्येष्ठ एष प्रकल्प्यताम्
+
+Having adopted as his son Śunaḥśepa, the son of Ajīgarta of the Bhṛgu clan, who was given to him by gods and hence named as Devarāta, he told his sons, “Let this (Śunaḥśepa) be regarded by you as your eldest (brother).[4]
+##### 31
+यो वै हरिश्चन्द्रमखे विक्रीतः पुरुषः पशुः स्तुत्वा देवान् प्रजेशादीन् मुमुचे पाशबन्धनात्
+
+It was verily the same person who was sold as a human ‘sacrificial beast’ (victim) for the sacrifice of Hariścandra[5] and who through his prayer[6] to gods and Lords of creation (like Varuṇa) was released from the bondage of cords (that tied him to the sacrificial post).
+##### 32
+यो रातो देवयजने देवैर्गाधिषु तापसः देवरात इति ख्यातः शुनःशेपस्तु भार्गवः
+
+He who was protected and given by gods in the sacrifice offered to Varuṇa, came to be known as Devarāta among the Gādhi family and that ascetic was known as Śunḥśepa in the family of Bhṛgus.
+##### 33
+ये मधुच्छन्दसो ज्येष्ठाः कुशलं मेनिरे न तत् अशपत् तान् मुनिः क्रुद्धो म्लेच्छा भवत दुर्जनाः
+
+The brothers who were elder than Madhucchandas did not approve of it (the order of Viśvāmitra to recognize Devarāta as their eldest brother). The enraged sage cursed them, “Ye wicked fellows! Be ye all mlecchas (outcast barbarians)”.
+#### ?
 # p10
 ### c26
-#### 3
+##### 3
 १०२६००३१ यः सप्तहायनो बालः करेणैकेन लीलया
 १०२६००३३ कथं बिभ्रद्गिरिवरं पुष्करं गजराडिव
 १०२६००४१ तोकेनामीलिताक्षेण पूतनाया महौजसः
@@ -132,3 +170,11 @@ https://www.wisdomlib.org/hinduism/book/bhagavata-purana-sanskrit
 १०२६०११३ अमोचयद्व्रजपशून्गोपांश्चारण्यवह्नितः
 १०२६०१२१ आशीविषतमाहीन्द्रं दमित्वा विमदं ह्रदात्
 १०२६०१२३ प्रसह्योद्वास्य यमुनां चक्रेऽसौ निर्विषोदकाम्
+
+# p11
+## c5
+##### 14
+ये तु अनेवंविदोऽसन्तः स्तब्धाः सदभिमानिनः ।
+पशून् द्रुह्यन्ति विश्रब्धाः प्रेत्य खादन्ति ते च तान् ॥ १४ ॥
+
+Those who have no knowledge of these facts and most unholy presumptuously consider themselves saintly, harm innocently trusting animals. After they have left their bodies those animals will eat them

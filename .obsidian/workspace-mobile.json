@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/vaiṣṇava_brāhmanic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d1bc53532533e2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref/mittanni.md",
+                "file": "Ref/ishvKrsh.smkhK.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/ta'wil/tawil_mantia_mancy.md",
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.prophecy.neviim.md",
+                "file": "Ref/bbl.john.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/ayah/Mudra/Role of coin economy in buddhism.md",
+                "file": "Ref/MB.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,8 +169,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Science/Pseudo-scientific_mystagogues.md",
-                "mode": "source",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/seeds of revolution in religion.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -193,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Jinn_ifrit_shetan/jinni_genius_daemon.md",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Jinn_ifrit_shetan/superior_writing_of_hinduism.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,55 +205,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/role_of_marriage_in_progress.md",
+                "file": "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/why_examplary_public_punishments_are_bad_idew.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "05611aa5b7cde8da",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ee46e3750b319a2",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Ref/mittanni.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7014868616206914,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -300,17 +247,6 @@
         }
       },
       {
-        "id": "af1c3da466fef410",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
         "id": "c3fa91071f34ef45",
         "type": "leaf",
         "state": {
@@ -339,7 +275,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ref/mittanni.md",
+            "file": "Ref/ishvKrsh.smkhK.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -356,7 +292,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ref/mittanni.md",
+            "file": "Ref/ishvKrsh.smkhK.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -368,7 +304,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/mittanni.md"
+            "file": "Ref/ishvKrsh.smkhK.md"
           }
         }
       }
@@ -378,42 +314,44 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4d1bc53532533e2e",
+  "active": "efa6159fdd96d63a",
   "lastOpenFiles": [
-    "Ref/VS.md.md",
-    "Ref/mittanni.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ayah/Mudra/Role of coin economy in buddhism.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/anbiya.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ayah/Mudra",
     "001_eskaton/001_chhatak/kalighat/Brahmanic/Creatures and gods Indo-iranian.md",
-    "Ref/TB.md",
-    "Ref/TS.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/theogony.md",
-    "Ref/TA.md",
-    "Ref/RV.md",
-    "Ref/TtU.md",
-    "Ref/VS.sync-conflict-20240727-100209-AFLIAW3.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/vaiṣṇava_brāhmanic.md",
-    "Ref/SvetU.md",
-    "Ref/JB.md",
-    "Ref/AV.ŚS.md",
+    "Ref/mdhvA.md",
+    "Ref/ishvKrsh.smkhK.md",
+    "Ref/ishvKrsh.smkhK.sync-conflict-20240820-071607-AFLIAW3.md",
+    "Ref/BP.md",
+    "Ref/MB.md",
+    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Nietzsche's fallacious interpretation of philosophers.md",
+    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/easy_nonaction_not_equals_evil_bad.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/Nārada.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/vaishnava_brahmanic.md",
     "Ref/SpB.md",
-    "Ref/kthUd.sync-conflict-20240726-211546-AFLIAW3.md",
-    "Ref/kthUd.md",
-    "Ref/TtU.sync-conflict-20240726-211216-AFLIAW3.md",
-    "Ref/TtU.sync-conflict-20240726-211126-AFLIAW3.md",
-    "Ref/MU.md",
-    "Ref/MU.sync-conflict-20240726-210015-AFLIAW3.md",
-    "Ref/AB.sync-conflict-20240726-205432-AFLIAW3.md",
+    "Ref/TS.md",
+    "Ref/vlmk.RY.md",
+    "Ref/ChU.md",
+    "Ref/CU.md",
+    "Ref/baudhDhS.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/baql/vegan_hindu_narada_brhaspati_manu_markandeya.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Nārada_orpheus_pythagoras.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/baql/vegan_hindu_cow.md",
+    "Ref/bmvP.md",
+    "Ref/brhdP.md",
+    "Ref/BhvP.md",
     "Ref/AB.md",
-    "Ref/SV.VjScU.md",
+    "Ref/amrsmh.kos.md",
+    "Ref/pnn.md",
+    "Ref/MnSmr.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/baql",
+    "boomerang/454817935_8007547926005160_936124851052004106_n.jpg",
+    "boomerang",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ayah/Mudra",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Qurbani",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Science",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/sawah",
@@ -421,9 +359,6 @@
     "Untitled.canvas",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/fadl",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/aql",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Arab/Untitled",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Arab",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/15194409_656388334522608_3437266025718668693_o.jpg"
   ]
 }

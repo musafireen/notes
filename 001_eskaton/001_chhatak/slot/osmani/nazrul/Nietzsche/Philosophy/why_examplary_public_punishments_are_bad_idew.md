@@ -1,0 +1,2 @@
+
+Instead of learning if you do bad things to others, bad things will happen to you, in reality what a hugue proportion of the auidence actually learn is that they can enjoy watching bad things happen to others if they can accuse someone of doing something bad.

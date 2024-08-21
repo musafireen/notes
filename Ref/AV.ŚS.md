@@ -1,4 +1,6 @@
+http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs___u.htm
 
+https://sacred-texts.com/hin/av/av07056.htm
 ## 6.56
 #### 1
 http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs___u.htm
@@ -11,10 +13,20 @@ folk.
 Let it not close the opened mouth nor open that which now is
 closed.
 
+## 6.140
+#### 2
+व्रीहिम्  अत्तं  यवम्  अत्तम्  अथो  माषम्  अथो  तिलम्  |
+
+You eat rice, you eat barley, you eat gram and you eat sesame. 
+
+एष  वां  भागो  निहितो  रत्नधेयाय  दंतौ  मा  हिंसिष्टं  पितरम्  मातरं  च  ||2||
+
+O teeth! These are specifically meant for you. Do not kill those who are capable of being fathers and mothers.
 ## 7.56
 ### 1-2
 http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs_acu.htm
-https://sacred-texts.com/hin/av/av07056.htm
+
+https://sacred-texts.com/hin/av/index.htm
 #### 1
 तिरश्चिराजेर् असितात् पृदाको परि संभृतम् |
 तत् कङ्कपर्वो विषम् इयं वीरुद् अनीनशत् ||1||
@@ -31,7 +43,13 @@ and stings.
 transverse stripes,
 Or Kankaparvan's bite, this herb hath made the poison power-
 less.
+## 8.6
+#### 23
+य आमं मांसम् अदन्ति पौरुषेयं च ये क्रविः |
+गर्भान् खादन्ति केशवास् तान् इतो नाशयामसि ||23||
 
+Those who eat flesh uncooked, and those who eat the bleeding flesh of men,
+Feeders on babes unborn, long-haired, far from this place we banish these.
 ## 8.7
 #### 23
 http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs_acu.htm
@@ -315,7 +333,7 @@ That poison quickens and supports the Serpents: He who knows this becomes a meet
 http://www.onlineved.com/atharva-ved/?language=1&kand=10&sukt=7&mantra=24
 यत्र देवा ब्रह्मविदो ब्रह्म ज्येष्ठम् उपासते | यो वै तान् विद्यात् प्रत्यक्षं स ब्रह्मा वेदिता स्यात् ||24||
 
-Where the bráhman-knowing gods worship the chief bráhman—whoso verily knoweth them eye to eye (pratyákṣam), he may be a Brahman (brahmán), a knower.
+Where the brahman-knowing gods worship the chief brahman—whoso verily knoweth them eye to eye (pratyakṣam), he may be a Brahman (brahman), a knower.
 
 ## 10.9
 #### 12

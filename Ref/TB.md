@@ -17,7 +17,37 @@ https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/tb/tb.htm
  स्वाहा᳚ । द॒न्द॒शूके᳚भ्यः॒ स्वाहेति॑ ॥ ३। १। ४। ७॥
 
 during the course of the Asvamedha Yajna, offerings of  ghee and barley are submitted to the serpents (Sarphebyam svaha) by the Devas, praying for their help (ashrebhyah)  in subduing  (upanayati) the Asuras.
+#### 3.4.16.1
+१६ 
+अ॒क्ष॒रा॒जाय॑ कित॒वम् । 
+कृ॒ताय॑ सभा॒विन᳚म् । 
+त्रेता॑या आदिनवद॒र्॒शम् ।
+द्वा॒प॒राय॑ बहिः॒सद᳚म् । 
+कल॑ये सभास्था॒णुम् । 
+दु॒ष्कृ॒ताय॑ च॒रका॑चार्यम्। 
+अध्व॑ने ब्रह्मचा॒रिण᳚म् । 
+पि॒शा॒चेभ्यः॑ सैल॒गम् । 
+पि॒पा॒सायै॑ गोव्य॒च्छम्। 
+निरृ॑त्यै गोघा॒तम् । 
+क्षु॒धे गो॑विक॒र्तम् । 
+क्षु॒त्तृ॒ष्णाभ्यां॒ तम् । 
+यो गां वि॒कृन्त॑न्तं मा॒ꣳ॒सं भिक्ष॑माण उप॒तिष्ठ॑ते ॥ 
+३। ४। १६। १॥ ॥ १६॥
 
+I’ve done it for the king of letters. 
+for the sake of the assembly. 
+I saw the beginning of the Treta.
+Dvapara, the outer assembly. 
+The assembly hall in the art. 
+Charakacharya for the wicked. 
+A celibate on the road. 
+Sailing to the devils. 
+I gave him a cow for thirst. 
+Nirrityai goghatam. 
+Hungry cowboys. 
+hunger and thirst. 
+He who approaches a cow begging for meat while it is being torn apart
+   
 #### 3.11.8.1
 ४२ उ॒शन् ह॒ वै वा॑जश्रव॒सः स॑र्ववेद॒सं द॑दौ । तस्य॑ ह॒ नचि॑केता॒
 नाम॑ पु॒त्र आ॑स । तꣳ ह॑ कुमा॒रꣳ सन्त᳚म् । दक्षि॑णासु नी॒यमा॑नासु

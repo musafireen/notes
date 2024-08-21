@@ -91,3 +91,11 @@ O wealthy and adorable King, with the force of wisdom, enjoy the gladdening rule
 ### 16  
 यज्ञेन  यज्ञम्  अयजन्त  देवास्  तानि  धर्माणि  प्रथमान्यासन्  \
 ते  ह  नाकं  महिमानः  सचन्त  यत्र  पूर्वे  साध्या  सन्ति  देवा  \\
+
+# p40
+### 7
+यस्मिन्त्सर्वाणि भूतान्यात्मैवाभूद्विजानतः। 
+
+तत्र॒ को मोहः॒ कः शोक॑ एकत्वम॑नुपश्य॑तः ॥
+
+Those who see all beings as souls do not feel infatuation or anguish at their sight, for they experience oneness with them.

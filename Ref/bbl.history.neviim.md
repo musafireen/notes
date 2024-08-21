@@ -90,8 +90,18 @@ The kings came [and] fought, then fought the kings of Canaan in Taanach by the w
 
 It repenteth me that I have set up Saul [to be] king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the LORD all night.
 ## c29
+### 1
+וַיִּקְבְּצ֧וּ פְלִשְׁתִּ֛ים אֶת־כָּל־מַחֲנֵיהֶ֖ם אֲפֵ֑קָה וְיִשְׂרָאֵ֣ל חֹנִ֔ים בַּעַ֖יִן אֲשֶׁ֥ר בְּיִזְרְעֶֽאל ׃
+
+Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which [is] in Jezreel.
+### 3
+וַיֹּֽאמְרוּ֙ שָׂרֵ֣י פְלִשְׁתִּ֔ים מָ֖ה הָעִבְרִ֣ים הָאֵ֑לֶּה וַיֹּ֨אמֶר אָכִ֜ישׁ אֶל־שָׂרֵ֣י פְלִשְׁתִּ֗ים הֲלֽוֹא־זֶ֨ה דָוִ֜ד עֶ֣בֶד ׀ שָׁא֣וּל מֶֽלֶךְ־יִשְׂרָאֵ֗ל אֲשֶׁ֨ר הָיָ֤ה אִתִּי֙ זֶ֤ה יָמִים֙ אוֹ־זֶ֣ה שָׁנִ֔ים וְלֹֽא־מָצָ֤אתִי בוֹ֙ מְא֔וּמָה מִיּ֥וֹם נָפְל֖וֹ עַד־הַיּ֥וֹם הַזֶּֽה ׃ פ
+
+Then said the princes of the Philistines, What [do] these Hebrews [here]? And Achish said unto the princes of the Philistines, [Is] not this David, the servant of Saul the king of Israel, which hath been with me these days, or these years, and I have found no fault in him since he fell [unto me] unto this day ?
 ### 4
 וַיִּקְצְפ֨וּ עָלָ֜יו שָׂרֵ֣י פְלִשְׁתִּ֗ים וַיֹּ֣אמְרוּ לוֹ֩ שָׂרֵ֨י פְלִשְׁתִּ֜ים הָשֵׁ֣ב אֶת־הָאִ֗ישׁ וְיָשֹׁב֙ אֶל־מְקוֹמוֹ֙ אֲשֶׁ֣ר הִפְקַדְתּ֣וֹ שָׁ֔ם וְלֹֽא־יֵרֵ֤ד עִמָּ֙נוּ֙ בַּמִּלְחָמָ֔ה וְלֹא־יִֽהְיֶה־לָּ֥נוּ לְשָׂטָ֖ן בַּמִּלְחָמָ֑ה וּבַמֶּ֗ה יִתְרַצֶּ֥ה זֶה֙ אֶל־אֲדֹנָ֔יו הֲל֕וֹא בְּרָאשֵׁ֖י הָאֲנָשִׁ֥ים הָהֵֽם ׃
+
+And the princes of the Philistines were wroth with him; and the princes of the Philistines said unto him, Make this fellow return, that he may go again to his place which thou hast appointed him, and let him not go down with us to battle, lest in the battle he be an adversary to us: for wherewith should he reconcile himself unto his master ? [should it] not [be] with the heads of these men ?
 
 # 2_samuel
 ## c1

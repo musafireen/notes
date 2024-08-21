@@ -335,4 +335,6 @@ But thou, Bethlehem Ephratah, [though] thou be little among the thousands of Jud
 ### c3
 #### 1
 וַיַּרְאֵ֗נִי אֶת־יְהוֹשֻׁ֙עַ֙ הַכֹּהֵ֣ן הַגָּד֔וֹל עֹמֵ֕ד לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן עֹמֵ֥ד עַל־יְמִינ֖וֹ לְשִׂטְנֽוֹ ׃
+
+And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him.(Satan: that is, an adversary)
 ## malachi

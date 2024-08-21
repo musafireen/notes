@@ -4,7 +4,7 @@ https://sanskritdocuments.org/doc_veda/taittirIyasamhitA.html
 
 https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/ts/ts.htm
 
-https://sacred-texts.com/hin/yv/yv07.htm
+https://sacred-texts.com/hin/yv/index.htm
 ## 2.6
 ### 2.6.3
 
@@ -428,6 +428,41 @@ The sacrificial fee is a pair of kine, for prosperity.
 
 वर्च॑सा॒ वै ते द॑र्शपूर्णमा॒सावप॑ तनुते॒ सर॑स्वत्यै॒ पंच॑विꣳशतिश्च ॥ ३। ५। १॥
 
+## 4.2
+### 4.2.10
+##### 2
+पर॒मे व्यो॑मन् ॥ 
+
+इ॒मं मा हिꣳ॑सी॒रेक॑शफं पशू॒नां क॑निक्र॒दं वा॒जिनं॒ वाजि॑नेषु। 
+
+d Harm not this one-hooved of cattle,
+The thundering, the courser among the contests; 
+
+गौ॒रमा॑र॒ण्यमनु॑ ते दिशामि॒ 
+
+I appoint for thee the Gayal of the forest;
+
+तेन॑ चिन्वा॒नस्त॒नुवो॒ नि षी॑द ॥ 
+
+Therewith piling thy forms, be seated.
+
+अज॑स्र॒मिन्दु॑मरु॒षं भु॑र॒ण्युम॒ग्निमी॑डे पू॒र्वचि॑त्तौ॒ नमो॑भिः । 
+
+e The undying drop, the ruddy, the active,
+Agni I hymn with praises with first inspiration;
+
+स पर्व॑भिरृतु॒शः कल्प॑मानो॒ गां मा हिꣳ॑सी॒रदि॑तिं वि॒राज᳚म्॥ 
+
+Do thou forming thyself with joints in due order,
+Harm not the cow, Aditi, the resplendent.
+
+इ॒मꣳ स॑मु॒द्रꣳ श॒तधा॑र॒मुथ्सं॑ व्य॒च्यमा॑नं॒ भुव॑नस्य॒ मध्ये᳚ ।
+घृ॒तं दुहा॑ना॒मदि॑तिं॒ जना॒याग्ने॒ मा
+
+f This ocean, the spring of a hundred streams,
+Expanded in the middle of the world,
+Aditi milking ghee for men,
+O Agni, harm not [2] in the highest heaven;
 ## 4.5
 १ नम॑स्ते रुद्र म॒न्यव॑ उ॒तोत॒ इष॑ वे॒ नमः॑ । नम॑स्ते अस्तु॒ धन्व॑ने
    बा॒हुभ्या॑मु॒त ते॒ नमः॑ ॥ यात॒ इषुः॑ शि॒वत॑मा शि॒वं ब॒भूव॑

@@ -1,22 +1,31 @@
-Nārada learn brahman from sanatkumāra :[[CU#]]
+Nārada learn brahman from sanatkumāra :[[ChU#7.1#5]]
 
 Nārada former jātaka devagandharva son of muṇi kāśyapa :[[MB#p?.5]], [[MB#p1#c59#43]]
 
-Nārada dispersed sons of dakṣa by sāṃkhya :[[MB#p1#70#6]]
+Nārada dispersed sons of dakṣa by sāṃkhya :[[MB#p1#c70#6]]
 
-Told pāṇḍavas not to quarell over draupadi :[[MB#p1#c204#26]]
+Told story of sunda upasunda tilottoma to convince to set rule about pandavas sharing draupadi :[[MB#p1#c200#15-20]]  [[MB#p1#c204#26]]
 
-Nārada compared indraprastha yudhiṣṭhira maya prāsāda with court of indra, yama, varuṇa, brahmā :[MB.2.5-11](MB#p2#c6#9)
-Nārada told yudhiṣṭhira to rājasuya to go to indraloka like hariścandra :[[MB#p2#c11#60]]
-Nārada anointed yudhiṣṭhira for rājasuya :[[MB#p2#c33#1]]
+Nārada on loka worlds tour arrived at indraprastha sabhā :[[MB#p2#c5#1-2]]
 
-Nārada with gāndharva received arjuna from indraloka :[[MB#p3#c51#11]], [[MB#p3#c43#13]]
-Nārada with caturpāṇḍava at kāmyaka heard stories from mārkaṇḍeya :[[MB#p3#183#47]]
-Nārada told sāgara his sons turned incinerated by kapila :[[MB#p3#107#33]], 
+Nārada compared indraprastha yudhiṣṭhira maya prāsāda with court of indra, yama, varuṇa, brahmā :[MB.2.6-11](MB#p2#c6#9-16)
 
-Nārada took mātali seeking to marry off daughter to varuṇaloka, garuḍaloka, then married her to aryaka :[[MB#p5#100-104]]
+Nārada told yudhiṣṭhira to rājasuya to go to indraloka like hariścandra :[[MB#p2#c11#60-65]]
+Nārada anointed yudhiṣṭhira for rājasuya :[[MB#p2#c33#1-2]]
 
-Nārada married daugh of sañjaya, cursed by parvata (for hiding mālati?) :[[MB#p7#52#12]]
+Prophesized to kuru their downfall :[[MB#p2#c71#29-31]]
+
+Nārada with gāndharva received arjuna from indraloka :[[MB#p3#c51#11-12]], [[MB#p3#c43#13]]
+
+Told yudhishthira pulatsya bhishma story to encourage tirtha digvijaya :[[MB#p3#c80#7-15]]
+
+Told yudhishthira madhusudana lived in dvaravati surashtra ujjayanta :[[MB#p3#c86#19-21]]
+
+Nārada told sāgara his sons turned incinerated by kapila :[[MB#p3#c106#4]],
+
+Nārada with caturpāṇḍava at kāmyaka heard stories from mārkaṇḍeya :[[MB#p3#c180#43-44]]
+
+Nārada took mātali seeking to marry off daughter to varuṇaloka, garuḍaloka, then married her to aryaka : [[MB#p5#c96#3-5]] [[MB#p5#c101#23-26]]
 
 Nārada told yudhiṣṭhira about rām, bhagiratha dilīpa,
 yayāti māndhātā ambarīśa,
@@ -30,9 +39,17 @@ Nārada prevented arjuna, aśvatthāma from using brahmāstra :[[MB#p10#14#11]]
 
 As a worm jātaka, told king in ratha that he protects his body as much as him :[[MB#p]]
 
+Nārada married sukumārī daugh of śṛñjaya, cursed by parvata to become monkey :[[MB#p12#c30#28-31]]
+
+Śvetadvīpa :[[MB#p12#c325#1]]
+
+Nārada nārāyana :[[MB#P12#c326#10]]
+
+Nārada badari nara nārāyana :[[MB#p12#c326#99]]
+
 Nārada recited mahabharata to devas :[[MB#p1#c1#64]], [[MB#p18#c5#42]]
 
-Nārada inspired vālmiki to compose rāmāyana :RY#1.
+Nārada inspired vālmiki to compose rāmāyana :[[vlmk.RY#k1#c1#1]].
 
 Āgastya cursed urvaśī to become bamboo for mistake in dancing due to jayanta son of indra, blessed nārada's vīṇā to become world vīṇā :VyP#
 

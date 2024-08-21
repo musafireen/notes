@@ -125,6 +125,34 @@ It said, “As long as we are small, there is great destruction for us: fish dev
 It soon became a jhasha (a large fish); for that grows largest (of all fish). Thereupon it said, “In such and such a year that flood will come. Thou shalt then attend to me (i.e. to my advice) by preparing a ship; and when the flood has risen thou shalt enter into the ship, and I will save thee from it.”
 
 #### ?
+
+### 3.1.2
+https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1052400.html
+##### 21
+अथैनं शालाम् प्रपादयति |
+
+He (the Adhvaryu) then makes him enter the hall. 
+
+स धेन्वै चानडुहश्च नाश्नीयाद्धेन्वनडुहौ वा इदं सर्वम् बिभृतस्ते देवा अब्रुवन्धेन्वनडुहौ वा इदं सर्वम् बिभृतो हन्त यदन्येषां वयसां वीर्यं तद्धेन्वनडुहयोर्दधामेति
+
+Let him not eat (the flesh) of either the cow or the ox; for the cow and the ox doubtless support everything here on earth. The gods spake, “Verily, the cow and the ox support everything here: come, let us bestow on the cow and the ox whatever vigour belongs to other species!” 
+
+स यदन्येषां वयसां वीर्यमासीत्तद्धेन्वनडुहयोरदधुस्तस्माद्धेनुश्चैवानड्वांश्च भूयिष्ठम् भुङ्क्तस्तद्धैतत्सर्वाश्यमिव यो धेन्वनडुहयोरश्नीयादन्तगतिरिव 
+
+Accordingly they bestowed on the cow and the ox whatever vigour belonged to other species (of animals); and therefore the cow and the ox eat most. Hence, were one to eat (the flesh) of an ox or a cow, there would be, as it were, an eating of everything, or, as it were, a going on to the end (or, to destruction). 
+
+तं हाद्भुतमभिजनितोर्जायायै गर्भं निरबधीदिति  
+
+Such a one indeed would be likely to be born (again) as a strange being, (as one of whom there is) evil report, such as 'he has expelled an embryo from a woman,' 
+
+पपमकदिति पापी कीर्तिस्तस्माद्धेन्वनडुहयोर्नाश्नीयात्तदु होवाच याज्ञवल्क्यो ऽश्नाम्येवाहमंसलं चेद्भवतीति
+
+'he has committed a sin;'  let him therefore not eat (the flesh) of the cow and the ox. Nevertheless Yajnavalkya said, “I, for one, eat it, provided that it is tender.”
+### 4.5.2
+##### 1
+वशामालभते  |  तामालभ्य  संज्ञपयन्ति  संज्ञप्याह  वपामुत्खिदेत्युत्खिद्य  वपामनुमर्शं  गर्भमेष्टवै  ब्रूयात्स  यदि  न  विन्दन्ति  किमाद्रियेरन्यद्यु  विन्दन्ति  तत्र  प्रायश्चित्तिः  क्रियते
+
+They lay hands on the barren cow, and having laid hands on it, they quiet it. It having been quieted 2, he says (to the slaughterer), “Pull out the omentum!” The omentum having been pulled out, let him tell (the slaughterer) to search groping for an embryo. If they do not find one, why need they care? and if they find one, atonement is made therefore.
 ### 5.4.3
 #### 19-20
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1054320.html

@@ -509,10 +509,50 @@ For there is a fire gone out of Heshbon, a flame from the city of Sihon: it hath
 
 Woe to thee, Moab ! thou art undone, O people of Chemosh: he hath given his sons that escaped, and his daughters, into captivity unto Sihon king of the Amorites.
 ## c22
+### 1
+וַיִּסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיַּחֲנוּ֙ בְּעַֽרְב֣וֹת מוֹאָ֔ב מֵעֵ֖בֶר לְיַרְדֵּ֥ן יְרֵחֽוֹ ׃ ס
+
+And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan [by] Jericho.
+### 2
+וַיַּ֥רְא בָּלָ֖ק בֶּן־צִפּ֑וֹר אֵ֛ת כָּל־אֲשֶׁר־עָשָׂ֥ה יִשְׂרָאֵ֖ל לָֽאֱמֹרִֽי ׃
+
+And Balak the son of Zippor saw all that Israel had done to the Amorites.
+### 4
+וַיֹּ֨אמֶר מוֹאָ֜ב אֶל־זִקְנֵ֣י מִדְיָ֗ן עַתָּ֞ה יְלַחֲכ֤וּ הַקָּהָל֙ אֶת־כָּל־סְבִ֣יבֹתֵ֔ינוּ כִּלְחֹ֣ךְ הַשּׁ֔וֹר אֵ֖ת יֶ֣רֶק הַשָּׂדֶ֑ה וּבָלָ֧ק בֶּן־צִפּ֛וֹר מֶ֥לֶךְ לְמוֹאָ֖ב בָּעֵ֥ת הַהִֽוא ׃
+
+And Moab said unto the elders of Midian, Now shall this company lick up all [that are] round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor [was] king of the Moabites at that time.
+### 5
+וַיִּשְׁלַ֨ח מַלְאָכִ֜ים אֶל־בִּלְעָ֣ם בֶּן־בְּע֗וֹר פְּ֠תוֹרָה אֲשֶׁ֧ר עַל־הַנָּהָ֛ר אֶ֥רֶץ בְּנֵי־עַמּ֖וֹ לִקְרֹא־ל֑וֹ לֵאמֹ֗ר הִ֠נֵּה עַ֣ם יָצָ֤א מִמִּצְרַ֙יִם֙ הִנֵּ֤ה כִסָּה֙ אֶת־עֵ֣ין הָאָ֔רֶץ וְה֥וּא יֹשֵׁ֖ב מִמֻּלִֽי ׃
+
+He sent messengers therefore unto Balaam the son of Beor to Pethor, which [is] by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:
+### 6
+וְעַתָּה֩ לְכָה־נָּ֨א אָֽרָה־לִּ֜י אֶת־הָעָ֣ם הַזֶּ֗ה כִּֽי־עָצ֥וּם הוּא֙ מִמֶּ֔נִּי אוּלַ֤י אוּכַל֙ נַכֶּה־בּ֔וֹ וַאֲגָרְשֶׁ֖נּוּ מִן־הָאָ֑רֶץ כִּ֣י יָדַ֗עְתִּי אֵ֤ת אֲשֶׁר־תְּבָרֵךְ֙ מְבֹרָ֔ךְ וַאֲשֶׁ֥ר תָּאֹ֖ר יוּאָֽר ׃
+
+Come now therefore, I pray thee, curse me this people; for they [are] too mighty for me: peradventure I shall prevail, [that] we may smite them, and [that] I may drive them out of the land: for I wot that he whom thou blessest [is] blessed, and he whom thou cursest is cursed.
+### 13
+וַיָּ֤קָם בִּלְעָם֙ בַּבֹּ֔קֶר וַיֹּ֙אמֶר֙ אֶל־שָׂרֵ֣י בָלָ֔ק לְכ֖וּ אֶֽל־אַרְצְכֶ֑ם כִּ֚י מֵאֵ֣ן יְהוָ֔ה לְתִתִּ֖י לַהֲלֹ֥ךְ עִמָּכֶֽם ׃
+
+And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land: for the LORD refuseth to give me leave to go with you.
+### 21
+וַיָּ֤קָם בִּלְעָם֙ בַּבֹּ֔קֶר וַֽיַּחֲבֹ֖שׁ אֶת־אֲתֹנ֑וֹ וַיֵּ֖לֶךְ עִם־שָׂרֵ֥י מוֹאָֽב ׃
+
+And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.
 ### 22
 וַיִּֽחַר־אַ֣ף אֱלֹהִים֮ כִּֽי־הוֹלֵ֣ךְ הוּא֒ וַיִּתְיַצֵּ֞ב מַלְאַ֧ךְ יְהוָ֛ה בַּדֶּ֖רֶךְ לְשָׂטָ֣ן ל֑וֹ וְהוּא֙ רֹכֵ֣ב עַל־אֲתֹנ֔וֹ וּשְׁנֵ֥י נְעָרָ֖יו עִמּֽוֹ ׃
+
+And God´s anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants [were] with him.
+### 23
+וַתֵּ֣רֶא הָאָתוֹן֩ אֶת־מַלְאַ֨ךְ יְהוָ֜ה נִצָּ֣ב בַּדֶּ֗רֶךְ וְחַרְבּ֤וֹ שְׁלוּפָה֙ בְּיָד֔וֹ וַתֵּ֤ט הָֽאָתוֹן֙ מִן־הַדֶּ֔רֶךְ וַתֵּ֖לֶךְ בַּשָּׂדֶ֑ה וַיַּ֤ךְ בִּלְעָם֙ אֶת־הָ֣אָת֔וֹן לְהַטֹּתָ֖הּ הַדָּֽרֶךְ ׃
+
+And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way.
+### 25
+וַתֵּ֨רֶא הָאָת֜וֹן אֶת־מַלְאַ֣ךְ יְהוָ֗ה וַתִּלָּחֵץ֙ אֶל־הַקִּ֔יר וַתִּלְחַ֛ץ אֶת־רֶ֥גֶל בִּלְעָ֖ם אֶל־הַקִּ֑יר וַיֹּ֖סֶף לְהַכֹּתָֽהּ ׃
+
+And when the ass saw the angel of the LORD, she thrust herself unto the wall, and crushed Balaam´s foot against the wall: and he smote her again.
 ### 32
 וַיֹּ֤אמֶר אֵלָיו֙ מַלְאַ֣ךְ יְהוָ֔ה עַל־מָ֗ה הִכִּ֙יתָ֙ אֶת־אֲתֹ֣נְךָ֔ זֶ֖ה שָׁל֣וֹשׁ רְגָלִ֑ים הִנֵּ֤ה אָנֹכִי֙ יָצָ֣אתִי לְשָׂטָ֔ן כִּֽי־יָרַ֥ט הַדֶּ֖רֶךְ לְנֶגְדִּֽי ׃
+
+And the angel of the LORD said unto him, Wherefore hast thou smitten thine ass these three times ? behold, I went out to withstand thee, because [thy] way is perverse before me:
 ## c25
 ### 3
 וַיִּצָּ֥מֶד יִשְׂרָאֵ֖ל לְבַ֣עַל פְּע֑וֹר וַיִּֽחַר־אַ֥ף יְהוָ֖ה בְּיִשְׂרָאֵֽל ׃

@@ -161,6 +161,8 @@
 
 # 25
 § nizār mustafā, (a. hadī, muhtadī /sinān,) jalal dīn, 'alā dīn, rukn dīn, ' śams (mu'minī mongoled imāms)
+## sāṃkhya
+
 
 # 28
 § (nājiban)

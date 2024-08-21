@@ -1,5 +1,45 @@
 # mark
 ## c1
+### 4
+εγενετο ιωαννης βαπτιζων εν τη ερημω και κηρυσσων βαπτισμα μετανοιας εις αφεσιν αμαρτιων
+
+John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins.
+### 5
+και εξεπορευετο προς αυτον πασα η ιουδαια χωρα και οι ιεροσολυμιται και εβαπτιζοντο παντες εν τω ιορδανη ποταμω υπ αυτου εξομολογουμενοι τας αμαρτιας αυτων
+
+And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.
+### 6
+ην δε ιωαννης ενδεδυμενος τριχας καμηλου και ζωνην δερματινην περι την οσφυν αυτου και εσθιων ακριδας και μελι αγριον
+
+And John was clothed with camel´s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;
+### 7
+και εκηρυσσεν λεγων ερχεται ο ισχυροτερος μου οπισω μου ου ουκ ειμι ικανος κυψας λυσαι τον ιμαντα των υποδηματων αυτου
+
+And he preached, saying, There cometh after me he that is mightier than I, the latchet of whose shoes I am not worthy to stoop down and unloose.
+### 8
+εγω μεν εβαπτισα υμας εν υδατι αυτος δε βαπτισει υμας εν πνευματι αγιω
+
+I indeed have baptized you with water: but he shall baptize you with the Holy Ghost.
+### 9
+και εγενετο εν εκειναις ταις ημεραις ηλθεν ιησους απο [ναζαρετ] [ναζαρεθ] της γαλιλαιας και εβαπτισθη υπο ιωαννου εις τον ιορδανην
+
+And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.
+### 10
+και ευθεως αναβαινων απο του υδατος ειδεν σχιζομενους τους ουρανους και το πνευμα ωσει περιστεραν καταβαινον επ αυτον
+
+And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:
+### 11
+και φωνη εγενετο εκ των ουρανων συ ει ο υιος μου ο αγαπητος εν ω ευδοκησα
+
+And there came a voice from heaven, [saying], Thou art my beloved Son, in whom I am well pleased.
+### 12
+και ευθυς το πνευμα αυτον εκβαλλει εις την ερημον
+
+And immediately the Spirit driveth him into the wilderness.
+### 13
+και ην εκει εν τη ερημω ημερας τεσσαρακοντα πειραζομενος υπο του σατανα και ην μετα των θηριων και οι αγγελοι διηκονουν αυτω
+
+And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.
 ### 14
 μετα δε το παραδοθηναι τον ιωαννην ηλθεν ο ιησους εις την γαλιλαιαν κηρυσσων το ευαγγελιον της βασιλειας του θεου
 
@@ -13,6 +53,10 @@ And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye,
 
 Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.
 ## c3
+### 22
+και οι γραμματεις οι απο ιεροσολυμων καταβαντες ελεγον οτι βεελζεβουλ εχει και οτι εν τω αρχοντι των δαιμονιων εκβαλλει τα δαιμονια
+
+And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.
 ### 32
 και εκαθητο οχλος περι αυτον ειπον δε αυτω ιδου η μητηρ σου και οι αδελφοι σου εξω ζητουσιν σε
 
@@ -97,6 +141,48 @@ Heaven and earth shall pass away: but my words shall not pass away.
 περι δε της ημερας εκεινης και της ωρας ουδεις οιδεν ουδε οι αγγελοι οι εν ουρανω ουδε ο υιος ει μη ο πατηρ
 
 But of that day and [that] hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
+## c15
+### 2
+και επηρωτησεν αυτον ο πιλατος συ ει ο βασιλευς των ιουδαιων ο δε αποκριθεις ειπεν αυτω συ λεγεις
+
+And Pilate asked him, Art thou the King of the Jews ? And he answering said unto him, Thou sayest [it].
+### 15
+ο δε πιλατος βουλομενος τω οχλω το ικανον ποιησαι απελυσεν αυτοις τον βαραββαν και παρεδωκεν τον ιησουν φραγελλωσας ινα σταυρωθη
+
+And [so] Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged [him], to be crucified.
+### 43
+ηλθεν ιωσηφ ο απο αριμαθαιας ευσχημων βουλευτης ος και αυτος ην προσδεχομενος την βασιλειαν του θεου τολμησας εισηλθεν προς πιλατον και ητησατο το σωμα του ιησου
+
+Joseph of Arimathaea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.
+### 44
+ο δε πιλατος εθαυμασεν ει ηδη τεθνηκεν και προσκαλεσαμενος τον κεντυριωνα επηρωτησεν αυτον ει παλαι απεθανεν
+
+And Pilate marvelled if he were already dead: and calling [unto him] the centurion, he asked him whether he had been any while dead.
+### 46
+και αγορασας σινδονα και καθελων αυτον ενειλησεν τη σινδονι και κατεθηκεν αυτον εν μνημειω ο ην λελατομημενον εκ πετρας και προσεκυλισεν λιθον επι την θυραν του μνημειου
+
+And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre.
+### 47
+η δε μαρια η μαγδαληνη και μαρια ιωση εθεωρουν που τιθεται
+
+And Mary Magdalene and Mary [the mother] of Joses beheld where he was laid.
+## c16
+### 1
+και διαγενομενου του σαββατου μαρια η μαγδαληνη και μαρια η του ιακωβου και σαλωμη ηγορασαν αρωματα ινα ελθουσαι αλειψωσιν αυτον
+
+And when the sabbath was past, Mary Magdalene, and Mary the [mother] of James, and Salome, had bought sweet spices, that they might come and anoint him.
+### 2
+και λιαν πρωι της μιας σαββατων ερχονται επι το μνημειον ανατειλαντος του ηλιου
+
+And very early in the morning the first [day] of the week, they came unto the sepulchre at the rising of the sun.
+### 4
+και αναβλεψασαι θεωρουσιν οτι αποκεκυλισται ο λιθος ην γαρ μεγας σφοδρα
+
+And when they looked, they saw that the stone was rolled away: for it was very great.
+### 5
+και εισελθουσαι εις το μνημειον ειδον νεανισκον καθημενον εν τοις δεξιοις περιβεβλημενον στολην λευκην και εξεθαμβηθησαν
+
+And entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.
 # matthew
 ## c1
 ### 18
@@ -244,12 +330,21 @@ And he came and dwelt in a city called Nazareth: that it might be fulfilled whic
 εισελθετε δια της στενης πυλης οτι πλατεια η πυλη και ευρυχωρος η οδος η απαγουσα εις την απωλειαν και πολλοι εισιν οι εισερχομενοι δι αυτης
 
 Enter ye in at the strait gate: for wide [is] the gate, and broad [is] the way, that leadeth to destruction, and many there be which go in thereat:
+## c9
+### 34
+οι δε φαρισαιοι ελεγον εν τω αρχοντι των δαιμονιων εκβαλλει τα δαιμονια
+
+But the Pharisees said, He casteth out devils through the prince of the devils.
 ## c10
 ### 36
 και εχθροι του ανθρωπου οι οικιακοι αυτου
 
 And a man´s foes [shall be] they of his own household.
 ## c12
+### 24
+οι δε φαρισαιοι ακουσαντες ειπον ουτος ουκ εκβαλλει τα δαιμονια ει μη εν τω βεελζεβουλ αρχοντι των δαιμονιων
+
+But when the Pharisees heard [it], they said, This [fellow] doth not cast out devils, but by Beelzebub the prince of the devils.
 ### 33
 η ποιησατε το δενδρον καλον και τον καρπον αυτου καλον η ποιησατε το δενδρον σαπρον και τον καρπον αυτου σαπρον εκ γαρ του καρπου το δενδρον γινωσκεται
 
@@ -338,6 +433,27 @@ On these two commandments hang all the law and the prophets.
 περι δε της ημερας εκεινης και της ωρας ουδεις οιδεν ουδε οι αγγελοι των ουρανων ει μη ο πατηρ μου μονος
 
 But of that day and hour knoweth no [man], no, not the angels of heaven, but my Father only.
+## c27
+### 2
+και δησαντες αυτον απηγαγον και παρεδωκαν αυτον ποντιω πιλατω τω ηγεμονι
+
+And when they had bound him, they led [him] away, and delivered him to Pontius Pilate the governor.
+### 24
+ιδων δε ο πιλατος οτι ουδεν ωφελει αλλα μαλλον θορυβος γινεται λαβων υδωρ απενιψατο τας χειρας απεναντι του οχλου λεγων αθωος ειμι απο του αιματος του δικαιου τουτου υμεις οψεσθε
+
+When Pilate saw that he could prevail nothing, but [that] rather a tumult was made, he took water, and washed [his] hands before the multitude, saying, I am innocent of the blood of this just person: see ye [to it].
+### 62
+τη δε επαυριον ητις εστιν μετα την παρασκευην συνηχθησαν οι αρχιερεις και οι φαρισαιοι προς πιλατον
+
+Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,
+### 64
+κελευσον ουν ασφαλισθηναι τον ταφον εως της τριτης ημερας μηποτε ελθοντες οι μαθηται αυτου νυκτος κλεψωσιν αυτον και ειπωσιν τω λαω ηγερθη απο των νεκρων και εσται η εσχατη πλανη χειρων της πρωτης
+
+Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.
+### 65
+εφη δε αυτοις ο πιλατος εχετε κουστωδιαν υπαγετε ασφαλισασθε ως οιδατε
+
+Pilate said unto them, Ye have a watch: go your way, make [it] as sure as ye can.
 # luke
 ## c1
 ### 31
@@ -430,6 +546,10 @@ And all that heard him were astonished at his understanding and answers.
 ### 52
 και ιησους προεκοπτεν σοφια και ηλικια και χαριτι παρα θεω και ανθρωποις
 ## c3
+### 1
+εν ετει δε πεντεκαιδεκατω της ηγεμονιας τιβεριου καισαρος ηγεμονευοντος ποντιου πιλατου της ιουδαιας και τετραρχουντος της γαλιλαιας ηρωδου φιλιππου δε του αδελφου αυτου τετραρχουντος της ιτουραιας και τραχωνιτιδος χωρας και λυσανιου της αβιληνης τετραρχουντος
+
+Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
 ### 7
 ελεγεν ουν τοις εκπορευομενοις οχλοις βαπτισθηναι υπ αυτου γεννηματα εχιδνων τις υπεδειξεν υμιν φυγειν απο της μελλουσης οργης
 
@@ -537,6 +657,10 @@ But he said, Yea rather, blessed [are] they that hear the word of God, and keep 
 
 The father shall be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law.
 ## c13
+### 1
+παρησαν δε τινες εν αυτω τω καιρω απαγγελλοντες αυτω περι των γαλιλαιων ων το αιμα πιλατος εμιξεν μετα των θυσιων αυτων
+
+There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.
 ### 24
 αγωνιζεσθε εισελθειν δια της στενης πυλης οτι πολλοι λεγω υμιν ζητησουσιν εισελθειν και ουκ ισχυσουσιν
 
@@ -599,6 +723,10 @@ Heaven and earth shall pass away: but my words shall not pass away.
 
 Watch ye therefore, and pray always that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
 ## c23
+### 12
+εγενοντο δε φιλοι ο τε πιλατος και ο ηρωδης εν αυτη τη ημερα μετ αλληλων προυπηρχον γαρ εν εχθρα οντες προς εαυτους
+
+And the same day Pilate and Herod were made friends together for before they were at enmity between themselves.
 ### 29
 οτι ιδου ερχονται ημεραι εν αις ερουσιν μακαριαι αι στειραι και κοιλιαι αι ουκ εγεννησαν και μαστοι οι ουκ εθηλασαν
 
@@ -615,6 +743,8 @@ In the beginning was the Word, and the Word was with God, and the Word was God.
 In him was life; and the life was the light of men.
 ### 46
 και ειπεν αυτω ναθαναηλ εκ [ναζαρετ] [ναζαρεθ] δυναται τι αγαθον ειναι λεγει αυτω φιλιππος ερχου και ιδε
+
+And Nathanael said unto him, Can there any good thing come out of Nazareth ? Philip saith unto him, Come and see.
 ## c8
 ### 41
 υμεις ποιειτε τα εργα του πατρος υμων ειπον ουν αυτω ημεις εκ πορνειας ου γεγεννημεθα ενα πατερα εχομεν τον θεον
@@ -622,25 +752,72 @@ In him was life; and the life was the light of men.
 vos facitis opera patris vestri dixerunt itaque ei nos ex fornicatione non sumus nati unum patrem habemus Deum
 
 Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, [even] God.
+### 42
+ειπεν [ουν] αυτοις ο ιησους ει ο θεος πατηρ υμων ην ηγαπατε αν εμε εγω γαρ εκ του θεου εξηλθον και ηκω ουδε γαρ απ εμαυτου εληλυθα αλλ εκεινος με απεστειλεν
+
+Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me.
+### 43
+δια τι την λαλιαν την εμην ου γινωσκετε οτι ου δυνασθε ακουειν τον λογον τον εμον
+
+Why do ye not understand my speech ? [even] because ye cannot hear my word.
 ### 44
 υμεις εκ πατρος του διαβολου εστε και τας επιθυμιας του πατρος υμων θελετε ποιειν εκεινος ανθρωποκτονος ην απ αρχης και εν τη αληθεια ουχ εστηκεν [εστηκεν] οτι ουκ εστιν αληθεια εν αυτω οταν λαλη το ψευδος εκ των ιδιων λαλει οτι ψευστης εστιν και ο πατηρ αυτου
 
 Ye are of [your] father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
 ## c12
+### 26
+αποκρινεται ο ιησους εκεινος εστιν ω εγω βαψας το ψωμιον επιδωσω και εμβαψας το ψωμιον διδωσιν ιουδα σιμωνος ισκαριωτη
+
+Jesus answered, He it is, to whom I shall give a sop, when I have dipped [it]. And when he had dipped the sop, he gave [it] to Judas Iscariot, [the son] of Simon.
+
+### 27
+και μετα το ψωμιον τοτε εισηλθεν εις εκεινον ο σατανας λεγει ουν αυτω ο ιησους ο ποιεις ποιησον ταχιον
+
+And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.
 ### 31
 νυν κρισις εστιν του κοσμου τουτου νυν ο αρχων του κοσμου τουτου εκβληθησεται εξω
 
 Now is the judgment of this world: now shall the prince of this world be cast out.
+## c14
+### 30
+ουκ ετι πολλα λαλησω μεθ υμων ερχεται γαρ ο του κοσμου τουτου αρχων και εν εμοι ουκ εχει ουδεν
+
+Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.
 ## c17
 ### 5
 και νυν δοξασον με συ πατερ παρα σεαυτω τη δοξη η ειχον προ του τον κοσμον ειναι παρα σοι
 
 And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.
+## c18
+### 31
+ειπεν ουν αυτοις ο πιλατος λαβετε αυτον υμεις και κατα τον νομον υμων κρινατε αυτον ειπον ουν αυτω οι ιουδαιοι ημιν ουκ εξεστιν αποκτειναι ουδενα
+
+Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:
 ## c19
+### 12
+εκ τουτου εζητει ο πιλατος απολυσαι αυτον οι δε ιουδαιοι εκραζον λεγοντες εαν τουτον απολυσης ουκ ει φιλος του καισαρος πας ο βασιλεα αυτον ποιων αντιλεγει τω καισαρι
+
+And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar´s friend: whosoever maketh himself a king speaketh against Caesar.
+### 13
+ο ουν πιλατος ακουσας τουτον τον λογον ηγαγεν εξω τον ιησουν και εκαθισεν επι του βηματος εις τοπον λεγομενον λιθοστρωτον εβραιστι δε γαββαθα
+
+When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.
+### 19
+εγραψεν δε και τιτλον ο πιλατος και εθηκεν επι του σταυρου ην δε γεγραμμενον ιησους ο ναζωραιος ο βασιλευς των ιουδαιων
+
+And Pilate wrote a title, and put [it] on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS.
+### 21
+ελεγον ουν τω πιλατω οι αρχιερεις των ιουδαιων μη γραφε ο βασιλευς των ιουδαιων αλλ οτι εκεινος ειπεν βασιλευς ειμι των ιουδαιων
+
+Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews.
 ### 30
 οτε ουν ελαβεν το οξος ο ιησους ειπεν τετελεσται και κλινας την κεφαλην παρεδωκεν το πνευμα
 
 When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.
+### 31
+οι ουν ιουδαιοι [επει] παρασκευη ην ινα μη μεινη επι του σταυρου τα σωματα εν τω σαββατω [επει] παρασκευη ην ην γαρ μεγαλη η ημερα εκεινου του σαββατου ηρωτησαν τον πιλατον ινα κατεαγωσιν αυτων τα σκελη και αρθωσιν
+
+The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day, ) besought Pilate that their legs might be broken, and [that] they might be taken away.
 ## c20
 ### 24
 θωμας δε εις εκ των δωδεκα ο λεγομενος διδυμος ουκ ην μετ αυτων οτε ηλθεν ο ιησους

@@ -1,28 +1,41 @@
 # rg
 § ṛg - 12th-10th cent bce
 
+## sūrya
+### 1.115#1
+#### mitra.cakṣu
+#### varuṇa.cakṣu
+#### agni.cakṣu
+#### dyaus.āprā
+#### pṛthivī.āprā
+#### jagat.ātmā
+#### tasthuṣ.ātmā
+~~ sūrya cakṣu of mitra, varuṇa, agni, ātman of jagat, tasthuūr 
+![[RV#1.115#1]]
+
+## rakshas
+### 1.129#11
+#### indra.hata
+![[RV#1.129#11]]
+
+### 7.104#2
+~~ rakṣas are kravyād, ghoracakṣas, kimidī, brahmadviṣ
+
+![[RV#7.104#2]]
+
+### 7.104#7
+~~ rakṣas, drūha
+![[RV#7.104#7]]
+
+### 7.104#18
+~~ rakṣas place ripu against deva adhvar
+![[RV#7.104#18]]
+
+### 7.104#25
+~~ yātu rakṣas
+![[RV#7.104#25]]
+
 ## viṣṇu
-
-### 1.22#16
-#### pṛthivī.sapta.dhāma.vikrama
-![[RV#1.22#16]]
-### 1.22#17
-#### idam.krama
-#### tredhā.pada
-#### pāṃsu.samūha
-![[RV#1.22#17]]
-### 1.22#18
-#### gopa
-#### tri.pada.krama
-![[RV#1.22#18]]
-### 1.22#19
-#### vrata.spaś
-#### indra.yujya.sakhā
-![[RV#1.22#19]]
-### 1.22.20
-#### parama.pada.sūri.sadā.dṛṣṭa
-
-![[RV#1.22#20]]
 
 ### 1.154#1
 
@@ -43,7 +56,7 @@
 
 ![[RV#1.154#3]]
 
-### 10.154#4
+### 1.154#4
 #### madhu.pūrṇa.tripada
 #### tripada.svadhā.madana
 #### tridhātu.dhara
@@ -69,35 +82,40 @@
 ~~ urukrama viṣṇu carries gifts of indra - buffaloes, porridge. indra slays emuṣa varāha 
 ![[RV#8.77#10]]
 
-## sūrya
-### 1.115#1
-#### mitra.cakṣu
-#### varuṇa.cakṣu
-#### agni.cakṣu
-#### dyaus.āprā
-#### pṛthivī.āprā
-#### jagat.ātmā
-#### tasthuṣ.ātmā
-~~ sūrya cakṣu of mitra, varuṇa, agni, ātman of jagat, tasthuūr 
-![[RV#1.115#1]]
+### 1.22#16
+#### pṛthivī.sapta.dhāma.vikrama
+![[RV#1.22#16]]
+### 1.22#17
+#### idam.krama
+#### tredhā.pada
+#### pāṃsu.samūha
+![[RV#1.22#17]]
 
-## rakshas
-### 7.104#2
-~~ rakṣas are kravyād, ghoracakṣas, kimidī, brahmadviṣ
+### 1.22#18
+#### gopa
+#### tri.pada.krama
+![[RV#1.22#18]]
 
-![[RV#7.104#2]]
 
-### 7.104#7
-~~ rakṣas, drūha
-![[RV#7.104#7]]
+### 1.22#19
+#### vrata.spaś
+#### indra.yujya.sakhā
+![[RV#1.22#19]]
 
-### 7.104#18
-~~ rakṣas place ripu against deva adhvar
-![[RV#7.104#18]]
 
-### 7.104#25
-~~ yātu rakṣas
-![[RV#7.104#25]]
+### 1.22.20
+#### parama.pada.sūri.sadā.dṛṣṭa
+
+![[RV#1.22#20]]
+
+
+## gayatri
+### 3.62#10
+~~ gāyatri
+![[RV#3.62#10]]
+
+
+~~ pṛthvī-dyaus = geb-nut, anu-ki
 ## niṛṛti
 ### 7.104#9
 ![[RV#7.104#9]]
@@ -120,6 +138,15 @@
 ~~ male and female Yātudhānas use Māyā for mischief 
 ![[RV#7:104#24]]
 
+## soma
+### 9.96#5
+#### dyaus.janitā
+#### pṛthivī.janitā
+#### agni.janitā
+#### sūrya.janitā
+#### indra.janita
+#### viṣṇu.janitā
+~~ soma generates dyaus, indra, viṣṇu ![[RV#9.96#5]]
 ## visvakarma
 ### 10.82#2
 
@@ -246,24 +273,7 @@ ekapati /samvṛt agrajāta bhūtapati eka
 ### 10.125
 #### devīsūkta 
 ![[RV#10.125]]
-## gayatri
-### 3.62#10
-~~ gāyatri
-![[RV#3.62#10]]
 
-
-~~ pṛthvī-dyaus = geb-nut, anu-ki
-## ?
-~~ śavasī mother of śatakratu ![[RV#8.77#1]]![[RV#8.77#2]]
-## soma
-### 9.96#5
-#### dyaus.janitā
-#### pṛthivī.janitā
-#### agni.janitā
-#### sūrya.janitā
-#### indra.janita
-#### viṣṇu.janitā
-~~ soma generates dyaus, indra, viṣṇu ![[RV#9.96#5]]
 ## nasadiya
 ### 10.129#1
 #### avāta.svadhā.ān
@@ -299,6 +309,9 @@ ekapati /samvṛt agrajāta bhūtapati eka
 #### sukta
 :[[RV#10.129]]
 
+## ?
+### 8.77#2
+~~ śavasī mother of śatakratu ![[RV#8.77#1]]![[RV#8.77#2]]
 # sama
 § sāma - 12th-10th cent bc
 # vajSm

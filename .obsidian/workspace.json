@@ -56,12 +56,24 @@
             }
           },
           {
-            "id": "cd32a6430cd5a1b3",
+            "id": "5e3c009a14375111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/TS.md",
+                "file": "Ref/ishvKrsh.smkhK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a58a26737ab5ec60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref/MB.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: theog",
+                "query": "file: tare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/TS.md",
+                "file": "Ref/ishvKrsh.smkhK.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/TS.md",
+                "file": "Ref/ishvKrsh.smkhK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/TS.md"
+                "file": "Ref/ishvKrsh.smkhK.md"
               }
             }
           }
@@ -188,52 +200,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "templates:Insert template": false
     }
   },
-  "active": "cd32a6430cd5a1b3",
+  "active": "5e3c009a14375111",
   "lastOpenFiles": [
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/theogony.md",
-    "Ref/VS.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/firawn_taghut.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/firawn_taghut_3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/God's very own argument.md",
-    "Ref/VS.sync-conflict-20240727-100209-AFLIAW3.md",
-    "Ref/~syncthing~VS.sync-conflict-20240727-100209-AFLIAW3.md.tmp",
-    "Ref/~syncthing~VS.md.tmp",
-    "Ref/JB.md",
-    "Ref/~syncthing~JB.md.tmp",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/~syncthing~theogony.md.tmp",
+    "Ref/MB.md",
+    "boomerang/tareq.md",
+    "boomerang/bd army.md",
+    "boomerang/tareq_twit_cartoon.jpg",
+    "boomerang/tareq.jpg",
+    "boomerang/bd army harassing teen haircut 1.png",
+    "boomerang/bd army harassing teen haircut.png",
     "Ref/AV.ŚS.md",
-    "Ref/TS.md",
-    "Ref/~syncthing~SpB.md.tmp",
-    "Ref/TB.md",
-    "Ref/kthUd.md",
-    "Ref/TtU.md",
-    "Ref/SvetU.md",
-    "Ref/kthUd.sync-conflict-20240726-211546-AFLIAW3.md",
-    "Ref/~syncthing~kthUd.sync-conflict-20240726-211546-AFLIAW3.md.tmp",
-    "Ref/~syncthing~kthUd.md.tmp",
-    "Ref/TtU.sync-conflict-20240726-211216-AFLIAW3.md",
-    "Ref/~syncthing~TtU.sync-conflict-20240726-211216-AFLIAW3.md.tmp",
-    "Ref/TtU.sync-conflict-20240726-211126-AFLIAW3.md",
-    "Ref/~syncthing~TtU.sync-conflict-20240726-211126-AFLIAW3.md.tmp",
-    "Ref/~syncthing~TtU.md.tmp",
-    "Ref/MU.md",
-    "Ref/MU.sync-conflict-20240726-210015-AFLIAW3.md",
-    "Ref/AB.md",
-    "Ref/AB.sync-conflict-20240726-205432-AFLIAW3.md",
-    "Ref/SpB.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ta'wil/tawil_mantia_mancy.md",
+    "Ref/ishvKrsh.smkhK.md",
+    "Ref/ishvKrsh.smkhK.sync-conflict-20240820-071607-AFLIAW3.md",
+    "Ref/~syncthing~ishvKrsh.smkhK.sync-conflict-20240820-071607-AFLIAW3.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
-    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/freedom unfortunate byproduct of enlightenment.md",
-    "Ref/frds.md",
-    "Ref/ptjYogS.md",
+    "Ref/~syncthing~BP.md.tmp",
+    "Ref/~syncthing~MB.md.tmp",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/~syncthing~Nārada.md.tmp",
+    "Ref/mdhvA.md",
+    "Ref/AB.sync-conflict-20240815-194515-AFLIAW3.md",
+    "Ref/AB.sync-conflict-20240816-193446-AFLIAW3.md",
+    "Ref/AB.sync-conflict-20240816-200417-AFLIAW3.md",
+    "Ref/AV.ŚS.sync-conflict-20240815-202055-AFLIAW3.md",
+    "Ref/AV.ŚS.sync-conflict-20240815-202256-AFLIAW3.md",
+    "Ref/BP.sync-conflict-20240815-203525-AFLIAW3.md",
+    "Ref/RV.sync-conflict-20240801-100239-RXT2P7M.md",
+    "Ref/TB.sync-conflict-20240816-195747-AFLIAW3.md",
+    "Ref/SpB.md",
+    "Ref/AB.md",
+    "Ref/~syncthing~AB.sync-conflict-20240816-200417-AFLIAW3.md.tmp",
+    "Ref/TB.md",
+    "Ref/~syncthing~TB.sync-conflict-20240816-195747-AFLIAW3.md.tmp",
+    "Ref/~syncthing~AB.sync-conflict-20240816-193446-AFLIAW3.md.tmp",
+    "Ref/brhmP.md",
+    "Ref/BhvP.md",
+    "Ref/SkP.md",
+    "Ref/~syncthing~brhmP.md.tmp",
+    "Ref/brhdP.md",
+    "Ref/BP.md",
+    "Ref/~syncthing~BP.sync-conflict-20240815-203525-AFLIAW3.md.tmp",
+    "Ref/~syncthing~AV.ŚS.sync-conflict-20240815-202256-AFLIAW3.md.tmp",
+    "Ref/VS.md.md",
     "Untitled.canvas"
   ]
 }
