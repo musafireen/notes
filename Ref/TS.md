@@ -5,6 +5,19 @@ https://sanskritdocuments.org/doc_veda/taittirIyasamhitA.html
 https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/ts/ts.htm
 
 https://sacred-texts.com/hin/yv/index.htm
+## 2.3
+#### 1
+गमयन्ति॒ यदि॒ नाव॒गच्छे॒दाश्व॑त्थान्म॒यूखा᳚न्थ्स॒प्त म॑ध्यमे॒षाया॒मुप॑
+हन्यादि॒दम॒हमा॑दि॒त्यान्ब॑ध्ना॒म्यामुष्मा॑द॒मुष्यै॑ वि॒शोऽव॑गन्तो॒रित्या॑दि॒त्या
+ए॒वैनं॑ ब॒द्धवी॑रा॒ विश॒मव॑ गमयन्ति॒ यदि॒ नाव॒गच्छे॑दे॒तमे॒वादि॒त्यं
+च॒रुं निर्व॑पेदि॒ध्मेऽपि॑ म॒यूखा॒न्थ्सं न॑ह्येदनपरु॒ध्यमे॒वाव॑
+गच्छ॒त्याश्व॑त्था भवन्ति म॒रुतां॒ वा ए॒तदोजो॒ यद॑श्व॒त्थ ओज॑सै॒व
+विश॒मव॑ गच्छति स॒प्त भ॑वन्ति स॒प्तग॑णा॒ वै म॒रुतो॑ गण॒श
+ए॒व विश॒मव॑ गच्छति ॥ २। ३। १॥ धा॒रय॑द्वतो मरुतो गच्छति॒
+विश॒मवै॒तद॒ष्टाद॑श च ॥ २। ३। १॥
+
+He who desires prosperity should offer to the Adityas, giving prosperity; it is the Adityas who repel from prosperity him who being fit for prosperity does not obtain prosperity; verily he has recourse to the Adityas, giving prosperity, with their own share; verily they make him attain prosperity; he becomes prosperous. He who has been expelled or is being expelled should offer an oblation to the Adityas, the sustainers; the Adityas are the expellers, the Adityas are the procurers; verily he has recourse to the Adityas, the sustainers [1] with their own share; verily they support him in the people; he is unexpellable. 'O Aditi, do thou confirm', (with these words) be who is being expelled should take the foot (dust) of him (who is expelling him); Aditi is this (earth); verily she confirms the kingdom for him; 'Be the blessing fulfilled', he says; verily he makes the blessing come true; 'Mind here', he says; verily he makes the people of one mind with him; 'Come hither, O ye Maruts [2] rich in dew, with this lord of the people against yon king', he says; the people are connected with the Maruts, the lord of the people is the highest; verily he unites him with the people and the realm. From the house of a village judge further on he should take rice; he should separate out the white and the black; of the white he should offer an oblation to the Adityas; the people have the Adityas for their deity; verily he attains the people [3]; 'The people he has attained, the realm he has not attained', they say; of the dark ones he should offer an oblation to Varuna; the realm is connected with Varuna; verily he attains both the people and the realm. Should he not attain (them), he should offer (saying), 'To the Adityas this portion I offer to attain the people N. N. for N. N.'; verily the Adityas desiring the portion make him attain the people [4]. Should he not attain (them), he should knock in seven pegs of Açvattha wood in the middle shaft, (saying), 'Here do I bind the Adityas to attain the people N. N. from N. N.'; verily the Adityas, their heroes bound, make him attain the people. Should he not attain (them), he should offer this oblation to the Adityas and attach pegs to the kindling-wood; verily he attains what cannot be taken away. (The pegs) are of Açvattha wood; the Açvattha is the might of the Maruts; verily with might he attains the people; seven are they, the Maruts are in seven troops; verily in troops he attains the people.
+
 ## 2.6
 ### 2.6.3
 
@@ -464,194 +477,13 @@ Expanded in the middle of the world,
 Aditi milking ghee for men,
 O Agni, harm not [2] in the highest heaven;
 ## 4.5
+### 4.5.1
 १ नम॑स्ते रुद्र म॒न्यव॑ उ॒तोत॒ इष॑ वे॒ नमः॑ । नम॑स्ते अस्तु॒ धन्व॑ने
    बा॒हुभ्या॑मु॒त ते॒ नमः॑ ॥ यात॒ इषुः॑ शि॒वत॑मा शि॒वं ब॒भूव॑
    ते॒ धनुः॑ । शि॒वा श॑र॒व्या॑ या तव॒ तया॑ नो रुद्र मृडय ॥ या ते॑ रुद्र
    शि॒वा त॒नूरघो॒रापा॑पकाशिनी । तया॑ नस्त॒नुवा॒ शंत॑मया॒ गिरि॑शन्ता॒भि
    चा॑कशीहि ॥ यामिषुं॑ गिरिशन्त॒ हस्ते॒
-
-२ बिभ॒र्॒ष्यस्त॑वे । शि॒वां गि॑रित्र॒ तां कु॑रु॒ मा हिꣳ॑सीः॒ पुरु॑षं॒
-   जग॑त् ॥ शि॒वेन॒ वच॑सा त्वा॒ गिरि॒शाच्छा॑ वदामसि । यथा॑ नः॒
-   सर्व॒मिज्जग॑दय॒क्ष्मꣳ सु॒मना॒ अस॑त् ॥ अध्य॑वोचदधिव॒क्ता प्र॑थ॒मो
-   दैव्यो॑ भि॒षक् । अहीग्॑श्च॒ सर्वा᳚ञ्जं॒भय॒न्थ्सर्वा᳚श्च यातुधा॒न्यः॑
-   ॥ अ॒सौ यस्ता॒म्रो अ॑रु॒ण उ॒त ब॒भ्रुः सु॑म॒ङ्गलः॑ । ये चे॒माꣳ रु॒द्रा
-   अ॒भितो॑ दि॒क्षु
-
-३ श्रि॒ताः स॑हस्र॒शोऽवै॑षा॒ꣳ॒ हेड॑ ईमहे ॥ अ॒सौ यो॑ऽव॒सर्प॑ति॒
-   नील॑ग्रीवो॒ विलो॑हितः । उ॒तैनं॑ गो॒पा अ॑दृश॒न्नदृ॑शन्नुदहा॒र्यः॑ ।
-   उ॒तैनं॒ विश्वा॑ भू॒तानि॒ स दृ॒ष्टो मृ॑डयाति नः ॥ नमो॑ अस्तु॒ नील॑ग्रीवाय
-   सहस्रा॒क्षाय॑ मी॒डुषे᳚ । अथो॒ ये अ॑स्य॒ सत्वा॑नो॒ऽहं तेभ्यो॑ऽकरं॒
-   नमः॑ ॥ प्र मु॑ञ्च॒ धन्व॑न॒स्त्वमु॒भयो॒रार्त्नि॑यो॒र्ज्याम् । याश्च॑ ते॒
-   हस्त॒ इष॑वः॒
-
-४ परा॒ ता भ॑गवो वप ॥ अ॒व॒तत्य॒ धनु॒स्त्वꣳ सह॑स्राक्ष॒
- शते॑षुधे । नि॒शीर्य॑ श॒ल्यानां॒ मुखा॑ शि॒वो नः॑ सु॒मना॑ भव ॥
-
- विज्यं॒ धनुः॑ कप॒र्दिनो॒ विश॑ल्यो॒ बाण॑वाꣳ उ॒त । अने॑शन्न॒स्येष॑व
- आ॒भुर॑स्य निष॒ङ्गथिः॑ ॥ या ते॑ हे॒तिर्मी॑ढुष्टम॒ हस्ते॑ ब॒भूव॑
- ते॒ धनुः॑ । तया॒स्मान्, वि॒श्वत॒स्त्वम॑य॒क्ष्मया॒ परि॑ ब्भुज ॥ नम॑स्ते
- अ॒स्त्वायु॑धा॒याना॑तताय धृ॒ष्णवे᳚ । उ॒भाभ्या॑मु॒त ते॒ नमो॑ बा॒हुभ्यां॒
- तव॒ धन्व॑ने ॥ परि॑ ते॒ धन्व॑नो हे॒तिर॒स्मान्वृ॑णक्तु वि॒श्वतः॑ । अथो॒ य
- इ॑षु॒धिस्तवा॒रे अ॒स्मन्नि धे॑हि॒ तम् ॥ ४। ५। १॥ हस्ते॑ दि॒क्ष्विष॑व उ॒भाभ्यां॒
- द्वा विꣳ॑शतिश्च ॥ ४। ५। १॥
-
-५ नमो॒ हिर॑ण्यबाहवे सेना॒न्ये॑ दि॒शां च॒ पत॑ये॒ नमो॒ नमो॑ वृ॒क्षेभ्यो॒
- हरि॑केशेभ्यः पशू॒नां पत॑ये॒ नमो॒ नमः॑ स॒स्पिञ्ज॑राय॒ त्विषी॑मते
- पथी॒नां पत॑ये॒ नमो॒ नमो॑ बभ्लु॒शाय॑ विव्या॒धिनेऽन्ना॑नां॒ पत॑ये॒ नमो॒
- नमो॒ हरि॑केशायोपवी॒तिने॑ पु॒ष्टानां॒ पत॑ये॒ नमो॒ नमो॑ भ॒वस्य॑ हे॒त्यै
- जग॑तां॒ पत॑ये॒ नमो॒ नमो॑ रु॒द्राया॑तता॒विने॒ क्षेत्रा॑णां॒ पत॑ये॒ नमो॒
- नमः॑ सू॒तायाह॑न्त्याय॒ वना॑नां॒ पत॑ये॒ नमो॒ नमो॒
-
-६ रोहि॑ताय स्थ॒पत॑ये वृ॒क्षाणां॒ पत॑ये॒ नमो॒ नमो॑ म॒न्त्रिणे॑ वाणि॒जाय॒
- कक्षा॑णां॒ पत॑ये॒ नमो॒ नमो॑ भुव॒न्तये॑ वारिवस्कृ॒तायौष॑धीनां॒
- पत॑ये॒ नमो॒ नम॑ उ॒च्चैर्घो॑षायाक्र॒न्दय॑ते पत्ती॒नां पत॑ये॒ नमो॒
- नमः॑ कृथ्स्नवी॒ताय॒ धाव॑ते॒ सत्व॑नां॒ पत॑ये॒ नमः॑ ॥ ४। ५। २॥ वना॑नां॒
- पत॑ये॒ नमो॒ नम॒ एका॒न्न त्रि॒ꣳ॒शच्च॑ ॥ ४। ५। २॥
-
-७ नमः॒ सह॑मानाय निव्या॒धिन॑ आव्या॒धिनी॑नां॒ पत॑ये॒ नमो॒ नमः॑ ककु॒भाय॑
- निष॒ङ्गिणे᳚ स्ते॒नानां॒ पत॑ये॒ नमो॒ नमो॑ निष॒ङ्गिण॑ इषुधि॒मते॒
- तस्क॑राणां॒ पत॑ये॒ नमो॒ नमो॒ वञ्च॑ते परि॒वञ्च॑ते स्तायू॒नां पत॑ये॒
- नमो॒ नमो॑ निचे॒रवे॑ परिच॒रायार॑ण्यानां॒ पत॑ये॒ नमो॒ नमः॑ सृका॒विभ्यो॒
- जिघाꣳ॑ सद्भ्यो मुष्ण॒तां पत॑ये॒ नमो॒ नमो॑ऽसि॒मद्भ्यो॒ नक्तं॒ चर॑द्भ्यः
- प्रकृ॒न्तानां॒ पत॑ये॒ नमो॒ नम॑ उष्णी॒षिणे॑ गिरिच॒राय॑ कुलु॒ञ्चानां॒
- पत॑ये॒ नमो॒ नम॒
-
-८ इषु॑मद्भ्यो धन्वा॒विभ्य॑श्च वो॒ नमो॒ नम॑ आतन्वा॒नेभ्यः॑
- प्रति॒दधा॑नेभ्यश्च वो॒ नमो॒ नम॑ आ॒यच्छ॑द्भ्यो विसृ॒जद्भ्य॑श्च वो॒ नमो॒
- नमोऽस्य॑द्भ्यो॒ विध्य॑द्भ्यश्च वो॒ नमो॒ नम॒ आसी॑नेभ्यः॒ शया॑नेभ्यश्च
- वो॒ नमो॒ नमः॑ स्व॒पद्भ्यो॒ जाग्र॑द्भ्यश्च वो॒ नमो॒ नम॒स्तिष्ठ॑द्भ्यो॒
- धाव॑द्भ्यश्च वो॒ नमो॒ नमः॑ स॒भाभ्यः॑ स॒भाप॑तिभ्यश्च वो॒ नमो॒ नमो॒
- अश्वे॒भ्योऽश्व॑पतिभ्यश्च वो॒ नमः॑ ॥ ४। ५। ३॥ कु॒लु॒ङ्चानां॒ पत॑ये॒ नमो॒
- नमोश्व॑पतिभ्य॒स्त्रीणि॑ च ॥ ४। ५। ३॥
-
-९ नम॑ आव्या॒धिनी᳚भ्यो वि॒विध्य॑न्तीभ्यश्च वो॒ नमो॒ नम॒
- उग॑णाभ्यस्तृꣳह॒तीभ्य॑श्च वो॒ नमो॒ नमो॑ गृ॒थ्सेभ्यो॑
- गृ॒थ्सप॑तिभ्यश्च वो॒ नमो॒ नमो॒ व्राते᳚भ्यो॒ व्रात॑पतिभ्यश्च
- वो॒ नमो॒ नमो॑ ग॒णेभ्यो॑ ग॒णप॑तिभ्यश्च वो॒ नमो॒ नमो॒ विरू॑पेभ्यो
- वि॒श्वरू॑पेभ्यश्च वो॒ नमो॒ नमो॑ म॒हद्भ्यः॑, क्षुल्ल॒केभ्य॑श्च वो॒ नमो॒
- नमो॑ र॒थिभ्यो॑ऽर॒थेभ्य॑श्च वो॒ नमो॒ नमो॒ रथे᳚भ्यो॒
-
-१० रथ॑पतिभ्यश्च वो॒ नमो॒ नमः॒ सेना᳚भ्यः सेना॒निभ्य॑श्च वो॒ नमो॒
- नमः॑, क्ष॒त्तृभ्यः॑ संग्रही॒तृभ्य॑श्च वो॒ नमो॒ नम॒स्तक्ष॑भ्यो
- रथका॒रेभ्य॑श्च वो॒ नमो॒ नमः॒ कुला॑लेभ्यः क॒र्मारे᳚भ्यश्च वो॒ नमो॒
- नमः॑ पु॒ञ्जिष्टे᳚भ्यो निषा॒देभ्य॑श्च वो॒ नमो॒ नम॑ इषु॒कृद्भ्यो॑
- धन्व॒कृद्भ्य॑श्च वो॒ नमो॒ नमो॑ मृग॒युभ्यः॑ श्व॒निभ्य॑श्च वो॒
- नमो॒ नमः॒ श्वभ्यः॒ श्वप॑तिभ्यश्च वो॒ नमः॑ ॥ ४। ५। ४॥ रथे᳚भ्यः॒
- श्वप॑तिभ्यश्च॒ द्वे च॑ ॥ ४। ५। ४॥
-
-११ नमो॑ भ॒वाय॑ च रु॒द्राय॑ च॒ नमः॑ श॒र्वाय॑ च पशु॒पत॑ये च॒ नमो॒
- नील॑ग्रीवाय च शिति॒कण्ठा॑य च॒ नमः॑ कप॒र्दिने॑ च॒ व्यु॑प्तकेशाय च॒
- नमः॑ सहस्रा॒क्षाय॑ च श॒तध॑न्वने च॒ नमो॑ गिरि॒शाय॑ च शिपिवि॒ष्टाय॑
- च॒ नमो॑ मी॒ढुष्ट॑माय॒ चेषु॑मते च॒ नमो᳚ ह्र॒स्वाय॑ च वाम॒नाय॑ च॒
- नमो॑ बृह॒ते च॒ वर्षी॑यसे च॒ नमो॑ वृ॒द्धाय॑ च सं॒वृध्व॑ने च॒
-
-१२ नमो॒ अग्रि॑याय च प्रथ॒माय॑ च॒ नम॑ आ॒शवे॑ चाजि॒राय॑ च॒
- नमः॒ शीघ्रि॑याय च॒ शीभ्या॑य च॒ नम॑ ऊ॒र्म्या॑य चावस्व॒न्या॑य च॒
- नमः॑ स्रोत॒स्या॑य च॒ द्वीप्या॑य च ॥ ४। ५। ५॥ सं॒वृद्ध्व॑ने च॒ पञ्च॑
- विꣳशतिश्च ॥ ४। ५। ५॥
-
-१३ नमो᳚ ज्ये॒ष्ठाय॑ च कनि॒ष्ठाय॑ च॒ नमः॑ पूर्व॒जाय॑ चापर॒जाय॑ च॒
- नमो॑ मध्य॒माय॑ चापग॒ल्भाय॑ च॒ नमो॑ जघ॒न्या॑य च॒ बुध्नि॑याय च॒
- नमः॑ सो॒भ्या॑य च प्रतिस॒र्या॑य च॒ नमो॒ याम्या॑य च॒ क्षेम्या॑य च॒
- नम॑ उर्व॒र्या॑य च॒ खल्या॑य च॒ नमः॒ श्लोक्या॑य चावसा॒न्या॑य च॒ नमो॒
- वन्या॑य च॒ कक्ष्या॑य च॒ नमः॑ श्र॒वाय॑ च प्रतिश्र॒वाय॑ च॒
-
-१४ नम॑ आ॒शुषे॑णाय चा॒शुर॑थाय च॒ नमः॒ शूरा॑य चावभिन्द॒ते च॒
- नमो॑ व॒र्मिणे॑ च वरू॒थिने॑ च॒ नमो॑ बि॒ल्मिने॑ च कव॒चिने॑ च॒ नमः॑
- श्रु॒ताय॑ च श्रुतसे॒नाय॑ च ॥ ४। ५। ६॥ प्र॒ति॒श्र॒वाय॑ च॒ पञ्च॑
- विꣳशतिश्च ॥ ४। ५। ६॥
-
-१५ नमो॑ दुन्दु॒भ्या॑य चाहन॒न्या॑य च॒ नमो॑ धृ॒ष्णवे॑ च प्रमृ॒शाय॑
- च॒ नमो॑ दू॒ताय॑ च॒ प्रहि॑ताय च॒ नमो॑ निष॒ङ्गिणे॑ चेषुधि॒मते॑ च॒
- नम॑स्ती॒क्ष्णेष॑वे चायु॒धिने॑ च॒ नमः॑ स्वायु॒धाय॑ च सु॒धन्व॑ने च॒
- नमः॒ स्रुत्या॑य च॒ पथ्या॑य च॒ नमः॑ का॒ट्या॑य च नी॒प्या॑य च॒ नमः॒
- सूद्या॑य च सर॒स्या॑य च॒ नमो॑ ना॒द्याय॑ च वैश॒न्ताय॑ च॒
-
-१६ नमः॒ कूप्या॑य चाव॒ट्या॑य च॒ नमो॒ वर्ष्या॑य चाव॒र्॒ष्याय॑ च॒ नमो॑
- मे॒घ्या॑य च विद्यु॒त्या॑य च॒ नम॑ ई॒ध्रिया॑य चात॒प्या॑य च॒ नमो॒
- वात्या॑य च॒ रेष्मि॑याय च॒ नमो॑ वास्त॒व्या॑य च वास्तु॒पाय॑ च ॥ ४। ५। ७॥
-
- वै॒श॒न्ताय॑ च त्रि॒ꣳ॒शच्च॑ ॥ ४। ५। ७॥
-
-१७ नमः॒ सोमा॑य च रु॒द्राय॑ च॒ नम॑स्ता॒म्राय॑ चारु॒णाय॑ च॒ नमः॑
- श॒ङ्गाय॑ च पशु॒पत॑ये च॒ नम॑ उ॒ग्राय॑ च भी॒माय॑ च॒ नमो॑
- अग्रेव॒धाय॑ च दूरेव॒धाय॑ च॒ नमो॑ ह॒न्त्रे च॒ हनी॑यसे च॒ नमो॑
- वृ॒क्षेभ्यो॒ हरि॑केशेभ्यो॒ नम॑स्ता॒राय॒ नमः॑ शं॒भवे॑ च मयो॒भवे॑ च॒
- नमः॑ शङ्क॒राय॑ च मयस्क॒राय॑ च॒ नमः॑ शि॒वाय॑ च शि॒वत॑राय च॒
-
-१८ नम॒स्तीर्थ्या॑य च॒ कूल्या॑य च॒ नमः॑ पा॒र्या॑य चावा॒र्या॑य च॒ नमः॑
- प्र॒तर॑णाय चो॒त्तर॑णाय च॒ नम॑ आता॒र्या॑य चाला॒द्या॑य च॒ नमः॒
- शष्प्या॑य च॒ फेन्या॑य च॒ नमः॑ सिक॒त्या॑य च प्रवा॒ह्या॑य च ॥ ४। ५। ८॥
-
- शि॒वत॑राय च त्रि॒ꣳ॒शच्च॑ ॥ ४। ५। ८॥
-
-१९ नम॑ इरि॒ण्या॑य च प्रप॒थ्या॑य च॒ नमः॑ किꣳशि॒लाय॑ च॒ क्षय॑णाय
- च॒ नमः॑ कप॒र्दिने॑ च पुल॒स्तये॑ च॒ नमो॒ गोष्ठ्या॑य च॒ गृह्या॑य च॒
- नम॒स्तल्प्या॑य च॒ गेह्या॑य च॒ नमः॑ का॒ट्या॑य च गह्वरे॒ष्ठाय॑ च॒ नमो᳚
- ह्रद॒य्या॑य च निवे॒ष्प्या॑य च॒ नमः॑ पाꣳस॒व्या॑य च रज॒स्या॑य च॒
- नमः॒ शुष्क्या॑य च हरि॒त्या॑य च॒ नमो॒ लोप्या॑य चोल॒प्या॑य च॒
-
-२० नम॑ ऊ॒र्व्या॑य च सू॒र्म्या॑य च॒ नमः॑ प॒र्ण्या॑य च पर्णश॒द्या॑य च॒
- नमो॑ऽपगु॒रमा॑णाय चाभिघ्न॒ते च॒ नम॑ आक्खिद॒ते च॑ प्रक्खिद॒ते च॒
- नमो॑ वः किरि॒केभ्यो॑ दे॒वाना॒ꣳ॒ हृद॑येभ्यो॒ नमो॑ विक्षीण॒केभ्यो॒ नमो॑
- विचिन्व॒त्केभ्यो॒ नम॑ आनिर्ह॒तेभ्यो॒ नम॑ आमीव॒त्केभ्यः॑ ॥ ४। ५। ९॥ उ॒ल॒प्या॑य
- च॒ त्रय॑स्त्रिꣳशच्च ॥ ४। ५। ९॥
-
-२१ द्रापे॒ अन्ध॑सस्पते॒ दरि॑द्र॒न्नील॑लोहित । ए॒षां पुरु॑षाणामे॒षां
- प॑शू॒नां मा भेर्मारो॒ मो ए॑षां॒ किं च॒नाम॑मत् ॥ या ते॑ रुद्र शि॒वा त॒नूः
- शि॒वा वि॒श्वाह॑भेषजी । शि॒वा रु॒द्रस्य॑ भेष॒जी तया॑ नो मृड जी॒वसे᳚ ॥
-
- इ॒माꣳ रु॒द्राय॑ त॒वसे॑ कप॒र्दिने᳚ क्ष॒यद्वी॑राय॒ प्र भ॑रामहे म॒तिम् ।
- यथा॑ नः॒ शमस॑द्द्वि॒पदे॒ चतु॑ष्पदे॒ विश्वं॑ पु॒ष्टं ग्रामे॑ अ॒स्मि
-
-२२ न्नना॑तुरम् ॥ मृ॒डा नो॑ रुद्रो॒त नो॒ मय॑स्कृधि क्ष॒यद्वी॑राय॒ नम॑सा
- विधेम ते । यच्छं च॒ योश्च॒ मनु॑राय॒जे पि॒ता तद॑श्याम॒ तव॑ रुद्र॒
- प्रणी॑तौ ॥ मा नो॑ म॒हान्त॑मु॒त मा नो॑ अर्भ॒कं मा न॒ उक्ष॑न्तमु॒त मा न॑
- उक्षि॒तम् । मा नो॑ वधीः पि॒तरं॒ मोत मा॒तरं॑ प्रि॒या मा न॑स्त॒नुवो॑
-
-२३ रुद्र रीरिषः ॥ मा न॑स्तो॒के तन॑ये॒ मा न॒ आयु॑षि॒ मा नो॒ गोषु॒ मा नो॒
- अश्वे॑षु रीरिषः । वी॒रान्मा नो॑ रुद्र भामि॒तो व॑धीर्ह॒विष्म॑न्तो॒ नम॑सा विधेम ते
- ॥ आ॒रात्ते॑ गो॒घ्न उ॒त पू॑रुष॒घ्ने क्ष॒यद्वी॑राय सु॒म्नम॒स्मे ते॑ अस्तु । रक्षा॑
- च नो॒ अधि॑ च देव ब्रू॒ह्यधा॑ च नः॒ शर्म॑ यच्छ द्वि॒बर्हाः᳚ ॥ स्तु॒हि
-
-२४ श्रु॒तं ग॑र्त॒सदं॒ युवा॑नं मृ॒गं न भी॒ममु॑पह॒त्नुमु॒ग्रम् ।
- मृ॒डा ज॑रि॒त्रे रु॑द्र॒ स्तवा॑नो अ॒न्यं ते॑ अ॒स्मन्नि व॑पन्तु॒ सेनाः᳚ ॥
-
- परि॑णो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु॒ परि॑ त्वे॒षस्य॑ दुर्म॒तिर॑घा॒योः । अव॑
- स्थि॒रा म॒घव॑द्भ्यस्तनुष्व॒ मीढ्व॑स्तो॒काय॒ तन॑याय मृडय ॥ मीढु॑ष्टम॒
- शिव॑तम शि॒वो नः॑ सु॒मना॑ भव । प॒र॒मे वृ॒क्ष आयु॑धं नि॒धाय॒
- कृत्तिं॒ वसा॑न॒ आ च॑र॒ पिना॑कं॒
-
-२५ बिभ्र॒दा ग॑हि ॥ विकि॑रिद॒ विलो॑हित॒ नम॑स्ते अस्तु भगवः । यास्ते॑
- स॒हस्रꣳ॑ हे॒तयो॒ऽन्यम॒स्मन्नि व॑पन्तु॒ ताः ॥ स॒हस्रा॑णि सहस्र॒धा
- बा॑हु॒वोस्तव॑ हे॒तयः॑ । तासा॒मीशा॑नो भगवः परा॒चीना॒ मुखा॑ कृधि ॥ ४। ५। १०॥
-
-अ॒स्मिग्ग् स्त॒नुवः॑ स्तु॒हि पिना॑क॒मेका॒न्न त्रि॒ꣳ॒शच्च॑ ॥ ४। ५। १०॥
-
-२६ स॒हस्रा॑णि सहस्र॒शो ये रु॒द्रा अधि॒ भूम्या᳚म् । तेषाꣳ॑ सहस्रयोज॒नेऽव॒
- धन्वा॑नि तन्मसि ॥ अ॒स्मिन्म॑ह॒त्य॑र्ण॒वे᳚ऽन्तरि॑क्षे भ॒वा अधि॑ । नील॑ग्रीवाः
- शिति॒कण्ठाः᳚ श॒र्वा अ॒धः, क्ष॑माच॒राः ॥ नील॑ग्रीवाः शिति॒कण्ठा॒ दिवꣳ॑
- रु॒द्रा उप॑श्रिताः । ये वृ॒क्षेषु॑ स॒स्पिञ्ज॑रा॒ नील॑ग्रीवा॒ विलो॑हिताः ।
- ये भू॒ताना॒मधि॑पतयो विशि॒खासः॑ कप॒र्दिनः॑ । ये अन्ने॑षु वि॒विध्य॑न्ति॒
- पात्रे॑षु॒ पिब॑तो॒ जनान्॑ । ये प॒थां प॑थि॒रक्ष॑य ऐलबृ॒दा य॒व्युधः॑
- । ये ती॒र्थानि॑
-
-२७ प्र॒चर॑न्ति सृ॒काव॑न्तो निष॒ङ्गिणः॑ । य ए॒ताव॑न्तश्च॒
- भूयाꣳ॑सश्च॒ दिशो॑ रु॒द्रा वि॑तस्थि॒रे । तेषाꣳ॑ सहस्रयोज॒नेऽव॒
- धन्वा॑नि तन्मसि ॥ नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्यां ये᳚ऽन्तरि॑क्षे॒ ये दि॒वि
- येषा॒मन्नं॒ वातो॑ व॒र्॒षमिष॑व॒स्तेभ्यो॒ दश॒ प्राची॒र्दश॑ दक्षि॒णा
- दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते
- यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तं वो॒ जम्भे॑ दधामि ॥ ४। ५। ११॥ ती॒र्थानि॒
- यश्च॒ षट्च॑ ॥ ४। ५। ११॥
-
- नम॑स्ते रुद्र॒ नमो॒ हिर॑ण्यबाहवे॒ नमः॒ सह॑मानाय॒ नम॑ आव्या॒धिनी᳚भ्यो॒
-नमो॑ भ॒वाय॒ नमो᳚ ज्ये॒ष्ठाय॒ नमो॑ दुन्दु॒भ्या॑य॒ नमः॒ सोमा॑य॒ नम॑
-इरि॒ण्या॑य॒ द्रापे॑ स॒हस्रा॒ण्येका॑दश ॥
-
- नम॑स्ते रुद्र॒ नमो॑ भ॒वाय॒ द्रापे॑ स॒प्तविꣳ॑शतिः ॥
-
- नम॑स्ते रुद्र॒ तं वो॒ जंभे॑ दधामि ॥
-
+   
 iv. 5. 1.
 a Homage to thy wrath, O Rudra,
 To thine arrow homage also;
@@ -669,6 +501,14 @@ d The arrow which, O haunter of mountains,
 In thy hand [1] thou bearest to shoot,
 That make thou kindly, O guardian of mountains;
 Harm not the world of men.
+
+२ बिभ॒र्॒ष्यस्त॑वे । शि॒वां गि॑रित्र॒ तां कु॑रु॒ मा हिꣳ॑सीः॒ पुरु॑षं॒
+   जग॑त् ॥ शि॒वेन॒ वच॑सा त्वा॒ गिरि॒शाच्छा॑ वदामसि । यथा॑ नः॒
+   सर्व॒मिज्जग॑दय॒क्ष्मꣳ सु॒मना॒ अस॑त् ॥ अध्य॑वोचदधिव॒क्ता प्र॑थ॒मो
+   दैव्यो॑ भि॒षक् । अहीग्॑श्च॒ सर्वा᳚ञ्जं॒भय॒न्थ्सर्वा᳚श्च यातुधा॒न्यः॑
+   ॥ अ॒सौ यस्ता॒म्रो अ॑रु॒ण उ॒त ब॒भ्रुः सु॑म॒ङ्गलः॑ । ये चे॒माꣳ रु॒द्रा
+   अ॒भितो॑ दि॒क्षु
+
 e With kindly utterance thee
 We address, O liver on the mountains,
 That all our folk
@@ -688,6 +528,14 @@ Him the cowherds have seen,
 Have seen the bearers of water
 And him all creatures;
 May be, seen, be gentle unto us.
+
+३ श्रि॒ताः स॑हस्र॒शोऽवै॑षा॒ꣳ॒ हेड॑ ईमहे ॥ अ॒सौ यो॑ऽव॒सर्प॑ति॒
+   नील॑ग्रीवो॒ विलो॑हितः । उ॒तैनं॑ गो॒पा अ॑दृश॒न्नदृ॑शन्नुदहा॒र्यः॑ ।
+   उ॒तैनं॒ विश्वा॑ भू॒तानि॒ स दृ॒ष्टो मृ॑डयाति नः ॥ नमो॑ अस्तु॒ नील॑ग्रीवाय
+   सहस्रा॒क्षाय॑ मी॒डुषे᳚ । अथो॒ ये अ॑स्य॒ सत्वा॑नो॒ऽहं तेभ्यो॑ऽकरं॒
+   नमः॑ ॥ प्र मु॑ञ्च॒ धन्व॑न॒स्त्वमु॒भयो॒रार्त्नि॑यो॒र्ज्याम् । याश्च॑ ते॒
+   हस्त॒ इष॑वः॒
+
 i Homage to the blue-necked,
 Thousand-eyed one, the bountiful
 And to those that are his warriors
@@ -700,6 +548,19 @@ The arrows in thy hand [3].
 Do thou of a thousand eyes and a hundred quivers,
 Destroying the points of thine arrows,
 Be gentle and kindly to us.
+
+४ परा॒ ता भ॑गवो वप ॥ अ॒व॒तत्य॒ धनु॒स्त्वꣳ सह॑स्राक्ष॒
+ शते॑षुधे । नि॒शीर्य॑ श॒ल्यानां॒ मुखा॑ शि॒वो नः॑ सु॒मना॑ भव ॥
+
+ विज्यं॒ धनुः॑ कप॒र्दिनो॒ विश॑ल्यो॒ बाण॑वाꣳ उ॒त । अने॑शन्न॒स्येष॑व
+ आ॒भुर॑स्य निष॒ङ्गथिः॑ ॥ या ते॑ हे॒तिर्मी॑ढुष्टम॒ हस्ते॑ ब॒भूव॑
+ ते॒ धनुः॑ । तया॒स्मान्, वि॒श्वत॒स्त्वम॑य॒क्ष्मया॒ परि॑ ब्भुज ॥ नम॑स्ते
+ अ॒स्त्वायु॑धा॒याना॑तताय धृ॒ष्णवे᳚ । उ॒भाभ्या॑मु॒त ते॒ नमो॑ बा॒हुभ्यां॒
+ तव॒ धन्व॑ने ॥ परि॑ ते॒ धन्व॑नो हे॒तिर॒स्मान्वृ॑णक्तु वि॒श्वतः॑ । अथो॒ य
+ इ॑षु॒धिस्तवा॒रे अ॒स्मन्नि धे॑हि॒ तम् ॥ ४। ५। १॥ हस्ते॑ दि॒क्ष्विष॑व उ॒भाभ्यां॒
+ द्वा विꣳ॑शतिश्च ॥ ४। ५। १॥
+
+
 m Unstrung is the bow of him of the braided hair
 And arrowless his quiver;
 His arrows have departed,
@@ -717,6 +578,14 @@ Avoid us on every side,
 And do thou lay far from us
 This quiver that is thine.
 
+### 4.5.2
+५ नमो॒ हिर॑ण्यबाहवे सेना॒न्ये॑ दि॒शां च॒ पत॑ये॒ नमो॒ नमो॑ वृ॒क्षेभ्यो॒
+ हरि॑केशेभ्यः पशू॒नां पत॑ये॒ नमो॒ नमः॑ स॒स्पिञ्ज॑राय॒ त्विषी॑मते
+ पथी॒नां पत॑ये॒ नमो॒ नमो॑ बभ्लु॒शाय॑ विव्या॒धिनेऽन्ना॑नां॒ पत॑ये॒ नमो॒
+ नमो॒ हरि॑केशायोपवी॒तिने॑ पु॒ष्टानां॒ पत॑ये॒ नमो॒ नमो॑ भ॒वस्य॑ हे॒त्यै
+ जग॑तां॒ पत॑ये॒ नमो॒ नमो॑ रु॒द्राया॑तता॒विने॒ क्षेत्रा॑णां॒ पत॑ये॒ नमो॒
+ नमः॑ सू॒तायाह॑न्त्याय॒ वना॑नां॒ पत॑ये॒ नमो॒ नमो॒
+ 
 iv. 5. 2.
 a Homage to the golden-armed leader of hosts, and to the lord of the quarters homage!
 b Homage to the trees with green tresses, to the lord of cattle homage!
@@ -726,13 +595,27 @@ e Homage to the green-haired, wearer of the cord, to the lord of prosperity homa
 f Homage to the dart of Bhava, to the lord of the moving world homage!
 g Homage to Rudra, with bent bow, to the lord of fields homage!
 h Homage to the minstrel, the inviolate, to the lord of the woods homage!
+
+६ रोहि॑ताय स्थ॒पत॑ये वृ॒क्षाणां॒ पत॑ये॒ नमो॒ नमो॑ म॒न्त्रिणे॑ वाणि॒जाय॒
+ कक्षा॑णां॒ पत॑ये॒ नमो॒ नमो॑ भुव॒न्तये॑ वारिवस्कृ॒तायौष॑धीनां॒
+ पत॑ये॒ नमो॒ नम॑ उ॒च्चैर्घो॑षायाक्र॒न्दय॑ते पत्ती॒नां पत॑ये॒ नमो॒
+ नमः॑ कृथ्स्नवी॒ताय॒ धाव॑ते॒ सत्व॑नां॒ पत॑ये॒ नमः॑ ॥ ४। ५। २॥ वना॑नां॒
+ पत॑ये॒ नमो॒ नम॒ एका॒न्न त्रि॒ꣳ॒शच्च॑ ॥ ४। ५। २॥
+ 
 i Homage [1] to the ruddy one, the ruler, to the lord of woods homage!
 k Homage to the minister, the trader, to the lord of thickets homage!
 l Homage to the extender of the world, the offspring of the maker of room, to the lord of plants homage!
 m Homage to the loud calling, the screaming, to the lord of footmen homage!
 n Homage to the wholly covered, to the running, to the lord of warriors homage!
+### 4.5.3
+७ नमः॒ सह॑मानाय निव्या॒धिन॑ आव्या॒धिनी॑नां॒ पत॑ये॒ नमो॒ नमः॑ ककु॒भाय॑
+ निष॒ङ्गिणे᳚ स्ते॒नानां॒ पत॑ये॒ नमो॒ नमो॑ निष॒ङ्गिण॑ इषुधि॒मते॒
+ तस्क॑राणां॒ पत॑ये॒ नमो॒ नमो॒ वञ्च॑ते परि॒वञ्च॑ते स्तायू॒नां पत॑ये॒
+ नमो॒ नमो॑ निचे॒रवे॑ परिच॒रायार॑ण्यानां॒ पत॑ये॒ नमो॒ नमः॑ सृका॒विभ्यो॒
+ जिघाꣳ॑ सद्भ्यो मुष्ण॒तां पत॑ये॒ नमो॒ नमो॑ऽसि॒मद्भ्यो॒ नक्तं॒ चर॑द्भ्यः
+ प्रकृ॒न्तानां॒ पत॑ये॒ नमो॒ नम॑ उष्णी॒षिणे॑ गिरिच॒राय॑ कुलु॒ञ्चानां॒
+ पत॑ये॒ नमो॒ नम॒
 
-iv. 5. 3.
 a Homage to the strong, the piercing, to the lord of assailers homage!
 b Homage to the leader, the holder of the quiver, to the lord of thieves homage!
 c Homage to the holder of the quiver, to the owner of the quiver, to the lord of robbers homage!
@@ -742,6 +625,15 @@ f Homage to the bolt-armed destructive ones, to the lord of pilferers homage!
 g Homage to the bearers of the sword, the night wanderers, to the lord of cut-purses homage!
 h Homage to the turbaned wanderer on the mountains, to the lord of pluckers homage!
 i Homage [1] to you, bearers of arrows, and to you, bowmen, homage!
+
+८ इषु॑मद्भ्यो धन्वा॒विभ्य॑श्च वो॒ नमो॒ नम॑ आतन्वा॒नेभ्यः॑
+ प्रति॒दधा॑नेभ्यश्च वो॒ नमो॒ नम॑ आ॒यच्छ॑द्भ्यो विसृ॒जद्भ्य॑श्च वो॒ नमो॒
+ नमोऽस्य॑द्भ्यो॒ विध्य॑द्भ्यश्च वो॒ नमो॒ नम॒ आसी॑नेभ्यः॒ शया॑नेभ्यश्च
+ वो॒ नमो॒ नमः॑ स्व॒पद्भ्यो॒ जाग्र॑द्भ्यश्च वो॒ नमो॒ नम॒स्तिष्ठ॑द्भ्यो॒
+ धाव॑द्भ्यश्च वो॒ नमो॒ नमः॑ स॒भाभ्यः॑ स॒भाप॑तिभ्यश्च वो॒ नमो॒ नमो॒
+ अश्वे॒भ्योऽश्व॑पतिभ्यश्च वो॒ नमः॑ ॥ ४। ५। ३॥ कु॒लु॒ङ्चानां॒ पत॑ये॒ नमो॒
+ नमोश्व॑पतिभ्य॒स्त्रीणि॑ च ॥ ४। ५। ३॥
+
 k Homage to you that string (the bow), and to you that place (on the arrow), homage!
 l Homage to you that bend (the bow), and to you that let go the arrow) homage!
 m Homage to you that hurl, and to you that pierce homage!
@@ -750,8 +642,14 @@ o Homage to you that sleep, and to you that wake homage!
 P Homage to you that stand, and to you that run homage!
 q Homage to you assemblies, and to you, lords of assemblies, homage!
 r Homage to you horses, and to you, lords of horses, homage!
+### 4.5.4
+९ नम॑ आव्या॒धिनी᳚भ्यो वि॒विध्य॑न्तीभ्यश्च वो॒ नमो॒ नम॒
+ उग॑णाभ्यस्तृꣳह॒तीभ्य॑श्च वो॒ नमो॒ नमो॑ गृ॒थ्सेभ्यो॑
+ गृ॒थ्सप॑तिभ्यश्च वो॒ नमो॒ नमो॒ व्राते᳚भ्यो॒ व्रात॑पतिभ्यश्च
+ वो॒ नमो॒ नमो॑ ग॒णेभ्यो॑ ग॒णप॑तिभ्यश्च वो॒ नमो॒ नमो॒ विरू॑पेभ्यो
+ वि॒श्वरू॑पेभ्यश्च वो॒ नमो॒ नमो॑ म॒हद्भ्यः॑, क्षुल्ल॒केभ्य॑श्च वो॒ नमो॒
+ नमो॑ र॒थिभ्यो॑ऽर॒थेभ्य॑श्च वो॒ नमो॒ नमो॒ रथे᳚भ्यो॒
 
-iv. 5. 4.
 a Homage to you that wound, and to you that pierce homage!
 b Homage to you that are in bands, and to you that are destructive homage!
 c Homage to you sharpers, and to you, lords of sharpers, homage!
@@ -761,6 +659,15 @@ f Homage to you of misshapen form, and to you of all forms homage!
 g Homage to you that are great, and to you that are small homage!
 h Homage to you that have chariots, and to you that are chariotless homage!
 i Homage to you chariots [1], and to you, lords of chariots, homage!
+
+१० रथ॑पतिभ्यश्च वो॒ नमो॒ नमः॒ सेना᳚भ्यः सेना॒निभ्य॑श्च वो॒ नमो॒
+ नमः॑, क्ष॒त्तृभ्यः॑ संग्रही॒तृभ्य॑श्च वो॒ नमो॒ नम॒स्तक्ष॑भ्यो
+ रथका॒रेभ्य॑श्च वो॒ नमो॒ नमः॒ कुला॑लेभ्यः क॒र्मारे᳚भ्यश्च वो॒ नमो॒
+ नमः॑ पु॒ञ्जिष्टे᳚भ्यो निषा॒देभ्य॑श्च वो॒ नमो॒ नम॑ इषु॒कृद्भ्यो॑
+ धन्व॒कृद्भ्य॑श्च वो॒ नमो॒ नमो॑ मृग॒युभ्यः॑ श्व॒निभ्य॑श्च वो॒
+ नमो॒ नमः॒ श्वभ्यः॒ श्वप॑तिभ्यश्च वो॒ नमः॑ ॥ ४। ५। ४॥ रथे᳚भ्यः॒
+ श्वप॑तिभ्यश्च॒ द्वे च॑ ॥ ४। ५। ४॥
+ 
 k Homage to you hosts, and to you, lords of hosts, homage!
 I Homage to you, doorkeepers, and to you, charioteers, homage!
 m Homage to you, carpenters, and to you, makers of chariots, homage!
@@ -769,8 +676,13 @@ o Homage to you, Puñjistas, and to you, Nisadas, homage!
 p Homage to you, makers of arrows, and to you, makers of bows, homage!
 q Homage to you, hunters, and to you, dog-leaders, homage!
 r Homage to you dogs, and to you, lords of dogs, homage!
-
-iv. 5. 5.
+### 4.5.5
+११ नमो॑ भ॒वाय॑ च रु॒द्राय॑ च॒ नमः॑ श॒र्वाय॑ च पशु॒पत॑ये च॒ नमो॒
+ नील॑ग्रीवाय च शिति॒कण्ठा॑य च॒ नमः॑ कप॒र्दिने॑ च॒ व्यु॑प्तकेशाय च॒
+ नमः॑ सहस्रा॒क्षाय॑ च श॒तध॑न्वने च॒ नमो॑ गिरि॒शाय॑ च शिपिवि॒ष्टाय॑
+ च॒ नमो॑ मी॒ढुष्ट॑माय॒ चेषु॑मते च॒ नमो᳚ ह्र॒स्वाय॑ च वाम॒नाय॑ च॒
+ नमो॑ बृह॒ते च॒ वर्षी॑यसे च॒ नमो॑ वृ॒द्धाय॑ च सं॒वृध्व॑ने च॒
+ 
 a Homage to Bhava and to Rudra.
 b Homage to Çarva and to the lord of cattle.
 c Homage to the blue-necked one, and to the white-throated.
@@ -781,11 +693,27 @@ g Homage to the most bountiful, and to the bearer of the arrow.
 h Homage to the short, and to the dwarf.
 i Homage to the great, and to the stronger.
 k Homage to him who hath waxed, and to the waxing.
+
+१२ नमो॒ अग्रि॑याय च प्रथ॒माय॑ च॒ नम॑ आ॒शवे॑ चाजि॒राय॑ च॒
+ नमः॒ शीघ्रि॑याय च॒ शीभ्या॑य च॒ नम॑ ऊ॒र्म्या॑य चावस्व॒न्या॑य च॒
+ नमः॑ स्रोत॒स्या॑य च॒ द्वीप्या॑य च ॥ ४। ५। ५॥ सं॒वृद्ध्व॑ने च॒ पञ्च॑
+ विꣳशतिश्च ॥ ४। ५। ५॥
+ 
+
+iv. 5. 5.
+
 I Homage to the chief, and to the first.
 m Homage to the swift, and to the active.
 n Homage to the rapid, and to the hasty.
 o Homage to him of the wave, and to the roaring.
 p Homage to him of the stream, and to him of the island.
+### 4.5.6
+१३ नमो᳚ ज्ये॒ष्ठाय॑ च कनि॒ष्ठाय॑ च॒ नमः॑ पूर्व॒जाय॑ चापर॒जाय॑ च॒
+ नमो॑ मध्य॒माय॑ चापग॒ल्भाय॑ च॒ नमो॑ जघ॒न्या॑य च॒ बुध्नि॑याय च॒
+ नमः॑ सो॒भ्या॑य च प्रतिस॒र्या॑य च॒ नमो॒ याम्या॑य च॒ क्षेम्या॑य च॒
+ नम॑ उर्व॒र्या॑य च॒ खल्या॑य च॒ नमः॒ श्लोक्या॑य चावसा॒न्या॑य च॒ नमो॒
+ वन्या॑य च॒ कक्ष्या॑य च॒ नमः॑ श्र॒वाय॑ च प्रतिश्र॒वाय॑ च॒
+
 
 iv. 5. 6.
 a Homage to the oldest, and to the youngest.
@@ -797,13 +725,26 @@ f Homage to him who dwelleth with Yama, and to him at peace.
 g Homage to him of the ploughed field, and to him of the threshing-floor.
 h Homage to him of fame, and to him at his end.
 i Homage to him of the wood, and to him of the thicket.
+
+१४ नम॑ आ॒शुषे॑णाय चा॒शुर॑थाय च॒ नमः॒ शूरा॑य चावभिन्द॒ते च॒
+ नमो॑ व॒र्मिणे॑ च वरू॒थिने॑ च॒ नमो॑ बि॒ल्मिने॑ च कव॒चिने॑ च॒ नमः॑
+ श्रु॒ताय॑ च श्रुतसे॒नाय॑ च ॥ ४। ५। ६॥ प्र॒ति॒श्र॒वाय॑ च॒ पञ्च॑
+ विꣳशतिश्च ॥ ४। ५। ६॥
+
 k Homage to sound, and to echo [1].
 I Homage to him of the swift host, and to him of the swift car.
 m Homage to the hero, and the destroyer.
 n Homage to the armoured, and to the corsleted.
 o Homage to the mailed, and to the cuirassed.
 p Homage to the famous, and to him of a famous host.
+### 4.5.7
+१५ नमो॑ दुन्दु॒भ्या॑य चाहन॒न्या॑य च॒ नमो॑ धृ॒ष्णवे॑ च प्रमृ॒शाय॑
+ च॒ नमो॑ दू॒ताय॑ च॒ प्रहि॑ताय च॒ नमो॑ निष॒ङ्गिणे॑ चेषुधि॒मते॑ च॒
+ नम॑स्ती॒क्ष्णेष॑वे चायु॒धिने॑ च॒ नमः॑ स्वायु॒धाय॑ च सु॒धन्व॑ने च॒
+ नमः॒ स्रुत्या॑य च॒ पथ्या॑य च॒ नमः॑ का॒ट्या॑य च नी॒प्या॑य च॒ नमः॒
+ सूद्या॑य च सर॒स्या॑य च॒ नमो॑ ना॒द्याय॑ च वैश॒न्ताय॑ च॒
 
+ 
 iv. 5. 7.
 a Homage to him of the drum, and to him of the drumstick.
 b Homage to the bold, and to the cautious.
@@ -815,12 +756,25 @@ g Homage to him of the stream,' and to him of the way.
 h Homage to him of the hole,' and to him of the pool.
 i Homage to him of the ditch, and to him of the lake.
 k Homage to him of the stream, and to him of the tank
+
+१६ नमः॒ कूप्या॑य चाव॒ट्या॑य च॒ नमो॒ वर्ष्या॑य चाव॒र्॒ष्याय॑ च॒ नमो॑
+ मे॒घ्या॑य च विद्यु॒त्या॑य च॒ नम॑ ई॒ध्रिया॑य चात॒प्या॑य च॒ नमो॒
+ वात्या॑य च॒ रेष्मि॑याय च॒ नमो॑ वास्त॒व्या॑य च वास्तु॒पाय॑ च ॥ ४। ५। ७॥
+
+ वै॒श॒न्ताय॑ च त्रि॒ꣳ॒शच्च॑ ॥ ४। ५। ७॥
+
 1 Homage to him of the cistern, and to him of the well.
 m Homage to him of the rain, and to him not of the rain.
 n Homage to him of the cloud, and to him of the lightning.
 o Homage to him of the cloudy sky, and to him of the heat.
 p Homage to him of the wind, and to him of the storm.
 q Homage to him of the dwelling, and to him who guardeth the dwelling.
+### 4.5.8
+१७ नमः॒ सोमा॑य च रु॒द्राय॑ च॒ नम॑स्ता॒म्राय॑ चारु॒णाय॑ च॒ नमः॑
+ श॒ङ्गाय॑ च पशु॒पत॑ये च॒ नम॑ उ॒ग्राय॑ च भी॒माय॑ च॒ नमो॑
+ अग्रेव॒धाय॑ च दूरेव॒धाय॑ च॒ नमो॑ ह॒न्त्रे च॒ हनी॑यसे च॒ नमो॑
+ वृ॒क्षेभ्यो॒ हरि॑केशेभ्यो॒ नम॑स्ता॒राय॒ नमः॑ शं॒भवे॑ च मयो॒भवे॑ च॒
+ नमः॑ शङ्क॒राय॑ च मयस्क॒राय॑ च॒ नमः॑ शि॒वाय॑ च शि॒वत॑राय च॒
 
 iv. 5. 8.
 a Homage to Soma, and to Rudra.
@@ -832,6 +786,13 @@ f Homage to the slayer, and to the special slayer.
 g Homage to the trees with green tresses.
 h Homage to the deliverer.
 i Homage to the source of health, and to the source of delight.
+
+१८ नम॒स्तीर्थ्या॑य च॒ कूल्या॑य च॒ नमः॑ पा॒र्या॑य चावा॒र्या॑य च॒ नमः॑
+ प्र॒तर॑णाय चो॒त्तर॑णाय च॒ नम॑ आता॒र्या॑य चाला॒द्या॑य च॒ नमः॒
+ शष्प्या॑य च॒ फेन्या॑य च॒ नमः॑ सिक॒त्या॑य च प्रवा॒ह्या॑य च ॥ ४। ५। ८॥
+
+ शि॒वत॑राय च त्रि॒ꣳ॒शच्च॑ ॥ ४। ५। ८॥
+
 k Homage to the maker of health, and to the maker of delight.
 I Homage to the auspicious, and to the more auspicious.
 m Homage to him of the ford, and to him of the bank.
@@ -840,9 +801,14 @@ o Homage to him who crosseth over, and to him who crosseth back.
 p Homage to him of the crossing, and to him of the ocean.
 q Homage to him in the tender grass, and to him in foam.
 r Homage to him in the sand, and to him in the stream.
+### 4.5.9
+१९ नम॑ इरि॒ण्या॑य च प्रप॒थ्या॑य च॒ नमः॑ किꣳशि॒लाय॑ च॒ क्षय॑णाय
+ च॒ नमः॑ कप॒र्दिने॑ च पुल॒स्तये॑ च॒ नमो॒ गोष्ठ्या॑य च॒ गृह्या॑य च॒
+ नम॒स्तल्प्या॑य च॒ गेह्या॑य च॒ नमः॑ का॒ट्या॑य च गह्वरे॒ष्ठाय॑ च॒ नमो᳚
+ ह्रद॒य्या॑य च निवे॒ष्प्या॑य च॒ नमः॑ पाꣳस॒व्या॑य च रज॒स्या॑य च॒
+ नमः॒ शुष्क्या॑य च हरि॒त्या॑य च॒ नमो॒ लोप्या॑य चोल॒प्या॑य च॒
 
 iv. 5. 9.
-
 a Homage to him in the cleft, and to him in the distance.
 b Homage to him dwelling in the stony and to him in habitable places.
 c Homage to him of braided hair, and to him of plain hair.
@@ -853,6 +819,14 @@ g Homage to him of the lake, and to him of the whirlpool.
 h Homage to him of the dust, and to him of the mist.
 i Homage to him of the dry, and to him of the green.
 k Homage to him of the copse, and to him of the grass [1].
+
+२० नम॑ ऊ॒र्व्या॑य च सू॒र्म्या॑य च॒ नमः॑ प॒र्ण्या॑य च पर्णश॒द्या॑य च॒
+ नमो॑ऽपगु॒रमा॑णाय चाभिघ्न॒ते च॒ नम॑ आक्खिद॒ते च॑ प्रक्खिद॒ते च॒
+ नमो॑ वः किरि॒केभ्यो॑ दे॒वाना॒ꣳ॒ हृद॑येभ्यो॒ नमो॑ विक्षीण॒केभ्यो॒ नमो॑
+ विचिन्व॒त्केभ्यो॒ नम॑ आनिर्ह॒तेभ्यो॒ नम॑ आमीव॒त्केभ्यः॑ ॥ ४। ५। ९॥ उ॒ल॒प्या॑य
+ च॒ त्रय॑स्त्रिꣳशच्च ॥ ४। ५। ९॥
+ 
+
 l Homage to him in the earth, and to him in the gully.
 M Homage to him of the leaf, and to him of the leaf-fall.
 n Homage to him who growleth, and to him who smiteth away.
@@ -862,6 +836,10 @@ q Homage to the destroyed.
 r Homage to the intelligent.
 s Homage to the unconquerable.
 t Homage to the destroyers.
+### 4.5.10
+२१ द्रापे॒ अन्ध॑सस्पते॒ दरि॑द्र॒न्नील॑लोहित । ए॒षां पुरु॑षाणामे॒षां
+ प॑शू॒नां मा भेर्मारो॒ मो ए॑षां॒ किं च॒नाम॑मत् ॥ या ते॑ रुद्र शि॒वा त॒नूः
+ शि॒वा वि॒श्वाह॑भेषजी । शि॒वा रु॒द्रस्य॑ भेष॒जी तया॑ नो मृड जी॒वसे᳚ ॥
 
 iv. 5. 10.
 a O chaser, lord of the Soma plants,
@@ -873,10 +851,20 @@ b That auspicious form of thine, O Rudra,
 Auspicious and ever healing,
 Auspicious and healing (form of) Rudra,
 With that show mercy on us for life.
+
+ इ॒माꣳ रु॒द्राय॑ त॒वसे॑ कप॒र्दिने᳚ क्ष॒यद्वी॑राय॒ प्र भ॑रामहे म॒तिम् ।
+ यथा॑ नः॒ शमस॑द्द्वि॒पदे॒ चतु॑ष्पदे॒ विश्वं॑ पु॒ष्टं ग्रामे॑ अ॒स्मि
+
 c This prayer we offer up to the impetuous Rudra,
 With plaited hair, destroyer of men,
 That health be for our bipeds and quadrupeds,
 And that all in this village be prosperous [1] and free from ill.
+
+२२ न्नना॑तुरम् ॥ मृ॒डा नो॑ रुद्रो॒त नो॒ मय॑स्कृधि क्ष॒यद्वी॑राय॒ नम॑सा
+ विधेम ते । यच्छं च॒ योश्च॒ मनु॑राय॒जे पि॒ता तद॑श्याम॒ तव॑ रुद्र॒
+ प्रणी॑तौ ॥ मा नो॑ म॒हान्त॑मु॒त मा नो॑ अर्भ॒कं मा न॒ उक्ष॑न्तमु॒त मा न॑
+ उक्षि॒तम् । मा नो॑ वधीः पि॒तरं॒ मोत मा॒तरं॑ प्रि॒या मा न॑स्त॒नुवो॑
+
 d Be merciful to us, O Rudra, and give us delight;
 With honour let us worship thee, destroyer of men;
 The health and wealth which father Manu won by sacrifice,
@@ -884,6 +872,12 @@ May we attain that, O Rudra, under thy leadership.
 e Neither our great, nor our small,
 Our waxing or what has waxed,
 Do thou slay, nor father nor mother;
+
+२३ रुद्र रीरिषः ॥ मा न॑स्तो॒के तन॑ये॒ मा न॒ आयु॑षि॒ मा नो॒ गोषु॒ मा नो॒
+ अश्वे॑षु रीरिषः । वी॒रान्मा नो॑ रुद्र भामि॒तो व॑धीर्ह॒विष्म॑न्तो॒ नम॑सा विधेम ते
+ ॥ आ॒रात्ते॑ गो॒घ्न उ॒त पू॑रुष॒घ्ने क्ष॒यद्वी॑राय सु॒म्नम॒स्मे ते॑ अस्तु । रक्षा॑
+ च नो॒ अधि॑ च देव ब्रू॒ह्यधा॑ च नः॒ शर्म॑ यच्छ द्वि॒बर्हाः᳚ ॥ स्तु॒हि
+
 Injure not, O Rudra, our dear bodies [2].
 f Harm us not in our children, our descendants, our life;
 Harm us not in our cattle, in our horses;
@@ -893,10 +887,23 @@ g From afar to thee, slayer of cows, and slayer of men,
 Destroyer of heroes, be goodwill for us;
 Guard us and accord us aid
 And grant us protection in abundance.
-h Praise [3] the famous youth, mounted on the chariot seat,
+h Praise [3] 
+
+२४ श्रु॒तं ग॑र्त॒सदं॒ युवा॑नं मृ॒गं न भी॒ममु॑पह॒त्नुमु॒ग्रम् ।
+
+the famous youth, mounted on the chariot seat,
 Dread and destructive like a fierce wild beast;
+
+ मृ॒डा ज॑रि॒त्रे रु॑द्र॒ स्तवा॑नो अ॒न्यं ते॑ अ॒स्मन्नि व॑पन्तु॒ सेनाः᳚ ॥
+
 Being praised, O Rudra, be merciful to the singer;
 Let thy missiles smite down another than us.
+
+ परि॑णो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु॒ परि॑ त्वे॒षस्य॑ दुर्म॒तिर॑घा॒योः । अव॑
+ स्थि॒रा म॒घव॑द्भ्यस्तनुष्व॒ मीढ्व॑स्तो॒काय॒ तन॑याय मृडय ॥ मीढु॑ष्टम॒
+ शिव॑तम शि॒वो नः॑ सु॒मना॑ भव । प॒र॒मे वृ॒क्ष आयु॑धं नि॒धाय॒
+ कृत्तिं॒ वसा॑न॒ आ च॑र॒ पिना॑कं॒
+ 
 i May the missile of Rudra spare us,
 May the wrath of the brilliant evil worker (pass over us);
 Unstring for the generous donors (thy) strong (bows);
@@ -906,6 +913,14 @@ Be auspicious and favourably inclined to us;
 Placing down thy weapon on the highest tree,
 Clad in thy skin, come,
 And approach us bearing the spear [4].
+
+२५ बिभ्र॒दा ग॑हि ॥ विकि॑रिद॒ विलो॑हित॒ नम॑स्ते अस्तु भगवः । यास्ते॑
+ स॒हस्रꣳ॑ हे॒तयो॒ऽन्यम॒स्मन्नि व॑पन्तु॒ ताः ॥ स॒हस्रा॑णि सहस्र॒धा
+ बा॑हु॒वोस्तव॑ हे॒तयः॑ । तासा॒मीशा॑नो भगवः परा॒चीना॒ मुखा॑ कृधि ॥ ४। ५। १०॥
+
+अ॒स्मिग्ग् स्त॒नुवः॑ स्तु॒हि पिना॑क॒मेका॒न्न त्रि॒ꣳ॒शच्च॑ ॥ ४। ५। १०॥
+
+
 1 O blood-red scatterer,
 Homage to thee, O adorable one;
 May thy thousand missiles
@@ -914,6 +929,30 @@ m A thousandfold in thousands
 Are the missiles in thine arms;
 O adorable one, do thou turn away
 The points of those which thou dost rule.
+### 4.5.11
+२६ स॒हस्रा॑णि सहस्र॒शो ये रु॒द्रा अधि॒ भूम्या᳚म् । तेषाꣳ॑ सहस्रयोज॒नेऽव॒
+ धन्वा॑नि तन्मसि ॥ अ॒स्मिन्म॑ह॒त्य॑र्ण॒वे᳚ऽन्तरि॑क्षे भ॒वा अधि॑ । नील॑ग्रीवाः
+ शिति॒कण्ठाः᳚ श॒र्वा अ॒धः, क्ष॑माच॒राः ॥ नील॑ग्रीवाः शिति॒कण्ठा॒ दिवꣳ॑
+ रु॒द्रा उप॑श्रिताः । ये वृ॒क्षेषु॑ स॒स्पिञ्ज॑रा॒ नील॑ग्रीवा॒ विलो॑हिताः ।
+ ये भू॒ताना॒मधि॑पतयो विशि॒खासः॑ कप॒र्दिनः॑ । ये अन्ने॑षु वि॒विध्य॑न्ति॒
+ पात्रे॑षु॒ पिब॑तो॒ जनान्॑ । ये प॒थां प॑थि॒रक्ष॑य ऐलबृ॒दा य॒व्युधः॑
+ । ये ती॒र्थानि॑
+
+२७ प्र॒चर॑न्ति सृ॒काव॑न्तो निष॒ङ्गिणः॑ । य ए॒ताव॑न्तश्च॒
+ भूयाꣳ॑सश्च॒ दिशो॑ रु॒द्रा वि॑तस्थि॒रे । तेषाꣳ॑ सहस्रयोज॒नेऽव॒
+ धन्वा॑नि तन्मसि ॥ नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्यां ये᳚ऽन्तरि॑क्षे॒ ये दि॒वि
+ येषा॒मन्नं॒ वातो॑ व॒र्॒षमिष॑व॒स्तेभ्यो॒ दश॒ प्राची॒र्दश॑ दक्षि॒णा
+ दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते
+ यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तं वो॒ जम्भे॑ दधामि ॥ ४। ५। ११॥ ती॒र्थानि॒
+ यश्च॒ षट्च॑ ॥ ४। ५। ११॥
+ 
+ नम॑स्ते रुद्र॒ नमो॒ हिर॑ण्यबाहवे॒ नमः॒ सह॑मानाय॒ नम॑ आव्या॒धिनी᳚भ्यो॒
+नमो॑ भ॒वाय॒ नमो᳚ ज्ये॒ष्ठाय॒ नमो॑ दुन्दु॒भ्या॑य॒ नमः॒ सोमा॑य॒ नम॑
+इरि॒ण्या॑य॒ द्रापे॑ स॒हस्रा॒ण्येका॑दश ॥
+
+ नम॑स्ते रुद्र॒ नमो॑ भ॒वाय॒ द्रापे॑ स॒प्तविꣳ॑शतिः ॥
+
+ नम॑स्ते रुद्र॒ तं वो॒ जंभे॑ दधामि ॥
 
 iv. 5. 11.
 a The Rudras that are over the earth

@@ -2,6 +2,8 @@ https://sanskritdocuments.org/doc_veda/taittirIyaAraNyaka.html
 
 # k1
 ## 1.23
+?laksmidhara yantra dikpala
+Vaikhanasa
 #### 1
 ९० आपो॒ वा इ॒दमा॑सन्थ्सलि॒लमे॒व । स प्र॒जाप॑ति॒रेकः॑ पुष्करप॒र्णे
  सम॑भवत् । तस्यान्त॒र्मन॑सि कामः॒ सम॑वर्तत । इ॒दꣳ सृ॑जेय॒मिति॑ ।
@@ -139,6 +141,14 @@ five indeed are the great sacrifices, to be performed daily until the end for pe
  श्रिय॑मे॒वाप्नो॒त्यथो᳚ प्र॒ज्ञात॑यै॒व प्र॑ति॒पदा॒ छन्दाꣳ॑सि॒ प्रति॑पद्यते
  ॥ ०। २। ११। १५॥ ॥ ११॥
 
+# k4
+### 4.27
+६८ 
+
+खट्फड्ज॒हि । छि॒न्धी भि॒न्धी ह॒न्धी कट् । इति॒ वाचः॑ क्रूरा॒णि ॥ 
+
+०। ४। २७। ६८॥ ॥ २७॥
+
 # k5
 (Pravargya brāhmaṇa)
 # k7-9
@@ -146,6 +156,7 @@ five indeed are the great sacrifices, to be performed daily until the end for pe
 # k10
 (Mahānārāyana upaniśad)
 ## 10.1
+Laksmidhara Yantra
 #### 5
 ५ प॒शूग्श्च॒ मह्य॒माव॑ह॒ जीव॑नं च॒ दिशो॑ दिश । मा नो॑ हिꣳसीज्जातवेदो॒
  गामश्वं॒ पुरु॑षं॒ जग॑त् । अबि॑भ्र॒दग्न॒ आग॑हि श्रि॒या मा॒ परि॑पातय ।

@@ -77,7 +77,7 @@
 § karṇa, arjuna, yudhiṣṭhira, bhīma
 § sugṛva, vali, ?, hanumāna
 § manas, buddhi, ahamkāra, citta (antarātmaka)
-§ puruṣa, kṣetrajña-jīva, manas, ahamkāra (?mokṣa-panthā)
+§ puruṣa-kṣetrajña, jīva, manas, ahamkāra (?mokṣa-panthā)
 § vāsudeva, samkarṣaṇa, pradyumna, aniruddha (pancarātra vyūha)
 § puruṣa, satya, acyuta, aniruddha (vaikhānasa mūrti)
 § nara, nārāyana, hari, kṛṣṇa (mūrti /vidha)
@@ -100,8 +100,10 @@
 § aether, pyr, aer, hydor, ge (stoechia :arist.)
 § (guṇa)
 § śabda, sparṣa, rūpa, rasa, gandha (tanmātra)
-§ karṇa/śrotra, sparṣa/tvak, cakṣu/dṛk, jihvā/rasana,  nāsikā (indrīya)
-§ mukha/vāk, hasta/karaṇa, pada/caraṇa, antra/meḍhra, liṅga/pāyu (indriya)
+§ karṇa/śrotra, sparṣa/tvak, cakṣu/dṛk, jihvā/rasana,  nāsikā (buddhīndrīya)
+§ mukha/vāk, hasta/karaṇa, pada/caraṇa, antra/meḍhra, liṅga/pāyu, upasta (karmendriya)
+§ vacana, ādāna, viharaṇa, utsarga, ānanda (?vṛtti)
+§ prāṇa, apāna, udāna, samāna, vyāna (vāyu)
 § fajr, zuhr, 'aṣr, maghrib, 'iśā (waqt)
 § abhigamana, upādāna, ijyā, svādhyāya, yoga (kāla)
 § viṣṇu, puruṣa, satya, acyuta, aniruddha (mūrti)
@@ -139,6 +141,9 @@
 # 10 
 § murāqaba, qurb, wajd, sukr, wudd, 'iśq, yaqīn (aḥwāl)
 § kāli, tārā, tripurā, bhuvaneśvarī, bhairavi, chinnamastā, dhumavati, bagalamukhi, mātaṅgi, kamalā
+§ keter, hochmah, binah, chesed, geburah, tipheret, nezak, hod, yesod, malcutn (sefirot)
+§ metatron, raziel, tzaphkiel, zadkiel, chamuel, michael, haniel, raphael, gabriel, sandalphon (angels)
+§ sahasrāra, ājñā, suṣumna, piṅgala, iḍā, viśuddhi, anāhata, maṇipura, svādhiṣṭhana, mūladhāra ()
 
 # 12
 § (months) 
@@ -162,8 +167,7 @@
 # 25
 § nizār mustafā, (a. hadī, muhtadī /sinān,) jalal dīn, 'alā dīn, rukn dīn, ' śams (mu'minī mongoled imāms)
 ## sāṃkhya
-
-
+§ prakṛti, puruṣa, buddhi, ahaṃkāra, manas, śabda, sparṣa, rūpa, rasa, gandha, ākāśa/nabhas, vāyu/marut, tejas/agni, jala/apas, pṛthvī /bhū, karṇa/śrotra, tvak/sparṣa, ghrāṇa/nāsikā, cakṣu/dṛk, rasana/jihvā, vāk/mukha, pāṇi/hasta/karaṇa, pāda/caraṇa, pāyu/antra/meḍhra, upasta/liṅga (sāmkhya)
 # 28
 § (nājiban)
 § nizār mustafā, (a. hadī, muhtadī, ḥ. qāhir,) ḥ. 'alā dhikrih l salām', nūr dīn, jalal dīn, 'alā dīn, rukn dīn, ' śams (qāṣimī mongoled imāms)

@@ -17,3 +17,16 @@ b520 athens? killed by bro caduida king ? fo becoming [anarya](Androgyny.md#anar
 Anacharsis buddha
 
 :[[mani.keph]]
+
+# shaka
+## sacae
+## maues
+expelled from ili basin by yuezhi
+Crossed karakoram
+Took swat 
+Took taxila from apollodotus son of menander
+## azes
+Expelled from syr darya by yuezhi
+Settled drangiana on river ?
+Expelled from drangiana by Mithradates 2
+Beat bactra

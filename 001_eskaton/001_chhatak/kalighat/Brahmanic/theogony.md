@@ -178,15 +178,96 @@
 
 ## purusha
 ### 10.90
-#### purusṣa sukta
+#### puruṣa sukta
 [[RV#10.90]]
+### 10.90#1
+#### sahasra.śīrṣa
+#### sahasr.ākṣa
+#### sahasra.pād
+#### bhūmi.viśva.vṛt
+#### daś.āṅgul.ātiṣṭha
+![[RV#10.90#1]]
+### 10.90#2
+#### ida.sarva.bhūta.bhavya
+#### amṛt.eśāna
+#### ann.ātiroha
+![[RV#10.90#2]]
+### 10.90#3
+#### viśva.bhūta.pāda
+#### div.amṛta.tri.pāda
+![[RV#10.90#3]]
 ### 10.90#4
 ~~ puruṣa has 3 pāds urdhva, pāds become iha again 
+#### tri.pād.ūrdhva
+#### iha.punar.bhava.pāda
+#### viṣv.añc
+#### viśva.sāśan.ānāśana.abhi.vikrama
+
 ![[RV#10.90#4]]
+### 10.90#5
+#### virāḍ.janaka
+#### virāḍ.adhi.ja
+#### jāt.āti.reca
+#### bhūmi.pura.paścāt
+![[RV#10.90#5]]
+### 10.90#6
+#### deva.yajña.tānita.haviṣ
+#### vasant.ājya.haviṣ
+#### grīṣma.idhma.haviṣ
+#### śarat.haviṣ.haviṣ
+![[RV#10.90#6]]
+
+### 10.90#7
+#### varhi.prokṣita.yajña
+#### agraja
+#### sādhya.deva.ṛṣi.yajña
+![[RV#10.90#7]]
+### 10.90.8
+#### sarva.hūt
+#### sambhṛta.pṛṣad.ājya.janaka
+#### araṇya.grāmya.vāyavya.paśu.kara
+![[RV#10.90#8]]
+### 10.90.9
+#### rk.ṣāma.chanda.yajur.janaka
+![[RV#10.90#9]]
+### 10.90.10
+#### aśva.go.ajya.avi.janaka
+![[RV#10.90#10]]
+### 10.90#11
+#### deva.vi.hita
+#### deva.vi.kalpita
+![[RV#10.90#11]]
+### 10.90#12
+#### brāhmaṇa.sat.mukha
+#### rājanya.sat.bāhu
+#### vaiśya.sat.uru
+#### śudra.sat.pad
+![[RV#10.90#12]]
+### 10.90#13
+#### manaś.candra.janaka
+#### cakṣu.sūrya.janaka
+#### mukha.indra.agni.janaka
+#### prāṇa.vāyu.janaka
+![[RV#10.90#13]]
+### 10.90#14
+#### nābhy.antarikṣa.sat
+#### śīrṣa.dyu.sam.vṛtta
+#### pad.bhūmi.sam.vṛtta
+#### śrotra.diśa.sam.vṛtta
+#### loka.kalpita
+![[RV#10.90#14]]
+### 10.90#15
+#### sapta.paridhi.yajña
+#### sapta.sam.idh.yajña
+#### deva.paśu.baddha
+![[RV#10.90#15]]
+### 10.90#16
+#### deva.yajña
+#### prathama.dhṛta
+![[RV#10.90#16]]
 
 ## hiranyagarbha
-~~ hiraṇyagarbha: agrasamvṛt bhūtjāta 
-ekapati /samvṛt agrajāta bhūtapati eka
+
 ### RV#10.121.#1
 #### samvṛt
 #### agrasamvṛt

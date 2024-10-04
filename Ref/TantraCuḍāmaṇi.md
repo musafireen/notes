@@ -1,5 +1,7 @@
 
 
+https://sanskritdocuments.org/doc_devii/shaktipIThAni.html
+
 করতোয়াতটে কর্ণে বামে বামনভৈরবঃ । (Kartovatate Karne Bamanbhairava)
 অপর্ণা দেবতা যত্র ব্রহ্মরূপাকরোদ্ভবা।। (Aparna Devata Jatra Brahmarupakarodbhava)
 (তন্ত্র চূড়ামণি) (Tantra Churamani)

@@ -1,5 +1,14 @@
+https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/
+
 http://gretil.sub.uni-goettingen.de/gretil.html#Brahm
 
+### 1.1.1
+https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1050942.html
+##### 20
+ता उत्तरेणाहवनीयम् प्रणयति 
+योषा वा आपो वृब्षाग्निर्मिथुनमेवैतत्प्रजननं क्रियत एवमिव हि मिथुनं कल्पितमुत्तरतो हि स्त्री पुमांसमुपशेते
+
+He then carries it north of the Ahavaniya fire. For water is female and fire is male: hence a copulation productive of offspring is thereby effected. And in this way alone a regular copulation can take place, since the woman lies on the left (or north) side of the man.
 
 ### 1.2.5
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1051101.html
@@ -241,6 +250,24 @@ And as to why he lays down those Asapatnas. Now at that time, when that (part) o
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1056535.html
 ##### 1
 अथातः  शतरुद्रियं  जुहोति  |  अत्रैष  सर्वऽग्नि  संस्कृतः  स एषऽत्र  रुद्रो  देवता  तस्मिन्देवा एतदमृतं  रूपमुत्तममदधु  स एषऽत्र  दीप्यमानो ऽतिष्ठदन्नमिचमानस्तस्माद्देवा  अबिभयुर्यद्वै  नऽयं  न  हिंस्यादिति
+### 10.2.1
+https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1056368.html
+##### 1
+प्रजापतिः स्वर्गं लोकमजिगांसत् 
+
+Prajapati was desirous of going up to the world of heaven; 
+
+सर्वे वै पशवः प्रजापतिः पुरुषोऽश्वो गौरविरजः 
+
+but Prajapati, indeed, is all the (sacrificial) animals—man, horse, bull, ram, and he-goat:—
+
+स एतै रूपैर्नाशक्नोत्स एतं वयोविधमात्मानमपश्यदग्निं तं व्यधत्त
+
+by means of these forms he could not do so. He saw this bird-like body, the fire-altar, and constructed it. 
+
+सोऽनुपसमुह्यानुपाधायोदपिपतिषत्स नाशक्नोत्स उपसमुह्योपधायोदपतत्तस्मादप्येतर्हि वयांसि यदैव पक्षा उपसमूहन्ते यदा पत्राणि विसृजन्तेऽथोत्पतितुं शक्नुवन्ति
+
+He attempted to fly up, without contracting and expanding (the wings), but could not do so. By contracting and expanding (the wings) he did fly up: whence even to this day birds can only fly up when they contract their wings and spread their feathers.
 ### 10.4.2
 #### 1-3+18
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1056535.html
@@ -260,6 +287,12 @@ He bethought himself, “How can I get these beings back into my body? how can I
 अथ  यच्चतुर्विंशतिमात्मनऽकुरुत  तस्माच्चतुर्विंशत्यर्धमासः  संवत्सरः  स एतैश्चतुर्विंशत्या  त्रिंशदिष्टकैरात्मभिर्न  व्यभवत्स  पञ्चदशाह्नो  रूपाण्यपश्यदात्मनस्तन्वो  मुहूर्तालोकम्पृणा  पञ्चदशैव  रात्रेस्तद्यन्मुहु  त्रायन्ते  तस्मान्मुहुर्ता  अथ  यत्क्षुद्रा  सन्त इमांलोकानापूरयन्ति  तस्माल्लोकम्पृणा
 
 18} And because he made himself twenty-four bodies, therefore the year consists of twenty-four half-months. With these twenty-four bodies of thirty bricks each he had not developed (sufficiently). He saw the fifteen parts of the day, the muhurtas, as forms for his body, as space-fillers (Lokamprinas), as well as fifteen of the night; and inasmuch as they straightway (muhu) save (trai), they are (called) “muhurtah”; and inasmuch as, whilst being small, they fill (pur) these worlds (or spaces, “loka”) they are (called) “lokamprinah.”
+### 10.5.4
+https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1056644.html
+##### 5
+nakṣatrāṇi ha tvevaiṣo'gniścitaḥ tāni vā etāni saptaviṃśatirnakṣatrāṇi saptaviṃśatiḥ saptaviṃśatirhopanakṣatrāṇyekaikaṃ nakṣatramanūpatiṣṭhante tāni sapta ca śatāni viṃśatiścādhi ṣaṭtriṃśattato yāni sapta ca śatāni viṃśatiśceṣṭakā eva tāḥ ṣaṣṭiśca trīṇi ca śatāni pariśritaḥ ṣaṣṭiśca trīṇi ca śatāni yajuṣmatyo'tha yānyadhi ṣaṭtriṃśatsa trayodaśo māsaḥ sa ātmā triṃśadātmā pratiṣṭhā dve śira eva ṣaṭtriṃśyau tadyatte dve bhavato dvyakṣaraṃ hi śiro'tha yadantarā nakṣatre tatsūdadohā atha yannakṣatreṣvannaṃ tatpurīṣaṃ tā āhutayastāḥ samidho'tha yannakṣatrāṇītyākhyāyate tallokampṛṇā tadvā etatsarvaṃnakṣatrāṇītyevākhyāyate tatsarvo'gnirlo
+
+But, indeed, that Fire-altar also is the Nakshatras:—for there are twenty-seven of these Nakshatras, and twenty-seven secondary stars accompany each Nakshatra,—this makes seven hundred and twenty, and thirty-six in addition thereto. Now what seven hundred and twenty bricks there are of these, they are the three hundred and sixty enclosing-stones and the three hundred and sixty Yajushmati bricks; and what thirty-six there are in addition, they are the thirteenth (intercalary) month, the body (of the altar); the trunk (consisting of) thirty, the feet of two, the (channels of the) vital airs of two, and the head itself being the (thirty-fifth and) thirty-sixth,—and as to there being two of these, it is because 'shiras' (head) consists of two syllables;—and what (space) there is between (each) two Nakshatras that is the Sudadohas; and what food there is in the Nakshatras that is the earth-fillings (between the layers of bricks), the oblations and the fire-logs; and what is called 'nakshatras' that is the space-filling (brick):—thus this comes to make up the whole Agni, and the whole Agni comes to be the space-filler; and, verily, whosoever knows this, thus comes to be that whole (Agni) who is the space-filler.
 ### 11.2.7
 ##### 12
 एतद्ध  स्म  वै  तद्विद्वानाह  श्वेतकेतुरारुणेयः  कं  स्विदेवापरीषु  महानागमिवाभिसंसारं  दिदृक्षितारो  य एवमेतत्प्रयाजानां  यशो  वेदितेति
@@ -283,6 +316,28 @@ https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1057448
 
 And on the eighth day, after those (three) offerings have been performed in the same way, there is the same course of procedure. “Adhvaryu!” he (the Hotri) says.—“Havai hotar!” replies the Adhvaryu.—“King Matsya Sammada,” he says; 'his people are the water-dwellers, and they are staying here;'—both fish and fishermen have come thither: it is these he instructs;—“the Itihasa 3 is the Veda: this it is;” thus saying, let him tell some Itihasa. The Adhvaryu calls in the same way (on the masters of lute-players), but does not perform the Prakrama oblations.
 
+### 13.5.2
+https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1057495.html
+##### 1
+एतेउक्त्वा यदध्रिगोः परिशिष्टम् भवति तदाह वासोऽधिवासं हिरण्यमित्यश्वायोपस्तृणन्ति तस्मिन्नेनमधि सञ्ज्ञपयन्ति सञ्ज्ञप्तेषु पशुषु पत्न्यः पान्नेजनैरुदायन्ति चतस्रश्च जायाः कुमारी पञ्चमी चत्वारि च शतान्यनुचरीणाम्
+
+Having uttered these two (verses), he pronounces what remains of the Adhrigu. “A cloth, an upper cloth, and gold,” this is what they spread out for the horse: thereon they 'quiet' (slaughter) it. When the victims have been 'quieted,' the (king's) wives come up with water for washing the feet,—four wives; and a young maiden as the fifth, and four hundred female attendants.
+##### 2
+निष्ठितेषु पान्नेजनेषु महिषीमश्वायोपनिपादयन्त्यथैनावधिवासेन सम्प्रोर्णुवन्ति स्वर्गेलोके प्रोर्णुवथामित्येष वै स्वर्गो लोको यत्र पशुं सञ्ज्ञपयन्ति निरायत्याश्वस्य शिश्नम् महिष्युपस्थे निधत्ते वृषा वाजी रेतोधा रेतो दधात्विति मिथुनस्यैव सर्वत्वाय
+
+When the foot-water is ready, they cause the Mahishi to lie down near the horse, and cover her up with the upper cloth, with 'In heaven ye envelop yourselves,'—for that indeed is heaven where they immolate the victim, . . ., “May the vigorous male, the layer of seed, lay seed!” she says for the completeness of union.
+##### 3
+तयोः शयानयोः अश्वं यजमानोऽभिमेथत्युत्सक्थ्या अव गुदं धेहीति तं न कश्चन प्रत्यभिमेथति नेद्यजमानम् प्रतिप्रतिः कश्चिदसदिति
+
+Whilst they are lying there, the Sacrificer addresses the horse (Vajasaneyi Samhita XXIII, 21), “Utsakhya ava gudam dhehi!” No one replies to him, lest there should be some one to rival the Sacrificer.
+##### 4
+अथाध्वर्युः कुमारीमभिमेथति कुमारि हये॰हये कुमारि यकासकौ शकुन्तिकेति तं कुमारी प्रत्यभिमेथत्यध्वर्यो हये॰हयेऽध्वर्यो यकोऽसकौ शकुन्तक इति
+
+The Adhvaryu then addresses the maiden, “Hey hey maiden, that little bird . . .”—The maiden replies to him, “Adhvaryu! that little bird . . .”
+##### 5
+अथ ब्रह्मा महिषीमभिमेथति महिषि हये॰हये महिषि माता च ते पिता च तेऽग्रम् वृक्षस्य रोहत इति तस्यै शतं राजपुत्र्योऽनुचर्यो भवन्ति ता ब्रह्माणम् प्रत्यभिमेथन्ति ब्रह्मन्हये॰हये ब्रह्मन्माता च ते पिता च तेऽग्रे वृक्षस्य क्रीडत इति
+
+And the Brahman addresses the Mahishi, “Mahishi, hey hey Mahishi, thy mother and father mount to the top of the tree . . .”—She has a hundred daughters of kings attending upon her: these reply to the Brahman, “Brahman, hey hey Brahman, thy mother and father play on the top of the tree. . .”
 ### 13.6.1
 ##### 1
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1057560.html

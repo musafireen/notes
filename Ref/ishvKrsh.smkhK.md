@@ -1,7 +1,8 @@
 
-https://yogastudies.org/text-section/samkhya-karika/samkhya-karika-text/
 
 https://scriptures.redzambala.com/hinduism-scriptures/text/samkhya-karika-with-gaudapada-commentaries.html
+
+https://yogastudies.org/text-section/samkhya-karika/samkhya-karika-text/
 
 https://yogastudies.org/yoga-text-freenotes/romanised-sanskrit-glossary/
 ### 1
@@ -39,7 +40,7 @@ The complete determination of the demonstrable is verily by proof.
 ### 5
 प्रतिविषयाध्यवसायो दृष्टं 
 
-Perception is the mental apprehension of particular objects; 
+(dṛṣṭa) Perception is the (adhyavasāya) mental apprehension of (prati) particular (viṣaya) objects; 
 
 त्रिविधमनुमानमाख्यातम् । तल्लिङ्गलिङ्गिपूर्वकम्
 
@@ -134,7 +135,7 @@ The Manifested has trine (guṇa) constituents, and is (aviveki) indiscriminativ
 
 So also is (pradhāna) Nature. 
 
-तत्-विपरितः तथा च पुमान् ||
+तत्-विपरीतः तथा च पुमान् ||
 
 (pumān) Soul is the reverse in these respects as in those.
 ### 12
@@ -150,7 +151,7 @@ So also is (pradhāna) Nature.
 
 are the (guṇa) constituents.
 ### 13
-सत्त्वं लघु प्रकाशकम इष्टमुपष्टम्भकं चलं च रजः |
+सत्त्वं लघु प्रकाशकम् इष्टमुपष्टम्भकं चलं च रजः |
 
 (sattva) Goodness is (iṣṭa) considered (laghu) light and (prakāśa) illuminating; (rajas) passion (upaṣṭambhaka) exciting and (cala) mobile; 
 
@@ -162,9 +163,9 @@ are the (guṇa) constituents.
 
 Their [co-operant] (vṛtti) action, like that of a (pradīpa) lamp, is (arthata) purposive.
 ### 14
-अविवेक्यादिः सिद्धः त्रि-गुण्यात्-तत्-विपर्यय-अभावात् |
+अविवेक्यादिः सिद्धः त्रैगुण्यात्-तत्-विपर्यय-अभावात् |
 
-(aviveki) Want of discrimination and the rest are an (siddha) inference from the [presence of the] three constituents and the absence thereof in the (viparyaya) reverse. 
+(aviveki) Want of discrimination and the rest are an (siddha) inference from the [presence of the] three constituents and the absence of (viparyaya) contrariety. 
 
 कारण-गुणात्मकत्वात्-कार्यस्य-अव्यक्तम्-अपि सिद्धम् ||
 
@@ -198,23 +199,23 @@ by means of the three constituent powers, by (samudaya) conjunction and by (pari
 
 Since the (saṅghāta) assemblage [of sensible things] is for the sake of another, since there is a (viparyaya) converse of the three constituents and the rest, since there must be superintendence, 
 
-पुरुषः अस्ति भोक्तृभावात् कैवल्य-अर्थं प्रवृत्तेः च ||
+पुरुषः अस्ति भोक्तृभावात् कैवल्य-अर्थ प्रवृत्तेः च ||
 
 since there must (bhāva) be an (bhoktā) experiencer, and since there is a (artha pravṛtti) striving for (kaivalya) isolation, the (puruṣa) Soul exists.
 ### 18
-जनन-मरण-करणानां प्रतिनियमात्-अयुगपत्-प्रवृत्ते च |
+जनन-मरण-करणानां प्रतिनियमात्-अयुगपत्-प्रवृत्तेः च |
 
-Because (janana) birth, (maraṇa) death and the (karaṇa) organs are (pratiniyama) severally allotted, and because (pravṛtti) activity is not (yuhapat) simultaneous, 
+Because (janana) birth, (maraṇa) death and the (karaṇa) organs are (pratiniyama) severally allotted, and because (pravṛtti) activity is not (yugapat) simultaneous, 
 
-पुरुष-बहुत्वं सिद्धं त्रि-गुणाविपर्ययात्-चेव ||
+पुरुष-बहुत्वं सिद्धं त्रिगुण्यविपर्ययात्-चेव ||
 
-and also because the (triguṇa) factors are (aviparyaya) found unequally, the (bahutva) multiplicity of souls is (siddha) established.
+and also because the (triguṇa) factors are (viparyaya) found unequally, the (bahutva) multiplicity of souls is (siddha) established.
 ### 19
 तस्मात्-च विपर्यासात् सिद्धं साक्षित्वम्-अस्य पुरुषस्य | कैवल्यं माध्यस्त्यं द्रष्टृत्वम्-अकर्तृभावः च ||
 
 And from that (viparyāsa) contrariety [before specified] Soul is (siddha) proved to be a (sākṣi) witness, (kevala) solitary, (madhyasta) neutral,(draṣtā) perceiving, and (akartā) inactive.
 ### 20
-तस्मात्-तत्-संयोगात्-अचेतनं चेतनावत इव लिङ्गम् |
+तस्मात्-तत्-संयोगात्-अचेतनं चेतनावत् इव लिङ्गम् |
 
 Therefore, through (saṃyoga) union therewith, the (acetana) insensible (liṅga) products seem (cetanāvat) intelligent;
 
@@ -226,7 +227,7 @@ Therefore, through (saṃyoga) union therewith, the (acetana) insensible (liṅg
 
 (artha) In order that Soul may (darśana) contemplate (pradhāna) Nature and be (kaivalya) separate, 
 
-पङ्गु-अन्ध-वतुभयो अपि संयोगः 
+पङ्गु-अन्ध-वतुभयोः अपि संयोगः 
 
 the (saṃyoga) union of the two, like that of the (paṅgu) lame and the (andha) blind, takes place; 
 
@@ -238,7 +239,7 @@ the (saṃyoga) union of the two, like that of the (paṅgu) lame and the (andha
 
 From the (prakṛti) Prime (mahān) Evolvent [proceeds] intellect, thence (ahaṃkāra) self-apperception, thence the sixteen-fold (gaṇa) set; 
 
-तस्मात्-अपि षोडशकाः पञ्चभ्यः पञ्च-भूतानि ||
+तस्मात्-अपि षोडशकात् पञ्चभ्यः पञ्च-भूतानि ||
 
 from five out of those sixteen [proceed] the five (bhūta) elements.
 ### 23
@@ -246,13 +247,17 @@ from five out of those sixteen [proceed] the five (bhūta) elements.
 
 (Buddhi) Intellect is (adhyavasaya) determination. 
 
-धर्मः ज्ञानं विराग ऐश्वर्यम् | सात्त्विकमेतद्-रूपं तामसम्-अस्मात्-विपर्यस्तम् ||
+धर्मः ज्ञानं विराग ऐश्वर्यम् | सात्त्विकमेतद्-रूपं 
 
-When affected by (sāttvika) goodness its (rūpa) modes are (dharma) virtue, knowledge, (virāga) dispassion and (aiśvarya) power; when affected by (tāmasa) darkness they are the (viparya) reverse.
+When affected by (sāttvika) goodness its (rūpa) modes are (dharma) virtue, knowledge, (virāga) dispassion and (aiśvarya) power; 
+
+तामसम्-अस्मात्-विपर्यस्तम् ||
+
+when affected by (tāmasa) darkness they are the (viparya) reverse.
 ### 24
 अभिमानः अहंकारः तस्माद् द्विधः प्रवर्तते सर्गः | 
 
-Self-apperception is (abhimāṇa) egoism. Thence proceeds only a two-fold creation, [namely,] 
+(ahaṃkāra) Self-apperception is (abhimāṇa) egoism. Thence proceeds only a two-fold creation, [namely,] 
 
 एकादशकः च गणः तन्मात्रः पञ्चकः चेव ||
 
@@ -266,31 +271,31 @@ From self-apperception, (vaikṛta) when modified [by goodness], proceeds the go
 
 from it, as the source of the elements issue the rudimentary particles, [and] these are dark; [while] both [emanations] follow from it (tejas) when affected by activity.
 ### 26
-बुद्धि इन्द्रियि चक्षुः श्रोत्र-घ्राण-रसन-त्वकाख्यानि |
+बुद्धि इन्द्रियाणि चक्षुः श्रोत्र-घ्राण-रसन-त्वक्-आख्यानि |
 
-The (cakṣu) eye, the (śrotra) ear, the (ghrāṇa) nose, the (rasana) tongue and the (tvaka) skin have been called the (indriya) organs of (buddhi) intellection; 
+The (cakṣu) eye, the (śrotra) ear, the (ghrāṇa) nose, the (rasana) tongue and the (tvak) skin have been called the (indriya) organs of (buddhi) intellection; 
 
-वाक्-पाणि-पाद-पायूुपस्ताः कर्मेन्द्रियाणि आहुः ||
+वाक्-पाणि-पाद-पायू उपस्ताः कर्मेन्द्रियाणि आहुः ||
 
 the (vāk) voice, (pāṇi) hands, (pāda) feet, the (pāyu) excretory organ and the (upasta) generative, the organs of (karma) action.
 ### 27
-उभयात्मकम्-अत्र मनः संकल्पकम इन्द्रियं च साधर्म्यात् | 
+उभयात्मकम्-अत्र मनः संकल्पकम् इन्द्रियं च साधर्म्यात् | 
 
 In this set the mind partakes of the nature of both. It (saṃkalpaka) combines, and is a sense-organ because (sadharma) cognate with the rest. 
 
 गुण-परिणाम-विशेषात्-नानात्वं बाह्य-भेदाः च ||
 
-Their (nānātva) multifariousness, as also the (bheda) diversity of (bāhya) external objects is due to specific modifications of constituents.
+Their (nānātva) multifariousness, as also the (bheda) diversity of (bāhya) external objects is due to (viśeṣa) specific (pariṇāma) modifications of constituents.
 ### 28
 शब्दादिषु पञ्चानाम् आलोचन-मात्रम इष्यते वृत्तिः |
 
-The (vṛtti) function of five [organs] in the matter of (śabda) color and the rest, is (mātra) only (ālocana) observation; 
+The (vṛtti) function of five [organs] in the matter of (śabda) color and the rest, (iṣ) is (mātra) only (ālocana) observation; 
 
 वचनादान-विहरणोत्सर्गानन्दाः च पञ्चानाम् ||
 
 that of [the other] five is (vacana) speech, (ādāna) handling, (viharaṇa) walking, (utsarga) excretion and (ānanda) generation [respectively].
 ### 29
-स्वा-लक्षन्या वृत्तिः त्रयस्य सैषा भवति-असामान्य |
+स्वा-लक्षण्या वृत्तिः त्रयस्य सैषा भवति-असामान्या |
 
 The function of the three [internal faculties] is (lakṣanya) characteristic of (svā) each and not (sāmānya) common to all. 
 
@@ -298,7 +303,7 @@ The function of the three [internal faculties] is (lakṣanya) characteristic of
 
 The common function of the organs is (prāṇa) breath and the rest of the five (vāy hell) vital airs.
 ### 30
-युगपत्-चतुष्टयस्य तु वृत्तिः क्रमशश्च तस्य निर्दिष्टा |
+युगपत् चतुष्टयस्य तु वृत्तिः क्रमशश्च तस्य निर्दिष्टा |
 दृष्टे
 
 The functions of the four (nirdiṣṭa) with regard to (dṛṣṭa) sensible objects are described to be (yugapat) simultaneous as well as (kramaśa) consecutive ; 
@@ -323,7 +328,7 @@ No (karaṇa) organ is moved to action by anyone.
 
 Organ is thirteen-fold, (āharaṇa) seizing, (dhāraṇa) retaining and (prakāśa) manifesting; 
 
-कार्यं च तस्य दशधा, आहार्यं, धार्यम् प्रकासश्यं च  |32|
+कार्यं च तस्य दशधा, आहार्यं, धार्यम् प्रकाश्यं च  |32|
 
 the effect thereof is ten-fold, (āhārya) that which is to be seized, to be retained, and to be manifested.
 ### 33
@@ -345,7 +350,7 @@ The voice has for its object sound. The rest concern all the five objects [of se
 ### 35
 शान्तः करणा बुद्धिः सर्वं विषयम् अवगाहते यस्मात् | 
 
-Since (buddhi) Intellect with the [other] internal organs (avahāh) dives into all objects, 
+Since (buddhi) Intellect with the [other] (śānta) internal (karaṇa) organs (avagāh) dives into all objects, 
 
 तस्मात् त्रिविधं करणं द्वारि द्वाराणि शेषाणि ||
 
@@ -357,7 +362,7 @@ These [organs], like a lamp, (vilakṣaṇa) different from one another in chara
 
 कृत्सं पुरुषस्य अर्थं प्रकाश्य बुद्धौ प्रयच्छन्ति ||
 
-(pratacch) present to- (buddhi) Intellect the (kṛtsa) whole (artha) object of Soul, making it manifest.
+(prayacch) present to- (buddhi) Intellect the (kṛtsa) whole (artha) object of Soul, making it manifest.
 ### 37
 सर्वं प्रति उपभोगं यस्मात् पुरुषस्य साधयति बुद्धिः | 
 
@@ -377,23 +382,20 @@ which are (smṛta) known as (viśeṣa) specific, [since they are] (śānta) so
 ### 39
 सूक्ष्माः मातापितृजाः सह प्रभूतैः त्रिधा विशेषाः स्युः | 
 
-Subtle [bodies] and such as spring from father and mother, together with the (prabhūta) great [existences] form the three (dhā) varieties of (viśeṣa) specific objects. 
+Subtle [bodies] and such as spring from father and mother, together with the (prabhūta) great [existences] (as) form the three (dhā) varieties of (viśeṣa) specific objects. 
 
 सूक्ष्माः तेषां नियताः माता पितृजाः निवर्तन्ते ||
 
-Of these, the subtle are (niyata) everlasting, [while] those born of parents.
+Of these, the subtle are (niyata) everlasting, [while] those born of parents (nivart) perishes.
 ### 40
 पूर्वोत्पन्नम् असक्तं नियतम् महत् आदि सूक्ष्म-पर्यन्तम् | 
-
-The subtle body, [which is] (pūrvotpanna) primeval, (asakta) unconfined, permanent [and composed of] (mahat) intellect and the (ādi) rest (paryanta) down to theb (sukṣma) elemental rudiments, 
-
 संसरति निरुपभोगं भावैः अधिवासितं लिङ्गम् ||
 
-(saṃsar) migrates, (nirupabhoga) enjoys not, and is (adhivāsita) invested with (bhāva) affections.
+(liṅga) The subtle body, [which is] (pūrvotpanna) primeval, (asakta) unconfined, permanent [and composed of] (mahat) intellect and the (ādi) rest (paryanta) down to the (sukṣma) elemental rudiments, (saṃsar) migrates, (nirupabhoga) enjoys not, and is (adhivāsita) invested with (bhāva) affections.
 ### 41
 चित्रं यथा आश्रयम् ऋते स्थाण्वादिभ्यो विना यथा छाया | 
 
-As a (citra) painting rests not without a (āśraya) frame, nor a (chāyā) shadow without a (sthāṇu) stake, et cetera, 
+As a (citra) painting rests not (ṛte) without a (āśraya) frame, nor a (chāyā) shadow without a (sthāṇu) stake, et cetera, 
 
 तद्वत् विना विशेषैः न तिष्ठति निराश्रयं लिङ्गम् ||
 
@@ -401,17 +403,17 @@ so the (liṅga) rudimental substance (tiṣṭh) subsists not unsupported, with
 ### 42
 पुरुषार्थ-हेतुकम् इदं निमित्त नैमित्तिक प्रसङ्गेन | प्रकृतेः विभुत्व योगत् नटवत् व्यवतिष्ठते लिङ्गम् ||
 
-The (liṅga) ‘rudiment,’ formed for the sake of Soul, through (prasaṅga) relation of (nimitta) means and (naimittika) consequence, [and] by (yoga) conjunction with the (vibhutva) presiding influence of Nature, (vyavatiṣṭh) plays its part like a (naṭa) dramatic actor.
+The (liṅga) ‘rudiment,’ (hetuka) formed for the (artha) sake of Soul, through (prasaṅga) relation of (nimitta) means and (naimittika) consequence, [and] by (yoga) conjunction with the (vibhutva) presiding influence of Nature, (vyavatiṣṭh) plays its part like a (naṭa) dramatic actor.
 ### 43
-सांसिद्धिकाः च भावाः प्रकृतिकाः वैकृतिकाः च धर्माधाः | 
+सांसिद्धिकाः च भावाः प्रकृतिकाः वैकृतिकाः च धर्माद्याः | 
 
-(bhāva) Conditions are either (sāṃsiddhika) transcendental or natural or (vaikṛtika) modified.  [They are] (dharmadhā) virtue and the like. 
+(bhāva) Conditions are either (sāṃsiddhika) transcendental or natural or (vaikṛtika) modified.  [They are] (dharmādhā) virtue and the like. 
 
 दृष्टाः करणाश्रयिणः कार्याश्रयिणः च कललाद्याः ||
 
 [These are] (dṛṣṭa) considered to be (āśrayi) appurtenant to the (karaṇa) cause, while the (kalala) uterine germ and the rest are appurtenant to the (kārya) effect.
 ### 44
-धर्मेण गमनम् ऊर्ध्व गमनम् अधस्ताद् भवति अधर्मेण | 
+धर्मेण गमनम् ऊर्ध्वम् गमनम् अधस्ताद् भवति अधर्मेण | 
 
 By virtue is ascent upwards, by vice descent below; 
 
@@ -419,7 +421,7 @@ By virtue is ascent upwards, by vice descent below;
 
 by knowledge is (apavarga) liberation, and by the (viparyaya) reverse (bandha) bondage.
 ### 45
-वैराग्यत् प्रकृतिलयः संसारो भवति राजसात् रागात् | 
+वैराग्यात् प्रकृतिलयः संसारो भवति राजसात् रागात् | 
 
 From (vairāgya) dispassion [follows] (laya) absorption into (prakṛti) Nature; from (rājasa) foul (rāga) passion (saṃsāra) birth into the world; 
 
@@ -429,7 +431,7 @@ from (aiśvarya) power (avighāta) removal of obstruction; from the contrary, th
 ### 46
 एषः प्रत्ययसर्गः विपर्यय-अशक्ति तुष्टिः सिद्धि आख्यः | 
 
-This forms an (pratyaya) intellectual (sarga) creation, described as obstruction, disability, contentment and perfection; 
+This forms an (pratyaya) intellectual (sarga) creation, described as (viparyaya) obstruction, (aśakti) disability, (tuṣṭi) contentment and (siddhi) perfection; 
 
 गुण-वैषम्य-विमर्दात् तस्य च भेदाः तु पञ्चाशत् ||
 
@@ -453,11 +455,11 @@ The (behda) sub-divisions of (tamas) obscurity are eight, so also of (moha) illu
 
 सप्तदश वधाः बुद्धेः विपर्ययात् तुष्टि सिद्धीनाम् ||
 
-Intellectual aberrations are seventeen, by inversion of contentment and perfection.
+(buddhi) Intellectual (vadha) aberrations are seventeen, by inversion of contentment and perfection.
 ### 50
 आध्यात्मिकाः चतस्रः प्रकृति उपादान काल भाग्य आख्याः | बाह्याः विषय उपरमात् पञ्च नव तुष्टयः अभिमताः ||
 
-Nine sorts of contentment are (abhimata) enumerated four (ādhyātmika) internal, named from nature, (upādāna) means, (kāla) time and (bhāgya) luck; and five external, relating to (uparama) abstinence from objects of sense.
+Nine sorts of (tuṣṭi) contentment are (abhimata) enumerated four (ādhyātmika) internal, named from nature, (upādāna) means, (kāla) time and (bhāgya) luck; and five external, relating to (uparama) abstinence from (viṣaya) objects of sense.
 ### 51
 ऊहः शब्दः अध्ययनं दुःख-विघाताः त्रयः सुहृत् प्राप्तिः | दानं च सिद्धयः अष्टौ 
 
@@ -497,7 +499,7 @@ from Brahmā and the rest to a (stambha) stock. 
 ### 55
 तत्र जरामरण कृतं दुःखं प्राप्नोति चेतनः पुरुषः | 
 
-In them the (cetana) sentient Soul experiences pain, owing to decay and death, 
+In them the (cetana) sentient Soul experiences (duḥkha) pain, (kṛta) owing to (jarā) decay and (maraṇa) death, 
 
 लिङ्गस्य अविनिवृत्तेः 
 
@@ -545,7 +547,7 @@ Nature, (upakāriṇi) generous and (guṇavati) endowed with the ‘qualities,�
 ### 61
 प्रकृतेः सुकुमारतरं न किञ्चित् अस्ति इति मे मतिः भवति | 
 
-My opinion is that nothing exists more bashful than Nature, 
+My (mati) opinion is that nothing exists more (sukumāra) bashful than Nature, 
 
 या दृष्टा अस्मि इति पुनः न दर्शनम् उपैति पुरुषस्य ||
 
@@ -571,7 +573,7 @@ and by one mode does she free herself for the benefit of Soul.
 
 So by a (abhyāsa) study of the (tattva) principles is the (apariśeṣa) final, (aviparyaya) incontrovertible and (kevala) only one (jñāna) knowledge attained that I am not, naught is mine, and the (aham) ego exists not.
 ### 65
-तेन निवृत्तप्रसवा अर्थवशात् सप्त रूप विनिवृत्ताम् | प्रकृतिं पश्यति पुरुषः प्रेक्षकवत् अवस्थितः स्वच्छः ||
+तेन निवृत्तप्रसवाम् अर्थवशात् सप्त रूप विनिवृत्ताम् | प्रकृतिं पश्यति पुरुषः प्रेक्षकवत् अवस्थितः स्वच्छः ||
 
 With this [knowledge] Soul, (avasthita) unmoved and (svaccha) self-collected, as a (prekṣaka) spectator, (paś) con-templates Nature, who has (nivṛtta) ceased from (prasava) production [and] consequently (nivṛtta) reverted from the seven (rūpa) forms [to her original state].
 ### 66
@@ -591,9 +593,9 @@ The (adhigama) attainment of (samyak) adequate knowledge (prāpta) renders virtu
 
 [Soul, however,] like a (cakra) wheel (bhrami) revolving from the (vaśa) effect of [previously-received] (saṃskāra) impulse, remains [for a while] (dhṛta) invested with a (śarīra) frame.
 ### 68
-प्राप्ते शरीरभेदे चरितार्थत्वात् प्रधान विनिवृत्ते | 
+प्राप्ते शरीरभेदे चरितार्थत्वात् प्रधान विनिवृत्तेः | 
 
-When owing to (caritārthatva) gratification of ends, [its ] (śarīrabheda) separation from the body takes place and (pradhāna) Nature ceases to act, 
+When owing to (caritārthatva) gratification of ends, [its ] (śarīrabheda) separation from the body (prāpta) takes place and (pradhāna) Nature ceases to act, 
 
 ऐकान्तिकम् आत्यन्तिकम् उभयं कैवल्यं प्राप्नोति ||
 

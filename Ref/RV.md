@@ -2,7 +2,7 @@ https://www.sanskrit-trikashaivism.com/en/rigveda-introduction/646
 
 https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/rv/mt/rv.htm
 
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829094.html
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/
 
 # b1.51-191
 
@@ -163,6 +163,15 @@ who verily (eka) alone (dhara) upholds the three (dhātu) elements, and (pṛthi
 उ॒रु॒क्र॒मस्य॒ स हि बन्धु॑रि॒त्था विष्णो॑: प॒दे प॑र॒मे मध्व॒ उत्स॑: ॥
 (the path) of that (urūkrama) wide-stepping Viṣṇu, in whose (parama) exalted (pada) station there is a (perpetual) (madhu?) flow of felicity; for to such a degree is he the (bandhu) friend (of the pious).”
 ### ?
+## 1.155
+#### 6
+च॒तुर्भि॑: सा॒कं न॑व॒तिं च॒ नाम॑भिश्च॒क्रं न वृ॒त्तं व्यतीँ॑रवीविपत् । 
+
+He causes, by his (nāma) gyrations, ninety and four (sāka) periodical (vṛtta) revolutions, like a circular wheel, 
+
+बृ॒हच्छ॑रीरो वि॒मिमा॑न॒ ऋक्व॑भि॒र्युवाकु॑मार॒: प्रत्ये॑त्याह॒वम् ॥
+
+vast of body, and evolving in many forms, through the praises (addressed to him); ever young, though not infantine, he comes at our invocations.
 ## 1.158
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830672.html
 #### 5
@@ -178,6 +187,45 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830731
 ग॒न्ध॒र्वो अ॑स्य रश॒नाम॑गृभ्णा॒त्सूरा॒दश्वं॑ वसवो॒ निर॑तष्ट ॥
 and gandharva seized his (raśana) reins. 
 Vasus, you (niṣṭāṇa) fabricated the (aśva) horse from the (sūra) sun.”
+## 1.164
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840320.html
+#### 11
+द्वाद॑शारं न॒हि तज्जरा॑य॒ वर्व॑र्ति च॒क्रं परि॒ द्यामृ॒तस्य॑ । 
+
+The twelve-spoked wheel, of the true (sun) revolves round the heavens, and never (tends) to decay; 
+
+आ पु॒त्रा अ॑ग्ने मिथु॒नासो॒ अत्र॑ स॒प्त श॒तानि॑ विंश॒तिश्च॑ तस्थुः ॥
+
+seven hundred and twenty children, Agni, abide in it.
+#### 12
+पञ्च॑पादं पि॒तरं॒ द्वाद॑शाकृतिं दि॒व आ॑हु॒: परे॒ अर्धे॑ पुरी॒षिण॑म् । 
+
+They have termed the five-footed, twelve-formed parent, Puriṣin, when in the further hemisphere of the sky; 
+
+अथे॒मे अ॒न्य उप॑रे विचक्ष॒णं स॒प्तच॑क्रे॒ षळ॑र आहु॒रर्पि॑तम् ॥
+
+and others have termed in Arpita, when in the hither (portion of the sky); shining in his seven-wheeled car), each (wheel) having six spokes.
+#### 15
+सा॒कं॒जानां॑ स॒प्तथ॑माहुरेक॒जं षळिद्य॒मा ऋष॑यो देव॒जा इति॑ । 
+
+Of those that are born together, sages have called the seventh single-born; for six are twins, and are moveable, and born of the gods; 
+
+तेषा॑मि॒ष्टानि॒ विहि॑तानि धाम॒शः स्था॒त्रे रे॑जन्ते॒ विकृ॑तानि रूप॒शः ॥
+
+their desirable (properties), plural ced severally in their proper abode, are various (also) in form, and revolve for (the benefit of) that which is stationary.
+#### 31
+अप॑श्यं गो॒पामनि॑पद्यमान॒मा च॒ परा॑ च प॒थिभि॒श्चर॑न्तम् । 
+
+I have beheld the unwearied protector of the universe, the sun, travelling upwards, the downwards by various paths; 
+
+स स॒ध्रीची॒: स विषू॑ची॒र्वसा॑न॒ आ व॑रीवर्ति॒ भुव॑नेष्व॒न्तः ॥
+
+invested with aggregative and diffusive radiance, he revolves in the midst of the regions.
+
+#### 48
+द्वाद॑श प्र॒धय॑श्च॒क्रमेकं॒ त्रीणि॒ नभ्या॑नि॒ क उ॒ तच्चि॑केत । तस्मि॑न्त्सा॒कं त्रि॑श॒ता न श॒ङ्कवो॑ऽर्पि॒ताः ष॒ष्टिर्न च॑लाच॒लास॑: ॥
+
+The fellies are twelve; the wheel is one; three are the axles; but who knows it? within it are collected 360 (spokes), which are, as it were, moveable and immoveable.
 ## 1.167
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840338.html
 #### 4
@@ -502,6 +550,7 @@ worship [Rudra](https://www.wisdomlib.org/definition/rudra#hinduism "show Rudra 
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc833351.html
 #### 1
 प्र श्या॑वाश्व धृष्णु॒यार्चा॑ म॒रुद्भि॒ॠक्व॑भिः । ये अ॑द्रो॒घम॑नुष्व॒धं श्रवो॒ मद॑न्ति य॒ज्ञिया॑: ॥
+
 # b6
 ## 6.33
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc834037.html
@@ -938,6 +987,10 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838229
 तं ग॑न्ध॒र्वाः प्रत्य॑गृभ्ण॒न्तं सोमे॒ रस॒माद॑धु॒रिन्द्रा॑येन्दो॒ परि॑ स्रव ॥
 the gandharva seized upon it and placed the (rasa) juice in the Soma; (srāva) flow, Indu, for Indra.”
 # b10
+## 10.64
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839234.html
+
+#### 3
 ## 10.66
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839279.html
 
@@ -1098,7 +1151,7 @@ with him the (deva) deities who were Sādhyas and those who were Ṛṣis (yaj) 
 “From that (yajña) victim, in whom the (sarvahūt) universal oblation was offered, the mixture of (pṛṣat) curds and (ājya) butter was (sambhṛta) produced, 
 
 प॒शून्ताँश्च॑क्रे वाय॒व्या॑नार॒ण्यान्ग्रा॒म्याश्च॒ ये ॥
-(then) he made those (paśu) animals (vāyavya) over whom Vāyu presides, those that are (āraṅya) wild, and those that are (grāmya) tame.”
+(then) he (kar) made those (paśu) animals (vāyavya) over whom Vāyu presides, those that are (āraṅya) wild, and those that are (grāmya) tame.”
 #### 9
 तस्मा॑द्य॒ज्ञात्स॑र्व॒हुत॒ ऋच॒: सामा॑नि जज्ञिरे । 
 “From that (yajña) victim, in whom the (sarvahūt) universal oblation was offered, the ṛcs and sāmas were (jāti) produced; 
@@ -1106,46 +1159,64 @@ with him the (deva) deities who were Sādhyas and those who were Ṛṣis (yaj) 
 छन्दां॑सि जज्ञिरे॒ तस्मा॒द्यजु॒स्तस्मा॑दजायत ॥
 from him the (chanda) metres were (jāti) born; from him the yajur was born.”
 #### 10
-तस्मा॒दश्वा॑ अजायन्त॒ ये के चो॑भ॒याद॑तः । गावो॑ ह जज्ञिरे॒ तस्मा॒त्तस्मा॑ज्जा॒ता अ॑जा॒वय॑: ॥
-aśva go aja avi
+तस्मा॒दश्वा॑ अजायन्त॒ ये के चो॑भ॒याद॑तः । 
+
+aśva
+
+गावो॑ ह जज्ञिरे॒ तस्मा॒त्तस्मा॑ज्जा॒ता अ॑जा॒वय॑: ॥
+
+go aja avi
 #### 11
 यत्पुरु॑षं॒ व्यद॑धुः कति॒धा व्य॑कल्पयन् । 
+
 “When they (vidhāna) immolated Puruṣa, into how many (dhān) portions did they (kalpa) divide him? 
 
 मुखं॒ किम॑स्य॒ कौ बा॒हू का ऊ॒रू पादा॑ उच्येते ॥
+
 What was his (mukha) mouth (vad) called, what his (bāhu) arms, what his (uru) thighs, what were his (pāda) feet called?”
 #### 12
 ब्रा॒ह्म॒णो॑ऽस्य॒ मुख॑मासीद्बा॒हू रा॑ज॒न्य॑: कृ॒तः । 
+
 “His (mukha) mouth (as) became the Brāhmaṇa, his (bāhu) arms (kṛ) became the Rājanya, 
 
 ऊ॒रू तद॑स्य॒ यद्वैश्य॑: 
+
 his (uru) thighs became the Vaiśya; 
 
 प॒द्भ्यां शू॒द्रो अ॑जायत ॥
+
 the Śūdra was (jāti) born from his (pad) feet.”
 #### 13
 च॒न्द्रमा॒ मन॑सो जा॒तश्चक्षो॒: सूर्यो॑ अजायत । 
+
 “The (candramās) moon was born from his (manas) mind; the (sūrya) sun was born from his (cakṣu) eye; 
 
 मुखा॒दिन्द्र॑श्चा॒ग्निश्च॑ प्रा॒णाद्वा॒युर॑जायत ॥
+
 Indra and Agni were born from his (mukha) mouth, Vāyu from his (prāṇa) breath.”
 #### 14
 नाभ्या॑ आसीद॒न्तरि॑क्षं शी॒र्ष्णो द्यौः सम॑वर्तत । 
+
 “From his (nābhi) navel came the (antarikṣa) firmament, from his (śīrṣa) head the (dyaus) heaven was produced, 
 
 प॒द्भ्यां भूमि॒र्दिश॒: श्रोत्रा॒त्तथा॑ लो॒काँ अ॑कल्पयन् ॥
+
 the (bhūmi) earth from his (pad) feet, the (diś) quarters of space from his (śrotra) ear, so they (kalp) constituted the (loka) world.”
 #### 15
 स॒प्तास्या॑सन्परि॒धय॒स्त्रिः स॒प्त स॒मिध॑: कृ॒ताः । 
+
 “Seven were the (paridhi) enclosures of the sacrifice, thrice seven (samidh) logs of fuel were prepared, 
 
 दे॒वा यद्य॒ज्ञं त॑न्वा॒ना अब॑ध्न॒न्पुरु॑षं प॒शुम् ॥
+
 when the (deva) gods, (tan) celebrating the (yajña) rite, (bandh) bound Puruṣa as the (paśu) victim.”
 #### 16
 य॒ज्ञेन॑ य॒ज्ञम॑यजन्त दे॒वास्तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन् । 
+
 “By sacrifice the gods worshipped (him who is also) the sacrifice; those were the first duties. 
 
 ते ह॒ नाकं॑ महि॒मान॑: सचन्त॒ यत्र॒ पूर्वे॑ सा॒ध्याः सन्ति॑ दे॒वाः ॥
+
 Those great ones became (sac) partakers of the (nāka) heaven where the ancient (deva) deities the Sādhyas abide. 
 
 10.091.01 Damūnas, being glorified by his diligent (worshippers), desiring food upon the footmark of Iḷā, is kindled in the chamber (of sacrifice), the offerer of every oblation, the object of veneration, the lord, theresplendent, to him who desires his friendship.”
@@ -1412,6 +1483,11 @@ Keśī keta cit sakhā
 Vāyu churned for him, the inflexible (thunder) ground it when the radiant (Sun), along with Rudra, drank the water with his cup.
 
 vāyu namas keśī viṣa pātra 
+## 10.177
+#### 3
+अप॑श्यं गो॒पामनि॑पद्यमान॒मा च॒ परा॑ च प॒थिभि॒श्चर॑न्तम् । स स॒ध्रीची॒: स विषू॑ची॒र्वसा॑न॒ आ व॑रीवर्ति॒ भुव॑नेष्व॒न्तः ॥
+
+I beheld the protector (the Sun), never descending, going by his paths to the east and to the west;clothing (with light) the (four) quarters of heaven and the intermediate spaces, he constantly revolves in the midstof the worlds.
 
 # b1.1-50
 ## 1.1
@@ -1535,3 +1611,100 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc837230
 रा॒तिं यद्वा॑मर॒क्षसं॒ हवा॑महे यु॒वाभ्यां॑ वाजिनीवसू । प्राचीं॒ होत्रां॑ प्रति॒रन्ता॑वितं नरा गृणा॒ना ज॒मद॑ग्निना ॥
 
 Deities rich in food, when we solicit your bounty, that (wealth) which demons cannot thwart-- then,helping our praise directed to the east, come, leaders of rites, worshipped by Jamadagni.
+
+## 5.88
+https://greenmesg.org/stotras/lakshmi/sri_suktam.php
+Sri sukta
+#### 1
+हिरण्यवर्णां हरिणीं सुवर्णरजतस्रजाम् ।
+चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥१॥
+
+1.1: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) Who is of Golden Complexion, Beautiful and Adorned with Gold and Silver Garlands.
+(Gold represents Sun or the Fire of Tapas; Silver represents Moon or the Bliss and Beauty of Pure Sattva.)
+1.2: Who is like the Moon with a Golden Aura, Who is Lakshmi, the Embodiment of Sri; O Jatavedo, please Invoke for Me that Lakshmi.
+
+तां म आवह जातवेदो लक्ष्मीमनपगामिनीम् ।
+यस्यां हिरण्यं विन्देयं गामश्वं पुरुषानहम् ॥२॥
+
+अश्वपूर्वां रथमध्यां हस्तिनादप्रबोधिनीम् ।
+श्रियं देवीमुपह्वये श्रीर्मा देवी जुषताम् ॥३॥
+
+कां सोस्मितां हिरण्यप्राकारामार्द्रां ज्वलन्तीं तृप्तां तर्पयन्तीम् ।
+पद्मे स्थितां पद्मवर्णां तामिहोपह्वये श्रियम् ॥४॥
+
+चन्द्रां प्रभासां यशसा ज्वलन्तीं श्रियं लोके देवजुष्टामुदाराम् ।
+तां पद्मिनीमीं शरणमहं प्रपद्येऽलक्ष्मीर्मे नश्यतां त्वां वृणे ॥५॥
+
+आदित्यवर्णे तपसोऽधिजातो वनस्पतिस्तव वृक्षोऽथ बिल्वः ।
+तस्य फलानि तपसानुदन्तु मायान्तरायाश्च बाह्या अलक्ष्मीः ॥६॥
+
+उपैतु मां देवसखः कीर्तिश्च मणिना सह ।
+प्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिमृद्धिं ददातु मे ॥७॥
+
+क्षुत्पिपासामलां ज्येष्ठामलक्ष्मीं नाशयाम्यहम् ।
+अभूतिमसमृद्धिं च सर्वां निर्णुद मे गृहात् ॥८॥
+
+गन्धद्वारां दुराधर्षां नित्यपुष्टां करीषिणीम् ।
+ईश्वरींग् सर्वभूतानां तामिहोपह्वये श्रियम् ॥९॥
+
+मनसः काममाकूतिं वाचः सत्यमशीमहि ।
+पशूनां रूपमन्नस्य मयि श्रीः श्रयतां यशः ॥१०॥
+
+कर्दमेन प्रजाभूता मयि सम्भव कर्दम ।
+श्रियं वासय मे कुले मातरं पद्ममालिनीम् ॥११॥
+
+
+आपः सृजन्तु स्निग्धानि चिक्लीत वस मे गृहे ।
+नि च देवीं मातरं श्रियं वासय मे कुले ॥१२॥
+
+आर्द्रां पुष्करिणीं पुष्टिं पिङ्गलां पद्ममालिनीम् ।
+चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥१३॥
+
+आर्द्रां यः करिणीं यष्टिं सुवर्णां हेममालिनीम् ।
+सूर्यां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥१४॥
+
+तां म आवह जातवेदो लक्ष्मीमनपगामिनीम् ।
+यस्यां हिरण्यं प्रभूतं गावो दास्योऽश्वान् विन्देयं पुरुषानहम् ॥१५॥
+
+यः शुचिः प्रयतो भूत्वा जुहुयादाज्यमन्वहम् ।
+सूक्तं पञ्चदशर्चं च श्रीकामः सततं जपेत् ॥१६॥
+
+पद्मानने पद्म ऊरू पद्माक्षी पद्मसंभवे ।
+त्वं मां भजस्व पद्माक्षी येन सौख्यं लभाम्यहम् ॥१७॥
+
+अश्वदायि गोदायि धनदायि महाधने ।
+धनं मे जुषतां देवि सर्वकामांश्च देहि मे ॥१८॥
+
+पुत्रपौत्र धनं धान्यं हस्त्यश्वादिगवे रथम् ।
+प्रजानां भवसि माता आयुष्मन्तं करोतु माम् ॥१९॥
+
+धनमग्निर्धनं वायुर्धनं सूर्यो धनं वसुः ।
+धनमिन्द्रो बृहस्पतिर्वरुणं धनमश्नुते ॥२०॥
+
+वैनतेय सोमं पिब सोमं पिबतु वृत्रहा ।
+सोमं धनस्य सोमिनो मह्यं ददातु सोमिनः ॥२१॥
+
+न क्रोधो न च मात्सर्य न लोभो नाशुभा मतिः ।
+भवन्ति कृतपुण्यानां भक्तानां श्रीसूक्तं जपेत्सदा ॥२२॥
+
+वर्षन्तु ते विभावरि दिवो अभ्रस्य विद्युतः ।
+रोहन्तु सर्वबीजान्यव ब्रह्म द्विषो जहि ॥२३॥
+
+पद्मप्रिये पद्मिनि पद्महस्ते पद्मालये पद्मदलायताक्षि ।
+विश्वप्रिये विष्णु मनोऽनुकूले त्वत्पादपद्मं मयि सन्निधत्स्व ॥२४॥
+
+या सा पद्मासनस्था विपुलकटितटी पद्मपत्रायताक्षी ।
+गम्भीरा वर्तनाभिः स्तनभर नमिता शुभ्र वस्त्रोत्तरीया ॥२५॥
+
+लक्ष्मीर्दिव्यैर्गजेन्द्रैर्मणिगणखचितैस्स्नापिता हेमकुम्भैः ।
+नित्यं सा पद्महस्ता मम वसतु गृहे सर्वमाङ्गल्ययुक्ता ॥२६॥
+
+लक्ष्मीं क्षीरसमुद्र राजतनयां श्रीरङ्गधामेश्वरीम् ।
+दासीभूतसमस्त देव वनितां लोकैक दीपांकुराम् ॥२७॥
+
+श्रीमन्मन्दकटाक्षलब्ध विभव ब्रह्मेन्द्रगङ्गाधराम् ।
+त्वां त्रैलोक्य कुटुम्बिनीं सरसिजां वन्दे मुकुन्दप्रियाम् ॥२८॥
+
+सिद्धलक्ष्मीर्मोक्षलक्ष्मीर्जयलक्ष्मीस्सरस्वती ।
+श्रीलक्ष्मीर्वरलक्ष्मीश्च प्रसन्ना मम सर्वदा ॥२९॥
+

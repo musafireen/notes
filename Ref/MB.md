@@ -681,6 +681,50 @@ The maharshis, with the great-souled Narada at the forefront, seated themselves 
 इत्येतां नारदश्चिन्तां चिन्तयामास धर्मवित् |
 हरिं नारायणं ज्ञात्वा यज्ञैरीड्यं तमीश्वरम् ||२०||
 
+### c47
+###### 19
+चीनान्हूणाञ्शकानोड्रान्पर्वतान्तरवासिनः |
+वार्ष्णेयान्हारहूणांश्च कृष्णान्हैमवतांस्तथा ||१९||
+
+There were Chinas, Hunas, Shakas,64 Oudras,65 those who live inside mountains, Varshneyas, Harahunas, dark ones and those who live in the Himalayas. 
+###### 20
+न पारयाम्यभिगतान्विविधान्द्वारि वारितान् |
+बल्यर्थं ददतस्तस्य नानारूपाननेकशः ||२०||
+
+I do not remember the order of those who were barred entry at the gate. They gave much tribute in many forms. 
+###### 21
+कृष्णग्रीवान्महाकायान्रासभाञ्शतपातिनः |
+आहार्षुर्दशसाहस्रान्विनीतान्दिक्षु विश्रुतान् ||२१||
+
+There were tens of thousands of asses, giant in form and with black necks. They were famous everywhere and trained well, capable of killing hundreds. 
+###### 22
+प्रमाणरागस्पर्शाढ्यं बाह्लीचीनसमुद्भवम् |
+
+There were large and colourful garments pleasant to the touch, from Bahlika66 and China. 
+
+और्णं च राङ्कवं चैव कीटजं पट्टजं तथा ||२२||
+
+There was wool, ranku67 hides, silk, jute, cotton and thousands of other garments. 
+###### 23
+कुट्टीकृतं तथैवान्यत्कमलाभं सहस्रशः |
+श्लक्ष्णं वस्त्रमकार्पासमाविकं मृदु चाजिनम् ||२३||
+
+They had the colour of lotuses and were soft, though not made of cotton. There were hides. 
+###### 24
+निशितांश्चैव दीर्घासीनृष्टिशक्तिपरश्वधान् |
+अपरान्तसमुद्भूतांस्तथैव परशूञ्शितान् ||२४||
+
+There were long and sharp swords, double-edged swords,68 spears, battleaxes and a hundred battleaxes from the other side of the ocean.69 
+###### 25
+रसान्गन्धांश्च विविधान्रत्नानि च सहस्रशः |
+बलिं च कृत्स्नमादाय द्वारि तिष्ठन्ति वारिताः ||२५||
+
+They brought juices, fragrances and many jewels in thousands. But despite the tribute, they were barred entry and stood at the gate. 
+###### 26
+शकास्तुखाराः कङ्काश्च रोमशाः शृङ्गिणो नराः |
+महागमान्दूरगमान्गणितानर्बुदं हयान् ||२६||
+
+Shakas, Tukharas, Kankas, Romashas70 and men with horns brought as tribute one hundred million71 horses that could travel great and long distances.
 ### c49
 ###### 22
 यथातिमात्रं कौन्तेयः श्रिया परमया युतः |
@@ -781,6 +825,38 @@ Having uttered these words, the supreme of devarshis, graced with the great pros
 
 लोकानात्मप्रभान्पश्यन्फल्गुनो विस्मयान्वितः |
 पप्रच्छ मातलिं प्रीत्या स चाप्येनमुवाच ह ||३४||
+
+### c48
+###### 16
+अमर्षितो हि कृष्णोऽपि दृष्ट्वा पार्थांस्तथागतान् |
+कृष्णाजिनोत्तरासङ्गानब्रवीच्च युधिष्ठिरम् ||१६||
+
+Krishna was also angered when he saw the Parthas in that state, attired in black deerskin for their upper garments. He told Yudhishthira, 
+###### 17
+या सा समृद्धिः पार्थानामिन्द्रप्रस्थे बभूव ह |
+राजसूये मया दृष्टा नृपैरन्यैः सुदुर्लभा ||१७||
+
+‘At the time of the rajasuya, I witnessed the prosperity of the Parthas in Indraprastha, so difficult to be obtained by other kings. 
+###### 18
+यत्र सर्वान्महीपालाञ्शस्त्रतेजोभयार्दितान् |
+सवङ्गाङ्गान्सपौण्ड्रोड्रान्सचोलद्रविडान्धकान् ||१८||
+
+I saw all the lords of the earth there, terrified because of the energy of your weapons—Vangas, Angas, Poundras, Udras, Cholas, Dravidas, Andhrakas, 
+###### 19
+सागरानूपगांश्चैव ये च पत्तनवासिनः |
+सिंहलान्बर्बरान्म्लेच्छान्ये च जाङ्गलवासिनः ||१९||
+
+those who live along the shores of the ocean, those who live in cities, Simhalas, Barbaras, Mlecchas, those who live in forests,  
+###### 20
+पश्चिमानि च राज्यानि शतशः सागरान्तिकान् |
+पह्लवान्दरदान्सर्वान्किरातान्यवनाञ्शकान् ||२०||
+
+those from the western kingdoms, hundreds from along the ocean, Pahlavas, Daradas, all the Kiratas, Yavanas, Shakas,
+###### 21
+हारहूणांश्च चीनांश्च तुखारान्सैन्धवांस्तथा |
+जागुडान्रमठान्मुण्डान्स्त्रीराज्यानथ तङ्गणान् ||२१||
+
+Harahunas, Chinas, Tukharas, Saindhavas, Jagudas, Ramathas, Mundas, those from kingdoms ruled by women, Tanganas and many others who came to serve you at the sacrifice.
 ### c51
 ##### 11-12
 ###### 11
@@ -838,6 +914,7 @@ O Kounteya! On hearing about that gathering of kings, King Nala also set out, ha
 ###### 16
 अहो रूपमहो कान्तिरहो धैर्यं महात्मनः |
 कोऽयं देवो नु यक्षो नु गन्धर्वो नु भविष्यति ||१६||
+
 ### c80
 ##### 7-15
 ###### 7
@@ -1377,6 +1454,19 @@ That immensely energetic one burnt down the sons of Sagara.
 सगरान्तिकमागच्छत्तच्च तस्मै न्यवेदयत् ||४||
 
 ‘“Having seen them burnt to ashes, the great ascetic Narada went to Sagara and told him.
+### c174
+##### 11-12
+###### 11
+ततः क्रमेणोपययुर्नृवीरा; यथागतेनैव पथा समग्राः |
+विहृत्य मासं सुखिनो बदर्यां; किरातराज्ञो विषयं सुबाहोः ||११||
+
+‘Having spent a happy month in Badari, in due course, they went to the land of Subahu, the king of the kiratas, following the route that other brave ones had traversed earlier. 
+###### 12
+चीनांस्तुखारान्दरदान्सदार्वा; न्देशान्कुणिन्दस्य च भूरिरत्नान् |
+अतीत्य दुर्गं हिमवत्प्रदेशं; पुरं सुबाहोर्ददृशुर्नृवीराः ||१२||
+
+They passed the lands of chinas,11 tukharas,12 daradas,13 darvas14 and kunindas15 full of many jewels. The brave ones crossed the difficult terrain of the Himalaya region and saw Subahu’s city.
+##### ?
 ### c180
 ###### 39
 प्रत्यदृष्यत धर्मात्मा मार्कण्डेयो महातपाः ||३९||
@@ -1733,16 +1823,95 @@ Despite the devarshi having assumed the form of an ape, Sukumari did not disresp
 
 She treated him affectionately.
 ##### ?
+### c65
+##### 13-15
+###### 13
+मान्धातोवाच||
+
+‘“Mandhata asked, 
+
+यवनाः किराता गान्धाराश्चीनाः शबरबर्बराः |
+शकास्तुषाराः कह्वाश्च पह्लवाश्चान्ध्रमद्रकाः ||१३||
+
+‘Yavanas, Kiratas, Gandharas, Chinas, Shabaras, Barbaras, Shakas, Tusharas, Kahvas, Pahlavas, Andhras, Madrakas, 
+###### 14
+ओड्राः पुलिन्दा रमठाः काचा म्लेच्छाश्च सर्वशः |
+ब्रह्मक्षत्रप्रसूताश्च वैश्याः शूद्राश्च मानवाः ||१४||
+
+Odras, Pulindas, Ramathas, Kachas, all the mlecchas, those who are a mix of brahmanas and kshatriyas, vaishyas and men who are shudras, 
+###### 15
+कथं धर्मं चरेयुस्ते सर्वे विषयवासिनः |
+
+What dharma should be followed by them when they reside within the kingdom?
+
+मद्विधैश्च कथं स्थाप्याः सर्वे ते दस्युजीविनः ||१५||
+
+How can those like me establish all those who earn a living by being bandits?
+##### ?
 ## u3
 ### c200
+###### 8
+महाभूतानि भूतात्मा 
+
+महात्मा पुरुषोत्तमः |
+
+Purushottama is great in his soul. 
+
+वायुर्ज्योतिस्तथा चापः खं गां चैवान्वकल्पयत् ||८||
+
+He created wind, energy, water, space and the earth. 
+###### 9
+स दृष्ट्वा पृथिवीं चैव सर्वभूतेश्वरः प्रभुः |
+
+The lord, the god of all beings, looked at the earth. 
+
+अप्स्वेव शयनं चक्रे महात्मा पुरुषोत्तमः ||९||
+
+The great-souled Purushottama proceeded to lie down on the water. 
+###### 10
+सर्वतेजोमयस्तस्मिञ्शयानः शयने शुभे |
+सोऽग्रजं सर्वभूतानां सङ्कर्षणमचिन्तयत् ||१०||
+
+The first among all the beings was full of energy and lay down on that supreme bed and created attraction.5 
+###### 11
+आश्रयं सर्वभूतानां मनसेति विशुश्रुम |
+स धारयति भूतात्मा उभे भूतभविष्यती ||११||
+
+We have heard that the soul of all beings created this refuge of all beings through his mental powers and this sustains both the past and the future. 
+###### 12
+ततस्तस्मिन्महाबाहो प्रादुर्भूते महात्मनि |
+भास्करप्रतिमं दिव्यं नाभ्यां पद्ममजायत ||१२||
+
+O mighty-armed one! After that had been created, a celestial lotus sprouted from the great-souled one’s navel and it had the radiance of the sun. 
+###### 13
+स तत्र भगवान्देवः पुष्करे भासयन्दिशः |
+ब्रह्मा समभवत्तात सर्वभूतपितामहः ||१३||
+
+O son! The illustrious god Brahma, the grandfather of all beings, was created from that lotus and the directions shone with his radiance. 
+###### 14
+तस्मिन्नपि महाबाहो प्रादुर्भूते महात्मनि |
+तमसः पूर्वजो जज्ञे मधुर्नाम महासुरः ||१४||
+
+O mighty-armed one! When that great-souled one manifested himself, there was a great asura named Madhu, who had earlier been born from darkness. 
 ###### 15
 तमुग्रमुग्रकर्माणमुग्रां बुद्धिं समास्थितम् |
-ब्रह्मणोपचितिं कुर्वञ्जघान पुरुषोत्तमः
 
+He was fierce. He was fierce in his deeds and his resolution was fierce.6 
+
+ब्रह्मणोपचितिं कुर्वञ्जघान पुरुषोत्तमः ||१५||
+
+To ensure Brahma’s welfare, Purushottama slew him. 
+###### 16
+तस्य तात वधात्सर्वे देवदानवमानवाः |
+मधुसूदनमित्याहुर्वृषभं सर्वसात्वताम् ||१६||
+
+O son! Because of this act of slaying, all the gods, danavas and humans came to call that bull among all the Satvatas by the name of Madhusudana.7
 ### c215
 ###### 9
 यैः कैश्चित्संमतो लोके गुणैः स्यात्पुरुषो नृषु |
 भवत्यनपगान्सर्वांस्तान्गुणाँल्लक्षयामहे ||९||
+### c232
+###### 24
 ### c321
 
 ###### 1
@@ -1851,7 +2020,7 @@ The energy of their austerities was such that even the (sura) gods were unable t
 
 यस्य प्रसादं कुर्वाते स देवौ द्रष्टुमर्हति ||१२||
 
-Only a god to whom they showed their favours was capable of seeing them. 
+Only to whom they showed their favours was capable of seeing those two gods. 
 ###### 13
 नूनं तयोरनुमते हृदि हृच्छयचोदितः |
 
@@ -2031,6 +2200,8 @@ Those supreme among brahmanas knew, and obtained, their atmans.
 ###### 37
 स्वर्गस्था अपि ये केचित्तं नमस्यन्ति देहिनः |
 ते तत्प्रसादाद्गच्छन्ति तेनादिष्टफलां गतिम् ||३७||
+
+Through his favours, embodied beings and those in heaven who worship him, obtain all the fruits and ends that they desire.
 ###### 38
 ये हीनाः सप्तदशभिर्गुणैः कर्मभिरेव च |
 कलाः पञ्चदश त्यक्त्वा ते मुक्ता इति निश्चयः ||३८||
@@ -2075,6 +2246,7 @@ O Narada! O brahmana rishi! Because of your devotion and because of our affectio
 अस्मद्भक्त्या च ते श्रुतः ||४३||
 
 It is because of your faith that you have been able to listen to it.’”’
+##### ?
 ### c322
 ###### 5
 तत्पारमेष्ठ्यस्य वचो निशम्य; नारायणः सात्वतधर्मगोप्ता |
@@ -2104,7 +2276,7 @@ There is an extensive region named Shvetadvipa to the north of the ocean of milk
 
 मेरोः सहस्रैः स हि योजनानां द्वात्रिंशतोर्ध्वं कविभिर्निरुक्तः ||८||
 
-The wise ones have said that it is thirty-two thousand yojanas to the north of Meru. 
+Thousand wise ones have said that it is thirty-two yojanas to the (ūrdhva) north of Meru. 
 ###### 9
 अतीन्द्रियाश्चानशनाश्च तत्र; 
 
@@ -2207,11 +2379,39 @@ these extremely energetic sages were known as the Chitrashikhandins.1110
 ###### 28
 सप्त प्रकृतयो ह्येतास्तथा स्वायम्भुवोऽष्टमः |
 
-They were like seven Prakritis and Svayambhu was the eighth.
+They were like seven Prakritis and Svayambhuva was the eighth.
 
 एताभिर्धार्यते लोकस्ताभ्यः शास्त्रं विनिःसृतम् ||२८||
 
 The sacred text that emerged from their mouths is studied by all the worlds.
+###### 32
+नारायणानुशास्ता हि तदा देवी सरस्वती |
+विवेश तानृषीन्सर्वाँल्लोकानां हितकाम्यया ||३२||
+
+For the welfare of the worlds, instructed by Narayana, the goddess Sarasvati entered all those rishis. 
+###### 33
+ततः प्रवर्तिता सम्यक्तपोविद्भिर्द्विजातिभिः |
+शब्दे चार्थे च हेतौ च एषा प्रथमसर्गजा ||३३||
+
+That is the reason those brahmanas could engage so well in the composition of that first creation—full of words, meanings and reasons.
+###### 35
+ततः प्रसन्नो भगवाननिर्दिष्टशरीरगः |
+ऋषीनुवाच तान्सर्वानदृश्यः पुरुषोत्तमः ||३५||
+
+illustrious Purushottama was pleased. Unseen by the rishis and in an invisible voice, he instructed them, 
+###### 36
+कृतं शतसहस्रं हि श्लोकानामिदमुत्तमम् |
+
+You have composed one hundred thousand excellent shlokas. 
+
+लोकतन्त्रस्य कृत्स्नस्य यस्माद्धर्मः प्रवर्तते ||३६||
+
+‘So that dharma is observed, everything in the worlds will flow from this. 
+###### 37
+प्रवृत्तौ च निवृत्तौ च योनिरेतद्भविष्यति |
+ऋग्यजुःसामभिर्जुष्टमथर्वाङ्गिरसैस्तथा ||३७||
+
+Notions of pravritti and nivritti will be generated from this, so will Rig, Sama, Yajur and Atharva of Angiras.1112
 ###### 41
 भविष्यति प्रमाणं वै एतन्मदनुशासनम् |
 
@@ -2245,9 +2445,12 @@ Having propounded it, you will have offspring.
 The great King Vasu will also be prosperous. 
 ###### 48
 संस्थिते तु नृपे तस्मिञ्शास्त्रमेतत्सनातनम् |
+
+This eternal sacred text will exist as long as that king is there, 
+
 अन्तर्धास्यति तत्सत्यमेतद्वः कथितं मया ||४८||
 
-This eternal sacred text will exist as long as that king is there, but will disappear after that. I am telling you this truthfully.’ 
+but will disappear after that. I am telling you this truthfully.’ 
 ###### 49
 एतावदुक्त्वा वचनमदृश्यः पुरुषोत्तमः |
 
@@ -2340,7 +2543,7 @@ he told Uparichara, ‘I have placed a share1121 in front. While I see, there is
 ###### 15
 उद्यता यज्ञभागा हि साक्षात्प्राप्ताः सुरैरिह |
 
-The other gods are seen to have appeared in person and have accepted the shares offered to them. 
+The other (sura) gods are seen to have appeared in person and have accepted the shares offered to them. 
 
 किमर्थमिह न प्राप्तो दर्शनं स हरिर्विभुः ||१५||
 
@@ -2408,7 +2611,7 @@ They were as fair as the moon and they possessed all the auspicious signs.
 ###### 32
 नित्याञ्जलिकृतान्ब्रह्म जपतः प्रागुदङ्मुखान् |
 
-Facing the northern and the eastern direction, with hands joined in salutation, they were silently meditating on Brahma.
+Facing the (udak) northern and the eastern direction, with hands joined in salutation, they were silently meditating on Brahma.
 
 मानसो नाम स जपो जप्यते तैर्महात्मभिः ||३२||
 
@@ -2434,11 +2637,11 @@ No one was superior or inferior. All of them were equal in energy.
 अथ सूर्यसहस्रस्य प्रभां युगपदुत्थिताम् |
 सहसा दृष्टवन्तः स्म पुनरेव बृहस्पते ||३५||
 
-O Brihaspati! We suddenly saw another mass of blazing energy, as if one thousand suns had simultaneously arisen
+O Brihaspati! We suddenly saw another (prabhā) mass of blazing energy, as if one thousand suns had simultaneously arisen
 ###### 42
 तैरिष्टः पञ्चकालज्ञैर्हरिरेकान्तिभिर्नरैः |
 
-Those men knew about the beneficial rituals of pancharatra. They single-mindedly worshipped Hari. 
+Those men knew about the (pañcakāla) beneficial rituals of pancharatra. They single-mindedly (iṣṭa) worshipped Hari. 
 
 नूनं तत्रागतो देवो यथा तैर्वागुदीरिता ||४२||
 
@@ -2446,7 +2649,7 @@ There is no doubt that, invoked by those words, the god arrived there.
 
 वयं त्वेनं न पश्यामो मोहितास्तस्य मायया ||४२||
 
-However, because we were confounded by his maya, we could not see him.
+However, because we were (moha) confounded by his māyā, we could not see him.
 ###### 44
 मानवानां सहस्रेषु तेषु वै शुद्धयोनिषु |
 
@@ -2463,6 +2666,21 @@ Those large numbers of sages were single-minded in their vows.
 नास्मासु दधिरे भावं ब्रह्मभावमनुष्ठिताः ||४५||
 
 They were based on the brahman and paid no attention to us.
+###### 46
+ततोऽस्मान्सुपरिश्रान्तांस्तपसा चापि कर्शितान् |
+
+We were exhausted and afflicted by the austerities. 
+
+उवाच खस्थं किमपि भूतं तत्राशरीरकम् ||४६||
+###### 47
+An (aśarīraka) (khastha) invisible voice addressed us. 
+
+“Are you well? 
+
+दृष्टा वः पुरुषाः श्वेताः सर्वेन्द्रियविवर्जिताः |
+दृष्टो भवति देवेश एभिर्दृष्टैर्द्विजोत्तमाः ||४७||
+
+These men from Shveta are bereft of all the senses and are capable of seeing the (deveśa) being.
 ###### 50
 महत्कार्यं तु कर्तव्यं युष्माभिर्द्विजसत्तमाः |
 
@@ -2478,7 +2696,7 @@ O brahmanas! At the time of Vaivasvat Manu, there will be a treta yuga.
 
 सुराणां कार्यसिद्ध्यर्थं सहाया वै भविष्यथ ||५१||
 
-You will then become aides in performing a task for the gods.”
+You will then become aides in performing a task for the (sura) gods.”
 ### c324
 ###### 3
 अजेन यष्टव्यमिति देवाः प्राहुर्द्विजोत्तमान् |
@@ -2599,7 +2817,7 @@ The best among kings can no longer travel up. Without any delay, bring him up in
 ###### 34
 गरुत्मानथ विक्षिप्य पक्षौ मारुतवेगवान् |
 
-The bird, Garuda, left, with a speed that was like that of the wind. 
+The bird, Garuda, left, with a speed that was like that of the (māruta) wind. 
 
 विवेश विवरं भूमेर्यत्रास्ते वाग्यतो वसुः ||३४||
 
@@ -2638,25 +2856,25 @@ Desiring to see the supreme one, he remained there, suffering all the hardships.
 ###### 3
 भूत्वैकाग्रमना विप्र ऊर्ध्वबाहुर्महामुनिः |
 
-The brahmana and great sage was single-minded and remained there, with his arms upraised. 
+The (vipra) brahmana and (mahāmuni) great sage was (ekāgramanā) single-minded and remained there, (ūrdhvabāhu) with his arms upraised. 
 
 स्तोत्रं जगौ स विश्वाय निर्गुणाय महात्मने ||३||
 
-He chanted this stotra1129 to the great-souled one, who is without qualities and is the universe.”
-###### 4
-नारद उवाच||
-
-‘“Narada said, 
-
-नमस्ते  
-
-‘I bow down before you.
-
-देवदेव
-
-(1) O god of the gods!1130
+He (gā) chanted this stotra1129 to the (mahātmā) great-souled one, (nirguṇa) who is without qualities and is the universe.”
 
 ### c326
+###### 1
+भीष्म उवाच||
+
+‘Bhishma said, 
+
+एवं स्तुतः स भगवान्गुह्यैस्तथ्यैश्च नामभिः |
+
+“The illustrious one was thus praised with secret names. 
+
+तं मुनिं दर्शयामास नारदं विश्वरूपधृक् ||१||
+
+The one who upholds the universe in his form showed himself to the sage Narada.
 ###### 7
 सहस्रोदरबाहुश्च अव्यक्त इति च क्वचित् |
 
@@ -2664,7 +2882,7 @@ There were one thousand stomachs and one thousand arms and some of those could n
 
 ओङ्कारमुद्गिरन्वक्त्रात्सावित्रीं च तदन्वयाम् ||७||
 
-With one of his mouths, he chanted ‘Om’. With another mouth, he chanted ‘Savitri’.
+With one of his (vaktra) mouths, he (udgir) chanted ‘Om’. With another mouth, he chanted ‘Savitri’.
 ###### 8
 शेषेभ्यश्चैव वक्त्रेभ्यश्चतुर्वेदोद्गतं वसु |
 
@@ -2677,11 +2895,11 @@ The Aranayakas were also under the god, Hari Narayana’s, control.
 वेदीं कमण्डलुं दर्भान्मणिरूपानथोपलान् |
 अजिनं दण्डकाष्ठं च ज्वलितं च हुताशनम् ||९||
 
-In his hands, he held a sacrificial altar, a kamandalu, some darbha grass, some gems, a pair of sandals, a deerskin, a wooden staff and a blazing fire. 
+In his hands, he held a (vedī) sacrificial altar, a kamaṇḍalu, some darbha grass, some (maṇirūpā) gems, (upala) a pair of sandals, a (ajina) deerskin, a (kāṣṭha) wooden (khaṇḍa) staff and a (jvalita) blazing (hūtāśana) fire. 
 
 धारयामास देवेशो हस्तैर्यज्ञपतिस्तदा ||९||
 
-The lord of gods and the lord of sacrifices held these in his hands and was cheerful. 
+The (deveśa) lord of gods and the lord of sacrifices held these in his hands and was cheerful. 
 ###### 10
 तं प्रसन्नं प्रसन्नात्मा नारदो द्विजसत्तमः |
 
@@ -2689,11 +2907,11 @@ Narada, supreme among brahmanas, was delighted at this.
 
 वाग्यतः प्रयतो भूत्वा ववन्दे परमेश्वरम् ||१०||
 
-Restrained in speech, he bowed down before the supreme lord.
+(vāgyata) Restrained in speech, he (prayata) (vand) bowed down before the supreme lord.
 
 तमुवाच नतं मूर्ध्ना देवानामादिरव्ययः ||१०||
 
-While his head was still bowed down, the first and undecaying god said
+While his (mūrdhā) head was still (nata) bowed down, the (ādi) first and (avyaya) undecaying god said
 ###### 11
 एकतश्च द्वितश्चैव त्रितश्चैव महर्षयः |
 इमं देशमनुप्राप्ता मम दर्शनलालसाः ||११||
@@ -2764,27 +2982,27 @@ He is known as Vasudeva. He is the eternal paramatman.
 ###### 28
 जगत्प्रतिष्ठा देवर्षे पृथिव्यप्सु प्रलीयते |
 
-O devarshi! When the universe is destroyed, the earth merges into water. 
+O devarshi! When the (jagat) universe is (pratṣṭhā) destroyed, the (pṛthivī) earth (pralay) merges into (ap) water. 
 
 ज्योतिष्यापः प्रलीयन्ते 
 
-Water merges into light. 
+Water merges into (jyotiṣ) light. 
 
 ज्योतिर्वायौ प्रलीयते ||२८||
 
-Light merges into the wind. 
+Light merges into the (vāyu) wind. 
 ###### 29
 खे वायुः प्रलयं याति 
 
-The wind merges into space. 
+The wind merges into (kha) space. 
 
 मनस्याकाशमेव च |
 
-Space merges into the mind. 
+Space merges into the (manas) mind. 
 
 मनो हि परमं भूतं तदव्यक्ते प्रलीयते ||२९||
 
-The mind is a supreme element and it merges into the unmanifest.1169 
+The mind is a (parama) supreme (bhūta) element and it merges into the (avyakta) unmanifest.1169 
 ###### 30
 अव्यक्तं पुरुषे ब्रह्मन्निष्क्रिये सम्प्रलीयते |
 
@@ -2796,7 +3014,7 @@ There is nothing that is superior to the eternal Purusha.
 ###### 31
 नित्यं हि नास्ति जगति भूतं स्थावरजङ्गमम् |
 
-There is no creation in the universe, mobile or immobile, that is eternal. 
+There is no creation in the universe, (jaṅgama) mobile or (sthāvara) immobile, that is eternal. 
 
 ऋते तमेकं पुरुषं वासुदेवं सनातनम् ||३१||
 
@@ -2812,11 +3030,11 @@ Without a combination of the elements, there cannot be a body.
 
 न च जीवं विना ब्रह्मन्धातवश्चेष्टयन्त्युत ||३४||
 
-O brahmana! Without the jivatman, that combination of elements wouldn’t have moved. 
+O brahmana! Without the (jīva) jivatman, that combination of (dhātu) elements wouldn’t have moved. 
 ###### 35
 स जीवः परिसङ्ख्यातः शेषः सङ्कर्षणः प्रभुः |
 
-That jivatman is also known as the lord Shesha or Samkarshana. 
+That (jīva) jivatman is also known as the lord Shesha or Samkarshana. 
 
 तस्मात्सनत्कुमारत्वं यो लभेत स्वकर्मणा ||३५||
 
@@ -2824,7 +3042,7 @@ Using his own deeds, the one who arises from this is known as Sanatkumara.
 ###### 36
 यस्मिंश्च सर्वभूतानि प्रलयं यान्ति सङ्क्षये |
 
-When all creatures are destroyed, it is into him that they merge. 
+When all (bhūta) creatures are (saṃkṣaya) destroyed, it is into him that they merge. 
 
 स मनः सर्वभूतानां प्रद्युम्नः परिपठ्यते ||३६||
 
@@ -2849,15 +3067,15 @@ The illustrious Vasudeva is kshetrajna and possesses no qualities in his soul.
 
 ज्ञेयः स एव भगवाञ्जीवः सङ्कर्षणः प्रभुः ||३८||
 
-When that illustrious one is born in any creature, he is known as the lord Samkarshana. 
+When that illustrious one is (jīva) born in any creature, he is known as the lord Samkarshana. 
 ###### 39
 सङ्कर्षणाच्च प्रद्युम्नो मनोभूतः स उच्यते |
 
-Pradyumna is said to be generated from the mind and is born from Samkarshana. 
+Pradyumna is said to be generated from the (manas) mind and is born from Samkarshana. 
 
 प्रद्युम्नाद्योऽनिरुद्धस्तु सोऽहङ्कारो महेश्वरः ||३९||
 
-Aniruddha is generated from Pradyumna and is consciousness, or Maheshvara.
+Aniruddha is generated from Pradyumna and is (ahaṃkāra) consciousness, or Maheshvara.
 ###### 43
 माया ह्येषा मया सृष्टा यन्मां पश्यसि नारद |
 
@@ -2890,14 +3108,6 @@ Behold! The eight Vasus, supreme among gods, are established to my front.
 नासत्यं चैव दस्रं च भिषजौ पश्य पृष्ठतः ||४९||
 
 Behold! Nasatya and Dasra, the physicians,1171 are to my rear.
-###### 56
-अहं हयशिरो भूत्वा समुद्रे पश्चिमोत्तरे |
-
-Along the northern and the western ocean, I became Hayashira. 
-
-पिबामि सुहुतं हव्यं कव्यं च श्रद्धयान्वितम् ||५६||
-
-I drank the havya and the kavya, offered faithfully, to the accompaniment of mantras.
 ###### 61
 प्रादुर्भावगतश्चाहं सुरकार्येषु नित्यदा |
 
@@ -2908,9 +3118,11 @@ To accomplish the tasks of the gods, I will always manifest myself.
 O Brahma! For such purposes, you can always instruct me, like a father instructs his son.”
 ###### 62
 एतांश्चान्यांश्च रुचिरान्ब्रह्मणेऽमिततेजसे |
+अहं दत्त्वा वरान्प्रीतो 
 
-अहं दत्त्वा वरान्प्रीतो निवृत्तिपरमोऽभवम् ||६२||
+Since I was pleased with him, I granted the infinitely energetic Brahma these and many other excellent boons.
 
+निवृत्तिपरमोऽभवम् ||६२||
 Thereafter, I again resorted to nivritti. 
 ###### 63
 निर्वाणं सर्वधर्माणां निवृत्तिः परमा स्मृता |
@@ -2936,7 +3148,7 @@ O brahmana! In the sacred texts of yoga, I have been spoken about as the objecti
 ###### 66
 एषोऽहं व्यक्तिमागम्य तिष्ठामि दिवि शाश्वतः |
 
-I am established in the eternal firmament and am thus manifest in the sacred texts. 
+I am (tiṣṭh) established in the (śāśvata) eternal (dyaus) firmament and am thus (vyākti) manifest (āgam) in the sacred texts. 
 
 ततो युगसहस्रान्ते संहरिष्ये जगत्पुनः ||६६||
 
@@ -3011,28 +3223,11 @@ I will exterminate the kshatriyas, powerful with their soldiers and mounts.
 रामो दाशरथिर्भूत्वा भविष्यामि जगत्पतिः ||७८||
 
 At the conjunction of treta and dvapara, I will be born as King Rama, the son of Dasharatha" (।)
-###### 90
-समागतेषु बलिषु पृथिव्यां सर्वराजसु |
-वासविः सुसहायो वै मम ह्येको भविष्यति ||९०||
+###### 82
+द्वापरस्य कलेश्चैव सन्धौ पर्यवसानिके |
+प्रादुर्भावः कंसहेतोर्मथुरायां भविष्यति ||८२||
 
-When the armies of all the kings on earth come together, I alone will be the excellent aide to Vasava’s son.1188 
-###### 91
-एवं लोका वदिष्यन्ति नरनारायणावृषी |
-
-The worlds will speak of us as the rishis Nara and Narayana. 
-
-उद्युक्तौ दहतः क्षत्रं लोककार्यार्थमीश्वरौ ||९१||
-
-To accomplish the objectives of the world, these two lords will consume the kshatriyas. 
-###### 92
-कृत्वा भारावतरणं वसुधाया यथेप्सितम् |
-
-As is desired, we will reduce the burden of the world. 
-
-सर्वसात्वतमुख्यानां द्वारकायाश्च सत्तम ||९२||
-करिष्ये प्रलयं घोरमात्मज्ञातिविनाशनम् ||९२||
-
-O excellent one! I will create a terrible destruction that will devastate my own kin and absorb the foremost among the Satvatas and Dvaraka into my own self. 
+When the intervening period between dvapara and kali is about to end, for Kamsa’s sake, I will again manifest myself in Mathura.
 ###### 99
 नारदोऽपि महातेजाः प्राप्यानुग्रहमीप्सितम् |
 
@@ -3118,6 +3313,678 @@ he obtains the great Shvetadvipa and becomes a man with the complexion of the mo
 स सहस्रार्चिषं देवं प्रविशेन्नात्र संशयः ||११७||
 
 There is no doubt that he merges into the god with the one thousand rays.
+### c327
+###### 10
+स्मृत्वा कालपरीमाणं प्रवृत्तिं ये समास्थिताः |
+
+It has been said that the existence of those who resort to pravritti is circumscribed by time. 
+
+दोषः कालपरीमाणे महानेष क्रियावताम् ||१०||
+
+This is the great taint associated with deeds, being circumscribed by time.
+###### 14
+वैशम्पायन उवाच||
+
+Vaishampayana replied, 
+
+अहो गूढतमः प्रश्नस्त्वया पृष्टो जनेश्वर |
+
+‘O lord of men! The question that you have asked me is an extremely great mystery. 
+
+नातप्ततपसा ह्येष नावेदविदुषा तथा ||१४||
+
+नापुराणविदा चापि शक्यो व्याहर्तुमञ्जसा ||१४||
+
+A person who has not tormented himself through austerities, a person who does not know the Vedas and a person who is not acquainted with the Puranas is incapable of explaining this in its entirety.
+###### 15
+हन्त ते कथयिष्यामि यन्मे पृष्टः पुरा गुरुः |
+कृष्णद्वैपायनो व्यासो वेदव्यासो महानृषिः ||१५||
+
+In ancient times, our preceptor was Krishna Dvaipayana Vyasa, the great rishi Vedavyasa. 
+###### 16
+सुमन्तुर्जैमिनिश्चैव पैलश्च सुदृढव्रतः |
+अहं चतुर्थः शिष्यो वै पञ्चमश्च शुकः स्मृतः ||१६||
+
+Sumantu, Jaimini, Paila, extremely firm in his vows, I as the fourth, and Shuka as the fifth are known as his disciples.
+###### 18
+वेदानध्यापयामास महाभारतपञ्चमान् |
+मेरौ गिरिवरे रम्ये सिद्धचारणसेविते ||१८||
+
+On the beautiful slopes of Mount Meru, frequented by the Siddhas and the charanas, we studied the Vedas, and the Mahabharata as the fifth.1196
+###### 20
+शिष्याणां वचनं श्रुत्वा सर्वाज्ञानतमोनुदः |
+पराशरसुतः श्रीमान्व्यासो वाक्यमुवाच ह ||२०||
+
+Parashara’s son was the dispeller of the darkness of ignorance. On hearing the words of his disciples, the prosperous Vyasa spoke these words.
+###### 22
+तस्य मे तप्ततपसो निगृहीतेन्द्रियस्य च |
+नारायणप्रसादेन क्षीरोदस्यानुकूलतः ||२२||
+
+because of the favours of Narayana, I dwelt on the shores of the ocean of milk.
+###### 24
+परमात्मेति यं प्राहुः साङ्ख्ययोगविदो जनाः |
+
+People who know about sankhya and yoga speak of him as the paramatman. 
+
+महापुरुषसञ्ज्ञां स लभते स्वेन कर्मणा ||२४||
+
+Because of his own deeds, he has obtained the name of Mahapurusha. 
+###### 25
+तस्मात्प्रसूतमव्यक्तं प्रधानं तद्विदुर्बुधाः |
+
+From him was generated the unmanifest being, whom the learned know as Pradhana. 
+
+अव्यक्ताद्व्यक्तमुत्पन्नं लोकसृष्ट्यर्थमीश्वरात् ||२५||
+
+For the sake of creating the worlds, the manifest lord was generated from the unmanifest. 
+###### 26
+अनिरुद्धो हि लोकेषु महानात्मेति कथ्यते |
+
+In the worlds, this is known as Aniruddha and the great atman. 
+
+योऽसौ व्यक्तत्वमापन्नो निर्ममे च पितामहम् ||२६||
+
+The one who was generated from this manifest is the grandfather. 
+
+सोऽहङ्कार इति प्रोक्तः सर्वतेजोमयो हि सः ||२६||
+
+He is spoken of as consciousness and he is full of every kind of energy. 
+###### 27
+पृथिवी वायुराकाशमापो ज्योतिश्च पञ्चमम् |
+अहङ्कारप्रसूतानि महाभूतानि भारत ||२७||
+
+O descendant of the Bharata lineage! Earth, wind, space, water and light as the fifth—these great elements resulted from consciousness. 
+###### 28
+महाभूतानि सृष्ट्वाथ तद्गुणान्निर्ममे पुनः |
+
+After creating the great elements, he again created their qualities.1198 
+
+भूतेभ्यश्चैव निष्पन्ना मूर्तिमन्तोऽष्ट ताञ्शृणु ||२८||
+
+On the basis of the elements, the embodied beings were derived. Listen to them. 
+###### 29
+मरीचिरङ्गिराश्चात्रिः पुलस्त्यः पुलहः क्रतुः |
+वसिष्ठश्च महात्मा वै मनुः स्वायम्भुवस्तथा ||२९||
+
+Marichi, Angiras, Atri, Pulastya, Pulaha, Kratu, the great-souled Vasishtha and Svayambhuva Manu—
+
+ज्ञेयाः प्रकृतयोऽष्टौ ता 
+
+these should be known as the eight Prakritis. 
+
+यासु लोकाः प्रतिष्ठिताः ||२९||
+
+The worlds are established on them. 
+###### 30
+वेदान्वेदाङ्गसंयुक्तान्यज्ञान्यज्ञाङ्गसंयुतान् |
+निर्ममे लोकसिद्ध्यर्थं ब्रह्मा लोकपितामहः ||३०||
+
+For the success of the worlds, Brahma, the grandfather of the worlds, then created the Vedas, the Vedangas, combined with sacrifices and other elements of sacrifices. 
+
+अष्टाभ्यः प्रकृतिभ्यश्च जातं विश्वमिदं जगत् ||३०||
+
+The entire universe was generated from the eight Prakritis.
+###### 31
+रुद्रो रोषात्मको जात
+
+Rudra was generated from anger. 
+
+दशान्यान्सोऽसृजत्स्वयम् |
+
+Having been generated, he created ten others that were like himself. 
+
+एकादशैते रुद्रास्तु विकाराः पुरुषाः स्मृताः ||३१||
+
+These eleven Rudras are known as Vikara-Purushas.
+###### 39
+ततस्ते ब्रह्मणा सार्धमृषयो विबुधास्तथा |
+क्षीरोदस्योत्तरं कूलं जग्मुर्लोकहितार्थिनः ||३९||
+
+With the welfare of the worlds in mind, Brahma, the rishis and the gods went to the shores of the ocean of milk.
+###### 40
+ते तपः समुपातिष्ठन्ब्रह्मोक्तं वेदकल्पितम् |
+
+They resorted to the austerities that Brahma had laid down in the Vedas. 
+
+स महानियमो नाम तपश्चर्या सुदारुणा ||४०||
+
+Those are the extremely terrible austerities that are known by the name of the great niyamas. 
+##### 41
+ऊर्ध्वं दृष्टिर्बाहवश्च एकाग्रं च मनोऽभवत् |
+
+They fixed their minds and raised their eyes and arms upwards. 
+
+एकपादस्थिताः सम्यक्काष्ठभूताः समाहिताः ||४१||
+
+They stood on a single foot. They were controlled and were like pillars of wood. 
+###### 42
+दिव्यं वर्षसहस्रं ते तपस्तप्त्वा तदुत्तमम् |
+
+For one thousand celestial years, they tormented themselves through those wonderful austerities.
+
+शुश्रुवुर्मधुरां वाणीं वेदवेदाङ्गभूषिताम् ||४२||
+
+Pleasant words, ornamented with the Vedas and the Vedangas, were then heard.
+###### 49
+वेददृष्टेन विधिना वैष्णवं क्रतुमाहरन् |
+
+Following the rites laid down in the Vedas, they performed a sacrifice to Vishnu. 
+
+तस्मिन्सत्रे तदा ब्रह्मा स्वयं भागमकल्पयत् ||४९||
+
+Brahma determined the share that he would give to him.1201 
+
+देवा देवर्षयश्चैव सर्वे भागानकल्पयन् ||४९||
+
+Similarly, all the gods and the devarshis also thought of the shares that they would give. 
+###### 50
+ते कार्तयुगधर्माणो भागाः परमसत्कृताः |
+
+They honoured him greatly and following the dharma of krita yuga, offered him a share. 
+
+प्रापुरादित्यवर्णं तं पुरुषं तमसः परम् ||५०||
+
+He is the Purusha who has the complexion of the sun and is beyond darkness.
+
+बृहन्तं सर्वगं देवमीशानं वरदं प्रभुम् ||५०||
+
+He is large and goes everywhere. He is the god Ishana, the lord who is the granter of boons.
+###### 52
+येन यः कल्पितो भागः स तथा समुपागतः |
+
+The shares that you have given me have reached me. 
+
+प्रीतोऽहं 
+
+I am pleased with you. 
+
+प्रदिशाम्यद्य फलमावृत्तिलक्षणम् ||५२||
+
+However, I will give you fruits that will be characterized by the cycle of rebirth. 
+###### 53
+एतद्वो लक्षणं देवा मत्प्रसादसमुद्भवम् |
+
+O gods! This is the certain fruit that you will obtain through my favours. 
+
+यूयं यज्ञैरिज्यमानाः समाप्तवरदक्षिणैः ||५३||
+
+युगे युगे 
+
+In every yuga, you will perform sacrifices for the sake of boons and give away dakshina when the sacrifice is over. 
+
+भविष्यध्वं प्रवृत्तिफलभोगिनः ||५३||
+
+You will enjoy the fruits of those who follow pravritti.
+
+यूयं लोकान्धारयध्वं यज्ञभागफलोदिताः |
+
+Based on the shares obtained at the sacrifices, you will hold up the worlds. 
+
+सर्वार्थचिन्तका लोके यथाधीकारनिर्मिताः ||५६||
+
+Those are your rights and you will think of the welfare of the worlds on that basis.
+###### 61
+मरीचिरङ्गिराश्चात्रिः पुलस्त्यः पुलहः क्रतुः |
+वसिष्ठ इति सप्तैते मानसा निर्मिता हि वै ||६१||
+
+Marichi, Angiras, Atri, Pulastya, Pulaha, Kratu and Vasishtha—these seven were created from the powers of the mind. 
+###### 62
+एते वेदविदो मुख्या 
+
+They will be foremost among those who know the Vedas. 
+
+वेदाचार्याश्च कल्पिताः |
+
+They have been thought of as the preceptors of the Vedas. 
+
+प्रवृत्तिधर्मिणश्चैव प्राजापत्येन कल्पिताः ||६२||
+
+However, because they will give birth to offspring, they will also follow the dharma of pravritti.
+###### 64
+सनः सनत्सुजातश्च सनकः ससनन्दनः |
+सनत्कुमारः कपिलः सप्तमश्च सनातनः ||६४||
+
+Sana, Sanatsujata, Sanaka, Sanandana, Sanatkumara, Kapila and Sanatana as the seventh—
+###### 65
+सप्तैते मानसाः प्रोक्ता ऋषयो ब्रह्मणः सुताः |
+
+these seven will be spoken of as the rishis who were born through Brahma’s mental powers as his sons.
+
+स्वयमागतविज्ञाना निवृत्तं धर्ममास्थिताः ||६५||
+
+They obtained vijnana on their own and will resort to the dharma of nivritti.
+###### 66
+एते योगविदो मुख्याः 
+
+They are foremost among those who know about yoga. 
+
+साङ्ख्यधर्मविदस्तथा |
+
+They also know about the dharma of sankhya.
+
+आचार्या मोक्षशास्त्रे च 
+
+They are the teachers of the sacred texts of emancipation. 
+
+मोक्षधर्मप्रवर्तकाः ||६६||
+
+They are the ones who will expound the dharma of moksha.
+###### 67
+एष लोकगुरुर्ब्रह्मा 
+
+This Brahma is the preceptor of the worlds. 
+
+जगदादिकरः प्रभुः |
+
+He is the original creator of the worlds. 
+
+एष माता पिता चैव युष्माकं च पितामहः ||६९||
+
+He is the father and the mother and your grandfather.
+
+मयानुशिष्टो भविता सर्वभूतवरप्रदः ||६९||
+
+It is on my instructions that he has become one who grants boons to all creatures.
+###### 73
+इदं कृतयुगं नाम कालः श्रेष्ठः प्रवर्तते |
+
+This period of krita yuga will be the best. 
+
+अहिंस्या यज्ञपशवो युगेऽस्मिन्नैतदन्यथा ||७३||
+
+In this yuga, at sacrifices, no violence will be exhibited towards animals and there will be no violation of this.
+
+चतुष्पात्सकलो धर्मो भविष्यत्यत्र वै सुराः ||७३||
+
+O gods! Dharma will possess all its four parts.
+###### 74
+ततस्त्रेतायुगं नाम त्रयी यत्र भविष्यति |
+प्रोक्षिता यत्र पशवो वधं प्राप्स्यन्ति वै मखे ||७४||
+
+Thereafer, there will be treta yuga. Animals will be slaughtered then, but only at sacrifices.
+
+तत्र पादचतुर्थो वै धर्मस्य न भविष्यति ||७४||
+
+One part of dharma will no longer exist and only three quarters will remain. 
+###### 75
+ततो वै द्वापरं नाम मिश्रः कालो भविष्यति |
+
+After that, there will be the mixed period known as dvapara. 
+
+द्विपादहीनो धर्मश्च युगे तस्मिन्भविष्यति ||७५||
+
+Two parts of dharma will decay in that yuga. 
+###### 76
+ततस्तिष्येऽथ सम्प्राप्ते युगे कलिपुरस्कृते |
+एकपादस्थितो धर्मो यत्र तत्र भविष्यति ||७६||
+
+When that is over, kali yuga will present itself and only one quarter of dharma will remain.’
+###### 77
+देवा ऊचुः||
+
+‘“The gods asked, 
+
+एकपादस्थिते धर्मे यत्रक्वचनगामिनि |
+
+‘When only one quarter of dharma remains, where will we go? 
+
+कथं कर्तव्यमस्माभिर्भगवंस्तद्वदस्व नः ||७७||
+
+What will our tasks be then? O illustrious one! Tell us that.’
+###### 78
+श्रीभगवानुवाच||
+
+‘“The illustrious one answered, 
+
+यत्र वेदाश्च यज्ञाश्च तपः सत्यं दमस्तथा |
+अहिंसाधर्मसंयुक्ताः प्रचरेयुः सुरोत्तमाः ||७८||
+
+स वै देशः सेवितव्यो
+
+‘O supreme among gods! You should frequent countries where the Vedas, sacrifices, austerities, truth, self-control, non-violence and the practice of dharma continue to be followed.  
+
+मा वोऽधर्मः पदा स्पृशेत् ||७८||
+
+Adharma will then not touch you with its feet.’”
+###### 80
+गतेषु त्रिदिवौकःसु ब्रह्मैकः पर्यवस्थितः |
+
+When the residents of heaven had gone, Brahma remained there. 
+
+दिदृक्षुर्भगवन्तं तमनिरुद्धतनौ स्थितम् ||८०||
+
+He remained there, wishing to see the illustrious Aniruddha. 
+###### 81
+तं देवो दर्शयामास कृत्वा हयशिरो महत् |
+
+The god showed himself in the form of the great Hayashira. 
+
+साङ्गानावर्तयन्वेदान्कमण्डलुगणित्रधृक् ||८१||
+
+He held a kamandalu and tridanda and chanted the Vedas and the Vedangas.
+###### 84
+लोककार्यगतीः सर्वास्त्वं चिन्तय यथाविधि |
+
+‘Think of appropriate means so that all the worlds can progress. 
+
+धाता त्वं सर्वभूतानां त्वं प्रभुर्जगतो गुरुः ||८४||
+
+You are the creator of all beings and you are the lord and preceptor of the universe. 
+
+त्वय्यावेशितभारोऽहं धृतिं प्राप्स्याम्यथाञ्जसा ||८४||
+
+I will impose this burden on you and be completely free from all anxiety. 
+###### 85
+यदा च सुरकार्यं ते अविषह्यं भविष्यति |
+
+However, whenever the tasks of the gods becomes very difficult to undertake, 
+
+प्रादुर्भावं गमिष्यामि तदात्मज्ञानदेशिकः ||८५||
+
+using my knowledge, I will go to that place and manifest myself.’ 
+###### 86
+एवमुक्त्वा हयशिरास्तत्रैवान्तरधीयत |
+
+Having said this, Hayashira disappeared from the spot.
+
+तेनानुशिष्टो ब्रह्मापि स्वं लोकमचिराद्गतः ||८६||
+
+Receiving the instructions, Brahma also went to his own world.
+### c328
+###### 3
+वैशम्पायन उवाच||
+
+Vaishampayana replied, 
+
+शृणु राजन्यथाचष्ट फल्गुनस्य हरिर्विभुः |
+
+‘O king! Listen to what the lord Hari told Phalguna.1210 
+
+प्रसन्नात्मात्मनो नाम्नां निरुक्तं गुणकर्मजम् ||३||
+
+Cheerfully, the great-souled Keshava recounted these names. 
+###### 4
+नामभिः कीर्तितैस्तस्य केशवस्य महात्मनः |
+पृष्टवान्केशवं राजन्फल्गुनः परवीरहा ||४||
+
+O king! Phalguna, the destroyer of enemy heroes, had asked Keshava about these names and the qualities and deeds that led to their being used.
+###### 13
+अष्टादशगुणं यत्तत्सत्त्वं सत्त्ववतां वर |
+प्रकृतिः सा परा मह्यं रोदसी योगधारिणी ||१३||
+
+ऋता सत्यामराजय्या लोकानामात्मसञ्ज्ञिता ||१३||
+
+After me, there is Prakriti, who holds up heaven and earth through her yoga. She is truth. She is immortal. She is invincible. She is the consciousness in the worlds.
+###### 14
+तस्मात्सर्वाः प्रवर्तन्ते सर्गप्रलयविक्रियाः |
+ततो यज्ञश्च यष्टा च पुराणः पुरुषो विराट् ||१४||
+
+अनिरुद्ध इति प्रोक्तो लोकानां प्रभवाप्ययः ||१४||
+
+The ancient and great Purusha is the sacrifice and the person who performs the sacrifice. He is known as Aniruddha and he is the reason behind the creation and the destruction of the worlds.
+###### 24
+रुद्रो नारायणश्चैव सत्त्वमेकं द्विधाकृतम् |
+लोके चरति कौन्तेय व्यक्तिस्थं सर्वकर्मसु ||२४||
+
+O Kounteya! Rudra and Narayana possess a single essence, although they divide themselves into two, pervade people and make them engage in all the acts. 
+###### 25
+न हि मे केनचिद्देयो वरः पाण्डवनन्दन |
+
+O descendant of the Pandava lineage! There is no one else who is capable of granting me a boon. 
+
+इति सञ्चिन्त्य मनसा पुराणं विश्वमीश्वरम् ||२५||
+
+पुत्रार्थमाराधितवानात्मानमहमात्मना ||२५||
+
+In ancient times, I mentally thought this and worshipped the great-souled lord of the universe,1216 for the sake of obtaining a son. 
+###### 26
+न हि विष्णुः प्रणमति कस्मैचिद्विबुधाय तु |
+ऋत आत्मानमेवेति ततो रुद्रं भजाम्यहम् ||२६||
+
+There is no other god that Vishnu bows down before, with the exception of Rudra, who is my own self. Therefore, I worship him.
+###### 30
+चतुर्विधा मम जना भक्ता एवं हि ते श्रुतम् |
+
+You have heard that four kinds of people are my devotees.1217 
+
+तेषामेकान्तिनः श्रेष्ठास्ते चैवानन्यदेवताः ||३०||
+
+अहमेव गतिस्तेषां 
+
+Among these, the best are the ones who single-mindedly seek me, and not any other god, as the objective. 
+
+निराशीःकर्मकारिणाम् ||३०||
+
+They are without desire and do not pursue rites. 
+###### 31
+ये च शिष्टास्त्रयो भक्ताः फलकामा हि ते मताः |
+
+Though virtuous, it is the view that the three other categories of devotees desire the fruits. 
+
+सर्वे च्यवनधर्माणः 
+
+They follow a dharma that leads to rebirth. 
+
+प्रतिबुद्धस्तु श्रेष्ठभाक् ||३१||
+
+The enlightened obtain the best outcome. 
+###### 32
+ब्रह्माणं शितिकण्ठं च याश्चान्या देवताः स्मृताः |
+प्रबुद्धवर्याः सेवन्ते मामेवैष्यन्ति यत्परम् ||३२||
+
+It is said that enlightened ones may serve Brahma, Shitikantha1218 or any of the other gods, but they obtain me, who is beyond them. 
+
+भक्तं प्रति विशेषस्ते एष पार्थानुकीर्तितः ||३२||
+
+O Partha! I have recounted the differences among my devotees. 
+###### 33
+त्वं चैवाहं च कौन्तेय नरनारायणौ स्मृतौ |
+
+O Kounteya! You and I are known as Nara and Narayana. 
+
+भारावतरणार्थं हि प्रविष्टौ मानुषीं तनुम् ||३३||
+
+O Partha! We have entered these human forms to reduce the burden.1219 
+###### 34
+जानाम्यध्यात्मयोगांश्च योऽहं यस्माच्च भारत |
+
+O descendant of the Bharata lineage! I know adhyatma yoga, who I am and where I have come from. 
+
+निवृत्तिलक्षणो धर्मस्तथाभ्युदयिकोऽपि च ||३४||
+
+I know the attributes of nivritti and the means whereby dharma is awakened. 
+###### 35
+नराणामयनं ख्यातमहमेकः सनातनः |
+आपो नारा इति प्रोक्ता आपो वै नरसूनवः ||३५||
+
+I alone am known as the eternal refuge of men. The water is known as Nara1220 and Nara obtained birth from the waters.1221 
+
+अयनं मम तत्पूर्वमतो नारायणो ह्यहम् ||३५||
+
+Since, in earlier times, the water was my road, I am known as Narayana.1222 
+###### 36
+छादयामि जगद्विश्वं भूत्वा सूर्य इवांशुभिः |
+
+Assuming the form of Surya, I envelop the world and the universe with my rays. 
+
+सर्वभूताधिवासश्च वासुदेवस्ततो ह्यहम् ||३६||
+
+Since I am the dwelling of all creatures, I am Vasudeva.1223
+### c329
+###### 3
+सम्प्रक्षालनकालेऽतिक्रान्ते चतुर्थे युगसहस्रान्ते
+
+When four thousand yugas are over, the time for cleansing arrives. 
+
+अव्यक्ते सर्वभूतप्रलये स्थावरजङ्गमे
+
+All creatures, mobile and immobile, are destroyed and merge into the unmanifest. 
+
+ज्योतिर्धरणिवायुरहितेऽन्धे तमसि जलैकार्णवे लोके
+
+Light, earth and wind vanish. There is blind darkness everywhere and the world is covered in water. 
+
+तम इत्येवाभिभूतेऽसञ्ज्ञकेऽद्वितीये प्रतिष्ठिते
+
+When everything is enveloped in this fashion, nothing other than the unmanifest exists. 
+
+नैव रात्र्यां न दिवसे न सति नासति न व्यक्ते नाव्यक्ते 
+व्यवस्थिते
+
+There is no night, nor day. There is no existence, or non-existence. There is no manifest, or unmanifest. 
+
+एतस्यामवस्थायां नारायणगुणाश्रयादक्षयादजरादनिन्द्रियादग्राह्यादसम्भवात्सत्यादहिंस्राल्ललामाद्विविधप्रवृत्तिविशेषात्
+
+In this state, Narayana is the refuge of qualities. He is without destruction. He is without old age. He is incapable of being grasped by the senses. He is without birth. He is truth. He is beyond the attributes of injury and gain. 
+
+अक्षयादजरामरादमूर्तितः सर्वव्यापिनः 
+
+He is indestructible, immutable and immortal. He is without form, but pervades everything.
+
+सर्वकर्तुः शाश्वतात्तमसः पुरुषः 
+
+In that darkness, he is the eternal Purusha who undertakes everything. 
+
+प्रादुर्भूतो हरिरव्ययः ||३||
+
+The undecaying Hari then manifests himself. 
+
+###### 4
+निदर्शनमपि ह्यत्र भवति
+
+These are the signs then. 
+
+नासीदहो न रात्रिरासीत्
+
+There is no day. Nor is there night. 
+
+न सदासीन्नासदासीत्
+
+There is no existence. Nor is there non-existence. 
+
+तम एव पुरस्तादभवद्विश्वरूपम्
+
+In the beginning, there was only darkness everywhere in the universe. 
+
+सा विश्वस्य जननीत्येवमस्यार्थोऽनुभाष्यते ||४
+
+This darkness is spoken of as the mother of the universe. 
+###### 5
+तस्येदानीं तमःसम्भवस्य पुरुषस्य
+
+Purusha was born from that darkness. 
+
+पद्मयोनेर्ब्रह्मणः प्रादुर्भावे 
+
+Brahma, born from the lotus, was generated from Purusha. 
+
+स पुरुषः प्रजाः सिसृक्षमाणो नेत्राभ्यामग्नीषोमौ ससर्ज
+
+Having been created, this being wished to create subjects and created Agni and Soma from his eyes. 
+
+ततो भूतसर्गे प्रवृत्ते प्रजाक्रमवशाद्ब्रह्मक्षत्रमुपातिष्ठत्
+
+After this, the various categories of creatures were generated, progressively subjects like brahmanas and kshatriyas. 
+
+यः सोमस्तद्ब्रह्म यद्ब्रह्म ते ब्राह्मणाः
+
+Soma is the same as Brahma and Brahma is the same as brahmanas. 
+
+योऽग्निस्तत्क्षत्रं क्षत्राद्ब्रह्म बलवत्तरम्
+
+Agni is nothing but the kshatriyas and the brahmanas were more powerful than the kshatriyas
+
+कस्मादिति लोकप्रत्यक्षगुणमेतत्तद्यथा
+ब्राह्मणेभ्यः परं भूतं नोत्पन्नपूर्वम्
+दीप्यमानेऽग्नौ जुहोतीति कृत्वा ब्रवीमि
+भूतसर्गः कृतो ब्रह्मणा भूतानि च प्रतिष्ठाप्य त्रैलोक्यं
+धार्यत इति ||५||
+
+
+
+### c330
+###### 41
+नरनारायणौ पूर्वं तपस्तेपतुरव्ययम् |
+
+Earlier, I performed undecaying austerities as Nara-Narayana. 
+
+धर्मयानं समारूढौ पर्वते गन्धमादने ||४१||
+
+On the slopes of Mount Gandhamadana, I ascended on that vehicle that leads to dharma. 
+###### 42
+तत्कालसमयं चैव दक्षयज्ञो बभूव ह |
+
+There was a time when Daksha performed a sacrifice. 
+
+न चैवाकल्पयद्भागं दक्षो रुद्रस्य भारत ||४२||
+
+O descendant of the Bharata lineage! He refused to earmark a share for Rudra. 
+###### 43
+ततो दधीचिवचनाद्दक्षयज्ञमपाहरत् |
+ससर्ज शूलं क्रोधेन प्रज्वलन्तं मुहुर्मुहुः ||४३||
+
+Following Dadhicha’s instructions, he repeatedly hurled his blazing spear and uprooted Daksha’s sacrifice. 
+###### 44
+तच्छूलं भस्मसात्कृत्वा दक्षयज्ञं सविस्तरम् |
+आवयोः सहसागच्छद्बदर्याश्रममन्तिकात् ||४४||
+
+वेगेन महता पार्थ पतन्नारायणोरसि ||४४||
+
+The spear reduced Daksha’s entire sacrifice to ashes and violently advanced towards us in the hermitage of Badari. O Partha! It descended with great force on Narayana’s chest. 
+###### 45
+ततः स्वतेजसाविष्टाः केशा नारायणस्य ह |
+
+Narayana’s hair became suffused with energy 
+
+बभूवुर्मुञ्जवर्णास्तु 
+
+and assumed the complexion of munja grass.  
+
+ततोऽहं मुञ्जकेशवान् ||४५||
+
+That is the reason I am known as Munjakesha. 
+###### 46
+तच्च शूलं विनिर्धूतं हुङ्कारेण महात्मना |
+जगाम शङ्करकरं नारायणसमाहतम् ||४६||
+
+The great-souled Narayana repulsed the whirling spear with the sound of ‘Hum’ and it returned to Shankara’s hand. 
+###### 47
+अथ रुद्र उपाधावत्तावृषी तपसान्वितौ |
+
+At this, Rudra attacked the rishis who were engaged in austerities. 
+
+तत एनं समुद्धूतं कण्ठे जग्राह पाणिना ||४७||
+
+नारायणः स विश्वात्मा तेनास्य शितिकण्ठता ||४७||
+
+When he attacked in this way, Narayana, the soul of the universe, seized his throat with his hand, and he became Shitikantha.
+###### 62
+ब्रह्मणा त्वेवमुक्तस्तु रुद्रः क्रोधाग्निमुत्सृजन् |
+प्रसादयामास ततो देवं नारायणं प्रभुम् ||६१||
+
+Thus addressed by Brahma, Rudra withdrew the fire of his anger and sought to please the lord god Narayana.
+###### 63
+ऋषिभिर्ब्रह्मणा चैव विबुधैश्च सुपूजितः |
+
+उवाच देवमीशानमीशः स जगतो हरिः ||६३||
+
+Hari, the lord of the universe, spoke to the god Ishana. 
+###### 64
+यस्त्वां वेत्ति स मां वेत्ति यस्त्वामनु स मामनु |
+
+‘He who knows you, knows me. He who follows you, follows me. 
+
+नावयोरन्तरं किञ्चिन्मा ते भूद्बुद्धिरन्यथा ||६४||
+
+There is no difference between you and me. Do not think otherwise. 
+###### 65
+अद्य प्रभृति श्रीवत्सः शूलाङ्कोऽयं भवत्वयम् |
+
+Your spear will leave the srivatsa mark on my chest. 
+
+मम पाण्यङ्कितश्चापि श्रीकण्ठस्त्वं भविष्यसि ||६५||
+
+My hand will leave a beautiful mark on your throat, to be known as shrikantha.’1278
 ### c331
 ###### 20
 प्राप्य श्वेतं महाद्वीपं दृष्ट्वा च हरिमव्ययम् |
@@ -3202,8 +4069,632 @@ Narayana spoke to him. “The original and eternal paramatman is illustrious.
 श्वेतद्वीपे त्वया दृष्ट आवयोः प्रकृतिः परा ||३५||
 
 He is the supreme form of our Prakriti and you have seen him in Shvetadvipa.”
+###### 36
+नारद उवाच||
+
+‘Narada replied, 
+
+दृष्टो मे पुरुषः श्रीमान्विश्वरूपधरोऽव्ययः |
+
+“I have seen that illustrious and immutable Purusha. The universe is his form. 
+
+सर्वे हि लोकास्तत्रस्थास्तथा देवाः सहर्षिभिः ||३६||
+
+All the worlds and the gods and the rishis are in him. 
+
+अद्यापि चैनं पश्यामि युवां पश्यन्सनातनौ ||३६||
+
+Having seen the two of you now, I see that eternal one in you. 
+###### 37
+यैर्लक्षणैरुपेतः स हरिरव्यक्तरूपधृक् |
+तैर्लक्षणैरुपेतौ हि व्यक्तरूपधरौ युवाम् ||३७||
+
+The unmanifest Hari did not possess a form. But the signs he possessed are the signs that exist in you, in manifest and embodied forms. 
+###### 38
+दृष्टौ मया युवां तत्र तस्य देवस्य पार्श्वतः |
+
+There, I saw you on both sides of the god. 
+
+इह चैवागतोऽस्म्यद्य विसृष्टः परमात्मना ||३८||
+
+Having taken the permission of the paramatman, I have come here.
+###### 44
+तपसा योज्य सोऽऽत्मानं श्वेतद्वीपात्परं हि यत् |
+
+That supreme one in Shvetadvipa represents austerities and sacrifices for those who are united with their atmans. 
+
+तेज इत्यभिविख्यातं 
+
+He is famous for his energy. 
+
+स्वयम्भासावभासितम् ||४४||
+
+He is illuminated through his own radiance. 
+###### 45
+शान्तिः सा त्रिषु लोकेषु सिद्धानां भावितात्मनाम् |
+
+For successful ones in the three worlds, who have cleansed their souls, he is tranquility. 
+
+एतया शुभया बुद्ध्या नैष्ठिकं व्रतमास्थितः ||४५||
+
+There, the devoted ones have resorted to vows, using their auspicious intelligence.
+###### 46
+न तत्र सूर्यस्तपति न सोमोऽभिविराजते |
+न वायुर्वाति देवेशे तपश्चरति दुश्चरम् ||४६||
+
+lord of the gods performs very difficult austerities in a spot where the sun does not heat, the moon does not shine and the wind does not blow. 
+###### 47
+वेदीमष्टतलोत्सेधां भूमावास्थाय विश्वभुक् |
+
+The enjoyer of the universe has constructed an altar on the ground and it measures the length of eight palms. 
+
+एकपादस्थितो देव ऊर्ध्वबाहुरुदङ्मुखः ||४७||
+
+The god is stationed there, standing on a single foot and with his arms raised. He faces the eastern direction
+
+साङ्गानावर्तयन्वेदांस्तपस्तेपे सुदुश्चरम् ||४७||
+
+He performs those extremely difficult austerities, chanting from the Vedas and the Vedangas.
+### c332
+###### 12
+षड्भूतोत्पादकं नाम तत्स्थानं वेदसञ्ज्ञितम् |
+
+That place, associated with the Vedas, is known as the region where the six elements arose.1286 
+
+विद्यासहायो यत्रास्ते भगवान्हव्यकव्यभुक् ||१२||
+
+The illustrious one, the devourer of havya and kavya, resides there, accompanied by knowledge. 
+###### 13
+ये हि निष्कल्मषा लोके पुण्यपापविवर्जिताः |
+तेषां वै क्षेममध्वानं गच्छतां द्विजसत्तम ||१३||
+
+O supreme among brahmanas! There are people who have been cleansed from sin and are disassociated from good and bad deeds. They are capable of going to that sacred region. 
+
+सर्वलोकतमोहन्ता आदित्यो द्वारमुच्यते ||१३||
+
+That is a region which frees the worlds from delusion and Aditya is said to be the door to that. 
+###### 14
+आदित्यदग्धसर्वाङ्गा अदृश्याः केनचित्क्वचित् |
+
+On entering Aditya, the bodies of such people are consumed. Others are rendered invisible. 
+
+परमाणुभूता भूत्वा तु तं देवं प्रविशन्त्युत ||१४||
+
+Becoming like atoms,1287 such people merge into the god. 
+###### 15
+तस्मादपि विनिर्मुक्ता अनिरुद्धतनौ स्थिताः |
+
+They are thus emancipated and are established in Aniruddha. 
+
+मनोभूतास्ततो भूयः प्रद्युम्नं प्रविशन्त्युत ||१५||
+
+After that, they only retain the attributes of the mind and merge into Pradyumna. 
+###### 16
+प्रद्युम्नाच्चापि निर्मुक्ता जीवं सङ्कर्षणं तथा |
+
+Freed from Pradyumna, the being next enters Samkarshana. 
+
+विशन्ति विप्रप्रवराः साङ्ख्या भागवतैः सह ||१६||
+
+The best among brahmanas, those who know about sankhya and are devoted, merge there. 
+###### 17
+ततस्त्रैगुण्यहीनास्ते परमात्मानमञ्जसा |
+प्रविशन्ति द्विजश्रेष्ठ क्षेत्रज्ञं निर्गुणात्मकम् ||१७||
+
+O best among brahmanas! When the three qualities1288 are completely extinguished, they merge into the paramatman, the kshetrajna who is devoid of qualities. 
+
+सर्वावासं वासुदेवं क्षेत्रज्ञं विद्धि तत्त्वतः ||१७||
+
+Truly know that Vasudeva, the refuge of everything, is kshetrajna. 
+###### 18
+समाहितमनस्काश्च नियताः संयतेन्द्रियाः |
+
+There are those who have controlled their minds, are restrained and have checked their senses. 
+
+एकान्तभावोपगता वासुदेवं विशन्ति ते ||१८||
+
+Single-minded in devotion, they enter into Vasudeva. 
+###### 19
+आवामपि च धर्मस्य गृहे जातौ द्विजोत्तम |
+
+O supreme among brahmanas! We have been born in Dharma’s house. 
+
+रम्यां विशालामाश्रित्य तप उग्रं समास्थितौ ||१९||
+
+Dwelling in this beautiful spot, we have practised fierce austerities. 
+###### 20
+ये तु तस्यैव देवस्य प्रादुर्भावाः सुरप्रियाः |
+भविष्यन्ति त्रिलोकस्थास्तेषां स्वस्तीत्यतो द्विज ||२०||
+
+O brahmana! We have done this for the welfare of the three worlds, so that the supreme one, beloved by the gods, can manifest himself.
+### c333
+###### 6
+मम वै पितरं प्रीतः परमेष्ठ्यप्यजीजनत् |
+अहं सङ्कल्पजस्तस्य पुत्रः प्रथमकल्पितः ||६||
+###### 8
+श्रुतिश्चाप्यपरा देव पुत्रान्हि पितरोऽयजन् |
+
+The gods instructed the various sacred texts to their sons and the latter offered sacrifices to their ancestors. 
+
+वेदश्रुतिः प्रणष्टा च पुनरध्यापिता सुतैः ||८||
+
+However, when the Vedas and sacred texts were destroyed, they again had to study them from their sons.1290 
+
+ततस्ते मन्त्रदाः पुत्राः पितृत्वमुपपेदिरे ||८||
+
+Using the mantras, the sons therefore became like fathers. 
+###### 9
+नूनं पुरैतद्विदितं युवयोर्भावितात्मनोः |
+पुत्राश्च पितरश्चैव परस्परमपूजयन् ||९||
+
+In this way, fathers and sons came to worship each other and these ancient accounts are certainly known to both of you.
+###### 11
+नरनारायणावूचतुः||
+
+‘Nara and Narayana replied, 
+
+इमां हि धरणीं पूर्वं नष्टां सागरमेखलाम् |
+
+“In ancient times, the earth was destroyed and disappeared inside the girdle of the ocean. 
+
+गोविन्द उज्जहाराशु वाराहं रूपमाश्रितः ||११||
+
+Assuming the form of a boar, Govinda swiftly raised it up. 
+###### 12
+स्थापयित्वा तु धरणीं स्वे स्थाने पुरुषोत्तमः |
+
+Purushottama established the earth in its proper place. 
+
+जलकर्दमलिप्ताङ्गो लोककार्यार्थमुद्यतः ||१२||
+
+He raised it to accomplish the objective of the worlds and his limbs were covered in water and mud. 
+###### 13
+प्राप्ते चाह्निककाले स मध्यंदिनगते रवौ |
+
+The sun was at its midday position then and it was time to perform the afternoon ablutions. 
+
+दंष्ट्राविलग्नान्मृत्पिण्डान्विधूय सहसा प्रभुः ||१३||
+
+The lord violently shook his tusks and three balls of mud fell down from there. 
+
+स्थापयामास वै पृथ्व्यां कुशानास्तीर्य नारद ||१३||
+
+O Narada! He laid these out on a bed of kusha grass on the ground. 
+###### 14
+स तेष्वात्मानमुद्दिश्य पित्र्यं चक्रे यथाविधि |
+
+Following the proper rites, he offered these to the ancestors, that is, to himself. 
+
+सङ्कल्पयित्वा त्रीन्पिण्डान्स्वेनैव विधिना प्रभुः ||१४||
+
+Following the ordinances, the lord thought of these as three pindas. 
+###### 15
+आत्मगात्रोष्मसम्भूतैः स्नेहगर्भैस्तिलैरपि |
+
+The heat generated from his own body became the oil obtained from sesamum seeds. 
+
+प्रोक्ष्यापवर्गं देवेशः प्राङ्मुखः कृतवान्स्वयम् ||१५||
+
+The lord of the gods faced the eastern direction and himself declared these special rules.
+### c334
+###### 1
+वैशम्पायन उवाच||
+
+श्रुत्वैतन्नारदो वाक्यं नरनारायणेरितम् |
+अत्यन्तभक्तिमान्देवे एकान्तित्वमुपेयिवान् ||१||
+
+Narada became extremely devoted towards that single god. 
+###### 2
+प्रोष्य वर्षसहस्रं तु नरनारायणाश्रमे |
+
+He spent one thousand years in Nara and Narayana’s hermitage. 
+
+श्रुत्वा भगवदाख्यानं दृष्ट्वा च हरिमव्ययम् ||२||
+
+He heard accounts about the illustrious one and saw the undecaying Hari. 
+
+हिमवन्तं जगामाशु यत्रास्य स्वक आश्रमः ||२||
+
+Then he quickly went to his own hermitage, on the slopes of the Himalayas.
+###### 9
+कृष्णद्वैपायनं व्यासं विद्धि नारायणं प्रभुम् |
+
+Know that Krishna Dvaipayana is the lord Narayana. 
+
+को ह्यन्यः पुरुषव्याघ्र महाभारतकृद्भवेत् ||९||
+
+O tiger among men! Who else could have composed the Mahabharata?
+
+धर्मान्नानाविधांश्चैव को ब्रूयात्तमृते प्रभुम् ||९||
+
+
+### c335
+###### 10
+व्यास उवाच||
+
+‘Vyasa said, 
+
+यत्किञ्चिदिह लोके वै देहबद्धं विशां पते |
+सर्वं पञ्चभिराविष्टं भूतैरीश्वरबुद्धिजैः ||१०||
+
+“O lord of the earth! Everything in the world that possesses a body is made out of the five elements. This creation results from the lord’s intelligence.
+###### 12
+धरण्यामथ लीनायामप्सु चैकार्णवे पुरा |
+
+First, the earth was submerged in water and everything was one large ocean. 
+
+ज्योतिर्भूते जले चापि लीने ज्योतिषि चानिले ||१२||
+
+Water merged into light and light merged into the wind. 
+###### 13
+वायौ चाकाशसंलीने आकाशे च मनोनुगे |
+
+The wind merged into space and space merged into the mind. 
+
+व्यक्ते मनसि संलीने व्यक्ते चाव्यक्ततां गते ||१३||
+
+Mind merged into the manifest1300 and the manifest merged into the unmanifest.1301 
+###### 14
+अव्यक्ते पुरुषं याते पुंसि सर्वगतेऽपि च |
+
+The unmanifest merged into Purusha and Purusha merged into the one who pervaded everything.1302 
+
+तम एवाभवत्सर्वं न प्राज्ञायत किञ्चन ||१४||
+
+There was darkness everywhere and nothing could be seen. 
+###### 15
+तमसो ब्रह्म सम्भूतं तमोमूलमृतात्मकम् |
+
+The brahman arose from the darkness. He created himself from that foundation of darkness. 
+
+तद्विश्वभावसञ्ज्ञान्तं पौरुषीं तनुमास्थितम् ||१५||
+
+With the desire to create the universe, he assumed the form of Purusha. 
+###### 16
+सोऽनिरुद्ध इति प्रोक्तस्तत्प्रधानं प्रचक्षते |
+
+This form is known as Aniruddha and is also known as Pradhana. 
+
+तदव्यक्तमिति ज्ञेयं त्रिगुणं नृपसत्तम ||१६||
+
+O supreme among kings! He is also known as the manifest and as a combination of the three qualities. 
+###### 17
+विद्यासहायवान्देवो विष्वक्सेनो हरिः प्रभुः |
+
+With knowledge as his companion, the lord is also known as Vishvaksena or Hari. 
+
+अप्स्वेव शयनं चक्रे निद्रायोगमुपागतः ||१७||
+
+Immersed in yoga, he slept on the waters. 
+
+जगतश्चिन्तयन्सृष्टिं चित्रां बहुगुणोद्भवाम् ||१७||
+
+He thought of creating the universe, with wonderful and diverse attributes.
+###### 18
+तस्य चिन्तयतः सृष्टिं महानात्मगुणः स्मृतः |
+
+While thinking of creation, he remembered his own great qualities. 
+
+अहङ्कारस्ततो जातो ब्रह्मा शुभचतुर्मुखः ||१८||
+
+Consciousness was generated then and this was the auspicious and four-faced Brahma. 
+
+हिरण्यगर्भो भगवान्सर्वलोकपितामहः ||१८||
+
+The illustrious Hiranyagarbha is the grandfather of all the worlds. 
+###### 19
+पद्मेऽनिरुद्धात्सम्भूतस्तदा पद्मनिभेक्षणः |
+
+He possessed eyes that are like a lotus and he emerged from a lotus that was in Aniruddha. 
+
+सहस्रपत्रे द्युतिमानुपविष्टः सनातनः ||१९||
+
+The eternal and radiant one was seated on the flower with the one thousand petals.
+###### 20
+ददृशेऽद्भुतसङ्काशे लोकानापोमयान्प्रभुः |
+
+Wishing to create the worlds, the lord looked at the water that was on all sides. 
+
+सत्त्वस्थः परमेष्ठी स ततो भूतगणान्सृजत् ||२०||
+
+Basing himself on sattva, Parameshthi created the different categories of beings. 
+###### 21
+पूर्वमेव च पद्मस्य पत्रे सूर्यांशुसप्रभे |
+नारायणकृतौ बिन्दू अपामास्तां गुणोत्तरौ ||२१||
+
+Before this, Narayana had placed two drops of water, invested with excellent qualities, into the petals of the lotus, which were as bright as the rays of the sun. 
+###### 22
+तावपश्यत्स भगवाननादिनिधनोऽच्युतः 
+
+The illustrious Achyuta is without beginning and without end. 
+|
+एकस्तत्राभवद्बिन्दुर्मध्वाभो रुचिरप्रभः ||२२||
+
+He looked at those two drops of water. One of these was beautiful and radiant and looked like honey. 
+###### 23
+स तामसो मधुर्जातस्तदा नारायणाज्ञया |
+
+On Narayana’s instructions, Madhu, based on tamas qualities, was generated from this.1304 
+
+कठिनस्त्वपरो बिन्दुः कैटभो राजसस्तु सः ||२३||
+
+The other drop was hard, and Kaitabha, based on rajas qualities, was generated from this. 
+###### 24
+तावभ्यधावतां श्रेष्ठौ तमोरजगुणान्वितौ |
+
+With the qualities of tamas and rajas, these two superior ones advanced. 
+
+बलवन्तौ गदाहस्तौ 
+
+They were powerful and held clubs in their hands. 
+
+पद्मनालानुसारिणौ ||२४||
+
+They roamed around inside the stalk of the lotus. 
+###### 25
+ददृशातेऽरविन्दस्थं ब्रह्माणममितप्रभम् |
+
+Inside the lotus, they saw the infinitely radiant Brahma. 
+
+सृजन्तं प्रथमं वेदांश्चतुरश्चारुविग्रहान् ||२५||
+
+He was engaged in creating the first forms of the four beautiful Vedas. 
+###### 26
+ततो विग्रहवन्तौ तौ वेदान्दृष्ट्वासुरोत्तमौ |
+
+The supreme asuras saw the forms of the Vedas. 
+
+सहसा जगृहतुर्वेदान्ब्रह्मणः पश्यतस्तदा ||२६||
+
+While Brahma looked on, they violently seized the Vedas. 
+###### 27
+अथ तौ दानवश्रेष्ठौ वेदान्गृह्य सनातनान् |
+
+Having seized the eternal Vedas, the best among the danavas 
+
+रसां विविशतुस्तूर्णमुदक्पूर्वे महोदधौ ||२७||
+
+quickly entered the nether regions, inside the waters of the great ocean.
+###### 36
+अहं प्रसादजस्तुभ्यं लोकधाम्ने स्वयम्भुवे |
+
+I have been generated through your favours. O Svayambhu! You are the abode of the worlds. 
+
+त्वत्तो मे मानसं जन्म प्रथमं द्विजपूजितम् ||३६||
+
+My first birth, honoured by all the brahmanas, was from your mind. 
+###### 37
+चाक्षुषं वै द्वितीयं मे जन्म चासीत्पुरातनम् |
+
+My ancient and second birth was from your eyes. 
+
+त्वत्प्रसादाच्च मे जन्म तृतीयं वाचिकं महत् ||३७||
+
+It is through your favours that my great and third birth occurred from your speech. 
+###### 38
+त्वत्तः श्रवणजं चापि चतुर्थं जन्म मे विभो |
+
+O lord! It is the truth that my fourth birth was from your ears. 
+
+नासिक्यं चापि मे जन्म त्वत्तः पञ्चममुच्यते ||३८||
+
+O one without decay! It is the truth that my fifth birth was from your nose. 
+###### 39
+अण्डजं चापि मे जन्म त्वत्तः षष्ठं विनिर्मितम् |
+
+It is true that you thought of my sixth birth from an egg. 
+
+इदं च सप्तमं जन्म पद्मजं मेऽमितप्रभ ||३९||
+
+O infinitely powerful lord! This, my seventh birth, has happened from a lotus. 
+###### 40
+सर्गे सर्गे ह्यहं पुत्रस्तव त्रिगुणवर्जितः |
+
+O one who is devoid of the three qualities! From one cycle of creation to another cycle of creation, I have been your son. 
+
+प्रथितः पुण्डरीकाक्ष प्रधानगुणकल्पितः ||४०||
+
+You are famous as Pundarikaksha. You are Pradhana, who has thought of the qualities. 
+
+You are the natural lord. You are Svayambhu and Purushottama.
+###### 43
+एवं स्तुतः स भगवान्पुरुषः सर्वतोमुखः |
+
+illustrious Purusha, who faces every direction, was thus praised.
+
+जहौ निद्रामथ तदा वेदकार्यार्थमुद्यतः ||४३||
+
+‘“To accomplish the task of recovering the Vedas, he raised himself from his sleep. 
+
+ऐश्वरेण प्रयोगेण द्वितीयां तनुमास्थितः ||४३||
+
+Using his powers, he assumed a second form. 
+###### 44
+सुनासिकेन कायेन भूत्वा चन्द्रप्रभस्तदा |
+
+He assumed a form with an excellent nose and it was as radiant as the moon. 
+
+कृत्वा हयशिरः शुभ्रं वेदानामालयं प्रभुः ||४४||
+
+The lord who is the abode of all the Vedas assumed the auspicious form of Hayashira. 
+###### 45
+तस्य मूर्धा समभवद्द्यौः सनक्षत्रतारका |
+
+The firmament, with its nakshatras and stars, became his head. 
+
+केशाश्चास्याभवन्दीर्घा रवेरंशुसमप्रभाः ||४५||
+
+His long and flowing hair was as radiant as the rays of the sun. 
+###### 46
+कर्णावाकाशपाताले 
+
+The sky and the nether regions constituted his ears. 
+
+ललाटं भूतधारिणी |
+
+The earth was his forehead. 
+
+गङ्गा सरस्वती पुण्या भ्रुवावास्तां महानदी ||४६||
+
+The sacred and great rivers, Ganga and Sarasvati, were his eyebrows. 
+###### 47
+चक्षुषी सोमसूर्यौ ते नासा सन्ध्या पुनः स्मृता |
+
+The sun and the moon were his eyes. The evening was said to be his nose. 
+
+ओङ्कारस्त्वथ संस्कारो विद्युज्जिह्वा च निर्मिता ||४७||
+
+The syllable ‘Om’ was his mind and the lightning was his tongue. 
+###### 48
+दन्ताश्च पितरो राजन्सोमपा इति विश्रुताः |
+
+O king! The ancestors, who drink soma, were known as his teeth. 
+
+गोलोको ब्रह्मलोकश्च ओष्ठावास्तां महात्मनः ||४८||
+
+Goloka and Brahmaloka1305 became the great-souled one’s lips. 
+
+ग्रीवा चास्याभवद्राजन्कालरात्रिर्गुणोत्तरा ||४८||
+
+O king! The terrible night of universal destruction, which is beyond the three qualities, became his neck. 
+###### 49
+एतद्धयशिरः कृत्वा नानामूर्तिभिरावृतम् |
+
+He created this form of Hayashira and it was covered with many kinds of other forms. 
+
+अन्तर्दधे स विश्वेशो विवेश च रसां प्रभुः ||४९||
+
+The god who was the lord of the universe disappeared and penetrated the nether regions. 
+###### 50
+रसां पुनः प्रविष्टश्च योगं परममास्थितः |
+
+Having entered the water, he resorted to supreme yoga. 
+
+शैक्षं स्वरं समास्थाय ओमिति प्रासृजत्स्वरम् ||५०||
+
+Using accomplished techniques of pronunciation, he uttered the syllable ‘Om’. 
+###### 51
+स स्वरः सानुनादी च सर्वगः स्निग्ध एव च |
+
+This sound was pleasant in every way and echoed everywhere. 
+
+बभूवान्तर्महीभूतः सर्वभूतगुणोदितः ||५१||
+
+It possessed all the beneficial qualities and reverberated in the nether regions. 
+###### 52
+ततस्तावसुरौ कृत्वा वेदान्समयबन्धनान् |
+रसातले विनिक्षिप्य यतः शब्दस्ततो द्रुतौ ||५२||
+
+Having decided to come back for the Vedas, the asuras flung them down into the nether regions and swiftly proceeded to the spot where the sound was coming from. 
+###### 53
+एतस्मिन्नन्तरे राजन्देवो हयशिरोधरः |
+जग्राह वेदानखिलान्रसातलगतान्हरिः ||५३||
+
+O king! Meanwhile, Hari, the god who was in the form of Hayashira, picked up all the Vedas from the nether regions. 
+
+प्रादाच्च ब्रह्मणे भूयस्ततः स्वां प्रकृतिं गतः ||५३||
+
+He gave them back to Brahma and assumed his natural form again. 
+###### 54
+स्थापयित्वा हयशिर उदक्पूर्वे महोदधौ |
+वेदानामालयश्चापि बभूवाश्वशिरास्ततः ||५४||
+
+Hayashira was the abode of the Vedas and he established this form of Hayashira in the north-eastern parts of the great ocean. 
+###### 55
+अथ किञ्चिदपश्यन्तौ दानवौ मधुकैटभौ |
+पुनराजग्मतुस्तत्र वेगितौ पश्यतां च तौ ||५५||
+
+यत्र वेदा विनिक्षिप्तास्तत्स्थानं शून्यमेव च ||५५||
+
+O king! The danavas, Madhu and Kaitabha, could not find anyone and quickly returned to the spot. However, they found that the place where they had flung the Vedas was empty. 
+###### 56
+तत उत्तममास्थाय वेगं बलवतां वरौ |
+
+Those two supremely powerful ones resorted to great speed. 
+
+पुनरुत्तस्थतुः शीघ्रं रसानामालयात्तदा ||५६||
+
+They quickly raised themselves from the nether regions 
+
+ददृशाते च पुरुषं तमेवादिकरं प्रभुम् ||५६||
+
+and saw the lord Purusha, who had originally created them. 
+###### 57
+श्वेतं चन्द्रविशुद्धाभमनिरुद्धतनौ स्थितम् |
+
+He was based in the form of Aniruddha and he was as pure in complexion as the fair moon. 
+
+भूयोऽप्यमितविक्रान्तं निद्रायोगमुपागतम् ||५७||
+
+The valiant one had again resorted to yoga and was sleeping on the waters. 
+###### 58
+आत्मप्रमाणरचिते अपामुपरि कल्पिते |
+
+He had manifested himself in this form and was sleeping on the waters. 
+
+शयने नागभोगाढ्ये 
+
+He was sleeping on the hood of a serpent1306 
+
+ज्वालामालासमावृते ||५८||
+
+and seemed to be enveloped in a covering of flames.
+###### 64
+रजस्तमोविष्टतनू तावुभौ मधुकैटभौ |
+ब्रह्मणोपचितिं कुर्वञ्जघान मधुसूदनः ||६४||
+
+Madhu and Kaitabha were full of rajas and tamas. To please Brahma, Madhusudana slew them.
+###### 71
+आराध्य तपसोग्रेण देवं हयशिरोधरम् |
+पाञ्चालेन क्रमः प्राप्तो रामेण पथि देशिते ||७१||
+
+rishi Panchala worshipped the god who assumed the form of Hayashira and learnt shiksha, following the path instructed by Rama.
+###### 74
+एष वेदनिधिः श्रीमानेष वै तपसो निधिः |
+एष योगश्च साङ्ख्यं च ब्रह्म चाग्र्यं हरिर्विभुः ||७४||
+###### 75
+नारायणपरा वेदा यज्ञा नारायणात्मकाः |
+तपो नारायणपरं नारायणपरा गतिः ||७५||
+
+The powerful lord Hari is yoga, sankhya and the brahman. Narayana is the supreme Vedas.
+###### 80
+मनश्चापि ततो भूतमव्यक्तगुणलक्षणम् |
+नारायणपरः कालो ज्योतिषामयनं च यत् ||८०||
+###### 81
+नारायणपरा कीर्तिः श्रीश्च लक्ष्मीश्च देवताः |
+
+The supreme Narayana is the deities of Kirti, Shri and Lakshmi.1311 
+
+नारायणपरं साङ्ख्यं योगो नारायणात्मकः ||८१||
+
+Sankhya and yoga are the supreme Narayana and they have Narayana as their soul. 
+###### 82
+कारणं पुरुषो येषां प्रधानं चापि कारणम् |
+
+He is the cause as Purusha. He is also the cause as Pradhana
+
+स्वभावश्चैव कर्माणि दैवं येषां च कारणम् ||८२||
+
 
 ### c336
+###### 8
+वैशम्पायन उवाच||
+
+Vaishampayana replied, 
+
+समुपोढेष्वनीकेषु कुरुपाण्डवयोर्मृधे |
+अर्जुने विमनस्के च गीता भगवता स्वयम् ||८||
+
+‘The armies of the Kurus and the Pandavas were arrayed in the battle. When Arjuna was distracted, the illustrious one himself sung about this, about the ends that are obtained and the ends that are not obtained.
+###### 13
+यदासीन्मानसं जन्म नारायणमुखोद्गतम् |
+ब्रह्मणः पृथिवीपाल तदा नारायणः स्वयम् ||१३||
+
+O lord of the earth! Brahma was born through Narayana’s mental powers and heard what emerged from Narayana’s mouth. 
+
+तेन धर्मेण कृतवान्दैवं पित्र्यं च भारत ||१३||
+
+O descendant of the Bharata lineage! Following dharma, Narayana himself performed the divine rites that any father should.
 ###### 14
 फेनपा ऋषयश्चैव तं धर्मं प्रतिपेदिरे |
 
@@ -3216,11 +4707,760 @@ The Vaikhanasas obtained the dharma from those who lived on foam.
 वैखानसेभ्यः सोमस्तु ततः सोऽन्तर्दधे पुनः ||१४||
 
 Soma obtained it from the Vaikhanasas.
+###### 15
+यदासीच्चाक्षुषं जन्म द्वितीयं ब्रह्मणो नृप |
+
+But it then disappeared again. O king! Brahma had a second birth from the eyes.1320 
+
+तदा पितामहात्सोमादेतं धर्ममजानत ||१५||
+
+Then, the grandfather obtained and learned this dharma from Soma. 
+
+नारायणात्मकं राजन्रुद्राय प्रददौ च सः ||१५||
+
+O king! He gave this, which has Narayana as its soul, to Rudra. 
+###### 16
+ततो योगस्थितो रुद्रः पुरा कृतयुगे नृप |
+
+O king! In that ancient krita yuga, Rudra immersed himself in yoga 
+
+वालखिल्यानृषीन्सर्वान्धर्ममेतमपाठयत् ||१६||
+
+and taught this dharma to all the Valakhilya rishis. 
+
+अन्तर्दधे ततो भूयस्तस्य देवस्य मायया ||१६||
+
+However, because of the god’s1321 maya, it disappeared again. 
+###### 17
+तृतीयं ब्रह्मणो जन्म यदासीद्वाचिकं महत् |
+
+Brahma had a third birth from his1322 great speech. 
+
+तत्रैष धर्मः सम्भूतः स्वयं नारायणान्नृप ||१७||
+
+O king! The dharma was again generated from Narayana himself. 
+###### 18
+सुपर्णो नाम तमृषिः प्राप्तवान्पुरुषोत्तमात् |
+
+A rishi named Suparna obtained it from Purushottama 
+
+तपसा वै सुतप्तेन दमेन नियमेन च ||१८||
+
+and tormented himself with austerities, following self-restraint and rituals. 
+###### 19
+त्रिः परिक्रान्तवानेतत्सुपर्णो धर्ममुत्तमम् |
+यस्मात्तस्माद्व्रतं ह्येतत्त्रिसौपर्णमिहोच्यते ||१९||
+
+Suparna followed this supreme dharma thrice a day. Because of this, on earth, he came to be known as Trisouparna.1323 
+###### 20
+ऋग्वेदपाठपठितं 
+
+These are read when one studies the Rig Veda 
+
+व्रतमेतद्धि दुश्चरम् |
+
+and the vows to be followed are extremely difficult. 
+
+सुपर्णाच्चाप्यधिगतो धर्म एष सनातनः ||२०||
+
+O best among men! From Suparna, this eternal dharma 
+###### 21
+वायुना द्विपदां श्रेष्ठ प्रथितो जगदायुषा |
+
+was obtained by the wind god, who is known as the one who sustains life in the universe. 
+
+वायोः सकाशात्प्राप्तश्च ऋषिभिर्विघसाशिभिः ||२१||
+
+Vayu gave it to the rishis who only subsist on leftovers. 
+###### 22
+तेभ्यो महोदधिश्चैनं प्राप्तवान्धर्ममुत्तमम् |
+
+The great ocean obtained the supreme dharma from them. 
+
+ततः सोऽन्तर्दधे भूयो नारायणसमाहितः ||२२||
+
+However, it disappeared again and merged into Narayana. 
+###### 23
+यदा भूयः श्रवणजा सृष्टिरासीन्महात्मनः |
+ब्रह्मणः पुरुषव्याघ्र तत्र कीर्तयतः शृणु ||२३||
+
+The great-souled one, Brahma, was again born from his ear.1324  O tiger among men! I will tell you what happened. Listen. 
+###### 24
+जगत्स्रष्टुमना देवो हरिर्नारायणः स्वयम् |
+चिन्तयामास 
+
+The god, Hari Narayana, himself thought of creating the universe. 
+
+पुरुषं जगत्सर्गकरं प्रभुः ||२४||
+
+The lord, who is the creator of everything in the universe, thought of a being. 
+###### 25
+अथ चिन्तयतस्तस्य कर्णाभ्यां पुरुषः सृतः |
+
+When he thought of this, the being, his son, emerged from his ears. 
+
+प्रजासर्गकरो ब्रह्मा तमुवाच जगत्पतिः ||२५||
+
+The lord of the universe spoke to Brahma, the creator of different categories of subjects. 
+###### 26
+सृज प्रजाः पुत्र सर्वा मुखतः पादतस्तथा |
+
+“O son! Create. Create everyone from your mouths and feet. 
+
+श्रेयस्तव विधास्यामि बलं तेजश्च सुव्रत ||२६||
+
+O one who is excellent in vows! I will do what is beneficial for you. I will give you the strength and the energy. 
+###### 27
+धर्मं च मत्तो गृह्णीष्व सात्वतं नाम नामतः |
+
+Also receive this dharma from me. It is known as satvata. 
+
+तेन सर्वं कृतयुगं स्थापयस्व यथाविधि ||२७||
+
+Use it to create and establish all the rites of krita yuga.” 
+###### 28
+ततो ब्रह्मा नमश्चक्रे देवाय हरिमेधसे |
+
+At this, Brahma bowed down before the god Harimedha. 
+
+धर्मं चाग्र्यं स जग्राह सरहस्यं ससङ्ग्रहम् ||२८||
+
+He eagerly accepted the dharma, with its mysteries and collections and groups of Aranyakas.
+###### 32
+तेनैवाद्येन धर्मेण ब्रह्मा लोकविसर्गकृत् |
+पूजयामास देवेशं हरिं नारायणं प्रभुम् ||३२||
+
+Brahma, the creator of the various worlds, used that original dharma to worship the lord Hari Narayana, the lord of the gods. 
+###### 33
+धर्मप्रतिष्ठाहेतोश्च मनुं स्वारोचिषं ततः |
+अध्यापयामास तदा लोकानां हितकाम्यया ||३३||
+
+For the welfare of the worlds and for the sake of establishing this dharma, he then taught it to Svarochisha Manu.1326 
+###### 34
+ततः स्वारोचिषः पुत्रं स्वयं शङ्खपदं नृप |
+अध्यापयत्पुराव्यग्रः सर्वलोकपतिर्विभुः ||३४||
+
+O king! In ancient times, Svarochisha, the lord and protector of all the worlds, himself carefully taught it to his son, Shankhapada. 
+###### 35
+ततः शङ्खपदश्चापि पुत्रमात्मजमौरसम् |
+दिशापालं सुधर्माणमध्यापयत भारत ||३५||
+
+O descendant of the Bharata lineage! Shankhapada taught it to his son Sudharma, the protector of the directions. 
+
+ततः सोऽन्तर्दधे भूयः प्राप्ते त्रेतायुगे पुनः ||३५||
+
+When treta yuga commenced, it1327 disappeared again. 
+###### 36
+नासिक्यजन्मनि पुरा ब्रह्मणः पार्थिवोत्तम |
+
+O supreme among kings! Then, in ancient times, Brahma was born from the nose. 
+
+धर्ममेतं स्वयं देवो हरिर्नारायणः प्रभुः ||३६||
+
+उज्जगारारविन्दाक्षो ब्रह्मणः पश्यतस्तदा ||३६||
+
+In Brahma’s presence, the lord and god, the lotus-eyed Hari Narayana, himself chanted this dharma. 
+###### 37
+सनत्कुमारो भगवांस्ततः प्राधीतवान्नृप |
+
+O king! The illustrious Sanatkumara studied it. 
+
+सनत्कुमारादपि च वीरणो वै प्रजापतिः ||३७||
+
+कृतादौ कुरुशार्दूल धर्ममेतमधीतवान् ||३७||
+
+O tiger among the Kuru lineage! From Sanatkumara, at the beginning of krita yuga, Prajapati Virana obtained this dharma and studied it. 
+###### 38
+वीरणश्चाप्यधीत्यैनं रौच्याय मनवे ददौ |
+रौच्यः पुत्राय शुद्धाय सुव्रताय सुमेधसे ||३८||
+
+Having studied it, Virana gave it to the intelligent Rouchya and Rouchya gave it to his son Shudra, who was excellent in his vows and great in his intelligence. 
+###### 39
+कुक्षिनाम्नेऽथ प्रददौ दिशां पालाय धर्मिणे |
+ततः सोऽन्तर्दधे भूयो नारायणमुखोद्गतः ||३९||
+
+He gave it to Kukshi, who protected the directions.1328 However, the dharma that arose from Narayana’s mouth vanished again. 
+###### 40
+अण्डजे जन्मनि पुनर्ब्रह्मणे हरियोनये |
+एष धर्मः समुद्भूतो नारायणमुखात्पुनः ||४०||
+
+Brahma was again born as Hari’s son, from an egg and this dharma arose again, from Narayana’s mouth. 
+###### 41
+गृहीतो ब्रह्मणा राजन्प्रयुक्तश्च यथाविधि |
+
+O king! Brahma received it, and following the instructions, applied it. 
+
+अध्यापिताश्च मुनयो नाम्ना बर्हिषदो नृप ||४१||
+
+O king! He taught it to the sages named Barhishada.1329 
+###### 42
+बर्हिषद्भ्यश्च सङ्क्रान्तः सामवेदान्तगं द्विजम् |
+
+A brahmana who knew about the Sama Veda obtained it from the Barhishadas. 
+
+ज्येष्ठं नाम्नाभिविख्यातं ज्येष्ठसामव्रतो हरिः ||४२||
+
+His name was Jyeshtha and because of this, he came to be known as Jyeshtha Hari, the follower of the Sama vows. 
+###### 43
+ज्येष्ठाच्चाप्यनुसङ्क्रान्तो राजानमविकम्पनम् |
+
+King Avikampana obtained it from Jyeshtha. O king! 
+
+अन्तर्दधे ततो राजन्नेष धर्मः प्रभोर्हरेः ||४३||
+
+Then the dharma that had been received from the lord Hari disappeared again. 
+###### 44
+यदिदं सप्तमं जन्म पद्मजं ब्रह्मणो नृप |
+तत्रैष धर्मः कथितः स्वयं नारायणेन हि ||४४||
+
+O king! Brahma had a seventh birth from the lotus and Narayana himself spoke to him about this dharma. 
+###### 45
+पितामहाय शुद्धाय युगादौ लोकधारिणे |
+
+At the beginning of the yuga, the sacred grandfather was the upholder of the worlds. 
+
+पितामहश्च दक्षाय धर्ममेतं पुरा ददौ ||४५||
+
+In those ancient times, the grandfather gave this dharma to Daksha. 
+###### 46
+ततो ज्येष्ठे तु दौहित्रे प्रादाद्दक्षो नृपोत्तम |
+आदित्ये सवितुर्ज्येष्ठे 
+
+O supreme among kings! Daksha gave it to Aditya, who was the eldest of his grandsons through his daughters and was also older than Savitri. 
+
+विवस्वाञ्जगृहे ततः ||४६||
+
+Vivasvat obtained it from him.1330 
+###### 47
+त्रेतायुगादौ च पुनर्विवस्वान्मनवे ददौ |
+
+At the beginning of treta yuga, Vivasvat gave it to Manu. 
+
+मनुश्च लोकभूत्यर्थं सुतायेक्ष्वाकवे ददौ ||४७||
+
+For the prosperity of the worlds, Manu gave it to his son, Ikshvaku. 
+###### 48
+इक्ष्वाकुणा च कथितो व्याप्य लोकानवस्थितः |
+
+When Ikshvaku spoke about it, it spread in all the worlds. 
+
+गमिष्यति क्षयान्ते च पुनर्नारायणं नृप ||४८||
+###### 49
+व्रतिनां चापि यो धर्मः स ते पूर्वं नृपोत्तम |
+
+O king! At the end of the destruction, it will again merge into Narayana. 
+
+कथितो हरिगीतासु समासविधिकल्पितः ||४९||
+
+O supreme among kings! This is the dharma that is practised by the mendicants. 
+###### 50
+नारदेन तु सम्प्राप्तः सरहस्यः ससङ्ग्रहः |
+
+With the collection of the ordinances, it has been recounted in Hari Gita.1331 
+
+एष धर्मो जगन्नाथात्साक्षान्नारायणान्नृप ||५०||
+
+O king! Narada obtained this dharma, with its mysteries and its collections, from the protector of the worlds himself.
 ###### 53
 एकव्यूहविभागो वा क्वचिद्द्विव्यूहसञ्ज्ञितः |
+
+Some worship him in one form and some in two forms.1332 
+
 त्रिव्यूहश्चापि सङ्ख्यातश्चतुर्व्यूहश्च दृश्यते ||५३||
 
-Some worship him in one form and some in two forms.1332 He is sometimes enumerated in three forms.1333 He is sometimes seen in four forms.1334
+He is sometimes enumerated in three forms.1333 He is sometimes seen in four forms.1334
+###### 68
+जायमानं हि पुरुषं यं पश्येन्मधुसूदनः |
+सात्त्विकस्तु स विज्ञेयो 
+
+Know that if a man is born and Madhusudana looks favourably at him, he is sattvika and his emancipation is certain. 
+
+भवेन्मोक्षे च निश्चितः ||६८||
+
+The dharma of those who are single-minded is equal to sankhya and yoga.
+###### 71
+राजसी तामसी चैव व्यामिश्रे प्रकृती स्मृते |
+
+It is said that a nature that has rajas and tamas is confused. 
+
+तदात्मकं हि पुरुषं जायमानं विशां पते ||७१||
+
+O lord of the earth! A person with these traits in his soul is born again. 
+
+प्रवृत्तिलक्षणैर्युक्तं नावेक्षति हरिः स्वयम् ||७१||
+
+If a person possesses these attributes of attachment, Hari does not look at him himself. 
+###### 72
+पश्यत्येनं जायमानं ब्रह्मा लोकपितामहः |
+रजसा तमसा चैव मानुषं समभिप्लुतम् ||७२||
+
+If a man is immersed in rajas and tamas, he is born again and it is Brahma, the grandfather of the worlds, who looks at him.
+###### 75
+वैशम्पायन उवाच||
+
+Vaishampayana replied, 
+
+सुसूक्ष्मसत्त्वसंयुक्तं संयुक्तं त्रिभिरक्षरैः |
+
+‘Purusha is united with the subtlety of sattva. It is united with the three syllables.1339 
+
+पुरुषः पुरुषं गच्छेन्निष्क्रियः पञ्चविंशकम् ||७५||
+
+Abstaining from acts, a man goes to the one who is the twenty-fifth. 
+###### 76
+एवमेकं साङ्ख्ययोगं वेदारण्यकमेव च |
+परस्पराङ्गान्येतानि पञ्चरात्रं च कथ्यते ||७६||
+
+He is the single one who has been spoken about in sankhya, in yoga, in the Vedas, in the Aranyakas, in the other limbs and in the doctrines of pancharatra.
+###### 79
+एवं हि सुमहाभागो नारदो गुरवे मम |
+श्वेतानां यतिनामाह एकान्तगतिमव्ययाम् ||७९||
+
+Narada told my preceptor, about the single-minded mendicants of Shvetadvipa, who followed the immutable one. 
+
+Vyasa affectionately recounted it to Dharma’s intelligent son.1341 Passed down from my preceptor, I have also told you about it.
+### c337
+###### 3
+वैशम्पायन उवाच||
+
+Vaishampayana replied, 
+
+जज्ञे बहुज्ञं परमत्युदारं; यं द्वीपमध्ये सुतमात्मवन्तम् |
+पराशराद्गन्धवती महर्षिं; तस्मै नमोऽज्ञानतमोनुदाय ||३||
+
+‘A son was born to maharshi Parashara and Gandhavati in the midst of an island.1342 He is infinite and knows a lot. He is the knowledge that dispels darkness. I bow down before him. 
+###### 4
+पितामहाद्यं प्रवदन्ति षष्ठं; महर्षिमार्षेयविभूतियुक्तम् |
+
+Learned ones speak about his power and say that he is the sixth one, even before the grandfather.1343 
+
+नारायणस्यांशजमेकपुत्रं; द्वैपायनं वेदमहानिधानम् ||४||
+
+Dvaipayana was the single son1344 who was born as part of Narayana. He is the great store of the Vedas. 
+###### 5
+तमादिकालेषु महाविभूति; 
+
+He is immensely powerful and was born at that time of darkness.1345 
+
+र्नारायणो ब्रह्ममहानिधानम् |
+
+Narayana, the great store of the brahman, 
+
+ससर्ज पुत्रार्थमुदारतेजा; 
+
+created the generous and energetic one as his son. 
+
+व्यासं महात्मानमजः पुराणः ||५||
+
+Thus, the great-souled Vyasa is actually ancient and without birth.’
+###### 6
+जनमेजय उवाच||
+
+Janamejaya said, 
+
+त्वयैव कथितः पूर्वं सम्भवो द्विजसत्तम |
+
+‘O best among brahmanas! It has been said that, earlier, 
+
+वसिष्ठस्य सुतः शक्तिः शक्तेः पुत्रः पराशरः ||६|
+
+Vasishtha had a son named Shakti and that Shakti’s son was Parashara. 
+###### 7
+पराशरस्य दायादः कृष्णद्वैपायनो मुनिः |
+
+Parashara’s son was the sage Krishna Dvaipayana.
+
+भूयो नारायणसुतं त्वमेवैनं प्रभाषसे ||७||
+
+
+###### 9
+वैशम्पायन उवाच||
+
+Vaishampayana replied, 
+
+वेदार्थान्वेत्तुकामस्य धर्मिष्ठस्य तपोनिधेः |
+गुरोर्मे 
+
+‘My preceptor desired to know about the purport of the Vedas. He was devoted to dharma and was the store of austerities. 
+
+ज्ञाननिष्ठस्य हिमवत्पाद आसतः ||९||
+
+Devoted to knowledge, he spent some time on the slopes of the Himalayas. 
+###### 10
+कृत्वा भारतमाख्यानं तपःश्रान्तस्य धीमतः |
+
+Having composed the account of the Mahabharata, the intelligent one was exhausted and performed austerities. 
+
+शुश्रूषां तत्परा राजन्कृतवन्तो वयं तदा ||१०||
+
+O king! At that time, we tended to him—
+###### 11
+सुमन्तुर्जैमिनिश्चैव पैलश्च सुदृढव्रतः 
+
+Sumantu, Jaimini, Paila, extremely firm in his vows, 
+
+अहं चतुर्थः शिष्यो वै शुको व्यासात्मजस्तथा ||११||
+
+I as the fourth disciple, and Shuka, Vyasa’s son.
+###### 17
+प्राप्ते प्रजाविसर्गे वै सप्तमे पद्मसम्भवे |
+
+This was the seventh cycle of creation1347 that resulted from the lotus. 
+
+नारायणो महायोगी शुभाशुभविवर्जितः ||१७||
+
+The great yogi, Narayana, is free from good and bad deeds. 
+
+From his navel, he created the infinitely radiant Brahma, his son.
+###### 23
+स्वरूपिणी ततो बुद्धिरुपतस्थे हरिं प्रभुम् |
+योगेन चैनां निर्योगः स्वयं नियुयुजे तदा ||२३||
+
+The lord Hari resorted to yoga and used this yoga to make the goddess of intelligence present herself before him. 
+###### 24
+स तामैश्वर्ययोगस्थां बुद्धिं शक्तिमतीं सतीम् |
+उवाच वचनं देवो बुद्धिं वै प्रभुरव्ययः ||२४||
+
+Using the power of yoga, the undecaying lord then addressed the virtuous and powerful goddess of intelligence. 
+###### 25
+ब्रह्माणं प्रविशस्वेति लोकसृष्ट्यर्थसिद्धये |
+
+‘O goddess of intelligence! Enter Brahma, so that the objective of creating the worlds become successful.’ 
+
+ततस्तमीश्वरादिष्टा बुद्धिः क्षिप्रं विवेश सा ||२५||
+
+Having been thus instructed by the lord, the goddess of intelligence swiftly entered him.
+###### 27
+एवमुक्त्वा स भगवांस्तत्रैवान्तरधीयत |
+प्राप चैव मुहूर्तेन स्वस्थानं देवसञ्ज्ञितम् ||२७||
+
+the illustrious one vanished from there and in an instant, returned to his one state of divinity. 
+###### 28
+तां चैव प्रकृतिं प्राप्य एकीभावगतोऽभवत् |
+
+He entered Prakriti and remained united with her. 
+
+अथास्य बुद्धिरभवत्पुनरन्या तदा किल ||२८||
+
+However, the intelligent one again began to think along the following lines. 
+###### 29
+सृष्टा इमाः प्रजाः सर्वा ब्रह्मणा परमेष्ठिना |
+
+‘Brahma Parameshthi will create all the subjects—
+
+दैत्यदानवगन्धर्वरक्षोगणसमाकुलाः ||२९||
+
+daityas, danavas, gandharvas and large numbers of rakshasas. 
+
+जाता हीयं वसुमती भाराक्रान्ता तपस्विनी ||२९||
+
+The ascetic, the earth, will become burdened with those who have been born. 
+###### 33
+इमां तपस्विनीं सत्यां धारयिष्यामि मेदिनीम् |
+
+The virtuous and ascetic earth will then be able to bear the burden. 
+
+मया ह्येषा हि ध्रियते पातालस्थेन भोगिना ||३३||
+
+In the form of a serpent,1349 I will hold her up from below.
+###### 37
+अथ भूयो जगत्स्रष्टा भोःशब्देनानुनादयन् |
+
+After this, the creator of the universe uttered the sound of ‘Bho’.1350 
+
+सरस्वतीमुच्चचार तत्र सारस्वतोऽभवत् ||३७||
+
+This sound echoed and Sarasvat manifested himself. 
+###### 38
+अपान्तरतमा नाम सुतो वाक्सम्भवो विभोः |
+
+This son, who manifested himself from the lord’s speech, came to be known as Apantaratama.1351 
+
+भूतभव्यभविष्यज्ञः सत्यवादी दृढव्रतः ||३८||
+
+He was truthful, firm in his vows and knew about the past, the present and the future.
+###### 39
+तमुवाच नतं मूर्ध्ना देवानामादिरव्ययः |
+
+the original and immutable god, who told him, 
+
+वेदाख्याने श्रुतिः कार्या त्वया मतिमतां वर ||३९||
+
+‘O supreme among intelligent ones! Your task is the recounting of the Vedas and the sacred texts. 
+
+तस्मात्कुरु यथाज्ञप्तं मयैतद्वचनं मुने ||३९||
+
+O sage! You should act in accordance with these instructions of mine.’ 
+###### 40
+तेन भिन्नास्तदा वेदा मनोः स्वायम्भुवेऽन्तरे |
+
+In the manvantara known as Svayambhuva, he1352 collated the Vedas. 
+
+ततस्तुतोष भगवान्हरिस्तेनास्य कर्मणा ||४०||
+
+The illustrious Hari was pleased with his deeds,
+
+तपसा च सुतप्तेन यमेन नियमेन च ||४०||
+
+ his tormenting himself with austerities, his self-restraint and rituals.
+###### 41
+श्रीभगवानुवाच||
+
+‘“The illustrious one said, 
+
+मन्वन्तरेषु पुत्र त्वमेवं लोकप्रवर्तकः |
+
+‘O son! In each manvantara, you will thus establish the way of the worlds. 
+
+भविष्यस्यचलो ब्रह्मन्नप्रधृष्यश्च नित्यशः ||४१||
+
+O brahmana! You will not deviate and you will always be unassailable. 
+###### 42
+पुनस्तिष्ये च सम्प्राप्ते कुरवो नाम भारताः |
+
+The Kurus, known as the Bharatas, will be descended from you.
+
+भविष्यन्ति महात्मानो राजानः प्रथिता भुवि ||४२||
+
+
+###### 43
+तेषां त्वत्तः प्रसूतानां कुलभेदो भविष्यति |
+
+But there will be a dissension within the lineage. 
+
+परस्परविनाशार्थं त्वामृते द्विजसत्तम ||४३||
+
+O supreme among brahmanas! Barring you, all the others will destroy themselves. 
+###### 44
+तत्राप्यनेकधा वेदान्भेत्स्यसे तपसान्वितः |
+
+Then too, engaged in austerities, you will classify the Vedas. 
+
+कृष्णे युगे च सम्प्राप्ते कृष्णवर्णो भविष्यसि ||४४||
+
+In that dark age, you will have a dark complexion.
+###### 52
+शनैश्चरः सूर्यपुत्रो भविष्यति मनुर्महान् |
+
+Shanaishchara1354 will be Surya’s son and will be a great Manu. 
+
+तस्मिन्मन्वन्तरे चैव सप्तर्षिगणपूर्वकः ||५२||
+
+In that manvantara, because of my grace, you will be superior to the saptarshis. 
+
+त्वमेव भविता वत्स मत्प्रसादान्न संशयः ||५२||
+
+O son! There is no doubt about this.’”
+###### 53
+व्यास उवाच||
+
+‘Vyasa said, 
+
+एवं सारस्वतमृषिमपान्तरतमं तदा |
+उक्त्वा वचनमीशानः साधयस्वेत्यथाब्रवीत् ||५३||
+
+“The virtuous rishi, Sarasvata Apantaratama, heard these words spoken by the lord. 
+###### 54
+सोऽहं तस्य प्रसादेन देवस्य हरिमेधसः |
+अपान्तरतमा नाम ततो जातोऽऽज्ञया हरेः ||५४||
+
+Through the favours of the god Harimedha, I am the one who was born as Apantaratama.
+###### 58
+वैशम्पायन उवाच||
+
+Vaishampayana continued, 
+
+एष ते कथितः पूर्वं सम्भवोऽस्मद्गुरोर्नृप |
+
+‘O king! I have thus told you how my preceptor was born earlier. 
+
+व्यासस्याक्लिष्टमनसो यथा पृष्टः पुनः शृणु ||५८||
+
+Vyasa was cheerful in his mind and when he was asked, this is what he said. Listen. 
+###### 59
+साङ्ख्यं योगं पञ्चरात्रं वेदाः पाशुपतं तथा |
+ज्ञानान्येतानि राजर्षे विद्धि नानामतानि वै ||५९||
+
+O rajarshi! Know that there are many kinds of knowledge—sankhya, yoga, pancharatra and pashupata. 
+###### 60
+साङ्ख्यस्य वक्ता कपिलः परमर्षिः स उच्यते |
+
+The great rishi, Kapila, is said to be the exponent of sankhya. 
+
+हिरण्यगर्भो योगस्य वेत्ता नान्यः पुरातनः ||६०||
+
+The ancient Hiranyagarba, and no one else, is known as the exponent of yoga. 
+###### 61
+अपान्तरतमाश्चैव वेदाचार्यः स उच्यते |
+
+Apantaratama is said to be the teacher of the Vedas. 
+
+प्राचीनगर्भं तमृषिं प्रवदन्तीह केचन ||६१||
+
+Some speak of him as the rishi Prachinagarbha. 
+###### 62
+उमापतिर्भूतपतिः श्रीकण्ठो ब्रह्मणः सुतः |
+उक्तवानिदमव्यग्रो ज्ञानं पाशुपतं शिवः ||६२||
+
+Brahma’s son, Shiva Shrikantha, the lord of the demons and Uma’s consort, is said to be the attentive exponent of the knowledge known as pashupata. 
+###### 63
+पञ्चरात्रस्य कृत्स्नस्य वेत्ता तु भगवान्स्वयम् |
+
+The illustrious one1356 himself is the exponent of all of pancharatra.
+
+सर्वेषु च नृपश्रेष्ठ ज्ञानेष्वेतेषु दृश्यते ||६३||
+
+
+### c338
+###### 5
+इदं पुरुषसूक्तं हि सर्ववेदेषु पार्थिव |
+ऋतं सत्यं च विख्यातमृषिसिंहेन चिन्तितम् ||५||
+
+O king! This purushasukta exists in all the Vedas.1357 It is famous as both rita and satya.1358 
+###### 6
+उत्सर्गेणापवादेन ऋषिभिः कपिलादिभिः |
+अध्यात्मचिन्तामाश्रित्य शास्त्राण्युक्तानि भारत ||६||
+
+O descendant of the Bharata lineage! Kapila and the other rishis thought about adhyatma and devoted themselves to the contradictions spoken about in the sacred texts. 
+###### 7
+समासतस्तु यद्व्यासः पुरुषैकत्वमुक्तवान् |
+तत्तेऽहं सम्प्रवक्ष्यामि प्रसादादमितौजसः ||७||
+
+Vyasa brought all this together and spoke about a single Purusha. Through the favours of that infinitely energetic one, I will tell you about the truth.
+###### 9
+क्षीरोदस्य समुद्रस्य मध्ये हाटकसप्रभः |
+वैजयन्त इति ख्यातः पर्वतप्रवरो नृप ||९
+
+In the midst of the ocean of milk, there is a supreme mountain, known by the name of Vaijayanta. 
+###### 10
+तत्राध्यात्मगतिं देव एकाकी प्रविचिन्तयन् |
+
+Its hue is like that of gold. Thinking about the progress of adhyatma, the god1360 used to go there alone. 
+
+वैराजसदने नित्यं वैजयन्तं निषेवते ||१०||
+
+He always went there from his resplendent abode and spent time on Vaijayanta. 
+###### 11
+अथ तत्रासतस्तस्य चतुर्वक्त्रस्य धीमतः 
+
+The intelligent one with the four faces was seated there. 
+
+ललाटप्रभवः पुत्रः शिव आगाद्यदृच्छया ||११||
+
+आकाशेनैव योगीशः पुरा त्रिनयनः प्रभुः ||११||
+
+His son, Shiva, born from his forehead, arrived there. Travelling as he willed through the sky, the three-eyed lord of yoga saw him seated there. 
+###### 12
+ततः खान्निपपाताशु धरणीधरमूर्धनि |
+
+From the sky, the lord quickly dropped down on the summit of the mountain. 
+
+अग्रतश्चाभवत्प्रीतो ववन्दे चापि पादयोः ||१२||
+
+He cheerfully presented himself before his superior and worshipped his feet.
+###### 21
+ब्रह्मोवाच||
+
+‘Brahma said, 
+
+वैजयन्तो गिरिवरः सततं सेव्यते मया |
+
+“Vaijayanta, this supreme mountain, is always frequented by me. 
+
+अत्रैकाग्रेण मनसा पुरुषश्चिन्त्यते विराट् ||२१||
+
+Here, with concentration in my mind, I think of the great Purusha.”
+###### 24
+ब्रह्मोवाच||
+
+‘Brahma said, 
+
+बहवः पुरुषाः पुत्र ये त्वया समुदाहृताः |
+
+“O son! As has been stated by you, there are many Purushas.
+
+एवमेतदतिक्रान्तं द्रष्टव्यं नैवमित्यपि ||२४||
+
+ But this one cannot be seen and transcends all the others. 
+
+आधारं तु प्रवक्ष्यामि एकस्य पुरुषस्य ते ||२४||
+
+I am telling you that this single Purusha is alone the foundation. 
+###### 25
+बहूनां पुरुषाणां स यथैका योनिरुच्यते |
+
+That single one is said to be the origin of the many Purushas. 
+
+तथा तं पुरुषं विश्वं परमं सुमहत्तमम् ||२५||
+
+That Purusha is the universe. He is supreme and extremely great. 
+
+निर्गुणं निर्गुणा भूत्वा प्रविशन्ति सनातनम् ||२५||
+
+He is devoid of qualities. Devoid of qualities, they1362 enter the eternal one.”’
+### c339
+###### 10
+एको हुताशो बहुधा समिध्यते; 
+
+There is one fire, but it blazes in different kinds of kindling. 
+
+एकः सूर्यस्तपसां योनिरेका |
+
+There is one sun. There are many austerities, but their origins are the same. 
+
+एको वायुर्बहुधा वाति लोके; 
+
+There is one wind, but it blows in many ways in the world. 
+
+महोदधिश्चाम्भसां योनिरेकः ||१०||
+
+There is one great ocean, though there are many sources of water. 
+
+पुरुषश्चैको निर्गुणो विश्वरूप; 
+
+There is one Purusha, devoid of qualities. The universe is his form 
+
+स्तं निर्गुणं पुरुषं चाविशन्ति ||१०||
+
+and it also enters Purusha, devoid of qualities.
+###### 14
+तत्र यः परमात्मा हि स नित्यं निर्गुणः स्मृतः |
+
+The paramatman is always spoken of as one who is devoid of qualities. 
+
+स हि नारायणो ज्ञेयः सर्वात्मा पुरुषो हि सः ||१४||
+
+He is known as Narayana. He is the Purusha who is inside all atmans. 
+
+न लिप्यते फलैश्चापि पद्मपत्रमिवाम्भसा ||१४||
+
+Like water on the leaf of a lotus, he is not touched by any acts. 
+
+He is sometimes engaged in acts.
+###### 16
+यत्तत्कृत्स्नं लोकतन्त्रस्य धाम; 
+
+Everything in the worlds has a refuge in him. 
+
+वेद्यं परं 
+
+He is the supreme object of knowledge. 
+
+बोधनीयं सबोद्धृ |
+
+He is the one who knows and he is also what is to be known. 
+
+मन्ता मन्तव्यं 
+
+He is the thinker and the object of thought. 
+
+प्राशिता प्राशितव्यं; 
+
+He is the eater and the object that is eaten. 
+
+घ्राता घ्रेयं स्पर्शिता स्पर्शनीयम् ||१६||
+
+He is the one who smells and the object that is smelt.
 # p13
 ### c3
 ###### 2

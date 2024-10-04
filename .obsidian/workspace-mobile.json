@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/Creatures and gods Indo-iranian.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/ishvKrsh.smkhK.md",
+                "file": "000_temp/murti_pratima_vedic.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
+                "file": "Ref/MB.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/hdt.hist.md",
+                "file": "Ref/iamb.mysEg.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/MB.md",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Kafirun/Munafiqun.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,8 +169,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/seeds of revolution in religion.md",
-                "mode": "preview",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/huna.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/why_examplary_public_punishments_are_bad_idew.md",
+                "file": "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/meme_vs_rizz.md",
                 "mode": "source",
                 "source": false
               }
@@ -247,14 +247,6 @@
         }
       },
       {
-        "id": "c3fa91071f34ef45",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
-      },
-      {
         "id": "99f5ba507a558678",
         "type": "leaf",
         "state": {
@@ -275,7 +267,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ref/ishvKrsh.smkhK.md",
+            "file": "000_temp/murti_pratima_vedic.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -292,7 +284,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ref/ishvKrsh.smkhK.md",
+            "file": "000_temp/murti_pratima_vedic.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -304,7 +296,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/ishvKrsh.smkhK.md"
+            "file": "000_temp/murti_pratima_vedic.md"
           }
         }
       }
@@ -321,32 +313,33 @@
   },
   "active": "efa6159fdd96d63a",
   "lastOpenFiles": [
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/Creatures and gods Indo-iranian.md",
+    "000_temp/shankara_patrons.md",
+    "000_temp/hindu_tradition_ethnic_dimension.md",
+    "000_temp/hindu_acharya_timeline.md",
+    "000_temp/pre-shankara_hindu_traditions.md",
+    "000_temp/murti_pratima_vedic.md",
+    "000_temp/Misc.md",
+    "Ref/Snkr.md",
+    "Ref/TantraCuḍāmaṇi.md",
     "Ref/mdhvA.md",
-    "Ref/ishvKrsh.smkhK.md",
-    "Ref/ishvKrsh.smkhK.sync-conflict-20240820-071607-AFLIAW3.md",
-    "Ref/BP.md",
+    "Ref/BmS.md",
+    "Ref/mdhvAcr.md",
+    "Ref/ptj.md",
     "Ref/MB.md",
-    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Nietzsche's fallacious interpretation of philosophers.md",
-    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/easy_nonaction_not_equals_evil_bad.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/Nārada.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/vaishnava_brahmanic.md",
-    "Ref/SpB.md",
+    "Ref/ishvKrsh.smkhK.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/Creatures and gods Indo-iranian.md",
+    "Ref/AV.ŚS.md",
+    "Ref/RV.md",
+    "Ref/sndrLhr.md",
+    "Ref/VS.md.md",
     "Ref/TS.md",
-    "Ref/vlmk.RY.md",
-    "Ref/ChU.md",
-    "Ref/CU.md",
-    "Ref/baudhDhS.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/baql/vegan_hindu_narada_brhaspati_manu_markandeya.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Nārada_orpheus_pythagoras.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/baql/vegan_hindu_cow.md",
-    "Ref/bmvP.md",
-    "Ref/brhdP.md",
-    "Ref/BhvP.md",
+    "Ref/TB.md",
+    "Ref/TA.md",
     "Ref/AB.md",
-    "Ref/amrsmh.kos.md",
-    "Ref/pnn.md",
-    "Ref/MnSmr.md",
+    "Ref/BU.md",
+    "Ref/TtU.md",
+    "Ref/ChU.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/Scythian skeptic/shaka",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/baql",
     "boomerang/454817935_8007547926005160_936124851052004106_n.jpg",
     "boomerang",
@@ -358,7 +351,6 @@
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/a'jamī/Untitled",
     "Untitled.canvas",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/fadl",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/aql",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/15194409_656388334522608_3437266025718668693_o.jpg"
   ]
 }

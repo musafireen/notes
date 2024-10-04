@@ -13,7 +13,7 @@ Iamblichus (300)
 
 # metoche/methexis
 
-[[iamb.MEg#1.1#2]]
+[[iamb.mysEg#1.1#2]]
 Śirk
 Metochus = śarīk
 
@@ -21,7 +21,7 @@ meros
 
 # fate
 connected to god 
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 
 # macro-micro cosm sympathy
 # rituals
@@ -31,10 +31,10 @@ connected to god
 ## divination
 
 young & simple more adapt at prediction
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 ### dream
 
-[[iamb.MEg]]
+[[iamb.mysEg]]
 ### enthusiasm
 
 #### ecstasy
@@ -42,15 +42,15 @@ young & simple more adapt at prediction
 #### mania
 
 #### fumigation
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 #### cave
 
 Those who prophesize in delphi get enthusiasm from sitting in cave
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 #### cymbal
 
 Cymbal hearing enthusiasm
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 
 #### corybant
 
@@ -65,7 +65,7 @@ Cymbal hearing enthusiasm
 ###### peculiar daemon
 
 ### invocations
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 
 #### threats
 
@@ -108,7 +108,7 @@ Cymbal hearing enthusiasm
 # rank of gods
 
 ## hero
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 
 vīra
 :
@@ -116,21 +116,21 @@ vīra
 ## daemon 
 
 psychical
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 
 animal matter constitute daemons
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 
 daemon aerial
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 ## souls
 ## aquatic
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 
 ## jugglers
 
 impede virtues
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 
 # theogony
 ## chaeremon
@@ -147,7 +147,7 @@ Osiris isis & sacred fables are resolvable into stars and phases of these, moon,
 ## goddess
 
 mother of gods
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 
 ## linga phallus
 
@@ -155,7 +155,7 @@ Liṅga
 \>effigy
 
 erect phallus exhibited and obscene language used for passive gods
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 
 liṅga śiva nirākāra
 :
@@ -164,7 +164,7 @@ liṅga śiva nirākāra
 seated on lotus
 Rises from mire
 changes form by zodiac
-:[[iamb.MEg]]
+:[[iamb.mysEg]]
 
 ## hermes
 Theus
@@ -172,4 +172,4 @@ Hegemon of logos
 Cenus of hiereuses
 prostate of true episteme on theuses
 euremas of sophia made anathema to him, and all syngramme made eponym of him by progonuses
-:[[iamb.MEg#1.1#1]]
+:[[iamb.mysEg#1.1#1]]

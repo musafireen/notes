@@ -1,4 +1,11 @@
 https://sanskritdocuments.org/doc_upanishhat/shveta.html
+
+# c2
+### 2.9
+प्राणान् प्रपीड्येह संयुक्तचेष्टः
+क्षीणे प्राणे नासिकयोच्छ्वसीत ।
+दुष्टाश्वयुक्तमिव वाहमेनं
+विद्वान् मनो धारयेताप्रमत्तः ॥ ९॥
 # c3
 
 https://www.esamskriti.com/e/Spirituality/Upanishads-Commentary/Svetasvatara-Upanishad-~-Chap-3-The-Highest-Reality-2.aspx

@@ -61,19 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/ishvKrsh.smkhK.md",
+                "file": "Ref/mdhvAcr.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a58a26737ab5ec60",
+            "id": "58c3ebdd7b044e86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/MB.md",
+                "file": "Ref/iamb.MEg1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "370485b41a0d5df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref/BU.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,8 +121,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: tare",
-                "matchingCase": false,
+                "query": "file: mdh",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -147,8 +159,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/ishvKrsh.smkhK.md",
-                "collapseAll": true,
+                "file": "Ref/mdhvAcr.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/ishvKrsh.smkhK.md",
+                "file": "Ref/mdhvAcr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/ishvKrsh.smkhK.md"
+                "file": "Ref/mdhvAcr.md"
               }
             }
           }
@@ -196,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,45 +220,50 @@
   },
   "active": "5e3c009a14375111",
   "lastOpenFiles": [
-    "Ref/MB.md",
-    "boomerang/tareq.md",
-    "boomerang/bd army.md",
+    "Ref/sndrLhr.md",
+    "Ref/~syncthing~sndrLhr.md.tmp",
+    "Ref/~syncthing~AB.md.tmp",
+    "Ref/aitU.md",
+    "Ref/~syncthing~BU.md.tmp",
+    "Ref/~syncthing~aitU.md.tmp",
+    "Ref/merv.md",
+    "Ref/~syncthing~TB.md.tmp",
+    "Ref/~syncthing~kthUd.md.tmp",
+    "Ref/mdukU.md",
+    "Ref/~syncthing~merv.md.tmp",
+    "Ref/~syncthing~mdukU.md.tmp",
+    "Ref/~syncthing~TtU.md.tmp",
+    "000_temp/shankara_patrons.md",
+    "Ref/~syncthing~Snkr.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/macedonian.md",
+    "000_temp/hindu_tradition_ethnic_dimension.md",
+    "Ref/mdukK.md",
+    "000_temp/hindu_acharya_timeline.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/parthian.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/huna.md",
+    "Ref/AitA.md",
+    "000_temp/murti_pratima_vedic.md",
+    "Ref/AshSS.md",
+    "Ref/kvlU.md",
+    "Ref/klrnvT.md",
+    "000_temp/pre-shankara_hindu_traditions.md",
+    "Ref/amm.marc.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/Kushan.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/Scythian skeptic/shaka/Indian_anti_majuj_history.md",
+    "Ref/mdhvA.md",
+    "Ref/iamb.mysEg.md",
+    "Ref/iamb.MEg1.md",
+    "Ref/BU.md",
+    "Ref/ChU.md",
+    "general_public_fascist.md",
+    "boomerang/bd_army_lying_about_utsab_mandal_age.jpg",
+    "boomerang/bd army harassing teen haircut.png",
+    "madaripuria_genz_khil2.png",
+    "madaripuria_genz_khil.png",
+    "madaripuria_genz_khil3.png",
     "boomerang/tareq_twit_cartoon.jpg",
     "boomerang/tareq.jpg",
     "boomerang/bd army harassing teen haircut 1.png",
-    "boomerang/bd army harassing teen haircut.png",
-    "Ref/AV.ŚS.md",
-    "Ref/ishvKrsh.smkhK.md",
-    "Ref/ishvKrsh.smkhK.sync-conflict-20240820-071607-AFLIAW3.md",
-    "Ref/~syncthing~ishvKrsh.smkhK.sync-conflict-20240820-071607-AFLIAW3.md.tmp",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
-    "Ref/~syncthing~BP.md.tmp",
-    "Ref/~syncthing~MB.md.tmp",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/~syncthing~Nārada.md.tmp",
-    "Ref/mdhvA.md",
-    "Ref/AB.sync-conflict-20240815-194515-AFLIAW3.md",
-    "Ref/AB.sync-conflict-20240816-193446-AFLIAW3.md",
-    "Ref/AB.sync-conflict-20240816-200417-AFLIAW3.md",
-    "Ref/AV.ŚS.sync-conflict-20240815-202055-AFLIAW3.md",
-    "Ref/AV.ŚS.sync-conflict-20240815-202256-AFLIAW3.md",
-    "Ref/BP.sync-conflict-20240815-203525-AFLIAW3.md",
-    "Ref/RV.sync-conflict-20240801-100239-RXT2P7M.md",
-    "Ref/TB.sync-conflict-20240816-195747-AFLIAW3.md",
-    "Ref/SpB.md",
-    "Ref/AB.md",
-    "Ref/~syncthing~AB.sync-conflict-20240816-200417-AFLIAW3.md.tmp",
-    "Ref/TB.md",
-    "Ref/~syncthing~TB.sync-conflict-20240816-195747-AFLIAW3.md.tmp",
-    "Ref/~syncthing~AB.sync-conflict-20240816-193446-AFLIAW3.md.tmp",
-    "Ref/brhmP.md",
-    "Ref/BhvP.md",
-    "Ref/SkP.md",
-    "Ref/~syncthing~brhmP.md.tmp",
-    "Ref/brhdP.md",
-    "Ref/BP.md",
-    "Ref/~syncthing~BP.sync-conflict-20240815-203525-AFLIAW3.md.tmp",
-    "Ref/~syncthing~AV.ŚS.sync-conflict-20240815-202256-AFLIAW3.md.tmp",
-    "Ref/VS.md.md",
     "Untitled.canvas"
   ]
 }
