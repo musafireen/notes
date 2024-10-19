@@ -1,10 +1,63 @@
 
-
 https://sanskritdocuments.org/doc_veda/taittirIyasamhitA.html
 
 https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/ts/ts.htm
 
 https://sacred-texts.com/hin/yv/index.htm
+
+## 1.6
+#### 8
+२५ यो वै श्र॒द्धामना॑रभ्य य॒ज्ञेन॒ यज॑ते॒ नास्ये॒ष्टाय॒ श्रद्द॑धते॒ऽपः प्र
+ण॑यति श्र॒द्धा वा आपः॑ श्र॒द्धामे॒वाऽऽरभ्य॑ य॒ज्ञेन॑ यजत उ॒भये᳚ऽस्य देवमनु॒ष्या इ॒ष्टाय॒ श्रद्द॑धते॒ 
+
+He who offers sacrifice without faith, they place not faith in his sacrifice. He brings waters forward, the waters are faith; verily with faith he offers sacrifice, and both gods and men place faith in his sacrifice. 
+
+तदा॑हु॒रति॒ वा ए॒ता वर्त्र॑न्नेद॒न्त्यति॒ वाचं॒ मनो॒ वावैता नाति॑ नेद॒न्तीति॒ मन॑सा॒ प्र ण॑यती॒यं वै मनो॒ २६ ऽनयै॒वैनाः॒ प्र ण॑य॒त्यस्क॑न्नहविर्भवति॒ 
+
+They say, 'They foam over the barrier, they foam over speech, but over mind they do not foam.' He brings them forward with mind; mind is this (earth) [1]; verily with this (earth) he brings them forward. The sacrifice of him who knows thus does not spill. 
+
+य ए॒वं वेद॑ यज्ञायु॒धानि॒ संभ॑रति य॒ज्ञो वै य॑ज्ञायु॒धानि॑ य॒ज्ञमे॒व तथ्संभ॑रति॒ यदेक॑मेकꣳ सं॒भरे᳚त् पितृदेव॒त्या॑नि स्यु॒र्यत् स॒ह सर्वा॑णि मानु॒षाणि॒ द्वे द्वे॒ संभ॑रति
+याज्यानुवा॒क्य॑योरे॒व रू॒पं क॑रो॒त्यथो॑ मिथु॒नमे॒व 
+
+He collects the weapons of the sacrifice; the weapons of the sacrifice are the sacrifice; verily he collects the sacrifice. If he were to collect them one by one, they would have the Pitrs as their divinity; if all together, (they would have) men as their divinity. He collects them in pairs, and so he makes the form of the Yajya and the Anuvakya, and thus there is a pair. 
+
+यो वै दश॑ यज्ञायु॒धानि॒ वेद॑ मुख॒तो᳚ऽस्य य॒ज्ञः क॑ल्पते॒ स्फ्य २७ श्च॑ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च॒ शूर्पं॑ च कृष्णाजि॒नं च॒
+शम्या॑ चो॒लूख॑लं च॒ मुस॑लं च दृ॒षच्चोप॑ला चै॒तानि॒ वै
+दश॑ यज्ञायु॒धानि॒ य ए॒वं वेद॑ मुख॒तो᳚ऽस्य य॒ज्ञः क॑ल्पते॒ 
+
+If a man knows the ten weapons of the sacrifice, his sacrifice is in order at the beginning. The wooden sword [2], the potsherds, the offering-spoon, the basket, the black antelope skin, the pin, the mortar and pestle, the lower and upper millstones, these are the ten weapons of the sacrifice; the sacrifice of him who knows thus is in order at the beginning. 
+
+यो वै दे॒वेभ्यः॑ प्रति॒प्रोच्य॑ य॒ज्ञेन॑ यजते जु॒षन्ते᳚ऽस्य दे॒वा ह॒व्यꣳ
+ह॒विर्नि॑रु॒प्यमा॑णम॒भि म॑न्त्रयेता॒ग्निꣳ होता॑रमि॒ह तꣳ हु॑व॒ इति॑ 
+ 
+If a man sacrifices after announcing the sacrifice to the gods, they delight in his sacrifice. He should as the oblation is being offered recite (the words), 'Agni, the priest, him I summon hither' [3]. 
+
+२८ दे॒वेभ्य॑ ए॒व प्र॑ति॒प्रोच्य॑ य॒ज्ञेन॑ यजते जु॒षन्ते᳚ऽस्य दे॒वा
+ह॒व्यमे॒ष वै य॒ज्ञस्य॒ ग्रहो॑ गृही॒त्वैव य॒ज्ञेन॑ यजते॒
+तदु॑दि॒त्वा वाचं॑ यच्छति य॒ज्ञस्य॒ धृत्या॒ 
+
+Thus he announces the sacrifice to the gods and sacrifices, and the gods delight in his sacrifice. This is the taking of the sacrifice and so after taking the sacrifice he sacrifices. After speaking he remains silent, to support the sacrifice. 
+
+अथो॒ मन॑सा॒ वै प्र॒जाप॑तिर्य॒ज्ञम॑तनुत॒ मन॑सै॒व तद्य॒ज्ञं त॑नुते॒
+रक्ष॑सा॒मन॑न्ववचाराय॒ 
+
+Now Prajapati performed the sacrifice with mind; verily he performs the sacrifice with mind to prevent the Raksases following. 
+
+यो वै य॒ज्ञं योग॒ आग॑ते यु॒नक्ति॑ यु॒ङ्क्ते यु॑ञ्जा॒नेषु॒ 
+
+He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among the yokers. 
+
+कस्त्वा॑ युनक्ति॒ स त्वा॑ युन॒क्त्वित्या॑ह 
+
+'Who (ka) yoketh thee? Let him yoke thee', he says. 
+
+प्र॒जाप॑ति॒र्वै कः प्र॒जाप॑तिनै॒वैनं॑ युनक्ति यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ॥ 
+
+Ka is Prajapati--verily by Prajapati he yokes it; he yokes indeed among the yokers.
+
+वै मनः॒ स्फ्य इति॑
+युन॒क्त्वेका॑दश च ॥
+
 ## 2.3
 #### 1
 गमयन्ति॒ यदि॒ नाव॒गच्छे॒दाश्व॑त्थान्म॒यूखा᳚न्थ्स॒प्त म॑ध्यमे॒षाया॒मुप॑

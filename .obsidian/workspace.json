@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/mdhvAcr.md",
+                "file": "Ref/SpB.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/BU.md",
+                "file": "Ref/iamb.mysEg.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -121,8 +121,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: mdh",
-                "matchingCase": true,
+                "query": "iamb.MysEg",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -159,8 +159,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/mdhvAcr.md",
-                "collapseAll": false,
+                "file": "Ref/iamb.mysEg.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/mdhvAcr.md",
+                "file": "Ref/iamb.mysEg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/mdhvAcr.md"
+                "file": "Ref/iamb.mysEg.md"
               }
             }
           }
@@ -218,44 +218,44 @@
       "templates:Insert template": false
     }
   },
-  "active": "5e3c009a14375111",
+  "active": "370485b41a0d5df0",
   "lastOpenFiles": [
-    "Ref/sndrLhr.md",
-    "Ref/~syncthing~sndrLhr.md.tmp",
-    "Ref/~syncthing~AB.md.tmp",
-    "Ref/aitU.md",
-    "Ref/~syncthing~BU.md.tmp",
-    "Ref/~syncthing~aitU.md.tmp",
-    "Ref/merv.md",
-    "Ref/~syncthing~TB.md.tmp",
-    "Ref/~syncthing~kthUd.md.tmp",
-    "Ref/mdukU.md",
-    "Ref/~syncthing~merv.md.tmp",
-    "Ref/~syncthing~mdukU.md.tmp",
-    "Ref/~syncthing~TtU.md.tmp",
-    "000_temp/shankara_patrons.md",
-    "Ref/~syncthing~Snkr.md.tmp",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/macedonian.md",
-    "000_temp/hindu_tradition_ethnic_dimension.md",
-    "Ref/mdukK.md",
-    "000_temp/hindu_acharya_timeline.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/parthian.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/huna.md",
-    "Ref/AitA.md",
-    "000_temp/murti_pratima_vedic.md",
-    "Ref/AshSS.md",
-    "Ref/kvlU.md",
-    "Ref/klrnvT.md",
-    "000_temp/pre-shankara_hindu_traditions.md",
-    "Ref/amm.marc.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/Kushan.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/Scythian skeptic/shaka/Indian_anti_majuj_history.md",
-    "Ref/mdhvA.md",
-    "Ref/iamb.mysEg.md",
+    "Ref/iamb.MEg.md",
+    "Ref/plut.md",
     "Ref/iamb.MEg1.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
+    "Ref/sxtEmp.md",
+    "Ref/parmen.md",
+    "Ref/diels.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/dhu_l_qarnen/alexander_gymnosophist_qur'an.md",
+    "Ref/clmnt.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sihr/spirituals.md",
+    "Ref/strab.geogr.md",
+    "Ref/Arr.md",
+    "Ref/psPltch.md",
+    "Ref/mgstInd.md",
     "Ref/BU.md",
-    "Ref/ChU.md",
-    "general_public_fascist.md",
+    "Ref/SpB.md",
+    "Ref/AV.ŚS.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/Creatures and gods Indo-iranian.md",
+    "Ref/~syncthing~AV.ŚS.md.tmp",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/~syncthing~Creatures and gods Indo-iranian.md.tmp",
+    "Ref/~syncthing~SpB.md.tmp",
+    "Ref/RV.md",
+    "Ref/~syncthing~TB.md.tmp",
+    "000_temp/~syncthing~prana_pratishtha_yantra_verses.md.tmp",
+    "000_temp/prana_pratishtha_yantra_verses.md",
+    "000_temp/tantric_veda_verses.md",
+    "Ref/kdk.cc.md",
+    "000_temp/~syncthing~murti_pratima_vedic.md.tmp",
+    "000_temp/~syncthing~tantric_veda_verses.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/~syncthing~Sāṃkhya_kabbala_ghuli.md.tmp",
+    "Ref/~syncthing~TS.md.tmp",
+    "Ref/~syncthing~RV.md.tmp",
+    "Ref/mdhvAcr.md",
+    "Ref/sndrLhr.md",
+    "Ref/aitU.md",
+    "Ref/merv.md",
     "boomerang/bd_army_lying_about_utsab_mandal_age.jpg",
     "boomerang/bd army harassing teen haircut.png",
     "madaripuria_genz_khil2.png",

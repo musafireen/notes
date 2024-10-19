@@ -473,6 +473,54 @@ and thereto sang sweetly the Linos-song1 with his delicate voice;
 ## b?
 ### 24I?
 ### 241?
+## b5
+ὀξὺ μάλα προϊδών, "μεγάλου ὑπὸ κύματος" αρθείς.
+
+OD.5.393 looking forward very keenly when lifted by a great wave.
+
+OD.5.394 1213ὡς δ' ὅτ' ἂναι ἀσπάσιος 21 βίοτος παίδεσσι φανήῃ
+
+OD.5.394 As when life appears welcome to the children
+
+OD.5.395 πατρός, ὃς ἐν νούσῳ ἐκεῖται 1516 κρατέρ' ἄλγεα πάσχων, 155
+
+OD.5.395 of a father who lies in sickness and suffers mighty pains,
+
+#### 396
+δηρόν τηκόμενος, στυγερός δε οἱ έχραε δαιμων, 81
+
+OD.5.396 wasting away a long time as some loathesome divinity assails him,
+#### ?
+OD.5.397 (άσπάσιον (ποδ' άρα τόν γεται 11 θεοί κακότητος έλυσαν,
+
+OD.5.397 and then welcomely, the gods free him from the badness,
+
+OD.5.398 112ῶς Ὀδυση' 113 άσπαστον 121 ἑείσατο 13] [14γαῖα καὶ ὕλη, 141
+
+OD.5.398 so welcome to Odysseus seemed the land and woodland,
+
+00.5.399 νῆχε δ' έπειγόμενος ποσίν 15 ηπείρου ἐπιβῆναι. 151
+
+OD.5.399 and he swam in eager haste to set foot on the land.
+
+00.5.400 116117 άλλ' ὅτε τόσσον 11ο άπῆν (19ὅσσον τε 18 γέγωνε βοήσας, 17319) OD 5.400 But when he was as far away as one shouting can be heard,
+
+OD.5.401 και 16 δή 12αδοῦπον ἄκουσε 200 ποτί σπιλάδεσσι θαλάσσης: OD.5.401 he heard the thud of the sea against the reefs,
+
+OD.5.402 ῥόχθει γάρ 121122 μέγα κύμα 22) ποτί 211 ξερὸν ἠπείροιο OD.5.402 for a great wave was crashing against the dry land,
+
+OD.5.403 δεινόν έρευγόμενον, είλυτο δὲ πάνθ' 128 άλὸς ἄχνη: 231 OD.5.403 belching terribly, and all was wrapped in sea's spray.
+
+Οι 5.404 οὐ γὰρ ἔσαν λιμένες νηῶν ὄχοι, οὐδ' ἐπιωγαί. OD.5.404 For there were no harbors, ships' holders, not even roadsteads,
+
+OD.5.405 ἀλλ' ἀκταὶ προβλῆτες ἔσαν σπιλάδες τε πάγοι τε: OD.5.405 but there were jutting spits, rocks, and reefs.
+
+20.5.406 124125 καὶ τότ' 12 Οδυσσῆος 127128λύτο26] γούνατα28) καὶ 129 φίλον ήτορ, 25127129]
+
+OD.5.406 Right then Odysseus' knees and dear heart were undone,
+
+OD.5.407 130131132 ὀχθήσας δ' ἄρα εἶπε 321 προς 133ὂν 14 μεγαλήτορα θυμόν:33]34) OD.5.407 and troubled, he said to his own great-hearted spirit:
+
 ## b11
 ### c12
 OD.11.541   αἱ δ' ἄλλαι8] ψυχαὶ [9νεκύων κατατεθνηώτων9]

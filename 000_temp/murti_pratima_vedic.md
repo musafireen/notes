@@ -5,21 +5,26 @@ The practice of creating **murti** (idols) and **pratima** (images) from materia
 Although the Vedas do not explicitly prescribe the worship of physical images (murti), later scholars and commentators have referred to specific verses that they interpreted as indications of the permissibility of idol worship or the use of physical representations of the divine. Some of these verses include:
 
 ### 1. **Rigveda 10.81.3**:
+![[RV#10.81#3]]
    - **Verse**: "He who fixed firm the earth and heaven, who established the vast and lofty sky..."
    - **Interpretation**: This verse has been interpreted symbolically by some later traditions to indicate the divine as the cosmic architect. This act of creation is sometimes seen as a justification for **representing divinity in physical forms** (murti), similar to how the gods fashioned the universe.
 
 ### 2. **Taittiriya Samhita 1.6.8**:
+[[TS#1.6#8]]
    - **Verse**: This portion describes the crafting of the sacrificial altar (**vedi**) with great precision. In the Tantric and Puranic traditions, the **construction of altars** and the use of precise measurements for rituals have been **extended** to the crafting of images and **murti**. The precision and care required in constructing the vedi are seen as analogous to the care required in creating divine representations like murti.
 
 ### 3. **Purusha Sukta (Rigveda 10.90)**:
+[[RV#10.90#13-14]]
    - **Verse**: The famous Purusha Sukta describes how the cosmic being (Purusha) pervades the entire universe, with different parts of his body representing different aspects of the cosmos.
    - **Interpretation**: Some interpret this as indicating that **divinity can manifest in material form**, thus justifying the practice of making **murtis** that represent various forms of the divine. This idea aligns with later philosophical concepts that regard the murti as a physical manifestation of the cosmic principle.
 
 ### 4. **Shukla Yajurveda (Vajasaneyi Samhita 32.3)**:
+![[VS.md#p32#3]]
    - **Verse**: "Na tasya pratima asti" ("There is no image of Him").
    - **Interpretation**: Although this verse explicitly states that the supreme being has no image or form, later interpreters in the Bhakti and Tantric traditions interpreted this as referring to the **formless nature of the ultimate reality**, while still allowing for the creation of **murtis** as symbolic representations of various aspects or forms of the divine, such as Vishnu, Shiva, or Devi.
 
 ### 5. **Taittiriya Brahmana 3.1.4**:
+![[TB#3.1.4]]
    - **Verse**: Describes various ritual tools and the symbolic construction of the universe through offerings.
    - **Interpretation**: Some later interpreters link this to the construction of **murti** and **pratima**, stating that just as tools and objects are consecrated and used in rituals, so too can images of deities be crafted and consecrated for worship.
 

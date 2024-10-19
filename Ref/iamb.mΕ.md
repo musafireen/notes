@@ -1,46 +1,13 @@
-https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2023.tlg006.1st1K-grc1:0.1-10.8/
-
-# title
-#### gr
-#### en
-#### sn
-নাগরহস্যে
-#### ar
-عن سرّ المصر
-# ep
-
-THE EPISTLE OF PORPHYRY TO THE EGYPTIAN ANEBO.THE EPISTLE OF PORPHYRY TO THE EGYPTIAN ANEBO.
- 
-Porphyry to the Prophet Anebo greeting.I COMMENCE my friendship towards you from the Gods and good daemons, and from those philosophic disquisitions, which have an affinity to these powers. And concerning these particulars indeed, much has been said by the Grecian philosophers; but, for the most part, the principles of their belief are derived from conjecture.In the first place, therefore, it is granted that there are Gods. But I inquire what the peculiarities are of each of the more excellent genera, by which they are separated from each other; and whether we must say that the cause of the distinction between them is from their energies, or their passive motions, 
-or from things that are consequent, or from their different arrangement with respect to bodies; as, for instance, from the arrangement of the Gods with reference to etherial, but of demons to aerial, and of souls to terrestrial, bodies?I also ask, why, since [all] the Gods dwell in the heavens, theurgists only invoke the terrestrial and subterranean Gods? Likewise, how some of the Gods are said to be aquatic and aerial? And how different Gods are allotted different places, and the parts of bodies according to circumscription, though they have an infinite, impartible, and incomprehensible power? How there will be a union of them with each other, if they are separated by the divisible circumscriptions of parts, and by the difference of places and subject bodies?How do theologists, or those who are wise in divine concerns, represent the Gods as passive, to whom on this account, it is said, erect phalli are exhibited, and obscene language is used? But if they are impassive, the invocations of the Gods will be in vain, which announce that they can appease the anger of the divinities, and procure a reconciliation with them; and still more, what are called the necessities of the Gods, will be in vain. For that which is impassive cannot be allured, nor compelled, nor necessitated. How, therefore, are many things, in sacred operations, performed to them as passive? Invocations, likewise, are made to the Gods as passive; so that not demons only are passive, but the Gods also, conformably to what Homer says,  “ And flexible are e’en the Gods themselves.”*But if we assert with certain persons, that the Gods are pure intellects, but that daemons, being psychical, participate of intellect; in a still greater degree will pure intellects be incapable of being allured, and will be unmingled with sensible natures. Supplications, however, are foreign to the purity of intellect, and therefore are not to be made to it. But the throbs which are offered [in sacred rites] are offered as to sensitive and psychical essences.Are, therefore, the Gods separated from daemons, through the former being incorporeal, but the latter corporeal? If, however, the Gods are incorporeal alone, how will the sun and moon, and the visible celestials, be Gods?How, likewise, are some of the Gods beneficent, but others malefic?What is it that connects the Gods in the heavens that have bodies, with the incorporeal Gods?What is it that distinguishes demons from the visible and invisible Gods, since the visible are connected with the invisible Gods?In what do a daemon, hero, and soul, differ from each other? Is it in essence, or in power, or in energy?What is the indication of a God, or angel, or archangel, or demon, or a certain archon, or soul being present? For to speak boastingly, and to exhibit a phantasm of a certain quality, is common to Gods and daemons, and to all the more excellent genera. So that the genus of Gods will in no respect be better than that of daemons.Since the ignorance of, and deception about, divine natures is impiety and impurity, but a scientific knowledge of the Gods is holy and beneficial, the ignorance of things honourable and beautiful will be darkness, but the knowledge of them will be light. And the former, indeed, will fill men with all evils, through the want of erudition, and through audacity; but the latter will be the cause to them of every good. [I wish you, therefore, to unfold to me the truth respecting these particulars.*][And, in the first place, I wish you to explain to me distinctly*] what that is which is effected in divination? For we frequently obtain knowledge of future events through dreams, when we are asleep; not being, at that time, in a tumultuous ecstasy, for the body is then quiescent; but we do not apprehend what then takes place, in the same manner as when we are awake.But many, through enthusiasm and divine inspiration, predict future events, and are then in so wakeful a state, as even to energize according to sense, and yet they are not conscious of the state they are in, or at least, not so much as they were before.Some also of those who suffer a mental alienation, energize enthusiastically on hearing cymbals or drums, or a certain modulated sound, such as those who are Corybantically inspired, those who are possessed by Sabazius, and those who are inspired by the mother of the Gods. But some energize enthusiastically by drinking water, as the priest of Clarius, in Colophon; others, by being seated at the mouth of a cavern, as those who prophesy at Delphi; and others by imbibing the vapour from water, as the prophetesses in Branchidae. Some also become enthusiastic by standing on characters, as those that are filled from the intromission of spirits. Others, who are conscious what they are doing in other respects, are divinely inspired according to the phantastic part; some, indeed, receiving darkness for a cooperator, others certain potions, but others incantations and compositions : and some energize, according to the imagination, through water; others in a wall, others in the open air, and others in the sun, or in some other of the celestial bodies. Some also establish the art of the investigation of futurity through the viscera, through birds, and through the stars.I likewise ask concerning the mode of divination, what it is, and what the quality by which it is distinguished? All diviners, indeed, assert, that they obtain a foreknowledge of future events through Gods or daemons, and that it is not possible for any others to know that which is future, than those who are the lords of futurity. I doubt, therefore, whether divinity is so far subservient to men, as not to be averse to some becoming diviners from meal.But, concerning the causes of divination, it is dubious whether a God, an angel, or a daemon, or sonic other power, is present in manifestations, or divinations, or certain other sacred energies, as is the case with those powers that are drawn down through you [priests] by the necessities with which invocation is attended.Or does the soul assert and imagine these things, and are they, as some think, the passions of the soul, excited from small incentives?Or is a certain mixed form of subsistence produced from our soul, and divine inspiration externally derived?Hence it must be said, that the soul generates the power which has an imaginative perception of futurity, through motions of this kind, or that the things which are adduced from matter constitute daemons, through the powers that are inherent in them, and especially things adduced from the matter which is taken from animals.For in sleep, when we are not employed about any thing, we sometimes obtain a knowledge of the future.But that a passion of the soul is the cause of divination, is indicated by this, that the senses are occupied, that fumigations are introduced, and that invocations are employed; and likewise, that not all men, but those that are more simple and young, are more adapted to prediction.The ecstasy, also, of the reasoning power is the cause of divination, as is likewise the mania which happens in diseases, or mental aberration, or a sober and vigilant condition, or suffusions of the body, or the imaginations excited by diseases, or an ambiguous state of mind, such as that which takes place between a sober condition and ecstasy, or the imaginations artificially procured by enchantment.Nature, likewise, art, and the sympathy of things in the universe, as if they were the parts of one animal, contain premanifestations of certain things with reference to each other. And bodies are so prepared, that there is a presignification of some by others, which is clearly indicated by the works performed in predicting what is future. For those who invoke the divinities for this purpose, have about them stones and herbs, bind certain sacred bonds, which they also dissolve, open places that are shut, and change the deliberate intentions of the recipients, so as from being depraved to render them worthy, though they were before depraved. Nor are the artificers of efficacious images to be despised. For they observe the motion of the celestial bodies, and can tell from the concurrence of what star with a certain star or stars, predictions will be true or false; and also whether the things that are performed will be inanities, or significant and efficacious, though no divinity or daemon is drawn down by these images.But there are some who suppose that there is a certain obedient genus of daemons, which is naturally fraudulent, omniform, and various, and which assumes the appearance of Gods and daemons, and the souls of the deceased; and that through these every thing which appears to be either good or evil is effected; for they are not able to contribute any thing to true goods, such as those of the soul, nor to have any knowledge of them, but they abuse, deride, and frequently impede those who are striving to be virtuous. They are likewise full of pride, and rejoice in vapours and sacrifices.Jugglers likewise fraudulently attack us in many ways, through the ardour of the expectations which they raise.It very much indeed perplexes me to understand how superior beings, when invoked, are commanded by those that invoke them, as if they were their inferiors; and they think it requisite that he who worships them should be just, but when they are called upon to act unjustly, they do not refuse so to act. Though the Gods, likewise, do not hear him who invokes them, if he is impure from venereal connexions, yet, at the same time, they do not refuse to lead any one to illegal venery.[I am likewise dubious with respect to sacrifices, what utility or power they possess in the universe, and with the Gods, and on what account they are performed, appropriately indeed, to the powers who are honoured by them, but usefully to those by whom the gifts are offered.*]Why also do the interpreters of prophecies and oracles think it requisite that they should abstain from animals, lest the Gods should be polluted by the vapours arising from them; and yet the Gods are especially allured by the vapours of animals?Why is it requisite that the inspector [who presides over sacred rites] ought not to touch a dead body, though most sacred operations are performed through dead bodies? And why, which is much more absurd than this, are threats employed and false terrors, by any casual person, not to a daemon, or some departed soul, but to the sovereign Sun himself, or to the Moon, or some one of the celestial Gods, in order to compel these divinities to speak the truth? For does not he who says that he will burst the heavens, or unfold the secrets of Isis, or point out the arcanum in the adytum, or stop Baris, or scatter the members of Osiris to Typhon, [or that he will do something else of the like kind *], does not he who says this, by thus threatening what he neither knows nor is able to effect, prove himself to be stupid in the extreme? And what abjectness does it not produce in those who, like very silly children, are possessed with such vain fear, and are terrified at such fictions? And yet Chaeremon, who was a sacred scribe, writes these things, as disseminated by the Egyptians. It is also said, that these, and things of the like kind, are of a most compulsive nature.What also is the meaning of those mystic narrations which say that a certain divinity is unfolded into light from mire, that he is seated above the lotus, that he sails in a ship, and that he changes his forms every hour, according to the signs of the zodiac? For thus, they say, he presents himself to the view, and thus ignorantly adapt the peculiar passion of their own imagination to the God himself. But if these things are asserted symbolically, being symbols of the powers of this divinity, I request an interpretation of these symbols. For it is evident, that if these are similar to passions of the Sun, when he is eclipsed, they would be seen by all men who intently survey the God.What also is the design of names that are without signification? and why, of such, are those that are barbaric preferred to our own? For if he who hears them looks to their signification, it is sufficient that the conception remains the same, whatever the words may be that are used. For he who is invoked is not of the Egyptian race; nor, if he was an Egyptian, does he use the Egyptian, or, in short, any human language. For either all these are the artificial contrivances of enchanters, and veils originating from our passions, which rumour ascribes to a divine nature; or we ignorantly frame conceptions of divinity, contrary to its real mode of subsistence.I likewise wish you to unfold to me, what the Egyptians conceive the first cause to be; whether intellect, or above intellect? whether alone, or subsisting with some other or others? whether incorporeal, or corporeal; and whether it is the same with the Demiurgus, or prior to the Demiurgus? Likewise, whether all things are from one principle, or from many principles? whether the Egyptians have a knowledge of matter, or of primary corporeal qualities; and whether they admit matter to be unbegotten, or to be generated? For Chaeremon, indeed, and others, do not think there is any thing else prior to the visible worlds; but in the beginning of their writings on this subject, admit the existence of the Gods of the Egyptians, but of no others, except what are called the planets, the Gods that give completion to the zodiac, and such as rise together with these; and likewise, the sections into decans, and the horoscopes. They also admit the existence of what are called the powerful leaders, whose names are to be found in the calendars, together with their ministrant offices, their risings and settings, and their significations of future events. For Chaeremon saw that what those who say that the sun is the Demiurgus, and likewise what is asserted concerning Osiris and Isis, and all the sacred fables, may be resolved into the stars and the phases, occultations and risings of these, or into the increments or decrements of the moon, or into the course of the sun, or the nocturnal and diurnal hemisphere, or into the river [Nile]. And, in short, the Egyptians resolve all things into physical, and nothing into incorporeal and living essences. Most of them likewise suspend that which is in our power from the motion of the stars; and bind all things, though I know not how, with the indissoluble bonds of necessity, which they call fate. They also connect fate with the Gods; whom, nevertheless, they worship in temples and statues, and other things, as the only dissolvers of fate.Concerning the peculiar daemon, it must be inquired how he is imparted by the lord of the geniture, and according to what kind of efflux, or life, or power, he descends from him to us? And also, whether he exists, or does not exist? And whether the invention of the lord of the geniture is impossible, or possible? For if it is possible he is happy, who having learned the scheme of his nativity, and knowing his proper daemon, becomes liberated from fate.The canons, also, of genethliology [or prediction from the natal day] are innumerable and incomprehensible. And the knowledge of this mathematical science cannot be obtained; for there is much dissonance concerning it, and Choeremon and many others have written against it. But the discovery of the lord, or lords, of the geniture, if there are more than one in a nativity, is nearly granted by astrologers themselves to be unattainable, and yet they say that on this the knowledge of the proper daemon depends.Farther still, I wish to know whether the peculiar daemon rules over some one of the parts in us? For it appears to certain persons, that daemons preside over the parts of our body, so that one is the guardian of health, another of the form of the body, and another of the corporeal habits, and that there is one daemon who presides in common over all these. And again, that one daemon presides over the body, another over the soul, and another over the intellect; and that some of them are good, but others bad.I am also dubious whether this daemon is not a certain part of the soul, [such, for instance, as the intellectual part;] and if so, lie will be happy who has wise intellect.I see likewise, that there is a twofold worship of the peculiar daemon; the one being the worship as of two, but the other as of three. By all men, however, the daemon is called upon by a common invocation.I farther ask, whether there is a certain other latent way to felicity, separate from the Gods? And I am dubious whether it is requisite to look to human opinions in divine divination and theurgy? And whether the soul does not devise great things from casual circumstances? Moreover, there are certain other methods which are conversant with the prediction of future events. And, perhaps, those who possess divine divination, foresee indeed what will happen, yet are not on this account happy; for they foresee future events, but do not know how to use this knowledge properly. I wish, therefore, that you would point out to me the path to felicity, and show me in what the essence of it consists. For with us [Greeks] there is much verbal contention about it, because we form a conjecture of good from human reasonings. But by those who have devised the means of associating with beings more excellent than man, if the investigation of this subject is omitted, wisdom will be professed by them in vain; as they will only disturb a divine intellect about the discovery of a fugitive slave, or the purchase of land, or, if it should so happen, about marriage, or merchandize. And if they do not omit this subject, but assert what is most true about other things, yet say nothing that is stable and worthy of belief about felicity, in consequence of employing themselves about things that are difficult, but useless to mankind; in this case, they will not be conversant either with Gods or good daemons, but with that daemon who is called fraudulent; or, if this is not admitted, the whole will be the invention of men, and the fiction of a mortal nature.* (pg. 3) Iliad, lib. x. v.* (pg. 4) Gale has omitted to give the original of the sentence contained in the brackets; the translation of which I have added from the answer of Iamblichus to this epistle.* (pg. 5) Here also the original is omitted by Gale, and the translation of it is given by me from the text of Iamblichus.* (pg. 10)The paragraph within the brackets is omitted in the original; but I have supplied it from the following answer of Iamblichus to this Epistle. This omission is not noticed by Gale.* (pg. 11) Here likewise the words within the brackets, which are omitted in the original, are added from Iamblichus; but the omission is not noticed by Gale.
- 
-# c0
-
-## 0.1
-
-#### gr
-
-Ἀβάμμωνος διδασκάλου
-
-πρὸς τὴν Πορφυρίου πρὸς
-
-Ἀνεβὼ ἐπιστολὴν ἀπόκρισις, καὶ
-
-τῶν ἐν αὐτῇ ἀπορημάτων
-
-λύσεις.
-
-#### en
-THE ANSWER OF THE PRECEPTOR ABAMMON TO THE EPISTLE OF PORPHYRY TO ANEBO, AND A SOLUTION OF THE DOUBTS CONTAINED IN IT.
 
 # c1
+
 ## 1.1
 
 ### 1
 #### gr
 Θεὸς ὁ τῶν λόγων ἡγεμών, ὁ Ἑρμῆς, πάλαι δέδοκται καλῶς ἅπασι τοῖς ἱερεῦσιν εἶναι κοινός·
 #### en
-HERMES, the (the) God who (hegemon) presides over (log) language, was (palae) formerly very (cal) properly (doc) considered as (cen) common to (pan) all (hier) priests; 
+Hermes, the God who presides over language, was formerly very properly considered as common to all priests;
 #### sn
 Θεὸς ὁ τῶν λόγων ἡγεμών, ὁ Ἑρμῆς, πάλαι δέδοκται καλῶς ἅπασι τοῖς ἱερεῦσιν εἶναι κοινός·
 #### ar
@@ -48,52 +15,57 @@ HERMES, the (the) God who (hegemon) presides over (log) language, was (palae) fo
 
 ### 2
 #### gr
-καὶ τῆς περὶ θεῶν ἀληθινῆς ἐπιστήμης προεστηκὼς εἷς ἐστιν ὁ αὐτὸς ἐν ὅλοις·
+ὁ καὶ τῆς περὶ θεῶν ἀληθινῆς ἐπιστήμης προεστηκὼς εἷς ἐστιν ὁ αὐτὸς
+
+ἐν ὅλοις·
 #### en
-and the power who (prosta) presides over the (aleth) true (epistem) science concerning the Gods is (hen) one and the (aut) same in the (hol) whole of things. 
+and the power who presides over the true science concerning the Gods is one and the same in the whole of things.
 #### sn
-καὶ τῆς περὶ θεῶν ἀληθινῆς ἐπιστήμης προεστηκὼς εἷς ἐστιν ὁ αὐτὸς
+ὁ καὶ τῆς περὶ θεῶν ἀληθινῆς ἐπιστήμης προεστηκὼς εἷς ἐστιν ὁ αὐτὸς
 
 ἐν ὅλοις·
 #### ar
-καὶ τῆς περὶ θεῶν ἀληθινῆς ἐπιστήμης προεστηκὼς εἷς ἐστιν ὁ αὐτὸς
+ὁ καὶ τῆς περὶ θεῶν ἀληθινῆς ἐπιστήμης προεστηκὼς εἷς ἐστιν ὁ αὐτὸς
 
 ἐν ὅλοις·
 
 ### 3
 #### gr
-δὴ καὶ οἱ ἡμέτεροι πρόγονοι τὰ αὑτῶν τῆς σοφίας εὑρήματα ἀνετίθεσαν, Ἑρμοῦ πάντα τὰ οἰκεῖα συγγράμματα ἐπονομάζοντες.
+ᾧ δὴ καὶ οἱ ἡμέτεροι πρόγονοι·
 #### en
-Hence our (progon) ancestors (anathe) dedicated their (heurema) inventions of (sophia) wisdom to this deity, inscribing all their (ecia) own (syngramma) writings with the (onoma) name of Hermes. 
+Hence our ancestors dedicated the inventions of their wisdom to this deity, inscribing all their own writings with the name of Hermes.
 #### sn
-δὴ καὶ οἱ ἡμέτεροι πρόγονοι τὰ αὑτῶν τῆς σοφίας εὑρήματα ἀνετίθεσαν, Ἑρμοῦ πάντα τὰ οἰκεῖα συγγράμματα ἐπονομάζοντες.
+ᾧ δὴ καὶ οἱ ἡμέτεροι πρόγονοι·
 #### ar
-δὴ καὶ οἱ ἡμέτεροι πρόγονοι τὰ αὑτῶν τῆς σοφίας εὑρήματα ἀνετίθεσαν, Ἑρμοῦ πάντα τὰ οἰκεῖα συγγράμματα ἐπονομάζοντες.
+ᾧ δὴ καὶ οἱ ἡμέτεροι πρόγονοι·
 
 ### 4
 #### gr
-εἰ καὶ τοῦδε τοῦ θεοῦ καὶ ἡμεῖς τὸ ἐπιβάλλον καὶ δυνατὸν ἑαυτοῖς μέρος μετάσχοιμεν, σύ τε καλῶς ποιεῖς, τινὰ εἰς γνῶσιν τοῖς ἱερεῦσιν, ὡς φιλοῦσι, περὶ θεολογίας προτείνων ἐρωτήματα, 
+τὰ αὑτῶν τῆς σοφίας εὑρήματα ἀνετίθεσαν, Ἑρμοῦ πάντα τὰ οἰκεῖα συγγράμματα ἐπονομάζοντες.
 #### en
-If, therefore, we (metech) participate of a (mer) portion of this God, (epiball) adapted and (dynat) commensurate to our powers, you (poe) do (cal) well to propose your theological (erotem) doubts to the priests, as (phil) friends, and to (protin) make these doubts (gnosis) known to them. 
+If, therefore, we participate of a portion of this God, adapted and commensurate to our powers, you do well to propose your theological doubts to the priests, as friends, and to make these doubts known to them.
 #### sn
-εἰ καὶ τοῦδε τοῦ θεοῦ καὶ ἡμεῖς τὸ ἐπιβάλλον καὶ δυνατὸν ἑαυτοῖς μέρος μετάσχοιμεν, σύ τε καλῶς ποιεῖς, τινὰ εἰς γνῶσιν τοῖς ἱερεῦσιν, ὡς φιλοῦσι, περὶ θεολογίας προτείνων ἐρωτήματα, 
+τὰ αὑτῶν τῆς σοφίας εὑρήματα ἀνετίθεσαν, Ἑρμοῦ πάντα τὰ οἰκεῖα συγγράμματα ἐπονομάζοντες.
 #### ar
-εἰ καὶ τοῦδε τοῦ θεοῦ καὶ ἡμεῖς τὸ ἐπιβάλλον καὶ δυνατὸν ἑαυτοῖς μέρος μετάσχοιμεν, σύ τε καλῶς ποιεῖς, τινὰ εἰς γνῶσιν τοῖς ἱερεῦσιν, ὡς φιλοῦσι, περὶ θεολογίας προτείνων ἐρωτήματα, 
+τὰ αὑτῶν τῆς σοφίας εὑρήματα ἀνετίθεσαν, Ἑρμοῦ πάντα τὰ οἰκεῖα συγγράμματα ἐπονομάζοντες.
+
 ### 5
 #### gr
-ἐγώ τε εἰκότως τὴν πρὸς Ἀνεβὼ τὸν ἐμὸν μαθητὴν πεμφθεῖσαν ἐπιστολὴν ἐμαυτῷ γεγράφθαι νομίσας ἀποκρινοῦμαί σοι αὐτὰ τ’ ἀληθῆ ὑπὲρ ὧν πυνθάνῃ.
+εἰ καὶ τοῦδε τοῦ θεοῦ καὶ ἡμεῖς τὸ ἐπιβάλλον καὶ δυνατὸν ἑαυτοῖς μέρος μετάσχοιμεν, σύ τε καλῶς ποιεῖς, τινὰ εἰς γνῶσιν τοῖς ἱερεῦσιν, ὡς φιλοῦσι, περὶ θεολογίας προτείνων ἐρωτήματα, ἐγώ τε εἰκότως τὴν πρὸς Ἀνεβὼ τὸν ἐμὸν μαθητὴν πεμφθεῖσαν ἐπιστολὴν ἐμαυτῷ γεγράφθαι νομίσας ἀποκρινοῦμαί σοι αὐτὰ τ’ ἀληθῆ ὑπὲρ ὧν πυνθάνῃ.
 #### en
-I also very (eoec) properly (nomiz) conceiving that the epistle (pemp) sent to my (mathetes) disciple Anebo was (graph) written to me, shall give you a true (apocrin) answer to your (puth) inquiries. 
+I also very properly conceiving that the epistle sent to my disciple Anebo was written to me, shall give you a true answer to your inquiries.
 #### sn
-ἐγώ τε εἰκότως τὴν πρὸς Ἀνεβὼ τὸν ἐμὸν μαθητὴν πεμφθεῖσαν ἐπιστολὴν ἐμαυτῷ γεγράφθαι νομίσας ἀποκρινοῦμαί σοι αὐτὰ τ’ ἀληθῆ ὑπὲρ ὧν πυνθάνῃ.
+εἰ καὶ τοῦδε τοῦ θεοῦ καὶ ἡμεῖς τὸ ἐπιβάλλον καὶ δυνατὸν ἑαυτοῖς μέρος μετάσχοιμεν, σύ τε καλῶς ποιεῖς, τινὰ εἰς γνῶσιν τοῖς ἱερεῦσιν, ὡς φιλοῦσι, περὶ θεολογίας προτείνων ἐρωτήματα, ἐγώ τε εἰκότως τὴν πρὸς Ἀνεβὼ τὸν ἐμὸν μαθητὴν πεμφθεῖσαν ἐπιστολὴν ἐμαυτῷ γεγράφθαι νομίσας ἀποκρινοῦμαί σοι αὐτὰ τ’ ἀληθῆ ὑπὲρ ὧν πυνθάνῃ.
 #### ar
-ἐγώ τε εἰκότως τὴν πρὸς Ἀνεβὼ τὸν ἐμὸν μαθητὴν πεμφθεῖσαν ἐπιστολὴν ἐμαυτῷ γεγράφθαι νομίσας ἀποκρινοῦμαί σοι αὐτὰ τ’ ἀληθῆ ὑπὲρ ὧν πυνθάνῃ.
+εἰ καὶ τοῦδε τοῦ θεοῦ καὶ ἡμεῖς τὸ ἐπιβάλλον καὶ δυνατὸν ἑαυτοῖς μέρος μετάσχοιμεν, σύ τε καλῶς ποιεῖς, τινὰ εἰς γνῶσιν τοῖς ἱερεῦσιν, ὡς φιλοῦσι, περὶ θεολογίας προτείνων ἐρωτήματα, ἐγώ τε εἰκότως τὴν πρὸς Ἀνεβὼ τὸν ἐμὸν μαθητὴν πεμφθεῖσαν ἐπιστολὴν ἐμαυτῷ γεγράφθαι νομίσας ἀποκρινοῦμαί σοι αὐτὰ τ’ ἀληθῆ ὑπὲρ ὧν πυνθάνῃ.
 
 ### 6
 #### gr
-οὐδὲ γὰρ ἂν εἴη πρέπον Πυθαγόραν μὲν καὶ Πλάτωνα καὶ Δημόκριτον καὶ Εὔδοξον καὶ πολλοὺς ἄλλους τῶν παλαιῶν Ἑλλήνων τετυχηκέναι διδαχῆς τῆς προσηκούσης ὑπὸ τῶν καθ’ ἑαυτοὺς γινομένων ἱερογραμματέων, σὲ δ’ ἐφ’ ἡμῶν ὄντα καὶ τὴν αὐτὴν ἐκείνοις ἔχοντα γνώμην, διαμαρτεῖν τῆς ὑπὸ τῶν νῦν ζώντων καὶ καλουμένων κοινῶν διδασκάλων ὑφηγήσεως.
+οὐδὲ γὰρ ἂν εἴη πρέπον Πυθαγόραν μὲν καὶ Πλάτωνα καὶ Δημόκριτον καὶ Εὔδοξον καὶ πολλοὺς ἄλλους τῶν παλαιῶν Ἑλλήνων
+
+τετυχηκέναι διδαχῆς τῆς προσηκούσης ὑπὸ τῶν καθ’ ἑαυτοὺς γινομένων ἱερογραμματέων, σὲ δ’ ἐφ’ ἡμῶν ὄντα καὶ τὴν αὐτὴν ἐκείνοις ἔχοντα γνώμην, διαμαρτεῖν τῆς ὑπὸ τῶν νῦν ζώντων καὶ καλουμένων κοινῶν διδασκάλων ὑφηγήσεως.
 #### en
-For it would not be (prep) becoming,  that Pythagoras and Plato, Democritus and Eudoxus, and (poly) many (all) other of the ancient Greeks, should have (tych) obtained (prosec) appropriate (didach) instruction from the (hieroghrammates) sacred scribes (gen) of their time, but that you who are our contemporary, and (gnome) think conformably to those ancients, should be (diamart) frustrated of your (hyphegesis) wish by those who are now (zo) living, and who are (cal) called common (didascal) preceptors.
+For it would not be becoming, that Pythagoras and Plato, Democritus and Eudoxus, and many other of the ancient Greeks, should have obtained appropriate instruction from the sacred scribes of their time, but that you who are our contemporary, and think conformably to those ancients, should be frustrated of your wish by those who are now living, and who are called common preceptors.
 #### sn
 οὐδὲ γὰρ ἂν εἴη πρέπον Πυθαγόραν μὲν καὶ Πλάτωνα καὶ Δημόκριτον καὶ Εὔδοξον καὶ πολλοὺς ἄλλους τῶν παλαιῶν Ἑλλήνων
 
@@ -107,9 +79,7 @@ For it would not be (prep) becoming,  that Pythagoras and Plato, Democritus and 
 #### gr
 ἐγὼ μὲν οὖν οὕτως ἐπὶ τὸν λόγον τὸν παρόντα πρόσειμι, σὺ δ’, εἰ μὲν βούλει, τὸν αὐτὸν ἡγοῦ σοι πάλιν ἀντιγράφειν ᾧπερ ἐπέστειλας·
 #### en
-I, therefore, thus (prose) betake myself to the (pares) present (log) discussion; 
-
-and do you, if you (bul) please, (hege) conceive that the same person to whom you sent the letter returns you an answer. 
+I, therefore, thus betake myself to the present discussion;
 #### sn
 ἐγὼ μὲν οὖν οὕτως ἐπὶ τὸν λόγον τὸν παρόντα πρόσειμι, σὺ δ’, εἰ μὲν βούλει, τὸν αὐτὸν ἡγοῦ σοι πάλιν ἀντιγράφειν ᾧπερ ἐπέστειλας·
 #### ar
@@ -119,7 +89,7 @@ and do you, if you (bul) please, (hege) conceive that the same person to whom yo
 #### gr
 εὶ δὲ καὶ φαίνοιτό σοι δεῖν, ἐμὲ θὲς εἶναί σοι τὸν ἐν γράμμασι διαλεγόμενον ἤ τινα ἄλλον προφήτην Αἰγυπτίων·
 #### en
-Of, if it should (phan) seem (de) fit to you, (the) admit it to be me who (dialeg) discourses with you in (gramma) writing, or some other prophet of the Egyptians, 
+and do you, if you please, conceive that the same person to whom you sent the letter returns you an answer.
 #### sn
 εὶ δὲ καὶ φαίνοιτό σοι δεῖν, ἐμὲ θὲς εἶναί σοι τὸν ἐν γράμμασι διαλεγόμενον ἤ τινα ἄλλον προφήτην Αἰγυπτίων·
 #### ar
@@ -129,7 +99,7 @@ Of, if it should (phan) seem (de) fit to you, (the) admit it to be me who (diale
 #### gr
 οὔδε γὰρ τοῦτο διενήνοχεν·
 #### en
-for this is of no (diapher) consequence. 
+Or, if it should seem fit to you, admit it to be me who discourses with you in writing, or some other prophet of the Egyptians, for this is of no consequence.
 #### sn
 οὔδε γὰρ τοῦτο διενήνοχεν·
 #### ar
@@ -139,11 +109,7 @@ for this is of no (diapher) consequence.
 #### gr
 ἢ ἔτι βέλτιον οἶμαι τὸν μὲν λέγοντα ἄφες, εἴτε χείρων εἴτε ἀμείνων εἴη, τὰ δὲ λεγόμενα σκόπει, εἴτε ἀλφθῆ εἴτε ψευδῆ λέγεται προθύμως ἀνεγείρας τὴν διάνοιαν.
 #### en
-Or, which I (hoe) think is still better, (aphe) dismiss the consideration whether the speaker is an inferior or a superior character, 
-
-but (scop) direct your attention to what (leg) is said, 
-
-so as (prothum) readily to excite your (dianoia) mind to (anegir) survey whether what is (leg) asserted is true or (pseud) false.
+Or, which I think is still better, dismiss the consideration whether the speaker is an inferior or a superior character, but direct your attention to what is said, so as readily to excite your mind to survey whether what is asserted is true or false.
 #### sn
 ἢ ἔτι βέλτιον οἶμαι τὸν μὲν λέγοντα ἄφες, εἴτε χείρων εἴτε ἀμείνων εἴη, τὰ δὲ λεγόμενα σκόπει, εἴτε ἀλφθῆ εἴτε ψευδῆ λέγεται προθύμως ἀνεγείρας τὴν διάνοιαν.
 #### ar
@@ -155,7 +121,7 @@ so as (prothum) readily to excite your (dianoia) mind to (anegir) survey whether
 
 ὁποῖα τῶν νυνὶ προκειμένων προβλημάτων·
 #### en
-In the (arch) first place, therefore, we shall (diaer) divide the genera of the (proci) proposed problems, in order that we may know the quantity and quality of them. 
+In the first place, therefore, we shall divide the genera of the proposed problems, in order that we may know the quantity and quality of them.
 #### sn
 Ἐν ἀρχῇ δὴ διελώμεθα τὰ γένη πόσα τέ ἐστι καὶ
 
@@ -169,7 +135,7 @@ In the (arch) first place, therefore, we shall (diaer) divide the genera of the 
 #### gr
 ἀπὸ τίνων τε εἴληπται θείων θεολογιῶν τὰ ἀπορήματα διέλθωμεν, καὶ κατὰ ποίας τινὰς ἐπιστήμας ἐπιζητεῖται τὴν πρόθεσιν αὐτῶν ποιησώμεθα.
 #### en
-And, in the -next place, we shall (dierch) (prothesis) (poe) show from what theologies the (por) doubts are (lamb) assumed, and according to what sciences they are (epizete) investigated. 
+And, in the next place, we shall show from what theologies the doubts are assumed, and according to what sciences they are investigated.
 #### sn
 ἀπὸ τίνων τε εἴληπται θείων θεολογιῶν τὰ ἀπορήματα διέλθωμεν, καὶ κατὰ ποίας τινὰς ἐπιστήμας ἐπιζητεῖται τὴν πρόθεσιν αὐτῶν ποιησώμεθα.
 #### ar
@@ -179,11 +145,7 @@ And, in the -next place, we shall (dierch) (prothesis) (poe) show from what theo
 #### gr
 Τὰ μὲν οὖν ἐπιποθεῖ διάκρισίν τινα τῶν κακῶς συγκεχυμένων, τὰ δ’ ἐστὶ περὶ τὴν αἰτίαν δι’ ἣν ἕκαστά ἐστί τε, οὕτωσι καὶ νοεῖται, τὰ δ’ ἐπ’ ἄμφω τὴν γνώμην ἕλκει κατ’ ἐναντίωσίν τινα προβαλλόμενα·
 #### en
-For some things that are (cac) badly (synche) confused, (epipothe) require a certain (diacrisis) distinction; 
-
-others are (es) conversant with the (etia) cause through which they (es) subsist, and are (no) apprehended; 
-
-others, which we (proball) propose according to a certain (enantiosis) contrariety, (helc) draw our (gnome) decision on (amph) both sides; 
+For some things that are badly confused, require a certain distinction;
 #### sn
 Τὰ μὲν οὖν ἐπιποθεῖ διάκρισίν τινα τῶν κακῶς συγκεχυμένων, τὰ δ’ ἐστὶ περὶ τὴν αἰτίαν δι’ ἣν ἕκαστά ἐστί τε, οὕτωσι καὶ νοεῖται, τὰ δ’ ἐπ’ ἄμφω τὴν γνώμην ἕλκει κατ’ ἐναντίωσίν τινα προβαλλόμενα·
 #### ar
@@ -193,7 +155,7 @@ others, which we (proball) propose according to a certain (enantiosis) contrarie
 #### gr
 ἔνια δὲ καὶ τὴν ὅλην ἀπαιτεῖ παρ’ ἡμῶν μυσταγωγίαν·
 #### en
-and some things (apaet) require from us the whole (mystagogy) development of mystic doctrines. 
+others are conversant with the cause through which they subsist, and are apprehended;
 #### sn
 ἔνια δὲ καὶ τὴν ὅλην ἀπαιτεῖ παρ’ ἡμῶν μυσταγωγίαν·
 #### ar
@@ -203,7 +165,7 @@ and some things (apaet) require from us the whole (mystagogy) development of mys
 #### gr
 τοιαῦτα δὲ ὄντα πολλαχόθεν εἴληπται καὶ ἀπὸ διαφερουσῶν ἐπιστημῶν.
 #### en
-Such, therefore, being the nature of the subjects of discussion, they are assumed from many places, and from (diapher) different sciences. 
+others, which we propose according to a certain contrariety, draw our decision on both sides;
 #### sn
 τοιαῦτα δὲ ὄντα πολλαχόθεν εἴληπται καὶ ἀπὸ διαφερουσῶν ἐπιστημῶν.
 #### ar
@@ -211,13 +173,11 @@ Such, therefore, being the nature of the subjects of discussion, they are assume
 
 ### 16
 #### gr
-Τὰ μὲν γὰρ ἀφ’ ὧν οἱ Χαλδαίων σοφοὶ παραδεδώκασι τὰς ἐπιστάσεις προσάγει, τὰ δ’ ἀφ’ ὧν Αἰγυπτίων οἱ προφῆται διδάσκουσι ποιεῖται τὰς ἀντιλήψεις, ἔνια δὲ καὶ τῆς τῶν φιλοσόφων θεωρίας ἐχόμενα τὰς ἐρωτήσεις ἑπομένως αὐτοῖς ποιεῖται.
+Τὰ μὲν γὰρ ἀφ’ ὧν οἱ Χαλδαίων σοφοὶ παραδεδώκασι τὰς ἐπιστάσεις προσάγει, τὰ δ’ ἀφ’ ὧν Αἰγυπτίων οἱ προφῆται διδάσκουσι ποιεῖται τὰς ἀντιλήψεις, ἔνια δὲ καὶ τῆς τῶν φιλοσόφων θεωρίας ἐχόμενα τὰς ἐρωτήσεις
+
+ἑπομένως αὐτοῖς ποιεῖται.
 #### en
-For some things (prosag) introduce (epistasis) animadversions from what the wise men of the Chaldeans have (parado) delivered; 
-
-others (poe) produce (antilepsis) objections from what the prophets of the Egyptians (didasc) teach; 
-
-and there are some that, (ech) adhering to the theory of philosophers, (poe) make (erotesis) inquiries (hep) conformably to them. 
+and some things require from us the whole development of mystic doctrines.
 #### sn
 Τὰ μὲν γὰρ ἀφ’ ὧν οἱ Χαλδαίων σοφοὶ παραδεδώκασι τὰς ἐπιστάσεις προσάγει, τὰ δ’ ἀφ’ ὧν Αἰγυπτίων οἱ προφῆται διδάσκουσι ποιεῖται τὰς ἀντιλήψεις, ἔνια δὲ καὶ τῆς τῶν φιλοσόφων θεωρίας ἐχόμενα τὰς ἐρωτήσεις
 
@@ -231,10 +191,7 @@ and there are some that, (ech) adhering to the theory of philosophers, (poe) mak
 #### gr
 ἤδη δέ τινα καὶ ἀπ’ ἄλλων οὐκ ἀξίων λόγου δοξασμάτων ἐφέλκεταί τινα ἀπρεπῆ διαμφισβήτησιν, τὰ δ’ ἀπὸ τῶν κοινῶν ὑπολήψεων παρ’ ἀνθρώποις ὥρμηται·
 #### en
-There are now likewise some, that from other (doxasm) opinions, which do not (axi) deserve to be (log) mentioned, (ephelc) elicite a certain (diamphibetesis) dubitation; 
-
-and others (horm) originate from the common (hypolepsis) conceptions of (anr) mankind. 
-
+Such, therefore, being the nature of the subjects of discussion, they are assumed from many places, and from different sciences.
 #### sn
 ἤδη δέ τινα καὶ ἀπ’ ἄλλων οὐκ ἀξίων λόγου δοξασμάτων ἐφέλκεταί τινα ἀπρεπῆ διαμφισβήτησιν, τὰ δ’ ἀπὸ τῶν κοινῶν ὑπολήψεων παρ’ ἀνθρώποις ὥρμηται·
 #### ar
@@ -244,9 +201,7 @@ and others (horm) originate from the common (hypolepsis) conceptions of (anr) ma
 #### gr
 αὐτά τε οὖν καθ’ ἑαυτὰ ἕκαστα ποικίλως διάκειται, καὶ πρὸς ἄλληλα πολυειδῶς συνήρμοσται, ὅθεν δὴ διὰ πάντα ταῦτα λόγου τινός ἐστιν ἐπιδεῆ τοῦ κατευθύνοντος αὐτὰ προσηκόντως.
 #### en
-These things, therefore, are of themselves (poec) variously (diaci) disposed, and are (polyid) multiformly (synarmoz) connected with (hecast) each other. 
-
-Hence, through all these causes, a certain discussion is (epidee) requisite for the (cateuth) management of them in a (prosec) becoming manner.* 
+For some things introduce animadversions from what the wise men of theChaldeans have delivered;
 #### sn
 αὐτά τε οὖν καθ’ ἑαυτὰ ἕκαστα ποικίλως διάκειται, καὶ πρὸς ἄλληλα πολυειδῶς συνήρμοσται, ὅθεν δὴ διὰ πάντα ταῦτα λόγου τινός ἐστιν ἐπιδεῆ τοῦ κατευθύνοντος αὐτὰ προσηκόντως.
 #### ar
@@ -258,15 +213,7 @@ Hence, through all these causes, a certain discussion is (epidee) requisite for 
 #### gr
 Ἡμεῖς οὖν περὶ τὰ μὲν Ἀσσυρίων πάτρια δόγματα παραδώσομέν σοι μετ’ ἀκριβείας καὶ ἀληθείας τὴν γνώμην, τὰ δὲ ἡμέτερά σοι σαφῶς ἀποκαλύψομεν, τὰ μὲν ἀπὸ τῶν ἀρχαίων ἀπείρων γραμμάτων ἀναλογιζόμενοι τῇ γνώσει, τὰ δ’ ἀφ’ ὧν ὕστερον εἰς πεπερασμένον βιβλίον συνήγαγον οἱ παλαιοὶ τὴν ὅλην περὶ τῶν θείων εἴδησιν.
 #### en
-WE shall, therefore, deliver to you the (patria) peculiar dogmas of the Assyrians; 
-
-and also clearly (apocalypt) develop to you our own opinions; 
-
-(analogiz)/(synagog) collecting some things from the (apiron) infinite writings of the ancients, 
-
-but others from those particulars which were (synagog)/(pera) comprehended by the (palae) ancients in one (peperasmen)/(bibli) treatise, 
-
-and pertain to the whole (idesis) knowledge of (thio) divine natures. 
+We shall, therefore, deliver to you the peculiar dogmas of the Assyrians; and also clearly develop to you our own opinions;
 #### sn
 Ἡμεῖς οὖν περὶ τὰ μὲν Ἀσσυρίων πάτρια δόγματα παραδώσομέν σοι μετ’ ἀκριβείας καὶ ἀληθείας τὴν γνώμην, τὰ δὲ ἡμέτερά σοι σαφῶς ἀποκαλύψομεν, τὰ μὲν ἀπὸ τῶν ἀρχαίων ἀπείρων γραμμάτων ἀναλογιζόμενοι τῇ γνώσει, τὰ δ’ ἀφ’ ὧν ὕστερον εἰς πεπερασμένον βιβλίον συνήγαγον οἱ παλαιοὶ τὴν ὅλην περὶ τῶν θείων εἴδησιν.
 #### ar
@@ -276,29 +223,33 @@ and pertain to the whole (idesis) knowledge of (thio) divine natures.
 #### gr
 Φιλόσοφον δ’ εἴ τι προβάλλεις ἐρώτημα, διακρινοῦμέν σοι καὶ τοῦτο κατὰ τὰς Ἑρμοῦ παλαιὰς στήλας,
 
-ἃς Πλάτων ἤδη πρόσθεν καὶ Πυθαγόρας διαναγνόντες φιλοσοφίαν συνεστήσαντο, τὰ δ’ ἀλλόφυλα ζητήματα ἢ ἀντιλογικὰ καὶ δυσεριστίαν τινὰ ἐμφαίνοντα πραῶς καὶ ἐμμελῶς παραμυθούμενοι ἢ τὴν ἀτοπίαν αὐτῶν ἀποδείξομεν·
+ἃς Πλάτων ἤδη πρόσθεν καὶ Πυθαγόρας διαναγνόντες φιλοσοφίαν συνεστήσαντο, τὰ δ’ ἀλλόφυλα ζητήματα ἢ ἀντιλογικὰ καὶ δυσεριστίαν τινὰ ἐμφαίνοντα πραῶς καὶ ἐμμελῶς παραμυθούμενοι·
 #### en
-If also you should propose any philosophic (erotem) inquiry, we shall (diacrin) discuss it for you, according to the ancient (stele) pillars of Hermes, which Plato and Pythagoras (dianagno) knew before, and from thence (systa) constituted their philosophy. 
-
-But such things as (emphan) exhibit (allophyl) foreign (zetema) inquiries, or which are (antilogic) contradictory and (dyseristi) contentious, we shall (paramyth) assist (pra) mildly and (mel) aptly, or we shall (apodec) demonstrate their (atopia) absurdity. 
+collecting some things from the infinite writings of the ancients, but others from those particulars which were comprehended by the ancients in one treatise, and pertain to the whole knowledge of divine natures. If also you should propose any philosophic inquiry, we shall discuss it for you, according to the ancient pillars of Hermes, which Plato and Pythagoras knew before, and from thence constituted their philosophy.
 #### sn
 Φιλόσοφον δ’ εἴ τι προβάλλεις ἐρώτημα, διακρινοῦμέν σοι καὶ τοῦτο κατὰ τὰς Ἑρμοῦ παλαιὰς στήλας,
 
-ἃς Πλάτων ἤδη πρόσθεν καὶ Πυθαγόρας διαναγνόντες φιλοσοφίαν συνεστήσαντο, τὰ δ’ ἀλλόφυλα ζητήματα ἢ ἀντιλογικὰ καὶ δυσεριστίαν τινὰ ἐμφαίνοντα πραῶς καὶ ἐμμελῶς παραμυθούμενοι ἢ τὴν ἀτοπίαν αὐτῶν ἀποδείξομεν·
+ἃς Πλάτων ἤδη πρόσθεν καὶ Πυθαγόρας διαναγνόντες φιλοσοφίαν συνεστήσαντο, τὰ δ’ ἀλλόφυλα ζητήματα ἢ ἀντιλογικὰ καὶ δυσεριστίαν τινὰ ἐμφαίνοντα πραῶς καὶ ἐμμελῶς παραμυθούμενοι·
 #### ar
 Φιλόσοφον δ’ εἴ τι προβάλλεις ἐρώτημα, διακρινοῦμέν σοι καὶ τοῦτο κατὰ τὰς Ἑρμοῦ παλαιὰς στήλας,
 
-ἃς Πλάτων ἤδη πρόσθεν καὶ Πυθαγόρας διαναγνόντες φιλοσοφίαν συνεστήσαντο, τὰ δ’ ἀλλόφυλα ζητήματα ἢ ἀντιλογικὰ καὶ δυσεριστίαν τινὰ ἐμφαίνοντα πραῶς καὶ ἐμμελῶς παραμυθούμενοι ἢ τὴν ἀτοπίαν αὐτῶν ἀποδείξομεν·
+ἃς Πλάτων ἤδη πρόσθεν καὶ Πυθαγόρας διαναγνόντες φιλοσοφίαν συνεστήσαντο, τὰ δ’ ἀλλόφυλα ζητήματα ἢ ἀντιλογικὰ καὶ δυσεριστίαν τινὰ ἐμφαίνοντα πραῶς καὶ ἐμμελῶς παραμυθούμενοι·
+
+### 3
+#### gr
+ἢ τὴν ἀτοπίαν αὐτῶν ἀποδείξομεν·
+#### en
+But such things as exhibit foreign inquiries, or which are contradictory and contentious, we shall assist mildly and aptly, or we shall demonstrate their absurdity. Such, likewise, as proceed conformably[23] to common conceptions, we shall endeavour to discuss in a way perfectly known and clear.
+#### sn
+ἢ τὴν ἀτοπίαν αὐτῶν ἀποδείξομεν·
+#### ar
+ἢ τὴν ἀτοπίαν αὐτῶν ἀποδείξομεν·
 
 ### 4
 #### gr
 καὶ ὅσα προχωρεῖ κατὰ τὰς κοινὰς ἐννοίας γνωρίμως πάνυ καὶ σαφῶς πειρασόμεθα διαλέγεσθαι, καὶ τὰ μὲν ἔργων θείων πείρας δεόμενα πρὸς ἀκριβῆ κατανόησιν (δυνατὸν μόνον διὰ λόγων) τὰ δὲ νοερᾶς θεωρίας πλήρη τε καθαιρεῖσθαι.
 #### en
-Such, likewise, as (chor) proceed conformably* to common (ennoia) conceptions, we shall (pira) endeavour to (dialeg) discuss in a way perfectly (gnorim) known and (saph) clear. 
-
-And things, indeed, which (de) require the (piraz) experience of divine (erg) operations to an (acriba) accurate (catanoesis) knowledge of them, we shall (dialeg) explain, as far as this is (dynat) possible to be effected by (log) words (mono) alone; 
-
-but such as are (pler) full of (noer) intellectual theory, we shall (dialeg) develop with a view to the (cathaer) purification of the soul. 
+And things, indeed, which require the experience of divine operations to an accurate knowledge of them, we shall explain, as far as this is possible to be effected by words alone; but such as are full of intellectual theory, we shall develop with a view to the purification of the soul.
 #### sn
 καὶ ὅσα προχωρεῖ κατὰ τὰς κοινὰς ἐννοίας γνωρίμως πάνυ καὶ σαφῶς πειρασόμεθα διαλέγεσθαι, καὶ τὰ μὲν ἔργων θείων πείρας δεόμενα πρὸς ἀκριβῆ κατανόησιν (δυνατὸν μόνον διὰ λόγων) τὰ δὲ νοερᾶς θεωρίας πλήρη τε καθαιρεῖσθαι.
 #### ar
@@ -310,9 +261,7 @@ but such as are (pler) full of (noer) intellectual theory, we shall (dialeg) dev
 
 διὰ λόγων ὄντα γνωστὰ τούτων οὐδὲν ἀπολείψομεν εἰς τὴν τελείαν ἀπόδειξιν·
 #### en
-But (semia) indications of this theory (axiolog) worthy of notice (dyna) may be (phraz) mentioned, by which it is possible for you, and those who (homo) resemble you, to be (periag) conducted by (nous) intellect to the (usia) essence of [real] (on) beings. 
-
-And with respect to such things as (tych) become (gno) known by a (log) reasoning process, we shall (apolip) leave no one of these without a (tel) perfect (apodixis) demonstration. 
+But indications of this theory worthy of notice may be mentioned, by which it is possible for you, and those who resemble you, to be conducted by intellect to the essence of [real] beings. And with respect to such things as become known by a reasoning process, we shall leave no one of these without a perfect demonstration.
 #### sn
 σημεῖα δὲ αὐτῆς ἀξιόλογα δύναται φράζειν ἀφ’ ὧν δύνασαι καὶ σὺ καὶ οἱ σοὶ ὅμοιοι τῷ νῷ περιάγεσθαι περὶ τὴν οὐσίαν τῶν ὄντων, ὅσα δὲ τυγχάνει
 
@@ -326,9 +275,7 @@ And with respect to such things as (tych) become (gno) known by a (log) reasonin
 #### gr
 τὸ δ’ οἰκεῖον ἐπὶ πᾶσιν ἀποδώσομέν σοι προσηκόντως, καὶ τὰ μὲν θεολογικὰ θεολογικῶς, θεουργικὰ δὲ θεουργικῶς ἀποκρινούμεθα, φιλοσόφως δὲ τὰ φιλόσοφα μετὰ σοῦ συνεξετάσομεν·
 #### en
-But in all things we shall give to each that which is appropriate. 
-
-And such questions, indeed, as are theological, we shall answer theologically; such as are theurgic, theurgically; but such as are philosophical, we shall, in conjunction with you, philosophically (et) explore. 
+But in all things we shall give to each that which is appropriate. And such questions, indeed, as are theological, we shall answer theologically;
 #### sn
 τὸ δ’ οἰκεῖον ἐπὶ πᾶσιν ἀποδώσομέν σοι προσηκόντως, καὶ τὰ μὲν θεολογικὰ θεολογικῶς, θεουργικὰ δὲ θεουργικῶς ἀποκρινούμεθα, φιλοσόφως δὲ τὰ φιλόσοφα μετὰ σοῦ συνεξετάσομεν·
 #### ar
@@ -338,11 +285,7 @@ And such questions, indeed, as are theological, we shall answer theologically; s
 #### gr
 καὶ τούτων μὲν ὅσα: εἰς τὰ πρῶτα αἴτια διήκει κατὰ τὰς πρώτας ἀρχὰς συνακολουθοῦντες εἰς φῶς προάξομεν, ὅσα δὲ περὶ ἠθῶν ἢ περὶ τελῶν εἴρηται κατὰ τὸν ἠθικὸν τύπον διατήσομεν δεόντως, καὶ τἄλλα ὡσαύτως κατὰ τὸν οἰκεῖον τρόπον ἐν τάξει διαθησόμεθα·
 #### en
-Of these, also, such as (diec) extend to (prot) first causes, we shall (proag) unfold into (pho) light, by (sunacoluth) following them conformably to first (arch) principles. 
-
-But such as (er) pertain to (eth) morals, or to (tel) ends, we shall (deon) fitly (diet) discuss, according to the ethical (typ) mode. 
-
-And, in a similar manner, we shall (diathe) examine other things (taxis) methodically and (eci) (trop) appropriately. 
+such as are theurgic, theurgically; but such as are philosophical, we shall, in conjunction with you, philosophically explore.
 #### sn
 καὶ τούτων μὲν ὅσα: εἰς τὰ πρῶτα αἴτια διήκει κατὰ τὰς πρώτας ἀρχὰς συνακολουθοῦντες εἰς φῶς προάξομεν, ὅσα δὲ περὶ ἠθῶν ἢ περὶ τελῶν εἴρηται κατὰ τὸν ἠθικὸν τύπον διατήσομεν δεόντως, καὶ τἄλλα ὡσαύτως κατὰ τὸν οἰκεῖον τρόπον ἐν τάξει διαθησόμεθα·
 #### ar
@@ -352,7 +295,7 @@ And, in a similar manner, we shall (diathe) examine other things (taxis) methodi
 #### gr
 ἤδη δὲ ἁψώμεθα τῶν σῶν ἐρωτήσεων.
 #### en
-Let us, therefore, now (hapt) betake ourselves to your inquiries.*
+Of these, also, such as extend to first causes, we shall unfold into light, by following them conformably to first principles. But such as pertain to morals, or to ends, we shall fitly discuss, according to the ethical mode.
 #### sn
 ἤδη δὲ ἁψώμεθα τῶν σῶν ἐρωτήσεων.
 #### ar
@@ -364,7 +307,7 @@ Let us, therefore, now (hapt) betake ourselves to your inquiries.*
 #### gr
 Φῆς τοίνυν πρῶτον διδόναι εἶναι θεούς.
 #### en
-IΝ the first place, therefore, you (pha) say, “it must be (do) granted that there are Gods.
+
 #### sn
 Φῆς τοίνυν πρῶτον διδόναι εἶναι θεούς.
 #### ar
@@ -374,7 +317,7 @@ IΝ the first place, therefore, you (pha) say, “it must be (do) granted that t
 #### gr
 τὸ δ’ ἐστὶν οὐκ ὀρθὸν οὑτωσὶ λεγόμενον.
 #### en
-Thus to (leg) speak, however, is not (orth) right on this subject.
+
 #### sn
 τὸ δ’ ἐστὶν οὐκ ὀρθὸν οὑτωσὶ λεγόμενον.
 #### ar
@@ -384,9 +327,7 @@ Thus to (leg) speak, however, is not (orth) right on this subject.
 #### gr
 συνυπάρχει γὰρ ἡμῶν αὐτῇ τῇ οὐσίᾳ ἡ περὶ θεῶν ἔμφυτος γνῶσις, κρίσεώς τε πάσης ἐστὶ κρείττων καὶ προαιρέσεως, λόγου τε καὶ ἀποδείξεως προϋπάρχει·
 #### en
-For an (emphyt) innate (gnosis) knowledge of the Gods is (synyparch) coexistent with our (aut) very essence; 
 
-and this knowledge is superior to all (crisis) judgment and (proaeresis) deliberate choice, and (hyparch) subsists prior to (log) reason and demonstration. 
 #### sn
 συνυπάρχει γὰρ ἡμῶν αὐτῇ τῇ οὐσίᾳ ἡ περὶ θεῶν ἔμφυτος γνῶσις, κρίσεώς τε πάσης ἐστὶ κρείττων καὶ προαιρέσεως, λόγου τε καὶ ἀποδείξεως προϋπάρχει·
 #### ar
@@ -398,7 +339,7 @@ and this knowledge is superior to all (crisis) judgment and (proaeresis) deliber
 
 αἰτίαν, καὶ τῇ πρὸς τἀγαθὸν οὐσιώδει τῆς ψυχῆς ἐφέσει συνυφέστηκεν.
 #### en
-It is also (synen) counted from the (arch) beginning with its (etia) proper cause, and is (synypsta) consubsistent with the (usiod) essential (ephesis) tendency of the (psych) soul to the (agath) good.
+
 #### sn
 συνήνωταί τε ἐξ ἀρχῆς πρὸς τὴν οἰκείαν
 
@@ -410,19 +351,29 @@ It is also (synen) counted from the (arch) beginning with its (etia) proper caus
 
 ### 5
 #### gr
-Εἰ δὲ δεῖ τἀληθὲς εἰπεῖν οὐδὲ γνῶσίς ἐστιν ἡ πρὸς τὸ θεῖον συναφή.
+Εἰ δὲ δεῖ τἀληθὲς εἰπεῖν οὐδὲ γνῶσίς ἐστιν ·
 #### en
-If, indeed, it be requisite to (ip) speak the truth, the (syaphe) contact with divinity is not knowledge. 
+
 #### sn
-Εἰ δὲ δεῖ τἀληθὲς εἰπεῖν οὐδὲ γνῶσίς ἐστιν ἡ πρὸς τὸ θεῖον συναφή.
+Εἰ δὲ δεῖ τἀληθὲς εἰπεῖν οὐδὲ γνῶσίς ἐστιν ·
 #### ar
-Εἰ δὲ δεῖ τἀληθὲς εἰπεῖν οὐδὲ γνῶσίς ἐστιν ἡ πρὸς τὸ θεῖον συναφή.
+Εἰ δὲ δεῖ τἀληθὲς εἰπεῖν οὐδὲ γνῶσίς ἐστιν ·
+
+### 6
+#### gr
+ἡ πρὸς τὸ θεῖον συναφή.
+#### en
+
+#### sn
+ἡ πρὸς τὸ θεῖον συναφή.
+#### ar
+ἡ πρὸς τὸ θεῖον συναφή.
 
 ### 7
 #### gr
 διείργεται γὰρ αὕτη πως ἑτερότητι.
 #### en
-For knowledge is in a certain respect (dierg) separated [from its object] by (heter) otherness.
+
 #### sn
 διείργεται γὰρ αὕτη πως ἑτερότητι.
 #### ar
@@ -432,7 +383,7 @@ For knowledge is in a certain respect (dierg) separated [from its object] by (he
 #### gr
 πρὸ δὲ τῆς ὡς ἑτέρας ἕτερον γιγνωσκούσης αὐτοφυής ἐστι καὶ ἀδιάκριτος ἡ τῶν θεῶν ἐξηρτημένη μονοειδὴς συμπλοκή.
 #### en
-But prior to the knowledge, which as one thing knows (heter) another, is the (monoid) uniform (symplec) connexion with divinity, and which is (exarta) suspended from the Gods, is (autophy) spontaneous and (diacrin) inseparable from them. 
+
 #### sn
 πρὸ δὲ τῆς ὡς ἑτέρας ἕτερον γιγνωσκούσης αὐτοφυής ἐστι καὶ ἀδιάκριτος ἡ τῶν θεῶν ἐξηρτημένη μονοειδὴς συμπλοκή.
 #### ar
@@ -440,59 +391,105 @@ But prior to the knowledge, which as one thing knows (heter) another, is the (mo
 
 ### 9
 #### gr
-οὐκ ἄρα συγχωρεῖν χρὴ ὡς δυναμένης αὐτὴν καὶ διδόναι καὶ μὴ διδόναι, οὐδ’ ὡς ἀμφίβολον τίθεσθαι 
+οὐκ ἄρα συγχωρεῖν χρὴ ὡς δυναμένης αὐτὴν καὶ διδόναι καὶ μὴ·
 #### en
-Hence, it is not (chre) proper to (synchor) grant this, as if it might not be granted, nor to admit it as (amphibol) ambiguous
+
 #### sn
 οὐκ ἄρα συγχωρεῖν χρὴ ὡς δυναμένης αὐτὴν καὶ διδόναι καὶ μὴ·
 #### ar
 οὐκ ἄρα συγχωρεῖν χρὴ ὡς δυναμένης αὐτὴν καὶ διδόναι καὶ μὴ·
+
+### 10
+#### gr
+διδόναι, οὐδ’ ὡς ἀμφίβολον.
+#### en
+
+#### sn
+διδόναι, οὐδ’ ὡς ἀμφίβολον.
+#### ar
+διδόναι, οὐδ’ ὡς ἀμφίβολον.
 
 ### 11
 #### gr
-(ἕστηκε γὰρ ἀεὶ κατ’ ἐνέργειαν ἑνοειδῶς) 
+· τίθεσθαι (ἕστηκε γὰρ ἀεὶ κατ’ ἐνέργειαν ἑνοειδῶς) οὐδ’ ὡς κυρίης οὔσης·
 #### en
-(for it is (ae) always (henoid) unically (sta) established in energy); 
+
 #### sn
-· τίθεσθαι (ἕστηκε γὰρ ἀεὶ κατ’ ἐνέργειαν ἑνοειδῶς) 
+· τίθεσθαι (ἕστηκε γὰρ ἀεὶ κατ’ ἐνέργειαν ἑνοειδῶς) οὐδ’ ὡς κυρίης οὔσης·
 #### ar
-· τίθεσθαι (ἕστηκε γὰρ ἀεὶ κατ’ ἐνέργειαν ἑνοειδῶς) 
+· τίθεσθαι (ἕστηκε γὰρ ἀεὶ κατ’ ἐνέργειαν ἑνοειδῶς) οὐδ’ ὡς κυρίης οὔσης·
 
 ### 12
 #### gr
-οὐδ’ ὡς κυρίης οὔσης τοῦ κρίνειν τε καὶ ἀποκρίνεν οὕτως αὐτὴν δοκιμάζειν ἄξιον·
+τοῦ κρίνειν τε·
 #### en
-nor are we worthy thus to (docimaz) explore it, as if we had sufficient (cyri) authority to (crin) approve or (apocrin) reject it.
+
 #### sn
-οὐδ’ ὡς κυρίης οὔσης τοῦ κρίνειν τε καὶ ἀποκρίνεν οὕτως αὐτὴν δοκιμάζειν ἄξιον·
+τοῦ κρίνειν τε·
 #### ar
-οὐδ’ ὡς κυρίης οὔσης τοῦ κρίνειν τε καὶ ἀποκρίνεν οὕτως αὐτὴν δοκιμάζειν ἄξιον·
+τοῦ κρίνειν τε·
+
+### 13
+#### gr
+καὶ ἀποκρίνεν οὕτως αὐτὴν δοκιμάζειν ἄξιον·
+#### en
+
+#### sn
+καὶ ἀποκρίνεν οὕτως αὐτὴν δοκιμάζειν ἄξιον·
+#### ar
+καὶ ἀποκρίνεν οὕτως αὐτὴν δοκιμάζειν ἄξιον·
 
 ### 14
 #### gr
-περιεχόμεθα γὰρ ἐν αὐτῇ μᾶλλον ἡμεῖς καὶ πληρούμεθα ὑπ’ αὐτῆς, καὶ αὐτὸ ὅπέρ ἐσμεν ἐν τῷ τοὺς θεοὺς εἰδέναι ἔχομεν.
+περιεχόμεθα γὰρ ἐν αὐτῇ μᾶλλον ἡμεῖς καὶ·
 #### en
-For we are (periech) comprehended in it, or rather we are filled by it, and we (ech) possess that very thing which we (es) are, [or by which our essence is characterized] in (id) knowing the Gods. 
+
 #### sn
-περιεχόμεθα γὰρ ἐν αὐτῇ μᾶλλον ἡμεῖς καὶ πληρούμεθα ὑπ’ αὐτῆς, καὶ αὐτὸ ὅπέρ ἐσμεν ἐν τῷ τοὺς θεοὺς εἰδέναι ἔχομεν.
+περιεχόμεθα γὰρ ἐν αὐτῇ μᾶλλον ἡμεῖς καὶ·
 #### ar
-περιεχόμεθα γὰρ ἐν αὐτῇ μᾶλλον ἡμεῖς καὶ πληρούμεθα ὑπ’ αὐτῆς, καὶ αὐτὸ ὅπέρ ἐσμεν ἐν τῷ τοὺς θεοὺς εἰδέναι ἔχομεν.
+περιεχόμεθα γὰρ ἐν αὐτῇ μᾶλλον ἡμεῖς καὶ·
+
+### 15
+#### gr
+πληρούμεθα·
+#### en
+
+#### sn
+πληρούμεθα·
+#### ar
+πληρούμεθα·
+
+### 16
+#### gr
+ὑπ’ αὐτῆς, καὶ αὐτὸ ὅπέρ ἐσμεν ἐν τῷ τοὺς θεοὺς εἰδέναι ἔχομεν.
+#### en
+
+#### sn
+ὑπ’ αὐτῆς, καὶ αὐτὸ ὅπέρ ἐσμεν ἐν τῷ τοὺς θεοὺς εἰδέναι ἔχομεν.
+#### ar
+ὑπ’ αὐτῆς, καὶ αὐτὸ ὅπέρ ἐσμεν ἐν τῷ τοὺς θεοὺς εἰδέναι ἔχομεν.
 
 ### 17
 #### gr
-Ὁ δὲ αὐτός ἐστί μοι λόγος πρὸς σέ, καὶ περὶ τῶν συνεπομένων θεοῖς κρειττόνων γενῶν, δαιμόνων φημὶ καὶ ἡρώων καὶ ψυχῶν ἀχράντων·
+Ὁ δὲ αὐτός ἐστί μοι λόγος πρὸς σέ, καὶ περὶ τῶν συνεπομένων θεοῖς κρειττόνων γενῶν, δαιμόνων φημὶ καὶ
+
+ἡρώων καὶ ψυχῶν ἀχράντων·
 #### en
-I shall likewise say the same thing to you, concerning the more (crit) excellent genera that (synep) follow the Gods, I (pha) mean daemons, heroes, and (chran) undefiled souls.
+
 #### sn
-Ὁ δὲ αὐτός ἐστί μοι λόγος πρὸς σέ, καὶ περὶ τῶν συνεπομένων θεοῖς κρειττόνων γενῶν, δαιμόνων φημὶ καὶ ἡρώων καὶ ψυχῶν ἀχράντων·
+Ὁ δὲ αὐτός ἐστί μοι λόγος πρὸς σέ, καὶ περὶ τῶν συνεπομένων θεοῖς κρειττόνων γενῶν, δαιμόνων φημὶ καὶ
+
+ἡρώων καὶ ψυχῶν ἀχράντων·
 #### ar
-Ὁ δὲ αὐτός ἐστί μοι λόγος πρὸς σέ, καὶ περὶ τῶν συνεπομένων θεοῖς κρειττόνων γενῶν, δαιμόνων φημὶ καὶ ἡρώων καὶ ψυχῶν ἀχράντων·
+Ὁ δὲ αὐτός ἐστί μοι λόγος πρὸς σέ, καὶ περὶ τῶν συνεπομένων θεοῖς κρειττόνων γενῶν, δαιμόνων φημὶ καὶ
+
+ἡρώων καὶ ψυχῶν ἀχράντων·
 
 ### 18
 #### gr
 καὶ γὰρ περὶ τούτων ἕνα λόγον ὡρισμένον τῆς οὐσίας ἀεὶ δεῖ νοεῖν, τὸ δ’ ἀόριστον καὶ ἄστατον τῆς ἀνθρωπίνης ἀναιρεῖν δόσεως, καὶ τὸ μὲν ἐξ ἀντιρρόπου τῶν διαλογισμῶν ἀντιστάσεως ἐπικλίνον ἐπὶ θάτερα παραιτεῖσθαι·
 #### en
-For it is (de) necessary to (no) understand respecting these, that there is always in them one (horiz) definite (log) reason of essence, and to (anaer) remove from them the (aorist) indefiniteness and (astat) instability of the (anr) human (dosis) condition. It is likewise requisite to (paret) separate from them that (epiclin) inclination to one side of an (antistasis) argument rather than another, arising from the (antirrhop) equilibrium of a (dialogism) reasoning process.
+
 #### sn
 καὶ γὰρ περὶ τούτων ἕνα λόγον ὡρισμένον τῆς οὐσίας ἀεὶ δεῖ νοεῖν, τὸ δ’ ἀόριστον καὶ ἄστατον τῆς ἀνθρωπίνης ἀναιρεῖν δόσεως, καὶ τὸ μὲν ἐξ ἀντιρρόπου τῶν διαλογισμῶν ἀντιστάσεως ἐπικλίνον ἐπὶ θάτερα παραιτεῖσθαι·
 #### ar
@@ -502,7 +499,7 @@ For it is (de) necessary to (no) understand respecting these, that there is alwa
 #### gr
 ἀλλότριον γάρ ἐστι τῶν τοῦ λόγου καὶ τῆς ζωῆς ἀρχῶν τὸ τοιοῦτον, ἐπὶ δὲ τὰ δεύτερα ἀποφέρεται μᾶλλον, καὶ ὅσα τῇ δυνάμει καὶ τῇ ἐναντιώσει τῆς γενέσεως προσήκει.
 #### en
-For a thing of this kind is (allotri) foreign from the principles of reason and (zo) life, and rather (apopher) tends to (deu) secondary natures, and to such things as (prosec) pertain to the (dynamis) power and contrariety of (genesis) generation. 
+
 #### sn
 ἀλλότριον γάρ ἐστι τῶν τοῦ λόγου καὶ τῆς ζωῆς ἀρχῶν τὸ τοιοῦτον, ἐπὶ δὲ τὰ δεύτερα ἀποφέρεται μᾶλλον, καὶ ὅσα τῇ δυνάμει καὶ τῇ ἐναντιώσει τῆς γενέσεως προσήκει.
 #### ar
@@ -512,7 +509,7 @@ For a thing of this kind is (allotri) foreign from the principles of reason and 
 #### gr
 μονοειδῶς δὲ αὐτῶν ἀντελαμβάνεσθαι δεῖ.
 #### en
-But it is necessary that the more excellent genera should be (antelamb) apprehended uniformly.
+
 #### sn
 μονοειδῶς δὲ αὐτῶν ἀντελαμβάνεσθαι δεῖ.
 #### ar
@@ -522,27 +519,43 @@ But it is necessary that the more excellent genera should be (antelamb) apprehen
 #### gr
 Ἐοικέτω δὴ οὖν τοῖς ἀιδίοις τῶν θεῶν συνοπαδοῖς καὶ ἡ σύμφυτος αὐτῶν κατανόησις·
 #### en
-The (symphyt) connascent (catanoesis) perception, therefore, of the (ae) perpetual (synopad) attendants of the Gods, will be (eoec) assimilated to them. 
+
 #### sn
 Ἐοικέτω δὴ οὖν τοῖς ἀιδίοις τῶν θεῶν συνοπαδοῖς καὶ ἡ σύμφυτος αὐτῶν κατανόησις·
 #### ar
 Ἐοικέτω δὴ οὖν τοῖς ἀιδίοις τῶν θεῶν συνοπαδοῖς καὶ ἡ σύμφυτος αὐτῶν κατανόησις·
 
+### 22
+#### gr
+ὥσπερ οὖν αὐτοὶ τὸ εἶναι·
+#### en
+
+#### sn
+ὥσπερ οὖν αὐτοὶ τὸ εἶναι·
+#### ar
+ὥσπερ οὖν αὐτοὶ τὸ εἶναι·
+
 ### 23
 #### gr
-ὥσπερ οὖν αὐτοὶ τὸ εἶναι ἔχουσιν ἀεὶ ὡσαύτως, οὕτως καὶ ἡ ἀνθρωπίνη ψυχὴ κατὰ τὰ αὐτὰ τῇ γνώσει πρὸς αὐτοὺς συναπτέσθω, εἰκασίᾳ μὲν ἢ δόξῃ ἢ συλλογισμῷ τινι, ἀρχομένοις ποτὲ ἀπὸ χρόνου, μηδαμῶς τὴν ὑπὲρ ταῦτα πάντα οὐσίαν μεταδιώκουσα, ταῖς δὲ καθαραῖς καὶ ἀμέμπτοις νοήσεσιν, ἃς εἴληφεν ἐξ ἀιδίου παρὰ τῶν θεῶν, ταύταις αὐτοῖς συνηρτημένη·
+ἔχουσιν ἀεὶ ὡσαύτως, οὕτως καὶ ἡ ἀνθρωπίνη ψυχὴ κατὰ τὰ αὐτὰ τῇ γνώσει πρὸς αὐτοὺς συναπτέσθω, εἰκασίᾳ μὲν ἢ δόξῃ ἢ συλλογισμῷ τινι, ἀρχομένοις ποτὲ ἀπὸ χρόνου, μηδαμῶς τὴν ὑπὲρ ταῦτα πάντα οὐσίαν μεταδιώκουσα, ταῖς δὲ καθαραῖς καὶ ἀμέμπτοις νοήσεσιν, ἃς εἴληφεν ἐξ ἀιδίου παρὰ τῶν θεῶν, ταύταις αὐτοῖς συνηρ
+
+τημένη·
 #### en
-Hence, as they (ech) have an (es) existence which is always invariably the same, thus also the human soul is (synapt) conjoined to them by knowledge, according to a sameness of subsistence; by no means (dioc) pursuing through (icasia) conjecture, or (doxa) opinion, or a (syllogism) syllogistic process, all which (arch) originate in (chron) time, an essence which is (hyper) above all these, but through the (cathar) pure and (memph) blameless (noesis) intellections which the soul (lamb) received from (ae) eternity from the Gods, becoming (synarta) united to them.
+
 #### sn
-ὥσπερ οὖν αὐτοὶ τὸ εἶναι ἔχουσιν ἀεὶ ὡσαύτως, οὕτως καὶ ἡ ἀνθρωπίνη ψυχὴ κατὰ τὰ αὐτὰ τῇ γνώσει πρὸς αὐτοὺς συναπτέσθω, εἰκασίᾳ μὲν ἢ δόξῃ ἢ συλλογισμῷ τινι, ἀρχομένοις ποτὲ ἀπὸ χρόνου, μηδαμῶς τὴν ὑπὲρ ταῦτα πάντα οὐσίαν μεταδιώκουσα, ταῖς δὲ καθαραῖς καὶ ἀμέμπτοις νοήσεσιν, ἃς εἴληφεν ἐξ ἀιδίου παρὰ τῶν θεῶν, ταύταις αὐτοῖς συνηρτημένη·
+ἔχουσιν ἀεὶ ὡσαύτως, οὕτως καὶ ἡ ἀνθρωπίνη ψυχὴ κατὰ τὰ αὐτὰ τῇ γνώσει πρὸς αὐτοὺς συναπτέσθω, εἰκασίᾳ μὲν ἢ δόξῃ ἢ συλλογισμῷ τινι, ἀρχομένοις ποτὲ ἀπὸ χρόνου, μηδαμῶς τὴν ὑπὲρ ταῦτα πάντα οὐσίαν μεταδιώκουσα, ταῖς δὲ καθαραῖς καὶ ἀμέμπτοις νοήσεσιν, ἃς εἴληφεν ἐξ ἀιδίου παρὰ τῶν θεῶν, ταύταις αὐτοῖς συνηρ
+
+τημένη·
 #### ar
-ὥσπερ οὖν αὐτοὶ τὸ εἶναι ἔχουσιν ἀεὶ ὡσαύτως, οὕτως καὶ ἡ ἀνθρωπίνη ψυχὴ κατὰ τὰ αὐτὰ τῇ γνώσει πρὸς αὐτοὺς συναπτέσθω, εἰκασίᾳ μὲν ἢ δόξῃ ἢ συλλογισμῷ τινι, ἀρχομένοις ποτὲ ἀπὸ χρόνου, μηδαμῶς τὴν ὑπὲρ ταῦτα πάντα οὐσίαν μεταδιώκουσα, ταῖς δὲ καθαραῖς καὶ ἀμέμπτοις νοήσεσιν, ἃς εἴληφεν ἐξ ἀιδίου παρὰ τῶν θεῶν, ταύταις αὐτοῖς συνηρτημένη·
+ἔχουσιν ἀεὶ ὡσαύτως, οὕτως καὶ ἡ ἀνθρωπίνη ψυχὴ κατὰ τὰ αὐτὰ τῇ γνώσει πρὸς αὐτοὺς συναπτέσθω, εἰκασίᾳ μὲν ἢ δόξῃ ἢ συλλογισμῷ τινι, ἀρχομένοις ποτὲ ἀπὸ χρόνου, μηδαμῶς τὴν ὑπὲρ ταῦτα πάντα οὐσίαν μεταδιώκουσα, ταῖς δὲ καθαραῖς καὶ ἀμέμπτοις νοήσεσιν, ἃς εἴληφεν ἐξ ἀιδίου παρὰ τῶν θεῶν, ταύταις αὐτοῖς συνηρ
+
+τημένη·
 
 ### 24
 #### gr
 σὺ δ’ ἔοικας ἡγεῖσθαι τὴν αὐτὴν εἶναι τῶν θείων καὶ τῶν ἄλλων ὁποιωνοῦν γνῶσιν, δίδοσθαί τε ἀπὸ τῶν ἀντικειμένων τὸ ἕτερον μόριον, ὥσπερ εἴωθε καὶ ἐπὶ τῶν ἐν ταῖς διαλέκτοις προτεινομένων·
 #### en
-You, however, (eoec) seem to (hege) think, that there is the same knowledge of divine natures as of any thing (all) else, and that one (mori) thing, rather than another, may be granted from (antici) opposites, in the same (eth) manner as it is (eth) usual to do in dialectic (protin) discussions. 
+
 #### sn
 σὺ δ’ ἔοικας ἡγεῖσθαι τὴν αὐτὴν εἶναι τῶν θείων καὶ τῶν ἄλλων ὁποιωνοῦν γνῶσιν, δίδοσθαί τε ἀπὸ τῶν ἀντικειμένων τὸ ἕτερον μόριον, ὥσπερ εἴωθε καὶ ἐπὶ τῶν ἐν ταῖς διαλέκτοις προτεινομένων·
 #### ar
@@ -552,7 +565,7 @@ You, however, (eoec) seem to (hege) think, that there is the same knowledge of d
 #### gr
 τὸ δὲ οὐκ ἔστιν οὐδαμῶς παραπλήσιον·
 #### en
-There is, however, no (plesi) similitude whatever between the two kinds of knowledge.
+
 #### sn
 τὸ δὲ οὐκ ἔστιν οὐδαμῶς παραπλήσιον·
 #### ar
@@ -562,7 +575,7 @@ There is, however, no (plesi) similitude whatever between the two kinds of knowl
 #### gr
 ἐξήλλακται γὰρ αὐτῶν ἡ εἴδησις, ἀντιθέσεώς τε πάσης κεχώρισται, καὶ οὐκ ἐν τῷ συγχωρεῖσθαι νῦν ἢ ἐν τῷ γίγνεσθαι ὑφέστηκεν, ἀλλ’ ἦν ἐξ ἀιδίου μονοειδὴς ἐπὶ τῇ ψυχῇ συνυπάρχουσα.
 #### en
-For the knowledge of divine natures is (exallag) different from that of other things, and is (choriz) separated from all (antithesis) opposition. It likewise neither (hypsta) subsists in being now (synchor) granted, or in (gen) becoming to be, but was from eternity, uniformly (synyparch) consubsistent with the soul.
+
 #### sn
 ἐξήλλακται γὰρ αὐτῶν ἡ εἴδησις, ἀντιθέσεώς τε πάσης κεχώρισται, καὶ οὐκ ἐν τῷ συγχωρεῖσθαι νῦν ἢ ἐν τῷ γίγνεσθαι ὑφέστηκεν, ἀλλ’ ἦν ἐξ ἀιδίου μονοειδὴς ἐπὶ τῇ ψυχῇ συνυπάρχουσα.
 #### ar
@@ -572,7 +585,7 @@ For the knowledge of divine natures is (exallag) different from that of other th
 #### gr
 Περὶ μὲν οὖν τῆς πρώτης ἀρχῆς ἐν ἡμῖν, ἀφ’ ἧς ὁρμᾶσθαι δεῖ τοὺς ὁτιοῦν λέγοντάς τε καὶ ἀκούοντας περὶ τῶν κρειττόνων ἢ καθ’ ἡμᾶς, τοιαῦτα πρὸς σὲ λέγω,
 #### en
-And thus much I say to you concerning the first principle in us, from which it is necessary those should (horm) begin who speak or (acu) hear any thing about the natures that are superior to us. 
+
 #### sn
 Περὶ μὲν οὖν τῆς πρώτης ἀρχῆς ἐν ἡμῖν, ἀφ’ ἧς ὁρμᾶσθαι δεῖ τοὺς ὁτιοῦν λέγοντάς τε καὶ ἀκούοντας περὶ τῶν κρειττόνων ἢ καθ’ ἡμᾶς, τοιαῦτα πρὸς σὲ λέγω,
 #### ar
@@ -582,23 +595,25 @@ And thus much I say to you concerning the first principle in us, from which it i
 
 ### 1
 #### gr
-ἃ δ’ ἐπιζητεῖς ἰδιώματα τίνα ἐστὶν ἑκάστῳ τῶν κρειττόνων γενῶν, οἷς κεχώρισται ἀπ’ ἀλλήλων, εἰ μὲν ὡς εἰδοποιοὺς διαφορὰς ὑπὸ ταυτὸ γένος ἀντιδιαιρουμένας νοεῖς σὺ τὰ ἰδιώματα, ὥσπερ ὑπὸ τὸ ζῶον τὸ λογικὸν καὶ ἄλογον, οὐδέποτε παραδεχόμεθα τὰ τοιαῦτα ἐπὶ τῶν μήτε κοινωνίαν οὐσίας μίαν μήτε ἐξισάζουσαν ἐχόντων ἀντιδιαίρεσιν, μήτε σύνθεσιν τὴν ἐξ ἀορίστου τοῦ κοινοῦ καὶ ὁρίζοντος τοῦ ἰδίου προσλαμβανόντων.
+ἃ δ’ ἐπιζητεῖς ἰδιώματα τίνα ἐστὶν ἑκάστῳ τῶν κρειττόνων γενῶν, οἷς κεχώρισται ἀπ’ ἀλλήλων, εἰ μὲν ὡς εἰδοποιοὺς διαφορὰς ὑπὸ ταυτὸ γένος ἀντιδιαιρουμένας νοεῖς σὺ τὰ ἰδιώματα, ὥσπερ ὑπὸ τὸ ζῶον τὸ λογικὸν καὶ ἄλογον, οὐδέποτε παραδεχόμεθα τὰ τοιαῦτα ἐπὶ τῶν μήτε κοινωνίαν οὐσίας μίαν μήτε ἐξισάζουσαν ἐχόντων ἀντιδιαίρεσιν, μήτε
+
+σύνθεσιν τὴν ἐξ ἀορίστου τοῦ κοινοῦ καὶ ὁρίζοντος τοῦ ἰδίου προσλαμβανόντων.
 #### en
-WITH respect to your (epizete) inquiry, “what the (idiom) peculiarities are in each of the more excellent genera, by which they are separated from each other?” 
-
-if you understand by peculiarities the (idopoeous) specific (diaphora) differences under the same genus, which are (diaer) distinguished by opposite qualities, as the rational and irrational under (zo) animal; 
-
-we by no means (paradech) admit peculiarities of this kind, iii things which neither have (mia) one common essence, nor an (exisaz) equal (antidiaeresis) contradistinction, nor (proslamb) receive a (synthesis) composition from something common, which is indefinite, and (horiz) defines the (idi) peculiarity. 
+With respect to your inquiry, “_what the peculiarities are in each of the more excellent genera, by which they are separated from each other?
 #### sn
-ἃ δ’ ἐπιζητεῖς ἰδιώματα τίνα ἐστὶν ἑκάστῳ τῶν κρειττόνων γενῶν, οἷς κεχώρισται ἀπ’ ἀλλήλων, εἰ μὲν ὡς εἰδοποιοὺς διαφορὰς ὑπὸ ταυτὸ γένος ἀντιδιαιρουμένας νοεῖς σὺ τὰ ἰδιώματα, ὥσπερ ὑπὸ τὸ ζῶον τὸ λογικὸν καὶ ἄλογον, οὐδέποτε παραδεχόμεθα τὰ τοιαῦτα ἐπὶ τῶν μήτε κοινωνίαν οὐσίας μίαν μήτε ἐξισάζουσαν ἐχόντων ἀντιδιαίρεσιν, μήτε σύνθεσιν τὴν ἐξ ἀορίστου τοῦ κοινοῦ καὶ ὁρίζοντος τοῦ ἰδίου προσλαμβανόντων.
+ἃ δ’ ἐπιζητεῖς ἰδιώματα τίνα ἐστὶν ἑκάστῳ τῶν κρειττόνων γενῶν, οἷς κεχώρισται ἀπ’ ἀλλήλων, εἰ μὲν ὡς εἰδοποιοὺς διαφορὰς ὑπὸ ταυτὸ γένος ἀντιδιαιρουμένας νοεῖς σὺ τὰ ἰδιώματα, ὥσπερ ὑπὸ τὸ ζῶον τὸ λογικὸν καὶ ἄλογον, οὐδέποτε παραδεχόμεθα τὰ τοιαῦτα ἐπὶ τῶν μήτε κοινωνίαν οὐσίας μίαν μήτε ἐξισάζουσαν ἐχόντων ἀντιδιαίρεσιν, μήτε
+
+σύνθεσιν τὴν ἐξ ἀορίστου τοῦ κοινοῦ καὶ ὁρίζοντος τοῦ ἰδίου προσλαμβανόντων.
 #### ar
-ἃ δ’ ἐπιζητεῖς ἰδιώματα τίνα ἐστὶν ἑκάστῳ τῶν κρειττόνων γενῶν, οἷς κεχώρισται ἀπ’ ἀλλήλων, εἰ μὲν ὡς εἰδοποιοὺς διαφορὰς ὑπὸ ταυτὸ γένος ἀντιδιαιρουμένας νοεῖς σὺ τὰ ἰδιώματα, ὥσπερ ὑπὸ τὸ ζῶον τὸ λογικὸν καὶ ἄλογον, οὐδέποτε παραδεχόμεθα τὰ τοιαῦτα ἐπὶ τῶν μήτε κοινωνίαν οὐσίας μίαν μήτε ἐξισάζουσαν ἐχόντων ἀντιδιαίρεσιν, μήτε σύνθεσιν τὴν ἐξ ἀορίστου τοῦ κοινοῦ καὶ ὁρίζοντος τοῦ ἰδίου προσλαμβανόντων.
+ἃ δ’ ἐπιζητεῖς ἰδιώματα τίνα ἐστὶν ἑκάστῳ τῶν κρειττόνων γενῶν, οἷς κεχώρισται ἀπ’ ἀλλήλων, εἰ μὲν ὡς εἰδοποιοὺς διαφορὰς ὑπὸ ταυτὸ γένος ἀντιδιαιρουμένας νοεῖς σὺ τὰ ἰδιώματα, ὥσπερ ὑπὸ τὸ ζῶον τὸ λογικὸν καὶ ἄλογον, οὐδέποτε παραδεχόμεθα τὰ τοιαῦτα ἐπὶ τῶν μήτε κοινωνίαν οὐσίας μίαν μήτε ἐξισάζουσαν ἐχόντων ἀντιδιαίρεσιν, μήτε
+
+σύνθεσιν τὴν ἐξ ἀορίστου τοῦ κοινοῦ καὶ ὁρίζοντος τοῦ ἰδίου προσλαμβανόντων.
 
 ### 2
 #### gr
 εἰ δὲ ὡς ἐν προτέροις καὶ δευτέροις κατ’ οὐσίαν τε ὅλην καὶ παντὶ τῷ γένει ἐξαλλαττομένοις ἁπλῆν τινα κατάστασιν πεπερασμένην ἐν ἑαυτῇ τὴν ἰδιότητα ὑπολαμβάνεις, ἔχει μὲν λόγον ἡ ἔννοια τῶν ἰδιωμάτων·
 #### en
-But if you (hypolamb) apprehend the (idiotes) peculiarity to be, as in prior and secondary natures, differing in their whole essence and (pan) whole genus, a certain (hapl) simple (catastasis) condition of being, (peras) definite in itself; in this case, your conception of (idiom) peculiarities will be (log) reasonable. 
+_” if you understand by peculiarities the specific differences under the same genus, which are distinguished by opposite qualities, as the rational and irrational under animal;
 #### sn
 εἰ δὲ ὡς ἐν προτέροις καὶ δευτέροις κατ’ οὐσίαν τε ὅλην καὶ παντὶ τῷ γένει ἐξαλλαττομένοις ἁπλῆν τινα κατάστασιν πεπερασμένην ἐν ἑαυτῇ τὴν ἰδιότητα ὑπολαμβάνεις, ἔχει μὲν λόγον ἡ ἔννοια τῶν ἰδιωμάτων·
 #### ar
@@ -608,7 +623,7 @@ But if you (hypolamb) apprehend the (idiotes) peculiarity to be, as in prior and
 #### gr
 χωριστὰ γὰρ ἔσται δήπου ταῦτα καὶ ἁπλᾶ ἕκαστα ἐξῃρημένα τῷ παντὶ τὰ τῶν ἀεὶ ὑπαρχόντων ἰδιώματα.
 #### en
-For these peculiarities of things, which have an eternal subsistence, are simple, and entirely (exaer) exempt. 
+we by no means admit peculiarities of this kind, in things which neither have one common essence, nor an equal contradistinction, nor receive a composition from something common, which is indefinite, and defines the peculiarity.
 #### sn
 χωριστὰ γὰρ ἔσται δήπου ταῦτα καὶ ἁπλᾶ ἕκαστα ἐξῃρημένα τῷ παντὶ τὰ τῶν ἀεὶ ὑπαρχόντων ἰδιώματα.
 #### ar
@@ -618,7 +633,7 @@ For these peculiarities of things, which have an eternal subsistence, are simple
 #### gr
 ἡ δ’ ἐρώτησις ἀτελῶς πρόεισιν·
 #### en
-The inquiry, however, (i) proceeds imperfectly. 
+But if you apprehend the peculiarity to be, as in prior and secondary natures, differing in their whole essence and whole genus, a certain simple condition of being, definite in itself;
 #### sn
 ἡ δ’ ἐρώτησις ἀτελῶς πρόεισιν·
 #### ar
@@ -628,7 +643,7 @@ The inquiry, however, (i) proceeds imperfectly.
 #### gr
 ἔδει μὲν γὰρ κατ’ οὐσίαν πρῶτον ἔπειτα κατὰ δύναμεν εἶθ’ οὕτω κατ’ ἐνέργειαν πυνθάνεσθαι, τίνα αὐτῶν ὑπάρχει τὰ ἰδιώματα·
 #### en
-For it was necessary, in the first place, to inquire what the peculiarities (hyparch) are of the more excellent genera, according to essence; in the next place, what they are according to power; and thus afterwards, what they are according to energy. 
+in this case, your conception of peculiarities will be reasonable.
 #### sn
 ἔδει μὲν γὰρ κατ’ οὐσίαν πρῶτον ἔπειτα κατὰ δύναμεν εἶθ’ οὕτω κατ’ ἐνέργειαν πυνθάνεσθαι, τίνα αὐτῶν ὑπάρχει τὰ ἰδιώματα·
 #### ar
@@ -638,7 +653,7 @@ For it was necessary, in the first place, to inquire what the peculiarities (hyp
 #### gr
 ὡς δὲ νῦν ἠρώτησας τίσιν ἰδιώμασιν κεχώρισται, ἰδιώματα ἐνεργεῶν μόνον εἴρηκας·
 #### en
-But, as your (erota) question now stands, with respect to the peculiarities by which these genera are separated, you alone (ere) speak of the peculiarities of energies. 
+For these peculiarities of things, which have an eternal subsistence, are simple, and entirely exempt.
 #### sn
 ὡς δὲ νῦν ἠρώτησας τίσιν ἰδιώμασιν κεχώρισται, ἰδιώματα ἐνεργεῶν μόνον εἴρηκας·
 #### ar
@@ -648,7 +663,7 @@ But, as your (erota) question now stands, with respect to the peculiarities by w
 #### gr
 ἐπὶ τῶν τελευταίων ἄρα τὸ διάφορον ἐν αὐτοῖς ἐπιζητεῖς, τὰ δὲ πρώτιστα αὐτῶν καὶ τιμιώτατα ὡσπερεὶ στοιχεῖα τῆς παραλλαγῆς ἀφῆκας ἀδιερεύνητα.
 #### en
-Hence you inquire concerning the difference in the (teleut) last things pertaining to them; but you (aphe) leave (diereun) uninvestigated such things as are first, and most (tim) honourable in them, and which are the (stoechi) elements of their (parallage) difference. 
+The inquiry, however, proceeds imperfectly.
 #### sn
 ἐπὶ τῶν τελευταίων ἄρα τὸ διάφορον ἐν αὐτοῖς ἐπιζητεῖς, τὰ δὲ πρώτιστα αὐτῶν καὶ τιμιώτατα ὡσπερεὶ στοιχεῖα τῆς παραλλαγῆς ἀφῆκας ἀδιερεύνητα.
 #### ar
@@ -656,21 +671,25 @@ Hence you inquire concerning the difference in the (teleut) last things pertaini
 
 ### 8
 #### gr
-Πρόσκειται δὲ δὴ αὐτόθι καὶ τὸ τῶν δραστικῶν ἢ παθητικῶν κινήσεων, ἥκιστα προσήκουσαν ἔχον διαίρεσιν εἰς διαφορὰν τῶν κρειττόνων γενῶν.
+Πρόσκειται δὲ δὴ αὐτόθι καὶ τὸ τῶν δραστικῶν ἢ παθητικῶν κινήσεων, ἥκιστα προσήκουσαν ἔχον διαίρεσιν
+
+εἰς διαφορὰν τῶν κρειττόνων γενῶν.
 #### en
-In the same place, also, something is (prosci) added concerning “(dra) efficacious and (path) passive (cine) motions,” which is a (diaer) division by no means (prosec) adapted to the difference of the more excellent genera. 
+For it was necessary, in the first place, to inquire what the peculiarities are of the more excellent genera, according to essence;
 #### sn
-Πρόσκειται δὲ δὴ αὐτόθι καὶ τὸ τῶν δραστικῶν ἢ παθητικῶν κινήσεων, ἥκιστα προσήκουσαν ἔχον διαίρεσιν εἰς διαφορὰν τῶν κρειττόνων γενῶν.
+Πρόσκειται δὲ δὴ αὐτόθι καὶ τὸ τῶν δραστικῶν ἢ παθητικῶν κινήσεων, ἥκιστα προσήκουσαν ἔχον διαίρεσιν
+
+εἰς διαφορὰν τῶν κρειττόνων γενῶν.
 #### ar
-Πρόσκειται δὲ δὴ αὐτόθι καὶ τὸ τῶν δραστικῶν ἢ παθητικῶν κινήσεων, ἥκιστα προσήκουσαν ἔχον διαίρεσιν εἰς διαφορὰν τῶν κρειττόνων γενῶν.
+Πρόσκειται δὲ δὴ αὐτόθι καὶ τὸ τῶν δραστικῶν ἢ παθητικῶν κινήσεων, ἥκιστα προσήκουσαν ἔχον διαίρεσιν
+
+εἰς διαφορὰν τῶν κρειττόνων γενῶν.
 
 ### 9
 #### gr
 οὐδενὶ γὰρ αὐτῶν ἡ τοῦ δρᾷν καὶ πάσχειν ἔνεστιν ἐναντίωσις, ἀπόλυτοι δέ τινες αὐτῶν καὶ ἄτρεπτοι καὶ ἄνευ τῆς πρὸς τὸ ἀντικείμενον σχέσεως θεωροῦνται αἱ ἐνέργειαι·
 #### en
-For the contrariety of (dra) action and passion is not (enes) inherent in any one of them; 
-
-but their energies are (apoly) unrestrained, (trep) immutable, and without (schesis) habitude to their opposites. 
+in the next place, what they are according to power;
 #### sn
 οὐδενὶ γὰρ αὐτῶν ἡ τοῦ δρᾷν καὶ πάσχειν ἔνεστιν ἐναντίωσις, ἀπόλυτοι δέ τινες αὐτῶν καὶ ἄτρεπτοι καὶ ἄνευ τῆς πρὸς τὸ ἀντικείμενον σχέσεως θεωροῦνται αἱ ἐνέργειαι·
 #### ar
@@ -680,7 +699,7 @@ but their energies are (apoly) unrestrained, (trep) immutable, and without (sche
 #### gr
 ὅθεν οὐδὲ τὰς τοιαύτας κινήσεις τὰς ἐκ ποιοῦντος καὶ πάσχοντος ἐπ’ αὐτῶν παραδεχόμεθα.
 #### en
-Hence, neither must we admit in them motions of such a kind as arise from (poe) action and passion. 
+and thus afterwards, what they are according to energy.
 #### sn
 ὅθεν οὐδὲ τὰς τοιαύτας κινήσεις τὰς ἐκ ποιοῦντος καὶ πάσχοντος ἐπ’ αὐτῶν παραδεχόμεθα.
 #### ar
@@ -690,9 +709,7 @@ Hence, neither must we admit in them motions of such a kind as arise from (poe) 
 #### gr
 οὐδὲ γὰρ ἐπὶ τῆς ψυχῆς τὴν ἀπὸ τοῦ κινοῦντος καὶ κινουμένου προσιέμεθα αὐτοκινησίαν, ἁπλῆν δέ τινα κίνησιν οὐσιώδη αὐτὴν ἑαυτῆς οὖσαν, καὶ οὐ πρὸς ἕτερον ἔχουσαν σχέσιν, ἐξῃρημένην τοῦ ποιεῖν εἰς ἑαυτὴν καὶ πάσχειν ὑφ’ ἑαυτῆς ὑποτιθέμεθα αὐτὴν εἶναι.
 #### en
-For neither do we (prosie) admit in the soul a self-motion, which consists of the (cine) mover and that which is moved; 
-
-but we (hypothe) conceive that it is a certain simple essential motion, subsisting from itself,* and not possessing a habitude to another thing, and exempt from acting on, and (path) suffering from, itself. 
+But, as your question now stands, with respect to the peculiarities by which these genera are separated, you alone speak of the peculiarities of energies.
 #### sn
 οὐδὲ γὰρ ἐπὶ τῆς ψυχῆς τὴν ἀπὸ τοῦ κινοῦντος καὶ κινουμένου προσιέμεθα αὐτοκινησίαν, ἁπλῆν δέ τινα κίνησιν οὐσιώδη αὐτὴν ἑαυτῆς οὖσαν, καὶ οὐ πρὸς ἕτερον ἔχουσαν σχέσιν, ἐξῃρημένην τοῦ ποιεῖν εἰς ἑαυτὴν καὶ πάσχειν ὑφ’ ἑαυτῆς ὑποτιθέμεθα αὐτὴν εἶναι.
 #### ar
@@ -702,7 +719,7 @@ but we (hypothe) conceive that it is a certain simple essential motion, subsisti
 #### gr
 ἤ που ἄρα ἐπὶ τῶν κρειττόνων τῆς ψυχῆς γενῶν ἀνάσχοιτο ἄν τις αὐτῶν κατὰ τὰς ποιητικὰς ἢ παθητικὰς κινήσεις διακρίνειν τὰς ἰδιότητας;
 #### en
-Who, therefore, can (anecho) endure that the peculiarities of the genera superior to the soul, should be (diacrin) distinguished according to active or passive motions?
+Hence you inquire concerning the difference in the last things pertaining to them;
 #### sn
 ἤ που ἄρα ἐπὶ τῶν κρειττόνων τῆς ψυχῆς γενῶν ἀνάσχοιτο ἄν τις αὐτῶν κατὰ τὰς ποιητικὰς ἢ παθητικὰς κινήσεις διακρίνειν τὰς ἰδιότητας;
 #### ar
@@ -712,7 +729,7 @@ Who, therefore, can (anecho) endure that the peculiarities of the genera superio
 #### gr
 Ἔτι τοίνυν ἀλλοτρίως αὐτῶν κᾀκεῖνο τὸ « ἢ τῶν παρεπομένων» προστίθεται.
 #### en
-That also which is (prosthe) added by you, “or of (parepomen) accidents,” is foreign from these genera. 
+but you leave uninvestigated such things as are first, and most honourable in them, and which are the elements of their difference.
 #### sn
 Ἔτι τοίνυν ἀλλοτρίως αὐτῶν κᾀκεῖνο τὸ « ἢ τῶν παρεπομένων» προστίθεται.
 #### ar
@@ -720,19 +737,25 @@ That also which is (prosthe) added by you, “or of (parepomen) accidents,” is
 
 ### 14
 #### gr
-ἐπὶ μὲν γὰρ τῶν συνθέτων καὶ τῶν μεθ’ ἑτέρων ἢ ἐν ἄλλοις ὄντων καὶ τῶν περιεχομένων ὑφ’ ἑτέροις τὰ μὲν ὡς προηγούμενα τὰ δ’ ὡς ἑπόμενα νοεῖται, καὶ τὰ μὲν ὡς ὄντα τὰ δ’ ὡς ἐπισυμβαίνονταταῖς οὐσίαις·
+ἐπὶ μὲν γὰρ τῶν συνθέτων καὶ τῶν μεθ’ ἑτέρων ἢ ἐν ἄλλοις ὄντων καὶ τῶν περιεχομένων ὑφ’ ἑτέροις τὰ μὲν ὡς προηγούμενα τὰ δ’ ὡς ἑπόμενα νοεῖται, καὶ τὰ μὲν ὡς ὄντα τὰ δ’ ὡς ἐπισυμβαίνοντα
+
+ταῖς οὐσίαις·
 #### en
-For in (synthet) composites, and things which exist together with, or in others, or are comprehended by others, some things are conceived to be (proege) precedaneous, but others (hep) consequent; and some as essences, but others, as (ep) afterwards (symba) acceding to essences. 
+In the same place, also, something is added concerning “_efficacious and passive motions_,” which is a division by no means adapted to the difference of the more excellent genera.
 #### sn
-ἐπὶ μὲν γὰρ τῶν συνθέτων καὶ τῶν μεθ’ ἑτέρων ἢ ἐν ἄλλοις ὄντων καὶ τῶν περιεχομένων ὑφ’ ἑτέροις τὰ μὲν ὡς προηγούμενα τὰ δ’ ὡς ἑπόμενα νοεῖται, καὶ τὰ μὲν ὡς ὄντα τὰ δ’ ὡς ἐπισυμβαίνονταταῖς οὐσίαις·
+ἐπὶ μὲν γὰρ τῶν συνθέτων καὶ τῶν μεθ’ ἑτέρων ἢ ἐν ἄλλοις ὄντων καὶ τῶν περιεχομένων ὑφ’ ἑτέροις τὰ μὲν ὡς προηγούμενα τὰ δ’ ὡς ἑπόμενα νοεῖται, καὶ τὰ μὲν ὡς ὄντα τὰ δ’ ὡς ἐπισυμβαίνοντα
+
+ταῖς οὐσίαις·
 #### ar
-ἐπὶ μὲν γὰρ τῶν συνθέτων καὶ τῶν μεθ’ ἑτέρων ἢ ἐν ἄλλοις ὄντων καὶ τῶν περιεχομένων ὑφ’ ἑτέροις τὰ μὲν ὡς προηγούμενα τὰ δ’ ὡς ἑπόμενα νοεῖται, καὶ τὰ μὲν ὡς ὄντα τὰ δ’ ὡς ἐπισυμβαίνονταταῖς οὐσίαις·
+ἐπὶ μὲν γὰρ τῶν συνθέτων καὶ τῶν μεθ’ ἑτέρων ἢ ἐν ἄλλοις ὄντων καὶ τῶν περιεχομένων ὑφ’ ἑτέροις τὰ μὲν ὡς προηγούμενα τὰ δ’ ὡς ἑπόμενα νοεῖται, καὶ τὰ μὲν ὡς ὄντα τὰ δ’ ὡς ἐπισυμβαίνοντα
+
+ταῖς οὐσίαις·
 
 ### 15
 #### gr
 σύνταξις γάρ τις αὐτῶν συνίσταται, ἀνοικειότης τε μεταξὺ παρεμπίπτει καὶ διάστασις·
 #### en
-For there (synsta) is a certain (taxis) coarrangement of them, and (oecioty) incongruity and (diastasis) interval (parempt) intervenes. 
+For the contrariety of action and passion is not inherent in any one of them;
 #### sn
 σύνταξις γάρ τις αὐτῶν συνίσταται, ἀνοικειότης τε μεταξὺ παρεμπίπτει καὶ διάστασις·
 #### ar
@@ -742,9 +765,7 @@ For there (synsta) is a certain (taxis) coarrangement of them, and (oecioty) inc
 #### gr
 ἐπὶ δὲ τῶν κρειττόνων πάντα ἐν τῷ εἶναι νοεῖται, καὶ τὰ ὅλα προηγουμένως ὑπάρχει, χωριστά τε ἐστὶ καθ’ αὑτὰ καὶ οὐκ ἀφ’ ἑτέρων ἢ ἐν ἄλλοις ἔχοντα τὴν ὑπόστασιν.
 #### en
-But, in the more excellent genera, all things must be conceived in τῳ ειναι, i. e. in merely existing;
-
-and wholes have a precedaneous subsistence, are separate by themselves, and have not their hypostasis from, or in others;
+but their energies are unrestrained, immutable, and without habitude to their opposites.
 #### sn
 ἐπὶ δὲ τῶν κρειττόνων πάντα ἐν τῷ εἶναι νοεῖται, καὶ τὰ ὅλα προηγουμένως ὑπάρχει, χωριστά τε ἐστὶ καθ’ αὑτὰ καὶ οὐκ ἀφ’ ἑτέρων ἢ ἐν ἄλλοις ἔχοντα τὴν ὑπόστασιν.
 #### ar
@@ -754,7 +775,7 @@ and wholes have a precedaneous subsistence, are separate by themselves, and have
 #### gr
 ὥς τε οὐδέν ἐστιν ἐπ’ αὐτῶν παρεπόμενον, οὐκ οὖν οὐδ’ ἀπὸ τούτων χαρακτηρίζεται αὐτῶν ἡ ἰδιότης.
 #### en
-so that there is not any thing in them which is accidental. Hence the peculiarity of them is not characterized from accidents.
+Hence, neither must we admit in them motions of such a kind as arise from action and passion.
 #### sn
 ὥς τε οὐδέν ἐστιν ἐπ’ αὐτῶν παρεπόμενον, οὐκ οὖν οὐδ’ ἀπὸ τούτων χαρακτηρίζεται αὐτῶν ἡ ἰδιότης.
 #### ar
@@ -764,7 +785,7 @@ so that there is not any thing in them which is accidental. Hence the peculiarit
 #### gr
 Καὶ δεῖ ἐπὶ τῷ τέλει τῆς ἐρωτήσεως συμφέρειν τὴν κατὰ φύσιν διάκρισιν·
 #### en
-At the end, likewise, of your inquiry, you (sympher) (de) introduce a distinction according to (physis) nature. 
+For neither do we admit in the soul a self-motion, which consists of the mover and that which is moved;
 #### sn
 Καὶ δεῖ ἐπὶ τῷ τέλει τῆς ἐρωτήσεως συμφέρειν τὴν κατὰ φύσιν διάκρισιν·
 #### ar
@@ -774,7 +795,7 @@ At the end, likewise, of your inquiry, you (sympher) (de) introduce a distinctio
 #### gr
 τὸ μὲν γὰρ ἐρώτημα ἐπιζητεῖ, πῶς ταῖς ἐνεργείαις καὶ ταῖς φυσικαῖς κινήσεσι καὶ τοῖς παρεπομένοις αἱ οὐσίαι γνωρίζονται.
 #### en
-For your (erotem) question (epizete) asks, “How essences are (gnoriz) known by energies, by physical motions, and by accidents?”
+but we conceive that it is a certain simple essential motion, subsisting from itself,[26] and not possessing a habitude to another thing, and exempt from acting on, and suffering from, itself.
 #### sn
 τὸ μὲν γὰρ ἐρώτημα ἐπιζητεῖ, πῶς ταῖς ἐνεργείαις καὶ ταῖς φυσικαῖς κινήσεσι καὶ τοῖς παρεπομένοις αἱ οὐσίαι γνωρίζονται.
 #### ar
@@ -784,7 +805,7 @@ For your (erotem) question (epizete) asks, “How essences are (gnoriz) known by
 #### gr
 τὸ δὲ πᾶν τοὐναντίον ὑπάρχει·
 #### en
-The very (anti) contrary, however, to all this (hyparch) takes place. 
+Who, therefore, can endure that the peculiarities of the genera superior to the soul, should be distinguished according to active or passive motions?
 #### sn
 τὸ δὲ πᾶν τοὐναντίον ὑπάρχει·
 #### ar
@@ -794,7 +815,7 @@ The very (anti) contrary, however, to all this (hyparch) takes place.
 #### gr
 εἰ μὲν γὰρ ἦσαν αἱ ἐνέργειαι καὶ κινήσεις ὑποστατικαὶ τῶν οὐσιῶν, αὐταὶ καὶ τῆς διαφορότητος ἂν αὐτῶν ἦσαν κύριαι, εἰ δ’ αἱ οὐσίαι γεννῶσι τὰς ἐνεργείας, αὐταὶ πρότερον οὖσαι χωρισταὶ παρέχουσι καὶ ταῖς κινήσεσι καὶ ἐνεργείαις καὶ τοῖς παρεπομένοις τὸ διίστασθαι·
 #### en
-For if energies and motions were (hyposta) constitutive of essences, they would be the (cyri) lords of the difference which is between them. But if essences (genna) generate energies, the former being separate prior to the latter, will (parech) impart to motions, energies, and accidents, that by which they (diasta) differ from each other.
+That also which is added by you, “_or of accidents_,” is foreign from these genera.
 #### sn
 εἰ μὲν γὰρ ἦσαν αἱ ἐνέργειαι καὶ κινήσεις ὑποστατικαὶ τῶν οὐσιῶν, αὐταὶ καὶ τῆς διαφορότητος ἂν αὐτῶν ἦσαν κύριαι, εἰ δ’ αἱ οὐσίαι γεννῶσι τὰς ἐνεργείας, αὐταὶ πρότερον οὖσαι χωρισταὶ παρέχουσι καὶ ταῖς κινήσεσι καὶ ἐνεργείαις καὶ τοῖς παρεπομένοις τὸ διίστασθαι·
 #### ar
@@ -804,7 +825,7 @@ For if energies and motions were (hyposta) constitutive of essences, they would 
 #### gr
 καὶ τοῦτο δὴ οὖν εἰς τὴν θήραν τῆς νυνὶ ζητουμένης ἰδιότητος ὑπεναντίως ἔχει.
 #### en
-This, therefore, it (ech) subsists (hypenanti) contrarily to what you suppose, for the purpose of (ther) discovering the peculiarity which you now (zete) investigate.
+For in composites, and things which exist together with, or in others, or are comprehended by others, some things are conceived to be precedaneous, but others consequent;
 #### sn
 καὶ τοῦτο δὴ οὖν εἰς τὴν θήραν τῆς νυνὶ ζητουμένης ἰδιότητος ὑπεναντίως ἔχει.
 #### ar
@@ -814,7 +835,7 @@ This, therefore, it (ech) subsists (hypenanti) contrarily to what you suppose, f
 #### gr
 Τὸ δ’ ὅλον, πότερον ἓν γένος ἡγούμενος θεῶν, καὶ δαιμόνων ἕν, καὶ ἡρώων ὡσαύτως, καὶ ψυχῶν τῶν καθ’ αὑτὰς ἀσωμάτων, ἀπαιτεῖς αὐτῶν τὴν κατὰ τὰ ἰδιώματα διάκρισιν, ἢ πολλὰ ἕκαστα τιθέμενος.
 #### en
-In short, whether you think that there is one genus of the Gods, one of daemons, and in a similar manner of heroes, and souls essentially (soma) incorporeal; or whether you admit that these are severally many, you (apaet) inquire what the difference of them is according to peculiarities.
+and some as essences, but others, as afterwards acceding to essences.
 #### sn
 Τὸ δ’ ὅλον, πότερον ἓν γένος ἡγούμενος θεῶν, καὶ δαιμόνων ἕν, καὶ ἡρώων ὡσαύτως, καὶ ψυχῶν τῶν καθ’ αὑτὰς ἀσωμάτων, ἀπαιτεῖς αὐτῶν τὴν κατὰ τὰ ἰδιώματα διάκρισιν, ἢ πολλὰ ἕκαστα τιθέμενος.
 #### ar
@@ -824,9 +845,7 @@ In short, whether you think that there is one genus of the Gods, one of daemons,
 #### gr
 εἰ μὲν γὰρ ἓν ἕκαστον ὑπολαμβάνεις, συγχεῖται πᾶσα τῆς ἐπιστημονικῆς θεολογίας ἡ διάταξις, εἰ δ’ ὥσπερ ἐστὶν ἐμπλησθῆναι, τοῖς γένεσιν ἀφώρισται, καὶ οὐκ ἔστιν ἐπ’ αὐτοῖς εἷς οὐσιώδης κοινὸς λόγος, ἀλλὰ τὰ πρότερον αὐτῶν ἀπὸ τῶν καταδεεστέρων ἐξῄρηται, οὔτε οἷόν τε κοινὰ αὐτῶν ἐξευρεῖν πέρατα·
 #### en
-For if you apprehend that each of these is one [and the same genus] the whole arrangement of scientific theology is (synche) confounded.
-
-But if, as (ple) (es) truth requires, you admit that they are generically (aphor) distinguished, and that there is not in them one common essential (log) definition, but that those of them which are prior, are exempt from those that are (catade) inferior, it is not possible to (exeur) discover their common (peras) boundaries.
+For there is a certain coarrangement of them, and incongruity and interval intervenes.
 #### sn
 εἰ μὲν γὰρ ἓν ἕκαστον ὑπολαμβάνεις, συγχεῖται πᾶσα τῆς ἐπιστημονικῆς θεολογίας ἡ διάταξις, εἰ δ’ ὥσπερ ἐστὶν ἐμπλησθῆναι, τοῖς γένεσιν ἀφώρισται, καὶ οὐκ ἔστιν ἐπ’ αὐτοῖς εἷς οὐσιώδης κοινὸς λόγος, ἀλλὰ τὰ πρότερον αὐτῶν ἀπὸ τῶν καταδεεστέρων ἐξῄρηται, οὔτε οἷόν τε κοινὰ αὐτῶν ἐξευρεῖν πέρατα·
 #### ar
@@ -836,7 +855,7 @@ But if, as (ple) (es) truth requires, you admit that they are generically (aphor
 #### gr
 ἐάν τε καὶ ᾖ δυνατόν, αὐτὸ δὲ τοῦτο τὰ ἰδιώματα αὐτῶν ἀναιρεῖ·
 #### en
-And even if this were possible, this very thing would (anaer) destroy their peculiarities. 
+But, in the more excellent genera, all things must be conceived in τῳ ειναι, i.
 #### sn
 ἐάν τε καὶ ᾖ δυνατόν, αὐτὸ δὲ τοῦτο τὰ ἰδιώματα αὐτῶν ἀναιρεῖ·
 #### ar
@@ -846,7 +865,7 @@ And even if this were possible, this very thing would (anaer) destroy their pecu
 #### gr
 ταύτῃ μὲν οὖν οὐκ ἄν τις εὕροι τὸ ἐπιζητούμενον·
 #### en
-In this way, therefore, the object of investigation cannot be (eur) found. 
+. _in merely existing_;
 #### sn
 ταύτῃ μὲν οὖν οὐκ ἄν τις εὕροι τὸ ἐπιζητούμενον·
 #### ar
@@ -856,7 +875,7 @@ In this way, therefore, the object of investigation cannot be (eur) found.
 #### gr
 τὴν δὲ ἀνὰ τὸν αὐτὸν λόγον ταυτότητα ἐπὶ τῶν ἀναφερόντων λογιζόμενος, οἷον ἐπὶ τῶν πολλῶν ἐν τοῖς θεοῖς γενῶν, καὶ αὖθις ἐπὶ τῶν ἐν τοῖς δαίμοσι καὶ ἥρωσι, καὶ τὸ τελευταῖον ἐπὶ τῶν ψυχῶν, δύναιτο ἄν τις αὐτῶν ἀφορίζεσθαι τὴν ἰδιότητα.
 #### en
-He, however, he who (logiz) directs his attention to the analogous (taut) sameness which exists in (anapher) superior natures, as, for instance, in the many genera of the Gods, and (auth) again in daemons and heroes, and, in the last place, in souls, will be (dyna) able to (aphoriz) define their peculiarities. 
+and wholes have a precedaneous subsistence, are separate by themselves, and have not their hypostasis from, or in others;
 #### sn
 τὴν δὲ ἀνὰ τὸν αὐτὸν λόγον ταυτότητα ἐπὶ τῶν ἀναφερόντων λογιζόμενος, οἷον ἐπὶ τῶν πολλῶν ἐν τοῖς θεοῖς γενῶν, καὶ αὖθις ἐπὶ τῶν ἐν τοῖς δαίμοσι καὶ ἥρωσι, καὶ τὸ τελευταῖον ἐπὶ τῶν ψυχῶν, δύναιτο ἄν τις αὐτῶν ἀφορίζεσθαι τὴν ἰδιότητα.
 #### ar
@@ -866,7 +885,7 @@ He, however, he who (logiz) directs his attention to the analogous (taut) samene
 #### gr
 Τίς μὲν οὖν ὀρθότης ἦν τῆς παρούσης ἐρωτήσεως καὶ διορισμὸς αὐτῆς, πῶς ἀδύνατος καὶ πῶς δυνατὴ γενέσθαι, διὰ τοῦτο ἡμῖν παραδεδείχθω·
 #### en
-Hence through this, it is (paradec) demonstrated by us what the rectitude is of the present inquiry, and what its [accurate] (diorism) distinction, and also in what manner it is impossible, and in what manner it is possible, for it to (gen) subsist.
+so that there is not any thing in them which is accidental.
 #### sn
 Τίς μὲν οὖν ὀρθότης ἦν τῆς παρούσης ἐρωτήσεως καὶ διορισμὸς αὐτῆς, πῶς ἀδύνατος καὶ πῶς δυνατὴ γενέσθαι, διὰ τοῦτο ἡμῖν παραδεδείχθω·
 #### ar
@@ -878,7 +897,7 @@ Hence through this, it is (paradec) demonstrated by us what the rectitude is of 
 #### gr
 ἴωμεν δ’ ἐφεξῆς ἐπὶ τὴν ἀπόκρισιν ὧν ἐπεζήτησας.
 #### en
-IN the next place, let us (hi) direct our attention to the (apocrin) solution of your inquiries. 
+In the next place, let us direct our attention to the solution of your inquiries. There is, therefore, _the good itself_ which is beyond essence, and there is that good which subsists according to essence;
 #### sn
 ἴωμεν δ’ ἐφεξῆς ἐπὶ τὴν ἀπόκρισιν ὧν ἐπεζήτησας.
 #### ar
@@ -888,7 +907,7 @@ IN the next place, let us (hi) direct our attention to the (apocrin) solution of
 #### gr
 ἔστι δὴ οὖν τἀγαθὸν τότε ἐπέκεινα τῆς οὐσίας καὶ τὸ κατ’ οὐσίαν ὑπάρχον·
 #### en
-There is, therefore, the good itself which is beyond essence, and there is that good which subsists according to essence; 
+I mean the essence which is most ancient and most honourable, and by itself incorporeal. And this is the illustrious peculiarity of the Gods, which exists in all the genera that subsist about them, preserving their appropriate distribution and order, and not being divulsed from it, and at the same time being inherent with invariable sameness in all the Gods, and their perpetual attendants.
 #### sn
 ἔστι δὴ οὖν τἀγαθὸν τότε ἐπέκεινα τῆς οὐσίας καὶ τὸ κατ’ οὐσίαν ὑπάρχον·
 #### ar
@@ -898,9 +917,7 @@ There is, therefore, the good itself which is beyond essence, and there is that 
 #### gr
 ἐκείνην λέγω τὴν οὐσίαν τὴν πρεσβυτάτην καὶ τιμιωτάτην καὶ καθ’ αὑτὴν οὖσαν ἀσώματον, θεῶν ἰδίωμα ἐξαίρετον καὶ κατὰ πάντα τὰ γένη τὰ περὶ αὐτοὺς ὄντα, τηροῦν μὲν οὖν αὐτῶν τὴν οἰκείαν διανομὴν καὶ τάξιν καὶ οὐκ ἀποσπώμενον ταύτης, τὸ αὐτὸ δ’ ὅμως ἐν ὅλοις ὡσαύτως ὑπάρχον.
 #### en
-I mean the essence which is most (presby) ancient and most honourable, and by itself incorporeal.
-
-And this is the (exaeret) illustrious peculiarity of the Gods, which exists in all the genera that subsist about them, (tere) preserving their appropriate (dianom) distribution and (taxis) order, and not being (apospa) divulsed from it, and at the same time being (hyparch) inherent with invariable (hom) sameness in (hol) all the Gods, and their perpetual attendants. 
+In souls, however, which rule over bodies, and precedaneously pay attention to them, and which, prior to generation, have by themselves a perpetual arrangement, essential good is not present, nor the cause of good, which is prior to essence; but to these a certain participation[27] and habit, proceeding from essential good, accedes;
 #### sn
 ἐκείνην λέγω τὴν οὐσίαν τὴν πρεσβυτάτην καὶ τιμιωτάτην καὶ καθ’ αὑτὴν οὖσαν ἀσώματον, θεῶν ἰδίωμα ἐξαίρετον καὶ κατὰ πάντα τὰ γένη τὰ περὶ αὐτοὺς ὄντα, τηροῦν μὲν οὖν αὐτῶν τὴν οἰκείαν διανομὴν καὶ τάξιν καὶ οὐκ ἀποσπώμενον ταύτης, τὸ αὐτὸ δ’ ὅμως ἐν ὅλοις ὡσαύτως ὑπάρχον.
 #### ar
@@ -910,7 +927,7 @@ And this is the (exaeret) illustrious peculiarity of the Gods, which exists in a
 #### gr
 Ψύχαῖς δὲ ταῖς ἀρχούσαις τῶν σωμάτων καὶ προηγουμέναις αὐτῶν τῆς ἐπιμελείας καὶ πρὸ τῆς γενέσεως τεταγμέναις ἀιδίοις καθ’ ἑαυτὰς οὐσία μὲν τοῦ ἀγαθοῦ οὐκ ἔτι πάρεστιν, οὐδ’ αἰτία τοῦ ἀγαθοῦ προτέρα οὖσα καὶ τῆς οὐσίας, ἐποχὴ δέ τις ἀπ’ αὐτοῦ καὶ ἕξις παραγίνεται·
 #### en
-In souls, however, which (arch) rule over (soma) bodies, and precedaneously pay (epimel) attention to them, and which, prior to generation, have by themselves a perpetual (tag) arrangement, essential good is not present, nor the cause of good, which is prior to essence; but to these a certain (epoche) participation* and (hexis) habit, proceeding from essential good, (paragen) accedes; 
+just as we see that the participation of beauty and virtue is very different [in these souls] from that which we behold in men. For the latter is ambiguous, and accedes to composite natures as something adventitious.
 #### sn
 Ψύχαῖς δὲ ταῖς ἀρχούσαις τῶν σωμάτων καὶ προηγουμέναις αὐτῶν τῆς ἐπιμελείας καὶ πρὸ τῆς γενέσεως τεταγμέναις ἀιδίοις καθ’ ἑαυτὰς οὐσία μὲν τοῦ ἀγαθοῦ οὐκ ἔτι πάρεστιν, οὐδ’ αἰτία τοῦ ἀγαθοῦ προτέρα οὖσα καὶ τῆς οὐσίας, ἐποχὴ δέ τις ἀπ’ αὐτοῦ καὶ ἕξις παραγίνεται·
 #### ar
@@ -918,21 +935,25 @@ In souls, however, which (arch) rule over (soma) bodies, and precedaneously pay 
 
 ### 5
 #### gr
-οἷα θεωροῦμεν τὴν τοῦ κάλλους καὶ τῆς ἀρετῆς μετουσίαν πολὺ διάφορον οὖσαν ἢ οἵαν νοοῦμεν ἐπὶ τῶν ἀνθρώπων·
+οἷα θεωροῦμεν τὴν τοῦ κάλλους καὶ τῆς ἀρετῆς μετουσίαν πολὺ διάφορον οὖσαν ἢ οἵαν νοοῦμεν ἐπὶ τῶν
+
+ἀνθρώπων·
 #### en
-just as we (theore) see that the (metes) participation of (call) beauty and (are) virtue is very different [in these souls] from that which we (no) behold in men.
+But the former has an immutable and never failing establishment in souls, and neither itself ever departs from itself, nor can be taken away by any thing else. Such, therefore, being the beginning and end in the divine genera, conceive two media between these extreme boundaries, _viz.
 #### sn
-οἷα θεωροῦμεν τὴν τοῦ κάλλους καὶ τῆς ἀρετῆς μετουσίαν πολὺ διάφορον οὖσαν ἢ οἵαν νοοῦμεν ἐπὶ τῶν ἀνθρώπων·
+οἷα θεωροῦμεν τὴν τοῦ κάλλους καὶ τῆς ἀρετῆς μετουσίαν πολὺ διάφορον οὖσαν ἢ οἵαν νοοῦμεν ἐπὶ τῶν
+
+ἀνθρώπων·
 #### ar
-οἷα θεωροῦμεν τὴν τοῦ κάλλους καὶ τῆς ἀρετῆς μετουσίαν πολὺ διάφορον οὖσαν ἢ οἵαν νοοῦμεν ἐπὶ τῶν ἀνθρώπων·
+οἷα θεωροῦμεν τὴν τοῦ κάλλους καὶ τῆς ἀρετῆς μετουσίαν πολὺ διάφορον οὖσαν ἢ οἵαν νοοῦμεν ἐπὶ τῶν
+
+ἀνθρώπων·
 
 ### 6
 #### gr
 αὕτη μὲν γὰρ ἀμφίβολός τις καὶ ὥσπερ ἐπίκτητος ἐν τοῖς συνθέτοις παραγίνεται, ἡ δὲ ἀμετάστατος ἐνίδρυται ταῖς ψυχαῖς καὶ ἀνέκλειπτος, οὔτε αὐτή ποτε ἐξισταμένη ἀφ’ ἑαυτῆς, οὐθ’ ὑπ’ ἄλλων τινῶν ἀφαιρουμένη.
 #### en
-For the latter is ambiguous, and accedes to composite natures as something (epictet) adventitious. 
-
-But the former has an (metasta) immutable and never (eclip) failing (hidry) establishment in souls, and neither itself ever (exsta) departs from itself, nor can be (aphaer) taken away by any thing else.
+_ the order of heroes, which has an arrangement more elevated than that of souls, in power and virtue, in beauty and magnitude, and in all the goods which subsist about souls, and which, though it entirely transcends the psychical order, yet, at the same time, is proximately conjoined to it, through the alliance of a similar formed life. But the other medium, which is suspended from the Gods, though it is far inferior to them, is that of dæmons, which is hot of a primarily operative nature, but is subservient to, and follows the beneficent will of the Gods.
 #### sn
 αὕτη μὲν γὰρ ἀμφίβολός τις καὶ ὥσπερ ἐπίκτητος ἐν τοῖς συνθέτοις παραγίνεται, ἡ δὲ ἀμετάστατος ἐνίδρυται ταῖς ψυχαῖς καὶ ἀνέκλειπτος, οὔτε αὐτή ποτε ἐξισταμένη ἀφ’ ἑαυτῆς, οὐθ’ ὑπ’ ἄλλων τινῶν ἀφαιρουμένη.
 #### ar
@@ -942,7 +963,7 @@ But the former has an (metasta) immutable and never (eclip) failing (hidry) esta
 #### gr
 Ἀρχῆς δὴ οὖν καὶ τελευτῆς τοιαύτης οὔσης ἐν τοῖς θείοις γένεσι, δύο τῶν ἄκρων ὄρων τούτων μεταξὺ νόει μεσότητα, ὑψηλοτέραν μὲν τῆς τῶν ψυχῶν τάξεως, τὴν τῶν ἡρώων ἐπιτεταγμένην, δυνάμει καὶ ἀρετῇ, κάλλει τε καὶ μεγέθει, καὶ πᾶσι τοῖς περὶ τὰς ψυχὰς ἀγαθοῖς οὖσι παντελῶς αὐτὴν ὑπερέχουσαν, προσεχῆ δ’ ὁμῶς αὐταῖς συναπτομένην διὰ τὴν τῆς ζωῆς ὁμοειδῆ συγγένειαν·
 #### en
-Such, therefore, being the beginning and end in the divine genera, conceive two (mes) media between these (acr) extreme (or) boundaries, viz. the (epitag) order of heroes, which has an arrangement more (hypsel) elevated than that of souls, in power and virtue, in beauty and (meg) magnitude, and in all the goods which subsist about souls, and which, though it (pan) entirely (hyperech) transcends the psychical order, yet, at the same time, is (prosech) proximately conjoined to it, through the (syngen) alliance of a (homoid) similar formed life.
+It likewise unfolds into energy the invisible good of the Gods, being itself assimilated to it, and gives completion to its fabrications conformably to it. For it renders that which is ineffable in the good of the Gods effable, illuminates that which is formless in forms, and produces into visible reasons [or productive forms] that which in divine good is above all reason.
 #### sn
 Ἀρχῆς δὴ οὖν καὶ τελευτῆς τοιαύτης οὔσης ἐν τοῖς θείοις γένεσι, δύο τῶν ἄκρων ὄρων τούτων μεταξὺ νόει μεσότητα, ὑψηλοτέραν μὲν τῆς τῶν ψυχῶν τάξεως, τὴν τῶν ἡρώων ἐπιτεταγμένην, δυνάμει καὶ ἀρετῇ, κάλλει τε καὶ μεγέθει, καὶ πᾶσι τοῖς περὶ τὰς ψυχὰς ἀγαθοῖς οὖσι παντελῶς αὐτὴν ὑπερέχουσαν, προσεχῆ δ’ ὁμῶς αὐταῖς συναπτομένην διὰ τὴν τῆς ζωῆς ὁμοειδῆ συγγένειαν·
 #### ar
@@ -954,13 +975,7 @@ Such, therefore, being the beginning and end in the divine genera, conceive two 
 
 τό τε γὰρ ἄρρητον αὐτοῦ ῥητὸν καὶ τὸ ἀνείδεον ἐν εἴδεσι διαλάμπουσαν, καὶ τὸ ὑπὲρ πάντα λόγον αὐτοῦ εἰς λόγους φανεροὺς προσάγουσαν, καὶ δεχομένην μὲν ἤδη τῶν καλλῶν τὴν μετουσίαν συμπεφυκυῖαν, παρέχουσαν δ’ αὐτὴν ἀφθόνως τοῖς μεθ’ ἑαυτὴν γένεσι καὶ διαπορθμεύουσαν.
 #### en
-But the other medium, which is suspended from the Gods, though it is (macr) far inferior to them, is that of daemons, which is not of a (prot) primarily (erg) operative nature, but is (hypere) subservient to, and (hep) follows the (agath) beneficent (bulesis) will of the Gods. 
-
-It likewise (ecphan) unfolds into energy the (phan) invisible good of the Gods, being itself (apicaz) assimilated to it, and gives (epitel) completion to its (demi) (erg) fabrications (aphomeo) conformably to it.
-
-For it renders that which is (rhe) ineffable in the good of the Gods effable, (lamp) illuminates that which is (id) formless in forms, and (prosag) produces into visible reasons [or productive forms] that which in divine good is above all reason. 
-
-(dech) Receiving also a (symphy) connascent participation of things beautiful, it imparts and (porthmeu) transfers it, in (phthon) unenvying abundance, to the genera (met) posterior to itself.
+Receiving also a connascent participation of things beautiful, it imparts and transfers it, in unenvying abundance, to the genera posterior to itself. These middle genera, therefore, give completion to the common bond of the Gods and souls, and cause the connexion of them to be indissoluble.
 #### sn
 τῆς δὲ τῶν θεῶν ἐξηρτημένην τὴν τῶν δαιμόνων μακρῷ δή τινι καταδεεστέραν αὐτῆς, συνακολουθοῦσαν, ἅτε δὴ ἀ πρωτουργὸν οὖσαν, ὑπηρετικὴν δέ τινα τῆς ἀγαθῆς βουλήσεως τῶν θεῶν συνεπομένην, ἐκφαίνουσαν εἰς ἔργον τὸ ἀφανὲς αὐτῶν ἀγαθόν, ἀπεικαζομένην τε πρὸς αὐτό, καὶ τὰ δημιουργήματα ἐπιτελοῦσαν πρὸς τὸ αὐτὸ ἀφομοιούμενα,
 
@@ -974,7 +989,7 @@ For it renders that which is (rhe) ineffable in the good of the Gods effable, (l
 #### gr
 Ταῦτα δὲ οὖν τὰ γένη μέσα συμπληροῦνται τὸν κοινὸν σύνδεσμον θεῶν τε καὶ ψυχῶν, καὶ ἀδιάλυτον αὐτῶν τὴν συμπλοκὴν ἀπεργάζεται, μίαν τε συνέχειαν ἄνωθεν μέχρι τοῦ τέλους συνδεῖ, καὶ ποιεῖ τῶν ὅλων τὴν κοινωνίαν εἶναι ἀδιαίρετον, κρᾶσιν τε ἀρίστην καὶ σύμμιξιν τοῖς ὅλοις ἔχειν σύμμετρον, πρόοδόν τε ἀπὸ τῶν βελτιόνων ἐπὶ τὰ ἐλάττονα καὶ ἀναγωγὴν ἀπὸ τῶν ὑποδεεστέρων ἐπὶ τὰ πρότερα, ἀναβιβάζει πως ἐξ ἴσου τάξιν τε καὶ μέτρα τῆς κατιούσης μεταδόσεως ἀπὸ τῶν ἀμεινόνων, καὶ τῆς ἐγγιγνομένης ὑποδοχῆς ἐν τοῖς ἀτελεστέροις, ἐντίθησι καὶ ποιεῖ πάντα πᾶσι προσήγορα καὶ συναρμόζοντα, ἄνωθεν τὰς τούτων ὅλων αἰτίας ἀπὸ τῶν θεῶν παραδεχόμενα.
 #### en
-These middle genera, therefore, give (pler) completion to the common (syndesm) bond of the Gods and souls, and (apergaz) cause the connexion of them to be (ly) indissoluble. They also (synde) bind together the one (synechia) continuity of things from on (an) high as far as to the end; make the (cen) communion of wholes to be (diaer) inseparable; cause all things to have the (ar) best, and a (symmetr) commensurate (crasis) (symmixis) mixture; in a certain respect, equally (anabaz) transmit the (hod) progression from more (belt) excellent to (elag) inferior natures, and the (anagog) elevation from things (hypode) posterior to such as are prior; (anabaz) insert in more imperfect beings order and (metr) measures of the (metadosis) communication -which (cati) descends from more (amin) excellent natures, and of that by which it is (engen) (hypodoch) received; and make all things to be (prosagor) familiar and (synarmoz) coadapted to all, (an) supernally (paradech) receiving the causes of all these from the Gods.
+They also bind together the one continuity of things from on high as far as to the end; make the communion of wholes to be inseparable;
 #### sn
 Ταῦτα δὲ οὖν τὰ γένη μέσα συμπληροῦνται τὸν κοινὸν σύνδεσμον θεῶν τε καὶ ψυχῶν, καὶ ἀδιάλυτον αὐτῶν τὴν συμπλοκὴν ἀπεργάζεται, μίαν τε συνέχειαν ἄνωθεν μέχρι τοῦ τέλους συνδεῖ, καὶ ποιεῖ τῶν ὅλων τὴν κοινωνίαν εἶναι ἀδιαίρετον, κρᾶσιν τε ἀρίστην καὶ σύμμιξιν τοῖς ὅλοις ἔχειν σύμμετρον, πρόοδόν τε ἀπὸ τῶν βελτιόνων ἐπὶ τὰ ἐλάττονα καὶ ἀναγωγὴν ἀπὸ τῶν ὑποδεεστέρων ἐπὶ τὰ πρότερα, ἀναβιβάζει πως ἐξ ἴσου τάξιν τε καὶ μέτρα τῆς κατιούσης μεταδόσεως ἀπὸ τῶν ἀμεινόνων, καὶ τῆς ἐγγιγνομένης ὑποδοχῆς ἐν τοῖς ἀτελεστέροις, ἐντίθησι καὶ ποιεῖ πάντα πᾶσι προσήγορα καὶ συναρμόζοντα, ἄνωθεν τὰς τούτων ὅλων αἰτίας ἀπὸ τῶν θεῶν παραδεχόμενα.
 #### ar
@@ -984,39 +999,55 @@ These middle genera, therefore, give (pler) completion to the common (syndesm) b
 #### gr
 Ταύτην δὴ οὖν τὴν διαίρεσιν μὴ νομίσῃς ἰδίαν εἶναι δυνάμεων ἢ ἐνεργειῶν ἢ οὐσίας, μηδὲ χωρὶς διαλαβὼν ἐφ’ ἑνὸς αὐτῶν ἐπισκόπει, κοινῇ δὲ κατὰ πάντων αὐτὴν διατείνας τούτων, τὸ τέλεον ἀποδώσεις τῇ ἀποκρίσει περὶ ὧν ἐπεζήτησας θείων τε καὶ δαιμονίων καὶ ἡρωικῶν καὶ τῶν ἐν ταῖς ψυχαῖς ἰδιωμάτων.
 #### en
-You must not, therefore, (nomiz) think that this division is the (idi) peculiarity of powers or energies, or of essence; nor assuming it separately, must you (episcop) survey it in one of these. But by (diatin) extending it in common through all of these, you will (do) give perfection to the answer concerning the peculiarities of Gods, daemons, and heroes, and also of those in souls which are now the subjects of your inquiry.
+cause all things to have the best, and a commensurate mixture; in a certain respect, equally transmit the progression from more excellent to inferior natures, and the elevation from things posterior to such as are prior;
 #### sn
 Ταύτην δὴ οὖν τὴν διαίρεσιν μὴ νομίσῃς ἰδίαν εἶναι δυνάμεων ἢ ἐνεργειῶν ἢ οὐσίας, μηδὲ χωρὶς διαλαβὼν ἐφ’ ἑνὸς αὐτῶν ἐπισκόπει, κοινῇ δὲ κατὰ πάντων αὐτὴν διατείνας τούτων, τὸ τέλεον ἀποδώσεις τῇ ἀποκρίσει περὶ ὧν ἐπεζήτησας θείων τε καὶ δαιμονίων καὶ ἡρωικῶν καὶ τῶν ἐν ταῖς ψυχαῖς ἰδιωμάτων.
 #### ar
 Ταύτην δὴ οὖν τὴν διαίρεσιν μὴ νομίσῃς ἰδίαν εἶναι δυνάμεων ἢ ἐνεργειῶν ἢ οὐσίας, μηδὲ χωρὶς διαλαβὼν ἐφ’ ἑνὸς αὐτῶν ἐπισκόπει, κοινῇ δὲ κατὰ πάντων αὐτὴν διατείνας τούτων, τὸ τέλεον ἀποδώσεις τῇ ἀποκρίσει περὶ ὧν ἐπεζήτησας θείων τε καὶ δαιμονίων καὶ ἡρωικῶν καὶ τῶν ἐν ταῖς ψυχαῖς ἰδιωμάτων.
+
+### 11
+#### gr
+Κατ’ ἄλλην δὲ αὖθις ἀφορμὴν τὸ μὲν ἡνωμένον πᾶν, ὅσον ἂν ᾖ καὶ ὁποῖον καὶ τὸ μονίμως ἱδρυμένον ἐν·
+#### en
+insert in more imperfect beings order and measures of the communication which descends from more excellent natures, and of that by which it is received; and make all things to be familiar and coadapted to all, supernally receiving the causes of all these from the Gods.
+#### sn
+Κατ’ ἄλλην δὲ αὖθις ἀφορμὴν τὸ μὲν ἡνωμένον πᾶν, ὅσον ἂν ᾖ καὶ ὁποῖον καὶ τὸ μονίμως ἱδρυμένον ἐν·
+#### ar
+Κατ’ ἄλλην δὲ αὖθις ἀφορμὴν τὸ μὲν ἡνωμένον πᾶν, ὅσον ἂν ᾖ καὶ ὁποῖον καὶ τὸ μονίμως ἱδρυμένον ἐν·
 
 ### 12
 #### gr
-Κατ’ ἄλλην δὲ αὖθις ἀφορμὴν τὸ μὲν ἡνωμένον πᾶν, ὅσον ἂν ᾖ καὶ ὁποῖον καὶ τὸ μονίμως ἱδρυμένον ἐν ἑαυτῷ, τό τε τῶν ἀμερίστων οὐσιῶν αἴτιον τὸ ἀκίνητον, οὕτω νοούμενον ὡς αἴτιον εἶναι πάσης κινήσεως, τό τε ὑπερέχον τῶν ὅλων καὶ μηδ’ ὁτιοῦν ἔχον κοινὸν πρὸς αὐτά, καὶ δὴ καὶ τὸ ἄμικτον καὶ χωριστὸν ἐν τῷ εἶναί τε καὶ δύνασθαι καὶ ἐνεργεῖν κοινῶς νοούμενον, πάντα δὲ τὰ τοιαῦτα τοῖς θεοῖς ἀνατιθέναι ἄξιον.
+ἑαυτῷ, τό τε τῶν ἀμερίστων οὐσιῶν αἴτιον τὸ ἀκίνητον, οὕτω νοούμενον ὡς αἴτιον εἶναι πάσης κινήσεως, τό τε ὑπερέχον τῶν ὅλων καὶ μηδ’ ὁτιοῦν ἔχον κοινὸν πρὸς αὐτά, καὶ δὴ καὶ τὸ ἄμικτον καὶ χωριστὸν ἐν τῷ εἶναί τε καὶ δύνασθαι καὶ ἐνεργεῖν κοινῶς νοούμενον, πάντα δὲ τὰ τοιαῦτα τοῖς θεοῖς ἀνατιθέναι ἄξιον.
 #### en
-Again, however, according to another (aphorm) mode of considering the subject, it is (axi) necessary to (anathe) ascribe to the Gods the whole of that which is (hen) united, of whatever kind it may be; that which is (monim) firmly established in itself, and which is the cause of (meriz) impartible essences; the immoveable, which also is to be (no) considered as the cause of all motion, and which transcends the whole of things, and has nothing in common with them; and the (mig) unmingled and the separate, understood in common in essence, power and energy, and every thing else of this kind. 
+You must not, therefore, think that this division is the peculiarity of powers or energies, or of essence; nor assuming it separately, must you survey it in one of these.
 #### sn
-Κατ’ ἄλλην δὲ αὖθις ἀφορμὴν τὸ μὲν ἡνωμένον πᾶν, ὅσον ἂν ᾖ καὶ ὁποῖον καὶ τὸ μονίμως ἱδρυμένον ἐν ἑαυτῷ, τό τε τῶν ἀμερίστων οὐσιῶν αἴτιον τὸ ἀκίνητον, οὕτω νοούμενον ὡς αἴτιον εἶναι πάσης κινήσεως, τό τε ὑπερέχον τῶν ὅλων καὶ μηδ’ ὁτιοῦν ἔχον κοινὸν πρὸς αὐτά, καὶ δὴ καὶ τὸ ἄμικτον καὶ χωριστὸν ἐν τῷ εἶναί τε καὶ δύνασθαι καὶ ἐνεργεῖν κοινῶς νοούμενον, πάντα δὲ τὰ τοιαῦτα τοῖς θεοῖς ἀνατιθέναι ἄξιον.
+ἑαυτῷ, τό τε τῶν ἀμερίστων οὐσιῶν αἴτιον τὸ ἀκίνητον, οὕτω νοούμενον ὡς αἴτιον εἶναι πάσης κινήσεως, τό τε ὑπερέχον τῶν ὅλων καὶ μηδ’ ὁτιοῦν ἔχον κοινὸν πρὸς αὐτά, καὶ δὴ καὶ τὸ ἄμικτον καὶ χωριστὸν ἐν τῷ εἶναί τε καὶ δύνασθαι καὶ ἐνεργεῖν κοινῶς νοούμενον, πάντα δὲ τὰ τοιαῦτα τοῖς θεοῖς ἀνατιθέναι ἄξιον.
 #### ar
-Κατ’ ἄλλην δὲ αὖθις ἀφορμὴν τὸ μὲν ἡνωμένον πᾶν, ὅσον ἂν ᾖ καὶ ὁποῖον καὶ τὸ μονίμως ἱδρυμένον ἐν ἑαυτῷ, τό τε τῶν ἀμερίστων οὐσιῶν αἴτιον τὸ ἀκίνητον, οὕτω νοούμενον ὡς αἴτιον εἶναι πάσης κινήσεως, τό τε ὑπερέχον τῶν ὅλων καὶ μηδ’ ὁτιοῦν ἔχον κοινὸν πρὸς αὐτά, καὶ δὴ καὶ τὸ ἄμικτον καὶ χωριστὸν ἐν τῷ εἶναί τε καὶ δύνασθαι καὶ ἐνεργεῖν κοινῶς νοούμενον, πάντα δὲ τὰ τοιαῦτα τοῖς θεοῖς ἀνατιθέναι ἄξιον.
+ἑαυτῷ, τό τε τῶν ἀμερίστων οὐσιῶν αἴτιον τὸ ἀκίνητον, οὕτω νοούμενον ὡς αἴτιον εἶναι πάσης κινήσεως, τό τε ὑπερέχον τῶν ὅλων καὶ μηδ’ ὁτιοῦν ἔχον κοινὸν πρὸς αὐτά, καὶ δὴ καὶ τὸ ἄμικτον καὶ χωριστὸν ἐν τῷ εἶναί τε καὶ δύνασθαι καὶ ἐνεργεῖν κοινῶς νοούμενον, πάντα δὲ τὰ τοιαῦτα τοῖς θεοῖς ἀνατιθέναι ἄξιον.
 
 ### 13
 #### gr
-τὸ δ’ εἰς πλῆθος ἤδη διακρινόμενον καὶ δυνάμενον ἑαυτὸ διδόναι ἄλλοις, δεχόμενόν τε ἀφ’ ἑτέρων τὸ πέρας ἐν ἑαυτῷ, καὶ ἰκανὸν μὲν ἐν ταῖς διανομαῖς ὄν τῶν μεριστῶν, ὥστε καὶ ταῦτα ἀποπληροῦν, κινήσεως δὲ πρωτουργοῦ καὶ ζωοποιοῦ μέτοχον, κοινωνίαν τε ἔχον πρὸς ὅλα τὰ ὄντα καὶ τὰ γιγνόμενα, σύμμιξίν τε ἀπὸ πάντων παραλαμβάνον, καὶ σύγκρασιν ἀφ’ ἑαυτοῦ ἐπὶ πάντα παρεχόμενον, καὶ ταῦτα δι’ ὅλων τῶν ἐν ἑαυτῷ δυνάμεών τε καὶ οὐσιῶν καὶ ἐνεργειῶν διατεῖνον τὰ ἰδιώματα, τοῦτο δὴ πᾶν ἔμφυτον ταῖς ψυχαῖς ἀποδῶμεν ἀληθῆ λέγοντες.
-#### en
-But that which is now separated into (pleth) multitude, and is able to (do) impart itself to other things, and which receives from others (peras) bound in itself, and is (ican) sufficient in the distributions of partible natures, so as to give completion to them; which also (metoch) participates of the primarily operative and (zoopeo) vivific, having communion with all (on) real and (gen) generated beings; receives a (symmixis) commixture from all things, imparts a (syncrasis) contemperation to all things from itself, and extends these peculiarities through all the powers, essences, and energies, in itself; all this we shall truly (apodo) ascribe to souls, by asserting that it is (aleth) naturally (emphy) implanted in them.
-#### sn
-τὸ δ’ εἰς πλῆθος ἤδη διακρινόμενον καὶ δυνάμενον ἑαυτὸ διδόναι ἄλλοις, δεχόμενόν τε ἀφ’ ἑτέρων τὸ πέρας ἐν ἑαυτῷ, καὶ ἰκανὸν μὲν ἐν ταῖς διανομαῖς ὄν τῶν μεριστῶν, ὥστε καὶ ταῦτα ἀποπληροῦν, κινήσεως δὲ πρωτουργοῦ καὶ ζωοποιοῦ μέτοχον, κοινωνίαν τε ἔχον πρὸς ὅλα τὰ ὄντα καὶ τὰ γιγνόμενα, σύμμιξίν τε ἀπὸ πάντων παραλαμβάνον, καὶ σύγκρασιν ἀφ’ ἑαυτοῦ ἐπὶ πάντα παρεχόμενον, καὶ ταῦτα δι’ ὅλων τῶν ἐν ἑαυτῷ δυνάμεών τε καὶ οὐσιῶν καὶ ἐνεργειῶν διατεῖνον τὰ ἰδιώματα, τοῦτο δὴ πᾶν ἔμφυτον ταῖς ψυχαῖς ἀποδῶμεν ἀληθῆ λέγοντες.
-#### ar
-τὸ δ’ εἰς πλῆθος ἤδη διακρινόμενον καὶ δυνάμενον ἑαυτὸ διδόναι ἄλλοις, δεχόμενόν τε ἀφ’ ἑτέρων τὸ πέρας ἐν ἑαυτῷ, καὶ ἰκανὸν μὲν ἐν ταῖς διανομαῖς ὄν τῶν μεριστῶν, ὥστε καὶ ταῦτα ἀποπληροῦν, κινήσεως δὲ πρωτουργοῦ καὶ ζωοποιοῦ μέτοχον, κοινωνίαν τε ἔχον πρὸς ὅλα τὰ ὄντα καὶ τὰ γιγνόμενα, σύμμιξίν τε ἀπὸ πάντων παραλαμβάνον, καὶ σύγκρασιν ἀφ’ ἑαυτοῦ ἐπὶ πάντα παρεχόμενον, καὶ ταῦτα δι’ ὅλων τῶν ἐν ἑαυτῷ δυνάμεών τε καὶ οὐσιῶν καὶ ἐνεργειῶν διατεῖνον τὰ ἰδιώματα, τοῦτο δὴ πᾶν ἔμφυτον ταῖς ψυχαῖς ἀποδῶμεν ἀληθῆ λέγοντες.
+τὸ δ’ εἰς πλῆθος ἤδη διακρινόμενον καὶ δυνάμενον ἑαυτὸ διδόναι ἄλλοις, δεχόμενόν τε ἀφ’ ἑτέρων τὸ πέρας ἐν ἑαυτῷ, καὶ ἰκανὸν μὲν ἐν ταῖς διανομαῖς ὄν τῶν μεριστῶν, ὥστε καὶ ταῦτα ἀποπληροῦν, κινήσεως δὲ πρωτουργοῦ καὶ ζωοποιοῦ
 
-### 1.6
+μέτοχον, κοινωνίαν τε ἔχον πρὸς ὅλα τὰ ὄντα καὶ τὰ γιγνόμενα, σύμμιξίν τε ἀπὸ πάντων παραλαμβάνον, καὶ σύγκρασιν ἀφ’ ἑαυτοῦ ἐπὶ πάντα παρεχόμενον, καὶ ταῦτα δι’ ὅλων τῶν ἐν ἑαυτῷ δυνάμεών τε καὶ οὐσιῶν καὶ ἐνεργειῶν διατεῖνον τὰ ἰδιώματα, τοῦτο δὴ πᾶν ἔμφυτον ταῖς ψυχαῖς ἀποδῶμεν ἀληθῆ λέγοντες.
+#### en
+But by extending it in common through all the genera, you will give perfection to the answer concerning the peculiarities of Gods, dæmons, and heroes, and also of those in souls which are now the subjects of your inquiry. Again, however, according to another mode of considering the subject, it is necessary to ascribe to the Gods the whole of that which is united, of whatever kind it may be;
+#### sn
+τὸ δ’ εἰς πλῆθος ἤδη διακρινόμενον καὶ δυνάμενον ἑαυτὸ διδόναι ἄλλοις, δεχόμενόν τε ἀφ’ ἑτέρων τὸ πέρας ἐν ἑαυτῷ, καὶ ἰκανὸν μὲν ἐν ταῖς διανομαῖς ὄν τῶν μεριστῶν, ὥστε καὶ ταῦτα ἀποπληροῦν, κινήσεως δὲ πρωτουργοῦ καὶ ζωοποιοῦ
+
+μέτοχον, κοινωνίαν τε ἔχον πρὸς ὅλα τὰ ὄντα καὶ τὰ γιγνόμενα, σύμμιξίν τε ἀπὸ πάντων παραλαμβάνον, καὶ σύγκρασιν ἀφ’ ἑαυτοῦ ἐπὶ πάντα παρεχόμενον, καὶ ταῦτα δι’ ὅλων τῶν ἐν ἑαυτῷ δυνάμεών τε καὶ οὐσιῶν καὶ ἐνεργειῶν διατεῖνον τὰ ἰδιώματα, τοῦτο δὴ πᾶν ἔμφυτον ταῖς ψυχαῖς ἀποδῶμεν ἀληθῆ λέγοντες.
+#### ar
+τὸ δ’ εἰς πλῆθος ἤδη διακρινόμενον καὶ δυνάμενον ἑαυτὸ διδόναι ἄλλοις, δεχόμενόν τε ἀφ’ ἑτέρων τὸ πέρας ἐν ἑαυτῷ, καὶ ἰκανὸν μὲν ἐν ταῖς διανομαῖς ὄν τῶν μεριστῶν, ὥστε καὶ ταῦτα ἀποπληροῦν, κινήσεως δὲ πρωτουργοῦ καὶ ζωοποιοῦ
+
+μέτοχον, κοινωνίαν τε ἔχον πρὸς ὅλα τὰ ὄντα καὶ τὰ γιγνόμενα, σύμμιξίν τε ἀπὸ πάντων παραλαμβάνον, καὶ σύγκρασιν ἀφ’ ἑαυτοῦ ἐπὶ πάντα παρεχόμενον, καὶ ταῦτα δι’ ὅλων τῶν ἐν ἑαυτῷ δυνάμεών τε καὶ οὐσιῶν καὶ ἐνεργειῶν διατεῖνον τὰ ἰδιώματα, τοῦτο δὴ πᾶν ἔμφυτον ταῖς ψυχαῖς ἀποδῶμεν ἀληθῆ λέγοντες.
+
+## 1.6
 
 ### 1
 #### gr
 Τί οὖν δὴ περὶ τῶν μέσων ἐροῦμεν;
 #### en
-WHAT, therefore, shall we (ere) say concerning the media? 
+What, therefore, shall we say concerning the media? I think, indeed, that from what has been before said, they will be manifest to every one;
 #### sn
 Τί οὖν δὴ περὶ τῶν μέσων ἐροῦμεν;
 #### ar
@@ -1026,7 +1057,7 @@ WHAT, therefore, shall we (ere) say concerning the media?
 #### gr
 ἡγοῦμαι μὲν αὐτὰ εἶναι κατάδηλα πᾶσιν ἀπὸ τῶν προειρημένων·
 #### en
-I think, indeed, that from what has been before said, they will be (del) manifest to every one; 
+for these give completion to the indivisible connexion of the extremes. Nevertheless, it is necessary to be more explicit.
 #### sn
 ἡγοῦμαι μὲν αὐτὰ εἶναι κατάδηλα πᾶσιν ἀπὸ τῶν προειρημένων·
 #### ar
@@ -1036,7 +1067,7 @@ I think, indeed, that from what has been before said, they will be (del) manifes
 #### gr
 συμπληροῖ γὰρ καὶ ταῦτα τῶν ἄκρων τὴν ἀλληλουχίαν ἀδιαίρετον·
 #### en
-for these give completion to the indivisible (all) (ech) connexion of the extremes. 
+I consider, therefore, the dæmoniacal tribe to be multiplied, but, unitedly, to be comingled, but in an unmingled manner, and to comprehend all other things of a subordinate nature, according to the idea of that which is more excellent. But again, the tribe of heroes supernally presides over a more obvious division and multitude, and likewise over motion, commixture, and things allied to these.
 #### sn
 συμπληροῖ γὰρ καὶ ταῦτα τῶν ἄκρων τὴν ἀλληλουχίαν ἀδιαίρετον·
 #### ar
@@ -1046,7 +1077,7 @@ for these give completion to the indivisible (all) (ech) connexion of the extrem
 #### gr
 οὐ μὴν ἀλλὰ δεῖ καὶ ἐπεξελθεῖν τῷ λόγῳ.
 #### en
-Nevertheless, it is necessary to be more (exerch) (log) explicit. 
+It also receives gifts of a more excellent nature, concealed as it were inwardly; I mean union, purity, a firm establishment, impartible sameness, and a transcendency above other things.
 #### sn
 οὐ μὴν ἀλλὰ δεῖ καὶ ἐπεξελθεῖν τῷ λόγῳ.
 #### ar
@@ -1054,13 +1085,11 @@ Nevertheless, it is necessary to be more (exerch) (log) explicit.
 
 ### 5
 #### gr
-τίθεμαι δὴ οὖν τὸ μὲν δαιμόνιον φῦλον ἐν τῷ ἑνὶ πληθυόμενον καὶ συμμιγνύμενον ἀμιγῶς, καὶ τἄλλα πάντα τὰ καταδεέστερα κατὰ τὴν τοῦ βελτίονος ἰδέαν προσειληφός, τὸ δ’ αὖ τῶν ἡρώων προστησάμενον μὲν προχειρότερον τὴν διαίρεσιν λέγω καὶ τὸ πλῆθος, τήν τε κίνησιν καὶ τὴν σύμμιξεν καὶ τὰ συγγενῆ τούτοις, ἄνωθεν δ’ ἐφεστηκότα καὶ οἷον ἀποκρυπτόμενα εἰς τὸ ἔσω τὰ βελτίονα παραδεχόμενον, ἕνωσίν φημι καὶ καθαρότητα καὶ τὴν μόνιμον κατάστασιν, ταυτότητά τε ἀμέριστον καὶ ὑπεροχὴν τῶν ἄλλων, ἅτε γὰρ ἑκατέρου τούτων τῶν γενῶν προσεχοῦς ὄντος ἑκατέρῳ τῶν ἄκρων, τοῦ μὲν τῷ πρωτίστῳ, τοῦ δὲ τῷ ἐσχάτῳ·
+τίθεμαι δὴ οὖν τὸ μὲν δαιμόνιον φῦλον ἐν τῷ ἑνὶ πληθυόμενον καὶ συμμιγνύμενον ἀμιγῶς, καὶ τἄλλα πάντα τὰ καταδεέστερα κατὰ τὴν τοῦ βελτίονος ἰδέαν προσειληφός, τὸ δ’ αὖ τῶν ἡρώων προστησάμενον μὲν προχειρότερον τὴν διαίρεσιν λέγω καὶ τὸ πλῆθος, τήν τε κίνησιν καὶ τὴν σύμμιξεν καὶ τὰ συγγενῆ τούτοις, ἄνωθεν δ’ ἐφεστηκότα καὶ οἷον ἀποκρυπτόμενα εἰς τὸ ἔσω τὰ βελτίονα παραδεχόμενον, ἕνωσίν φημι καὶ καθαρότητα καὶ τὴν μό
+
+νιμον κατάστασιν, ταυτότητά τε ἀμέριστον καὶ ὑπεροχὴν τῶν ἄλλων, ἅτε γὰρ ἑκατέρου τούτων τῶν γενῶν προσεχοῦς ὄντος ἑκατέρῳ τῶν ἄκρων, τοῦ μὲν τῷ πρωτίστῳ, τοῦ δὲ τῷ ἐσχάτῳ·
 #### en
-I consider, therefore, the daemoniacal (phyl) tribe to be (plethy) multiplied, but, unitedly, to be comingled, but in an unmingled manner, and to (lamb) comprehend all other things of a (catade) subordinate nature, according to the idea of that which is more excellent. But (au) again, the tribe of heroes supernally presides over a more (prochir) obvious division and multitude, and likewise over motion, commixture, and things allied to these. 
-
-It also receives (epista) gifts of a more excellent nature, (crypt) concealed as it were (eso) inwardly; I mean union, purity, a firm (catastasis) establishment, impartible sameness, and a transcendency above other things.
-
-For one of these middle genera is proximate to the first, but the other to the (eschat) last, of the extremes.
+For one of these middle genera is proximate to the first, but the other to the last, of the extremes. But it reasonably follows, according to continuity of alliance, that the medium which begins from the most excellent natures, should proceed to such as are less excellent;
 #### sn
 τίθεμαι δὴ οὖν τὸ μὲν δαιμόνιον φῦλον ἐν τῷ ἑνὶ πληθυόμενον καὶ συμμιγνύμενον ἀμιγῶς, καὶ τἄλλα πάντα τὰ καταδεέστερα κατὰ τὴν τοῦ βελτίονος ἰδέαν προσειληφός, τὸ δ’ αὖ τῶν ἡρώων προστησάμενον μὲν προχειρότερον τὴν διαίρεσιν λέγω καὶ τὸ πλῆθος, τήν τε κίνησιν καὶ τὴν σύμμιξεν καὶ τὰ συγγενῆ τούτοις, ἄνωθεν δ’ ἐφεστηκότα καὶ οἷον ἀποκρυπτόμενα εἰς τὸ ἔσω τὰ βελτίονα παραδεχόμενον, ἕνωσίν φημι καὶ καθαρότητα καὶ τὴν μό
 
@@ -1074,9 +1103,7 @@ For one of these middle genera is proximate to the first, but the other to the (
 #### gr
 εἰκότως δὲ κατὰ συνεχεῖς συγγενείας τὸ μὲν ἀρχόμενον ἀπὸ τῶν ἀρίστων πρόεισιν ἐπὶ τὰ ἐλάττονα, τὸ δὲ προβαλλόμενον πρώτως τὴν πρὸς τὰ ἔσχατα συναφὴν ἐπικοινωνεῖ πως καὶ τῶν ὑπερεχόντων·
 #### en
-But it (eoec) reasonably follows, according to continuity of alliance, that the medium which begins from the most (ar) excellent natures, should proceed to such as are less excellent; 
-
-but that the medium which primarily (proball) produces a contact with the last of things, should also in a certain respect (epicen) communicate with the natures that transcend it. 
+but that the medium which primarily produces a contact with the last of things, should also in a certain respect communicate with the natures that transcend it. From these media, also, the completion may be seen of the first and last genera, and this entirely connascent, in a similar manner, in existence, in power, and in energy.
 #### sn
 εἰκότως δὲ κατὰ συνεχεῖς συγγενείας τὸ μὲν ἀρχόμενον ἀπὸ τῶν ἀρίστων πρόεισιν ἐπὶ τὰ ἐλάττονα, τὸ δὲ προβαλλόμενον πρώτως τὴν πρὸς τὰ ἔσχατα συναφὴν ἐπικοινωνεῖ πως καὶ τῶν ὑπερεχόντων·
 #### ar
@@ -1086,7 +1113,7 @@ but that the medium which primarily (proball) produces a contact with the last o
 #### gr
 τὴν μέντοι συμπλήρωσιν καὶ ἀπὸ τούτων ἄν τις κατανοήσειε τῶν πρώτων τε καὶ τελευταίων γενῶν, καὶ ταύτην ὁλοκλήρον συμφυομένην ὁμοίως μὲν ἐν τῷ ὑπάρχειν ὁμοίως δὲ καὶ ἐν τῷ δύνασθαί τε καὶ ἐνεργεῖν·
 #### en
-From these media, also, the completion may be (catano) seen of the first and last genera, and this (hol) (cler) entirely connascent, in a similar manner, in existence, in power, and in energy. 
+As we have, therefore, in these two ways, perfectly completed the division of the four genera, we shall deem it sufficient in the others, to exhibit the extreme peculiarities alone, for the sake of conciseness, and because what remains, _i. ._ the comprehension of the media, is in a certain respect evident.
 #### sn
 τὴν μέντοι συμπλήρωσιν καὶ ἀπὸ τούτων ἄν τις κατανοήσειε τῶν πρώτων τε καὶ τελευταίων γενῶν, καὶ ταύτην ὁλοκλήρον συμφυομένην ὁμοίως μὲν ἐν τῷ ὑπάρχειν ὁμοίως δὲ καὶ ἐν τῷ δύνασθαί τε καὶ ἐνεργεῖν·
 #### ar
@@ -1096,9 +1123,7 @@ From these media, also, the completion may be (catano) seen of the first and las
 #### gr
 ὁπότε δὴ οὖν ἐπὶ τῶν δύο τούτων ἐφόδων τελείαν ἀπεπληρώσαμεν τὴν τῶν τεττάρων γενῶν διαίρεσιν, ἐπὶ τῶν ἄλλων συντομίας ἕνεκα, καὶ διότι φανερά πώς ἐστι τό λοιπὸν ἡ τῶν μέσων περίληψις, ἐξαρκεῖν οἰόμεθα μόνα τὰ ἄκρα παραδεικνῦναι ἰδιώματα, τὰ δὲ μέσα ὡς ἂν ὄντα ἀπ’ αὐτῶν γνώριμα παραλείψομεν, ὧδέ πως αὐτῶν ποιούμενοι διὰ βραχυτάτων τὸν ἀφορισμόν.
 #### en
-As we have, therefore, in these two (hod) ways, perfectly completed the division of the four genera, we shall deem it sufficient in the others, to exhibit the extreme peculiarities alone, for the (heneca) sake of (tem) conciseness, and because what (lip) remains, i. the comprehension of the media, is in a certain respect evident. 
-
-But the media themselves, as being known from the extremes, we shall omit; making a definition of the extremes in the (brachy) shortest way, as follows.
+But the media themselves, as being known from the extremes, we shall omit; making a definition of the extremes in the shortest way, as follows.
 #### sn
 ὁπότε δὴ οὖν ἐπὶ τῶν δύο τούτων ἐφόδων τελείαν ἀπεπληρώσαμεν τὴν τῶν τεττάρων γενῶν διαίρεσιν, ἐπὶ τῶν ἄλλων συντομίας ἕνεκα, καὶ διότι φανερά πώς ἐστι τό λοιπὸν ἡ τῶν μέσων περίληψις, ἐξαρκεῖν οἰόμεθα μόνα τὰ ἄκρα παραδεικνῦναι ἰδιώματα, τὰ δὲ μέσα ὡς ἂν ὄντα ἀπ’ αὐτῶν γνώριμα παραλείψομεν, ὧδέ πως αὐτῶν ποιούμενοι διὰ βραχυτάτων τὸν ἀφορισμόν.
 #### ar
@@ -1110,7 +1135,7 @@ But the media themselves, as being known from the extremes, we shall omit; makin
 #### gr
 Τὸ μέν ἐστιν ἄκρον καὶ ὑπερέχον καὶ ὁλοτελές, τὸ δὲ τελευταῖον καὶ ἀπολειπόμενον καὶ ἀτελέστερον·
 #### en
-OF the extremes, therefore, one is supreme, transcendent, and (hol) (tel) perfect; but the other is last in dignity, (apolip) deficient, and more imperfect.
+Of the extremes, therefore, one is supreme, transcendent, and perfect;
 #### sn
 Τὸ μέν ἐστιν ἄκρον καὶ ὑπερέχον καὶ ὁλοτελές, τὸ δὲ τελευταῖον καὶ ἀπολειπόμενον καὶ ἀτελέστερον·
 #### ar
@@ -1120,7 +1145,7 @@ OF the extremes, therefore, one is supreme, transcendent, and (hol) (tel) perfec
 #### gr
 καὶ τὸ μὲν πάντα δύναται ἅμα ἐν τῷ νῦν μονοειδῶς, τὸ δὲ οὔτε ὅλα οὔτε ἀθρόως οὔτε ἐξαίφνης οὔτε ἀμερίστως.
 #### en
-And the former, indeed, is capable of accomplishing all things (hama) at once, uniformly in an (nun) instant; but the latter is neither able to effect all things, nor (athr) at once, nor (aphn) suddenly, nor impartibly.
+but the other is last in dignity, deficient, and more imperfect.
 #### sn
 καὶ τὸ μὲν πάντα δύναται ἅμα ἐν τῷ νῦν μονοειδῶς, τὸ δὲ οὔτε ὅλα οὔτε ἀθρόως οὔτε ἐξαίφνης οὔτε ἀμερίστως.
 #### ar
@@ -1130,7 +1155,7 @@ And the former, indeed, is capable of accomplishing all things (hama) at once, u
 #### gr
 καὶ τὸ μὲν ἀκλινῶς ἀπογεννᾷ πάντα καὶ ἐπιτροπεύει, τὸ δ’ ἔχει φύσιν ἐπινεύειν καὶ ἐπιστρέφεσθαι πρὸς τὰ γινόμενά τε καὶ διοικούμενα.
 #### en
-The former also generates and (epitrop) governs all things, without being inclined towards them; but the latter is naturally disposed to (epineu) verge, and be (epistreph) converted to the things which it generates and (dioec) governs.
+And the former, indeed, is capable of accomplishing all things at once, uniformly in an instant;
 #### sn
 καὶ τὸ μὲν ἀκλινῶς ἀπογεννᾷ πάντα καὶ ἐπιτροπεύει, τὸ δ’ ἔχει φύσιν ἐπινεύειν καὶ ἐπιστρέφεσθαι πρὸς τὰ γινόμενά τε καὶ διοικούμενα.
 #### ar
@@ -1140,7 +1165,7 @@ The former also generates and (epitrop) governs all things, without being inclin
 #### gr
 καὶ τὸ μὲν ἀρχικὸν καὶ αἴτιον προκατάρχει πάντων, τὸ δ’ ἐξ αἰτίας ἠρτημένον, τῆς τῶν θεῶν βουλήσεως, ἐξ αἰδίου συνυφέστηκε.
 #### en
-And the former, indeed, as (arch) primordial and cause, (procatarch) precedes all things in power; but the latter, being suspended from the will of the Gods, as from a cause, is from eternity consubsistent with it.
+but the latter is neither able to effect all things, nor at once, nor suddenly, nor impartibly.
 #### sn
 καὶ τὸ μὲν ἀρχικὸν καὶ αἴτιον προκατάρχει πάντων, τὸ δ’ ἐξ αἰτίας ἠρτημένον, τῆς τῶν θεῶν βουλήσεως, ἐξ αἰδίου συνυφέστηκε.
 #### ar
@@ -1150,7 +1175,7 @@ And the former, indeed, as (arch) primordial and cause, (procatarch) precedes al
 #### gr
 καὶ τὸ μὲν κατὰ μίαν ὀξεῖαν ἀκμὴν τὰ τέλη τῶν ἐνεργειῶν ὅλων καὶ οὐσιῶν συνείληφε, τὸ δ’ ἀπ’ ἄλλων εἰς ἄλλα μεταβαίνει, καὶ ἀπὸ τοῦ ἀτελοῦς προχωρεῖ εἰς τὸ τέλειον.
 #### en
-The former, likewise, according to one (oxy) vigorous acme, comprehends the ends of all energies and essences; but the latter (ba) passes from some things to others, and proceeds from the imperfect to the perfect.
+The former also generates and governs all things, without being inclined towards them;
 #### sn
 καὶ τὸ μὲν κατὰ μίαν ὀξεῖαν ἀκμὴν τὰ τέλη τῶν ἐνεργειῶν ὅλων καὶ οὐσιῶν συνείληφε, τὸ δ’ ἀπ’ ἄλλων εἰς ἄλλα μεταβαίνει, καὶ ἀπὸ τοῦ ἀτελοῦς προχωρεῖ εἰς τὸ τέλειον.
 #### ar
@@ -1158,17 +1183,9 @@ The former, likewise, according to one (oxy) vigorous acme, comprehends the ends
 
 ### 6
 #### gr
-ἔτι τῷ μὲν ὑπάρχει τὸ ἀκρότατον καὶ ἀπερίληπτον, κρεῖττόν τε παντὸς μέτρου, καὶ ἀνείδεον οὕτως ὡς ὑπ’ οὐδενὸς εἴδους περιωρισμένον, 
-
-τὸ δὲ καὶ ῥοπῇ καὶ σχέσει καὶ νεύσει κρατεῖται, ὀρέξεσί τε τοῦ χείρονος καὶ οἰκειώσει τῶν δευτέρων κατἔχεται, 
-
-λοιπὸν δὲ καὶ παντοδαποῖς καὶ τοῖς ἀπ’ αὐτῶν μέτροις εἰδοποιεῖται·
+ἔτι τῷ μὲν ὑπάρχει τὸ ἀκρότατον καὶ ἀπερίληπτον, κρεῖττόν τε παντὸς μέτρου, καὶ ἀνείδεον οὕτως ὡς ὑπ’ οὐδενὸς εἴδους περιωρισμένον, τὸ δὲ καὶ ῥοπῇ καὶ σχέσει καὶ νεύσει κρατεῖται, ὀρέξεσί τε τοῦ χείρονος καὶ οἰκειώσει τῶν δευτέρων κατἔχεται, λοιπὸν δὲ καὶ παντοδαποῖς καὶ τοῖς ἀπ’ αὐτῶν μέτροις εἰδοποιεῖται·
 #### en
-Farther still, to the former that which is (acr) highest and that which is incomprehensible pertain, and also that which is better than all measure, and is in such a manner formless, as not to be (perioriz) circumscribed by any form; 
-
-but the latter is (crat) vanquished by (rhop) inclination, habitude, and (neu) propensity; and is (catech) detained by (oreg) appetites directed to that which is (chir) less excellent, and by (oec) familiarity with secondary natures.
-
-Hence, in the (lip) last place, it is (idopoe) formalized by all various measures derived from them.
+but the latter is naturally disposed to verge, and be converted to the things which it generates and governs.
 #### sn
 ἔτι τῷ μὲν ὑπάρχει τὸ ἀκρότατον καὶ ἀπερίληπτον, κρεῖττόν τε παντὸς μέτρου, καὶ ἀνείδεον οὕτως ὡς ὑπ’ οὐδενὸς εἴδους περιωρισμένον, τὸ δὲ καὶ ῥοπῇ καὶ σχέσει καὶ νεύσει κρατεῖται, ὀρέξεσί τε τοῦ χείρονος καὶ οἰκειώσει τῶν δευτέρων κατἔχεται, λοιπὸν δὲ καὶ παντοδαποῖς καὶ τοῖς ἀπ’ αὐτῶν μέτροις εἰδοποιεῖται·
 #### ar
@@ -1176,15 +1193,11 @@ Hence, in the (lip) last place, it is (idopoe) formalized by all various measure
 
 ### 7
 #### gr
-νοῦς τοίνυν ἡγεμὼν καὶ βασιλεὺς τῶν ὄντων, τέχνη τε δημιουργικὴ τοῦ παντὸς τοῖς μὲν θεοῖς ὡσαύτως ἀεὶ πάρεστι τελέως καὶ ἀνενδεῶς, κατὰ μίαν ἐνέργειαν ἑστῶσαν ἐν ἑαυτῇ καθαρῶς, ἡ δὲ ψνχὴ νοῦ τε μετέχει μεριστοῦ καὶ πολυειδοῦς, εἰς τὴν τοῦ ὅλου τε προστασίαν ἀναποβλέποντος, 
+νοῦς τοίνυν ἡγεμὼν καὶ βασιλεὺς
 
-καὶ αὐτὴ τῶν ἀψύχων ἐπιμελεῖται ἄλλοτε ἐν ἄλλοις εἴδεσιν ἐγγιγνομένη.
+τῶν ὄντων, τέχνη τε δημιουργικὴ τοῦ παντὸς τοῖς μὲν θεοῖς ὡσαύτως ἀεὶ πάρεστι τελέως καὶ ἀνενδεῶς, κατὰ μίαν ἐνέργειαν ἑστῶσαν ἐν ἑαυτῇ καθαρῶς, ἡ δὲ ψνχὴ νοῦ τε μετέχει μεριστοῦ καὶ πολυειδοῦς, εἰς τὴν τοῦ ὅλου τε προστασίαν ἀναποβλέποντος, καὶ αὐτὴ τῶν ἀψύχων ἐπιμελεῖται ἄλλοτε ἐν ἄλλοις εἴδεσιν ἐγγιγνομένη.
 #### en
-Intellect, therefore, which is the (hege) leader and (basil) king of all beings, and which is the demiurgic art of the (pan) universe, is always present with the Gods with invariable sameness, perfectly, and without (ende) indigence, being purely (sta) established in itself, according to one energy.
-
-But soul participates of a partible and multiform intellect, having its (blep) attention directed to the (prosta) government of the whole.
-
-It also providentially attends to (psych) inanimate natures, becoming at different times ingenerated in different forms.
+And the former, indeed, as primordial and cause, precedes all things in power;
 #### sn
 νοῦς τοίνυν ἡγεμὼν καὶ βασιλεὺς
 
@@ -1196,13 +1209,9 @@ It also providentially attends to (psych) inanimate natures, becoming at differe
 
 ### 8
 #### gr
-Ἀπὸ δὴ τῶν αὐτῶν αἰτίων τοῖς μὲν κρείττοσιν αὐτὴ ἡ τάξις αὐτὸ τὸ κάλλος συνυπάρχει, ἢ εἰ οὕτως τὶς βούλοιτο ὑποτίθεσθαι, ἡ αἰτία τούτων συνυφέστηκεν, 
-
-τῇ δὲ ψυχῇ νοερᾶς τάξεως καὶ θείου κάλλους μεταλαγχάνειν ἀεὶ σύνεστι·
+Ἀπὸ δὴ τῶν αὐτῶν αἰτίων τοῖς μὲν κρείττοσιν αὐτὴ ἡ τάξις αὐτὸ τὸ κάλλος συνυπάρχει, ἢ εἰ οὕτως τὶς βούλοιτο ὑποτίθεσθαι, ἡ αἰτία τούτων συνυφέστηκεν, τῇ δὲ ψυχῇ νοερᾶς τάξεως καὶ θείου κάλλους μεταλαγχάνειν ἀεὶ σύνεστι·
 #### en
-From the same causes, therefore, order and beauty itself are consubsistent with the more excellent genera; or, if some one had rather admit it, the cause of these is consubsistent with them.
-
-But with soul, the participation of intellectual order and divine beauty is always present. 
+but the latter, being suspended from the will of the Gods, as from a cause, is from eternity consubsistent with it.
 #### sn
 Ἀπὸ δὴ τῶν αὐτῶν αἰτίων τοῖς μὲν κρείττοσιν αὐτὴ ἡ τάξις αὐτὸ τὸ κάλλος συνυπάρχει, ἢ εἰ οὕτως τὶς βούλοιτο ὑποτίθεσθαι, ἡ αἰτία τούτων συνυφέστηκεν, τῇ δὲ ψυχῇ νοερᾶς τάξεως καὶ θείου κάλλους μεταλαγχάνειν ἀεὶ σύνεστι·
 #### ar
@@ -1212,7 +1221,7 @@ But with soul, the participation of intellectual order and divine beauty is alwa
 #### gr
 καὶ τοῖς μὲν τὸ μέτρον τῶν ὅλων ἢ τὸ τοῦδε αἴτιον σύνδρομον πάρεστι διὰ παντός, ἡ δὲ τῷ θείῳ πέρατι ἀφορίζεται, καὶ τούτου μετέχει μεριστῶς.
 #### en
-And with the former, indeed, the measure of wholes, or the cause of this, perpetually concurs. But soul is terminated by the divine boundary, and participates of this in a partible manner. 
+The former, likewise, according to one vigorous acme, comprehends the ends of all energies and essences;
 #### sn
 καὶ τοῖς μὲν τὸ μέτρον τῶν ὅλων ἢ τὸ τοῦδε αἴτιον σύνδρομον πάρεστι διὰ παντός, ἡ δὲ τῷ θείῳ πέρατι ἀφορίζεται, καὶ τούτου μετέχει μεριστῶς.
 #### ar
@@ -1220,33 +1229,65 @@ And with the former, indeed, the measure of wholes, or the cause of this, perpet
 
 ### 10
 #### gr
-καὶ τοῖς μὲν ἐξαρκεῖν ἐφ’ ὅλα τὰ ὄντα τῇ τῆς αἰτίας δυνάμει καὶ τῇ ἐπικρατείᾳ εὐλόγως ἂν ἀποδοίη τις, 
-
-ἡ δ’ ἔχει τινὰ πέρατα διειλημμένα μέχρις ὅσων ἐπάρχειν δύναται.
+· καὶ τοῖς μὲν ἐξαρκεῖν ἐφ’ ὅλα τὰ ὄντα τῇ τῆς αἰτίας δυνάμει καὶ τῇ ἐπικρατείᾳ εὐλόγως ἂν ἀποδοίη τις, ἡ δ’ ἔχει τινὰ πέρατα διειλημμένα μέχρις ὅσων ἐπάρχειν δύναται.
 #### en
-To the former, also, empire over all beings, through the power and domination of cause, may be reasonably ascribed. 
-
-But soul has certain distinct boundaries, as far as to which it is able to have dominion. 
+but the latter passes from some things to others, and proceeds from the imperfect to the perfect.
 #### sn
-καὶ τοῖς μὲν ἐξαρκεῖν ἐφ’ ὅλα τὰ ὄντα τῇ τῆς αἰτίας δυνάμει καὶ τῇ ἐπικρατείᾳ εὐλόγως ἂν ἀποδοίη τις, ἡ δ’ ἔχει τινὰ πέρατα διειλημμένα μέχρις ὅσων ἐπάρχειν δύναται.
+· καὶ τοῖς μὲν ἐξαρκεῖν ἐφ’ ὅλα τὰ ὄντα τῇ τῆς αἰτίας δυνάμει καὶ τῇ ἐπικρατείᾳ εὐλόγως ἂν ἀποδοίη τις, ἡ δ’ ἔχει τινὰ πέρατα διειλημμένα μέχρις ὅσων ἐπάρχειν δύναται.
 #### ar
-καὶ τοῖς μὲν ἐξαρκεῖν ἐφ’ ὅλα τὰ ὄντα τῇ τῆς αἰτίας δυνάμει καὶ τῇ ἐπικρατείᾳ εὐλόγως ἂν ἀποδοίη τις, ἡ δ’ ἔχει τινὰ πέρατα διειλημμένα μέχρις ὅσων ἐπάρχειν δύναται.
+· καὶ τοῖς μὲν ἐξαρκεῖν ἐφ’ ὅλα τὰ ὄντα τῇ τῆς αἰτίας δυνάμει καὶ τῇ ἐπικρατείᾳ εὐλόγως ἂν ἀποδοίη τις, ἡ δ’ ἔχει τινὰ πέρατα διειλημμένα μέχρις ὅσων ἐπάρχειν δύναται.
 
 ### 11
 #### gr
-Τοιούτων δὴ ὄντων τῶν διαφόρων ἰδιωμάτων ἐν τοῖς ἄκροις, οὐ χαλεπῶς ἄν τις, ὃ δὴ νῦν ἐλέγομεν, καὶ τὰ μέσα αὐτῶν ἰδιώματα τὰ τῶν δαιμόνων τε καὶ ἡρώων ἐννοήσειε, σύνεγγυς ὄντα ἑκατέρῳ τῶν ἄκρων, ἔχοντα ὁμοιότητα πρὸς ἑκάτερον καὶ ἀπ’ ἀμφοτέρων ἀφιστάμενα πρὸς τὸ μέσον, σύμμικτόν τε ἀπ’ αὐτῶν τὴν ὁμονοητικὴν κοινωνίαν συμπλέκοντα. καὶ πρὸς αὐτὴν ἐν μέτροις τοῖς. προσήκουσι συμπλεκόμενα.
+Τοιούτων δὴ ὄντων τῶν διαφόρων ἰδιωμάτων ἐν τοῖς
+
+ἄκροις, οὐ χαλεπῶς ἄν τις, ὃ δὴ νῦν ἐλέγομεν, καὶ τὰ μέσα αὐτῶν ἰδιώματα τὰ τῶν δαιμόνων τε καὶ ἡρώων ἐννοήσειε, σύνεγγυς ὄντα ἑκατέρῳ τῶν·
 #### en
-Such, therefore, being the different peculiarities in the extremes, it will not be (chalep) difficult to understand what we have now said, and to perceive the middle peculiarities of daemons and heroes, which are (gy) allied to each of the extremes, possessing a similitude to each, (apsta) departing from both to the medium, and (symplec) embracing a (hom) (no) concordant communion comingled from them, and (prosec) connected with it in appropriate measures. 
+Farther still, to the former that which is highest and that which is incomprehensible pertain, and also that which is better than all measure, and is in such a manner formless, as not to be circumscribed by any form;
 #### sn
-Τοιούτων δὴ ὄντων τῶν διαφόρων ἰδιωμάτων ἐν τοῖς ἄκροις, οὐ χαλεπῶς ἄν τις, ὃ δὴ νῦν ἐλέγομεν, καὶ τὰ μέσα αὐτῶν ἰδιώματα τὰ τῶν δαιμόνων τε καὶ ἡρώων ἐννοήσειε, σύνεγγυς ὄντα ἑκατέρῳ τῶν ἄκρων, ἔχοντα ὁμοιότητα πρὸς ἑκάτερον καὶ ἀπ’ ἀμφοτέρων ἀφιστάμενα πρὸς τὸ μέσον, σύμμικτόν τε ἀπ’ αὐτῶν τὴν ὁμονοητικὴν κοινωνίαν συμπλέκοντα. καὶ πρὸς αὐτὴν ἐν μέτροις τοῖς. προσήκουσι συμπλεκόμενα.
+Τοιούτων δὴ ὄντων τῶν διαφόρων ἰδιωμάτων ἐν τοῖς
+
+ἄκροις, οὐ χαλεπῶς ἄν τις, ὃ δὴ νῦν ἐλέγομεν, καὶ τὰ μέσα αὐτῶν ἰδιώματα τὰ τῶν δαιμόνων τε καὶ ἡρώων ἐννοήσειε, σύνεγγυς ὄντα ἑκατέρῳ τῶν·
 #### ar
-Τοιούτων δὴ ὄντων τῶν διαφόρων ἰδιωμάτων ἐν τοῖς ἄκροις, οὐ χαλεπῶς ἄν τις, ὃ δὴ νῦν ἐλέγομεν, καὶ τὰ μέσα αὐτῶν ἰδιώματα τὰ τῶν δαιμόνων τε καὶ ἡρώων ἐννοήσειε, σύνεγγυς ὄντα ἑκατέρῳ τῶν ἄκρων, ἔχοντα ὁμοιότητα πρὸς ἑκάτερον καὶ ἀπ’ ἀμφοτέρων ἀφιστάμενα πρὸς τὸ μέσον, σύμμικτόν τε ἀπ’ αὐτῶν τὴν ὁμονοητικὴν κοινωνίαν συμπλέκοντα. καὶ πρὸς αὐτὴν ἐν μέτροις τοῖς. προσήκουσι συμπλεκόμενα.
+Τοιούτων δὴ ὄντων τῶν διαφόρων ἰδιωμάτων ἐν τοῖς
+
+ἄκροις, οὐ χαλεπῶς ἄν τις, ὃ δὴ νῦν ἐλέγομεν, καὶ τὰ μέσα αὐτῶν ἰδιώματα τὰ τῶν δαιμόνων τε καὶ ἡρώων ἐννοήσειε, σύνεγγυς ὄντα ἑκατέρῳ τῶν·
+
+### 12
+#### gr
+ἄκρων, ἔχοντα ὁμοιότητα πρὸς ἑκάτερον καὶ ἀπ’ ἀμφοτέρων ἀφιστάμενα πρὸς τὸ μέσον, σύμμικτόν τε ἀπ’ αὐτῶν τὴν ὁμονοητικὴν κοινωνίαν συμπλέκοντα.
+#### en
+but the latter is vanquished by inclination, habitude, and propensity;
+#### sn
+ἄκρων, ἔχοντα ὁμοιότητα πρὸς ἑκάτερον καὶ ἀπ’ ἀμφοτέρων ἀφιστάμενα πρὸς τὸ μέσον, σύμμικτόν τε ἀπ’ αὐτῶν τὴν ὁμονοητικὴν κοινωνίαν συμπλέκοντα.
+#### ar
+ἄκρων, ἔχοντα ὁμοιότητα πρὸς ἑκάτερον καὶ ἀπ’ ἀμφοτέρων ἀφιστάμενα πρὸς τὸ μέσον, σύμμικτόν τε ἀπ’ αὐτῶν τὴν ὁμονοητικὴν κοινωνίαν συμπλέκοντα.
+
+### 13
+#### gr
+καὶ πρὸς αὐτὴν ἐν μέτροις τοῖς.
+#### en
+and is detained by appetites directed to that which is less excellent, and by familiarity with secondary natures.
+#### sn
+καὶ πρὸς αὐτὴν ἐν μέτροις τοῖς.
+#### ar
+καὶ πρὸς αὐτὴν ἐν μέτροις τοῖς.
+
+### 14
+#### gr
+προσήκουσι συμπλεκόμενα.
+#### en
+Hence, in the last place, it is formalized by all-various measures derived from them.
+#### sn
+προσήκουσι συμπλεκόμενα.
+#### ar
+προσήκουσι συμπλεκόμενα.
 
 ### 15
 #### gr
 τοιαῦτα δὴ οὖν νοείσθω τῶν πρώτων θείων γενῶν τὰ ἰδιώματα.
 #### en
-Such, therefore, must be conceived to be the peculiarities of the first divine genera.
+Intellect, therefore, which is the leader and king of all beings, and which is the demiurgic art of the universe, is always present with the Gods with invariable sameness, perfectly, and without indigence, being purely established in itself, according to one energy.
 #### sn
 τοιαῦτα δὴ οὖν νοείσθω τῶν πρώτων θείων γενῶν τὰ ἰδιώματα.
 #### ar
@@ -1258,7 +1299,7 @@ Such, therefore, must be conceived to be the peculiarities of the first divine g
 #### gr
 Οὐ μέντοι τὴν ὑπὸ σοῦ διάκρισιν ὑποτεινομένην αὐτῶν προσιέμεθα, ἥτις τὴν πρὸς τὰ διαφέροντα σώματα κατάταξιν, οἷον θεῶν μὲν πρὸς τὰ αἰθέρια, δαιμόνων δὲ πρὸς τὰ ἀέρια, ψυχῶν δὲ τῶν περὶ γῆν, αἰτίαν εἶναί φησι τῆς νυνὶ ζητουμένης διαστάσεως.
 #### en
-But neither must we admit that cause of the distinction of these genera which you subjoin, viz. “_that it is an arrangement with reference to different bodies; as, for instance, of Gods to etherial bodies, but of dæmons to aerial bodies, and of souls to such as are terrene_.” 
+But neither must we admit that cause of the distinction of these genera which you subjoin, viz.
 #### sn
 Οὐ μέντοι τὴν ὑπὸ σοῦ διάκρισιν ὑποτεινομένην αὐτῶν προσιέμεθα, ἥτις τὴν πρὸς τὰ διαφέροντα σώματα κατάταξιν, οἷον θεῶν μὲν πρὸς τὰ αἰθέρια, δαιμόνων δὲ πρὸς τὰ ἀέρια, ψυχῶν δὲ τῶν περὶ γῆν, αἰτίαν εἶναί φησι τῆς νυνὶ ζητουμένης διαστάσεως.
 #### ar
@@ -1268,7 +1309,7 @@ But neither must we admit that cause of the distinction of these genera which yo
 #### gr
 ἥτε γὰρ κατάταξις, οἷον τοῦ Σωκράτους εἰς τὴν φυλὴν ὅταν πρυτανεύῃ, ἀναξίως ὑπόκειται τῶν θείων γενῶν, ἅπερ ἀπόλυτα πάντα καὶ ἄφετα καθ’ ἑαυτὰ ὑπάρχει.
 #### en
-For such an arrangement as this, which resembles that of Socrates to a tribe, when he is a senator, is unworthy of the divine genera, because all of them are essentially unrestrained and free.
+“_that it is an arrangement with reference to different bodies;
 #### sn
 ἥτε γὰρ κατάταξις, οἷον τοῦ Σωκράτους εἰς τὴν φυλὴν ὅταν πρυτανεύῃ, ἀναξίως ὑπόκειται τῶν θείων γενῶν, ἅπερ ἀπόλυτα πάντα καὶ ἄφετα καθ’ ἑαυτὰ ὑπάρχει.
 #### ar
@@ -1276,29 +1317,45 @@ For such an arrangement as this, which resembles that of Socrates to a tribe, wh
 
 ### 3
 #### gr
-καὶ τὸ κυριώτερα ποιεῖν τὰ σώματα πρὸς τὸ εἰδοποιεῖν τὰ ἑαυτῶν πρῶτα αἴτια, δεινὴν ἀτοπίαν ἐμφαίνει·
+καὶ τὸ κυριώτερα ποιεῖν τὰ σώματα πρὸς τὸ εἰδοποιεῖν τὰ ἑαυτῶν πρῶτα αἴτια,
+
+δεινὴν ἀτοπίαν ἐμφαίνει·
 #### en
-To which may be added, that it is dreadfully absurd to ascribe to bodies a principal power of giving a specific distinction to the first causes of themselves.
+as, for instance, of Gods to etherial bodies, but of dæmons to aerial bodies, and of souls to such as are terrene_.
 #### sn
-καὶ τὸ κυριώτερα ποιεῖν τὰ σώματα πρὸς τὸ εἰδοποιεῖν τὰ ἑαυτῶν πρῶτα αἴτια, δεινὴν ἀτοπίαν ἐμφαίνει·
+καὶ τὸ κυριώτερα ποιεῖν τὰ σώματα πρὸς τὸ εἰδοποιεῖν τὰ ἑαυτῶν πρῶτα αἴτια,
+
+δεινὴν ἀτοπίαν ἐμφαίνει·
 #### ar
-καὶ τὸ κυριώτερα ποιεῖν τὰ σώματα πρὸς τὸ εἰδοποιεῖν τὰ ἑαυτῶν πρῶτα αἴτια, δεινὴν ἀτοπίαν ἐμφαίνει·
+καὶ τὸ κυριώτερα ποιεῖν τὰ σώματα πρὸς τὸ εἰδοποιεῖν τὰ ἑαυτῶν πρῶτα αἴτια,
+
+δεινὴν ἀτοπίαν ἐμφαίνει·
 
 ### 4
 #### gr
-δουλεύει γὰρ ταῦτα ἐκείνους· καὶ ὑπερετεῖ πρὸς τὴν γένεσιν.
+δουλεύει γὰρ ταῦτα ἐκείνους·
 #### en
-For bodies are in servile subjection to these causes, and are ministrant to generation.
+” For such an arrangement as this, which resembles that of Socrates to a tribe, when he is a senator, is unworthy of the divine genera, because all of them are essentially unrestrained and free.
 #### sn
-δουλεύει γὰρ ταῦτα ἐκείνους· καὶ ὑπερετεῖ πρὸς τὴν γένεσιν.
+δουλεύει γὰρ ταῦτα ἐκείνους·
 #### ar
-δουλεύει γὰρ ταῦτα ἐκείνους· καὶ ὑπερετεῖ πρὸς τὴν γένεσιν.
+δουλεύει γὰρ ταῦτα ἐκείνους·
+
+### 5
+#### gr
+καὶ ὑπερετεῖ πρὸς τὴν γένεσιν.
+#### en
+To which may be added, that it is dreadfully absurd to ascribe to bodies a principal power of giving a specific distinction to the first causes of themselves.
+#### sn
+καὶ ὑπερετεῖ πρὸς τὴν γένεσιν.
+#### ar
+καὶ ὑπερετεῖ πρὸς τὴν γένεσιν.
 
 ### 6
 #### gr
 ἔτι οὐδὲ ἔνεστι τοῖς σώμασι τὰ γένη τῶν κρειττόνων, ἀλλ’ ἔξωθεν αὐτῶν ἡγεμονεύει·
 #### en
-And farther still, the genera of the more excellent natures are not in bodies, but the former externally rule over the latter.
+For bodies are in servile subjection to these causes, and are ministrant to generation.
 #### sn
 ἔτι οὐδὲ ἔνεστι τοῖς σώμασι τὰ γένη τῶν κρειττόνων, ἀλλ’ ἔξωθεν αὐτῶν ἡγεμονεύει·
 #### ar
@@ -1308,7 +1365,7 @@ And farther still, the genera of the more excellent natures are not in bodies, b
 #### gr
 οὐκ ἄρα συναλλοιοῦται τοῖς σώμασιν·
 #### en
-Hence they are not changed in conjunction with bodies.
+And farther still, the genera of the more excellent natures are not in bodies, but the former externally rule over the latter.
 #### sn
 οὐκ ἄρα συναλλοιοῦται τοῖς σώμασιν·
 #### ar
@@ -1316,60 +1373,115 @@ Hence they are not changed in conjunction with bodies.
 
 ### 8
 #### gr
-ἔτι δίδωσι μὲν ἀφ’ ἐαυτῶν εἰς τὰ σώματα πᾶν ὅσον δύναται δέξασθαι· ἐκεῖνοι ἀγαθόν, αὐτὰ δὲ ἀπὸ τῶν σωμάτων οὐδὲν παραδέχεται, ὥστε οὐδ’ ἀπ’ αὐτῶν δέξαιτο ἄν τινα ἰδιώματα.
+ἔτι δίδωσι μὲν ἀφ’ ἐαυτῶν εἰς τὰ σώματα πᾶν ὅσον δύναται δέξασθαι·
 #### en
-Again, they impart from themselves to bodies every such good as they are able to receive, but they themselves receive nothing from bodies; so that neither will they derive from them certain peculiarities.
+Hence they are not changed in conjunction with bodies.
 #### sn
-ἔτι δίδωσι μὲν ἀφ’ ἐαυτῶν εἰς τὰ σώματα πᾶν ὅσον δύναται δέξασθαι· ἐκεῖνοι ἀγαθόν, αὐτὰ δὲ ἀπὸ τῶν σωμάτων οὐδὲν παραδέχεται, ὥστε οὐδ’ ἀπ’ αὐτῶν δέξαιτο ἄν τινα ἰδιώματα.
+ἔτι δίδωσι μὲν ἀφ’ ἐαυτῶν εἰς τὰ σώματα πᾶν ὅσον δύναται δέξασθαι·
 #### ar
-ἔτι δίδωσι μὲν ἀφ’ ἐαυτῶν εἰς τὰ σώματα πᾶν ὅσον δύναται δέξασθαι· ἐκεῖνοι ἀγαθόν, αὐτὰ δὲ ἀπὸ τῶν σωμάτων οὐδὲν παραδέχεται, ὥστε οὐδ’ ἀπ’ αὐτῶν δέξαιτο ἄν τινα ἰδιώματα.
+ἔτι δίδωσι μὲν ἀφ’ ἐαυτῶν εἰς τὰ σώματα πᾶν ὅσον δύναται δέξασθαι·
+
+### 9
+#### gr
+ἐκεῖνοι ἀγαθόν, αὐτὰ δὲ ἀπὸ τῶν σωμάτων οὐδὲν παραδέχεται, ὥστε οὐδ’ ἀπ’ αὐτῶν δέξαιτο ἄν τινα ἰδιώματα.
+#### en
+Again, they impart from themselves to bodies every such good as they are able to receive, but they themselves receive nothing from bodies;
+#### sn
+ἐκεῖνοι ἀγαθόν, αὐτὰ δὲ ἀπὸ τῶν σωμάτων οὐδὲν παραδέχεται, ὥστε οὐδ’ ἀπ’ αὐτῶν δέξαιτο ἄν τινα ἰδιώματα.
+#### ar
+ἐκεῖνοι ἀγαθόν, αὐτὰ δὲ ἀπὸ τῶν σωμάτων οὐδὲν παραδέχεται, ὥστε οὐδ’ ἀπ’ αὐτῶν δέξαιτο ἄν τινα ἰδιώματα.
 
 ### 10
 #### gr
-εἰ μὲν γὰρ ὡς ἕξεις τῶν σωμάτων ἢ ὡς ἔνυλα εἴδη ἢ ἄλλον τρόπον σωματοειδῆ ἦν, ἐδύνατο· ἂν ἴσως καὶ αὐτὰ τὰς τῶν σωμάτων διαφορὰς συμμιεταβάλλεσθαι, 
+εἰ μὲν γὰρ ὡς ἕξεις τῶν σωμάτων ἢ ὡς ἔνυλα εἴδη ἢ ἄλλον τρόπον σωματοειδῆ ἦν, ἐδύνατο·
+#### en
+so that neither will they derive from them certain peculiarities.
+#### sn
+εἰ μὲν γὰρ ὡς ἕξεις τῶν σωμάτων ἢ ὡς ἔνυλα εἴδη ἢ ἄλλον τρόπον σωματοειδῆ ἦν, ἐδύνατο·
+#### ar
+εἰ μὲν γὰρ ὡς ἕξεις τῶν σωμάτων ἢ ὡς ἔνυλα εἴδη ἢ ἄλλον τρόπον σωματοειδῆ ἦν, ἐδύνατο·
+
+### 11
+#### gr
+ἂν ἴσως καὶ αὐτὰ τὰς τῶν σωμάτων διαφορὰς συμμιεταβάλλεσθαι, εἰ δὲ χωριστὰ ἀπὸ τῶν σωμάτων καὶ ἀμιγῆ καθ’ ·
 #### en
 For if they were as the habits of bodies, or as material forms, or were in some other way corporeal-formed, it would, perhaps, be possible for them to be changed together with the differences of bodies.
 #### sn
-εἰ μὲν γὰρ ὡς ἕξεις τῶν σωμάτων ἢ ὡς ἔνυλα εἴδη ἢ ἄλλον τρόπον σωματοειδῆ ἦν, ἐδύνατο· ἂν ἴσως καὶ αὐτὰ τὰς τῶν σωμάτων διαφορὰς συμμιεταβάλλεσθαι, 
+ἂν ἴσως καὶ αὐτὰ τὰς τῶν σωμάτων διαφορὰς συμμιεταβάλλεσθαι, εἰ δὲ χωριστὰ ἀπὸ τῶν σωμάτων καὶ ἀμιγῆ καθ’ ·
 #### ar
-εἰ μὲν γὰρ ὡς ἕξεις τῶν σωμάτων ἢ ὡς ἔνυλα εἴδη ἢ ἄλλον τρόπον σωματοειδῆ ἦν, ἐδύνατο ἂν ἴσως καὶ αὐτὰ τὰς τῶν σωμάτων διαφορὰς συμμιεταβάλλεσθαι, 
-
+ἂν ἴσως καὶ αὐτὰ τὰς τῶν σωμάτων διαφορὰς συμμιεταβάλλεσθαι, εἰ δὲ χωριστὰ ἀπὸ τῶν σωμάτων καὶ ἀμιγῆ καθ’ ·
 
 ### 12
 #### gr
-εἰ δὲ χωριστὰ ἀπὸ τῶν σωμάτων καὶ ἀμιγῆ καθ’ ἑαυτὰ προϋπάρχει, τίς ἂν γένοιτο ἀπὸ τῶν σωμάτων ἐπεισιοῦσα εὔλογος εἰς αὐτὰ διάκρισις;
+ἑαυτὰ προϋπάρχει, τίς ἂν γένοιτο ἀπὸ τῶν σωμάτων ἐπεισιοῦσα εὔλογος·
 #### en
 But if they are separate from bodies, and essentially preexist unmingled with them, what reasonable distinction, produced from bodies, can be transferred to them?
 #### sn
-εἰ δὲ χωριστὰ ἀπὸ τῶν σωμάτων καὶ ἀμιγῆ καθ’ ἑαυτὰ προϋπάρχει, τίς ἂν γένοιτο ἀπὸ τῶν σωμάτων ἐπεισιοῦσα εὔλογος εἰς αὐτὰ διάκρισις;
+ἑαυτὰ προϋπάρχει, τίς ἂν γένοιτο ἀπὸ τῶν σωμάτων ἐπεισιοῦσα εὔλογος·
 #### ar
-εἰ δὲ χωριστὰ ἀπὸ τῶν σωμάτων καὶ ἀμιγῆ καθ’ ἑαυτὰ προϋπάρχει, τίς ἂν γένοιτο ἀπὸ τῶν σωμάτων ἐπεισιοῦσα εὔλογος εἰς αὐτὰ διάκρισις;
+ἑαυτὰ προϋπάρχει, τίς ἂν γένοιτο ἀπὸ τῶν σωμάτων ἐπεισιοῦσα εὔλογος·
 
-### 14
+### 13
 #### gr
-Πρὸς δὴ τούτοις τὰ σώματα κρείττω ποιεῖ τῶν θείων γενῶν οὗτος ὁ λόγος, εἴπερ αὐτὰ τὴν ἕδραν παρέχει τοῖς κρείτοσιν αἰτίοις, καὶ τὰ κατ’ οὐσίαν ἰδιώματα ἐν αὐτοῖς τίθησιν.
+εἰς αὐτὰ διάκρισις;
 #### en
 To which also may be added, that this assertion of yours makes bodies to be more excellent than the divine genera, since the former afford a seat to superior causes, and insert in them peculiarities essentially.
 #### sn
-Πρὸς δὴ τούτοις τὰ σώματα κρείττω ποιεῖ τῶν θείων γενῶν οὗτος ὁ λόγος, εἴπερ αὐτὰ τὴν ἕδραν παρέχει τοῖς κρείτοσιν αἰτίοις, καὶ τὰ κατ’ οὐσίαν ἰδιώματα ἐν αὐτοῖς τίθησιν.
+εἰς αὐτὰ διάκρισις;
 #### ar
-Πρὸς δὴ τούτοις τὰ σώματα κρείττω ποιεῖ τῶν θείων γενῶν οὗτος ὁ λόγος, εἴπερ αὐτὰ τὴν ἕδραν παρέχει τοῖς κρείτοσιν αἰτίοις, καὶ τὰ κατ’ οὐσίαν ἰδιώματα ἐν αὐτοῖς τίθησιν.
+εἰς αὐτὰ διάκρισις;
 
-### 16
+### 14
 #### gr
-εἰ δ’ ἄρα τὶς καὶ λήξεις καί διανομὰς καὶ συγκληρώσεις συντάττοι τῶν διοικούντων πρὸς τὰ διοικούμενα, οὗτος δῆλον ὅτι καὶ κῦρος ἀποδώσει τοῖς βελτίοσι·
+Πρὸς δὴ τούτοις τὰ σώματα κρείττω ποιεῖ.
 #### en
 He, therefore, who coarranges allotments, distributions, and consociations of governors with the governed, will evidently assign a principal authority to more excellent natures.
 #### sn
-εἰ δ’ ἄρα τὶς καὶ λήξεις καί διανομὰς καὶ συγκληρώσεις συντάττοι τῶν διοικούντων πρὸς τὰ διοικούμενα, οὗτος δῆλον ὅτι καὶ κῦρος ἀποδώσει τοῖς βελτίοσι·
+Πρὸς δὴ τούτοις τὰ σώματα κρείττω ποιεῖ.
 #### ar
-εἰ δ’ ἄρα τὶς καὶ λήξεις καί διανομὰς καὶ συγκληρώσεις συντάττοι τῶν διοικούντων πρὸς τὰ διοικούμενα, οὗτος δῆλον ὅτι καὶ κῦρος ἀποδώσει τοῖς βελτίοσι·
+Πρὸς δὴ τούτοις τὰ σώματα κρείττω ποιεῖ.
+
+### 15
+#### gr
+τῶν θείων γενῶν οὗτος ὁ λόγος, εἴπερ αὐτὰ τὴν ἕδραν παρέχει τοῖς κρείτοσιν αἰτίοις, καὶ τὰ κατ’ οὐσίαν ἰδιώματα ἐν αὐτοῖς τίθησιν.
+#### en
+For, because the presiding powers are such [as we have shown them to be], on this account they have such an allotment, and give to it an essential specific distinction, but they are not assimilated to the nature of their receptacles.
+#### sn
+τῶν θείων γενῶν οὗτος ὁ λόγος, εἴπερ αὐτὰ τὴν ἕδραν παρέχει τοῖς κρείτοσιν αἰτίοις, καὶ τὰ κατ’ οὐσίαν ἰδιώματα ἐν αὐτοῖς τίθησιν.
+#### ar
+τῶν θείων γενῶν οὗτος ὁ λόγος, εἴπερ αὐτὰ τὴν ἕδραν παρέχει τοῖς κρείτοσιν αἰτίοις, καὶ τὰ κατ’ οὐσίαν ἰδιώματα ἐν αὐτοῖς τίθησιν.
+
+### 16
+#### gr
+εἰ δ’ ἄρα τὶς καὶ λήξεις καί διανομὰς καὶ συγ
+
+κληρώσεις συντάττοι τῶν διοικούντων πρὸς τὰ διοικούμενα,·
+#### en
+It is necessary, therefore, to admit a thing of this kind in partial souls.
+#### sn
+εἰ δ’ ἄρα τὶς καὶ λήξεις καί διανομὰς καὶ συγ
+
+κληρώσεις συντάττοι τῶν διοικούντων πρὸς τὰ διοικούμενα,·
+#### ar
+εἰ δ’ ἄρα τὶς καὶ λήξεις καί διανομὰς καὶ συγ
+
+κληρώσεις συντάττοι τῶν διοικούντων πρὸς τὰ διοικούμενα,·
+
+### 17
+#### gr
+οὗτος δῆλον ὅτι καὶ κῦρος ἀποδώσει τοῖς βελτίοσι·
+#### en
+For such as is the life which the soul received, prior to its insertion in a human body, and such as the form which it readily exerted;
+#### sn
+οὗτος δῆλον ὅτι καὶ κῦρος ἀποδώσει τοῖς βελτίοσι·
+#### ar
+οὗτος δῆλον ὅτι καὶ κῦρος ἀποδώσει τοῖς βελτίοσι·
 
 ### 18
 #### gr
 διότι γάρ ἐστι τοιαῦτα τὰ ἐφεστηκότα, διὰ τοῦτο αἱρεῖται τὴν τοιαύτην λῆξιν καὶ εἰδοποιεῖ ταύτην καθ’ ἑαυτήν, ἀλλ’ οὐκ αὐτὴ πρὸς τὴν τῆς ὑποδοχῆς φύσιν ἀφομοιοῦται.
 #### en
-For, because the presiding powers are such [as we have shown them to be], on this account they have such an allotment, and give to it an essential specific distinction, but they are not assimilated to the nature of their receptacles. 
+such also is the organical body which it has suspended from itself, and such the consequent corresponding nature, which receives the more perfect life of the soul.
 #### sn
 διότι γάρ ἐστι τοιαῦτα τὰ ἐφεστηκότα, διὰ τοῦτο αἱρεῖται τὴν τοιαύτην λῆξιν καὶ εἰδοποιεῖ ταύτην καθ’ ἑαυτήν, ἀλλ’ οὐκ αὐτὴ πρὸς τὴν τῆς ὑποδοχῆς φύσιν ἀφομοιοῦται.
 #### ar
@@ -1379,7 +1491,6 @@ For, because the presiding powers are such [as we have shown them to be], on thi
 #### gr
 Ἐπὶ μὲν οὖν τῶν ἐν μέρει, λέγω δὲ τῆς κατὰ μέρος ψυχῆς, συγχωρεῖν δεῖ τὸ τοιοῦτον.
 #### en
-It is necessary, therefore, to admit a thing of this kind in partial souls. 
 But with respect to more excellent natures, and which, as wholes, comprehend the principle [of parts] in these, inferior are produced in superior natures;
 #### sn
 Ἐπὶ μὲν οὖν τῶν ἐν μέρει, λέγω δὲ τῆς κατὰ μέρος ψυχῆς, συγχωρεῖν δεῖ τὸ τοιοῦτον.
@@ -1390,7 +1501,7 @@ But with respect to more excellent natures, and which, as wholes, comprehend the
 #### gr
 οἷον γὰρ προὔβαλε βίον ἡ ψυχὴ πρὶν καὶ εἰς ἀνθρώπινον σῶμα εἰσκριθῆναι, καὶ οἷον εἶδος πρόχειρον ἐποιήσατο, τοιοῦτον καὶ ὀργανικὸν σῶμα ἔχει πρὸς ἑαυτὴν συνηρτημένον, καὶ φύσιν παραπλησίαν συνακολουθοῦσαν, ἥτις ὑποδέχεται αὐτῆς τὴν τελειοτέραν ζωήν.
 #### en
-For such as is the life which the soul received, prior to its insertion in a human body, and such as the form which it readily exerted; such also is the organical body which it has suspended from itself, and such the consequent corresponding nature, which receives the more perfect life of the soul. 
+bodies, in incorporeal essences;
 #### sn
 οἷον γὰρ προὔβαλε βίον ἡ ψυχὴ πρὶν καὶ εἰς ἀνθρώπινον σῶμα εἰσκριθῆναι, καὶ οἷον εἶδος πρόχειρον ἐποιήσατο, τοιοῦτον καὶ ὀργανικὸν σῶμα ἔχει πρὸς ἑαυτὴν συνηρτημένον, καὶ φύσιν παραπλησίαν συνακολουθοῦσαν, ἥτις ὑποδέχεται αὐτῆς τὴν τελειοτέραν ζωήν.
 #### ar
@@ -1400,7 +1511,7 @@ For such as is the life which the soul received, prior to its insertion in a hum
 #### gr
 ἐπὶ δὲ τῶν κρειττόνων καὶ τῶν ὡς ὅλων περιεχόντων τὴν ἀρχήν, ἐν τοῖς κρείττοσι τὰ χείρονα καὶ ἐν τοῖς ἀσωμάτοις τὰ σώματα καὶ ἐν τοῖς δημιουργοῦσι τὰ δημιουργούμενα παράγεται, καὶ ἐν αὐτοῖς τε κύκλῳ περιέχουσι κατευθύνεται·
 #### en
-bodies, in incorporeal essences; things fabricated, in the fabricators; and, being circularly comprehended in, are directed and governed by, them.
+things fabricated, in the fabricators;
 #### sn
 ἐπὶ δὲ τῶν κρειττόνων καὶ τῶν ὡς ὅλων περιεχόντων τὴν ἀρχήν, ἐν τοῖς κρείττοσι τὰ χείρονα καὶ ἐν τοῖς ἀσωμάτοις τὰ σώματα καὶ ἐν τοῖς δημιουργοῦσι τὰ δημιουργούμενα παράγεται, καὶ ἐν αὐτοῖς τε κύκλῳ περιέχουσι κατευθύνεται·
 #### ar
@@ -1408,20 +1519,35 @@ bodies, in incorporeal essences; things fabricated, in the fabricators; and, bei
 
 ### 22
 #### gr
-αἵ τε οὖν τῶν οὐρανίων περιφοραὶ εἰς τὰς οὐρανίας περιφορὰς τῆς αἰθερίας ψυχῆς ἐντεθεῖσαι τὸ πρῶτον ἀεὶ ἐνυπάρχουσι, καὶ αἱ ψυχαὶ τῶν κόσμων εἰς τὸν νοῦν ἑαυτῶν ἀνηκούσαι περιέχονται ὑπ’ αὐτοῦ τελείως καὶ ἐν αὐτῷ πρώτως ἀπογεννῶνται·
-#### en
-Hence, the circulations of the celestial bodies, being primarily inserted in the celestial circulations of the etherial soul, are perpetually inherent in them; and the souls of the worlds [_i.._ of the spheres], being extended to their intellect, are perfectly comprehended by it, and are primarily generated in it.
-#### sn
-αἵ τε οὖν τῶν οὐρανίων περιφοραὶ εἰς τὰς οὐρανίας περιφορὰς τῆς αἰθερίας ψυχῆς ἐντεθεῖσαι τὸ πρῶτον ἀεὶ ἐνυπάρχουσι, καὶ αἱ ψυχαὶ τῶν κόσμων εἰς τὸν νοῦν ἑαυτῶν ἀνηκούσαι περιέχονται ὑπ’ αὐτοῦ τελείως καὶ ἐν αὐτῷ πρώτως ἀπογεννῶνται·
-#### ar
-αἵ τε οὖν τῶν οὐρανίων περιφοραὶ εἰς τὰς οὐρανίας περιφορὰς τῆς αἰθερίας ψυχῆς ἐντεθεῖσαι τὸ πρῶτον ἀεὶ ἐνυπάρχουσι, καὶ αἱ ψυχαὶ τῶν κόσμων εἰς τὸν νοῦν ἑαυτῶν ἀνηκούσαι περιέχονται ὑπ’ αὐτοῦ τελείως καὶ ἐν αὐτῷ πρώτως ἀπογεννῶνται·
+αἵ τε οὖν τῶν οὐρανίων
 
+περιφοραὶ εἰς τὰς οὐρανίας περιφορὰς τῆς αἰθερίας ψυχῆς ἐντεθεῖσαι τὸ πρῶτον ἀεὶ ἐνυπάρχουσι, καὶ αἱ ψυχαὶ τῶν κόσμων εἰς τὸν νοῦν ἑαυτῶν ἀνηκούσαι περιέχονται ὑπ’ αὐτοῦ τελείως καὶ ἐν αὐτῷ πρώτως.
+#### en
+and, being circularly comprehended in, are directed and governed by, them.
+#### sn
+αἵ τε οὖν τῶν οὐρανίων
+
+περιφοραὶ εἰς τὰς οὐρανίας περιφορὰς τῆς αἰθερίας ψυχῆς ἐντεθεῖσαι τὸ πρῶτον ἀεὶ ἐνυπάρχουσι, καὶ αἱ ψυχαὶ τῶν κόσμων εἰς τὸν νοῦν ἑαυτῶν ἀνηκούσαι περιέχονται ὑπ’ αὐτοῦ τελείως καὶ ἐν αὐτῷ πρώτως.
+#### ar
+αἵ τε οὖν τῶν οὐρανίων
+
+περιφοραὶ εἰς τὰς οὐρανίας περιφορὰς τῆς αἰθερίας ψυχῆς ἐντεθεῖσαι τὸ πρῶτον ἀεὶ ἐνυπάρχουσι, καὶ αἱ ψυχαὶ τῶν κόσμων εἰς τὸν νοῦν ἑαυτῶν ἀνηκούσαι περιέχονται ὑπ’ αὐτοῦ τελείως καὶ ἐν αὐτῷ πρώτως.
+
+### 23
+#### gr
+ἀπογεννῶνται·
+#### en
+Hence, the circulations of the celestial bodies, being primarily inserted in the celestial circulations of the etherial soul, are perpetually inherent in them;
+#### sn
+ἀπογεννῶνται·
+#### ar
+ἀπογεννῶνται·
 
 ### 24
 #### gr
 καὶ ὁ νοῦς ὅ τε μεριστὸς ὡσαύτως καὶ ὁ πᾶς ἐν τοῖς κρείττοσι γένεσι συνείληπται.
 #### en
-Intellect, also, both that which is partial and that which is universal, is in a similar manner comprehended in the genera that are more excellent than intellect.
+and the souls of the worlds [_i.
 #### sn
 καὶ ὁ νοῦς ὅ τε μεριστὸς ὡσαύτως καὶ ὁ πᾶς ἐν τοῖς κρείττοσι γένεσι συνείληπται.
 #### ar
@@ -1429,29 +1555,29 @@ Intellect, also, both that which is partial and that which is universal, is in a
 
 ### 25
 #### gr
-ἀεὶ οὖν ἐπιστρεφομένων τῶν δευτέρων ἐπὶ τὰ πρῶτα καὶ τῶν ἀνωτέρων ὡς παραδειγμάτων ἐξηγουμένων τῶν ὑποδεεστέρων, ἀπὸ τῶν κρειττόνων τοῖς χείροσιν ἥ τε οὐσία καὶ τὸ εἶδος παραγίνεται, ἐν αὐτοῖς τε τοῖς βελτίοσι πρώτως παράγεται τὰ ὕστερα, 
+ἀεὶ οὖν ἐπιστρεφομένων τῶν δευτέρων ἐπὶ τὰ πρῶτα καὶ τῶν ἀνωτέρων ὡς παραδειγμάτων ἐξηγουμένων τῶν ὑποδεεστέρων, ἀπὸ τῶν κρειττόνων τοῖς χείροσιν ἥ τε .
 #### en
-Since, therefore, second are always converted to first natures, and superior are the leaders of inferior essences, as being the paradigms of them, hence essence and form accede to subordinate from superior natures, and things posterior are primarily produced in such as are more excellent;
+._ of the spheres], being extended to their intellect, are perfectly comprehended by it, and are primarily generated in it.
 #### sn
-ἀεὶ οὖν ἐπιστρεφομένων τῶν δευτέρων ἐπὶ τὰ πρῶτα καὶ τῶν ἀνωτέρων ὡς παραδειγμάτων ἐξηγουμένων τῶν ὑποδεεστέρων, ἀπὸ τῶν κρειττόνων τοῖς χείροσιν ἥ τε οὐσία καὶ τὸ εἶδος παραγίνεται, ἐν αὐτοῖς τε τοῖς βελτίοσι πρώτως παράγεται τὰ ὕστερα, 
+ἀεὶ οὖν ἐπιστρεφομένων τῶν δευτέρων ἐπὶ τὰ πρῶτα καὶ τῶν ἀνωτέρων ὡς παραδειγμάτων ἐξηγουμένων τῶν ὑποδεεστέρων, ἀπὸ τῶν κρειττόνων τοῖς χείροσιν ἥ τε .
 #### ar
-ἀεὶ οὖν ἐπιστρεφομένων τῶν δευτέρων ἐπὶ τὰ πρῶτα καὶ τῶν ἀνωτέρων ὡς παραδειγμάτων ἐξηγουμένων τῶν ὑποδεεστέρων, ἀπὸ τῶν κρειττόνων τοῖς χείροσιν ἥ τε οὐσία καὶ τὸ εἶδος παραγίνεται, ἐν αὐτοῖς τε τοῖς βελτίοσι πρώτως παράγεται τὰ ὕστερα, 
+ἀεὶ οὖν ἐπιστρεφομένων τῶν δευτέρων ἐπὶ τὰ πρῶτα καὶ τῶν ἀνωτέρων ὡς παραδειγμάτων ἐξηγουμένων τῶν ὑποδεεστέρων, ἀπὸ τῶν κρειττόνων τοῖς χείροσιν ἥ τε .
 
 ### 26
 #### gr
-ὥστε ἀπ’ αὐτῶν ἐφήκει καὶ ἡ τάξις καὶ τὸ μέτρον τοῖς χείροσι καὶ αὐτὰ ἅπερ ἐστὶν ἕκαστα, ἀλλ’ οὐχὶ ἀνάπαλιν ἀπὸ τῶν ἐλαττόνων ἐπὶ τὰ προέχοντα αὐτῶν ἐπιρρεῖ τὰ ἰδιώματα.
+οὐσία καὶ τὸ εἶδος παραγίνεται, ἐν αὐτοῖς τε τοῖς βελτίοσι πρώτως παράγεται τὰ ὕστερα, ὥστε ἀπ’ αὐτῶν ἐφήκει καὶ ἡ τάξις καὶ τὸ μέτρον τοῖς χείροσι καὶ αὐτὰ ἅπερ ἐστὶν ἕκαστα, ἀλλ’ οὐχὶ ἀνάπαλιν ἀπὸ τῶν ἐλαττόνων ἐπὶ τὰ προέχοντα αὐτῶν ἐπιρρεῖ τὰ ἰδιώματα.
 #### en
-so that order and measure are derived from primary to secondary beings, and the latter possess that which they are from the former. But the contrary must not be admitted, _viz._ that peculiarities emanate from things less excellent to the natures which precede them.
+Intellect, also, both that which is partial and that which is universal, is in a similar manner comprehended in the genera that are more excellent than intellect.
 #### sn
-ὥστε ἀπ’ αὐτῶν ἐφήκει καὶ ἡ τάξις καὶ τὸ μέτρον τοῖς χείροσι καὶ αὐτὰ ἅπερ ἐστὶν ἕκαστα, ἀλλ’ οὐχὶ ἀνάπαλιν ἀπὸ τῶν ἐλαττόνων ἐπὶ τὰ προέχοντα αὐτῶν ἐπιρρεῖ τὰ ἰδιώματα.
+οὐσία καὶ τὸ εἶδος παραγίνεται, ἐν αὐτοῖς τε τοῖς βελτίοσι πρώτως παράγεται τὰ ὕστερα, ὥστε ἀπ’ αὐτῶν ἐφήκει καὶ ἡ τάξις καὶ τὸ μέτρον τοῖς χείροσι καὶ αὐτὰ ἅπερ ἐστὶν ἕκαστα, ἀλλ’ οὐχὶ ἀνάπαλιν ἀπὸ τῶν ἐλαττόνων ἐπὶ τὰ προέχοντα αὐτῶν ἐπιρρεῖ τὰ ἰδιώματα.
 #### ar
-ὥστε ἀπ’ αὐτῶν ἐφήκει καὶ ἡ τάξις καὶ τὸ μέτρον τοῖς χείροσι καὶ αὐτὰ ἅπερ ἐστὶν ἕκαστα, ἀλλ’ οὐχὶ ἀνάπαλιν ἀπὸ τῶν ἐλαττόνων ἐπὶ τὰ προέχοντα αὐτῶν ἐπιρρεῖ τὰ ἰδιώματα.
+οὐσία καὶ τὸ εἶδος παραγίνεται, ἐν αὐτοῖς τε τοῖς βελτίοσι πρώτως παράγεται τὰ ὕστερα, ὥστε ἀπ’ αὐτῶν ἐφήκει καὶ ἡ τάξις καὶ τὸ μέτρον τοῖς χείροσι καὶ αὐτὰ ἅπερ ἐστὶν ἕκαστα, ἀλλ’ οὐχὶ ἀνάπαλιν ἀπὸ τῶν ἐλαττόνων ἐπὶ τὰ προέχοντα αὐτῶν ἐπιρρεῖ τὰ ἰδιώματα.
 
 ### 27
 #### gr
 Ἀποδέδεικται μὲν οὖν διὰ τούτων ψευδὴς οὖσα ἡ τοιαύτη σωματοειδὴς διαίρεσις.
 #### en
-Hence, through these things such a corporeal-formed division as you introduce, is demonstrated to be false.
+Since, therefore, second are always converted to first natures, and superior are the leaders of inferior essences, as being the paradigms of them, hence essence and form accede to subordinate from superior natures, and things posterior are primarily produced in such as are more excellent;
 #### sn
 Ἀποδέδεικται μὲν οὖν διὰ τούτων ψευδὴς οὖσα ἡ τοιαύτη σωματοειδὴς διαίρεσις.
 #### ar
@@ -1461,7 +1587,7 @@ Hence, through these things such a corporeal-formed division as you introduce, i
 #### gr
 ἔδει δέ που μάλιστα μὲν μηδὲν ὑποθέσθαι τοιοῦτον·
 #### en
-It is, indeed, especially necessary not to propose any thing of this kind;
+so that order and measure are derived from primary to secondary beings, and the latter possess that which they are from the former.
 #### sn
 ἔδει δέ που μάλιστα μὲν μηδὲν ὑποθέσθαι τοιοῦτον·
 #### ar
@@ -1471,7 +1597,7 @@ It is, indeed, especially necessary not to propose any thing of this kind;
 #### gr
 εἰ δ’ ἄρα σοι τοῦτο ἔδοξε, μὴ ἀξιοῦν τὸ ψεῦδος λόγου.
 #### en
-but if this should appear to you to be requisite, yet you must not think, that what is false deserves to be discussed.
+But the contrary must not be admitted, _viz.
 #### sn
 εἰ δ’ ἄρα σοι τοῦτο ἔδοξε, μὴ ἀξιοῦν τὸ ψεῦδος λόγου.
 #### ar
@@ -1479,19 +1605,25 @@ but if this should appear to you to be requisite, yet you must not think, that w
 
 ### 30
 #### gr
-ἐπεὶ οὐκ εὐπορία τοῦτ’ ἔστιν ἐλέγχων, ἀλλὰ μάτην τις ἑαυτὸν κόπτει, εἰ τὰ ψευδῇ ὑποθέμενος ἀναιρεῖν ἐπιχειρεῖ ταῦτα ὡς οὐκ ἀληθῆ.
+ἐπεὶ οὐκ εὐπορία τοῦτ’ ἔστιν ἐλέγχων, ἀλλὰ μάτην τις ἑαυτὸν κόπτει, εἰ τὰ ψευδῇ
+
+ὑποθέμενος ἀναιρεῖν ἐπιχειρεῖ ταῦτα ὡς οὐκ ἀληθῆ.
 #### en
-For such a discussion does not exhibit a copiousness of arguments; but he wearies himself in vain, who, proposing things that are false, endeavours afterwards to subvert them, as things that are not true.
+_ that peculiarities emanate from things less excellent to the natures which precede them.
 #### sn
-ἐπεὶ οὐκ εὐπορία τοῦτ’ ἔστιν ἐλέγχων, ἀλλὰ μάτην τις ἑαυτὸν κόπτει, εἰ τὰ ψευδῇ ὑποθέμενος ἀναιρεῖν ἐπιχειρεῖ ταῦτα ὡς οὐκ ἀληθῆ.
+ἐπεὶ οὐκ εὐπορία τοῦτ’ ἔστιν ἐλέγχων, ἀλλὰ μάτην τις ἑαυτὸν κόπτει, εἰ τὰ ψευδῇ
+
+ὑποθέμενος ἀναιρεῖν ἐπιχειρεῖ ταῦτα ὡς οὐκ ἀληθῆ.
 #### ar
-ἐπεὶ οὐκ εὐπορία τοῦτ’ ἔστιν ἐλέγχων, ἀλλὰ μάτην τις ἑαυτὸν κόπτει, εἰ τὰ ψευδῇ ὑποθέμενος ἀναιρεῖν ἐπιχειρεῖ ταῦτα ὡς οὐκ ἀληθῆ.
+ἐπεὶ οὐκ εὐπορία τοῦτ’ ἔστιν ἐλέγχων, ἀλλὰ μάτην τις ἑαυτὸν κόπτει, εἰ τὰ ψευδῇ
+
+ὑποθέμενος ἀναιρεῖν ἐπιχειρεῖ ταῦτα ὡς οὐκ ἀληθῆ.
 
 ### 31
 #### gr
 πόθεν γὰρ δὴ χωρίζεται ἡ ἀσώματος καθ’ ἑαυτὴν οὐσία τοῖς ποίοις σώμασιν, ἡ μηδὲν ἔχουσα κοινὸν πρὸς τὰ μετέχοντα αὐτῆς σώματα;
 #### en
-For how is it possible that an essence, which is of itself incorporeal, and which has nothing in common with the bodies that participate of it, should be distinguished from other things by corporeal qualities?
+Hence, through these things such a corporeal-formed division as you introduce, is demonstrated to be false.
 #### sn
 πόθεν γὰρ δὴ χωρίζεται ἡ ἀσώματος καθ’ ἑαυτὴν οὐσία τοῖς ποίοις σώμασιν, ἡ μηδὲν ἔχουσα κοινὸν πρὸς τὰ μετέχοντα αὐτῆς σώματα;
 #### ar
@@ -1501,7 +1633,7 @@ For how is it possible that an essence, which is of itself incorporeal, and whic
 #### gr
 πῶς δὲ δὴ ἡ μὴ τοπικῶς παροῦσα τοῖς σώμασι τοῖς σωματικοῖς τόποις διακρίνεται;
 #### en
-How can that which is not locally present with bodies, be separated by corporeal places?
+It is, indeed, especially necessary not to propose any thing of this kind;
 #### sn
 πῶς δὲ δὴ ἡ μὴ τοπικῶς παροῦσα τοῖς σώμασι τοῖς σωματικοῖς τόποις διακρίνεται;
 #### ar
@@ -1511,7 +1643,7 @@ How can that which is not locally present with bodies, be separated by corporeal
 #### gr
 καὶ ἡ μὴ διειργομένη μερισταῖς περιγραφαῖς ὑποκεμένων κατέχεται μεριστῶς ὑπὸ τῶν μερῶν τοῦ κόσμου;
 #### en
-And how can that which is not inclosed by the partible circumscriptions of subjects, be partibly detained by the parts of the world?
+but if this should appear to you to be requisite, yet you must not think, that what is false deserves to be discussed.
 #### sn
 καὶ ἡ μὴ διειργομένη μερισταῖς περιγραφαῖς ὑποκεμένων κατέχεται μεριστῶς ὑπὸ τῶν μερῶν τοῦ κόσμου;
 #### ar
@@ -1521,7 +1653,7 @@ And how can that which is not inclosed by the partible circumscriptions of subje
 #### gr
 τί δὲ δὴ καὶ τὸ διακωλῦόν ἐστι τοὺς θεοὺς προϊέναι πανταχοῦ;
 #### en
-What, also, is that which can prevent the Gods from being every where?
+For such a discussion does not exhibit a copiousness of arguments;
 #### sn
 τί δὲ δὴ καὶ τὸ διακωλῦόν ἐστι τοὺς θεοὺς προϊέναι πανταχοῦ;
 #### ar
@@ -1531,7 +1663,7 @@ What, also, is that which can prevent the Gods from being every where?
 #### gr
 καὶ τί τὸ ἀνεῖργον αὐτῶν τὴν δύναμιν, ὥστε ἰέναι μέχρι τῆς οὐρανίας ἀψῖδος;
 #### en
-And what can restrain their power from extending as far as to the celestial arch?
+but he wearies himself in vain, who, proposing things that are false, endeavours afterwards to subvert them, as things that are not true.
 #### sn
 καὶ τί τὸ ἀνεῖργον αὐτῶν τὴν δύναμιν, ὥστε ἰέναι μέχρι τῆς οὐρανίας ἀψῖδος;
 #### ar
@@ -1541,7 +1673,7 @@ And what can restrain their power from extending as far as to the celestial arch
 #### gr
 ἰσχυροτέρας γὰρ ἂν εἴη τοῦτο αἰτίας ἔργον, τῆς κατακλειούσης αὐτοὺς καὶ περιγραφούσης ἔν τισι μέρεσι.
 #### en
-For to effect this, must be the work of a more powerful cause, which is able to inclose and circumscribe them in certain parts.
+For how is it possible that an essence, which is of itself incorporeal, and which has nothing in common with the bodies that participate of it, should be distinguished from other things by corporeal qualities?
 #### sn
 ἰσχυροτέρας γὰρ ἂν εἴη τοῦτο αἰτίας ἔργον, τῆς κατακλειούσης αὐτοὺς καὶ περιγραφούσης ἔν τισι μέρεσι.
 #### ar
@@ -1551,7 +1683,7 @@ For to effect this, must be the work of a more powerful cause, which is able to 
 #### gr
 καὶ τὸ μὲν ὄντως ὃν καὶ καθ’ ἑαυτὸ ἀσώματον πανταχοῦ ἐστὶν ὅπου περ ἂν βούληται, τὸ δὲ θεῖον καὶ πάντα ὑπερέχον, εἰ περιέχεται ὑπὸ τῆς τοῦ ὅλου κόσμου τελειότητος, καὶ ὡς ἐν μέρει τινὶ ὑπ’ αὐτοῦ περιείληπται, ἐλαττοῦται ἄρα καὶ τοῦ κατὰ τὸ σῶμα μεγέθους.
 #### en
-But truly existing being, and which is essentially incorporeal, is every where, wherever it may wish to be. And that which is divine, and which transcends all things, would [if what you say were admitted] be transcended by the perfection of the whole world, and, as a certain part, would be comprehended by it. Hence, it would be inferior to corporeal magnitude.
+How can that which is not locally present with bodies, be separated by corporeal places?
 #### sn
 καὶ τὸ μὲν ὄντως ὃν καὶ καθ’ ἑαυτὸ ἀσώματον πανταχοῦ ἐστὶν ὅπου περ ἂν βούληται, τὸ δὲ θεῖον καὶ πάντα ὑπερέχον, εἰ περιέχεται ὑπὸ τῆς τοῦ ὅλου κόσμου τελειότητος, καὶ ὡς ἐν μέρει τινὶ ὑπ’ αὐτοῦ περιείληπται, ἐλαττοῦται ἄρα καὶ τοῦ κατὰ τὸ σῶμα μεγέθους.
 #### ar
@@ -1561,7 +1693,7 @@ But truly existing being, and which is essentially incorporeal, is every where, 
 #### gr
 οὐχ ὁρῶ δὲ ἔγωγε καὶ τίνα τρόπον δημιουργεῖται τὰ τῇδε καὶ εἰδοποιεῖται, εἴ γε μηδεμία θεία δημιουργία καὶ τῶν θείων εἰδῶν μετουσία διατείνεται διὰ παντὸς τοῦ κόσμου.
 #### en
-I do not, however, see after what manner these sensible natures could be produced and specifically distinguished, if there was no divine fabrication, and if no participation of divine forms, extended through the whole world.
+And how can that which is not inclosed by the partible circumscriptions of subjects, be partibly detained by the parts of the world?
 #### sn
 οὐχ ὁρῶ δὲ ἔγωγε καὶ τίνα τρόπον δημιουργεῖται τὰ τῇδε καὶ εἰδοποιεῖται, εἴ γε μηδεμία θεία δημιουργία καὶ τῶν θείων εἰδῶν μετουσία διατείνεται διὰ παντὸς τοῦ κόσμου.
 #### ar
@@ -1569,19 +1701,25 @@ I do not, however, see after what manner these sensible natures could be produce
 
 ### 39
 #### gr
+·
+
 Ὅλως δὲ τῆς ἱερᾶς ἁγιστείας καὶ τῆς θεουργικῆς κοινωνίας θεῶν πρὸς ἀνθρώπους ἀναίρεσίς ἐστιν αὕτη ἡ δόξα, τὴν τῶν κρειττόνων παρουσίαν ἔξω τῆς γῆς ἐξορίζουσα.
 #### en
-In short, this opinion wholly subverts sacred institutions, and the theurgic communion of the Gods with men; since it exterminates from the earth the presence of the more excellent genera.
+What, also, is that which can prevent the Gods from being every where?
 #### sn
+·
+
 Ὅλως δὲ τῆς ἱερᾶς ἁγιστείας καὶ τῆς θεουργικῆς κοινωνίας θεῶν πρὸς ἀνθρώπους ἀναίρεσίς ἐστιν αὕτη ἡ δόξα, τὴν τῶν κρειττόνων παρουσίαν ἔξω τῆς γῆς ἐξορίζουσα.
 #### ar
+·
+
 Ὅλως δὲ τῆς ἱερᾶς ἁγιστείας καὶ τῆς θεουργικῆς κοινωνίας θεῶν πρὸς ἀνθρώπους ἀναίρεσίς ἐστιν αὕτη ἡ δόξα, τὴν τῶν κρειττόνων παρουσίαν ἔξω τῆς γῆς ἐξορίζουσα.
 
 ### 40
 #### gr
 οὐδὲν γὰρ ἄλλο λέγει ἢ ὅτι ἀπῴκισται τῶν περὶ γῆν τὰ θεῖα καὶ ὅτι ἀνθρώποις οὐ συμμίγνυνται καὶ ὡς ἔρημος αὐτῶν ἐστὶν ὁ τῇδε τόπος·
 #### en
-For it says nothing else than that divine dwell remote from earthly natures, and that this our place of abode is deserted by them._” 
+And what can restrain their power from extending as far as to the celestial arch?
 #### sn
 οὐδὲν γὰρ ἄλλο λέγει ἢ ὅτι ἀπῴκισται τῶν περὶ γῆν τὰ θεῖα καὶ ὅτι ἀνθρώποις οὐ συμμίγνυνται καὶ ὡς ἔρημος αὐτῶν ἐστὶν ὁ τῇδε τόπος·
 #### ar
@@ -1591,7 +1729,7 @@ For it says nothing else than that divine dwell remote from earthly natures, and
 #### gr
 οὐδὲ ἡμεῖς οὖν οἱ ἱερεῖς οὐδὲν παρὰ τῶν θεῶν μεμαθήκαμεν κατὰ τοῦτον τὸν λόγον, οὐδὲ σὺ ὀρθῶς ἡμᾶς ἐρωτᾷς ὡς εἰδότας τι περιττότερον, ἐπείπερ μηδὲν τῶν ἄλλων ἀνθρώπων διαφέρομεν.
 #### en
-For what you assert in the beginning is not true, that the Gods circumvolve in the heavens alone: since all things are full of them.
+For to effect this, must be the work of a more powerful cause, which is able to inclose and circumscribe them in certain parts.
 #### sn
 οὐδὲ ἡμεῖς οὖν οἱ ἱερεῖς οὐδὲν παρὰ τῶν θεῶν μεμαθήκαμεν κατὰ τοῦτον τὸν λόγον, οὐδὲ σὺ ὀρθῶς ἡμᾶς ἐρωτᾷς ὡς εἰδότας τι περιττότερον, ἐπείπερ μηδὲν τῶν ἄλλων ἀνθρώπων διαφέρομεν.
 #### ar
@@ -1601,7 +1739,7 @@ For what you assert in the beginning is not true, that the Gods circumvolve in t
 #### gr
 Ἀλλ’ οὐδέν ἐστι τούτων ὑγιές·
 #### en
-
+But truly existing being, and which is essentially incorporeal, is every where, wherever it may wish to be.
 #### sn
 Ἀλλ’ οὐδέν ἐστι τούτων ὑγιές·
 #### ar
@@ -1611,7 +1749,7 @@ For what you assert in the beginning is not true, that the Gods circumvolve in t
 #### gr
 οὔτε γὰρ οἱ θεοὶ κρατοῦνται ἔν τίσι τοῦ κόσμου μέρεσιν, οὔτε τὰ περὶ γῆν ἄμοιρα αὐτῶν καθέστηκεν.
 #### en
-
+And that which is divine, and which transcends all things, would [if what you say were admitted] be transcended by the perfection of the whole world, and, as a certain part, would be comprehended by it.
 #### sn
 οὔτε γὰρ οἱ θεοὶ κρατοῦνται ἔν τίσι τοῦ κόσμου μέρεσιν, οὔτε τὰ περὶ γῆν ἄμοιρα αὐτῶν καθέστηκεν.
 #### ar
@@ -1621,7 +1759,7 @@ For what you assert in the beginning is not true, that the Gods circumvolve in t
 #### gr
 ἀλλ’ οἱ μὲν κρείττονες ἐν αὐτῷ ὡς ὑπὸ μηδενὸς περιέχονται καὶ περιέχουσι πάντα ἐν ἑαυτοῖς·
 #### en
-
+Hence, it would be inferior to corporeal magnitude.
 #### sn
 ἀλλ’ οἱ μὲν κρείττονες ἐν αὐτῷ ὡς ὑπὸ μηδενὸς περιέχονται καὶ περιέχουσι πάντα ἐν ἑαυτοῖς·
 #### ar
@@ -1633,7 +1771,7 @@ For what you assert in the beginning is not true, that the Gods circumvolve in t
 
 ἔχοντα τὸ εἶναι, ὁπόταν ἐπιτήδεια πρὸς τὴν θείαν μετοχὴν γένηται, εὐθὺς ἔχει πρὸ τῆς οἰκείας ἑαυτῶν οὐσίας προϋπάρχοντας ἐν αὐτῇ τοὺς θεούς.
 #### en
-
+I do not, however, see after what manner these sensible natures could be produced and specifically distinguished, if there was no divine fabrication, and if no participation of divine forms, extended through the whole world.
 #### sn
 τὰ δ’ ἐπὶ γῆς ἐν τοῖς πληρώμασι τῶν θεῶν
 
@@ -1647,7 +1785,7 @@ For what you assert in the beginning is not true, that the Gods circumvolve in t
 #### gr
 Ὅτι μὲν οὖν ἡ ὅλη διαίρεσις αὕτη ψευδής ἐστι καὶ ἡ ἔφοδος ἐπὶ τὴν τῶν ἰδιωμάτων θήραν παράλογος καὶ τὸ διοικίζειν ἔν τινι τόπῳ τοὺς θεοὺς οὐκ ἀντιλαμβάνεται τῆς ὅλης ἐν αὐτοῖς οὐσίας καὶ δυνάμεως, διὰ τούτων παρεστήσαμεν.
 #### en
-
+In short, this opinion wholly subverts sacred institutions, and the theurgic communion of the Gods with men;
 #### sn
 Ὅτι μὲν οὖν ἡ ὅλη διαίρεσις αὕτη ψευδής ἐστι καὶ ἡ ἔφοδος ἐπὶ τὴν τῶν ἰδιωμάτων θήραν παράλογος καὶ τὸ διοικίζειν ἔν τινι τόπῳ τοὺς θεοὺς οὐκ ἀντιλαμβάνεται τῆς ὅλης ἐν αὐτοῖς οὐσίας καὶ δυνάμεως, διὰ τούτων παρεστήσαμεν.
 #### ar
@@ -1657,7 +1795,7 @@ For what you assert in the beginning is not true, that the Gods circumvolve in t
 #### gr
 ἦν μὲν οὖν ἄξιον παραλιπεῖν τὴν ἐξέτασιν τῶν ὑπὸ σοῦ πρὸς ταύτην τὴν διανομὴν τῶν κρειττόνων ἀντειρημένων, ὡς οὐδὲν πρὸς ἔπος τοῖς ἀληθέσι νοήμασιν ἀντιλέγουσαν·
 #### en
-
+since it exterminates from the earth the presence of the more excellent genera.
 #### sn
 ἦν μὲν οὖν ἄξιον παραλιπεῖν τὴν ἐξέτασιν τῶν ὑπὸ σοῦ πρὸς ταύτην τὴν διανομὴν τῶν κρειττόνων ἀντειρημένων, ὡς οὐδὲν πρὸς ἔπος τοῖς ἀληθέσι νοήμασιν ἀντιλέγουσαν·
 #### ar
@@ -1667,7 +1805,7 @@ For what you assert in the beginning is not true, that the Gods circumvolve in t
 #### gr
 ἀλλ’ ἐπεὶ δεῖ τοῦ λόγου στοχάζεσθαι μᾶλλον καὶ τῆς θείας ἐπιστήμης, ἀλλὰ μὴ πρὸς ἄνδρα διαλέγεσθαι, καὶ ἡμεῖς διὰ τοῦτο ἐναρμόζομεν τὴν ἀπηρτημένην ἀμφισβήτησιν πρὸς εὔλογόν τινα καὶ θεολογικὴν ἀντίληψιν.
 #### en
-
+For it says nothing else than that divine dwell remote from earthly natures, and that this our place of abode is deserted by them.
 #### sn
 ἀλλ’ ἐπεὶ δεῖ τοῦ λόγου στοχάζεσθαι μᾶλλον καὶ τῆς θείας ἐπιστήμης, ἀλλὰ μὴ πρὸς ἄνδρα διαλέγεσθαι, καὶ ἡμεῖς διὰ τοῦτο ἐναρμόζομεν τὴν ἀπηρτημένην ἀμφισβήτησιν πρὸς εὔλογόν τινα καὶ θεολογικὴν ἀντίληψιν.
 #### ar
@@ -1695,7 +1833,7 @@ I consider you, therefore, as asking, for it is your inquiry, “_Why, since the
 #### gr
 οὐδὲ γάρ ἐστιν ἀληθὲς τὸ ἐν ἀρχῇ, ὡς κατ’ οὐρανὸν μόνον οἱ θεοὶ περιπολοῦσι·
 #### en
-
+_” For what you assert in the beginning is not true, that the Gods circumvolve in the heavens alone: since all things are full of them.
 #### sn
 οὐδὲ γάρ ἐστιν ἀληθὲς τὸ ἐν ἀρχῇ, ὡς κατ’ οὐρανὸν μόνον οἱ θεοὶ περιπολοῦσι·
 #### ar

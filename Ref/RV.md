@@ -5,7 +5,24 @@ https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/rv/mt/rv.htm
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/
 
 # b1.51-191
+## 1.54
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829558.html
+#### 3
+अर्चा॑ दि॒वे बृ॑ह॒ते शू॒ष्यं१॒॑ वच॒: स्वक्ष॑त्रं॒ यस्य॑ धृष॒तो धृ॒षन्मन॑: । बृ॒हच्छ्र॑वा॒ असु॑रो ब॒र्हणा॑ कृ॒तः पु॒रो हरि॑भ्यां वृष॒भो रथो॒ हि षः ॥
 
+Offer exhilarating praises to the great and illustrious Indra, of whom, undaunted, the steady mind is concentrated in its own firmness; for he, who is of great renown, the giver of rain, the repeller of enemies, who is obeyed his steeds, the showerer (of bounties), is hastening hither.
+#### 4
+त्वं दि॒वो बृ॑ह॒तः सानु॑ कोप॒योऽव॒ त्मना॑ धृष॒ता शम्ब॑रं भिनत् । यन्मा॒यिनो॑ व्र॒न्दिनो॑ म॒न्दिना॑ धृ॒षच्छि॒तां गभ॑स्तिम॒शनिं॑ पृत॒न्यसि॑ ॥
+
+You have shaken the summit of the spacious heaven; you have slain Śambara by your resolute self; you have hurled with exulting and determined mind the sharp and bright-rayed thunderbolt against assembled Asuras.
+#### 6
+त्वमा॑विथ॒ नर्यं॑ तु॒र्वशं॒ यदुं॒ त्वं तु॒र्वीतिं॑ व॒य्यं॑ शतक्रतो । त्वं रथ॒मेत॑शं॒ कृत्व्ये॒ धने॒ त्वं पुरो॑ नव॒तिं द॑म्भयो॒ नव॑ ॥
+
+You have protected Narya, Turvaśa, Yadu and Turvīti, of the face of Vayya; you have protected their chariots and horses in the unavoidable engagement; you have demolished ninety-nine cities (of Śambara).
+#### 10
+अ॒पाम॑तिष्ठद्ध॒रुण॑ह्वरं॒ तमो॒ऽन्तर्वृ॒त्रस्य॑ ज॒ठरे॑षु॒ पर्व॑तः । अ॒भीमिन्द्रो॑ न॒द्यो॑ व॒व्रिणा॑ हि॒ता विश्वा॑ अनु॒ष्ठाः प्र॑व॒णेषु॑ जिघ्नते ॥
+
+The darkness obstructed the current of the waters; the cloud was within the belly of Vṛtra; but Indra precipitated all the waters which the obstructor had concealed, in succession, down to the hollows (of the earth).
 ## 1.61
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829617.html
 #### 16
@@ -633,7 +650,7 @@ The adorable Indra made the well-known deep waters (of the Paruṣṇi) fordable
 #### 6
 पु॒रो॒ळा इत्तु॒र्वशो॒ यक्षु॑रासीद्रा॒ये मत्स्या॑सो॒ निशि॑ता॒ अपी॑व । श्रु॒ष्टिं च॑क्रु॒र्भृग॑वो द्रु॒ह्यव॑श्च॒ सखा॒ सखा॑यमतर॒द्विषू॑चोः ॥
 
-Turvaśa, who was presiding (at solemn rites), diligent in sacrifice, (went to Sudāsa) for wealth; but likefishes restricted (to the element of water), the Bhrigus and Druhyus quickly assailed them; of these twoeverywhere going the friend (of Sudāsa, Indra) rescued his friend.
+Turvaśa, who was presiding (at solemn rites), diligent in sacrifice, (went to Sudāsa) for wealth; but likefishes restricted (to the element of water), the Bhrigus and Druhyus quickly assailed them; of these two everywhere going the friend (of Sudāsa, Indra) rescued his friend.
 #### 7
 आ प॒क्थासो॑ भला॒नसो॑ भन॒न्तालि॑नासो विषा॒णिन॑: शि॒वास॑: । आ योऽन॑यत्सध॒मा आर्य॑स्य ग॒व्या तृत्सु॑भ्यो अजगन्यु॒धा नॄन् ॥
 
@@ -1009,7 +1026,14 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839357
 त्वं जघन्थ नमुचिं मखस्युं दासं कृण्वान ऋषये विमायम् । त्वं चकर्थ मनवे स्योनान्पथो देवत्राञ्जसेव यानान् ॥
 
 tvaṃ jaghantha namucim makhasyuṃ dāsaṃ kṛṇvāna ṛṣaye vimāyam | tvaṃ cakartha manave syonān patho devatrāñjaseva yānān
+## 10.81
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839429.html
+#### 3
+वि॒श्वत॑श्चक्षुरु॒त वि॒श्वतो॑मुखो वि॒श्वतो॑बाहुरु॒त वि॒श्वत॑स्पात् । सं बा॒हुभ्यां॒ धम॑ति॒ सं पत॑त्रै॒र्द्यावा॒भूमी॑ ज॒नय॑न्दे॒व एक॑: ॥
+
+Having eyes everywhere, and having a face everywhere, having arms everywhere, and having feeteverywhere, he traverses (heaven) with his arms, (earth) with his swift-moving (feet), and exists a god without companion generating heaven and earth.
 ## 10.82
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839437.html
 #### 1
 चक्षु॑षः पि॒ता मन॑सा॒ हि धीरो॑ घृ॒तमे॑ने अजन॒न्नन्न॑माने । 
 “The (pitā) maker of the (cakṣu) senses, (dhīra) resolute in (manas) mind, (jāti) engendered the (ghṛta) water, (and then) these two (heaven and earth) floating (on the waters); 
@@ -1186,6 +1210,7 @@ his (uru) thighs became the Vaiśya;
 प॒द्भ्यां शू॒द्रो अ॑जायत ॥
 
 the Śūdra was (jāti) born from his (pad) feet.”
+### 13-14
 #### 13
 च॒न्द्रमा॒ मन॑सो जा॒तश्चक्षो॒: सूर्यो॑ अजायत । 
 
@@ -1202,6 +1227,7 @@ Indra and Agni were born from his (mukha) mouth, Vāyu from his (prāṇa) breat
 प॒द्भ्यां भूमि॒र्दिश॒: श्रोत्रा॒त्तथा॑ लो॒काँ अ॑कल्पयन् ॥
 
 the (bhūmi) earth from his (pad) feet, the (diś) quarters of space from his (śrotra) ear, so they (kalp) constituted the (loka) world.”
+### ?
 #### 15
 स॒प्तास्या॑सन्परि॒धय॒स्त्रिः स॒प्त स॒मिध॑: कृ॒ताः । 
 
@@ -1338,6 +1364,24 @@ may that object of our (kāma) desires for which we (homa) sacrifice to you be o
 व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 may we be the (pati) possessors of (rayī) riches.”
 
+## 10.124
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840031.html
+#### 1
+इ॒मं नो॑ अग्न॒ उप॑ य॒ज्ञमेहि॒ पञ्च॑यामं त्रि॒वृतं॑ स॒प्तत॑न्तुम् । असो॑ हव्य॒वाळु॒त न॑: पुरो॒गा ज्योगे॒व दी॒र्घं तम॒ आश॑यिष्ठाः ॥
+
+Come, Agni, to this our sacrifice, which has five oblations, three- fold, spread out by seven (priests); bethe bearer of our oblations, be our preceder, you have long been sleeping in profound darkness.
+#### 2
+अदे॑वाद्दे॒वः प्र॒चता॒ गुहा॒ यन्प्र॒पश्य॑मानो अमृत॒त्वमे॑मि । शि॒वं यत्सन्त॒मशि॑वो॒ जहा॑मि॒ स्वात्स॒ख्यादर॑णीं॒ नाभि॑मेमि ॥
+
+(Agni speaks). From being no divinity I issue a divninty from the cave at the solicitation (of the gods),and being manifest I attain immortality; when being inauspicious I abandon the sacrifice as it becomesauspicious, through my (old) friendship I come to the binding touch-wood.
+#### 3
+पश्य॑न्न॒न्यस्या॒ अति॑थिं व॒याया॑ ऋ॒तस्य॒ धाम॒ वि मि॑मे पु॒रूणि॑ । शंसा॑मि पि॒त्रे असु॑राय॒ शेव॑मयज्ञि॒याद्य॒ज्ञियं॑ भा॒गमे॑मि ॥
+
+Beholding the guest of another family, I have created the manifold abodes of sacrifice; I repeat praises, (wishing) good luck to the paternal foe- destroying (race of deities), I pass from a place unfit for sacrifice to a place where sacrifice can be offered.
+#### 5
+निर्मा॑या उ॒ त्ये असु॑रा अभूव॒न्त्वं च॑ मा वरुण का॒मया॑से । ऋ॒तेन॑ राज॒न्ननृ॑तं विवि॒ञ्चन्मम॑ रा॒ष्ट्रस्याधि॑पत्य॒मेहि॑ ॥
+
+These asuras were deprived of their magical power; if you, Varuṇa, desire me, (then), O king,separating truth from falsehood, come and enjoy sovereignty over my realm.
 ## 10.125
 #### 1
 अ॒हं रु॒द्रेभि॒र्वसु॑भिश्चराम्य॒हमा॑दि॒त्यैरु॒त वि॒श्वदे॑वैः । अ॒हं मि॒त्रावरु॑णो॒भा बि॑भर्म्य॒हमि॑न्द्रा॒ग्नी अ॒हम॒श्विनो॒भा ॥
@@ -1542,6 +1586,10 @@ as the (cakṣu) eye ranges over the (dyaus) sky.”
 ### ?
 ## 1.32
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829264.html
+#### 9
+नी॒चाव॑या अभवद्वृ॒त्रपु॒त्रेन्द्रो॑ अस्या॒ अव॒ वध॑र्जभार । उत्त॑रा॒ सूरध॑रः पु॒त्र आ॑सी॒द्दानु॑: शये स॒हव॑त्सा॒ न धे॒नुः ॥
+
+The mother of Vṛtra was bending over her son, when Indra struck her nether part with his shaft; so the mother was above and the son underneath, and Dānu slept (with her son), like  a cow with its calf.
 #### 11
 दा॒सप॑त्नी॒रहि॑गोपा अतिष्ठ॒न्निरु॑द्धा॒ आप॑: प॒णिने॑व॒ गाव॑: । अ॒पां बिल॒मपि॑हितं॒ यदासी॑द्वृ॒त्रं ज॑घ॒न्वाँ अप॒ तद्व॑वार ॥
 

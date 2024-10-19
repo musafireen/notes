@@ -8,6 +8,49 @@ http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0243%3Acha
 ### ?
 
 Olympias alexander macedonian orphic bacchanalia
+
+## c64
+### 1
+τῶν δὲ Γυμνοσοφιστῶν τοὺς μάλιστα τὸν Σάββαν ἀναπείσαντας ἀποστῆναι καὶ κακὰ πλεῖστα τοῖς Μακεδόσι παρασχόντας λαβὼν δέκα, δεινοὺς δοκοῦντας εἶναι περὶ τὰς ἀποκρίσεις [p. 406] καὶ βραχυλόγους, ἐρωτήματα προὔβαλεν αὐτοῖς ἄπορα, φήσας ἀποκτενεῖν τὸν μὴ ὀρθῶς ἀποκρινάμενον πρῶτον, εἶτα ἐφεξῆς οὕτω τοὺς ἄλλους ἕνα δὲ τὸν πρεσβύτατον ἐκέλευσε κρίνειν. 
+
+He captured ten of the Gymnosophists who had done most to get Sabbas to revolt, and had made the most trouble for the Macedonians. These philosophers were reputed to be clever and concise in answering questions, and Alexander therefore put difficult questions to them, declaring that he would put to death him who first made an incorrect answer, and then the rest, in an order determined in like manner; and he commanded one of them, the oldest, to be judge in the contest.
+
+### 2
+ὁ μὲν οὖν πρῶτος ἐρωτηθείς πότερον οἴεται τοὺς ζῶντας εἶναι πλείονας ἢ τοὺς τεθνηκότας, ἔφη τοὺς ζῶντας οὐκέτι γὰρ εἶναι τοὺς τεθνηκότας. ὁ δὲ δεύτερος, πότερον τὴν γῆν ἢ τὴν θάλατταν μείζονα τρέφειν θηρία, τὴν γῆν ταύτης γὰρ μέρος εἶναι τὴν θάλατταν. ὁ δὲ τρίτος, ποῖόν ἐστι ζῷον πανουργότατον, ‘ὃ μέχρι νῦν,’ εἶπεν, ‘ ἄνθρωπος οὐκ ἔγνωκεν.’
+
+The first one, accordingly, being asked which, in his opinion, were more numerous, the living or the dead, said that the living were, since the dead no longer existed. The second, being asked whether the earth or the sea produced larger animals, said the earth did, since the sea was but a part of the earth. The third, being asked what animal was most cunning, said: ‘That which up to this time man has not discovered.’
+
+### 3
+
+
+The fourth, when asked why he had induced Sabbas to revolt, replied: ‘Because I wished him either to live nobly or to die nobly.’ The fifth, being asked which, in his opinion, was older, day or night, replied: ‘Day, by one day’; and he added, upon the king expressing amazement, that hard questions must have hard answers.
+
+### 4
+μεταβαλὼν οὖν τὸν ἕκτον ἠρώτα πῶς ἄν τις φιληθείη μάλιστα: ‘ἂν κράτιστος ὤν,’ ἔφη, ‘μὴ φοβερὸς ᾖ.’ τῶν δὲ λοιπῶν τριῶν ὁ μὲν ἐρωτηθείς πῶς ἄν τις ἐξ ἀνθρώπων γένοιτο θεός, ‘εἴ τι πράξειεν,’ εἶπεν, ‘ὃ πρᾶξαι δυνατὸν ἀνθρώπῳ μὴ ἔστιν’ ὁ δὲ περὶ ζῳῆς καὶ θανάτου, πότερον ἰσχυρότερον, ἀπεκρίνατο τὴν ζῳήν τοσαῦτα κακὰ φέρουσαν.
+
+Passing on, then, to the sixth, Alexander asked how a man could be most loved; ‘If,’ said the philosopher, ‘he is most powerful, and yet does not inspire fear.’ Of the three remaining, he who was asked how one might become a god instead of man, replied: ‘By doing something which a man cannot do’; the one who was asked which was the stronger, life or death, answered: ‘Life, since it supports so many ills.’ 
+### 5
+ὁ δὲ τελευταῖος, μέχρι τίνος ἀνθρώπῳ καλῶς ἔχον ζῆν, ‘μέχρι οὗ μὴ νομίζει τὸ τεθνάναι τοῦ ζῆν ἄμεινον.’ οὕτω δὴ τραπόμενος πρὸς τὸν δικαστήν ἐκέλευσεν ἀποφαίνεσθαι. τοῦ δὲ ἕτερον ἑτέρου χεῖρον εἰρηκέναι φήσαντος ‘οὐκοῦν’ ἔφη, ‘σὺ [p. 408] πρῶτος ἀποθανῇ τοιαῦτα κρίνων’ ‘οὐκ ἄν γε,’ εἶπεν, ‘ὦ βασιλεῦ, εἰ μὴ σὺ ψεύδῃ φήσας πρῶτον ἀποκτενεῖν τὸν ἀποκρινάμενον κάκιστα.’ 
+
+And the last, asked how long it were well for a man to live, answered: ‘Until he does not regard death as better than life.’ So, then, turning to the judge, Alexander bade him give his opinion. The judge declared that they had answered one worse than another. ‘Well, then,’ said Alexander, ‘thou shalt die first for giving such a verdict.’ ‘That cannot be, O King,’ said the judge, ‘unless thou falsely saidst that thou wouldst put to death first him who answered worst.’
+## c65
+### 1
+τούτους μὲν οὖν ἀφῆκε δωρησάμενος πρὸς δὲ τοὺς ἓν δόξῃ μάλιστα καί καθ᾽ αὑτοὺς ἐν ἡσυχίᾳ ζῶντας ἔπεμψεν Ὀνησίκριτον, ἀφικέσθαι δεόμενος πρὸς αὐτὸν, ὁ δὲ Ὀνησίκριτος ἦν φιλόσοφος τῶν Διογένει τῷ κυνικῷ συνεσχολακότων. 
+
+These philosophers, then, he dismissed with gifts; but to those who were in the highest repute and lived quietly by themselves he sent Onesicritus, asking them to pay him a visit. Now, Onesicritus was a philosopher of the school of Diogenes the Cynic.
+### 2
+καί φησι τὸν μὲν Καλανὸν ὑβριστικῶς πάνυ καί τραχέως κελεύειν ἀποδύντα τὸν χιτῶνα γυμνὸν ἀκροᾶσθαι τῶν λόγων ἄλλως δὲ οὐ διαλέξεσθαι πρὸς αὐτὸν, οὐδ᾽ εἰ παρὰ τοῦ Διὸς ἀφῖκται τὸν δὲ Δάνδαμιν πρᾳότερον εἶναι, καί διακούσαντα περὶ Σωκράτους καί Πυθαγόρου καί Διογένους εἰπεῖν ὡς εὐφυεῖς μὲν αὐτῷ γεγονέναι δοκοῦσιν οἱ ἄνδρες, λίαν δὲ τοὺς νόμους αἰσχυνόμενοι βεβιωκέναι. 
+
+And he tells us that Calanus very harshly and insolently bade him strip off his tunic and listen naked to what he had to say, otherwise he would not converse with him, not even if he came from Zeus; but he says that Dandamis was gentler, and that after hearing fully about Socrates, Pythagoras, and Diogenes, he remarked that the men appeared to him to have been of good natural parts but to have passed their lives in too much awe of the laws.
+### 3
+ἄλλοι δέ φασι τὸν Δάνδαμιν οὐδὲν εἰπεῖν ἀλλ᾽ ἢ τοσοῦτον μόνον ‘τίνος χάριν ὁ Ἀλέξανδρος ὁδὸν τοσαύτην δεῦρ᾽ ἦλθε;’ τὸν μέντοι Καλανὸν ἔπεισεν ὁ Ταξίλης ἐλθεῖν πρὸς Ἀλέξανδρον. ἐκαλεῖτο δὲ Σφίνης ἐπεὶ δὲ κατ᾽ Ἰνδικὴν γλῶτταν τῷ καλὲ προσαγορεύων ἀντὶ τοῦ χαίρειν τοὺς ἐντυγχάνοντας ἠσπάζετο, Καλανὸς ὑπὸ τῶν Ἑλλήνων ὠνομάσθη. τοῦτον δὲ λέγεται καί τὸ παράδειγμα τῆς ἀρχῆς τῷ Ἀλεξάνδρῳ προθέσθαι.
+
+Others, however, say that the only words uttered by Dandamis were these: ‘Why did Alexander make such a long journey hither?’ Calanus, nevertheless, was persuaded by Taxiles to pay a visit to Alexander. His real name was Sphines, but because he greeted those whom he met with ‘Cale,’ the Indian word of salutation, the Greeks called him Calanus. It was Calanus, as we are told, who laid before Alexander the famous illustration of government. It was this.
+### 4
+καταβαλὼν γὰρ ἐν μέσῳ βύρσαν τινὰ ξηρὰν καί κατεσκληκυῖαν ἐπάτησε τὸ ἄκρον ἡ δὲ εἰς ἓν πιεσθεῖσα τοῖς ἄλλοις ἐπήρθη μέρεσι. καί τοῦτο περιϊὼν ἐν κύκλῳ καί πιέζων καθ᾽ ἕκαστον ἐδείκνυε γιγνόμενον, ἄχρι οὗ τὸ μέσον ἐπιστὰς κατέσχε καί πάντα οὕτως [p. 410] ἠρέμησεν. ἐβούλετο δὲ ἡ εἰκὼν ἔνδειξις εἶναι τοῦ τὰ μέσα δεῖν μάλιστα τῆς ἀρχῆς πιέζειν καὶ μὴ μακρὰν ἀποπλανᾶσθαι τὸν Ἀλέξανδρον. 
+
+He threw down upon the ground a dry and shrivelled hide, and set his foot upon the outer edge of it; the hide was pressed down in one place, but rose up in others. He went all round the hide and showed that this was the result wherever he pressed the edge down, and then at last he stood in the middle of it, and lo! it was all held down firm and still. The similitude was designed to show that Alexander ought to put most constraint upon the middle of his empire and not wander far away from it.
+
 # sera
 http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0301%3Astephpage%3D566b
 

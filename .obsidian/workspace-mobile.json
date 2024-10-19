@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/Creatures and gods Indo-iranian.md",
+                "file": "Ref/MkP.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "MkP"
             }
           },
           {
@@ -25,10 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_temp/murti_pratima_vedic.md",
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "dravida"
             }
           },
           {
@@ -37,10 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/MB.md",
+                "file": "Ref/mdhvA.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "mdhvA"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Ref/tptk.sut.ther.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "tptk.sut.ther"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "001_eskaton/001_chhatak/kalighat/Buddhist/Buddhist.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Buddhist"
             }
           },
           {
@@ -76,19 +86,9 @@
                 "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Sāṃkhya_kabbala_ghuli.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4a4168f0f2df02e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref/iamb.mysEg.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sāṃkhya_kabbala_ghuli"
             }
           },
           {
@@ -100,7 +100,9 @@
                 "file": "Ref/nenn.histBrit.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "nenn.histBrit"
             }
           },
           {
@@ -112,7 +114,9 @@
                 "file": "Ref/tlmd.amora.gemara.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "tlmd.amora.gemara"
             }
           },
           {
@@ -121,10 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.john.md",
+                "file": "Ref/bbl.torah.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "bbl.torah"
             }
           },
           {
@@ -136,7 +142,9 @@
                 "file": "Ref/frds.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "frds"
             }
           },
           {
@@ -148,7 +156,9 @@
                 "file": "Ref/Qrsed.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Qrsed"
             }
           },
           {
@@ -157,10 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Kafirun/Munafiqun.md",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/shahadat.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "shahadat"
             }
           },
           {
@@ -172,7 +184,9 @@
                 "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/huna.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "huna"
             }
           },
           {
@@ -184,7 +198,9 @@
                 "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Jinn_ifrit_shetan/superior_writing_of_hinduism.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "superior_writing_of_hinduism"
             }
           },
           {
@@ -196,7 +212,9 @@
                 "file": "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Nietzsche's fallacious interpretation of philosophers.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Nietzsche's fallacious interpretation of philosophers"
             }
           },
           {
@@ -205,14 +223,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/meme_vs_rizz.md",
+                "file": "boomerang/Hindutva.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Hindutva"
+            }
+          },
+          {
+            "id": "c927242598c953b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_eskaton/Ling/greek/greek_cognates_in_english.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "greek_cognates_in_english"
+            }
+          },
+          {
+            "id": "00adfa2219d80aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref/iamb.mysEg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "iamb.mysEg"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -228,7 +276,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -237,13 +287,15 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Tamil",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -251,7 +303,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -267,7 +321,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "000_temp/murti_pratima_vedic.md",
+            "file": "Ref/iamb.mysEg.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -275,7 +329,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -284,10 +340,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "000_temp/murti_pratima_vedic.md",
+            "file": "Ref/iamb.mysEg.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -296,8 +354,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "000_temp/murti_pratima_vedic.md"
-          }
+            "file": "Ref/iamb.mysEg.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -311,34 +371,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "efa6159fdd96d63a",
+  "active": "00adfa2219d80aac",
   "lastOpenFiles": [
-    "000_temp/shankara_patrons.md",
-    "000_temp/hindu_tradition_ethnic_dimension.md",
-    "000_temp/hindu_acharya_timeline.md",
-    "000_temp/pre-shankara_hindu_traditions.md",
-    "000_temp/murti_pratima_vedic.md",
-    "000_temp/Misc.md",
-    "Ref/Snkr.md",
-    "Ref/TantraCuḍāmaṇi.md",
-    "Ref/mdhvA.md",
-    "Ref/BmS.md",
-    "Ref/mdhvAcr.md",
-    "Ref/ptj.md",
-    "Ref/MB.md",
-    "Ref/ishvKrsh.smkhK.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/Creatures and gods Indo-iranian.md",
-    "Ref/AV.ŚS.md",
-    "Ref/RV.md",
-    "Ref/sndrLhr.md",
-    "Ref/VS.md.md",
-    "Ref/TS.md",
+    "Ref/MkP.md",
+    "Ref/iamb.mysEg.md",
+    "Ref/iamb.myst/iamb.myst.eng.txt",
+    "Ref/iamb.mΕ.md",
+    "Ref/iamb.myst/iamb.myst.greek.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/shahadat.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mawt_al_ula/mawt_al_ula.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Kafirun/Munafiqun.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mawt_al_ula",
+    "001_eskaton/Ling/greek/greek_cognates_in_english.md",
+    "001_eskaton/Ling/greek/Greek verb.md",
+    "001_eskaton/Ling/English cognate poems (latin, greek).md",
+    "Ref/hmr.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Sāṃkhya_kabbala_ghuli.md",
+    "Ref/dvBhgP.md",
     "Ref/TB.md",
-    "Ref/TA.md",
-    "Ref/AB.md",
-    "Ref/BU.md",
-    "Ref/TtU.md",
-    "Ref/ChU.md",
+    "Ref/nenn.histBrit.md",
+    "Ref/isd.svl.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
+    "Ref/tlmd.amora.gemara.md",
+    "Ref/bbl.torah.md",
+    "Ref/bbl.john.md",
+    "Ref/Ḥ.md",
+    "Ref/cankam.md",
+    "000_temp/prana_pratishtha_yantra_verses.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/vaishnava_brahmanic.md",
+    "Ref/mdhvA.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/Scythian skeptic/shaka",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/baql",
     "boomerang/454817935_8007547926005160_936124851052004106_n.jpg",
@@ -347,10 +409,7 @@
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ayah/Mudra",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Qurbani",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Science",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sawah",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/a'jamī/Untitled",
     "Untitled.canvas",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fadl",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/15194409_656388334522608_3437266025718668693_o.jpg"
   ]
 }

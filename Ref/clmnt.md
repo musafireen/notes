@@ -931,49 +931,41 @@ Klearchos the Peripatetic says that he knew a Judean who associated with Aristot
 
 Herakleitos says that the sibyl [at Delphi] spoke not in a human way but by god’s aid. They say, accordingly, that at Delphi a stone was placed beside the oracle, and the first sibyl, who came from Helikon and was raised by the Muses, sat on it. But some say that she came from Malis, being the daughter of Lamia and granddaughter of Poseidon. In his epic verses, Serapion says that the sibyl contined her divination even after death. He writes that the air that came from her dead body was what caused oracular utterances in voices and omens. Furthermore, when her body decomposed into earth, a grass naturally grew out of it. Whatever animals happened to be there and ate the grass exhibited an accurate knowledge of the future by way of their entrails. He also thinks that the face seen in the moon is the sibyl’s soul. 
 #### s71
-1.15.71.1 Τάδε μὲν
+1.15.71.1 Τάδε μὲν περὶ Σιβύλλης· 
 
-περὶ Σιβύλλης· Νουμᾶς δὲ ὁ Ῥωμαίων βασιλεὺς Πυθαγόρειος μὲν ἦν, ἐκ δὲ τῶν
+(71) So much for the sibyl. 
 
-Μωυσέως ὠφεληθεὶς διεκώλυσεν ἀνθρωποειδῆ καὶ ζῳόμορφον εἰκόνα θεοῦ
+Νουμᾶς δὲ ὁ Ῥωμαίων βασιλεὺς Πυθαγόρειος μὲν ἦν, ἐκ δὲ τῶν Μωυσέως ὠφεληθεὶς διεκώλυσεν ἀνθρωποειδῆ καὶ ζῳόμορφον εἰκόνα θεοῦ Ῥωμαίους κτίζειν. 
 
-Ῥωμαίους κτίζειν. ἐν γοῦν ἑκατὸν καὶ ἑβδομήκοντα τοῖς πρώτοις ἔτεσι ναοὺς
+Numa, the king of the Romans, was a Pythagorean and, aided by the precepts of Moses, prohibited from making an image of god in human form and making an image in the shape of a living creature. 
 
-οἰκοδομούμενοι 1.15.71.2 ἄγαλμα οὐδὲν οὔτε πλαστὸν οὔτε μὴν γραπτὸν
+ἐν γοῦν ἑκατὸν καὶ ἑβδομήκοντα τοῖς πρώτοις ἔτεσι ναοὺς οἰκοδομούμενοι 1.15.71.2 ἄγαλμα οὐδὲν οὔτε πλαστὸν οὔτε μὴν γραπτὸν ἐποιήσαντο. 
 
-ἐποιήσαντο. ἐπεδείκνυτο γὰρ αὐτοῖς ὁ Νουμᾶς δι' ἐπικρύψεως ὡς οὐκ ἐφάψασθαι
+Accordingly, during the first hundred and seventy years, even though they built temples, they did not make images in sculpture or painting. 
 
-τοῦ βελτίστου δυνατὸν ἄλλως ἢ μόνῳ τῷ νῷ. 1.15.71.3 Φιλοσοφία τοίνυν
+ἐπεδείκνυτο γὰρ αὐτοῖς ὁ Νουμᾶς δι' ἐπικρύψεως ὡς οὐκ ἐφάψασθαι τοῦ βελτίστου δυνατὸν ἄλλως ἢ μόνῳ τῷ νῷ. 
 
-πολυωφελές τι χρῆμα πάλαι μὲν ἤκμασε παρὰ βαρβάροις κατὰ τὰ ἔθνη διαλάμψασα, 
+For Numa secretly showed them that the highest Good could not be apprehended except by the mind alone. 
 
-ὕστερον δὲ καὶ εἰς Ἕλληνας 1.15.71.4 κατῆλθεν. προέστησαν δ' αὐτῆς Αἰγυπτίων τε
+1.15.71.3 Φιλοσοφία τοίνυν πολυωφελές τι χρῆμα πάλαι μὲν ἤκμασε παρὰ βαρβάροις κατὰ τὰ ἔθνη διαλάμψασα, ὕστερον δὲ καὶ εἰς Ἕλληνας 1.15.71.4 κατῆλθεν. 
 
-οἱ προφῆται καὶ Ἀσσυρίων οἱ Χαλδαῖοι καὶ Γαλατῶν οἱ ∆ρυΐδαι καὶ Σαμαναῖοι
+Thus philosophy, a thing of the highest utility, flourished in antiquity among the barbarians, shedding its light on the peoples (ethnē). And afterwards it came to Greece. 
 
-Βάκτρων καὶ Κελτῶν οἱ φιλοσοφήσαντες καὶ Περσῶν οἱ Μάγοι (οἳ μαγείᾳ καὶ τοῦ
+προέστησαν δ' αὐτῆς Αἰγυπτίων τε οἱ προφῆται καὶ Ἀσσυρίων οἱ Χαλδαῖοι καὶ Γαλατῶν οἱ ∆ρυΐδαι καὶ Σαμαναῖοι Βάκτρων καὶ Κελτῶν οἱ φιλοσοφήσαντες καὶ Περσῶν οἱ Μάγοι (οἳ μαγείᾳ καὶ τοῦ σωτῆρος προεμήνυσαν τὴν γένεσιν, ἀστέρος αὐτοῖς καθηγουμένου εἰς τὴν Ἰουδαίαν ἀφικνούμενοι γῆν) Ἰνδῶν τε οἱ γυμνοσο1.15.71.5 φισταί, ἄλλοι γε φιλόσοφοι βάρβαροι. 
 
-σωτῆρος προεμήνυσαν τὴν γένεσιν, ἀστέρος αὐτοῖς καθηγουμένου εἰς τὴν Ἰουδαίαν
+First in its ranks were the prophets among the Egyptians; the Chaldeans among the Assyrians; the Druids among the Galatians; the Samanaians among the Bactrians; those who philosophize among the Celts; and, the Magians of the Persians, who predicted the saviour’s birth, and came into the land of Judea guided by a star. The naked sages (gymnosophists) among the Indians are also in the number, and the other barbarian philosophers. 
 
-ἀφικνούμενοι γῆν) Ἰνδῶν τε οἱ γυμνοσο1.15.71.5 φισταί, ἄλλοι γε φιλόσοφοι
+διττὸν δὲ τούτων τὸ γένος, οἳ μὲν Σαρμᾶναι αὐτῶν, οἳ δὲ Βραχμᾶναι καλούμενοι. 
 
-βάρβαροι. διττὸν δὲ τούτων τὸ γένος, οἳ μὲν Σαρμᾶναι αὐτῶν, οἳ δὲ Βραχμᾶναι
+There are two types [among the Indians], some called Sarmanians and the others Brahmans. 
 
-καλούμενοι. καὶ τῶν Σαρμανῶν οἱ ὑλόβιοι προσαγορευόμενοι οὔτε πόλεις οἰκοῦσιν
+καὶ τῶν Σαρμανῶν οἱ ὑλόβιοι προσαγορευόμενοι οὔτε πόλεις οἰκοῦσιν οὔτε στέγας ἔχουσιν, δένδρων δὲ ἀμφιέννυνται φλοιοῖς καὶ ἀκρόδρυα σιτοῦνται καὶ ὕδωρ ταῖς χερσὶ πίνουσιν, οὐ γάμον, οὐ παιδοποιίαν 1.15.71.6 ἴσασιν, ὥσπερ οἱ νῦν Ἐγκρατηταὶ καλούμενοι. 
 
-οὔτε στέγας ἔχουσιν, δένδρων δὲ ἀμφιέννυνται φλοιοῖς καὶ ἀκρόδρυα σιτοῦνται καὶ
+The Sarmanians are also called Hylobians. Neither of the types inhabit cities, nor live in houses. Instead, they are clothed in the bark of trees, they feed on nuts, and they drink water in their hands. Just like those called Encratites today, they do not marry or have children. 
 
-ὕδωρ ταῖς χερσὶ πίνουσιν, οὐ γάμον, οὐ παιδοποιίαν 1.15.71.6 ἴσασιν, ὥσπερ οἱ νῦν
+εἰσὶ δὲ τῶν Ἰνδῶν οἱ τοῖς Βούττα πειθόμενοι παραγγέλμασιν. 
 
-Ἐγκρατηταὶ καλούμενοι. εἰσὶ δὲ τῶν Ἰνδῶν οἱ τοῖς Βούττα πειθόμενοι
-
-παραγγέλμασιν. ὃν δι' ὑπερβολὴν σεμνότητος 1.15.72.1 ὡς θεὸν τετιμήκασι. 
-
-The naked sages (gymnosophists) among the Indians are also in the number, and the other barbarian philosophers. There are two types [among the Indians], some called Sarmanians and the others Brahmans. The Sarmanians are also called Hylobians. Neither of the types inhabit cities, nor live in houses. Instead, they are clothed in the bark of trees, they feed on nuts, and they drink water in their hands. Just like those called Encratites today, they do not marry or have children. Also, some of the Indians obey the precepts of Buddha (Boutta) who they honour as a god because of his extreme holiness. . . [omitted material].
-
-(71) So much for the sibyl.
-
-Numa, the king of the Romans, was a Pythagorean and, aided by the precepts of Moses, prohibited from making an image of god in human form and making an image in the shape of a living creature. Accordingly, during the first hundred and seventy years, even though they built temples, they did not make images in sculpture or painting. For Numa secretly showed them that the highest Good could not be apprehended except by the mind alone. Thus philosophy, a thing of the highest utility, flourished in antiquity among the barbarians, shedding its light on the peoples (ethnē). And afterwards it came to Greece. First in its ranks were the prophets among the Egyptians; the Chaldeans among the Assyrians; the Druids among the Galatians; the Samanaians among the Bactrians; those who philosophize among the Celts; and, the Magians of the Persians, who predicted the saviour’s birth, and came into the land of Judea guided by a star. The naked sages (gymnosophists) among the Indians are also in the number, and the other barbarian philosophers. There are two types [among the Indians], some called Sarmanians and the others Brahmans. The Sarmanians are also called Hylobians. Neither of the types inhabit cities, nor live in houses. Instead, they are clothed in the bark of trees, they feed on nuts, and they drink water in their hands. Just like those called Encratites today, they do not marry or have children. 
+ὃν δι' ὑπερβολὴν σεμνότητος 1.15.72.1 ὡς θεὸν τετιμήκασι. 
 
 Also, some of the Indians obey the precepts of Buddha (Boutta) who they honour as a god because of his extreme holiness.
 

@@ -91,8 +91,25 @@ They went on praising and toiling; for by (religious) toil, the gods indeed gain
 ते  होचु  |  अश्विभ्यां  तिष्ठ  सरस्वत्यै  तिष्ठेन्द्राय  तिष्ठेति  स  ससर्पैवाग्नये  तिष्ठेति  ततस्तस्थावग्नये  वाअस्थादिति  तमग्नावेव  परिगृह्य  सर्वहुतमजुहवुराहुतिर्हिदेवानां  तत एभ्यो  यज्ञः  प्रारोचत  तमसृजन्त  तमतन्वत  सऽयम्  परऽवरं  यज्ञऽनूच्यते  पितैव  पुत्राय  ब्रह्मचारिणे
 
 They said, “Stand still for the Ashvins! stand still for Sarasvati! stand still for Indra!” still it crept on;—“Stand still for Agni!” at this it stopped. Having then enveloped it in fire (Agni), knowing, as they did, that it had stopped for Agni, they Offered it up entirely, for it was an oblation to the gods. Then the sacrifice pleased them; they produced it, they spread it. And this same sacrifice is taught by the former to the later; the father (teaches it) to his son when he is a student (brahmacarin).
-
 #### ?
+### 1.6.3
+##### 9
+स यद्वर्तमानः समभवत् तस्माद्वृत्रोऽथ यदपात्समभवत्तस्मादहिस्तं दनुश्च दनायूश्च मातेव च पितेव च परिजगृहतुस्तस्माद्दानव इत्याहुः
+
+And since it so developed whilst rolling onwards (vrit), it became Vritra; and since he sprang forth footless, therefore he was a serpent. Danu and Danayu received him like mother and father, whence they call him Danava.
+#### 26
+ तदु होवाचासुरिः आज्यभागाभ्यामेवातो यतमे वा यतमे वा द्वे आप्नोत्युपांशुयाजेनैवातोऽहोरात्रे आप्नोति पुरोडाशेनैवातोऽर्धमासावाप्नोति सर्वं म आप्तमसत्सर्वं जितं सर्वेण वृत्रं हनानि सर्वेण द्विषन्तं भ्रातृव्यं हनानीति तस्माद्वा एतावत्क्रियत इति
+
+
+Asuri, on the other hand, said: “By means of the two butter-portions he gains any two (of those objects); by means of the low-voiced offering he obtains any (other) two; and by means of the rice-cake he obtains any (other) two: "all has been obtained, all has been conquered by me! with that All I will slay Vritra; with the All I will slay the spiteful enemy!" thus he thinks, and for that reason there is this manifold performance.”
+#### 28
+एतेन  वै  देवाः  | उपांशुयाजेन  यंयमसुराणामकामयन्त  तमुपत्सर्य  वज्रेण  वषट्कारेणाध्नंस्तथो एवैष एतेनोपांशुयाजेन  पाप्मानं  द्विषन्तम्  भ्रातृव्यमुपत्सर्य  वज्रेण  वषट्कारेण  हन्ति  तस्मादुपांशुयाजं  यजति
+
+By means of that low-voiced offering the gods stealing near slew, with that thunderbolt, the vashat-call, whichever they wished of the Asuras; and so does this one, after stealing near by means of that low-voiced offering, slay with that thunderbolt, the vashat-call, the wicked, spiteful enemy. This is why he performs the low-voiced offering.
+#### 31
+स वै पौर्णमासेनोपवत्स्यन् न सत्रा सुहित इव स्यात्तेनेदमुदरमसुर्यं व्लिनात्याहुतिभिः प्रातर्दैवमेष उ पौर्णमासस्योपचारः
+
+When he (the sacrificer) is about to enter upon the fast of the full-moon ceremony, he may not be entirely sated. He therefore now compresses (that part of) his belly which relates to the Asuras; and next morning, by means of the oblations, that which relates to the gods. Now the practice regarding the full-moon ceremony is as follows:
 ### 1.7.4
 #### 1-5
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1051613.html
@@ -134,6 +151,11 @@ It said, “As long as we are small, there is great destruction for us: fish dev
 It soon became a jhasha (a large fish); for that grows largest (of all fish). Thereupon it said, “In such and such a year that flood will come. Thou shalt then attend to me (i.e. to my advice) by preparing a ship; and when the flood has risen thou shalt enter into the ship, and I will save thee from it.”
 
 #### ?
+### 1.9.1
+##### 15
+भूयो हविष्करणमाशास्त इति तद्वेव तत्सजातवनस्यामाशास्त इति प्राणा वै सजाताः प्राणौर्हि सह जायते तत्प्राणानाशास्ते
+
+“He prays for more abundant offering,” thereby (he prays for) that same object. “He prays for dominion over his co-evals (or countrymen);”—his co-evals, doubtless, are his vital airs, for he is born along with his vital airs: hence he thereby prays for vital airs.
 
 ### 3.1.2
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1052400.html
@@ -177,6 +199,23 @@ Looking down on this (earth) he then mutters, 'O mother Earth, injure me not, no
 #### ?
 ### 6.1.1
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1054467.html
+##### 1
+असद्वा इदमग्र आसीत् तदाहुः किं तदसदासीदित्यृषयो वाव ते ग्रे सदासीत्तदाहुः के त ऋषय इति प्राणा वा ऋषयस्ते यत्पुरास्मात्सर्वस्मादिदमिचन्तः श्रमेण तपसारिषंस्तस्मादृषयः ध्यत इन्द्रियेणैन्द्ध यदैन्द्ध तस्मादिन्ध इन्धो ह वै तम्
+
+Verily, in the beginning there was here the non-existent. As to this they say, “What was that non-existent?” The Rishis, assuredly,—it is they that were the non-existent. As to this they say, “Who were those Rishis?” The Rishis, doubtless, were the vital airs: inasmuch as before (the existence of) this universe, they, desiring it, wore themselves out (rish) with toil and austerity, therefore (they are called) Rishis.
+##### 2
+स यो यम् मध्ये प्राणः एष एवेन्द्रस्तानेष प्राणान्मैन्द्र इत्याचक्षते परो ऽक्षम् परोऽक्षकामा हि देवास्त इद्धाः सप्त नाना पुरुषानसृजन्त
+
+This same vital air in the midst doubtless is Indra. He, by his power (indriya), kindled those (other) vital airs from the midst; and inasmuch as he kindled (indh), he is the kindler (indha): the kindler indeed,—him they call 'Indra' mystically (esoterically), for the gods love the mystic. They (the vital airs), being kindled, created seven separate persons (purusha).
+##### 3
+तेऽब्रुवन् न वा इत्थं सन्तः शक्ष्यामः प्रजनयितुमिमान्त्सप्त पुरुषानेकम् पुरुषं करवामेति त एतान्त्सप्त पुरुषानेकम् पुरुषमकुर्वन्यदूर्ध्वं नाभेस्तौ द्वौ समौब्जन्यदवाङ्नाभेस्तौ द्वौ पक्षः पुरुषः पक्षः पुरुषः प्रतिष्ठैक आसीत्
+
+They said, “Surely, being thus, we shall not be able to generate: let us make these seven persons one Person!” They made those seven persons one Person: they compressed two of them (into) what is above the navel, and two of them (into) what is below the navel; (one) person was (one) wing (or side), (one) person was (the other) wing, and one person was the base (i.e. the feet).
+##### 4
+अथ यैतेषां सप्तानाम् पुरुषाणां श्रीः यो रस आसीत्तमूर्ध्वं समुदौहस्तदस्य शिरोऽभवद्यच्रियं समुदौहंस्तस्माचिरस्तस्मिन्नेतस्मिन्प्राणा अश्रयन्त तस्माद्वेवैतचिरोऽथ यत्प्राणा अश्रयन्त तस्मादु प्राणाः श्रियौऽथ यत्सर्वस्मिन्नश्रयन्त तस्मादु शरीरम्
+
+And what excellence, what life-sap (rasa) there was in those seven persons, that they concentrated above, that became his head. And because (in it) they concentrated the excellence (shri), therefore it is (called) the head (shiras). It was thereto that the breaths resorted (shri): therefore also it is the head (shiras). And because the breaths did so resort (shri) thereto, therefore also the breaths (vital airs, and their organs) are elements of excellence (shri). And because they resorted to the whole (system) therefore (this is called) body (sharira).
+5. 
 ##### 8
 सऽयम्  पुरुषः  प्रजापतिरकामयत  भूयान्त्स्याम्  प्रजायेयेति  सऽश्राम्यत्स  तपो ऽतप्यत  स  श्रान्तस्तेपानो  ब्रह्मैव  प्रथममसृजत  त्रयोमेव  विद्यां  सैवास्मै  प्रतिष्ठाभवत्तस्मादाहुर्ब्रह्मास्य  सर्वस्य  प्रतिष्ठेति  तस्मादनूच्य  प्रतितिष्ठति  प्रतिष्ठा  ह्येषा  यद्ब्रह्म  तस्याम्  प्रतिष्ठायाम्  प्रतिष्ठितऽतप्यत
 
@@ -287,12 +326,100 @@ He bethought himself, “How can I get these beings back into my body? how can I
 अथ  यच्चतुर्विंशतिमात्मनऽकुरुत  तस्माच्चतुर्विंशत्यर्धमासः  संवत्सरः  स एतैश्चतुर्विंशत्या  त्रिंशदिष्टकैरात्मभिर्न  व्यभवत्स  पञ्चदशाह्नो  रूपाण्यपश्यदात्मनस्तन्वो  मुहूर्तालोकम्पृणा  पञ्चदशैव  रात्रेस्तद्यन्मुहु  त्रायन्ते  तस्मान्मुहुर्ता  अथ  यत्क्षुद्रा  सन्त इमांलोकानापूरयन्ति  तस्माल्लोकम्पृणा
 
 18} And because he made himself twenty-four bodies, therefore the year consists of twenty-four half-months. With these twenty-four bodies of thirty bricks each he had not developed (sufficiently). He saw the fifteen parts of the day, the muhurtas, as forms for his body, as space-fillers (Lokamprinas), as well as fifteen of the night; and inasmuch as they straightway (muhu) save (trai), they are (called) “muhurtah”; and inasmuch as, whilst being small, they fill (pur) these worlds (or spaces, “loka”) they are (called) “lokamprinah.”
+#### 26-27
+#### 26
+स एस्॰उ त्रिषु लोकेषूखायाम् योनौ रेतो भूतमात्मानमसिञ्चच्चन्दोमयं स्तोममयम् प्राणमयं देवतामयं तस्यार्धमासे प्रथम आत्मा समस्क्रियत दवीयसि परो दवीयसि परः संवत्सर एव सर्वः कृत्स्नः समस्क्रियत
+
+Into these three worlds, (in the form of) the fire-pan, he (Prajapati) poured, as seed into the womb, his own self made up of the metres, stomas, vital airs, and deities. In the course of a half-moon the first body was made up, in a further (half-moon) the next (body), in a further one the next,—in a year he is made up whole and complete.
+##### 27
+तद्यत्परिश्रितमुपाधत्त तद्रात्रिमुपाधत्त तदनु पञ्चदश मुहूर्तान्मुहूर्ताननु पञ्चदशाशीतीरथ यद्यजुष्मतीमुपाधत्त तदहरुपाधत्त तदनु पञ्चदश मुहूर्तान्मुहूर्ताननु पञ्चदशाशीतीरेवमेतां त्रयीं विद्यामात्मन्नावपतात्मन्नकुरुत सोऽत्रैव सर्वेषाम् भूतानामात्माभवच्चन्दोमय स्तोममयः प्राणमयो देवतामयः स एतन्मय एव भूत्वोर्ध्व उदक्रामत्स यः स उदक्रामदेष स चन्द्रमाः
+
+Whenever he laid down an enclosing-stone, he laid down a night, and along with that fifteen muhurtas, and along with the muhurtas fifteen eighties (of syllables of the sacred texts). And whenever he laid down a brick with a formula (yajushmati), he laid down a day, and along with that fifteen muhurtas, and along with the muhurtas fifteen eighties (of syllables). In this manner he put this threefold lore into his own self, and made it his own; and in this very (performance) he became the body of all existing things, (a body) composed of the metres, stomas, vital airs, and deities; and having become composed of all that, he ascended upwards; and he who thus ascended is that moon yonder.
+#### ?
 ### 10.5.4
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1056644.html
 ##### 5
-nakṣatrāṇi ha tvevaiṣo'gniścitaḥ tāni vā etāni saptaviṃśatirnakṣatrāṇi saptaviṃśatiḥ saptaviṃśatirhopanakṣatrāṇyekaikaṃ nakṣatramanūpatiṣṭhante tāni sapta ca śatāni viṃśatiścādhi ṣaṭtriṃśattato yāni sapta ca śatāni viṃśatiśceṣṭakā eva tāḥ ṣaṣṭiśca trīṇi ca śatāni pariśritaḥ ṣaṣṭiśca trīṇi ca śatāni yajuṣmatyo'tha yānyadhi ṣaṭtriṃśatsa trayodaśo māsaḥ sa ātmā triṃśadātmā pratiṣṭhā dve śira eva ṣaṭtriṃśyau tadyatte dve bhavato dvyakṣaraṃ hi śiro'tha yadantarā nakṣatre tatsūdadohā atha yannakṣatreṣvannaṃ tatpurīṣaṃ tā āhutayastāḥ samidho'tha yannakṣatrāṇītyākhyāyate tallokampṛṇā tadvā etatsarvaṃnakṣatrāṇītyevākhyāyate tatsarvo'gnirlo
+नक्षत्राणि ह त्वेवैषोऽग्निश्चितः तानि वा एतानि सप्तविंशतिर्नक्षत्राणि सप्तविंशतिः सप्तविंशतिर्होपनक्षत्राण्येकैकं नक्षत्रमनूपतिष्ठन्ते तानि सप्त च शतानि विंशतिश्चाधि षट्त्रिंशत्ततो यानि सप्त च शतानि विंशतिश्चेष्टका एव ताः षष्टिश्च त्रीणि च शतानि परिश्रितः षष्टिश्च त्रीणि च शतानि यजुष्मत्योऽथ यान्यधि षट्त्रिंशत्स त्रयोदशो मासः स आत्मा त्रिंशदात्मा प्रतिष्ठा द्वे शिर एव षट्त्रिंश्यौ तद्यत्ते द्वे भवतो द्व्यक्षरं हि शिरोऽथ यदन्तरा नक्षत्रे तत्सूददोहा अथ यन्नक्षत्रेष्वन्नं तत्पुरीषं ता आहुतयस्ताः समिधोऽथ यन्नक्षत्राणीत्याख्यायते तल्लोकम्पृणा तद्वा एतत्सर्वंनक्षत्राणीत्येवाख्यायते तत्सर्वोऽग्निर्लो
 
 But, indeed, that Fire-altar also is the Nakshatras:—for there are twenty-seven of these Nakshatras, and twenty-seven secondary stars accompany each Nakshatra,—this makes seven hundred and twenty, and thirty-six in addition thereto. Now what seven hundred and twenty bricks there are of these, they are the three hundred and sixty enclosing-stones and the three hundred and sixty Yajushmati bricks; and what thirty-six there are in addition, they are the thirteenth (intercalary) month, the body (of the altar); the trunk (consisting of) thirty, the feet of two, the (channels of the) vital airs of two, and the head itself being the (thirty-fifth and) thirty-sixth,—and as to there being two of these, it is because 'shiras' (head) consists of two syllables;—and what (space) there is between (each) two Nakshatras that is the Sudadohas; and what food there is in the Nakshatras that is the earth-fillings (between the layers of bricks), the oblations and the fire-logs; and what is called 'nakshatras' that is the space-filling (brick):—thus this comes to make up the whole Agni, and the whole Agni comes to be the space-filler; and, verily, whosoever knows this, thus comes to be that whole (Agni) who is the space-filler.
+### 11.1.6
+https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1056761.html
+##### 1
+आपो  ह  वा इदमग्रे  सलिलमेवास  ता  अकामयन्त  कथं  नु  प्रजायेमहीति  ता  अश्राम्यंस्तास्तपऽतप्यन्त  तासु  तपस्तप्यमानासु  हिरंमयमाण्डं  सम्बभूवाजातो  ह  तर्हि  संवत्सर आस  तदिदं  हिरंमयमाण्डं  यावत्संवत्सरस्य  वेला  तावत्पर्यप्लवत
+
+Verily, in the beginning this (universe) was water, nothing but a sea of water. The waters desired, “How can we be reproduced?” They toiled and performed fervid devotions, when they were becoming heated, a golden egg was produced. The year, indeed, was not then in existence: this golden egg floated about for as long as the space of a year.
+##### 2
+ततः  संवत्सरे  पुरुषः  समभवत्  स  प्रजापतिस्तस्मादु  संवत्सर एव  स्त्री  वा  गौर्वा  वडबा  वा  विजायते  संवत्सरे  हि  प्रजापतिरजायत  स इदं  हिरंमयमाण्डं  व्यरुजन्नाह  तर्हि  का  चन  प्रतिष्ठास  तदेनमिदमेव  हिरंमयमाण्डं  यावत्संवत्सरस्य  वेलासीत्तावद्बिभ्रत्पर्यप्लवत
+
+In a year’s time a man, this Prajapati, was produced therefrom; and hence a woman, a cow, or a mare brings forth within the space of a year; for Prajapati was born in a year. He broke open this golden egg. There was then, indeed, no resting-place: only this golden egg, bearing him, floated about for as long as the space of a year.
+##### 3
+स  संवत्सरे  व्याजिहीर्षत्  स  भूरिति  व्याहरत्सेयम्  पृथिव्यभवद्भुव इति  तदितमन्तरिक्षमभवत्स्वरिति  सासौ  द्यौरभवत्तस्मादु  संवत्सर एव  कुमारो  व्याजिहीर्षति  संवत्सरे  हि  प्रजापतिर्व्याहरत्
+
+At the end of a year he tried to speak. He said 'bhuh': this (word) became this earth;—“bhuvah”: this became this air;—“svah”: this became yonder sky. Therefore a child tries to speak at the end of a year, for at the end of a year Prajapati tried to speak.
+##### 4
+स  वा एकाक्षरद्व्यक्षराण्येव  प्रथमं  वदन्प्रजापतिरवदत्तस्मादेकाक्षरद्व्यक्षराण्येव  प्रथमं  वदन्कुमारो  वदति
+
+When he was first speaking Prajapati spoke (words) of one syllable and of two syllables; whence a child, when first speaking, speaks (words) of one syllable and of two syllables.
+##### 5
+तानि  वा एतानि  पञ्चाक्षराणि  तान्पञ्चर्तूनकुरुत  त इमे  पञ्चर्तवः  स एवमिमांलोकान्जातान्त्संवत्सरे  प्रजापतिरभ्युदतिष्ठत्तस्मादु  संवत्सर एव  कुमार उत्तिष्ठासति  संवत्सरे  हि  प्रजापतिरुदतिष्ठत्
+
+These (three words consist of), five syllables: he made them to be the five seasons, and thus there are these five seasons. At the end of the (first) year, Prajapati rose to stand on these worlds thus produced; whence a child tries to stand up at the end of a year, for at the end of a year Prajapati stood up.
+##### 6
+स  सहस्रायुर्जज्ञे  स  यथा  नद्यै  पारम्  परापश्येदेवं  स्वस्यायुषः  पारम्  पराचख्यौ
+
+He was born with a life of a thousand years: even as one might see in the distance the opposite shore, so did he behold the opposite shore (the end) of his own life.
+##### 7
+सऽर्चञ्च्राम्यंश्चचार  प्रजाकामः  स आत्मन्येव  प्रजातिमधत्त  स आस्येनैव  देवानसृजत  ते  देवा  दिवमभिपद्यासृज्यन्त  तद्देवानां  देवत्वं  यद्दिवमभिपद्यासृज्यन्त  तस्मै  ससृजानाय  दिवेवास  तद्वेव  देवानां  देवत्वं  यदस्मै  ससृजानाय  दिवेवास
+
+Desirous of offspring, he went on singing praises and toiling. He laid the power of reproduction into his own self. By (the breath of) his mouth he created the gods: the gods were created on entering the sky; and this is the godhead of the gods (deva) that they were created on entering the sky (div). Having created them, there was, as it were, daylight for him; and this also is the godhead of the gods that, after creating them, there was, as it were, daylight (diva) for him.
+##### 8
+अथ  यऽयमवाङ्  प्राणः  तेनासुरानसृजत  त इमामेव  पृथिवीमभिपद्यासृज्यन्त  तस्मै  ससृजानाय  तम इवास
+
+And by the downward breathing he created the Asuras: they were created on entering this earth. Having created them there was, as it were, darkness for him.
+##### 9
+सऽवेत्  पाप्मानं  वा  असृक्षि  यस्मै  मे  ससृजानाय  तम इवाभूदिति  तांस्तत एव  पाप्मनाविध्यत्ते  तत एव  पराभवंस्तस्मादाहुर्नैतदस्ति  यद्दैवासुरं  यदिदमन्वाख्याने  त्वदुद्यत इतिहासे  त्वत्ततो  ह्येव  तान्प्रजापतिः  पाप्मनाविध्यत्ते  तत एव  पराभवन्निति
+
+He knew, “Verily, I have created evil for myself since, after creating, there has come to be, as it were, darkness for me.” Even then he smote them with evil, and owing to this it was that they were overcome; whence people say, “Not true is that regarding (the fight between) the gods and Asuras which is related partly in the tale and partly in the legend; for it was even then that Prajapati smote them with evil, and it was owing to this that they were overcome.”
+##### 10
+तस्मादेतदृषिणाभ्यनूक्तम्  न  त्वं  युयुत्से  कतमच्चनाहर्न  तऽमित्रो  मधवन्कश्चनास्ति  मायेत्सा  ते  यानि  युद्धान्याहुर्नाद्य  शत्रुं  न  नु  पुरा  युयुत्स इति
+
+Therefore it is with reference to this that the Rishi has said, “Not for a single day hast thou fought, nor hast thou any enemy, O Maghavan illusion is what they say concerning thy battles; no foe hast thou fought either to-day or aforetime.”
+##### 11
+स  यदस्मै  देवान्त्ससृजानाय  दिवेवास  तदहरकुरुताथ  यदस्मा  असुरान्त्ससृजानाय  तम इवास  तां  रात्रिमकुरुत  ते  अहोरात्रे
+
+Now what daylight, as it were, there was for him, on creating the gods, of that he made the day; and what darkness, as it were, there was for him, on creating the Asuras, of that he made the night: they are these two, day and night.
+##### 12
+स  ऐक्षत  प्रजापतिः  सर्वं  वा  अत्सारिषं  य इमा  देवता  असृक्षीति  स  संवत्सरऽभवत्संवत्सरो  ह  वै  नामैतद्यत्संवत्सर इति  स  यो  हैवमेतत्संवत्सरस्य  संवत्सरत्वं  वेद  यो  हैनम्  पाप्मा  मायया  त्सरति  न  हैनं  सऽभिभवत्यथ  यमभिचरत्यभि  हैवैनम्  भवति  य एवमेतत्संवत्सरस्य  संवत्सरत्वं  वेद
+
+Prajapati bethought himself, “Everything (sarva), indeed, I have obtained by stealth (tsar) who have created these deities:” this became the 'sarvatsara,' for 'sarvatsara,' doubtless, is the same as 'samvatsara (year).' And, verily, whosoever thus knows 'samvatsara' to be the same as 'sarvatsara,' is not overcome by any evil which, by magic art, steals upon him (tsar); and whosoever thus knows 'samvatsara' to be the same as 'sarvatsara,' overcomes against whomsoever he practises magic art.
+##### 13
+स  ऐक्षत  प्रजापतिः इमं  वा आत्मनः  प्रतिमामसृक्षि  यत्संवत्सरमिति  तस्मादाहुः  प्रजापतिः  संवत्सर इत्यात्मनो  ह्येतम्  प्रतिमामसृजत  यद्वेव  चतुरक्षरः  संवत्सरश्च!तुरक्षरः  प्रजापतिस्तेनो  हैवास्यैष  प्रतिमा
+
+Prajapati bethought himself, “Verily, I have created here a counterpart of myself, to wit, the year;” whence they say, “Prajapati is the year;” for he created it to be a counterpart of himself: inasmuch as 'samvatsara (year),' as well as 'Prajapati,' consists of four syllables, thereby it (the year) is a counterpart of him.
+##### 14
+ता वा एताः प्रजापतेरधि देवता असृज्यन्ताग्निरिन्द्रः सोमः परमेष्ठी प्राजापत्यः
+
+Now, these are the deities who were created out of Prajapati,—Agni, Indra, Soma, and Parameshthin Prajapatya.
+##### 16
+ता अर्चन्त्यः श्राम्यन्त्यश्चेरुः तत एतम् परमेष्ठी प्राजापत्यो यज्ञमपश्यद्यद्दर्शपूर्णमासौ ताभ्यामयजत ताभ्यामिष्ट्वाकामयताहमेवेदं सर्वं स्यामिति स आपोऽभवदापो वा इदं सर्वं ता यत्परमे स्थाने तिष्ठन्ति यो हीहाभिखनेदप एवाभिविन्देत्परमाद्वा एतत्स्थानाद्वर्षति यद्दिवस्तस्मात्परमेष्ठी नाम
+
+They went on singing praises and toiling. Then Parameshthin, son of Prajapati, saw that sacrifice, the New and Full-moon offerings, and performed these offerings. Having performed them, he desired, “Would I were everything here!” He became the waters, for the waters are everything here, inasmuch as they abide in the furthest place; for he who digs here on earth finds indeed water; and, in truth, it is from that furthest place, to wit, from yonder sky that he rains, whence the name Parameshthin (abiding in the furthest, highest place).
+##### 17
+स  परमेष्ठी  प्रजापतिम्  पितरमब्रवीत्  कामप्रं  वा  अहं  यज्ञमदर्शं  तेन  त्वा  याजयानीति  तथेति  तमयाजयत्स इष्ट्वाकामयताहमेवेदं  सर्वं  स्यामिति  स  प्राणऽभवत्प्राणो  वा इदं  सर्वमयं  वै  प्राणो  यऽयम्  पवते  स  प्रजापतिस्तस्य  दृष्टिर्यदेव  वेदेत्थाद्वातीति  यद्वै  किं  च  प्राणि  स  प्रजापतिः  स  यो  हैवमेताम्  प्रजापतेर्दृष्टिं  वेदाविरिव  हैव  भवति
+
+Parameshthin spake unto his father Prajapati, “I have discovered a sacrifice which fulfils wishes: let me perform this for thee!”—“So be it!” he said. He accordingly performed it for him. Having sacrificed, he (Prajapati) desired, “Would I were everything here!” He became the breath (vital air), for breath is everything here: Prajapati is that breath which blows here (the wind); and whatsoever knows that it is thus he blows is his (Prajapati's) eyesight; and whatsoever is endowed with breath is Prajapati. And, verily, whosoever thus knows that eyesight of Prajapati becomes, as it were, manifest,
+##### 18
+स प्रजापतिरिन्द्रम् पुत्रमब्रवीत् अनेन त्वा कामप्रेण यज्ञेन याजयानि येन मामिदम् परमेष्ठ्ययीयजदिति तथेति तमयाजयत्स इष्ट्वाकामयताहमेवेदं सर्वं स्यामिति स वागभवद्वाग्वा इदं सर्वं तस्मादाहुरिन्द्रो वागिति
+
+Prajapati spake unto his son Indra, “Let me perform for thee this wish-fulfilling sacrifice which Parameshthin has just performed for me.”—“So be it!” he said. He accordingly performed it for him. Having sacrificed, he (Indra) desired, “Would that I were everything here!” He became speech (vac), for speech is everything here; whence they say, “Indra is Vac.”
+##### 19
+स इन्द्रोऽग्नीषोमौ भ्रातरावब्रवीत् अनेन वां कामप्रेण यज्ञेन याजयानि येन मामिदम् पिता प्रजापतिरयीयजदिति तथेति तावयाजयत्ताविष्ट्वाकामयेतामावमेवेदं  सर्वं  स्यावेति  तयोरन्नाद एवान्यतरऽभवदन्नमन्यतरऽन्नाद एवाग्निरभवदन्नं  सोमऽन्नादश्च  वा इदं  सर्वमन्नं  च
+
+Indra spake unto his brothers Agni and Soma, “Let me perform for you this wish-fulfilling sacrifice which our father Prajapati has just performed for me.”—“So be it!” they said. He accordingly performed it for them. Having sacrificed, those two desired, “Would that we were everything here!” One of them became the eater of food, and the other became food: Agni became the eater of food, and Soma food; and the eater of food, and food, indeed, are everything here.
+##### 29
+अथाध्यात्मम् पञ्चेमे पुरुषे प्राणा ऋते चक्षुर्भ्यां त एव पञ्च प्रयाजा चक्षुषी आज्यभागौ
+
+Now as to the body:—there are in man these five breathings, not including the eyes; they are the five fore-offerings, and the two butter-portions are the eyes.
 ### 11.2.7
 ##### 12
 एतद्ध  स्म  वै  तद्विद्वानाह  श्वेतकेतुरारुणेयः  कं  स्विदेवापरीषु  महानागमिवाभिसंसारं  दिदृक्षितारो  य एवमेतत्प्रयाजानां  यशो  वेदितेति

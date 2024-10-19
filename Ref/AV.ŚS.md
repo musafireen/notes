@@ -2,12 +2,331 @@ http://www.onlineved.com/atharva-ved/?language=1&kand=10&sukt=2&mantra=31
 
 http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs___u.htm
 
-https://sacred-texts.com/hin/av/av07056.htm
+https://sacred-texts.com/hin/av/index.htm
+
+## 1.16
+### 2-3
+#### 2
+सीसायाध्य् आह वरुणः सीसायाग्निर् उपावति 
+सीसं म इन्द्रः प्रायछत् तद् अङ्ग यातुचातनम् ||2||
+
+Varuna's benison hath blessed the lead, and Agni strengthens it. 
+Indra hath given me the lead: this verily repels the fiends.
+#### 3
+इदं विष्कन्धं सहत इदं बाधते अत्त्रिणः 
+अनेन विश्वा ससहे या जातानि पिशाच्याः ||3||
+
+This overcomes Vishkandha, -this drives the voracious fiends away:
+By means of this have I, o'erthrown all the Pisāchi's demon brood.
+## 1.35
+### 1-2
+#### 1
+यद् आबध्नन् दाक्षायणा हिरण्यं शतानीकाय सुमनस्यमानाः 
+तत् ते बद्नाम्य् आयुषे वर्चसे बलाय दीर्घायुत्वाय शतशारदाय ||1||
+
+This Ornament of Gold which Daksha's children bound, with benevolent thoughts, on Satānïka,
+This do I bind on thee for life, for glory, for long life lasting through a hundred autumns.
+#### 2
+नैनं रक्षांसि न पिशाचाः सहन्ते देवानाम् ओजः प्रथमजम् ह्य् एतत् यो बिभर्ति दाक्षायणं हिरण्यं स जीवेषु कृणुते दीर्घम् आयुः
+
+This man no fiends may conquer, no Pisāchas, for this is might of Gods, their primal offspring.
+Whoever wears the Gold of Daksha's children hath a long lengthened life among the living.
+## 3.9
+#### 3
+पिशङ्गे  सूत्रे  खृगलं  तद् आ  बध्नन्ति  वेधसः  |
+श्रवस्युं  शुष्मं  काबवं  वध्रिं  कृण्वन्तु  बन्धुरः  ||3||
+
+Then to a tawny-coloured string the wise and skilful bind a  
+   brush.  
+  Let bandages make impotent the strong and active Kābava
+## 4.20
+### 4-9
+#### 4
+तां मे सहस्राक्षो देवो दक्षिणे हस्त आ दधत् 
+तयाहं सर्वं पश्यामि यश् च शूद्र उतार्यः ||4||
+
+The God who hath a thousand eyes give me this Plant in my right hand!
+I look on every one therewith, each Sūdra and each Āryan man.
+#### 5
+आविष् कृणुष्व रूपानि मात्मानम् अप गूहथाः 
+अथो सहस्रचक्षो त्वं प्रति पश्याः किमीदिनः ||5||
+
+Make manifest the forms of things; hide not their essences from sight.
+And, thou who hast a thousand eyes, look the Kimidins in the face. p. a129
+#### 6
+दर्शय मा यातुधानान् दर्शय यातुधान्यः 
+पिशाचान्त् सर्वान् दर्शयेति त्वा रभ ओषधे ||6||
+
+Make me see Yātudhānas, make thou Yātudhānis visible.
+Make me see all Pisāchas With this prayer, O Plant, I hold thee fast.
+#### 7
+कश्यपस्य चक्षुर् असि शुन्याश् च चतुरक्ष्याः 
+वीध्रे सूर्यम् इव सर्पन्तं मा पिशाचं तिरस् करः ||7||
+
+Thou art the sight of Kasyapa and of the hound who hath four eyes.
+Make the Pisācha manifest as Sūrya when he rides at noon.
+#### 8
+उद् अग्रभं परिपाणाद् यातुधानं किमीदिनम् 
+तेनाहं सर्वं पश्याम्य् उत शूद्रम् उतार्यम् ||8||
+
+Kimidin, Yātudhāna from their hiding-places have I dragged. 
+I look on every one with this, Sūdra and Aryan man alike.
+#### 9
+यो अन्तरिक्षेण पतति दिवम् यश् च अतिसर्पति 
+भूमिं यो मन्यते नाथं तं पिशाचम् प्र दर्शय
+
+Make that Pisācha visible, the fiend who flies in middle air,
+The fiend who glides across the sky, and him who deems the earth his help.
+
+## 4.36
+### 3-8
+#### 3
+य आगरे  मृगयन्ते  प्रतिक्रोशे ऽमावास्ये  |
+क्रव्यादो  अन्यान्  दिप्सतः  सर्वांस्  तान्त्  सहसा  सहे  ||3||
+
+Those who, what time the moon is dark, hunt with loud cry and  
+   answering shout,  
+  Flesh-eaters, others who would harm,—all these I overcome with  
+   might.
+#### 4
+सहे  पिशाचान्त्  सहसैषां  द्रविणं  ददे  |
+सर्वान्  दुरस्यतो  हन्मि  सं  म आकूतिर् ऋध्यताम्  ||4||
+
+I conquer the Pisāchas with my power, and take their wealth  
+   away.  
+  All who would injure us I slay. Let mine intention have success.
+#### 5
+ये  देवास्  तेन  हासन्ते  सूर्येण  मिमते  जवम्  |
+नदीषु  पर्वतेषु  ये  सं  तैः  पशुभिर्  विदे  ||5||
+
+With Gods who flee with him, and match their rapid motion  
+   with the Sun,  
+  I with those animals who dwell in rivers and on hills am found.
+#### 6
+तपनो  अस्मि  पिशाचानां  व्याध्रो  गोमताम् इव  |
+श्वानः  सिंहम् इव  दृष्ट्वा  ते  न  विन्दन्ते  न्यञ्चनम्  ||6||
+
+I trouble the Pisāchas as the tiger plagues men rich in kine.  
+  They, even as dogs when they have seen a lion, find no hiding-  
+   place.
+#### 7
+न  पिशाचैः  सं  शक्नोमि  न  स्तेनैः  न  वनर्गुभिः  |
+पिशाचास्  तस्मान्  नश्यन्ति  यम्  अहं  ग्रामम् आविशे  ||7||
+
+Naught with Pisāchas can I do, with thieves, with roamers of the  
+   wood.  
+  Pisāchas flee and vanish from each village as I enter it.
+#### 8
+यं  ग्रामम् आविशत इदम् उग्रं  सहो  मम  |
+पिशाचास्  तस्मान्  नश्यन्ति  न  पापम् उप  जानते  ||8||
+
+Into whatever village this mine awful power penetrates,  
+  Thence the Pisāchas flee away, and plot no further mischief  
+   there.
+
+## 4.37
+#### 1
+त्वया  पूर्वम्  अथर्वाणो  जध्नू  रक्षांस्य् ओषधे  |
+त्वया  जधान  कश्यपस्  त्वया  कंवो  अगस्त्यः  ||1||
+
+With thee, O Plant, in olden time Atharvans smote and slew the  
+   fiends.  
+  Kasyapa smote with thee, with thee did Kanava and Agastya  
+   smite.
+#### 2
+त्वया  वयम्  अप्सरसो  गन्धर्वांस्  चातयामहे  |
+अजशृङ्ग्य्  अज  रक्षः  सर्वान्  गन्धेन  नाशय  ||2||
+
+With thee we scare and drive away Gandharvas and Apsarases.  
+  O Ajasringi, chase the fiends. Cause all to vanish with thy  
+   smell.
+#### 3
+नदीं  यन्त्व्  अप्सरसो ऽपां  तारम्  अवश्वसम्  |
+गुल्गुलूः  पीला  नलद्य्  औक्षगन्धिः  प्रमन्दनी  |
+तत्  परेताप्सरसः  प्रतिबुद्धा  अभूतन  ||3||
+
+Let the Apsarases, puffed away, go to the river, to the ford,—  
+  Guggulū, Pīlā, Naladi, Aukshagandhi, Pramandini.  
+  Ye have become attentive since the Apsarases have past away.
+#### 4
+यत्राश्वत्था  न्यग्रोधा  महावृक्षाः  शिखंडिनः  |
+तत्  परेताप्सरसः  प्रतिबुद्धा  अभूतन  ||4||
+
+Where great trees are, Asvatthas and Nyagrodhas with their  
+   leafy crests,  
+  There where your swings are green and bright, and lutes and  
+   cymbals sound in tune,  
+  'Ye have become attentive since the Apsarases have past away.
+#### 5
+यत्र  वः  प्रेङ्खा  हरिता  अर्जुना ुत  यत्राधाताः  कर्कर्यः  संवदन्ति  |
+तत्  परेताप्सरसः  प्रतिबुद्धा  अभूतन  ||5||
+
+Hither hath come this one, the most effectual of herbs and  
+   plants.
+#### 6
+एयम्  अगन्न् ओषधीनां  वीरुधाम्  वीर्यावती  |
+अजशृङ्ग्य्  अराटकी  तीक्ष्णशृङ्गी  व्यृषतु  ||6||
+
+Let Ajasringi penetrate, Arā4aki with sharpened horn.
+#### 7
+आनृत्यतः  शिखंडिनो  गन्धर्वस्याप्सरापते  |
+भिनद्मि  मुष्काव्  अपि  यामि  शेपः  ||7||
+
+From the Gandharva, dancing near, the lord of the Apsarases,  
+  Wearing the tuft of hair, I take all manhood and virility.
+#### 8
+भीमा इन्द्रस्य  हेतयः  शतं ऋष्टीर्  अयस्मयीः  |
+ताभिर्  हविरदान्  गन्धर्वान्  अवकादान्  व्यृषतु  ||8||
+
+With those dread hundred iron spears, the darts of Indra, let it  
+   pierce.  
+  The Blyxa-fed Gandharvas, those who bring no sacrificial gift.
+#### 9
+भीमा इन्द्रस्य  हेतयः  शतं ऋष्टीर्  हिरंययीः  |
+ताभिर्  हविरदान्  गन्धर्वान्  अवकादान्  व्यृषतु  ||9||
+
+With those dread hundred golden spears, the darts of Indra, let  
+   it pierce. p. a148  
+  The Blyxa-fed Gandharvas, those who bring no sacrificial gift.
+#### 10
+अवकादान्  अभिशोचान्  अप्सु  ज्योतय  मामकान्  |
+पिशाचान्त्  सर्वान् ओषधे  प्र  मृणीहि  सहस्व  च  ||10||
+
+O Plant, be thou victorious, crush the Pisāchas, one and all,  
+  Blyxa-fed, shining in the floods, illumining the selfish ones
+#### 11
+श्वेवैकः  कपिर् इवैकः  कुमारः  सर्वकेशकः  |
+प्रियो  दृश इव  भूत्वा  गन्धर्वः  सचते  स्त्रियस्  |
+तम् इतो  नाशयामसि  ब्रह्मा  वीर्यावता  ||11||
+
+Youthful, completely decked with hair, one monkey-like, one  
+   like a dog,—  
+  So the Gandharva, putting on a lovely look, pursues a dame.  
+  Him with an efficacious charm we scare and cause to vanish  
+   hence.
+#### 12
+जाया इद्  वो  अप्सरसो  गन्धर्वाः  पतयो  युयम्  |
+अप  धावतामर्त्या  मर्त्यान्  मा  सचध्वम्  ||12||
+
+Your wives are the Apsarases, and ye, Gandharvas, are their  
+   lords.  
+  Run ye, immortal ones, away: forbear to interfere with men!
 ## 5.22
 #### 2
 अयं यो विश्वान्हरितान्कृणोष्युच्छोचय॑न्नग्निरिवाभिदुन्वन् । अधा हि तक्मन्नरसो हि भूया अधा न्यङ्ङधरान्वा परेहि ॥
 
 Bhavarth: Let this fever which makes the body of the patients yellow consuming thern with burning heat, be weak and ineffective and let it away from them.
+## 5.29
+#### 1
+पुरस्ताद्  युक्तो  वह  जातवेदो ऽग्ने  विद्धि  क्रियमाणम्  यथेदम्  |
+त्वं  भिषग्  भेषजस्यासि  कर्ता  त्वया  गाम्  अश्वं  पुरुषं  सनेम  ||1||
+
+Made ready in the east drive forth, take notice of what is hap-  
+   pening here, omniscient Agni! p. a193  
+  Thou bringest medicine and healest sickness: through thee may  
+   we win horses, kine, and people.
+#### 2
+तथा  तद्  अग्ने  कृणु  जातवेदो  विश्वेभिर्  देवैः  सह  संविदानः  |
+यो  नो  दिदेव  यतमो  जधास  यथा  सो  अस्य  परिधिष्  पताति  ||2||
+
+Accordant with all Gods, O Jātavedas Agni, perform this work  
+   as we beseech thee,  
+  That this defence of his may fall, whoever hath caused us pain,  
+   whoever hath consumed us.
+#### 3
+यथा  सो  अस्य  परिधिष्  पताति  तथा  तद्  अग्ने  कृणु  जातवेदः  |
+विश्वेभिर्  देवैर्  सह  संविदानः  ||3||
+
+Unanimous, with all the Gods together, so do this thing O Agni  
+  Jātavedas, that this defence of his may fall and fail him.
+#### 4
+अक्ष्यौ  नि  विध्य  हृदयं  नि  विध्य  जिह्वां  नि  तृन्द्धि  प्र  दतो  मृणीहि  |
+पिशाचो  अस्य  यतमो  जधासाग्ने  यविष्ठ  प्रति  शृणीहि  ||4||
+
+Pierce both his eyes, pierce thou the heart within him, crush  
+   thou his teeth and cleave his tongue asunder.  
+  Rend thou, most youthful Agni, that Pisācha whoso amid them  
+   all of this hath eaten.
+#### 5
+यद्  अस्य  हृतं  विहृतं  यत्  पराभृतम् आत्मनो  जग्धं  यतमत्  पिशाचैः  |
+तद्  अग्ने  विद्वान्  पुनर् आ  भर  त्वं  शरीरे  मांसम्  असुम् एरयामः  ||5||
+
+Whatever of his body hath been taken, plundered, borne off, or  
+   eaten by Pisāchas,  
+  This, Agni, knowing it, again bring hither! We give back flesh  
+   and spirit to his body.
+#### 6
+आमे  सुपक्वे  शबले  विपक्वे  यो  मा  पिशाचो  अशने  ददम्भ  |
+तद् आत्मना  प्रजया  पिशाचा  वि  यातयन्ताम्  अगदो ऽयम्  अस्तु  ||6||
+
+If some Pisācha in my food raw, ready, thoroughly cooked, or,  
+   spotty, hath deceived me,  
+  Let the Pisāchas with their lives and offspring atone for this,  
+   and let this man be healthy.
+#### 7
+क्षिरे  मा  मन्थे  यतमो  ददम्भाकृष्टपच्ये  अशने  धान्ये  यः  |
+तद् आत्मना  प्रजया  पिशाचा  वि  यातयन्ताम्  अगदो ऽयम्  अस्तु  ||7||
+
+If one hath cheated me in milk or porridge, in food from grain  
+   or plants that need no culture.  
+  Let the Pisāchas, etc.
+#### 8
+अपां  मा  पाने  यतमो  ददम्भ  क्रव्याद्  यातूनाम्  शयने  शयानम्  |
+तद् आत्मना  प्रजया  पिशाचा  वि  यातयन्ताम्  अगदो ऽयम्  अस्तु  ||8||
+
+If one, flesh eater, in a draught of water have wronged me lying  
+   in the bed of goblins,  
+  Let the Pisāchas, etc.
+#### 9
+दिवा  मा  नक्तं  यतमो  ददम्भ  क्रव्याद्  यातूनाम्  शयने  शयानम्  |
+तद् आत्मना  प्रजया  पिशाचा  वि  यातयन्ताम्  अगदो ऽयम्  अस्तु  ||9||
+
+If one, flesh-eater, in the day or night-time have wronged me  
+   lying in the bed of goblins,  
+  Let the Pisāchas, etc.
+#### 10
+क्रव्यादम्  अग्ने  रुधिरं  पिशाचं  मनोहनं  जहि  जातवेदः  |
+तम् इन्द्रो  वाजी  वज्रेण  हन्तु  छिनत्तु  सोमः  शिरो  अस्य  धृष्णुः  ||10||
+
+O Agni Jātavedas, slay the bloody Pisācha, flesh-devourer, mind-  
+   destroyer,  
+  Strong Indra strike him with his bolt of thunder, courageous  
+  Soma cut his head to pieces!
+#### 11
+सनाद्  अग्ने  मृणसि  यातुधानान्  न  त्वा  रक्षांसि  पृतनासु  जिग्युः  |
+सहमूरान्  अनु  दह  क्रव्यादो  मा  ते  हेत्या  मुक्षत  दैव्यायाः  ||11||
+
+Thou, Agni, ever slayest Yātudhānas, the fiends have never con-  
+   quered thee in battles.  
+  Consume thou from the root the flesh-devourers, let none of  
+   them escape thy heavenly weapon
+#### 12
+समाहर  जातवेदो  यद्  धृतं  यत्  पराभृतम्  |
+गात्राण्य्  अस्य  वर्धन्ताम्  अंशुर् इवा  प्यायताम्  अयम्  ||12||
+
+Collect, O Jātavedas, what hath been removed and borne away.  
+  Let this man's members grow, let him swell like the tendril of a  
+   plant. p. a194
+#### 13
+सोमस्येव  जातवेदो  अंशुर् आ  प्यायताम्  अयम्  |
+अग्ने  विरप्शिनं  मेध्यम्  अयक्ष्मं  कृणु  जीवतु  ||13||
+
+Like as the Soma's tendril, thus, O Jātavedas let him swell,  
+  Let him live, Agni I Make him fat, free from consumption, full  
+   of sap.
+#### 14
+एतास्  ते  अग्ने  समिधः  पिशाचजम्भनीः  |
+तास्  त्वं  जुषस्व  प्रति  चैना  गृहाण  जातवेदः  ||14||
+
+Here, Agni, is the fuel, here are logs that crush Pisāchas down.  
+  O Jātavedas, willingly accept them and be pleased therewith.
+#### 15
+तार्ष्टाधीर्  अग्ने  समिधः  प्रति  गृह्णाह्य्  अर्चिषा  |
+जहातु  क्रव्याद्  रूपं  यो  अस्य  मांसं  जिहीर्षति  ||15||
+
+Accept, O Agni, with thy flame the billets of Tārshtāgha wood.  
+  Let the flesh-eater who would take the flesh of this man lose his  
+   form.
 ## 6.56
 #### 1
 http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs___u.htm
@@ -50,7 +369,23 @@ and stings.
 transverse stripes,
 Or Kankaparvan's bite, this herb hath made the poison power-
 less.
+## 8.5
+#### 9
+याः कृत्या आङ्गिरसीर् याः कृत्या आसुरीर् याः कृत्याः स्वयंकृता या उ चान्येभिर् आभृताः उभयीस् ताः परा यन्तु परावतो नवतिं नाव्या अति
+
+All witchcraft of Angirases,"all witchcraft wrought by Asuras, 
+All witchcraft self-originate, and all that others have prepared,
+May these depart to both remotest spaces, past ninety ample water-floods.
+#### 10
+अस्मै मणिं वर्म बध्नन्तु देवा इन्द्रो विष्णुः सविता रुद्रो अग्निः प्रजापतिः परमेष्ठी विराड् वैश्वानर ऋषयश् च सर्वे
+
+May the Gods bind the Charm on him for armour, Indra, and Vishnu, Savitar Rudra, Agni, Prajāpati, sublimest Parameshlhin, Virāj, Vaisvānara, and all  the Rishis.
 ## 8.6
+#### 5
+यः कृष्णः केश्य् असुर स्तम्बज उत तुण्डिकः 
+अरायान् अस्या मुष्काभ्यां भंससो ऽप हन्मसि
+
+The black and hairy Asura, and Stambaja and Tundika, Arāyas from this girl we drive, from bosom, waist, and parts below.
 #### 23
 य आमं मांसमदन्ति पौरुषेयं च ये क्रविः |
 गर्भान्खादन्ति केशवास्तानितो नाशयामसि ||23||
@@ -69,7 +404,27 @@ healing herb.
 I call, to aid this man, the Plants which Serpents and Gandhar-
 vas know.
 
+## 8.9
+#### 8
+यां प्रच्युताम् अनु यज्ञाः प्रच्यवन्त उपतिष्ठन्त उपतिष्ठमानाम् 
+यस्या व्रते प्रसवे यक्षम् एजति सा विराट् ऋषयः परमे व्योमन् ||8||
 
+She whom, advancing, sacrifices follow, and when she takes her station stand beside her,
+By whose control and hest the spirit moveth, she is Virāj, in highest heaven, O Rishis.
+#### 25
+को नु गौः क एकऋषिः किम् उ धाम का आशिषः 
+यक्षम् पृथिव्याम् एकवृद् एकर्तुः कतमो नु सः
+ ||25||
+
+Who is the Cow? Who is the Single Rishi? What is the law, what are the benedictions?
+What on the earth is the one only Spirit? Which of the number is the Single Season?
+#### 26
+एको गौर् एक एकऋषिर् एकं धामैकधाशिषः 
+यक्षं पृथिव्याम् एकवृद् एकर्तुर् नाति रिच्यते ||26|| {24}
+
+One is the Cow, one is the Single Spirit, one is the law, single are benedictions. p. a349 
+The Spirit dwelling on the earth is single: the Single Season never is transcended.
+   
 ## 8.10
 https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/av/avs/avs.htm
 https://sacred-texts.com/hin/av/av08010.htm
@@ -326,55 +681,6 @@ of the ribs.
 ## 9.12
 #### 5
 [[#9.7#5]]
-## 19.6
-#### 1
-सहस्रबाहु पुरुषः सहस्राक्षः सहस्रपात् |  
-स भूमिं विश्वतो वृत्वात्यतिष्ठद्दशाङ्गुलम् ||1||  
-#### 2
-त्रिभि पद्भिर्द्यामरोहत्पादस्येहाभवत्पुनः |  
-तथा व्यक्रामद्विष्वङशनानशने अनु ||2||  
-#### 3
-तावन्तो अस्य महिमानस्ततो ज्यायांश्च पूरुषः |  
-पादो ऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि ||3||  
-#### 4
-पुरुष एवेदं सर्वं यद्भूतं यच्च भाव्यम् |  उतामृतत्वस्येश्वरो यदन्येनाभवत्सह ||4||  
-#### 5
-यत्पुरुषं व्यदधु कतिधा व्यकल्पयन् |  
-मुखं किमस्य किम्बाहू किमूरू पादा उच्यते ||5||  
-#### 6
-ब्राह्मो ऽस्य मुखमासीद्बाहू राजन्यो ऽभवत् |  
-मध्यं तदस्य यद्वैश्यः पद्भ्यां शूद्रो अजायत ||6||  
-#### 7
-चन्द्रमा मनसो जातश्चक्षो सूर्यो अजायत |  
-मुखादिन्द्रश्चाग्निश्च प्राणाद्वायुरजायत ||7||  
-#### 8
-नाभ्या आसीदन्तरिक्षं शीर्ष्णो द्यौ समवर्तत |  
-पद्भ्यां भूमिर्दिशः श्रोत्रात्तथा लोकां अकल्पयन् ||8||  
-#### 9
-विराडग्रे समभवद्विराजो अधि पूरुषः |  
-स जातो अत्यरिच्यत पश्चाद्भूमिमथो पुरः ||9||  
-#### 10
-यत्पुरुषेण हविषा देवा यज्ञमतन्वत |  
-वसन्तो अस्यासीदाज्यं ग्रीष्म इध्मः शरद्धवि ||10||  
-#### 11
-तं यज्ञं प्रावृषा प्रौक्षन्पुरुषं जातमग्रशः |  
-तेन देवा अयजन्त साध्या वसवश्च ये ||11||  
-#### 12
-तस्मादश्वा अजायन्त ये च के चोभयादतः |  
-गावो ह जज्ञिरे तस्मात्तस्माज्जाता अजावयः ||12||  
-#### 13
-तस्माद्यज्ञात्सर्वहुत ऋचः सामानि जज्ञिरे |  
-छन्दो ह जज्ञिरे तस्माद्यजुस्तस्मादजायत ||13||  
-#### 14
-तस्माद्यज्ञात्सर्वहुतः संभृतं पृषदाज्यम् |  
-पशूंस्तांश्चक्रे वायव्यानारंया ग्राम्याश्च ये ||14||  
-#### 15
-सप्तास्यासन्परिधयस्त्रि सप्त समिधः कृता |  
-देवा यद्यज्ञं तन्वाना अबध्नन्पुरुषं पशुम् ||15|| 
-#### 16
-मूर्ध्नो देवस्य बृहतो अंशवः सप्त सप्तती |  
-राज्ञः सोमस्याजायन्त जातस्य पुरुषादधि ||16||
-
 ## 10.2
 #### 1
 
@@ -393,6 +699,12 @@ Who made the openings and well-moulded fingers?
 केनोच्छ्लङ्खौ मध्यतः कः प्रतिष्ठाम् ||
 
 Who gave him foot-soles and a central station?
+#### 13
+को अस्मिन्प्राणं अवयुत्को अ॑पा॒नं व्या॒नमु । स॑मा॒नमस्मिन्को दे॒वो ऽधि शिश्रायु पुरुषे ॥
+
+Who wove the vital air in him, who filled him with the downward breath?
+What God bestowed on Pūrusha the general pervading air?
+### 31-32
 #### 31
 http://www.onlineved.com/atharva-ved/?language=1&kand=10&sukt=2&mantra=31
 
@@ -403,7 +715,23 @@ There is impregnable fort of the luminous faculties which is surrounded by eight
 तस्यां॑ हिर॒ण्ययः कोशः स्व॒र्गो ज्योतिषावृतः ॥
 
 Therein is laid a golden treasure-chest which is full of bliss begin with light.
+#### 32
+तस्मिन्हिर॒ण्यये कोशे त्र्य॑रे॒ त्रिप्रतिष्ठिते । तस्मि॒न्यद्य्यक्षममा॑त्म॒न्वत्तद्वै ब्रह्मविदो विदुः ॥
 
+Men deep in lore of Brahma know that Animated Being which dwells in the golden treasure-chest that hath three spokes and three supports.
+### ?
+## 10.4
+#### 14
+कैरातिका कुमारिका सुका खनंति भेषजम् । हिंर॒ण्ययीभरभ्रिभिर्गिरीनामुप सानु॑षु ॥
+
+The young maid of Kirāta race, a little damsel, digs the drug, digs it with shovels wrought of gold on the high ridges of the hills.
+## 10.6
+#### 9
+यम् अबध्नाद् बृहस्पतिर् मणिं फालं घृतश्चुतम् उग्रम् खदिरम् ओजसे तम् बिभ्रच् चन्द्रमा मणिम् असुराणां पुरो ऽजयद् दानवानां हिरण्ययीः सो अस्मै श्रियम् इद् दुहे भूयोभूयः श्वःश्वस् तेन त्वं द्विषतो जहि
+
+The Charm Brihaspati, etc.
+This Charm did Chandra wear, with this conquered the forts of Asuras, the golden forts of Dānavas.
+This yields him glory and renown, again, etc.
 ## 10.7
 #### 24
 http://www.onlineved.com/atharva-ved/?language=1&kand=10&sukt=7&mantra=24
@@ -423,6 +751,11 @@ From all the Gods enthroned in heaven, in air, from those who dwell on earth,
 Draw forth for evermore a stream of milk, of butter, and of mead.
 ## 11.4
 https://sacred-texts.com/hin/av/av11007.htm
+#### 9
+या तें प्राण प्रिया तुनूर्यो तें प्राण प्रेयंसी। अथो यद्भेषजं तव तस्य॑ नो धेहि जीवसें ॥
+
+Prāna, communicate to us thy dear, thy very dearest form.
+Whatever healing balm thou hast, give us thereof that we may live.
 #### 24
 यो अस्य सर्वजन्मन ईशे सर्वस्य चेष्टतः |
 
@@ -449,6 +782,88 @@ https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs___u.htm
 तमितिहासश्च पुराणं च गाथाश्च नाराशंसीश्चानुव्यचलन् | [11]
 
 Itihāsa and Purāna and Gāthās and Nārāsansis followed him.
+
+## 19.6
+
+#### 1
+सहस्रबाहु पुरुषः सहस्राक्षः सहस्रपात् |  
+स भूमिं विश्वतो वृत्वात्यतिष्ठद्दशाङ्गुलम् ||1||  
+
+![[RV#10.90#1]]
+#### 2
+त्रिभि पद्भिर्द्यामरोहत्पादस्येहाभवत्पुनः |  
+तथा व्यक्रामद्विष्वङशनानशने अनु ||2||  
+
+![[RV#10.90#4]]
+#### 3
+तावन्तो अस्य महिमानस्ततो ज्यायांश्च पूरुषः |  
+पादो ऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि ||3||  
+
+![[RV#10.90#3]]
+#### 4
+पुरुष एवेदं सर्वं यद्भूतं यच्च भाव्यम् |  उतामृतत्वस्येश्वरो यदन्येनाभवत्सह ||4||  
+
+![[RV#10.90#2]]
+#### 5
+यत्पुरुषं व्यदधु कतिधा व्यकल्पयन् |  
+मुखं किमस्य किम्बाहू किमूरू पादा उच्यते ||5||  
+
+![[RV#10.90#11]]
+#### 6
+ब्राह्मो ऽस्य मुखमासीद्बाहू राजन्यो ऽभवत् |  
+मध्यं तदस्य यद्वैश्यः पद्भ्यां शूद्रो अजायत ||6||  
+
+![[RV#10.90#12]]
+#### 7
+चन्द्रमा मनसो जातश्चक्षो सूर्यो अजायत |  
+मुखादिन्द्रश्चाग्निश्च प्राणाद्वायुरजायत ||7||  
+
+![[RV#10.90#13]]
+#### 8
+नाभ्या आसीदन्तरिक्षं शीर्ष्णो द्यौ समवर्तत |  
+पद्भ्यां भूमिर्दिशः श्रोत्रात्तथा लोकां अकल्पयन् ||8||  
+
+![[RV#10.90#14]]
+#### 9
+विराडग्रे समभवद्विराजो अधि पूरुषः |  
+स जातो अत्यरिच्यत पश्चाद्भूमिमथो पुरः ||9||  
+
+![[RV#10.90#5]]
+#### 10
+यत्पुरुषेण हविषा देवा यज्ञमतन्वत |  
+वसन्तो अस्यासीदाज्यं ग्रीष्म इध्मः शरद्धवि ||10||  
+
+![[RV#10.90#6]]
+#### 11
+तं यज्ञं प्रावृषा प्रौक्षन्पुरुषं जातमग्रशः |  
+तेन देवा अयजन्त साध्या वसवश्च ये ||11||  
+
+![[RV#10.90#7]]
+#### 12
+तस्मादश्वा अजायन्त ये च के चोभयादतः |  
+गावो ह जज्ञिरे तस्मात्तस्माज्जाता अजावयः ||12||  
+
+![[RV#10.90#10]]
+#### 13
+तस्माद्यज्ञात्सर्वहुत ऋचः सामानि जज्ञिरे |  
+छन्दो ह जज्ञिरे तस्माद्यजुस्तस्मादजायत ||13||  
+
+![[RV#10.90#9]]
+#### 14
+तस्माद्यज्ञात्सर्वहुतः संभृतं पृषदाज्यम् |  
+पशूंस्तांश्चक्रे वायव्यानारंया ग्राम्याश्च ये ||14||  
+
+![[RV#10.90#8]]
+#### 15
+सप्तास्यासन्परिधयस्त्रि सप्त समिधः कृता |  
+देवा यद्यज्ञं तन्वाना अबध्नन्पुरुषं पशुम् ||15|| 
+
+![[RV#10.90#15]]
+#### 16
+मूर्ध्नो देवस्य बृहतो अंशवः सप्त सप्तती |  
+राज्ञः सोमस्याजायन्त जातस्य पुरुषादधि ||16||
+
+![[RV#10.90#x]]
 
 ## 19.53
 #### 8

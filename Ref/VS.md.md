@@ -1,8 +1,9 @@
+
+https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/
+
 https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm
 
 http://www.onlineved.com/yajur-ved/?mantra=27&adhyay=4
-
-https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/
 # p4
 ### 27
 मि॒त्रो न एहि॒ सुमि॑त्रध॒ इन्द्र॑स्योरुमा वि॑श॒ दक्षि॑णमु॒शन्नु॒शन्त॑॰ स्यो॒नः स्यो॒नम् । स्वान॒ भ्राजा॑ङ्घारे॒ बम्भा॑रे॒ हस्त॒ सुह॑स्तु कृशा॑नवे॒ते वः॑ सोम॒क्रय॑णास्तान्र॑क्षध्वं॒ मा वो॑ दभन् ।। २७ ।।
@@ -159,6 +160,14 @@ O wealthy and adorable King, with the force of wisdom, enjoy the gladdening rule
 ### 16  
 यज्ञेन  यज्ञम्  अयजन्त  देवास्  तानि  धर्माणि  प्रथमान्यासन्  
 ते  ह  नाकं  महिमानः  सचन्त  यत्र  पूर्वे  साध्या  सन्ति  देवा  
+# p32
+### 3
+न तस्य प्रतिमा ऽ अस्ति यस्य नाम महद् यशः ।
+हिरण्यगर्भ ऽ इत्य् एषः ।
+मा मा हिꣳसीद् इत्य् एषा ।
+यस्मान् न जात ऽ इत्य् एष ॥
+# p34
+### 5
 
 # p40
 ### 7
