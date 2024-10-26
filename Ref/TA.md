@@ -149,6 +149,7 @@ five indeed are the great sacrifices, to be performed daily until the end for pe
 
 ०। ४। २७। ६८॥ ॥ २७॥
 
+
 # k5
 (Pravargya brāhmaṇa)
 # k7-9
@@ -203,3 +204,4 @@ The earth [Bhumi] is the giver of happiness like the milk cow, the sustainer of 
  सा॒र्ष्टिताꣳ॑ समानलो॒कता॑माप्नोति॒ य ए॒वं वेदे᳚त्युप॒निषत् ॥ ०। १०। १५। ३२॥
 
 Aditya is verily all these — energy, splendour strength, reown, sight, hearing, body, mind, anger, Seer, Dēvas, the deities of Death, Satya, Mitra, Vāyu, Ākaśa (space), Praṇa (life energis), the ruler of the worlds, the Indeterminable one, happiness that transcends the senses, truth, food, life span, Immortality (established in Brahma), Jīva (the individual soul), the Universe, blish, and the self born Brahma. This Puruṣa (Sūrya) is eternal. He is Lord of all creatures. He who meditates upon him attains Brahma and lives in the same region of enjoyment with him. He attains union, co-residence and enjoyment with the Dēvas in their worlds. The secret knowledge is thus imparted.
+

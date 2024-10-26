@@ -31,6 +31,8 @@ hen, nous, psyche
 pater, filius, spiritus sanctus 
 ## tantra
 brahma, cit, acit 
+## trika devi
+parā, parāpara, aparā 
 ## mamlūk awrāq
 malik, nā'ib, nā'ib thānī 
 ## trimurti
@@ -58,7 +60,10 @@ lāt, ',uzza, manāt
 athena, aphrodite, tyche
 ## pherecydes arche
 zas, cthonie, chronos 
-
+## pallava alvar
+poigai, bhoothath, pey
+## pallava nayanar
+appar, sundarar, sambandar
 # 4 
 ## weeks in a month
 ## directions
@@ -116,13 +121,17 @@ hota, adhvaryu, udgata brahman
 gṛhya, gārhapatya, āhavāniya, dakṣiṇa 
 ## yajna
 pāka, soma, havir, pitrī 
+## trika devi
+parā, parāpara, aparā, kālasaṃkarṣiṇī
 ## tantra
 kriyā, caryā, yoga, anuttarayoga 
 ## tantrapāda
 kriyā, cārya, yoga, jñāna 
+## iamblichus equivalent of tantrapāda
+, , synapse, gnosis
 ## indriya
 kriyā, jñāna, icchā, śaktipāta 
-## upāya
+## yoga upāya /samāveśa
 āṇava, śākta, sambhāva, an- 
 ## ?
 monad, nous, psyche, hyle
@@ -213,6 +222,8 @@ anupalabdhi, arthāpatti, upamāṇa, śabda, anumāṇa, pratyakṣa
 ## brahmāmānasaputra
 marīci, atri, aṅgirā, pulatsya, pulaha, kratu 
 
+## vedaanga
+Śīkṣā, chanda, vyākaraṇa, nirukta, kalpa, jyotiṣa
 # 7 
 ## ayyām
 ## saptāha
@@ -262,7 +273,8 @@ keter, hochmah, binah, chesed, geburah, tipheret, nezak, hod, yesod, malcutn
 ## angels
 metatron, raziel, tzaphkiel, zadkiel, chamuel, michael, haniel, raphael, gabriel, sandalphon
 § sahasrāra, ājñā, suṣumna, piṅgala, iḍā, viśuddhi, anāhata, maṇipura, svādhiṣṭhana, mūladhāra ()
-
+## alvar
+poigai, bhoothat, pey, thirumalisai, namma, thiruppan, thondaradippodi, thirumangai, kulasekhara, periya
 # 12
 ## ashhar
 ## māsa
@@ -280,7 +292,7 @@ C, C#, D, D#, E, F, F#, G, G#, A, A#, B
 ## āditya
 mitra, varuṇa, śakra, aryamā, tvaṣṭā, puṣā, dhāta, bhaga, aṃśa, savitā, viṣṇu, vivasvān
 ## alvars
-
+poigai, bhoothat, pey, thirumalisai, namma, thiruppan, thondaradippodi, thirumangai, kulasekhara, periya, andal, madhurakavi
 # 18
 ## fātimī imām
 'alī, ḥusen, a. zen, m. bāqir, ja'far, ismā'īl, m. b ismā'īl, aḥ. wafī, m. ṭaqī, ḥu. raḍī, aa. maḥdī b l., qāim b 'amr, manṣūr b naṣr, mu'izz b dīn, nizār 'azīz ḥākim b 'amr, z.āhir l i'zāz dīn, mustanṣir b l.,

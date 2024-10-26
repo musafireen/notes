@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/Śākta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dravida"
+              "title": "Śākta"
             }
           },
           {
@@ -260,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -287,8 +287,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Tamil",
-            "matchingCase": true,
+            "query": "",
+            "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -354,7 +354,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/iamb.mysEg.md"
+            "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/Śākta.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -371,36 +371,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "00adfa2219d80aac",
+  "active": "efa6159fdd96d63a",
   "lastOpenFiles": [
+    "Ref/kbjkmT.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/Śākta.md",
     "Ref/MkP.md",
-    "Ref/iamb.mysEg.md",
-    "Ref/iamb.myst/iamb.myst.eng.txt",
-    "Ref/iamb.mΕ.md",
-    "Ref/iamb.myst/iamb.myst.greek.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/shahadat.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mawt_al_ula/mawt_al_ula.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Kafirun/Munafiqun.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mawt_al_ula",
-    "001_eskaton/Ling/greek/greek_cognates_in_english.md",
-    "001_eskaton/Ling/greek/Greek verb.md",
-    "001_eskaton/Ling/English cognate poems (latin, greek).md",
-    "Ref/hmr.md",
+    "Ref/dvMhtm.md",
+    "Ref/MB.md",
+    "Ref/netT.md",
+    "Ref/NishTtSm.md",
+    "Ref/brmYmlT.md",
+    "Ref/svChndT.md",
+    "Ref/tntrSarSmgrh.md",
+    "Ref/tntrSar.md",
+    "Ref/tntrlok.md",
+    "Ref/ishSivGurDevPdh.md",
+    "Ref/MlnVjT.md",
+    "Ref/rdYmT.md",
+    "Ref/VjBhrvT.md",
+    "Ref/ttvPrk.md",
+    "Ref/TA.md",
+    "Ref/TS.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Sāṃkhya_kabbala_ghuli.md",
-    "Ref/dvBhgP.md",
-    "Ref/TB.md",
-    "Ref/nenn.histBrit.md",
-    "Ref/isd.svl.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
-    "Ref/tlmd.amora.gemara.md",
-    "Ref/bbl.torah.md",
-    "Ref/bbl.john.md",
-    "Ref/Ḥ.md",
-    "Ref/cankam.md",
-    "000_temp/prana_pratishtha_yantra_verses.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/vaishnava_brahmanic.md",
-    "Ref/mdhvA.md",
+    "Ref/vmkshrT.md",
+    "Ref/ygnHrd.md",
+    "Ref/yoniT.md",
+    "Ref/klrnvT.md",
+    "Story_prompts/Movie where the laws of reciprocity keeps changing based on which side of the cult is in and everyone goes along.md",
+    "Ref/cenas.TntrSmuccy.md",
+    "Ref/iamb.myst/iamb.myst.eng.txt",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mawt_al_ula",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/Scythian skeptic/shaka",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/baql",
     "boomerang/454817935_8007547926005160_936124851052004106_n.jpg",

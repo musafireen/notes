@@ -11,7 +11,7 @@ mahābhārata: 4b-4th
 mahābhārata.4(virāṭa): 4b-4th
 \__ durgāstava
 \__ durgā is kāli, bhadrakāli, caṇḍī
-\__ in vindhyā
+\__ in vindhyā 
 \__ for meat, alcohol consumption
 \__ for bali
 
@@ -40,17 +40,18 @@ mahābhārata.harivamsa: 1-4th
 \__ vindhyāvāsinī
 
 mārkaṇḍeya.devimāhātmya: 400-c780
-\__ śumbha, niśumbha
-\__ devis transcend devas & unite into mahādevi > śakti
-\__ mahākāla mahākālī after saying śumbha niśumbha :92:: 
+\__ śumbha, niśumbha :[[dvMhtm]]
+\__ devis transcend devas & unite into mahādevi > śakti :[[dvMhtm#10.3-4]]
+\__ mahākāla mahākālī after saying śumbha niśumbha :92:: [[dvMhtm]]
 
 brahmayāmala: 650-830
 \__ trika
+:[[brmYmlT]]
 
 netratantra: 700-850
 \__ kula, kulācāra, kulāmnaya
 \__ sukṣmadhyāna kuṇḍalinīyoga sahajaśakti pierce ṣaṭcakra (not fixed to body points)
-\__ khecara mudrā gives yogī yoginī sattva
+\__ khecara mudrā gives yogī yoginī sattva :[[netT#7.32]]
 
 skanda purāṇa: 8th
 \__ vindhyāvāsinī
@@ -65,26 +66,30 @@ Devī purāṇa: 9th
 
 Mālinīvijayottara tantra: 9-10th
 \__ trika
+:[[MlnVjT]]
 
 Kaulajñānanurṇaya: matsyendranātha 10th
 \__ kubjikā paścimāmnāya rejects vyākta liṅgatā
 
 Kubjikāmatatantra: 10th
-\__ paścimāmnāya
-\__ kaula śākta sampradāya
+\__ paścimāmnāya,
+\__ kaula śākta sampradāya :[[kbjkmT#6.35]]
 \__ netratantra ṣaṭcakra fixed to body points
+:[[kbjkmT#11.34-35]]
 
 Tantrāloka, abhinavagupta: 10th
-\__ kula ātman of śaiva
+\__ kula ātman of śaiva :[[tntrlok#35.34]]
 
 Tantrasāra, abhinavagupta: 10th
 \__ comment on trika mālinīvijayottara
+:[[tntrSar]]
 
 netrodyota : kṣemarāja 10th
 \__ comment on netratantra
 \__ sahaja śakti amṛta nāḍi nipāta
 
 Iśāṇaśivagurudevapaddhati: 10-11th
+[[ishSivGurDevPdh]]
 
 Kulārṇavatantra: -11th
 \__ urdhāmnāya
@@ -93,7 +98,7 @@ Yonitantra: bengal 11th
 \__ kaula secrectly śākta, outwardly śaiva, publicly vaiṣṇava
 
 Rudrayāmalatantra: 11th
-\__ vaiṣṇava, śaiva, śākta varṇa
+\__ vaiṣṇava, śaiva, śākta varṇa :[[rdYmT#4.74]]
 
 Vāmakeśvaratantra.yoginihrdaya: 11th
 \__ trika tripurasundari śrīvidya south

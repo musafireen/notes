@@ -1,34 +1,44 @@
 
 Drāviḍa
-> Chidambaram dikshitar pūrvaśikhā pancadravida
+§ Chidambaram dikshitar pūrvaśikhā pancadravida
 saiva 
 baudhayana-yajur /āśvalāyana-ṛg 
-> Guruvayur/athavanad Nambuthiri pūrvaśikhā 
+§ Guruvayur/athavanad Nambuthiri pūrvaśikhā 
 pūrva-mimāṃsā 
 baudhāyana-taittiriya-kṛṣṇa-yajur sāṃkhāyana-ṛg
 jamini sāma
-> Soliya pūrvaśikhā
+§ Soliya pūrvaśikhā
 jamini sāma
-> Tanjore iyer aparaśikhā
+§ Tanjore iyer aparaśikhā
  smārta advaita
-> srirangam śrīranganāthasvāmi iyengar aparaśikhā
-tenkalai viśiṣṭādvaita pañcarātra
-> tiruvallur virarāghavasvāmi
+§ srirangam śrīranganāthasvāmi iyengar aparaśikhā
+tenkalai rāmānuja viśiṣṭādvaita pañcarātra
+§ kanchi varadarāja perumal koil
+vatakalai pancarātra rāmānuja viśiṣṭādvaita
+§§ nambigal purnal
+§ kanchi toppul vilakoli tirutthanka
+vaṭakalai vaikhānasa rāmānuja viśiṣṭādvaita
+§ § vedanta desika
+§ tiruvallur virarāghavasvāmi
 vaṭakalai pancarātra
-> tiruvahindraluram
+§ tiruvahindraluram
 vaṭakalai vaikhānasa
-> tiruvallikeni śrī pārthasārathi
+§ tiruvallikeni śrī pārthasārathi
 tenkalai vaikhānasa
+§ colingappuram tirukkatikai 
+tenkalai vaikhānasa
+§ kumbakonam śarṅgapāṇi
+vatakalai pancarātra
 
 Karṇaṭaka
-> ahobilam 
+§ ahobilam 
 vaṭakalai viśiṣṭādvaita
-> udipi
+§ udipi
 dvaita
 
 Tailanga
-> tirupati 
-vaṭakalai viśiṣṭādvaita vaikhānasa
+§ tirupati aparaśikhā
+vaṭakalai rāmānuja viśiṣṭādvaita vaikhānasa 
 
 Mahārāṣṭraka
 

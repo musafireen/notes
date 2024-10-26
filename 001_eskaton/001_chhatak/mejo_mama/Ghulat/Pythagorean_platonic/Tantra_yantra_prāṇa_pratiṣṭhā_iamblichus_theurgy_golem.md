@@ -77,10 +77,14 @@ Cymbal hearing enthusiasm
 
 ##### burst heaven
 ##### scatter osiris in typhon
+### sounds
+#### bhajana
+#### samkirtana
 
 ### unknown words
 #### names
 #### chants
+##### ulu
 
 ## sacrifice
 
@@ -92,11 +96,43 @@ Cymbal hearing enthusiasm
 
 ### images
 
-### statues
-
+### idol
+#### vigraha
+#### angaraag
+#### abhisheka
+#### snaana
+##### pancaamrta
+##### ghrta
+###### madhu
+##### sharkara
+###### paya
+###### dadhi
+##### dhuli
+##### pushpa
+#### nivedana
+#### arghya
+#### shrngaara
+#### aasana
+#### mayurapaalaka
+#### maalya
+#### candana
+#### tulasi
+#### prajvalana
+#### bhoga
+#### pushpaanjali
+#### aarati
+#### pradipa
+#### karpura
+#### dhupa
+#### phulashankha
+#### pankha
+#### shankha
 ### temple
+### tilaka
 
 # holiness
+## aacamana
+## upavaasa
 ## impurity for invoker
 
 ### venery
@@ -104,7 +140,6 @@ Cymbal hearing enthusiasm
 ### animal vapor
 
 ### dead bodies
-
 # rank of gods
 
 ## hero
