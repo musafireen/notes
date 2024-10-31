@@ -262,7 +262,29 @@ imru' l qays o qaryah l faw, labīd o ? /nābigha o rummah, tarafa o gerrha, zuh
 chronos, eros, pyr, aer, hydor, gaia, chthon 
 ## sindhu
 gaṅgā, yamunā, sindhu, sarasvati, godavari, kaveri, 
-
+## mātṛkā 
+brahmāṇī, vaiṣṇavī, māheśvarī, indrāni, kaumāri, varāhī, cāmuṇḍā (/yāmi), (narasiṃhī/yogeśvarī/mahābhairavī/mahālakṣmī), (vināyakī/varuṇī/kalyānī), (kauberī), (nārāyanī)
+### RV.9.102.4
+![[RV#9.102#4]]
+### MB.9.43.
+![[MB#p9#c43#10-12]]
+### MB.9.45.35-36
+![[MB#p9#c45#35]]![[Mb#p9#c45#36]]
+### DvMhtm.2.14-18
+![[dvMhtm#2.14-18]]
+### DvMhtm.8.13
+![[dvMhtm#8.13]]
+### DvMhtm.8.15-21
+![[dvMhtm#8.15-21]]
+### DvP
+![[DvP#]]
+### VrhP
+![[VrP#]]
+### DBP
+![[dvBhgP#]]
+# 8
+## vasu
+## lokapāla
 # 10 
 ## aḥwāl
 murāqaba, qurb, wajd, sukr, wudd, 'iśq, yaqīn
@@ -293,6 +315,9 @@ C, C#, D, D#, E, F, F#, G, G#, A, A#, B
 mitra, varuṇa, śakra, aryamā, tvaṣṭā, puṣā, dhāta, bhaga, aṃśa, savitā, viṣṇu, vivasvān
 ## alvars
 poigai, bhoothat, pey, thirumalisai, namma, thiruppan, thondaradippodi, thirumangai, kulasekhara, periya, andal, madhurakavi
+# 14
+## kalpa mānavāntaras
+svayambhu, svārociṣa, uttama, tapas, raivata, cakṣus, vaivasvat, sāvarṇi, dakṣa sāvarṇi, brahmā sāvarṇi, rudra sāvarṇi, raucya sāvarṇi, indra sāvarṇi
 # 18
 ## fātimī imām
 'alī, ḥusen, a. zen, m. bāqir, ja'far, ismā'īl, m. b ismā'īl, aḥ. wafī, m. ṭaqī, ḥu. raḍī, aa. maḥdī b l., qāim b 'amr, manṣūr b naṣr, mu'izz b dīn, nizār 'azīz ḥākim b 'amr, z.āhir l i'zāz dīn, mustanṣir b l.,
@@ -320,7 +345,8 @@ dal, dhal, rā, zā,
 sin, shin, ṣād, ḍād, ṭā, zā,
 'ain, ghain, fa, qaf, kaf,
 lam, mim, nun, ha, wa, ya
-
+# 32
+## matsya.narasiṃha.anti-mātrṛkā 
 # 49
 ## qāsimi imams
 

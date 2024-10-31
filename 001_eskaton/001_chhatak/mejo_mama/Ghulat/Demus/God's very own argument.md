@@ -4,13 +4,13 @@ Discrepancy inconsistency
 
 ## Q:10:15
 
-![[Qrsed#10:15]]
+![[Qrsd#10:15]]
 
 ## Ayy bdl nzl (  )
 
 ## Q:16:101
 
-![[Qrsed#16:98]]![[Qrsed#16:99]]![[Qrsed#16:100]]![[Qrsed#16:101]]![[Qrsed#16:102]]![[Qrsed#16:103]]
+![[Qrsd#16:98]]![[Qrsd#16:99]]![[Qrsd#16:100]]![[Qrsd#16:101]]![[Qrsd#16:102]]![[Qrsd#16:103]]
 
 ## Ayy bdl nzl (  )
 
@@ -18,7 +18,7 @@ Discrepancy inconsistency
 
 [Q.22:52](https://quran.com/65:4/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#22:51]]![[Qrsed#22:52]]![[Qrsed#22:53]]![[Qrsed#22:54]]
+![[Qrsd#22:51]]![[Qrsd#22:52]]![[Qrsd#22:53]]![[Qrsd#22:54]]
 ### nsx lqy $Tn (  )
 ### nsx Ayy ( )
 
@@ -26,7 +26,7 @@ Discrepancy inconsistency
 
 [Q.2:106](https://quran.com/2:106/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#2:106]]
+![[Qrsd#2:106]]
 
 ### nsy Ayy ( )
 
@@ -34,7 +34,7 @@ Discrepancy inconsistency
 
 [Q.4:82](https://quran.com/4:82/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#4:82]]
+![[Qrsd#4:82]]
 
 ### wjd xlf qrA (  )
 
@@ -47,32 +47,32 @@ All very convincing arguments no doubt. But now, ask yourself, how many of these
 
 ## 17:42
 [Q.17:42](https://quran.com/17:42/tafsirs/ar-tafsir-al-tabari)
-![[Qrsed#17:42]]
+![[Qrsd#17:42]]
 
 ## 6:71
 [Q.6:71](https://quran.com/6:71/tafsirs/ar-tafsir-al-tabari)
-![[Qrsed#6:71]]
+![[Qrsd#6:71]]
 
 ## Q:6:100
-![[Qrsed#6:100]]
-![[Qrsed#6:101]]
-![[Qrsed#6:102]]
+![[Qrsd#6:100]]
+![[Qrsd#6:101]]
+![[Qrsd#6:102]]
 
 ## 37:150
-![[Qrsed#37:149]]![[Qrsed#37:150]]![[Qrsed#37:151]]![[Qrsed#37:152]]![[Qrsed#37:153]]![[Qrsed#37:154]]![[Qrsed#37:155]]![[Qrsed#37:156]]![[Qrsed#37:157]]![[Qrsed#37:158]]
+![[Qrsd#37:149]]![[Qrsd#37:150]]![[Qrsd#37:151]]![[Qrsd#37:152]]![[Qrsd#37:153]]![[Qrsd#37:154]]![[Qrsd#37:155]]![[Qrsd#37:156]]![[Qrsd#37:157]]![[Qrsd#37:158]]
 
 ## Q:34:34
 
-![[Qrsed#34:34]]![[Qrsed#34:35]]![[Qrsed#34:40]]![[Qrsed#34:41]]
+![[Qrsd#34:34]]![[Qrsd#34:35]]![[Qrsd#34:40]]![[Qrsd#34:41]]
 
 ## Q:43:20
 
-![[Qrsed#43:15]]![[Qrsed#43:16]]![[Qrsed#43:17]]![[Qrsed#43:18]]![[Qrsed#43:19]]![[Qrsed#43:20]]![[Qrsed#43:21]]![[Qrsed#43:22]]![[Qrsed#43:23]]![[Qrsed#43:24]]
+![[Qrsd#43:15]]![[Qrsd#43:16]]![[Qrsd#43:17]]![[Qrsd#43:18]]![[Qrsd#43:19]]![[Qrsd#43:20]]![[Qrsd#43:21]]![[Qrsd#43:22]]![[Qrsd#43:23]]![[Qrsd#43:24]]
 # anti-idolatry
 
 ## 7:195
 
-![[Qrsed#7:194]]![[Qrsed#7:195]]
+![[Qrsd#7:194]]![[Qrsd#7:195]]
 
 # revelation
 
@@ -80,107 +80,107 @@ All very convincing arguments no doubt. But now, ask yourself, how many of these
 
 [Q.69:46](https://quran.com/69:46/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#69:40]]![[Qrsed#69:41]]![[Qrsed#69:42]]![[Qrsed#69:43]]![[Qrsed#69:44]]![[Qrsed#69:45]]![[Qrsed#69:46]]![[Qrsed#69:47]]
+![[Qrsd#69:40]]![[Qrsd#69:41]]![[Qrsd#69:42]]![[Qrsd#69:43]]![[Qrsd#69:44]]![[Qrsd#69:45]]![[Qrsd#69:46]]![[Qrsd#69:47]]
 ## 8:31
 
-![[Qrsed#8:30]]![[Qrsed#8:31]]
+![[Qrsd#8:30]]![[Qrsd#8:31]]
 ## 8:33
 
-![[Qrsed#8:32]]![[Qrsed#8:33]]
+![[Qrsd#8:32]]![[Qrsd#8:33]]
 # ahl kitab
 
 ## Q:7:157
 
 [Q.7:157](https://quran.com/7:157/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#7:157]]
+![[Qrsd#7:157]]
 
 ## Q:26:197
 
-![[Qrsed#26:192]]![[Qrsed#26:196]]
+![[Qrsd#26:192]]![[Qrsd#26:196]]
 
 ## Q:45:16
 
 [Q.45:16](https://quran.com/45:16/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#45:16]]
+![[Qrsd#45:16]]
 
 ## Q:29:46
 
 [Q.29:46](https://quran.com/29:46/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#29:46]]
+![[Qrsd#29:46]]
 
 ## Q:26:197
 
-![[Qrsed#26:192]]![[Qrsed#26:197]]
+![[Qrsd#26:192]]![[Qrsd#26:197]]
 
 
 ## Q:2:47
 
 [Q.2:47](https://quran.com/2:47/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#2:47]]
+![[Qrsd#2:47]]
 
 ## Q:2:59
 
 [Q.2:59](https://quran.com/2:59/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#2:58]]![[Qrsed#2:59]]
+![[Qrsd#2:58]]![[Qrsd#2:59]]
 ## Q:2:62
 
 [Q.2:62](https://quran.com/2:62/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#2:62]]
+![[Qrsd#2:62]]
 
 ## Q:2:65
 
 [Q.2:65](https://quran.com/2:65/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#2:65]]![[Qrsed#2:66]]
+![[Qrsd#2:65]]![[Qrsd#2:66]]
 ## Q:2:78
 
 [Q.2:78](https://quran.com/2:78/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#2:78]]![[Qrsed#2:80]]
+![[Qrsd#2:78]]![[Qrsd#2:80]]
 ## Q:2:122
 
 [Q.2:122](https://quran.com/2:122/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#2:122]]
+![[Qrsd#2:122]]
 
 ## Q:3:19
 
 [Q.3:19](https://quran.com/3:19/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#3:19]]![[Qrsed#3:20]]
+![[Qrsd#3:19]]![[Qrsd#3:20]]
 
 ## Q:3:75
 
 [Q.3:75](https://quran.com/3:75/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#3:75]]![[Qrsed#3:78]]![[Qrsed#3:79]]
+![[Qrsd#3:75]]![[Qrsd#3:78]]![[Qrsd#3:79]]
 ## Q:3:187
 
 [Q.3:187](https://quran.com/3:187/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#3:187]]
+![[Qrsd#3:187]]
 
 ## Q:3:199
 
 [Q.3:199](https://quran.com/3:199/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#3:199]]
+![[Qrsd#3:199]]
 ## Q:62:2
 
 [Q.62:2](https://quran.com/62:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#62:1]]![[Qrsed#62:2]]![[Qrsed#62:5]]
+![[Qrsd#62:1]]![[Qrsd#62:2]]![[Qrsd#62:5]]
 ## Q:5:43
 
 [Q.5:43](https://quran.com/5:43/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#5:43]]![[Qrsed#5:44]]![[Qrsed#5:45]]
+![[Qrsd#5:43]]![[Qrsd#5:44]]![[Qrsd#5:45]]
 
 # fight
 
@@ -188,12 +188,12 @@ All very convincing arguments no doubt. But now, ask yourself, how many of these
 
 [Q.3:154](https://quran.com/3:154/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#3:153]]![[Qrsed#3:154]]![[Qrsed#3:155]]![[Qrsed#3:156]]![[Qrsed#3:157]]![[Qrsed#3:158]]![[Qrsed#3:161]]
+![[Qrsd#3:153]]![[Qrsd#3:154]]![[Qrsd#3:155]]![[Qrsd#3:156]]![[Qrsd#3:157]]![[Qrsd#3:158]]![[Qrsd#3:161]]
 ## Q:47:4
 
 [Q.3:47:4](https://quran.com/47:4/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#47:4]]
+![[Qrsd#47:4]]
 
 # self-priority
 
@@ -201,4 +201,4 @@ All very convincing arguments no doubt. But now, ask yourself, how many of these
 
 [Q.3:161](https://quran.com/3:161/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#3:161]]
+![[Qrsd#3:161]]

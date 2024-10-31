@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/Śākta.md",
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Śākta"
+              "title": "dravida"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/Qrsed.md",
+                "file": "Ref/Qrsd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qrsed"
+              "title": "Qrsd"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/shahadat.md",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam/khiḍr mu'allami license for  greater good kṛṣṇa rāmalīlā viṣṇu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shahadat"
+              "title": "khiḍr mu'allami license for  greater good kṛṣṇa rāmalīlā viṣṇu"
             }
           },
           {
@@ -309,7 +309,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "52f2f15d1bae5ff6",
@@ -354,7 +354,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/Śākta.md"
+            "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -373,32 +373,34 @@
   },
   "active": "efa6159fdd96d63a",
   "lastOpenFiles": [
-    "Ref/kbjkmT.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/Śākta.md",
-    "Ref/MkP.md",
-    "Ref/dvMhtm.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/phenomena_god_vedic.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
     "Ref/MB.md",
-    "Ref/netT.md",
-    "Ref/NishTtSm.md",
-    "Ref/brmYmlT.md",
-    "Ref/svChndT.md",
-    "Ref/tntrSarSmgrh.md",
-    "Ref/tntrSar.md",
-    "Ref/tntrlok.md",
-    "Ref/ishSivGurDevPdh.md",
-    "Ref/MlnVjT.md",
-    "Ref/rdYmT.md",
-    "Ref/VjBhrvT.md",
-    "Ref/ttvPrk.md",
-    "Ref/TA.md",
-    "Ref/TS.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/Śākta.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/vaishnava_brahmanic.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.md",
+    "boomerang/madaripuria_genz_khil.png",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.sync-conflict-20241030-104033-AFLIAW3.md",
+    "Ref/dvMhtm.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/Pūrvamimāṃsā.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Jinn_ifrit_shetan/muhajir_revolution_vs_hindu_anticolonial_egyptian_gnostic_hellenistic_resentment.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/syncretic.md",
+    "Ref/MkP.md",
+    "Ref/vlmk.RY.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Jinn_ifrit_shetan/superior_writing_of_hinduism.md",
+    "boomerang/Hindutva.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Jinn_ifrit_shetan/spirituals.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Sāṃkhya_kabbala_ghuli.md",
-    "Ref/vmkshrT.md",
-    "Ref/ygnHrd.md",
-    "Ref/yoniT.md",
-    "Ref/klrnvT.md",
-    "Story_prompts/Movie where the laws of reciprocity keeps changing based on which side of the cult is in and everyone goes along.md",
-    "Ref/cenas.TntrSmuccy.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam/khiḍr mu'allami license for  greater good kṛṣṇa rāmalīlā viṣṇu.md",
+    "Ref/Qrsd.md",
+    "Ref/Qrsed.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/shahadat.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam/bāṭin/bāṭin 'alī.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam/bāṭin/Bāṭin ḥaqq ma'a zāhir.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam",
+    "Ref/RV.md",
     "Ref/iamb.myst/iamb.myst.eng.txt",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/mawt_al_ula",
@@ -409,7 +411,6 @@
     "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ayah/Mudra",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Qurbani",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Science",
     "Untitled.canvas",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/15194409_656388334522608_3437266025718668693_o.jpg"
   ]

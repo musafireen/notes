@@ -33,7 +33,7 @@ It is a comment of making something good from something bad, specifically death
 
 Specifically making plaything out of the products of death, a childish innocence and ignorant trivializing of death
 
-![[qrsed#102.1]]![[Qrsed#102.2]]
+![[Qrsd#102.1]]![[Qrsd#102.2]]
 Even today we use product of death, but more processed, such as petroleum, and majority is likely more distanced from their production. We also use less products from human death.
 ### dice
 Astragalus

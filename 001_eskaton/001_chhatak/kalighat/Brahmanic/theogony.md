@@ -36,6 +36,9 @@
 ![[RV#7.104#25]]
 
 ## viṣṇu
+### 1.154
+![[RV#1.154]]
+#### viṣṇu.sukta
 
 ### 1.154#1
 
@@ -147,6 +150,9 @@
 #### indra.janita
 #### viṣṇu.janitā
 ~~ soma generates dyaus, indra, viṣṇu ![[RV#9.96#5]]
+## mātā
+### 9.102#4
+![[RV#9.102#4]]
 ## visvakarma
 ### 10.82#2
 
@@ -402,8 +408,12 @@
 #### sukta
 ### 31.1-16
 
-![[VS.md#p31#1-16]]
+[[VS.md#p31#1-16]]
 
+### 31.17
+#### viśvakarmā
+#### tvaṣṭā
+![[VS.md#p31#17]]
 # taittSm
 ## rudra
 § taittariya s. - 12th-8th century BCE
@@ -507,6 +517,11 @@
 ### 2.26/2.266
 ![[JB#2.266]]
 
+# RVKhil
+## śrī
+### 5.88
+#### śrī.sukta
+[[RV#5.88]]
 # athv
 
 § atharva - 12th-6th century BCE
@@ -546,9 +561,15 @@ virocana prāhrādi vatsa of virāṭ while being milked for/as māyā by dvimur
 ### 3.17.6
 ~~ devakīputra kṛṣṇa taught death mantra by ghora āṅgirasa ![[ChU#3.17#6]]
 # ttAr
+## nārāyaṇa
+### 10.13
+#### nārāyaṇa.sukta
+![[TA#10.13]]
+## āditya
 ### 10.15
 § taittiriya āranyaka - 6-5th c. BC
-~~ āditya brahman puruṣa 
+#### brahman
+#### puruṣa
 ![[TA#10.15]]
 # mdUp
 ### 1.1.8

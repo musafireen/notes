@@ -193,15 +193,53 @@ The earth [Bhumi] is the giver of happiness like the milk cow, the sustainer of 
  मृ॒त्तिके॑ हन॑ मे पा॒पं॒ य॒न्म॒या
  दु॑ष्कृतं॒ कृतम् । मृ॒त्तिके᳚ ब्रह्म॑दत्ता॒ऽऽसि॒ का॒श्यपे॑नाभि॒मन्त्रि॑ता ।
  मृ॒त्तिके॑ देहि॑ मे पु॒ष्टिं॒ त्व॒यि स॑र्वं प्र॒तिष्ठि॑तम् ॥ ०। १०। १। ८॥
+## 10.13
+२९ स॒ह॒स्र॒शीर्॑षं दे॒वं॒ वि॒श्वाक्षं॑ वि॒श्वशं॑भुवम् । विश्वं॑
+ ना॒राय॑णं दे॒व॒म॒क्षरं॑ पर॒मं प॒दम् । वि॒श्वतः॒ पर॑मान्नि॒त्यं॒
+ वि॒श्वं ना॑राय॒णꣳ ह॑रिम् । विश्व॑मे॒वेदं पुरु॑ष॒स्तद्विश्व॒मुप॑जीवति ।
+ पतिं॒ विश्व॑स्या॒त्मेश्व॑र॒ꣳ॒ शाश्व॑तꣳ शि॒वम॑च्युतम् । ना॒राय॒णं
+ म॑हाज्ञे॒यं॒ वि॒श्वात्मा॑नं प॒राय॑णम् । ना॒राय॒ण प॑रो ज्यो॒ति॒रा॒त्मा
+ ना॑रय॒णः प॑रः । ना॒राय॒ण प॑रं ब्र॒ह्म॒त॒त्त्वं ना॑राय॒णः
+ प॑रः । ना॒राय॒ण प॑रो ध्या॒ता॒ ध्या॒नं ना॑राय॒णः प॑रः । यच्च॑
+ किं॒चिज्ज॑गथ्स॒र्वं॒ दृ॒श्यते᳚ श्रूय॒तेऽपि॑ वा ॥ ०। १०। १३। २९॥
+
+३० अन्त॑र्ब॒हिश्च॑ तथ्स॒र्वं॒ व्या॒प्य ना॑राय॒णस्स्थि॑तः ।
+ अन॑न्त॒मव्य॑यं क॒विꣳ स॑मु॒द्रेऽन्तं॑ वि॒श्वश॑म्भुवम् ।
+ प॒द्म॒को॒शप्र॑तीका॒श॒ꣳ॒ हृ॒दयं॑ चाप्य॒धोमु॑खम् । अधो॑
+ नि॒ष्ट्या वित॑स्त्या॒न्ते॒ ना॒भ्यामु॑परि॒ तिष्ठ॑ति । ज्वा॒ल॒मा॒लाकु॑लं
+ भा॒ती॒ वि॒श्वस्या॑यत॒नं म॑हत् । सन्त॑तꣳ शि॒लाभि॑स्तु॒
+ लम्ब॑त्याकोश॒सन्नि॑भम् । तस्यान्ते॑ सुषि॒रꣳ सू॒क्ष्मं तस्मि᳚न्थ्स॒र्वं
+ प्रति॑ष्ठितम् । तस्य॒ मध्ये॑ म॒हान॑ग्निर्वि॒श्वार्चि॑र्वि॒श्वतो॑मुखः
+ । सोऽग्र॑भु॒ग्विभ॑जन्ति॒ष्ठ॒न्नाहा॑रमज॒रः क॒विः ।
+ ति॒र्य॒गू॒र्ध्वम॑धः शा॒यी॒ र॒श्मय॑स्तस्य॒ सन्त॑ता । स॒न्ता॒पय॑ति स्वं
+ दे॒हमापा॑दतल॒मस्त॑कः । तस्य॒ मध्ये॒ वह्नि॑शिखा अ॒णीयो᳚र्ध्वा व्य॒वस्थि॑तः ।
+ नी॒लतो॑यद॑मध्य॒स्था॒द्वि॒द्युल्ले॑खेव॒ भास्व॑रा । नी॒वार॒शूक॑वत्त॒न्वी॒
+ पी॒ता भा᳚स्वत्य॒णूप॑मा । तस्याः᳚ शिखा॒या म॑ध्ये प॒रमा᳚त्मा व्य॒वस्थि॑तः ।
+ स ब्रह्म॒ स शिवः॒ स हरिः॒ सेन्द्रः॒ सोऽक्ष॑रः पर॒मस्स्व॒राट् ॥ ०। १०। १३। ३०॥ अपि॑ वा॒ सन्त॑ता॒ षट्च॑ ॥ १३॥
 
 ## 10.15
 #### 32
-३२ आ॒दि॒त्यो वै तेज॒ ओजो॒ बलं॒ यश॒श्चक्षुः॒ श्रोत्र॑मा॒त्मा मनो॑
- म॒न्युर्मनु॑र्मृ॒त्युः स॒त्यो मि॒त्रो वा॒युरा॑का॒शः प्रा॒णो लो॑कपा॒लः
- कः किं कं तथ्स॒त्यमन्न॑म॒मृतो॑ जी॒वो विश्वः॑ कत॒मः स्व॑यं॒भु
- ब्रह्मै॒तदमृ॑त ए॒ष पुरु॑ष ए॒ष भू॒ताना॒मधि॑पति॒र्ब्रह्म॑णः॒
- सायु॑ज्यꣳ सलो॒कता॑माप्नोत्ये॒तासा॑मे॒व दे॒वता॑ना॒ꣳ॒ सायु॑ज्यꣳ
- सा॒र्ष्टिताꣳ॑ समानलो॒कता॑माप्नोति॒ य ए॒वं वेदे᳚त्युप॒निषत् ॥ ०। १०। १५। ३२॥
+३२ आ॒दि॒त्यो वै 
 
-Aditya is verily all these — energy, splendour strength, reown, sight, hearing, body, mind, anger, Seer, Dēvas, the deities of Death, Satya, Mitra, Vāyu, Ākaśa (space), Praṇa (life energis), the ruler of the worlds, the Indeterminable one, happiness that transcends the senses, truth, food, life span, Immortality (established in Brahma), Jīva (the individual soul), the Universe, blish, and the self born Brahma. This Puruṣa (Sūrya) is eternal. He is Lord of all creatures. He who meditates upon him attains Brahma and lives in the same region of enjoyment with him. He attains union, co-residence and enjoyment with the Dēvas in their worlds. The secret knowledge is thus imparted.
+Aditya is verily all these — 
+
+तेज॒ ओजो॒ बलं॒ यश॒श्चक्षुः॒ श्रोत्र॑मा॒त्मा मनो॑ म॒न्युर्मनु॑र्मृ॒त्युः स॒त्यो मि॒त्रो वा॒युरा॑का॒शः प्रा॒णो लो॑कपा॒लः
+
+energy, splendour strength, reown, sight, hearing, body, mind, anger, Seer, Dēvas, the deities of Death, Satya, Mitra, Vāyu, Ākaśa (space), Praṇa (life energis), the ruler of the worlds, 
+
+कः किं कं तथ्स॒त्यमन्न॑म॒मृतो॑ जी॒वो विश्वः॑ कत॒मः स्व॑यं॒भु ब्रह्मै॒तदमृ॑त 
+
+the Indeterminable one, happiness that transcends the senses, truth, food, life span, Immortality (established in Brahma), Jīva (the individual soul), the Universe, blish, and the self born Brahma. 
+
+ए॒ष पुरु॑ष ए॒ष भू॒ताना॒मधि॑पति॒र्ब्रह्म॑णः॒ सायु॑ज्यꣳ सलो॒कता॑माप्नोत्ये॒तासा॑मे॒व 
+ 
+This Puruṣa (Sūrya) is eternal. He is Lord of all creatures. He who meditates upon him attains Brahma and lives in the same region of enjoyment with him. 
+
+दे॒वता॑ना॒ꣳ॒ सायु॑ज्यꣳ सा॒र्ष्टिताꣳ॑ समानलो॒कता॑माप्नोति॒ 
+
+He attains union, co-residence and enjoyment with the Dēvas in their worlds. 
+
+य ए॒वं वेदे᳚त्युप॒निषत् ॥ ०। १०। १५। ३२॥
+
+The secret knowledge is thus imparted.
 

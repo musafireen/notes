@@ -1,6 +1,19 @@
 
 https://www.wisdomlib.org/hinduism/book/the-skanda-purana
 
+# k1
+## u3b
+### c19
+##### 52
+After recounting the invincibility of the wicked Daitya in the guise of a buffalo by means of his Māyā all the seven Mothers eulogized Goddess Durgā thus:
+
+##### 53
+“O Goddess, you lie concealed within the lotus-like eyes of Viṣṇu in the form of Yoganidrā (‘transcendental Yogic slumber’) sportfully like a honey-bee.
+##### 55
+If you had not been born as Kauśikī bringing about the death of Śuṃbha and Niśuṃbha, O Goddess, how could the glory and prosperity of the Guardians of Quarters have been regained?
+##### 56
+O Vindhyavāsinī (‘Resident of Vindhya’), what fruitful penance has been performed by Vindhya where a friendship with you can be acquired even by the Kirātīs (‘huntresses’)!
+![[RV#b10#10.125]]
 # a5
 ## c3
 ### 121-124

@@ -3,7 +3,7 @@
 
 [Q.50:14](https://quran.com/50:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#50:14]]
+![[Qrsd#50:14]]
 
 ## tub~aE (Tubba)
 
@@ -11,4 +11,4 @@
 
 [Q.44:37](https://quran.com/44:37/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#44:37]]
+![[Qrsd#44:37]]

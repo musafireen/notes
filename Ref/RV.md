@@ -5,6 +5,12 @@ https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/rv/mt/rv.htm
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/
 
 # b1.51-191
+## 1.20
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829078.html
+#### 6
+उ॒त त्यं च॑म॒सं नवं॒ त्वष्टु॑र्दे॒वस्य॒ निष्कृ॑तम् । अक॑र्त च॒तुर॒: पुन॑: ॥
+
+“The Ṛbhus have divided unto four the new ladle, the work of the divine Tvaṣṭā
 ## 1.54
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829558.html
 #### 3
@@ -25,6 +31,14 @@ You have protected Narya, Turvaśa, Yadu and Turvīti, of the face of Vayya; you
 The darkness obstructed the current of the waters; the cloud was within the belly of Vṛtra; but Indra precipitated all the waters which the obstructor had concealed, in succession, down to the hollows (of the earth).
 ## 1.61
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829617.html
+#### 5
+अ॒स्मा इदु॒ सप्ति॑मिव श्रव॒स्येन्द्रा॑या॒र्कं जु॒ह्वा॒३॒॑ सम॑ञ्जे । वी॒रं दा॒नौक॑सं व॒न्दध्यै॑ पु॒रां गू॒र्तश्र॑वसं द॒र्माण॑म् ॥
+
+“To propitiate that Indra for the sake of food, I combinepraise with utterance, as (a man harnesses) a horse (to a car), in order to celebrate the heroic, munificent, and food-conferring Indra, the destroyer of the cities (of the asuras).”
+#### 6
+अ॒स्मा इदु॒ त्वष्टा॑ तक्ष॒द्वज्रं॒ स्वप॑स्तमं स्व॒र्यं१॒॑ रणा॑य । वृ॒त्रस्य॑ चिद्वि॒दद्येन॒ मर्म॑ तु॒जन्नीशा॑नस्तुज॒ता कि॑ये॒धाः ॥
+
+“For that Indra, verily Tvaṣṭā sharpened the well-acting, sure-aimed (vajra) thunderbolt for the battle, with which fatal (weapon) the foe-subduing and mighty sovereign severed the limbs of Vṛtra.”
 #### 16
 ए॒वा ते॑ हारियोजना सुवृ॒क्तीन्द्र॒ ब्रह्मा॑णि॒ गोत॑मासो अक्रन् । ऐषु॑ वि॒श्वपे॑शसं॒ धियं॑ धाः प्रा॒तर्म॒क्षू धि॒याव॑सुर्जगम्यात् ॥
 
@@ -50,6 +64,20 @@ The descendants of Rāhugaṇa have recited sweet speeches to Agni;
 द्यु॒म्नैर॒भि प्र णो॑नुमः ॥
 
 we praise him repeatedly with commendatory (hymns).
+## 1.84
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829862.html
+#### 13
+इन्द्रो॑ दधी॒चो अ॒स्थभि॑र्वृ॒त्राण्यप्र॑तिष्कुतः । ज॒घान॑ नव॒तीर्नव॑ ॥
+
+“Indra, with the bones of Dadhīci, slew ninety times nine Vṛtras.”
+#### 14
+इ॒च्छन्नश्व॑स्य॒ यच्छिर॒: पर्व॑ते॒ष्वप॑श्रितम् । तद्वि॑दच्छर्य॒णाव॑ति ॥
+
+“Wishing for the horse's head hidden in the mountains, he found is Śaryaṇāvat.”
+#### 15
+अत्राह॒ गोर॑मन्वत॒ नाम॒ त्वष्टु॑रपी॒च्य॑म् । इ॒त्था च॒न्द्रम॑सो गृ॒हे ॥
+
+“The (solar rays) found on this occasion the light of Tvaṣṭā verily concealed in the mansion of the moving moon.”
 ## 1.92
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829966.html
 #### 8
@@ -160,26 +188,42 @@ who sustained the (uttara) lofty (sadhastha) aggregate site (of the spheres); (t
 “Viṣṇu is therefore (stava) glorified, that by his (vīrya) prowess he is like a (bhīma) fearful, (kucara) ravenous, and (giriṣṭhā) mountain-haunting (mṛga) wild beast, 
 
 यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा॑ ॥
+
 and because of that in his three (urū) wide (vikrama) paces (viśva) all (bhūvana) worlds (kṣaya) abide.”
 #### 3
 प्र विष्ण॑वे शू॒षमे॑तु॒ मन्म॑ गिरि॒क्षित॑ उरुगा॒याय॒ वृष्णे॑ । 
+
 “May (manma) acceptable (śuṣa) vigour attend Viṣṇu, who (girikṣita) abides in prayer, the (urūgāya) hymned of many, the (vṛṣṇa) showerer (of benefits), 
 
 य इ॒दं दी॒र्घं प्रय॑तं स॒धस्थ॒मेको॑ विम॒मे त्रि॒भिरित्प॒देभि॑: ॥
+
 who (eka) alone (vimāna) made, by (tri) three (pada) steps, this (dīrgha) spacious and (prayata) durable (sadhastha) aggregate (of the three worlds).”
 #### 4
 यस्य॒ त्री पू॒र्णा मधु॑ना प॒दान्यक्षी॑यमाणा स्व॒धया॒ मद॑न्ति । 
+
 “Whose three (kṣaya) imperishable (pada) paces, (pūrṇa) filled with (madhu) ambrosia, (mada) delight (mankind) with (svadhā) sacred food; 
 
 य उ॑ त्रि॒धातु॑ पृथि॒वीमु॒त द्यामेको॑ दा॒धार॒ भुव॑नानि॒ विश्वा॑ ॥
+
 who verily (eka) alone (dhara) upholds the three (dhātu) elements, and (pṛthivī) earth and (dyaus) heaven (viśva) (bhūvana).”
 #### 5
 तद॑स्य प्रि॒यम॒भि पाथो॑ अश्यां॒ नरो॒ यत्र॑ देव॒यवो॒ मद॑न्ति । 
+
 “May I attain his (priya) favourite (patha) path, in which (deva yu) god-seeking (nṛ) men (madana) delight; 
 
 उ॒रु॒क्र॒मस्य॒ स हि बन्धु॑रि॒त्था विष्णो॑: प॒दे प॑र॒मे मध्व॒ उत्स॑: ॥
+
 (the path) of that (urūkrama) wide-stepping Viṣṇu, in whose (parama) exalted (pada) station there is a (perpetual) (madhu?) flow of felicity; for to such a degree is he the (bandhu) friend (of the pious).”
 ### ?
+#### 6
+ता वां॒ वास्तू॑न्युश्मसि॒ गम॑ध्यै॒ यत्र॒ गावो॒ भूरि॑शृङ्गा अ॒यास॑: । 
+
+We (vaś) pray (to Viṣṇu) that you may both (gam) go to those (vāstu) regions where the (bhuriśṛṅga) many-pointed and (ayās) wide-spreading (go) rays (of light expand); 
+
+अत्राह॒ तदु॑रुगा॒यस्य॒ वृष्ण॑: पर॒मं प॒दमव॑ भाति॒ भूरि॑ ॥
+
+for here the (parama) supreme (pada) station of the (urugāya) many-hymned, the (vṛṣan) showerer (of benefits), (bhā) shines (with) (bhuri) great (splendour).
+
 ## 1.155
 #### 6
 च॒तुर्भि॑: सा॒कं न॑व॒तिं च॒ नाम॑भिश्च॒क्रं न वृ॒त्तं व्यतीँ॑रवीविपत् । 
@@ -195,6 +239,15 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830672
 न मा॑ गरन्न॒द्यो॑ मा॒तृत॑मा दा॒सा यदीं॒ सुस॑मुब्धम॒वाधु॑: । शिरो॒ यद॑स्य त्रैत॒नो वि॒तक्ष॑त्स्व॒यं दा॒स उरो॒ अंसा॒वपि॑ ग्ध ॥
 
 Let not the maternal waters swallow me, since the slaves hurled down this decrepit (old man); in like manner as Traitana wounded his head, so has the slave wounded his own, and has struck his breast and shoulders.
+## 1.161
+#### 5
+हना॑मैनाँ॒ इति॒ त्वष्टा॒ यदब्र॑वीच्चम॒सं ये दे॑व॒पान॒मनि॑न्दिषुः । अ॒न्या नामा॑नि कृण्वते सु॒ते सचाँ॑ अ॒न्यैरे॑नान्क॒न्या॒३॒॑ नाम॑भिः स्परत् ॥
+
+“When Tvaṣṭā said: let us slay those who have profaned the ladle, (designed) for the drinking of the gods; then they made use of other names for one another as the libation was poured out; and the maiden (mother) propitiated them by different appellations.”
+#### 6
+इन्द्रो॒ हरी॑ युयु॒जे अ॒श्विना॒ रथं॒ बृह॒स्पति॑र्वि॒श्वरू॑पा॒मुपा॑जत । ऋ॒भुर्विभ्वा॒ वाजो॑ दे॒वाँ अ॑गच्छत॒ स्वप॑सो य॒ज्ञियं॑ भा॒गमै॑तन ॥
+
+“Indra has caparisoned his horses; the Aśvins have harnessed their car; Bṛhaspati has accepted the omniform (cow); therefore, Ṛbhu, Vibhva and Vāja, go the gods, doers of good deeds, enjoy your sacrificial portion.”
 ## 1.163
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830731.html
 #### 2
@@ -269,6 +322,22 @@ Desire, either from this cause or from that, has come upon me whilst engaged in 
 अ॒गस्त्य॒: खन॑मानः ख॒नित्रै॑: प्र॒जामप॑त्यं॒ बल॑मि॒च्छमा॑नः । उ॒भौ वर्णा॒वृषि॑रु॒ग्रः पु॑पोष स॒त्या दे॒वेष्वा॒शिषो॑ जगाम ॥
 
 Agastya, a venerable sage, working with (fit) implements, desiring progeny, offspring, and strength, practised both classes (of obligations), and received true benedictions from the gods.
+## 1.184
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840419.html
+#### 1
+विष्णु॒र्योनिं॑ कल्पयतु॒ त्वष्टा॑ रू॒पाणि॑ पिंशतु । आ सि॑ञ्चतु प्र॒जाप॑तिर्धा॒ता गर्भं॑ दधातु ते ॥
+
+“May Viṣṇu (kalp) construct the (yoni) womb, may Tvaṣṭā (piṃś) fabricate the members, may Prajāpati (sinc) sprinkle (theseed), may Dhātā cherish your (garbha) embryo.”
+## 1.188
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831015.html
+#### 9
+त्वष्टा॑ रू॒पाणि॒ हि प्र॒भुः प॒शून्विश्वा॑न्त्समान॒जे । 
+
+“Tvaṣṭā, who is the master (in fashioning) the forms (of beings), has made all animals distinct; 
+
+तेषां॑ नः स्फा॒तिमा य॑ज ॥
+
+grant us, (Tvaṣṭa), their increase.”
 # b2
 ## 2.11
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831162.html
@@ -376,6 +445,12 @@ The daughter of Sūrya given by Jamadagni gliding everywhere and dissipating ign
 स॒स॒र्प॒रीरम॑तिं॒ बाध॑माना बृ॒हन्मि॑माय ज॒मद॑ग्निदत्ता । आ सूर्य॑स्य दुहि॒ता त॑तान॒ श्रवो॑ दे॒वेष्व॒मृत॑मजु॒र्यम् ॥
 
 May she, gliding everywhere, quickly bring us food (suited) to the five races of men; may she, the daughter of the sun whom the grey-haired jamadagnis gave to me, (be) the bestower of new life.
+## 3.55
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832121.html
+#### 9
+दे॒वस्त्वष्टा॑ सवि॒ता वि॒श्वरू॑पः पु॒पोष॑ प्र॒जाः पु॑रु॒धा ज॑जान । इ॒मा च॒ विश्वा॒ भुव॑नान्यस्य म॒हद्दे॒वाना॑मसुर॒त्वमेक॑म् ॥
+
+“The divine Tvaṣṭā the impeller (of all), the multiform, has begotten and nourished a numerous progeny, for all these worlds are of him; great and unequalled is the might of the gods.”
 ## 3.62
 #### 1
 इ॒मा उ॑ वां भृ॒मयो॒ मन्य॑माना यु॒वाव॑ते॒ न तुज्या॑ अभूवन् । क्व१॒॑ त्यदि॑न्द्रावरुणा॒ यशो॑ वां॒ येन॑ स्मा॒ सिनं॒ भर॑थ॒: सखि॑भ्यः ॥
@@ -569,6 +644,16 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc833351
 प्र श्या॑वाश्व धृष्णु॒यार्चा॑ म॒रुद्भि॒ॠक्व॑भिः । ये अ॑द्रो॒घम॑नुष्व॒धं श्रवो॒ मद॑न्ति य॒ज्ञिया॑: ॥
 
 # b6
+## 6.17
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc833868.html
+#### 9
+अध॒ द्यौश्चि॑त्ते॒ अप॒ सा नु वज्रा॑द्द्वि॒तान॑मद्भि॒यसा॒ स्वस्य॑ म॒न्योः । अहिं॒ यदिन्द्रो॑ अ॒भ्योह॑सानं॒ नि चि॑द्वि॒श्वायु॑: श॒यथे॑ ज॒घान॑ ॥
+
+“The heaven bowed down in the two-fold dread of your thunderbolt, and your individual wrath, when Indra, the giver of food, struck to the sleep (of death) the assailing Ahi.”
+#### 10
+अध॒ त्वष्टा॑ ते म॒ह उ॑ग्र॒ वज्रं॑ स॒हस्र॑भृष्टिं ववृतच्छ॒ताश्रि॑म् । निका॑मम॒रम॑णसं॒ येन॒ नव॑न्त॒महिं॒ सं पि॑णगृजीषिन् ॥
+
+“Fierce Indra, Tvaṣṭā constructed for you, the mighty one, the thousand-edged, the hundred-angled thunderbolt, wherewith you have crushed the ambitious audacious, loud-shouting Ahi.”
 ## 6.33
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc834037.html
 #### 3
@@ -776,6 +861,12 @@ Consecrated for the sacrifice, propitiated by praises, they, Mitra and Varuṇa,
 उ॒क्थ॒भृतं॑ साम॒भृतं॑ बिभर्ति॒ ग्रावा॑णं॒ बिभ्र॒त्प्र व॑दा॒त्यग्रे॑ । उपै॑नमाध्वं सुमन॒स्यमा॑ना॒ आ वो॑ गच्छाति प्रतृदो॒ वसि॑ष्ठः ॥
 
 Pratṛts, Agastya comes to you; welcome him with devoted minds, and he in the foremost station directsthe reciter of the prayer, the chanter of the hymn, the grinder of the stone, and repeats (what is to be repeated).
+## 7.34
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc834859.html
+#### 20
+आ यन्न॒: पत्नी॒र्गम॒न्त्यच्छा॒ त्वष्टा॑ सुपा॒णिर्दधा॑तु वी॒रान् ॥
+
+“When the wives (of the gods) come before us, may the dextrous Tvaṣṭā grant us male progeny.”
 ## 7.83
 #### 4
 इन्द्रा॑वरुणा व॒धना॑भिरप्र॒ति भे॒दं व॒न्वन्ता॒ प्र सु॒दास॑मावतम् । ब्रह्मा॑ण्येषां शृणुतं॒ हवी॑मनि स॒त्या तृत्सू॑नामभवत्पु॒रोहि॑तिः ॥
@@ -989,13 +1080,28 @@ The shining Agni has appeared, the bearer of the oblation, with his chariot; Agn
 # b9
 ## 9.25
 #### 1
+## 9.78
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838054.html
+#### 3
+स॒मु॒द्रिया॑ अप्स॒रसो॑ मनी॒षिण॒मासी॑ना अ॒न्तर॒भि सोम॑मक्षरन् । ता ईं॑ हिन्वन्ति ह॒र्म्यस्य॑ स॒क्षणिं॒ याच॑न्ते सु॒म्नं पव॑मान॒मक्षि॑तम् ॥
 
+“The nymphs of the firmament seated in the midst flow towards the sagacious Soma; they cherish him the sprinkler of the hall of sacrifice; (the worshippers) solicit  Pavamāna (the undecaying) for a boon.”
 ## 9.96
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838229.html
 #### 5
 सोम॑: पवते जनि॒ता म॑ती॒नां ज॑नि॒ता दि॒वो ज॑नि॒ता पृ॑थि॒व्याः । ज॒नि॒ताग्नेर्ज॑नि॒ता सूर्य॑स्य जनि॒तेन्द्र॑स्य जनि॒तोत विष्णो॑: ॥
 
 “The Soma (pavana) flows, the (jāti) generator of (mati) praises, the generator of (dyaus) heaven, the generator of the (pṛthivī) earth, the generator of Agni, the generator of the (sūrya) sun, the generator of Indra, and the generator of Viṣṇu.”
+## 9.102
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838357.html
+#### 4
+ज॒ज्ञा॒नं स॒प्त मा॒तरो॑ वे॒धाम॑शासत श्रि॒ये । 
+
+“The seven mothers instruct the (Soma) the institutor (of the sacrifice) when born for the prosperity (of the worshippers) 
+
+अ॒यं ध्रु॒वो र॑यी॒णां चिके॑त॒ यत् ॥
+
+to that this firm Soma is cognizant of riches. [”
 ## 9.113
 #### 3
 प॒र्जन्य॑वृद्धं महि॒षं तं सूर्य॑स्य दुहि॒ताभ॑रत् । 
@@ -1004,6 +1110,63 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838229
 तं ग॑न्ध॒र्वाः प्रत्य॑गृभ्ण॒न्तं सोमे॒ रस॒माद॑धु॒रिन्द्रा॑येन्दो॒ परि॑ स्रव ॥
 the gandharva seized upon it and placed the (rasa) juice in the Soma; (srāva) flow, Indu, for Indra.”
 # b10
+## 10.10
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838585.html
+#### 3
+उ॒शन्ति॑ घा॒ ते अ॒मृता॑स ए॒तदेक॑स्य चित्त्य॒जसं॒ मर्त्य॑स्य । 
+
+“(Yami speaks). The immortals take pleasure in (a union) like this which is forbidden to every mortal; 
+
+नि ते॒ मनो॒ मन॑सि धाय्य॒स्मे जन्यु॒: पति॑स्त॒न्व१॒॑मा वि॑विश्याः ॥
+
+let your mind then concur with mine, and as the progenitor (of all) was the husband (of his daughter), do you enjoy my person.”
+#### 4
+न यत्पु॒रा च॑कृ॒मा कद्ध॑ नू॒नमृ॒ता वद॑न्तो॒ अनृ॑तं रपेम । 
+
+“(Yama speak). We have not done what was done formerly; for how can we who speak truth, utter now that which is untrue? 
+
+ग॒न्ध॒र्वो अ॒प्स्वप्या॑ च॒ योषा॒ सा नो॒ नाभि॑: पर॒मं जा॒मि तन्नौ॑ ॥
+
+Gandharva (the sun) was in the watery (firmament), and the water was his bride. She is ourcommon hence our near affinity.”
+#### 5
+गर्भे॒ नु नौ॑ जनि॒ता दम्प॑ती कर्दे॒वस्त्वष्टा॑ सवि॒ता वि॒श्वरू॑पः । नकि॑रस्य॒ प्र मि॑नन्ति व्र॒तानि॒ वेद॑ नाव॒स्य पृ॑थि॒वी उ॒त द्यौः ॥
+
+“(Yami speaks). The divine omniform generator Tvaṣṭā, the progenitor, made us two husband and wife, even in the womb: none frustrate his undertaking; earth and heaven are conscious of this our (union).”
+#### 7
+य॒मस्य॑ मा य॒म्यं१॒॑ काम॒ आग॑न्त्समा॒ने योनौ॑ सह॒शेय्या॑य । जा॒येव॒ पत्ये॑ त॒न्वं॑ रिरिच्यां॒ वि चि॑द्वृहेव॒ रथ्ये॑व च॒क्रा ॥
+
+“(Yami speaks). The desire of Yama has approached me Yamī, to lie with him in the same bed; I willabandon my person n as a wife to her husband; let us exert ourselves in union like the two wheels of a wagon.”
+## 10.17
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838673.html
+### 1-2
+#### 1
+त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं कृ॑णो॒तीती॒दं विश्वं॒ भुव॑नं॒ समे॑ति । 
+
+“Tvaṣṭā celebrates the marriage of his daughter; therefore, the whole world is assembled; 
+
+य॒मस्य॑ मा॒ता प॑र्यु॒ह्यमा॑ना म॒हो जा॒या विव॑स्वतो ननाश ॥
+
+but the mother of Yama, the newly-married wife of the mighty Vivasvat, disappeared.”
+#### 2
+अपा॑गूहन्न॒मृतां॒ मर्त्ये॑भ्यः कृ॒त्वी सव॑र्णामददु॒र्विव॑स्वते । 
+
+“The gods concealing the immortal (Sarṇyū) for the sake of mortals and having formed her, gave her to Vivasvat. 
+
+उ॒ताश्विना॑वभर॒द्यत्तदासी॒दज॑हादु॒ द्वा मि॑थु॒ना स॑र॒ण्यूः ॥
+
+She bore the two Aśvins when this had happened and then Saraṇyū gave birth to two twins.”
+### ?
+## 10.34
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838880.html
+##### 1
+प्रा॒वे॒पा मा॑ बृह॒तो मा॑दयन्ति प्रवाते॒जा इरि॑णे॒ वर्वृ॑तानाः । 
+
+“The large rattling dice exhilarate me as torrents borne on a precipice flowing in a desert; 
+
+सोम॑स्येव मौजव॒तस्य॑ भ॒क्षो वि॒भीद॑को॒ जागृ॑वि॒र्मह्य॑मच्छान् ॥
+
+the excitingdice animate me as the taste of the Soma of Maujavat (delights the gods).”
+
 ## 10.64
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839234.html
 
@@ -1028,10 +1191,22 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839357
 tvaṃ jaghantha namucim makhasyuṃ dāsaṃ kṛṇvāna ṛṣaye vimāyam | tvaṃ cakartha manave syonān patho devatrāñjaseva yānān
 ## 10.81
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839429.html
+#### 2
+किं स्वि॑दासीदधि॒ष्ठान॑मा॒रम्भ॑णं कत॒मत्स्वि॑त्क॒थासी॑त् । यतो॒ भूमिं॑ ज॒नय॑न्वि॒श्वक॑र्मा॒ वि द्यामौर्णो॑न्महि॒ना वि॒श्वच॑क्षाः ॥
+
+“What was the station? What was the material? How was (it done)? So that the beholder of all,Viśvakarman (was) generating and disclosed heaven by his might.”
 #### 3
 वि॒श्वत॑श्चक्षुरु॒त वि॒श्वतो॑मुखो वि॒श्वतो॑बाहुरु॒त वि॒श्वत॑स्पात् । सं बा॒हुभ्यां॒ धम॑ति॒ सं पत॑त्रै॒र्द्यावा॒भूमी॑ ज॒नय॑न्दे॒व एक॑: ॥
 
 Having eyes everywhere, and having a face everywhere, having arms everywhere, and having feeteverywhere, he traverses (heaven) with his arms, (earth) with his swift-moving (feet), and exists a god without companion generating heaven and earth.
+#### 5
+या ते॒ धामा॑नि पर॒माणि॒ याव॒मा या म॑ध्य॒मा वि॑श्वकर्मन्नु॒तेमा । शिक्षा॒ सखि॑भ्यो ह॒विषि॑ स्वधावः स्व॒यं य॑जस्व त॒न्वं॑ वृधा॒नः ॥
+
+“Grant to your friends, Viśvakarman, at the oblation, your best, your worst and your intermediate forms,and to these do you yourself, possessor of the oblation, becoming augmented in person n (by oblations), offerworship.”
+#### 6
+विश्व॑कर्मन्ह॒विषा॑ वावृधा॒नः स्व॒यं य॑जस्व पृथि॒वीमु॒त द्याम् । मुह्य॑न्त्व॒न्ये अ॒भितो॒ जना॑स इ॒हास्माकं॑ म॒घवा॑ सू॒रिर॑स्तु ॥
+
+“VIśvakarman, magnified by the oblation, do you of yourself worship earth and heaven; let other men(who offer no oblations) be everywhere confounded; may he, rich in oblations, be the granter of heaven at thisour (sacrifice).”
 ## 10.82
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839437.html
 #### 1
@@ -1106,7 +1281,7 @@ Destroy the [Yātudhānas](https://www.wisdomlib.org/definition/yatudhana#hindui
 
 The Yātudhāna, who (samaṅk) fills himself with the (kraviṣ) flesh (pauruṣeya) of man, and he who fills himself with the flesh of (aśva) horses or of other (paśu) animals, and he who (bhar) steals the (kṣīra) milk of the (aghnya) cow-- cut off their (śīrṣa) heads with your (agni) flame.
 ## 10.90
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839599.html
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839598.html
 #### 1
 स॒हस्र॑शीर्षा॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात् । स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद्दशाङ्गु॒लम् ॥
 
@@ -1256,6 +1431,20 @@ to whom (vaśa) vigorous (aśva) horses and (ṛṣabha) bulls and (ukṣan) bar
 की॒ला॒ल॒पे सोम॑पृष्ठाय वे॒धसे॑ हृ॒दा म॒तिं ज॑नये॒ चारु॑म॒ग्नये॑ ॥
 
 to Agni, I (jan) offer (cāru) graceful (mati) praise with all my (hrd) heart, the (pa) drinker of (kīlāla) water, whose (pṛṣṭha) back is sprinkled with Soma, the (vedhas) ordainer (of the rite).
+## 10.95
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839678.html
+#### 2
+किमे॒ता वा॒चा कृ॑णवा॒ तवा॒हं प्राक्र॑मिषमु॒षसा॑मग्रि॒येव॑ । 
+
+“(Ūrvaśī. What can we accomplish through such discourse? I have passed away from you like thefirst of the dawns. 
+
+पुरू॑रव॒: पुन॒रस्तं॒ परे॑हि दुराप॒ना वात॑ इवा॒हम॑स्मि ॥
+
+Return Purūravā, to your dwelling; I am as hard to catch as the wind.”
+#### 4
+सा वसु॒ दध॑ती॒ श्वशु॑राय॒ वय॒ उषो॒ यदि॒ वष्ट्यन्ति॑गृहात् । अस्तं॑ ननक्षे॒ यस्मि॑ञ्चा॒कन्दिवा॒ नक्तं॑ श्नथि॒ता वै॑त॒सेन॑ ॥
+
+“(Ūrvaśi). If, Uṣas, this Ūrvaśī, offering food and wealth to her father-in-law, loves (her husband),she has gone from the neighbouring house to her husband's home, where she loved (her lord), being delightednight and day by his embraces.”
 ## 10.121
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840003.html
 #### 1
@@ -1363,7 +1552,12 @@ may that object of our (kāma) desires for which we (homa) sacrifice to you be o
 
 व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 may we be the (pati) possessors of (rayī) riches.”
+## 10.123
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840022.html
+#### 5
+अ॒प्स॒रा जा॒रमु॑पसिष्मिया॒णा योषा॑ बिभर्ति पर॒मे व्यो॑मन् । चर॑त्प्रि॒यस्य॒ योनि॑षु प्रि॒यः सन्त्सीद॑त्प॒क्षे हि॑र॒ण्यये॒ स वे॒नः ॥
 
+“The Apsaras, smiling affectionately like a wife at her lover, cherishes him in the highest heaven; she wanders in the abodes of her beloved; he, Vena, being loved, sits, down on his golden wing.”
 ## 10.124
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840031.html
 #### 1
@@ -1383,43 +1577,76 @@ Beholding the guest of another family, I have created the manifold abodes of sac
 
 These asuras were deprived of their magical power; if you, Varuṇa, desire me, (then), O king,separating truth from falsehood, come and enjoy sovereignty over my realm.
 ## 10.125
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840041.html
 #### 1
-अ॒हं रु॒द्रेभि॒र्वसु॑भिश्चराम्य॒हमा॑दि॒त्यैरु॒त वि॒श्वदे॑वैः । अ॒हं मि॒त्रावरु॑णो॒भा बि॑भर्म्य॒हमि॑न्द्रा॒ग्नी अ॒हम॒श्विनो॒भा ॥
+अ॒हं रु॒द्रेभि॒र्वसु॑भिश्चराम्य॒हमा॑दि॒त्यैरु॒त वि॒श्वदे॑वैः । 
 
-“I proceed with the Rudras, with the Vasus, with the Ādityas, and with the Viśvedevās; I support both Mitra and Varuṇa, Agni and Indra, and the two Aśvinṣ”
+“I proceed with the Rudras, with the Vasus, with the Ādityas, and with the Viśvedevās; 
+
+अ॒हं मि॒त्रावरु॑णो॒भा बि॑भर्म्य॒हमि॑न्द्रा॒ग्नी अ॒हम॒श्विनो॒भा ॥
+
+I support both Mitra and Varuṇa, Agni and Indra, and the two Aśvinṣ”
 #### 2
-अ॒हं सोम॑माह॒नसं॑ बिभर्म्य॒हं त्वष्टा॑रमु॒त पू॒षणं॒ भग॑म् । अ॒हं द॑धामि॒ द्रवि॑णं ह॒विष्म॑ते सुप्रा॒व्ये॒३॒॑ यज॑मानाय सुन्व॒ते ॥
+अ॒हं सोम॑माह॒नसं॑ बिभर्म्य॒हं त्वष्टा॑रमु॒त पू॒षणं॒ भग॑म् । 
 
-“I support the foe-destroying Soma, Tvaṣṭā, Pūṣan and Bhaga; I bestow wealth upon the instrumental tutorof the rite offering the oblation, deserving of careful protection, pouring forth the libation.”
+“I support the foe-destroying Soma, Tvaṣṭā, Pūṣan and Bhaga; 
+
+अ॒हं द॑धामि॒ द्रवि॑णं ह॒विष्म॑ते सुप्रा॒व्ये॒३॒॑ यज॑मानाय सुन्व॒ते ॥
+
+I bestow wealth upon the institutor of the rite offering the oblation, deserving of careful protection, pouring forth the libation.”
 
 #### 3
-अ॒हं राष्ट्री॑ सं॒गम॑नी॒ वसू॑नां चिकि॒तुषी॑ प्रथ॒मा य॒ज्ञिया॑नाम् । तां मा॑ दे॒वा व्य॑दधुः पुरु॒त्रा भूरि॑स्थात्रां॒ भूर्या॑वे॒शय॑न्तीम् ॥
+अ॒हं राष्ट्री॑ सं॒गम॑नी॒ वसू॑नां चिकि॒तुषी॑ प्रथ॒मा य॒ज्ञिया॑नाम् । 
 
-“I am the sovereign queen, the collectress of treasures, cognizant (of the Supreme Being), the chief ofobjects of worship; as such the gods have put me in many places, abiding in manifold conditions, entering into numerous (forms.”
+“I am the sovereign queen, the collectress of treasures, cognizant (of the Supreme Being), the chief of objects of worship; 
+
+तां मा॑ दे॒वा व्य॑दधुः पुरु॒त्रा भूरि॑स्थात्रां॒ भूर्या॑वे॒शय॑न्तीम् ॥
+
+as such the gods have put me in many places, abiding in manifold conditions, entering into numerous (forms.”
 
 #### 4
-मया॒ सो अन्न॑मत्ति॒ यो वि॒पश्य॑ति॒ यः प्राणि॑ति॒ य ईं॑ शृ॒णोत्यु॒क्तम् । अ॒म॒न्तवो॒ मां त उप॑ क्षियन्ति श्रु॒धि श्रु॑त श्रद्धि॒वं ते॑ वदामि ॥
+मया॒ सो अन्न॑मत्ति॒ यो वि॒पश्य॑ति॒ यः प्राणि॑ति॒ य ईं॑ शृ॒णोत्यु॒क्तम् । 
 
-“He who eats food (eats) through me; he who sees, who breathes, who hears what is spoken, does sothrough me; those who are ignorant of me perish; hear you who have hearing, I tell that which is deserving ofbelief.”
+“He who eats food (eats) through me; he who sees, who breathes, who hears what is spoken, does sothrough me; 
+
+अ॒म॒न्तवो॒ मां त उप॑ क्षियन्ति श्रु॒धि श्रु॑त श्रद्धि॒वं ते॑ वदामि ॥
+
+those who are ignorant of me perish; hear you who have hearing, I tell that which is deserving of belief.”
 
 #### 5
-अ॒हमे॒व स्व॒यमि॒दं व॑दामि॒ जुष्टं॑ दे॒वेभि॑रु॒त मानु॑षेभिः । यं का॒मये॒ तंत॑मु॒ग्रं कृ॑णोमि॒ तं ब्र॒ह्माणं॒ तमृषिं॒ तं सु॑मे॒धाम् ॥
+अ॒हमे॒व स्व॒यमि॒दं व॑दामि॒ जुष्टं॑ दे॒वेभि॑रु॒त मानु॑षेभिः । 
 
-“I verily of myself declare this which is approved of by both gods and men; whomsoever I will, I render”
+“I verily of myself declare this which is approved of by both gods and men; 
+
+यं का॒मये॒ तंत॑मु॒ग्रं कृ॑णोमि॒ तं ब्र॒ह्माणं॒ तमृषिं॒ तं सु॑मे॒धाम् ॥
+
+whomsoever I will, I render”
 #### 6
-अ॒हं रु॒द्राय॒ धनु॒रा त॑नोमि ब्रह्म॒द्विषे॒ शर॑वे॒ हन्त॒वा उ॑ । अ॒हं जना॑य स॒मदं॑ कृणोम्य॒हं द्यावा॑पृथि॒वी आ वि॑वेश ॥
+अ॒हं रु॒द्राय॒ धनु॒रा त॑नोमि ब्रह्म॒द्विषे॒ शर॑वे॒ हन्त॒वा उ॑ । 
 
-“I bend the bow of Rudra, to slay the destructive enemy of the Brāhmaṇas, I wage war with (hostile)men. I pervade heaven and earth.”
+“I bend the bow of Rudra, to slay the destructive enemy of the Brāhmaṇas, 
+
+अ॒हं जना॑य स॒मदं॑ कृणोम्य॒हं द्यावा॑पृथि॒वी आ वि॑वेश ॥
+
+I wage war with (hostile)men. I pervade heaven and earth.”
 
 #### 7
-अ॒हं सु॑वे पि॒तर॑मस्य मू॒र्धन्मम॒ योनि॑र॒प्स्व१॒॑न्तः स॑मु॒द्रे । ततो॒ वि ति॑ष्ठे॒ भुव॒नानु॒ विश्वो॒तामूं द्यां व॒र्ष्मणोप॑ स्पृशामि ॥
+अ॒हं सु॑वे पि॒तर॑मस्य मू॒र्धन्मम॒ योनि॑र॒प्स्व१॒॑न्तः स॑मु॒द्रे । 
 
-“I bring forth the paternal (heaven) upon the brow of this (Supreme Being), my birthplace is in the midstof the waters; from thence I spread through all beings, and touch this heaven with my body.”
+“I bring forth the paternal (heaven) upon the brow of this (Supreme Being), my birthplace is in the midst of the waters; 
+
+ततो॒ वि ति॑ष्ठे॒ भुव॒नानु॒ विश्वो॒तामूं द्यां व॒र्ष्मणोप॑ स्पृशामि ॥
+
+from thence I spread through all beings, and touch this heaven with my body.”
 
 #### 8
-अ॒हमे॒व वात॑ इव॒ प्र वा॑म्या॒रभ॑माणा॒ भुव॑नानि॒ विश्वा॑ । प॒रो दि॒वा प॒र ए॒ना पृ॑थि॒व्यैताव॑ती महि॒ना सं ब॑भूव ॥
+अ॒हमे॒व वात॑ इव॒ प्र वा॑म्या॒रभ॑माणा॒ भुव॑नानि॒ विश्वा॑ । 
 
-“I breathe forth like the wind giving form to all created worlds; beyond the heaven, beyond this earth(am I), so vast am I in greatness.”
+“I breathe forth like the wind giving form to all created worlds; 
+
+प॒रो दि॒वा प॒र ए॒ना पृ॑थि॒व्यैताव॑ती महि॒ना सं ब॑भूव ॥
+
+beyond the heaven, beyond this earth(am I), so vast am I in greatness.”
 
 ## 10.129
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840079.html
@@ -1532,6 +1759,12 @@ vāyu namas keśī viṣa pātra
 अप॑श्यं गो॒पामनि॑पद्यमान॒मा च॒ परा॑ च प॒थिभि॒श्चर॑न्तम् । स स॒ध्रीची॒: स विषू॑ची॒र्वसा॑न॒ आ व॑रीवर्ति॒ भुव॑नेष्व॒न्तः ॥
 
 I beheld the protector (the Sun), never descending, going by his paths to the east and to the west;clothing (with light) the (four) quarters of heaven and the intermediate spaces, he constantly revolves in the midstof the worlds.
+## 10.184
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840419.html
+#### 1
+विष्णु॒र्योनिं॑ कल्पयतु॒ त्वष्टा॑ रू॒पाणि॑ पिंशतु । आ सि॑ञ्चतु प्र॒जाप॑तिर्धा॒ता गर्भं॑ दधातु ते ॥
+
+“May Viṣṇu construct the womb, may Tvaṣṭā fabricate the members, may Prajāpati sprinkle (theseed), may Dhātā cherish your embryo.”
 
 # b1.1-50
 ## 1.1
@@ -1540,6 +1773,12 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc828865
 यद॒ङ्ग दा॒शुषे॒ त्वमग्ने॑ भ॒द्रं क॑रि॒ष्यसि॑ । तवेत्तत्स॒त्यम॑ङ्गिरः ॥
 
 Whatever good you may, Agni, bestow upon the giver (of the oblation), that verily, Aṅgiras shall revert to you.
+## 1.13
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc828999.html
+#### 10
+इ॒ह त्वष्टा॑रमग्रि॒यं वि॒श्वरू॑प॒मुप॑ ह्वये । अ॒स्माक॑मस्तु॒ केव॑लः ॥
+
+“I invoke the chief and multiform Tvaṣṭṛ (= Viśvakarmā); may he be solely ours.”
 ## 1.18
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829058.html
 #### 1
@@ -1652,14 +1891,25 @@ and Indra, slew the ravening [emuṣam] boar [varāha].
 तु॒वि॒क्षं ते॒ सुकृ॑तं सू॒मयं॒ धनु॑: सा॒धुर्बु॒न्दो हि॑र॒ण्यय॑: । उ॒भा ते॑ बा॒हू रण्या॒ सुसं॑स्कृत ऋदू॒पे चि॑दृदू॒वृधा॑ ॥
 
 “Far-darting is your well-made auspicious bow, unfailing is your golden arrow; your two warlike arms are ready equipped, destructively overthrowing, destructively piercing.”
+## 8.98
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc837195.html
+#### 2
+त्वमि॑न्द्राभि॒भूर॑सि॒ त्वं सूर्य॑मरोचयः । वि॒श्वक॑र्मा वि॒श्वदे॑वो म॒हाँ अ॑सि ॥
 
+“You are the conqueror, Indra; you have lighted in the sun; you are the maker of all, the lord of all thegods, the mighty.”
 ## 8.101
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc837230.html
 #### 8
 रा॒तिं यद्वा॑मर॒क्षसं॒ हवा॑महे यु॒वाभ्यां॑ वाजिनीवसू । प्राचीं॒ होत्रां॑ प्रति॒रन्ता॑वितं नरा गृणा॒ना ज॒मद॑ग्निना ॥
 
 Deities rich in food, when we solicit your bounty, that (wealth) which demons cannot thwart-- then,helping our praise directed to the east, come, leaders of rites, worshipped by Jamadagni.
+## 8.102
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc837247.html
+#### 8
+अ॒यं यथा॑ न आ॒भुव॒त्त्वष्टा॑ रू॒पेव॒ तक्ष्या॑ । अ॒स्य क्रत्वा॒ यश॑स्वतः ॥
 
+“(Draw near) that he may deal with us as a carpenter (TVaṣṭā) deals with the timber he has to cut;may we become renowned by his skill.”
+# khilani
 ## 5.88
 https://greenmesg.org/stotras/lakshmi/sri_suktam.php
 Sri sukta
@@ -1670,89 +1920,182 @@ Sri sukta
 1.1: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) Who is of Golden Complexion, Beautiful and Adorned with Gold and Silver Garlands.
 (Gold represents Sun or the Fire of Tapas; Silver represents Moon or the Bliss and Beauty of Pure Sattva.)
 1.2: Who is like the Moon with a Golden Aura, Who is Lakshmi, the Embodiment of Sri; O Jatavedo, please Invoke for Me that Lakshmi.
-
+#### 2
 तां म आवह जातवेदो लक्ष्मीमनपगामिनीम् ।
 यस्यां हिरण्यं विन्देयं गामश्वं पुरुषानहम् ॥२॥
 
+2.1: (Harih Om) O Jatavedo, Invoke for Me that Lakshmi, Who does not Go Away,
+(Sri is Non-Moving, All-Pervasive and the Underlying Essence of All Beauty. Devi Lakshmi as the Embodiment of Sri is thus Non-Moving in Her essential nature.)
+2.2: By Whose Golden Touch, I will Obtain Cattle, Horses, Progeny and Servants.
+#### 3
 अश्वपूर्वां रथमध्यां हस्तिनादप्रबोधिनीम् ।
 श्रियं देवीमुपह्वये श्रीर्मा देवी जुषताम् ॥३॥
 
+3.1: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) Who is Abiding in the Chariot of Sri ( in the Middle ) which is driven by Horses in Front and Whose Appearance is Heralded by the Trumpet of Elephants,
+(Chariot represents the Abode of Sri and Horses represents the Energy of Effort. The Trumpet of Elephants represents the Awakening of Wisdom.)
+3.2: Invoke the Devi who is the Embodiment of Sri Nearer so that the Devi of Prosperity becomes Pleased with Me.
+#### 4
 कां सोस्मितां हिरण्यप्राकारामार्द्रां ज्वलन्तीं तृप्तां तर्पयन्तीम् ।
 पद्मे स्थितां पद्मवर्णां तामिहोपह्वये श्रियम् ॥४॥
 
+: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) Who is Having a Beautiful Smile and Who is Enclosed by a Soft Golden Glow; Who is eternally Satisfied and Satisfies all those to whom She Reveals Herself,
+(Beautiful Smile represents the Trancendental Beauty of Sri Who is Enclosed by the Golden Glow of the Fire of Tapas.)
+4.2: Who Abides in the Lotus and has the Colour of the Lotus; (O Jatavedo) Invoke that Lakshmi Here, Who is the Embodiment of Sri.
+#### 5
 चन्द्रां प्रभासां यशसा ज्वलन्तीं श्रियं लोके देवजुष्टामुदाराम् ।
 तां पद्मिनीमीं शरणमहं प्रपद्येऽलक्ष्मीर्मे नश्यतां त्वां वृणे ॥५॥
 
+5.1: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) Who is the Embodiment of Sri and Whose Glory Shines like the Splendour of the Moon in all the Worlds; Who is Noble and Who is Worshipped by the Devas.
+5.2: I take Refuge at Her Feet, Who Abides in the Lotus; By Her Grace, let the Alakshmi (in the form of Evil, Distress and Poverty) within and without be Destroyed.
+#### 6
 आदित्यवर्णे तपसोऽधिजातो वनस्पतिस्तव वृक्षोऽथ बिल्वः ।
 तस्य फलानि तपसानुदन्तु मायान्तरायाश्च बाह्या अलक्ष्मीः ॥६॥
 
+6.1: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) Who is of the Colour of the Sun and Born of Tapas; the Tapas which is like a Huge Sacred Bilva Tree,
+(The Golden Colour of the Sun represents the Fire of Tapas.)
+6.2: Let the Fruit of That Tree of Tapas Drive Away the Delusion and Ignorance Within and the Alakshmi (in the form of Evil, Distress and Poverty) Outside.
+#### 7
 उपैतु मां देवसखः कीर्तिश्च मणिना सह ।
 प्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिमृद्धिं ददातु मे ॥७॥
 
+7.1: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) By Whose Presence will Come Near me the Companions of the Devas along with Glory (Inner Prosperity) and various Jewels (Outer Prosperity),
+7.2: And I will be Reborn in the Realm of Sri (signifying Inner Transformation towards Purity) which will Grant me Inner Glory and Outer Prosperity.
+#### 8
 क्षुत्पिपासामलां ज्येष्ठामलक्ष्मीं नाशयाम्यहम् ।
 अभूतिमसमृद्धिं च सर्वां निर्णुद मे गृहात् ॥८॥
 
+8.1: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) Whose Presence will Destroy Hunger, Thirst and Impurity associated with Her Elder Sister Alakshmi,
+8.2: And Drive Away the Wretchedness and Ill-Fortune from My House.
+#### 9
 गन्धद्वारां दुराधर्षां नित्यपुष्टां करीषिणीम् ।
 ईश्वरींग् सर्वभूतानां तामिहोपह्वये श्रियम् ॥९॥
 
+9.1: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) Who is the Source of All Fragrances, Who is Difficult to Approach, Who is Always Filled with Abundance and leaves a Residue of Abundance wherever She Reveals Herself.
+9.2: Who is the Ruling Power in All Beings; (O Jatavedo) Please Invoke Her Here, Who is the Embodiment of Sri.
+#### 10
 मनसः काममाकूतिं वाचः सत्यमशीमहि ।
 पशूनां रूपमन्नस्य मयि श्रीः श्रयतां यशः ॥१०॥
 
+10.1: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) For Whom my Heart Truly Yearns and to Whom my Speech Truly tries to Reach,
+10.2: By Whose Presence will come Cattle, Beauty and Food in my Life as (External) Prosperity and Who will Reside (i.e. Reveal) in me as (Inner) Glory of Sri.
+#### 11
 कर्दमेन प्रजाभूता मयि सम्भव कर्दम ।
 श्रियं वासय मे कुले मातरं पद्ममालिनीम् ॥११॥
 
-
+11.1: (Harih Om. O Kardama, Invoke for me your Mother) As Kardama ( referring to Earth represented by Mud ) acts as the substratum for the Existence of Mankind, Similarly O Kardama (now referring to sage Kardama, the son of Devi Lakshmi) you Stay with me,
+11.2: And be the cause to bring your Mother to Dwell in My Family; Your Mother who is the Embodiment of Sri and Encircled by Lotuses.
+#### 12
 आपः सृजन्तु स्निग्धानि चिक्लीत वस मे गृहे ।
 नि च देवीं मातरं श्रियं वासय मे कुले ॥१२॥
 
+12.1: (Harih Om. O Chiklita, Invoke for me your Mother) As Chiklita ( referring to Moisture represented by Water ) Creates Loveliness in all things by its presence, similarly O Chiklita (now referring to Chiklita, the son of Devi Lakshmi) you Stay with me,
+12.2: And by your presence bring your Mother, the Devi who is the Embodiment of Sri (and essence of all Loveliness) to Dwell in my Family.
+#### 13
 आर्द्रां पुष्करिणीं पुष्टिं पिङ्गलां पद्ममालिनीम् ।
 चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥१३॥
 
+13.1: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) Who is like the Moisture of a Lotus Pond which Nourishes a Soul (with Her Soothing Loveliness); and Who is Encircled by Light Yellow Lotuses,
+13.2: Who is like a Moon with a Golden Aura; O Jatavedo, please Invoke that Lakshmi for me.
+#### 14
 आर्द्रां यः करिणीं यष्टिं सुवर्णां हेममालिनीम् ।
 सूर्यां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥१४॥
 
+14.1: (Harih Om. O Jatavedo, Invoke for me that Lakshmi) Who is like the Moisture (figuratively representing Energy) which Supports the Performance of Activities; and Who is Encircled by Gold (Glow of the Fire of Tapas),
+14.2: Who is like a Sun with a Golden Aura; O Jatavedo, please Invoke that Lakshmi for me.
+#### 15
 तां म आवह जातवेदो लक्ष्मीमनपगामिनीम् ।
 यस्यां हिरण्यं प्रभूतं गावो दास्योऽश्वान् विन्देयं पुरुषानहम् ॥१५॥
 
+15.1: (Harih Om). O Jatavedo, Invoke for me that Lakshmi, Who does not Go Away,
+(Sri is Non-Moving, All-Pervasive and the Underlying Essence of All Beauty. Devi Lakshmi as the Embodiment of Sri is thus Non-Moving in Her essential nature.)
+
+15.2 By Whose Golden Touch I will obtain (i.e. Sri will be manifested as) Abundant Cattle, Servants, Horses and Progeny.
+#### 16
 यः शुचिः प्रयतो भूत्वा जुहुयादाज्यमन्वहम् ।
 सूक्तं पञ्चदशर्चं च श्रीकामः सततं जपेत् ॥१६॥
 
+16.1: Those who after Becoming Bodily Clean and Devotionally Disposed perform Sacrificial Offering with Butter Day after Day,
+16.2: By Constantly Reciting the Fifteen Verses of Sri Suktam will have their Longing for Sri Fulfilled by the Grace of Devi Lakshmi.
+#### 17
 पद्मानने पद्म ऊरू पद्माक्षी पद्मसंभवे ।
 त्वं मां भजस्व पद्माक्षी येन सौख्यं लभाम्यहम् ॥१७॥
 
+17.1: (Harih Om, Salutations to Mother Lakshmi) Whose Face is of Lotus, Who is supported (indicated by Thigh ) by Lotus, Whose Eyes are of Lotus and Who is Born of Lotus.
+(Lotus indicates Kundalini. Face indicates the nature of a person, thighs indicate support and eyes indicate the spiritual vision. This verse describes the transcendental nature of Mother Lakshmi. She is born of Yoga, united with Yoga and revealed to a devotee in his spiritual vision.)
+17.2: O Mother, You manifest in Me in the Spiritual Vision (indicated by Lotus Eyes ) born of intense Devotion by Which I am filled with (i.e. Obtain ) Divine Bliss.
+#### 18
 अश्वदायि गोदायि धनदायि महाधने ।
 धनं मे जुषतां देवि सर्वकामांश्च देहि मे ॥१८॥
 
+18.1: (Harih Om, Salutations to Mother Lakshmi) Who is the Giver of Horses, Cows and Wealth to all; and Who is the Source of the Great Abundance in this World.
+18.2: O Devi, Please be Gracious to grant Wealth (both inner and outer) to Me and Fulfil All my Aspirations.
+#### 19
 पुत्रपौत्र धनं धान्यं हस्त्यश्वादिगवे रथम् ।
 प्रजानां भवसि माता आयुष्मन्तं करोतु माम् ॥१९॥
 
+19.1: (Harih Om, Salutations to Mother Lakshmi) O Mother, bestow us with Children and Grandchildren to continue our lineage; and Wealth, Grains, Elephants, Horses, Cows and Carriages for our daily use.
+19.2: We Are Your Children, O Mother; Please make our lives Long and full of Vigour.
+#### 20
 धनमग्निर्धनं वायुर्धनं सूर्यो धनं वसुः ।
 धनमिन्द्रो बृहस्पतिर्वरुणं धनमश्नुते ॥२०॥
 
+20.1: (Harih Om, Salutations to Mother Lakshmi) O Mother, You (indicated by Dhanam) are the Power behind Agni (the God of Fire), You are the Power behind Vayu (the God of Wind), You are the Power behind Surya (the God of Sun), You are the Power behind the Vasus (celestial beings).
+20.2: You are the Power behind Indra, Vrhaspati and Varuna (the God of Water); You are the All-Pervading Essence behind Everything.
+#### 21
 वैनतेय सोमं पिब सोमं पिबतु वृत्रहा ।
 सोमं धनस्य सोमिनो मह्यं ददातु सोमिनः ॥२१॥
 
+21.1: (Harih Om, Salutations to Mother Lakshmi) Those who carry Sri Vishnu in their Heart (like Garuda, the son of Vinata carries Him on his back) always drink Soma (the Divine Bliss within); Let all Drink that Soma by Destroying their inner Enemies of desires (thus gaining nearness to Sri Vishnu).
+21.2: That Soma originates from Sri Who is the embodiment of Soma (the Divine Bliss); O Mother, please Give that Soma to Me too, You Who are the possessor of that Soma.
+#### 22
 न क्रोधो न च मात्सर्य न लोभो नाशुभा मतिः ।
 भवन्ति कृतपुण्यानां भक्तानां श्रीसूक्तं जपेत्सदा ॥२२॥
 
+22.1: (Harih Om, Salutations to Mother Lakshmi) Neither Anger Nor Jealousy, Neither Greed Nor Evil Intentions ...
+22.2: Can Exist in the Devotees who have acquired Merit by Always Reciting with Devotion the great Sri Suktam.
+#### 23
 वर्षन्तु ते विभावरि दिवो अभ्रस्य विद्युतः ।
 रोहन्तु सर्वबीजान्यव ब्रह्म द्विषो जहि ॥२३॥
 
+23.1: (Harih Om, Salutations to Mother Lakshmi) O Mother, Please Shower Your Light of Grace like Lightning in a Sky filled with Thunder-Cloud ...
+23.2 And Ascend All the Seeds of Differentiation to a higher spiritual plane; O Mother, You are of the nature of Brahman and Destroyer of all Hatred.
+#### 24
 पद्मप्रिये पद्मिनि पद्महस्ते पद्मालये पद्मदलायताक्षि ।
 विश्वप्रिये विष्णु मनोऽनुकूले त्वत्पादपद्मं मयि सन्निधत्स्व ॥२४॥
 
+24.1: (Harih Om, Salutations to Mother Lakshmi) Who is Fond of Lotuses, Who is the Possessor of Lotuses, Who Holds Lotuses in Her Hands, Who Dwells in the Abode of Lotuses and Whose Eyes are like Lotus Petals.
+(Lotus indicates Kundalini)
+24.2: Who is Fond of the Worldly Manifestations which are Directed towards (i.e. Agreeable to) Sri Vishnu (i.e. follows the path of Dharma); O Mother, bless me so that I Gain Nearness to Your Lotus Feet Within Me.
+#### 25
 या सा पद्मासनस्था विपुलकटितटी पद्मपत्रायताक्षी ।
 गम्भीरा वर्तनाभिः स्तनभर नमिता शुभ्र वस्त्रोत्तरीया ॥२५॥
 
+25.1: (Harih Om, Salutations to Mother Lakshmi) Who Stands on Lotus with Her Beautiful Form, with Wide Hip and Eyes like the Lotus Leaf.
+25.2: Her Deep Navel (indicating Depth of Character) is Bent Inwards, and with Her Full Bosom (indicating Abundance and Compassion) She is slightly Bent Down (towards the Devotees); and She is Dressed in Pure White Garments.
+#### 26
 लक्ष्मीर्दिव्यैर्गजेन्द्रैर्मणिगणखचितैस्स्नापिता हेमकुम्भैः ।
 नित्यं सा पद्महस्ता मम वसतु गृहे सर्वमाङ्गल्ययुक्ता ॥२६॥
 
+26.1: (Harih Om, Salutations to Mother Lakshmi) Who is Bathed with Water from Golden Pitcher by the Best of Celestial Elephants who are Studded with Various Gems,
+26.2: Who is Eternal with Lotus in Her Hands; Who is United with All the Auspicious Attributes; O Mother, Please Reside in My House and make it Auspicious by Your Presence.
+#### 27
 लक्ष्मीं क्षीरसमुद्र राजतनयां श्रीरङ्गधामेश्वरीम् ।
 दासीभूतसमस्त देव वनितां लोकैक दीपांकुराम् ॥२७॥
 
+27.1: (Harih Om, Salutations to Mother Lakshmi) Who is the Daughter of the King of Ocean; Who is the Great Goddess Residing in Kseera Samudra (literally Milky Ocean), the Abode of Sri Vishnu.
+27.2: Who is Served by the Devas along with their Servants, and Who is the One Light in all the Worlds which Sprouts behind every Manifestation.
+#### 28
 श्रीमन्मन्दकटाक्षलब्ध विभव ब्रह्मेन्द्रगङ्गाधराम् ।
 त्वां त्रैलोक्य कुटुम्बिनीं सरसिजां वन्दे मुकुन्दप्रियाम् ॥२८॥
 
+28.1: (Harih Om, Salutations to Mother Lakshmi) By Obtaining Whose Grace through Her Beautiful Soft Glance, Lord Brahma, Indra and Gangadhara (Shiva) become Great,
+28.2: O Mother, You blossom in the Three Worlds like a Lotus as the Mother of the Vast Family; You are Praised by All and You are the Beloved of Mukunda
+#### 29
 सिद्धलक्ष्मीर्मोक्षलक्ष्मीर्जयलक्ष्मीस्सरस्वती ।
 श्रीलक्ष्मीर्वरलक्ष्मीश्च प्रसन्ना मम सर्वदा ॥२९॥
+
+29.1: (Harih Om, Salutations to Mother Lakshmi) O Mother, May Your different Forms - Siddha Lakshmi, Moksha Lakshmi, Jaya Lakshmi, Saraswati ...
+29.2: Sri Lakshmi and Vara Lakshmi ... Always be Gracious to Me.
+
+
 

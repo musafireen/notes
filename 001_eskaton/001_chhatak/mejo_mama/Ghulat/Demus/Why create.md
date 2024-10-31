@@ -1,4 +1,4 @@
 Why create
 
-![[Qrsed#44:38]]
-![[Qrsed#44:39]]
+![[Qrsd#44:38]]
+![[Qrsd#44:39]]

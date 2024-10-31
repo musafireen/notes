@@ -23,12 +23,8 @@
             "id": "c4d7e08c123668b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/sihr/spirituals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -37,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/God's very own argument.md",
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iamb.MysEg",
+                "query": "puranas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/iamb.mysEg.md",
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/iamb.mysEg.md",
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/iamb.mysEg.md"
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.md"
               }
             }
           }
@@ -206,44 +202,44 @@
       "templates:Insert template": false
     }
   },
-  "active": "58c3ebdd7b044e86",
+  "active": "83dc74576261ff19",
   "lastOpenFiles": [
-    "Ref/iamb.mΕ.md",
-    "Ref/iamb.mysEg1.md",
-    "Ref/iamb.MEg1.md",
-    "Ref/~syncthing~iamb.mysEg.md.tmp",
-    "Ref/iamb.mysEg.md",
-    "Ref/iamb.MEg.md",
-    "Ref/plut.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
-    "Ref/sxtEmp.md",
-    "Ref/parmen.md",
-    "Ref/diels.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/dhu_l_qarnen/alexander_gymnosophist_qur'an.md",
-    "Ref/clmnt.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.sync-conflict-20241030-104033-AFLIAW3.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/~syncthing~puranas2.sync-conflict-20241030-104033-AFLIAW3.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/Zann1.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/zann.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/zakariya.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/yusuf.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/yunus.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/yaqub.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/yahya.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/wood.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Why create.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/uzair.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Science/unscientific.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/Tubba.md",
+    "Youtube/Trickle_down_jabarut_cruelty_from_god_to_muhajir_to_nobles.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ta'wil/tawil_mantia_mancy.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fadl/taw3ah.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/talut.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/takwin/takwin.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ta'wil/ta'wil.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/a'jamī/syriac2.md",
+    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/sympathy_peer_pressure_meme_delusion.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Summ_bukm_la_aql.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/sulaiman.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/sihr/spirituals.md",
-    "Ref/strab.geogr.md",
-    "Ref/Arr.md",
-    "Ref/psPltch.md",
-    "Ref/mgstInd.md",
-    "Ref/BU.md",
-    "Ref/SpB.md",
-    "Ref/AV.ŚS.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/Creatures and gods Indo-iranian.md",
+    "Ref/~syncthing~iamb.mysEg.md.tmp",
     "Ref/~syncthing~AV.ŚS.md.tmp",
     "001_eskaton/001_chhatak/kalighat/Brahmanic/~syncthing~Creatures and gods Indo-iranian.md.tmp",
     "Ref/~syncthing~SpB.md.tmp",
-    "Ref/RV.md",
     "Ref/~syncthing~TB.md.tmp",
     "000_temp/~syncthing~prana_pratishtha_yantra_verses.md.tmp",
-    "000_temp/prana_pratishtha_yantra_verses.md",
-    "000_temp/tantric_veda_verses.md",
-    "Ref/kdk.cc.md",
     "000_temp/~syncthing~murti_pratima_vedic.md.tmp",
     "000_temp/~syncthing~tantric_veda_verses.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/~syncthing~Sāṃkhya_kabbala_ghuli.md.tmp",
-    "Ref/~syncthing~TS.md.tmp",
-    "Ref/mdhvAcr.md",
     "boomerang/bd_army_lying_about_utsab_mandal_age.jpg",
     "boomerang/bd army harassing teen haircut.png",
     "madaripuria_genz_khil2.png",

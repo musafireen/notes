@@ -98,6 +98,7 @@ O wealthy and adorable King, with the force of wisdom, enjoy the gladdening rule
 यद् धरिणो यवम् अत्ति न पुष्टं बहु मन्यते 
 शूद्रो यद् अर्यायै जारो न पोषम् अनु मन्यते 
 # p31
+https://www.stephen-knapp.com/purusha_sukta.htm
 ## 1-16
 ### 1
 सहस्रशीर्षा  पुरुषः  सहस्राक्षः  सहस्रपात्  
@@ -160,6 +161,40 @@ O wealthy and adorable King, with the force of wisdom, enjoy the gladdening rule
 ### 16  
 यज्ञेन  यज्ञम्  अयजन्त  देवास्  तानि  धर्माणि  प्रथमान्यासन्  
 ते  ह  नाकं  महिमानः  सचन्त  यत्र  पूर्वे  साध्या  सन्ति  देवा  
+## 17-22
+### 17
+अद्भयः सम्भूतः पृथिव्यै रसाच्च विश्वकर्मणः समवर्त्तताये। 
+
+God creates in the beginning with His urge this world nourished by waters, earth 
+
+तस्य त्वष्टा विदधद् रूपमेति तन्मर्त्यस्य देवत्वमाजानमग्रे ॥॥
+
+and assigns in the beginning the wisdom and duties of mankind
+### 18
+वेदाहमेतं पुरुषं म॒हान्तमादि॒त्यव॑र्णं तम॑सः परस्तात् ।
+तमेव विदित्वाति मृत्युमेंति नान्यः पन्था विद्युर्तेऽयनाय ।। १८ ।। 
+
+I have known that great Purusha (Supreme Being) who is brilliant like the sun and who is beyond all darkness. One who knows Him thus becomes immortal (even) here. There is no other path for liberation than this.
+### 19
+प्रजापतिश्चरति गर्भे' अन्तरजायमानो बहुधा वि जायते।
+तस्य योनिं परि पश्यन्ति, धीरा॒स्तस्मिन् ह तस्थुर्भुव॑नानि विश्वा ।। १९।। 
+
+Prajapati (the Supreme Creator) moves inside the cosmic womb. (Though) unborn He takes birth in a variety of ways. The wise ones know His (real nature) as the origin (of the universe). The (secondary) creators desire to attain the positions of Marichi and others.
+### 20
+यो देवेभ्य आतप॑ति॒ यो दे॒वानां पुरोहितः । 
+पूर्वो यो दे॒वेभ्यो जातो नमो रुचाय ब्राह्मये ।। २० ।। 
+
+Obeisances to Him, the self-luminous Brahman, who shines for the (demi)gods, who is the leader of the rituals of the gods and who was born even before the gods.
+### 21
+रुचं ब्राह्म्य जनय॑न्तो दे॒वा अग्रे तैर्दब्रुवन् ।
+य॒स्त्वैवं ब्राह्मणो विद्यात्तस्यं देवा असन् वशे ।। २१ ।।
+
+In the beginning of creation, the gods, manifesting the light of Brahman, addressed Brahman thus: "That brahmana who realizes (You) thus, all the gods will come under his control.
+### 22
+श्रीश्च ते लक्ष्मीश्च पत्न्या॑व्होरात्रे पार्श्वे नक्षत्राणि रूपमश्विनौ व्यात्तम् । 
+इष्णन्निषाणामुं म इषाण सर्वलोकं म इषाण ।। २२ ।।
+
+O Purusha! The goddesses Hri (modesty) and Sri (Lakshmi, wealth) are Your consorts. Day and night are Your lateral limbs. The stars are Your form. The Ashvins are your widely opened (mouth). (O Purusha) fulfill our desire for self-knowledge as also our desire for the enjoyments of this world (like longevity, cows, and horses). Give us all that we need. Om, let there be peace, peace, peace.
 # p32
 ### 3
 न तस्य प्रतिमा ऽ अस्ति यस्य नाम महद् यशः ।

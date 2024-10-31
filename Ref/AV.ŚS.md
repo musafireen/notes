@@ -410,7 +410,7 @@ vas know.
 यस्या व्रते प्रसवे यक्षम् एजति सा विराट् ऋषयः परमे व्योमन् ||8||
 
 She whom, advancing, sacrifices follow, and when she takes her station stand beside her,
-By whose control and hest the spirit moveth, she is Virāj, in highest heaven, O Rishis.
+By whose control and hest the (yakṣa) spirit moveth, she is Virāj, in highest heaven, O Rishis.
 #### 25
 को नु गौः क एकऋषिः किम् उ धाम का आशिषः 
 यक्षम् पृथिव्याम् एकवृद् एकर्तुः कतमो नु सः

@@ -7,4 +7,4 @@ https://biblehub.com/genesis/1-27.htm#lexicon
 
 ![[Qsorted#4:119]]
 
-![[Qrsed#20:50]]
+![[Qrsd#20:50]]

@@ -1479,23 +1479,6 @@ They passed the lands of chinas,11 tukharas,12 daradas,13 darvas14 and kunindas1
 
 शुश्रूषवः पाण्डवास्ते ब्राह्मणाश्च समागताः |
 द्रौपदी सत्यभामा च तथाहं परमं वचः ||४२||
-
-पुरावृत्ताः कथाः पुण्याः सदाचाराः सनातनाः |
-राज्ञां स्त्रीणामृषीणां च मार्कण्डेय विचक्ष्व नः ||४३||
-
-तेषु तत्रोपविष्टेषु देवर्षिरपि नारदः |
-आजगाम विशुद्धात्मा पाण्डवानवलोककः ||४४||
-
-तमप्यथ महात्मानं सर्वे तु पुरुषर्षभाः |
-पाद्यार्घ्याभ्यां यथान्यायमुपतस्थुर्मनीषिणम् ||४५||
-
-नारदस्त्वथ देवर्षिर्ज्ञात्वा तांस्तु कृतक्षणान् |
-मार्कण्डेयस्य वदतस्तां कथामन्वमोदत ||४६||
-
-उवाच चैनं कालज्ञः स्मयन्निव स नारदः |
-ब्रह्मर्षे कथ्यतां यत्ते पाण्डवेषु विवक्षितम् ||४७||
-
-### c180
 ##### 43-44
 ###### 43
 पुरावृत्ताः कथाः पुण्याः सदाचाराः सनातनाः |
@@ -1507,15 +1490,911 @@ O Markandeya! Therefore, tell us about the sacred accounts of the past, characte
 आजगाम विशुद्धात्मा पाण्डवानवलोककः ||४४||
 
 While they were seated there, devarshi Narada, pure in soul, also arrived to see the Pandavas.
+##### ?
+तमप्यथ महात्मानं सर्वे तु पुरुषर्षभाः |
+पाद्यार्घ्याभ्यां यथान्यायमुपतस्थुर्मनीषिणम् ||४५||
 
+नारदस्त्वथ देवर्षिर्ज्ञात्वा तांस्तु कृतक्षणान् |
+मार्कण्डेयस्य वदतस्तां कथामन्वमोदत ||४६||
+
+उवाच चैनं कालज्ञः स्मयन्निव स नारदः |
+ब्रह्मर्षे कथ्यतां यत्ते पाण्डवेषु विवक्षितम् ||४७||
 ### c213
+##### 1-2
 ###### 1
 मार्कण्डेय उवाच||
 
+Markandeya said, 
+
 अग्नीनां विविधो वंशः कीर्तितस्ते मयानघ |
+
+‘“O unblemished one! Thus, the genealogy of the different fires has been recounted by me. 
+
 शृणु जन्म तु कौरव्य कार्त्तिकेयस्य धीमतः ||१||
 
+O Kouravya! Now hear about the birth of the intelligent Kartikeya. 
+###### 2
+अद्भुतस्याद्भुतं पुत्रं प्रवक्ष्याम्यमितौजसम् |
 
+I will tell you about Adbhuta’s extraordinary and infinitely energetic son, whose deeds were extensive. 
+
+जातं सप्तर्षिभार्याभिर्ब्रह्मण्यं कीर्तिवर्धनम् ||२||
+
+He was born from the wives of the seven brahmana rishis.
+##### 50-52
+###### 50
+स्वाहा तं दक्षदुहिता प्रथमं कामयत्तदा |
+
+Daksha’s daughter, Svaha, had desired Agni earlier. 
+
+सा तस्य छिद्रमन्वैच्छच्चिरात्प्रभृति भामिनी ||५०||
+
+For a long time, the beautiful one had been watching out for a weakness. 
+
+अप्रमत्तस्य देवस्य न चापश्यदनिन्दिता ||५०||
+
+However, the unblemished one did not find one in the god who was never distracted. 
+###### 51
+सा तं ज्ञात्वा यथावत्तु वह्निं वनमुपागतम् |
+
+But on learning that Agni had left for the forest, 
+
+तत्त्वतः कामसन्तप्तं चिन्तयामास भामिनी ||५१||
+
+the beautiful one, who was tormented by desire, began to think. 
+###### 52
+अहं सप्तर्षिपत्नीनां कृत्वा रूपाणि पावकम् |
+
+‘I will assume the forms of the wives of the saptarshis and seek out Agni.
+
+कामयिष्यामि कामार्तं तासां रूपेण मोहितम् ||५२||
+### c214
+##### 7-17
+###### 7
+ततोऽग्निरुपयेमे तां शिवां प्रीतिमुदायुतः |
+
+प्रीत्या देवी च संयुक्ता शुक्रं जग्राह पाणिना ||७||
+
+‘“The goddess was pleased with this union and caught the semen in her hand. 
+###### 8
+अचिन्तयन्ममेदं ये रूपं द्रक्ष्यन्ति कानने |
+
+She thought, ‘If people see this form in the forest, 
+
+ते ब्राह्मणीनामनृतं दोषं वक्ष्यन्ति पावके ||८||
+
+they will speak about the misdeeds of the wives of the brahmanas with Agni. 
+###### 9
+तस्मादेतद्रक्ष्यमाणा गरुडी सम्भवाम्यहम् |
+
+Therefore, to prevent this, I will become a Garudi 
+
+वनान्निर्गमनं चैव सुखं मम भविष्यति ||९||
+
+and will easily escape from this forest.’249 
+###### 10
+सुपर्णी सा तदा भूत्वा निर्जगाम महावनात् |
+
+She then became a Suparni and left the great forest. 
+
+अपश्यत्पर्वतं श्वेतं शरस्तम्बैः सुसंवृतम् ||१०||
+
+She saw Mount Shveta, covered extremely well with reeds. 
+###### 11
+दृष्टीविषैः सप्तशीर्षैर्गुप्तं भोगिभिरद्भुतैः |
+
+The mountain was guarded by extraordinary seven-hooded serpents, with poison in their eyes. 
+
+रक्षोभिश्च पिशाचैश्च रौद्रैर्भूतगणैस्तथा ||११||
+
+It was populated by rakshasas, pishachas, masses of terrible demons, 
+
+राक्षसीभिश्च सम्पूर्णमनेकैश्च मृगद्विजैः ||११||
+
+female rakshasas and many animals and birds. 
+###### 12
+सा तत्र सहसा गत्वा शैलपृष्ठं सुदुर्गमम् |
+
+She quickly went to the mountain peak that was difficult of access. 
+
+प्राक्षिपत्काञ्चने कुण्डे शुक्रं सा त्वरिता सती ||१२||
+
+She then hurriedly hurled the semen into a golden well.
+###### 13
+शिष्टानामपि सा देवी सप्तर्षीणां महात्मनाम् |
+पत्नीसरूपतां कृत्वा कामयामास पावकम् ||१३||
+
+Then the goddess assumed the forms of the other wives of the great-souled saptarshis and united with Agni. 
+###### 14
+दिव्यरूपमरुन्धत्याः कर्तुं न शकितं तया |
+
+But she was not able to assume the celestial form of Arundhati,250 
+
+तस्यास्तपःप्रभावेण भर्तृशुश्रूषणेन च ||१४||
+
+because of her faithfulness towards her husband and because of the power of her austerities. 
+###### 15
+षट्कृत्वस्तत्तु निक्षिप्तमग्ने रेतः कुरूत्तम |
+
+O supreme among the Kuru lineage! Driven by desire, 
+
+तस्मिन्कुण्डे प्रतिपदि कामिन्या स्वाहया तदा ||१५||
+
+Svaha hurled Agni’s semen into the well six times.
+###### 16
+तत्स्कन्नं तेजसा तत्र सम्भृतं जनयत्सुतम् |
+
+‘“On the first day of the lunar fortnight, the energy of the semen that had fallen down gave birth to a son. 
+
+ऋषिभिः पूजितं स्कन्नमनयत्स्कन्दतां ततः ||१६||
+
+He was worshipped by the rishis and because the semen had fallen down, he became Skanda.251 
+###### 17
+षट्शिरा द्विगुणश्रोत्रो द्वादशाक्षिभुजक्रमः |
+
+He had six heads and twice that many ears. He had twelve eyes and twelve arms. 
+
+एकग्रीवस्त्वेककायः कुमारः समपद्यत ||१७||
+
+But Kumara had one neck and one torso.
+##### ?
+###### 18
+द्वितीयायामभिव्यक्तस्तृतीयायां शिशुर्बभौ |
+
+The child assumed form on the second lunar day and became a child on the third lunar day. 
+
+अङ्गप्रत्यङ्गसम्भूतश्चतुर्थ्यामभवद्गुहः ||१८||
+
+Guha’s limbs were developed on the fourth lunar day. 
+###### 19
+लोहिताभ्रेण महता संवृतः सह विद्युता |
+लोहिताभ्रे सुमहति भाति सूर्य इवोदितः ||१९||
+
+He was surrounded by a great mass of red clouds, with lightning in them, and looked like the sun rising on a gigantic red cloud. 
+##### 20-25
+###### 20
+गृहीतं तु धनुस्तेन विपुलं लोमहर्षणम् |
+
+He held a giant bow in his hands, which made the body hair stand up. 
+
+न्यस्तं यत्त्रिपुरघ्नेन सुरारिविनिकृन्तनम् ||२०||
+
+For the destruction of the enemies of the gods, it was placed there by the slayer of Tripura.2 
+###### 21
+तद्गृहीत्वा धनुःश्रेष्ठं ननाद बलवांस्तदा |
+संमोहयन्निवेमान्स त्रीँल्लोकान्सचराचरान् ||२१||
+
+Seizing that supreme bow, he roared with a great strength, and this terrified the three worlds, with all their mobile and immobile objects. 
+###### 22
+तस्य तं निनदं श्रुत्वा महामेघौघनिस्वनम् |
+उत्पेततुर्महानागौ चित्रश्चैरावतश्च ह ||२२||
+
+The roar was like that of masses of giant clouds and on hearing this, the great nagas Chitra and Airavata jumped up. 
+###### 23
+तावापतन्तौ सम्प्रेक्ष्य स बालार्कसमद्युतिः |
+द्वाभ्यां गृहीत्वा पाणिभ्यां शक्तिं चान्येन पाणिना ||२३||
+
+अपरेणाग्निदायादस्ताम्रचूडं भुजेन सः ||२३||
+
+On seeing them fall, Agni’s son, with radiance like that of the morning sun, grabbed them with two of his hands. He held a spear in another hand. 
+###### 24
+महाकायमुपश्लिष्टं कुक्कुटं बलिनां वरम् |
+
+The one with the gigantic form, supreme among strong ones, grasped a cock in one hand.253 
+
+गृहीत्वा व्यनदद्भीमं चिक्रीड च महाबलः ||२४||
+
+Having grasped the cock, the immensely strong one roared terribly and sported. 
+###### 25
+द्वाभ्यां भुजाभ्यां बलवान्गृहीत्वा शङ्खमुत्तमम् |
+प्राध्मापयत भूतानां त्रासनं बलिनामपि ||२५||
+
+The strong one grasped a supreme conch shell in two of his arms and blew on it, striking fear even among powerful beings.
+##### ?
+### c215
+###### 2
+निवसन्ति वने ये तु तस्मिंश्चैत्ररथे जनाः |
+तेऽब्रुवन्नेष नोऽनर्थः पावकेनाहृतो महान् ||२||
+
+सङ्गम्य षड्भिः पत्नीभिः सप्तर्षीणामिति स्म ह ||२||
+
+people who lived in Chitraratha forest averred, ‘These great calamities have descended on us because Agni had intercourse with the wives of the saptarshis.
+###### 3
+अपरे गरुडीमाहुस्त्वयानर्थोऽयमाहृतः |
+यैर्दृष्टा सा तदा देवी तस्या रूपेण गच्छती ||३||
+
+न तु तत्स्वाहया कर्म कृतं जानाति वै जनः ||३||
+
+’ Others, who had seen the goddess leave in the form of Garudi, said, ‘You are responsible for this disaster.’ No one knew that this deed had been done by Svaha.
+###### 8
+विश्वामित्रस्तु प्रथमं कुमारं शरणं गतः |
+स्तवं दिव्यं सम्प्रचक्रे महासेनस्य चापि सः ||८||
+
+Vishvamitra was the first to seek refuge with Kumara. He composed a celestial hymn of praise to Mahasena. 
+###### 9
+मङ्गलानि च सर्वाणि कौमाराणि त्रयोदश |
+जातकर्मादिकास्तस्य क्रियाश्चक्रे महामुनिः ||९||
+
+The great sage performed all the thirteen birth and other rituals for Kumara.254 
+###### 10
+षड्वक्त्रस्य तु माहात्म्यं कुक्कुटस्य च साधनम् |
+शक्त्या देव्याः साधनं च तथा पारिषदामपि ||१०||
+
+He spoke about the greatness of the six-faced one, the virtues of the cock and the worship of the goddess Shakti and her companions. 
+###### 11
+विश्वामित्रश्चकारैतत्कर्म लोकहिताय वै |
+तस्मादृषिः कुमारस्य विश्वामित्रोऽभवत्प्रियः ||११||
+
+Vishvamitra performed rituals for the welfare of the world. Thus, the rishi Vishvamitra came to be loved by Kumara.
+###### 13
+स्कन्दं श्रुत्वा ततो देवा वासवं सहिताब्रुवन् |
+अविषह्यबलं स्कन्दं जहि शक्राशु माचिरम् ||१३||
+
+“On hearing about Skanda, the gods went and told Vasava, ‘O Shakra! Skanda’s strength cannot be tolerated. Kill him swiftly and without any delay. 
+###### 14
+यदि वा न निहंस्येनमद्येन्द्रोऽयं भविष्यति |
+त्रैलोक्यं संनिगृह्यास्मांस्त्वां च शक्र महाबलः ||१४||
+
+If you do not kill him now, he will become Indra. O Shakra! With his great strength, he will oppress the three worlds, us and you.’ 
+###### 15
+स तानुवाच व्यथितो बालोऽयं सुमहाबलः |
+स्रष्टारमपि लोकानां युधि विक्रम्य नाशयेत् ||१५||
+
+He replied to the ones who were miserable, ‘This child is immensely strong. With his valour, he can destroy the creator of the worlds in battle. 
+###### 16
+सर्वास्त्वद्याभिगच्छन्तु स्कन्दं लोकस्य मातरः |
+कामवीर्या घ्नन्तु चैनं तथेत्युक्त्वा च ता ययुः ||१६||
+
+Let the mothers of the world now go to Skanda.255 They have the power and the will to destroy him.’ They256 agreed to these words and went. 
+###### 17
+तमप्रतिबलं दृष्ट्वा विषण्णवदनास्तु ताः |
+
+But on seeing that his strength was unmatched, their faces became miserable. 
+
+अशक्योऽयं विचिन्त्यैवं तमेव शरणं ययुः ||१७||
+
+They thought that he was invincible and sought refuge with him. 
+###### 18
+ऊचुश्चापि त्वमस्माकं पुत्रोऽस्माभिर्धृतं जगत् |
+अभिनन्दस्व नः सर्वाः प्रस्नुताः स्नेहविक्लवाः ||१८||
+
+They told him, ‘You are our son. We hold up the universe. Welcome all of us. We are overcome with affection for you. Our milk is flowing.’ 
+###### 19
+ताः सम्पूज्य महासेनः कामांश्चासां प्रदाय सः |
+
+Mahasena worshipped them and complied with their wishes. 
+
+अपश्यदग्निमायान्तं पितरं बलिनां बली ||१९||
+
+Then the strongest of the strong saw his father Agni approach 
+###### 20
+स तु सम्पूजितस्तेन सह मातृगणेन ह |
+
+and together with the group of mothers, he257 received his worship. 
+
+परिवार्य महासेनं रक्षमाणः स्थितः स्थिरम् ||२०||
+
+He remained there with Mahasena, so as to protect him steadily. 
+###### 21
+सर्वासां या तु मातॄणां नारी क्रोधसमुद्भवा |
+धात्री सा पुत्रवत्स्कन्दं शूलहस्ताभ्यरक्षत ||२१||
+
+There was a lady among the mothers who had been created out of anger. She nursed Skanda like her own son, with a spear in her hand. 
+###### 22
+लोहितस्योदधेः कन्या क्रूरा लोहितभोजना |
+परिष्वज्य महासेनं पुत्रवत्पर्यरक्षत ||२२||
+
+She was the daughter of an ocean of blood and lived on blood. She embraced Mahasena and protected him like a son. 
+###### 23
+अग्निर्भूत्वा नैगमेयश्छागवक्त्रो बहुप्रजः |
+रमयामास शैलस्थं बालं क्रीडनकैरिव ||२३||
+
+Agni transformed himself into goat-faced Naigameya with many offspring.258 He sported himself on the mountain with the child, as if with toys.”’
+### c216
+###### 9
+जिघांसूनुपसम्प्राप्तान्देवान्दृष्ट्वा स पावकिः |
+विससर्ज मुखात्क्रुद्धः प्रवृद्धाः पावकार्चिषः ||९||
+
+“Having seen that the gods had approached with the desire of killing him, Agni’s son was angered. He belched forth large flames of fire from his mouth. 
+
+ता देवसैन्यान्यदहन्वेष्टमानानि भूतले ||९||
+
+‘They burnt the army of the gods and made them writhe on the ground. 
+###### 10
+ते प्रदीप्तशिरोदेहाः प्रदीप्तायुधवाहनाः |
+प्रच्युताः सहसा भान्ति चित्रास्तारागणा इव ||१०||
+
+The heads and the bodies were in flames and the arms and the mounts were ablaze. They looked like radiant clusters of stars that had suddenly been dislodged. 
+###### 11
+दह्यमानाः प्रपन्नास्ते शरणं पावकात्मजम् |
+देवा वज्रधरं त्यक्त्वा ततः शान्तिमुपागताः ||११||
+
+Having been burnt, the gods abandoned the wielder of the vajra and sought refuge with Agni’s son, thus obtaining peace. 
+###### 12
+त्यक्तो देवैस्ततः स्कन्दे वज्रं शक्रोऽभ्यवासृजत् |
+तद्विसृष्टं जघानाशु पार्श्वं स्कन्दस्य दक्षिणम् ||१२||
+
+Having been deserted by the gods, Shakra hurled his vajra at Skanda. O great king! This split open Skanda’s right side. 
+
+बिभेद च महाराज पार्श्वं तस्य महात्मनः ||१२||
+
+When the side of the great-souled Skanda was split 
+###### 13
+वज्रप्रहारात्स्कन्दस्य सञ्जातः पुरुषोऽपरः |
+युवा काञ्चनसंनाहः शक्तिधृग्दिव्यकुण्डलः ||१३||
+
+from the force of the vajra, another being was born. He was a youth, decorated in gold. He was clad in celestial earrings and wielded a spear. 
+
+यद्वज्रविशनाज्जातो विशाखस्तेन सोऽभवत् ||१३||
+
+Since he was created from the entering of the vajra, he was known as Vishakha.261 
+###### 14
+तं जातमपरं दृष्ट्वा कालानलसमद्युतिम् |
+भयादिन्द्रस्ततः स्कन्दं प्राञ्जलिः शरणं गतः ||१४||
+
+On seeing another one arise, like the fire of destruction, Indra was frightened. He joined his hands in salutation and sought refuge with Skanda. 
+###### 15
+तस्याभयं ददौ स्कन्दः सहसैन्यस्य सत्तम |
+ततः प्रहृष्टास्त्रिदशा वादित्राण्यभ्यवादयन् ||१५||
+
+O excellent one! Skanda granted him safety, together with his army. The thirty gods were delighted and played on their musical instruments.”’
+### c217
+###### 1
+मार्कण्डेय उवाच||
+
+‘Markandeya said, 
+
+स्कन्दस्य पार्षदान्घोराञ्शृणुष्वाद्भुतदर्शनान् |
+
+“Now hear about Skanda’s companions. They were terrible and extraordinary. 
+
+वज्रप्रहारात्स्कन्दस्य जज्ञुस्तत्र कुमारकाः ||१||
+
+They were born when Skanda was struck by the vajra and are the minor Kumaras. 
+
+ये हरन्ति शिशूञ्जातान्गर्भस्थांश्चैव दारुणाः ||१||
+
+These terrible ones steal children, whether they have been born or whether they are in the womb. 
+###### 2
+वज्रप्रहारात्कन्याश्च जज्ञिरेऽस्य महाबलाः |
+
+From the force of the vajra, immensely strong daughters were also born from him. 
+
+कुमाराश्च विशाखं तं पितृत्वे समकल्पयन् ||२||
+The Kumaras thought of Vishakha as their father. 
+###### 3
+स भूत्वा भगवान्सङ्ख्ये रक्षंश्छागमुखस्तदा |
+
+The illustrious one protects in battle, with the face of a goat. 
+
+वृतः कन्यागणैः सर्वैरात्मनीनैश्च पुत्रकैः ||३||
+
+He is surrounded by the masses of daughters and all his own sons. 
+###### 4
+मातॄणां प्रेक्षतीनां च भद्रशाखश्च कौशलः |
+
+While the mothers look on, Bhadrashakha262 provides succour. 
+
+ततः कुमारपितरं स्कन्दमाहुर्जना भुवि ||४||
+
+So people on earth call Skanda the father of sons. 
+###### 5
+रुद्रमग्निमुमां स्वाहां प्रदेशेषु महाबलाम् |
+यजन्ति पुत्रकामाश्च पुत्रिणश्च सदा जनाः ||५||
+
+In different regions, those who wish sons or have sons, always worship Rudra, Agni and the extremely strong Uma as Svaha.
+###### 6
+यास्तास्त्वजनयत्कन्यास्तपो नाम हुताशनः |
+
+‘“The maidens who the fire named Tapas had begotten, 
+
+किं करोमीति ताः स्कन्दं सम्प्राप्ताः समभाषत ||६||
+
+went to Skanda and he asked, ‘What will I do?’ 
+###### 7
+मातर ऊचुः||
+
+The mothers replied, 
+
+भवेम सर्वलोकस्य वयं मातर उत्तमाः |
+प्रसादात्तव पूज्याश्च प्रियमेतत्कुरुष्व नः ||७||
+
+‘Grant us this favour. May we be the supreme mothers of all the worlds. May we be worshipped. Do this for our pleasure.’
+###### 8
+मार्कण्डेय उवाच||
+
+He replied 
+
+सोऽब्रवीद्बाढमित्येवं भविष्यध्वं पृथग्विधाः |
+
+that it would be this way. Then that great-souled one again said, ‘You will be of different kinds, 
+
+अशिवाश्च शिवाश्चैव पुनः पुनरुदारधीः ||८||
+
+auspicious and inauspicious.’ 
+###### 9
+ततः सङ्कल्प्य पुत्रत्वे स्कंदं मातृगणोऽगमत् |
+
+Thus, having fulfilled the resolution of making Skanda their son, the group of mothers went away. 
+
+काकी च हलिमा चैव रुद्राथ बृहली तथा ||९||
+आर्या पलाला वै मित्रा सप्तैताः शिशुमातरः ||९||
+
+Kaki, Halima, Rudra, Brihali, Arya, Palala and Mitra became the seven mothers of children who have just been born. 
+###### 10
+एतासां वीर्यसम्पन्नः शिशुर्नामातिदारुणः |
+स्कन्दप्रसादजः पुत्रो लोहिताक्षो भयङ्करः ||१०||
+
+Through Skanda’s favours, each of them had a terrible son, named Shishu,263 full of valour and red in the eye. 
+###### 12
+एष वीराष्टकः प्रोक्तः स्कन्दमातृगणोद्भवः |
+छागवक्त्रेण सहितो नवकः परिकीर्त्यते ||११||
+
+Those who were born from Skanda’s group of mothers are known as the eight brave ones.264 Together with the one who has the face of a goat,265 they are referred to as the nine. 
+###### 12
+षष्ठं छागमयं वक्त्रं स्कन्दस्यैवेति विद्धि तत् |
+षट्शिरोऽभ्यन्तरं राजन्नित्यं मातृगणार्चितम् ||१२||
+
+O king! Know that the sixth of Skanda’s six heads has the face of a goat and is always worshipped by the group of mothers. 
+###### 13
+षण्णां तु प्रवरं तस्य शीर्षाणामिह शब्द्यते |
+
+The chief among his six heads is known as Bhadrashakha. 
+
+शक्तिं येनासृजद्दिव्यां भद्रशाख इति स्म ह ||१३||
+
+It is through this that he created divine energy.
+### c218
+###### 4
+श्रिया जुष्टः पृथुयशाः स कुमारवरस्तदा |
+निषण्णो दृश्यते भूतैः पौर्णमास्यां यथा शशी ||४||
+
+When the greatly famous Kumara was thus united with Shri, all the beings saw him, like the moon on the night of the full moon.
+###### 8
+स्कन्द उवाच||
+
+Skanda asked, 
+
+किमिन्द्रः सर्वलोकानां करोतीह तपोधनाः |
+कथं देवगणांश्चैव पाति नित्यं सुरेश्वरः ||८||
+
+‘O ones rich in austerities! What does the Indra of all the worlds do? How does the lord of the gods always protect the masses of gods?’ 
+###### 9
+ऋषय ऊचुः||
+
+The rishis replied, 
+
+इन्द्रो दिशति भूतानां बलं तेजः प्रजाः सुखम् |
+तुष्टः प्रयच्छति तथा सर्वान्दायान्सुरेश्वरः ||९||
+
+‘Indra grants beings strength, energy, offspring and happiness. When he is satisfied, the lord of the gods grants everyone their shares. 
+###### 10
+दुर्वृत्तानां संहरति वृत्तस्थानां प्रयच्छति |
+अनुशास्ति च भूतानि कार्येषु बलसूदनः ||१०||
+
+He withdraws it from those who perform evil deeds and grants it to those who perform good ones. The destroyer of Bala assigns beings to their tasks. 
+##### 11
+असूर्ये च भवेत्सूर्यस्तथाचन्द्रे च चन्द्रमाः |
+भवत्यग्निश्च वायुश्च पृथिव्यापश्च कारणैः ||११||
+
+He acts as the sun when there is no sun, and as the moon when there is no moon. He becomes the fire, the wind, the earth and the water and their origins.
+###### 12
+एतदिन्द्रेण कर्तव्यमिन्द्रे हि विपुलं बलम् |
+
+These are Indra’s tasks and Indra’s strength is immense. 
+
+त्वं च वीर बलश्रेष्ठस्तस्मादिन्द्रो भवस्व नः ||१२||
+
+You are brave and you are supreme in strength. Therefore, you should be our Indra.’
+###### 15
+शक्र उवाच||
+
+‘“Shakra said, 
+
+बलं तवाद्भुतं वीर त्वं देवानामरीञ्जहि |
+अवज्ञास्यन्ति मां लोका वीर्येण तव विस्मिताः ||१५||
+
+‘O brave one! Your strength is extraordinary. Kill the enemies of the gods. Amazed at your prowess, the worlds will ignore me. 
+###### 16
+इन्द्रत्वेऽपि स्थितं वीर बलहीनं पराजितम् |
+आवयोश्च मिथो भेदे प्रयतिष्यन्त्यतन्द्रिताः ||१६||
+
+O brave one! Though I am established as Indra, I am inferior in strength and have been vanquished. Incessantly, they will attempt to bring about false dissension among us. 
+###### 20
+शक्र उवाच||
+
+Shakra said, 
+
+यदि सत्यमिदं वाक्यं निश्चयाद्भाषितं त्वया |
+यदि वा शासनं स्कन्द कर्तुमिच्छसि मे शृणु ||२०||
+
+‘O Skanda! If you have spoken true words according to your decision, and if you wish to follow my instructions, then listen to me. 
+###### 21
+अभिषिच्यस्व देवानां सेनापत्ये महाबल |
+अहमिन्द्रो भविष्यामि तव वाक्यान्महाबल ||२१||
+
+O immensely strong one! Be instated as the general of the gods. O immensely strong one! Following your words, I will remain as Indra.’
+##### 27-30
+###### 27
+रुद्रमग्निं द्विजाः प्राहू रुद्रसूनुस्ततस्तु सः |
+
+The brahmanas also refer to Agni as Rudra and he is thus Rudra’s son. 
+
+रुद्रेण शुक्रमुत्सृष्टं तच्छ्वेतः पर्वतोऽभवत् ||२७||
+
+The semen secreted by Rudra became Mount Shveta. 
+
+पावकस्येन्द्रियं श्वेते कृत्तिकाभिः कृतं नगे ||२७||
+
+It was on Mount Shveta that the Krittikas placed Agni’s semen.273
+###### 28
+पूज्यमानं तु रुद्रेण दृष्ट्वा सर्वे दिवौकसः |
+रुद्रसूनुं ततः प्राहुर्गुहं गुणवतां वरम् ||२८||
+
+All the residents of heaven saw Rudra offer homage to Guha, foremost among those who possess all the qualities. So he came to be known as Rudra’s son. 
+###### 29
+अनुप्रविश्य रुद्रेण वह्निं जातो ह्ययं शिशुः |
+
+The child was born after Rudra entered Agni. 
+
+तत्र जातस्ततः स्कन्दो रुद्रसूनुस्ततोऽभवत् ||२९||
+
+Because he was born in this way, he became Rudra’s son.
+###### 30
+रुद्रस्य वह्नेः स्वाहायाः षण्णां स्त्रीणां च तेजसा |
+जातः स्कन्दः सुरश्रेष्ठो रुद्रसूनुस्ततोऽभवत् ||३०||
+
+It was thus that Skanda, foremost among the gods, was born as Rudra’s son, through the energy of Rudra, Agni, Svaha and the six ladies.
+###### 32
+कुक्कुटश्चाग्निना दत्तस्तस्य केतुरलङ्कृतः |
+रथे समुच्छ्रितो भाति कालाग्निरिव लोहितः ||३२||
+
+Agni gave him a cock and that became his ornamental sign.274 Perched on his chariot, it blazed like the red fire of destruction.
+### c219
+###### 1
+मार्कण्डेय उवाच||
+
+‘Markandeya said, 
+
+श्रिया जुष्टं महासेनं देवसेनापतिं कृतम् |
+सप्तर्षिपत्न्यः षड्देव्यस्तत्सकाशमथागमन् ||१||
+
+“When Mahasena was united with Shri and became the general of the gods,280 the six goddesses who were the wives of the saptarshis came to him. 
+###### 2
+ऋषिभिः सम्परित्यक्ता धर्मयुक्ता महाव्रताः |
+द्रुतमागम्य चोचुस्ता देवसेनापतिं प्रभुम् ||२||
+
+They had been abandoned by the rishis, though they were devoted to dharma and were great in their vows. They swiftly went to the lord who was the general of the gods and said, 
+###### 3
+वयं पुत्र परित्यक्ता भर्तृभिर्देवसंमितैः |
+अकारणाद्रुषा तात पुण्यस्थानात्परिच्युताः ||३||
+
+‘O son! Without any reason and driven by anger, our divine husbands have abandoned us. O son! We have been dislodged from our pure positions.
+###### 4
+अस्माभिः किल जातस्त्वमिति केनाप्युदाहृतम् |
+
+It is said that someone reported we gave birth to you 
+
+असत्यमेतत्संश्रुत्य तस्मान्नस्त्रातुमर्हसि ||४||
+
+and they heard this falsehood. You should save us. O lord! 
+###### 7
+एवमुक्ते ततः शक्रं किं कार्यमिति सोऽब्रवीत् |
+उक्तः स्कन्देन ब्रूहीति सोऽब्रवीद्वासवस्ततः ||७||
+
+When this had been said, he281 asked Shakra, ‘What should be done?’ Asked thus by Skanda, Vasava replied, ‘
+###### 8
+अभिजित्स्पर्धमाना तु रोहिण्या कन्यसी स्वसा |
+इच्छन्ती ज्येष्ठतां देवी तपस्तप्तुं वनं गता ||८||
+
+Abhijit is Rohini’s younger sister, but is proud.282 The goddess wishes to be the eldest and has gone to the forest to perform austerities. 
+###### 9
+तत्र मूढोऽस्मि भद्रं ते नक्षत्रं गगनाच्च्युतम् |
+कालं त्विमं परं स्कन्द ब्रह्मणा सह चिन्तय ||९||
+
+O fortunate one! I am bewildered, because a nakshatra has been dislodged from the sky. O Skanda! Consult with Brahma about that excellent time.283 
+###### 10
+धनिष्ठादिस्तदा कालो ब्रह्मणा परिनिर्मितः |
+रोहिण्याद्योऽभवत्पूर्वमेवं सङ्ख्या समाभवत् ||१०||
+
+Brahma determined the time for Dhanishtha and the others. Rohini was the first and their number used to be complete.’ 
+###### 11
+एवमुक्ते तु शक्रेण त्रिदिवं कृत्तिका गताः |
+नक्षत्रं शकटाकारं भाति तद्वह्निदैवतम् ||११||
+
+Having been thus addressed by Shakra, the Krittikas went to heaven. This nakshatra is presided over by the god of fire and shines in the form of a cart.284 ‘
+###### 12
+विनता चाब्रवीत्स्कन्दं मम त्वं पिण्डदः सुतः |
+इच्छामि नित्यमेवाहं त्वया पुत्र सहासितुम् ||१२||
+
+“Vinata285 told Skanda, ‘You are my son and you are entitled to offer me funeral oblations. O son! I wish to live with you always.’ 
+###### 13
+स्कन्द उवाच||
+
+Skanda replied, 
+
+एवमस्तु नमस्तेऽस्तु पुत्रस्नेहात्प्रशाधि माम् |
+स्नुषया पूज्यमाना वै देवि वत्स्यसि नित्यदा ||१३||
+
+‘I bow before you. Let it be that way. Instruct me with a mother’s affection. O goddess! Worshipped by your daughter-in-law, you will always live here.’ 
+###### 14
+मार्कण्डेय उवाच||
+
+अथ मातृगणः सर्वः स्कन्दं वचनमब्रवीत् |
+
+Then the entire group of mothers spoke to Skanda in these words. 
+
+वयं सर्वस्य लोकस्य मातरः कविभिः स्तुताः ||१४||
+
+‘The wise ones have praised us as the mothers of all the worlds. 
+
+इच्छामो मातरस्तुभ्यं भवितुं पूजयस्व नः ||१४||
+
+But we wish to be your mother. Therefore, show us honour.’ 
+###### 15
+स्कन्द उवाच||
+
+Skanda replied, 
+
+मातरस्तु भवत्यो मे भवतीनामहं सुतः |
+उच्यतां यन्मया कार्यं भवतीनामथेप्सितम् ||१५||
+
+‘You will be my mothers and I will be your son. Tell me what I should do to satisfy your wishes.’ 
+###### 16
+मातर ऊचुः||
+
+The mothers said, 
+
+यास्तु ता मातरः पूर्वं लोकस्यास्य प्रकल्पिताः |
+अस्माकं तद्भवेत्स्थानं तासां चैव न तद्भवेत् ||१६||
+
+‘In earlier times, others had been thought of as mothers of the world. Let us have that position and let them no longer have that position. 
+###### 17
+भवेम पूज्या लोकस्य न ताः पूज्याः सुरर्षभ |
+प्रजास्माकं हृतास्ताभिस्त्वत्कृते ताः प्रयच्छ नः ||१७||
+
+O bull among gods! Let us be worshipped by the world, not them. Because of you, we have been deprived of our offspring.286 Give them back to us.’ 
+###### 18
+स्कन्द उवाच||
+
+Skanda replied, 
+
+दत्ताः प्रजा न ताः शक्या भवतीभिर्निषेवितुम् |
+अन्यां वः कां प्रयच्छामि प्रजां यां मनसेच्छथ ||१८||
+
+‘You cannot wish for offspring that have already been given away. But if you so wish, I can give you other offspring.’ 
+###### 19
+मातर ऊचुः||
+
+The mothers said, 
+
+इच्छाम तासां मातॄणां प्रजा भोक्तुं प्रयच्छ नः |
+त्वया सह पृथग्भूता ये च तासामथेश्वराः ||१९||
+
+‘While we are with you, we wish to devour the offspring of those mothers.287 Give them to us. They and their gods are different from you.’ 
+###### 20
+स्कन्द उवाच||
+
+Skanda replied, 
+
+प्रजा वो दद्मि कष्टं तु भवतीभिरुदाहृतम् |
+
+‘I can give you offspring. But what you have asked for will be extremely painful. 
+
+परिरक्षत भद्रं वः प्रजाः साधु नमस्कृताः ||२०||
+
+O fortunate ones! Protect the offspring as long as they are good and show you homage.’
+###### 21
+मातर ऊचुः||
+
+परिरक्षाम भद्रं ते प्रजाः स्कन्द यथेच्छसि |
+त्वया नो रोचते स्कन्द सहवासश्चिरं प्रभो ||२१||
+
+The mothers said, ‘O fortunate one! O Skanda! As you desire, we will protect the offspring. O Skanda! O lord! If it pleases you, we wish to live with you always.’ 
+###### 22
+स्कन्द उवाच||
+
+यावत्षोडश वर्षाणि भवन्ति तरुणाः प्रजाः |
+प्रबाधत मनुष्याणां तावद्रूपैः पृथग्विधैः ||२२||
+
+Skanda replied, ‘In different forms, afflict the offspring of young humans until they have attained sixteen years of age. 
+###### 23
+अहं च वः प्रदास्यामि रौद्रमात्मानमव्ययम् |
+परमं तेन सहिता सुखं वत्स्यथ पूजिताः ||२३||
+
+I will give you undecaying and terrible souls. 
+With these, you will live in supreme happiness and also be worshipped a lot.’ 
+###### 24
+मार्कण्डेय उवाच||
+
+ततः शरीरात्स्कन्दस्य पुरुषः काञ्चनप्रभः |
+भोक्तुं प्रजाः स मर्त्यानां निष्पपात महाबलः ||२४||
+
+At that, an extremely strong being, golden in complexion, sprung up from Skanda’s body to devour the offspring of humans. 
+###### 25
+अपतत्स तदा भूमौ विसञ्ज्ञोऽथ क्षुधान्वितः |
+स्कन्देन सोऽभ्यनुज्ञातो रौद्ररूपोऽभवद्ग्रहः ||२५||
+
+स्कन्दापस्मारमित्याहुर्ग्रहं तं द्विजसत्तमाः ||२५||
+
+Oppressed by hunger, it suddenly fell down on the ground, unconscious. “With Skanda’s permission, it became a graha,288 terrible in form. Supreme brahmanas know it by the name of Skandapasmara.289 
+##### 26-29
+###### 26
+विनता तु महारौद्रा कथ्यते शकुनिग्रहः |
+पूतनां राक्षसीं प्राहुस्तं विद्यात्पूतनाग्रहम् ||२६||
+
+‘The extremely terrible Vinata is known as the graha Shakuni. The rakshasa woman Putana is known by the learned as the graha Putana. 
+###### 27
+कष्टा दारुणरूपेण घोररूपा निशाचरी |
+पिशाची दारुणाकारा कथ्यते शीतपूतना ||२७||
+
+She is terrible in form. She is fearful in form. She causes great pain and roams around in the night. The pishacha woman who is terrible in form is known as Shitaputana. 
+
+गर्भान्सा मानुषीणां तु हरते घोरदर्शना ||२७||
+
+Her form is fearful and she steals embryos from women. 
+###### 28
+अदितिं रेवतीं प्राहुर्ग्रहस्तस्यास्तु रैवतः |
+सोऽपि बालाञ्शिशून्घोरो बाधते वै महाग्रहः ||२८||
+
+Aditi is known as Revati and her graha is known as Raivata. This extremely terrible and gigantic graha afflicts children. 
+###### 29
+दैत्यानां या दितिर्माता तामाहुर्मुखमण्डिकाम् |
+अत्यर्थं शिशुमांसेन सम्प्रहृष्टा दुरासदा ||२९||
+
+Diti, the mother of the daityas, is known as Mukhamandika. This inaccessible demoness happily feeds on the flesh of children. 
+#### ?
+###### 30
+कुमाराश्च कुमार्यश्च ये प्रोक्ताः स्कन्दसम्भवाः |
+तेऽपि गर्भभुजः सर्वे कौरव्य सुमहाग्रहाः ||३०||
+
+The Kumaras and the Kumaris are said to have been created from Skanda. O Kouravya! They are extremely large grahas and all of them devour embryos. 
+###### 31
+तासामेव कुमारीणां पतयस्ते प्रकीर्तिताः |
+अज्ञायमाना गृह्णन्ति बालकान्रौद्रकर्मिणः ||३१||
+
+They290 are known as the husbands of the Kumaris. They are terrible in deeds, and without it being known, they snatch small children. 
+##### 32-34
+###### 32
+गवां माता तु या प्राज्ञैः कथ्यते सुरभिर्नृप |
+शकुनिस्तामथारुह्य सह भुङ्क्ते शिशून्भुवि ||३२||
+
+O king! The wise know Surabhi to be the mother of cattle. Shakuni rides on her, and with her, devours children on earth. 
+###### 33
+सरमा नाम या माता शुनां देवी जनाधिप |
+सापि गर्भान्समादत्ते मानुषीणां सदैव हि ||३३||
+
+O lord of men! The goddess Sarama is the mother of dogs. She always robs the embryos of women. 
+###### 34
+पादपानां च या माता करञ्जनिलया हि सा |
+करञ्जे तां नमस्यन्ति तस्मात्पुत्रार्थिनो नराः ||३४||
+
+The mother of trees resides in a karanja.291 Men who wish to have sons worship her in the karanja. 
+##### ?
+###### 35
+इमे त्वष्टादशान्ये वै ग्रहा मांसमधुप्रियाः |
+द्विपञ्चरात्रं तिष्ठन्ति सततं सूतिकागृहे ||३५||
+
+These eighteen grahas, and others, are fond of meat and liquor.292 They always live for ten nights in places where delivery takes place. 
+##### 36-40
+###### 36
+कद्रूः सूक्ष्मवपुर्भूत्वा गर्भिणीं प्रविशेद्यदा |
+भुङ्क्ते सा तत्र तं गर्भं सा तु नागं प्रसूयते ||३६||
+
+Assuming a subtle form, Kadru enters a woman who is pregnant. She devours the embryo there and she293 gives birth to a serpent instead.294
+###### 37
+गन्धर्वाणां तु या माता सा गर्भं गृह्य गच्छति |
+ततो विलीनगर्भा सा मानुषी भुवि दृश्यते ||३७||
+
+The mother of gandharvas grasps the embryo and departs. On earth, that woman is seen as one whose foetus has vanished. 
+###### 38
+या जनित्री त्वप्सरसां गर्भमास्ते प्रगृह्य सा |
+उपविष्टं ततो गर्भं कथयन्ति मनीषिणः ||३८||
+
+The mother of apsaras grasps the embryo and sits and the learned refer to this as a foetus that is seated.295 
+###### 39
+लोहितस्योदधेः कन्या धात्री स्कन्दस्य सा स्मृता |
+लोहितायनिरित्येवं कदम्बे सा हि पूज्यते ||३९||
+
+The daughter of the ocean of blood is known as Skanda’s nurse. In a kadamba tree, she is worshipped by the name of Lohitayani.296 
+###### 40
+पुरुषेषु यथा रुद्रस्तथार्या प्रमदास्वपि |
+आर्या माता कुमारस्य पृथक्कामार्थमिज्यते ||४०||
+
+Arya dwells among women, the way Rudra resides in men. Kumara’s mother Arya is separately worshipped for the fulfilment of desires.
+##### ?
+###### 41
+एवमेते कुमाराणां मया प्रोक्ता महाग्रहाः |
+यावत्षोडश वर्षाणि अशिवास्ते शिवास्ततः ||४१||
+
+‘“I have thus recounted for you the great grahas of the Kumaras. They are (aśiva) inauspicious up to sixteen years of age. After that, they turn (śiva) auspicious. 
+###### 42
+ये च मातृगणाः प्रोक्ताः पुरुषाश्चैव ये ग्रहाः |
+सर्वे स्कन्दग्रहा नाम ज्ञेया नित्यं शरीरिभिः ||४२||
+
+The listed group of mothers and the male grahas are always known by everyone as Skanda grahas, residing in the body. 
+###### 43
+तेषां प्रशमनं कार्यं स्नानं धूपमथाञ्जनम् |
+बलिकर्मोपहारश्च स्कन्दस्येज्या विशेषतः ||४३||
+
+They are pacified through oblations, bathing, (dhūpa) incense, (añjana) collyrium, (bali) sacrifices and (upahāra) gifts, especially (ijyā) rites for Skanda. 
+###### 44
+एवमेतेऽर्चिताः सर्वे प्रयच्छन्ति शुभं नृणाम् |
+आयुर्वीर्यं च राजेन्द्र सम्यक्पूजानमस्कृताः ||४४||
+
+When thus (arc) worshipped and offered (pūjā) (namas) homage properly, all of them bestow welfare, long lives and energy on men.
+###### 45
+ऊर्ध्वं तु षोडशाद्वर्षाद्ये भवन्ति ग्रहा नृणाम् |
+तानहं सम्प्रवक्ष्यामि नमस्कृत्य महेश्वरम् ||४५||
+
+O Indra among kings! After worshipping Maheshvara, I will now recount the grahas that afflict men beyond the sixteenth year.
+##### 46-52
+###### 46
+यः पश्यति नरो देवाञ्जाग्रद्वा शयितोऽपि वा |
+उन्माद्यति स तु क्षिप्रं तं तु देवग्रहं विदुः ||४६||
+
+The man who sees gods, whether asleep or awake, swiftly turns mad and the learned know this as devagraha. 
+###### 47
+आसीनश्च शयानश्च यः पश्यति नरः पितॄन् |
+उन्माद्यति स तु क्षिप्रं स ज्ञेयस्तु पितृग्रहः ||४७||
+
+The man who sees his ancestors, whether seated or asleep, swiftly turns mad and this is known as pitrigraha. 
+###### 48
+अवमन्यति यः सिद्धान्क्रुद्धाश्चापि शपन्ति यम् |
+उन्माद्यति स तु क्षिप्रं ज्ञेयः सिद्धग्रहस्तु सः ||४८||
+
+He who disrespects the siddhas angers them and is cursed by them, swiftly turning mad, and this is known as siddhagraha. 
+###### 49
+उपाघ्राति च यो गन्धान्रसांश्चापि पृथग्विधान् |
+उन्माद्यति स तु क्षिप्रं स ज्ञेयो राक्षसो ग्रहः ||४९||
+
+He who inhales fragrances and tastes different flavours, swiftly turns mad and this is known as rakshasagraha. 
+###### 50
+गन्धर्वाश्चापि यं दिव्याः संस्पृशन्ति नरं भुवि |
+उन्माद्यति स तु क्षिप्रं ग्रहो गान्धर्व एव सः ||५०||
+
+A man on earth who is touched by celestial gandharvas, swiftly turns mad and this is known as gandharvagraha. 
+###### 51
+आविशन्ति च यं यक्षाः पुरुषं कालपर्यये |
+उन्माद्यति स तु क्षिप्रं ज्ञेयो यक्षग्रहस्तु सः ||५१||
+
+Over a period of time, a man who is entered by yakshas, swiftly turns mad and this is known as yakshagraha. 
+###### 52
+अधिरोहन्ति यं नित्यं पिशाचाः पुरुषं क्वचित् |
+उन्माद्यति स तु क्षिप्रं पैशाचं तं ग्रहं विदुः ||५२||
+
+A man who is always ascended by pishachas, swiftly turns mad and this is known as pishachagraha.
+##### ?
+###### 53
+यस्य दोषैः प्रकुपितं चित्तं मुह्यति देहिनः |
+उन्माद्यति स तु क्षिप्रं साधनं तस्य शास्त्रतः ||५३||
+
+A man whose mind is deluded and turbulent because of these evils, swiftly turns mad, and must be cured in accordance with the sacred texts. 
+###### 54
+वैक्लव्याच्च भयाच्चैव घोराणां चापि दर्शनात् |
+उन्माद्यति स तु क्षिप्रं सत्त्वं तस्य तु साधनम् ||५४||
+
+Men swiftly turn mad because of perplexity, fear and terrible sights, and must be cured through rites. 
+###### 55
+कश्चित्क्रीडितुकामो वै भोक्तुकामस्तथापरः |
+अभिकामस्तथैवान्य इत्येष त्रिविधो ग्रहः ||५५||
+
+There are three types of grahas—some are frolicsome, others are gluttons, and others are lustful. 
+###### 56
+यावत्सप्ततिवर्षाणि भवन्त्येते ग्रहा नृणाम् |
+अतः परं देहिनां तु ग्रहतुल्यो भवेज्ज्वरः ||५६||
+
+They afflict men until the attainment of seventy years of age. After that, fever is the equivalent of a graha for men. 
+###### 57
+अप्रकीर्णेन्द्रियं दान्तं शुचिं नित्यमतन्द्रितम् |
+आस्तिकं श्रद्दधानं च वर्जयन्ति सदा ग्रहाः ||५७||
+
+Grahas always avoid those who have not dispersed their senses and those who are controlled, pure and always attentive, and also those who believe in god and are devoted. 
+###### 58
+इत्येष ते ग्रहोद्देशो मानुषाणां प्रकीर्तितः |
+न स्पृशन्ति ग्रहा भक्तान्नरान्देवं महेश्वरम् ||५८||
+
+This is the description of grahas that afflict men. Grahas do not touch men who are devoted to the god Maheshvara.”’
 ### c228
 ###### 4
 रमणीयेषु देशेषु घोषाः सम्प्रति कौरव |
@@ -1787,10 +2666,243 @@ Among weapons I am vajra. 391 Among cows I become kamadhenu. 392 I become Kandar
 
 # p9
 ### c43
+##### 6-9
+###### 6
+तेजो माहेश्वरं स्कन्नमग्नौ प्रपतितं पुरा
+
+In earlier times, Māheśvara’s (tejas) seed (skand) fell down into (agni) fire.120 
+
+तत्सर्वभक्षो भगवान्नाशकद्दग्धुमक्षयम्
+
+The illustrious one who devours everything121 was incapable of destroying that (akṣaya) eternal seed. 
+###### 7
+तेनासीदति तेजस्वी दीप्तिमान्हव्यवाहनः
+
+The one who bears (havya) oblations became energetic and radiant
+
+न चैव धारयामास गर्भं तेजोमयं तदा
+
+Instead, because he was bearing that energetic (garbha) seed. 
+###### 8
+स गङ्गामभिसंगम्य नियोगाद्ब्रह्मणः प्रभुः
+
+On Lord Brahma’s instructions, he went to the Ganga 
+
+गर्भमाहितवान्दिव्यं भास्करोपमतेजसम्
+
+and flung that divine (garbha) seed, as energetic as the sun, there. 
+###### 9
+अथ गङ्गापि तं गर्भमसहन्ती विधारणे
+
+However, Ganga was also not capable of bearing that (garbha) seed 
+
+उत्ससर्ज गिरौ रम्ये हिमवत्यमरार्चिते
+
+and flung it on the beautiful slopes of the Himalayas, worshipped by the immortals. 
+##### 10-12
+###### 10
+स तत्र ववृधे लोकानावृत्य ज्वलनात्मजः
+
+(jvalanātmaja) Agni’s son122 began to grow there, pervading the worlds. 
+
+ददृशुर्ज्वलनाकारं तं गर्भमथ कृत्तिकाः
+
+The kṛttikas saw the blazing (garbha) womb there.123 
+###### 11
+शरस्तम्बे महात्मानमनलात्मजमीश्वरम्
+
+The lord, the great-souled son of the fire god, was lying down in a clump of reeds. 
+
+ममायमिति ताः सर्वाः पुत्रार्थिन्योऽभिचक्रमुः
+
+Desiring a son, all of them exclaimed, “This is mine.” 
+###### 12
+तासां विदित्वा भावं तं मातॄणां भगवान्प्रभुः
+
+Discerning the (bhāva) sentiments of the (mātā) mothers, the illustrious lord 
+
+प्रस्नुतानां पयः षड्भिर्वदनैरपिबत्तदा
+
+assumed six mouths  and drank milk from all their (prastuta) breasts. 
+##### ?
+###### 13
+तं प्रभावं समालक्ष्य तस्य बालस्य कृत्तिकाः
+
+Seeing the powers of the child, the Krittikas, 
+
+परं विस्मयमापन्ना देव्यो दिव्यवपुर्धराः
+
+the divine goddesses, celestial in their forms, were filled with great wonder.
+###### 14
+यत्रोत्सृष्टः स भगवान्गङ्गया गिरिमूर्धनि
+
+Since Ganga had cast the illustrious one on the peak of the mountain, 
+
+स शैलः काञ्चनः सर्वः संबभौ कुरुसत्तम
+
+that mountain is beautiful and golden everywhere, O supreme among the Kuru lineage! 
+###### 15
+वर्धता चैव गर्भेण पृथिवी तेन रञ्जिता
+
+The child began to grow and made the earth beautiful. 
+
+अतश्च सर्वे संवृत्ता गिरयः काञ्चनाकराः
+
+It is because of this that all the mountains began to yield gold.
 ###### 16
 कुमारश्च महावीर्यः कार्त्तिकेय इति स्मृतः |
+
+The immensely valorous Kumara is known by the name of Kartikeya.124 
+
 गाङ्गेयः पूर्वमभवन्महायोगबलान्वितः ||१६||
 
+Before this, with his great powers of yoga, he had been known by the name of Gangeya.
+###### 23
+स ददर्श महावीर्यं देवदेवमुमापतिम्
+
+The immensely valorous one saw that Uma’s consort, the lord of the gods, was seated, 
+
+शैलपुत्र्या सहासीनं भूतसंघशतैर्वृतम्
+
+surrounded by a large number of bhutas.125 The daughter of the mountains was with him.126
+###### 24
+निकाया भूतसंघानां परमाद्भुतदर्शनाः
+
+Those large numbers of bhutas were without bodies and were extremely wonderful to behold. 
+
+विकृता विकृताकारा विकृताभरणध्वजाः
+
+They were hideous, with distorted bodies. Their ornaments and standards were ugly. 
+###### 25
+व्याघ्रसिंहर्क्षवदना बिडालमकराननाः
+
+Their faces were like tigers, lions and bears. Some of them had faces like cats and makaras. 
+
+वृषदंशमुखाश्चान्ये गजोष्ट्रवदनास्तथा
+
+There were those with faces like cats.127 There were others with faces like elephants and camels. 
+###### 29
+सप्तमातृगणाश्चैव समाजग्मुर्विशां पते
+
+The seven matrikas and their followers were also there.128 
+
+साध्या विश्वेऽथ मरुतो वसवः पितरस्तथा
+
+So were the Sadhyas, the Vishvadevas, the Maruts, the Vasus and the ancestors.
+### c45
+##### 29-34
+###### 29
+एताश्चान्याश्च बहवो मातरो भरतर्षभ
+
+There were these and many other matrikas. O bull among the Bharata lineage! 
+
+कार्त्तिकेयानुयायिन्यो नानारूपाः सहस्रशः
+
+Thousands of them followed Kartikeya, in many different forms. 
+###### 30
+दीर्घनख्यो दीर्घदन्त्यो दीर्घतुण्ड्यश्च भारत
+
+They had long nails and long teeth. O descendant of the Bharata lineage! Their (tuṇḍa) mouths were long. 
+
+सरला मधुराश्चैव यौवनस्थाः स्वलंकृताः
+
+They were simple, sweet, youthful and ornamented. 
+###### 31
+माहात्म्येन च संयुक्ताः कामरूपधरास्तथा
+
+They were full of (māhātmya) greatness and (kāmarūpadhara) could assume any form at will.
+
+निर्मांसगात्र्यः श्वेताश्च तथा काञ्चनसंनिभाः
+
+Some (nirmāṃaagātra) didn’t have any flesh on their bodies. Some were fair. Others possessed the complexion of (kāñcana) gold. 
+###### 32
+कृष्णमेघनिभाश्चान्या धूम्राश्च भरतर्षभ
+
+O bull among the Bharata lineage! Some were like dark clouds. Others were like smoke. 
+
+अरुणाभा महाभागा दीर्घकेश्यः सिताम्बराः
+
+Some immensely fortunate ones were (aruṇa) red in hue, long in the hair and dressed in (sita) white garments. 
+###### 33
+ऊर्ध्ववेणीधराश्चैव पिङ्गाक्ष्यो लम्बमेखलाः
+
+Some were (ūrdhvaveṇīdhara) in braids that were held up. Others were (piṅgākṣa) tawny-eyed and were attired in long (mekhala) girdles.
+
+लम्बोदर्यो लम्बकर्णास्तथा लम्बपयोधराः
+
+Some had long stomachs and long ears. Others possessed drooping breasts. 
+###### 34
+ताम्राक्ष्यस्ताम्रवर्णाश्च हर्यक्ष्यश्च तथापराः
+
+There were others who were (tāmra) coppery-eyed and (hari) green-eyed, with complexions like copper. 
+
+वरदाः कामचारिण्यो नित्यप्रमुदितास्तथा
+
+O descendant of the Bharata lineage! They were the ones who granted boons. They (kāmacārī) could travel anywhere at will and were always cheerful. 
+##### 35-36
+###### 35
+याम्यो रौद्र्यस्तथा सौम्याः कौबेर्योऽथ महाबलाः
+वारुण्योऽथ च माहेन्द्र्यस्तथाग्नेय्यः परंतप
+
+Some assumed the traits of (yāmī) Yama, (raudrī) Rudra, (saumī) Soma, the (mahābalā) immensely strong (kauberī) Kubera, (vāruṇī) Varuna, the great (māhendrī) Indra, (āgneyī) Agni, 
+###### 36
+वायव्यश्चाथ कौमार्यो ब्राह्म्यश्च भरतर्षभ
+
+(Vāyavī) Vayu, (kaumārī) Kumara and (brāhmī) Brahma. O descendant of the Bharata lineage! 
+
+रूपेणाप्सरसां तुल्या जवे वायुसमास्तथा
+
+They were like apsaras in their beauty and like the wind in speed. 
+##### 37-39
+###### 37
+परपुष्टोपमा वाक्ये तथर्द्ध्या धनदोपमाः
+
+They were like cuckoos in their voice and like the lord of riches in prosperity. 
+
+शक्रवीर्योपमाश्चैव दीप्त्या वह्निसमास्तथा
+
+They were like Shakra in their valour and like the fire in their resplendence. 
+###### 38
+वृक्षचत्वरवासिन्यश्चतुष्पथनिकेतनाः
+
+They lived on trees and (catvara) open plains. Others made their abodes at (catuṣpatha) crossroads. 
+
+गुहाश्मशानवासिन्यः शैलप्रस्रवणालयाः
+
+Some lived in caves and cremation grounds. Others made their abodes in mountains and springs. 
+###### 39
+नानाभरणधारिण्यो नानामाल्याम्बरास्तथा
+
+They wore many kinds of ornaments. They were attired in diverse kinds of garlands and garments. 
+
+नानाविचित्रवेषाश्च नानाभाषास्तथैव च
+
+They were dressed in many kinds of clothing. They spoke many different kinds of languages.
+##### ?
+###### 48
+सेनापत्यमनुप्राप्य स्कन्दो देवगणस्य ह
+
+Having become the general of the large numbers of gods, Skanda 
+
+शुशुभे ज्वलितोऽर्चिष्मान्द्वितीय इव पावकः
+
+blazed in radiance. He was like the rays of a second fire god. 
+
+ततः पारिषदैश्चैव मातृभिश्च समन्वितः
+
+He was accompanied by the companions and the matrikas.
+###### 49
+सा सेना नैरृती भीमा सघण्टोच्छ्रितकेतना
+
+It was a terrible army of the nairrtas.152 The flags were decorated with bells. 
+
+सभेरीशङ्खमुरजा सायुधा सपताकिनी
+
+There were penants and weapons. There were drums, conch shells and larger drums. 
+
+शारदी द्यौरिवाभाति ज्योतिर्भिरुपशोभिता
+
+The army looked like the autumn sky, decorated with stars.
 # p10
 ### c14
 ###### 11
@@ -5597,6 +6709,80 @@ Ujjayani, Adapekshi, the great rishi Naradi—
 विश्वामित्रात्मजाः सर्वे मुनयो ब्रह्मवादिनः ||५८||
 
 all these sages were knowledgable about the brahman and were descended from Vishvamitra.
+### c43
+###### 16
+भीष्म उवाच||
+
+Bhishma said, 
+
+इत्युक्त्वा विपुलं प्रीतो देवशर्मा महानृषिः |
+
+“The great rishi, Devasharma, was pleased and spoke to Vipula in this way. 
+
+मुमोद स्वर्गमास्थाय सहभार्यः सशिष्यकः ||१६||
+
+With his wife and his disciple, he cheerfully ascended to heaven. 
+###### 17
+इदमाख्यातवांश्चापि ममाख्यानं महामुनिः |
+मार्कण्डेयः पुरा राजन्गङ्गाकूले कथान्तरे ||१७||
+
+O king! In ancient times, in the course of a conversation on the banks of the Ganga, the great sage, Markandeya, told me about this. 
+###### 18
+तस्माद्ब्रवीमि पार्थ त्वा स्त्रियः सर्वाः सदैव च |
+
+O Partha! That is the reason I have said, women must be protected. 
+
+उभयं दृश्यते तासु सततं साध्वसाधु च ||१८||
+
+Both types of women can always be seen, those who are virtuous and those who are evil. 
+###### 19
+स्त्रियः साध्व्यो महाभागाः संमता लोकमातरः |
+
+The ones who are virtuous are extremely fortunate and are revered as the mothers of the worlds. 
+
+धारयन्ति महीं राजन्निमां सवनकाननाम् ||१९||
+
+O king! They hold up this entire earth, with its forests and groves.
+###### 20
+असाध्व्यश्चापि दुर्वृत्ताः कुलघ्न्यः पापनिश्चयाः |
+
+The ones who are evil are wicked in conduct. Having determined to sin, they destroy the lineage. 
+
+विज्ञेया लक्षणैर्दुष्टैः स्वगात्रसहजैर्नृप ||२०||
+
+O king! They can be known through their wicked signs, naturally manifest on their bodies. 
+###### 21
+एवमेतासु रक्षा वै शक्या कर्तुं महात्मभिः |
+
+It is in this fashion that great-souled ones are capable of protecting them. 
+
+अन्यथा राजशार्दूल न शक्या रक्षितुं स्त्रियः ||२१||
+
+O tiger among kings! There is no other way in which one is capable of protecting women. O tiger among men! 
+###### 22
+एता हि मनुजव्याघ्र तीक्ष्णास्तीक्ष्णपराक्रमाः |
+
+They are fierce. They are fierce in their valour. 
+
+नासामस्ति प्रियो नाम मैथुने सङ्गमे नृभिः ||२२||
+
+There is nothing that they love more than sexual intercourse with men. 
+###### 23
+एताः कृत्याश्च कार्याश्च कृताश्च भरतर्षभ |
+
+O bull among the Bharata lineage! Even when they have agreed to live with one person, 
+
+न चैकस्मिन्रमन्त्येताः पुरुषे पाण्डुनन्दन ||२३||
+
+they do not act in this way. O descendant of the Pandu lineage! They consort with other men. 
+###### 24
+नासु स्नेहो नृभिः कार्यस्तथैवेर्ष्या जनेश्वर |
+
+O lord of men! Men should not act out of affection towards them, nor should they be driven by jealousy. 
+
+खेदमास्थाय भुञ्जीत धर्ममास्थाय चैव हि ||२४||
+
+They should be enjoyed regretfully, because that is dharma.
 ### c77
 ###### 16
 गवां मूत्रपुरीषस्य नोद्विजेत कदाचन |

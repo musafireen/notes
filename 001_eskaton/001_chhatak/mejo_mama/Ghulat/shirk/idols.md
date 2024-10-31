@@ -3,7 +3,7 @@
 
 [Q.53:19](https://quran.com/53:19/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#53:19]]
+![[Qrsd#53:19]]
 
 ## {ll~a`t ()
 at ta'if
@@ -42,7 +42,7 @@ Isis
 
 [Q.53:20](https://quran.com/53:20/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#53:20]]
+![[Qrsd#53:20]]
 
 ## manaw`p ()
 at qudayd
@@ -56,14 +56,14 @@ Fortuna
 Fata
 Ananke
 
-![[Qrsed#53:21]]![[Qrsed#53:22]]![[Qrsed#53:23]]![[Qrsed#53:27]]![[Qrsed#53:28]]
+![[Qrsd#53:21]]![[Qrsd#53:22]]![[Qrsd#53:23]]![[Qrsd#53:27]]![[Qrsd#53:28]]
 
 # Q:37:125
 
 [Q.37:125](https://quran.com/37:125/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#37:123]]
-![[Qrsed#37:125]]
+![[Qrsd#37:123]]
+![[Qrsd#37:125]]
 ## baEol2 ()
 
 ![[bbl.history.neviim#1_kings#c18#22]]
@@ -71,7 +71,7 @@ Ananke
 
 [Q.39:17](https://quran.com/39:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#39:17]]
+![[Qrsd#39:17]]
 
 ## TaAguwt ()
 
@@ -79,7 +79,7 @@ Ananke
 
 [Q.43:77](https://quran.com/43:77/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#43:74]]![[Qrsed#43:77]]
+![[Qrsd#43:74]]![[Qrsd#43:77]]
 
 ## maAlik (malik)
 
@@ -91,13 +91,13 @@ Ananke
 
 [Q.16:36](https://quran.com/16:36/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#16:36]]
+![[Qrsd#16:36]]
 
 # Q:71:23
 
 [Q.71:23](https://quran.com/71:23/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#71:21]]![[Qrsed#71:23]]
+![[Qrsd#71:21]]![[Qrsd#71:23]]
 
 ## yaguwv ()
 at al jurf
@@ -126,34 +126,34 @@ by B hudhayl B mudrika B ilyas B Adnan
 
 [Q.2:256](https://quran.com/2:256/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#2:256]]
+![[Qrsd#2:256]]
 
 # Q:2:257
 
 [Q.2:257](https://quran.com/2:257/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#2:257]]
+![[Qrsd#2:257]]
 
 # Q:4:51
 
 [Q.4:51](https://quran.com/4:51/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#4:51]]
+![[Qrsd#4:51]]
 
 # Q:4:60
 
 [Q.4:60](https://quran.com/4:60/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#4:60]]
+![[Qrsd#4:60]]
 
 # Q:4:76
 
 [Q.4:76](https://quran.com/4:76/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#4:76]]
+![[Qrsd#4:76]]
 
 # Q:5:60
 
 [Q.5:60](https://quran.com/5:60/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsed#5:60]]
+![[Qrsd#5:60]]
