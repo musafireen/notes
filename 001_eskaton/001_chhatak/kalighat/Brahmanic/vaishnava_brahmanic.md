@@ -52,7 +52,7 @@ virocana prāhrādi vatsa of virāṭ while being milked for/as māyā by dvimur
 ~~ prajāpati pierced for chasing uṣā/dyau as a stag by paśumān bhūtavān created by devas :[[AB#3.33#1-4]]
 # śatapatha br.
 - 8-6th cent BCE
-~~ matsya in manu's avanegya water saves him from sarvaprajāvaha augha by telling to build a nāva for protecting it from other fishes until it became jhaṣa :[[SpB#1.8.1#1-4]]
+~~ matsya in manu's avanegya water saves him from sarvaprajāvaha augha by telling to build a nāva for protecting it from other fishes until it became jhaṣa :[[SpB#1.8.1#1-7]]
 ~~ prajāpati pierced for chasing daughter uṣā /dyau as a stag by rudra created by devas, prajāpati's extracted flesh used for yajña :[[SpB#1.7.4#1-5]]
 ~~ as far rasa, so far ātmā :[[SpB#7.5.1#2]]
 ~~ saṃvatsara prajāpati, afraid of mṛtyu, after creating deva, manuṣya, prāṇi, aprāṇa, to be their ātmā again, divided himself into 24 ardhamāsas :[[SpB#10.4.2#1-3+18]]
@@ -72,7 +72,7 @@ virocana prāhrādi vatsa of virāṭ while being milked for/as māyā by dvimur
 ~~ āditya brahman puruṣa :[[TA#10.15]]
 # muṇḍaka u.
 - 4th c. BC
-~~ anna puruṣa :[[MU#1.1#8]]
+~~ anna puruṣa :[[MundU#1.1#8]]
 # kaṭha ār.
 - 6-4th c. BC
 ~~ śiva

@@ -78,3 +78,10 @@ The student, the Householder, the Hermit and the Renunciate,—all these, severa
 यथोक्तकारिणं विप्रं नयन्ति परमां गतिम् ॥ ८८ ॥
 
 But all these, when observed in due order, a ccording to the scriptures lead the Brāhmaṇa who has (thus) acted according to the law, to the highest state.—(88).
+# c10
+https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201731.html
+### 10.45
+मुखबाहूरुपद्जानां या लोके जातयो बहिः ।
+म्लेच्छवाचश्चार्यवाचः सर्वे ते दस्यवः स्मृताः ॥ ४५ ॥
+
+All those races of the world which are outside the pale of the people ‘born of the mouth, the arms, the thighs and the feet,’—speaking the (mleccha) ‘barbaric’ or the (ārya) ‘refined’ language—are called ‘Dasyu.’—(45)

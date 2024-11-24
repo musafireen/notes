@@ -104,22 +104,24 @@ Tamil
 பேய் pēy প্রেত 
 
 நால்வர் Nālvar চতুঃ
+### tirukataikkappu
 கடைக்காப்பு  kaṭaikkāppu सुरक्षा
 சம்பந்தர் campantar 
 சீர்காழி cīrkāḻi মরিচ 
-
-பாடல் pāṭal गीतं Song 
-பெற்ற peṟṟa प्राप्तः received
-தலங்கள் talaṅkaḷ স্থল 
+### tevaram
 தேவாரம் tēvāram দেবাল hymn 
 தேவா tēvā দেব god 
 
 நாவுக்கரசர் nāvukkaracar বাগীশ
-
 அப்பர் appar পিতা
 
 திருவாரூர் Tiruvārūr
 ஆரூர் ārūr 
+
+பாடல் pāṭal गीतं Song 
+பெற்ற peṟṟa प्राप्तः received
+தலங்கள் talaṅkaḷ স্থল 
+### tiruppatu
 திருப்பது Tiruppatu
 பது patu দশ
 சுந்தரர் cuntarar সুন্দর

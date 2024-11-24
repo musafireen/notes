@@ -1,4 +1,6 @@
 
+https://www.wisdomlib.org/hinduism/book/ishavasya-bhashya-by-sitarama/
+
 # 1.1
 https://www.wisdomlib.org/hinduism/book/ishavasya-bhashya-by-sitarama/d/doc145018.html
 

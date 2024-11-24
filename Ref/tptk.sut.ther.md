@@ -10,6 +10,82 @@
 
 12-Lohicoa Sulta
 13
+### kevaṭṭasutta
+#### bhūtanirodhesakabhikkhuvatthu
+এবং বুত্তে, কেবট্ট, তাবতিংসা দেবা তং ভিক্খুং এতদবোচুং:
+70.4
+‘ময়ম্পি খো, ভিক্খু, ন জানাম:
+70.5
+“যত্থিমে চত্তারো মহাভূতা অপরিসেসা নিরুজ্ঝন্তি, সেয়্যথিদং—পথবীধাতু আপোধাতু তেজোধাতু বায়োধাতূ”তি।
+70.6
+Sakka, lord of gods …
+অত্থি খো, ভিক্খু, সক্কো নাম দেবানমিন্দো অম্হেহি অভিক্কন্ততরো চ পণীততরো চ।
+70.7
+সো খো এতং জানেয়্য:
+70.8
+“যত্থিমে চত্তারো মহাভূতা অপরিসেসা নিরুজ্ঝন্তি, সেয়্যথিদং—পথবীধাতু আপোধাতু তেজোধাতু বায়োধাতূ”’তি।
+71.1ms6D_848msdiv491
+অথ খো সো, কেবট্ট, ভিক্খু যেন সক্কো দেবানমিন্দো তেনুপসঙ্কমি; উপসঙ্কমিত্বা সক্কং দেবানমিন্দং এতদবোচ:
+71.2
+‘কত্থ নু খো, আবুসো, ইমে চত্তারো মহাভূতা অপরিসেসা নিরুজ্ঝন্তি, সেয়্যথিদং—পথবীধাতু আপোধাতু তেজোধাতু বায়োধাতূ’তি?
+71.3
+এবং বুত্তে, কেবট্ট, সক্কো দেবানমিন্দো তং ভিক্খুং এতদবোচ:
+71.4
+‘অহম্পি খো, ভিক্খু, ন জানামি:
+71.5
+“যত্থিমে চত্তারো মহাভূতা অপরিসেসা নিরুজ্ঝন্তি, সেয়্যথিদং—পথবীধাতু আপোধাতু তেজোধাতু বায়োধাতূ”তি।
+72.1
+the gods of Yama …
+অত্থি খো, ভিক্খু, যামা নাম দেবা …পে…
+73.1
+the god named Suyāma …
+সুয়ামো নাম দেবপুত্তো …
+74.1
+the Joyful gods …
+তুসিতা নাম দেবা …
+75.1
+the god named Santussita …
+সন্তুস্সিতো নাম দেবপুত্তো …
+75.2
+For a third time, that mendicant said to the Great Divinity,
+ততিয়ম্পি খো সো, কেবট্ট, ভিক্খু তং মহাব্রহ্মানং এতদবোচ:
+83.2
+‘Reverend, I am not asking you whether you are
+‘ন খোহং তং, আবুসো, এবং পুচ্ছামি:
+83.3
+the Divinity, the Great Divinity, the Vanquisher, the Unvanquished, the Universal Seer, the Wielder of Power, God Almighty, the Maker, the Creator, the First, the Begetter, the Controller, the Father of those who have been born and those yet to be born.
+“ত্বমসি ব্রহ্মা মহাব্রহ্মা অভিভূ অনভিভূতো অঞ্ঞদত্থুদসো বসবত্তী ইস্সরো কত্তা নিম্মাতা সেট্ঠো সজিতা বসী পিতা ভূতভব্যানন্”তি।
+83.4
+I am asking
+এবঞ্চ খো অহং তং, আবুসো, পুচ্ছামি:
+83.5
+where these four principal states cease without anything left over.’
+“কত্থ নু খো, আবুসো, ইমে চত্তারো মহাভূতা অপরিসেসা নিরুজ্ঝন্তি, সেয়্যথিদং—পথবীধাতু আপোধাতু তেজোধাতু বায়োধাতূ”’তি?
+
+83.6ms6D_855msdiv495
+Then the Great Divinity took that mendicant by the arm, led him off to one side, and said to him,
+অথ খো সো, কেবট্ট, মহাব্রহ্মা তং ভিক্খুং বাহায়ং গহেত্বা একমন্তং অপনেত্বা তং ভিক্খুং এতদবোচ:
+83.7
+‘Mendicant, these gods think that there is nothing at all that I don’t know and see and understand and realize.
+‘ইমে খো মং, ভিক্খু, ব্রহ্মকায়িকা দেবা এবং জানন্তি, “নত্থি কিঞ্চি ব্রহ্মুনো অঞ্ঞাতং, নত্থি কিঞ্চি ব্রহ্মুনো অদিট্ঠং, নত্থি কিঞ্চি ব্রহ্মুনো অবিদিতং, নত্থি কিঞ্চি ব্রহ্মুনো অসচ্ছিকতন্”তি।
+83.8
+That’s why I didn’t answer in front of them.
+তস্মাহং তেসং সম্মুখা ন ব্যাকাসিং।
+83.9
+But I too do not know where these four principal states cease with nothing left over.
+অহম্পি খো, ভিক্খু, ন জানামি যত্থিমে চত্তারো মহাভূতা অপরিসেসা নিরুজ্ঝন্তি, সেয়্যথিদং—পথবীধাতু আপোধাতু তেজোধাতু বায়োধাতূতি।
+83.10
+Therefore, mendicant, the misdeed is yours alone, the mistake is yours alone, in that you passed over the Buddha and searched elsewhere for an answer to this question.
+তস্মাতিহ, ভিক্খু, তুয়্হেবেতং দুক্কটং, তুয়্হেবেতং অপরদ্ধং, যং ত্বং তং ভগবন্তং অতিধাবিত্বা বহিদ্ধা পরিয়েট্ঠিং আপজ্জসি ইমস্স পঞ্হস্স বেয়্যাকরণায়।
+83.11
+### tevijja
+#### vāseṭṭhāmāṇavānuyoga
+“Well, of the brahmins who are proficient in the three Vedas, Vāseṭṭha, is there even a single one who has seen the Divinity with their own eyes?”
+“কিং পন, বাসেট্ঠ, অত্থি কোচি তেবিজ্জানং ব্রাহ্মণানং একব্রাহ্মণোপি, যেন ব্রহ্মা সক্খিদিট্ঠো”তি?
+
+12.2
+“No, Mister Gotama.”
+“নো হিদং, ভো গোতম”।
 ## mahāvagga
 14
 15-Mana Midane Suffe
@@ -314,7 +390,21 @@ This will be for your lasting harm and suffering.”
 
 # Samyutta Nikaya
 : 55 groups of discourses arranged by subject matter
+## sagāthāvaggasaṃyutta
+### vanasaṁyutta
+#### vivekasutta
+1.4
+The deity haunting that forest had sympathy for that mendicant, and wanted what’s best for them. So they approached that mendicant wanting to stir them up, and addressed them in verse:
+অথ খো যা তস্মিং বনসণ্ডে অধিবত্থা দেবতা তস্স ভিক্খুনো অনুকম্পিকা অত্থকামা তং ভিক্খুং সংবেজেতুকামা যেন সো ভিক্খু তেনুপসঙ্কমি; উপসঙ্কমিত্বা তং ভিক্খুং গাথাহি অজ্ঝভাসি:
+### mārasaṁyutta
+#### māradhītusutta
+1.1ms12S1_910msdiv161
+And then Māra the Wicked, after reciting these verses of disillusionment in the Buddha’s presence, left that place. He sat cross-legged on the ground not far from the Buddha, silent, dismayed, shoulders drooping, downcast, depressed, with nothing to say, scratching the ground with a stick.
+অথ খো মারো পাপিমা ভগবতো সন্তিকে ইমা নিব্বেজনীয়া গাথায়ো অভাসিত্বা তম্হা ঠানা অপক্কম্ম ভগবতো অবিদূরে পথবিয়ং পল্লঙ্কেন নিসীদি তুণ্হীভূতো মঙ্কুভূতো পত্তক্খন্ধো অধোমুখো পজ্ঝায়ন্তো অপ্পটিভানো কট্ঠেন ভূমিং বিলিখন্তো।
 
+1.2
+Then Māra’s daughters Craving, Delight, and Lust went up to Māra the Wicked, and addressed him in verse:
+অথ খো তণ্হা চ অরতি চ রগা চ মারধীতরো যেন মারো পাপিমা তেনুপসঙ্কমিংসু; উপসঙ্কমিত্বা মারং পাপিমন্তং গাথায় অজ্ঝভাসিংসু:
 ## Nidānavaggasaṁyutta
 ### 12 Nidānasaṁyutta
 #### 4 Kaḷārakhattiyavagga
@@ -1698,8 +1788,37 @@ Popular collection of 423 verses on ethics.Dhammapade
 ## 5_Sutta-nipāta
 : 70 suttas in verse
 https://suttacentral.net/snp4.5/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=Bengali
-
-### snp.4.5.1
+### mahāvagga
+#### padhānasutta
+##### snp.3.2.6
+6.1ms18Sn_498vns433
+When Māra had spoken in this way,
+তং তথাবাদিনং মারং,
+6.2
+the Buddha said this:
+ভগবা এতদব্রবি;
+6.3
+“O Wicked One, kinsman of the negligent,
+“পমত্তবন্ধু পাপিম,
+6.4
+you’re here for your own purpose.
+যেনত্থেন ইধাগতো।
+##### snp.3.2.12
+12.1ms18Sn_504vns439
+Sensual pleasures are your first army,
+কামা তে পঠমা সেনা,
+12.2
+the second is called discontent,
+দুতিয়া অরতি বুচ্চতি;
+12.3
+hunger and thirst are the third,
+ততিয়া খুপ্পিপাসা তে,
+12.4
+and the fourth is said to be craving.
+চতুত্থী তণ্হা পবুচ্চতি।
+### aṭṭhajavagga
+#### paramāṭṭhakasutta
+##### snp.4.5.1
 If, maintaining that theirs is the “ultimate” view,
 পরমন্তি দিট্ঠীসু পরিব্বসানো,
 a person makes it out to be highest in the world; Reading yad- here and below as yadi.

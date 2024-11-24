@@ -60,13 +60,34 @@ yama vatsa of virāṭ while milked for/as svadhā by antaka son of mṛtyu :![[
 ## MB.1.59.10
 ![[MB#p1#c59#10]]
 
-## dāk.sa
+## dak.sa
+### RV.10.72.4
+![[RV#10.72#4]]
+### SpB.2.4.4.2
+![[SpB#2.4.4#2]]
 ### MB.1.59.11
 ![[MB#p1#c59#11]]
-### ādityas
+### aditi
+#### RV.1.89.10
+##### maataa.pitaa.putra
+##### dyaus.antariksha
+##### vishva.deva
+##### panca.jana
+##### jaata
+##### janitva
 #### MB.1.59.14
-##### dvādaśa
+##### dvādaśa.aaditya.sam.bhava
 ![[MB#p1#c59#14]]
+#### dakṣa
+##### RV.2.27.1
+![[RV#2.27#1]]
+##### RV.10.5.7
+![[RV#10.5#7]]
+##### RV.10.64.5
+![[RV#10.64#5]]
+##### RV.10.72.4
+![[RV#10.72#4]]
+
 #### śakra
 indra
 #### mitra
@@ -102,7 +123,7 @@ indra
 ##### viśvakarmā
 ###### RV.10.81.2,5,6
 ![[RV#10.81#2]]![[Rv#10.81#5]]![[RV#10.81#6]]
-###### RV.10.82.2
+###### RV.10.82.2,
 ![[RV#10.82#2]]
 ###### RV.8.98.2
 ![[RV#8.98#2]]

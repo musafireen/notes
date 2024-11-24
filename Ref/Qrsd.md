@@ -84,10 +84,17 @@
 
 # s68
 
-## r68.1
+## r68.1.x
 
 [Q.68.1-33](https://www.islamicstudies.info/tafheem.php?sura=68&verse=1&to=33)
 68.1-33
+
+![[#r68.1.1]]
+![[#r68.1.2]]
+## r68.1.1
+
+[Q.68.1-16](https://www.islamicstudies.info/tafheem.php?sura=68&verse=1&to=16)
+68.1-16
 
 ### 68:1
 
@@ -153,10 +160,17 @@
 
 سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
 
-## r68.2
+## r68.2.x
 
 [Q.68.34-52](https://www.islamicstudies.info/tafheem.php?sura=68&verse=34&to=52)
 68.34-52
+
+![[#r68.2.1]]
+![[#r68.2.2]]
+## r68.2.1
+
+[Q.68.34-47](https://www.islamicstudies.info/tafheem.php?sura=68&verse=34&to=47)
+68.34-47
 
 ### 68:34
 
@@ -224,10 +238,18 @@
 
 # s73
 
-## r73.1
+## r73.1.x
 
 [Q.73.1-18](https://www.islamicstudies.info/tafheem.php?sura=73&verse=1&to=18)
 73.1-18
+
+![[#r73.1.1]]
+![[#r73.1.2]]
+![[#r73.1.3]]
+## r73.1.1
+
+[Q.73.1-9](https://www.islamicstudies.info/tafheem.php?sura=73&verse=1&to=9)
+73.1-9
 
 ### 73:1
 
@@ -265,7 +287,7 @@
 
 رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا
 
-## r73.1
+## r73.1.3
 
 [Q.73.12-18](https://www.islamicstudies.info/tafheem.php?sura=73&verse=12&to=18)
 73.12-18
@@ -298,10 +320,17 @@
 
 ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا
 
-## r73.2
+## r73.2.x
 
 [Q.73.19-20](https://www.islamicstudies.info/tafheem.php?sura=73&verse=19&to=20)
 73.19-20
+
+![[#r73.2.1]]
+![[#r73.2.2]]
+## r73.2.1
+
+[Q.73.19-19](https://www.islamicstudies.info/tafheem.php?sura=73&verse=19&to=19)
+73.19-19
 
 ### 73:19
 
@@ -309,7 +338,13 @@
 
 # s74
 
-## r74.1
+## r74.1.x
+
+[Q.74.1-18](https://www.islamicstudies.info/tafheem.php?sura=74&verse=1&to=18)
+74.1-18
+
+![[#r74.1.1]]
+## r74.1.1
 
 [Q.74.1-18](https://www.islamicstudies.info/tafheem.php?sura=74&verse=1&to=18)
 74.1-18
@@ -386,7 +421,13 @@
 
 إِنَّهُۥ فَكَّرَ وَقَدَّرَ
 
-## r74.2
+## r74.2.x
+
+[Q.74.19-31](https://www.islamicstudies.info/tafheem.php?sura=74&verse=19&to=31)
+74.19-31
+
+![[#r74.2.1]]
+## r74.2.1
 
 [Q.74.19-31](https://www.islamicstudies.info/tafheem.php?sura=74&verse=19&to=31)
 74.19-31
@@ -443,7 +484,13 @@
 
 وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
 
-## r74.3
+## r74.3.x
+
+[Q.74.32-56](https://www.islamicstudies.info/tafheem.php?sura=74&verse=32&to=56)
+74.32-56
+
+![[#r74.3.1]]
+## r74.3.1
 
 [Q.74.32-56](https://www.islamicstudies.info/tafheem.php?sura=74&verse=32&to=56)
 74.32-56
@@ -1254,10 +1301,17 @@
 
 # s107
 
-## r107.1
+## r107.1.x
 
 [Q.107.1-7](https://www.islamicstudies.info/tafheem.php?sura=107&verse=1&to=7)
 107.1-7
+
+![[#r107.1.1]]
+![[#r107.1.2]]
+## r107.1.1
+
+[Q.107.1-3](https://www.islamicstudies.info/tafheem.php?sura=107&verse=1&to=3)
+107.1-3
 
 ### 107:1
 
@@ -1412,7 +1466,13 @@
 
 # s53
 
-## r53.1
+## r53.1.x
+
+[Q.53.1-25](https://www.islamicstudies.info/tafheem.php?sura=53&verse=1&to=25)
+53.1-25
+
+![[#r53.1.1]]
+## r53.1.1
 
 [Q.53.1-25](https://www.islamicstudies.info/tafheem.php?sura=53&verse=1&to=25)
 53.1-25
@@ -1517,10 +1577,17 @@
 
 فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ
 
-## r53.2
+## r53.2.x
 
 [Q.53.26-32](https://www.islamicstudies.info/tafheem.php?sura=53&verse=26&to=32)
 53.26-32
+
+![[#r53.2.1]]
+![[#r53.2.2]]
+## r53.2.1
+
+[Q.53.26-31](https://www.islamicstudies.info/tafheem.php?sura=53&verse=26&to=31)
+53.26-31
 
 ### 53:26
 
@@ -1546,7 +1613,13 @@
 
 وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى
 
-## r53.3
+## r53.3.x
+
+[Q.53.33-62](https://www.islamicstudies.info/tafheem.php?sura=53&verse=33&to=62)
+53.33-62
+
+![[#r53.3.1]]
+## r53.3.1
 
 [Q.53.33-62](https://www.islamicstudies.info/tafheem.php?sura=53&verse=33&to=62)
 53.33-62
@@ -2150,7 +2223,13 @@
 
 # s75
 
-## r75.1
+## r75.1.x
+
+[Q.75.1-30](https://www.islamicstudies.info/tafheem.php?sura=75&verse=1&to=30)
+75.1-30
+
+![[#r75.1.1]]
+## r75.1.1
 
 [Q.75.1-30](https://www.islamicstudies.info/tafheem.php?sura=75&verse=1&to=30)
 75.1-30
@@ -2275,7 +2354,13 @@
 
 إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ
 
-## r75.2
+## r75.2.x
+
+[Q.75.31-40](https://www.islamicstudies.info/tafheem.php?sura=75&verse=31&to=40)
+75.31-40
+
+![[#r75.2.1]]
+## r75.2.1
 
 [Q.75.31-40](https://www.islamicstudies.info/tafheem.php?sura=75&verse=31&to=40)
 75.31-40
@@ -2365,7 +2450,13 @@
 
 # s77
 
-## r77.1
+## r77.1.x
+
+[Q.77.1-40](https://www.islamicstudies.info/tafheem.php?sura=77&verse=1&to=40)
+77.1-40
+
+![[#r77.1.1]]
+## r77.1.1
 
 [Q.77.1-40](https://www.islamicstudies.info/tafheem.php?sura=77&verse=1&to=40)
 77.1-40
@@ -2530,10 +2621,17 @@
 
 وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
 
-## r77.2
+## r77.2.x
 
 [Q.77.41-50](https://www.islamicstudies.info/tafheem.php?sura=77&verse=41&to=50)
 77.41-50
+
+![[#r77.2.1]]
+![[#r77.2.2]]
+## r77.2.1
+
+[Q.77.41-47](https://www.islamicstudies.info/tafheem.php?sura=77&verse=41&to=47)
+77.41-47
 
 ### 77:41
 
@@ -2573,7 +2671,13 @@
 
 # s50
 
-## r50.1
+## r50.1.x
+
+[Q.50.1-15](https://www.islamicstudies.info/tafheem.php?sura=50&verse=1&to=15)
+50.1-15
+
+![[#r50.1.1]]
+## r50.1.1
 
 [Q.50.1-15](https://www.islamicstudies.info/tafheem.php?sura=50&verse=1&to=15)
 50.1-15
@@ -2638,7 +2742,13 @@
 
 أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ
 
-## r50.2
+## r50.2.x
+
+[Q.50.16-29](https://www.islamicstudies.info/tafheem.php?sura=50&verse=16&to=29)
+50.16-29
+
+![[#r50.2.1]]
+## r50.2.1
 
 [Q.50.16-29](https://www.islamicstudies.info/tafheem.php?sura=50&verse=16&to=29)
 50.16-29
@@ -2699,10 +2809,17 @@
 
 مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّـٰمٍ لِّلْعَبِيدِ
 
-## r50.3
+## r50.3.x
 
 [Q.50.30-45](https://www.islamicstudies.info/tafheem.php?sura=50&verse=30&to=45)
 50.30-45
+
+![[#r50.3.1]]
+![[#r50.3.2]]
+## r50.3.1
+
+[Q.50.30-37](https://www.islamicstudies.info/tafheem.php?sura=50&verse=30&to=37)
+50.30-37
 
 ### 50:30
 
@@ -2928,7 +3045,13 @@
 
 # s54
 
-## r54.1
+## r54.1.x
+
+[Q.54.1-22](https://www.islamicstudies.info/tafheem.php?sura=54&verse=1&to=22)
+54.1-22
+
+![[#r54.1.1]]
+## r54.1.1
 
 [Q.54.1-22](https://www.islamicstudies.info/tafheem.php?sura=54&verse=1&to=22)
 54.1-22
@@ -3021,7 +3144,13 @@
 
 وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
 
-## r54.2
+## r54.2.x
+
+[Q.54.23-40](https://www.islamicstudies.info/tafheem.php?sura=54&verse=23&to=40)
+54.23-40
+
+![[#r54.2.1]]
+## r54.2.1
 
 [Q.54.23-40](https://www.islamicstudies.info/tafheem.php?sura=54&verse=23&to=40)
 54.23-40
@@ -3098,10 +3227,17 @@
 
 وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
 
-## r54.3
+## r54.3.x
 
 [Q.54.41-55](https://www.islamicstudies.info/tafheem.php?sura=54&verse=41&to=55)
 54.41-55
+
+![[#r54.3.1]]
+![[#r54.3.2]]
+## r54.3.1
+
+[Q.54.41-43](https://www.islamicstudies.info/tafheem.php?sura=54&verse=41&to=43)
+54.41-43
 
 ### 54:41
 
@@ -3153,7 +3289,13 @@
 
 # s38
 
-## r38.1
+## r38.1.x
+
+[Q.38.1-14](https://www.islamicstudies.info/tafheem.php?sura=38&verse=1&to=14)
+38.1-14
+
+![[#r38.1.1]]
+## r38.1.1
 
 [Q.38.1-14](https://www.islamicstudies.info/tafheem.php?sura=38&verse=1&to=14)
 38.1-14
@@ -3214,7 +3356,13 @@
 
 إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ
 
-## r38.2
+## r38.2.x
+
+[Q.38.15-26](https://www.islamicstudies.info/tafheem.php?sura=38&verse=15&to=26)
+38.15-26
+
+![[#r38.2.1]]
+## r38.2.1
 
 [Q.38.15-26](https://www.islamicstudies.info/tafheem.php?sura=38&verse=15&to=26)
 38.15-26
@@ -3267,7 +3415,13 @@
 
 يَـٰدَاوُۥدُ إِنَّا جَعَلْنَـٰكَ خَلِيفَةً فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ
 
-## r38.3
+## r38.3.x
+
+[Q.38.27-40](https://www.islamicstudies.info/tafheem.php?sura=38&verse=27&to=40)
+38.27-40
+
+![[#r38.3.1]]
+## r38.3.1
 
 [Q.38.27-40](https://www.islamicstudies.info/tafheem.php?sura=38&verse=27&to=40)
 38.27-40
@@ -3328,7 +3482,13 @@
 
 وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ
 
-## r38.4
+## r38.4.x
+
+[Q.38.41-64](https://www.islamicstudies.info/tafheem.php?sura=38&verse=41&to=64)
+38.41-64
+
+![[#r38.4.1]]
+## r38.4.1
 
 [Q.38.41-64](https://www.islamicstudies.info/tafheem.php?sura=38&verse=41&to=64)
 38.41-64
@@ -3429,7 +3589,13 @@
 
 إِنَّ ذَٰلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ ٱلنَّارِ
 
-## r38.5
+## r38.5.x
+
+[Q.38.65-88](https://www.islamicstudies.info/tafheem.php?sura=38&verse=65&to=88)
+38.65-88
+
+![[#r38.5.1]]
+## r38.5.1
 
 [Q.38.65-88](https://www.islamicstudies.info/tafheem.php?sura=38&verse=65&to=88)
 38.65-88
@@ -3532,7 +3698,23 @@
 
 # s7
 
-## r7.1
+## r7.1.x
+
+[Q.7.1-10](https://www.islamicstudies.info/tafheem.php?sura=7&verse=1&to=10)
+7.1-10
+
+![[#r7.1.1]]
+![[#r7.10.1]]
+![[#r7.11.1]]
+![[#r7.12.1]]
+![[#r7.13.1]]
+![[#r7.14.1]]
+![[#r7.15.1]]
+![[#r7.16.1]]
+![[#r7.17.1]]
+![[#r7.18.1]]
+![[#r7.19.1]]
+## r7.1.1
 
 [Q.7.1-10](https://www.islamicstudies.info/tafheem.php?sura=7&verse=1&to=10)
 7.1-10
@@ -3577,7 +3759,19 @@
 
 وَلَقَدْ مَكَّنَّـٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَـٰيِشَ ۗ قَلِيلًا مَّا تَشْكُرُونَ
 
-## r7.2
+## r7.2.x
+
+[Q.7.11-25](https://www.islamicstudies.info/tafheem.php?sura=7&verse=11&to=25)
+7.11-25
+
+![[#r7.2.1]]
+![[#r7.20.1]]
+![[#r7.21.1]]
+![[#r7.21.2]]
+![[#r7.22.1]]
+![[#r7.23.1]]
+![[#r7.24.1]]
+## r7.2.1
 
 [Q.7.11-25](https://www.islamicstudies.info/tafheem.php?sura=7&verse=11&to=25)
 7.11-25
@@ -3642,7 +3836,13 @@
 
 قَالَ فِيهَا تَحْيَوْنَ وَفِيهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ
 
-## r7.3
+## r7.3.x
+
+[Q.7.26-31](https://www.islamicstudies.info/tafheem.php?sura=7&verse=26&to=31)
+7.26-31
+
+![[#r7.3.1]]
+## r7.3.1
 
 [Q.7.26-31](https://www.islamicstudies.info/tafheem.php?sura=7&verse=26&to=31)
 7.26-31
@@ -3671,7 +3871,13 @@
 
 ۞ يَـٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ
 
-## r7.4
+## r7.4.x
+
+[Q.7.32-39](https://www.islamicstudies.info/tafheem.php?sura=7&verse=32&to=39)
+7.32-39
+
+![[#r7.4.1]]
+## r7.4.1
 
 [Q.7.32-39](https://www.islamicstudies.info/tafheem.php?sura=7&verse=32&to=39)
 7.32-39
@@ -3708,7 +3914,13 @@
 
 وَقَالَتْ أُولَىٰهُمْ لِأُخْرَىٰهُمْ فَمَا كَانَ لَكُمْ عَلَيْنَا مِن فَضْلٍ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْسِبُونَ
 
-## r7.5
+## r7.5.x
+
+[Q.7.40-47](https://www.islamicstudies.info/tafheem.php?sura=7&verse=40&to=47)
+7.40-47
+
+![[#r7.5.1]]
+## r7.5.1
 
 [Q.7.40-47](https://www.islamicstudies.info/tafheem.php?sura=7&verse=40&to=47)
 7.40-47
@@ -3745,7 +3957,13 @@
 
 ۞ وَإِذَا صُرِفَتْ أَبْصَـٰرُهُمْ تِلْقَآءَ أَصْحَـٰبِ ٱلنَّارِ قَالُوا۟ رَبَّنَا لَا تَجْعَلْنَا مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ
 
-## r7.6
+## r7.6.x
+
+[Q.7.48-53](https://www.islamicstudies.info/tafheem.php?sura=7&verse=48&to=53)
+7.48-53
+
+![[#r7.6.1]]
+## r7.6.1
 
 [Q.7.48-53](https://www.islamicstudies.info/tafheem.php?sura=7&verse=48&to=53)
 7.48-53
@@ -3774,7 +3992,13 @@
 
 هَلْ يَنظُرُونَ إِلَّا تَأْوِيلَهُۥ ۚ يَوْمَ يَأْتِى تَأْوِيلُهُۥ يَقُولُ ٱلَّذِينَ نَسُوهُ مِن قَبْلُ قَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ فَهَل لَّنَا مِن شُفَعَآءَ فَيَشْفَعُوا۟ لَنَآ أَوْ نُرَدُّ فَنَعْمَلَ غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ قَدْ خَسِرُوٓا۟ أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-## r7.7
+## r7.7.x
+
+[Q.7.54-58](https://www.islamicstudies.info/tafheem.php?sura=7&verse=54&to=58)
+7.54-58
+
+![[#r7.7.1]]
+## r7.7.1
 
 [Q.7.54-58](https://www.islamicstudies.info/tafheem.php?sura=7&verse=54&to=58)
 7.54-58
@@ -3799,7 +4023,13 @@
 
 وَٱلْبَلَدُ ٱلطَّيِّبُ يَخْرُجُ نَبَاتُهُۥ بِإِذْنِ رَبِّهِۦ ۖ وَٱلَّذِى خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا ۚ كَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَشْكُرُونَ
 
-## r7.8
+## r7.8.x
+
+[Q.7.59-64](https://www.islamicstudies.info/tafheem.php?sura=7&verse=59&to=64)
+7.59-64
+
+![[#r7.8.1]]
+## r7.8.1
 
 [Q.7.59-64](https://www.islamicstudies.info/tafheem.php?sura=7&verse=59&to=64)
 7.59-64
@@ -3828,7 +4058,13 @@
 
 فَكَذَّبُوهُ فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ فِى ٱلْفُلْكِ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَآ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا عَمِينَ
 
-## r7.9
+## r7.9.x
+
+[Q.7.65-72](https://www.islamicstudies.info/tafheem.php?sura=7&verse=65&to=72)
+7.65-72
+
+![[#r7.9.1]]
+## r7.9.1
 
 [Q.7.65-72](https://www.islamicstudies.info/tafheem.php?sura=7&verse=65&to=72)
 7.65-72
@@ -3865,7 +4101,13 @@
 
 فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ
 
-## r7.10
+## r7.10.x
+
+[Q.7.73-84](https://www.islamicstudies.info/tafheem.php?sura=7&verse=73&to=84)
+7.73-84
+
+![[#r7.10.1]]
+## r7.10.1
 
 [Q.7.73-84](https://www.islamicstudies.info/tafheem.php?sura=7&verse=73&to=84)
 7.73-84
@@ -3918,7 +4160,13 @@
 
 وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُجْرِمِينَ
 
-## r7.11
+## r7.11.x
+
+[Q.7.85-93](https://www.islamicstudies.info/tafheem.php?sura=7&verse=85&to=93)
+7.85-93
+
+![[#r7.11.1]]
+## r7.11.1
 
 [Q.7.85-93](https://www.islamicstudies.info/tafheem.php?sura=7&verse=85&to=93)
 7.85-93
@@ -3959,7 +4207,13 @@
 
 فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَـٰقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَـٰلَـٰتِ رَبِّى وَنَصَحْتُ لَكُمْ ۖ فَكَيْفَ ءَاسَىٰ عَلَىٰ قَوْمٍ كَـٰفِرِينَ
 
-## r7.12
+## r7.12.x
+
+[Q.7.94-99](https://www.islamicstudies.info/tafheem.php?sura=7&verse=94&to=99)
+7.94-99
+
+![[#r7.12.1]]
+## r7.12.1
 
 [Q.7.94-99](https://www.islamicstudies.info/tafheem.php?sura=7&verse=94&to=99)
 7.94-99
@@ -3988,7 +4242,13 @@
 
 أَفَأَمِنُوا۟ مَكْرَ ٱللَّهِ ۚ فَلَا يَأْمَنُ مَكْرَ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْخَـٰسِرُونَ
 
-## r7.13
+## r7.13.x
+
+[Q.7.100-108](https://www.islamicstudies.info/tafheem.php?sura=7&verse=100&to=108)
+7.100-108
+
+![[#r7.13.1]]
+## r7.13.1
 
 [Q.7.100-108](https://www.islamicstudies.info/tafheem.php?sura=7&verse=100&to=108)
 7.100-108
@@ -4029,7 +4289,13 @@
 
 وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ
 
-## r7.14
+## r7.14.x
+
+[Q.7.109-126](https://www.islamicstudies.info/tafheem.php?sura=7&verse=109&to=126)
+7.109-126
+
+![[#r7.14.1]]
+## r7.14.1
 
 [Q.7.109-126](https://www.islamicstudies.info/tafheem.php?sura=7&verse=109&to=126)
 7.109-126
@@ -4106,7 +4372,13 @@
 
 وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِـَٔايَـٰتِ رَبِّنَا لَمَّا جَآءَتْنَا ۚ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ
 
-## r7.15
+## r7.15.x
+
+[Q.7.127-129](https://www.islamicstudies.info/tafheem.php?sura=7&verse=127&to=129)
+7.127-129
+
+![[#r7.15.1]]
+## r7.15.1
 
 [Q.7.127-129](https://www.islamicstudies.info/tafheem.php?sura=7&verse=127&to=129)
 7.127-129
@@ -4123,7 +4395,13 @@
 
 قَالُوٓا۟ أُوذِينَا مِن قَبْلِ أَن تَأْتِيَنَا وَمِنۢ بَعْدِ مَا جِئْتَنَا ۚ قَالَ عَسَىٰ رَبُّكُمْ أَن يُهْلِكَ عَدُوَّكُمْ وَيَسْتَخْلِفَكُمْ فِى ٱلْأَرْضِ فَيَنظُرَ كَيْفَ تَعْمَلُونَ
 
-## r7.16
+## r7.16.x
+
+[Q.7.130-141](https://www.islamicstudies.info/tafheem.php?sura=7&verse=130&to=141)
+7.130-141
+
+![[#r7.16.1]]
+## r7.16.1
 
 [Q.7.130-141](https://www.islamicstudies.info/tafheem.php?sura=7&verse=130&to=141)
 7.130-141
@@ -4176,7 +4454,13 @@
 
 وَإِذْ أَنجَيْنَـٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ ۖ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
 
-## r7.17
+## r7.17.x
+
+[Q.7.142-147](https://www.islamicstudies.info/tafheem.php?sura=7&verse=142&to=147)
+7.142-147
+
+![[#r7.17.1]]
+## r7.17.1
 
 [Q.7.142-147](https://www.islamicstudies.info/tafheem.php?sura=7&verse=142&to=147)
 7.142-147
@@ -4205,7 +4489,13 @@
 
 وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَلِقَآءِ ٱلْـَٔاخِرَةِ حَبِطَتْ أَعْمَـٰلُهُمْ ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ
 
-## r7.18
+## r7.18.x
+
+[Q.7.148-151](https://www.islamicstudies.info/tafheem.php?sura=7&verse=148&to=151)
+7.148-151
+
+![[#r7.18.1]]
+## r7.18.1
 
 [Q.7.148-151](https://www.islamicstudies.info/tafheem.php?sura=7&verse=148&to=151)
 7.148-151
@@ -4226,7 +4516,13 @@
 
 قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ ۖ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
 
-## r7.19
+## r7.19.x
+
+[Q.7.152-157](https://www.islamicstudies.info/tafheem.php?sura=7&verse=152&to=157)
+7.152-157
+
+![[#r7.19.1]]
+## r7.19.1
 
 [Q.7.152-157](https://www.islamicstudies.info/tafheem.php?sura=7&verse=152&to=157)
 7.152-157
@@ -4255,7 +4551,13 @@
 
 ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَـٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَـٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَـٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ ۚ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ ۙ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 
-## r7.20
+## r7.20.x
+
+[Q.7.158-162](https://www.islamicstudies.info/tafheem.php?sura=7&verse=158&to=162)
+7.158-162
+
+![[#r7.20.1]]
+## r7.20.1
 
 [Q.7.158-162](https://www.islamicstudies.info/tafheem.php?sura=7&verse=158&to=162)
 7.158-162
@@ -4280,7 +4582,7 @@
 
 فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَرْسَلْنَا عَلَيْهِمْ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَظْلِمُونَ
 
-## r7.21
+## r7.21.2
 
 [Q.7.171-171](https://www.islamicstudies.info/tafheem.php?sura=7&verse=171&to=171)
 7.171-171
@@ -4289,7 +4591,13 @@
 
 ۞ وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
 
-## r7.22
+## r7.22.x
+
+[Q.7.172-181](https://www.islamicstudies.info/tafheem.php?sura=7&verse=172&to=181)
+7.172-181
+
+![[#r7.22.1]]
+## r7.22.1
 
 [Q.7.172-181](https://www.islamicstudies.info/tafheem.php?sura=7&verse=172&to=181)
 7.172-181
@@ -4334,7 +4642,13 @@
 
 وَمِمَّنْ خَلَقْنَآ أُمَّةٌ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ
 
-## r7.23
+## r7.23.x
+
+[Q.7.182-188](https://www.islamicstudies.info/tafheem.php?sura=7&verse=182&to=188)
+7.182-188
+
+![[#r7.23.1]]
+## r7.23.1
 
 [Q.7.182-188](https://www.islamicstudies.info/tafheem.php?sura=7&verse=182&to=188)
 7.182-188
@@ -4367,7 +4681,13 @@
 
 قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ ۚ وَلَوْ كُنتُ أَعْلَمُ ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ ۚ إِنْ أَنَا۠ إِلَّا نَذِيرٌ وَبَشِيرٌ لِّقَوْمٍ يُؤْمِنُونَ
 
-## r7.24
+## r7.24.x
+
+[Q.7.189-206](https://www.islamicstudies.info/tafheem.php?sura=7&verse=189&to=206)
+7.189-206
+
+![[#r7.24.1]]
+## r7.24.1
 
 [Q.7.189-206](https://www.islamicstudies.info/tafheem.php?sura=7&verse=189&to=206)
 7.189-206
@@ -4446,7 +4766,13 @@
 
 # s72
 
-## r72.1
+## r72.1.x
+
+[Q.72.1-19](https://www.islamicstudies.info/tafheem.php?sura=72&verse=1&to=19)
+72.1-19
+
+![[#r72.1.1]]
+## r72.1.1
 
 [Q.72.1-19](https://www.islamicstudies.info/tafheem.php?sura=72&verse=1&to=19)
 72.1-19
@@ -4527,7 +4853,13 @@
 
 وَأَنَّهُۥ لَمَّا قَامَ عَبْدُ ٱللَّهِ يَدْعُوهُ كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًا
 
-## r72.2
+## r72.2.x
+
+[Q.72.20-28](https://www.islamicstudies.info/tafheem.php?sura=72&verse=20&to=28)
+72.20-28
+
+![[#r72.2.1]]
+## r72.2.1
 
 [Q.72.20-28](https://www.islamicstudies.info/tafheem.php?sura=72&verse=20&to=28)
 72.20-28
@@ -4570,7 +4902,13 @@
 
 # s36
 
-## r36.1
+## r36.1.x
+
+[Q.36.1-12](https://www.islamicstudies.info/tafheem.php?sura=36&verse=1&to=12)
+36.1-12
+
+![[#r36.1.1]]
+## r36.1.1
 
 [Q.36.1-12](https://www.islamicstudies.info/tafheem.php?sura=36&verse=1&to=12)
 36.1-12
@@ -4623,7 +4961,13 @@
 
 إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍ مُّبِينٍ
 
-## r36.2
+## r36.2.x
+
+[Q.36.13-32](https://www.islamicstudies.info/tafheem.php?sura=36&verse=13&to=32)
+36.13-32
+
+![[#r36.2.1]]
+## r36.2.1
 
 [Q.36.13-32](https://www.islamicstudies.info/tafheem.php?sura=36&verse=13&to=32)
 36.13-32
@@ -4708,10 +5052,17 @@
 
 وَإِن كُلٌّ لَّمَّا جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ
 
-## r36.3
+## r36.3.x
 
 [Q.36.33-50](https://www.islamicstudies.info/tafheem.php?sura=36&verse=33&to=50)
 36.33-50
+
+![[#r36.3.1]]
+![[#r36.3.2]]
+## r36.3.1
+
+[Q.36.33-44](https://www.islamicstudies.info/tafheem.php?sura=36&verse=33&to=44)
+36.33-44
 
 ### 36:33
 
@@ -4781,7 +5132,13 @@
 
 فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَآ إِلَىٰٓ أَهْلِهِمْ يَرْجِعُونَ
 
-## r36.4
+## r36.4.x
+
+[Q.36.51-67](https://www.islamicstudies.info/tafheem.php?sura=36&verse=51&to=67)
+36.51-67
+
+![[#r36.4.1]]
+## r36.4.1
 
 [Q.36.51-67](https://www.islamicstudies.info/tafheem.php?sura=36&verse=51&to=67)
 36.51-67
@@ -4854,7 +5211,13 @@
 
 وَلَوْ نَشَآءُ لَمَسَخْنَـٰهُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا ٱسْتَطَـٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ
 
-## r36.5
+## r36.5.x
+
+[Q.36.68-83](https://www.islamicstudies.info/tafheem.php?sura=36&verse=68&to=83)
+36.68-83
+
+![[#r36.5.1]]
+## r36.5.1
 
 [Q.36.68-83](https://www.islamicstudies.info/tafheem.php?sura=36&verse=68&to=83)
 36.68-83
@@ -4925,7 +5288,13 @@
 
 # s25
 
-## r25.1
+## r25.1.x
+
+[Q.25.1-9](https://www.islamicstudies.info/tafheem.php?sura=25&verse=1&to=9)
+25.1-9
+
+![[#r25.1.1]]
+## r25.1.1
 
 [Q.25.1-9](https://www.islamicstudies.info/tafheem.php?sura=25&verse=1&to=9)
 25.1-9
@@ -4966,7 +5335,13 @@
 
 ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَـٰلَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا
 
-## r25.2
+## r25.2.x
+
+[Q.25.10-20](https://www.islamicstudies.info/tafheem.php?sura=25&verse=10&to=20)
+25.10-20
+
+![[#r25.2.1]]
+## r25.2.1
 
 [Q.25.10-20](https://www.islamicstudies.info/tafheem.php?sura=25&verse=10&to=20)
 25.10-20
@@ -5015,7 +5390,13 @@
 
 وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًا
 
-## r25.3
+## r25.3.x
+
+[Q.25.21-34](https://www.islamicstudies.info/tafheem.php?sura=25&verse=21&to=34)
+25.21-34
+
+![[#r25.3.1]]
+## r25.3.1
 
 [Q.25.21-34](https://www.islamicstudies.info/tafheem.php?sura=25&verse=21&to=34)
 25.21-34
@@ -5076,7 +5457,13 @@
 
 ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ سَبِيلًا
 
-## r25.4
+## r25.4.x
+
+[Q.25.35-44](https://www.islamicstudies.info/tafheem.php?sura=25&verse=35&to=44)
+25.35-44
+
+![[#r25.4.1]]
+## r25.4.1
 
 [Q.25.35-44](https://www.islamicstudies.info/tafheem.php?sura=25&verse=35&to=44)
 25.35-44
@@ -5121,7 +5508,13 @@
 
 أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ ۚ إِنْ هُمْ إِلَّا كَٱلْأَنْعَـٰمِ ۖ بَلْ هُمْ أَضَلُّ سَبِيلًا
 
-## r25.5
+## r25.5.x
+
+[Q.25.45-60](https://www.islamicstudies.info/tafheem.php?sura=25&verse=45&to=60)
+25.45-60
+
+![[#r25.5.1]]
+## r25.5.1
 
 [Q.25.45-60](https://www.islamicstudies.info/tafheem.php?sura=25&verse=45&to=60)
 25.45-60
@@ -5190,10 +5583,17 @@
 
 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَـٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَـٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا ۩
 
-## r25.6
+## r25.6.x
 
 [Q.25.61-77](https://www.islamicstudies.info/tafheem.php?sura=25&verse=61&to=77)
 25.61-77
+
+![[#r25.6.1]]
+![[#r25.6.2]]
+## r25.6.1
+
+[Q.25.61-67](https://www.islamicstudies.info/tafheem.php?sura=25&verse=61&to=67)
+25.61-67
 
 ### 25:61
 
@@ -5253,7 +5653,13 @@
 
 # s35
 
-## r35.1
+## r35.1.x
+
+[Q.35.1-7](https://www.islamicstudies.info/tafheem.php?sura=35&verse=1&to=7)
+35.1-7
+
+![[#r35.1.1]]
+## r35.1.1
 
 [Q.35.1-7](https://www.islamicstudies.info/tafheem.php?sura=35&verse=1&to=7)
 35.1-7
@@ -5286,7 +5692,13 @@
 
 ٱلَّذِينَ كَفَرُوا۟ لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
 
-## r35.2
+## r35.2.x
+
+[Q.35.8-14](https://www.islamicstudies.info/tafheem.php?sura=35&verse=8&to=14)
+35.8-14
+
+![[#r35.2.1]]
+## r35.2.1
 
 [Q.35.8-14](https://www.islamicstudies.info/tafheem.php?sura=35&verse=8&to=14)
 35.8-14
@@ -5319,7 +5731,13 @@
 
 إِن تَدْعُوهُمْ لَا يَسْمَعُوا۟ دُعَآءَكُمْ وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ ۚ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ
 
-## r35.3
+## r35.3.x
+
+[Q.35.15-26](https://www.islamicstudies.info/tafheem.php?sura=35&verse=15&to=26)
+35.15-26
+
+![[#r35.3.1]]
+## r35.3.1
 
 [Q.35.15-26](https://www.islamicstudies.info/tafheem.php?sura=35&verse=15&to=26)
 35.15-26
@@ -5372,7 +5790,13 @@
 
 ثُمَّ أَخَذْتُ ٱلَّذِينَ كَفَرُوا۟ ۖ فَكَيْفَ كَانَ نَكِيرِ
 
-## r35.4
+## r35.4.x
+
+[Q.35.27-37](https://www.islamicstudies.info/tafheem.php?sura=35&verse=27&to=37)
+35.27-37
+
+![[#r35.4.1]]
+## r35.4.1
 
 [Q.35.27-37](https://www.islamicstudies.info/tafheem.php?sura=35&verse=27&to=37)
 35.27-37
@@ -5421,7 +5845,13 @@
 
 وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَـٰلِحًا غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ ۖ فَذُوقُوا۟ فَمَا لِلظَّـٰلِمِينَ مِن نَّصِيرٍ
 
-## r35.5
+## r35.5.x
+
+[Q.35.38-45](https://www.islamicstudies.info/tafheem.php?sura=35&verse=38&to=45)
+35.38-45
+
+![[#r35.5.1]]
+## r35.5.1
 
 [Q.35.38-45](https://www.islamicstudies.info/tafheem.php?sura=35&verse=38&to=45)
 35.38-45
@@ -5460,7 +5890,13 @@
 
 # s19
 
-## r19.1
+## r19.1.x
+
+[Q.19.1-15](https://www.islamicstudies.info/tafheem.php?sura=19&verse=1&to=15)
+19.1-15
+
+![[#r19.1.1]]
+## r19.1.1
 
 [Q.19.1-15](https://www.islamicstudies.info/tafheem.php?sura=19&verse=1&to=15)
 19.1-15
@@ -5525,7 +5961,13 @@
 
 وَسَلَـٰمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا
 
-## r19.2
+## r19.2.x
+
+[Q.19.16-40](https://www.islamicstudies.info/tafheem.php?sura=19&verse=16&to=40)
+19.16-40
+
+![[#r19.2.1]]
+## r19.2.1
 
 [Q.19.16-40](https://www.islamicstudies.info/tafheem.php?sura=19&verse=16&to=40)
 19.16-40
@@ -5630,7 +6072,13 @@
 
 إِنَّا نَحْنُ نَرِثُ ٱلْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ
 
-## r19.3
+## r19.3.x
+
+[Q.19.41-50](https://www.islamicstudies.info/tafheem.php?sura=19&verse=41&to=50)
+19.41-50
+
+![[#r19.3.1]]
+## r19.3.1
 
 [Q.19.41-50](https://www.islamicstudies.info/tafheem.php?sura=19&verse=41&to=50)
 19.41-50
@@ -5675,10 +6123,17 @@
 
 وَوَهَبْنَا لَهُم مِّن رَّحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا
 
-## r19.4
+## r19.4.x
 
 [Q.19.51-65](https://www.islamicstudies.info/tafheem.php?sura=19&verse=51&to=65)
 19.51-65
+
+![[#r19.4.1]]
+![[#r19.4.2]]
+## r19.4.1
+
+[Q.19.51-57](https://www.islamicstudies.info/tafheem.php?sura=19&verse=51&to=57)
+19.51-57
 
 ### 19:51
 
@@ -5736,10 +6191,17 @@
 
 رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا فَٱعْبُدْهُ وَٱصْطَبِرْ لِعِبَـٰدَتِهِۦ ۚ هَلْ تَعْلَمُ لَهُۥ سَمِيًّا
 
-## r19.5
+## r19.5.x
 
 [Q.19.66-82](https://www.islamicstudies.info/tafheem.php?sura=19&verse=66&to=82)
 19.66-82
+
+![[#r19.5.1]]
+![[#r19.5.2]]
+## r19.5.1
+
+[Q.19.66-70](https://www.islamicstudies.info/tafheem.php?sura=19&verse=66&to=70)
+19.66-70
 
 ### 19:66
 
@@ -5805,7 +6267,13 @@
 
 كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا
 
-## r19.6
+## r19.6.x
+
+[Q.19.83-98](https://www.islamicstudies.info/tafheem.php?sura=19&verse=83&to=98)
+19.83-98
+
+![[#r19.6.1]]
+## r19.6.1
 
 [Q.19.83-98](https://www.islamicstudies.info/tafheem.php?sura=19&verse=83&to=98)
 19.83-98
@@ -5876,7 +6344,13 @@
 
 # s20
 
-## r20.1
+## r20.1.x
+
+[Q.20.1-24](https://www.islamicstudies.info/tafheem.php?sura=20&verse=1&to=24)
+20.1-24
+
+![[#r20.1.1]]
+## r20.1.1
 
 [Q.20.1-24](https://www.islamicstudies.info/tafheem.php?sura=20&verse=1&to=24)
 20.1-24
@@ -5977,7 +6451,13 @@
 
 ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
 
-## r20.2
+## r20.2.x
+
+[Q.20.25-54](https://www.islamicstudies.info/tafheem.php?sura=20&verse=25&to=54)
+20.25-54
+
+![[#r20.2.1]]
+## r20.2.1
 
 [Q.20.25-54](https://www.islamicstudies.info/tafheem.php?sura=20&verse=25&to=54)
 20.25-54
@@ -6102,7 +6582,13 @@
 
 كُلُوا۟ وَٱرْعَوْا۟ أَنْعَـٰمَكُمْ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلنُّهَىٰ
 
-## r20.3
+## r20.3.x
+
+[Q.20.55-76](https://www.islamicstudies.info/tafheem.php?sura=20&verse=55&to=76)
+20.55-76
+
+![[#r20.3.1]]
+## r20.3.1
 
 [Q.20.55-76](https://www.islamicstudies.info/tafheem.php?sura=20&verse=55&to=76)
 20.55-76
@@ -6195,7 +6681,13 @@
 
 جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ
 
-## r20.4
+## r20.4.x
+
+[Q.20.77-89](https://www.islamicstudies.info/tafheem.php?sura=20&verse=77&to=89)
+20.77-89
+
+![[#r20.4.1]]
+## r20.4.1
 
 [Q.20.77-89](https://www.islamicstudies.info/tafheem.php?sura=20&verse=77&to=89)
 20.77-89
@@ -6252,7 +6744,13 @@
 
 أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا
 
-## r20.5
+## r20.5.x
+
+[Q.20.90-104](https://www.islamicstudies.info/tafheem.php?sura=20&verse=90&to=104)
+20.90-104
+
+![[#r20.5.1]]
+## r20.5.1
 
 [Q.20.90-104](https://www.islamicstudies.info/tafheem.php?sura=20&verse=90&to=104)
 20.90-104
@@ -6317,7 +6815,13 @@
 
 نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًا
 
-## r20.6
+## r20.6.x
+
+[Q.20.105-115](https://www.islamicstudies.info/tafheem.php?sura=20&verse=105&to=115)
+20.105-115
+
+![[#r20.6.1]]
+## r20.6.1
 
 [Q.20.105-115](https://www.islamicstudies.info/tafheem.php?sura=20&verse=105&to=115)
 20.105-115
@@ -6366,7 +6870,13 @@
 
 وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًا
 
-## r20.7
+## r20.7.x
+
+[Q.20.116-128](https://www.islamicstudies.info/tafheem.php?sura=20&verse=116&to=128)
+20.116-128
+
+![[#r20.7.1]]
+## r20.7.1
 
 [Q.20.116-128](https://www.islamicstudies.info/tafheem.php?sura=20&verse=116&to=128)
 20.116-128
@@ -6423,10 +6933,17 @@
 
 أَفَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا قَبْلَهُم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلنُّهَىٰ
 
-## r20.8
+## r20.8.x
 
 [Q.20.129-135](https://www.islamicstudies.info/tafheem.php?sura=20&verse=129&to=135)
 20.129-135
+
+![[#r20.8.1]]
+![[#r20.8.2]]
+## r20.8.1
+
+[Q.20.129-129](https://www.islamicstudies.info/tafheem.php?sura=20&verse=129&to=129)
+20.129-129
 
 ### 20:129
 
@@ -6450,7 +6967,13 @@
 
 # s56
 
-## r56.1
+## r56.1.x
+
+[Q.56.1-38](https://www.islamicstudies.info/tafheem.php?sura=56&verse=1&to=38)
+56.1-38
+
+![[#r56.1.1]]
+## r56.1.1
 
 [Q.56.1-38](https://www.islamicstudies.info/tafheem.php?sura=56&verse=1&to=38)
 56.1-38
@@ -6607,7 +7130,13 @@
 
 لِّأَصْحَـٰبِ ٱلْيَمِينِ
 
-## r56.2
+## r56.2.x
+
+[Q.56.39-74](https://www.islamicstudies.info/tafheem.php?sura=56&verse=39&to=74)
+56.39-74
+
+![[#r56.2.1]]
+## r56.2.1
 
 [Q.56.39-74](https://www.islamicstudies.info/tafheem.php?sura=56&verse=39&to=74)
 56.39-74
@@ -6756,10 +7285,17 @@
 
 فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ
 
-## r56.3
+## r56.3.x
 
 [Q.56.75-96](https://www.islamicstudies.info/tafheem.php?sura=56&verse=75&to=96)
 56.75-96
+
+![[#r56.3.1]]
+![[#r56.3.2]]
+## r56.3.1
+
+[Q.56.75-80](https://www.islamicstudies.info/tafheem.php?sura=56&verse=75&to=80)
+56.75-80
 
 ### 56:75
 
@@ -6843,7 +7379,17 @@
 
 # s26
 
-## r26.1
+## r26.1.x
+
+[Q.26.1-9](https://www.islamicstudies.info/tafheem.php?sura=26&verse=1&to=9)
+26.1-9
+
+![[#r26.1.1]]
+![[#r26.10.1]]
+![[#r26.11.1]]
+![[#r26.11.2]]
+![[#r26.11.3]]
+## r26.1.1
 
 [Q.26.1-9](https://www.islamicstudies.info/tafheem.php?sura=26&verse=1&to=9)
 26.1-9
@@ -6884,7 +7430,13 @@
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
-## r26.2
+## r26.2.x
+
+[Q.26.10-33](https://www.islamicstudies.info/tafheem.php?sura=26&verse=10&to=33)
+26.10-33
+
+![[#r26.2.1]]
+## r26.2.1
 
 [Q.26.10-33](https://www.islamicstudies.info/tafheem.php?sura=26&verse=10&to=33)
 26.10-33
@@ -6985,7 +7537,13 @@
 
 وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ
 
-## r26.3
+## r26.3.x
+
+[Q.26.34-51](https://www.islamicstudies.info/tafheem.php?sura=26&verse=34&to=51)
+26.34-51
+
+![[#r26.3.1]]
+## r26.3.1
 
 [Q.26.34-51](https://www.islamicstudies.info/tafheem.php?sura=26&verse=34&to=51)
 26.34-51
@@ -7062,7 +7620,13 @@
 
 إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَـٰيَـٰنَآ أَن كُنَّآ أَوَّلَ ٱلْمُؤْمِنِينَ
 
-## r26.4
+## r26.4.x
+
+[Q.26.52-68](https://www.islamicstudies.info/tafheem.php?sura=26&verse=52&to=68)
+26.52-68
+
+![[#r26.4.1]]
+## r26.4.1
 
 [Q.26.52-68](https://www.islamicstudies.info/tafheem.php?sura=26&verse=52&to=68)
 26.52-68
@@ -7135,7 +7699,13 @@
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
-## r26.5
+## r26.5.x
+
+[Q.26.69-104](https://www.islamicstudies.info/tafheem.php?sura=26&verse=69&to=104)
+26.69-104
+
+![[#r26.5.1]]
+## r26.5.1
 
 [Q.26.69-104](https://www.islamicstudies.info/tafheem.php?sura=26&verse=69&to=104)
 26.69-104
@@ -7284,7 +7854,13 @@
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
-## r26.6
+## r26.6.x
+
+[Q.26.105-122](https://www.islamicstudies.info/tafheem.php?sura=26&verse=105&to=122)
+26.105-122
+
+![[#r26.6.1]]
+## r26.6.1
 
 [Q.26.105-122](https://www.islamicstudies.info/tafheem.php?sura=26&verse=105&to=122)
 26.105-122
@@ -7361,7 +7937,13 @@
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
-## r26.7
+## r26.7.x
+
+[Q.26.123-140](https://www.islamicstudies.info/tafheem.php?sura=26&verse=123&to=140)
+26.123-140
+
+![[#r26.7.1]]
+## r26.7.1
 
 [Q.26.123-140](https://www.islamicstudies.info/tafheem.php?sura=26&verse=123&to=140)
 26.123-140
@@ -7438,7 +8020,13 @@
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
-## r26.8
+## r26.8.x
+
+[Q.26.141-159](https://www.islamicstudies.info/tafheem.php?sura=26&verse=141&to=159)
+26.141-159
+
+![[#r26.8.1]]
+## r26.8.1
 
 [Q.26.141-159](https://www.islamicstudies.info/tafheem.php?sura=26&verse=141&to=159)
 26.141-159
@@ -7519,7 +8107,13 @@
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
-## r26.9
+## r26.9.x
+
+[Q.26.160-175](https://www.islamicstudies.info/tafheem.php?sura=26&verse=160&to=175)
+26.160-175
+
+![[#r26.9.1]]
+## r26.9.1
 
 [Q.26.160-175](https://www.islamicstudies.info/tafheem.php?sura=26&verse=160&to=175)
 26.160-175
@@ -7588,7 +8182,13 @@
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
-## r26.10
+## r26.10.x
+
+[Q.26.176-191](https://www.islamicstudies.info/tafheem.php?sura=26&verse=176&to=191)
+26.176-191
+
+![[#r26.10.1]]
+## r26.10.1
 
 [Q.26.176-191](https://www.islamicstudies.info/tafheem.php?sura=26&verse=176&to=191)
 26.176-191
@@ -7657,10 +8257,18 @@
 
 وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
-## r26.11
+## r26.11.x
 
 [Q.26.192-227](https://www.islamicstudies.info/tafheem.php?sura=26&verse=192&to=227)
 26.192-227
+
+![[#r26.11.1]]
+![[#r26.11.2]]
+![[#r26.11.3]]
+## r26.11.1
+
+[Q.26.192-196](https://www.islamicstudies.info/tafheem.php?sura=26&verse=192&to=196)
+26.192-196
 
 ### 26:192
 
@@ -7788,7 +8396,13 @@
 
 # s27
 
-## r27.1
+## r27.1.x
+
+[Q.27.1-14](https://www.islamicstudies.info/tafheem.php?sura=27&verse=1&to=14)
+27.1-14
+
+![[#r27.1.1]]
+## r27.1.1
 
 [Q.27.1-14](https://www.islamicstudies.info/tafheem.php?sura=27&verse=1&to=14)
 27.1-14
@@ -7849,7 +8463,13 @@
 
 وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا ۚ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ
 
-## r27.2
+## r27.2.x
+
+[Q.27.15-31](https://www.islamicstudies.info/tafheem.php?sura=27&verse=15&to=31)
+27.15-31
+
+![[#r27.2.1]]
+## r27.2.1
 
 [Q.27.15-31](https://www.islamicstudies.info/tafheem.php?sura=27&verse=15&to=31)
 27.15-31
@@ -7922,7 +8542,13 @@
 
 أَلَّا تَعْلُوا۟ عَلَىَّ وَأْتُونِى مُسْلِمِينَ
 
-## r27.3
+## r27.3.x
+
+[Q.27.32-44](https://www.islamicstudies.info/tafheem.php?sura=27&verse=32&to=44)
+27.32-44
+
+![[#r27.3.1]]
+## r27.3.1
 
 [Q.27.32-44](https://www.islamicstudies.info/tafheem.php?sura=27&verse=32&to=44)
 27.32-44
@@ -7979,7 +8605,13 @@
 
 قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ
 
-## r27.4
+## r27.4.x
+
+[Q.27.45-58](https://www.islamicstudies.info/tafheem.php?sura=27&verse=45&to=58)
+27.45-58
+
+![[#r27.4.1]]
+## r27.4.1
 
 [Q.27.45-58](https://www.islamicstudies.info/tafheem.php?sura=27&verse=45&to=58)
 27.45-58
@@ -8040,7 +8672,13 @@
 
 وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
 
-## r27.5
+## r27.5.x
+
+[Q.27.59-66](https://www.islamicstudies.info/tafheem.php?sura=27&verse=59&to=66)
+27.59-66
+
+![[#r27.5.1]]
+## r27.5.1
 
 [Q.27.59-66](https://www.islamicstudies.info/tafheem.php?sura=27&verse=59&to=66)
 27.59-66
@@ -8077,7 +8715,13 @@
 
 بَلِ ٱدَّٰرَكَ عِلْمُهُمْ فِى ٱلْـَٔاخِرَةِ ۚ بَلْ هُمْ فِى شَكٍّ مِّنْهَا ۖ بَلْ هُم مِّنْهَا عَمُونَ
 
-## r27.6
+## r27.6.x
+
+[Q.27.67-82](https://www.islamicstudies.info/tafheem.php?sura=27&verse=67&to=82)
+27.67-82
+
+![[#r27.6.1]]
+## r27.6.1
 
 [Q.27.67-82](https://www.islamicstudies.info/tafheem.php?sura=27&verse=67&to=82)
 27.67-82
@@ -8146,7 +8790,13 @@
 
 ۞ وَإِذَا وَقَعَ ٱلْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَآبَّةً مِّنَ ٱلْأَرْضِ تُكَلِّمُهُمْ أَنَّ ٱلنَّاسَ كَانُوا۟ بِـَٔايَـٰتِنَا لَا يُوقِنُونَ
 
-## r27.7
+## r27.7.x
+
+[Q.27.83-93](https://www.islamicstudies.info/tafheem.php?sura=27&verse=83&to=93)
+27.83-93
+
+![[#r27.7.1]]
+## r27.7.1
 
 [Q.27.83-93](https://www.islamicstudies.info/tafheem.php?sura=27&verse=83&to=93)
 27.83-93
@@ -8197,7 +8847,13 @@
 
 # s28
 
-## r28.1
+## r28.1.x
+
+[Q.28.1-13](https://www.islamicstudies.info/tafheem.php?sura=28&verse=1&to=13)
+28.1-13
+
+![[#r28.1.1]]
+## r28.1.1
 
 [Q.28.1-13](https://www.islamicstudies.info/tafheem.php?sura=28&verse=1&to=13)
 28.1-13
@@ -8254,7 +8910,13 @@
 
 فَرَدَدْنَـٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
-## r28.2
+## r28.2.x
+
+[Q.28.14-21](https://www.islamicstudies.info/tafheem.php?sura=28&verse=14&to=21)
+28.14-21
+
+![[#r28.2.1]]
+## r28.2.1
 
 [Q.28.14-21](https://www.islamicstudies.info/tafheem.php?sura=28&verse=14&to=21)
 28.14-21
@@ -8291,7 +8953,13 @@
 
 فَخَرَجَ مِنْهَا خَآئِفًا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ
 
-## r28.3
+## r28.3.x
+
+[Q.28.22-28](https://www.islamicstudies.info/tafheem.php?sura=28&verse=22&to=28)
+28.22-28
+
+![[#r28.3.1]]
+## r28.3.1
 
 [Q.28.22-28](https://www.islamicstudies.info/tafheem.php?sura=28&verse=22&to=28)
 28.22-28
@@ -8324,7 +8992,13 @@
 
 قَالَ ذَٰلِكَ بَيْنِى وَبَيْنَكَ ۖ أَيَّمَا ٱلْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَٰنَ عَلَىَّ ۖ وَٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ
 
-## r28.4
+## r28.4.x
+
+[Q.28.29-42](https://www.islamicstudies.info/tafheem.php?sura=28&verse=29&to=42)
+28.29-42
+
+![[#r28.4.1]]
+## r28.4.1
 
 [Q.28.29-42](https://www.islamicstudies.info/tafheem.php?sura=28&verse=29&to=42)
 28.29-42
@@ -8385,7 +9059,13 @@
 
 وَأَتْبَعْنَـٰهُمْ فِى هَـٰذِهِ ٱلدُّنْيَا لَعْنَةً ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ هُم مِّنَ ٱلْمَقْبُوحِينَ
 
-## r28.5
+## r28.5.x
+
+[Q.28.43-50](https://www.islamicstudies.info/tafheem.php?sura=28&verse=43&to=50)
+28.43-50
+
+![[#r28.5.1]]
+## r28.5.1
 
 [Q.28.43-50](https://www.islamicstudies.info/tafheem.php?sura=28&verse=43&to=50)
 28.43-50
@@ -8422,16 +9102,24 @@
 
 فَإِن لَّمْ يَسْتَجِيبُوا۟ لَكَ فَٱعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَآءَهُمْ ۚ وَمَنْ أَضَلُّ مِمَّنِ ٱتَّبَعَ هَوَىٰهُ بِغَيْرِ هُدًى مِّنَ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ
 
-## r28.6
+## r28.6.x
 
 [Q.28.51-60](https://www.islamicstudies.info/tafheem.php?sura=28&verse=51&to=60)
 28.51-60
+
+![[#r28.6.1]]
+![[#r28.6.2]]
+![[#r28.6.3]]
+## r28.6.1
+
+[Q.28.51-51](https://www.islamicstudies.info/tafheem.php?sura=28&verse=51&to=51)
+28.51-51
 
 ### 28:51
 
 ۞ وَلَقَدْ وَصَّلْنَا لَهُمُ ٱلْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
-## r28.6
+## r28.6.3
 
 [Q.28.56-60](https://www.islamicstudies.info/tafheem.php?sura=28&verse=56&to=60)
 28.56-60
@@ -8456,7 +9144,13 @@
 
 وَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَزِينَتُهَا ۚ وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰٓ ۚ أَفَلَا تَعْقِلُونَ
 
-## r28.7
+## r28.7.x
+
+[Q.28.61-75](https://www.islamicstudies.info/tafheem.php?sura=28&verse=61&to=75)
+28.61-75
+
+![[#r28.7.1]]
+## r28.7.1
 
 [Q.28.61-75](https://www.islamicstudies.info/tafheem.php?sura=28&verse=61&to=75)
 28.61-75
@@ -8521,7 +9215,13 @@
 
 وَنَزَعْنَا مِن كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا۟ بُرْهَـٰنَكُمْ فَعَلِمُوٓا۟ أَنَّ ٱلْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-## r28.8
+## r28.8.x
+
+[Q.28.76-82](https://www.islamicstudies.info/tafheem.php?sura=28&verse=76&to=82)
+28.76-82
+
+![[#r28.8.1]]
+## r28.8.1
 
 [Q.28.76-82](https://www.islamicstudies.info/tafheem.php?sura=28&verse=76&to=82)
 28.76-82
@@ -8554,10 +9254,17 @@
 
 وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟ مَكَانَهُۥ بِٱلْأَمْسِ يَقُولُونَ وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ ۖ لَوْلَآ أَن مَّنَّ ٱللَّهُ عَلَيْنَا لَخَسَفَ بِنَا ۖ وَيْكَأَنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ
 
-## r28.9
+## r28.9.x
 
 [Q.28.83-88](https://www.islamicstudies.info/tafheem.php?sura=28&verse=83&to=88)
 28.83-88
+
+![[#r28.9.1]]
+![[#r28.9.2]]
+## r28.9.1
+
+[Q.28.83-84](https://www.islamicstudies.info/tafheem.php?sura=28&verse=83&to=84)
+28.83-84
 
 ### 28:83
 
@@ -8581,7 +9288,14 @@
 
 # s17
 
-## r17.1
+## r17.1.x
+
+[Q.17.1-10](https://www.islamicstudies.info/tafheem.php?sura=17&verse=1&to=10)
+17.1-10
+
+![[#r17.1.1]]
+![[#r17.10.1]]
+## r17.1.1
 
 [Q.17.1-10](https://www.islamicstudies.info/tafheem.php?sura=17&verse=1&to=10)
 17.1-10
@@ -8626,10 +9340,17 @@
 
 وَأَنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا
 
-## r17.2
+## r17.2.x
 
 [Q.17.11-30](https://www.islamicstudies.info/tafheem.php?sura=17&verse=11&to=30)
 17.11-30
+
+![[#r17.2.1]]
+![[#r17.2.2]]
+## r17.2.1
+
+[Q.17.11-25](https://www.islamicstudies.info/tafheem.php?sura=17&verse=11&to=25)
+17.11-25
 
 ### 17:11
 
@@ -8707,16 +9428,24 @@
 
 إِنَّ رَبَّكَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًا
 
-## r17.3
+## r17.3.x
 
 [Q.17.31-40](https://www.islamicstudies.info/tafheem.php?sura=17&verse=31&to=40)
 17.31-40
+
+![[#r17.3.1]]
+![[#r17.3.2]]
+![[#r17.3.3]]
+## r17.3.1
+
+[Q.17.31-31](https://www.islamicstudies.info/tafheem.php?sura=17&verse=31&to=31)
+17.31-31
 
 ### 17:31
 
 وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُمْ خَشْيَةَ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْـًٔا كَبِيرًا
 
-## r17.3
+## r17.3.3
 
 [Q.17.34-40](https://www.islamicstudies.info/tafheem.php?sura=17&verse=34&to=40)
 17.34-40
@@ -8749,7 +9478,13 @@
 
 أَفَأَصْفَىٰكُمْ رَبُّكُم بِٱلْبَنِينَ وَٱتَّخَذَ مِنَ ٱلْمَلَـٰٓئِكَةِ إِنَـٰثًا ۚ إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًا
 
-## r17.4
+## r17.4.x
+
+[Q.17.41-52](https://www.islamicstudies.info/tafheem.php?sura=17&verse=41&to=52)
+17.41-52
+
+![[#r17.4.1]]
+## r17.4.1
 
 [Q.17.41-52](https://www.islamicstudies.info/tafheem.php?sura=17&verse=41&to=52)
 17.41-52
@@ -8802,10 +9537,17 @@
 
 يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِۦ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا
 
-## r17.5
+## r17.5.x
 
 [Q.17.53-70](https://www.islamicstudies.info/tafheem.php?sura=17&verse=53&to=70)
 17.53-70
+
+![[#r17.5.1]]
+![[#r17.5.2]]
+## r17.5.1
+
+[Q.17.53-56](https://www.islamicstudies.info/tafheem.php?sura=17&verse=53&to=56)
+17.53-56
 
 ### 17:53
 
@@ -8875,10 +9617,17 @@
 
 ۞ وَلَقَدْ كَرَّمْنَا بَنِىٓ ءَادَمَ وَحَمَلْنَـٰهُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
 
-## r17.6
+## r17.6.x
 
 [Q.17.71-77](https://www.islamicstudies.info/tafheem.php?sura=17&verse=71&to=77)
 17.71-77
+
+![[#r17.6.1]]
+![[#r17.6.2]]
+## r17.6.1
+
+[Q.17.71-72](https://www.islamicstudies.info/tafheem.php?sura=17&verse=71&to=72)
+17.71-72
 
 ### 17:71
 
@@ -8888,7 +9637,7 @@
 
 وَمَن كَانَ فِى هَـٰذِهِۦٓ أَعْمَىٰ فَهُوَ فِى ٱلْـَٔاخِرَةِ أَعْمَىٰ وَأَضَلُّ سَبِيلًا
 
-## r17.7
+## r17.7.2
 
 [Q.17.81-84](https://www.islamicstudies.info/tafheem.php?sura=17&verse=81&to=84)
 17.81-84
@@ -8909,7 +9658,13 @@
 
 قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا
 
-## r17.8
+## r17.8.x
+
+[Q.17.85-93](https://www.islamicstudies.info/tafheem.php?sura=17&verse=85&to=93)
+17.85-93
+
+![[#r17.8.1]]
+## r17.8.1
 
 [Q.17.85-93](https://www.islamicstudies.info/tafheem.php?sura=17&verse=85&to=93)
 17.85-93
@@ -8950,7 +9705,13 @@
 
 أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ أَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَـٰبًا نَّقْرَؤُهُۥ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا
 
-## r17.9
+## r17.9.x
+
+[Q.17.94-100](https://www.islamicstudies.info/tafheem.php?sura=17&verse=94&to=100)
+17.94-100
+
+![[#r17.9.1]]
+## r17.9.1
 
 [Q.17.94-100](https://www.islamicstudies.info/tafheem.php?sura=17&verse=94&to=100)
 17.94-100
@@ -8983,7 +9744,13 @@
 
 قُل لَّوْ أَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبِّىٓ إِذًا لَّأَمْسَكْتُمْ خَشْيَةَ ٱلْإِنفَاقِ ۚ وَكَانَ ٱلْإِنسَـٰنُ قَتُورًا
 
-## r17.10
+## r17.10.x
+
+[Q.17.101-111](https://www.islamicstudies.info/tafheem.php?sura=17&verse=101&to=111)
+17.101-111
+
+![[#r17.10.1]]
+## r17.10.1
 
 [Q.17.101-111](https://www.islamicstudies.info/tafheem.php?sura=17&verse=101&to=111)
 17.101-111
@@ -9034,7 +9801,17 @@
 
 # s10
 
-## r10.1
+## r10.1.x
+
+[Q.10.1-10](https://www.islamicstudies.info/tafheem.php?sura=10&verse=1&to=10)
+10.1-10
+
+![[#r10.1.1]]
+![[#r10.10.1]]
+![[#r10.10.2]]
+![[#r10.10.3]]
+![[#r10.11.1]]
+## r10.1.1
 
 [Q.10.1-10](https://www.islamicstudies.info/tafheem.php?sura=10&verse=1&to=10)
 10.1-10
@@ -9079,7 +9856,13 @@
 
 دَعْوَىٰهُمْ فِيهَا سُبْحَـٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَـٰمٌ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ
 
-## r10.2
+## r10.2.x
+
+[Q.10.11-20](https://www.islamicstudies.info/tafheem.php?sura=10&verse=11&to=20)
+10.11-20
+
+![[#r10.2.1]]
+## r10.2.1
 
 [Q.10.11-20](https://www.islamicstudies.info/tafheem.php?sura=10&verse=11&to=20)
 10.11-20
@@ -9124,7 +9907,13 @@
 
 وَيَقُولُونَ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦ ۖ فَقُلْ إِنَّمَا ٱلْغَيْبُ لِلَّهِ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ
 
-## r10.3
+## r10.3.x
+
+[Q.10.21-30](https://www.islamicstudies.info/tafheem.php?sura=10&verse=21&to=30)
+10.21-30
+
+![[#r10.3.1]]
+## r10.3.1
 
 [Q.10.21-30](https://www.islamicstudies.info/tafheem.php?sura=10&verse=21&to=30)
 10.21-30
@@ -9169,10 +9958,17 @@
 
 هُنَالِكَ تَبْلُوا۟ كُلُّ نَفْسٍ مَّآ أَسْلَفَتْ ۚ وَرُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 
-## r10.4
+## r10.4.x
 
 [Q.10.31-40](https://www.islamicstudies.info/tafheem.php?sura=10&verse=31&to=40)
 10.31-40
+
+![[#r10.4.1]]
+![[#r10.4.2]]
+## r10.4.1
+
+[Q.10.31-39](https://www.islamicstudies.info/tafheem.php?sura=10&verse=31&to=39)
+10.31-39
 
 ### 10:31
 
@@ -9210,7 +10006,13 @@
 
 بَلْ كَذَّبُوا۟ بِمَا لَمْ يُحِيطُوا۟ بِعِلْمِهِۦ وَلَمَّا يَأْتِهِمْ تَأْوِيلُهُۥ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلظَّـٰلِمِينَ
 
-## r10.5
+## r10.5.x
+
+[Q.10.41-53](https://www.islamicstudies.info/tafheem.php?sura=10&verse=41&to=53)
+10.41-53
+
+![[#r10.5.1]]
+## r10.5.1
 
 [Q.10.41-53](https://www.islamicstudies.info/tafheem.php?sura=10&verse=41&to=53)
 10.41-53
@@ -9267,7 +10069,13 @@
 
 ۞ وَيَسْتَنۢبِـُٔونَكَ أَحَقٌّ هُوَ ۖ قُلْ إِى وَرَبِّىٓ إِنَّهُۥ لَحَقٌّ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ
 
-## r10.6
+## r10.6.x
+
+[Q.10.54-60](https://www.islamicstudies.info/tafheem.php?sura=10&verse=54&to=60)
+10.54-60
+
+![[#r10.6.1]]
+## r10.6.1
 
 [Q.10.54-60](https://www.islamicstudies.info/tafheem.php?sura=10&verse=54&to=60)
 10.54-60
@@ -9300,7 +10108,13 @@
 
 وَمَا ظَنُّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ
 
-## r10.7
+## r10.7.x
+
+[Q.10.61-70](https://www.islamicstudies.info/tafheem.php?sura=10&verse=61&to=70)
+10.61-70
+
+![[#r10.7.1]]
+## r10.7.1
 
 [Q.10.61-70](https://www.islamicstudies.info/tafheem.php?sura=10&verse=61&to=70)
 10.61-70
@@ -9345,7 +10159,13 @@
 
 مَتَـٰعٌ فِى ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ ٱلْعَذَابَ ٱلشَّدِيدَ بِمَا كَانُوا۟ يَكْفُرُونَ
 
-## r10.8
+## r10.8.x
+
+[Q.10.71-82](https://www.islamicstudies.info/tafheem.php?sura=10&verse=71&to=82)
+10.71-82
+
+![[#r10.8.1]]
+## r10.8.1
 
 [Q.10.71-82](https://www.islamicstudies.info/tafheem.php?sura=10&verse=71&to=82)
 10.71-82
@@ -9398,7 +10218,13 @@
 
 وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَـٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
 
-## r10.9
+## r10.9.x
+
+[Q.10.83-92](https://www.islamicstudies.info/tafheem.php?sura=10&verse=83&to=92)
+10.83-92
+
+![[#r10.9.1]]
+## r10.9.1
 
 [Q.10.83-92](https://www.islamicstudies.info/tafheem.php?sura=10&verse=83&to=92)
 10.83-92
@@ -9443,16 +10269,24 @@
 
 فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ ءَايَةً ۚ وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ عَنْ ءَايَـٰتِنَا لَغَـٰفِلُونَ
 
-## r10.10
+## r10.10.x
 
 [Q.10.93-103](https://www.islamicstudies.info/tafheem.php?sura=10&verse=93&to=103)
 10.93-103
+
+![[#r10.10.1]]
+![[#r10.10.2]]
+![[#r10.10.3]]
+## r10.10.1
+
+[Q.10.93-93](https://www.islamicstudies.info/tafheem.php?sura=10&verse=93&to=93)
+10.93-93
 
 ### 10:93
 
 وَلَقَدْ بَوَّأْنَا بَنِىٓ إِسْرَٰٓءِيلَ مُبَوَّأَ صِدْقٍ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ فَمَا ٱخْتَلَفُوا۟ حَتَّىٰ جَآءَهُمُ ٱلْعِلْمُ ۚ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
 
-## r10.10
+## r10.10.3
 
 [Q.10.97-103](https://www.islamicstudies.info/tafheem.php?sura=10&verse=97&to=103)
 10.97-103
@@ -9485,7 +10319,13 @@
 
 ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ
 
-## r10.11
+## r10.11.x
+
+[Q.10.104-109](https://www.islamicstudies.info/tafheem.php?sura=10&verse=104&to=109)
+10.104-109
+
+![[#r10.11.1]]
+## r10.11.1
 
 [Q.10.104-109](https://www.islamicstudies.info/tafheem.php?sura=10&verse=104&to=109)
 10.104-109
@@ -9516,7 +10356,15 @@
 
 # s11
 
-## r11.1
+## r11.1.x
+
+[Q.11.1-8](https://www.islamicstudies.info/tafheem.php?sura=11&verse=1&to=8)
+11.1-8
+
+![[#r11.1.1]]
+![[#r11.10.1]]
+![[#r11.10.2]]
+## r11.1.1
 
 [Q.11.1-8](https://www.islamicstudies.info/tafheem.php?sura=11&verse=1&to=8)
 11.1-8
@@ -9553,10 +10401,18 @@
 
 وَلَئِنْ أَخَّرْنَا عَنْهُمُ ٱلْعَذَابَ إِلَىٰٓ أُمَّةٍ مَّعْدُودَةٍ لَّيَقُولُنَّ مَا يَحْبِسُهُۥٓ ۗ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-## r11.2
+## r11.2.x
 
 [Q.11.9-24](https://www.islamicstudies.info/tafheem.php?sura=11&verse=9&to=24)
 11.9-24
+
+![[#r11.2.1]]
+![[#r11.2.2]]
+![[#r11.2.3]]
+## r11.2.1
+
+[Q.11.9-11](https://www.islamicstudies.info/tafheem.php?sura=11&verse=9&to=11)
+11.9-11
 
 ### 11:9
 
@@ -9614,7 +10470,13 @@
 
 ۞ مَثَلُ ٱلْفَرِيقَيْنِ كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ
 
-## r11.3
+## r11.3.x
+
+[Q.11.25-35](https://www.islamicstudies.info/tafheem.php?sura=11&verse=25&to=35)
+11.25-35
+
+![[#r11.3.1]]
+## r11.3.1
 
 [Q.11.25-35](https://www.islamicstudies.info/tafheem.php?sura=11&verse=25&to=35)
 11.25-35
@@ -9663,7 +10525,13 @@
 
 أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَعَلَىَّ إِجْرَامِى وَأَنَا۠ بَرِىٓءٌ مِّمَّا تُجْرِمُونَ
 
-## r11.4
+## r11.4.x
+
+[Q.11.36-49](https://www.islamicstudies.info/tafheem.php?sura=11&verse=36&to=49)
+11.36-49
+
+![[#r11.4.1]]
+## r11.4.1
 
 [Q.11.36-49](https://www.islamicstudies.info/tafheem.php?sura=11&verse=36&to=49)
 11.36-49
@@ -9724,7 +10592,13 @@
 
 تِلْكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهَآ إِلَيْكَ ۖ مَا كُنتَ تَعْلَمُهَآ أَنتَ وَلَا قَوْمُكَ مِن قَبْلِ هَـٰذَا ۖ فَٱصْبِرْ ۖ إِنَّ ٱلْعَـٰقِبَةَ لِلْمُتَّقِينَ
 
-## r11.5
+## r11.5.x
+
+[Q.11.50-60](https://www.islamicstudies.info/tafheem.php?sura=11&verse=50&to=60)
+11.50-60
+
+![[#r11.5.1]]
+## r11.5.1
 
 [Q.11.50-60](https://www.islamicstudies.info/tafheem.php?sura=11&verse=50&to=60)
 11.50-60
@@ -9773,7 +10647,13 @@
 
 وَأُتْبِعُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا لَعْنَةً وَيَوْمَ ٱلْقِيَـٰمَةِ ۗ أَلَآ إِنَّ عَادًا كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًا لِّعَادٍ قَوْمِ هُودٍ
 
-## r11.6
+## r11.6.x
+
+[Q.11.61-68](https://www.islamicstudies.info/tafheem.php?sura=11&verse=61&to=68)
+11.61-68
+
+![[#r11.6.1]]
+## r11.6.1
 
 [Q.11.61-68](https://www.islamicstudies.info/tafheem.php?sura=11&verse=61&to=68)
 11.61-68
@@ -9810,7 +10690,13 @@
 
 كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًا لِّثَمُودَ
 
-## r11.7
+## r11.7.x
+
+[Q.11.69-83](https://www.islamicstudies.info/tafheem.php?sura=11&verse=69&to=83)
+11.69-83
+
+![[#r11.7.1]]
+## r11.7.1
 
 [Q.11.69-83](https://www.islamicstudies.info/tafheem.php?sura=11&verse=69&to=83)
 11.69-83
@@ -9875,7 +10761,13 @@
 
 مُّسَوَّمَةً عِندَ رَبِّكَ ۖ وَمَا هِىَ مِنَ ٱلظَّـٰلِمِينَ بِبَعِيدٍ
 
-## r11.8
+## r11.8.x
+
+[Q.11.84-95](https://www.islamicstudies.info/tafheem.php?sura=11&verse=84&to=95)
+11.84-95
+
+![[#r11.8.1]]
+## r11.8.1
 
 [Q.11.84-95](https://www.islamicstudies.info/tafheem.php?sura=11&verse=84&to=95)
 11.84-95
@@ -9928,7 +10820,13 @@
 
 كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَا بُعْدًا لِّمَدْيَنَ كَمَا بَعِدَتْ ثَمُودُ
 
-## r11.9
+## r11.9.x
+
+[Q.11.96-109](https://www.islamicstudies.info/tafheem.php?sura=11&verse=96&to=109)
+11.96-109
+
+![[#r11.9.1]]
+## r11.9.1
 
 [Q.11.96-109](https://www.islamicstudies.info/tafheem.php?sura=11&verse=96&to=109)
 11.96-109
@@ -9989,10 +10887,17 @@
 
 فَلَا تَكُ فِى مِرْيَةٍ مِّمَّا يَعْبُدُ هَـٰٓؤُلَآءِ ۚ مَا يَعْبُدُونَ إِلَّا كَمَا يَعْبُدُ ءَابَآؤُهُم مِّن قَبْلُ ۚ وَإِنَّا لَمُوَفُّوهُمْ نَصِيبَهُمْ غَيْرَ مَنقُوصٍ
 
-## r11.10
+## r11.10.x
 
 [Q.11.110-123](https://www.islamicstudies.info/tafheem.php?sura=11&verse=110&to=123)
 11.110-123
+
+![[#r11.10.1]]
+![[#r11.10.2]]
+## r11.10.1
+
+[Q.11.110-113](https://www.islamicstudies.info/tafheem.php?sura=11&verse=110&to=113)
+11.110-113
 
 ### 11:110
 
@@ -10046,7 +10951,7 @@
 
 وَلِلَّهِ غَيْبُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَإِلَيْهِ يُرْجَعُ ٱلْأَمْرُ كُلُّهُۥ فَٱعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ ۚ وَمَا رَبُّكَ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ
 
-## r12.1
+## r12.1.2
 
 [Q.12.4-6](https://www.islamicstudies.info/tafheem.php?sura=12&verse=4&to=6)
 12.4-6
@@ -10115,7 +11020,13 @@
 
 وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ
 
-## r12.3
+## r12.3.x
+
+[Q.12.21-29](https://www.islamicstudies.info/tafheem.php?sura=12&verse=21&to=29)
+12.21-29
+
+![[#r12.3.1]]
+## r12.3.1
 
 [Q.12.21-29](https://www.islamicstudies.info/tafheem.php?sura=12&verse=21&to=29)
 12.21-29
@@ -10156,7 +11067,13 @@
 
 يُوسُفُ أَعْرِضْ عَنْ هَـٰذَا ۚ وَٱسْتَغْفِرِى لِذَنۢبِكِ ۖ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ
 
-## r12.4
+## r12.4.x
+
+[Q.12.30-35](https://www.islamicstudies.info/tafheem.php?sura=12&verse=30&to=35)
+12.30-35
+
+![[#r12.4.1]]
+## r12.4.1
 
 [Q.12.30-35](https://www.islamicstudies.info/tafheem.php?sura=12&verse=30&to=35)
 12.30-35
@@ -10185,7 +11102,13 @@
 
 ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْـَٔايَـٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ
 
-## r12.5
+## r12.5.x
+
+[Q.12.36-42](https://www.islamicstudies.info/tafheem.php?sura=12&verse=36&to=42)
+12.36-42
+
+![[#r12.5.1]]
+## r12.5.1
 
 [Q.12.36-42](https://www.islamicstudies.info/tafheem.php?sura=12&verse=36&to=42)
 12.36-42
@@ -10218,7 +11141,13 @@
 
 وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَـٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ
 
-## r12.6
+## r12.6.x
+
+[Q.12.43-49](https://www.islamicstudies.info/tafheem.php?sura=12&verse=43&to=49)
+12.43-49
+
+![[#r12.6.1]]
+## r12.6.1
 
 [Q.12.43-49](https://www.islamicstudies.info/tafheem.php?sura=12&verse=43&to=49)
 12.43-49
@@ -10251,7 +11180,13 @@
 
 ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ
 
-## r12.7
+## r12.7.x
+
+[Q.12.50-57](https://www.islamicstudies.info/tafheem.php?sura=12&verse=50&to=57)
+12.50-57
+
+![[#r12.7.1]]
+## r12.7.1
 
 [Q.12.50-57](https://www.islamicstudies.info/tafheem.php?sura=12&verse=50&to=57)
 12.50-57
@@ -10288,7 +11223,13 @@
 
 وَلَأَجْرُ ٱلْـَٔاخِرَةِ خَيْرٌ لِّلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ
 
-## r12.8
+## r12.8.x
+
+[Q.12.58-68](https://www.islamicstudies.info/tafheem.php?sura=12&verse=58&to=68)
+12.58-68
+
+![[#r12.8.1]]
+## r12.8.1
 
 [Q.12.58-68](https://www.islamicstudies.info/tafheem.php?sura=12&verse=58&to=68)
 12.58-68
@@ -10337,7 +11278,13 @@
 
 وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا ۚ وَإِنَّهُۥ لَذُو عِلْمٍ لِّمَا عَلَّمْنَـٰهُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-## r12.9
+## r12.9.x
+
+[Q.12.69-79](https://www.islamicstudies.info/tafheem.php?sura=12&verse=69&to=79)
+12.69-79
+
+![[#r12.9.1]]
+## r12.9.1
 
 [Q.12.69-79](https://www.islamicstudies.info/tafheem.php?sura=12&verse=69&to=79)
 12.69-79
@@ -10386,7 +11333,13 @@
 
 قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَـٰعَنَا عِندَهُۥٓ إِنَّآ إِذًا لَّظَـٰلِمُونَ
 
-## r12.10
+## r12.10.x
+
+[Q.12.80-93](https://www.islamicstudies.info/tafheem.php?sura=12&verse=80&to=93)
+12.80-93
+
+![[#r12.10.1]]
+## r12.10.1
 
 [Q.12.80-93](https://www.islamicstudies.info/tafheem.php?sura=12&verse=80&to=93)
 12.80-93
@@ -10447,7 +11400,13 @@
 
 ٱذْهَبُوا۟ بِقَمِيصِى هَـٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ
 
-## r12.11
+## r12.11.x
+
+[Q.12.94-104](https://www.islamicstudies.info/tafheem.php?sura=12&verse=94&to=104)
+12.94-104
+
+![[#r12.11.1]]
+## r12.11.1
 
 [Q.12.94-104](https://www.islamicstudies.info/tafheem.php?sura=12&verse=94&to=104)
 12.94-104
@@ -10496,7 +11455,13 @@
 
 وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ
 
-## r12.12
+## r12.12.x
+
+[Q.12.105-111](https://www.islamicstudies.info/tafheem.php?sura=12&verse=105&to=111)
+12.105-111
+
+![[#r12.12.1]]
+## r12.12.1
 
 [Q.12.105-111](https://www.islamicstudies.info/tafheem.php?sura=12&verse=105&to=111)
 12.105-111
@@ -10531,7 +11496,13 @@
 
 # s15
 
-## r15.1
+## r15.1.x
+
+[Q.15.1-15](https://www.islamicstudies.info/tafheem.php?sura=15&verse=1&to=15)
+15.1-15
+
+![[#r15.1.1]]
+## r15.1.1
 
 [Q.15.1-15](https://www.islamicstudies.info/tafheem.php?sura=15&verse=1&to=15)
 15.1-15
@@ -10596,7 +11567,13 @@
 
 لَقَالُوٓا۟ إِنَّمَا سُكِّرَتْ أَبْصَـٰرُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُورُونَ
 
-## r15.2
+## r15.2.x
+
+[Q.15.16-25](https://www.islamicstudies.info/tafheem.php?sura=15&verse=16&to=25)
+15.16-25
+
+![[#r15.2.1]]
+## r15.2.1
 
 [Q.15.16-25](https://www.islamicstudies.info/tafheem.php?sura=15&verse=16&to=25)
 15.16-25
@@ -10641,7 +11618,13 @@
 
 وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌ
 
-## r15.3
+## r15.3.x
+
+[Q.15.26-44](https://www.islamicstudies.info/tafheem.php?sura=15&verse=26&to=44)
+15.26-44
+
+![[#r15.3.1]]
+## r15.3.1
 
 [Q.15.26-44](https://www.islamicstudies.info/tafheem.php?sura=15&verse=26&to=44)
 15.26-44
@@ -10722,7 +11705,13 @@
 
 لَهَا سَبْعَةُ أَبْوَٰبٍ لِّكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُومٌ
 
-## r15.4
+## r15.4.x
+
+[Q.15.45-60](https://www.islamicstudies.info/tafheem.php?sura=15&verse=45&to=60)
+15.45-60
+
+![[#r15.4.1]]
+## r15.4.1
 
 [Q.15.45-60](https://www.islamicstudies.info/tafheem.php?sura=15&verse=45&to=60)
 15.45-60
@@ -10791,7 +11780,13 @@
 
 إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ ۙ إِنَّهَا لَمِنَ ٱلْغَـٰبِرِينَ
 
-## r15.5
+## r15.5.x
+
+[Q.15.61-79](https://www.islamicstudies.info/tafheem.php?sura=15&verse=61&to=79)
+15.61-79
+
+![[#r15.5.1]]
+## r15.5.1
 
 [Q.15.61-79](https://www.islamicstudies.info/tafheem.php?sura=15&verse=61&to=79)
 15.61-79
@@ -10872,10 +11867,17 @@
 
 فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُّبِينٍ
 
-## r15.6
+## r15.6.x
 
 [Q.15.80-99](https://www.islamicstudies.info/tafheem.php?sura=15&verse=80&to=99)
 15.80-99
+
+![[#r15.6.1]]
+![[#r15.6.2]]
+## r15.6.1
+
+[Q.15.80-86](https://www.islamicstudies.info/tafheem.php?sura=15&verse=80&to=86)
+15.80-86
 
 ### 15:80
 
@@ -10955,7 +11957,26 @@
 
 # s6
 
-## r6.1
+## r6.1.x
+
+[Q.6.1-10](https://www.islamicstudies.info/tafheem.php?sura=6&verse=1&to=10)
+6.1-10
+
+![[#r6.1.1]]
+![[#r6.10.1]]
+![[#r6.11.1]]
+![[#r6.11.2]]
+![[#r6.12.1]]
+![[#r6.13.1]]
+![[#r6.14.1]]
+![[#r6.14.2]]
+![[#r6.15.1]]
+![[#r6.16.1]]
+![[#r6.17.1]]
+![[#r6.18.1]]
+![[#r6.19.1]]
+![[#r6.19.2]]
+## r6.1.1
 
 [Q.6.1-10](https://www.islamicstudies.info/tafheem.php?sura=6&verse=1&to=10)
 6.1-10
@@ -11000,10 +12021,18 @@
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-## r6.2
+## r6.2.x
 
 [Q.6.11-20](https://www.islamicstudies.info/tafheem.php?sura=6&verse=11&to=20)
 6.11-20
+
+![[#r6.2.1]]
+![[#r6.2.2]]
+![[#r6.20.1]]
+## r6.2.1
+
+[Q.6.11-19](https://www.islamicstudies.info/tafheem.php?sura=6&verse=11&to=19)
+6.11-19
 
 ### 6:11
 
@@ -11041,10 +12070,17 @@
 
 قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَـٰدَةً ۖ قُلِ ٱللَّهُ ۖ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ ۚ وَأُوحِىَ إِلَىَّ هَـٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ ۚ قُل لَّآ أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَـٰهٌ وَٰحِدٌ وَإِنَّنِى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ
 
-## r6.3
+## r6.3.x
 
 [Q.6.21-30](https://www.islamicstudies.info/tafheem.php?sura=6&verse=21&to=30)
 6.21-30
+
+![[#r6.3.1]]
+![[#r6.3.2]]
+## r6.3.1
+
+[Q.6.21-22](https://www.islamicstudies.info/tafheem.php?sura=6&verse=21&to=22)
+6.21-22
 
 ### 6:21
 
@@ -11082,7 +12118,13 @@
 
 وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَـٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
 
-## r6.4
+## r6.4.x
+
+[Q.6.31-40](https://www.islamicstudies.info/tafheem.php?sura=6&verse=31&to=40)
+6.31-40
+
+![[#r6.4.1]]
+## r6.4.1
 
 [Q.6.31-40](https://www.islamicstudies.info/tafheem.php?sura=6&verse=31&to=40)
 6.31-40
@@ -11127,7 +12169,13 @@
 
 قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ أَوْ أَتَتْكُمُ ٱلسَّاعَةُ أَغَيْرَ ٱللَّهِ تَدْعُونَ إِن كُنتُمْ صَـٰدِقِينَ
 
-## r6.5
+## r6.5.x
+
+[Q.6.41-50](https://www.islamicstudies.info/tafheem.php?sura=6&verse=41&to=50)
+6.41-50
+
+![[#r6.5.1]]
+## r6.5.1
 
 [Q.6.41-50](https://www.islamicstudies.info/tafheem.php?sura=6&verse=41&to=50)
 6.41-50
@@ -11172,7 +12220,13 @@
 
 قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ
 
-## r6.6
+## r6.6.x
+
+[Q.6.51-55](https://www.islamicstudies.info/tafheem.php?sura=6&verse=51&to=55)
+6.51-55
+
+![[#r6.6.1]]
+## r6.6.1
 
 [Q.6.51-55](https://www.islamicstudies.info/tafheem.php?sura=6&verse=51&to=55)
 6.51-55
@@ -11197,7 +12251,13 @@
 
 وَكَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ وَلِتَسْتَبِينَ سَبِيلُ ٱلْمُجْرِمِينَ
 
-## r6.7
+## r6.7.x
+
+[Q.6.56-60](https://www.islamicstudies.info/tafheem.php?sura=6&verse=56&to=60)
+6.56-60
+
+![[#r6.7.1]]
+## r6.7.1
 
 [Q.6.56-60](https://www.islamicstudies.info/tafheem.php?sura=6&verse=56&to=60)
 6.56-60
@@ -11222,7 +12282,13 @@
 
 وَهُوَ ٱلَّذِى يَتَوَفَّىٰكُم بِٱلَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِٱلنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰٓ أَجَلٌ مُّسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
-## r6.8
+## r6.8.x
+
+[Q.6.61-70](https://www.islamicstudies.info/tafheem.php?sura=6&verse=61&to=70)
+6.61-70
+
+![[#r6.8.1]]
+## r6.8.1
 
 [Q.6.61-70](https://www.islamicstudies.info/tafheem.php?sura=6&verse=61&to=70)
 6.61-70
@@ -11267,7 +12333,13 @@
 
 وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّ وَلَا شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَآ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ ۖ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ
 
-## r6.9
+## r6.9.x
+
+[Q.6.71-82](https://www.islamicstudies.info/tafheem.php?sura=6&verse=71&to=82)
+6.71-82
+
+![[#r6.9.1]]
+## r6.9.1
 
 [Q.6.71-82](https://www.islamicstudies.info/tafheem.php?sura=6&verse=71&to=82)
 6.71-82
@@ -11320,7 +12392,13 @@
 
 ٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يَلْبِسُوٓا۟ إِيمَـٰنَهُم بِظُلْمٍ أُو۟لَـٰٓئِكَ لَهُمُ ٱلْأَمْنُ وَهُم مُّهْتَدُونَ
 
-## r6.10
+## r6.10.x
+
+[Q.6.83-90](https://www.islamicstudies.info/tafheem.php?sura=6&verse=83&to=90)
+6.83-90
+
+![[#r6.10.1]]
+## r6.10.1
 
 [Q.6.83-90](https://www.islamicstudies.info/tafheem.php?sura=6&verse=83&to=90)
 6.83-90
@@ -11365,7 +12443,13 @@
 
 وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَـٰكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُم مَّا خَوَّلْنَـٰكُمْ وَرَآءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَـٰٓؤُا۟ ۚ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
 
-## r6.12
+## r6.12.x
+
+[Q.6.95-100](https://www.islamicstudies.info/tafheem.php?sura=6&verse=95&to=100)
+6.95-100
+
+![[#r6.12.1]]
+## r6.12.1
 
 [Q.6.95-100](https://www.islamicstudies.info/tafheem.php?sura=6&verse=95&to=100)
 6.95-100
@@ -11394,7 +12478,13 @@
 
 وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ ٱلْجِنَّ وَخَلَقَهُمْ ۖ وَخَرَقُوا۟ لَهُۥ بَنِينَ وَبَنَـٰتٍۭ بِغَيْرِ عِلْمٍ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يَصِفُونَ
 
-## r6.13
+## r6.13.x
+
+[Q.6.101-110](https://www.islamicstudies.info/tafheem.php?sura=6&verse=101&to=110)
+6.101-110
+
+![[#r6.13.1]]
+## r6.13.1
 
 [Q.6.101-110](https://www.islamicstudies.info/tafheem.php?sura=6&verse=101&to=110)
 6.101-110
@@ -11439,10 +12529,17 @@
 
 وَنُقَلِّبُ أَفْـِٔدَتَهُمْ وَأَبْصَـٰرَهُمْ كَمَا لَمْ يُؤْمِنُوا۟ بِهِۦٓ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ
 
-## r6.14
+## r6.14.x
 
 [Q.6.111-121](https://www.islamicstudies.info/tafheem.php?sura=6&verse=111&to=121)
 6.111-121
+
+![[#r6.14.1]]
+![[#r6.14.2]]
+## r6.14.1
+
+[Q.6.111-113](https://www.islamicstudies.info/tafheem.php?sura=6&verse=111&to=113)
+6.111-113
 
 ### 6:111
 
@@ -11484,7 +12581,13 @@
 
 وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ ٱسْمُ ٱللَّهِ عَلَيْهِ وَإِنَّهُۥ لَفِسْقٌ ۗ وَإِنَّ ٱلشَّيَـٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَـٰدِلُوكُمْ ۖ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ
 
-## r6.15
+## r6.15.x
+
+[Q.6.122-129](https://www.islamicstudies.info/tafheem.php?sura=6&verse=122&to=129)
+6.122-129
+
+![[#r6.15.1]]
+## r6.15.1
 
 [Q.6.122-129](https://www.islamicstudies.info/tafheem.php?sura=6&verse=122&to=129)
 6.122-129
@@ -11521,7 +12624,13 @@
 
 وَكَذَٰلِكَ نُوَلِّى بَعْضَ ٱلظَّـٰلِمِينَ بَعْضًۢا بِمَا كَانُوا۟ يَكْسِبُونَ
 
-## r6.16
+## r6.16.x
+
+[Q.6.130-140](https://www.islamicstudies.info/tafheem.php?sura=6&verse=130&to=140)
+6.130-140
+
+![[#r6.16.1]]
+## r6.16.1
 
 [Q.6.130-140](https://www.islamicstudies.info/tafheem.php?sura=6&verse=130&to=140)
 6.130-140
@@ -11570,7 +12679,13 @@
 
 قَدْ خَسِرَ ٱلَّذِينَ قَتَلُوٓا۟ أَوْلَـٰدَهُمْ سَفَهًۢا بِغَيْرِ عِلْمٍ وَحَرَّمُوا۟ مَا رَزَقَهُمُ ٱللَّهُ ٱفْتِرَآءً عَلَى ٱللَّهِ ۚ قَدْ ضَلُّوا۟ وَمَا كَانُوا۟ مُهْتَدِينَ
 
-## r6.17
+## r6.17.x
+
+[Q.6.141-144](https://www.islamicstudies.info/tafheem.php?sura=6&verse=141&to=144)
+6.141-144
+
+![[#r6.17.1]]
+## r6.17.1
 
 [Q.6.141-144](https://www.islamicstudies.info/tafheem.php?sura=6&verse=141&to=144)
 6.141-144
@@ -11591,7 +12706,13 @@
 
 وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ ٱللَّهُ بِهَـٰذَا ۚ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ
 
-## r6.18
+## r6.18.x
+
+[Q.6.145-150](https://www.islamicstudies.info/tafheem.php?sura=6&verse=145&to=150)
+6.145-150
+
+![[#r6.18.1]]
+## r6.18.1
 
 [Q.6.145-150](https://www.islamicstudies.info/tafheem.php?sura=6&verse=145&to=150)
 6.145-150
@@ -11620,7 +12741,7 @@
 
 قُلْ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَـٰذَا ۖ فَإِن شَهِدُوا۟ فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ
 
-## r6.19
+## r6.19.2
 
 [Q.6.154-154](https://www.islamicstudies.info/tafheem.php?sura=6&verse=154&to=154)
 6.154-154
@@ -11629,7 +12750,13 @@
 
 ثُمَّ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ تَمَامًا عَلَى ٱلَّذِىٓ أَحْسَنَ وَتَفْصِيلًا لِّكُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً لَّعَلَّهُم بِلِقَآءِ رَبِّهِمْ يُؤْمِنُونَ
 
-## r6.20
+## r6.20.x
+
+[Q.6.155-165](https://www.islamicstudies.info/tafheem.php?sura=6&verse=155&to=165)
+6.155-165
+
+![[#r6.20.1]]
+## r6.20.1
 
 [Q.6.155-165](https://www.islamicstudies.info/tafheem.php?sura=6&verse=155&to=165)
 6.155-165
@@ -11680,7 +12807,13 @@
 
 # s37
 
-## r37.1
+## r37.1.x
+
+[Q.37.1-21](https://www.islamicstudies.info/tafheem.php?sura=37&verse=1&to=21)
+37.1-21
+
+![[#r37.1.1]]
+## r37.1.1
 
 [Q.37.1-21](https://www.islamicstudies.info/tafheem.php?sura=37&verse=1&to=21)
 37.1-21
@@ -11769,7 +12902,13 @@
 
 هَـٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ
 
-## r37.2
+## r37.2.x
+
+[Q.37.22-74](https://www.islamicstudies.info/tafheem.php?sura=37&verse=22&to=74)
+37.22-74
+
+![[#r37.2.1]]
+## r37.2.1
 
 [Q.37.22-74](https://www.islamicstudies.info/tafheem.php?sura=37&verse=22&to=74)
 37.22-74
@@ -11986,7 +13125,13 @@
 
 إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
 
-## r37.3
+## r37.3.x
+
+[Q.37.75-113](https://www.islamicstudies.info/tafheem.php?sura=37&verse=75&to=113)
+37.75-113
+
+![[#r37.3.1]]
+## r37.3.1
 
 [Q.37.75-113](https://www.islamicstudies.info/tafheem.php?sura=37&verse=75&to=113)
 37.75-113
@@ -12147,7 +13292,13 @@
 
 وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَـٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ
 
-## r37.4
+## r37.4.x
+
+[Q.37.114-138](https://www.islamicstudies.info/tafheem.php?sura=37&verse=114&to=138)
+37.114-138
+
+![[#r37.4.1]]
+## r37.4.1
 
 [Q.37.114-138](https://www.islamicstudies.info/tafheem.php?sura=37&verse=114&to=138)
 37.114-138
@@ -12252,7 +13403,13 @@
 
 وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ
 
-## r37.5
+## r37.5.x
+
+[Q.37.139-182](https://www.islamicstudies.info/tafheem.php?sura=37&verse=139&to=182)
+37.139-182
+
+![[#r37.5.1]]
+## r37.5.1
 
 [Q.37.139-182](https://www.islamicstudies.info/tafheem.php?sura=37&verse=139&to=182)
 37.139-182
@@ -12435,7 +13592,13 @@
 
 # s31
 
-## r31.1
+## r31.1.x
+
+[Q.31.1-11](https://www.islamicstudies.info/tafheem.php?sura=31&verse=1&to=11)
+31.1-11
+
+![[#r31.1.1]]
+## r31.1.1
 
 [Q.31.1-11](https://www.islamicstudies.info/tafheem.php?sura=31&verse=1&to=11)
 31.1-11
@@ -12484,7 +13647,13 @@
 
 هَـٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ ٱلظَّـٰلِمُونَ فِى ضَلَـٰلٍ مُّبِينٍ
 
-## r31.2
+## r31.2.x
+
+[Q.31.12-19](https://www.islamicstudies.info/tafheem.php?sura=31&verse=12&to=19)
+31.12-19
+
+![[#r31.2.1]]
+## r31.2.1
 
 [Q.31.12-19](https://www.islamicstudies.info/tafheem.php?sura=31&verse=12&to=19)
 31.12-19
@@ -12521,10 +13690,18 @@
 
 وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ
 
-## r31.3
+## r31.3.x
 
 [Q.31.20-30](https://www.islamicstudies.info/tafheem.php?sura=31&verse=20&to=30)
 31.20-30
+
+![[#r31.3.1]]
+![[#r31.3.2]]
+![[#r31.3.3]]
+## r31.3.1
+
+[Q.31.20-26](https://www.islamicstudies.info/tafheem.php?sura=31&verse=20&to=26)
+31.20-26
 
 ### 31:20
 
@@ -12554,7 +13731,7 @@
 
 لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
 
-## r31.3
+## r31.3.3
 
 [Q.31.30-30](https://www.islamicstudies.info/tafheem.php?sura=31&verse=30&to=30)
 31.30-30
@@ -12563,7 +13740,13 @@
 
 ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ ٱلْبَـٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ
 
-## r31.4
+## r31.4.x
+
+[Q.31.31-34](https://www.islamicstudies.info/tafheem.php?sura=31&verse=31&to=34)
+31.31-34
+
+![[#r31.4.1]]
+## r31.4.1
 
 [Q.31.31-34](https://www.islamicstudies.info/tafheem.php?sura=31&verse=31&to=34)
 31.31-34
@@ -12586,7 +13769,13 @@
 
 # s34
 
-## r34.1
+## r34.1.x
+
+[Q.34.1-11](https://www.islamicstudies.info/tafheem.php?sura=34&verse=1&to=11)
+34.1-11
+
+![[#r34.1.1]]
+## r34.1.1
 
 [Q.34.1-11](https://www.islamicstudies.info/tafheem.php?sura=34&verse=1&to=11)
 34.1-11
@@ -12635,7 +13824,13 @@
 
 أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌ
 
-## r34.2
+## r34.2.x
+
+[Q.34.12-21](https://www.islamicstudies.info/tafheem.php?sura=34&verse=12&to=21)
+34.12-21
+
+![[#r34.2.1]]
+## r34.2.1
 
 [Q.34.12-21](https://www.islamicstudies.info/tafheem.php?sura=34&verse=12&to=21)
 34.12-21
@@ -12680,7 +13875,13 @@
 
 وَمَا كَانَ لَهُۥ عَلَيْهِم مِّن سُلْطَـٰنٍ إِلَّا لِنَعْلَمَ مَن يُؤْمِنُ بِٱلْـَٔاخِرَةِ مِمَّنْ هُوَ مِنْهَا فِى شَكٍّ ۗ وَرَبُّكَ عَلَىٰ كُلِّ شَىْءٍ حَفِيظٌ
 
-## r34.3
+## r34.3.x
+
+[Q.34.22-30](https://www.islamicstudies.info/tafheem.php?sura=34&verse=22&to=30)
+34.22-30
+
+![[#r34.3.1]]
+## r34.3.1
 
 [Q.34.22-30](https://www.islamicstudies.info/tafheem.php?sura=34&verse=22&to=30)
 34.22-30
@@ -12721,7 +13922,13 @@
 
 قُل لَّكُم مِّيعَادُ يَوْمٍ لَّا تَسْتَـْٔخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ
 
-## r34.4
+## r34.4.x
+
+[Q.34.31-36](https://www.islamicstudies.info/tafheem.php?sura=34&verse=31&to=36)
+34.31-36
+
+![[#r34.4.1]]
+## r34.4.1
 
 [Q.34.31-36](https://www.islamicstudies.info/tafheem.php?sura=34&verse=31&to=36)
 34.31-36
@@ -12750,7 +13957,13 @@
 
 قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-## r34.5
+## r34.5.x
+
+[Q.34.37-45](https://www.islamicstudies.info/tafheem.php?sura=34&verse=37&to=45)
+34.37-45
+
+![[#r34.5.1]]
+## r34.5.1
 
 [Q.34.37-45](https://www.islamicstudies.info/tafheem.php?sura=34&verse=37&to=45)
 34.37-45
@@ -12791,7 +14004,13 @@
 
 وَكَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ وَمَا بَلَغُوا۟ مِعْشَارَ مَآ ءَاتَيْنَـٰهُمْ فَكَذَّبُوا۟ رُسُلِى ۖ فَكَيْفَ كَانَ نَكِيرِ
 
-## r34.6
+## r34.6.x
+
+[Q.34.46-54](https://www.islamicstudies.info/tafheem.php?sura=34&verse=46&to=54)
+34.46-54
+
+![[#r34.6.1]]
+## r34.6.1
 
 [Q.34.46-54](https://www.islamicstudies.info/tafheem.php?sura=34&verse=46&to=54)
 34.46-54
@@ -12834,7 +14053,13 @@
 
 # s39
 
-## r39.1
+## r39.1.x
+
+[Q.39.1-9](https://www.islamicstudies.info/tafheem.php?sura=39&verse=1&to=9)
+39.1-9
+
+![[#r39.1.1]]
+## r39.1.1
 
 [Q.39.1-9](https://www.islamicstudies.info/tafheem.php?sura=39&verse=1&to=9)
 39.1-9
@@ -12875,7 +14100,13 @@
 
 أَمَّنْ هُوَ قَـٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ ٱلْـَٔاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ
 
-## r39.2
+## r39.2.x
+
+[Q.39.10-21](https://www.islamicstudies.info/tafheem.php?sura=39&verse=10&to=21)
+39.10-21
+
+![[#r39.2.1]]
+## r39.2.1
 
 [Q.39.10-21](https://www.islamicstudies.info/tafheem.php?sura=39&verse=10&to=21)
 39.10-21
@@ -12928,7 +14159,13 @@
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَلَكَهُۥ يَنَـٰبِيعَ فِى ٱلْأَرْضِ ثُمَّ يُخْرِجُ بِهِۦ زَرْعًا مُّخْتَلِفًا أَلْوَٰنُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَجْعَلُهُۥ حُطَـٰمًا ۚ إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ
 
-## r39.3
+## r39.3.x
+
+[Q.39.22-41](https://www.islamicstudies.info/tafheem.php?sura=39&verse=22&to=41)
+39.22-41
+
+![[#r39.3.1]]
+## r39.3.1
 
 [Q.39.22-41](https://www.islamicstudies.info/tafheem.php?sura=39&verse=22&to=41)
 39.22-41
@@ -13013,7 +14250,13 @@
 
 إِنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَـٰبَ لِلنَّاسِ بِٱلْحَقِّ ۖ فَمَنِ ٱهْتَدَىٰ فَلِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ
 
-## r39.4
+## r39.4.x
+
+[Q.39.42-52](https://www.islamicstudies.info/tafheem.php?sura=39&verse=42&to=52)
+39.42-52
+
+![[#r39.4.1]]
+## r39.4.1
 
 [Q.39.42-52](https://www.islamicstudies.info/tafheem.php?sura=39&verse=42&to=52)
 39.42-52
@@ -13062,7 +14305,13 @@
 
 أَوَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ
 
-## r39.5
+## r39.5.x
+
+[Q.39.53-63](https://www.islamicstudies.info/tafheem.php?sura=39&verse=53&to=63)
+39.53-63
+
+![[#r39.5.1]]
+## r39.5.1
 
 [Q.39.53-63](https://www.islamicstudies.info/tafheem.php?sura=39&verse=53&to=63)
 39.53-63
@@ -13111,7 +14360,13 @@
 
 لَّهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ
 
-## r39.6
+## r39.6.x
+
+[Q.39.64-70](https://www.islamicstudies.info/tafheem.php?sura=39&verse=64&to=70)
+39.64-70
+
+![[#r39.6.1]]
+## r39.6.1
 
 [Q.39.64-70](https://www.islamicstudies.info/tafheem.php?sura=39&verse=64&to=70)
 39.64-70
@@ -13144,7 +14399,13 @@
 
 وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا يَفْعَلُونَ
 
-## r39.7
+## r39.7.x
+
+[Q.39.71-75](https://www.islamicstudies.info/tafheem.php?sura=39&verse=71&to=75)
+39.71-75
+
+![[#r39.7.1]]
+## r39.7.1
 
 [Q.39.71-75](https://www.islamicstudies.info/tafheem.php?sura=39&verse=71&to=75)
 39.71-75
@@ -13171,7 +14432,13 @@
 
 # s40
 
-## r40.1
+## r40.1.x
+
+[Q.40.1-9](https://www.islamicstudies.info/tafheem.php?sura=40&verse=1&to=9)
+40.1-9
+
+![[#r40.1.1]]
+## r40.1.1
 
 [Q.40.1-9](https://www.islamicstudies.info/tafheem.php?sura=40&verse=1&to=9)
 40.1-9
@@ -13212,7 +14479,13 @@
 
 وَقِهِمُ ٱلسَّيِّـَٔاتِ ۚ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُۥ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
-## r40.2
+## r40.2.x
+
+[Q.40.10-20](https://www.islamicstudies.info/tafheem.php?sura=40&verse=10&to=20)
+40.10-20
+
+![[#r40.2.1]]
+## r40.2.1
 
 [Q.40.10-20](https://www.islamicstudies.info/tafheem.php?sura=40&verse=10&to=20)
 40.10-20
@@ -13261,7 +14534,13 @@
 
 وَٱللَّهُ يَقْضِى بِٱلْحَقِّ ۖ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَقْضُونَ بِشَىْءٍ ۗ إِنَّ ٱللَّهَ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
 
-## r40.3
+## r40.3.x
+
+[Q.40.21-27](https://www.islamicstudies.info/tafheem.php?sura=40&verse=21&to=27)
+40.21-27
+
+![[#r40.3.1]]
+## r40.3.1
 
 [Q.40.21-27](https://www.islamicstudies.info/tafheem.php?sura=40&verse=21&to=27)
 40.21-27
@@ -13294,7 +14573,13 @@
 
 وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ
 
-## r40.4
+## r40.4.x
+
+[Q.40.28-37](https://www.islamicstudies.info/tafheem.php?sura=40&verse=28&to=37)
+40.28-37
+
+![[#r40.4.1]]
+## r40.4.1
 
 [Q.40.28-37](https://www.islamicstudies.info/tafheem.php?sura=40&verse=28&to=37)
 40.28-37
@@ -13339,7 +14624,13 @@
 
 أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍ
 
-## r40.5
+## r40.5.x
+
+[Q.40.38-50](https://www.islamicstudies.info/tafheem.php?sura=40&verse=38&to=50)
+40.38-50
+
+![[#r40.5.1]]
+## r40.5.1
 
 [Q.40.38-50](https://www.islamicstudies.info/tafheem.php?sura=40&verse=38&to=50)
 40.38-50
@@ -13396,10 +14687,18 @@
 
 قَالُوٓا۟ أَوَلَمْ تَكُ تَأْتِيكُمْ رُسُلُكُم بِٱلْبَيِّنَـٰتِ ۖ قَالُوا۟ بَلَىٰ ۚ قَالُوا۟ فَٱدْعُوا۟ ۗ وَمَا دُعَـٰٓؤُا۟ ٱلْكَـٰفِرِينَ إِلَّا فِى ضَلَـٰلٍ
 
-## r40.6
+## r40.6.x
 
 [Q.40.51-60](https://www.islamicstudies.info/tafheem.php?sura=40&verse=51&to=60)
 40.51-60
+
+![[#r40.6.1]]
+![[#r40.6.2]]
+![[#r40.6.3]]
+## r40.6.1
+
+[Q.40.51-55](https://www.islamicstudies.info/tafheem.php?sura=40&verse=51&to=55)
+40.51-55
 
 ### 40:51
 
@@ -13421,7 +14720,7 @@
 
 فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ
 
-## r40.6
+## r40.6.3
 
 [Q.40.58-60](https://www.islamicstudies.info/tafheem.php?sura=40&verse=58&to=60)
 40.58-60
@@ -13438,7 +14737,13 @@
 
 وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 
-## r40.7
+## r40.7.x
+
+[Q.40.61-68](https://www.islamicstudies.info/tafheem.php?sura=40&verse=61&to=68)
+40.61-68
+
+![[#r40.7.1]]
+## r40.7.1
 
 [Q.40.61-68](https://www.islamicstudies.info/tafheem.php?sura=40&verse=61&to=68)
 40.61-68
@@ -13475,7 +14780,13 @@
 
 هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 
-## r40.8
+## r40.8.x
+
+[Q.40.69-78](https://www.islamicstudies.info/tafheem.php?sura=40&verse=69&to=78)
+40.69-78
+
+![[#r40.8.1]]
+## r40.8.1
 
 [Q.40.69-78](https://www.islamicstudies.info/tafheem.php?sura=40&verse=69&to=78)
 40.69-78
@@ -13520,7 +14831,13 @@
 
 وَلَقَدْ أَرْسَلْنَا رُسُلًا مِّن قَبْلِكَ مِنْهُم مَّن قَصَصْنَا عَلَيْكَ وَمِنْهُم مَّن لَّمْ نَقْصُصْ عَلَيْكَ ۗ وَمَا كَانَ لِرَسُولٍ أَن يَأْتِىَ بِـَٔايَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ فَإِذَا جَآءَ أَمْرُ ٱللَّهِ قُضِىَ بِٱلْحَقِّ وَخَسِرَ هُنَالِكَ ٱلْمُبْطِلُونَ
 
-## r40.9
+## r40.9.x
+
+[Q.40.79-85](https://www.islamicstudies.info/tafheem.php?sura=40&verse=79&to=85)
+40.79-85
+
+![[#r40.9.1]]
+## r40.9.1
 
 [Q.40.79-85](https://www.islamicstudies.info/tafheem.php?sura=40&verse=79&to=85)
 40.79-85
@@ -13555,7 +14872,13 @@
 
 # s41
 
-## r41.1
+## r41.1.x
+
+[Q.41.1-8](https://www.islamicstudies.info/tafheem.php?sura=41&verse=1&to=8)
+41.1-8
+
+![[#r41.1.1]]
+## r41.1.1
 
 [Q.41.1-8](https://www.islamicstudies.info/tafheem.php?sura=41&verse=1&to=8)
 41.1-8
@@ -13592,7 +14915,13 @@
 
 إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ
 
-## r41.2
+## r41.2.x
+
+[Q.41.9-18](https://www.islamicstudies.info/tafheem.php?sura=41&verse=9&to=18)
+41.9-18
+
+![[#r41.2.1]]
+## r41.2.1
 
 [Q.41.9-18](https://www.islamicstudies.info/tafheem.php?sura=41&verse=9&to=18)
 41.9-18
@@ -13637,7 +14966,13 @@
 
 وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ
 
-## r41.3
+## r41.3.x
+
+[Q.41.19-25](https://www.islamicstudies.info/tafheem.php?sura=41&verse=19&to=25)
+41.19-25
+
+![[#r41.3.1]]
+## r41.3.1
 
 [Q.41.19-25](https://www.islamicstudies.info/tafheem.php?sura=41&verse=19&to=25)
 41.19-25
@@ -13670,7 +15005,13 @@
 
 ۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ فَزَيَّنُوا۟ لَهُم مَّا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَـٰسِرِينَ
 
-## r41.4
+## r41.4.x
+
+[Q.41.26-32](https://www.islamicstudies.info/tafheem.php?sura=41&verse=26&to=32)
+41.26-32
+
+![[#r41.4.1]]
+## r41.4.1
 
 [Q.41.26-32](https://www.islamicstudies.info/tafheem.php?sura=41&verse=26&to=32)
 41.26-32
@@ -13703,7 +15044,13 @@
 
 نُزُلًا مِّنْ غَفُورٍ رَّحِيمٍ
 
-## r41.5
+## r41.5.x
+
+[Q.41.33-44](https://www.islamicstudies.info/tafheem.php?sura=41&verse=33&to=44)
+41.33-44
+
+![[#r41.5.1]]
+## r41.5.1
 
 [Q.41.33-44](https://www.islamicstudies.info/tafheem.php?sura=41&verse=33&to=44)
 41.33-44
@@ -13756,7 +15103,13 @@
 
 وَلَوْ جَعَلْنَـٰهُ قُرْءَانًا أَعْجَمِيًّا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَـٰتُهُۥٓ ۖ ءَا۬عْجَمِىٌّ وَعَرَبِىٌّ ۗ قُلْ هُوَ لِلَّذِينَ ءَامَنُوا۟ هُدًى وَشِفَآءٌ ۖ وَٱلَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُو۟لَـٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍ
 
-## r41.6
+## r41.6.x
+
+[Q.41.45-54](https://www.islamicstudies.info/tafheem.php?sura=41&verse=45&to=54)
+41.45-54
+
+![[#r41.6.1]]
+## r41.6.1
 
 [Q.41.45-54](https://www.islamicstudies.info/tafheem.php?sura=41&verse=45&to=54)
 41.45-54
@@ -13803,7 +15156,13 @@
 
 # s42
 
-## r42.1
+## r42.1.x
+
+[Q.42.1-9](https://www.islamicstudies.info/tafheem.php?sura=42&verse=1&to=9)
+42.1-9
+
+![[#r42.1.1]]
+## r42.1.1
 
 [Q.42.1-9](https://www.islamicstudies.info/tafheem.php?sura=42&verse=1&to=9)
 42.1-9
@@ -13844,7 +15203,13 @@
 
 أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
-## r42.2
+## r42.2.x
+
+[Q.42.10-19](https://www.islamicstudies.info/tafheem.php?sura=42&verse=10&to=19)
+42.10-19
+
+![[#r42.2.1]]
+## r42.2.1
 
 [Q.42.10-19](https://www.islamicstudies.info/tafheem.php?sura=42&verse=10&to=19)
 42.10-19
@@ -13889,10 +15254,19 @@
 
 ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ
 
-## r42.3
+## r42.3.x
 
 [Q.42.20-29](https://www.islamicstudies.info/tafheem.php?sura=42&verse=20&to=29)
 42.20-29
+
+![[#r42.3.1]]
+![[#r42.3.2]]
+![[#r42.3.3]]
+![[#r42.3.4]]
+## r42.3.1
+
+[Q.42.20-22](https://www.islamicstudies.info/tafheem.php?sura=42&verse=20&to=22)
+42.20-22
 
 ### 42:20
 
@@ -13906,10 +15280,10 @@
 
 تَرَى ٱلظَّـٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
 
-## r42.3
+## r42.3.3
 
-[Q.42.26-29](https://www.islamicstudies.info/tafheem.php?sura=42&verse=26&to=29)
-42.26-29
+[Q.42.26-26](https://www.islamicstudies.info/tafheem.php?sura=42&verse=26&to=26)
+42.26-26
 
 ### 42:26
 
@@ -13923,7 +15297,13 @@
 
 وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ
 
-## r42.4
+## r42.4.x
+
+[Q.42.30-43](https://www.islamicstudies.info/tafheem.php?sura=42&verse=30&to=43)
+42.30-43
+
+![[#r42.4.1]]
+## r42.4.1
 
 [Q.42.30-43](https://www.islamicstudies.info/tafheem.php?sura=42&verse=30&to=43)
 42.30-43
@@ -13984,7 +15364,13 @@
 
 وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
 
-## r42.5
+## r42.5.x
+
+[Q.42.44-53](https://www.islamicstudies.info/tafheem.php?sura=42&verse=44&to=53)
+42.44-53
+
+![[#r42.5.1]]
+## r42.5.1
 
 [Q.42.44-53](https://www.islamicstudies.info/tafheem.php?sura=42&verse=44&to=53)
 42.44-53
@@ -14031,7 +15417,13 @@
 
 # s43
 
-## r43.1
+## r43.1.x
+
+[Q.43.1-15](https://www.islamicstudies.info/tafheem.php?sura=43&verse=1&to=15)
+43.1-15
+
+![[#r43.1.1]]
+## r43.1.1
 
 [Q.43.1-15](https://www.islamicstudies.info/tafheem.php?sura=43&verse=1&to=15)
 43.1-15
@@ -14096,7 +15488,13 @@
 
 وَجَعَلُوا۟ لَهُۥ مِنْ عِبَادِهِۦ جُزْءًا ۚ إِنَّ ٱلْإِنسَـٰنَ لَكَفُورٌ مُّبِينٌ
 
-## r43.2
+## r43.2.x
+
+[Q.43.16-25](https://www.islamicstudies.info/tafheem.php?sura=43&verse=16&to=25)
+43.16-25
+
+![[#r43.2.1]]
+## r43.2.1
 
 [Q.43.16-25](https://www.islamicstudies.info/tafheem.php?sura=43&verse=16&to=25)
 43.16-25
@@ -14141,7 +15539,13 @@
 
 فَٱنتَقَمْنَا مِنْهُمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ
 
-## r43.3
+## r43.3.x
+
+[Q.43.26-35](https://www.islamicstudies.info/tafheem.php?sura=43&verse=26&to=35)
+43.26-35
+
+![[#r43.3.1]]
+## r43.3.1
 
 [Q.43.26-35](https://www.islamicstudies.info/tafheem.php?sura=43&verse=26&to=35)
 43.26-35
@@ -14186,7 +15590,13 @@
 
 وَزُخْرُفًا ۚ وَإِن كُلُّ ذَٰلِكَ لَمَّا مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَٱلْـَٔاخِرَةُ عِندَ رَبِّكَ لِلْمُتَّقِينَ
 
-## r43.4
+## r43.4.x
+
+[Q.43.36-45](https://www.islamicstudies.info/tafheem.php?sura=43&verse=36&to=45)
+43.36-45
+
+![[#r43.4.1]]
+## r43.4.1
 
 [Q.43.36-45](https://www.islamicstudies.info/tafheem.php?sura=43&verse=36&to=45)
 43.36-45
@@ -14231,10 +15641,17 @@
 
 وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَـٰنِ ءَالِهَةً يُعْبَدُونَ
 
-## r43.5
+## r43.5.x
 
 [Q.43.46-56](https://www.islamicstudies.info/tafheem.php?sura=43&verse=46&to=56)
 43.46-56
+
+![[#r43.5.1]]
+![[#r43.5.2]]
+## r43.5.1
+
+[Q.43.46-53](https://www.islamicstudies.info/tafheem.php?sura=43&verse=46&to=53)
+43.46-53
 
 ### 43:46
 
@@ -14276,7 +15693,13 @@
 
 فَجَعَلْنَـٰهُمْ سَلَفًا وَمَثَلًا لِّلْـَٔاخِرِينَ
 
-## r43.6
+## r43.6.x
+
+[Q.43.57-67](https://www.islamicstudies.info/tafheem.php?sura=43&verse=57&to=67)
+43.57-67
+
+![[#r43.6.1]]
+## r43.6.1
 
 [Q.43.57-67](https://www.islamicstudies.info/tafheem.php?sura=43&verse=57&to=67)
 43.57-67
@@ -14325,7 +15748,13 @@
 
 ٱلْأَخِلَّآءُ يَوْمَئِذٍۭ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا ٱلْمُتَّقِينَ
 
-## r43.7
+## r43.7.x
+
+[Q.43.68-89](https://www.islamicstudies.info/tafheem.php?sura=43&verse=68&to=89)
+43.68-89
+
+![[#r43.7.1]]
+## r43.7.1
 
 [Q.43.68-89](https://www.islamicstudies.info/tafheem.php?sura=43&verse=68&to=89)
 43.68-89
@@ -14420,7 +15849,13 @@
 
 # s44
 
-## r44.1
+## r44.1.x
+
+[Q.44.1-29](https://www.islamicstudies.info/tafheem.php?sura=44&verse=1&to=29)
+44.1-29
+
+![[#r44.1.1]]
+## r44.1.1
 
 [Q.44.1-29](https://www.islamicstudies.info/tafheem.php?sura=44&verse=1&to=29)
 44.1-29
@@ -14541,7 +15976,13 @@
 
 فَمَا بَكَتْ عَلَيْهِمُ ٱلسَّمَآءُ وَٱلْأَرْضُ وَمَا كَانُوا۟ مُنظَرِينَ
 
-## r44.2
+## r44.2.x
+
+[Q.44.30-42](https://www.islamicstudies.info/tafheem.php?sura=44&verse=30&to=42)
+44.30-42
+
+![[#r44.2.1]]
+## r44.2.1
 
 [Q.44.30-42](https://www.islamicstudies.info/tafheem.php?sura=44&verse=30&to=42)
 44.30-42
@@ -14598,7 +16039,13 @@
 
 إِلَّا مَن رَّحِمَ ٱللَّهُ ۚ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
-## r44.3
+## r44.3.x
+
+[Q.44.43-59](https://www.islamicstudies.info/tafheem.php?sura=44&verse=43&to=59)
+44.43-59
+
+![[#r44.3.1]]
+## r44.3.1
 
 [Q.44.43-59](https://www.islamicstudies.info/tafheem.php?sura=44&verse=43&to=59)
 44.43-59
@@ -14673,7 +16120,13 @@
 
 # s45
 
-## r45.1
+## r45.1.x
+
+[Q.45.1-11](https://www.islamicstudies.info/tafheem.php?sura=45&verse=1&to=11)
+45.1-11
+
+![[#r45.1.1]]
+## r45.1.1
 
 [Q.45.1-11](https://www.islamicstudies.info/tafheem.php?sura=45&verse=1&to=11)
 45.1-11
@@ -14722,10 +16175,17 @@
 
 هَـٰذَا هُدًى ۖ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ
 
-## r45.2
+## r45.2.x
 
 [Q.45.12-21](https://www.islamicstudies.info/tafheem.php?sura=45&verse=12&to=21)
 45.12-21
+
+![[#r45.2.1]]
+![[#r45.2.2]]
+## r45.2.1
+
+[Q.45.12-13](https://www.islamicstudies.info/tafheem.php?sura=45&verse=12&to=13)
+45.12-13
 
 ### 45:12
 
@@ -14763,7 +16223,13 @@
 
 أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ أَن نَّجْعَلَهُمْ كَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ ۚ سَآءَ مَا يَحْكُمُونَ
 
-## r45.3
+## r45.3.x
+
+[Q.45.22-26](https://www.islamicstudies.info/tafheem.php?sura=45&verse=22&to=26)
+45.22-26
+
+![[#r45.3.1]]
+## r45.3.1
 
 [Q.45.22-26](https://www.islamicstudies.info/tafheem.php?sura=45&verse=22&to=26)
 45.22-26
@@ -14788,7 +16254,13 @@
 
 قُلِ ٱللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-## r45.4
+## r45.4.x
+
+[Q.45.27-37](https://www.islamicstudies.info/tafheem.php?sura=45&verse=27&to=37)
+45.27-37
+
+![[#r45.4.1]]
+## r45.4.1
 
 [Q.45.27-37](https://www.islamicstudies.info/tafheem.php?sura=45&verse=27&to=37)
 45.27-37
@@ -14839,10 +16311,17 @@
 
 # s46
 
-## r46.1
+## r46.1.x
 
 [Q.46.1-10](https://www.islamicstudies.info/tafheem.php?sura=46&verse=1&to=10)
 46.1-10
+
+![[#r46.1.1]]
+![[#r46.1.2]]
+## r46.1.1
+
+[Q.46.1-9](https://www.islamicstudies.info/tafheem.php?sura=46&verse=1&to=9)
+46.1-9
 
 ### 46:1
 
@@ -14880,10 +16359,17 @@
 
 قُلْ مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ
 
-## r46.2
+## r46.2.x
 
 [Q.46.11-20](https://www.islamicstudies.info/tafheem.php?sura=46&verse=11&to=20)
 46.11-20
+
+![[#r46.2.1]]
+![[#r46.2.2]]
+## r46.2.1
+
+[Q.46.11-14](https://www.islamicstudies.info/tafheem.php?sura=46&verse=11&to=14)
+46.11-14
 
 ### 46:11
 
@@ -14921,7 +16407,13 @@
 
 وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَـٰتِكُمْ فِى حَيَاتِكُمُ ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ
 
-## r46.3
+## r46.3.x
+
+[Q.46.21-26](https://www.islamicstudies.info/tafheem.php?sura=46&verse=21&to=26)
+46.21-26
+
+![[#r46.3.1]]
+## r46.3.1
 
 [Q.46.21-26](https://www.islamicstudies.info/tafheem.php?sura=46&verse=21&to=26)
 46.21-26
@@ -14950,10 +16442,17 @@
 
 وَلَقَدْ مَكَّنَّـٰهُمْ فِيمَآ إِن مَّكَّنَّـٰكُمْ فِيهِ وَجَعَلْنَا لَهُمْ سَمْعًا وَأَبْصَـٰرًا وَأَفْـِٔدَةً فَمَآ أَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَآ أَبْصَـٰرُهُمْ وَلَآ أَفْـِٔدَتُهُم مِّن شَىْءٍ إِذْ كَانُوا۟ يَجْحَدُونَ بِـَٔايَـٰتِ ٱللَّهِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-## r46.4
+## r46.4.x
 
 [Q.46.27-35](https://www.islamicstudies.info/tafheem.php?sura=46&verse=27&to=35)
 46.27-35
+
+![[#r46.4.1]]
+![[#r46.4.2]]
+## r46.4.1
+
+[Q.46.27-34](https://www.islamicstudies.info/tafheem.php?sura=46&verse=27&to=34)
+46.27-34
 
 ### 46:27
 
@@ -14989,7 +16488,13 @@
 
 # s51
 
-## r51.1
+## r51.1.x
+
+[Q.51.1-23](https://www.islamicstudies.info/tafheem.php?sura=51&verse=1&to=23)
+51.1-23
+
+![[#r51.1.1]]
+## r51.1.1
 
 [Q.51.1-23](https://www.islamicstudies.info/tafheem.php?sura=51&verse=1&to=23)
 51.1-23
@@ -15086,7 +16591,13 @@
 
 فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ
 
-## r51.2
+## r51.2.x
+
+[Q.51.24-46](https://www.islamicstudies.info/tafheem.php?sura=51&verse=24&to=46)
+51.24-46
+
+![[#r51.2.1]]
+## r51.2.1
 
 [Q.51.24-46](https://www.islamicstudies.info/tafheem.php?sura=51&verse=24&to=46)
 51.24-46
@@ -15183,7 +16694,13 @@
 
 وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ
 
-## r51.3
+## r51.3.x
+
+[Q.51.47-60](https://www.islamicstudies.info/tafheem.php?sura=51&verse=47&to=60)
+51.47-60
+
+![[#r51.3.1]]
+## r51.3.1
 
 [Q.51.47-60](https://www.islamicstudies.info/tafheem.php?sura=51&verse=47&to=60)
 51.47-60
@@ -15357,7 +16874,16 @@
 
 # s18
 
-## r18.1
+## r18.1.x
+
+[Q.18.1-12](https://www.islamicstudies.info/tafheem.php?sura=18&verse=1&to=12)
+18.1-12
+
+![[#r18.1.1]]
+![[#r18.10.1]]
+![[#r18.11.1]]
+![[#r18.12.1]]
+## r18.1.1
 
 [Q.18.1-12](https://www.islamicstudies.info/tafheem.php?sura=18&verse=1&to=12)
 18.1-12
@@ -15410,7 +16936,13 @@
 
 ثُمَّ بَعَثْنَـٰهُمْ لِنَعْلَمَ أَىُّ ٱلْحِزْبَيْنِ أَحْصَىٰ لِمَا لَبِثُوٓا۟ أَمَدًا
 
-## r18.2
+## r18.2.x
+
+[Q.18.13-17](https://www.islamicstudies.info/tafheem.php?sura=18&verse=13&to=17)
+18.13-17
+
+![[#r18.2.1]]
+## r18.2.1
 
 [Q.18.13-17](https://www.islamicstudies.info/tafheem.php?sura=18&verse=13&to=17)
 18.13-17
@@ -15435,7 +16967,13 @@
 
 ۞ وَتَرَى ٱلشَّمْسَ إِذَا طَلَعَت تَّزَٰوَرُ عَن كَهْفِهِمْ ذَاتَ ٱلْيَمِينِ وَإِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ ٱلشِّمَالِ وَهُمْ فِى فَجْوَةٍ مِّنْهُ ۚ ذَٰلِكَ مِنْ ءَايَـٰتِ ٱللَّهِ ۗ مَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُۥ وَلِيًّا مُّرْشِدًا
 
-## r18.3
+## r18.3.x
+
+[Q.18.18-22](https://www.islamicstudies.info/tafheem.php?sura=18&verse=18&to=22)
+18.18-22
+
+![[#r18.3.1]]
+## r18.3.1
 
 [Q.18.18-22](https://www.islamicstudies.info/tafheem.php?sura=18&verse=18&to=22)
 18.18-22
@@ -15460,10 +16998,17 @@
 
 سَيَقُولُونَ ثَلَـٰثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءً ظَـٰهِرًا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًا
 
-## r18.4
+## r18.4.x
 
 [Q.18.23-31](https://www.islamicstudies.info/tafheem.php?sura=18&verse=23&to=31)
 18.23-31
+
+![[#r18.4.1]]
+![[#r18.4.2]]
+## r18.4.1
+
+[Q.18.23-27](https://www.islamicstudies.info/tafheem.php?sura=18&verse=23&to=27)
+18.23-27
 
 ### 18:23
 
@@ -15497,7 +17042,13 @@
 
 أُو۟لَـٰٓئِكَ لَهُمْ جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَـٰرُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَيَلْبَسُونَ ثِيَابًا خُضْرًا مِّن سُندُسٍ وَإِسْتَبْرَقٍ مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۚ نِعْمَ ٱلثَّوَابُ وَحَسُنَتْ مُرْتَفَقًا
 
-## r18.5
+## r18.5.x
+
+[Q.18.32-44](https://www.islamicstudies.info/tafheem.php?sura=18&verse=32&to=44)
+18.32-44
+
+![[#r18.5.1]]
+## r18.5.1
 
 [Q.18.32-44](https://www.islamicstudies.info/tafheem.php?sura=18&verse=32&to=44)
 18.32-44
@@ -15554,7 +17105,13 @@
 
 هُنَالِكَ ٱلْوَلَـٰيَةُ لِلَّهِ ٱلْحَقِّ ۚ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا
 
-## r18.6
+## r18.6.x
+
+[Q.18.45-49](https://www.islamicstudies.info/tafheem.php?sura=18&verse=45&to=49)
+18.45-49
+
+![[#r18.6.1]]
+## r18.6.1
 
 [Q.18.45-49](https://www.islamicstudies.info/tafheem.php?sura=18&verse=45&to=49)
 18.45-49
@@ -15579,7 +17136,13 @@
 
 وَوُضِعَ ٱلْكِتَـٰبُ فَتَرَى ٱلْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَـٰوَيْلَتَنَا مَالِ هَـٰذَا ٱلْكِتَـٰبِ لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً إِلَّآ أَحْصَىٰهَا ۚ وَوَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا
 
-## r18.7
+## r18.7.x
+
+[Q.18.50-53](https://www.islamicstudies.info/tafheem.php?sura=18&verse=50&to=53)
+18.50-53
+
+![[#r18.7.1]]
+## r18.7.1
 
 [Q.18.50-53](https://www.islamicstudies.info/tafheem.php?sura=18&verse=50&to=53)
 18.50-53
@@ -15600,7 +17163,13 @@
 
 وَرَءَا ٱلْمُجْرِمُونَ ٱلنَّارَ فَظَنُّوٓا۟ أَنَّهُم مُّوَاقِعُوهَا وَلَمْ يَجِدُوا۟ عَنْهَا مَصْرِفًا
 
-## r18.8
+## r18.8.x
+
+[Q.18.54-59](https://www.islamicstudies.info/tafheem.php?sura=18&verse=54&to=59)
+18.54-59
+
+![[#r18.8.1]]
+## r18.8.1
 
 [Q.18.54-59](https://www.islamicstudies.info/tafheem.php?sura=18&verse=54&to=59)
 18.54-59
@@ -15629,7 +17198,13 @@
 
 وَتِلْكَ ٱلْقُرَىٰٓ أَهْلَكْنَـٰهُمْ لَمَّا ظَلَمُوا۟ وَجَعَلْنَا لِمَهْلِكِهِم مَّوْعِدًا
 
-## r18.9
+## r18.9.x
+
+[Q.18.60-70](https://www.islamicstudies.info/tafheem.php?sura=18&verse=60&to=70)
+18.60-70
+
+![[#r18.9.1]]
+## r18.9.1
 
 [Q.18.60-70](https://www.islamicstudies.info/tafheem.php?sura=18&verse=60&to=70)
 18.60-70
@@ -15678,7 +17253,13 @@
 
 قَالَ فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ أُحْدِثَ لَكَ مِنْهُ ذِكْرًا
 
-## r18.10
+## r18.10.x
+
+[Q.18.71-82](https://www.islamicstudies.info/tafheem.php?sura=18&verse=71&to=82)
+18.71-82
+
+![[#r18.10.1]]
+## r18.10.1
 
 [Q.18.71-82](https://www.islamicstudies.info/tafheem.php?sura=18&verse=71&to=82)
 18.71-82
@@ -15731,7 +17312,13 @@
 
 وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَـٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌ لَّهُمَا وَكَانَ أَبُوهُمَا صَـٰلِحًا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةً مِّن رَّبِّكَ ۚ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ۚ ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًا
 
-## r18.12
+## r18.12.x
+
+[Q.18.102-110](https://www.islamicstudies.info/tafheem.php?sura=18&verse=102&to=110)
+18.102-110
+
+![[#r18.12.1]]
+## r18.12.1
 
 [Q.18.102-110](https://www.islamicstudies.info/tafheem.php?sura=18&verse=102&to=110)
 18.102-110
@@ -15774,7 +17361,21 @@
 
 # s16
 
-## r16.1
+## r16.1.x
+
+[Q.16.1-9](https://www.islamicstudies.info/tafheem.php?sura=16&verse=1&to=9)
+16.1-9
+
+![[#r16.1.1]]
+![[#r16.10.1]]
+![[#r16.11.1]]
+![[#r16.12.1]]
+![[#r16.13.1]]
+![[#r16.14.1]]
+![[#r16.15.1]]
+![[#r16.16.1]]
+![[#r16.16.2]]
+## r16.1.1
 
 [Q.16.1-9](https://www.islamicstudies.info/tafheem.php?sura=16&verse=1&to=9)
 16.1-9
@@ -15815,7 +17416,13 @@
 
 وَعَلَى ٱللَّهِ قَصْدُ ٱلسَّبِيلِ وَمِنْهَا جَآئِرٌ ۚ وَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ
 
-## r16.2
+## r16.2.x
+
+[Q.16.10-21](https://www.islamicstudies.info/tafheem.php?sura=16&verse=10&to=21)
+16.10-21
+
+![[#r16.2.1]]
+## r16.2.1
 
 [Q.16.10-21](https://www.islamicstudies.info/tafheem.php?sura=16&verse=10&to=21)
 16.10-21
@@ -15868,7 +17475,13 @@
 
 أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ ۖ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
 
-## r16.3
+## r16.3.x
+
+[Q.16.22-25](https://www.islamicstudies.info/tafheem.php?sura=16&verse=22&to=25)
+16.22-25
+
+![[#r16.3.1]]
+## r16.3.1
 
 [Q.16.22-25](https://www.islamicstudies.info/tafheem.php?sura=16&verse=22&to=25)
 16.22-25
@@ -15889,7 +17502,13 @@
 
 لِيَحْمِلُوٓا۟ أَوْزَارَهُمْ كَامِلَةً يَوْمَ ٱلْقِيَـٰمَةِ ۙ وَمِنْ أَوْزَارِ ٱلَّذِينَ يُضِلُّونَهُم بِغَيْرِ عِلْمٍ ۗ أَلَا سَآءَ مَا يَزِرُونَ
 
-## r16.4
+## r16.4.x
+
+[Q.16.26-34](https://www.islamicstudies.info/tafheem.php?sura=16&verse=26&to=34)
+16.26-34
+
+![[#r16.4.1]]
+## r16.4.1
 
 [Q.16.26-34](https://www.islamicstudies.info/tafheem.php?sura=16&verse=26&to=34)
 16.26-34
@@ -15930,7 +17549,13 @@
 
 فَأَصَابَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-## r16.5
+## r16.5.x
+
+[Q.16.35-40](https://www.islamicstudies.info/tafheem.php?sura=16&verse=35&to=40)
+16.35-40
+
+![[#r16.5.1]]
+## r16.5.1
 
 [Q.16.35-40](https://www.islamicstudies.info/tafheem.php?sura=16&verse=35&to=40)
 16.35-40
@@ -15959,7 +17584,13 @@
 
 إِنَّمَا قَوْلُنَا لِشَىْءٍ إِذَآ أَرَدْنَـٰهُ أَن نَّقُولَ لَهُۥ كُن فَيَكُونُ
 
-## r16.6
+## r16.6.x
+
+[Q.16.41-50](https://www.islamicstudies.info/tafheem.php?sura=16&verse=41&to=50)
+16.41-50
+
+![[#r16.6.1]]
+## r16.6.1
 
 [Q.16.41-50](https://www.islamicstudies.info/tafheem.php?sura=16&verse=41&to=50)
 16.41-50
@@ -16004,7 +17635,13 @@
 
 يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩
 
-## r16.7
+## r16.7.x
+
+[Q.16.51-60](https://www.islamicstudies.info/tafheem.php?sura=16&verse=51&to=60)
+16.51-60
+
+![[#r16.7.1]]
+## r16.7.1
 
 [Q.16.51-60](https://www.islamicstudies.info/tafheem.php?sura=16&verse=51&to=60)
 16.51-60
@@ -16049,7 +17686,13 @@
 
 لِلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ مَثَلُ ٱلسَّوْءِ ۖ وَلِلَّهِ ٱلْمَثَلُ ٱلْأَعْلَىٰ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-## r16.8
+## r16.8.x
+
+[Q.16.61-65](https://www.islamicstudies.info/tafheem.php?sura=16&verse=61&to=65)
+16.61-65
+
+![[#r16.8.1]]
+## r16.8.1
 
 [Q.16.61-65](https://www.islamicstudies.info/tafheem.php?sura=16&verse=61&to=65)
 16.61-65
@@ -16074,7 +17717,13 @@
 
 وَٱللَّهُ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَسْمَعُونَ
 
-## r16.9
+## r16.9.x
+
+[Q.16.66-70](https://www.islamicstudies.info/tafheem.php?sura=16&verse=66&to=70)
+16.66-70
+
+![[#r16.9.1]]
+## r16.9.1
 
 [Q.16.66-70](https://www.islamicstudies.info/tafheem.php?sura=16&verse=66&to=70)
 16.66-70
@@ -16099,7 +17748,13 @@
 
 وَٱللَّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّىٰكُمْ ۚ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ ٱلْعُمُرِ لِكَىْ لَا يَعْلَمَ بَعْدَ عِلْمٍ شَيْـًٔا ۚ إِنَّ ٱللَّهَ عَلِيمٌ قَدِيرٌ
 
-## r16.10
+## r16.10.x
+
+[Q.16.71-76](https://www.islamicstudies.info/tafheem.php?sura=16&verse=71&to=76)
+16.71-76
+
+![[#r16.10.1]]
+## r16.10.1
 
 [Q.16.71-76](https://www.islamicstudies.info/tafheem.php?sura=16&verse=71&to=76)
 16.71-76
@@ -16128,7 +17783,13 @@
 
 وَضَرَبَ ٱللَّهُ مَثَلًا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
 
-## r16.11
+## r16.11.x
+
+[Q.16.77-83](https://www.islamicstudies.info/tafheem.php?sura=16&verse=77&to=83)
+16.77-83
+
+![[#r16.11.1]]
+## r16.11.1
 
 [Q.16.77-83](https://www.islamicstudies.info/tafheem.php?sura=16&verse=77&to=83)
 16.77-83
@@ -16161,7 +17822,13 @@
 
 يَعْرِفُونَ نِعْمَتَ ٱللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمُ ٱلْكَـٰفِرُونَ
 
-## r16.12
+## r16.12.x
+
+[Q.16.84-89](https://www.islamicstudies.info/tafheem.php?sura=16&verse=84&to=89)
+16.84-89
+
+![[#r16.12.1]]
+## r16.12.1
 
 [Q.16.84-89](https://www.islamicstudies.info/tafheem.php?sura=16&verse=84&to=89)
 16.84-89
@@ -16190,7 +17857,13 @@
 
 وَيَوْمَ نَبْعَثُ فِى كُلِّ أُمَّةٍ شَهِيدًا عَلَيْهِم مِّنْ أَنفُسِهِمْ ۖ وَجِئْنَا بِكَ شَهِيدًا عَلَىٰ هَـٰٓؤُلَآءِ ۚ وَنَزَّلْنَا عَلَيْكَ ٱلْكِتَـٰبَ تِبْيَـٰنًا لِّكُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً وَبُشْرَىٰ لِلْمُسْلِمِينَ
 
-## r16.13
+## r16.13.x
+
+[Q.16.90-100](https://www.islamicstudies.info/tafheem.php?sura=16&verse=90&to=100)
+16.90-100
+
+![[#r16.13.1]]
+## r16.13.1
 
 [Q.16.90-100](https://www.islamicstudies.info/tafheem.php?sura=16&verse=90&to=100)
 16.90-100
@@ -16239,7 +17912,13 @@
 
 إِنَّمَا سُلْطَـٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوْنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشْرِكُونَ
 
-## r16.14
+## r16.14.x
+
+[Q.16.101-110](https://www.islamicstudies.info/tafheem.php?sura=16&verse=101&to=110)
+16.101-110
+
+![[#r16.14.1]]
+## r16.14.1
 
 [Q.16.101-110](https://www.islamicstudies.info/tafheem.php?sura=16&verse=101&to=110)
 16.101-110
@@ -16284,7 +17963,13 @@
 
 ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا۟ مِنۢ بَعْدِ مَا فُتِنُوا۟ ثُمَّ جَـٰهَدُوا۟ وَصَبَرُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ
 
-## r16.15
+## r16.15.x
+
+[Q.16.111-119](https://www.islamicstudies.info/tafheem.php?sura=16&verse=111&to=119)
+16.111-119
+
+![[#r16.15.1]]
+## r16.15.1
 
 [Q.16.111-119](https://www.islamicstudies.info/tafheem.php?sura=16&verse=111&to=119)
 16.111-119
@@ -16325,10 +18010,17 @@
 
 ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا۟ ٱلسُّوٓءَ بِجَهَـٰلَةٍ ثُمَّ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ
 
-## r16.16
+## r16.16.x
 
 [Q.16.120-128](https://www.islamicstudies.info/tafheem.php?sura=16&verse=120&to=128)
 16.120-128
+
+![[#r16.16.1]]
+![[#r16.16.2]]
+## r16.16.1
+
+[Q.16.120-125](https://www.islamicstudies.info/tafheem.php?sura=16&verse=120&to=125)
+16.120-125
 
 ### 16:120
 
@@ -16356,7 +18048,13 @@
 
 # s71
 
-## r71.1
+## r71.1.x
+
+[Q.71.1-20](https://www.islamicstudies.info/tafheem.php?sura=71&verse=1&to=20)
+71.1-20
+
+![[#r71.1.1]]
+## r71.1.1
 
 [Q.71.1-20](https://www.islamicstudies.info/tafheem.php?sura=71&verse=1&to=20)
 71.1-20
@@ -16441,7 +18139,13 @@
 
 لِّتَسْلُكُوا۟ مِنْهَا سُبُلًا فِجَاجًا
 
-## r71.2
+## r71.2.x
+
+[Q.71.21-28](https://www.islamicstudies.info/tafheem.php?sura=71&verse=21&to=28)
+71.21-28
+
+![[#r71.2.1]]
+## r71.2.1
 
 [Q.71.21-28](https://www.islamicstudies.info/tafheem.php?sura=71&verse=21&to=28)
 71.21-28
@@ -16480,7 +18184,13 @@
 
 # s14
 
-## r14.1
+## r14.1.x
+
+[Q.14.1-6](https://www.islamicstudies.info/tafheem.php?sura=14&verse=1&to=6)
+14.1-6
+
+![[#r14.1.1]]
+## r14.1.1
 
 [Q.14.1-6](https://www.islamicstudies.info/tafheem.php?sura=14&verse=1&to=6)
 14.1-6
@@ -16509,7 +18219,13 @@
 
 وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
 
-## r14.2
+## r14.2.x
+
+[Q.14.7-12](https://www.islamicstudies.info/tafheem.php?sura=14&verse=7&to=12)
+14.7-12
+
+![[#r14.2.1]]
+## r14.2.1
 
 [Q.14.7-12](https://www.islamicstudies.info/tafheem.php?sura=14&verse=7&to=12)
 14.7-12
@@ -16538,7 +18254,13 @@
 
 وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
 
-## r14.3
+## r14.3.x
+
+[Q.14.13-21](https://www.islamicstudies.info/tafheem.php?sura=14&verse=13&to=21)
+14.13-21
+
+![[#r14.3.1]]
+## r14.3.1
 
 [Q.14.13-21](https://www.islamicstudies.info/tafheem.php?sura=14&verse=13&to=21)
 14.13-21
@@ -16579,7 +18301,13 @@
 
 وَبَرَزُوا۟ لِلَّهِ جَمِيعًا فَقَالَ ٱلضُّعَفَـٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍ ۚ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَـٰكُمْ ۖ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍ
 
-## r14.4
+## r14.4.x
+
+[Q.14.22-27](https://www.islamicstudies.info/tafheem.php?sura=14&verse=22&to=27)
+14.22-27
+
+![[#r14.4.1]]
+## r14.4.1
 
 [Q.14.22-27](https://www.islamicstudies.info/tafheem.php?sura=14&verse=22&to=27)
 14.22-27
@@ -16608,7 +18336,7 @@
 
 يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ بِٱلْقَوْلِ ٱلثَّابِتِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْـَٔاخِرَةِ ۖ وَيُضِلُّ ٱللَّهُ ٱلظَّـٰلِمِينَ ۚ وَيَفْعَلُ ٱللَّهُ مَا يَشَآءُ
 
-## r14.5
+## r14.5.2
 
 [Q.14.30-34](https://www.islamicstudies.info/tafheem.php?sura=14&verse=30&to=34)
 14.30-34
@@ -16633,7 +18361,13 @@
 
 وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَـٰنَ لَظَلُومٌ كَفَّارٌ
 
-## r14.6
+## r14.6.x
+
+[Q.14.35-41](https://www.islamicstudies.info/tafheem.php?sura=14&verse=35&to=41)
+14.35-41
+
+![[#r14.6.1]]
+## r14.6.1
 
 [Q.14.35-41](https://www.islamicstudies.info/tafheem.php?sura=14&verse=35&to=41)
 14.35-41
@@ -16666,7 +18400,13 @@
 
 رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ
 
-## r14.7
+## r14.7.x
+
+[Q.14.42-52](https://www.islamicstudies.info/tafheem.php?sura=14&verse=42&to=52)
+14.42-52
+
+![[#r14.7.1]]
+## r14.7.1
 
 [Q.14.42-52](https://www.islamicstudies.info/tafheem.php?sura=14&verse=42&to=52)
 14.42-52
@@ -16717,7 +18457,13 @@
 
 # s21
 
-## r21.1
+## r21.1.x
+
+[Q.21.1-10](https://www.islamicstudies.info/tafheem.php?sura=21&verse=1&to=10)
+21.1-10
+
+![[#r21.1.1]]
+## r21.1.1
 
 [Q.21.1-10](https://www.islamicstudies.info/tafheem.php?sura=21&verse=1&to=10)
 21.1-10
@@ -16762,7 +18508,13 @@
 
 لَقَدْ أَنزَلْنَآ إِلَيْكُمْ كِتَـٰبًا فِيهِ ذِكْرُكُمْ ۖ أَفَلَا تَعْقِلُونَ
 
-## r21.2
+## r21.2.x
+
+[Q.21.11-29](https://www.islamicstudies.info/tafheem.php?sura=21&verse=11&to=29)
+21.11-29
+
+![[#r21.2.1]]
+## r21.2.1
 
 [Q.21.11-29](https://www.islamicstudies.info/tafheem.php?sura=21&verse=11&to=29)
 21.11-29
@@ -16843,7 +18595,13 @@
 
 ۞ وَمَن يَقُلْ مِنْهُمْ إِنِّىٓ إِلَـٰهٌ مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّـٰلِمِينَ
 
-## r21.3
+## r21.3.x
+
+[Q.21.30-41](https://www.islamicstudies.info/tafheem.php?sura=21&verse=30&to=41)
+21.30-41
+
+![[#r21.3.1]]
+## r21.3.1
 
 [Q.21.30-41](https://www.islamicstudies.info/tafheem.php?sura=21&verse=30&to=41)
 21.30-41
@@ -16896,7 +18654,13 @@
 
 وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 
-## r21.4
+## r21.4.x
+
+[Q.21.42-50](https://www.islamicstudies.info/tafheem.php?sura=21&verse=42&to=50)
+21.42-50
+
+![[#r21.4.1]]
+## r21.4.1
 
 [Q.21.42-50](https://www.islamicstudies.info/tafheem.php?sura=21&verse=42&to=50)
 21.42-50
@@ -16937,7 +18701,13 @@
 
 وَهَـٰذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَـٰهُ ۚ أَفَأَنتُمْ لَهُۥ مُنكِرُونَ
 
-## r21.5
+## r21.5.x
+
+[Q.21.51-75](https://www.islamicstudies.info/tafheem.php?sura=21&verse=51&to=75)
+21.51-75
+
+![[#r21.5.1]]
+## r21.5.1
 
 [Q.21.51-75](https://www.islamicstudies.info/tafheem.php?sura=21&verse=51&to=75)
 21.51-75
@@ -17042,7 +18812,13 @@
 
 وَأَدْخَلْنَـٰهُ فِى رَحْمَتِنَآ ۖ إِنَّهُۥ مِنَ ٱلصَّـٰلِحِينَ
 
-## r21.6
+## r21.6.x
+
+[Q.21.76-93](https://www.islamicstudies.info/tafheem.php?sura=21&verse=76&to=93)
+21.76-93
+
+![[#r21.6.1]]
+## r21.6.1
 
 [Q.21.76-93](https://www.islamicstudies.info/tafheem.php?sura=21&verse=76&to=93)
 21.76-93
@@ -17119,7 +18895,13 @@
 
 وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ كُلٌّ إِلَيْنَا رَٰجِعُونَ
 
-## r21.7
+## r21.7.x
+
+[Q.21.94-112](https://www.islamicstudies.info/tafheem.php?sura=21&verse=94&to=112)
+21.94-112
+
+![[#r21.7.1]]
+## r21.7.1
 
 [Q.21.94-112](https://www.islamicstudies.info/tafheem.php?sura=21&verse=94&to=112)
 21.94-112
@@ -17202,7 +18984,13 @@
 
 # s23
 
-## r23.1
+## r23.1.x
+
+[Q.23.1-22](https://www.islamicstudies.info/tafheem.php?sura=23&verse=1&to=22)
+23.1-22
+
+![[#r23.1.1]]
+## r23.1.1
 
 [Q.23.1-22](https://www.islamicstudies.info/tafheem.php?sura=23&verse=1&to=22)
 23.1-22
@@ -17295,7 +19083,13 @@
 
 وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ
 
-## r23.2
+## r23.2.x
+
+[Q.23.23-50](https://www.islamicstudies.info/tafheem.php?sura=23&verse=23&to=50)
+23.23-50
+
+![[#r23.2.1]]
+## r23.2.1
 
 [Q.23.23-50](https://www.islamicstudies.info/tafheem.php?sura=23&verse=23&to=50)
 23.23-50
@@ -17412,7 +19206,13 @@
 
 وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةً وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ
 
-## r23.3
+## r23.3.x
+
+[Q.23.51-77](https://www.islamicstudies.info/tafheem.php?sura=23&verse=51&to=77)
+23.51-77
+
+![[#r23.3.1]]
+## r23.3.1
 
 [Q.23.51-77](https://www.islamicstudies.info/tafheem.php?sura=23&verse=51&to=77)
 23.51-77
@@ -17525,7 +19325,13 @@
 
 حَتَّىٰٓ إِذَا فَتَحْنَا عَلَيْهِم بَابًا ذَا عَذَابٍ شَدِيدٍ إِذَا هُمْ فِيهِ مُبْلِسُونَ
 
-## r23.4
+## r23.4.x
+
+[Q.23.78-92](https://www.islamicstudies.info/tafheem.php?sura=23&verse=78&to=92)
+23.78-92
+
+![[#r23.4.1]]
+## r23.4.1
 
 [Q.23.78-92](https://www.islamicstudies.info/tafheem.php?sura=23&verse=78&to=92)
 23.78-92
@@ -17590,7 +19396,13 @@
 
 عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ
 
-## r23.5
+## r23.5.x
+
+[Q.23.93-118](https://www.islamicstudies.info/tafheem.php?sura=23&verse=93&to=118)
+23.93-118
+
+![[#r23.5.1]]
+## r23.5.1
 
 [Q.23.93-118](https://www.islamicstudies.info/tafheem.php?sura=23&verse=93&to=118)
 23.93-118
@@ -17701,7 +19513,13 @@
 
 # s32
 
-## r32.1
+## r32.1.x
+
+[Q.32.1-11](https://www.islamicstudies.info/tafheem.php?sura=32&verse=1&to=11)
+32.1-11
+
+![[#r32.1.1]]
+## r32.1.1
 
 [Q.32.1-11](https://www.islamicstudies.info/tafheem.php?sura=32&verse=1&to=11)
 32.1-11
@@ -17750,10 +19568,18 @@
 
 ۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ ٱلْمَوْتِ ٱلَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ
 
-## r32.2
+## r32.2.x
 
 [Q.32.12-22](https://www.islamicstudies.info/tafheem.php?sura=32&verse=12&to=22)
 32.12-22
+
+![[#r32.2.1]]
+![[#r32.2.2]]
+![[#r32.2.3]]
+## r32.2.1
+
+[Q.32.12-15](https://www.islamicstudies.info/tafheem.php?sura=32&verse=12&to=15)
+32.12-15
 
 ### 32:12
 
@@ -17771,7 +19597,7 @@
 
 إِنَّمَا يُؤْمِنُ بِـَٔايَـٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩
 
-## r32.2
+## r32.2.3
 
 [Q.32.21-22](https://www.islamicstudies.info/tafheem.php?sura=32&verse=21&to=22)
 32.21-22
@@ -17784,7 +19610,13 @@
 
 وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِۦ ثُمَّ أَعْرَضَ عَنْهَآ ۚ إِنَّا مِنَ ٱلْمُجْرِمِينَ مُنتَقِمُونَ
 
-## r32.3
+## r32.3.x
+
+[Q.32.23-30](https://www.islamicstudies.info/tafheem.php?sura=32&verse=23&to=30)
+32.23-30
+
+![[#r32.3.1]]
+## r32.3.1
 
 [Q.32.23-30](https://www.islamicstudies.info/tafheem.php?sura=32&verse=23&to=30)
 32.23-30
@@ -17823,7 +19655,13 @@
 
 # s52
 
-## r52.1
+## r52.1.x
+
+[Q.52.1-27](https://www.islamicstudies.info/tafheem.php?sura=52&verse=1&to=27)
+52.1-27
+
+![[#r52.1.1]]
+## r52.1.1
 
 [Q.52.1-27](https://www.islamicstudies.info/tafheem.php?sura=52&verse=1&to=27)
 52.1-27
@@ -17936,7 +19774,13 @@
 
 فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ
 
-## r52.2
+## r52.2.x
+
+[Q.52.28-49](https://www.islamicstudies.info/tafheem.php?sura=52&verse=28&to=49)
+52.28-49
+
+![[#r52.2.1]]
+## r52.2.1
 
 [Q.52.28-49](https://www.islamicstudies.info/tafheem.php?sura=52&verse=28&to=49)
 52.28-49
@@ -18031,7 +19875,13 @@
 
 # s67
 
-## r67.1
+## r67.1.x
+
+[Q.67.1-14](https://www.islamicstudies.info/tafheem.php?sura=67&verse=1&to=14)
+67.1-14
+
+![[#r67.1.1]]
+## r67.1.1
 
 [Q.67.1-14](https://www.islamicstudies.info/tafheem.php?sura=67&verse=1&to=14)
 67.1-14
@@ -18092,7 +19942,13 @@
 
 أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
 
-## r67.2
+## r67.2.x
+
+[Q.67.15-30](https://www.islamicstudies.info/tafheem.php?sura=67&verse=15&to=30)
+67.15-30
+
+![[#r67.2.1]]
+## r67.2.1
 
 [Q.67.15-30](https://www.islamicstudies.info/tafheem.php?sura=67&verse=15&to=30)
 67.15-30
@@ -18163,7 +20019,13 @@
 
 # s69
 
-## r69.1
+## r69.1.x
+
+[Q.69.1-37](https://www.islamicstudies.info/tafheem.php?sura=69&verse=1&to=37)
+69.1-37
+
+![[#r69.1.1]]
+## r69.1.1
 
 [Q.69.1-37](https://www.islamicstudies.info/tafheem.php?sura=69&verse=1&to=37)
 69.1-37
@@ -18316,7 +20178,13 @@
 
 لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَـٰطِـُٔونَ
 
-## r69.2
+## r69.2.x
+
+[Q.69.38-52](https://www.islamicstudies.info/tafheem.php?sura=69&verse=38&to=52)
+69.38-52
+
+![[#r69.2.1]]
+## r69.2.1
 
 [Q.69.38-52](https://www.islamicstudies.info/tafheem.php?sura=69&verse=38&to=52)
 69.38-52
@@ -18383,7 +20251,13 @@
 
 # s70
 
-## r70.1
+## r70.1.x
+
+[Q.70.1-35](https://www.islamicstudies.info/tafheem.php?sura=70&verse=1&to=35)
+70.1-35
+
+![[#r70.1.1]]
+## r70.1.1
 
 [Q.70.1-35](https://www.islamicstudies.info/tafheem.php?sura=70&verse=1&to=35)
 70.1-35
@@ -18528,7 +20402,13 @@
 
 أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ
 
-## r70.2
+## r70.2.x
+
+[Q.70.36-44](https://www.islamicstudies.info/tafheem.php?sura=70&verse=36&to=44)
+70.36-44
+
+![[#r70.2.1]]
+## r70.2.1
 
 [Q.70.36-44](https://www.islamicstudies.info/tafheem.php?sura=70&verse=36&to=44)
 70.36-44
@@ -18571,7 +20451,13 @@
 
 # s78
 
-## r78.1
+## r78.1.x
+
+[Q.78.1-30](https://www.islamicstudies.info/tafheem.php?sura=78&verse=1&to=30)
+78.1-30
+
+![[#r78.1.1]]
+## r78.1.1
 
 [Q.78.1-30](https://www.islamicstudies.info/tafheem.php?sura=78&verse=1&to=30)
 78.1-30
@@ -18696,7 +20582,13 @@
 
 فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا
 
-## r78.2
+## r78.2.x
+
+[Q.78.31-40](https://www.islamicstudies.info/tafheem.php?sura=78&verse=31&to=40)
+78.31-40
+
+![[#r78.2.1]]
+## r78.2.1
 
 [Q.78.31-40](https://www.islamicstudies.info/tafheem.php?sura=78&verse=31&to=40)
 78.31-40
@@ -18743,7 +20635,13 @@
 
 # s79
 
-## r79.1
+## r79.1.x
+
+[Q.79.1-26](https://www.islamicstudies.info/tafheem.php?sura=79&verse=1&to=26)
+79.1-26
+
+![[#r79.1.1]]
+## r79.1.1
 
 [Q.79.1-26](https://www.islamicstudies.info/tafheem.php?sura=79&verse=1&to=26)
 79.1-26
@@ -18852,7 +20750,13 @@
 
 إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰٓ
 
-## r79.2
+## r79.2.x
+
+[Q.79.27-46](https://www.islamicstudies.info/tafheem.php?sura=79&verse=27&to=46)
+79.27-46
+
+![[#r79.2.1]]
+## r79.2.1
 
 [Q.79.27-46](https://www.islamicstudies.info/tafheem.php?sura=79&verse=27&to=46)
 79.27-46
@@ -19129,7 +21033,13 @@
 
 # s30
 
-## r30.1
+## r30.1.x
+
+[Q.30.1-10](https://www.islamicstudies.info/tafheem.php?sura=30&verse=1&to=10)
+30.1-10
+
+![[#r30.1.1]]
+## r30.1.1
 
 [Q.30.1-10](https://www.islamicstudies.info/tafheem.php?sura=30&verse=1&to=10)
 30.1-10
@@ -19174,10 +21084,17 @@
 
 ثُمَّ كَانَ عَـٰقِبَةَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ ٱلسُّوٓأَىٰٓ أَن كَذَّبُوا۟ بِـَٔايَـٰتِ ٱللَّهِ وَكَانُوا۟ بِهَا يَسْتَهْزِءُونَ
 
-## r30.2
+## r30.2.x
 
 [Q.30.11-19](https://www.islamicstudies.info/tafheem.php?sura=30&verse=11&to=19)
 30.11-19
+
+![[#r30.2.1]]
+![[#r30.2.2]]
+## r30.2.1
+
+[Q.30.11-16](https://www.islamicstudies.info/tafheem.php?sura=30&verse=11&to=16)
+30.11-16
 
 ### 30:11
 
@@ -19211,7 +21128,13 @@
 
 يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذَٰلِكَ تُخْرَجُونَ
 
-## r30.3
+## r30.3.x
+
+[Q.30.20-27](https://www.islamicstudies.info/tafheem.php?sura=30&verse=20&to=27)
+30.20-27
+
+![[#r30.3.1]]
+## r30.3.1
 
 [Q.30.20-27](https://www.islamicstudies.info/tafheem.php?sura=30&verse=20&to=27)
 30.20-27
@@ -19248,7 +21171,13 @@
 
 وَهُوَ ٱلَّذِى يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَهُوَ أَهْوَنُ عَلَيْهِ ۚ وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-## r30.4
+## r30.4.x
+
+[Q.30.28-40](https://www.islamicstudies.info/tafheem.php?sura=30&verse=28&to=40)
+30.28-40
+
+![[#r30.4.1]]
+## r30.4.1
 
 [Q.30.28-40](https://www.islamicstudies.info/tafheem.php?sura=30&verse=28&to=40)
 30.28-40
@@ -19305,7 +21234,13 @@
 
 ٱللَّهُ ٱلَّذِى خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۖ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَٰلِكُم مِّن شَىْءٍ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ
 
-## r30.5
+## r30.5.x
+
+[Q.30.41-53](https://www.islamicstudies.info/tafheem.php?sura=30&verse=41&to=53)
+30.41-53
+
+![[#r30.5.1]]
+## r30.5.1
 
 [Q.30.41-53](https://www.islamicstudies.info/tafheem.php?sura=30&verse=41&to=53)
 30.41-53
@@ -19362,7 +21297,13 @@
 
 وَمَآ أَنتَ بِهَـٰدِ ٱلْعُمْىِ عَن ضَلَـٰلَتِهِمْ ۖ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَـٰتِنَا فَهُم مُّسْلِمُونَ
 
-## r30.6
+## r30.6.x
+
+[Q.30.54-60](https://www.islamicstudies.info/tafheem.php?sura=30&verse=54&to=60)
+30.54-60
+
+![[#r30.6.1]]
+## r30.6.1
 
 [Q.30.54-60](https://www.islamicstudies.info/tafheem.php?sura=30&verse=54&to=60)
 30.54-60
@@ -19395,7 +21336,7 @@
 
 فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ
 
-## r29.1
+## r29.1.2
 
 [Q.29.12-13](https://www.islamicstudies.info/tafheem.php?sura=29&verse=12&to=13)
 29.12-13
@@ -19408,7 +21349,13 @@
 
 وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ ۖ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَـٰمَةِ عَمَّا كَانُوا۟ يَفْتَرُونَ
 
-## r29.2
+## r29.2.x
+
+[Q.29.14-22](https://www.islamicstudies.info/tafheem.php?sura=29&verse=14&to=22)
+29.14-22
+
+![[#r29.2.1]]
+## r29.2.1
 
 [Q.29.14-22](https://www.islamicstudies.info/tafheem.php?sura=29&verse=14&to=22)
 29.14-22
@@ -19449,7 +21396,13 @@
 
 وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ
 
-## r29.3
+## r29.3.x
+
+[Q.29.23-30](https://www.islamicstudies.info/tafheem.php?sura=29&verse=23&to=30)
+29.23-30
+
+![[#r29.3.1]]
+## r29.3.1
 
 [Q.29.23-30](https://www.islamicstudies.info/tafheem.php?sura=29&verse=23&to=30)
 29.23-30
@@ -19486,7 +21439,13 @@
 
 قَالَ رَبِّ ٱنصُرْنِى عَلَى ٱلْقَوْمِ ٱلْمُفْسِدِينَ
 
-## r29.4
+## r29.4.x
+
+[Q.29.31-44](https://www.islamicstudies.info/tafheem.php?sura=29&verse=31&to=44)
+29.31-44
+
+![[#r29.4.1]]
+## r29.4.1
 
 [Q.29.31-44](https://www.islamicstudies.info/tafheem.php?sura=29&verse=31&to=44)
 29.31-44
@@ -19547,7 +21506,13 @@
 
 خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّلْمُؤْمِنِينَ
 
-## r29.5
+## r29.5.x
+
+[Q.29.45-51](https://www.islamicstudies.info/tafheem.php?sura=29&verse=45&to=51)
+29.45-51
+
+![[#r29.5.1]]
+## r29.5.1
 
 [Q.29.45-51](https://www.islamicstudies.info/tafheem.php?sura=29&verse=45&to=51)
 29.45-51
@@ -19580,7 +21545,13 @@
 
 أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَـٰبَ يُتْلَىٰ عَلَيْهِمْ ۚ إِنَّ فِى ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ
 
-## r29.6
+## r29.6.x
+
+[Q.29.52-63](https://www.islamicstudies.info/tafheem.php?sura=29&verse=52&to=63)
+29.52-63
+
+![[#r29.6.1]]
+## r29.6.1
 
 [Q.29.52-63](https://www.islamicstudies.info/tafheem.php?sura=29&verse=52&to=63)
 29.52-63
@@ -19633,7 +21604,13 @@
 
 وَلَئِن سَأَلْتَهُم مَّن نَّزَّلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَحْيَا بِهِ ٱلْأَرْضَ مِنۢ بَعْدِ مَوْتِهَا لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْقِلُونَ
 
-## r29.7
+## r29.7.x
+
+[Q.29.64-69](https://www.islamicstudies.info/tafheem.php?sura=29&verse=64&to=69)
+29.64-69
+
+![[#r29.7.1]]
+## r29.7.1
 
 [Q.29.64-69](https://www.islamicstudies.info/tafheem.php?sura=29&verse=64&to=69)
 29.64-69
@@ -19813,7 +21790,7 @@
 
 هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ
 
-## r28.9
+## r28.9.2
 
 [Q.28.85-88](https://www.islamicstudies.info/tafheem.php?sura=28&verse=85&to=88)
 28.85-88
@@ -19822,10 +21799,10 @@
 
 إِنَّ ٱلَّذِى فَرَضَ عَلَيْكَ ٱلْقُرْءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٍ ۚ قُل رَّبِّىٓ أَعْلَمُ مَن جَآءَ بِٱلْهُدَىٰ وَمَنْ هُوَ فِى ضَلَـٰلٍ مُّبِينٍ
 
-## r8.4
+## r8.4.2
 
-[Q.8.30-37](https://www.islamicstudies.info/tafheem.php?sura=8&verse=30&to=37)
-8.30-37
+[Q.8.30-36](https://www.islamicstudies.info/tafheem.php?sura=8&verse=30&to=36)
+8.30-36
 
 ### 8:30
 
@@ -19855,7 +21832,7 @@
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنفِقُونَ أَمْوَٰلَهُمْ لِيَصُدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ فَسَيُنفِقُونَهَا ثُمَّ تَكُونُ عَلَيْهِمْ حَسْرَةً ثُمَّ يُغْلَبُونَ ۗ وَٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ يُحْشَرُونَ
 
-## r47.2
+## r47.2.2
 
 [Q.47.13-19](https://www.islamicstudies.info/tafheem.php?sura=47&verse=13&to=19)
 47.13-19
@@ -19864,7 +21841,7 @@
 
 وَكَأَيِّن مِّن قَرْيَةٍ هِىَ أَشَدُّ قُوَّةً مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ أَهْلَكْنَـٰهُمْ فَلَا نَاصِرَ لَهُمْ
 
-## r9.16
+## r9.16.2
 
 [Q.9.128-129](https://www.islamicstudies.info/tafheem.php?sura=9&verse=128&to=129)
 9.128-129
@@ -19877,7 +21854,7 @@
 
 فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
 
-## r68.1
+## r68.1.2
 
 [Q.68.17-33](https://www.islamicstudies.info/tafheem.php?sura=68&verse=17&to=33)
 68.17-33
@@ -19950,7 +21927,7 @@
 
 كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
 
-## r68.2
+## r68.2.2
 
 [Q.68.48-52](https://www.islamicstudies.info/tafheem.php?sura=68&verse=48&to=52)
 68.48-52
@@ -19967,10 +21944,10 @@
 
 فَٱجْتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ
 
-## r73.1
+## r73.1.2
 
-[Q.73.10-18](https://www.islamicstudies.info/tafheem.php?sura=73&verse=10&to=18)
-73.10-18
+[Q.73.10-11](https://www.islamicstudies.info/tafheem.php?sura=73&verse=10&to=11)
+73.10-11
 
 ### 73:10
 
@@ -19980,7 +21957,7 @@
 
 وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا
 
-## r73.2
+## r73.2.2
 
 [Q.73.20-20](https://www.islamicstudies.info/tafheem.php?sura=73&verse=20&to=20)
 73.20-20
@@ -19989,7 +21966,7 @@
 
 ۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ ۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ
 
-## r107.1
+## r107.1.2
 
 [Q.107.4-7](https://www.islamicstudies.info/tafheem.php?sura=107&verse=4&to=7)
 107.4-7
@@ -20010,7 +21987,7 @@
 
 وَيَمْنَعُونَ ٱلْمَاعُونَ
 
-## r53.2
+## r53.2.2
 
 [Q.53.32-32](https://www.islamicstudies.info/tafheem.php?sura=53&verse=32&to=32)
 53.32-32
@@ -20019,7 +21996,7 @@
 
 ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ
 
-## r77.2
+## r77.2.2
 
 [Q.77.48-50](https://www.islamicstudies.info/tafheem.php?sura=77&verse=48&to=50)
 77.48-50
@@ -20028,7 +22005,7 @@
 
 وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ
 
-## r50.3
+## r50.3.2
 
 [Q.50.38-45](https://www.islamicstudies.info/tafheem.php?sura=50&verse=38&to=45)
 50.38-45
@@ -20037,7 +22014,7 @@
 
 وَلَقَدْ خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِن لُّغُوبٍ
 
-## r54.3
+## r54.3.2
 
 [Q.54.44-55](https://www.islamicstudies.info/tafheem.php?sura=54&verse=44&to=55)
 54.44-55
@@ -20054,10 +22031,17 @@
 
 بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ
 
-## r7.21
+## r7.21.x
 
 [Q.7.163-171](https://www.islamicstudies.info/tafheem.php?sura=7&verse=163&to=171)
 7.163-171
+
+![[#r7.21.1]]
+![[#r7.21.2]]
+## r7.21.1
+
+[Q.7.163-170](https://www.islamicstudies.info/tafheem.php?sura=7&verse=163&to=170)
+7.163-170
 
 ### 7:163
 
@@ -20091,7 +22075,7 @@
 
 وَٱلَّذِينَ يُمَسِّكُونَ بِٱلْكِتَـٰبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ إِنَّا لَا نُضِيعُ أَجْرَ ٱلْمُصْلِحِينَ
 
-## r36.3
+## r36.3.2
 
 [Q.36.45-50](https://www.islamicstudies.info/tafheem.php?sura=36&verse=45&to=50)
 36.45-50
@@ -20100,7 +22084,7 @@
 
 وَإِذَا قِيلَ لَهُمُ ٱتَّقُوا۟ مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ
 
-## r25.6
+## r25.6.2
 
 [Q.25.68-77](https://www.islamicstudies.info/tafheem.php?sura=25&verse=68&to=77)
 25.68-77
@@ -20117,7 +22101,7 @@
 
 إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
 
-## r19.4
+## r19.4.2
 
 [Q.19.58-65](https://www.islamicstudies.info/tafheem.php?sura=19&verse=58&to=65)
 19.58-65
@@ -20126,7 +22110,7 @@
 
 أُو۟لَـٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُ ٱلرَّحْمَـٰنِ خَرُّوا۟ سُجَّدًا وَبُكِيًّا ۩
 
-## r19.5
+## r19.5.2
 
 [Q.19.71-82](https://www.islamicstudies.info/tafheem.php?sura=19&verse=71&to=82)
 19.71-82
@@ -20135,7 +22119,7 @@
 
 وَإِن مِّنكُمْ إِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَّقْضِيًّا
 
-## r20.8
+## r20.8.2
 
 [Q.20.130-135](https://www.islamicstudies.info/tafheem.php?sura=20&verse=130&to=135)
 20.130-135
@@ -20148,7 +22132,7 @@
 
 وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ
 
-## r56.3
+## r56.3.2
 
 [Q.56.81-96](https://www.islamicstudies.info/tafheem.php?sura=56&verse=81&to=96)
 56.81-96
@@ -20161,16 +22145,16 @@
 
 وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ
 
-## r26.11
+## r26.11.2
 
-[Q.26.197-227](https://www.islamicstudies.info/tafheem.php?sura=26&verse=197&to=227)
-26.197-227
+[Q.26.197-223](https://www.islamicstudies.info/tafheem.php?sura=26&verse=197&to=223)
+26.197-223
 
 ### 26:197
 
 أَوَلَمْ يَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُۥ عُلَمَـٰٓؤُا۟ بَنِىٓ إِسْرَٰٓءِيلَ
 
-## r26.11
+## r26.11.3
 
 [Q.26.224-227](https://www.islamicstudies.info/tafheem.php?sura=26&verse=224&to=227)
 26.224-227
@@ -20191,10 +22175,10 @@
 
 إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَذَكَرُوا۟ ٱللَّهَ كَثِيرًا وَٱنتَصَرُوا۟ مِنۢ بَعْدِ مَا ظُلِمُوا۟ ۗ وَسَيَعْلَمُ ٱلَّذِينَ ظَلَمُوٓا۟ أَىَّ مُنقَلَبٍ يَنقَلِبُونَ
 
-## r28.6
+## r28.6.2
 
-[Q.28.52-60](https://www.islamicstudies.info/tafheem.php?sura=28&verse=52&to=60)
-28.52-60
+[Q.28.52-55](https://www.islamicstudies.info/tafheem.php?sura=28&verse=52&to=55)
+28.52-55
 
 ### 28:52
 
@@ -20212,7 +22196,7 @@
 
 وَإِذَا سَمِعُوا۟ ٱللَّغْوَ أَعْرَضُوا۟ عَنْهُ وَقَالُوا۟ لَنَآ أَعْمَـٰلُنَا وَلَكُمْ أَعْمَـٰلُكُمْ سَلَـٰمٌ عَلَيْكُمْ لَا نَبْتَغِى ٱلْجَـٰهِلِينَ
 
-## r17.2
+## r17.2.2
 
 [Q.17.26-30](https://www.islamicstudies.info/tafheem.php?sura=17&verse=26&to=30)
 17.26-30
@@ -20221,10 +22205,10 @@
 
 وَءَاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا
 
-## r17.3
+## r17.3.2
 
-[Q.17.32-40](https://www.islamicstudies.info/tafheem.php?sura=17&verse=32&to=40)
-17.32-40
+[Q.17.32-33](https://www.islamicstudies.info/tafheem.php?sura=17&verse=32&to=33)
+17.32-33
 
 ### 17:32
 
@@ -20234,7 +22218,7 @@
 
 وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۗ وَمَن قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِۦ سُلْطَـٰنًا فَلَا يُسْرِف فِّى ٱلْقَتْلِ ۖ إِنَّهُۥ كَانَ مَنصُورًا
 
-## r17.5
+## r17.5.2
 
 [Q.17.57-70](https://www.islamicstudies.info/tafheem.php?sura=17&verse=57&to=70)
 17.57-70
@@ -20243,7 +22227,7 @@
 
 أُو۟لَـٰٓئِكَ ٱلَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ ٱلْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓ ۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا
 
-## r17.6
+## r17.6.2
 
 [Q.17.73-77](https://www.islamicstudies.info/tafheem.php?sura=17&verse=73&to=77)
 17.73-77
@@ -20268,10 +22252,17 @@
 
 سُنَّةَ مَن قَدْ أَرْسَلْنَا قَبْلَكَ مِن رُّسُلِنَا ۖ وَلَا تَجِدُ لِسُنَّتِنَا تَحْوِيلًا
 
-## r17.7
+## r17.7.x
 
 [Q.17.78-84](https://www.islamicstudies.info/tafheem.php?sura=17&verse=78&to=84)
 17.78-84
+
+![[#r17.7.1]]
+![[#r17.7.2]]
+## r17.7.1
+
+[Q.17.78-80](https://www.islamicstudies.info/tafheem.php?sura=17&verse=78&to=80)
+17.78-80
 
 ### 17:78
 
@@ -20285,7 +22276,7 @@
 
 وَقُل رَّبِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَـٰنًا نَّصِيرًا
 
-## r10.4
+## r10.4.2
 
 [Q.10.40-40](https://www.islamicstudies.info/tafheem.php?sura=10&verse=40&to=40)
 10.40-40
@@ -20294,10 +22285,10 @@
 
 وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِۦ ۚ وَرَبُّكَ أَعْلَمُ بِٱلْمُفْسِدِينَ
 
-## r10.10
+## r10.10.2
 
-[Q.10.94-103](https://www.islamicstudies.info/tafheem.php?sura=10&verse=94&to=103)
-10.94-103
+[Q.10.94-96](https://www.islamicstudies.info/tafheem.php?sura=10&verse=94&to=96)
+10.94-96
 
 ### 10:94
 
@@ -20311,16 +22302,16 @@
 
 إِنَّ ٱلَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ
 
-## r11.2
+## r11.2.2
 
-[Q.11.12-24](https://www.islamicstudies.info/tafheem.php?sura=11&verse=12&to=24)
-11.12-24
+[Q.11.12-16](https://www.islamicstudies.info/tafheem.php?sura=11&verse=12&to=16)
+11.12-16
 
 ### 11:12
 
 فَلَعَلَّكَ تَارِكٌۢ بَعْضَ مَا يُوحَىٰٓ إِلَيْكَ وَضَآئِقٌۢ بِهِۦ صَدْرُكَ أَن يَقُولُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ كَنزٌ أَوْ جَآءَ مَعَهُۥ مَلَكٌ ۚ إِنَّمَآ أَنتَ نَذِيرٌ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ
 
-## r11.2
+## r11.2.3
 
 [Q.11.17-24](https://www.islamicstudies.info/tafheem.php?sura=11&verse=17&to=24)
 11.17-24
@@ -20329,7 +22320,7 @@
 
 أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌ مِّنْهُ وَمِن قَبْلِهِۦ كِتَـٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً ۚ أُو۟لَـٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۚ وَمَن يَكْفُرْ بِهِۦ مِنَ ٱلْأَحْزَابِ فَٱلنَّارُ مَوْعِدُهُۥ ۚ فَلَا تَكُ فِى مِرْيَةٍ مِّنْهُ ۚ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 
-## r11.10
+## r11.10.2
 
 [Q.11.114-123](https://www.islamicstudies.info/tafheem.php?sura=11&verse=114&to=123)
 11.114-123
@@ -20340,10 +22331,20 @@
 
 # s12
 
-## r12.1
+## r12.1.x
 
 [Q.12.1-6](https://www.islamicstudies.info/tafheem.php?sura=12&verse=1&to=6)
 12.1-6
+
+![[#r12.1.1]]
+![[#r12.1.2]]
+![[#r12.10.1]]
+![[#r12.11.1]]
+![[#r12.12.1]]
+## r12.1.1
+
+[Q.12.1-3](https://www.islamicstudies.info/tafheem.php?sura=12&verse=1&to=3)
+12.1-3
 
 ### 12:1
 
@@ -20357,7 +22358,13 @@
 
 نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَـٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَـٰفِلِينَ
 
-## r12.2
+## r12.2.x
+
+[Q.12.7-20](https://www.islamicstudies.info/tafheem.php?sura=12&verse=7&to=20)
+12.7-20
+
+![[#r12.2.1]]
+## r12.2.1
 
 [Q.12.7-20](https://www.islamicstudies.info/tafheem.php?sura=12&verse=7&to=20)
 12.7-20
@@ -20366,7 +22373,7 @@
 
 ۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَـٰتٌ لِّلسَّآئِلِينَ
 
-## r15.6
+## r15.6.2
 
 [Q.15.87-99](https://www.islamicstudies.info/tafheem.php?sura=15&verse=87&to=99)
 15.87-99
@@ -20375,7 +22382,7 @@
 
 وَلَقَدْ ءَاتَيْنَـٰكَ سَبْعًا مِّنَ ٱلْمَثَانِى وَٱلْقُرْءَانَ ٱلْعَظِيمَ
 
-## r6.2
+## r6.2.2
 
 [Q.6.20-20](https://www.islamicstudies.info/tafheem.php?sura=6&verse=20&to=20)
 6.20-20
@@ -20384,7 +22391,7 @@
 
 ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْرِفُونَهُۥ كَمَا يَعْرِفُونَ أَبْنَآءَهُمُ ۘ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ
 
-## r6.3
+## r6.3.2
 
 [Q.6.23-30](https://www.islamicstudies.info/tafheem.php?sura=6&verse=23&to=30)
 6.23-30
@@ -20393,16 +22400,23 @@
 
 ثُمَّ لَمْ تَكُن فِتْنَتُهُمْ إِلَّآ أَن قَالُوا۟ وَٱللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
 
-## r6.11
+## r6.11.x
 
 [Q.6.91-94](https://www.islamicstudies.info/tafheem.php?sura=6&verse=91&to=94)
 6.91-94
+
+![[#r6.11.1]]
+![[#r6.11.2]]
+## r6.11.1
+
+[Q.6.91-92](https://www.islamicstudies.info/tafheem.php?sura=6&verse=91&to=92)
+6.91-92
 
 ### 6:91
 
 وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن شَىْءٍ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَـٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ
 
-## r6.11
+## r6.11.2
 
 [Q.6.93-94](https://www.islamicstudies.info/tafheem.php?sura=6&verse=93&to=94)
 6.93-94
@@ -20411,7 +22425,7 @@
 
 وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّـٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَـٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ۖ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَـٰتِهِۦ تَسْتَكْبِرُونَ
 
-## r6.14
+## r6.14.2
 
 [Q.6.114-121](https://www.islamicstudies.info/tafheem.php?sura=6&verse=114&to=121)
 6.114-121
@@ -20420,10 +22434,17 @@
 
 أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَـٰبَ مُفَصَّلًا ۚ وَٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌ مِّن رَّبِّكَ بِٱلْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ
 
-## r6.19
+## r6.19.x
 
 [Q.6.151-154](https://www.islamicstudies.info/tafheem.php?sura=6&verse=151&to=154)
 6.151-154
+
+![[#r6.19.1]]
+![[#r6.19.2]]
+## r6.19.1
+
+[Q.6.151-153](https://www.islamicstudies.info/tafheem.php?sura=6&verse=151&to=153)
+6.151-153
 
 ### 6:151
 
@@ -20437,10 +22458,10 @@
 
 وَأَنَّ هَـٰذَا صِرَٰطِى مُسْتَقِيمًا فَٱتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا۟ ٱلسُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِۦ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَتَّقُونَ
 
-## r31.3
+## r31.3.2
 
-[Q.31.27-30](https://www.islamicstudies.info/tafheem.php?sura=31&verse=27&to=30)
-31.27-30
+[Q.31.27-29](https://www.islamicstudies.info/tafheem.php?sura=31&verse=27&to=29)
+31.27-29
 
 ### 31:27
 
@@ -20454,10 +22475,10 @@
 
 أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِىٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ
 
-## r40.6
+## r40.6.2
 
-[Q.40.56-60](https://www.islamicstudies.info/tafheem.php?sura=40&verse=56&to=60)
-40.56-60
+[Q.40.56-57](https://www.islamicstudies.info/tafheem.php?sura=40&verse=56&to=57)
+40.56-57
 
 ### 40:56
 
@@ -20467,10 +22488,10 @@
 
 لَخَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ أَكْبَرُ مِنْ خَلْقِ ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 
-## r42.3
+## r42.3.2
 
-[Q.42.23-29](https://www.islamicstudies.info/tafheem.php?sura=42&verse=23&to=29)
-42.23-29
+[Q.42.23-25](https://www.islamicstudies.info/tafheem.php?sura=42&verse=23&to=25)
+42.23-25
 
 ### 42:23
 
@@ -20484,7 +22505,7 @@
 
 وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ
 
-## r42.3
+## r42.3.4
 
 [Q.42.27-29](https://www.islamicstudies.info/tafheem.php?sura=42&verse=27&to=29)
 42.27-29
@@ -20493,7 +22514,7 @@
 
 ۞ وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَـٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ ۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ
 
-## r43.5
+## r43.5.2
 
 [Q.43.54-56](https://www.islamicstudies.info/tafheem.php?sura=43&verse=54&to=56)
 43.54-56
@@ -20502,7 +22523,7 @@
 
 فَٱسْتَخَفَّ قَوْمَهُۥ فَأَطَاعُوهُ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ
 
-## r45.2
+## r45.2.2
 
 [Q.45.14-21](https://www.islamicstudies.info/tafheem.php?sura=45&verse=14&to=21)
 45.14-21
@@ -20511,7 +22532,7 @@
 
 قُل لِّلَّذِينَ ءَامَنُوا۟ يَغْفِرُوا۟ لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ قَوْمًۢا بِمَا كَانُوا۟ يَكْسِبُونَ
 
-## r46.1
+## r46.1.2
 
 [Q.46.10-10](https://www.islamicstudies.info/tafheem.php?sura=46&verse=10&to=10)
 46.10-10
@@ -20520,7 +22541,7 @@
 
 قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ
 
-## r46.2
+## r46.2.2
 
 [Q.46.15-20](https://www.islamicstudies.info/tafheem.php?sura=46&verse=15&to=20)
 46.15-20
@@ -20529,7 +22550,7 @@
 
 وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ إِحْسَـٰنًا ۖ حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا ۖ وَحَمْلُهُۥ وَفِصَـٰلُهُۥ ثَلَـٰثُونَ شَهْرًا ۚ حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ ۖ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
 
-## r46.4
+## r46.4.2
 
 [Q.46.35-35](https://www.islamicstudies.info/tafheem.php?sura=46&verse=35&to=35)
 46.35-35
@@ -20538,7 +22559,7 @@
 
 فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ مِنَ ٱلرُّسُلِ وَلَا تَسْتَعْجِل لَّهُمْ ۚ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّن نَّهَارٍۭ ۚ بَلَـٰغٌ ۚ فَهَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلْفَـٰسِقُونَ
 
-## r18.4
+## r18.4.2
 
 [Q.18.28-31](https://www.islamicstudies.info/tafheem.php?sura=18&verse=28&to=31)
 18.28-31
@@ -20547,7 +22568,13 @@
 
 وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًا
 
-## r18.11
+## r18.11.x
+
+[Q.18.83-101](https://www.islamicstudies.info/tafheem.php?sura=18&verse=83&to=101)
+18.83-101
+
+![[#r18.11.1]]
+## r18.11.1
 
 [Q.18.83-101](https://www.islamicstudies.info/tafheem.php?sura=18&verse=83&to=101)
 18.83-101
@@ -20628,7 +22655,7 @@
 
 ٱلَّذِينَ كَانَتْ أَعْيُنُهُمْ فِى غِطَآءٍ عَن ذِكْرِى وَكَانُوا۟ لَا يَسْتَطِيعُونَ سَمْعًا
 
-## r16.16
+## r16.16.2
 
 [Q.16.126-128](https://www.islamicstudies.info/tafheem.php?sura=16&verse=126&to=128)
 16.126-128
@@ -20645,10 +22672,17 @@
 
 إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَوا۟ وَّٱلَّذِينَ هُم مُّحْسِنُونَ
 
-## r14.5
+## r14.5.x
 
 [Q.14.28-34](https://www.islamicstudies.info/tafheem.php?sura=14&verse=28&to=34)
 14.28-34
+
+![[#r14.5.1]]
+![[#r14.5.2]]
+## r14.5.1
+
+[Q.14.28-29](https://www.islamicstudies.info/tafheem.php?sura=14&verse=28&to=29)
+14.28-29
 
 ### 14:28
 
@@ -20658,10 +22692,10 @@
 
 جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ ٱلْقَرَارُ
 
-## r32.2
+## r32.2.2
 
-[Q.32.16-22](https://www.islamicstudies.info/tafheem.php?sura=32&verse=16&to=22)
-32.16-22
+[Q.32.16-20](https://www.islamicstudies.info/tafheem.php?sura=32&verse=16&to=20)
+32.16-20
 
 ### 32:16
 
@@ -20683,7 +22717,7 @@
 
 وَأَمَّا ٱلَّذِينَ فَسَقُوا۟ فَمَأْوَىٰهُمُ ٱلنَّارُ ۖ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا وَقِيلَ لَهُمْ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ
 
-## r30.2
+## r30.2.2
 
 [Q.30.17-19](https://www.islamicstudies.info/tafheem.php?sura=30&verse=17&to=19)
 30.17-19
@@ -20694,10 +22728,17 @@
 
 # s29
 
-## r29.1
+## r29.1.x
 
 [Q.29.1-13](https://www.islamicstudies.info/tafheem.php?sura=29&verse=1&to=13)
 29.1-13
+
+![[#r29.1.1]]
+![[#r29.1.2]]
+## r29.1.1
+
+[Q.29.1-11](https://www.islamicstudies.info/tafheem.php?sura=29&verse=1&to=11)
+29.1-11
 
 ### 29:1
 
@@ -20743,10 +22784,10 @@
 
 وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَلَيَعْلَمَنَّ ٱلْمُنَـٰفِقِينَ
 
-## r22.7
+## r22.7.2
 
-[Q.22.52-57](https://www.islamicstudies.info/tafheem.php?sura=22&verse=52&to=57)
-22.52-57
+[Q.22.52-55](https://www.islamicstudies.info/tafheem.php?sura=22&verse=52&to=55)
+22.52-55
 
 ### 22:52
 
@@ -20766,7 +22807,23 @@
 
 # s2
 
-## r2.1
+## r2.1.x
+
+[Q.2.1-7](https://www.islamicstudies.info/tafheem.php?sura=2&verse=1&to=7)
+2.1-7
+
+![[#r2.1.1]]
+![[#r2.10.1]]
+![[#r2.11.1]]
+![[#r2.12.1]]
+![[#r2.13.1]]
+![[#r2.14.1]]
+![[#r2.15.1]]
+![[#r2.16.1]]
+![[#r2.17.1]]
+![[#r2.18.1]]
+![[#r2.19.1]]
+## r2.1.1
 
 [Q.2.1-7](https://www.islamicstudies.info/tafheem.php?sura=2&verse=1&to=7)
 2.1-7
@@ -20799,7 +22856,23 @@
 
 خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَـٰرِهِمْ غِشَـٰوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ
 
-## r2.2
+## r2.2.x
+
+[Q.2.8-20](https://www.islamicstudies.info/tafheem.php?sura=2&verse=8&to=20)
+2.8-20
+
+![[#r2.2.1]]
+![[#r2.20.1]]
+![[#r2.21.1]]
+![[#r2.22.1]]
+![[#r2.23.1]]
+![[#r2.24.1]]
+![[#r2.25.1]]
+![[#r2.26.1]]
+![[#r2.27.1]]
+![[#r2.28.1]]
+![[#r2.29.1]]
+## r2.2.1
 
 [Q.2.8-20](https://www.islamicstudies.info/tafheem.php?sura=2&verse=8&to=20)
 2.8-20
@@ -20856,7 +22929,24 @@
 
 يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَـٰرَهُمْ ۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوْا۟ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُوا۟ ۚ وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَـٰرِهِمْ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
-## r2.3
+## r2.3.x
+
+[Q.2.21-29](https://www.islamicstudies.info/tafheem.php?sura=2&verse=21&to=29)
+2.21-29
+
+![[#r2.3.1]]
+![[#r2.30.1]]
+![[#r2.31.1]]
+![[#r2.32.1]]
+![[#r2.33.1]]
+![[#r2.34.1]]
+![[#r2.35.1]]
+![[#r2.36.1]]
+![[#r2.37.1]]
+![[#r2.38.1]]
+![[#r2.38.2]]
+![[#r2.39.1]]
+## r2.3.1
 
 [Q.2.21-29](https://www.islamicstudies.info/tafheem.php?sura=2&verse=21&to=29)
 2.21-29
@@ -20897,7 +22987,14 @@
 
 هُوَ ٱلَّذِى خَلَقَ لَكُم مَّا فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَـٰوَٰتٍ ۚ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
 
-## r2.4
+## r2.4.x
+
+[Q.2.30-39](https://www.islamicstudies.info/tafheem.php?sura=2&verse=30&to=39)
+2.30-39
+
+![[#r2.4.1]]
+![[#r2.40.1]]
+## r2.4.1
 
 [Q.2.30-39](https://www.islamicstudies.info/tafheem.php?sura=2&verse=30&to=39)
 2.30-39
@@ -20942,7 +23039,13 @@
 
 وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
 
-## r2.5
+## r2.5.x
+
+[Q.2.40-46](https://www.islamicstudies.info/tafheem.php?sura=2&verse=40&to=46)
+2.40-46
+
+![[#r2.5.1]]
+## r2.5.1
 
 [Q.2.40-46](https://www.islamicstudies.info/tafheem.php?sura=2&verse=40&to=46)
 2.40-46
@@ -20975,7 +23078,13 @@
 
 ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَٰجِعُونَ
 
-## r2.6
+## r2.6.x
+
+[Q.2.47-59](https://www.islamicstudies.info/tafheem.php?sura=2&verse=47&to=59)
+2.47-59
+
+![[#r2.6.1]]
+## r2.6.1
 
 [Q.2.47-59](https://www.islamicstudies.info/tafheem.php?sura=2&verse=47&to=59)
 2.47-59
@@ -21032,7 +23141,13 @@
 
 فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ
 
-## r2.7
+## r2.7.x
+
+[Q.2.60-61](https://www.islamicstudies.info/tafheem.php?sura=2&verse=60&to=61)
+2.60-61
+
+![[#r2.7.1]]
+## r2.7.1
 
 [Q.2.60-61](https://www.islamicstudies.info/tafheem.php?sura=2&verse=60&to=61)
 2.60-61
@@ -21045,7 +23160,13 @@
 
 وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ۚ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ ٱلْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
 
-## r2.8
+## r2.8.x
+
+[Q.2.62-71](https://www.islamicstudies.info/tafheem.php?sura=2&verse=62&to=71)
+2.62-71
+
+![[#r2.8.1]]
+## r2.8.1
 
 [Q.2.62-71](https://www.islamicstudies.info/tafheem.php?sura=2&verse=62&to=71)
 2.62-71
@@ -21090,7 +23211,13 @@
 
 قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا ۚ قَالُوا۟ ٱلْـَٔـٰنَ جِئْتَ بِٱلْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
 
-## r2.9
+## r2.9.x
+
+[Q.2.72-82](https://www.islamicstudies.info/tafheem.php?sura=2&verse=72&to=82)
+2.72-82
+
+![[#r2.9.1]]
+## r2.9.1
 
 [Q.2.72-82](https://www.islamicstudies.info/tafheem.php?sura=2&verse=72&to=82)
 2.72-82
@@ -21139,7 +23266,13 @@
 
 وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
 
-## r2.10
+## r2.10.x
+
+[Q.2.83-86](https://www.islamicstudies.info/tafheem.php?sura=2&verse=83&to=86)
+2.83-86
+
+![[#r2.10.1]]
+## r2.10.1
 
 [Q.2.83-86](https://www.islamicstudies.info/tafheem.php?sura=2&verse=83&to=86)
 2.83-86
@@ -21160,7 +23293,13 @@
 
 أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْـَٔاخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنصَرُونَ
 
-## r2.11
+## r2.11.x
+
+[Q.2.87-96](https://www.islamicstudies.info/tafheem.php?sura=2&verse=87&to=96)
+2.87-96
+
+![[#r2.11.1]]
+## r2.11.1
 
 [Q.2.87-96](https://www.islamicstudies.info/tafheem.php?sura=2&verse=87&to=96)
 2.87-96
@@ -21205,7 +23344,13 @@
 
 وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍ وَمِنَ ٱلَّذِينَ أَشْرَكُوا۟ ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِۦ مِنَ ٱلْعَذَابِ أَن يُعَمَّرَ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
 
-## r2.12
+## r2.12.x
+
+[Q.2.97-103](https://www.islamicstudies.info/tafheem.php?sura=2&verse=97&to=103)
+2.97-103
+
+![[#r2.12.1]]
+## r2.12.1
 
 [Q.2.97-103](https://www.islamicstudies.info/tafheem.php?sura=2&verse=97&to=103)
 2.97-103
@@ -21238,7 +23383,13 @@
 
 وَلَوْ أَنَّهُمْ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَمَثُوبَةٌ مِّنْ عِندِ ٱللَّهِ خَيْرٌ ۖ لَّوْ كَانُوا۟ يَعْلَمُونَ
 
-## r2.13
+## r2.13.x
+
+[Q.2.104-112](https://www.islamicstudies.info/tafheem.php?sura=2&verse=104&to=112)
+2.104-112
+
+![[#r2.13.1]]
+## r2.13.1
 
 [Q.2.104-112](https://www.islamicstudies.info/tafheem.php?sura=2&verse=104&to=112)
 2.104-112
@@ -21279,7 +23430,13 @@
 
 بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُۥٓ أَجْرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
-## r2.14
+## r2.14.x
+
+[Q.2.113-121](https://www.islamicstudies.info/tafheem.php?sura=2&verse=113&to=121)
+2.113-121
+
+![[#r2.14.1]]
+## r2.14.1
 
 [Q.2.113-121](https://www.islamicstudies.info/tafheem.php?sura=2&verse=113&to=121)
 2.113-121
@@ -21320,7 +23477,13 @@
 
 ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُو۟لَـٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۗ وَمَن يَكْفُرْ بِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ
 
-## r2.15
+## r2.15.x
+
+[Q.2.122-129](https://www.islamicstudies.info/tafheem.php?sura=2&verse=122&to=129)
+2.122-129
+
+![[#r2.15.1]]
+## r2.15.1
 
 [Q.2.122-129](https://www.islamicstudies.info/tafheem.php?sura=2&verse=122&to=129)
 2.122-129
@@ -21357,7 +23520,13 @@
 
 رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِكَ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
-## r2.16
+## r2.16.x
+
+[Q.2.130-141](https://www.islamicstudies.info/tafheem.php?sura=2&verse=130&to=141)
+2.130-141
+
+![[#r2.16.1]]
+## r2.16.1
 
 [Q.2.130-141](https://www.islamicstudies.info/tafheem.php?sura=2&verse=130&to=141)
 2.130-141
@@ -21410,7 +23579,13 @@
 
 تِلْكَ أُمَّةٌ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ
 
-## r2.17
+## r2.17.x
+
+[Q.2.142-147](https://www.islamicstudies.info/tafheem.php?sura=2&verse=142&to=147)
+2.142-147
+
+![[#r2.17.1]]
+## r2.17.1
 
 [Q.2.142-147](https://www.islamicstudies.info/tafheem.php?sura=2&verse=142&to=147)
 2.142-147
@@ -21439,7 +23614,13 @@
 
 ٱلْحَقُّ مِن رَّبِّكَ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ
 
-## r2.18
+## r2.18.x
+
+[Q.2.148-151](https://www.islamicstudies.info/tafheem.php?sura=2&verse=148&to=151)
+2.148-151
+
+![[#r2.18.1]]
+## r2.18.1
 
 [Q.2.148-151](https://www.islamicstudies.info/tafheem.php?sura=2&verse=148&to=151)
 2.148-151
@@ -21460,7 +23641,13 @@
 
 كَمَآ أَرْسَلْنَا فِيكُمْ رَسُولًا مِّنكُمْ يَتْلُوا۟ عَلَيْكُمْ ءَايَـٰتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُعَلِّمُكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ
 
-## r2.19
+## r2.19.x
+
+[Q.2.152-163](https://www.islamicstudies.info/tafheem.php?sura=2&verse=152&to=163)
+2.152-163
+
+![[#r2.19.1]]
+## r2.19.1
 
 [Q.2.152-163](https://www.islamicstudies.info/tafheem.php?sura=2&verse=152&to=163)
 2.152-163
@@ -21513,7 +23700,13 @@
 
 وَإِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ
 
-## r2.20
+## r2.20.x
+
+[Q.2.164-167](https://www.islamicstudies.info/tafheem.php?sura=2&verse=164&to=167)
+2.164-167
+
+![[#r2.20.1]]
+## r2.20.1
 
 [Q.2.164-167](https://www.islamicstudies.info/tafheem.php?sura=2&verse=164&to=167)
 2.164-167
@@ -21534,7 +23727,13 @@
 
 وَقَالَ ٱلَّذِينَ ٱتَّبَعُوا۟ لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا ۗ كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَـٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ ۖ وَمَا هُم بِخَـٰرِجِينَ مِنَ ٱلنَّارِ
 
-## r2.21
+## r2.21.x
+
+[Q.2.168-176](https://www.islamicstudies.info/tafheem.php?sura=2&verse=168&to=176)
+2.168-176
+
+![[#r2.21.1]]
+## r2.21.1
 
 [Q.2.168-176](https://www.islamicstudies.info/tafheem.php?sura=2&verse=168&to=176)
 2.168-176
@@ -21575,7 +23774,13 @@
 
 ذَٰلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ ۗ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِى ٱلْكِتَـٰبِ لَفِى شِقَاقٍۭ بَعِيدٍ
 
-## r2.22
+## r2.22.x
+
+[Q.2.177-182](https://www.islamicstudies.info/tafheem.php?sura=2&verse=177&to=182)
+2.177-182
+
+![[#r2.22.1]]
+## r2.22.1
 
 [Q.2.177-182](https://www.islamicstudies.info/tafheem.php?sura=2&verse=177&to=182)
 2.177-182
@@ -21604,7 +23809,13 @@
 
 فَمَنْ خَافَ مِن مُّوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 
-## r2.23
+## r2.23.x
+
+[Q.2.183-188](https://www.islamicstudies.info/tafheem.php?sura=2&verse=183&to=188)
+2.183-188
+
+![[#r2.23.1]]
+## r2.23.1
 
 [Q.2.183-188](https://www.islamicstudies.info/tafheem.php?sura=2&verse=183&to=188)
 2.183-188
@@ -21633,7 +23844,13 @@
 
 وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَـٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ
 
-## r2.24
+## r2.24.x
+
+[Q.2.189-196](https://www.islamicstudies.info/tafheem.php?sura=2&verse=189&to=196)
+2.189-196
+
+![[#r2.24.1]]
+## r2.24.1
 
 [Q.2.189-196](https://www.islamicstudies.info/tafheem.php?sura=2&verse=189&to=196)
 2.189-196
@@ -21670,7 +23887,13 @@
 
 وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۖ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ ۚ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۚ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَـٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌ كَامِلَةٌ ۗ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
 
-## r2.25
+## r2.25.x
+
+[Q.2.197-210](https://www.islamicstudies.info/tafheem.php?sura=2&verse=197&to=210)
+2.197-210
+
+![[#r2.25.1]]
+## r2.25.1
 
 [Q.2.197-210](https://www.islamicstudies.info/tafheem.php?sura=2&verse=197&to=210)
 2.197-210
@@ -21731,7 +23954,13 @@
 
 هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍ مِّنَ ٱلْغَمَامِ وَٱلْمَلَـٰٓئِكَةُ وَقُضِىَ ٱلْأَمْرُ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 
-## r2.26
+## r2.26.x
+
+[Q.2.211-216](https://www.islamicstudies.info/tafheem.php?sura=2&verse=211&to=216)
+2.211-216
+
+![[#r2.26.1]]
+## r2.26.1
 
 [Q.2.211-216](https://www.islamicstudies.info/tafheem.php?sura=2&verse=211&to=216)
 2.211-216
@@ -21760,7 +23989,13 @@
 
 كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
 
-## r2.27
+## r2.27.x
+
+[Q.2.217-221](https://www.islamicstudies.info/tafheem.php?sura=2&verse=217&to=221)
+2.217-221
+
+![[#r2.27.1]]
+## r2.27.1
 
 [Q.2.217-221](https://www.islamicstudies.info/tafheem.php?sura=2&verse=217&to=221)
 2.217-221
@@ -21785,7 +24020,13 @@
 
 وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَـٰتِ حَتَّىٰ يُؤْمِنَّ ۚ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ ۗ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ ۚ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ ۗ أُو۟لَـٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ ۖ وَٱللَّهُ يَدْعُوٓا۟ إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ ۖ وَيُبَيِّنُ ءَايَـٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
-## r2.28
+## r2.28.x
+
+[Q.2.222-228](https://www.islamicstudies.info/tafheem.php?sura=2&verse=222&to=228)
+2.222-228
+
+![[#r2.28.1]]
+## r2.28.1
 
 [Q.2.222-228](https://www.islamicstudies.info/tafheem.php?sura=2&verse=222&to=228)
 2.222-228
@@ -21818,7 +24059,13 @@
 
 وَٱلْمُطَلَّقَـٰتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَـٰثَةَ قُرُوٓءٍ ۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِىٓ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِى ذَٰلِكَ إِنْ أَرَادُوٓا۟ إِصْلَـٰحًا ۚ وَلَهُنَّ مِثْلُ ٱلَّذِى عَلَيْهِنَّ بِٱلْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 
-## r2.29
+## r2.29.x
+
+[Q.2.229-231](https://www.islamicstudies.info/tafheem.php?sura=2&verse=229&to=231)
+2.229-231
+
+![[#r2.29.1]]
+## r2.29.1
 
 [Q.2.229-231](https://www.islamicstudies.info/tafheem.php?sura=2&verse=229&to=231)
 2.229-231
@@ -21835,7 +24082,13 @@
 
 وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِّتَعْتَدُوا۟ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ وَلَا تَتَّخِذُوٓا۟ ءَايَـٰتِ ٱللَّهِ هُزُوًا ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَـٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ
 
-## r2.30
+## r2.30.x
+
+[Q.2.232-235](https://www.islamicstudies.info/tafheem.php?sura=2&verse=232&to=235)
+2.232-235
+
+![[#r2.30.1]]
+## r2.30.1
 
 [Q.2.232-235](https://www.islamicstudies.info/tafheem.php?sura=2&verse=232&to=235)
 2.232-235
@@ -21856,7 +24109,13 @@
 
 وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُم بِهِۦ مِنْ خِطْبَةِ ٱلنِّسَآءِ أَوْ أَكْنَنتُمْ فِىٓ أَنفُسِكُمْ ۚ عَلِمَ ٱللَّهُ أَنَّكُمْ سَتَذْكُرُونَهُنَّ وَلَـٰكِن لَّا تُوَاعِدُوهُنَّ سِرًّا إِلَّآ أَن تَقُولُوا۟ قَوْلًا مَّعْرُوفًا ۚ وَلَا تَعْزِمُوا۟ عُقْدَةَ ٱلنِّكَاحِ حَتَّىٰ يَبْلُغَ ٱلْكِتَـٰبُ أَجَلَهُۥ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِىٓ أَنفُسِكُمْ فَٱحْذَرُوهُ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ حَلِيمٌ
 
-## r2.31
+## r2.31.x
+
+[Q.2.236-242](https://www.islamicstudies.info/tafheem.php?sura=2&verse=236&to=242)
+2.236-242
+
+![[#r2.31.1]]
+## r2.31.1
 
 [Q.2.236-242](https://www.islamicstudies.info/tafheem.php?sura=2&verse=236&to=242)
 2.236-242
@@ -21889,7 +24148,13 @@
 
 كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
 
-## r2.32
+## r2.32.x
+
+[Q.2.243-248](https://www.islamicstudies.info/tafheem.php?sura=2&verse=243&to=248)
+2.243-248
+
+![[#r2.32.1]]
+## r2.32.1
 
 [Q.2.243-248](https://www.islamicstudies.info/tafheem.php?sura=2&verse=243&to=248)
 2.243-248
@@ -21918,7 +24183,13 @@
 
 وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَـٰرُونَ تَحْمِلُهُ ٱلْمَلَـٰٓئِكَةُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
-## r2.33
+## r2.33.x
+
+[Q.2.249-253](https://www.islamicstudies.info/tafheem.php?sura=2&verse=249&to=253)
+2.249-253
+
+![[#r2.33.1]]
+## r2.33.1
 
 [Q.2.249-253](https://www.islamicstudies.info/tafheem.php?sura=2&verse=249&to=253)
 2.249-253
@@ -21943,7 +24214,13 @@
 
 ۞ تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَـٰتٍ ۚ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ وَلَـٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ ۚ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟ وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ
 
-## r2.34
+## r2.34.x
+
+[Q.2.254-257](https://www.islamicstudies.info/tafheem.php?sura=2&verse=254&to=257)
+2.254-257
+
+![[#r2.34.1]]
+## r2.34.1
 
 [Q.2.254-257](https://www.islamicstudies.info/tafheem.php?sura=2&verse=254&to=257)
 2.254-257
@@ -21964,7 +24241,13 @@
 
 ٱللَّهُ وَلِىُّ ٱلَّذِينَ ءَامَنُوا۟ يُخْرِجُهُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۖ وَٱلَّذِينَ كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ ٱلطَّـٰغُوتُ يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَـٰتِ ۗ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
 
-## r2.35
+## r2.35.x
+
+[Q.2.258-260](https://www.islamicstudies.info/tafheem.php?sura=2&verse=258&to=260)
+2.258-260
+
+![[#r2.35.1]]
+## r2.35.1
 
 [Q.2.258-260](https://www.islamicstudies.info/tafheem.php?sura=2&verse=258&to=260)
 2.258-260
@@ -21981,7 +24264,13 @@
 
 وَإِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَـٰكِن لِّيَطْمَئِنَّ قَلْبِى ۖ قَالَ فَخُذْ أَرْبَعَةً مِّنَ ٱلطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ ٱجْعَلْ عَلَىٰ كُلِّ جَبَلٍ مِّنْهُنَّ جُزْءًا ثُمَّ ٱدْعُهُنَّ يَأْتِينَكَ سَعْيًا ۚ وَٱعْلَمْ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
 
-## r2.36
+## r2.36.x
+
+[Q.2.261-266](https://www.islamicstudies.info/tafheem.php?sura=2&verse=261&to=266)
+2.261-266
+
+![[#r2.36.1]]
+## r2.36.1
 
 [Q.2.261-266](https://www.islamicstudies.info/tafheem.php?sura=2&verse=261&to=266)
 2.261-266
@@ -22010,7 +24299,13 @@
 
 أَيَوَدُّ أَحَدُكُمْ أَن تَكُونَ لَهُۥ جَنَّةٌ مِّن نَّخِيلٍ وَأَعْنَابٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ لَهُۥ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَأَصَابَهُ ٱلْكِبَرُ وَلَهُۥ ذُرِّيَّةٌ ضُعَفَآءُ فَأَصَابَهَآ إِعْصَارٌ فِيهِ نَارٌ فَٱحْتَرَقَتْ ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
 
-## r2.37
+## r2.37.x
+
+[Q.2.267-273](https://www.islamicstudies.info/tafheem.php?sura=2&verse=267&to=273)
+2.267-273
+
+![[#r2.37.1]]
+## r2.37.1
 
 [Q.2.267-273](https://www.islamicstudies.info/tafheem.php?sura=2&verse=267&to=273)
 2.267-273
@@ -22043,10 +24338,17 @@
 
 لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَـٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًا ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ
 
-## r2.38
+## r2.38.x
 
 [Q.2.274-281](https://www.islamicstudies.info/tafheem.php?sura=2&verse=274&to=281)
 2.274-281
+
+![[#r2.38.1]]
+![[#r2.38.2]]
+## r2.38.1
+
+[Q.2.274-280](https://www.islamicstudies.info/tafheem.php?sura=2&verse=274&to=280)
+2.274-280
 
 ### 2:274
 
@@ -22076,7 +24378,13 @@
 
 وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ ۚ وَأَن تَصَدَّقُوا۟ خَيْرٌ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ
 
-## r2.39
+## r2.39.x
+
+[Q.2.282-283](https://www.islamicstudies.info/tafheem.php?sura=2&verse=282&to=283)
+2.282-283
+
+![[#r2.39.1]]
+## r2.39.1
 
 [Q.2.282-283](https://www.islamicstudies.info/tafheem.php?sura=2&verse=282&to=283)
 2.282-283
@@ -22089,7 +24397,13 @@
 
 ۞ وَإِن كُنتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا۟ كَاتِبًا فَرِهَـٰنٌ مَّقْبُوضَةٌ ۖ فَإِنْ أَمِنَ بَعْضُكُم بَعْضًا فَلْيُؤَدِّ ٱلَّذِى ٱؤْتُمِنَ أَمَـٰنَتَهُۥ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ ۗ وَلَا تَكْتُمُوا۟ ٱلشَّهَـٰدَةَ ۚ وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌ قَلْبُهُۥ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ
 
-## r2.40
+## r2.40.x
+
+[Q.2.284-286](https://www.islamicstudies.info/tafheem.php?sura=2&verse=284&to=286)
+2.284-286
+
+![[#r2.40.1]]
+## r2.40.1
 
 [Q.2.284-286](https://www.islamicstudies.info/tafheem.php?sura=2&verse=284&to=286)
 2.284-286
@@ -22108,7 +24422,14 @@
 
 # s8
 
-## r8.1
+## r8.1.x
+
+[Q.8.1-10](https://www.islamicstudies.info/tafheem.php?sura=8&verse=1&to=10)
+8.1-10
+
+![[#r8.1.1]]
+![[#r8.10.1]]
+## r8.1.1
 
 [Q.8.1-10](https://www.islamicstudies.info/tafheem.php?sura=8&verse=1&to=10)
 8.1-10
@@ -22153,7 +24474,13 @@
 
 وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِۦ قُلُوبُكُمْ ۚ وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
 
-## r8.2
+## r8.2.x
+
+[Q.8.11-19](https://www.islamicstudies.info/tafheem.php?sura=8&verse=11&to=19)
+8.11-19
+
+![[#r8.2.1]]
+## r8.2.1
 
 [Q.8.11-19](https://www.islamicstudies.info/tafheem.php?sura=8&verse=11&to=19)
 8.11-19
@@ -22194,7 +24521,13 @@
 
 إِن تَسْتَفْتِحُوا۟ فَقَدْ جَآءَكُمُ ٱلْفَتْحُ ۖ وَإِن تَنتَهُوا۟ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَعُودُوا۟ نَعُدْ وَلَن تُغْنِىَ عَنكُمْ فِئَتُكُمْ شَيْـًٔا وَلَوْ كَثُرَتْ وَأَنَّ ٱللَّهَ مَعَ ٱلْمُؤْمِنِينَ
 
-## r8.3
+## r8.3.x
+
+[Q.8.20-28](https://www.islamicstudies.info/tafheem.php?sura=8&verse=20&to=28)
+8.20-28
+
+![[#r8.3.1]]
+## r8.3.1
 
 [Q.8.20-28](https://www.islamicstudies.info/tafheem.php?sura=8&verse=20&to=28)
 8.20-28
@@ -22235,16 +24568,24 @@
 
 وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَـٰدُكُمْ فِتْنَةٌ وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ
 
-## r8.4
+## r8.4.x
 
 [Q.8.29-37](https://www.islamicstudies.info/tafheem.php?sura=8&verse=29&to=37)
 8.29-37
+
+![[#r8.4.1]]
+![[#r8.4.2]]
+![[#r8.4.3]]
+## r8.4.1
+
+[Q.8.29-29](https://www.islamicstudies.info/tafheem.php?sura=8&verse=29&to=29)
+8.29-29
 
 ### 8:29
 
 يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَتَّقُوا۟ ٱللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا وَيُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَيَغْفِرْ لَكُمْ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
-## r8.4
+## r8.4.3
 
 [Q.8.37-37](https://www.islamicstudies.info/tafheem.php?sura=8&verse=37&to=37)
 8.37-37
@@ -22253,7 +24594,13 @@
 
 لِيَمِيزَ ٱللَّهُ ٱلْخَبِيثَ مِنَ ٱلطَّيِّبِ وَيَجْعَلَ ٱلْخَبِيثَ بَعْضَهُۥ عَلَىٰ بَعْضٍ فَيَرْكُمَهُۥ جَمِيعًا فَيَجْعَلَهُۥ فِى جَهَنَّمَ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ
 
-## r8.5
+## r8.5.x
+
+[Q.8.38-44](https://www.islamicstudies.info/tafheem.php?sura=8&verse=38&to=44)
+8.38-44
+
+![[#r8.5.1]]
+## r8.5.1
 
 [Q.8.38-44](https://www.islamicstudies.info/tafheem.php?sura=8&verse=38&to=44)
 8.38-44
@@ -22286,7 +24633,13 @@
 
 وَإِذْ يُرِيكُمُوهُمْ إِذِ ٱلْتَقَيْتُمْ فِىٓ أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ لِيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 
-## r8.6
+## r8.6.x
+
+[Q.8.45-48](https://www.islamicstudies.info/tafheem.php?sura=8&verse=45&to=48)
+8.45-48
+
+![[#r8.6.1]]
+## r8.6.1
 
 [Q.8.45-48](https://www.islamicstudies.info/tafheem.php?sura=8&verse=45&to=48)
 8.45-48
@@ -22307,7 +24660,13 @@
 
 وَإِذْ زَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ أَعْمَـٰلَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ ٱلْيَوْمَ مِنَ ٱلنَّاسِ وَإِنِّى جَارٌ لَّكُمْ ۖ فَلَمَّا تَرَآءَتِ ٱلْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّى بَرِىٓءٌ مِّنكُمْ إِنِّىٓ أَرَىٰ مَا لَا تَرَوْنَ إِنِّىٓ أَخَافُ ٱللَّهَ ۚ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
 
-## r8.7
+## r8.7.x
+
+[Q.8.49-58](https://www.islamicstudies.info/tafheem.php?sura=8&verse=49&to=58)
+8.49-58
+
+![[#r8.7.1]]
+## r8.7.1
 
 [Q.8.49-58](https://www.islamicstudies.info/tafheem.php?sura=8&verse=49&to=58)
 8.49-58
@@ -22352,7 +24711,13 @@
 
 وَإِمَّا تَخَافَنَّ مِن قَوْمٍ خِيَانَةً فَٱنۢبِذْ إِلَيْهِمْ عَلَىٰ سَوَآءٍ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْخَآئِنِينَ
 
-## r8.8
+## r8.8.x
+
+[Q.8.59-64](https://www.islamicstudies.info/tafheem.php?sura=8&verse=59&to=64)
+8.59-64
+
+![[#r8.8.1]]
+## r8.8.1
 
 [Q.8.59-64](https://www.islamicstudies.info/tafheem.php?sura=8&verse=59&to=64)
 8.59-64
@@ -22381,7 +24746,13 @@
 
 يَـٰٓأَيُّهَا ٱلنَّبِىُّ حَسْبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ
 
-## r8.9
+## r8.9.x
+
+[Q.8.65-69](https://www.islamicstudies.info/tafheem.php?sura=8&verse=65&to=69)
+8.65-69
+
+![[#r8.9.1]]
+## r8.9.1
 
 [Q.8.65-69](https://www.islamicstudies.info/tafheem.php?sura=8&verse=65&to=69)
 8.65-69
@@ -22406,7 +24777,13 @@
 
 فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَـٰلًا طَيِّبًا ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 
-## r8.10
+## r8.10.x
+
+[Q.8.70-75](https://www.islamicstudies.info/tafheem.php?sura=8&verse=70&to=75)
+8.70-75
+
+![[#r8.10.1]]
+## r8.10.1
 
 [Q.8.70-75](https://www.islamicstudies.info/tafheem.php?sura=8&verse=70&to=75)
 8.70-75
@@ -22437,7 +24814,23 @@
 
 # s3
 
-## r3.1
+## r3.1.x
+
+[Q.3.1-9](https://www.islamicstudies.info/tafheem.php?sura=3&verse=1&to=9)
+3.1-9
+
+![[#r3.1.1]]
+![[#r3.10.1]]
+![[#r3.11.1]]
+![[#r3.12.1]]
+![[#r3.13.1]]
+![[#r3.14.1]]
+![[#r3.15.1]]
+![[#r3.16.1]]
+![[#r3.17.1]]
+![[#r3.18.1]]
+![[#r3.19.1]]
+## r3.1.1
 
 [Q.3.1-9](https://www.islamicstudies.info/tafheem.php?sura=3&verse=1&to=9)
 3.1-9
@@ -22478,7 +24871,14 @@
 
 رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
 
-## r3.2
+## r3.2.x
+
+[Q.3.10-20](https://www.islamicstudies.info/tafheem.php?sura=3&verse=10&to=20)
+3.10-20
+
+![[#r3.2.1]]
+![[#r3.20.1]]
+## r3.2.1
 
 [Q.3.10-20](https://www.islamicstudies.info/tafheem.php?sura=3&verse=10&to=20)
 3.10-20
@@ -22527,7 +24927,13 @@
 
 فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْأُمِّيِّـۧنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
 
-## r3.3
+## r3.3.x
+
+[Q.3.21-30](https://www.islamicstudies.info/tafheem.php?sura=3&verse=21&to=30)
+3.21-30
+
+![[#r3.3.1]]
+## r3.3.1
 
 [Q.3.21-30](https://www.islamicstudies.info/tafheem.php?sura=3&verse=21&to=30)
 3.21-30
@@ -22572,7 +24978,13 @@
 
 يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوٓءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًا ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ
 
-## r3.4
+## r3.4.x
+
+[Q.3.31-41](https://www.islamicstudies.info/tafheem.php?sura=3&verse=31&to=41)
+3.31-41
+
+![[#r3.4.1]]
+## r3.4.1
 
 [Q.3.31-41](https://www.islamicstudies.info/tafheem.php?sura=3&verse=31&to=41)
 3.31-41
@@ -22621,7 +25033,13 @@
 
 قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَةَ أَيَّامٍ إِلَّا رَمْزًا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ
 
-## r3.5
+## r3.5.x
+
+[Q.3.42-54](https://www.islamicstudies.info/tafheem.php?sura=3&verse=42&to=54)
+3.42-54
+
+![[#r3.5.1]]
+## r3.5.1
 
 [Q.3.42-54](https://www.islamicstudies.info/tafheem.php?sura=3&verse=42&to=54)
 3.42-54
@@ -22678,7 +25096,13 @@
 
 وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَـٰكِرِينَ
 
-## r3.6
+## r3.6.x
+
+[Q.3.55-63](https://www.islamicstudies.info/tafheem.php?sura=3&verse=55&to=63)
+3.55-63
+
+![[#r3.6.1]]
+## r3.6.1
 
 [Q.3.55-63](https://www.islamicstudies.info/tafheem.php?sura=3&verse=55&to=63)
 3.55-63
@@ -22719,7 +25143,13 @@
 
 فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ
 
-## r3.7
+## r3.7.x
+
+[Q.3.64-71](https://www.islamicstudies.info/tafheem.php?sura=3&verse=64&to=71)
+3.64-71
+
+![[#r3.7.1]]
+## r3.7.1
 
 [Q.3.64-71](https://www.islamicstudies.info/tafheem.php?sura=3&verse=64&to=71)
 3.64-71
@@ -22756,7 +25186,13 @@
 
 يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
 
-## r3.8
+## r3.8.x
+
+[Q.3.72-80](https://www.islamicstudies.info/tafheem.php?sura=3&verse=72&to=80)
+3.72-80
+
+![[#r3.8.1]]
+## r3.8.1
 
 [Q.3.72-80](https://www.islamicstudies.info/tafheem.php?sura=3&verse=72&to=80)
 3.72-80
@@ -22797,7 +25233,13 @@
 
 وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَـٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ
 
-## r3.9
+## r3.9.x
+
+[Q.3.81-91](https://www.islamicstudies.info/tafheem.php?sura=3&verse=81&to=91)
+3.81-91
+
+![[#r3.9.1]]
+## r3.9.1
 
 [Q.3.81-91](https://www.islamicstudies.info/tafheem.php?sura=3&verse=81&to=91)
 3.81-91
@@ -22846,7 +25288,13 @@
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ ۗ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن نَّـٰصِرِينَ
 
-## r3.10
+## r3.10.x
+
+[Q.3.92-101](https://www.islamicstudies.info/tafheem.php?sura=3&verse=92&to=101)
+3.92-101
+
+![[#r3.10.1]]
+## r3.10.1
 
 [Q.3.92-101](https://www.islamicstudies.info/tafheem.php?sura=3&verse=92&to=101)
 3.92-101
@@ -22891,7 +25339,13 @@
 
 وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَـٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
 
-## r3.11
+## r3.11.x
+
+[Q.3.102-109](https://www.islamicstudies.info/tafheem.php?sura=3&verse=102&to=109)
+3.102-109
+
+![[#r3.11.1]]
+## r3.11.1
 
 [Q.3.102-109](https://www.islamicstudies.info/tafheem.php?sura=3&verse=102&to=109)
 3.102-109
@@ -22928,7 +25382,13 @@
 
 وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 
-## r3.12
+## r3.12.x
+
+[Q.3.110-120](https://www.islamicstudies.info/tafheem.php?sura=3&verse=110&to=120)
+3.110-120
+
+![[#r3.12.1]]
+## r3.12.1
 
 [Q.3.110-120](https://www.islamicstudies.info/tafheem.php?sura=3&verse=110&to=120)
 3.110-120
@@ -22977,7 +25437,13 @@
 
 إِن تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا۟ بِهَا ۖ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا ۗ إِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌ
 
-## r3.13
+## r3.13.x
+
+[Q.3.121-129](https://www.islamicstudies.info/tafheem.php?sura=3&verse=121&to=129)
+3.121-129
+
+![[#r3.13.1]]
+## r3.13.1
 
 [Q.3.121-129](https://www.islamicstudies.info/tafheem.php?sura=3&verse=121&to=129)
 3.121-129
@@ -23018,7 +25484,13 @@
 
 وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
 
-## r3.14
+## r3.14.x
+
+[Q.3.130-143](https://www.islamicstudies.info/tafheem.php?sura=3&verse=130&to=143)
+3.130-143
+
+![[#r3.14.1]]
+## r3.14.1
 
 [Q.3.130-143](https://www.islamicstudies.info/tafheem.php?sura=3&verse=130&to=143)
 3.130-143
@@ -23079,7 +25551,13 @@
 
 وَلَقَدْ كُنتُمْ تَمَنَّوْنَ ٱلْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ
 
-## r3.15
+## r3.15.x
+
+[Q.3.144-148](https://www.islamicstudies.info/tafheem.php?sura=3&verse=144&to=148)
+3.144-148
+
+![[#r3.15.1]]
+## r3.15.1
 
 [Q.3.144-148](https://www.islamicstudies.info/tafheem.php?sura=3&verse=144&to=148)
 3.144-148
@@ -23104,7 +25582,13 @@
 
 فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْـَٔاخِرَةِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ
 
-## r3.16
+## r3.16.x
+
+[Q.3.149-155](https://www.islamicstudies.info/tafheem.php?sura=3&verse=149&to=155)
+3.149-155
+
+![[#r3.16.1]]
+## r3.16.1
 
 [Q.3.149-155](https://www.islamicstudies.info/tafheem.php?sura=3&verse=149&to=155)
 3.149-155
@@ -23137,7 +25621,13 @@
 
 إِنَّ ٱلَّذِينَ تَوَلَّوْا۟ مِنكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ إِنَّمَا ٱسْتَزَلَّهُمُ ٱلشَّيْطَـٰنُ بِبَعْضِ مَا كَسَبُوا۟ ۖ وَلَقَدْ عَفَا ٱللَّهُ عَنْهُمْ ۗ إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٌ
 
-## r3.17
+## r3.17.x
+
+[Q.3.156-172](https://www.islamicstudies.info/tafheem.php?sura=3&verse=156&to=172)
+3.156-172
+
+![[#r3.17.1]]
+## r3.17.1
 
 [Q.3.156-172](https://www.islamicstudies.info/tafheem.php?sura=3&verse=156&to=172)
 3.156-172
@@ -23210,7 +25700,13 @@
 
 ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ
 
-## r3.18
+## r3.18.x
+
+[Q.3.173-180](https://www.islamicstudies.info/tafheem.php?sura=3&verse=173&to=180)
+3.173-180
+
+![[#r3.18.1]]
+## r3.18.1
 
 [Q.3.173-180](https://www.islamicstudies.info/tafheem.php?sura=3&verse=173&to=180)
 3.173-180
@@ -23247,7 +25743,13 @@
 
 وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًا لَّهُم ۖ بَلْ هُوَ شَرٌّ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
-## r3.19
+## r3.19.x
+
+[Q.3.181-187](https://www.islamicstudies.info/tafheem.php?sura=3&verse=181&to=187)
+3.181-187
+
+![[#r3.19.1]]
+## r3.19.1
 
 [Q.3.181-187](https://www.islamicstudies.info/tafheem.php?sura=3&verse=181&to=187)
 3.181-187
@@ -23280,7 +25782,13 @@
 
 وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ
 
-## r3.20
+## r3.20.x
+
+[Q.3.188-200](https://www.islamicstudies.info/tafheem.php?sura=3&verse=188&to=200)
+3.188-200
+
+![[#r3.20.1]]
+## r3.20.1
 
 [Q.3.188-200](https://www.islamicstudies.info/tafheem.php?sura=3&verse=188&to=200)
 3.188-200
@@ -23339,7 +25847,13 @@
 
 # s33
 
-## r33.1
+## r33.1.x
+
+[Q.33.1-8](https://www.islamicstudies.info/tafheem.php?sura=33&verse=1&to=8)
+33.1-8
+
+![[#r33.1.1]]
+## r33.1.1
 
 [Q.33.1-8](https://www.islamicstudies.info/tafheem.php?sura=33&verse=1&to=8)
 33.1-8
@@ -23376,7 +25890,13 @@
 
 لِّيَسْـَٔلَ ٱلصَّـٰدِقِينَ عَن صِدْقِهِمْ ۚ وَأَعَدَّ لِلْكَـٰفِرِينَ عَذَابًا أَلِيمًا
 
-## r33.2
+## r33.2.x
+
+[Q.33.9-20](https://www.islamicstudies.info/tafheem.php?sura=33&verse=9&to=20)
+33.9-20
+
+![[#r33.2.1]]
+## r33.2.1
 
 [Q.33.9-20](https://www.islamicstudies.info/tafheem.php?sura=33&verse=9&to=20)
 33.9-20
@@ -23429,7 +25949,13 @@
 
 يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟ ۖ وَإِن يَأْتِ ٱلْأَحْزَابُ يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ ۖ وَلَوْ كَانُوا۟ فِيكُم مَّا قَـٰتَلُوٓا۟ إِلَّا قَلِيلًا
 
-## r33.3
+## r33.3.x
+
+[Q.33.21-27](https://www.islamicstudies.info/tafheem.php?sura=33&verse=21&to=27)
+33.21-27
+
+![[#r33.3.1]]
+## r33.3.1
 
 [Q.33.21-27](https://www.islamicstudies.info/tafheem.php?sura=33&verse=21&to=27)
 33.21-27
@@ -23462,7 +25988,13 @@
 
 وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَـٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا
 
-## r33.4
+## r33.4.x
+
+[Q.33.28-34](https://www.islamicstudies.info/tafheem.php?sura=33&verse=28&to=34)
+33.28-34
+
+![[#r33.4.1]]
+## r33.4.1
 
 [Q.33.28-34](https://www.islamicstudies.info/tafheem.php?sura=33&verse=28&to=34)
 33.28-34
@@ -23495,7 +26027,13 @@
 
 وَٱذْكُرْنَ مَا يُتْلَىٰ فِى بُيُوتِكُنَّ مِنْ ءَايَـٰتِ ٱللَّهِ وَٱلْحِكْمَةِ ۚ إِنَّ ٱللَّهَ كَانَ لَطِيفًا خَبِيرًا
 
-## r33.5
+## r33.5.x
+
+[Q.33.35-40](https://www.islamicstudies.info/tafheem.php?sura=33&verse=35&to=40)
+33.35-40
+
+![[#r33.5.1]]
+## r33.5.1
 
 [Q.33.35-40](https://www.islamicstudies.info/tafheem.php?sura=33&verse=35&to=40)
 33.35-40
@@ -23524,7 +26062,13 @@
 
 مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا
 
-## r33.6
+## r33.6.x
+
+[Q.33.41-52](https://www.islamicstudies.info/tafheem.php?sura=33&verse=41&to=52)
+33.41-52
+
+![[#r33.6.1]]
+## r33.6.1
 
 [Q.33.41-52](https://www.islamicstudies.info/tafheem.php?sura=33&verse=41&to=52)
 33.41-52
@@ -23577,7 +26121,13 @@
 
 لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ رَّقِيبًا
 
-## r33.7
+## r33.7.x
+
+[Q.33.53-58](https://www.islamicstudies.info/tafheem.php?sura=33&verse=53&to=58)
+33.53-58
+
+![[#r33.7.1]]
+## r33.7.1
 
 [Q.33.53-58](https://www.islamicstudies.info/tafheem.php?sura=33&verse=53&to=58)
 33.53-58
@@ -23606,7 +26156,13 @@
 
 وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ بِغَيْرِ مَا ٱكْتَسَبُوا۟ فَقَدِ ٱحْتَمَلُوا۟ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا
 
-## r33.8
+## r33.8.x
+
+[Q.33.59-68](https://www.islamicstudies.info/tafheem.php?sura=33&verse=59&to=68)
+33.59-68
+
+![[#r33.8.1]]
+## r33.8.1
 
 [Q.33.59-68](https://www.islamicstudies.info/tafheem.php?sura=33&verse=59&to=68)
 33.59-68
@@ -23651,7 +26207,13 @@
 
 رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًا كَبِيرًا
 
-## r33.9
+## r33.9.x
+
+[Q.33.69-73](https://www.islamicstudies.info/tafheem.php?sura=33&verse=69&to=73)
+33.69-73
+
+![[#r33.9.1]]
+## r33.9.1
 
 [Q.33.69-73](https://www.islamicstudies.info/tafheem.php?sura=33&verse=69&to=73)
 33.69-73
@@ -23678,7 +26240,13 @@
 
 # s60
 
-## r60.1
+## r60.1.x
+
+[Q.60.1-6](https://www.islamicstudies.info/tafheem.php?sura=60&verse=1&to=6)
+60.1-6
+
+![[#r60.1.1]]
+## r60.1.1
 
 [Q.60.1-6](https://www.islamicstudies.info/tafheem.php?sura=60&verse=1&to=6)
 60.1-6
@@ -23707,7 +26275,13 @@
 
 لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ ۚ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
 
-## r60.2
+## r60.2.x
+
+[Q.60.7-13](https://www.islamicstudies.info/tafheem.php?sura=60&verse=7&to=13)
+60.7-13
+
+![[#r60.2.1]]
+## r60.2.1
 
 [Q.60.7-13](https://www.islamicstudies.info/tafheem.php?sura=60&verse=7&to=13)
 60.7-13
@@ -23742,7 +26316,23 @@
 
 # s4
 
-## r4.1
+## r4.1.x
+
+[Q.4.1-10](https://www.islamicstudies.info/tafheem.php?sura=4&verse=1&to=10)
+4.1-10
+
+![[#r4.1.1]]
+![[#r4.10.1]]
+![[#r4.11.1]]
+![[#r4.12.1]]
+![[#r4.13.1]]
+![[#r4.14.1]]
+![[#r4.15.1]]
+![[#r4.16.1]]
+![[#r4.17.1]]
+![[#r4.18.1]]
+![[#r4.19.1]]
+## r4.1.1
 
 [Q.4.1-10](https://www.islamicstudies.info/tafheem.php?sura=4&verse=1&to=10)
 4.1-10
@@ -23787,7 +26377,18 @@
 
 إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَـٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا
 
-## r4.2
+## r4.2.x
+
+[Q.4.11-14](https://www.islamicstudies.info/tafheem.php?sura=4&verse=11&to=14)
+4.11-14
+
+![[#r4.2.1]]
+![[#r4.20.1]]
+![[#r4.21.1]]
+![[#r4.22.1]]
+![[#r4.23.1]]
+![[#r4.24.1]]
+## r4.2.1
 
 [Q.4.11-14](https://www.islamicstudies.info/tafheem.php?sura=4&verse=11&to=14)
 4.11-14
@@ -23808,7 +26409,13 @@
 
 وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَـٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ
 
-## r4.3
+## r4.3.x
+
+[Q.4.15-22](https://www.islamicstudies.info/tafheem.php?sura=4&verse=15&to=22)
+4.15-22
+
+![[#r4.3.1]]
+## r4.3.1
 
 [Q.4.15-22](https://www.islamicstudies.info/tafheem.php?sura=4&verse=15&to=22)
 4.15-22
@@ -23845,7 +26452,13 @@
 
 وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ ۚ إِنَّهُۥ كَانَ فَـٰحِشَةً وَمَقْتًا وَسَآءَ سَبِيلًا
 
-## r4.4
+## r4.4.x
+
+[Q.4.23-25](https://www.islamicstudies.info/tafheem.php?sura=4&verse=23&to=25)
+4.23-25
+
+![[#r4.4.1]]
+## r4.4.1
 
 [Q.4.23-25](https://www.islamicstudies.info/tafheem.php?sura=4&verse=23&to=25)
 4.23-25
@@ -23862,7 +26475,13 @@
 
 وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَـٰتِ ٱلْمُؤْمِنَـٰتِ فَمِن مَّا مَلَكَتْ أَيْمَـٰنُكُم مِّن فَتَيَـٰتِكُمُ ٱلْمُؤْمِنَـٰتِ ۚ وَٱللَّهُ أَعْلَمُ بِإِيمَـٰنِكُم ۚ بَعْضُكُم مِّنۢ بَعْضٍ ۚ فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ مُحْصَنَـٰتٍ غَيْرَ مُسَـٰفِحَـٰتٍ وَلَا مُتَّخِذَٰتِ أَخْدَانٍ ۚ فَإِذَآ أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَـٰحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى ٱلْمُحْصَنَـٰتِ مِنَ ٱلْعَذَابِ ۚ ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ ۚ وَأَن تَصْبِرُوا۟ خَيْرٌ لَّكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
 
-## r4.5
+## r4.5.x
+
+[Q.4.26-33](https://www.islamicstudies.info/tafheem.php?sura=4&verse=26&to=33)
+4.26-33
+
+![[#r4.5.1]]
+## r4.5.1
 
 [Q.4.26-33](https://www.islamicstudies.info/tafheem.php?sura=4&verse=26&to=33)
 4.26-33
@@ -23899,7 +26518,13 @@
 
 وَلِكُلٍّ جَعَلْنَا مَوَٰلِىَ مِمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ ۚ وَٱلَّذِينَ عَقَدَتْ أَيْمَـٰنُكُمْ فَـَٔاتُوهُمْ نَصِيبَهُمْ ۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا
 
-## r4.6
+## r4.6.x
+
+[Q.4.34-42](https://www.islamicstudies.info/tafheem.php?sura=4&verse=34&to=42)
+4.34-42
+
+![[#r4.6.1]]
+## r4.6.1
 
 [Q.4.34-42](https://www.islamicstudies.info/tafheem.php?sura=4&verse=34&to=42)
 4.34-42
@@ -23940,7 +26565,13 @@
 
 يَوْمَئِذٍ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًا
 
-## r4.7
+## r4.7.x
+
+[Q.4.43-50](https://www.islamicstudies.info/tafheem.php?sura=4&verse=43&to=50)
+4.43-50
+
+![[#r4.7.1]]
+## r4.7.1
 
 [Q.4.43-50](https://www.islamicstudies.info/tafheem.php?sura=4&verse=43&to=50)
 4.43-50
@@ -23977,7 +26608,13 @@
 
 ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَكَفَىٰ بِهِۦٓ إِثْمًا مُّبِينًا
 
-## r4.8
+## r4.8.x
+
+[Q.4.51-56](https://www.islamicstudies.info/tafheem.php?sura=4&verse=51&to=56)
+4.51-56
+
+![[#r4.8.1]]
+## r4.8.1
 
 [Q.4.51-56](https://www.islamicstudies.info/tafheem.php?sura=4&verse=51&to=56)
 4.51-56
@@ -24006,7 +26643,13 @@
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا سَوْفَ نُصْلِيهِمْ نَارًا كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَـٰهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا۟ ٱلْعَذَابَ ۗ إِنَّ ٱللَّهَ كَانَ عَزِيزًا حَكِيمًا
 
-## r4.9
+## r4.9.x
+
+[Q.4.57-70](https://www.islamicstudies.info/tafheem.php?sura=4&verse=57&to=70)
+4.57-70
+
+![[#r4.9.1]]
+## r4.9.1
 
 [Q.4.57-70](https://www.islamicstudies.info/tafheem.php?sura=4&verse=57&to=70)
 4.57-70
@@ -24067,7 +26710,13 @@
 
 ذَٰلِكَ ٱلْفَضْلُ مِنَ ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ عَلِيمًا
 
-## r4.10
+## r4.10.x
+
+[Q.4.71-76](https://www.islamicstudies.info/tafheem.php?sura=4&verse=71&to=76)
+4.71-76
+
+![[#r4.10.1]]
+## r4.10.1
 
 [Q.4.71-76](https://www.islamicstudies.info/tafheem.php?sura=4&verse=71&to=76)
 4.71-76
@@ -24096,7 +26745,13 @@
 
 ٱلَّذِينَ ءَامَنُوا۟ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ وَٱلَّذِينَ كَفَرُوا۟ يُقَـٰتِلُونَ فِى سَبِيلِ ٱلطَّـٰغُوتِ فَقَـٰتِلُوٓا۟ أَوْلِيَآءَ ٱلشَّيْطَـٰنِ ۖ إِنَّ كَيْدَ ٱلشَّيْطَـٰنِ كَانَ ضَعِيفًا
 
-## r4.11
+## r4.11.x
+
+[Q.4.77-87](https://www.islamicstudies.info/tafheem.php?sura=4&verse=77&to=87)
+4.77-87
+
+![[#r4.11.1]]
+## r4.11.1
 
 [Q.4.77-87](https://www.islamicstudies.info/tafheem.php?sura=4&verse=77&to=87)
 4.77-87
@@ -24145,7 +26800,13 @@
 
 ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًا
 
-## r4.12
+## r4.12.x
+
+[Q.4.88-91](https://www.islamicstudies.info/tafheem.php?sura=4&verse=88&to=91)
+4.88-91
+
+![[#r4.12.1]]
+## r4.12.1
 
 [Q.4.88-91](https://www.islamicstudies.info/tafheem.php?sura=4&verse=88&to=91)
 4.88-91
@@ -24166,7 +26827,13 @@
 
 سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأْمَنُوكُمْ وَيَأْمَنُوا۟ قَوْمَهُمْ كُلَّ مَا رُدُّوٓا۟ إِلَى ٱلْفِتْنَةِ أُرْكِسُوا۟ فِيهَا ۚ فَإِن لَّمْ يَعْتَزِلُوكُمْ وَيُلْقُوٓا۟ إِلَيْكُمُ ٱلسَّلَمَ وَيَكُفُّوٓا۟ أَيْدِيَهُمْ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ۚ وَأُو۟لَـٰٓئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَـٰنًا مُّبِينًا
 
-## r4.13
+## r4.13.x
+
+[Q.4.92-96](https://www.islamicstudies.info/tafheem.php?sura=4&verse=92&to=96)
+4.92-96
+
+![[#r4.13.1]]
+## r4.13.1
 
 [Q.4.92-96](https://www.islamicstudies.info/tafheem.php?sura=4&verse=92&to=96)
 4.92-96
@@ -24191,7 +26858,13 @@
 
 دَرَجَـٰتٍ مِّنْهُ وَمَغْفِرَةً وَرَحْمَةً ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
 
-## r4.14
+## r4.14.x
+
+[Q.4.97-100](https://www.islamicstudies.info/tafheem.php?sura=4&verse=97&to=100)
+4.97-100
+
+![[#r4.14.1]]
+## r4.14.1
 
 [Q.4.97-100](https://www.islamicstudies.info/tafheem.php?sura=4&verse=97&to=100)
 4.97-100
@@ -24212,7 +26885,13 @@
 
 ۞ وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً ۚ وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
 
-## r4.15
+## r4.15.x
+
+[Q.4.101-104](https://www.islamicstudies.info/tafheem.php?sura=4&verse=101&to=104)
+4.101-104
+
+![[#r4.15.1]]
+## r4.15.1
 
 [Q.4.101-104](https://www.islamicstudies.info/tafheem.php?sura=4&verse=101&to=104)
 4.101-104
@@ -24233,7 +26912,13 @@
 
 وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ ۖ إِن تَكُونُوا۟ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ ٱللَّهِ مَا لَا يَرْجُونَ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
 
-## r4.16
+## r4.16.x
+
+[Q.4.105-112](https://www.islamicstudies.info/tafheem.php?sura=4&verse=105&to=112)
+4.105-112
+
+![[#r4.16.1]]
+## r4.16.1
 
 [Q.4.105-112](https://www.islamicstudies.info/tafheem.php?sura=4&verse=105&to=112)
 4.105-112
@@ -24270,7 +26955,13 @@
 
 وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا
 
-## r4.17
+## r4.17.x
+
+[Q.4.113-115](https://www.islamicstudies.info/tafheem.php?sura=4&verse=113&to=115)
+4.113-115
+
+![[#r4.17.1]]
+## r4.17.1
 
 [Q.4.113-115](https://www.islamicstudies.info/tafheem.php?sura=4&verse=113&to=115)
 4.113-115
@@ -24287,7 +26978,13 @@
 
 وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُ ٱلْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ ٱلْمُؤْمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصْلِهِۦ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا
 
-## r4.18
+## r4.18.x
+
+[Q.4.116-126](https://www.islamicstudies.info/tafheem.php?sura=4&verse=116&to=126)
+4.116-126
+
+![[#r4.18.1]]
+## r4.18.1
 
 [Q.4.116-126](https://www.islamicstudies.info/tafheem.php?sura=4&verse=116&to=126)
 4.116-126
@@ -24336,7 +27033,13 @@
 
 وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ مُّحِيطًا
 
-## r4.19
+## r4.19.x
+
+[Q.4.127-134](https://www.islamicstudies.info/tafheem.php?sura=4&verse=127&to=134)
+4.127-134
+
+![[#r4.19.1]]
+## r4.19.1
 
 [Q.4.127-134](https://www.islamicstudies.info/tafheem.php?sura=4&verse=127&to=134)
 4.127-134
@@ -24373,7 +27076,13 @@
 
 مَّن كَانَ يُرِيدُ ثَوَابَ ٱلدُّنْيَا فَعِندَ ٱللَّهِ ثَوَابُ ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۚ وَكَانَ ٱللَّهُ سَمِيعًۢا بَصِيرًا
 
-## r4.20
+## r4.20.x
+
+[Q.4.135-141](https://www.islamicstudies.info/tafheem.php?sura=4&verse=135&to=141)
+4.135-141
+
+![[#r4.20.1]]
+## r4.20.1
 
 [Q.4.135-141](https://www.islamicstudies.info/tafheem.php?sura=4&verse=135&to=141)
 4.135-141
@@ -24406,7 +27115,13 @@
 
 ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ وَإِن كَانَ لِلْكَـٰفِرِينَ نَصِيبٌ قَالُوٓا۟ أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُم مِّنَ ٱلْمُؤْمِنِينَ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَلَن يَجْعَلَ ٱللَّهُ لِلْكَـٰفِرِينَ عَلَى ٱلْمُؤْمِنِينَ سَبِيلًا
 
-## r4.21
+## r4.21.x
+
+[Q.4.142-152](https://www.islamicstudies.info/tafheem.php?sura=4&verse=142&to=152)
+4.142-152
+
+![[#r4.21.1]]
+## r4.21.1
 
 [Q.4.142-152](https://www.islamicstudies.info/tafheem.php?sura=4&verse=142&to=152)
 4.142-152
@@ -24455,7 +27170,13 @@
 
 وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَمْ يُفَرِّقُوا۟ بَيْنَ أَحَدٍ مِّنْهُمْ أُو۟لَـٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
 
-## r4.22
+## r4.22.x
+
+[Q.4.153-162](https://www.islamicstudies.info/tafheem.php?sura=4&verse=153&to=162)
+4.153-162
+
+![[#r4.22.1]]
+## r4.22.1
 
 [Q.4.153-162](https://www.islamicstudies.info/tafheem.php?sura=4&verse=153&to=162)
 4.153-162
@@ -24500,7 +27221,13 @@
 
 لَّـٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ ۚ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ ۚ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أُو۟لَـٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا
 
-## r4.23
+## r4.23.x
+
+[Q.4.163-171](https://www.islamicstudies.info/tafheem.php?sura=4&verse=163&to=171)
+4.163-171
+
+![[#r4.23.1]]
+## r4.23.1
 
 [Q.4.163-171](https://www.islamicstudies.info/tafheem.php?sura=4&verse=163&to=171)
 4.163-171
@@ -24541,7 +27268,13 @@
 
 يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۖ وَلَا تَقُولُوا۟ ثَلَـٰثَةٌ ۚ ٱنتَهُوا۟ خَيْرًا لَّكُمْ ۚ إِنَّمَا ٱللَّهُ إِلَـٰهٌ وَٰحِدٌ ۖ سُبْحَـٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ ۘ لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
 
-## r4.24
+## r4.24.x
+
+[Q.4.172-176](https://www.islamicstudies.info/tafheem.php?sura=4&verse=172&to=176)
+4.172-176
+
+![[#r4.24.1]]
+## r4.24.1
 
 [Q.4.172-176](https://www.islamicstudies.info/tafheem.php?sura=4&verse=172&to=176)
 4.172-176
@@ -24607,7 +27340,13 @@
 
 # s57
 
-## r57.1
+## r57.1.x
+
+[Q.57.1-10](https://www.islamicstudies.info/tafheem.php?sura=57&verse=1&to=10)
+57.1-10
+
+![[#r57.1.1]]
+## r57.1.1
 
 [Q.57.1-10](https://www.islamicstudies.info/tafheem.php?sura=57&verse=1&to=10)
 57.1-10
@@ -24652,7 +27391,13 @@
 
 وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَـٰتَلَ ۚ أُو۟لَـٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَـٰتَلُوا۟ ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
-## r57.2
+## r57.2.x
+
+[Q.57.11-19](https://www.islamicstudies.info/tafheem.php?sura=57&verse=11&to=19)
+57.11-19
+
+![[#r57.2.1]]
+## r57.2.1
 
 [Q.57.11-19](https://www.islamicstudies.info/tafheem.php?sura=57&verse=11&to=19)
 57.11-19
@@ -24693,7 +27438,13 @@
 
 وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَـٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ ۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ
 
-## r57.3
+## r57.3.x
+
+[Q.57.20-25](https://www.islamicstudies.info/tafheem.php?sura=57&verse=20&to=25)
+57.20-25
+
+![[#r57.3.1]]
+## r57.3.1
 
 [Q.57.20-25](https://www.islamicstudies.info/tafheem.php?sura=57&verse=20&to=25)
 57.20-25
@@ -24722,7 +27473,13 @@
 
 لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَـٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَـٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ ۖ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَـٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
 
-## r57.4
+## r57.4.x
+
+[Q.57.26-29](https://www.islamicstudies.info/tafheem.php?sura=57&verse=26&to=29)
+57.26-29
+
+![[#r57.4.1]]
+## r57.4.1
 
 [Q.57.26-29](https://www.islamicstudies.info/tafheem.php?sura=57&verse=26&to=29)
 57.26-29
@@ -24745,7 +27502,13 @@
 
 # s47
 
-## r47.1
+## r47.1.x
+
+[Q.47.1-11](https://www.islamicstudies.info/tafheem.php?sura=47&verse=1&to=11)
+47.1-11
+
+![[#r47.1.1]]
+## r47.1.1
 
 [Q.47.1-11](https://www.islamicstudies.info/tafheem.php?sura=47&verse=1&to=11)
 47.1-11
@@ -24794,10 +27557,17 @@
 
 ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ ءَامَنُوا۟ وَأَنَّ ٱلْكَـٰفِرِينَ لَا مَوْلَىٰ لَهُمْ
 
-## r47.2
+## r47.2.x
 
 [Q.47.12-19](https://www.islamicstudies.info/tafheem.php?sura=47&verse=12&to=19)
 47.12-19
+
+![[#r47.2.1]]
+![[#r47.2.2]]
+## r47.2.1
+
+[Q.47.12-12](https://www.islamicstudies.info/tafheem.php?sura=47&verse=12&to=12)
+47.12-12
 
 ### 47:12
 
@@ -24827,7 +27597,13 @@
 
 فَٱعْلَمْ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ
 
-## r47.3
+## r47.3.x
+
+[Q.47.20-28](https://www.islamicstudies.info/tafheem.php?sura=47&verse=20&to=28)
+47.20-28
+
+![[#r47.3.1]]
+## r47.3.1
 
 [Q.47.20-28](https://www.islamicstudies.info/tafheem.php?sura=47&verse=20&to=28)
 47.20-28
@@ -24868,7 +27644,13 @@
 
 ذَٰلِكَ بِأَنَّهُمُ ٱتَّبَعُوا۟ مَآ أَسْخَطَ ٱللَّهَ وَكَرِهُوا۟ رِضْوَٰنَهُۥ فَأَحْبَطَ أَعْمَـٰلَهُمْ
 
-## r47.4
+## r47.4.x
+
+[Q.47.29-38](https://www.islamicstudies.info/tafheem.php?sura=47&verse=29&to=38)
+47.29-38
+
+![[#r47.4.1]]
+## r47.4.1
 
 [Q.47.29-38](https://www.islamicstudies.info/tafheem.php?sura=47&verse=29&to=38)
 47.29-38
@@ -24915,7 +27697,13 @@
 
 # s13
 
-## r13.1
+## r13.1.x
+
+[Q.13.1-7](https://www.islamicstudies.info/tafheem.php?sura=13&verse=1&to=7)
+13.1-7
+
+![[#r13.1.1]]
+## r13.1.1
 
 [Q.13.1-7](https://www.islamicstudies.info/tafheem.php?sura=13&verse=1&to=7)
 13.1-7
@@ -24948,7 +27736,13 @@
 
 وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦٓ ۗ إِنَّمَآ أَنتَ مُنذِرٌ ۖ وَلِكُلِّ قَوْمٍ هَادٍ
 
-## r13.2
+## r13.2.x
+
+[Q.13.8-18](https://www.islamicstudies.info/tafheem.php?sura=13&verse=8&to=18)
+13.8-18
+
+![[#r13.2.1]]
+## r13.2.1
 
 [Q.13.8-18](https://www.islamicstudies.info/tafheem.php?sura=13&verse=8&to=18)
 13.8-18
@@ -24997,7 +27791,13 @@
 
 لِلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمُ ٱلْحُسْنَىٰ ۚ وَٱلَّذِينَ لَمْ يَسْتَجِيبُوا۟ لَهُۥ لَوْ أَنَّ لَهُم مَّا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟ بِهِۦٓ ۚ أُو۟لَـٰٓئِكَ لَهُمْ سُوٓءُ ٱلْحِسَابِ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمِهَادُ
 
-## r13.3
+## r13.3.x
+
+[Q.13.19-26](https://www.islamicstudies.info/tafheem.php?sura=13&verse=19&to=26)
+13.19-26
+
+![[#r13.3.1]]
+## r13.3.1
 
 [Q.13.19-26](https://www.islamicstudies.info/tafheem.php?sura=13&verse=19&to=26)
 13.19-26
@@ -25034,7 +27834,13 @@
 
 ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ وَفَرِحُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا فِى ٱلْـَٔاخِرَةِ إِلَّا مَتَـٰعٌ
 
-## r13.4
+## r13.4.x
+
+[Q.13.27-31](https://www.islamicstudies.info/tafheem.php?sura=13&verse=27&to=31)
+13.27-31
+
+![[#r13.4.1]]
+## r13.4.1
 
 [Q.13.27-31](https://www.islamicstudies.info/tafheem.php?sura=13&verse=27&to=31)
 13.27-31
@@ -25059,7 +27865,13 @@
 
 وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ حَتَّىٰ يَأْتِىَ وَعْدُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
 
-## r13.5
+## r13.5.x
+
+[Q.13.32-37](https://www.islamicstudies.info/tafheem.php?sura=13&verse=32&to=37)
+13.32-37
+
+![[#r13.5.1]]
+## r13.5.1
 
 [Q.13.32-37](https://www.islamicstudies.info/tafheem.php?sura=13&verse=32&to=37)
 13.32-37
@@ -25088,7 +27900,13 @@
 
 وَكَذَٰلِكَ أَنزَلْنَـٰهُ حُكْمًا عَرَبِيًّا ۚ وَلَئِنِ ٱتَّبَعْتَ أَهْوَآءَهُم بَعْدَ مَا جَآءَكَ مِنَ ٱلْعِلْمِ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِىٍّ وَلَا وَاقٍ
 
-## r13.6
+## r13.6.x
+
+[Q.13.38-43](https://www.islamicstudies.info/tafheem.php?sura=13&verse=38&to=43)
+13.38-43
+
+![[#r13.6.1]]
+## r13.6.1
 
 [Q.13.38-43](https://www.islamicstudies.info/tafheem.php?sura=13&verse=38&to=43)
 13.38-43
@@ -25119,7 +27937,13 @@
 
 # s55
 
-## r55.1
+## r55.1.x
+
+[Q.55.1-25](https://www.islamicstudies.info/tafheem.php?sura=55&verse=1&to=25)
+55.1-25
+
+![[#r55.1.1]]
+## r55.1.1
 
 [Q.55.1-25](https://www.islamicstudies.info/tafheem.php?sura=55&verse=1&to=25)
 55.1-25
@@ -25224,7 +28048,13 @@
 
 فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
 
-## r55.2
+## r55.2.x
+
+[Q.55.26-45](https://www.islamicstudies.info/tafheem.php?sura=55&verse=26&to=45)
+55.26-45
+
+![[#r55.2.1]]
+## r55.2.1
 
 [Q.55.26-45](https://www.islamicstudies.info/tafheem.php?sura=55&verse=26&to=45)
 55.26-45
@@ -25309,7 +28139,13 @@
 
 فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
 
-## r55.3
+## r55.3.x
+
+[Q.55.46-78](https://www.islamicstudies.info/tafheem.php?sura=55&verse=46&to=78)
+55.46-78
+
+![[#r55.3.1]]
+## r55.3.1
 
 [Q.55.46-78](https://www.islamicstudies.info/tafheem.php?sura=55&verse=46&to=78)
 55.46-78
@@ -25448,7 +28284,13 @@
 
 # s76
 
-## r76.1
+## r76.1.x
+
+[Q.76.1-22](https://www.islamicstudies.info/tafheem.php?sura=76&verse=1&to=22)
+76.1-22
+
+![[#r76.1.1]]
+## r76.1.1
 
 [Q.76.1-22](https://www.islamicstudies.info/tafheem.php?sura=76&verse=1&to=22)
 76.1-22
@@ -25541,7 +28383,13 @@
 
 إِنَّ هَـٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا
 
-## r76.2
+## r76.2.x
+
+[Q.76.23-31](https://www.islamicstudies.info/tafheem.php?sura=76&verse=23&to=31)
+76.23-31
+
+![[#r76.2.1]]
+## r76.2.1
 
 [Q.76.23-31](https://www.islamicstudies.info/tafheem.php?sura=76&verse=23&to=31)
 76.23-31
@@ -25584,7 +28432,13 @@
 
 # s65
 
-## r65.1
+## r65.1.x
+
+[Q.65.1-7](https://www.islamicstudies.info/tafheem.php?sura=65&verse=1&to=7)
+65.1-7
+
+![[#r65.1.1]]
+## r65.1.1
 
 [Q.65.1-7](https://www.islamicstudies.info/tafheem.php?sura=65&verse=1&to=7)
 65.1-7
@@ -25617,7 +28471,13 @@
 
 لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا
 
-## r65.2
+## r65.2.x
+
+[Q.65.8-12](https://www.islamicstudies.info/tafheem.php?sura=65&verse=8&to=12)
+65.8-12
+
+![[#r65.2.1]]
+## r65.2.1
 
 [Q.65.8-12](https://www.islamicstudies.info/tafheem.php?sura=65&verse=8&to=12)
 65.8-12
@@ -25683,7 +28543,13 @@
 
 # s59
 
-## r59.1
+## r59.1.x
+
+[Q.59.1-10](https://www.islamicstudies.info/tafheem.php?sura=59&verse=1&to=10)
+59.1-10
+
+![[#r59.1.1]]
+## r59.1.1
 
 [Q.59.1-10](https://www.islamicstudies.info/tafheem.php?sura=59&verse=1&to=10)
 59.1-10
@@ -25728,7 +28594,13 @@
 
 وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَـٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌ رَّحِيمٌ
 
-## r59.2
+## r59.2.x
+
+[Q.59.11-17](https://www.islamicstudies.info/tafheem.php?sura=59&verse=11&to=17)
+59.11-17
+
+![[#r59.2.1]]
+## r59.2.1
 
 [Q.59.11-17](https://www.islamicstudies.info/tafheem.php?sura=59&verse=11&to=17)
 59.11-17
@@ -25761,7 +28633,13 @@
 
 فَكَانَ عَـٰقِبَتَهُمَآ أَنَّهُمَا فِى ٱلنَّارِ خَـٰلِدَيْنِ فِيهَا ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّـٰلِمِينَ
 
-## r59.3
+## r59.3.x
+
+[Q.59.18-24](https://www.islamicstudies.info/tafheem.php?sura=59&verse=18&to=24)
+59.18-24
+
+![[#r59.3.1]]
+## r59.3.1
 
 [Q.59.18-24](https://www.islamicstudies.info/tafheem.php?sura=59&verse=18&to=24)
 59.18-24
@@ -25796,7 +28674,13 @@
 
 # s24
 
-## r24.1
+## r24.1.x
+
+[Q.24.1-10](https://www.islamicstudies.info/tafheem.php?sura=24&verse=1&to=10)
+24.1-10
+
+![[#r24.1.1]]
+## r24.1.1
 
 [Q.24.1-10](https://www.islamicstudies.info/tafheem.php?sura=24&verse=1&to=10)
 24.1-10
@@ -25841,7 +28725,13 @@
 
 وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ وَأَنَّ ٱللَّهَ تَوَّابٌ حَكِيمٌ
 
-## r24.2
+## r24.2.x
+
+[Q.24.11-20](https://www.islamicstudies.info/tafheem.php?sura=24&verse=11&to=20)
+24.11-20
+
+![[#r24.2.1]]
+## r24.2.1
 
 [Q.24.11-20](https://www.islamicstudies.info/tafheem.php?sura=24&verse=11&to=20)
 24.11-20
@@ -25886,7 +28776,13 @@
 
 وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ وَأَنَّ ٱللَّهَ رَءُوفٌ رَّحِيمٌ
 
-## r24.3
+## r24.3.x
+
+[Q.24.21-26](https://www.islamicstudies.info/tafheem.php?sura=24&verse=21&to=26)
+24.21-26
+
+![[#r24.3.1]]
+## r24.3.1
 
 [Q.24.21-26](https://www.islamicstudies.info/tafheem.php?sura=24&verse=21&to=26)
 24.21-26
@@ -25915,7 +28811,13 @@
 
 ٱلْخَبِيثَـٰتُ لِلْخَبِيثِينَ وَٱلْخَبِيثُونَ لِلْخَبِيثَـٰتِ ۖ وَٱلطَّيِّبَـٰتُ لِلطَّيِّبِينَ وَٱلطَّيِّبُونَ لِلطَّيِّبَـٰتِ ۚ أُو۟لَـٰٓئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ ۖ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
 
-## r24.4
+## r24.4.x
+
+[Q.24.27-34](https://www.islamicstudies.info/tafheem.php?sura=24&verse=27&to=34)
+24.27-34
+
+![[#r24.4.1]]
+## r24.4.1
 
 [Q.24.27-34](https://www.islamicstudies.info/tafheem.php?sura=24&verse=27&to=34)
 24.27-34
@@ -25952,7 +28854,13 @@
 
 وَلَقَدْ أَنزَلْنَآ إِلَيْكُمْ ءَايَـٰتٍ مُّبَيِّنَـٰتٍ وَمَثَلًا مِّنَ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُمْ وَمَوْعِظَةً لِّلْمُتَّقِينَ
 
-## r24.5
+## r24.5.x
+
+[Q.24.35-40](https://www.islamicstudies.info/tafheem.php?sura=24&verse=35&to=40)
+24.35-40
+
+![[#r24.5.1]]
+## r24.5.1
 
 [Q.24.35-40](https://www.islamicstudies.info/tafheem.php?sura=24&verse=35&to=40)
 24.35-40
@@ -25981,7 +28889,13 @@
 
 أَوْ كَظُلُمَـٰتٍ فِى بَحْرٍ لُّجِّىٍّ يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ سَحَابٌ ۚ ظُلُمَـٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًا فَمَا لَهُۥ مِن نُّورٍ
 
-## r24.6
+## r24.6.x
+
+[Q.24.41-50](https://www.islamicstudies.info/tafheem.php?sura=24&verse=41&to=50)
+24.41-50
+
+![[#r24.6.1]]
+## r24.6.1
 
 [Q.24.41-50](https://www.islamicstudies.info/tafheem.php?sura=24&verse=41&to=50)
 24.41-50
@@ -26026,7 +28940,13 @@
 
 أَفِى قُلُوبِهِم مَّرَضٌ أَمِ ٱرْتَابُوٓا۟ أَمْ يَخَافُونَ أَن يَحِيفَ ٱللَّهُ عَلَيْهِمْ وَرَسُولُهُۥ ۚ بَلْ أُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ
 
-## r24.7
+## r24.7.x
+
+[Q.24.51-57](https://www.islamicstudies.info/tafheem.php?sura=24&verse=51&to=57)
+24.51-57
+
+![[#r24.7.1]]
+## r24.7.1
 
 [Q.24.51-57](https://www.islamicstudies.info/tafheem.php?sura=24&verse=51&to=57)
 24.51-57
@@ -26059,7 +28979,13 @@
 
 لَا تَحْسَبَنَّ ٱلَّذِينَ كَفَرُوا۟ مُعْجِزِينَ فِى ٱلْأَرْضِ ۚ وَمَأْوَىٰهُمُ ٱلنَّارُ ۖ وَلَبِئْسَ ٱلْمَصِيرُ
 
-## r24.8
+## r24.8.x
+
+[Q.24.58-61](https://www.islamicstudies.info/tafheem.php?sura=24&verse=58&to=61)
+24.58-61
+
+![[#r24.8.1]]
+## r24.8.1
 
 [Q.24.58-61](https://www.islamicstudies.info/tafheem.php?sura=24&verse=58&to=61)
 24.58-61
@@ -26080,7 +29006,13 @@
 
 لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَـٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَـٰمِكُمْ أَوْ بُيُوتِ عَمَّـٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَـٰلَـٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَـٰرَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَعْقِلُونَ
 
-## r24.9
+## r24.9.x
+
+[Q.24.62-64](https://www.islamicstudies.info/tafheem.php?sura=24&verse=62&to=64)
+24.62-64
+
+![[#r24.9.1]]
+## r24.9.1
 
 [Q.24.62-64](https://www.islamicstudies.info/tafheem.php?sura=24&verse=62&to=64)
 24.62-64
@@ -26099,7 +29031,14 @@
 
 # s22
 
-## r22.1
+## r22.1.x
+
+[Q.22.1-10](https://www.islamicstudies.info/tafheem.php?sura=22&verse=1&to=10)
+22.1-10
+
+![[#r22.1.1]]
+![[#r22.10.1]]
+## r22.1.1
 
 [Q.22.1-10](https://www.islamicstudies.info/tafheem.php?sura=22&verse=1&to=10)
 22.1-10
@@ -26144,7 +29083,13 @@
 
 ذَٰلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍ لِّلْعَبِيدِ
 
-## r22.2
+## r22.2.x
+
+[Q.22.11-22](https://www.islamicstudies.info/tafheem.php?sura=22&verse=11&to=22)
+22.11-22
+
+![[#r22.2.1]]
+## r22.2.1
 
 [Q.22.11-22](https://www.islamicstudies.info/tafheem.php?sura=22&verse=11&to=22)
 22.11-22
@@ -26197,7 +29142,13 @@
 
 كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَا مِنْ غَمٍّ أُعِيدُوا۟ فِيهَا وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
 
-## r22.3
+## r22.3.x
+
+[Q.22.23-25](https://www.islamicstudies.info/tafheem.php?sura=22&verse=23&to=25)
+22.23-25
+
+![[#r22.3.1]]
+## r22.3.1
 
 [Q.22.23-25](https://www.islamicstudies.info/tafheem.php?sura=22&verse=23&to=25)
 22.23-25
@@ -26214,7 +29165,13 @@
 
 إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَـٰهُ لِلنَّاسِ سَوَآءً ٱلْعَـٰكِفُ فِيهِ وَٱلْبَادِ ۚ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍ
 
-## r22.4
+## r22.4.x
+
+[Q.22.26-33](https://www.islamicstudies.info/tafheem.php?sura=22&verse=26&to=33)
+22.26-33
+
+![[#r22.4.1]]
+## r22.4.1
 
 [Q.22.26-33](https://www.islamicstudies.info/tafheem.php?sura=22&verse=26&to=33)
 22.26-33
@@ -26251,7 +29208,13 @@
 
 لَكُمْ فِيهَا مَنَـٰفِعُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ مَحِلُّهَآ إِلَى ٱلْبَيْتِ ٱلْعَتِيقِ
 
-## r22.5
+## r22.5.x
+
+[Q.22.34-37](https://www.islamicstudies.info/tafheem.php?sura=22&verse=34&to=37)
+22.34-37
+
+![[#r22.5.1]]
+## r22.5.1
 
 [Q.22.34-37](https://www.islamicstudies.info/tafheem.php?sura=22&verse=34&to=37)
 22.34-37
@@ -26272,7 +29235,13 @@
 
 لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَـٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ ۚ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ ۗ وَبَشِّرِ ٱلْمُحْسِنِينَ
 
-## r22.6
+## r22.6.x
+
+[Q.22.38-48](https://www.islamicstudies.info/tafheem.php?sura=22&verse=38&to=48)
+22.38-48
+
+![[#r22.6.1]]
+## r22.6.1
 
 [Q.22.38-48](https://www.islamicstudies.info/tafheem.php?sura=22&verse=38&to=48)
 22.38-48
@@ -26321,10 +29290,18 @@
 
 وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِىَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَىَّ ٱلْمَصِيرُ
 
-## r22.7
+## r22.7.x
 
 [Q.22.49-57](https://www.islamicstudies.info/tafheem.php?sura=22&verse=49&to=57)
 22.49-57
+
+![[#r22.7.1]]
+![[#r22.7.2]]
+![[#r22.7.3]]
+## r22.7.1
+
+[Q.22.49-51](https://www.islamicstudies.info/tafheem.php?sura=22&verse=49&to=51)
+22.49-51
 
 ### 22:49
 
@@ -26338,7 +29315,7 @@
 
 وَٱلَّذِينَ سَعَوْا۟ فِىٓ ءَايَـٰتِنَا مُعَـٰجِزِينَ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ
 
-## r22.7
+## r22.7.3
 
 [Q.22.56-57](https://www.islamicstudies.info/tafheem.php?sura=22&verse=56&to=57)
 22.56-57
@@ -26351,7 +29328,13 @@
 
 وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا فَأُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ
 
-## r22.8
+## r22.8.x
+
+[Q.22.58-64](https://www.islamicstudies.info/tafheem.php?sura=22&verse=58&to=64)
+22.58-64
+
+![[#r22.8.1]]
+## r22.8.1
 
 [Q.22.58-64](https://www.islamicstudies.info/tafheem.php?sura=22&verse=58&to=64)
 22.58-64
@@ -26384,7 +29367,13 @@
 
 لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَإِنَّ ٱللَّهَ لَهُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
 
-## r22.9
+## r22.9.x
+
+[Q.22.65-72](https://www.islamicstudies.info/tafheem.php?sura=22&verse=65&to=72)
+22.65-72
+
+![[#r22.9.1]]
+## r22.9.1
 
 [Q.22.65-72](https://www.islamicstudies.info/tafheem.php?sura=22&verse=65&to=72)
 22.65-72
@@ -26421,7 +29410,13 @@
 
 وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ تَعْرِفُ فِى وُجُوهِ ٱلَّذِينَ كَفَرُوا۟ ٱلْمُنكَرَ ۖ يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَـٰتِنَا ۗ قُلْ أَفَأُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكُمُ ۗ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ ۖ وَبِئْسَ ٱلْمَصِيرُ
 
-## r22.10
+## r22.10.x
+
+[Q.22.73-78](https://www.islamicstudies.info/tafheem.php?sura=22&verse=73&to=78)
+22.73-78
+
+![[#r22.10.1]]
+## r22.10.1
 
 [Q.22.73-78](https://www.islamicstudies.info/tafheem.php?sura=22&verse=73&to=78)
 22.73-78
@@ -26503,7 +29498,13 @@
 
 # s58
 
-## r58.1
+## r58.1.x
+
+[Q.58.1-6](https://www.islamicstudies.info/tafheem.php?sura=58&verse=1&to=6)
+58.1-6
+
+![[#r58.1.1]]
+## r58.1.1
 
 [Q.58.1-6](https://www.islamicstudies.info/tafheem.php?sura=58&verse=1&to=6)
 58.1-6
@@ -26532,7 +29533,13 @@
 
 يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
 
-## r58.2
+## r58.2.x
+
+[Q.58.7-13](https://www.islamicstudies.info/tafheem.php?sura=58&verse=7&to=13)
+58.7-13
+
+![[#r58.2.1]]
+## r58.2.1
 
 [Q.58.7-13](https://www.islamicstudies.info/tafheem.php?sura=58&verse=7&to=13)
 58.7-13
@@ -26565,7 +29572,13 @@
 
 ءَأَشْفَقْتُمْ أَن تُقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَـٰتٍ ۚ فَإِذْ لَمْ تَفْعَلُوا۟ وَتَابَ ٱللَّهُ عَلَيْكُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
 
-## r58.3
+## r58.3.x
+
+[Q.58.14-22](https://www.islamicstudies.info/tafheem.php?sura=58&verse=14&to=22)
+58.14-22
+
+![[#r58.3.1]]
+## r58.3.1
 
 [Q.58.14-22](https://www.islamicstudies.info/tafheem.php?sura=58&verse=14&to=22)
 58.14-22
@@ -26608,7 +29621,13 @@
 
 # s49
 
-## r49.1
+## r49.1.x
+
+[Q.49.1-10](https://www.islamicstudies.info/tafheem.php?sura=49&verse=1&to=10)
+49.1-10
+
+![[#r49.1.1]]
+## r49.1.1
 
 [Q.49.1-10](https://www.islamicstudies.info/tafheem.php?sura=49&verse=1&to=10)
 49.1-10
@@ -26653,7 +29672,13 @@
 
 إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ
 
-## r49.2
+## r49.2.x
+
+[Q.49.11-18](https://www.islamicstudies.info/tafheem.php?sura=49&verse=11&to=18)
+49.11-18
+
+![[#r49.2.1]]
+## r49.2.1
 
 [Q.49.11-18](https://www.islamicstudies.info/tafheem.php?sura=49&verse=11&to=18)
 49.11-18
@@ -26692,7 +29717,13 @@
 
 # s66
 
-## r66.1
+## r66.1.x
+
+[Q.66.1-7](https://www.islamicstudies.info/tafheem.php?sura=66&verse=1&to=7)
+66.1-7
+
+![[#r66.1.1]]
+## r66.1.1
 
 [Q.66.1-7](https://www.islamicstudies.info/tafheem.php?sura=66&verse=1&to=7)
 66.1-7
@@ -26725,7 +29756,13 @@
 
 يَـٰٓأَيُّهَا ٱلَّذِينَ كَفَرُوا۟ لَا تَعْتَذِرُوا۟ ٱلْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
 
-## r66.2
+## r66.2.x
+
+[Q.66.8-12](https://www.islamicstudies.info/tafheem.php?sura=66&verse=8&to=12)
+66.8-12
+
+![[#r66.2.1]]
+## r66.2.1
 
 [Q.66.8-12](https://www.islamicstudies.info/tafheem.php?sura=66&verse=8&to=12)
 66.8-12
@@ -26752,7 +29789,13 @@
 
 # s64
 
-## r64.1
+## r64.1.x
+
+[Q.64.1-10](https://www.islamicstudies.info/tafheem.php?sura=64&verse=1&to=10)
+64.1-10
+
+![[#r64.1.1]]
+## r64.1.1
 
 [Q.64.1-10](https://www.islamicstudies.info/tafheem.php?sura=64&verse=1&to=10)
 64.1-10
@@ -26797,7 +29840,13 @@
 
 وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ خَـٰلِدِينَ فِيهَا ۖ وَبِئْسَ ٱلْمَصِيرُ
 
-## r64.2
+## r64.2.x
+
+[Q.64.11-18](https://www.islamicstudies.info/tafheem.php?sura=64&verse=11&to=18)
+64.11-18
+
+![[#r64.2.1]]
+## r64.2.1
 
 [Q.64.11-18](https://www.islamicstudies.info/tafheem.php?sura=64&verse=11&to=18)
 64.11-18
@@ -26836,7 +29885,13 @@
 
 # s61
 
-## r61.1
+## r61.1.x
+
+[Q.61.1-9](https://www.islamicstudies.info/tafheem.php?sura=61&verse=1&to=9)
+61.1-9
+
+![[#r61.1.1]]
+## r61.1.1
 
 [Q.61.1-9](https://www.islamicstudies.info/tafheem.php?sura=61&verse=1&to=9)
 61.1-9
@@ -26877,7 +29932,13 @@
 
 هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ
 
-## r61.2
+## r61.2.x
+
+[Q.61.10-14](https://www.islamicstudies.info/tafheem.php?sura=61&verse=10&to=14)
+61.10-14
+
+![[#r61.2.1]]
+## r61.2.1
 
 [Q.61.10-14](https://www.islamicstudies.info/tafheem.php?sura=61&verse=10&to=14)
 61.10-14
@@ -26904,7 +29965,13 @@
 
 # s62
 
-## r62.1
+## r62.1.x
+
+[Q.62.1-8](https://www.islamicstudies.info/tafheem.php?sura=62&verse=1&to=8)
+62.1-8
+
+![[#r62.1.1]]
+## r62.1.1
 
 [Q.62.1-8](https://www.islamicstudies.info/tafheem.php?sura=62&verse=1&to=8)
 62.1-8
@@ -26941,7 +30008,13 @@
 
 قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَـٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 
-## r62.2
+## r62.2.x
+
+[Q.62.9-11](https://www.islamicstudies.info/tafheem.php?sura=62&verse=9&to=11)
+62.9-11
+
+![[#r62.2.1]]
+## r62.2.1
 
 [Q.62.9-11](https://www.islamicstudies.info/tafheem.php?sura=62&verse=9&to=11)
 62.9-11
@@ -26960,7 +30033,13 @@
 
 # s48
 
-## r48.1
+## r48.1.x
+
+[Q.48.1-10](https://www.islamicstudies.info/tafheem.php?sura=48&verse=1&to=10)
+48.1-10
+
+![[#r48.1.1]]
+## r48.1.1
 
 [Q.48.1-10](https://www.islamicstudies.info/tafheem.php?sura=48&verse=1&to=10)
 48.1-10
@@ -27005,7 +30084,13 @@
 
 إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَـٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
 
-## r48.2
+## r48.2.x
+
+[Q.48.11-17](https://www.islamicstudies.info/tafheem.php?sura=48&verse=11&to=17)
+48.11-17
+
+![[#r48.2.1]]
+## r48.2.1
 
 [Q.48.11-17](https://www.islamicstudies.info/tafheem.php?sura=48&verse=11&to=17)
 48.11-17
@@ -27038,7 +30123,13 @@
 
 لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا
 
-## r48.3
+## r48.3.x
+
+[Q.48.18-26](https://www.islamicstudies.info/tafheem.php?sura=48&verse=18&to=26)
+48.18-26
+
+![[#r48.3.1]]
+## r48.3.1
 
 [Q.48.18-26](https://www.islamicstudies.info/tafheem.php?sura=48&verse=18&to=26)
 48.18-26
@@ -27079,7 +30170,13 @@
 
 إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَـٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا
 
-## r48.4
+## r48.4.x
+
+[Q.48.27-29](https://www.islamicstudies.info/tafheem.php?sura=48&verse=27&to=29)
+48.27-29
+
+![[#r48.4.1]]
+## r48.4.1
 
 [Q.48.27-29](https://www.islamicstudies.info/tafheem.php?sura=48&verse=27&to=29)
 48.27-29
@@ -27098,10 +30195,24 @@
 
 # s5
 
-## r5.1
+## r5.1.x
 
 [Q.5.1-5](https://www.islamicstudies.info/tafheem.php?sura=5&verse=1&to=5)
 5.1-5
+
+![[#r5.1.1]]
+![[#r5.1.2]]
+![[#r5.10.1]]
+![[#r5.11.1]]
+![[#r5.12.1]]
+![[#r5.13.1]]
+![[#r5.14.1]]
+![[#r5.15.1]]
+![[#r5.16.1]]
+## r5.1.1
+
+[Q.5.1-2](https://www.islamicstudies.info/tafheem.php?sura=5&verse=1&to=2)
+5.1-2
 
 ### 5:1
 
@@ -27119,7 +30230,13 @@
 
 ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَـٰتُ ۖ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ ۖ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلْمُؤْمِنَـٰتِ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَـٰفِحِينَ وَلَا مُتَّخِذِىٓ أَخْدَانٍ ۗ وَمَن يَكْفُرْ بِٱلْإِيمَـٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ
 
-## r5.2
+## r5.2.x
+
+[Q.5.6-11](https://www.islamicstudies.info/tafheem.php?sura=5&verse=6&to=11)
+5.6-11
+
+![[#r5.2.1]]
+## r5.2.1
 
 [Q.5.6-11](https://www.islamicstudies.info/tafheem.php?sura=5&verse=6&to=11)
 5.6-11
@@ -27148,7 +30265,13 @@
 
 يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
 
-## r5.3
+## r5.3.x
+
+[Q.5.12-19](https://www.islamicstudies.info/tafheem.php?sura=5&verse=12&to=19)
+5.12-19
+
+![[#r5.3.1]]
+## r5.3.1
 
 [Q.5.12-19](https://www.islamicstudies.info/tafheem.php?sura=5&verse=12&to=19)
 5.12-19
@@ -27185,7 +30308,13 @@
 
 يَـٰٓأَهْلَ ٱلْكِتَـٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍ وَلَا نَذِيرٍ ۖ فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
-## r5.4
+## r5.4.x
+
+[Q.5.20-26](https://www.islamicstudies.info/tafheem.php?sura=5&verse=20&to=26)
+5.20-26
+
+![[#r5.4.1]]
+## r5.4.1
 
 [Q.5.20-26](https://www.islamicstudies.info/tafheem.php?sura=5&verse=20&to=26)
 5.20-26
@@ -27218,7 +30347,13 @@
 
 قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَـٰسِقِينَ
 
-## r5.5
+## r5.5.x
+
+[Q.5.27-34](https://www.islamicstudies.info/tafheem.php?sura=5&verse=27&to=34)
+5.27-34
+
+![[#r5.5.1]]
+## r5.5.1
 
 [Q.5.27-34](https://www.islamicstudies.info/tafheem.php?sura=5&verse=27&to=34)
 5.27-34
@@ -27255,7 +30390,13 @@
 
 إِلَّا ٱلَّذِينَ تَابُوا۟ مِن قَبْلِ أَن تَقْدِرُوا۟ عَلَيْهِمْ ۖ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 
-## r5.6
+## r5.6.x
+
+[Q.5.35-43](https://www.islamicstudies.info/tafheem.php?sura=5&verse=35&to=43)
+5.35-43
+
+![[#r5.6.1]]
+## r5.6.1
 
 [Q.5.35-43](https://www.islamicstudies.info/tafheem.php?sura=5&verse=35&to=43)
 5.35-43
@@ -27296,7 +30437,13 @@
 
 وَكَيْفَ يُحَكِّمُونَكَ وَعِندَهُمُ ٱلتَّوْرَىٰةُ فِيهَا حُكْمُ ٱللَّهِ ثُمَّ يَتَوَلَّوْنَ مِنۢ بَعْدِ ذَٰلِكَ ۚ وَمَآ أُو۟لَـٰٓئِكَ بِٱلْمُؤْمِنِينَ
 
-## r5.7
+## r5.7.x
+
+[Q.5.44-50](https://www.islamicstudies.info/tafheem.php?sura=5&verse=44&to=50)
+5.44-50
+
+![[#r5.7.1]]
+## r5.7.1
 
 [Q.5.44-50](https://www.islamicstudies.info/tafheem.php?sura=5&verse=44&to=50)
 5.44-50
@@ -27329,7 +30476,13 @@
 
 أَفَحُكْمَ ٱلْجَـٰهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ حُكْمًا لِّقَوْمٍ يُوقِنُونَ
 
-## r5.8
+## r5.8.x
+
+[Q.5.51-56](https://www.islamicstudies.info/tafheem.php?sura=5&verse=51&to=56)
+5.51-56
+
+![[#r5.8.1]]
+## r5.8.1
 
 [Q.5.51-56](https://www.islamicstudies.info/tafheem.php?sura=5&verse=51&to=56)
 5.51-56
@@ -27358,7 +30511,13 @@
 
 وَمَن يَتَوَلَّ ٱللَّهَ وَرَسُولَهُۥ وَٱلَّذِينَ ءَامَنُوا۟ فَإِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْغَـٰلِبُونَ
 
-## r5.9
+## r5.9.x
+
+[Q.5.57-66](https://www.islamicstudies.info/tafheem.php?sura=5&verse=57&to=66)
+5.57-66
+
+![[#r5.9.1]]
+## r5.9.1
 
 [Q.5.57-66](https://www.islamicstudies.info/tafheem.php?sura=5&verse=57&to=66)
 5.57-66
@@ -27403,7 +30562,13 @@
 
 وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم ۚ مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ ۖ وَكَثِيرٌ مِّنْهُمْ سَآءَ مَا يَعْمَلُونَ
 
-## r5.10
+## r5.10.x
+
+[Q.5.67-77](https://www.islamicstudies.info/tafheem.php?sura=5&verse=67&to=77)
+5.67-77
+
+![[#r5.10.1]]
+## r5.10.1
 
 [Q.5.67-77](https://www.islamicstudies.info/tafheem.php?sura=5&verse=67&to=77)
 5.67-77
@@ -27452,7 +30617,13 @@
 
 قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ غَيْرَ ٱلْحَقِّ وَلَا تَتَّبِعُوٓا۟ أَهْوَآءَ قَوْمٍ قَدْ ضَلُّوا۟ مِن قَبْلُ وَأَضَلُّوا۟ كَثِيرًا وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ
 
-## r5.11
+## r5.11.x
+
+[Q.5.78-86](https://www.islamicstudies.info/tafheem.php?sura=5&verse=78&to=86)
+5.78-86
+
+![[#r5.11.1]]
+## r5.11.1
 
 [Q.5.78-86](https://www.islamicstudies.info/tafheem.php?sura=5&verse=78&to=86)
 5.78-86
@@ -27493,7 +30664,13 @@
 
 وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ
 
-## r5.12
+## r5.12.x
+
+[Q.5.87-98](https://www.islamicstudies.info/tafheem.php?sura=5&verse=87&to=98)
+5.87-98
+
+![[#r5.12.1]]
+## r5.12.1
 
 [Q.5.87-98](https://www.islamicstudies.info/tafheem.php?sura=5&verse=87&to=98)
 5.87-98
@@ -27546,7 +30723,13 @@
 
 ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ وَأَنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 
-## r5.13
+## r5.13.x
+
+[Q.5.99-100](https://www.islamicstudies.info/tafheem.php?sura=5&verse=99&to=100)
+5.99-100
+
+![[#r5.13.1]]
+## r5.13.1
 
 [Q.5.99-100](https://www.islamicstudies.info/tafheem.php?sura=5&verse=99&to=100)
 5.99-100
@@ -27559,7 +30742,13 @@
 
 قُل لَّا يَسْتَوِى ٱلْخَبِيثُ وَٱلطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ ٱلْخَبِيثِ ۚ فَٱتَّقُوا۟ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ لَعَلَّكُمْ تُفْلِحُونَ
 
-## r5.14
+## r5.14.x
+
+[Q.5.101-108](https://www.islamicstudies.info/tafheem.php?sura=5&verse=101&to=108)
+5.101-108
+
+![[#r5.14.1]]
+## r5.14.1
 
 [Q.5.101-108](https://www.islamicstudies.info/tafheem.php?sura=5&verse=101&to=108)
 5.101-108
@@ -27596,7 +30785,13 @@
 
 ذَٰلِكَ أَدْنَىٰٓ أَن يَأْتُوا۟ بِٱلشَّهَـٰدَةِ عَلَىٰ وَجْهِهَآ أَوْ يَخَافُوٓا۟ أَن تُرَدَّ أَيْمَـٰنٌۢ بَعْدَ أَيْمَـٰنِهِمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱسْمَعُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ
 
-## r5.15
+## r5.15.x
+
+[Q.5.109-115](https://www.islamicstudies.info/tafheem.php?sura=5&verse=109&to=115)
+5.109-115
+
+![[#r5.15.1]]
+## r5.15.1
 
 [Q.5.109-115](https://www.islamicstudies.info/tafheem.php?sura=5&verse=109&to=115)
 5.109-115
@@ -27629,7 +30824,13 @@
 
 قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًا لَّآ أُعَذِّبُهُۥٓ أَحَدًا مِّنَ ٱلْعَـٰلَمِينَ
 
-## r5.16
+## r5.16.x
+
+[Q.5.116-120](https://www.islamicstudies.info/tafheem.php?sura=5&verse=116&to=120)
+5.116-120
+
+![[#r5.16.1]]
+## r5.16.1
 
 [Q.5.116-120](https://www.islamicstudies.info/tafheem.php?sura=5&verse=116&to=120)
 5.116-120
@@ -27656,7 +30857,21 @@
 
 # s9
 
-## r9.1
+## r9.1.x
+
+[Q.9.1-10](https://www.islamicstudies.info/tafheem.php?sura=9&verse=1&to=10)
+9.1-10
+
+![[#r9.1.1]]
+![[#r9.10.1]]
+![[#r9.11.1]]
+![[#r9.12.1]]
+![[#r9.13.1]]
+![[#r9.14.1]]
+![[#r9.15.1]]
+![[#r9.16.1]]
+![[#r9.16.2]]
+## r9.1.1
 
 [Q.9.1-10](https://www.islamicstudies.info/tafheem.php?sura=9&verse=1&to=10)
 9.1-10
@@ -27701,7 +30916,13 @@
 
 لَا يَرْقُبُونَ فِى مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُعْتَدُونَ
 
-## r9.2
+## r9.2.x
+
+[Q.9.11-16](https://www.islamicstudies.info/tafheem.php?sura=9&verse=11&to=16)
+9.11-16
+
+![[#r9.2.1]]
+## r9.2.1
 
 [Q.9.11-16](https://www.islamicstudies.info/tafheem.php?sura=9&verse=11&to=16)
 9.11-16
@@ -27730,7 +30951,13 @@
 
 أَمْ حَسِبْتُمْ أَن تُتْرَكُوا۟ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَـٰهَدُوا۟ مِنكُمْ وَلَمْ يَتَّخِذُوا۟ مِن دُونِ ٱللَّهِ وَلَا رَسُولِهِۦ وَلَا ٱلْمُؤْمِنِينَ وَلِيجَةً ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
 
-## r9.3
+## r9.3.x
+
+[Q.9.17-24](https://www.islamicstudies.info/tafheem.php?sura=9&verse=17&to=24)
+9.17-24
+
+![[#r9.3.1]]
+## r9.3.1
 
 [Q.9.17-24](https://www.islamicstudies.info/tafheem.php?sura=9&verse=17&to=24)
 9.17-24
@@ -27767,7 +30994,13 @@
 
 قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَـٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَـٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ
 
-## r9.4
+## r9.4.x
+
+[Q.9.25-29](https://www.islamicstudies.info/tafheem.php?sura=9&verse=25&to=29)
+9.25-29
+
+![[#r9.4.1]]
+## r9.4.1
 
 [Q.9.25-29](https://www.islamicstudies.info/tafheem.php?sura=9&verse=25&to=29)
 9.25-29
@@ -27792,7 +31025,13 @@
 
 قَـٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْـَٔاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَـٰغِرُونَ
 
-## r9.5
+## r9.5.x
+
+[Q.9.30-37](https://www.islamicstudies.info/tafheem.php?sura=9&verse=30&to=37)
+9.30-37
+
+![[#r9.5.1]]
+## r9.5.1
 
 [Q.9.30-37](https://www.islamicstudies.info/tafheem.php?sura=9&verse=30&to=37)
 9.30-37
@@ -27829,7 +31068,13 @@
 
 إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌ فِى ٱلْكُفْرِ ۖ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُوا۟ يُحِلُّونَهُۥ عَامًا وَيُحَرِّمُونَهُۥ عَامًا لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ ۚ زُيِّنَ لَهُمْ سُوٓءُ أَعْمَـٰلِهِمْ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ
 
-## r9.6
+## r9.6.x
+
+[Q.9.38-42](https://www.islamicstudies.info/tafheem.php?sura=9&verse=38&to=42)
+9.38-42
+
+![[#r9.6.1]]
+## r9.6.1
 
 [Q.9.38-42](https://www.islamicstudies.info/tafheem.php?sura=9&verse=38&to=42)
 9.38-42
@@ -27854,7 +31099,13 @@
 
 لَوْ كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لَّٱتَّبَعُوكَ وَلَـٰكِنۢ بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ ۚ وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنفُسَهُمْ وَٱللَّهُ يَعْلَمُ إِنَّهُمْ لَكَـٰذِبُونَ
 
-## r9.7
+## r9.7.x
+
+[Q.9.43-59](https://www.islamicstudies.info/tafheem.php?sura=9&verse=43&to=59)
+9.43-59
+
+![[#r9.7.1]]
+## r9.7.1
 
 [Q.9.43-59](https://www.islamicstudies.info/tafheem.php?sura=9&verse=43&to=59)
 9.43-59
@@ -27927,7 +31178,13 @@
 
 وَلَوْ أَنَّهُمْ رَضُوا۟ مَآ ءَاتَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ وَقَالُوا۟ حَسْبُنَا ٱللَّهُ سَيُؤْتِينَا ٱللَّهُ مِن فَضْلِهِۦ وَرَسُولُهُۥٓ إِنَّآ إِلَى ٱللَّهِ رَٰغِبُونَ
 
-## r9.8
+## r9.8.x
+
+[Q.9.60-66](https://www.islamicstudies.info/tafheem.php?sura=9&verse=60&to=66)
+9.60-66
+
+![[#r9.8.1]]
+## r9.8.1
 
 [Q.9.60-66](https://www.islamicstudies.info/tafheem.php?sura=9&verse=60&to=66)
 9.60-66
@@ -27960,7 +31217,13 @@
 
 لَا تَعْتَذِرُوا۟ قَدْ كَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ ۚ إِن نَّعْفُ عَن طَآئِفَةٍ مِّنكُمْ نُعَذِّبْ طَآئِفَةًۢ بِأَنَّهُمْ كَانُوا۟ مُجْرِمِينَ
 
-## r9.9
+## r9.9.x
+
+[Q.9.67-72](https://www.islamicstudies.info/tafheem.php?sura=9&verse=67&to=72)
+9.67-72
+
+![[#r9.9.1]]
+## r9.9.1
 
 [Q.9.67-72](https://www.islamicstudies.info/tafheem.php?sura=9&verse=67&to=72)
 9.67-72
@@ -27989,7 +31252,13 @@
 
 وَعَدَ ٱللَّهُ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَمَسَـٰكِنَ طَيِّبَةً فِى جَنَّـٰتِ عَدْنٍ ۚ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
-## r9.10
+## r9.10.x
+
+[Q.9.73-80](https://www.islamicstudies.info/tafheem.php?sura=9&verse=73&to=80)
+9.73-80
+
+![[#r9.10.1]]
+## r9.10.1
 
 [Q.9.73-80](https://www.islamicstudies.info/tafheem.php?sura=9&verse=73&to=80)
 9.73-80
@@ -28026,7 +31295,13 @@
 
 ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ
 
-## r9.11
+## r9.11.x
+
+[Q.9.81-89](https://www.islamicstudies.info/tafheem.php?sura=9&verse=81&to=89)
+9.81-89
+
+![[#r9.11.1]]
+## r9.11.1
 
 [Q.9.81-89](https://www.islamicstudies.info/tafheem.php?sura=9&verse=81&to=89)
 9.81-89
@@ -28067,7 +31342,13 @@
 
 أَعَدَّ ٱللَّهُ لَهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
-## r9.12
+## r9.12.x
+
+[Q.9.90-99](https://www.islamicstudies.info/tafheem.php?sura=9&verse=90&to=99)
+9.90-99
+
+![[#r9.12.1]]
+## r9.12.1
 
 [Q.9.90-99](https://www.islamicstudies.info/tafheem.php?sura=9&verse=90&to=99)
 9.90-99
@@ -28112,7 +31393,13 @@
 
 وَمِنَ ٱلْأَعْرَابِ مَن يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَيَتَّخِذُ مَا يُنفِقُ قُرُبَـٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِ ۚ أَلَآ إِنَّهَا قُرْبَةٌ لَّهُمْ ۚ سَيُدْخِلُهُمُ ٱللَّهُ فِى رَحْمَتِهِۦٓ ۗ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 
-## r9.13
+## r9.13.x
+
+[Q.9.100-110](https://www.islamicstudies.info/tafheem.php?sura=9&verse=100&to=110)
+9.100-110
+
+![[#r9.13.1]]
+## r9.13.1
 
 [Q.9.100-110](https://www.islamicstudies.info/tafheem.php?sura=9&verse=100&to=110)
 9.100-110
@@ -28161,7 +31448,13 @@
 
 لَا يَزَالُ بُنْيَـٰنُهُمُ ٱلَّذِى بَنَوْا۟ رِيبَةً فِى قُلُوبِهِمْ إِلَّآ أَن تَقَطَّعَ قُلُوبُهُمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
 
-## r9.14
+## r9.14.x
+
+[Q.9.111-118](https://www.islamicstudies.info/tafheem.php?sura=9&verse=111&to=118)
+9.111-118
+
+![[#r9.14.1]]
+## r9.14.1
 
 [Q.9.111-118](https://www.islamicstudies.info/tafheem.php?sura=9&verse=111&to=118)
 9.111-118
@@ -28198,7 +31491,13 @@
 
 وَعَلَى ٱلثَّلَـٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ ۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 
-## r9.15
+## r9.15.x
+
+[Q.9.119-122](https://www.islamicstudies.info/tafheem.php?sura=9&verse=119&to=122)
+9.119-122
+
+![[#r9.15.1]]
+## r9.15.1
 
 [Q.9.119-122](https://www.islamicstudies.info/tafheem.php?sura=9&verse=119&to=122)
 9.119-122
@@ -28219,10 +31518,17 @@
 
 ۞ وَمَا كَانَ ٱلْمُؤْمِنُونَ لِيَنفِرُوا۟ كَآفَّةً ۚ فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ طَآئِفَةٌ لِّيَتَفَقَّهُوا۟ فِى ٱلدِّينِ وَلِيُنذِرُوا۟ قَوْمَهُمْ إِذَا رَجَعُوٓا۟ إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ
 
-## r9.16
+## r9.16.x
 
 [Q.9.123-129](https://www.islamicstudies.info/tafheem.php?sura=9&verse=123&to=129)
 9.123-129
+
+![[#r9.16.1]]
+![[#r9.16.2]]
+## r9.16.1
+
+[Q.9.123-127](https://www.islamicstudies.info/tafheem.php?sura=9&verse=123&to=127)
+9.123-127
 
 ### 9:123
 
@@ -28244,7 +31550,7 @@
 
 وَإِذَا مَآ أُنزِلَتْ سُورَةٌ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَىٰكُم مِّنْ أَحَدٍ ثُمَّ ٱنصَرَفُوا۟ ۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
 
-## r5.1
+## r5.1.2
 
 [Q.5.3-5](https://www.islamicstudies.info/tafheem.php?sura=5&verse=3&to=5)
 5.3-5
@@ -28253,7 +31559,7 @@
 
 حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ ۙ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 
-## r2.38
+## r2.38.2
 
 [Q.2.281-281](https://www.islamicstudies.info/tafheem.php?sura=2&verse=281&to=281)
 2.281-281

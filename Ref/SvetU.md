@@ -1,11 +1,24 @@
 https://sanskritdocuments.org/doc_upanishhat/shveta.html
 
+https://sacred-texts.com/hin/sbe15/index.htm
+# c1
 # c2
+https://www.esamskriti.com/e/Spirituality/Upanishads-Commentary/Svetasvatara-Upanishad-~-Chap-2-Invocation-to-Savitr-(The-Sun)-and-Practice-of-Yoga-3.aspx
+### 2.1
+युञ्जानः प्रथमं मनस् तत्वाय सविता धियः अग्नेर् ज्योतिर् निचाय्य पृथिव्या अध्य् आभरत् // 2.1 //
+
+May the sun, at the commencement of yoga, join our minds and other organs to the Supreme Self so that we may attain the Knowledge of Reality? May He, also, support the body, the highest material entity, through the powers of the deities who control the senses.
+### 2.3
+युक्त्वाय मनसा देवान् सुवर् यतो धिया दिवं बृहज् ज्योतिः करिष्यतः सविता प्रसुवाति तान् // 2.3 //
+
+May the Sun bestow favor upon the senses and the mind by joining them with the Self, so that the senses may be directed toward the Blissful Brahman and may reveal, by means of Knowledge, the mighty and radiant Brahman.
 ### 2.9
 प्राणान् प्रपीड्येह संयुक्तचेष्टः
 क्षीणे प्राणे नासिकयोच्छ्वसीत ।
 दुष्टाश्वयुक्तमिव वाहमेनं
 विद्वान् मनो धारयेताप्रमत्तः ॥ ९॥
+
+The yogi of well regulated endeavors should control the pranas; when they are quieted he should breathe out through the nostrils. Then let him undistractedly restrain his mind, as a charioteer restrains his vicious horses.
 # c3
 
 https://www.esamskriti.com/e/Spirituality/Upanishads-Commentary/Svetasvatara-Upanishad-~-Chap-3-The-Highest-Reality-2.aspx
@@ -14,47 +27,77 @@ https://www.esamskriti.com/e/Spirituality/Upanishads-Commentary/Svetasvatara-Upa
 सर्वाँल्लोकानीशत ईशनीभिः ।
 य एवैक उद्भवे सम्भवे च
 य एतद् विदुरमृतास्ते भवन्ति ॥ १॥
+
+The one who spreads the net, who rules alone by His powers, who rules all the worlds by His powers, who is one and the same at the time of creation and dissolution of the worlds - they who know Him become immortal.
 ### 3.3
 विश्वतश्चक्षुरुत विश्वतोमुखो
 विश्वतोबाहुरुत विश्वतस्पात् ।
 सं बाहुभ्यां धमति सम्पतत्रै-
 र्द्यावाभूमी जनयन् देव एकः ॥ ३॥
+
+His eyes are everywhere, His faces everywhere, His arms everywhere, everywhere His feet. He it is who endows men with arms, birds with feet and wings and men likewise with feet. Having produced heaven and earth, He remains as their non-dual manifester. 
 ### 3.4
 या ते रुद्र शिवा तनूरघोराऽपापकाशिनी ।
 तया नस्तनुवा शन्तमया गिरिशन्ताभिचाकशीहि ॥ ५॥
+
+He, the omniscient Rudra, the creator of the gods and the bestower of their powers, the support of the universe, He who, in the beginning, gave birth to Hiranyagarbha-may He endow us with clear intellect! 
 ### 3.5
 यो देवानां प्रभवश्चोद्भवश्च
 विश्वाधिपो रुद्रो महर्षिः ।
 हिरण्यगर्भं जनयामास पूर्वं
 स नो बुद्ध्या शुभया संयुनक्तु ॥ ४॥
+
+O Rudra, Your body which is auspicious, unterryfying, showing no evil - with that most benign body, O Dweller in the mountains, look upon us (manifest yourself) .
 ### 3.6
 याभिषुं गिरिशन्त हस्ते बिभर्ष्यस्तवे ।
 शिवां गिरित्र तां कुरु मा हिंसीः पुरुषं जगत् ॥ ६॥
+
+O Dweller in the mountains and Bestower of happiness, make benign that arrow which you hold in your hand ready to shoot, O Protector of the mountain! Do not injure man or other than human!
 ### 3.13
 अङ्गुष्ठमात्रः पुरुषोऽन्तरात्मा
 सदा जनानां हृदये सन्निविष्टः ।
 हृदा मनीषा मनसाभिक्लृप्तो
 य एतद् विदुरमृतास्ते भवन्ति ॥ १३॥
+
+The Purusha, no bigger than a thumb, is the inner Self, ever seated in the heart of man. He is known by the mind, which controls knowledge and is perceived in the heart. They who know Him become immortal.
 ### 3.19
 नैनमूर्ध्वं न तिर्यञ्चं
 न मध्ये न परिजग्रभत् ।
 न तस्य प्रतिमा अस्ति   
 यस्य नाम महद् यशः ॥ १९॥
+
+Grasping without hands, moving without feet, It sees without eyes, It hears without ears. It knows what is to be known, but no one knows It. They call It the First, the Great, the Full. 
 # c4
+https://www.esamskriti.com/e/Spirituality/Upanishads-Commentary/Svetasvatara-Upanishad-~-Chap-4-The-One-God-of-the-Manifold-World-1.aspx
+### 4.9
+छन्दांसि यज्ञाः क्रतवो व्रतानि भूतं भव्यं यच् च वेदा वदन्ति 
+अस्मान् मायी सृजते विश्वम् एतत् तस्मिंश् चान्यो मायया संनिरुद्धः // 4.9 // 
+
+The sacred verses (chandas), the offerings (yajna), the sacrifices (kratu), the penances (vrata), the past, the future and all that the Vedas declare, have been produced from the imperishable Brahman. Brahman projects the universe through the power of Its maya. Again, in that universe Brahman as the jiva is entangled through maya. 
+### 4.10
+मायां तु प्रकृतिं विद्यान् मायिनं तु महेश्वरं 
+तस्यावयवभूतैस् तु व्याप्तं सर्वं इदं जगत् // 4.10 //
+
+Know, then, that prakriti or nature is maya (illusion) and that Great Lord (Mahesvara) is the mayin (the illusion-maker). The whole universe is filled with objects which are parts of His being. 
 ### 4.12
 यो देवानां प्रभवश्चोद्भवश्च
 विश्वाधिपो रुद्रो महर्षिः ।
 हिरण्यगर्भं पश्यत जायमानं
 स नो बुद्ध्या शुभया संयुनक्तु ॥ १२॥
+
+He, the source of the gods and the bestower of their powers, the Support of the universe, Rudra the omniscient, who at the beginning gave birth to Hiranyagarbha-may He endow us with clear intellect! 
 ### 4.20
 न सन्दृशे तिष्ठति रूपमस्य
 न चक्षुषा पश्यति कश्चनैनम् ।
 हृदा हृदिस्थं मनसा य एन-
 मेवं विदुरमृतास्ते भवन्ति ॥ २०॥
+
+His form is not an object of vision; no one beholds Him with the eyes. They who, through pure intellect and the Knowledge of Unity based upon reflection, realize Him as abiding in the heart become immortal. 
 ### 4.21
 अजात इत्येवं कश्चिद्भीरुः प्रपद्यते ।
 रुद्र यत्ते दक्षिणं मुखं तेन मां पाहि नित्यम् ॥ २१॥
 
+It is because you are birthless, that some rare souls, frightened by birth and death, take refuge in you. O Rudra, may your benign face protect me for ever!
 # c6
 https://www.esamskriti.com/e/Spirituality/Upanishads-Commentary/Svetasvatara-Upanishad-~-Chap-6-The-One-God-and-the-Cosmic-Process-1.aspx
 ### 6.1

@@ -4,12 +4,39 @@ https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/
 https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm
 
 http://www.onlineved.com/yajur-ved/?mantra=27&adhyay=4
+# p3
+### 9
+अग्निज्योतिज्योतिरग्निः स्वाहा सूर्यो ज्योतिज्योतिः सूर्यः स्वाहा। अग्निर्वर्थो ज्योतिर्वर्चः स्वाहा सूर्यो वर्यो ज्योतिर्वर्चः स्वाहा। ज्योतिः सूर्यः सूर्यो ज्योतिः स्वाहा ॥ ॥
+
+Just as God gives the light of truthful speech to all human beings, so does physical fire give light that illumines all substances. Just as God inculcates knowledge in the souls of all, that man should speak, as he feels heart, so does the Sun bring to light all physical objects. Just as God reveals for humanity all the four Vedas, the storehouse of knowledge, so does fire in the shape of lightning exist in the space, and become the source of rain knowledge. Just as God, through the Vedas displays all sciences, fire, and lightning, so does the Sun develop our physical and spiritual forces. Sun illumines all objects. God is self-Resplendent. This is the manifestation of His G
+### 10
+सजूर्देवेन सवित्रा सजू रात्र्येन्द्रवत्या। जुषाणोऽअग्निर्वेतु स्वाहा। सजूर्देवेन सवित्रा सजूरुषसेन्द्रवत्या। जुषाणः सूर्यो वेतु स्वाहा ॥ ॥
+
+Bhavarth: This enjoyable fire, in accompaniment with the recital of Vedic texts, mixed with God's creation and dark night, with flashes of lightning pervades all objects. This sun, mixed with God's creation and brilliant dawn, receives the oblations put into the fire, and carries them to places far and wide.
 # p4
+### 1
+एदमगन्म देवयजनं पृथिव्या यत्र देवासोऽअजुषन्त विश्वे। ऋक्सामाभ्याः सन्तरन्तो यजुर्भी रायस्पोषेण समिषा मदेम। इमाऽआपः शमु मे सन्तु देवीरोषधे त्रायस्व स्वधिते मैन हिंसीः ॥॥
+
+Bhavarth. May we, on this earth, where reside happily all the learned persons, be able to revere the sages May we acting on the teachings of the Rig. Sam and Yajur Vedas, end all our miseries. May we rejoice in food and growth of riches. These pure, disease-killing waters be gracious to me. May the herbs protect me Thou armed king, harm not the worshipper.
+### 2
+आपोऽअस्मान् मातरः शुन्धयन्तु घृतेन नो घृतप्वः पुनन्तु। विश्वं हि रिप्रं प्रवहन्ति देवीरुदिदाभ्यः शुचिरा पूतऽएमि। दीक्षातपसोस्तनूरसि तां त्वा शिवाः शग्मां परिदधे भद्रं वर्णं पुष्यन् ॥॥
+
+May waters, like mother, purify our bodies. May the waters purified by clarified butter, purify us through rain Pure waters remove all our physical imperfections. May I advance in life, being bright and pure through waters. Through celibacy and abstemiousness may I possess a body, healthy, comfortable, excellent, beautiful and strong.
+### 3
+महीनां पयोऽसि वर्चोदाऽअसि वर्चो में देहि। वृत्रस्यासि कनीनकश्चक्षुर्दाऽअसि चक्षुर्मे देहि ॥॥
+
+Bhavarth: 0 Sun, thou bringest rain on different parts of the earth. Giver of splendour art thou: bestow on me the gift of splendour. The disperser of cloud art thou with thy brilliance. The giver of eye art thou, Give we the gift of vision
+### 5
+??
 ### 27
 मि॒त्रो न एहि॒ सुमि॑त्रध॒ इन्द्र॑स्योरुमा वि॑श॒ दक्षि॑णमु॒शन्नु॒शन्त॑॰ स्यो॒नः स्यो॒नम् । स्वान॒ भ्राजा॑ङ्घारे॒ बम्भा॑रे॒ हस्त॒ सुह॑स्तु कृशा॑नवे॒ते वः॑ सोम॒क्रय॑णास्तान्र॑क्षध्वं॒ मा वो॑ दभन् ।। २७ ।।
 
 O king, famous for eloquence, brilliance, enmity to fraud, antagonism to the thoughtless, pleasing manners, dexterity, defeating the designs of the ill-minded, friendship, and the art of befriending others, with longing for delight, come into us. May thou, with a beautiful and healthy body, and endowed with all cherished objects, enjoy enviable happiness. These intelligent and faithful subjects and servants, who all round protect you, should be protected by you to ward off your enemy from doing injury unto you.
+# p5
+### 41
+उरु विष्णो विक्रमस्वोरु क्षयाय नस्कृधि। घृतं घृतयोने पिब प्रप्र यज्ञपतिं तिर स्वाहा॥॥
 
+O learned person, mayest thou be conversant with all branches of knowledge, for the vast development of learning. Give us happiness. Drink thou the water, the precursor of which is lightning. Just as I make the worshipper overcome all obstacles, so shouldst thou be totally free from all ills, by the regular performance of Havan.
 # p7
 ### 3
 स्वाङ्कृतोऽसि 
@@ -97,6 +124,15 @@ O wealthy and adorable King, with the force of wisdom, enjoy the gladdening rule
 ### 31 
 यद् धरिणो यवम् अत्ति न पुष्टं बहु मन्यते 
 शूद्रो यद् अर्यायै जारो न पोषम् अनु मन्यते 
+# p26
+### 2
+यथे॒मां वाचं॑ कल्या॒णीमा॒वदा॑नि॒ जने॑भ्यः ।
+ब्र॒ह्म॒रा॒ज॒न्या॒भ्याᳪ शू॒द्राय॒ चार्या॑य च॒ स्वाय॒ चार॑णाय च ।
+प्रि॒यो दे॒वानां॒ दक्षि॑णायै दा॒तुरि॒ह भू॑यासम॒यं मे॒ काम॒: समृ॑ध्यता॒मुप॑ मा॒दो न॑मतु ।। २ ।।
+
+This verse occurs in a section where the creation of the world is being described symbolically through the roles of the **varnas (castes)** and their contributions to the cosmic order.
+The **Brahmanas** are described as the **mouth (mukha)** of the cosmic being (Prajāpati) because they are the ones who chant the Vedic mantras, communicate with the gods, and preserve the sacred knowledge.
+The Devas are described as assuming the form of the Brahmanas (and other varnas) to ensure the proper functioning of the universe, indicating the close connection between divine power and human roles in Vedic rituals.
 # p31
 https://www.stephen-knapp.com/purusha_sukta.htm
 ## 1-16
@@ -203,7 +239,14 @@ O Purusha! The goddesses Hri (modesty) and Sri (Lakshmi, wealth) are Your consor
 यस्मान् न जात ऽ इत्य् एष ॥
 # p34
 ### 5
+यस्मिन्नृचः साम यजूःषि यस्मिन् प्रतिष्ठिता रथनाभाविवाराः। यस्मिँश्चित्तं सर्वमोतं प्रजानां तन्मे मनः शिवस‌ङ्कल्पमस्तु ॥॥
 
+Bhavarth: Wherein the Richas, Samas, Yajur-verses and the Atharva veda, like spokes within a cart's nave, are includ and all the knowledge of human beings is inwoven, may that, my mind, be actuated with the noble resolve of propagating the Vedas.
+# p37
+### 3
+देवी द्यावापृथिवी मखस्य वामद्य शिरो राध्यासं देवयजने पृथिव्याः। मखाय त्वा मखस्य त्वा शीर्ष्णे ॥॥
+
+O Heaven and Earth divine, may I duly prepare for you this day the head of Makha on the place of earth where the Gods Yagya.
 # p40
 ### 7
 यस्मिन्त्सर्वाणि भूतान्यात्मैवाभूद्विजानतः। 

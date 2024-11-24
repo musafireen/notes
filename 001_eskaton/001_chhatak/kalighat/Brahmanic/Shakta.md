@@ -193,6 +193,15 @@ __ total 10 śaktis (7 of devi māhātmya + 3)
 
 1580 at ramaramā mārkaṇḍeya purāṇa aṣṭadhātu durga puja paddhati śāstra by‌ rameśa śāstri o ? und kamsa nārāyana o ramaramā und akbar o fatehpur sikri agra
 as opposed to aśvamedha because kaliyuga
+
+# bṛhattantrasāra
+[Krshnanda's father from Sylhet](https://subhadiproychoudhury.wordpress.com/2019/02/24/%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%83-%E0%A7%A7%E0%A7%A9/)
+1620 kṛṣṇānanda āgāmavāhīśa
+Popularized kāli pūjā utsava
+1740 [Vaidyas from rarh to srihatta during bargi raid](https://pdfcoffee.com/journal-of-bengali-studies-vol4-no2-pdf-free.html)
+# ?
+1750 und kṛṣṇacandra o navadvīpa
+__ śākta rāsa from śākta rāja dharma and caitanya vaiṣṇava
 # ?
 : bhāskararāya 18th
 \__ śrīvidyā

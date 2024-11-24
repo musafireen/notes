@@ -52,7 +52,7 @@ authoritative statement is (āpta) true (śruti) revelation.
 ### 6
 सामान्यतस्तु दृष्टादतीन्द्रियाणां प्रसिद्धिरनुमानात् । 
 
-“But, (prasiddhi) knowledge of what is beyond the range of the (dṛṣṭa) senses
+“But, (prasiddhi) knowledge of what is beyond the (dṛṣta) range of the (indriya) senses
 is from inference based on (sāmānya) generalised correlation;
 
 तस्मादपि चासिद्धं परोक्षमाप्तागमात् सिद्धम् ॥ ६ ॥
@@ -69,7 +69,7 @@ and knowledge not (siddha) attainable even by that is attained through the (paro
 ### 8
 सौक्ष्म्यात्तदनुपलब्धिर्नाभावात् 
 
-“(anupalabdhi) Non-perception of Nature is because of (saukṣmya) subtlety, not because of (abhāva) non-existence,
+“(anupalabdhi) Non-perception of (tad) Nature is because of (saukṣmya) subtlety, not because of (abhāva) non-existence,
 
 कार्यतस्तदुपलब्धिः । 
 
@@ -90,7 +90,7 @@ Because of the (asat) non-existent being (akaraṇa) uncaused, of the (grahaṇa
 
 सर्वसम्भवाभावात् । 
 
-of the (abhāva) absence of (sarva) universal (saṃbhāva) production, 
+of the absence of (sarva) universal (saṃbhava) production, 
 
 शक्तस्य शक्यकरणात् 
 
@@ -98,7 +98,7 @@ of the (karaṇa) effecting of the (śakya) possible [only] by a (śakta) compet
 
 कारणभावाच्च 
 
-and of the nature of a cause, 
+and of the (bhāva) nature of a (kāraṇa) cause, 
 
 सत्कार्यम् ॥९ ॥
 

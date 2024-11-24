@@ -2,12 +2,14 @@
 https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya
 
 http://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/av/upanisad/mundaka/munda.htm
+# k1
 ## 1.1
 #### 8
 तपसा चीयते ब्रह्म ततोऽन्नमभिजायते ।  
 अन्नात्प्राणो मनः सत्यं लोकाः कर्मसु चामृतम् ॥ ८ ॥
 
 By tapas Brahman increases in size and from it food is produced; from food the _prana,_ the mind, the Bhutas the worlds, karma and with it, its fruits.
+# k2
 ## 2.1
 https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145102.html
 
@@ -16,6 +18,7 @@ https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc
 वायुः प्रणो हृदयं विश्वमस्य पद्भ्यां पृथिवी ह्येष सर्वभूतान्तरात्मा ॥ ४ ॥
 
 This is he, the internal atman of all created things whose head is agni, whose eyes are the sun, and the moon, whose ears are the four directions, whose speeches are the emanated Vedas, whose breath is vayu, whose heart is all the universe and from whose feet the earth proceeded.
+# k3
 ## 3.1
 #### 1
 द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते ।
@@ -43,5 +46,11 @@ This is, indeed. Prana, i.e., Isvara, shining variously with all living beings. 
 अन्तःशरीरे ज्योतिर्मयो हि शुभ्रो यं पश्यन्ति यतयः क्षीणदोषाः ॥ ५ ॥
 
 This Atman within the body, resplendent and pure, can be reached by truth and tapas, by sound knowledge and by abstinence from sexual pleasures constantly practised; he is within the body, resplendent and pure; him, assiduous Sanyasins see, their faults removed.
+## 3.2
+#### 8
+यथा नद्यः स्यन्दमानाः समुद्रेऽस्तं गच्छन्ति नामरूपे विहाय ।
+तथा विद्वान्नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् ॥ ८ ॥
+
+Just as rivers flowing become lost in an ocean, giving up both their name and form, just so, the knower, freed from name and form, attains the bright Purusha which is beyond the avyakta.
 
 

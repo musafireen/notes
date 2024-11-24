@@ -89,6 +89,10 @@ Cymbal hearing enthusiasm
 ## sacrifice
 
 ## periphernalia
+### kalaśa
+https://shriniketanmaharaj.com/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC/
+
+https://www.facebook.com/story.php?story_fbid=1694513317237694&id=969610156394684
 
 ### stones
 
@@ -129,6 +133,15 @@ Cymbal hearing enthusiasm
 #### shankha
 ### temple
 ### tilaka
+
+# tantric
+## mudra
+https://youtu.be/beR7Ry5NWis?si=_XNkzMHrhPgOV-gE
+# pauranika
+## mahāsnāna
+https://m.youtube.com/watch?v=hRFST0925PQ
+
+http://acharyasganguly.blogspot.com/2020/08/blog-post_31.html?m=1
 
 # holiness
 ## aacamana

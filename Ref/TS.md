@@ -59,8 +59,41 @@ Ka is Prajapati--verily by Prajapati he yokes it; he yokes indeed among the yoke
 युन॒क्त्वेका॑दश च ॥
 
 ## 2.3
-#### 1
-गमयन्ति॒ यदि॒ नाव॒गच्छे॒दाश्व॑त्थान्म॒यूखा᳚न्थ्स॒प्त म॑ध्यमे॒षाया॒मुप॑
+### 2.3.1
+##### 1
+१ आ॒दि॒त्येभ्यो॒ भुव॑द्वद्भ्यश्च॒रुं निर्व॑पे॒द्भूति॑काम आदि॒त्या वा ए॒तं
+   भूत्यै॒ प्रति॑ नुदन्ते॒ योऽलं॒ भूत्यै॒ सन्भूतिं॒ न प्रा॒प्नोत्या॑दि॒त्याने॒व
+   भुव॑द्वतः॒ स्वेन॑ भाग॒धेये॒नोप॑ धावति॒ त ए॒वैनं॒ भूतिं॑ गमयन्ति॒
+   भव॑त्ये॒वाऽदि॒त्येभ्यो॑ धा॒रय॑द्वद्भ्यश्च॒रुं निर्व॑पे॒दप॑रुद्धो
+   वापरु॒ध्यमा॑नो वाऽदि॒त्या वा अ॑परो॒द्धार॑ आदि॒त्या अ॑वगमयि॒तार॑ आदि॒त्याने॒व
+   धा॒रय॑द्वतः॒
+
+He who desires prosperity should offer to the Adityas, giving prosperity; it is the Adityas who repel from prosperity him who being fit for prosperity does not obtain prosperity; verily he has recourse to the Adityas, giving prosperity, with their own share; verily they make him attain prosperity; he becomes prosperous. He who has been expelled or is being expelled should offer an oblation to the Adityas, the sustainers; the Adityas are the expellers, the Adityas are the procurers; verily he has recourse to the Adityas, the sustainers [1] 
+##### 2
+२ स्वेन॑ भाग॒धेये॒नोप॑ धावति॒ त ए॒वैनं॑ वि॒शि दा᳚ध्रत्यनपरु॒ध्यो
+   भ॑व॒त्यदि॒तेऽनु॑ मन्य॒स्वेत्य॑परु॒ध्यमा॑नोऽस्य प॒दमा द॑दीते॒यं वा
+   अदि॑तिरि॒यमे॒वास्मै॑ रा॒ज्यमनु॑ मन्यते स॒त्याशीरित्या॑ह स॒त्यामे॒वाशिषं॑
+   कुरुत इ॒ह मन॒ इत्या॑ह प्र॒जा ए॒वास्मै॒ सम॑नसः करो॒त्युप॒ प्रेत॑ मरुतः
+
+with their own share; verily they support him in the people; he is unexpellable. 'O Aditi, do thou confirm', (with these words) be who is being expelled should take the foot (dust) of him (who is expelling him); Aditi is this (earth); verily she confirms the kingdom for him; 'Be the blessing fulfilled', he says; verily he makes the blessing come true; 'Mind here', he says; verily he makes the people of one mind with him; 'Come hither, O ye Maruts [2] 
+##### 3
+३ सुदानव ए॒ना वि॒श्पति॑ना॒भ्य॑मुꣳ राजा॑न॒मित्या॑ह मारु॒ती वै विड्ज्ये॒ष्ठो
+   वि॒श्पति॑र्वि॒शैवैनꣳ॑ रा॒ष्ट्रेण॒ सम॑र्धयति॒ यः प॒रस्ता᳚द्ग्राम्यवा॒दी
+   स्यात्तस्य॑ गृ॒हाद्व्री॒हीना ह॑रेच्छु॒क्लाग्श्च॑ कृ॒ष्णाग्श्च॒ वि चि॑नुया॒ द्ये
+   शु॒क्लाः स्युस्तमा॑दि॒त्यं च॒रुं निर्व॑पेदादि॒त्या वै दे॒वत॑या॒ विड्विश॑मे॒वाव॑
+   गच्छ॒
+
+rich in dew, with this lord of the people against yon king', he says; the people are connected with the Maruts, the lord of the people is the highest; verily he unites him with the people and the realm. From the house of a village judge further on he should take rice; he should separate out the white and the black; of the white he should offer an oblation to the Adityas; the people have the Adityas for their deity; verily he attains the people [3]; 
+##### 4
+४ त्यव॑गतास्य॒ विडन॑वगतꣳ रा॒ष्ट्रमित्या॑हु॒र्ये कृ॒ष्णाः स्युस्तं
+   वा॑रु॒णं च॒रुं निर्व॑पेद्वारु॒णं वै रा॒ष्ट्रमु॒भे ए॒व विशं॑ च
+   रा॒ष्ट्रं चाव॑ गच्छति॒ यदि॒ नाव॒गच्छे॑दि॒मम॒हमा॑दि॒त्येभ्यो॑ भा॒गं
+   निर्व॑पा॒म्यामुष्मा॑द॒मुष्यै॑ वि॒शोऽव॑गन्तो॒रिति॒ निर्व॑पेदादि॒त्या ए॒वैनं॑
+   भाग॒धेयं॑ प्रे॒प्सन्तो॒ विश॒मव॑
+
+'The people he has attained, the realm he has not attained', they say; of the dark ones he should offer an oblation to Varuna; the realm is connected with Varuna; verily he attains both the people and the realm. Should he not attain (them), he should offer (saying), 'To the Adityas this portion I offer to attain the people N. N. for N. N.'; verily the Adityas desiring the portion make him attain the people [4]. 
+#### 5
+५ गमयन्ति॒ यदि॒ नाव॒गच्छे॒दाश्व॑त्थान्म॒यूखा᳚न्थ्स॒प्त म॑ध्यमे॒षाया॒मुप॑
 हन्यादि॒दम॒हमा॑दि॒त्यान्ब॑ध्ना॒म्यामुष्मा॑द॒मुष्यै॑ वि॒शोऽव॑गन्तो॒रित्या॑दि॒त्या
 ए॒वैनं॑ ब॒द्धवी॑रा॒ विश॒मव॑ गमयन्ति॒ यदि॒ नाव॒गच्छे॑दे॒तमे॒वादि॒त्यं
 च॒रुं निर्व॑पेदि॒ध्मेऽपि॑ म॒यूखा॒न्थ्सं न॑ह्येदनपरु॒ध्यमे॒वाव॑
@@ -69,8 +102,39 @@ Ka is Prajapati--verily by Prajapati he yokes it; he yokes indeed among the yoke
 ए॒व विश॒मव॑ गच्छति ॥ २। ३। १॥ धा॒रय॑द्वतो मरुतो गच्छति॒
 विश॒मवै॒तद॒ष्टाद॑श च ॥ २। ३। १॥
 
-He who desires prosperity should offer to the Adityas, giving prosperity; it is the Adityas who repel from prosperity him who being fit for prosperity does not obtain prosperity; verily he has recourse to the Adityas, giving prosperity, with their own share; verily they make him attain prosperity; he becomes prosperous. He who has been expelled or is being expelled should offer an oblation to the Adityas, the sustainers; the Adityas are the expellers, the Adityas are the procurers; verily he has recourse to the Adityas, the sustainers [1] with their own share; verily they support him in the people; he is unexpellable. 'O Aditi, do thou confirm', (with these words) be who is being expelled should take the foot (dust) of him (who is expelling him); Aditi is this (earth); verily she confirms the kingdom for him; 'Be the blessing fulfilled', he says; verily he makes the blessing come true; 'Mind here', he says; verily he makes the people of one mind with him; 'Come hither, O ye Maruts [2] rich in dew, with this lord of the people against yon king', he says; the people are connected with the Maruts, the lord of the people is the highest; verily he unites him with the people and the realm. From the house of a village judge further on he should take rice; he should separate out the white and the black; of the white he should offer an oblation to the Adityas; the people have the Adityas for their deity; verily he attains the people [3]; 'The people he has attained, the realm he has not attained', they say; of the dark ones he should offer an oblation to Varuna; the realm is connected with Varuna; verily he attains both the people and the realm. Should he not attain (them), he should offer (saying), 'To the Adityas this portion I offer to attain the people N. N. for N. N.'; verily the Adityas desiring the portion make him attain the people [4]. Should he not attain (them), he should knock in seven pegs of Açvattha wood in the middle shaft, (saying), 'Here do I bind the Adityas to attain the people N. N. from N. N.'; verily the Adityas, their heroes bound, make him attain the people. Should he not attain (them), he should offer this oblation to the Adityas and attach pegs to the kindling-wood; verily he attains what cannot be taken away. (The pegs) are of Açvattha wood; the Açvattha is the might of the Maruts; verily with might he attains the people; seven are they, the Maruts are in seven troops; verily in troops he attains the people.
+Should he not attain (them), he should knock in seven pegs of Açvattha wood in the middle shaft, (saying), 'Here do I bind the Adityas to attain the people N. N. from N. N.'; verily the Adityas, their heroes bound, make him attain the people. Should he not attain (them), he should offer this oblation to the Adityas and attach pegs to the kindling-wood; verily he attains what cannot be taken away. (The pegs) are of Açvattha wood; the Açvattha is the might of the Maruts; verily with might he attains the people; seven are they, the Maruts are in seven troops; verily in troops he attains the people.
+### 2.3.6
+##### 1
+२७ प्र॒जाप॑तिर्दे॒वेभ्यो॒ऽन्नाद्यं॒
+ व्यादि॑श॒थ्सो᳚ऽब्रवी॒द्यदि॒मान्लो॒कान॒भ्य॑ति॒रिच्या॑तै॒ तन्ममा॑स॒दिति॒
+ तदि॒मान्लो॒कान॒भ्यत्य॑रिच्य॒तेंद्र॒ꣳ॒ राजा॑न॒मिंद्र॑मधिरा॒जमिंद्रग्ग्॑
+ स्व॒राजा॑नं॒ ततो॒ वै स इ॒मान्लो॒काग् स्त्रे॒धाऽदु॑ह॒त् तत् त्रि॒धातो᳚स्त्रिधातु॒त्वं
+ यं का॒मये॑तान्ना॒दः स्या॒दिति॒ तस्मा॑ ए॒तं त्रि॒धातुं॒ निर्व॑पे॒दिंद्रा॑य॒
+ राज्ञे॑ पुरो॒डाश॒
 
+Prajapati assigned food to the gods; he said, 'Whatever shall be left over these worlds, be that mine.' That was left over these worlds, Indra, the king, Indra, the overlord, Indra, the sovereign; thence he milked these worlds threefold; that is the cause of its having three elements. For him of whom he desires, 'May he be an eater of food', let him offer this (offering) of three elements, to Indra, the king, a cake [1] 
+##### 2
+२८ मेका॑दशकपाल॒मिंद्रा॑याधिरा॒जायेंद्रा॑य स्व॒राज्ञे॒ऽयं वा इंद्रो॒
+ राजा॒यमिंद्रो॑ऽधिरा॒जो॑ऽसाविंद्रः॑ स्व॒राडि॒माने॒व लो॒कान्थ्स्वेन॑
+ भाग॒धेये॒नोप॑ धावति॒ त ए॒वास्मा॒ अन्नं॒ प्र य॑च्छन्त्यन्ना॒द ए॒व भ॑वति॒
+ यथा॑ व॒थ्सेन॒ प्रत्तां॒ गां दु॒ह ए॒वमे॒वेमान्लो॒कान् प्र॒त्तान् काम॑म॒न्नाद्यं॑ दुह
+ उत्ता॒नेषु॑ क॒पाले॒ष्वधि॑ श्रय॒त्यया॑तयामत्वाय॒ त्रयः॑ पुरो॒डाशा॑ भवन्ति॒
+ त्रय॑ इ॒मे लो॒का ए॒षा लो॒काना॒माप्त्या॒ उत्त॑रौत्तरो॒ ज्याया᳚न्भवत्ये॒वमि॑व॒
+ ही मे लो॒काः समृ॑द्ध्यै॒ सर्वे॑षामभिग॒मय॒न्नव॑ द्य॒त्यच्छं॑बट्कारं
+ व्य॒त्यास॒मन्वा॒हानि॑र्दाहाय ॥ २। ३। ६॥ पु॒रो॒डाशं॒ त्रय॒ष्षड्विꣳ॑शतिश्च
+ 
+on eleven potsherds, to Indra, the overlord, to Indra, the sovereign. Indra, the king, is this (world of earth), Indra, the overlord, is this (atmosphere), Indra, the sovereign, is yonder (world of heaven); verily he has recourse to these worlds with their own share; verily they bestow food on him; he becomes an eater of food. Even as one milks a cow ready to give milk by reason of its calf, so he milks these worlds, made ready, for desire, for food; he places (the cake) on potsherds face upwards, for variety. There are three cakes, these worlds are three; (verily they serve) to obtain these worlds; each one above the other is larger, for so as it were are these worlds; (verily they serve) for prosperity; he cuts off from all (the cakes) as he sets them up without making a failure; be recites (the verses) alternating, to prevent burning.
+## 2.5
+### 2.5.11
+##### 5
+६५ प्र॒जाप॑तिर्दू॒तीरे॒व त्वं मन॑सोऽसि॒ यद्धि मन॑सा॒ ध्याय॑ति॒ तद्वा॒चा
+वद॒तीति॒ तत्खलु॒ तुभ्यं॒ न वा॒चा जु॑हव॒न्नित्य॑ब्रवी॒त् 
+ 
+तस्मा॒न्मन॑सा प्र॒जाप॑तये जुह्वति॒ 
+
+मन॑ इव॒ हि प्र॒जाप॑तिः प्र॒जाप॑ते॒राप्त्यै॑ परि॒धीन्थ्सं
+मा᳚र्ष्टि पु॒नात्ये॒वैना॒न्त्रिर्म॑ध्य॒मं त्रयो॒ वै प्रा॒णाः प्रा॒णाने॒वाभि ज॑यति॒
+त्रिर्द॑क्षिणा॒र्ध्यं॑ त्रय॑
 ## 2.6
 ### 2.6.3
 
@@ -286,7 +350,14 @@ verily he summons the breaths according to their places.
 
 प्रा॒श्नी॒याद्धोता॑ य॒ज्ञं निर॑हर॒न्तच्चक्षु॑रा॒स्यं॑ किंच॒न हि॒नस्ति॒
 सो॑बिभे॒च्चतु॑श्चत्वारिꣳशच्च ॥ २। ६। ८॥
-
+## 3.2
+### 3.2.4
+##### 2
+१२ य॒ज्ञं वाव स तद॑ह॒न्तस्मा॑ ए॒व न॑म॒स्कृत्य॒ सदः॒ प्र
+ स॑र्पत्या॒त्मनोऽना᳚र्त्यै॒ नमो॑ रु॒द्राय॑ मख॒घ्ने नम॑स्कृत्या मा
+ पा॒हीत्याग्नी᳚ध्रं॒ तस्मा॑ ए॒व न॑म॒स्कृत्य॒ सदः॒ प्र स॑र्पत्या॒त्मनोऽना᳚र्त्यै॒
+ नम॒ इन्द्रा॑य मख॒घ्न इं॑द्रि॒यं मे॑ वी॒र्यं॑ मा निर्व॑धी॒रिति॑
+ हो॒त्रीय॑मा॒शिष॑मे॒वैतामा शा᳚स्त इन्द्रि॒यस्य॑ वी॒र्य॑स्यानि॑र्घाताय॒ या वै
 ## 3.4
 ### 3.4.5
 ##### 1
@@ -1538,7 +1609,60 @@ w Even as ye did set free, O bright ones,
 O ye that are worthy of offering, the buffalo cow bound by the foot,
 So do thou remove from us tribulation;
 Be our life prolonged further, O Agni.
+## 5.2
+### 5.2.9
+##### 1
+४८ ए॒षां वा ए॒तल्लो॒कानां॒ ज्योतिः॒ संभृ॑तं॒ यदु॒खा
+ यदु॒खामु॑प॒दधा᳚त्ये॒भ्य ए॒व लो॒केभ्यो॒ ज्योति॒रव॑ रुंधे मध्य॒त उप॑ दधाति
+ मध्य॒त ए॒वास्मै॒ ज्योति॑र्दधाति॒ तस्मा᳚न्मध्य॒तो ज्योति॒रुपा᳚स्महे॒ सिक॑ताभिः
+ पूरयत्ये॒तद्वा अ॒ग्नेर्वै᳚श्वान॒रस्य॑ रू॒पꣳ रू॒पेणै॒व वै᳚श्वान॒रमव॑
+ रुंधे॒ यं का॒मये॑त॒ क्षोधु॑कः स्या॒दित्यू॒नां तस्योप॑
 
+The pan is the concentrated light of these lights; in that he puts down the pan, verily he wins the light from these worlds; in the middle he puts (it) down; verily he bestows upon it light; therefore in the middle we reverence the light; with sand he fills (it); that is the form of Agni Vaiçvanara; verily by his form he wins Vaiçvanara. If he desire of a man, 'May he become hungry', he should put down for one (a pan) deficient in size [1]; 
+##### 2
+४९ दध्या॒त्क्षोधु॑क ए॒व भ॑वति॒ यं का॒मये॒तानु॑पदस्य॒दन्न॑मद्या॒दिति॑
+ पू॒र्णां तस्योप॑ दध्या॒दनु॑पदस्यदे॒वान्न॑मत्ति स॒हस्रं॒ वै प्रति॒ पुरु॑षः
+ पशू॒नां य॑च्छति स॒हस्र॑म॒न्ये प॒शवो॒ मध्ये॑ पुरुषशी॒र्॒षमुप॑ दधाति
+ सवीर्य॒त्वायो॒खाया॒मपि॑ दधाति प्रति॒ष्ठामे॒वैन॑द्गमयति॒ व्यृ॑द्धं॒ वा
+ ए॒तत्प्रा॒णैर॑मे॒ध्यं यत्पु॑रुषशी॒र्॒षम॒मृतं॒ खलु॒ वै प्रा॒णा
+
+if he desire of a man, 'May he eat food that fails not', he should put it down full; verily he eats food that fails not. The man accords a thousand of cattle, the other animals a thousand; in the middle he puts down the head of the man, to give it strength. In the pan he puts (it) down; verily he makes it attain support; the head of the man is impure as devoid of breaths; the breaths are immortality [2], 
+##### 3
+५० अ॒मृत॒ꣳ॒ हिर॑ण्यं प्रा॒णेषु॑ हिरण्यश॒ल्कान्प्रत्य॑स्यति
+ प्रति॒ष्ठामे॒वैन॑द्गमयि॒त्वा प्रा॒णैः सम॑र्धयति द॒ध्ना म॑धुमि॒श्रेण॑
+ पूरयति मध॒व्यो॑ऽसा॒नीति॑ श‍ृतात॒ङ्क्ये॑न मेध्य॒त्वाय॑ ग्रा॒म्यं वा ए॒तदन्नं॒
+ यद्दध्या॑र॒ण्यं मधु॒ यद्द॒ध्ना म॑धुमि॒श्रेण॑ पू॒रय॑त्यु॒भय॒स्याव॑रुद्ध्यै
+ पशुशी॒र्॒षाण्युप॑ दधाति प॒शवो॒ वै प॑शुशी॒र्॒षाणि॑ प॒शूने॒वाव॑
+ रुंधे॒ यं का॒मये॑ताप॒शुः स्या॒दिति॑
+
+gold is immortality; on the (organs of the) breaths he hurls chips of gold; verily he makes it attain support, and unites it with the breaths. He fills (it) with curds mixed with honey, (saying) 'May I be fit to drink honey'; (he fills with curds) to be curdled with hot milk, for purity. The curds are the food of the village, honey of the wild; in that he fills (it) with curds mixed with honey, (it serves) to win both. He puts down the heads of the animals; the heads of the animals are cattle; verily he wins cattle. If he desire of a man, 'May he have no cattle'[3], 
+##### 4
+५१ विषू॒चीना॑नि॒ तस्योप॑ दध्या॒द्विषू॑च ए॒वास्मा᳚त्प॒शून्द॑धात्यप॒शुरे॒व
+ भ॑वति॒ यं का॒मये॑त पशु॒मान्थ्स्या॒दिति॑ समी॒चीना॑नि॒ तस्योप॑
+ दध्याथ्स॒मीच॑ ए॒वास्मै॑ प॒शून्द॑धाति पशु॒माने॒व भ॑वति
+ पु॒रस्ता᳚त्प्रती॒चीन॒मश्व॒स्योप॑ दधाति प॒श्चात्प्रा॒चीन॑मृष॒भस्याप॑शवो॒
+ वा अ॒न्ये गो॑ अ॒श्वेभ्यः॑ प॒शवो॑ गो अ॒श्वाने॒वास्मै॑ स॒मीचो॑ दधात्ये॒ताव॑न्तो॒
+ वै प॒शवो᳚
+
+he should put them down, looking away, for him; verily he makes cattle look away from him; he becomes without cattle. If he desire of a man, 'May he be rich in cattle', he should put (them) down looking with (the man's head); verily he makes the cattle look with him; he becomes rich in cattle. He puts (the head) of the horse in the east looking west, that of the bull in the west looking east; the beasts other than the oxen and the horses are not beasts at all; verily he makes the oxen and the horses look with him. So many are the animals [4], 
+##### 5
+५२ द्वि॒पाद॑श्च॒ चतु॑ष्पादश्च॒ तान्, वा ए॒तद॒ग्नौ प्र द॑धाति॒
+ यत्प॑शुशी॒र्॒षाण्यु॑प॒दधा᳚त्य॒मुमा॑र॒ण्यमनु॑ ते दिशा॒मीत्या॑ह ग्रा॒म्येभ्य॑
+ ए॒व प॒शुभ्य॑ आर॒ण्यान्प॒शूङ्छुच॒मनूथ्सृ॑जति॒ तस्मा᳚थ्स॒माव॑त्पशू॒नां
+ प्र॒जाय॑मानानामार॒ण्याः प॒शवः॒ कनी॑याꣳसः शु॒चा ह्यृ॑ताः
+ स॑र्पशी॒र्॒षमुप॑ दधाति॒ यैव स॒र्पे त्विषि॒स्तामे॒वाव॑ रुंधे॒
+
+bipeds and quadrupeds; them indeed he puts down in the fire, in that he puts down the heads of the animals. 'I appoint for thee N.N. of the forest', he says; verily from the cattle of the village he sends pain to those of the wild; therefore of animals born at one time the animals of the wild are the smaller, for they are afflicted with pain. He puts down the head of a snake; verily he wins the brilliance that is in the snake 
+[5]. 
+##### 6
+५३ यथ्स॑मी॒चीनं॑ पशुशी॒र्॒षैरु॑प द॒ध्याद्ग्रा॒म्यान्प॒शून्दꣳशु॑काः
+ स्यु॒र्यद्वि॑षू॒चीन॑मार॒ण्यान्, यजु॑रे॒व व॑दे॒दव॒ तान्त्विषिꣳ॑ रुंधे॒
+ या स॒र्पे न ग्रा॒म्यान्प॒शून् हि॒नस्ति॒ नार॒ण्यानथो॒ खलू॑प॒धेय॑मे॒व
+ यदु॑प॒दधा॑ति॒ तेन॒ तां त्विषि॒मव॑ रुंधे॒ या स॒र्पे यद्यजु॒र्वद॑ति॒
+ तेन॑ शा॒न्तम् ॥ ५। २। ९॥ ऊ॒नान्तस्योप॑ प्रा॒णाः स्या॒दिति॒ वै प॒शवो॑ रुंधे॒
+ चतु॑श्चत्वारिꣳशच्च ॥ ५। २। ९॥
+
+If he were to put it down looking with the heads of the animals, (the snakes) would bite the animals of the village; if turned away, those of the wild; he should speak a Yajus, he wins the brilliance that is in the snake, he injures not the animals of the village, nor those of the wild. Or rather should it be put down; in that he puts down, thereby he wins the brilliance that is in the serpent; in that he utters a Yajus, thereby is it appeased.
 ## 6.2
 ### 6.2.4
 ##### 1

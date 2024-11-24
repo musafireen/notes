@@ -1,5 +1,5 @@
 
-Drāviḍa
+# Drāviḍa
 § Chidambaram dikshitar pūrvaśikhā pancadravida
 saiva 
 baudhayana-yajur /āśvalāyana-ṛg 
@@ -30,27 +30,28 @@ tenkalai vaikhānasa
 § kumbakonam śarṅgapāṇi
 vatakalai pancarātra
 
-Karṇaṭaka
+# Karṇaṭaka
 § ahobilam 
 vaṭakalai viśiṣṭādvaita
 § udipi
 dvaita
 
-Tailanga
+# Tailanga
 § tirupati aparaśikhā
 vaṭakalai rāmānuja viśiṣṭādvaita vaikhānasa 
 
-Mahārāṣṭraka
+# Mahārāṣṭraka
 
-Gurjara
+# Gurjara
+Kauthuma
+Ranayaniya
 
+# Gauḍa
+![[gauda_brahmana]]
+# Utkala
 
-Gauḍa
+# Maithila
 
-Utkala
+# Kanyākubja
 
-Maithila
-
-Kanyākubja
-
-Sarasvata
+# Sarasvata

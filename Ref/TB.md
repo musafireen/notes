@@ -2,19 +2,66 @@ https://sanskritdocuments.org/doc_veda/taittirIyabrAhmaNam.html
 
 https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/tb/tb.htm
 
+# nakṣatra.iṣṭi
+# p1
+## yama.nakṣatra
+## 1.5
+
+### 1.5.11
+##### 1
+५४ ये वै च॒त्वारः॒ स्तोमाः᳚ । 
+
+There are four well-known stomas [hymns or mantras] 
+
+कृ॒तं तत् । 
+
+which have to be recited. 
+
+अथ॒ ये पञ्च॑ । कलिः॒ सः ।
+
+However because of the (evil) effects of Kali Yuga, (some say that) there are 5 stomas. 
+
+तस्मा॒च्चतु॑ष्टोमः । तच्चतु॑ष्टोमस्य चतुष्टोम॒त्वम् । तदा॑हुः । क॒त॒मानि॒
+तानि॒ ज्योतीꣳ॑षि । य ए॒तस्य॒ स्तोमा॒ इति॑ । 
+
+(It is not correct), there are only four stomas as part of the Jyotishtoma (yajna).
+
+त्रि॒वृत्प॑ञ्चद॒शः स॑प्तद॒श
+ए॑कवि॒ꣳ॒शः ॥ १। ५। ११। १॥
+ 
+# darśa.yāga
 # p2
-#### 2.1.6
-laksmidhara yajnavedi yantra
+## vatsa.haraṇa
+## 2.1
+### 2.1.2
+##### 9
+१२ प्रैव जा॑यते । अथो॒ यथा॒ दिवा᳚ प्रजा॒नन्नेति॑ । ता॒दृगे॒व तत् ।
+ अथो॒ खल्वा॑हुः । यस्य॒ वै द्वौ पुण्यौ॑ गृ॒हे वस॑तः । यस्तयो॑र॒न्यꣳ
+ रा॒धय॑त्य॒न्यं न । उ॒भौ वाव स तावृ॑च्छ॒तीति॑ । अ॒ग्निं वावादि॒त्यः सा॒यं
+ प्रवि॑शति । तस्मा॑द॒ग्निर्दू॒रान्नक्तं॑ ददृशे । उ॒भे हि तेज॑सी सं॒पद्ये॑ते ॥
+
+ २। १। २। ९॥
+### 2.1.6
+?? laksmidhara yajnavedi yantra
 ##### 2.1.6.1
 
 प्र॒जाप॑तिरकामयतात्म॒न्वन्मे॑ जाये॒तेति॑ । सो॑ऽजुहोत् । तस्या᳚त्म॒न्वद॑जायत ।
 अ॒ग्निर्वा॒युरा॑दि॒त्यः । ते᳚ऽब्रुवन् । प्र॒जाप॑तिरहौषीदात्म॒न्वन्मे॑ जाये॒तेति॑ ।
 तस्य॑ व॒यम॑जनिष्महि । जाय॑तां न आत्म॒न्वदिति॒ ते॑ऽजुहवुः । प्रा॒णाना॑म॒ग्निः
 । त॒नुवै॑ वा॒युः ॥ २। १। ६। १॥
-
-#### 2.3.8
-Laksmidhara? sri vidya sri sukta
-#### 2.3.10
+## rātrī.dohana
+## 2.3
+### 2.3.6
+##### 2
+२४ ते प्रत्य॑श‍ृण्वन् । ते द॑र्शपूर्णमा॒साभ्या॑मे॒व
+ य॑ज्ञक्र॒तुनोप॑प॒र्याव॑र्तन्त । त उपौ॑ह२ꣳश्च॒त्वार्यङ्गा॑नि
+ । तस्मा᳚द्दर्शपूर्णमा॒सयो᳚र्यज्ञक्र॒तोः । च॒त्वार॑ ऋ॒त्विजः॑ ।
+ प॒ञ्च॒कृत्वोऽह्व॑यत् । प॒शवः॒ प्रत्य॑श‍ृण्वन् । ते चा॑तुर्मा॒स्यैरे॒व
+ य॑ज्ञक्र॒तुनोप॑प॒र्याव॑र्तन्त । त उपौ॑हं॒ ल्लोम॑ छ॒वीं मा॒ꣳ॒समस्थि॑
+ म॒ज्जान᳚म् । तस्मा᳚च्चातुर्मा॒स्यानां᳚ यज्ञक्र॒तोः ॥ २। ३। ६। २॥
+### 2.3.8
+Laksmidhara? sri vidya sri sukta ??
+### 2.3.10
 ##### 2.3.10.1
 ४३ प्र॒जाप॑तिः॒ सोम॒ꣳ॒ राजा॑नमसृजत । तं त्रयो॒ वेदा॒ अन्व॑सृज्यन्त । तान्
 हस्ते॑ऽकुरुत । अथ॒ ह सीता॑ सावि॒त्री । सोम॒ꣳ॒ राजा॑नं चकमे । श्र॒द्धामु॒
@@ -27,7 +74,11 @@ Laksmidhara? sri vidya sri sukta
 । चतु॑र्होतारं दक्षिण॒तः । पञ्च॑होतारं प॒श्चात् । षड्ढो॑तारमुत्तर॒तः ।
 स॒प्तहो॑तारमु॒परि॑ष्टात् । सं॒भा॒रैश्च॒ पत्नि॑भिश्च॒ मुखे॑ऽलं॒कृत्य॑
 ॥ २। ३। १०। २॥
+# paurṇamāsa
 # p3
+## āhavanīya.śuddhi?
+## 3.1
+### 3.1.1
 ##### 3.1.1.5
 ५ बृह॒स्पतिः॑ प्रथ॒मं जाय॑मानः । ति॒ष्यं॑ नक्ष॑त्रम॒भि संब॑भूव ।
    श्रेष्ठो॑ दे॒वानां॒ पृत॑नासु जि॒ष्णुः । दिशो नु॒ सर्वा॒ अभ॑यं नो अस्तु ।
@@ -35,8 +86,8 @@ Laksmidhara? sri vidya sri sukta
    । बाधे॑तां॒ द्वेषो॒ अभ॑यं कृणुताम् । सु॒वीर्य॑स्य॒ पत॑यः स्याम । इ॒दꣳ
    स॒र्पेभ्यो॑ ह॒विर॑स्तु॒ जुष्ट᳚म् । आ॒श्रे॒षा येषा॑मनु॒यन्ति॒ चेतः॑ ॥ ३। १। १। ५॥
 
-#### 3.1.4
-laksmidhara? Purusa visva yajna yantra
+### 3.1.4
+laksmidhara? Purusa visva yajna yantra ??
 ##### 3.1.4.7
 
 ३३ दे॒वा॒सु॒राः संय॑त्ता आसन्न् । ते दे॒वाः स॒र्पेभ्य॑ आश्रे॒षाभ्य॒ आज्ये॑
@@ -46,7 +97,9 @@ laksmidhara? Purusa visva yajna yantra
  स्वाहा᳚ । द॒न्द॒शूके᳚भ्यः॒ स्वाहेति॑ ॥ ३। १। ४। ७॥
 
 during the course of the Asvamedha Yajna, offerings of  ghee and barley are submitted to the serpents (Sarphebyam svaha) by the Devas, praying for their help (ashrebhyah)  in subduing  (upanayati) the Asuras.
-#### ?
+## ghṛta.jvāla
+## 3.4
+### 3.4.16
 ##### 3.4.16.1
 १६ 
 अ॒क्ष॒रा॒जाय॑ कित॒वम् । 
@@ -68,7 +121,7 @@ I’ve done it for the king of letters.
 for the sake of the assembly. 
 I saw the beginning of the Treta.
 Dvapara, the outer assembly. 
-The assembly hall in the art. 
+The assembly hall in the (kali) art. 
 Charakacharya for the wicked. 
 A celibate on the road. 
 Sailing to the devils. 
@@ -77,13 +130,19 @@ Nirrityai goghatam.
 Hungry cowboys. 
 hunger and thirst. 
 He who approaches a cow begging for meat while it is being torn apart
-
+## yajamāna.patnī
+## 3.10
+### 3.10.9
 ##### 3.10.9.2
 २४ वृ॒श्चत॑श्च । सैषा मी॑मा॒ꣳ॒साऽग्नि॑हो॒त्र ए॒व सं॑पन्ना । अथो॑
  आहुः । सर्वे॑षु यज्ञक्र॒तुष्विति॑ । होष्य॑न्न॒प उप॑स्पृशेत् । विद्यु॑दसि॒
  विद्य॑ मे पा॒प्मान॒मिति॑ । अथ॑ हु॒त्वोप॑स्पृशेत् । वृष्टि॑रसि॒ वृश्च॑
  मे पा॒प्मान॒मिति॑ । य॒क्ष्यमा॑णो वे॒ष्ट्वा वा᳚ । वि च॑ है॒वास्यै॒ते दे॒वते॑
  पा॒प्मानं॒ द्यतः॑ ॥ ३। १०। ९। २॥
+
+## upaveśa.visarjana
+## 3.11
+
 ##### 3.11.8.1
 ४२ उ॒शन् ह॒ वै वा॑जश्रव॒सः स॑र्ववेद॒सं द॑दौ । तस्य॑ ह॒ नचि॑केता॒
 नाम॑ पु॒त्र आ॑स । तꣳ ह॑ कुमा॒रꣳ सन्त᳚म् । दक्षि॑णासु नी॒यमा॑नासु
@@ -116,5 +175,24 @@ He who approaches a cow begging for meat while it is being torn apart
  वेद॑ । प्र॒जाप॑ति॒र्वै प्र॒जाका॑म॒स्तपो॑ऽतप्यत । स हिर॑ण्य॒मुदा᳚स्यत् ।
  तद॒ग्नौ प्रास्य॑त् । तद॑स्मै॒ नाच्छ॑दयत् । तद्द्वि॒तीयं॒ प्रास्य॑त् । तद॑स्मै॒
  नैवाच्छ॑दयत् । तत्तृ॒तीयं॒ प्रास्य॑त् ॥ ३। ११। ८। ६॥
+
+# puruṣamedha
+# p4
+# iṣṭi
+# p5
+# pāśukahotra
+# p6
+# prāyaścitta
+# p7
+# aśvamedha
+# p8
+# aśvamedha
+# p9
+# sāvitra.cayana
 # p10
-![[BrNryU]]
+[[BrNryU]]
+
+# naciketa.cayana
+# p11
+# catur.hotra.vaiśva.sṛj
+# p12

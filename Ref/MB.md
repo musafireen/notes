@@ -6709,6 +6709,12 @@ Ujjayani, Adapekshi, the great rishi Naradi—
 विश्वामित्रात्मजाः सर्वे मुनयो ब्रह्मवादिनः ||५८||
 
 all these sages were knowledgable about the brahman and were descended from Vishvamitra.
+### 24
+##### 70
+वेदविक्रयिणश्चैव वेदानां चैव दूषकाः
+वेदानां लेखकाश्चैव ते वै निरयगामिनः
+
+The Mahabharata (13.24.70) groups people who read and recite the Veda from a written text (rather than memorize it and keep it only in their heads) with corrupters and sellers of the Veda as people heading for hell. 
 ### c43
 ###### 16
 भीष्म उवाच||

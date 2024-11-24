@@ -1,4 +1,5 @@
-# conjunction
+# conj
+![[bengali_farsi_arabic#conj]]
 لیکن
 ولی   
 آخر آخه 
@@ -7,7 +8,8 @@
 عاقبت
 آخرش
 
-# preposition
+# prep
+![[bengali_farsi_arabic#prep]]
 حتی
 
 بدون
@@ -16,11 +18,13 @@
 قلبا
 
 # plants
+![[bengali_farsi_arabic#plants]]
 ریحان
 
 عندلیب
 
-# adverb
+# adv
+![[bengali_farsi_arabic#adv]]
 خیلی
 حالا
 حالت
@@ -45,12 +49,14 @@
 دقیقاً 
 غلیز
 
-# numeral
+# num
+![[bengali_farsi_arabic#num]]
 اولین
 صفر
 نصف 
 
-# relations
+# rel
+![[bengali_farsi_arabic#rel]]
 والده 
 والدین
 ولادت
@@ -73,6 +79,7 @@
 عزیز
 
 # food
+![[bengali_farsi_arabic#food]]
 غذا গেজা
 صبحانه
 رزق روزی
@@ -82,9 +89,11 @@
 ذره
 
 # animal
+![[bengali_farsi_arabic#animal]]
 ابل
 
 # nature
+![[bengali_farsi_arabic#nature]]
 ساحل
 صحرا
 موج
@@ -98,6 +107,7 @@
 مجمری
 
 # body
+![[bengali_farsi_arabic#body]]
 زلف
 مخاط 
 مخاطی 
@@ -128,6 +138,7 @@
 قاصد
 
 # tools 
+![[bengali_farsi_arabic#tools]]
 ظرف  
 عکس
 قدح
@@ -139,6 +150,7 @@
 لباس 
 
 # calendar
+![[bengali_farsi_arabic#calendar]]
 صبحانه
 صبح
 سحر
@@ -152,6 +164,7 @@
 نفر
 
 # mind
+![[bengali_farsi_arabic#mind]]
 رویا
 نفس 
 نفیس 
@@ -195,6 +208,7 @@
 قهر
 
 # profession
+![[bengali_farsi_arabic#profession]]
 عیار
 عیارگر
 حکاک
@@ -229,7 +243,8 @@
 فرعون 
 فلاح 
 
-# adjective
+# adj
+![[bengali_farsi_arabic#adj]]
 جالبی 
 غمگین 
 غم 
@@ -392,7 +407,8 @@
 فقیر 
 مسن 
 
-# abstract
+# abst
+![[bengali_farsi_arabic#abst]]
 ولایت  
 ابتدا
 نجات

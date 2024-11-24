@@ -103,7 +103,7 @@ With Gods who flee with him, and match their rapid motion
    with the Sun,  
   I with those animals who dwell in rivers and on hills am found.
 #### 6
-तपनो  अस्मि  पिशाचानां  व्याध्रो  गोमताम् इव  |
+तपनो  अस्मि  पिशाचानां  व्याघ्रो  गोमताम् इव  |
 श्वानः  सिंहम् इव  दृष्ट्वा  ते  न  विन्दन्ते  न्यञ्चनम्  ||6||
 
 I trouble the Pisāchas as the tiger plagues men rich in kine.  
@@ -126,8 +126,8 @@ Into whatever village this mine awful power penetrates,
 
 ## 4.37
 #### 1
-त्वया  पूर्वम्  अथर्वाणो  जध्नू  रक्षांस्य् ओषधे  |
-त्वया  जधान  कश्यपस्  त्वया  कंवो  अगस्त्यः  ||1||
+त्वया  पूर्वम्  अथर्वाणो  जघ्नू  रक्षांस्य् ओषधे  |
+त्वया  जघान  कश्यपस्  त्वया  कंवो  अगस्त्यः  ||1||
 
 With thee, O Plant, in olden time Atharvans smote and slew the  
    fiends.  
@@ -158,7 +158,7 @@ Where great trees are, Asvatthas and Nyagrodhas with their
    cymbals sound in tune,  
   'Ye have become attentive since the Apsarases have past away.
 #### 5
-यत्र  वः  प्रेङ्खा  हरिता  अर्जुना ुत  यत्राधाताः  कर्कर्यः  संवदन्ति  |
+यत्र  वः  प्रेङ्खा  हरिता  अर्जुना ुत  यत्राघाताः  कर्कर्यः  संवदन्ति  |
 तत्  परेताप्सरसः  प्रतिबुद्धा  अभूतन  ||5||
 
 Hither hath come this one, the most effectual of herbs and  
@@ -227,7 +227,7 @@ Made ready in the east drive forth, take notice of what is hap-
    we win horses, kine, and people.
 #### 2
 तथा  तद्  अग्ने  कृणु  जातवेदो  विश्वेभिर्  देवैः  सह  संविदानः  |
-यो  नो  दिदेव  यतमो  जधास  यथा  सो  अस्य  परिधिष्  पताति  ||2||
+यो  नो  दिदेव  यतमो  जघास  यथा  सो  अस्य  परिधिष्  पताति  ||2||
 
 Accordant with all Gods, O Jātavedas Agni, perform this work  
    as we beseech thee,  
@@ -241,7 +241,7 @@ Unanimous, with all the Gods together, so do this thing O Agni
   Jātavedas, that this defence of his may fall and fail him.
 #### 4
 अक्ष्यौ  नि  विध्य  हृदयं  नि  विध्य  जिह्वां  नि  तृन्द्धि  प्र  दतो  मृणीहि  |
-पिशाचो  अस्य  यतमो  जधासाग्ने  यविष्ठ  प्रति  शृणीहि  ||4||
+पिशाचो  अस्य  यतमो  जघासाग्ने  यविष्ठ  प्रति  शृणीहि  ||4||
 
 Pierce both his eyes, pierce thou the heart within him, crush  
    thou his teeth and cleave his tongue asunder.  
@@ -321,7 +321,7 @@ Like as the Soma's tendril, thus, O Jātavedas let him swell,
 Here, Agni, is the fuel, here are logs that crush Pisāchas down.  
   O Jātavedas, willingly accept them and be pleased therewith.
 #### 15
-तार्ष्टाधीर्  अग्ने  समिधः  प्रति  गृह्णाह्य्  अर्चिषा  |
+तार्ष्टाघीर्  अग्ने  समिधः  प्रति  गृह्णाह्य्  अर्चिषा  |
 जहातु  क्रव्याद्  रूपं  यो  अस्य  मांसं  जिहीर्षति  ||15||
 
 Accept, O Agni, with thy flame the billets of Tārshtāgha wood.  
@@ -369,6 +369,20 @@ and stings.
 transverse stripes,
 Or Kankaparvan's bite, this herb hath made the poison power-
 less.
+## 7.83
+?? varuna
+#### 1
+अप्सु  ते  राजन्  वरुण  गृहो  हिरंययो  मितः  |    
+ततो  धृतव्रतो  राजा  सर्वा  धामानि  मुञ्चतु  ||1||    
+#### 2
+dāmnodāmno rājann ito varuṇa muñca naḥ |  
+yad āpo aghnyā iti varuṇeti yad ūcima tato varuṇa muñca naḥ ||2||  
+#### 3
+उद् उत्तमं  वरुण  पाशम्  अस्मद्  अवाधमं  वि  मध्यमं  श्रथाय  |    
+अधा  वयम् आदित्य  व्रते  तवानागसो  अदितये  स्याम  ||3||    
+#### 4
+प्रास्मत्  पाशान्  वरुण  मुञ्च  सर्वान्  य उत्तमा  अधमा  वारुणा  ये  |    
+दुष्वप्न्यं  दुरितं  नि  ष्वास्मद्  अथ  गछेम  सुकृतस्य  लोकम्  ||4||
 ## 8.5
 #### 9
 याः कृत्या आङ्गिरसीर् याः कृत्या आसुरीर् याः कृत्याः स्वयंकृता या उ चान्येभिर् आभृताः उभयीस् ताः परा यन्तु परावतो नवतिं नाव्या अति
@@ -490,7 +504,7 @@ She mounted up, she entered Consultation.
 Whoso knows this is fit to be consulted, and to his consultation come the people.
 
 #### 8
-सोदअक्रामत्सान्तरिक्षे चतुर्धा 
+सोदक्रामत्सान्तरिक्षे चतुर्धा 
 
 She mounted up, and, into four divided, 
 
@@ -547,25 +561,25 @@ Thus did they cry to her:
 17Waters from Vāmdevya come, from Yajnāyajniya sacrifice.
 
 #### 18
-सोदअक्रामत्सा वनस्पतीनागछत्तां वनस्पतयो ऽध्नत सा संवत्सरे समभवत् |  तस्माद्वनस्पतीनां संवत्सरे वृक्णमपि रोहति वृश्चते ऽस्याप्रियो भ्रातृव्यो य एवं वेद ||18||
+सोदअक्रामत्सा वनस्पतीनागछत्तां वनस्पतयो ऽघ्नत सा संवत्सरे समभवत् |  तस्माद्वनस्पतीनां संवत्सरे वृक्णमपि रोहति वृश्चते ऽस्याप्रियो भ्रातृव्यो य एवं वेद ||18||
 
 18She rose, she came unto the vanaspatis: they killed her. She became in Samvatsara.
 hence in a year the wounds of trees heal over. he who knows this sees his loathed rival wounded.
 ### 19-21
 #### 19 
-सोदअक्रामत्सा पिॄनागछत्तां पितरो ऽध्नत सा मासि समभवत् |  तस्मात्पितृभ्यो मास्युपमास्यं ददति प्र पितृयाणं पन्थां जानाति य एवं वेद ||19||
+सोदअक्रामत्सा पिॄनागछत्तां पितरो ऽघ्नत सा मासि समभवत् |  तस्मात्पितृभ्यो मास्युपमास्यं ददति प्र पितृयाणं पन्थां जानाति य एवं वेद ||19||
 
 19She mounted up, she came unto the Fathers: they killed her: in a month she re-existed.
 hence men give monthly offerings to the Fathers: who knows this, knows the path which they have trodden.
 
 #### 20 
-सोदअक्रामत्सा देवानागछत्तां देवा अध्नत सार्धमासे समभवत् |  तस्माद्देवेभ्यो ऽर्धमासे वषट्कुर्वन्ति प्र देवयानं पन्थां जानाति य एवं वेद ||20||
+सोदअक्रामत्सा देवानागछत्तां देवा अघ्नत सार्धमासे समभवत् |  तस्माद्देवेभ्यो ऽर्धमासे वषट्कुर्वन्ति प्र देवयानं पन्थां जानाति य एवं वेद ||20||
 
 20She rose, she came unto the Gods: they killed her: but in a fortnight she again was living.
 Fortnightly, hence, men serve the Gods with Vasat! Who knows this knows the way which Gods pass over.
 
 #### 21 
-सोदअक्रामत्सा मनुष्यानागछत्तां मनुष्या अध्नत सा सद्यः समभवत् |   तस्मान्मनुष्येभ्य उभयद्युरुप हरन्त्युपास्य गृहे हरन्ति य एवं वेद ||21|| {27}
+सोदअक्रामत्सा मनुष्यानागछत्तां मनुष्या अघ्नत सा सद्यः समभवत् |   तस्मान्मनुष्येभ्य उभयद्युरुप हरन्त्युपास्य गृहे हरन्ति य एवं वेद ||21|| {27}
 
 21She mounted up, she came to men: they killed her Presently she regained her life and being.
 hence on both days to men they bring and offer—who knows this—near-seated in the dwelling.
@@ -865,6 +879,11 @@ Itihāsa and Purāna and Gāthās and Nārāsansis followed him.
 
 ![[RV#10.90#x]]
 
+## 19.39
+#### 8
+यत्र नावप्रभ्रंशनं यत्र हिमवतः शिरः तत्रामृतस्य चक्षणं ततः कुष्ठो अजायत स कुष्ठो विश्वभेषजः साकं सोमेन तिष्ठति
+
+Where there was a (nāvaprabhraṃśana) shipwreck, where there was a head of the Himalayas, there was a taste of nectar, and there arose leprosy. That leprosy, the healer of the universe, remains with the moon
 ## 19.53
 #### 8
 का॒ले तपः॑ का॒ले ज्येष्ठं॑ का॒ले ब्रह्म॑ स॒माहि॑तम्। का॒लो ह॒ सर्व॑स्येश्व॒रो यः पि॒तासी॑त्प्र॒जाप॑तेः ॥8॥

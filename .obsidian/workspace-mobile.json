@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/MkP.md",
+                "file": "Ref/RV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MkP"
+              "title": "RV"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
+                "file": "Ref/SpB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dravida"
+              "title": "SpB"
             }
           },
           {
@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ref/tptk.sut.ther.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Sāṃkhya_kabbala_ghuli.md",
+                "file": "Ref/RV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sāṃkhya_kabbala_ghuli"
+              "title": "RV"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/Qrsd.md",
+                "file": "Ref/Qrsi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qrsd"
+              "title": "Qrsi"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam/khiḍr mu'allami license for  greater good kṛṣṇa rāmalīlā viṣṇu.md",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "khiḍr mu'allami license for  greater good kṛṣṇa rāmalīlā viṣṇu"
+              "title": "shirk"
             }
           },
           {
@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/Ling/greek/greek_cognates_in_english.md",
+                "file": "001_eskaton/Ling/Bengali_sanskrit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "greek_cognates_in_english"
+              "title": "Bengali_sanskrit"
             }
           },
           {
@@ -260,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -287,7 +287,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "yuga",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -321,12 +321,12 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ref/iamb.mysEg.md",
+            "file": "Ref/mdhvA.SDS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
+            "showSearch": true,
+            "searchQuery": "#1.8.1#",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -340,7 +340,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ref/iamb.mysEg.md",
+            "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Sāṃkhya_kabbala_ghuli.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           },
@@ -354,7 +354,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md"
+            "file": "Ref/RV.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -371,46 +371,46 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "efa6159fdd96d63a",
+  "active": "0edc011ee8dbb1f1",
   "lastOpenFiles": [
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/phenomena_god_vedic.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
-    "Ref/MB.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/Śākta.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/vaishnava_brahmanic.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.md",
-    "boomerang/madaripuria_genz_khil.png",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.sync-conflict-20241030-104033-AFLIAW3.md",
-    "Ref/dvMhtm.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/Pūrvamimāṃsā.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Jinn_ifrit_shetan/muhajir_revolution_vs_hindu_anticolonial_egyptian_gnostic_hellenistic_resentment.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/syncretic.md",
-    "Ref/MkP.md",
-    "Ref/vlmk.RY.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Jinn_ifrit_shetan/superior_writing_of_hinduism.md",
-    "boomerang/Hindutva.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Jinn_ifrit_shetan/spirituals.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Sāṃkhya_kabbala_ghuli.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam/khiḍr mu'allami license for  greater good kṛṣṇa rāmalīlā viṣṇu.md",
-    "Ref/Qrsd.md",
-    "Ref/Qrsed.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/shahadat.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam/bāṭin/bāṭin 'alī.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam/bāṭin/Bāṭin ḥaqq ma'a zāhir.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam",
+    "Ref/kmS.md",
+    "Ref/MnSmr.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/nuh/nuh_utnapishtim_manu.md",
     "Ref/RV.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/nuh.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Samkhya_kabbala_ghuli.md",
+    "Ref/SpB.md",
+    "Ref/BU.md",
+    "Ref/kthU.md",
+    "Ref/SvetU.md",
+    "Ref/TB.md",
+    "Ref/MundU.md",
+    "Ref/aitU.md",
+    "Ref/KstkU.md",
+    "Ref/ChU.md",
+    "Ref/TtU.md",
+    "Ref/KthkU.md",
+    "Ref/AitA.md",
+    "Ref/tlvkU.md",
+    "Ref/IU.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nafs_atma.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ruh/ruh.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ruh/ruh_purusa.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/theogony.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/iktisab/iktisab_karma.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/iktisab",
+    "Ref/AV.ŚS.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs",
+    "Ref/SpB.txt",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/nuh",
+    "boomerang/madaripuria_genz_khil.png",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam",
     "Ref/iamb.myst/iamb.myst.eng.txt",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/mawt_al_ula",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/Scythian skeptic/shaka",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/baql",
     "boomerang/454817935_8007547926005160_936124851052004106_n.jpg",
-    "boomerang",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ayah/Mudra",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Qurbani",
     "Untitled.canvas",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/15194409_656388334522608_3437266025718668693_o.jpg"
   ]

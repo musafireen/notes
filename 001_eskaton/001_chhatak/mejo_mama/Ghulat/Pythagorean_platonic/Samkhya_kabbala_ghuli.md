@@ -37,15 +37,19 @@ parā, parāpara, aparā
 malik, nā'ib, nā'ib thānī 
 ## trimurti
 rudra, brahma, viṣṇu 
-)
+Agni, varuna, mitra
+:[[RV#5.3#1]]
 ## ?
 pneuma, psyche, hyle 
 ## triguṇa prakṛti
 tamas, rajas, sattva 
-## caturvarga
-kāma, artha, dharma, mokṣa 
+## varga
+kāma, artha, dharma, (mokṣa )
 ## triveda
 ṛg, sāma, yajur 
+## yajñaprakāra
+haviṣ, paśu, soma
+[[TndB#17.13#18]]
 ## column order
 doric, ionic-helice, corinthian-acanthus 
 ## dharmatva
@@ -64,6 +68,10 @@ zas, cthonie, chronos
 poigai, bhoothath, pey
 ## pallava nayanar
 appar, sundarar, sambandar
+## vijñāna
+vyakta, avyakta, jña
+## pramāṇa
+dṛṣṭa, anunāna, āptavacana
 # 4 
 ## weeks in a month
 ## directions
@@ -107,19 +115,26 @@ infant, caballary, regina, rex
 gold, silver, bronze, iron
 ## yuga
 kṛta, treta, dvāpara, kali
-## prakṛti-puruṣa
+[[TB#1.5.11#1]]
+[[TB#3.4.16.1]]
+## guṇa
 tamas, rajas, sattva, nirguṇa/śuṇya 
-## caturvarga
+## varga
 kāma, artha, dharma, mokṣa 
-## caturāśrama
+## āśrama
 brahmacārin, gṛhastha, vanaprastha, sannyāsin 
-## caturveda
+## veda
 ṛg, sāma, yajur, atharva 
-## ṛtvij
-hota, adhvaryu, udgata brahman 
+## ṛtvik
+hota, adhvaryu, udgata, brahmā
 ## agni
-gṛhya, gārhapatya, āhavāniya, dakṣiṇa 
-## yajna
+āhavāniya, gārhapatya, dakṣiṇa gṛhya, 
+## yajñaprakṛti
+Agnihotra, purṇamāsa, (caturmāsya,) nirūḍhapaśubandha, agniṣṭoma (, x)
+[[AitA#2.3.3#9]]
+## yajnaprakāra
+Homa, iṣṭi, (x,) paśu, soma (,sattra)
+
 pāka, soma, havir, pitrī 
 ## trika devi
 parā, parāpara, aparā, kālasaṃkarṣiṇī
@@ -157,25 +172,31 @@ dharma, jñāna, aiśvarya, vairāgya
 § olympic, nemean, pythian, isthmian
 § elis, argos, delphi, corinth
 § zeus, heracles, apollo, sisyphus
-
 # 5 
 ## ahl bayt
 'muḥammad, fātima, 'alī, ḥasan, ḥusen 
 ## mālikan
 ## ?
 salmān, , , ,  
-## paṅcabhūta
-ākāśa, vāyu, agni, ap, pṛthvī 
-## ?
-nīla, harita, raṅga, śveta, pīta
 ## tiṇai
 kuṛiñci, mullai, marutam, pālai, neytal 
 ## tamil gods
 cēyōṅ, māyōṅ, vēntāṅ, varuṇāṅ, kor̥r̥avai 
+## smārtadeva
+gaṇeśa, viṣṇu, sūrya, śiva, śakti, 
+## yajñaprakṛti
+agnihotra, darśapūrṇamāsa, cāturmāsya, paśu, soma (,x)
+[[AitA#2.3.3#9]]
+## yajñaprakāra
+homa, iṣṭi, (x,),  paśu, soma, sattra
 ## pāśupāta niyama
 āyatana, loka, guha, smasāna rudrasāyujya 
 ## mahābhūta
 ākāśa/nabhas, vāyu/marut, tejas/agni, jala/apas, pṛthvī /bhū 
+## bhūta
+ākāśa, vāyu, agni, ap, pṛthvī 
+## ?
+nīla, harita, raṅga, śveta, pīta
 ## stoechia :arist.
 aether, pyr, aer, hydor, ge 
 ## guṇa
@@ -207,7 +228,24 @@ caitanya, nityānanda, advaita, śrīvāsa, gadādhara
 kṛṣṇa, balarāma, śiva, nārada/bhakti, śakti 
 ## pancatattva janmadhāma
 ḍhākādakṣiṇa, , , beanibazar, 
+## vedānti
+nimbārka, śaṁkara, rāmānuja, madhvācārya, caitanya
+## vedānti
+bhedābheda, advaita, viṣiṣṭādvaita, Dvaita, acintya bhedābheda
+## vedāntideśa
+pratiṣṭhāna, kaladi, rangam, pājaka, māyāpura
+## pancagauda brāhmāṇa
+![[Ref/klhn.rjt#]]
+kānyakubja, svārasvata, maithili, utkala, gauḍa
 
+![[kfyt]]
+kannoji, gurjara, maithili, utkala, kāmarupī
+## pañcadrāviḍa
+Kalhan:
+drāviḍa, tailaṅga, karṇaṭaka, mahārāṣṭra, gurjara
+
+Kaifiyat:
+drāviḍa, andhrapūrva, karṇaṭaka, mahārāṣṭra/deśastha, x
 # 6
 ## nāṭiq
 adam, nūḥ, ibrāhīm, mūsā, 'īsā, muḥammad 
@@ -244,16 +282,19 @@ mūlādhāra, svādhiṣṭhāṇa, maṇipura, anāhata, viśuddha, ājñā, sa
 innocence, antediluvian, human, patriarchs, mosaic, church, millenial 
 ## sages of greece
 thales miletus, pittacus mytilene, bias priene, solon athens, periander corinth, chilon sparta
-## ṛgveda gotra
-gṛtsamāda (2), viśvāmitra (3), vāmadeva gautama (4), atri (5), bārhaspatya /bharadvāja (6), vasiṣṭha (7), kaṇva (8)
-## Mb svayambhuva saptarṣi
+## saptarṣi
+### ṛgveda gotra
+gṛtsamāda (2), atri (5), viśvāmitra (3), vāmadeva gautama (4), bārhaspatya /bharadvāja (6), vasiṣṭha (7), kaṇva (8)
+### Mb svayambhuva saptarṣi
 marici, atri, aṅgiras, pulaha, pulatsya, vasiṣṭha, krātu 
-## taittirya vaivasvata saptarṣi
+### taittirya vaivasvata saptarṣi
 kaśyapa, atri, aṅgīras, gautama, bhṛgu, ||, kutsa
-## śatapatha /bṛhadaraṇyaka vaivasvata saptarṣi
+### śatapatha /bṛhadaraṇyaka vaivasvata saptarṣi
+[[BU#2.2#4]]
 kaśyapa, ||, bharadvāja, ||, jamadagni, ||, viśvāmitra 
-## jaiminiya vaivasvata saptarṣi
+### jaiminiya vaivasvata saptarṣi
 āgastya, ||, ||, ||, ||, ||, || 
+[[JB#]]
 ## mu'alallaqāt
 imru' l qays o qaryah l faw, labīd o ? /nābigha o rummah, tarafa o gerrha, zuhayr b abi sulma o ? /a'śa o yamama, antara b śaddād o qusaybah, amr b kulthum o mardin ayn tamr, harith b hilliza o gerrha 
 ## svara saptaka
@@ -282,7 +323,11 @@ brahmāṇī, vaiṣṇavī, māheśvarī, indrāni, kaumāri, varāhī, cāmu�
 ![[VrP#]]
 ### DBP
 ![[dvBhgP#]]
+## prakṛtiviṛti
+mahat (buddhi), ahaṃkāra, { śabda, sparṣa, rūpa, rasa, gandha }, 
 # 8
+## prahara
+ūṣā /brāhmi muhūrta (3-6), prātaḥ kāla /pūrvāhna (6-9), madhyāhna (9-12), aparāhna (12-3), sāyaṃ kāla (3-6), pradoṣa (6-9), niṣitha (9-12), triyāmā (12-3)
 ## vasu
 ## lokapāla
 # 10 
@@ -313,11 +358,30 @@ prāṇa, jīva, karṇa/śrotra, sparṣa/tvak, cakṣu/dṛk, jihvā/rasana, n
 C, C#, D, D#, E, F, F#, G, G#, A, A#, B
 ## āditya
 mitra, varuṇa, śakra, aryamā, tvaṣṭā, puṣā, dhāta, bhaga, aṃśa, savitā, viṣṇu, vivasvān
+## jyotirliṅga
+[[snkr#dvdsJL]]
+varānasi kāśi viśanātha, 
+rudraprayāga himālaya kedaranātha, 
+ujjayani mahākāla, 
+nāsika gautamītaṭa tryambakeśvara, 
+khandwa oṃkāreśvara, 
+aurangabad śivālaya ghuśmeśa gṛṣṇeśvara, 
+ḍākinī bhīmaśaṅkara, 
+paralī baidyanātha, 
+śrīśaila mallikārjuna, 
+saurāṣṭra somanātha, 
+dārukāvana nāgeśvara, 
+setubandha rāmanāthasvāmi
 ## alvars
 poigai, bhoothat, pey, thirumalisai, namma, thiruppan, thondaradippodi, thirumangai, kulasekhara, periya, andal, madhurakavi
 # 14
 ## kalpa mānavāntaras
 svayambhu, svārociṣa, uttama, tapas, raivata, cakṣus, vaivasvat, sāvarṇi, dakṣa sāvarṇi, brahmā sāvarṇi, rudra sāvarṇi, raucya sāvarṇi, indra sāvarṇi
+# 16
+## vikāra
+manas, { karṇa/śrotra, tvak/sparṣa, ghrāṇa/nāsikā, cakṣu/dṛk, rasana/jihvā }, { vāk/mukha, pāṇi/hasta/karaṇa, pāda/caraṇa, pāyu/antra/meḍhra, upasta/liṅga }, { ākāśa/nabhas, vāyu/marut, tejas/agni, jala/apas, pṛthvī /bhū },
+## ṛtvik
+hotā, (maitrāvaruṇa, acchāvāka, grāvastut,) adhvaryu, (pratiprasthātā, neṣṭā, unnetā,) udgātā, (prastotā, pratihartā, subrahmaṇya) brahmā, (brāhmaṇācchaṃsī, agnidhrā, potā)
 # 18
 ## fātimī imām
 'alī, ḥusen, a. zen, m. bāqir, ja'far, ismā'īl, m. b ismā'īl, aḥ. wafī, m. ṭaqī, ḥu. raḍī, aa. maḥdī b l., qāim b 'amr, manṣūr b naṣr, mu'izz b dīn, nizār 'azīz ḥākim b 'amr, z.āhir l i'zāz dīn, mustanṣir b l.,
@@ -334,7 +398,8 @@ svayambhu, svārociṣa, uttama, tapas, raivata, cakṣus, vaivasvat, sāvarṇi
 ## mu'minī mongoled imāms
 nizār mustafā, (a. hadī, muhtadī /sinān,) jalal dīn, 'alā dīn, rukn dīn, ' śams
 ## sāṃkhya
-prakṛti, puruṣa, buddhi, ahaṃkāra, manas, śabda, sparṣa, rūpa, rasa, gandha, ākāśa/nabhas, vāyu/marut, tejas/agni, jala/apas, pṛthvī /bhū, karṇa/śrotra, tvak/sparṣa, ghrāṇa/nāsikā, cakṣu/dṛk, rasana/jihvā, vāk/mukha, pāṇi/hasta/karaṇa, pāda/caraṇa, pāyu/antra/meḍhra, upasta/liṅga 
+prakṛti, puruṣa, buddhi, ahaṃkāra, manas, { śabda, sparṣa, rūpa, rasa, gandha }, { ākāśa/nabhas, vāyu/marut, tejas/agni, jala/apas, pṛthvī /bhū }, { karṇa/śrotra, tvak/sparṣa, ghrāṇa/nāsikā, cakṣu/dṛk, rasana/jihvā }, { vāk/mukha, pāṇi/hasta/karaṇa, pāda/caraṇa, pāyu/antra/meḍhra, upasta/liṅga }
+[[ishvKrsh.smkhK#3]]
 # 28
 ## nājiban
 ## qāṣimī mongoled imāms

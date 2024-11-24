@@ -34,3 +34,7 @@ Can convince people to do things harmful to themselves
 
 
 The oldest surviving species are some bacteria
+
+# khecara
+Kha cavity, body cavity (9)
+Like bacteria living in body cavities

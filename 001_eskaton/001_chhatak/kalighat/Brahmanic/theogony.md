@@ -1,6 +1,16 @@
 # rg
 § ṛg - 12th-10th cent bce
-
+## dakṣa
+### 1.89#4
+![[RV#1.89#4]]
+### 10.72#4
+![[RV#10.72#4]]
+### 10.72#5
+![[RV#10.72#5]]
+## aditi
+### 1.89.10
+#### vishva.deva
+![[RV#1.89#10]]
 ## sūrya
 ### 1.115#1
 #### mitra.cakṣu
@@ -110,8 +120,21 @@
 #### parama.pada.sūri.sadā.dṛṣṭa
 
 ![[RV#1.22#20]]
+## brhaspati
 
+### 2.23#1
+#### brahmaṇaspati
+![[RV#2.23#1]]
+### 2.23#2
+#### yajniya.bhaaga.deva.aasha
+#### asurya
+#### 
+![[RV#2.23#2]]
+### 10.72#1-2
+#### deva
+![[RV#10.72#1]]
 
+![[RV#10.72#2]]
 ## gayatri
 ### 3.62#10
 ~~ gāyatri
@@ -153,6 +176,55 @@
 ## mātā
 ### 9.102#4
 ![[RV#9.102#4]]
+
+## asat
+### 10.5#7
+#### parama.vyoma
+#### dakṣa.janma
+#### aditi.upa.stha
+![[RV#10.5#7]]
+### 10.72#2
+#### sat.janaka
+### 10.129#1
+![[RV#10.129#1]]
+### 10.129#2
+#### avāta.svadhā.ān
+![[RV#10.129#2]]
+
+### 10.129#3
+#### agra.tamas
+#### agra.aketa.salila
+![[RV#10.129.#3]]
+
+### 10.129#4
+
+#### agra.manas.retas.kāma
+#### kavi.maniṣ.bandhu
+![[RV#10.129#4]]
+
+### 10.129#5
+
+#### tuccha.apihita
+#### tapas.mahi.eka.jāta
+
+![[RV#10.129#5]]
+
+### 10.129#6
+#### idam.visarjana.arvāc.deva
+![[RV#10.129#6]]
+
+### 10.129#7
+#### idam.vyoma.adhyakṣa.vid
+![[RV#10.129#7]]
+
+### 10.129
+#### sukta
+:[[RV#10.129]]
+
+## sat
+### 10.72#2
+#### asat.jāta
+
 ## visvakarma
 ### 10.82#2
 
@@ -361,59 +433,12 @@
 #### devīsūkta 
 ![[RV#10.125]]
 
-## nasadiya
-### 10.129#1
-#### avāta.svadhā.ān
-![[RV#10.129#2]]
-
-### 10.129#3
-#### agra.tamas
-#### agra.aketa.salila
-![[RV#10.129.#3]]
-
-### 10.129#4
-
-#### agra.manas.retas.kāma
-#### kavi.maniṣ.bandhu
-![[RV#10.129#4]]
-
-### 10.129#5
-
-#### tuccha.apihita
-#### tapas.mahi.eka.jāta
-
-![[RV#10.129#5]]
-
-### 10.129#6
-#### idam.visarjana.arvāc.deva
-![[RV#10.129#6]]
-
-### 10.129#7
-#### idam.vyoma.adhyakṣa.vid
-![[RV#10.129#7]]
-
-### 10.129
-#### sukta
-:[[RV#10.129]]
-
 ## ?
 ### 8.77#2
 ~~ śavasī mother of śatakratu ![[RV#8.77#1]]![[RV#8.77#2]]
 # sama
 § sāma - 12th-10th cent bc
-# vajSm
-§ vājasaneyi s. - 12th-8th c bce
-## puruṣa
-### 31
-#### sukta
-### 31.1-16
 
-[[VS.md#p31#1-16]]
-
-### 31.17
-#### viśvakarmā
-#### tvaṣṭā
-![[VS.md#p31#17]]
 # taittSm
 ## rudra
 § taittariya s. - 12th-8th century BCE
@@ -441,6 +466,27 @@
 #### pañcarātra.yajña
 #### ṛtū.srj
 ![[TS#7.1.10#1]]
+# vajSm
+§ vājasaneyi s. - 12th-8th c bce
+## puruṣa
+### 31
+#### sukta
+### 31.1-16
+
+[[VS.md#p31#1-16]]
+
+### 31.17
+#### viśvakarmā
+#### tvaṣṭā
+![[VS.md#p31#17]]
+
+# taittBr
+# tandBr
+# jmBr
+§ jaiminiya br. - 8-6th c. BC
+~~ prajāpati teach varuṇa to be king of devas 
+### 2.26/2.266
+![[JB#2.266]]
 
 # kausBr
 § kauṣitakī br. - 8-6th c. BC
@@ -455,12 +501,39 @@
 ![[AB#3.33#1-4]]
 
 # spBr
+## prajāpati
+
 ### 1.2.5.1
 § śatapatha br. - 8-6th cent BCE
 ~~ devas, asuras sprung from prajāpati, asuras beat devas 
+#### deva.asura.janaka
 ![[SpB#1.2.5#1]]
-### 1.2.5.2-5
-~~ asuras allowed devas to keep pṛthivī bhāga equal to vāmana viṣṇu yajña ![[SpB#1.2.5#2-5]]
+### 2.4.4.2
+#### dakṣa
+![[SpB#2.4.4#2]]
+## asura
+### 1.2.5.1
+#### prājāpatya
+#### deva.spardhā
+#### deva.anu.vya
+#### tad.idam.bhūvana.khalu.manas
+![[SpB#1.2.5#1]]
+### 1.2.5.2
+#### pṛthivī.paścāt.prāñca.ukṣan.carma.vibhāga
+#### pṛthivī.upa.jīva
+![[SpB#1.2.5#2]]
+## viṣṇu
+### 1.2.5.3
+#### deva.yajña.puras.kṛta
+![[SpB#1.2.5#3]]
+
+### 1.2.5.4
+#### abhi.śita.pṛthivī.bhāga.asura.deva.datta
+~~ asuras allowed devas to keep pṛthivī bhāga equal to vāmana viṣṇu yajña 
+![[SpB#1.2.5#4]]
+### 1.2.5.5
+#### vāmana
+![[SpB#1.2.5#5]]
 ### 1.2.5.13
 ~~ saṃvatsara prajāpati yajña ![[SpB#1.2.5#13]]
 ### 1.2.5.18
@@ -511,11 +584,10 @@
 ### 14.2.1.11
 ~~ varāha prajāpati pṛthivī 
 ![[SpB#14.2.1#11]]
-# jmBr
-§ jaiminiya br. - 8-6th c. BC
-~~ prajāpati teach varuṇa to be king of devas 
-### 2.26/2.266
-![[JB#2.266]]
+## dakṣa
+### 2.4.4.2
+#### prajāpati
+![[SpB#2.4.4#2]]
 
 # RVKhil
 ## śrī
@@ -554,7 +626,7 @@ virocana prāhrādi vatsa of virāṭ while being milked for/as māyā by dvimur
 
 # baUp
 § bṛhadāraṇyaka up. - 8-6th c. BC
-# cg Up
+# cgUp
 ### 1.2.1
 § chandogya upaniṣad - 8th-6th c. BCE
 ~~ deva asura children of prajāpati ![[ChU#1.2#1]]
@@ -571,25 +643,25 @@ virocana prāhrādi vatsa of virāṭ while being milked for/as māyā by dvimur
 #### brahman
 #### puruṣa
 ![[TA#10.15]]
-# mdUp
-### 1.1.8
-§ muṇḍaka u. - 4th c. BC
-~~ anna puruṣa 
-![[MU#1.1#8]]
+# ishU
+# taitUp
+# kstkU
+# aitU
 # kthAr
 § kaṭha ār. - 6-4th c. BC
 ~~ śiva
-# mtrUp
-§ maitri upaniṣad - 4th century BCE
-~~ rudra brahma viṣṇu trimurti triguṇa tamas rajas sattva
+# knU
+# KthU
 # MB
 § MB - 4th century BCE
 # bauDhSu
 § baudhāyana dharma sutra - 6th-3rd c. BC
 # bauGrSu
 § baudhāyana gṛhya sutra - 6th-3rd BC
-# bahSlSu
+# bauSlSu
 § baudhāyana śulva sutra - 6th-3rd BC
+# vtnSrSu
+# gpB
 # brmSu
 § brahma sutra - 5-2 c. BC
 ~~ bādarāyana vedānta on upaniṣad
@@ -685,3 +757,14 @@ virocana prāhrādi vatsa of virāṭ while being milked for/as māyā by dvimur
 #### svābhāvikī
 #### jñānabalakriyā
 ![[svetU#6.8]]
+# mundUp
+### 1.1.8
+§ muṇḍaka u. - 4th c. BC
+~~ anna puruṣa 
+![[MundU#1.1#8]]
+# mhnrU
+# prsnU
+# mtrUp
+§ maitri upaniṣad - 4th century BCE
+~~ rudra brahma viṣṇu trimurti triguṇa tamas rajas sattva
+# mandU
