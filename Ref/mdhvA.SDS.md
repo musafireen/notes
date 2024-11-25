@@ -572,7 +572,7 @@ At this point the Buddhists (abhdhā) remark:
 
 यदभ्यधायि अविनाभावो दुर्बोध इति तदसाधीयः । 
 
-As for what you (Chārvākas) (abhidhā) laid down as to the (dur) difficulty of (bodha) ascertaining (avinābhāva) invariable concomitance, your position is (asādhiya) unacceptable, 
+As for what you (Chārvākas) (abhidhā) laid down as to the (dur) difficulty of (bodha) ascertaining (avinābhāva) invariable concomitance, your position is (asādhīya) unacceptable, 
 
 तादात्म्यतदुत्पत्तिभ्यामविनाभावस्य सुज्ञानत्वात् । 
 
@@ -592,13 +592,29 @@ results a (niyama) law of invariable concomitance—
 
 ऽदर्शनान्तरदर्शनात् ॥
 
-not through the mere (darśana) observation of the desired result in similar cases, nor through the non-observation of it in dissimilar cases." [29]
+not through the mere (darśana) observation of the desired result in similar cases, nor through the non-observation of it in (antara) dissimilar cases." [29]
 
 ( न्या० बि० ) इति ।
 #### 2 
-अन्वयव्यतिरेकावविनाभावनिश्चायकाविति पक्षे साध्यसाधनयोरव्यभिचारो दुरवधारणो भवेत् । भूते भविष्यति वर्तमाने चानुपलभ्यमानेऽर्थे व्यभिचारशकाया अनिवारणात् । ननु तथाविधस्थले तावकेऽपि मते व्यभिचारशङ्का दुष्परिहरेति चेन्मैव वोचः। दिनाऽपि कारणं कार्यमुत्पद्यतामित्येवंविधायाः शङ्काया व्याघातावधिकतया निवृत्तत्वात् । तदेव ह्याशङ्कयेत यस्मिन्नाशयमाने व्याघा. तादयो नावतरेयुः । तदुक्तम्\- व्याघातावधिराशङ्का[न्या० कु० ३ । ७] इति । तस्मात्तदुत्पत्तिनिश्चयेनाविनाभावो निश्चीयते । तदुत्पत्तिनिश्चयश्च कार्यहेत्वोः प्रत्यक्षोपलम्भानुपलम्भपञ्चकनिबन्धनः । कार्यस्योत्पत्तेः प्रागनुपलम्भः कारणो. पलम्भे सत्युपलम्भ उपलब्धस्य पश्चात्कारणानुपलम्भादनुपलम्भ इति पञ्चकारण्या धूमधूमध्वजयोः कार्यकारणभावो निश्चीयते । तथा तादात्म्यनिश्वयेनाप्यविनाभावो निश्चीयते । यदि शिंशपा वृक्षत्वमतिपतेत्स्वात्मानमेव जह्यादिति विपक्षे बाधक प्रवृत्तेः । अप्रवृत्ते तु. बाधके भूयः सहभावोपलम्भेऽपि व्यभिचारशङ्कायाः को निवारयिता । शिंशपावृक्षयोश्च तादात्म्यनिश्चयो वृक्षोऽयं शिंशपति सामानाधिकरण्यबलादुपपद्यते । न ह्यत्यन्ताभेदे तत्संभवति । पर्यायत्वेन युगपत्प्रयोगायोगात् । नाप्यत्यन्तभेदे । गवा श्वयोरनुपलम्भात् । तस्मात्कार्यात्मानौ कारणात्मानावनुमापयत इति सिद्धम् ।।
+अन्वयव्यतिरेकावविनाभावनिश्चायकाविति पक्षे 
 
-On the hypothesis (of the Naiyāyikas) that it is concomitance and non-concomitance (e. g. , A is where B is, A is not where B is not) that determine an invariable connection, the unconditional attendance of the major or the middle term would be unascertainable, it being impossible to exclude all doubt with regard to instances past and future, and present but unperceived. If one (a Naiyāyika) rejoin that uncertainty in regard to such instances is equally inevitable on our system, we reply: Say not so, for such a supposition as that an effect may be produced without any cause would destroy itself by putting a stop to activity of any kind; for such doubts [13]alone are to be entertained, the entertainment of which does not implicate us in practical absurdity and the like, as it has been said, "Doubt terminates where there is a practical absurdity." [30]
+On the (pakṣa) hypothesis (of the Naiyāyikas) that it is (anvaya) concomitance and (vyatireka) non-concomitance (e. g. , A is where B is, A is not where B is not) that (niścāyaka) determine an (avinābhāva) invariable connection, 
+
+साध्यसाधनयोरव्यभिचारो दुरवधारणो भवेत् । 
+
+the (avyabhicāra) unconditional attendance of the (sādhya) major or the (sādhana) middle term would be (dur) (avadhāraṇa) unascertainable, 
+
+भूते भविष्यति वर्तमाने चानुपलभ्यमाने च व्यभिचारशङ्काया अनिवारणात् । 
+
+it being (a) impossible to (nivāraṇa) exclude all (śaṅkā) doubt with regard to instances (bhūta) past and (bhaviṣyat) future, and (vartamāṇa) present but (anupalabhyamāṇa) unperceived. 
+
+ननु तथाविधस्थले तावकेऽपि मते व्यभिचारशङ्का दुष्परिहरेति चेन्मैव वोचः। 
+
+If one (a Naiyāyika) rejoin that uncertainty in regard to such (vidha) (sthala) instances is equally inevitable on our system, we reply: Say not so, for such a supposition as that an effect may be produced without any cause would destroy itself by putting a stop to activity of any kind; 
+
+दिनाऽपि कारणं कार्यमुत्पद्यतामित्येवंविधायाः शङ्काया व्याघातावधिकतया निवृत्तत्वात् । तदेव ह्याशङ्कयेत यस्मिन्नाशयमाने व्याघा. तादयो नावतरेयुः । तदुक्तम्\- व्याघातावधिराशङ्का[न्या० कु० ३ । ७] इति । तस्मात्तदुत्पत्तिनिश्चयेनाविनाभावो निश्चीयते । तदुत्पत्तिनिश्चयश्च कार्यहेत्वोः प्रत्यक्षोपलम्भानुपलम्भपञ्चकनिबन्धनः । कार्यस्योत्पत्तेः प्रागनुपलम्भः कारणो. पलम्भे सत्युपलम्भ उपलब्धस्य पश्चात्कारणानुपलम्भादनुपलम्भ इति पञ्चकारण्या धूमधूमध्वजयोः कार्यकारणभावो निश्चीयते । तथा तादात्म्यनिश्वयेनाप्यविनाभावो निश्चीयते । यदि शिंशपा वृक्षत्वमतिपतेत्स्वात्मानमेव जह्यादिति विपक्षे बाधक प्रवृत्तेः । अप्रवृत्ते तु. बाधके भूयः सहभावोपलम्भेऽपि व्यभिचारशङ्कायाः को निवारयिता । शिंशपावृक्षयोश्च तादात्म्यनिश्चयो वृक्षोऽयं शिंशपति सामानाधिकरण्यबलादुपपद्यते । न ह्यत्यन्ताभेदे तत्संभवति । पर्यायत्वेन युगपत्प्रयोगायोगात् । नाप्यत्यन्तभेदे । गवा श्वयोरनुपलम्भात् । तस्मात्कार्यात्मानौ कारणात्मानावनुमापयत इति सिद्धम् ।।
+
+for such doubts [13]alone are to be entertained, the entertainment of which does not implicate us in practical absurdity and the like, as it has been said, "Doubt terminates where there is a practical absurdity." [30]
 
 By ascertainment of an effectuation, then, of that (viz. , of the designate of the middle) is ascertained the invariable concomitance (of the major); and the ascertainment of such effectuation may arise from the well-known series of five causes, in the perceptive cognition or non-cognition of cause and effect. That fire and smoke, for instance, stand in the relation of cause and effect is ascertained by five indications, viz.
 

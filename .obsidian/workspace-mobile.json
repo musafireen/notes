@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/RV.md",
+                "file": "Ref/mdhvA.SDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RV"
+              "title": "mdhvA.SDS"
             }
           },
           {
@@ -354,7 +354,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/RV.md"
+            "file": "Ref/mdhvA.SDS.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -373,6 +373,7 @@
   },
   "active": "0edc011ee8dbb1f1",
   "lastOpenFiles": [
+    "Ref/RV.md",
     "Ref/ktl.arthSh.md",
     "Ref/aps.md",
     "Ref/RV.sync-conflict-20241125-015844-AFLIAW3.md",
@@ -382,7 +383,6 @@
     "Ref/kmS.md",
     "Ref/MnSmr.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/nuh/nuh_utnapishtim_manu.md",
-    "Ref/RV.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/nuh.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Samkhya_kabbala_ghuli.md",
     "Ref/SpB.md",
