@@ -4,6 +4,29 @@ https://sanskritdocuments.org/doc_upanishhat/kaushhiitaki.html
 https://sacred-texts.com/hin/sbe01/index.htm
 
 # a1
+### 1
+चित्रो ह वै गार्ग्यायणिर्यक्षमाण आरुणिं वव्रे स ह पुत्रं
+श्वेतकेतुं प्रजिघाय याजयेति तं हासीनं पप्रच्छ
+गौतमस्य पुत्रास्ते संवृतं लोके यस्मिन्माधास्यस्यन्यमहो
+बद्ध्वा तस्य लोके धास्यसीति स होवाच नाहमेतद्वेद
+हन्ताचार्यं प्रच्छानीति स ह पितरमासाद्य पप्रच्छेतीति
+मा प्राक्षीत्कथं प्रतिब्रवाणीति स होवाचाहमप्येतन्न वेद
+सदस्येव वयं स्वाध्यायमधीत्य हरामहे यन्नः परे
+ददत्येह्युभौ गमिष्याव इति ॥ स ह समित्पाणिश्चित्रं
+गार्ग्यायणिं प्रतिचक्रम उपायानीति तं होवाच ब्रह्मार्होसि
+गौतम यो मामुपागा एहि त्वा ज्ञपयिष्यामीति ॥ १॥
+
+KITRA Gâṅgyâyani 1, forsooth, wishing to perform a sacrifice, chose Âruni (Uddâlaka 2, to be his chief priest). But Âruni sent his son, Svetaketu, and said: 'Perform the sacrifice for him.' When Svetaketu 3 had arrived, Kitra asked him: 'Son of Gautama 4, is there a hidden place in the world where you are able to place me, or is it the other way, and are you going to place me in the world to which it (that other way) leads 5?'
+
+p. 272
+
+He answered and said: 'I do not know this. But, let me ask the master.' Having approached his father, he asked: 'Thus has Kitra asked me; how shall I answer?'
+
+p. 273
+
+Âruni said: 'I also do not know this. Only after having learnt the proper portion of the Veda in Kitra's own dwelling, shall we obtain what others give us (knowledge). Come, we will both go.'
+
+Having said this he took fuel in his hand (like a pupil), and approached Kitra Gâṅgyâyani, saying: 'May I come near to you?' He replied: 'You are worthy of Brahman 1, O Gautama, because you were not led away by pride. Come hither, I shall make you know clearly.'
 ### 2
 स होवाच ये वैके चास्माल्लोकात्प्रयन्ति चन्द्रमसमेव ते
 सर्वे गच्छन्ति तेषां प्राणैः पूर्वपक्ष
@@ -36,6 +59,96 @@ And Kitra said: All who depart from this world (or this body) go to the moon 2.
 वायं नदीं प्रापन्नवानयं जिगीष्यतीति ॥ ३॥
 
 He (at the time of death), having reached the path of the gods, comes to the world of Agni (fire), to the world of Vâyu (air), to the world of Varuna, to the world of Indra, to the world of Pragâpati (Virâg), to the world of Brahman (Hiranyagarbha). In that world there is the lake Âra 3, the moments called Yeshtiha 4, the river Vigarâ (age-less), the tree Ilya 5, the city Sâlagya, the palace Aparâgita (unconquerable), the door-keepers Indra and Pragâpati, the hall of Brahman, called Vibhu 1 (built by vibhu, egoism), the throne Vikakshanâ (buddhi, perception), the couch Amitaugas (endless splendour), and the beloved Mânasî (mind) and her image Kâkshushî (eye), who, as if taking flowers, are weaving the worlds, and the Apsaras, the Ambâs (sruti, sacred scriptures), and Ambâyavîs (buddhi, understanding), and the rivers Ambayâs (leading to the knowledge of Brahman). To this world he who knows this (who knows the Paryaṅka-vidyâ) approaches. Brahman says to him: 'Run towards him (servants) with such worship as is due to myself. He has reached the river Vigarâ (age-less), he will never age.
+### 4
+तं पञ्चशतान्यप्सरसां प्रतिधावन्ति शतं मालाहस्ताः
+शतमाञ्जनहस्ताः शतं चूर्णहस्ताः शतं वासोहस्ताः
+शतं कणाहस्तास्तं ब्रह्मालङ्कारेणालङ्कुर्वन्ति स
+ब्रह्मालङ्कारेणालङ्कृतो ब्रह्म विद्वान् ब्रह्मैवाभिप्रैति स
+आगच्छत्यारं हृदं तन्मनसात्येति तमृत्वा सम्प्रतिविदो
+मज्जन्ति स आगच्छति मुहूर्तान्येष्टिहांस्तेऽस्मादपद्रवन्ति
+स आगच्छति विरजां नदीं तां मनसैवात्येति
+तत्सुकृतदुष्कृते धूनुते तस्य प्रिया ज्ञातयः
+सुकृतमुपयन्त्यप्रिया दुष्कृतं तद्यथा रथेन
+धावयन्रथचक्रे पर्यवेक्षत एवमहोरात्रे पर्यवेक्षत एवं
+सुकृतदुष्कृते सर्वाणि च द्वन्द्वानि स एष विसुकृतो
+विदुष्कृतो ब्रह्म विद्वान्ब्रह्मैवाभिप्रैति ॥४॥
+
+Then five hundred Apsaras go towards him, one hundred with garlands in their hands, one hundred with ointments in their hands, one hundred with perfumes in their hands, one hundred with garments in their hands, one hundred with fruit 2 in their hands. They adorn him with an adornment worthy of Brahman, and when thus adorned with the adornment of Brahman, the knower of Brahman moves towards Brahman (neut.) 3 He comes to the lake Âra, and he crosses it by the mind, while those who come to it without knowing the truth 4, are drowned. He comes to the moments called Yeshtiha, they flee from him.
+
+p. 277
+
+He comes to the river Vigarâ, and crosses it by the mind alone, and there shakes off his good and evil deeds. His beloved relatives obtain the good, his unbeloved relatives the evil he has done. And as a man, driving in a chariot, might look at the two wheels (without being touched by them), thus he will look at day and night, thus at good and evil deeds, and at all pairs (at all correlative things, such as light and darkness, heat and cold, &c.) Being freed from good and freed from evil he, the knower of Brahman (neut.), moves towards Brahman.
+
+### 5
+स आगच्छति तिल्यं वृक्षं तं ब्रह्मगन्धः प्रविशति स
+आगच्छति सायुज्यं संस्थानं तं ब्रह्म स प्रविशति
+आगच्छत्यपराजितमायतनं तं ब्रह्मतेजः प्रविशति स
+आगच्छतीन्द्रप्रजापती द्वारगोपौ तावस्मादपद्रवतः स
+आगच्छति विभुप्रमितं तं ब्रह्मयशः प्रविशति स
+आगच्छति विचक्षणामासन्दीं बृहद्रथन्तरे सामनी
+पूर्वौ पादौ ध्यैत नौधसे चापरौ पादौ वैरूपवैराजे
+शाक्वररैवते तिरश्ची सा प्रज्ञा प्रज्ञया हि विपश्यति स
+आगच्छत्यमितौजसं पर्यङ्कं स प्राणस्तस्य भूतं च
+भविष्यच्च पूर्वौ पादौ श्रीश्चेरा चापरौ
+बृहद्रथन्तरे अनूच्ये भद्रयज्ञायज्ञीये
+शीर्षण्यमृचश्च सामानि च प्राचीनातानं यजूंषि
+तिरश्चीनानि सोमांशव उपस्तरणमुद्गीथ उपश्रीः
+श्रीरुपबर्हणं तस्मिन्ब्रह्मास्ते तमित्थंवित्पादेनैवाग्र
+आरोहति तं ब्रह्माह कोऽसीति तं प्रतिब्रूयात् ॥ ५॥
+
+He approaches the tree Ilya, and the odour of Brahman reaches him. He approaches the city Sâlagya, and the flavour of Brahman reaches him. He approaches the palace Aparâgita, and the splendour of Brahman reaches him. He approaches the door-keepers Indra and Pragâpati, and they run away from him. He approaches the hall Vibhu, and the glory of Brahman reaches him (he thinks, I am Brahman). He approaches the throne Vikakshanâ. The Sâman verses, Brihad and Rathantara, are the eastern feet of that throne 1; the Sâman verses, Syaita and Naudhasa, its western feet; the Sâman verses, Vairûpa and Vairâga, its sides lengthways (south and north); the Sâman verses, Sâkvara and Raivata, its sides crossways (east and west). That throne is Pragñâ, knowledge, for by knowledge (self-knowledge) he sees clearly. He approaches the couch Amitaugas. That is Prâna (speech). The past and the future are its eastern feet; prosperity and earth its western feet; the Sâman verses, Brihad and Rathantara, are the two sides lengthways of the couch (south and north);
+
+p. 278
+
+the Sâman verses, Bhadra and Yagñâyagñîya, are its cross-sides at the head and feet (east and west); the Rik and Sâman are the long sheets 1 (east and west); the Yagus the cross-sheets (south and north); the moon-beam the cushion; the Udgîtha the (white) coverlet; prosperity the pillow 2. On this couch sits Brahman, and he who knows this (who knows himself one with Brahman sitting on the couch) mounts it first with one foot only. Then Brahman says to him: 'Who art thou?' and he shall answer:
+
+### 6
+ऋतुरस्म्यार्तवोऽस्म्याकाशाद्योनेः सम्भूतो भार्यायै रेतः
+संवत्सरस्य तेजोभूतस्य भूतस्यात्मभूतस्य त्वमात्मासि
+यस्त्वमसि सोहमस्मीति तमाह कोऽहमस्मीति सत्यमिति ब्रूयात्किं
+तद्यत्सत्यमिति यदन्यद्देवेभ्यश्च प्राणेभ्यश्च तत्सदथ
+यद्देवाच्च प्राणाश्च तद्यं तदेतया वाचाभिव्याह्रियते
+सत्यमित्येतावदिदं सर्वमिदं सर्वमसीत्येवैनं तदाह
+तदेतच्छ्लोकेनाप्युक्तम् ॥ ६॥
+
+यजूदरः सामशिरा असावृङ्मूर्तिरव्ययः । स ब्रह्मेति हि
+विज्ञेय ऋषिर्ब्रह्ममयो महानिति ॥
+
+'I am (like) a season, and the child of the seasons, sprung from the womb of endless space, from the light (from the luminous Brahman). The light, the origin of the year, which is the past, which is the present, which is all living things, and all elements, is the Self 3. Thou art the Self. What thou art, that am U
+
+Brahman says to him: 'Who am I?' He shall answer: 'That which is, the true' (Sat-tyam).
+
+Brahman asks: 'What is the true?' He says to him: 'What is different from the gods and from the senses (prâna) that is Sat, but the gods and the
+
+p. 279
+
+senses are Tyam. Therefore by that name Sattya (true) is called all this whatever there is. All this thou art.'
+
+### 7
+तमाह केन पौंस्रानि नामान्याप्नोतीति प्राणेनेति ब्रूयात्केन
+स्त्रीनामानीति वाचेति केन नपुंसकनामानीति मनसेति केन
+गन्धानिति घ्राणेनेति ब्रूयात्केन रूपाणीति चक्षुषेति केन
+शब्दानिति श्रोत्रेणेति केनान्नरसानिति जिह्वयेति केन कर्माणीति
+हस्ताभ्यामिति केन सुखदुःखे इति शरीरेणेति केनानन्दं रतिं
+प्रजापतिमित्युपस्थेनेति केनेत्या इति पादाभ्यामिति केन धियो
+विज्ञातव्यं कामानिति प्रज्ञयेति प्रब्रूयात्तमहापो वै खलु
+मे ह्यसावयं ते लोक इति सा या ब्रह्मणि चितिर्या व्यष्टिस्तां
+चितिं जयति तां व्यष्टिं व्यश्नुते य एवं वेद य एवं वेद
+॥ ७॥ प्रथमोऽध्यायः ॥ १॥
+
+This is also declared by a verse: 'This great Rishi, whose belly is the Yagus, the head the Sâman, the form the Rik, is to be known as being imperishable, as being Brahman.'
+
+Brahman says to him: 'How dost thou obtain my male names?' He should answer: 'By breath (prânah).'
+
+Brahman asks: 'How my female names?' He should answer: 'By speech (vâk).'
+
+Brahman asks: 'How my neuter names?' He should answer: 'By mind (manas).'
+
+'How smells?' 'By the nose.' 'How forms?' 'By the eye.' 'How sounds?' 'By the ear.' 'How flavours of food?' 'By the tongue.' 'How actions?' 'By the hands.' 'How pleasures and pain?' 'By the body.' 'How joy, delight, and offspring?' 'By the organ.' 'How journeyings?' 'By the feet.' 'How thoughts, and what is to be known and desired?' 'By knowledge (pragñâ) alone.'
+
+Brahman says to him: 'Water indeed is this my world 1, the whole Brahman world, and it is thine.'
+
+Whatever victory, whatever might belongs to Brahman, that victory and that might he obtains who knows this, yea, who knows this 2.
 # a2
 Prana
 # a3

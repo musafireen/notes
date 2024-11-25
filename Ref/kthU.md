@@ -101,6 +101,27 @@ What decaying mortal living in the world below and possessed of knowledge, havin
 
 Oh Death, tell us that in which men have this doubt, and which is about the great hereafter; no other boon doth Nachiketas crave, than this which entered into the secret. 
 ## 1.3
+#### 3
+आत्मानँ रथितं विद्धि शरीरँ रथमेव तु ।
+बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च ॥ ३ ॥
+
+Know the atman as the lord of the chariot, the body as only the chariot, know also intelligence as the driver; know the minds as the reins.
+
+#### 4
+इन्द्रियाणि हयानाहुर्विषयाँ स्तेषु गोचरान् ।
+आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः ॥ ४ ॥
+
+The senses, they say, are the horses; the objects which they perceive, the way; the atman, the senses and the mind combined, the intelligent call the enjoyer.
+#### 5
+यस्त्वविज्ञानवान्भवत्ययुक्तेन मनसा सदा ।
+तस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ॥ ५ ॥
+
+But of him who is not possessed of discrimination, and whose mind is always uncontrolled, the senses are not controllable as vicious horses of a driver.
+#### 6
+यस्तु विज्ञानवान्भवति युक्तेन मनसा सदा ।
+तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ॥ ६ ॥
+
+But of him who knows and has a mind always controlled, the senses are always controllable as the good horses of the driver.
 #### 7
 यस्त्वविज्ञानवान् भवत्यमनस्कः सदाशुचिः /
 न स तत् पदमाप्नोति संसारं चाधिगच्छति // KaU_3.7 //

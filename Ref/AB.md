@@ -2,6 +2,7 @@
 https://sa.m.wikisource.org/wiki/ऐतरेय_ब्राह्मणम्
 
 http://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/rv/ab/ab.htm
+# k1
 ## 1.1
 ### 1-2
 http://www.mahapashupatastra.com/2011/11/rudra-is-sacrifice-yajna-uma-is.html?m=1
@@ -55,12 +56,18 @@ All the Vav verses and pages follow the king who has bought the moon, and all wh
 ऽग्निम् मन्थन्ति सोमे राजन्य् आगते। तद् यथैवादो मनुष्यराागते ऽन्यस्मिन् वार्हत्य् उक्षाणं वा वेहतं वा क्षदन्तेवम् एवास्मा एतत् क्षदन्ते यद् अग्निम् मन्थन्त्य्; अग्निर् हि देवानाम् पशुः
 
 'They churn the fire when the moon comes to the kings. That is, just as the arguments when a man comes to another, they burn the wooden stick or the wooden stick, so they burn this one that churns the fire; For fire is the animal of the gods
-
+# k2
 ## 2.3
 #### 9
-
 सर्वाभ्यो वा एष देवताभ्य आत्मानमालभते यो दीक्षतेऽग्निः सर्वा देवताः सोमः सर्वा देवताः स यदग्नीषोमीयं पशुमालभते सर्वाभ्य एव तद्देवताभ्यो यजमान आत्मानं निष्क्रीणीते
 
+
+## 2.22
+#### 10
+आसुरी वै दीर्घजिह्वी देवानां प्रातःसवनमवालेट् तद्व्यमाद्यते देवाः प्राजिज्ञासन्त ते मित्रावरुणावब्रुवन्युवमिदं निष्कुरुतमिति तौ तथेत्यब्रूतां तौ वै वो वरं वृणावहा इति वृणाथामिति तावेतमेव वरमवृणातां प्रातःसवने पयस्यां सैनयोरेषाऽच्युता वरवृता ह्येनयोस्तद्यस्यै विमत्तमिव तदस्यै समृद्धं विमत्तमिव हि तौ तया निरकुरुताम्॥2.22॥
+
+
+# k3
 ## 3.33
 https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/rv/ab/ab.htm
 
@@ -105,13 +112,16 @@ he who knows on this earth only this name (pasuman), becomes rich in cattle.
 मादुषं ह वै नामैतद् यन् मानुषं
 तन् मादुषं सन् मानुषम् इत्य् आचक्षते परोक्षेण
 परोक्षप्रिया इव हि देवाः
+# k4
 ## 4.1
 ????
 देवा वै प्रथमेनाह्नेन्द्राय वज्रं समभरंस्तं द्वितीयेनाह्नासिञ्चंस्तं तृतीयेनाह्ना प्रायच्छंस्तं चतुर्थेऽहन्प्राहरत्तस्माच्चतुर्थेऽहन्षोळशिनं शंसति वज्रो वा एष यत्षोळशी तद्यच्चतुर्थेऽहन्षोळशिनं शंसति वज्रमेव तत्प्रहरति द्विषते भ्रातृव्याय वधं योऽस्य स्तृत्यस्तस्मै स्तर्तवै वज्रो वै षोळशी पशव उक्थानि तम्परस्तादुक्थानाम्पर्यस्य शंसति तं यत्परस्तादुक्थानाम्पर्यस्य शंसति वज्रेणैव तत्षोळशिना पशून्परिगच्छति तस्मात्पशवो वज्रेणैव षोळशिना परिगता मनुष्यानभ्युपावर्तन्ते तस्मादश्वो वा पुरुषो वा गौर्वा हस्ती वा परिगत एव स्वयमात्मनेत एव वाचाभिषिद्ध उपावर्तते वज्रमेव षोळशिनम्पश्यन्वज्रेणैव षोळशिना परिगतो वाग्घि वज्रो वाक् षोळशी तदाहुः किं षोळशिनः षोळशित्वमिति षोळशः स्तोत्राणां षोळशः शस्त्राणां षोळशभिरक्षरैरादत्ते षोळशिभिः प्रणौति षोळशपदां निविदं दधाति तत्षोळशिनः षोळशित्वं द्वे वा अक्षरे अतिरिच्येते षोळशिनोऽनुष्टुभमभिसम्पन्नस्य वाचो वाव तौ स्तनौ सत्यानृते वाव ते। अवत्येनं सत्यं नैनमनृतं हिनस्ति य एवं वेद॥4.1॥
 
 The Yagya went away from the gods (saying), 'I shall not be your food.' 'No', replied the gods, 'Verily thou shalt be our food.' The gods crushed it; it being taken apart was not sufficient for them. The gods said 'It will not be sufficient for us, being taken apart; come, let us gather together the Yagya.' (They replied) 'Be it so'. They gathered it together; having gathered it together they said to the Açvins, 'Do ye two heal it', the Açvins are the physicians of the gods, the Açvins the Adhvaryus; therefore the two Adhvaryus gather together the cauldron [Mahāvīra pot]. Having gathered it together they say, 'O Brahman, we shall proceed with the Pravargya offering; O Hotṛ, do though recite.'
+# k8
 ## 8.23
 #### 1
 एतेन ह वा ऐन्द्रेण महाभिषेकेण दीर्घतमा मामतेयो भरतं दौःषन्तिम् अभिषिषेच तस्माद् उ भरतो दौःषन्तिः समन्तं सर्वतः पृथिवीं जयन् परीयायाश्वैर् उ च मेध्यैर् ईजे
+# k14
 ## 14.9
 #### 4

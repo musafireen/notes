@@ -826,6 +826,7 @@ Let him meditate upon the 'true Brahman.' Now, man here, indeed, is possessed of
 Let him meditate on the Self, which is made up of intelligence, and endowed with a body of spirit, with a form of light, and with an etherial nature, which changes its shape at will, is swift as thought, of true resolve, and true purpose, which consists of all sweet odours and tastes, which holds sway over all the regions and pervades this whole universe, which is speechless and indifferent;even as a grain of rice, or a grain of barley, or a grain of millet, or the smallest granule of millet, so is this golden Purusha in the heart; even as a smokeless light, it is greater than the sky, greater than the ether, greater than the earth, greater than all existing things;—that self of the spirit (breath) is my self: on passing away from hence I shall obtain that self. Verily, whosoever has this trust, for him there is no uncertainty. Thus spake Sandilya, and so it is.
 # aṣṭādhyāyī
 # k11
+
 ### 11.1.6
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1056761.html
 ##### 1
@@ -911,6 +912,7 @@ Now as to the body:—there are in man these five breathings, not including the 
 Now, Shvetaketu Aruneya, who knew this, said once, “To him who will thus know that glory of the fore-offerings, people will in days to come be flocking from all sides as if wishing to see some great serpent.”
 ### 11.3.4
 ### 11.5.1
+https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1056991.html
 ##### 1
 उर्वशी हाप्सराः पुरूरवसमैडं चकमे तं ह विन्दमानोवाच त्रिः स्म माह्नो वैतसेन दण्डेन हतादकामां स्म मा निपद्यासै मो स्म त्वा नग्नं दर्शम्
 
@@ -919,6 +921,10 @@ The nymph Urvashi loved Pururavas, the son of Ida. When she wedded him, she said
  तां हायं ज्ञात्वाभिपरोवाद हये जाये मनसा तिष्ठ घोरे वचांसि मिश्रा कृणवावहै नु न नौ मन्त्रा अनुदितास एते मयस्करन्परतरे चनाहन्नित्युप नु रम सं नु वदावहा इति हैवैनां तदुवाच
 
 He then recognised her and implored her ([[RV#10.95#1]]X, 95, I), “Oh, my wife, stay thou, cruel in mind: let us now exchange words! Untold, these secrets of ours will not bring us joy in days to come;”—“Stop, pray, let us speak together!” this is what he meant to say to her.
+##### 15
+ते  होचुः  संवत्सरं  चातुष्प्राश्यमोदनम्  पच  स एतस्यैवाश्वत्थस्य  तिस्रस्तिस्रः  समिधो  घृतेनांवज्य  समिद्वतीभिर्घृतवतीभिरृग्भिरभ्याधत्तात्स  यस्ततऽग्निर्जनिता  स एव  स  भवितेति
+
+They said, “Cook for a whole year a mess of rice sufficient for four persons; and taking each time three logs from this Ashvattha tree, anoint them with ghee, and put them on the fire with verses containing the words "log" and "ghee": the fire which shall result therefrom will be that very fire (which is required).”
 ### 11.7.1
 ##### 1
 पशुबंधेन  यजते  पशवो  वै  पशुबंधः  स  यत्पशुबंधेन  यजते  पशुमानसानीति  तेन  गृहेषु  यजेत  गृहेषु  पशूंबद्ंना ईति  

@@ -125,6 +125,57 @@ Prajapati assigned food to the gods; he said, 'Whatever shall be left over these
  
 on eleven potsherds, to Indra, the overlord, to Indra, the sovereign. Indra, the king, is this (world of earth), Indra, the overlord, is this (atmosphere), Indra, the sovereign, is yonder (world of heaven); verily he has recourse to these worlds with their own share; verily they bestow food on him; he becomes an eater of food. Even as one milks a cow ready to give milk by reason of its calf, so he milks these worlds, made ready, for desire, for food; he places (the cake) on potsherds face upwards, for variety. There are three cakes, these worlds are three; (verily they serve) to obtain these worlds; each one above the other is larger, for so as it were are these worlds; (verily they serve) for prosperity; he cuts off from all (the cakes) as he sets them up without making a failure; be recites (the verses) alternating, to prevent burning.
 ## 2.5
+### 2.5.1
+१ वि॒श्वरू॑पो॒ वै त्वा॒ष्ट्रः पु॒रोहि॑तो दे॒वाना॑मासीथ्स्व॒स्रीयोऽसु॑राणां॒
+   तस्य॒ त्रीणि॑ शी॒र्षाण्या॑सन्थ्सोम॒पानꣳ॑ सुरा॒पान॑म॒न्नाद॑न॒ꣳ॒
+   स प्र॒त्यक्षं॑ दे॒वेभ्यो॑ भा॒गम॑वदत्प॒रोऽक्ष॒मसु॑रेभ्यः॒ सर्व॑स्मै॒
+   वै प्र॒त्यक्षं॑ भा॒गं वद॑न्ति॒ यस्मा॑ ए॒व प॒रोऽक्षं॒ वद॑न्ति॒ तस्य॑
+   भा॒ग उ॑दि॒तस्तस्मा॒दिंद्रो॑ऽबिभेदी॒दृङ्वै रा॒ष्ट्रं वि प॒र्याव॑र्तय॒तीति॒
+   तस्य॒ वज्र॑मा॒दाय॑ शी॒र्षाण्य॑च्छिन॒द्यथ्सो॑म॒पान॑
+
+२ मासी॒थ्स क॒पिञ्ज॑लोऽभव॒द्यथ्सु॑रा॒पान॒ꣳ॒ स क॑ल॒विङ्को॒
+   यद॒न्नाद॑न॒ꣳ॒ स ति॑त्ति॒रिस्तस्या᳚ञ्ज॒लिना᳚ ब्रह्मह॒त्यामुपा॑गृह्णा॒त्ताꣳ
+   सं॑वथ्स॒रम॑बिभ॒स्तं भू॒तान्य॒भ्य॑क्रोश॒न् ब्रह्म॑ह॒न्निति॒ स
+   पृ॑थि॒वीमुपा॑सीदद॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑यं॒ प्रति॑ गृहा॒णेति॒
+   साब्र॑वी॒द्वरं॑ वृणै खा॒तात् प॑राभवि॒ष्यन्ती॑ मन्ये॒ ततो॒ मा परा॑
+   भूव॒मिति॑ पु॒रा ते॑
+
+३ संवथ्स॒रादपि॑ रोहा॒दित्य॑ब्रवी॒त् तस्मा᳚त्पु॒रा सं॑वथ्स॒रात् पृ॑थि॒व्यै
+   खा॒तमपि॑ रोहति॒ वारे॑वृत॒ग्ग्॒ ह्य॑स्यै॒ तृती॑यं ब्रह्मह॒त्यायै॒
+   प्रत्य॑गृह्णा॒त् तथ्स्वकृ॑त॒मिरि॑णमभव॒त् तस्मा॒दाहि॑ताग्निः
+   श्र॒द्धादे॑वः॒ स्वकृ॑त॒ इरि॑णे॒ नाव॑ स्येद्ब्रह्मह॒त्यायै॒ ह्ये॑ष वर्णः॒
+   स वन॒स्पती॒नुपा॑सीदद॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑यं॒ प्रति॑ गृह्णी॒तेति॒
+   ते᳚ऽब्रुव॒न्वरं॑ वृणामहै वृ॒क्णात्
+
+४ प॑राभवि॒ष्यन्तो॑ मन्यामहे॒ ततो॒ मा परा॑ भू॒मेत्या॒व्रश्च॑नाद्वो॒
+   भूयाꣳ॑स॒ उत्ति॑ष्ठा॒नित्य॑ब्रवी॒त् तस्मा॑दा॒व्रश्च॑नाद् वृ॒क्षाणां॒
+   भूयाꣳ॑स॒ उत्ति॑ष्ठन्ति॒ वारे॑वृत॒ग्ग्॒ ह्ये॑षां॒ तृती॑यं
+   ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्ण॒न्थ्स नि॑र्या॒सो॑ऽभव॒त् तस्मा᳚न्निर्या॒सस्य॒
+   नाश्यं॑ ब्रह्मह॒त्यायै॒ ह्ये॑ष वर्णोऽथो॒ खलु॒ य ए॒व लोहि॑तो॒ यो
+   वा॒व्रश्च॑नान्नि॒र्येष॑ति॒ तस्य॒ नाश्यं॑
+
+५ काम॑म॒न्यस्य॒ स स्त्री॑षꣳसा॒दमुपा॑सीदद॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑यं॒
+   प्रति॑ गृह्णी॒तेति॒ ता अ॑ब्रुव॒न्वरं॑ वृणामहा॒ ऋत्वि॑यात्प्र॒जां वि॑न्दामहै॒
+   काम॒मा विज॑नितोः॒ संभ॑वा॒मेति॒ तस्मा॒दृत्वि॑या॒थ्स्त्रियः॑ प्र॒जां
+   वि॑न्दन्ते॒ काम॒मा विज॑नितोः॒ संभ॑वन्ति॒ वारे॑वृत॒ग्ग्॒ ह्या॑सां॒ तृती॑यं
+   ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्ण॒न्थ्सा मल॑वद्वासा अभव॒त् तस्मा॒न्मल॑वद्वाससा॒
+   न सं व॑देत॒
+
+६ न स॒हासी॑त॒ नास्या॒ अन्न॑मद्याद् ब्रह्मह॒त्यायै॒ ह्ये॑षा वर्णं॑
+   प्रति॒मुच्यास्तेऽथो॒ खल्वा॑हुर॒भ्यञ्ज॑नं॒ वाव स्त्रि॒या अन्न॑म॒भ्यञ्ज॑नमे॒व
+   न प्र॑ति॒गृह्यं॒ काम॑म॒न्यदिति॒ यां मल॑वद्वाससꣳ सं॒भव॑न्ति॒
+   यस्ततो॒ जाय॑ते॒ सो॑ऽभिश॒स्तो यामर॑ण्ये॒ तस्यै᳚ स्ते॒नो यां परा॑चीं॒
+   तस्यै᳚ ह्रीतमु॒ख्य॑पग॒ल्भो या स्नाति॒ तस्या॑ अ॒प्सु मारु॑को॒ या
+
+७ ऽभ्य॒ङ्क्ते तस्यै॑ दु॒श्चर्मा॒ या प्र॑लि॒खते॒ तस्यै॑ खल॒तिर॑पमा॒री याङ्क्ते
+ तस्यै॑ का॒णो या द॒तो धाव॑ते॒ तस्यै᳚ श्या॒वद॒न्॒ या न॒खानि॑ निकृ॒न्तते॒
+ तस्यै॑ कुन॒खी या कृ॒णत्ति॒ तस्यै᳚ क्ली॒बो या रज्जुꣳ॑ सृ॒जति॒ तस्या॑
+ उ॒द्बन्धु॑को॒ या प॒र्णेन॒ पिब॑ति॒ तस्या॑ उ॒न्मादु॑को॒ या ख॒र्वेण॒ पिब॑ति॒
+ तस्यै॑ ख॒र्वस्ति॒स्रो रात्री᳚र्व्र॒तं च॑रेदञ्ज॒लिना॑ वा॒ पिबे॒दख॑र्वेण वा॒
+ पात्रे॑ण प्र॒जायै॑ गोपी॒थाय॑ ॥ २। ५। १॥ यथ्सो॑म॒पानं॑ ते वृ॒क्णात्तस्य॒
+ नाश्यं॑ वदेत॒ मारु॑को॒ याख॑र्वेण वा॒ त्रीणि॑ च ॥ २। ५। १॥
+
+a Viçvarupa, son of Tvastr, was the domestic priest of the gods, and the sister's son of the Asuras. He had three heads, one which drank Soma, one Sura, and one which ate food. He promised openly the share to the gods, secretly to the Asuras. Men promise openly the share to every one; if they promise any one secretly, his share is indeed promised. Therefore Indra was afraid (thinking), 'Such an one is diverting the sovereignty (from me).' He took his bolt and smote off his heads. (The head) which drank Soma [1] became a hazelcock; (the head) which drank Sura a sparrow; (the head) which ate food a partridge. He seized with his hand the guilt of slaying him, and bore it for a year. Creatures called out upon him, 'Thou art a Brahman slayer.' He appealed to the earth, 'Take a third part of my guilt.' She said, 'Let me choose a boon. I deem that I shall be overcome through digging. Let me not be overcome by that.' He replied, 'Before [2] a year is out it will grow up for thee.' Therefore before the year is out the dug-out portion of earth grows up again, for that was what she chose as a boon. She took a third of his guilt. That became a natural fissure; therefore one who has piled up a fire-altar and whose deity is faith should not choose a natural fissure, for that is the colour of guilt. He appealed to the trees, 'Take a third part of my guilt.' They said, 'Let us choose a boon. We deem that we shall be overcome through pruning [3]. Let us not be overcome by that.' He replied, 'From pruning shall more (shoots) spring up for you.' Therefore from the pruning of trees more (shoots) spring up, for that was what they chose as a boon. They took a third part of his guilt, it became sap; therefore one should not partake of sap, for it is the colour of guilt. Or rather of the sap which is red or which comes from the pruning one should not partake [4], but of other sap at will. He appealed to a concourse of women, 'Take the third of my guilt.' They said, 'Let us choose a boon; let us obtain offspring from after the menses; let us enjoy intercourse at will up to birth.' Therefore women obtain offspring from after the menses, and enjoy intercourse at will up to birth, for that was what they chose as a boon. They took a third of his guilt, it became (a woman) with stained garments; therefore one should not converse with (a woman) with stained garments [5], one should not sit with her, nor eat her food, for she keeps emitting the colour of guilt. Or rather they say, 'Woman's food is unguent, and there fore one should not accept (from her) unguent, but anything else (can be accepted) at will.' The son born of intercourse with (a woman) with stained garments is accursed; (the son born) of intercourse in the forest is a thief; (the son born) of intercourse with a (woman) who turns away is shamefaced and retiring; (the son born) of intercourse with a woman bathing is fated to drown; (the son born) of one who [6] anoints herself has a skin disease; (the son born) of one who combs her hair is bald and feeble; (the son born) of one who anoints (her eyes) is blind; (the son born) of one who cleans her teeth has dirty teeth; (the son born) of one who cuts her nails has bad nails; (the son born) of one who spins is a eunuch; (the son born) of one who weaves ropes is unrestrained; (the son born) of one who drinks from a leaf is drunken; (the son born) of one who drinks from a mutilated (vessel) is mutilated. For three nights he should keep a vow and should drink from his hand or from a perfect vessel, to guard his offspring.
 ### 2.5.11
 ##### 5
 ६५ प्र॒जाप॑तिर्दू॒तीरे॒व त्वं मन॑सोऽसि॒ यद्धि मन॑सा॒ ध्याय॑ति॒ तद्वा॒चा
@@ -564,7 +615,66 @@ That to Sarasvant is on twelve potsherds, for pairing, for generation.
 The sacrificial fee is a pair of kine, for prosperity.
 
 वर्च॑सा॒ वै ते द॑र्शपूर्णमा॒सावप॑ तनुते॒ सर॑स्वत्यै॒ पंच॑विꣳशतिश्च ॥ ३। ५। १॥
+## 4.1
+#### 4.1.9
+३५ आकू॑तिम॒ग्निंप्र॒युज॒ग्ग्॒ स्वाहा॒ मनो॑ मे॒धाम॒ग्निं प्र॒युज॒ग्ग्॒ स्वाहा॑ चि॒त्तं
+ विज्ञा॑तम॒ग्निं प्र॒युज॒ग्ग्॒ स्वाहा॑ वा॒चो विधृ॑तिम॒ग्निं प्र॒युज॒ग्ग्॒ स्वाहा᳚
+ प्र॒जाप॑तये॒ मन॑वे॒ स्वाहा॒ग्नये॑ वैश्वान॒राय॒ स्वाहा॒ विश्वे॑ दे॒वस्य॑
+ ने॒तुर्मर्तो॑ वृणीत स॒ख्यं विश्वे॑ रा॒य इ॑षुध्यसि द्यु॒म्नं वृ॑णीत पु॒ष्यसे॒
+ स्वाहा॒ मासुभि॑त्था॒ मासुरि॑षो॒ दृꣳह॑स्व वी॒डय॑स्व॒ सु । अंब॑ धृष्णु
+ वी॒रय॑स्वा॒
 
+३६ ग्निश्चे॒दं क॑रिष्यथः ॥ दृꣳह॑स्व देवि पृथिवि स्व॒स्तय॑ आसु॒री
+ मा॒या स्व॒धया॑ कृ॒तासि॑ । जुष्टं॑ दे॒वाना॑मि॒दम॑स्तु ह॒व्यमरि॑ष्टा॒
+ त्वमुदि॑हि य॒ज्ञे अ॒स्मिन् ॥ मित्रै॒तामु॒खां त॑पै॒षा मा भे॑दि । ए॒तां ते॒ परि॑
+ ददा॒म्यभि॑त्त्यै । द्र्व॑न्नः स॒र्पिरा॑सुतिः प्र॒त्नो होता॒ वरे᳚ण्यः । सह॑सस्पु॒त्रो
+ अद्भु॑तः ॥ पर॑स्या॒ अधि॑ सं॒वतोऽव॑राꣳ अ॒भ्या
+
+३७ त॑र । यत्रा॒हमस्मि॒ ताꣳ अ॑व ॥ प॒र॒मस्याः᳚ परा॒वतो॑ रो॒हिद॑श्व
+ इ॒हाऽग॑हि । पुरी॒ष्यः॑ पुरुप्रि॒योऽग्ने॒ त्वं त॑रा॒ मृधः॑ ॥ सीद॒
+ त्वं मा॒तुर॒स्या उ॒पस्थे॒ विश्वा᳚न्यग्ने व॒युना॑नि वि॒द्वान् । मैना॑म॒र्चिषा॒
+ मा तप॑सा॒भि शू॑शुचो॒ऽन्तर॑स्याꣳ शु॒क्रज्यो॑ति॒र्वि भा॑हि ॥ अ॒न्तर॑ग्ने
+ रु॒चा त्वमु॒खायै॒ सद॑ने॒ स्वे । तस्या॒स्त्वꣳ हर॑सा॒ तप॒ञ्जात॑वेदः शि॒वो
+ भ॑व ॥ शि॒वो भू॒त्वा मह्य॑म॒ग्नेऽथो॑ सीद शि॒वस्त्वम् । शि॒वाः कृ॒त्वा दिशः॒
+ सर्वाः॒ स्वां योनि॑मि॒हास॑दः ॥ ४। १। ९॥ वी॒रय॒स्वाऽतप॑न्विꣳश॒तिश्च॑ ॥
+
+a Purpose, Agni, impulse, hail! Mind, intellect, Agni, impulse, hail! Thought, knowledge, Agni, impulse, hail! Discrimination of speech, Agni, impulse, hail! To Manu, lord of creatures, hail! To Agni Vaiçvanara hail!
+b Let every man choose the companionship
+Of the god who leadeth;
+Every man prayeth for wealth;
+Let him choose glory that he may prosper; hail!
+e Be not broken, nor come to harm;
+Be firm and enduring;
+O mother, daringly show thy heroism [1];
+With Agni wilt thou do this deed.
+d Be firm, O goddess earth, for prosperity;
+Thou art the wile of the Asura, made with power;
+Let this oblation be pleasing to the gods;
+Do thou emerge uninjured at this our sacrifice.
+e O Mitra, heat this pan; may it not break.
+f This I place around thee, to prevent breaking.
+g Feeding on wood, sipping clarified butter,
+The ancient desirable Hotr,
+Son of strength, the wondrous.
+h From a far region
+Come hither to these lower ones [2]
+Favour those in the region where I am.
+i From a far distance
+Do thou of ruddy steeds come hither;
+Of the dust, dear to many,
+O Agni, do thou overcome obstructions.
+k Do thou sit down in the lap of this mother,
+O Agni, knowing all the ways;
+Consume her not with light nor with heat,
+Within her shine with pure radiance.
+l O Agni, with glow
+Within thine own seat of the pan,
+Heating with her blaze,
+Be thou, O all-knower, auspicious.
+m Becoming auspicious to me, O Agni,
+Do thou sit down auspicious;
+Having made all the quarters auspicious
+Sit here on thine own birthplace.
 ## 4.2
 ### 4.2.10
 ##### 2

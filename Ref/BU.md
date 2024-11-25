@@ -2,6 +2,11 @@ https://vivekavani.com/bru1c1v1/
 
 https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bRhadAraNyakopaniSadkANva-recension-comm.htm
 # k1
+## 1.1
+#### 1
+उषा वा अश्वस्य मेध्यस्य शिरः । सूर्यश्चक्षुः, वातः प्राणः, व्यात्तमग्निर्वैश्वानरः, संवत्सर आत्माश्वस्य मेध्यस्य । द्यौः पृष्ठम्, अन्तरिक्षमुदरम्, पृथिवी पाजस्यम्, दिशः पार्श्वे, अवान्तरदिशः पर्शवः, ऋतवोऽङ्गानि, मासाश्चार्धमासाश्च पर्वाणि, अहोरात्राणि प्रतिष्ठाः, नक्षत्राण्यस्थीनि, नभो मांसानि । ऊवध्यं सिकताः, सिन्धवो गुदाः, यकृच्च क्लोमानश्च पर्वताः, ओषधयश्च वनस्पतयश्च लोमानि, उद्यन् पूर्वार्धाः निम्लोचञ्जघनार्धः, यद्विजृम्भते तद्विद्योतते, यद्विधूनुते तत्स्तनयति, यन्मेहति तद्वर्षति, वागेवास्य वाक् ॥ १ ॥
+
+Om. The head of the sacrificial horse is the dawn, its eye the sun, its vital force the air, its open mouth the fire called Vaiśvānara, and the body of the sacrificial horse is the year. Its back is heaven, its belly the sky, its hoof the earth, its sides the four quarters, its ribs the intermediate quarters, its members the seasons, its joints the months and fortnights, its feet the days and nights, its bones the stars and its flesh the clouds. Its half-digested food is the sand, its blood-vessels the rivers, its liver and spleen the mountains, its hairs the herbs and trees. Its forepart is the ascending sun, its hind part the descending sun, its yawning is lightning, its shaking the body is thundering, its making water is raining, and its neighing is voice.
 ## 1.2
 #### 1
 नैवेह किंचनाग्र आसीत्, 
@@ -228,6 +233,11 @@ Now this self (the ignorant man) is an object of enjoyment to all beings. That h
 आत्मैवेदमग्र आसीतेक एव; सोऽकामयत—जाया मे स्यात्, अथ प्रजायेय; अथ वित्तम् मे स्यात्, अथ कर्म कुर्वीयेति; एतावान् वै कामः, नेच्छंश्चनातो भूयो विन्देत्; तस्मादप्येतर्ह्येकाकी कामयते—जाया मे स्यात्, अथ प्रजायेय; अथ वित्तं मे स्यात्, अथ कर्म कुर्वीयेति; स यावदप्येतेषामेकैकम् न प्राप्नोति, अकृत्स्न एव तावन्मन्यते; तस्यो कृत्स्नता—मन एवास्यात्मा, वाग्जाया, प्राणः प्रजा, चक्षुर्मानुषं वित्तम्, चक्षुषा हि तद्विन्दते; श्रोत्रं दैवम्, श्रोत्रेण हि तच्छृणोति; अत्मैवास्य कर्म, आत्मना हि कर्म करोति; स एष पाङ्क्तो यज्ञः, पाङ्क्तः पशुः, पाङ्क्तः पुरुषः, पाङ्क्तमिदं सर्वं यदिदं किञ्च; तदिदं सर्वमाप्नोति य एवं वेद ॥ १७ ॥
 
 This (aggregate of desirable objects) was but the self in the beginning—the only entity. He desired, ‘Let me have a wife, so that I may be born (as the child). And let me have wealth, so that I may perform rites.’ This much indeed is (the range of) desire. Even if one wishes, one cannot get more than this. Therefore to this day a man being single desires, ‘Let me have a wife, so that I may be born. And let me have wealth, so that I may perform rites.’ Until he obtains each one of these, he considers himself incomplete. His completeness also (comes thus): The mind is his self, speech his wife, the vital force his child, the eye his human wealth, for he obtains it through the eye, the ear his divine wealth, for he hears of it through the ear, and the body is its (instrument of) rite, for he performs rites through the body. (So) this sacrifice has five factors—the animals have five factors, the men have five factors, and all this that exists has five factors. He who knows it as such attains all this.
+## 1.5
+#### 14
+स एष संवत्सरः प्रजापतिः षोडशकलः, तस्य रात्रय एव पञ्चदश कलाः, ध्रुवैवास्य षोदशि कला; स रात्रिभिरेवा च पूर्यतेऽप च क्षीयते; सोऽमावास्यां रात्रिमेतया षोडस्या कलया सर्वमिदं प्राणभृदनुप्रविश्य ततः प्रातर्जायते; तस्मादेतं रात्रिम् प्राणभृतः प्राणं न विच्छिन्द्यात्, अपि कृकतासस्य, एतस्या एव देवताया अपचित्यै ॥ १४ ॥
+
+This Prajāpati (Hiraṇyagarbha) has sixteen digits and is represented by the year. The nights (and days) are his fifteen digits, and the constant one is his sixteenth digit. He (as the moon) is filled as well as wasted by the nights (and days). Through this sixteenth digit he permeates all these living beings on the new-moon night and rises the next morning. Therefore. on this night one should not take the life of living beings, not even of a chameleon, the adoration of this deity alone.
 # k2
 ## 2.1
 #### 1
@@ -469,6 +479,39 @@ Om. Janaka, Emperor of Videha, performed a sacrifice in which gifts were freely 
 तान्होवाच, ब्राह्मणा भगवन्तो, यो वो ब्रह्मिष्ठः स एता गा उदजतामिति । ते ह ब्राह्मणा न दधृषुः; अथ ह याज्ञवल्क्यः स्वमेव ब्रह्मचारिणमुवाच, एताः एतास् सोम्योदज सामश्रवा3 इति; ता होदाचकार; ते ह ब्राह्मणाश्चुक्रुधुः, कथं नो ब्रह्मिष्ठो ब्रुवीतेति; अथ ह जनकस्य वैदेहस्य होताश्वलो बभूव; स हैनं पप्रच्छ, त्वं नु खलु नो याज्ञवल्क्य ब्रह्मिष्ठो’सी3 इति; स होवाच, नमो वयं ब्रह्मिष्ठाय कुर्मः, गोकामा एव वयं स्म इति; तं ह तत एव प्रष्टुं दध्रे होताश्वलः ॥ २ ॥
 
 He said to them, ‘Revered Brāhmaṇas, let him who is the best Vedic scholar among you drive these cows (home).’ None of the Brāhmaṇas dared. Then Yājñavalkya said to a pupil of his, ‘Dear Sāmaśravas, please drive these cows (home).’ He drove them. The Brāhmaṇas were enraged. ‘How does he dare to call himself the best Vedic scholar among us?’ There was a Hotṛ of Emperor Janaka of Videha named Aśvala. He now asked Yājñavalkya, ‘Yājñavalkya, are you indeed the best Vedic scholar among us?’ Yājñavalkya replied, ‘I bow to the best Vedic scholar, I just want the cows.’ Thereupon the Hotṛ Aśvala determined to interrogate him.
+#### 3
+याज्ञवल्क्येति होवाच, यदिदं सर्वं मृत्युनाप्तं, सर्वं मृत्युनाभिपन्नम्, केन यजमानो मृत्योराप्तिमतिमुच्यत इति; होत्रर्त्विजाग्निना वाचा; वाग्वै यज्ञस्य होता, तद्येयं वाक् सोऽयमग्निः, स होता, सा मुक्तिः, सातिमुक्तिः ॥ ३ ॥
+
+‘Yājñavalkya,’ said he, ‘since all this is overtaken by death, and swayed by it, by what means does the sacrificer go beyond the clutches of death?’ ‘Through the organ of speech—through fire, which is the (real) priest called Hotṛ. The sacrificer’s organ of speech is the Hotṛ. This organ of speech is fire; this fire is the Hotṛ; this (fire) is liberation; this (liberation) is emancipation.’
+#### 6
+याज्ञवल्क्येति होवाच, यदिदमन्तरिक्शमनारम्बणमिव, केनाक्रमेन यजमानः स्वर्गं लोकमाक्रमत इति; ब्रह्मणर्त्विजा मनसा चन्द्रेण; मनो वै यज्ञस्य ब्रह्मा; तद्यदिदं मनः सोऽसौ चन्द्रः, स ब्रह्मा, सा मुक्तिः सातिमुक्तिः—इत्यतिमोक्शाः; अथ संपदः ॥ ६ ॥
+
+‘Yājñavalkya,’ said he, ‘since the sky is, as it were, without a support, through what support does the sacrificer go to heaven?’ ‘Through the mind—through the moon, which is the (real) priest called Brahman. The mind of the. sacrificer is the Brahman. This mind is the moon; the moon is the Brahman; this (moon) is liberation; this (liberation) is emancipation.’ So far about the ways of emancipation; now about the meditation based on resemblance.
+## 3.2
+#### 10
+याज्ञवल्क्येति होवाच, यदिदं सर्वं मृत्योरन्नम्, का स्वित्सा देवता यस्या मृत्युरन्नमिति; अग्निर्वै मृत्युः, सोऽपामन्नम्, अप पुनर्मृत्युं जयति ॥ १० ॥
+
+Yājñavalkya,’ said he, ‘since all this is the food of death, who is that god whose food is death?’ ‘Fire is death; it is the food of water. (One who knows thus) conquers (punar) further death.’
+#### 13
+याज्ञवल्क्येति होवाच, यत्रास्य पुरुषस्य मृतस्याग्निं वागप्येति, वातं प्राणः, चक्शुरादित्यम्, मनश्चन्द्रम्, दिशः श्रोत्रम्, पृथिवीं शरीरम्, आकाशमात्म, ओषधीर्लोमानि, वनस्पतीन्केशाः, अप्सु लोहितं च रेतश्च निधीयते, क्वायं तदा पुरुषो भवतीति; अहर सोम्य हस्तमार्तभा, आवामेवैतस्य वेदिष्यावः, न नावेतत् सजन इति । तौ होत्क्रम्य मन्त्रयांचक्राते; तौ ह यदूचतुः कर्म हैव तदूचतुः, अथ यत्प्रशशंसतुः कर्म हैव तत् प्रशशंसतुः; 
+
+‘Yājñavalkya,’ said he, ‘when the vocal organ of a man who dies is merged in fire, the nose in air, the eye in the sun, the mind in the moon, the ear in the quarters, the body in the earth, the ether of the heart in the external ether, the hair on the body in the herbs, that on the head in the trees, and the blood and the seed are deposited in water, where is then the man?’ ‘Give me your hand, dear Ārtabhāga, we will [](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc118304.html#page-442)decide this between ourselves, we cannot do it in a crowd.’ They went out and talked it over. What they mentioned there was only work, and what they praised there was also only work. 
+
+पुण्यो वै पुण्येन कर्मणा भवति, पापः पापेनेति । 
+
+**(Therefore) one indeed becomes good through good work and evil through evil work.** 
+
+ततो ह जारत्कारव आर्तभाग उपरराम ॥ १३
+
+Thereupon Ārtabhāga, of the line of Jaratkāru, kept silent.
+## 3.3
+#### 2
+स होवाच, उवाच वै सः, अगच्छन्वै ते तद्यत्राश्वमेधयाजिनो गच्छन्तीति; क्व न्वश्वमेधयाजिनो गच्छन्तीति; द्वात्रिंशतं वै देवरथाह्न्यान्ययं लोकः; तं समन्तं पृथिवी द्विस्तावत्पर्येति; तां समन्तं पृथिवी द्विस्तावत्समुद्रः पर्येति; तद्यावती क्शुरस्य धारा, यावद्वा मक्शिकायाः पत्रं, तावानन्तरेणाकाशः; तानिन्द्रः सुपर्णो भूत्वा वायवे प्रायच्छत्, तान्वायुरात्मनि धित्वा तत्रागमयद्यत्राश्वमेधयाजिनोऽभवन्निति; एवमिव वै स वायुमेव प्रशशंस; तस्माद्वायुरेव व्यष्टिः, वायुः समष्टिः; अप पुनर्मृत्युं जयति य एवं वेद । ततो ह भुज्युर्लाह्यायनिरुपरराम ॥ २ ॥
+
+Yājñavalkya said, ‘The Gandharva evidently told you that they went where the performers of the horse sacrifice go.’ ‘And where do the performers of the horse sacrifice go?’ ‘Thirty-two times the space covered by the sun’s chariot in a day makes this world; around it, covering twice the area, is the earth; around the earth, covering twice the area, is the ocean. Now, as is the edge of a razor, or the wing of a fly, so is there just that much opening at the junction (of the two halves of the cosmic shell). (Through that they go out). Fire, in the form of a falcon, delivered them to the air; the air, putting them in itself, took them where the (previous) performers of the horse sacrifice were.’ Thus did the Gandharva praise the air.[14] Therefore the air is the diversity of individuals, and the air is the aggregate. He who knows it as such conquers further death. Thereupon Bhujyu, the grandson of Lahya, kept silent.
+
+इति तृतीयं ब्राह्मणम् ॥
+चतुर्थं ब्रह्मणम् ।
 ## 3.4
 #### 1
 अथ हैनमूषस्तश्चाक्रायणः पप्रच्छ; याज्ञवल्क्येति होवाच, यत्साक्षादपरोक्षाद्ब्रह्म, य आत्मा सर्वान्तरः, तं मे व्याचक्ष्व इति; एष त आत्मा सर्वान्तरः; कतमो याज्ञवल्क्य सर्वान्तरो ? यः प्राणेन प्राणिति स त आत्मा सर्वान्तरः, योऽपानेनापानिति स त आत्मा सर्वान्तरः, यो व्यानेन व्यानिति स त आत्मा सर्वान्तरः, य उदानेनोदानिति स त आत्मा सर्वान्तरः, एष त आत्मा सर्वान्तरः ॥ २ ॥
@@ -480,6 +523,29 @@ Then Uṣasta, the son of Cakra, asked him. ‘Yājñavalkya,’ said he, ‘ex
 इति पञ्चमं ब्राह्मणम् ॥
 
 Then Kahola, the son of Kuṣītaka, asked him. ‘Yājñavalkya,’ said he, ‘explain to me the Brahman that is immediate and direct—the self that is within all.’ ‘This is your self that is within all.’ ‘Which is within all, Yājñavalkya?’ ‘That which transcends hunger and thirst, grief, delusion, decay and death. Knowing this very Self the Brāhmaṇas renounce the desire for sons, for wealth and for the worlds, and lead a mendicant life. That which is the desire for sons is the desire for wealth, and that which is the desire for wealth is the desire for the worlds, for both these are but desires. Therefore the knower of Brahman, having known all about scholarship, should try to live upon that strength which comes of knowledge; having known all about this strength as well as scholarship, he becomes meditative; having known all about born meditativeness and its opposite, he becomes a knower of Brahman. How does that knower of Brahman behave? Howsoever he may behave, he is just such. Except this everything is perishable.’ Thereupon Kahola, the son of Kuṣītaka, kept silent.
+## 3.6
+#### 1
+अथ हैनं गार्गी वाचक्नवी पप्रच्छ; याज्ञवल्क्येति होवाच, यदिदं सर्वमप्स्वोतं च प्रोतं च, कस्मिन्नु खल्वाप ओताश्च प्रोताश्चेति; वायौ गार्गीति; कस्मिन्नु खलु वायुरोतश्च प्रोतश्चेति; अन्तरिक्शलोकेषु गार्गीति; कस्मिन्नु खल्वन्तरिक्शलोका ओताश्च प्रोताश्चेति; गन्धर्वलोकेषु गार्गीति; कस्मिन्नु खलु गन्धर्वलोका ओताश्च प्रोताश्चेति; आदित्यलोकेषु गार्गीति; कस्मिन्नु खल्वादित्यलोका ओताश्च प्रोताश्चेति; चन्द्रलोकेषु गार्गीति; कस्मिन्नु खलु चन्द्रलोका ओताश्च प्रोताश्चेति; नक्शत्रलोकेषु गार्गीति; कस्मिन्नु खलु नक्शत्रलोका ओताश्च प्रोताश्चेति; देवलोकेषु गार्गीति; कस्मिन्नु खलु देवलोका ओताश्च प्रोताश्चेति; इन्द्रलोकेषु गार्गीति; कस्मिन्नु खल्विन्द्रलोका ओताश्च प्रोताश्चेति; प्रजापतिलोकेषु गार्गीति; कस्मिन्नु खलु प्रजापतिलोका ओताश्च प्रोताश्चेति; ब्रह्मलोकेषु गार्गीति; कस्मिन्नु खलु ब्रह्मलोका ओताश्च प्रोताश्चेति; 
+
+Then Gārgī, the daughter of Vacaknu, asked him. ‘Yājñavalkya,’ she said,
+
+‘if all this is pervaded by water, by what is water pervaded?’ ‘By air, O Gārgi.’
+‘By what is air pervaded?’ ‘By the sky, O Gārgī.’
+‘By what is the sky pervaded?’ ‘By the world of the Gandharvas, O Gārgī.’
+‘By what is the world of the Gandharvas pervaded?’ ‘By the sun, O Gārgī.’
+‘By what is the sun pervaded?’ ‘By the moon, O Gārgī.’
+‘By what is the moon pervaded?’ ‘By the stars, O Gārgī.’
+‘By what are the stars pervaded?’ ‘By the world of the gods, O Gārgī.’
+‘By what is the world of the gods pervaded?’ ‘By the world of Indra, O Gārgī.’
+‘By what is the world of Indra pervaded?’ ‘By the world of Virāj, O Gārgī.’
+‘By what is the world of Virāj pervaded?’ ‘By the world of Hiraṇyagarbha, O Gārgī.’
+‘By what is the world of Hiraṇyagarbha pervaded?’
+
+स होवाच, गार्गि मातिप्राक्शीः, मा ते मूर्धा व्यपप्तत्, अनतिप्रश्न्यां वै देवतामतिपृच्छसि गार्गि, मातिप्राक्शीरिति; ततो ह गार्गी वाचक्नव्युपरराम ॥ १ ॥
+
+He said, ‘Do not, O Gārgī, push your inquiry too far, lest your head should fall off. You are questioning about a deity that should not be reasoned about. Do not, O Gārgī; push your inquiry too far.’ Thereupon Gārgī, the daughter of Vacaknu, kept silent.
+
+इति षष्ठं ब्राह्मणम् ॥
 ## 3.7
 #### 23
 https://vivekavani.com/bru3c7v23/
@@ -520,6 +586,10 @@ Then Vidagdha, the son of Śakala, asked him. ‘How many gods are there, Yājñ
 स होवाच, महिमान एवैषामेते, त्रयस्त्रिंशत्त्वेव देवा इति; कतमे ते त्रयस्त्रिंशदिति; अष्टौ वसवः, एकादश रुद्राः, द्वादशादित्याः, ते एकत्रिंशत्, इन्द्रश्चैव प्रजापतिश्च त्रयस्त्रिंशाविति ॥ २ ॥
 
 Yājñavalkya said, ‘These are but the manifestations of them, but there are only thirty-three gods.’ ‘Which are those thirty-three?’ ‘The eight Vasus, the eleven Rudras and the twelve Ādityas—these are thirty-one, and Indra and Prajāpati make up the thirty-three.’
+#### 25
+अहल्लिकेति होवाच याज्ञवल्क्यः, यत्रैतदन्यत्रास्मन्मन्यासै, यद्ध्येतदन्यत्रास्मत्स्यात्, श्वानो वैनदद्युः, वयांसि वैनद्विमथ्नीरन्निति ॥ २५ ॥
+
+‘You ghost,’ said Yājñavalkya, ‘when you think the heart is elsewhere than in us, (then the body is dead). Should it be elsewhere than in us, dogs would eat this body, or birds tear it to pieces.’[9]
 #### 26
 कस्मिन्नु त्वं चात्मा च प्रतिष्ठितौ स्थ इति; प्राण इति; कस्मिन्नु प्राणः प्रतिष्ठित इति; अपान इति; कस्मिन्न्वपानः प्रतिष्ठित इति; व्यान इति; कस्मिन्नु व्यानः प्रतिष्ठित इति; उदान इति; कस्मिन्नूदानः प्रतिष्ठित इति; समान इति; स एष नेति नेत्यात्मा, अगृह्यो नहि गृह्यते, अशीर्यो न हि शीर्यते, असङ्गो नहि सज्यते, असितो न व्यथते, न रिष्यति । एतान्यष्टावायतनानि, अष्टौ लोकाः, अष्टौ देवाः, अष्टौ पुरुषाः; स यस्तान्पुरुषान्निरुह्य प्रत्युह्यात्यक्रामत्, तं त्वौपनिषदं पुरुषं पृच्छामि; तं चेन्मे न विवक्श्यसि, मूर्धा ते विपतिष्यतीति । तं ह न मेने शाकल्यः; तस्य ह मूर्धा विपपात, अपि हास्य परिमोषिणोऽस्थीन्यपजह्रुरन्यन्मन्यमानाः ॥ २६ ॥
 
@@ -589,7 +659,15 @@ Yājñavalkya went to Janaka, Emperor of Videha. He thought he would not say any
 तद्वा अस्यैतत् अतिचन्दो ऽपहतपाप्माभयं रूपमशोकान्तरमत्र पितापिता भवति मातामाता लोका अलोका देवा अदेवा वेदा अवेदा यज्ञा अयज्ञा अत्र स्तेनो ऽस्तेनो भवति भ्रूणहाभ्रूणहा पौल्कसो ऽपौल्कसश्चाण्डालो चाण्डालः श्रमणो ऽश्रमणस्तापसो तापसो ऽनन्वागतः पुण्येनान्वागतः पापेन तीर्णो हि तदा सर्वाञ्चोकान्हृदयस्य भवति
 
 That is, this very moon of his, the form of the destroyed sin, the fearlessness, the transcendence of sorrow, here becomes the father and mother, the worlds, the worlds, the gods, the gods, the Vedas, the Vedas, the sacrifice, the non-sacrifice. The killer of an embryo, the killer of an embryo, the poulcus, the apoulcus, the chandala, the chandala, the (śramaṇa) ascetic, the (tāpasa) ascetic, the ascetic, the unwelcome, the unwelcomed by virtue, the crossed by sin, then becomes all the chokes of the heart
+#### 36
+स यत्रायमणिमानं न्येति—जरया वोपतपता वाणिमानं निगच्छति—तद्यथाम्रं वोदुम्बरं वा पिप्पलं वा बन्धनात्प्रमुच्यते, एवमेवायं पुरुष एभ्योऽङ्गेभ्यः संप्रमुच्य पुनः प्रतिन्यायं प्रतियोन्याद्रवति प्राणायैव ॥ ३६ ॥
+
+When this (body) becomes thin—is emaciated through old age or disease—then, as a mango, or a fig, or a fruit of the peepul tree is detached from its stalk, so does this infinite being, completely detaching himself from the parts of the body, again go, in the same way that he came, to particular bodies, for the un-foldment of his vital force.
 ## 4.4
+#### 2
+एकीभवति, न पश्यतीत्याहुः; एकीभवति, न जिघ्रतीत्याहुः; एकीभवति, न रसयतीत्याहुः; एकीभवति, न वदतीत्याहुः; एकीभवति, न शृणोतीत्याहुः; एकीभवति, न मनुत इत्याहुः; एकीभवति, न स्पृशतीत्याहुः; एकीभवति, न विजानातीत्याहुः; तस्य हैतस्य हृदयस्याग्रं प्रद्योतते; तेन प्रद्योतेनैष आत्मा निष्क्रामति—चक्शुष्टो वा, मूर्ध्नो वा, अन्येभ्यो वा शरीरदेशेभ्यः; तमुत्क्रामन्तं प्राणोऽनूत्क्रामति; प्राणमनूत्क्रामन्तं सर्वे प्राणा अनूत्क्रामन्ति; सविज्ञानो भवति, सविज्ञानमेवान्ववक्रामति । तं विद्याकर्मणी समन्वारभेते पूर्वप्रज्ञा च ॥ २ ॥
+
+(The eye) becomes united (with the subtle body); then people say, ‘He does not see.’ (The nose) becomes united; then they say, ‘He does not smell.’ (The tongue) becomes united; then they say, ‘He does not taste.’ (The vocal organ) becomes united; then they say, ‘He does not speak.’ (The ear) becomes united; then they say, ‘He does not hear.’ (The Manas) becomes united; then they say, ‘He does not think.’ (The skin) becomes united; then they say, ‘He does not touch.’ (The intellect) becomes united; then they say, ‘He does not know.’ The top of the heart brightens. Through that brightened top the self departs,‘either through the eye, or through the head, or through any other part of the body. When it departs, the vital force follows; when the vital force departs, all the organs follow. Then the self has particular consciousness, and goes to the body which is related to that con-scioṇsness. It is followed by knowledge, work and past experience.
 #### 7
 तदेष श्लोको भवति ।
     यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः ।
@@ -619,9 +697,24 @@ https://vivekavani.com/bru4c5v11/
 स यथार्द्रैधाग्नेरभ्याहितस्य पृथग्धूमा विनिश्चरन्ति, एवं वा अरेऽस्य महतो भूतस्य निःश्वसितमेतद्यदृग्वेदो यजुर्वेदः सामवेदोऽथर्वाङ्गिरस इतिहासः पुराणं विद्या उपनिषदः श्लोकाः सूत्राण्यनुव्याख्यानानि व्याख्यानानीष्टं हुतमाशितं पायितम्, अयं च लोकः, परश्च लोकः, सर्वाणि च भूतानि, अस्यैवैतानि सर्वाणि निःश्वसितानि
 
 As from a fire kindled with wet faggot diverse kinds of smoke issue, even so, my dear, the Ṛg-Veda, Yajur-Veda, Sāma-Veda, Atharvāṅgirasa; history, mythology, arts, Upaniṣads, verses, aphorisms, elucidations, explanations, sacrifices, oblations in the fire, food, drink, this world, the next world, and all beings are all (like) the breath of this infinite Reality. They are (like) the breath of this (Supreme Self).
+#### 15
+यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति, तदितर इतरंजिघ्रति, तदितर इतरं रसयते, तदितर इतरमभिवदति, तदितर इतरं शृणोति, तदितर इतरं मनुते, तदितर इतरं स्पृशति, तदितर इतरं विजानाति; यत्र त्वस्य सर्वमात्मैवाभूत्, तत्केन कं पश्येत्, तत्केन कं जिघ्रेत्, तत्केन कं रसयेत्, तत्केन कमभिवदेत्, तत्केन कं शृणुयात्, तत्केन कं मन्वीत तत्केन कं स्पृशेत्, तत्केन कं विजानीयात्? येनेदं सर्वं विजानाति तं केन विजानीयात्? स एष नेति नेत्यात्मा, अगृह्यो न हि गृह्यते, अशीर्यो न हि शीर्यते, असङ्गो न हि सज्यते, असितो न व्यथते, न रिष्यति; विज्ञातारमरे केन विजानीयात्, इत्युक्तानुशासनासि मैत्रेयि, एतावदरे खल्वमृतत्वमिति होक्त्वा याज्ञवल्क्यो विजहार ॥ १५ ॥
+
+Because when there is duality, as it were, then one sees something, one smells something, one tastes something, one speaks something, one hears something, one thinks something, one touches something, one knows something. But when to the knower of Brahman everything has become the Self, then what should one see and through what, what should one smell and through what, what should one taste and through what, what should one speak and through what, what should one hear and through what, what should one think and through what, what should one touch and through what, what should one know and through what? Through what should one know that owing to which all this is known? This self is That which has been described as ‘Not this, not this.’ It is imperceptible, for It is never perceived; undecaying, for It never decays; unattached, for It is never attached; unfettered—it never feels pain, and never suffers injury. Through what, O Maitreyī, should one know the Knower? So you have got the instruction, Maitreyī. This much indeed is (the means of) immortality, my dear. Saying this Yājña-valkya left.
 # k5
 # k6
 ## 6.2
+#### 2
+वेत्थ यथेमाः प्रजाः प्रयत्यो विप्रतिपद्यन्ता3 इति; नेति होवाच; वेत्थो यथेमं लोकं पुनरापद्यन्ता3 इति; नेति हैवोवाच; वेत्थो यथासौ लोक एवं बहुभिः पुनःपुनः प्रयद्भिर्न संपूर्यता3 इति; नेति हैवोवाच; वेत्थो यतिथ्यामाहुत्यां हुतायामापः पुरुषवाचो भूत्वा समुत्थाय वदन्ती3 इति; नेति हैवोवाच; वेत्थो देवयानस्य वा पथः प्रतिपदं पितृयाणस्य वा—यत्कृत्वा देवयानं वा पन्थानं प्रतिपद्यन्ते, पितृयाणं वा? अपि हि न ऋषेर्वचः श्रुतम्—
+              द्वे सृती अशृणवं पितृणामहं देवानामुत मर्त्यानाम्,
+              ताभ्यामिदं विश्वमेजत्समेति, यदन्तरा पितरं मातरं च ॥ इति ।
+नाहमत एकं चन वेदेति होवाच ॥ २ ॥
+
+Do you know how these people diverge after death?’ ‘No,’ said he. ‘Do you know how they return to this world?’ ‘No,’ said he. ‘Do you know how the other world is never filled by so many people dying thus again and again?’ ‘No,’ said he. ‘Do you know after how many oblations are offered water (the liquid offerings) rises up possessed of a human voice (or under the name of man) and speaks?’ ‘No,’ said he. ‘Do you know the means of access to the way of the gods, or that to the way of the Manes—doing which people attain either the way of the gods or the way of the Manes? We have heard the words of the Mantra: “I have heard of two routes for men, leading to the Manes and the gods. Going along them all this is united. They lie between the father and the mother (earth and heaven).”’ He said, ‘I know not one of them.’
+#### 8
+स होवाच, तथा नस्त्वम् गौतम मापराधास्तव च पितामहा यथ, इयं विद्येतः पूर्वं न कस्मिंश्चन ब्राह्मण उवास; तां त्वहं तुभ्यं वक्श्यामि, को हि त्वैवं ब्रुवन्तमर्हति प्रत्याख्यातुमिति ॥ ८ ॥
+
+The King said: Please do not take offence with us, Gautama, as your paternal grandfathers did not (with ours). Before this, this learning never rested with a Brāhmaṇa. But I shall teach it to you; for who can refuse you when you speak like this?
 #### 13
 https://vivekavani.com/bru6c2v13/
 योषा वा आग्निर्गौतम; 
@@ -650,8 +743,20 @@ The people who know this (the Upanishadic doctrine of the identity of the soul a
 
 The people who win heavenly worlds, on the other hand, by offering sacrifices, by giving gifts, and by generating inner heat (tapas)—they pass into the smoke, and then into the night . . . into the world of the fathers, into the moon. There they become food. There the gods feed on them, as the moon increases and decreases. When that ends, they pass into the sky, then into the wind, then the rain, and then the earth, where they become food. They are offered in the fire of man and are born in the fire of woman. Rising up again to the heavenly worlds, they circle around in the same way. 
 Those who do not know these two paths, however, become worms, insects, or snakes
+## 6.3
+#### 12
+एतमु हैव सत्यकामो जाबालोऽन्तेवासिभ्य उक्त्वोवाच, अपि य एनं शुष्के स्थाणौ निषिञ्चेत्, जायेरञ्छाखाः, प्ररोहेयुः पलाशानीति; तमेतं नापुत्राय वानन्तेवासिने वा ब्रूयात् ॥ १२ ॥
 
+And Satyakāma, the son of Jabālā, in his turn, taught this to his pupils and said, ‘Should one sprinkle it even on a dry stump, branches would grow and leaves sprout.’ One must not teach this to any one but a son or a pupil.
 ## 6.4
+#### 1
+एषां वै भूतानां पृथिवी रसः, पृथिव्या आपः, अपामोषधयः, ओषधीनां पुष्पाणि, पुष्पाणां फलानि, फलानां पुरुषः, पुरुषस्य रेतः ॥ १ ॥
+
+The earth is the essence of all these beings, water the essence of the earth, herbs of water, flowers of herbs, fruits of flowers, man of fruits, and the seed of man.
+#### 2
+स ह प्रजापतिरीक्शांचक्रे, हन्तास्मै प्रतिष्ठां कल्पयानीति; स स्त्रियं ससृजे; तां सृष्ट्वाध उपास्त; तस्मात्स्त्रियमध उपासीत; स एतं प्राञ्चं ग्रावाणमात्मन एव समुदपारयत्, तेनैनामभ्यसृजत् ॥ २ ॥
+
+Prajāpati thought, ‘Well, let me make an abode for it,’ and he created woman.
 #### 3
 https://vivekavani.com/bru6c4v3/
 तस्या वेदिरुपस्थः, लोमानि बर्हिः, चर्माधिषवणे—समिद्धो मध्यतः—तौ मुष्कौ; 
@@ -664,6 +769,28 @@ https://vivekavani.com/bru6c4v3/
 
 #### 4
 एतद्ध स्म वै तद्विद्वानुद्दालक आरुणिराह; एतद्ध स्म वै तद्विद्वान्नाको मौद्गल्य आह; एतद्ध स्म वै तद्विद्वान्कुमारहारित आह, बहवो मर्या ब्राह्मणायना निरिन्द्रिया विसुकृतोऽस्माल्लोकात्प्रयन्ति, य इदमविद्वांसोऽधोपहासं चरन्तीति; बहु वा इदं सुप्तस्य वा जाग्रतो वा रेतः स्कन्दति ॥ ४ ॥
+#### 6
+अथ यद्युदक आत्मानं पश्येत्तदभिमन्त्रयेत—मयि तेज इन्द्रियं यशो द्रविणं सुकृतमिति; श्रीर्ह वा एषा स्त्रीणां यन्मलोद्वासाः; तस्मान्मलोद्वाससं यशस्विनीमभिक्रम्योपमन्त्रयेत ॥ ६ ॥
+
+If man sees his reflection in water, he ṣhould recite the following Mantra: ‘(May the gods grant) me lustre, manhood, reputation, wealth and merits.’ She (his wife) is indeed the goddess of beauty among women. Therefore he should approach this handsome woman and speak to her.
+#### 7
+https://vivekavani.com/bru6c4v7/
+सा चेदस्मै न दद्यात्, काममेनामवक्रिणीयात्; सा चेदस्मै नैव दद्यात्, काममेनां यष्ट्या वा पाणिना वोपहत्यातिक्रामेत्, इन्द्रियेण ते यशसा यश आदद इति; अयशा एव भवति ॥ ७ ॥
+
+If she is not willing, he should buy her over; and if she is still unyielding, he should strike her with a stick or with the hand and proceed, uttering the following Mantra, ‘I take away your reputation,’ etc. She is then actually discredited.
+#### 9
+https://vivekavani.com/bru6c4v9/
+स यामिच्छेत् कामयेत मेति, तस्यामर्थं निष्ठाय, मुखेन मुखं संधाय, उपस्थमस्या अभिमृश्य जपेत्—
+अङ्गादङ्गात्संभवसि, हृदयादधिजायसे ।
+स त्वमङ्गकषायो’सि, दिग्धविद्धमिव मादयेमाममूं मयीति ॥ ९ ॥
+
+#### 10
+अथ यामिच्छेन् न गर्भं दधीतेति, तस्यामर्थं निष्ठाय, मुखेन मुखं संधाय, अभिप्राण्यापान्यात्, इन्द्रियेण ते रेतसा रेत आदद इति; अरेता एव भवति ॥ १० ॥
+
+#### 12
+अथ यस्य जायायै जारः स्यात्तं चेद्द्विष्यात्, आमपात्रेऽग्निमुपसमाधाय, प्रतिलोमं शरबर्हिस्तीर्त्वा, तस्मिन्नेताः शरभृष्टीः प्रतिलोमाः सर्पिषाक्ता जुहुयात्—मम समिद्धेऽहौषीः, प्राणापानौ त आददे—असाविति; मम समिद्धेऽहौषीः, पुत्रपशूंस्त आददे—असाविति; मम समिद्धेऽहौषीः, इष्टासुकृते त आददे—असाविति; मम समिद्धेऽहौषीः, आशापराकाशौ त आददे—असाविति; स वा एष निरिन्द्रियो विसुकृतोऽस्माल्लोकात्प्रैति, यमेवंविद्ब्राह्मणः शपति; तस्मादेवंवित्छ्रोत्रियस्य दारेण नोपहासमिच्छेदुत, ह्येवंवित्परो भवति ॥ १२ ॥
+
+If a man’s wife has a lover whom he wishes to inujre, he should put the fire in an unbaked earthen vessel, spread stalks of reed and Kuśa grass in an inverse way, and offer the reed tips, soaked in clarified butter, in the fire in an inverse way, saying, ‘Thou hast sacrificed in my kindled fire, I take away thy Prāṇa and Apāna—such and such. Thou hast sacrificed in my kindled fire, I take away thy sons and animals—such and such. Thou hast sacrificed in my kindled fire, I take away thy Vedic rites and those done according to the Smṛti—such and such. Thou hast sacrificed in my kindled fire, I take away thy hopes and expectations—such and such’. The man whom a Brāhmaṇa with knowledge of this ceremony curses, departs from this world emasculated and shorn of his merits. Therefore one should not wish even to cut jokes with the wife of a Vedic scholar who knows this ceremony, for he who has such knowledge becomes an enemy.
 #### 18
 https://vivekavani.com/bru6c4v18/
 

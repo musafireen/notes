@@ -101,6 +101,10 @@ This is the attainment on the level of the body [adhyātma]. [The inner attainme
 स य एवमेतद्वामदेव्यं मिथुने प्रोतं वेद मिथुनी भवति मिथुनान्मिथुनात्प्रजायते सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या न कांचन परिहरेत्तद्व्रतम् ॥ २.१३.२ ॥
 ॥ इति त्रयोदशः खण्डः ॥
 # k3
+## 3.6
+तद्यत्प्रथमममृतं तद्वसव उपजीवन्त्यग्निना मुखेन न वै देवा अश्नन्ति न पिबन्त्येतदेवामृतं दृष्ट्वा तृप्यन्ति ॥ ३.६.१ ॥
+
+Led by fire, the Vasus enjoy the first nectar [which is the red colour]. As a matter of fact, the gods and goddesses neither eat nor drink. They are pleased merely by seeing the nectar.
 ## 3.17
 #### 6
 https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239031.html
@@ -125,6 +129,30 @@ Gautama asked him, ‘O Somya, what is your lineage?’ Satyakāma said: ‘Sir,
 
 Gautama said to him: ‘No non-brāhmin could speak like this. [Therefore, you must be a brāhmin.] O Somya, go and get me some fuel [for the sacrificial fire]. I will initiate you [as a brāhmin by presenting you with the sacred thread], as you have not deviated from truth.’ After the initiation, he selected four hundred feeble and famished cows. Addressing Satyakāma, Gautama said, ‘O Somya, take these cows away [and look after them].’ As. Satyakāma was taking them away, he said, ‘I will not come back until there are a thousand of them.’ He lived away for many years until they had become a thousand.
 # k5
+## 5.1
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239190.html
+#### 1
+यो ह वै ज्येष्ठं च श्रेष्ठं च वेद ज्येष्ठश्च ह वै श्रेष्ठश्च भवति प्राणो वाव ज्येष्ठश्च श्रेष्ठश्च ॥ ५.१.१ ॥
+
+Om. He who knows the oldest and the best himself becomes the oldest and the best. It is prāṇa which is the oldest and the best.
+## 5.3
+#### 6
+स ह गौतमो राज्ञोऽर्धमेयाय तस्मै ह प्राप्तायार्हां चकार स ह प्रातः सभाग उदेयाय तं होवाच मानुषस्य भगवन्गौतम वित्तस्य वरं वृणीथा इति स होवाच तवैव राजन्मानुषं वित्तं यामेव कुमारस्यान्ते वाचमभाषथास्तामेव मे ब्रूहीति स ह कृच्छ्री बभूव ॥ ५.३.६ ॥
+
+Gautama then went to the king’s palace. On his arrival, the king welcomed him respectfully. The next morning, when the king was in his court, Gautama went there to meet him. The king said to him, ‘Revered Gautama, ask for a boon from me—anything a person might wish for.’ Gautama replied: ‘Let those things be with you. Please tell me whatever you said to my son.’ Hearing this, the king turned pale.
+#### 7
+तं ह चिरं वसेत्याज्ञापयांचकार तं होवाच यथा मा त्वं गौतमावदो यथेयं न प्राक्त्वत्तः पुरा विद्या ब्राह्मणान्गच्छति तस्मादु सर्वेषु लोकेषु क्षत्रस्यैव प्रशासनमभूदिति तस्मै होवाच ॥ ५.३.७ ॥
+
+The king then issued orders that Gautama should stay with him for a long time [as a brahmacari. Gautama did that. One day] the king said to him: ‘O Gautama, regarding the matter which you asked about, no brāhmin before you had access to this knowledge. This is why in the past, in all the worlds, it was only the kṣatriyas who had the right to impart this knowledge.’ Having said this, he proceeded to teach Gautama.
+## 5.8
+#### 1
+योषा वाव गौतमाग्निस्तस्या उपस्थ एव समिद्यदुपमन्त्रयते स धूमो योनिरर्चिर्यदन्तः करोति तेऽङ्गारा अभिनन्दा विस्फुलिङ्गाः ॥ ५.८.१ ॥
+
+O Gautama, woman is the [sacrificial] fire... 
+#### 2
+तस्मिन्नेतस्मिन्नग्नौ देवा रेतो जुह्वति तस्या आहुतेर्गर्भः संभवति ॥ ५.८.२ ॥
+
+The gods offer semen as the oblation to the fire. Out of that oblation appears the foetus.
 ## 5.10
 https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239190.html
 #### 1
@@ -164,11 +192,23 @@ But those who do not follow either of these two paths are born among small anima
 
 A person who steals gold, or drinks liquor, or goes to bed with his teacher’s wife, or kills a brāhmin—these four are lost. Also lost is the fifth—one who keeps company with such people.
 # k6
+## 6.2
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239259.html
+#### 2
+कुतस्तु खलु सोम्यैवंस्यादिति होवाच कथमसतः सज्जायेतेति। सत्त्वेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् ॥ ६.२.२ ॥
+
+The father said: ‘O Somya, what proof is there for this—that from nothing something has emerged? Rather, before this world came into being, O Somya, there was only existence, one without a second’.
 ## 6.8
 #### 1
 उद्दालको हारुणिः श्वेतकेतुं पुत्रमुवाच स्वप्नान्तं मे सोम्य विजानीहीति यत्रैतत्पुरुषः स्वपिति नाम सता सोम्य तदा सम्पन्नो भवति स्वमपीतो भवति तस्मादेनं स्वपितीत्याचक्षते स्वंह्यपीतो भवति ॥ ६.८.१ ॥
 
 Uddālaka Āruṇi said to his son Śvetaketu: ‘O Somya, let me explain to you the concept of deep sleep. When a person is said to be sleeping, O Somya, he becomes one with Sat [Existence], and he attains his real Self. That is why people say about him, “He is sleeping.” He is then in his Self’.
+#### 7
+स य एषोऽणिमैतदात्म्यमिदं सर्वं तत्सत्यं स आत्मा तत्त्वमसि श्वेतकेतो इति भूय एव मा भगवान्विज्ञापयत्विति तथा सोम्येति होवाच ॥ ६.८.७ ॥
+॥ इति अष्टमः खण्डः ॥
+
+‘That which is the subtlest of all is the Self of all this. It is the Truth. It is the Self. That thou art, O Śvetaketu.’ [Śvetaketu then said,] ‘Sir, please explain this to me again.’ ‘Yes, Somya, I will explain again,’ replied his father.
+
 ## 6.16
 #### 3
 स यथा तत्र नादाह्येतैतदात्म्यमिदं सर्वं तत्सत्यं स आत्मा तत्त्वमसि श्वेतकेतो इति तद्धास्य विजज्ञाविति विजज्ञाविति ॥ ६.१६.३ ॥
@@ -306,3 +346,14 @@ In the same way, the joyful self arises from the body and, attaining the light o
 ॥ इति द्वादशः खण्डः ॥
 
 This Self is worshipped by the gods. This is why all worlds and all desirable things are within their grasp. One who fully understands and realizes this Self [with the help of teachers and the scriptures] is able to attain whatever worlds and whatever desirable things he wants. This is what Prajāpati taught Indra.
+## 8.13
+#### 1
+श्यामाच्छबलं प्रपद्ये शबलाच्छ्यामं प्रपद्येऽश्व इव रोमाणि विधूय पापं चन्द्र इव राहोर्मुखात्प्रमुच्य धूत्वा शरीरमकृतं कृतात्मा ब्रह्मलोकमभिसंभवामीत्यभिसंभवामीति ॥ ८.१३.१ ॥
+
+From the dark may I attain the diverse. From the diverse may I attain the dark. Like a horse shaking its fur [to remove the dirt], I will shake off whatever spot I may have on my character. Like the moon freeing itself from the mouth of Rāhu [and regaining its brightness], I will, having accomplished everything, lay down this body and attain that eternal Brahmaloka.
+
+## 8.15
+#### 1
+तधैतद्ब्रह्मा प्रजापतयै उवाच प्रजापतिर्मनवे मनुः प्रजाभ्यः आचार्यकुलाद्वेदमधीत्य यथाविधानं गुरोः कर्मातिशेषेणाभिसमावृत्य कुटुम्बे शुचौ देशे स्वाध्यायमधीयानो धर्मिकान्विदधदात्मनि सर्वैन्द्रियाणि सम्प्रतिष्ठाप्याहिंसन्सर्व भूतान्यन्यत्र तीर्थेभ्यः स खल्वेवं वर्तयन्यावदायुषं ब्रह्मलोकमभिसम्पद्यते न च पुनरावर्तते न च पुनरावर्तते ॥ ८.१५.१ ॥
+
+Brahmā taught this knowledge of the Self to Prajāpati, and Prajāpati taught it to Manu. Manu, in his turn, taught it to all human beings. A young man goes to live at his teacher’s house and serves him, and when he is free he studies the Vedas in the prescribed manner. After finishing all his studies, he goes back home and marries. But he continues to study the scriptures in a sacred place. He also teaches his children and disciples in such a way that they will be religious. He keeps all his senses under control and avoids violence unless he is at a holy place. This is how he lives his whole life. Then after death he goes to Brahmaloka, and he is not born again, he is not born again.

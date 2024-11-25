@@ -8,79 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d1c43b255e1e7c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4d7e08c123668b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref/RV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83dc74576261ff19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Samkhya_kabbala_ghuli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bdf6601af0df1bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref/BU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5e3c009a14375111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/BU.md",
+                "file": "Ref/ktl.arthSh.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58c3ebdd7b044e86",
+            "id": "905179785971b4e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/iamb.mysEg.md",
+                "file": "Ref/MundU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ec26624b8e1be66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref/pnn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0bc2b1234573107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref/aps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hdt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/BU.md",
+                "file": "Ref/ktl.arthSh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/BU.md",
+                "file": "Ref/ktl.arthSh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/BU.md"
+                "file": "Ref/ktl.arthSh.md"
               }
             }
           }
@@ -205,44 +181,46 @@
       "templates:Insert template": false
     }
   },
-  "active": "5bdf6601af0df1bf",
+  "active": "5e3c009a14375111",
   "lastOpenFiles": [
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nafs_atma.md",
+    "Ref/MnSmr.md",
+    "Ref/ktl.arthSh.md",
+    "Ref/ChU.md",
     "Ref/BU.md",
+    "Ref/SvetU.md",
+    "Ref/kthU.md",
+    "Ref/KstkU.md",
+    "Ref/RV.md",
+    "Ref/MundU.md",
+    "Ref/hdt.hist.md",
+    "Ref/TS.md",
+    "Ref/KthkU.md",
     "Ref/SpB.md",
+    "Ref/JB.md",
+    "Ref/AB.md",
+    "Ref/pnn.md",
+    "Ref/Asv.md",
+    "Ref/aps.md",
+    "Ref/RV.sync-conflict-20241124-193627-AFLIAW3.md",
+    "Ref/~syncthing~RV.sync-conflict-20241124-193627-AFLIAW3.md.tmp",
+    "Ref/vlmk.RY.md",
+    "Ref/MB.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ru'ya/Untitled.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Samkhya_kabbala_ghuli.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nafs_atma.md",
     "001_eskaton/001_chhatak/kalighat/Brahmanic/theogony.md",
     "Ref/mtsP.md",
     "Ref/~syncthing~mtsP.md.tmp",
-    "Ref/mtsP.sync-conflict-20241122-015137-AFLIAW3.md",
     "Ref/~syncthing~mtsP.sync-conflict-20241122-015137-AFLIAW3.md.tmp",
-    "Ref/mtsP.sync-conflict-20241122-015037-AFLIAW3.md",
     "Ref/~syncthing~mtsP.sync-conflict-20241122-015037-AFLIAW3.md.tmp",
-    "Ref/mtsP.sync-conflict-20241122-014927-AFLIAW3.md",
     "Ref/~syncthing~mtsP.sync-conflict-20241122-014927-AFLIAW3.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/nuh/~syncthing~nuh_utnapishtim_manu.md.tmp",
-    "Ref/AV.ŚS.md",
-    "Ref/AitA.md",
-    "Ref/TS.md",
-    "Ref/TB.md",
-    "Ref/TA.md",
-    "Ref/iamb.mysEg.md",
-    "Ref/aitU.md",
-    "Ref/MnSmr.md",
-    "Ref/MU.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/nuh/nuh_utnapishtim_manu.md",
-    "boomerang/randos.md",
-    "Ref/shurup.md",
-    "Ref/gilg.md",
     "boomerang/~syncthing~randos.md.tmp",
     "Ref/~syncthing~gilg.md.tmp",
     "Ref/~syncthing~shurup.md.tmp",
     "Ref/~syncthing~SpB.md.tmp",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/nuh",
-    "Ref/RV.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Samkhya_kabbala_ghuli.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/Creatures and gods Indo-iranian.md",
-    "Ref/VS.md.md",
     "boomerang/bd_army_lying_about_utsab_mandal_age.jpg",
     "boomerang/bd army harassing teen haircut.png",
     "madaripuria_genz_khil2.png",

@@ -1,6 +1,12 @@
 
 https://titus.fkidg1.uni-frankfurt.de/private/texte/indica/vedica/sv/jb/jb.txt
 
+# k1
+### 1.161
+??
+### 1.162
+??
+# k2
 ### 2.1
 स एवैश  प्रजापतिस्  संवत्सरो ऽभवत् //
 ### ??

@@ -1,6 +1,7 @@
 https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi
 
 # c1
+https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145369.html
 ## manu
 
 #### 1.10
@@ -22,12 +23,26 @@ Having prounded this Law, he himself, first of all, taught it to me with due car
 This Bhṛgu will fully describe to you this (Law); this sage has learnt the whole of this in its entirety, from me.—(59)
 
 # c4
+https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200093.html
+### 4.16
+इन्द्रियार्थेषु सर्वेषु न प्रसज्येत कामतः ।
+अतिप्रसक्तिं चैतेषां मनसा संनिवर्तयेत् ॥ १६ ॥
+
+He shall not, through desires, become addicted to any sensual objects; excessive addiction to these, he shall avoid by mental reflection.—(10)
 #### 4.162
 आचार्यं च प्रवक्तारं पितरं मातरं गुरुम् ।
 न हिंस्याद् ब्राह्मणान् गाश्च सर्वांश्चैव तपस्विनः ॥ १६२ ॥
 
 He shall not injure his Preceptor, or Teacher or Father, or mother, or another elder, or Brāhmaṇas, or Cows, or any persons performing austerities.—(162)
+# c5
+https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200373.html
+### 5.53
+वर्षे वर्षेऽश्वमेधेन यो यजेत शतं समाः ।
+मांसानि च न खादेद् यस्तयोः पुण्यफलं समम् ॥ ५३ ॥
+
+If a man performs the Aśvamedha Sacrifice every year, for a hundred tears,—and another does not eat meat,—the merit and reward of both these are the same.—(53.)
 # c6
+https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200554.html
 #### 6.1
 एवं गृहाश्रमे स्थित्वा विधिवत् स्नातको द्विजः ।
 वने वसेत् तु नियतो यथावद् विजितैन्द्रियः 
@@ -78,6 +93,13 @@ The student, the Householder, the Hermit and the Renunciate,—all these, severa
 यथोक्तकारिणं विप्रं नयन्ति परमां गतिम् ॥ ८८ ॥
 
 But all these, when observed in due order, a ccording to the scriptures lead the Brāhmaṇa who has (thus) acted according to the law, to the highest state.—(88).
+# c7
+https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200659.html
+### 21
+ अद्यात् काकः पुरोडाशं श्वा च लिह्याद्द् हविस्तथा ।
+स्वाम्यं च न स्यात् कस्मिंश्चित् प्रवर्तेताधरोत्तरम् ॥ २१ ॥
+
+The crow would eat the Sacrificial Cake, and the dog would lick the offering-materials; rights of ownership would not remain with any one and there would be a confusion among the high and low.—(21).
 # c10
 https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201731.html
 ### 10.45

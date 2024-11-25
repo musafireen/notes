@@ -47,6 +47,11 @@ This is, indeed. Prana, i.e., Isvara, shining variously with all living beings. 
 
 This Atman within the body, resplendent and pure, can be reached by truth and tapas, by sound knowledge and by abstinence from sexual pleasures constantly practised; he is within the body, resplendent and pure; him, assiduous Sanyasins see, their faults removed.
 ## 3.2
+#### 6
+वेदान्तविज्ञानसुनिश्चितार्थाः सṁन्यासयोगाद्यतयः शुद्धसत्त्वाः ।
+ते ब्रह्मलोकेषु परान्तकाले परामृताः परिमुच्यन्ति सर्वे ॥ ६ ॥
+
+Having without doubt well ascertained the significance of the knowledge of Vedanta the seekers, their minds purified by dint of renunciation, attain the worlds of the Brahman and when their body falls, their Atman being one with the highest immortal Brahma n are absolved all round.
 #### 8
 यथा नद्यः स्यन्दमानाः समुद्रेऽस्तं गच्छन्ति नामरूपे विहाय ।
 तथा विद्वान्नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् ॥ ८ ॥

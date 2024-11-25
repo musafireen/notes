@@ -99,7 +99,7 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829921
 #### 4
 तन्नो॒ वातो॑ मयो॒भु वा॑तु भेष॒जं तन्मा॒ता पृ॑थि॒वी तत्पि॒ता द्यौः । तद्ग्रावा॑णः सोम॒सुतो॑ मयो॒भुव॒स्तद॑श्विना शृणुतं धिष्ण्या यु॒वम् ॥
 
-“May the wind waft to us the grateful medicament; may mother earth, may father heaven, (convey) it (to us); may the stones that express Soma, and are productive of pleasure (bring) it (to us); Aśvins, who are to be meditated upon, hear (our submission).”
+“May the wind waft to us the grateful medicament; may mother earth, may father heaven, (convey) it (to us); may the stones that express Soma, and are productive of plural asure (bring) it (to us); Aśvins, who are to be meditated upon, hear (our submission).”
 #### 10
 अदि॑ति॒र्द्यौरदि॑तिर॒न्तरि॑क्ष॒मदि॑तिर्मा॒ता स पि॒ता स पु॒त्रः । विश्वे॑ दे॒वा अदि॑ति॒: पञ्च॒ जना॒ अदि॑तिर्जा॒तमदि॑ति॒र्जनि॑त्वम् ॥
 
@@ -294,76 +294,6 @@ Let not the maternal waters swallow me, since the slaves hurled down this decrep
 इन्द्रो॒ हरी॑ युयु॒जे अ॒श्विना॒ रथं॒ बृह॒स्पति॑र्वि॒श्वरू॑पा॒मुपा॑जत । ऋ॒भुर्विभ्वा॒ वाजो॑ दे॒वाँ अ॑गच्छत॒ स्वप॑सो य॒ज्ञियं॑ भा॒गमै॑तन ॥
 
 “Indra has caparisoned his horses; the Aśvins have harnessed their car; Bṛhaspati has accepted the omniform (cow); therefore, Ṛbhu, Vibhva and Vāja, go the gods, doers of good deeds, enjoy your sacrificial portion.”
-## 1.162
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830706.html
-#### 1
-मा नो॑ मि॒त्रो वरु॑णो अर्य॒मायुरिन्द्र॑ ऋभु॒क्षा म॒रुत॒: परि॑ ख्यन् । यद्वा॒जिनो॑ दे॒वजा॑तस्य॒ सप्ते॑: प्रव॒क्ष्यामो॑ वि॒दथे॑ वी॒र्या॑णि ॥
-
-“Let neither Mitra nor Varuṇa, Aryaman, Āyu, Indra, Ṛbhukṣin,nor the Maruts, censure us; when we proclaim in the sacrifice the virtus of the swift horse sprung from the gods.”
-#### 2
-यन्नि॒र्णिजा॒ रेक्ण॑सा॒ प्रावृ॑तस्य रा॒तिं गृ॑भी॒तां मु॑ख॒तो नय॑न्ति । सुप्रा॑ङ॒जो मेम्य॑द्वि॒श्वरू॑प इन्द्रापू॒ष्णोः प्रि॒यमप्ये॑ति॒ पाथ॑: ॥
-
-“When they, (the priests), bring the prepared offering to the presence (of the horse), who has been bathed and decorated with rich (trappings), the various-coloured goat going before him, bleating, becomes an acceptable offering to Indra and Pūṣan.”
-#### 3
-ए॒ष च्छाग॑: पु॒रो अश्वे॑न वा॒जिना॑ पू॒ष्णो भा॒गो नी॑यते वि॒श्वदे॑व्यः । अ॒भि॒प्रियं॒ यत्पु॑रो॒ळाश॒मर्व॑ता॒ त्वष्टेदे॑नं सौश्रव॒साय॑ जिन्वति ॥
-
-“This goat, the portion of Pu+ṣan fit for all the gods, is brought first with the fleet courser, to that Tvaṣṭā may prepare him along with the horse, as an acceptable preliminary offering for the (sacrificial) food.”
-#### 7
-उप॒ प्रागा॑त्सु॒मन्मे॑ऽधायि॒ मन्म॑ दे॒वाना॒माशा॒ उप॑ वी॒तपृ॑ष्ठः । अन्वे॑नं॒ विप्रा॒ ऋष॑यो मदन्ति दे॒वानां॑ पु॒ष्टे च॑कृमा सु॒बन्धु॑म् ॥
-
-“May my desire be of itself accomplished, such as it has been entertained, that the smooth-backed steed should come to (gratify) the expectations of the gods; we have made him well-secured for the nutriment of the gods; let the wise saints now rejoice.”
-#### 9
-यदश्व॑स्य क्र॒विषो॒ मक्षि॒काश॒ यद्वा॒ स्वरौ॒ स्वधि॑तौ रि॒प्तमस्ति॑ । यद्धस्त॑योः शमि॒तुर्यन्न॒खेषु॒ सर्वा॒ ता ते॒ अपि॑ दे॒वेष्व॑स्तु ॥
-
-“Whatever the flies may eat of the raw flesh of the horse; whatever (grease) is smeared upon the brush or upon the axe; (what is smeared) upon the hands or the nails of the immolator, may all this be with you, (horse), amongst the gods.”
-#### 10
-यदूव॑ध्यमु॒दर॑स्याप॒वाति॒ य आ॒मस्य॑ क्र॒विषो॑ ग॒न्धो अस्ति॑ । सु॒कृ॒ता तच्छ॑मि॒तार॑: कृण्वन्तू॒त मेधं॑ शृत॒पाकं॑ पचन्तु ॥
-
-“Whatever undigested grass fall from this belly; whatever particle of raw flesh may remain; let the immolators make the whole free from defect, and so cook the pure (offering) that it may be perfectly dressed.”
-#### 11
-यत्ते॒ गात्रा॑द॒ग्निना॑ प॒च्यमा॑नाद॒भि शूलं॒ निह॑तस्याव॒धाव॑ति । मा तद्भूम्या॒मा श्रि॑ष॒न्मा तृणे॑षु दे॒वेभ्य॒स्तदु॒शद्भ्यो॑ रा॒तम॑स्तु ॥
-
-“Whatever (portion) of your slaughtered (body) fall from your carcass when it is being roasted by the fire, (escaping) from the spit; let it not be left on the ground,nor on the (sacred) grass, but let it (all) be given to the longing gods.”
-#### 12
-ये वा॒जिनं॑ परि॒पश्य॑न्ति प॒क्वं य ई॑मा॒हुः सु॑र॒भिर्निर्ह॒रेति॑ । ये चार्व॑तो मांसभि॒क्षामु॒पास॑त उ॒तो तेषा॑म॒भिगू॑र्तिर्न इन्वतु ॥
-
-“Let their exertions be for our good who watch the cooking of the horse; who say, it is fragrant; therefore give us some; who solicit the flesh of the horse as alms.”
-#### 13
-यन्नीक्ष॑णं माँ॒स्पच॑न्या उ॒खाया॒ या पात्रा॑णि यू॒ष्ण आ॒सेच॑नानि । ऊ॒ष्म॒ण्या॑पि॒धाना॑ चरू॒णाम॒ङ्काः सू॒नाः परि॑ भूष॒न्त्यश्व॑म् ॥
-
-“The stick that is dipped into the cauldron in which the flesh is boiled; the vessels that distribute the broth; the covers of the dishes, the skewers, the knives, all do honour (to the horse).”
-#### 15
-मा त्वा॒ग्निर्ध्व॑नयीद्धू॒मग॑न्धि॒र्मोखा भ्राज॑न्त्य॒भि वि॑क्त॒ जघ्रि॑: । इ॒ष्टं वी॒तम॒भिगू॑र्तं॒ वष॑ट्कृतं॒ तं दे॒वास॒: प्रति॑ गृभ्ण॒न्त्यश्व॑म् ॥
-
-“Let not smoke-smelling Agni cause you, (horse), to utter sound; let not the glowing cauldron, odoriferous (with its contents), be overturned; the gods accept a horse that has been selected (for sacrifice); that has been led (round the fire); that has been devoutly offered, and has been consecrated by (the exclamation), vaṣat.”
-#### 16
-यदश्वा॑य॒ वास॑ उपस्तृ॒णन्त्य॑धीवा॒सं या हिर॑ण्यान्यस्मै । सं॒दान॒मर्व॑न्तं॒ पड्बी॑शं प्रि॒या दे॒वेष्वा या॑मयन्ति ॥
-
-“The cloth which they spread as a covering for the horse; the golden (trappings with which they decorate him), the head-ropes, the foot-ropes, all these they offer as acceptable to the gods.”
-#### 17
-यत्ते॑ सा॒दे मह॑सा॒ शूकृ॑तस्य॒ पार्ष्ण्या॑ वा॒ कश॑या वा तु॒तोद॑ । स्रु॒चेव॒ ता ह॒विषो॑ अध्व॒रेषु॒ सर्वा॒ ता ते॒ ब्रह्म॑णा सूदयामि ॥
-
-“Whoever has goaded you in your paces, either with heel or with whip, whilst nothing in your strength-- all these (vexations) I pour out with holy prayers, as oblation with the ladle.
-#### 18
-चतु॑स्त्रिंशद्वा॒जिनो॑ दे॒वब॑न्धो॒र्वङ्क्री॒रश्व॑स्य॒ स्वधि॑ति॒: समे॑ति । अच्छि॑द्रा॒ गात्रा॑ व॒युना॑ कृणोत॒ परु॑ष्परुरनु॒घुष्या॒ वि श॑स्त ॥
-
-“The axe penetrates the thirty-four ribs of the swift horse; the beloved of the gods, (the immolators), cut up (the horse) with skill, so that the limbs may be unperforated, and recapitulating joint by joint.”
-#### 19
-एक॒स्त्वष्टु॒रश्व॑स्या विश॒स्ता द्वा य॒न्तारा॑ भवत॒स्तथ॑ ऋ॒तुः । या ते॒ गात्रा॑णामृतु॒था कृ॒णोमि॒ ताता॒ पिण्डा॑नां॒ प्र जु॑होम्य॒ग्नौ ॥
-
-“There is one immolator of the radiant horse, which is Time; there are two that hold him fast; such of your limbs as I cut up in due season, I offer them, made into balls (of meat) upon the fire
-#### 20
-मा त्वा॑ तपत्प्रि॒य आ॒त्मापि॒यन्तं॒ मा स्वधि॑तिस्त॒न्व१॒॑ आ ति॑ष्ठिपत्ते । मा ते॑ गृ॒ध्नुर॑विश॒स्ताति॒हाय॑ छि॒द्रा गात्रा॑ण्य॒सिना॒ मिथू॑ कः ॥
-
-“Let not your precious body grieve you, who are going verily (to the gods); let not the axe linger in your body; let not the greedy and unskilful (immolator) missing the members, mangle your limbs needlessly with his knife.”
-#### 21
-न वा उ॑ ए॒तन्म्रि॑यसे॒ न रि॑ष्यसि दे॒वाँ इदे॑षि प॒थिभि॑: सु॒गेभि॑: । हरी॑ ते॒ युञ्जा॒ पृष॑ती अभूता॒मुपा॑स्थाद्वा॒जी धु॒रि रास॑भस्य ॥
-
-“Verily at this moment you do not die; nor are you harmed; for you go by auspicious paths to the gods. The horses of Indra, the steeds of the Maruts shall be yoked (to their ears), and a courser shall be plural ced in the shaft of the ass of the Aśvins (to bear you to heaven).”
-#### 22
-न वा उ॑ ए॒तन्म्रि॑यसे॒ न रि॑ष्यसि दे॒वाँ इदे॑षि प॒थिभि॑: सु॒गेभि॑: । हरी॑ ते॒ युञ्जा॒ पृष॑ती अभूता॒मुपा॑स्थाद्वा॒जी धु॒रि रास॑भस्य ॥
-
-“Verily at this moment you do not die; nor are you harmed; for you go by auspicious paths to the gods. The horses of Indra, the steeds of the Maruts shall be yoked (to their ears), and a courser shall be plural ced in the shaft of the ass of the Aśvins (to bear you to heaven).”
 ## 1.163
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830731.html
 #### 2
@@ -398,7 +328,7 @@ Of those that are born together, sages have called the seventh single-born; for 
 
 तेषा॑मि॒ष्टानि॒ विहि॑तानि धाम॒शः स्था॒त्रे रे॑जन्ते॒ विकृ॑तानि रूप॒शः ॥
 
-their desirable (properties), placed severally in their proper abode, are various (also) in form, and revolve for (the benefit of) that which is stationary.
+their desirable (properties), plural ced severally in their proper abode, are various (also) in form, and revolve for (the benefit of) that which is stationary.
 #### 31
 अप॑श्यं गो॒पामनि॑पद्यमान॒मा च॒ परा॑ च प॒थिभि॒श्चर॑न्तम् । 
 
@@ -407,10 +337,7 @@ I have beheld the unwearied protector of the universe, the sun, travelling upwar
 स स॒ध्रीची॒: स विषू॑ची॒र्वसा॑न॒ आ व॑रीवर्ति॒ भुव॑नेष्व॒न्तः ॥
 
 invested with aggregative and diffusive radiance, he revolves in the midst of the regions.
-#### 46
-इन्द्रं॑ मि॒त्रं वरु॑णम॒ग्निमा॑हु॒रथो॑ दि॒व्यः स सु॑प॒र्णो ग॒रुत्मा॑न् । एकं॒ सद्विप्रा॑ बहु॒धा व॑दन्त्य॒ग्निं य॒मं मा॑त॒रिश्वा॑नमाहुः ॥
 
-“They have styled (him, the Sun), Indra, Mitra, Varuṇa, Agni, and he is the celestial, well-winged Garutmat, for learned priests call one by many names as they speak of Agni, Yama, Mātariśvan.”
 #### 48
 द्वाद॑श प्र॒धय॑श्च॒क्रमेकं॒ त्रीणि॒ नभ्या॑नि॒ क उ॒ तच्चि॑केत । तस्मि॑न्त्सा॒कं त्रि॑श॒ता न श॒ङ्कवो॑ऽर्पि॒ताः ष॒ष्टिर्न च॑लाच॒लास॑: ॥
 
@@ -420,7 +347,7 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840338
 #### 4
 प्रसू॑तो भ॒क्षम॑करं च॒रावपि॒ स्तोमं॑ चे॒मं प्र॑थ॒मः सू॒रिरुन्मृ॑जे । सु॒ते सा॒तेन॒ यद्याग॑मं वां॒ प्रति॑ विश्वामित्रजमदग्नी॒ दमे॑ ॥
 
-Enjoined by you, I have prepared the food at the (sacrifice) about to be performed, and as chiefworshipper I complete this hymn of praise. (Indra speaks): The Soma being poured out in your respective dwellings, O Viśvāmitra and Jamadagni, (offer praise) when I come with (the wealth) which I am going todistribute.
+Enjoined by you, I have prepared the food at the (sacrifice) about to be performed, and as chiefworshipper I complete this hymn of praise. (Indra speaks): The Soma being poured out in your respectivedwellings, O Viśvāmitra and Jamadagni, (offer praise) when I come with (the wealth) which I am going todistribute.
 ## 1.170
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830860.html
 #### 2
@@ -459,18 +386,10 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831015
 grant us, (Tvaṣṭa), their increase.”
 # b2
 ## 2.11
-#### 19
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831162.html
-
 सने॑म॒ ये त॑ ऊ॒तिभि॒स्तर॑न्तो॒ विश्वा॒: स्पृध॒ आर्ये॑ण॒ दस्यू॑न् । अ॒स्मभ्यं॒ तत्त्वा॒ष्ट्रं वि॒श्वरू॑प॒मर॑न्धयः सा॒ख्यस्य॑ त्रि॒ताय॑ ॥
 
 Let us honour those men, who, through your protection, surpass all their rivals, as the Dasyus (are surpassed) by the Arya; this (have you wrought) for us; you have slain Viśvarūpa, the son of Tvaṣṭā, through friendship of Trita.
-## 2.12
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831184.html
-#### 5
-यं स्मा॑ पृ॒च्छन्ति॒ कुह॒ सेति॑ घो॒रमु॒तेमा॑हु॒र्नैषो अ॒स्तीत्ये॑नम् । सो अ॒र्यः पु॒ष्टीर्विज॑ इ॒वा मि॑नाति॒ श्रद॑स्मै धत्त॒ स ज॑नास॒ इन्द्र॑: ॥
-
-“He, whom, terrible, they ask for, (saying), Where is he? or, verily, they say of him, he is not (in any one plural ce); but who, inflicting (chastisement), destroys the cherisshed (treasures) of the enemy; in him have faith; for he, men, is Indra.”
 ## 2.23
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831300.html
 #### 1
@@ -513,7 +432,7 @@ do you waft us in safety over (the ocean) of sin; repel all the assaults of iniq
 
 उन्नो॑ वी॒राँ अ॑र्पय भेष॒जेभि॑र्भि॒षक्त॑मं त्वा भि॒षजां॑ शृणोमि ॥
 
-invigorate our sons by your medicinal plants, for I hear that you are a chief physician amongst physicians.”
+invigorate our sons by your medicinal plural nts, for I hear that you are a chief physician amongst physicians.”
 #### 6
 उन्मा॑ ममन्द वृष॒भो म॒रुत्वा॒न्त्वक्षी॑यसा॒ वय॑सा॒ नाध॑मानम् । 
 
@@ -575,7 +494,7 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831783
 #### 8
 वा॒जी वाजे॑षु धीयतेऽध्व॒रेषु॒ प्र णी॑यते । विप्रो॑ य॒ज्ञस्य॒ साध॑नः ॥
 
-“The mighty Agni is placed (foremost by the gods) in battle; he is brought forward reverently at holy rites; for he is the sage fulfiller of the sacrifice. ”
+“The mighty Agni is plural ced (foremost by the gods) in battle; he is brought forward reverently at holy rites; for he is the sage fulfiller of the sacrifice. ”
 #### 9
 धि॒या च॑क्रे॒ वरे॑ण्यो भू॒तानां॒ गर्भ॒मा द॑धे । दक्ष॑स्य पि॒तरं॒ तना॑ ॥
 
@@ -584,20 +503,6 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831783
 नि त्वा॑ दधे॒ वरे॑ण्यं॒ दक्ष॑स्ये॒ळा स॑हस्कृत । अग्ने॑ सुदी॒तिमु॒शिज॑म् ॥
 
 “Agni, strength-engendered, Iḷā (the daughter) of Dakṣa has sustained you, the desirable, the resplendent, and longing (for the oblation).”
-## 3.31
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831846.html
-#### 5
-वी॒ळौ स॒तीर॒भि धीरा॑ अतृन्दन्प्रा॒चाहि॑न्व॒न्मन॑सा स॒प्त विप्रा॑: । विश्वा॑मविन्दन्प॒थ्या॑मृ॒तस्य॑ प्रजा॒नन्नित्ता नम॒सा वि॑वेश ॥
-
-“The seven intelligent ages (the aṅgirasas) having ascertained that (the cows) were concealed in the strong (cavern), propitiated (Indra) by mental devotion; they recovered them all by the path of sacrifice; for Indra, knowing (their pious acts), and offering them homage, entered (the cave).”
-#### 6
-वि॒दद्यदी॑ स॒रमा॑ रु॒ग्णमद्रे॒र्महि॒ पाथ॑: पू॒र्व्यं स॒ध्र्य॑क्कः । अग्रं॑ नयत्सु॒पद्यक्ष॑राणा॒मच्छा॒ रवं॑ प्रथ॒मा जा॑न॒ती गा॑त् ॥
-
-“When Saramā discovered the broken (entrance) of the mountain, then Indra made great and ample (provision) for her young, as previously (promised); then the sure-footed (animal), forest recognizing their lowing, proceeded, and came to the presence of the imperishable kine.”
-#### 21
-अदे॑दिष्ट वृत्र॒हा गोप॑ति॒र्गा अ॒न्तः कृ॒ष्णाँ अ॑रु॒षैर्धाम॑भिर्गात् । प्र सू॒नृता॑ दि॒शमा॑न ऋ॒तेन॒ दुर॑श्च॒ विश्वा॑ अवृणो॒दप॒ स्वाः ॥
-
-“Indra, the slayer of Vṛtra, the lord of herds, has discovered the cattle, and by his radiant effulgence driven away the black (asuras), and indicating with veracity (to the aṅgirasas) the honest (kine), he shut the gate uon all their own cattle.”
 ## 3.33
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831887.html
 #### 1
@@ -625,12 +530,6 @@ The Bharatās seeking cattle passed over; the sage enjoyed the favour of the riv
 शु॒नं हु॑वेम म॒घवा॑न॒मिन्द्र॑म॒स्मिन्भरे॒ नृत॑मं॒ वाज॑सातौ । शृ॒ण्वन्त॑मु॒ग्रमू॒तये॑ स॒मत्सु॒ घ्नन्तं॑ वृ॒त्राणि॑ सं॒जितं॒ धना॑नाम् ॥
 
 “We invoke for our protection the (maghavān) opulent Indra distinguished in this combat, the leader in the food-bestowing (strife), hearing (our praises), terrible in battles, the destroyer of foes, the conqueror of wealth.”
-## 3.45
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832015.html
-#### 1
-आ म॒न्द्रैरि॑न्द्र॒ हरि॑भिर्या॒हि म॒यूर॑रोमभिः । मा त्वा॒ के चि॒न्नि य॑म॒न्विं न पा॒शिनोऽति॒ धन्वे॑व॒ ताँ इ॑हि ॥
-
-“Come,Indra, with your exulting peacock-haired steeds; let no person ns detain you, as (fowlers) throwing snares catch a bird;pass them by (quickly) as (travellers cross) a desert.”
 ## 3.53
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832087.html
 #### 7
@@ -717,7 +616,7 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832121
 #### 8
 तां जु॑षस्व॒ गिरं॒ मम॑ वाज॒यन्ती॑मवा॒ धिय॑म् । व॒धू॒युरि॑व॒ योष॑णाम् ॥
 
-“Be pleased by this my praise, and incline to this food-supplicating laudation as an excessively submissive (husband) to his wife.”
+“Be plural ased by this my praise, and incline to this food-supplicating laudation as an excessively submissive (husband) to his wife.”
 
 #### 9
 यो विश्वा॒भि वि॒पश्य॑ति॒ भुव॑ना॒ सं च॒ पश्य॑ति । स न॑: पू॒षावि॒ता भु॑वत् ॥
@@ -741,7 +640,7 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832121
 #### 13
 सोमो॑ जिगाति गातु॒विद्दे॒वाना॑मेति निष्कृ॒तम् । ऋ॒तस्य॒ योनि॑मा॒सद॑म् ॥
 
-“Soma, knowing the right path, proceeds (by it); he goes to the excellent seat of the gods, the place of sacrifice.”
+“Soma, knowing the right path, proceeds (by it); he goes to the excellent seat of the gods, the plural ce of sacrifice.”
 #### 14
 सोमो॑ अ॒स्मभ्यं॑ द्वि॒पदे॒ चतु॑ष्पदे च प॒शवे॑ । अ॒न॒मी॒वा इष॑स्करत् ॥
 
@@ -750,7 +649,7 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832121
 #### 15
 अ॒स्माक॒मायु॑र्व॒र्धय॑न्न॒भिमा॑ती॒: सह॑मानः । सोम॑: स॒धस्थ॒मास॑दत् ॥
 
-“May Soma, prolonging our lives and overcoming our adversaries, sit down in our place of sacrifice.”
+“May Soma, prolonging our lives and overcoming our adversaries, sit down in our plural ce of sacrifice.”
 
 #### 16
 आ नो॑ मित्रावरुणा घृ॒तैर्गव्यू॑तिमुक्षतम् । मध्वा॒ रजां॑सि सुक्रतू ॥
@@ -765,70 +664,12 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832121
 #### 18
 गृ॒णा॒ना ज॒मद॑ग्निना॒ योना॑वृ॒तस्य॑ सीदतम् । पा॒तं सोम॑मृतावृधा ॥
 
-“Glorified by Jamadagni, sit down in the place of sacrifice (the altar); drink, augmenters (of the reward) of sacrifice, the Soma libation.”
+“Glorified by Jamadagni, sit down in the plural ce of sacrifice (the altar); drink, augmenters (of the reward) of sacrifice, the Soma libation.”
+
 ## 3.66
 ### 2
 # b4
-## 4.16
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832216.html
-#### 10
-आ द॑स्यु॒घ्ना मन॑सा या॒ह्यस्तं॒ भुव॑त्ते॒ कुत्स॑: स॒ख्ये निका॑मः । स्वे योनौ॒ नि ष॑दतं॒ सरू॑पा॒ वि वां॑ चिकित्सदृत॒चिद्ध॒ नारी॑ ॥
 
-“With a mind resolved on killing the Dasyu, you came (to his dwelling), and Kutsa was eager for your friendship; now have you two alighted in his, (Indra's), habitation, and being entirely similar in form the truthful woman has been perplexed (to discriminate between you).”
-## 4.18
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832439.html
-#### 3
-प॒रा॒य॒तीं मा॒तर॒मन्व॑चष्ट॒ न नानु॑ गा॒न्यनु॒ नू ग॑मानि । त्वष्टु॑र्गृ॒हे अ॑पिब॒त्सोम॒मिन्द्र॑: शतध॒न्यं॑ च॒म्वो॑: सु॒तस्य॑ ॥
-	
-“He, (Indra), has asserted (that it will) cause the death of my mother; let me not proceed by the usual way, but proceed quickly, according (to my will); in the dwelling of Tvaṣṭā Indra drank the costly Soma from the vessels of the offerers.”
-#### 11
-उ॒त मा॒ता म॑हि॒षमन्व॑वेनद॒मी त्वा॑ जहति पुत्र दे॒वाः । अथा॑ब्रवीद्वृ॒त्रमिन्द्रो॑ हनि॒ष्यन्त्सखे॑ विष्णो वित॒रं वि क्र॑मस्व ॥
-
-“His mother inquired of the mighty Indra, have these deities deserted you, my son? then Indra and Viṣṇu, my friend (if you) purpose slaying Vṛtra exert your greatest prowess.”
-#### 13
-अव॑र्त्या॒ शुन॑ आ॒न्त्राणि॑ पेचे॒ न दे॒वेषु॑ विविदे मर्डि॒तार॑म् । अप॑श्यं जा॒यामम॑हीयमाना॒मधा॑ मे श्ये॒नो मध्वा ज॑भार ॥
-
-“In extreme destitution I have cooked the entrails of a dog; I have not found a comforter among the gods; I have beheld my wife disrsepected; then the falcon, (Indra), has brought to me sweet water.”
-## 4.26
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832534.html
-#### 1
-अ॒हं मनु॑रभवं॒ सूर्य॑श्चा॒हं क॒क्षीवाँ॒ ऋषि॑रस्मि॒ विप्र॑: । अ॒हं कुत्स॑मार्जुने॒यं न्यृ॑ञ्जे॒ऽहं क॒विरु॒शना॒ पश्य॑ता मा ॥
-
-“I have been Manu and Sūrya; I am the wise ṛṣi: Kakṣīvat; I have befriended Kutsa, the son of Arjuni; I am the far-seeing Uśanās; so behold me.”
-#### 2
-अ॒हं भूमि॑मददा॒मार्या॑या॒हं वृ॒ष्टिं दा॒शुषे॒ मर्त्या॑य । अ॒हम॒पो अ॑नयं वावशा॒ना मम॑ दे॒वासो॒ अनु॒ केत॑मायन् ॥
-
-“I gave the earth to the venerable (Manu); I have bestowed rain upon the mortal who presents (oblations); I have let forth the sounding waters; the gods obey my will.”
-#### 3
-अ॒हं पुरो॑ मन्दसा॒नो व्यै॑रं॒ नव॑ सा॒कं न॑व॒तीः शम्ब॑रस्य । श॒त॒त॒मं वे॒श्यं॑ स॒र्वता॑ता॒ दिवो॑दासमतिथि॒ग्वं यदाव॑म् ॥
-
-“Exhilarated (by the Soma beverage) I have destroyed the ninety and nine cities of Śambara, the hundredth I gave to be occupied by Divodāsa when I protected him, Atithigva, at his sacrifice. ”
-#### 4
-प्र सु ष विभ्यो॑ मरुतो॒ विर॑स्तु॒ प्र श्ये॒नः श्ये॒नेभ्य॑ आशु॒पत्वा॑ । अ॒च॒क्रया॒ यत्स्व॒धया॑ सुप॒र्णो ह॒व्यं भर॒न्मन॑वे दे॒वजु॑ष्टम् ॥
-
-“May this bird, Maruts, be pre-eminent over (other) hawks, since with a wheelless car the swift-winged bore the Soma, accepted by the gods, to Manu.”
-#### 6
-ऋ॒जी॒पी श्ये॒नो दद॑मानो अं॒शुं प॑रा॒वत॑: शकु॒नो म॒न्द्रं मद॑म् । सोमं॑ भरद्दादृहा॒णो दे॒वावा॑न्दि॒वो अ॒मुष्मा॒दुत्त॑रादा॒दाय॑ ॥
-
-“The straight-flying hawk, conveying the Soma from afar; the bird, attended by the gods, brought, resolute of purpose, the adorable exhilarating Soma, having taken it from that lofty heaven.”
-#### 7
-आ॒दाय॑ श्ये॒नो अ॑भर॒त्सोमं॑ स॒हस्रं॑ स॒वाँ अ॒युतं॑ च सा॒कम् । अत्रा॒ पुरं॑धिरजहा॒दरा॑ती॒र्मदे॒ सोम॑स्य मू॒रा अमू॑रः ॥
-
-“Having taken it, the hawk brought the Soma with him to a thousand and ten thousand sacrifices, and this being provided, the performer of many (great) deeds, the unbewildered (Indra) destroyed, in the exhilaration of the Soma, (his) bewildered foes.”
-## 4.27
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832542.html
-#### 1
-गर्भे॒ नु सन्नन्वे॑षामवेदम॒हं दे॒वानां॒ जनि॑मानि॒ विश्वा॑ । श॒तं मा॒ पुर॒ आय॑सीररक्ष॒न्नध॑ श्ये॒नो ज॒वसा॒ निर॑दीयम् ॥
-
-“Being still in the germ, I have known all the births of these divinities in their order; a hundred bodies of metal confined me, but as a hawk I came forth with speed.”
-#### 3
-अव॒ यच्छ्ये॒नो अस्व॑नी॒दध॒ द्योर्वि यद्यदि॒ वात॑ ऊ॒हुः पुरं॑धिम् । सृ॒जद्यद॑स्मा॒ अव॑ ह क्षि॒पज्ज्यां कृ॒शानु॒रस्ता॒ मन॑सा भुर॒ण्यन् ॥
-
-“When the hawk screamed (with exultation) on his descent from heaven, and (the guardians of the Soma) perceived that the Soma was (carried away) by it then, the archer of Kṛśānu, pursuing with the speed of thought, and stringing his bow, let fly an arrow against it.”
-#### 4
-ऋ॒जि॒प्य ई॒मिन्द्रा॑वतो॒ न भु॒ज्युं श्ये॒नो ज॑भार बृह॒तो अधि॒ ष्णोः । अ॒न्तः प॑तत्पत॒त्र्य॑स्य प॒र्णमध॒ याम॑नि॒ प्रसि॑तस्य॒ तद्वेः ॥
-
-“The straight-flying hawk carried off the Soma from above the vast heaven, as (the Aśvins carried off) Bhujyu from the region of Indra, and a falling feather from the middle of the bird dropped from him wounded in the conflict.”
 ## 4.28
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832548.html
 #### 4
@@ -837,10 +678,6 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832548
 Indra, you have made these Dasyus devoid of all (good qualities); you have made the races without rites abject; may you, (Soma and Indra), repel (and) destroy (your) enemies; accept (our) homage for their destruction.
 ## 4.30
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc832560.html
-#### 4
-यत्रो॒त बा॑धि॒तेभ्य॑श्च॒क्रं कुत्सा॑य॒ युध्य॑ते । मु॒षा॒य इ॑न्द्र॒ सूर्य॑म् ॥
-
-“In wihc (contests), for the sake of Kutsa and his allies, you hae stolen, Indra, the (wheel of the car) of the sun.”
 #### 9
 दि॒वश्चि॑द्घा दुहि॒तरं॑ म॒हान्म॑ही॒यमा॑नाम् । उ॒षास॑मिन्द्र॒ सं पि॑णक् ॥
 
@@ -907,18 +744,12 @@ Feeder upon butter, bright and variegated radiance we solicit you, the beholder 
 वी॒तिहो॑त्रं त्वा कवे द्यु॒मन्तं॒ समि॑धीमहि । अग्ने॑ बृ॒हन्त॑मध्व॒रे ॥
 
 “We kindle you at the sacrifice, wise Agni, whose food is the oblation, who are brilliant and vast.”
-## 5.29
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc833090.html
-#### 10
-प्रान्यच्च॒क्रम॑वृह॒: सूर्य॑स्य॒ कुत्सा॑या॒न्यद्वरि॑वो॒ यात॑वेऽकः । अ॒नासो॒ दस्यूँ॑रमृणो व॒धेन॒ नि दु॑र्यो॒ण आ॑वृणङ्मृ॒ध्रवा॑चः ॥
-
-“You have formerly detached one wheel (of the car) of Sūrya; another you have given to Kutsa wherewith to acquire wealth; with the thunderbolt you have confounded the (anāsa) voiceless Dasyus, you have destroyed in (vadha) battle the (vāca)speech-(amrdha)bereft (foes).”
 ## 5.30
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc833106.html
 #### 8
 युजं॒ हि मामकृ॑था॒ आदिदि॑न्द्र॒ शिरो॑ दा॒सस्य॒ नमु॑चेर्मथा॒यन् । अश्मा॑नं चित्स्व॒र्यं१॒॑ वर्त॑मानं॒ प्र च॒क्रिये॑व॒ रोद॑सी म॒रुद्भ्य॑: ॥
 
-Verily you have made me, Indra, your associate when grinding the head of the (dāsa) slave Namuci like a sounding and rolling cloud; and the heaven and earth (have been caused) by the Maruts (to revolve like a wheel).
+Verily you have made me, Indra, your associate when grinding the head of the slave Namuci like a sounding and rolling cloud; and the heaven and earth (have been caused) by the Maruts (to revolve like a wheel).
 #### 9
 स्त्रियो॒ हि दा॒स आयु॑धानि च॒क्रे किं मा॑ करन्नब॒ला अ॑स्य॒ सेना॑: । अ॒न्तर्ह्यख्य॑दु॒भे अ॑स्य॒ धेने॒ अथोप॒ प्रैद्यु॒धये॒ दस्यु॒मिन्द्र॑: ॥
 
@@ -1062,7 +893,7 @@ Turvaśa, who was presiding (at solemn rites), diligent in sacrifice, (went to S
 #### 7
 आ प॒क्थासो॑ भला॒नसो॑ भन॒न्तालि॑नासो विषा॒णिन॑: शि॒वास॑: । आ योऽन॑यत्सध॒मा आर्य॑स्य ग॒व्या तृत्सु॑भ्यो अजगन्यु॒धा नॄन् ॥
 
-Those who dress the oblation, those who pronounce auspicious words, those who abstain from penance, those who bear horns (in their hands), those who bestow happiness (on the world by sacrifice), glorify that Indra, who recovered the cattle of the Arya from the plunderers, who slew the enemies in battle.
+Those who dress the oblation, those who pronounce auspicious words, those who abstain from penance, those who bear horns (in their hands), those who bestow happiness (on the world by sacrifice), glorify that Indra, who recovered the cattle of the Arya from the plural nderers, who slew the enemies in battle.
 #### 8
 दु॒रा॒ध्यो॒३॒॑ अदि॑तिं स्रे॒वय॑न्तोऽचे॒तसो॒ वि ज॑गृभ्रे॒ परु॑ष्णीम् । म॒ह्नावि॑व्यक्पृथि॒वीं पत्य॑मानः प॒शुष्क॒विर॑शय॒च्चाय॑मानः ॥
 
@@ -1167,7 +998,7 @@ By the wisdom seated in the heart the Vasiṣṭhas traverse the hidden thousand
 #### 10
 वि॒द्युतो॒ ज्योति॒: परि॑ सं॒जिहा॑नं मि॒त्रावरु॑णा॒ यदप॑श्यतां त्वा । तत्ते॒ जन्मो॒तैकं॑ वसिष्ठा॒गस्त्यो॒ यत्त्वा॑ वि॒श आ॑ज॒भार॑ ॥
 
-When Mitra and Varuṇa beheld you, Vasiṣṭha, quitting the lustre of the lightning (for a different form),then one of your births (took place), inasmuch as Agastya bore you from your (former) abode.
+When Mitra and Varuṇa beheld you, Vasiṣṭha, quitting the lustre of the lightning (for a different form),then one of your births (took plural ce), inasmuch as Agastya bore you from your (former) abode.
 #### 11
 उ॒तासि॑ मैत्रावरु॒णो व॑सिष्ठो॒र्वश्या॑ ब्रह्म॒न्मन॒सोऽधि॑ जा॒तः । द्र॒प्सं स्क॒न्नं ब्रह्म॑णा॒ दैव्ये॑न॒ विश्वे॑ दे॒वाः पुष्क॑रे त्वाददन्त ॥
 
@@ -1190,12 +1021,6 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc834859
 आ यन्न॒: पत्नी॒र्गम॒न्त्यच्छा॒ त्वष्टा॑ सुपा॒णिर्दधा॑तु वी॒रान् ॥
 
 “When the wives (of the gods) come before us, may the dextrous Tvaṣṭā grant us male progeny.”
-## 7.59
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc835068.html
-#### 12
-त्र्य॑म्बकं यजामहे सु॒गन्धिं॑ पुष्टि॒वर्ध॑नम् । उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ मामृता॑त् ॥
-
-“We worship Tryambaka, whose fame is fragrant, the augmenter of increase; may I be liberated from death, and, like the urvāruka from its stalk, but not to immortality; let us worship Trayambaka, whose fame is fragrant, the augmenter of increase; may I be liberated from death like the urvāruka from its stalk, but not unto immortality.”
 ## 7.66
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc835128.html
 #### 1
@@ -1396,12 +1221,6 @@ Become (vid) appraised, Aśvins, of my (nava) recent (sani) gifts, how that Kaś
 यो मे॒ हिर॑ण्यसंदृशो॒ दश॒ राज्ञो॒ अमं॑हत । अ॒ध॒स्प॒दा इच्चै॒द्यस्य॑ कृ॒ष्टय॑श्चर्म॒म्ना अ॒भितो॒ जना॑: ॥
 
 The son of Cedi, who has given me for servants (daśa) ten Rājās, bright (sandṛśa) as (hiraṇya) gold, for all men are (adha) beneath his (pad) feet; all (jana) those (abhi) around (caidya) him wear (kṛṣṭa) cuirasses of (carma) leather.
-## 8.14
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc835849.html
-#### 1
-यदि॑न्द्रा॒हं यथा॒ त्वमीशी॑य॒ वस्व॒ एक॒ इत् । स्तो॒ता मे॒ गोष॑खा स्यात् ॥
-
-“If, Indra, I were, as you are, sole, lord over wealth, then should my eulogist be possessed of cattle.”
 ## 8.19
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc835931.html
 #### 37
@@ -1411,30 +1230,6 @@ uta me prayiyor vayiyoḥ suvāstvā adhi tugvani | tisṝṇāṃ saptatīnā�
 
 English translation:
 “The affluent Śyāva, the lord of kine, has given to me upon the banks of Suvastu a present of seventythree (cows).”
-## 8.25
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc836096.html
-#### 5
-नपा॑ता॒ शव॑सो म॒हः 
-
-“Grandson sof mighty strength, 
-
-सू॒नू दक्ष॑स्य 
-
-son sof (dakṣa) energy, 
-
-सु॒क्रतू॑ । 
-
-doers of good deeds, 
-
-सृ॒प्रदा॑नू इ॒षो वास्त्वधि॑ क्षितः ॥
-
-liberal benefactors, they presideover the habitation of food.”
-## 8.43
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc836536.html
-#### 3
-अपा॑म॒ सोम॑म॒मृता॑ अभू॒माग॑न्म॒ ज्योति॒रवि॑दाम दे॒वान् । किं नू॒नम॒स्मान्कृ॑णव॒दरा॑ति॒: किमु॑ धू॒र्तिर॑मृत॒ मर्त्य॑स्य ॥
-
-“We drink the Soma, may we become immortal; we have attained the light of (heaven), we have knownthe gods; what now could the enemy do to us, or what, O immortal, should the aggriever do to the mortal?”
 ## 8.46
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc836483.html
 #### 31
@@ -1446,12 +1241,6 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc836483
 
 I, the (vipra) sage, (da) accept the (śata) hundred from the (dāsa) slave Balbūtha, the (gopa) cowherd; we here are your, O Vāyu- (jana) those who have Indra and the (deva) gods for (gopa) protectors (mad) rejoice (through your favour).
 # b8.60-66
-## 8.63
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc836696.html
-#### 1
-स पू॒र्व्यो म॒हानां॑ वे॒नः क्रतु॑भिरानजे । यस्य॒ द्वारा॒ मनु॑ष्पि॒ता दे॒वेषु॒ धिय॑ आन॒जे ॥
-
-“He, (Indra), the chief of those to be honoured, desirous of our offerings, approaches; he, the doors ofwhose favour, the sacred rites, Manu, the (universal) father, attained among the gods.”
 # b9
 ## 9.25
 #### 1
@@ -1472,12 +1261,6 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838229
 सोम॑: पवते जनि॒ता म॑ती॒नां ज॑नि॒ता दि॒वो ज॑नि॒ता पृ॑थि॒व्याः । ज॒नि॒ताग्नेर्ज॑नि॒ता सूर्य॑स्य जनि॒तेन्द्र॑स्य जनि॒तोत विष्णो॑: ॥
 
 “The Soma (pavana) flows, the (jāti) generator of (mati) praises, the generator of (dyaus) heaven, the generator of the (pṛthivī) earth, the generator of Agni, the generator of the (sūrya) sun, the generator of Indra, and the generator of Viṣṇu.”
-## 9.101
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838340.html
-#### 1
-पु॒रोजि॑ती वो॒ अन्ध॑सः सु॒ताय॑ मादयि॒त्नवे॑ । अप॒ श्वानं॑ श्नथिष्टन॒ सखा॑यो दीर्घजि॒ह्व्य॑म् ॥
-
-“For (the drinking of) the effused exhilarating (juice) of the Soma who has plural ced victory before you, do you friends destroy the long-tongued dog.”
 ## 9.102
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838357.html
 #### 4
@@ -1495,10 +1278,6 @@ to that this firm Soma is cognizant of riches. [”
 
 तं ग॑न्ध॒र्वाः प्रत्य॑गृभ्ण॒न्तं सोमे॒ रस॒माद॑धु॒रिन्द्रा॑येन्दो॒ परि॑ स्रव ॥
 the gandharva seized upon it and placed the (rasa) juice in the Soma; (srāva) flow, Indu, for Indra.”
-#### 8
-यत्र॒ राजा॑ वैवस्व॒तो यत्रा॑व॒रोध॑नं दि॒वः । यत्रा॒मूर्य॒ह्वती॒राप॒स्तत्र॒ माम॒मृतं॑ कृ॒धीन्द्रा॑येन्दो॒ परि॑ स्रव ॥
-
-“Where Vivasvat's son is king, where the inner chamber of the sun (is), where these great waters (are), there make me immortal; flow, Indu, for Indra.”
 # b10
 ## 10.5
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838541.html
@@ -1536,58 +1315,6 @@ Gandharva (the sun) was in the watery (firmament), and the water was his bride. 
 य॒मस्य॑ मा य॒म्यं१॒॑ काम॒ आग॑न्त्समा॒ने योनौ॑ सह॒शेय्या॑य । जा॒येव॒ पत्ये॑ त॒न्वं॑ रिरिच्यां॒ वि चि॑द्वृहेव॒ रथ्ये॑व च॒क्रा ॥
 
 “(Yami speaks). The desire of Yama has approached me Yamī, to lie with him in the same bed; I willabandon my person n as a wife to her husband; let us exert ourselves in union like the two wheels of a wagon.”
-## 10.14
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838626.html
-#### 1
-प॒रे॒यि॒वांसं॑ प्र॒वतो॑ म॒हीरनु॑ ब॒हुभ्य॒: पन्था॑मनुपस्पशा॒नम् । वै॒व॒स्व॒तं सं॒गम॑नं॒ जना॑नां य॒मं राजा॑नं ह॒विषा॑ दुवस्य ॥
-
-“Worship with oblations from Yama, king (of the Pitṛs), son of Vivasvat, the aggregation of mankind, who conducts those who are virtuous over the earth, and opens to many the path (of heaven).”
-#### 2
-य॒मो नो॑ गा॒तुं प्र॑थ॒मो वि॑वेद॒ नैषा गव्यू॑ति॒रप॑भर्त॒वा उ॑ । यत्रा॑ न॒: पूर्वे॑ पि॒तर॑: परे॒युरे॒ना ज॑ज्ञा॒नाः प॒थ्या॒३॒॑ अनु॒ स्वाः ॥
-
-“Yama, the chief (of all), knows our well-being; this pasture no one can take from us; by the road bywhich our forefathers have gone, all who are born (proceed) along the paths they have made for themselveṣ”
-#### 3
-मात॑ली क॒व्यैर्य॒मो अङ्गि॑रोभि॒र्बृह॒स्पति॒ॠक्व॑भिर्वावृधा॒नः । याँश्च॑ दे॒वा वा॑वृ॒धुर्ये च॑ दे॒वान्त्स्वाहा॒न्ये स्व॒धया॒न्ये म॑दन्ति ॥
-
-“Mātalin prospers with the Kavyas; Yama with the Aṅgirasas; Bṛhaspati with the Ṛkvans; they whomthe gods augment, and they who augment the gods, these rejoice in Svāhā, those in the Svadhā.”
-#### 4
-इ॒मं य॑म प्रस्त॒रमा हि सीदाङ्गि॑रोभिः पि॒तृभि॑: संविदा॒नः । आ त्वा॒ मन्त्रा॑: कविश॒स्ता व॑हन्त्वे॒ना रा॑जन्ह॒विषा॑ मादयस्व ॥
-
-“Yama, who are associated with the Aṅgirasa Pitṛs, sit down at this sacrifice; may the prayers recited by the priests bring you here; be exhilarated, Sovereign, (Yam), by this oblation.”
-#### 5
-अङ्गि॑रोभि॒रा ग॑हि य॒ज्ञिये॑भि॒र्यम॑ वैरू॒पैरि॒ह मा॑दयस्व । विव॑स्वन्तं हुवे॒ यः पि॒ता ते॒ऽस्मिन्य॒ज्ञे ब॒र्हिष्या नि॒षद्य॑ ॥
-
-“Come here, Yama, with the venerable multiform Aṅgirasas, and be exhilarated; I summon Vivasvat,who is your father, to this sacrifice; be seated on the sacred grass (delight the sacrificer).”
-#### 6
-अङ्गि॑रसो नः पि॒तरो॒ नव॑ग्वा॒ अथ॑र्वाणो॒ भृग॑वः सो॒म्यास॑: । तेषां॑ व॒यं सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
-
-“The Aṅgirasas, the Atharvas, the Bhṛgus, who are entitled to the Soma, are our recent progenitors; may we ever have a place in the favour of these venerable (pitrṣ); may we be ever held in their auspicious regard.”
-#### 7
-प्रेहि॒ प्रेहि॑ प॒थिभि॑: पू॒र्व्येभि॒र्यत्रा॑ न॒: पूर्वे॑ पि॒तर॑: परे॒युः । उ॒भा राजा॑ना स्व॒धया॒ मद॑न्ता य॒मं प॑श्यासि॒ वरु॑णं च दे॒वम् ॥
-
-“Depart, depart, by the former paths by which our forefathers have departed; there shall you behold the two monarchs Yama and the divine Varuṇa rejoicing in the Svadhā.”
-#### 8
-सं ग॑च्छस्व पि॒तृभि॒: सं य॒मेने॑ष्टापू॒र्तेन॑ पर॒मे व्यो॑मन् । हि॒त्वाया॑व॒द्यं पुन॒रस्त॒मेहि॒ सं ग॑च्छस्व त॒न्वा॑ सु॒वर्चा॑: ॥
-
-“Be united with the Pitṛs, with Yama, and with the fulfilment of your wishes in the highest heaven;discarding iniquity, return to your abode, and unite yourself to a luminous body.”
-## 10.16
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838658.html
-#### 1
-मैन॑मग्ने॒ वि द॑हो॒ माभि शो॑चो॒ मास्य॒ त्वचं॑ चिक्षिपो॒ मा शरी॑रम् । य॒दा शृ॒तं कृ॒णवो॑ जातवे॒दोऽथे॑मेनं॒ प्र हि॑णुतात्पि॒तृभ्य॑: ॥
-
-“Agni, consume him not entirely; afflict him not; scatter not (here and there) his skin nor his body; whenJātavedas, you have rendered him mature, then send him to the Pitṛs.”
-#### 3
-सूर्यं॒ चक्षु॑र्गच्छतु॒ वात॑मा॒त्मा द्यां च॑ गच्छ पृथि॒वीं च॒ धर्म॑णा । अ॒पो वा॑ गच्छ॒ यदि॒ तत्र॑ ते हि॒तमोष॑धीषु॒ प्रति॑ तिष्ठा॒ शरी॑रैः ॥
-
-“Let the eye repair to the sun; the breath to the wind; go you to the heaven or to the earth, according toyour merit; or go to the waters it it suits you (to be) there, or abide with your members in the plants.”
-#### 5
-अव॑ सृज॒ पुन॑रग्ने पि॒तृभ्यो॒ यस्त॒ आहु॑त॒श्चर॑ति स्व॒धाभि॑: । आयु॒र्वसा॑न॒ उप॑ वेतु॒ शेष॒: सं ग॑च्छतां त॒न्वा॑ जातवेदः ॥
-
-“Dismiss again to the Pitṛs, Agni, him who offered on you, comes with the svadhās; putting on(celestial) life, let the remains (of bodily life) depart; let him, Jātavedas, be associated with a body.”
-#### 6
-यत्ते॑ कृ॒ष्णः श॑कु॒न आ॑तु॒तोद॑ पिपी॒लः स॒र्प उ॒त वा॒ श्वाप॑दः । अ॒ग्निष्टद्वि॒श्वाद॑ग॒दं कृ॑णोतु॒ सोम॑श्च॒ यो ब्रा॑ह्म॒णाँ आ॑वि॒वेश॑ ॥
-
-“Should the black crow, the ant, the snake, the wild beast, harm (a limb) of you, may Agni the all-devourer, and the Soma that has pervaded the brāhmaṇas, make it whole.”
 ## 10.17
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838673.html
 ### 1-2
@@ -1608,58 +1335,13 @@ but the mother of Yama, the newly-married wife of the mighty Vivasvat, disappear
 
 She bore the two Aśvins when this had happened and then Saraṇyū gave birth to two twins.”
 ### ?
-## 10.18
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838688.html
-#### 5
-यथाहा॑न्यनुपू॒र्वं भव॑न्ति॒ यथ॑ ऋ॒तव॑ ऋ॒तुभि॒र्यन्ति॑ सा॒धु । यथा॒ न पूर्व॒मप॑रो॒ जहा॑त्ये॒वा धा॑त॒रायूं॑षि कल्पयैषाम् ॥
-
-“As days pass along in succession; as season are duly followed by seasons; as the successor doesnot abandon his predecessor, so, Dhātā, support the lives of these (my kinsmen).”
-#### 8
-उदी॑र्ष्व नार्य॒भि जी॑वलो॒कं ग॒तासु॑मे॒तमुप॑ शेष॒ एहि॑ । ह॒स्त॒ग्रा॒भस्य॑ दिधि॒षोस्तवे॒दं पत्यु॑र्जनि॒त्वम॒भि सं ब॑भूथ ॥
-
-“Rise, woman, (and go) to the world of living beings; come, this man near whom you sleep is lifeless;you have enjoyed this state of being the wife of your husband, the suitor who took you by the band.”
 ## 10.22
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838732.html
 #### 13
 अ॒स्मे ता त॑ इन्द्र सन्तु स॒त्याहिं॑सन्तीरुप॒स्पृश॑: । वि॒द्याम॒ यासां॒ भुजो॑ धेनू॒नां न व॑ज्रिवः ॥
 
 “May these our (praises) reaching you, Indra, be successful, doing no detriment (to you), so that,thunderer, we may obtain the benefits derivable from them, as (a cowherd enjoys those) from the kine.”
-## 10.28
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838810.html
-#### 10
-सु॒प॒र्ण इ॒त्था न॒खमा सि॑षा॒याव॑रुद्धः परि॒पदं॒ न सिं॒हः । नि॒रु॒द्धश्चि॑न्महि॒षस्त॒र्ष्यावा॑न्गो॒धा तस्मा॑ अ॒यथं॑ कर्षदे॒तत् ॥
 
-“The hawk has fastened her claw in heaven; a (simha) lion confined (in a cage) places one foot over the otheṛ As a captive buffalo (is) thirsty, (so) Indra thirsted for the Soma, Ga-yatrī brought it to him easily (from heaven).”
-## 10.33
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838870.html
-#### 1
-प्र मा॑ युयुज्रे प्र॒युजो॒ जना॑नां॒ वहा॑मि स्म पू॒षण॒मन्त॑रेण । विश्वे॑ दे॒वासो॒ अध॒ माम॑रक्षन्दु॒:शासु॒रागा॒दिति॒ घोष॑ आसीत् ॥
-
-“The (divinities, the) appointers of men, have appointed me to Kuruśravaṇa; I have borne Pūṣan onthe way; the universal gods are my protectors; the cry is: "duhśāsu comes"”
-#### 2
-सं मा॑ तपन्त्य॒भित॑: स॒पत्नी॑रिव॒ पर्श॑वः । नि बा॑धते॒ अम॑तिर्न॒ग्नता॒ जसु॒र्वेर्न वे॑वीयते म॒तिः ॥
-
-“My ribs pain me on both sides, like rival wives; disease, nakedness, hunger, afflict me; my mindflutters like a bird.”
-#### 5
-यस्य॑ मा ह॒रितो॒ रथे॑ ति॒स्रो वह॑न्ति साधु॒या । स्तवै॑ स॒हस्र॑दक्षिणे ॥
-
-“Whose three horses bear me pleasantly in the chariot; I praise him at the ceremony in which he presents thousands.”
-#### 6
-यस्य॒ प्रस्वा॑दसो॒ गिर॑ उप॒मश्र॑वसः पि॒तुः । क्षेत्रं॒ न र॒ण्वमू॒चुषे॑ ॥
-
-“Upamaśravas, the words of whose father were sweet, like a pleasant field given to a beggar.”
-#### 7
-अधि॑ पुत्रोपमश्रवो॒ नपा॑न्मित्रातिथेरिहि । पि॒तुष्टे॑ अस्मि वन्दि॒ता ॥
-
-“Come to me, my son, grandson of Mitrātithi; I am the eulogist of your father.”
-#### 8
-यदीशी॑या॒मृता॑नामु॒त वा॒ मर्त्या॑नाम् । जीवे॒दिन्म॒घवा॒ मम॑ ॥
-
-“If I were lord oover immortals and mortals, then should my munificent (benefactor) live.”
-#### 9
-न दे॒वाना॒मति॑ व्र॒तं श॒तात्मा॑ च॒न जी॑वति । तथा॑ यु॒जा वि वा॑वृते ॥
-
-“No one lives hundred years passing the limit fixed by the gods; so he is separated from his friendṣ”
 ## 10.34
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838880.html
 ##### 1
@@ -1670,20 +1352,7 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838880
 सोम॑स्येव मौजव॒तस्य॑ भ॒क्षो वि॒भीद॑को॒ जागृ॑वि॒र्मह्य॑मच्छान् ॥
 
 the excitingdice animate me as the taste of the Soma of Maujavat (delights the gods).”
-#### 2
-न मा॑ मिमेथ॒ न जि॑हीळ ए॒षा शि॒वा सखि॑भ्य उ॒त मह्य॑मासीत् । अ॒क्षस्या॒हमे॑कप॒रस्य॑ हे॒तोरनु॑व्रता॒मप॑ जा॒याम॑रोधम् ॥
 
-“This (my wife) has not been angry (with me), nor was she overcome with sham; kind was she to meand to my friends; yet for the sake of one or other die, I have deserted this affectionate spouse.”
-## 10.40
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838959.html
-#### 1
-रथं॒ यान्तं॒ कुह॒ को ह॑ वां नरा॒ प्रति॑ द्यु॒मन्तं॑ सुवि॒ताय॑ भूषति । प्रा॒त॒र्यावा॑णं वि॒भ्वं॑ वि॒शेवि॑शे॒ वस्तो॑र्वस्तो॒र्वह॑मानं धि॒या शमि॑ ॥
-
-“What (worshipper), O leaderes of rites, and where (abiding) glorifies for his good, by his praise at therite, your radiant moving chariot, going (to the sacrifice) at dawn, all-pervading, and bearing (wealth) day afterday to one man after another?”
-#### 8
-यु॒वं ह॑ कृ॒शं यु॒वम॑श्विना श॒युं यु॒वं वि॒धन्तं॑ वि॒धवा॑मुरुष्यथः । यु॒वं स॒निभ्य॑: स्त॒नय॑न्तमश्वि॒नाप॑ व्र॒जमू॑र्णुथः स॒प्तास्य॑म् ॥
-
-“Verily, Aśvins, you protect the feeble man; you protected Śayu; you protect him who worshipsaccording to rule, and the widow, (Vadhrimati); you set open, O Aśvins, for the donors of oblations theseven-mouthed thundering cloud.
 ## 10.64
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839234.html
 #### 3
@@ -1707,12 +1376,6 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839279
 
 विश्वे॑ दे॒वास॑ उ॒त सू॒रयो॒ मम॑ ॥
 may the wise universal gods (listen to) my (praises).”
-## 10.71
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839335.html
-#### 1
-बृह॑स्पते प्रथ॒मं वा॒चो अग्रं॒ यत्प्रैर॑त नाम॒धेयं॒ दधा॑नाः । यदे॑षां॒ श्रेष्ठं॒ यद॑रि॒प्रमासी॑त्प्रे॒णा तदे॑षां॒ निहि॑तं॒ गुहा॒विः ॥
-
-“That, Bṛhaspati, is the best (part) of speech which those giving a name (to objects) first utter; thatwhich was the best of those (words) and free from defect, (Sarasvatī) reveals it though secretly imparted, bymeans of affection.”
 ## 10.72
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839347.html
 #### 1
@@ -1830,10 +1493,6 @@ what was that (garbha) embryo which the (āpa) waters (prathama) first (dhara) r
 wrapped in (nihāra) fog, and (jalpa) foolish speech (do they) wander (who are) (asūtṛp) gluttonous and engaged in devotion.”
 ## 10.85
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839461.html
-#### 9
-सोमो॑ वधू॒युर॑भवद॒श्विना॑स्तामु॒भा व॒रा । सू॒र्यां यत्पत्ये॒ शंस॑न्तीं॒ मन॑सा सवि॒ताद॑दात् ॥
-
-“Soma was desirous of a bride; the two Aśvins were the two groomsmen when Savitā gave Sūrya,who was ripe for a husband, (to Soma endowed) with intelligence.”
 ### 13
 सू॒र्याया॑ वह॒तुः प्रागा॑त्सवि॒ता यम॒वासृ॑जत् । 
 
@@ -1842,67 +1501,7 @@ Sūrya's (vahatu) bridal procession which Savitā despatched has advanced;
 अ॒घासु॑ हन्यन्ते॒ गावोऽर्जु॑न्यो॒: पर्यु॑ह्यते ॥
 
 the (go) oxen are (han) whipped along in the (agha) Magha (constellations); she is (paryuh) borne (to her husband's house) in the Arjunī (constellations).
-#### 29
-परा॑ देहि शामु॒ल्यं॑ ब्र॒ह्मभ्यो॒ वि भ॑जा॒ वसु॑ । कृ॒त्यैषा प॒द्वती॑ भू॒त्व्या जा॒या वि॑शते॒ पति॑म् ॥
 
-“Put away the garment soiled by the body; give wealth to the Brāhmaṇas; this Kṛtyā having becomeendowed with feet, enters the husband's heart as his wife.”
-## 10.86
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839509.html
-#### 1
-वि हि सोतो॒रसृ॑क्षत॒ नेन्द्रं॑ दे॒वम॑मंसत । यत्राम॑दद्वृ॒षाक॑पिर॒र्यः पु॒ष्टेषु॒ मत्स॑खा॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-#### 2
-परा॒ ही॑न्द्र॒ धाव॑सि वृ॒षाक॑पे॒रति॒ व्यथि॑: । नो अह॒ प्र वि॑न्दस्य॒न्यत्र॒ सोम॑पीतये॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“Indrāṇī speaks: You, Indra, much annoyed, hasten towards Vṛṣākapi; and yet you find no otherplace to drink the Soma; Indra is above all (the world).”
-#### 3
-किम॒यं त्वां वृ॒षाक॑पिश्च॒कार॒ हरि॑तो मृ॒गः । यस्मा॑ इर॒स्यसीदु॒ न्व१॒॑र्यो वा॑ पुष्टि॒मद्वसु॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“What (favour) has this tawny deer Vṛṣākapi done to you that you should like a liberal (benefactor)bestow upon him wealth and nourish me; Indra is above all (the world).”
-#### 4
-यमि॒मं त्वं वृ॒षाक॑पिं प्रि॒यमि॑न्द्राभि॒रक्ष॑सि । श्वा न्व॑स्य जम्भिष॒दपि॒ कर्णे॑ वराह॒युर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“This Vṛṣākapi whom you, Indra, cherish as your dear (son)-- may the dog which chases the boar(seize) him by the ear (and) devour him; Indra is above all (the world).”
-#### 5
-प्रि॒या त॒ष्टानि॑ मे क॒पिर्व्य॑क्ता॒ व्य॑दूदुषत् । शिरो॒ न्व॑स्य राविषं॒ न सु॒गं दु॒ष्कृते॑ भुवं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“The ape has spoiled the beloved ghī-adorned (oblations) made to me (by worshippers); let mequickly cut off his head, let me not be the giver of happiness to one who works evil; Indra is above all (the world).”
-#### 6
-न मत्स्त्री सु॑भ॒सत्त॑रा॒ न सु॒याशु॑तरा भुवत् । न मत्प्रति॑च्यवीयसी॒ न सक्थ्युद्य॑मीयसी॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“There is no woman more amiable than I am, not one who bears fairer sons than I; nor one moretractable not one more ardent; Indra is above all (the world).”
-#### 7
-उ॒वे अ॑म्ब सुलाभिके॒ यथे॑वा॒ङ्ग भ॑वि॒ष्यति॑ । भ॒सन्मे॑ अम्ब॒ सक्थि॑ मे॒ शिरो॑ मे॒ वी॑व हृष्यति॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“(Vṛṣākapi speaks): O mother, who are easy of access, it will quickly be as (you have said); may my(father) and you, mother, be united; may it delight my (father) and your head like a bird; Indra is above all (theworld).”
-#### 8
-किं सु॑बाहो स्वङ्गुरे॒ पृथु॑ष्टो॒ पृथु॑जाघने । किं शू॑रपत्नि न॒स्त्वम॒भ्य॑मीषि वृ॒षाक॑पिं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“(Indra speaks): You who have beautiful arms, who have beautiful fingers, long-haired, broad-hipped,why are you angry with our Vṛṣākapi, O you wife of a hero; Indra is above all (the world).”
-#### 9
-अ॒वीरा॑मिव॒ माम॒यं श॒रारु॑र॒भि म॑न्यते । उ॒ताहम॑स्मि वी॒रिणीन्द्र॑पत्नी म॒रुत्स॑खा॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“[Indrāṇī speaks]: This savage beast (Vṛṣākapi) despises me as one who has no male (protector),and yet I am the mother of male offspring, the wife of Indra, the friend of the Maruts; Indra is above all (the world).”
-#### 14
-उ॒क्ष्णो हि मे॒ पञ्च॑दश सा॒कं पच॑न्ति विंश॒तिम् । उ॒ताहम॑द्मि॒ पीव॒ इदु॒भा कु॒क्षी पृ॑णन्ति मे॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“[Indra speaks]: The worshippers dress for me fifteen (and) twenty bulls; I eat them and (become) fat,they fill both sides of my belly; Indra is above all (the world).”
-#### 18
-अ॒यमि॑न्द्र वृ॒षाक॑पि॒: पर॑स्वन्तं ह॒तं वि॑दत् । अ॒सिं सू॒नां नवं॑ च॒रुमादेध॒स्यान॒ आचि॑तं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“[Indrāṇī speaks]: Let this Vṛṣākapi, Indra, take a dead wild ass, (let him take) a knife (to cut it up),a fire-plural ce (to cook it), a new saucepan, and a cart full of fuel; Indra is above all (the world).”
-#### 19
-अ॒यमे॑मि वि॒चाक॑शद्विचि॒न्वन्दास॒मार्य॑म् । पिबा॑मि पाक॒सुत्व॑नो॒ऽभि धीर॑मचाकशं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“[Indra speaks]: Here I come to the (sacrifice) looking upon (the worshippers), distinguishing the Dāsaand the Ārya; I drink (the Soma) of the (worshipper), who effuses (the Soma) with mature (mind); I look upon theintelligent (sacrificer); Indra is above all (the world).”
-#### 20
-धन्व॑ च॒ यत्कृ॒न्तत्रं॑ च॒ कति॑ स्वि॒त्ता वि योज॑ना । नेदी॑यसो वृषाक॒पेऽस्त॒मेहि॑ गृ॒हाँ उप॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“Go home, Vṣs.ākapi, to the halls of sacrifice (from the lurking- plural ce of the enemy), which is desertand forest (how many leagues are there from there?) and from the nearest (lurking-plural ce); Indra is above all (theworld).”
-#### 23
-पर्शु॑र्ह॒ नाम॑ मान॒वी सा॒कं स॑सूव विंश॒तिम् । भ॒द्रं भ॑ल॒ त्यस्या॑ अभू॒द्यस्या॑ उ॒दर॒माम॑य॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-
-“The daughter of Manu, Parśu by name, bore twenty children at once; may good fortune, O arrow ofIndra, befall her whose belly was so prolific; Indra is above all (the world).”
 ## 10.87
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839533.html
 #### 14
@@ -1913,12 +1512,6 @@ Destroy the [Yātudhānas](https://www.wisdomlib.org/definition/yatudhana#hindui
 यः पौरु॑षेयेण क्र॒विषा॑ सम॒ङ्क्ते यो अश्व्ये॑न प॒शुना॑ यातु॒धान॑: । यो अ॒घ्न्याया॒ भर॑ति क्षी॒रम॑ग्ने॒ तेषां॑ शी॒र्षाणि॒ हर॒सापि॑ वृश्च ॥
 
 The Yātudhāna, who (samaṅk) fills himself with the (kraviṣ) flesh (pauruṣeya) of man, and he who fills himself with the flesh of (aśva) horses or of other (paśu) animals, and he who (bhar) steals the (kṣīra) milk of the (aghnya) cow-- cut off their (śīrṣa) heads with your (agni) flame.
-## 10.88
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839559.html
-#### 15
-द्वे स्रु॒ती अ॑शृणवं पितॄ॒णाम॒हं दे॒वाना॑मु॒त मर्त्या॑नाम् । ताभ्या॑मि॒दं विश्व॒मेज॒त्समे॑ति॒ यद॑न्त॒रा पि॒तरं॑ मा॒तरं॑ च ॥
-
-“I have heard that there are two paths for Pitṛs, gods and mortals; all this universe which is betweenthe paternal (heaven) and the maternal (earth) proceeds on its way by these two (paths).”
 ## 10.89
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839579.html
 #### 7
@@ -2085,22 +1678,12 @@ to Agni, I (jan) offer (cāru) graceful (mati) praise with all my (hrd) heart, t
 येभि॑: शि॒वः स्ववाँ॑ एव॒याव॑भिर्दि॒वः सिष॑क्ति॒ स्वय॑शा॒ निका॑मभिः ॥
 
 together with whom he, (shiva) propitious, possessing kinsmen, besprinkles (the worshippers) from heaven.”
-## 10.93
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839647.html
-#### 14
-प्र तद्दु॒:शीमे॒ पृथ॑वाने वे॒ने प्र रा॒मे वो॑च॒मसु॑रे म॒घव॑त्सु । ये यु॒क्त्वाय॒ पञ्च॑ श॒तास्म॒यु प॒था वि॒श्राव्ये॑षाम् ॥
-
-“This I proclaim in the presence of Duśīma, Pṛthavāna, Vena, the mighty Rāma, and (other)opulent (princes); those who (come), having yoked five hundred (chariots), their affection for us is renowned onthe road.”
 ## 10.95
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839678.html
 #### 1
 ह॒ये जाये॒ मन॑सा॒ तिष्ठ॑ घोरे॒ वचां॑सि मि॒श्रा कृ॑णवावहै॒ नु । न नौ॒ मन्त्रा॒ अनु॑दितास ए॒ते मय॑स्कर॒न्पर॑तरे च॒नाह॑न् ॥
 
 “(Purūravā) speaks). How indignant wife, with mind (relenting), stay awhile, let us now interchangediscourse. These, our secret thoughts, while unspoken, did not yield us happiness even at the last day.”
-#### 3
-इषु॒र्न श्रि॒य इ॑षु॒धेर॑स॒ना गो॒षाः श॑त॒सा न रंहि॑: । अ॒वीरे॒ क्रतौ॒ वि द॑विद्युत॒न्नोरा॒ न मा॒युं चि॑तयन्त॒ धुन॑यः ॥
-
-“(Purūravā). The arrow is not to be cast from the quiver for glory. I am no longer the impetuousdespoiler of the cattle (of the enemy), nor of their hundred-fold (riches). My prowess having lost its strength, (mymight) no longer flashes forth; (my warriors) the terrifiers (of the foe) hear not my shout in battle.”
 #### 2
 किमे॒ता वा॒चा कृ॑णवा॒ तवा॒हं प्राक्र॑मिषमु॒षसा॑मग्रि॒येव॑ । 
 
@@ -2113,63 +1696,6 @@ Return Purūravā, to your dwelling; I am as hard to catch as the wind.”
 सा वसु॒ दध॑ती॒ श्वशु॑राय॒ वय॒ उषो॒ यदि॒ वष्ट्यन्ति॑गृहात् । अस्तं॑ ननक्षे॒ यस्मि॑ञ्चा॒कन्दिवा॒ नक्तं॑ श्नथि॒ता वै॑त॒सेन॑ ॥
 
 “(Ūrvaśi). If, Uṣas, this Ūrvaśī, offering food and wealth to her father-in-law, loves (her husband),she has gone from the neighbouring house to her husband's home, where she loved (her lord), being delightednight and day by his embraces.”
-#### 8
-सचा॒ यदा॑सु॒ जह॑ती॒ष्वत्क॒ममा॑नुषीषु॒ मानु॑षो नि॒षेवे॑ । अप॑ स्म॒ मत्त॒रस॑न्ती॒ न भु॒ज्युस्ता अ॑त्रसन्रथ॒स्पृशो॒ नाश्वा॑: ॥
-
-“(Purūravā). When, becoming their companion, (Purūravā) the mortal associated with theseimmortal (nymphs) who had abandoned their bodies, they fled from me like a timid doe, like horses harnessed toa chariot.”
-#### 9
-यदा॑सु॒ मर्तो॑ अ॒मृता॑सु नि॒स्पृक्सं क्षो॒णीभि॒: क्रतु॑भि॒र्न पृ॒ङ्क्ते । ता आ॒तयो॒ न त॒न्व॑: शुम्भत॒ स्वा अश्वा॑सो॒ न क्री॒ळयो॒ दन्द॑शानाः ॥
-
-“When a mortal mixing with these immortal nymphs has conversed with them with words and actions,they (becoming) ducks do not show their bodies, like plural yful horses champing (the bit).”
-#### 15
-पुरू॑रवो॒ मा मृ॑था॒ मा प्र प॑प्तो॒ मा त्वा॒ वृका॑सो॒ अशि॑वास उ क्षन् । न वै स्त्रैणा॑नि स॒ख्यानि॑ सन्ति सालावृ॒काणां॒ हृद॑यान्ये॒ता ॥
-
-“(Ūrvaśi). Die not, Purūravā, fall not, let not the hideous wolves devour you. feminine le friendships donot exist, their hearts are the hearts of jackals.”
-## 10.108
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839862.html
-#### 1
-किमि॒च्छन्ती॑ स॒रमा॒ प्रेदमा॑नड्दू॒रे ह्यध्वा॒ जगु॑रिः परा॒चैः । कास्मेहि॑ति॒: का परि॑तक्म्यासीत्क॒थं र॒साया॑ अतर॒: पयां॑सि ॥
-
-“(The Paṇis). With what intention has Saramā come to this place? Verily the way is long and difficult to be traversed by the person vering. What is the motive of your coming to us? What sort of wandering was yours? How have you crossed the waters of the Rasā?”
-#### 2
-इन्द्र॑स्य दू॒तीरि॑षि॒ता च॑रामि म॒ह इ॒च्छन्ती॑ पणयो नि॒धीन्व॑: । अ॒ति॒ष्कदो॑ भि॒यसा॒ तन्न॑ आव॒त्तथा॑ र॒साया॑ अतरं॒ पयां॑सि ॥
-
-I am the messenger of Indra, and I am wandering about in search of your treasures, Paṇis. that you are thus guarding from us in fear. Atishkado, I crossed the waters of the Rasā.
-## 10.109
-#### 1
-ते॑ऽवदन्प्रथ॒मा ब्र॑ह्मकिल्बि॒षेऽकू॑पारः सलि॒लो मा॑त॒रिश्वा॑ । वी॒ळुह॑रा॒स्तप॑ उ॒ग्रो म॑यो॒भूरापो॑ दे॒वीः प्र॑थम॒जा ऋ॒तेन॑ ॥
-
-“These spoke first about Brahmā's sin, the boundless (sun), the water- god (Varuṇa), the wind-god(Vāyu), the fierce, wide-consuming fire, the source of happiness, (Soma), the divine waters, the first-born sonsof the truthful (Brahmā).”
-#### 2
-सोमो॒ राजा॑ प्रथ॒मो ब्र॑ह्मजा॒यां पुन॒: प्राय॑च्छ॒दहृ॑णीयमानः । अ॒न्व॒र्ति॒ता वरु॑णो मि॒त्र आ॑सीद॒ग्निर्होता॑ हस्त॒गृह्या नि॑नाय ॥
-
-“First, the royal Soma, without being ashamed, restored Brahmā's wife (to Bṛhaspati), Varuṇa wasthe inviter, and Mitra, Agni as the ministrant priest taking her by the hand, led her (to her husband).”
-#### 5
-ब्र॒ह्म॒चा॒री च॑रति॒ वेवि॑ष॒द्विष॒: स दे॒वानां॑ भव॒त्येक॒मङ्ग॑म् । तेन॑ जा॒यामन्व॑विन्द॒द्बृह॒स्पति॒: सोमे॑न नी॒तां जु॒ह्वं१॒॑ न दे॑वाः ॥
-
-“He leads the life of a Brahmacārin, even adoring all the gods; he becomes a portion of the gods;therefore, Bṛhaspati obtained his wife (formerly) brought him by Soma, as the gods receive an offering.”
-## 10.119
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839978.html
-#### 1
-इति॒ वा इति॑ मे॒ मनो॒ गामश्वं॑ सनुया॒मिति॑ । कु॒वित्सोम॒स्यापा॒मिति॑ ॥
-
-“Thus, indeed, thus my mind (resolved): " I will give cows and horses to my worshippers", for I haveoften drunk of the Soma.”
-#### 2
-प्र वाता॑ इव॒ दोध॑त॒ उन्मा॑ पी॒ता अ॑यंसत । कु॒वित्सोम॒स्यापा॒मिति॑ ॥
-
-“Like the winds violently shaking (the trees), the draughts (of Soma) have lifted me up, for I have often drunk of the Soma.”
-#### 3
-उन्मा॑ पी॒ता अ॑यंसत॒ रथ॒मश्वा॑ इवा॒शव॑: । कु॒वित्सोम॒स्यापा॒मिति॑ ॥
-
-“The draughts (of Soma) have lifted me up like swift horses (drawing) a chariot, for I have often drunk of the Soma.”
-#### 5
-अ॒हं तष्टे॑व व॒न्धुरं॒ पर्य॑चामि हृ॒दा म॒तिम् । कु॒वित्सोम॒स्यापा॒मिति॑ ॥
-
-“I revolve the song of praise in my heart as a carpenter (making) a charioteer's seat, for I have oftendrunk of the Soma.”
-#### 11
-दि॒वि मे॑ अ॒न्यः प॒क्षो॒३॒॑ऽधो अ॒न्यम॑चीकृषम् । कु॒वित्सोम॒स्यापा॒मिति॑ ॥
-
-“One of my wings is in the sky; the other I dragged below, for I have often drunk of the Soma.”
 ## 10.121
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840003.html
 #### 1
@@ -2301,7 +1827,7 @@ Come, Agni, to this our sacrifice, which has five oblations, three- fold, spread
 #### 2
 अदे॑वाद्दे॒वः प्र॒चता॒ गुहा॒ यन्प्र॒पश्य॑मानो अमृत॒त्वमे॑मि । शि॒वं यत्सन्त॒मशि॑वो॒ जहा॑मि॒ स्वात्स॒ख्यादर॑णीं॒ नाभि॑मेमि ॥
 
-(Agni speaks). From being no divinity I issue a divninty from the cave at the solicitation (of the gods), and being manifest I attain immortality; when being inauspicious I abandon the sacrifice as it becomesauspicious, through my (old) friendship I come to the binding touch-wood.
+(Agni speaks). From being no divinity I issue a divninty from the cave at the solicitation (of the gods),and being manifest I attain immortality; when being inauspicious I abandon the sacrifice as it becomesauspicious, through my (old) friendship I come to the binding touch-wood.
 #### 3
 पश्य॑न्न॒न्यस्या॒ अति॑थिं व॒याया॑ ऋ॒तस्य॒ धाम॒ वि मि॑मे पु॒रूणि॑ । शंसा॑मि पि॒त्रे असु॑राय॒ शेव॑मयज्ञि॒याद्य॒ज्ञियं॑ भा॒गमे॑मि ॥
 
@@ -2341,7 +1867,7 @@ as such the gods have put me in many places, abiding in manifold conditions, ent
 #### 4
 मया॒ सो अन्न॑मत्ति॒ यो वि॒पश्य॑ति॒ यः प्राणि॑ति॒ य ईं॑ शृ॒णोत्यु॒क्तम् । 
 
-“He who eats food (eats) through me; he who sees, who breathes, who hears what is spoken, does so through me; 
+“He who eats food (eats) through me; he who sees, who breathes, who hears what is spoken, does sothrough me; 
 
 अ॒म॒न्तवो॒ मां त उप॑ क्षियन्ति श्रु॒धि श्रु॑त श्रद्धि॒वं ते॑ वदामि ॥
 
@@ -2362,7 +1888,7 @@ whomsoever I will, I render”
 
 अ॒हं जना॑य स॒मदं॑ कृणोम्य॒हं द्यावा॑पृथि॒वी आ वि॑वेश ॥
 
-I wage war with (hostile) men. I pervade heaven and earth.”
+I wage war with (hostile)men. I pervade heaven and earth.”
 
 #### 7
 अ॒हं सु॑वे पि॒तर॑मस्य मू॒र्धन्मम॒ योनि॑र॒प्स्व१॒॑न्तः स॑मु॒द्रे । 
@@ -2381,12 +1907,7 @@ from thence I spread through all beings, and touch this heaven with my body.”
 प॒रो दि॒वा प॒र ए॒ना पृ॑थि॒व्यैताव॑ती महि॒ना सं ब॑भूव ॥
 
 beyond the heaven, beyond this earth(am I), so vast am I in greatness.”
-## 10.127
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840059.html
-#### 1
-रात्री॒ व्य॑ख्यदाय॒ती पु॑रु॒त्रा दे॒व्य१॒॑क्षभि॑: । विश्वा॒ अधि॒ श्रियो॑ऽधित ॥
 
-“The divine Night approaching looked upon many places with her eyes, she has assumed all beautieṣ”
 ## 10.129
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840079.html
 #### 1
@@ -2452,13 +1973,9 @@ he who is its (adhyakṣa) superintendent in the (parama) highest (vyoma) heaven
 ## 10.136
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840134.html
 #### 1
-के॒श्य१॒॑ग्निं के॒शी वि॒षं के॒शी बि॑भर्ति॒ रोद॑सी । 
+के॒श्य१॒॑ग्निं के॒शी वि॒षं के॒शी बि॑भर्ति॒ रोद॑सी । के॒शी विश्वं॒ स्व॑र्दृ॒शे के॒शीदं ज्योति॑रुच्यते ॥
 
-The (keśi) radiant (Sun) (bhar) supports  Agni, the radiant one (supports) (viśa) water, the radiant one (supports) the (rodas) heaven and earth, 
-
-के॒शी विश्वं॒ स्व॑र्दृ॒शे के॒शीदं ज्योति॑रुच्यते ॥
-
-the radiant one is for the (darśa) visibility of the (viśva) whole (svar) diffused (universe)-- this (jyoti) light is called the radiant one.
+The radiant (Sun supports) Agni, the radiant one (supports) water, the radiant one supports theheaven and earth, the radiant one is for the visibility of the whole diffused (universe)-- this light is called theradiant one.
 
 keśī agni viṣa rod viśva svar dṛś jyotir vac
 #### 2
@@ -2476,14 +1993,14 @@ Mad muni vāta śarīra mṛ dṛś
 #### 4
 अ॒न्तरि॑क्षेण पतति॒ विश्वा॑ रू॒पाव॒चाक॑शत् । मुनि॑र्दे॒वस्य॑देवस्य॒ सौकृ॑त्याय॒ सखा॑ हि॒तः ॥
 
-The Muni flies through the firmament, illumining all objects, the friend of each deity, appointed for pious works.
+The Muni flies through the firmament, illumining all objects, the friend of each deity, appointed forpious works.
 
 antarikṣa pat viśva rūpa 
 muni deva sakhā hi
 #### 5
 वात॒स्याश्वो॑ वा॒योः सखाथो॑ दे॒वेषि॑तो॒ मुनि॑: । उ॒भौ स॑मु॒द्रावा क्षे॑ति॒ यश्च॒ पूर्व॑ उ॒ताप॑रः ॥
 
-The steed of the wind, the friend of Vāyu, the Muni, who is instrumental gated by the deity, repairs to both oceans, the eastern and the western.
+The steed of the wind, the friend of Vāyu, the Muni, who is instrumental gated by the deity, repairs to bothoceans, the eastern and the western.
 #### 6
 अ॒प्स॒रसां॑ गन्ध॒र्वाणां॑ मृ॒गाणां॒ चर॑णे॒ चर॑न् । के॒शी केत॑स्य वि॒द्वान्त्सखा॑ स्वा॒दुर्म॒दिन्त॑मः ॥
 
@@ -2497,55 +2014,11 @@ Keśī keta cit sakhā
 Vāyu churned for him, the inflexible (thunder) ground it when the radiant (Sun), along with Rudra, drank the water with his cup.
 
 vāyu namas keśī viṣa pātra 
-## 10.145
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840201.html
-#### 1
-इ॒मां ख॑ना॒म्योष॑धिं वी॒रुधं॒ बल॑वत्तमाम् । यया॑ स॒पत्नीं॒ बाध॑ते॒ यया॑ संवि॒न्दते॒ पति॑म् ॥
-
-“I dig up this most potent medicinal creeper, by which (a wife) destroys a rival wife, by which shesecures to herself her husband.”
-#### 2
-उत्ता॑नपर्णे॒ सुभ॑गे॒ देव॑जूते॒ सह॑स्वति । स॒पत्नीं॑ मे॒ परा॑ धम॒ पतिं॑ मे॒ केव॑लं कुरु ॥
-
-“O (plural nt) with upturned leaves, auspicious, sent by the gods, powerful, remove my rival and make myhusband mine alone.”
-#### 6
-उप॑ तेऽधां॒ सह॑मानाम॒भि त्वा॑धां॒ सही॑यसा । मामनु॒ प्र ते॒ मनो॑ व॒त्सं गौरि॑व धावतु प॒था वारि॑व धावतु ॥
-
-“I make you the triumphant (herb) my pillow, I support you with that more triumphant (pillow); let yourmind hasten to me as a cow to her calf, let it speed on its way like water. not fear assail you?”
-## 10.162
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840306.html
-#### 1
-ब्रह्म॑णा॒ग्निः सं॑विदा॒नो र॑क्षो॒हा बा॑धतामि॒तः । अमी॑वा॒ यस्ते॒ गर्भं॑ दु॒र्णामा॒ योनि॑मा॒शये॑ ॥
-
-May Agni, the destroyer of the rākṣasas, consenting to our prayer, drive hence (the evil spirit) who(in the form of) sickness assails your embryo, who, as the disease durṇāman, assails your womb.”
-#### 2
-यस्ते॒ गर्भ॒ममी॑वा दु॒र्णामा॒ योनि॑मा॒शये॑ । अ॒ग्निष्टं ब्रह्म॑णा स॒ह निष्क्र॒व्याद॑मनीनशत् ॥
-
-“May Agni, concurring in our prayer, destroy the cannibal who, as sickness, assails your embryo, who,as the disease durṇāman, assails your womb.”
-#### 3
-यस्ते॒ हन्ति॑ प॒तय॑न्तं निष॒त्स्नुं यः स॑रीसृ॒पम् । जा॒तं यस्ते॒ जिघां॑सति॒ तमि॒तो ना॑शयामसि ॥
-
-“May we exterminate from hence (the evil spirit) who destroys the impregnating energy, the germ as itsettles, the moving embryo, who seeks to destroy (the babe) when born.”
-#### 4
-यस्त॑ ऊ॒रू वि॒हर॑त्यन्त॒रा दम्प॑ती॒ शये॑ । योनिं॒ यो अ॒न्तरा॒रेळ्हि॒ तमि॒तो ना॑शयामसि ॥
-
-“May we exterminate from hence (the evil spirit)l who separates your things, who lies betweenhusband and wife, who, entering your womb, devours (the seed).”
-#### 5
-यस्त्वा॒ भ्राता॒ पति॑र्भू॒त्वा जा॒रो भू॒त्वा नि॒पद्य॑ते । प्र॒जां यस्ते॒ जिघां॑सति॒ तमि॒तो ना॑शयामसि ॥
-
-“May we exterminate from hence (the evil spirit), who in the form of brother, husband, or paramour,approaches you, and seeks to destroy your offspring.”
-#### 6
-यस्त्वा॒ स्वप्ने॑न॒ तम॑सा मोहयि॒त्वा नि॒पद्य॑ते । प्र॒जां यस्ते॒ जिघां॑सति॒ तमि॒तो ना॑शयामसि ॥
-
-“May we exterminate from hence (the evil spirit), who, having beguiled you by sleep or darkness,approaches you, and seeks to destroy your offspring.”
 ## 10.177
-#### 1
-प॒तं॒गम॒क्तमसु॑रस्य मा॒यया॑ हृ॒दा प॑श्यन्ति॒ मन॑सा विप॒श्चित॑: । स॒मु॒द्रे अ॒न्तः क॒वयो॒ वि च॑क्षते॒ मरी॑चीनां प॒दमि॑च्छन्ति वे॒धस॑: ॥
-
-“The wise behold their mind; (seated) in their heart the Sun made manifest by the illusion of the asura;the sages look into the solar orb, the ordainers (of solar worship) desire the region of his rays.”
 #### 3
 अप॑श्यं गो॒पामनि॑पद्यमान॒मा च॒ परा॑ च प॒थिभि॒श्चर॑न्तम् । स स॒ध्रीची॒: स विषू॑ची॒र्वसा॑न॒ आ व॑रीवर्ति॒ भुव॑नेष्व॒न्तः ॥
 
-I beheld the protector (the Sun), never descending, going by his paths to the east and to the west; clothing (with light) the (four) quarters of heaven and the intermediate spaces, he constantly revolves in the midst of the worlds.
+I beheld the protector (the Sun), never descending, going by his paths to the east and to the west;clothing (with light) the (four) quarters of heaven and the intermediate spaces, he constantly revolves in the midstof the worlds.
 ## 10.184
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840419.html
 #### 1
@@ -2616,11 +2089,6 @@ upholding thereby (dharma) righteous acts.”
 as the (cakṣu) eye ranges over the (dyaus) sky.”
 दि॒वी॑व॒ चक्षु॒रात॑तम् ॥
 ### ?
-## 1.26
-#### 3
-आ हि ष्मा॑ सू॒नवे॑ पि॒तापिर्यज॑त्या॒पये॑ । सखा॒ सख्ये॒ वरे॑ण्यः ॥
-
-“You, Agni, are verily as a loving father to a son, as a kinsman to a kinsman, as a friend to a friend.”
 ## 1.32
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829264.html
 #### 9
@@ -2633,12 +2101,24 @@ The mother of Vṛtra was bending over her son, when Indra struck her nether par
 The (ap) waters, the (patnī) wives of the (dāsa) destroyer, (ruddha) guarded by Ahi, stood obstructed, like the (go) cows by Paṇis; but by (sad) laying Vṛtra, Indra (apihita) set open the (bila) cave that had (var) confined them.
 
 # b8.67-103
-## 8.67
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc836751.html
-#### 20
-मा नो॑ हे॒तिर्वि॒वस्व॑त॒ आदि॑त्याः कृ॒त्रिमा॒ शरु॑: । पु॒रा नु ज॒रसो॑ वधीत् ॥
+## 8.25
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc836096.html
+#### 5
+नपा॑ता॒ शव॑सो म॒हः 
 
-“Let not this weapon of Vivasvat, this net made with hands, Ādityas, destroy us before old age.”
+“Grandson sof mighty strength, 
+
+सू॒नू दक्ष॑स्य 
+
+son sof (dakṣa) energy, 
+
+सु॒क्रतू॑ । 
+
+doers of good deeds, 
+
+सृ॒प्रदा॑नू इ॒षो वास्त्वधि॑ क्षितः ॥
+
+liberal benefactors, they presideover the habitation of food.”
 ## 8.77
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc836928.html
 
@@ -2695,36 +2175,6 @@ and Indra, slew the ravening [emuṣam] boar [varāha].
 तु॒वि॒क्षं ते॒ सुकृ॑तं सू॒मयं॒ धनु॑: सा॒धुर्बु॒न्दो हि॑र॒ण्यय॑: । उ॒भा ते॑ बा॒हू रण्या॒ सुसं॑स्कृत ऋदू॒पे चि॑दृदू॒वृधा॑ ॥
 
 “Far-darting is your well-made auspicious bow, unfailing is your golden arrow; your two warlike arms are ready equipped, destructively overthrowing, destructively piercing.”
-## 8.91
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc837057.html
-#### 1
-क॒न्या॒३॒॑ वार॑वाय॒ती सोम॒मपि॑ स्रु॒तावि॑दत् । अस्तं॒ भर॑न्त्यब्रवी॒दिन्द्रा॑य सुनवै त्वा श॒क्राय॑ सुनवै त्वा ॥
-
-“A young woman going to the water found Soma in the path; as she carried it home she said, I will pressyou for Indra, I will you for Śakra.”
-#### 2
-अ॒सौ य एषि॑ वीर॒को गृ॒हंगृ॑हं वि॒चाक॑शद् । इ॒मं जम्भ॑सुतं पिब धा॒नाव॑न्तं कर॒म्भिण॑मपू॒पव॑न्तमु॒क्थिन॑म् ॥
-
-“You who go from house to house a hero bright in your splendour, drink this Soma pressed by my teethtogether with fried grains of barley, the karambha, cakes and hymns.”
-#### 3
-आ च॒न त्वा॑ चिकित्सा॒मोऽधि॑ च॒न त्वा॒ नेम॑सि । शनै॑रिव शन॒कैरि॒वेन्द्रा॑येन्दो॒ परि॑ स्रव ॥
-
-“We wish to know you, but here we know you not, O Soma, flow forth for Indra first slowly, then quickly.”
-#### 4
-कु॒विच्छक॑त्कु॒वित्कर॑त्कु॒विन्नो॒ वस्य॑स॒स्कर॑त् । कु॒वित्प॑ति॒द्विषो॑ य॒तीरिन्द्रे॑ण सं॒गमा॑महै ॥
-
-“May (Indra) repeatedly make us powerful, may he do abundantly for us, may he repeatedly make usvery rich; often hated by our husband and forced to leave hi, may we be united to Indra.]”
-#### 5
-इ॒मानि॒ त्रीणि॑ वि॒ष्टपा॒ तानी॑न्द्र॒ वि रो॑हय । शिर॑स्त॒तस्यो॒र्वरा॒मादि॒दं म॒ उपो॒दरे॑ ॥
-
-“These hree plural ces-- do you cause them all to grow-- my father's (bald) head, his (barren) field, and mybody.”
-#### 6
-अ॒सौ च॒ या न॑ उ॒र्वरादि॒मां त॒न्वं१॒॑ मम॑ । अथो॑ त॒तस्य॒ यच्छिर॒: सर्वा॒ ता रो॑म॒शा कृ॑धि ॥
-
-“This field which is our (father's), and this my body and he head of my father-- do you make all thesebear a crop.”
-#### 7
-खे रथ॑स्य॒ खेऽन॑स॒: खे यु॒गस्य॑ शतक्रतो । अ॒पा॒लामि॑न्द्र॒ त्रिष्पू॒त्व्यकृ॑णो॒: सूर्य॑त्वचम् ॥
-
-“Thice, Śatakratu, did you purify Apālā, in the hole of the chariot, in the hole of the cart, and in thehole of the yoke, and you did make here with a skin splendent like the sun.”
 ## 8.98
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc837195.html
 #### 2
