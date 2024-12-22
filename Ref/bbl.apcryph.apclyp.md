@@ -87,3 +87,141 @@ Now while the apostle Thomas was proclaiming throughout all India the word of Go
 me to it, bidding also my wife and her daughter. Forasmuch then as they were my good friends I could not refuse: I sent her therefore, though she desired not to go, and with them I sent also many servants: so they departed, both she and her daughter, decked with many ornaments.
 # evgl.phil
 # evgl.mar
+# abrhm
+# moses
+https://www2.iath.virginia.edu/anderson/vita/english/vita.gre.html
+
+https://www.unicorngarden.com/adameve.htm
+## c15
+The Portions of Adam and Eve in Paradise - [go to original Greek]
+
+15.1 Then said Eve to them: "Hear all my children and children's children and I will relate to you how the enemy deceived us.
+15.2 It befell that we were guarding paradise, each of us the portion allotted to us from God. Now I guarded in my lot, the west and the south.
+15.3 But the devil went to Adam's lot, where the male creatures were. For God divided the creatures; all the males he gave to your father and all the females he gave to me. Each of us guarded his own portion.
+## c16
+Satan's Encounter with the Beast - [go to original Greek]
+
+16.1 And the devil spoke to the serpent saying, "Rise up, come to me and I will tell you a word whereby you may have profit." And he arose and came to him.
+16.2 And the devil said to him: "I hear that you art wiser than all the beasts, and I have come to counsel you.
+16.3 Why do you eat of the tares of Adam and his wife and not of paradise? Rise up and we will cause him to be cast out of paradise, even as we were cast out through him."
+16.4 The serpent said to him, "I fear lest the Lord be wroth with me." The devil said to him: "Fear not, only be my vessel and I will speak through your mouth words to deceive them."
+## c17
+Serpent's Approach to Paradise - [go to original Greek]
+
+17.1 And instantly he hung himself from the wall of paradise, and when the angels ascended to worship God, then Satan appeared in the form of an angel and sang hymns like the angels.
+17.2 And he bent over the wall and I saw him, like an angel. And he said to me: "Are you Eve? "And I said to him, "I am."
+17.3 And he said to me, "What art you doing in paradise?" And I said to him, "God set us to guard and to eat of it."
+17.4 The devil answered through the mouth of the serpent: "You do well but you do not eat of every plant."
+17.5 And I said: "Yea, we eat of all, save one only, which is in the middle of paradise, concerning which, God charged us not to eat of it, for, you shall die the death.
+## c18
+Temptation of Eve - [go to original Greek]
+
+18.1 Then the serpent said to me, "As God lives! I am grieved on your account that you are like animals, for I would not have you ignorant. But arise, (come) hither, hearken to me and eat and perceive the value of that tree."
+18.2 But I said to him, "I fear lest God be angry with me as he told us."
+18.3 And he said to me: "Fear not, for as soon as you eat of it, you too shall be as gods, in that you shall know what is good and what is evil.
+18.4 But God knew that you would be like Him, so he envied you and said, 'You shall not eat of it.'
+18.5 But, do give heed to the plant and you will see its great glory." I gave heed to the plant and saw it great glory. I said to him that it was pleasing to the eyes.
+18.6 Yet I feared to take of the fruit. And he said to me: "Come hither, and I will give it you. Follow me."
+Entrance of the Snake into Paradise - [go to original Greek]
+## c19
+19.1 And I opened (it for him) and he entered paradise and went before me. He walked a little way, then turned and said to me: "I have changed my mind and I will not give you to eat." These things he said wishing to trap me in the end. And he said to me: "If you swear to me that you will give also to your husband."
+19.2 (And) I said, "I do not know what sort of oath I should swear to you? Yet what I know, I say to you: By the throne of the Master, and by the Cherubim and the Tree of Life, I will give also to my husband to eat."
+19.3 And when he had received the oath from me, he came and entered and placed upon the fruit the poison of his wickedness -- which is (the sense of) desire, for it is the beginning of every sin -- and he bent the branch on the earth and I took of the fruit and I ate.
+Eve's Recognition of Her Sin - [go to original Greek]
+## c20
+20.1 And in that very hour my eyes were opened, and forthwith I knew that I was naked of the righteousness with which I had been clothed (upon), and I wept and said to him: "Why have you done this that you has deprived me of the glory with which I was clothed?" But God knew that you woBut I wept also about the oath, which I had sworn. But he descended from the tree and vanished. And I began to seek, in my nakedness, in my part for leaves to hide my shame, but I found none, for, as soon as I had eaten, the leaves showered down from all the trees in my part, except the fig-tree only.
+20.5 I took leaves from it and made for myself a girdle and it was from the same plant of which I had eaten.
+Temptation of Adam - [go to original Greek]
+## c21
+21.1 And I cried out in that very hour, "Adam, Adam, where are you? Rise up, come to me and I will show you a great mystery."
+21.2 But when your father came, I spoke to him words of transgression which have brought us down from our great glory.
+21.3 For, when he came, I opened my mouth and the devil was speaking, and I began to exhort him and said, "Come hither, my lord Adam, hearken to me and eat of the fruit of the tree of which God told us not to eat of it, and you shall be as a God."
+21.4 And your father answered and said, "I fear lest God be angry with me. "And I said to him, "Fear not, for as soon as you have eaten you shall know good and evil."
+21.5 And speedily I persuaded him, and he ate and his eyes were opened and he too knew his nakedness.
+21.6 And to me he said, "O wicked woman! what have you done to us? You have deprived me of the glory of God.
+## c29
+#### 1
+Expulsion - [go to original Greek]
+
+29.1 When the Lord had said these things he ordered us to be cast out of paradise.
+29.2 But your father Adam wept before the angels opposite paradise and the angels said to him: "What would you have us to do, Adam?"
+29.3 And your father said to them, "Behold, you cast me out. I pray you, allow me to take away fragrant herbs from paradise, so that I may offer an offering to God after I have gone out of paradise that he hear me."
+29.4 And the angels approached God and said: "JAEL, Eternal King, command, my Lord, that there be given to Adam incense of sweet odor from paradise."
+29.5 And God commanded it to be so for Adam that he might take sweet spices and seeds for his food.
+29.6 And as the angels let him go he took four kinds: crocus and nard and calamus and cinnamon and the other seeds for his food: and, after taking these, he went out of paradise. And we were on the earth.
+Discovery of Expulsion - [go to original Greek]
+
+29.7 [The following epitome of the penitence narrative is found in just a few of the Greek manuscripts, most omit it entirely.] And we grieved for seven days and after seven days we grew hungry and I said to Adam: "Rise and give some thought to food that we might eat and live and so that we do not die. Let us get up and circle the earth perhaps God will hear us." We arose and went about the entire earth but we did not find food.
+29.8 And I answered and said to Adam: "Rise, O Lord and destroy me that I might cease from before you and from before God and the angels (and) so that they might cease their anger toward you on my account."
+29.9 Then Adam answered and said to me, "For what reason do you call to mind this evil that I could commit murder and impose death upon my rib. How could I lift a hand against the image of God which he made? Rather let us repent for forty days so that God may have mercy on us and give to us better food than the animals.
+29.10 I will do forty days of penitence whereas you shall do 34 days for you were not made on the sixth day when God made his creation. Arise and go to the Tigris river and take a stone and put it under your feet and stand there covered in the water up to your neck and let not a word come from your mouth for we are not worthy and our lips are unclean."
+29.11 Adam went to the Jordan river and the hair of his head was spread out as he prayed in the water. And he cried in a loud voice saying: "I say to the waters of the Jordan stand still and pray with me even all the beasts, all the birds, and all which creeps on the land and the sea." And all the angels and all things made by God circled Adam like a wall around him and cried while praying to God on behalf of Adam so that God might hearken to him.
+29.12 But the devil, not finding a place with respect to Adam, came to the Tigris river to me. And assuming the form of an angel he stood before me weeping and his tears flowed upon the ground. And he said to me, "Come forth from the water and cease your crying, for God has heard your request because even we, the angels, and all things made by him, have beseeched God on your behalf.
+29.13 And when he said these things, the enemy deceived me a second time. And I came out of the water.
+# vit_ad_ev
+https://www2.iath.virginia.edu/anderson/vita/english/vita.lat.html
+## c12
+12.1 Et ingemescens diabolus dixit: O Adam, tota inimicitia mea et invidia et dolor ad te est, quoniam propter te expulsus sum et alienatus de gloria mea, quam habui in caelis in medio angelorum, et propter te eiectus sum in terram.
+12.2 Respondit Adam: quid tibi feci
+12.3 Aut quae est culpa mea in te? cum non sis a nobis nocitus nec laesus, quid nos persequeris?
+
+12.1 Groaning, the Devil said: "O Adam, all my enmity, jealousy, and resentment is towards you, since on account of you I was expelled and alienated from my glory, which I had in heaven in the midst of the angels. On account of you I was cast out upon the earth."
+12.2 Adam answered: "What have I done to you?
+12.3 What fault do I have against you? Since you have not been harmed nor injured by us, why do you persecute us?"
+## c13
+13.1 Respondit diabolus: Adam, tu quid dicis mihi? propter tuam causam projectus sum inde.
+13.2 Quando tu plasmatus es, ego proiectus sum a facie dei et foras a societate angelorum missus sum. quando insufflavit deus spiritum vitae in te et factus est vultus et similitudo tua ad imaginem dei, et adduxit te Michahel et fecit te adorare in conspectu dei, et dixit dominus deus: ecce Adam, feci te ad imaginem et similitudinem nostram
+
+13.1 The Devil answered: "Adam what are you saying to me? On account of you I was cast out from heaven.
+13.2 When you were formed, I was cast out from the face of God and was sent forth from the company of the angels. When God blew into you the breath of life and your countenance and likeness were made in the image of God, Michael led you and made you worship in the sight of God. The Lord God then said: 'Behold, Adam, I have made you in our image and likeness.'
+## c14
+14.1 Et egressus Michahel vocavit omnes angelos dicens: adorate imaginem domini dei, sicut praecepit dominus deus.
+
+14.1 Having gone forth Michael called all the angels saying: 'Worship the image of the Lord God, just as the Lord God has commanded.'
+
+14.2 Et ipse Michahel primus adoravit, et vocavit me et dixit: adora imaginem dei Jehova.
+
+14.2 Michael himself worshipped first then he called me and said: 'Worship the image of God Jehovah.'
+
+14.3 Et respondi ego: non habeo ego adorare Adam. et cum compelleret me Michahel adorare, dixi ad eum: quid me compellis? non adorabo deteriorem et posteriorem meum. in creatura illius prius sum. antequam ille fieret, ego iam factus eram. ille me debet adorare.
+
+14.3 I answered: 'I do not have it within me to worship Adam.' When Michael compelled me to worship, I said to him: 'Why do you compel me? I will not worship him who is lower and posterior to me. I am prior to that creature. Before he was made, I had already been made. He ought to worship me.'
+## c15
+15.1 Hoc audientes ceteri qui sub me erant angeli noluerunt adorare eum.
+15.2 Et ait Michahel: adora imaginem dei. si autem non adorave ris, irascetur tibi dominus deus.
+15.3 Et ego dixi: si irascitur mihi, ponam sedem meam super sidera caeli et ero similis altissimo.
+
+15.1 Hearing this, other angels who were under me were unwilling to worship him.
+15.2 Michael said: 'Worship the image of God. If you do not worship, the Lord God will grow angry with you.'
+15.3 said: 'If he grows angry with me, I will place my seat above the stars of heaven and I will be like the Most High.'
+## c16
+16.1 Et iratus est mihi dominus deus et misit me cum angelis meis foras de gloria nostra, et per tuam causam in hunc mundum expulsi sumus de habitationibus nostris et proiecti sumus in terram.
+16.2 Et statim facti sumus in dolore, quoniam expoliati sumus tanta gloria,
+16.3 et te in tanta laetitia delitiarum videre dolebamus.
+16.4 Et dolo circumveniebam mulierem tuam et feci te expelli per eam de delitiis laetitiae tuae, sicut ego expulsus sum de gloria mea.
+
+16.1 Then the Lord God grew angry with me and sent me forth with my angels from our glory. On account of you we were expelled from our dwelling into this world and cast out upon the earth.
+16.2 Immediately we were in grief, since we had been despoiled of so much glory,
+16.3 and we grieved to see you in such a great happiness of delights. 16:4 By a trick I cheated your wife and caused you to be expelled through her from the delights of your happiness, just as I had been expelled from my glory.
+# cave_treasures
+https://www2.iath.virginia.edu/anderson/retellings/Cave.html
+
+https://sacred-texts.com/chr/bct/index.htm
+
+## b1
+### [The Creation of Adam.]
+
+Now the formation of Adam took place in this wise: On the Sixth Day, which is the Eve of the Sabbath, at the first hour of the day, when quietness was reigning over [Fol. 4b, col. 2] all the Ranks [of the Angels], and the hosts [of heaven], God said, "Come ye, let Us make man in Our image, and according to Our likeness." Now by this word "Us" He maketh known concerning the Glorious Persons [of the Trinity]. And when the angels heard this utterance, they fell into a state of fear and trembling, and they said to one another, "A mighty miracle will be made manifest to us this day [that is to say], the likeness of God, our Maker." And they saw the right hand of God opened out flat, and stretched out over the whole world; and all creatures were collected in the palm of His right hand. And they saw that He took from the whole mass of the earth one grain of dust, and from the whole nature of water one drop of p. 52 water, and from all the air which is above one puff of wind, and from the whole nature of fire a little of its heat and warmth. And the angels saw that when these four feeble (or inert) materials were placed in the palm of His right hand [Fol. 5a, col. 1], that is to say, cold, and heat, and dryness, and moisture, God formed Adam. Now, for what reason did God make Adam out of these four materials unless it were [to show] that everything which is in the world should be in subordination to him through them? He took a grain from the earth in order that everything in nature which is formed of earth should be subject unto him; and a drop of water in order that everything which is in the seas and rivers should be his; and a puff of air so that all kinds [of creatures] which fly in the air might be given unto him; and the heat of fire so that all the beings that are fiery in nature, and the celestial hosts, might be his helpers.
+
+God formed Adam with His holy hands, in His own Image and Likeness, and when the angels saw Adam's glorious appearance they were greatly moved by the beauty thereof. For they saw [Fol. 5a, col. 2] the image of his face burning with glorious splendour like the orb of the sun, and the light of his eyes was like the light of the sun, and the image of his body was like unto the sparkling of crystal. And p. 53 when he rose at full length and stood upright in the centre of the earth, he planted his two feet on that spot whereon was set up the Cross of our Redeemer; for Adam was created in Jerusalem. There he was arrayed in the apparel of sovereignty, and there was the crown of glory set upon his head, there was he made king, and priest, and prophet, there did God make him to sit upon his honourable throne, and there did God give him dominion over all creatures and things. And all the wild beasts, and all the cattle, and the feathered fowl were gathered together, and they passed before Adam and he assigned names to them; and they bowed their heads before him; and eveything in nature worshipped him [Fol. 5b, col. 1], and submitted themselves unto him. And the angels and the hosts of heaven heard the Voice of God saying unto him, "Adam, behold; I have made thee king, and priest, and prophet, and lord, and head, and governor of everything which hath been made and created; and they shall be in subjection unto thee, and they shall be thine, and I have given unto thee power over everything which I have created." And when the angels heard this speech they all bowed the knee and worshipped Him.
+
+ 
+### [THE REVOLT OF SATAN, AND THE BATTLE IN HEAVEN.]
+
+And when the prince of the lower order of angels saw what great majesty had been given unto Adam, he was jealous of him from that day, and he did not wish to worship him. And he said unto his hosts, "Ye shall not worship him, and ye shall not praise him with the angels. It is meet that ye should worship me, because I am fire and spirit; and not that I should worship a thing of dust, which hath been fashioned of fine dust." And the Rebel meditating these things [Fol. 5b, col. 2] would not render obedience to God, and of his own free will he asserted his independence and separated himself from God. But he was swept away out of heaven and fell, and the fall of himself and of all his company from heaven took place on the p. 56 Sixth Day, at the second hour of the day. And the apparel of their glorious state was stripped off them. And his name was called "Sâtânâ" because he turned aside [from the right way], and "Shêdâ" because he was cast out, and "Daiwâ" because he lost the apparel of his glory. And behold, from that time until the present day, he and all his hosts have been stripped of their apparel, and they go naked and have horrible faces. And when Sâtânâ was cast out from heaven, Adam was raised up so that he might ascend to Paradise in a chariot of fire. And the angels went before him, singing praises, and the Seraphim ascribed holiness unto him, and the Cherubim ascribed blessing; and amid cries of joy and praises Adam went into [Fol. 6a, col. 1] Paradise. And as soon as Adam entered Paradise he was commanded not to eat of a [certain] tree; his entrance into heaven took place at the third hour of the Eve of the Sabbath (i.e. on Friday morning).
+### [SATAN'S ATTACK ON ADAM AND EVE.]
+
+And when Satan saw that Adam and Eve were happy and joyful in Paradise, that Rebel was smitten sorely with jealousy, and he became filled with wrath. And he went and took up his abode in the serpent, and he raised him up, and made him to fly through the air to the skirts of Mount [Eden] whereon was Paradise [Fol. 6b, col. 2]. Now, why did Satan enter the body of the serpent and hide himself therein? Because he knew that his appearance was foul, and that if Eve saw his form, she would betake herself to flight straightway before him. Now, the man who wished to teach the Greek language to a bird--now the bird that can learn the speech of men p. 64 is called "babbaghah" (i.e. parrot)--first bringeth a large mirror and placeth between himself and the bird. He then beginneth to talk to the bird, and immediately the parrot heareth the voice of the man, it turneth round, and when it seeth its own form [reflected] in the mirror, it becometh pleased straightway, because it imagineth that a fellow parrot is talking to it. Then it inclineth its ear with pleasure, and listeneth to the words of the man who is talking to it, and it becometh eager to learn, and to speak Greek. In this manner (i.e. with the object of making Eve believe that it was the serpent that spoke to her) did Satan enter in and dwell in the serpent, and he watched for the opportunity, and [when] he saw Eve by herself [Fol. 7a, col. 1], he called her by her name. And when she turned round towards him, she saw her own form [reflected] in him, and she talked to him; and Satan led her astray with his lying words, because the nature of woman is soft (or, yielding).
+
+And when Eve had heard from him concerning that tree, straightway she ran quickly to it, and she plucked the fruit of disobedience from the tree of transgression of the command, and she ate. Then immediately she found herself stripped naked, and she saw the hatefulness of her shame, and she ran away p. 65 naked, and hid herself in another tree, and covered her nakedness with the leaves thereof. And she cried out to Adam, and he came to her, and she handed to him some of the fruit of which she had eaten, and he also did eat thereof. And when he had eaten he also became naked, and he and Eve made girdles for their loins of the leaves of the fig-trees; and they were arrayed in these girdles of ignominy for three [Fol. 7a, col. 2] hours. At mid-day they received [their] sentence of doom. And God made for them tunics of skin which was stripped from the trees, that is to say, of the bark of the trees, because the trees that were in Paradise had soft barks, and they were softer than the byssus and silk wherefrom the garments worn by kings are made. And God dressed them in this soft skin, which was thus spread over a body of infirmities.
+## b2

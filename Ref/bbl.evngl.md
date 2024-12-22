@@ -141,6 +141,15 @@ Heaven and earth shall pass away: but my words shall not pass away.
 περι δε της ημερας εκεινης και της ωρας ουδεις οιδεν ουδε οι αγγελοι οι εν ουρανω ουδε ο υιος ει μη ο πατηρ
 
 But of that day and [that] hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
+## c14
+### 47
+εις δε τις των παρεστηκοτων σπασαμενος την μαχαιραν επαισεν τον δουλον του αρχιερεως και αφειλεν αυτου το ωτιον
+
+And one of them that stood by drew a sword, and smote a servant of the high priest, and cut off his ear.
+### 48
+και αποκριθεις ο ιησους ειπεν αυτοις ως επι ληστην εξηλθετε μετα μαχαιρων και ξυλων συλλαβειν με
+
+And Jesus answered and said unto them, Are ye come out, as against a thief, with swords and [with] staves to take me ?
 ## c15
 ### 2
 και επηρωτησεν αυτον ο πιλατος συ ει ο βασιλευς των ιουδαιων ο δε αποκριθεις ειπεν αυτω συ λεγεις
@@ -325,6 +334,15 @@ But when he heard that Archelaus did reign in Judaea in the room of his father H
 et veniens habitavit in civitate quae vocatur Nazareth ut adimpleretur quod dictum est per prophetas quoniam Nazareus vocabitur
 
 And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.
+## c5
+### 39
+εγω δε λεγω υμιν μη αντιστηναι τω πονηρω αλλ οστις σε ραπισει επι την δεξιαν σου σιαγονα στρεψον αυτω και την αλλην
+
+But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.
+### 40
+και τω θελοντι σοι κριθηναι και τον χιτωνα σου λαβειν αφες αυτω και το ιματιον
+
+And if any man will sue thee at the law, and take away thy coat, let him have [thy] cloke also.
 ## c7
 ### 13
 εισελθετε δια της στενης πυλης οτι πλατεια η πυλη και ευρυχωρος η οδος η απαγουσα εις την απωλειαν και πολλοι εισιν οι εισερχομενοι δι αυτης
@@ -336,6 +354,14 @@ Enter ye in at the strait gate: for wide [is] the gate, and broad [is] the way, 
 
 But the Pharisees said, He casteth out devils through the prince of the devils.
 ## c10
+### 30
+υμων δε και αι τριχες της κεφαλης πασαι ηριθμημεναι εισιν
+
+But the very hairs of your head are all numbered.
+### 34
+μη νομισητε οτι ηλθον βαλειν ειρηνην επι την γην ουκ ηλθον βαλειν ειρηνην αλλα μαχαιραν
+
+Think not that I am come to send peace on earth: I came not to send peace, but a sword.
 ### 36
 και εχθροι του ανθρωπου οι οικιακοι αυτου
 
@@ -387,8 +413,15 @@ And whoso shall receive one such little child in my name receiveth me.
 ει δε η χειρ σου η ο πους σου σκανδαλιζει σε εκκοψον αυτα και βαλε απο σου καλον σοι εστιν εισελθειν εις την ζωην χωλον η κυλλον η δυο χειρας η δυο ποδας εχοντα βληθηναι εις το πυρ το αιωνιον
 
 Wherefore if thy hand or thy foot offend thee, cut them off, and cast [them] from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.
+### 21
+τοτε προσελθων αυτω ο πετρος ειπεν κυριε ποσακις αμαρτησει εις εμε ο αδελφος μου και αφησω αυτω εως επτακις
+
+Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him ? till seven times ?
+
 ### 22
 λεγει αυτω ο ιησους ου λεγω σοι εως επτακις αλλ εως εβδομηκοντακις επτα
+
+Jesus says unto him, I say not unto you, Until seven times; but, Until seventy times seven.
 ### 23
 δια τουτο ωμοιωθη η βασιλεια των ουρανων ανθρωπω βασιλει ος ηθελησεν συναραι λογον μετα των δουλων αυτου
 
@@ -433,6 +466,15 @@ On these two commandments hang all the law and the prophets.
 περι δε της ημερας εκεινης και της ωρας ουδεις οιδεν ουδε οι αγγελοι των ουρανων ει μη ο πατηρ μου μονος
 
 But of that day and hour knoweth no [man], no, not the angels of heaven, but my Father only.
+## c26
+### 51
+και ιδου εις των μετα ιησου εκτεινας την χειρα απεσπασεν την μαχαιραν αυτου και παταξας τον δουλον του αρχιερεως αφειλεν αυτου το ωτιον
+
+And, behold, one of them which were with Jesus stretched out [his] hand, and drew his sword, and struck a servant of the high priest´s, and smote off his ear.
+### 52
+τοτε λεγει αυτω ο ιησους αποστρεψον σου την μαχαιραν εις τον τοπον αυτης παντες γαρ οι λαβοντες μαχαιραν εν μαχαιρα απολουνται
+
+Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword.
 ## c27
 ### 2
 και δησαντες αυτον απηγαγον και παρεδωκαν αυτον ποντιω πιλατω τω ηγεμονι
@@ -456,6 +498,18 @@ Command therefore that the sepulchre be made sure until the third day, lest his 
 Pilate said unto them, Ye have a watch: go your way, make [it] as sure as ye can.
 # luke
 ## c1
+### 19
+και αποκριθεις ο αγγελος ειπεν αυτω εγω ειμι γαβριηλ ο παρεστηκως ενωπιον του θεου και απεσταλην λαλησαι προς σε και ευαγγελισασθαι σοι ταυτα
+
+And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings.
+### 26
+εν δε τω μηνι τω εκτω απεσταλη ο αγγελος γαβριηλ υπο του θεου εις πολιν της γαλιλαιας η ονομα [ναζαρετ] [ναζαρεθ]
+
+And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,
+### 27
+προς παρθενον μεμνηστευμενην ανδρι ω ονομα ιωσηφ εξ οικου δαβιδ και το ονομα της παρθενου μαριαμ
+
+to a virgin betrothed to a man whose name was Joseph, of the house of David; and the virgin´s name was Mary.
 ### 31
 και ιδου συλληψη εν γαστρι και τεξη υιον και καλεσεις το ονομα αυτου ιησουν
 
@@ -671,6 +725,11 @@ Strive to enter in at the strait gate: for many, I say unto you, will seek to en
 ει τις ερχεται προς με και ου μισει τον πατερα εαυτου και την μητερα και την γυναικα και τα τεκνα και τους αδελφους και τας αδελφας ετι δε και την εαυτου ψυχην ου δυναται μου μαθητης ειναι
 
 If any [man] come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
+## c15
+### 7
+λεγω υμιν οτι ουτως χαρα εσται εν τω ουρανω επι ενι αμαρτωλω μετανοουντι η επι εννενηκονταεννεα δικαιοις οιτινες ου χρειαν εχουσιν μετανοιας
+
+I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.
 ## c17
 ### 21
 ουδε ερουσιν ιδου ωδε η ιδου εκει ιδου γαρ η βασιλεια του θεου εντος υμων εστιν
@@ -722,6 +781,19 @@ Heaven and earth shall pass away: but my words shall not pass away.
 αγρυπνειτε ουν εν παντι καιρω δεομενοι ινα καταξιωθητε εκφυγειν ταυτα παντα τα μελλοντα γινεσθαι και σταθηναι εμπροσθεν του υιου του ανθρωπου
 
 Watch ye therefore, and pray always that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
+## c22
+### 49
+ιδοντες δε οι περι αυτον το εσομενον ειπον αυτω κυριε ει παταξομεν εν μαχαιρα
+
+When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword ?
+### 50
+και επαταξεν εις τις εξ αυτων τον δουλον του αρχιερεως και αφειλεν αυτου το ους το δεξιον
+
+And one of them smote the servant of the high priest, and cut off his right ear.
+### 51
+αποκριθεις δε ο ιησους ειπεν εατε εως τουτου και αψαμενος του ωτιου αυτου ιασατο αυτον
+
+But Jesus answered and said, Suffer ye them thus far. And he touched his ear, and healed him.
 ## c23
 ### 12
 εγενοντο δε φιλοι ο τε πιλατος και ο ηρωδης εν αυτη τη ημερα μετ αλληλων προυπηρχον γαρ εν εχθρα οντες προς εαυτους
@@ -789,6 +861,14 @@ Hereafter I will not talk much with you: for the prince of this world cometh, an
 
 And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.
 ## c18
+### 10
+σιμων ουν πετρος εχων μαχαιραν ειλκυσεν αυτην και επαισεν τον του αρχιερεως δουλον και απεκοψεν αυτου το ωτιον το δεξιον ην δε ονομα τω δουλω μαλχος
+
+Then Simon Peter having a sword drew it, and smote the high priest´s servant, and cut off his right ear. The servant´s name was Malchus.
+### 11
+ειπεν ουν ο ιησους τω πετρω βαλε την μαχαιραν σου εις την θηκην το ποτηριον ο δεδωκεν μοι ο πατηρ ου μη πιω αυτο
+
+Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it ?
 ### 31
 ειπεν ουν αυτοις ο πιλατος λαβετε αυτον υμεις και κατα τον νομον υμων κρινατε αυτον ειπον ουν αυτω οι ιουδαιοι ημιν ουκ εξεστιν αποκτειναι ουδενα
 

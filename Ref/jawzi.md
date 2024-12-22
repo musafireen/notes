@@ -1,0 +1,6 @@
+# talbis
+
+Many an atheist with hatred of Islam in his heart has come out, worked hard, exerted himself and made plausible pretensions with which to confront his followers. The hidden purpose in belief was to wriggle out of the net of Islam, and in action to enjoy pleasures and to make lawful forbidden things.
+like Ibn al-Rawandi and al- Ma'arri. Ibn al-Rawandī used to accompany Rafidah and atheists and when he used to get reprimanded for doing so, he used to say: I only wish to learn their teachings.
+Whoever studies the case of Ibn al-Rawandi finds him a leader of heretics. Later he wrote a book "Al-Damigh" (the destroyer) claim- ing that it destroyed Islām. Glory to He who destroyed him and took his life while he was in his youth. He used to claim that the Qur'an had contradictions and lacked eloquence.
+As for Abü'l-'Alā, his poems make no secret of their heresy; he went to all lengths in his hatred of the Prophets, but all through floundered about in his attempts to mislead, being afraid of execu- tion, till he died in his destitution.

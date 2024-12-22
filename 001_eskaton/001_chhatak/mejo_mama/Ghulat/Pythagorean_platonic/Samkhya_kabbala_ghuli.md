@@ -266,6 +266,11 @@ marīci, atri, aṅgirā, pulatsya, pulaha, kratu
 ## ayyām
 ## saptāha
 ## weekdays
+## aeons
+
+### simonian
+(nous, epinoia), (phone, onoma), (logisom, ennoia), sophia?
+:[[SimMag.apMgl]]
 ## nāṭiq
 adam, nūḥ, ibrāhīm, mūsā, (dāwūd,) 'īsā, muḥammad 
 ## wasī

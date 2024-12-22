@@ -35,6 +35,19 @@ But man dieth, and wasteth away: yea, man giveth up the ghost, and where [is] he
 
 So man lieth down, and riseth not: till the heavens [be] no more, they shall not awake, nor be raised out of their sleep.
 # psalms
+## c8
+### 4
+כִּֽי־אֶרְאֶ֣ה שָׁ֭מֶיךָ מַעֲשֵׂ֣י אֶצְבְּעֹתֶ֑יךָ יָרֵ֥חַ וְ֝כוֹכָבִ֗ים אֲשֶׁ֣ר כּוֹנָֽנְתָּה ׃
+
+What is man, that thou art mindful of him? and the son of man, that thou visitest him?
+### 5
+מָֽה־אֱנ֥וֹשׁ כִּֽי־תִזְכְּרֶ֑נּוּ וּבֶן־אָ֝דָ֗ם כִּ֣י תִפְקְדֶֽנּוּ ׃
+
+For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.
+### 6
+וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים וְכָב֖וֹד וְהָדָ֣ר תְּעַטְּרֵֽהוּ ׃
+
+Thou madest him to have dominion over the works of thy hands; thou hast put all [things] under his feet:
 ## c16
 ### 10
 כִּ֤י ׀ לֹא־תַעֲזֹ֣ב נַפְשִׁ֣י לִשְׁא֑וֹל לֹֽא־תִתֵּ֥ן חֲ֝סִידְךָ֗ לִרְא֥וֹת שָֽׁחַת ׃
@@ -141,6 +154,11 @@ Beasts, and all cattle; creeping things, and flying fowl:
 נִ֭בְלָעֵם כִּשְׁא֣וֹל חַיִּ֑ים וּ֝תְמִימִ֗ים כְּי֣וֹרְדֵי בֽוֹר ׃
 
 Let us swallow them up alive as the grave; and whole, as those that go down into the pit:
+## c6
+### 12
+אָדָ֣ם בְּ֭לִיַּעַל אִ֣ישׁ אָ֑וֶן ה֝וֹלֵ֗ךְ עִקְּשׁ֥וּת פֶּֽה
+
+A naughty person, a wicked man, walketh with a froward mouth.
 ## c14
 ### 22
 הֲֽלוֹא־יִ֭תְעוּ חֹ֣רְשֵׁי רָ֑ע וְחֶ֥סֶד וֶ֝אֱמֶ֗ת חֹ֣רְשֵׁי טֽוֹב ׃

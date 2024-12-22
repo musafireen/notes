@@ -310,6 +310,16 @@ IL.1.30   in my own house, in Argos, far from her own land, going
 Oceanus,tethys
 ### 261
 Nyx, zeus
+## b7
+### 418
+άμφοτερον νεκυας τ' άγεμεν έτεροι" δὲ μεθ' ύλην.
+
+for two things, some to gather the bodies, and the others firewood
+## b11
+### 155
+ὡς δ' ὅτε [πῦρ ἀΐδηλον ἐν άξυλῳ έμπεσῃ ὕλῃ,
+
+As when obliterating fire comes down on the timbered forest
 ## b14
 #### 200
 

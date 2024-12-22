@@ -1,14 +1,28 @@
 
-
+![[surord#9]]
 # no free will in quran?
 
 # 81:29
 ![[Qsorted#81:28]]![[Qsorted#81:29]]
 
-# 103
+# 113:2
 
 ![[Qrsd#113:1]]![[Qrsd#113:2]]
-
+![[Qrsd#113:3]]
+![[Qrsd#113:4]]
+![[Qrsd#113:5]]
+## $rr xlq rbb
+# 53:26
+![[Qrsd#53:26]]
+# 7:179
+![[Qrsd#7:179]]
+## *rA Ans kvr jnhnm
+## *rA qlb laA fqh
+# 36:47
+![[qrsd#36:47]]
+# 10:100
+![[Qrsd#10:100]]
+## A*n Amn Alh
 # 6:111
 ![[Qsorted#6:111]]
 
@@ -17,7 +31,12 @@
 
 # 37:96
 ![[Qrsd#37:95]]![[Qrsd#37:96]]
-
+# 2:213
+![[Qrsd#2:213]]
+## A*n Amn Alh
+# 2:221
+![[Qrsd#2:221]]
+## A*n Amn Alh
 # 8:53
 ![[Qsorted#8:53]]
 
@@ -29,3 +48,8 @@
 
 # 49:7
 ![[Qrsd#49:7]]
+# 64:11
+![[Qrsd#64:11]]
+## A*n Swb Alh
+# ?
+![[Qrsi#s]]

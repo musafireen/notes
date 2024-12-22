@@ -7,7 +7,7 @@ https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2021.tlg002.1st1K-grc1:pra
 Πάλιν οὗτοι οἱ Γνωστικοὶ διαφόρως ἀπὸ τούτου φυόμενοι ἠπατημένοι ἄνθρωποι, ὥσπερ ἀπὸ κοπρίας καρποί, ὡς παντί τῳ δῆλόν ἐστι καὶ φωρατὸν πρὸς δοκιμὴν ἀληθείας οὐ μόνον εἴποιμι πιστοῖς ἀλλὰ τάχα καὶ ἀπίστοις, ἐν τῷ κόσμῳ ἐβλάστησαν· τὸ γὰρ Μήτραν καὶ αἰσχρότητα λέγειν καὶ τὰ ἄλλα πῶς οὐχὶ καταγέλαστα φανείη πᾶσιν ἀνθρώποις, «Ἕλλησί τε καὶ βαρβάροις, σοφοῖς τε καὶ ἀνοήτοις»; 
 
 In turn these Gnostics have sprouted up in the world, deluded people who have grown from Nicolaus like fruit from a dunghill,2 in a different way—something that is plain and observable to anyone by the touchstone of truth, not only to believers I should say, but perhaps to unbelievers too. For how can speaking of a “Womb” and dirt and the rest not appear ridiculous to everyone, “Greeks and barbarians, wise and unwise?”3 
-#### 2
+### 2
 πολλὴ δὲ συμφορὰ καὶ μεγίστη ὡς εἰπεῖν ταλαιπωρία, τοὺς ἐν καταγνώσει καὶ ἐν πλάνῃ ἐπισείεσθαι ἡμῖν τῶν αἱρέσεων ἀρχηγοὺς καὶ ἐπανίστασθαι ὥσπερ κνωδάλων πλῆθος, ὀχλήσεις τε καὶ δυσοδμίας κνισμούς τε καὶ ἐπεντριβὰς ἡμῖν ἐμποιοῦντας διὰ τῆς [τοῦ] μυθοποιοῦ πλάνης. 
 
 It is a great misfortune, and one might say the worst of hardships, that these despicable, erring founders of the sects come at us and assault us like a swarm of insects, infecting us with diseases, smelly eruptions, and sores through their error with its mythology. 
@@ -20,7 +20,7 @@ These people, who are yoked in tandem with this Nicolaus and have been hatched b
 ταύτην γάρ φασιν τὴν Νωρίαν εἶναι τοῦ Νῶε γυναῖκα· καλοῦσι δὲ Νωρίαν, ὅπως τὰ Ἑλληνικῶς παρὰ τοῖς Ἕλλησι ῥαψῳδηθέντα αὐτοὶ βαρβαρικοῖς ὀνόμασι μεταποιήσαντες τοῖς ἠπατημένοις παρ' αὐτῶν φαντασίαν ἐργάσωνται, ἵνα δὴ καὶ ἑρμηνείαν ποιήσωσι τοῦ τῆς Πύρρας ὀνόματος, Νωρίαν ταύτην ὀνομάζοντες. 
 
 For they say that this Noria is Noah’s wife.5 But they call her Noria in order to create an illusion for their dupes by making their own alteration, with foreign names, of the things the Greeks recited in Greek, so that they too will translate Pyrrha’s name by calling her Noria. 
-## 5
+### 5
 ἐπειδὴ γὰρ νοῦρα ἐν τῇ Ἑβραΐδι πῦρ οὐ κατὰ τὴν βαθεῖαν γλῶσσαν ἑρμηνεύεται ἀλλὰ Συριακῇ διαλέκτῳ (ἡσὰθ γὰρ τὸ πῦρ παρὰ Ἑβραίοις καλεῖται κατὰ τὴν βαθεῖαν γλῶσσαν), τούτου χάριν αὐτοῖς συμβέβηκε κατὰ ἄγνοιαν καὶ ἀπειρίαν τῷ ὀνόματι τούτῳ χρήσασθαι. 
 
 Now since “nura” means 
@@ -56,6 +56,19 @@ His placement of the “Gnostics” here, in association with the Nicolaitans mi
 6 Epiph apparently connects Norea with nura, fire, because of the burning of the ark, see below at 1,8. 
 gnostics 
 91
+# b3
+## c42
+section iii
+Elenchus 8 and 35. If the Law is fulfi lled by the love of neighbor, then the Law, which commands the love of neighbor is not foreign to Christ, and to God the Father of our Lord and God Jesus Christ. 
+
+For God is love, 
+[[bbl.epst#1_j#]]
+
+and everything he proclaims is always proclaimed alike, both then and now, in the Old Testament and the New. 
+Since Marcion has a distorted version of everything from the < First > Epistle to the Thessalonians, the fi fth Epistle—so it stands in Marcion’s canon but it is the eighth in the Apostle—I cite nothing from it. 
+Since Second Thessalonians, the sixth Epistle in Marcion but the ninth in The Apostle, has likewise been distorted by Marcion himself, again I cite nothing from it. 
+Of Ephesians, the seventh Epistle in Marcion, but the fi fth in The Apostle, (I cite) the following:
+Scholion 1 and 36. “Remember that ye, being in time past gentiles, who are called uncircumcision by that which is called the circumcision in the fl esh made by hands; that at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world. But now in Christ Jesus, ye who sometimes were far off are made nigh by the blood of him. For he is our peace, who hath made of both one,” and so on.
 
 # b4
 ## c22

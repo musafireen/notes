@@ -17,5 +17,6 @@ The fish tells manu how to build ship. Perhaps the fish himself is nuh.
 
 ## MtP.1.11-34
 
-![[mtsP#]]
+![[mtsP#1.11]]
 ## MtP.2.1-19
+![[mtsP#2.1]]

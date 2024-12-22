@@ -4,6 +4,17 @@
 ει γαρ ο θεος αγγελων αμαρτησαντων ουκ εφεισατο αλλα σειραις ζοφου ταρταρωσας παρεδωκεν εις κρισιν τετηρημενους
 
 For if God spared not the angels that sinned, but cast [them] down to hell, and delivered [them] into chains of darkness, to be reserved unto judgment;
+# 1_j
+## c1
+### 5
+και αυτη εστιν η [επαγγελια] [αγγελια] ην ακηκοαμεν απ αυτου και αναγγελλομεν υμιν οτι ο θεος φως εστιν και σκοτια εν αυτω ουκ εστιν ουδεμια
+
+This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
+## c4
+### 8
+ο μη αγαπων ουκ εγνω τον θεον οτι ο θεος αγαπη εστιν
+
+He that loveth not knoweth not God; for God is love.
 # jude
 ## c1
 ### 1

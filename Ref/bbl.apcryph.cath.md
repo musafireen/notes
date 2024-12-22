@@ -1,7 +1,50 @@
 
 # tobit
+https://www.ellopos.net/elpenor/greek-texts/septuagint/chapter.asp?book=18
 https://www.sefaria.org/Book_of_Tobit
+## c3
+### 8
+8 ὅτι ἦν δεδομένη ἀνδράσιν ἑπτά, καὶ ᾿Ασμοδαῖος τὸ πονηρὸν δαιμόνιον ἀπέκτεινεν αὐτοὺς πρὶν ἢ γενέσθαι αὐτοὺς μετ᾿ αὐτῆς ὡς ἐν γυναιξί. καὶ εἶπαν αὐτῇ· οὐ συνιεῖς ἀποπνίγουσά σου τοὺς ἄνδρας; ἤδη ἑπτὰ ἔσχες καὶ ἑνὸς αὐτῶν οὐκ ὠνομάσθης·
 
+Because that she had been married to seven husbands, whom Asmodeus the evil spirit had killed, before they had lain with her. Dost thou not know, said they, that thou hast strangled thine husbands? thou hast had already seven husbands, neither wast thou named after any of them. 
+### 17
+καὶ ἀπεστάλη ἰάσασθαι τοὺς δύο, τοῦ Τωβὶτ λεπίσαι τὰ λευκώματα καὶ Σάρραν τὴν τοῦ Ῥαγουὴλ δοῦναι Τωβίᾳ τῷ υἱῷ Τωβὶτ γυναῖκα καὶ δῆσαι ᾿Ασμοδαῖον τὸ πονηρὸν δαιμόνιον, διότι Τωβίᾳ ἐπιβάλλει κληρονομῆσαι αὐτήν. ἐν αὐτῷ τῷ καιρῷ ἐπιστρέψας Τωβὶτ εἰσῆλθεν εἰς τὸν οἶκον αὐτοῦ καὶ Σάρρα ἡ τοῦ Ῥαγουὴλ κατέβη ἐκ τοῦ ὑπερῴου αὐτῆς.
+
+And Raphael was sent to heal them both, that is, to scale away the whiteness of Tobit’s eyes, and to give Sara the daughter of Raguel for a wife to Tobias the son of Tobit; and to bind Asmodeus the evil spirit; because she belonged to Tobias by right of inheritance. The selfsame time came Tobit home, and entered into his house, and Sara the daughter of Raguel came down from her upper chamber.
+## c5
+### 1
+ΚΑΙ ἀποκριθεὶς Τωβίας εἶπεν αὐτῷ· πάτερ, ποιήσω πάντα, ὅσα ἐντέταλσαί μοι· 
+
+1 Tobias then answered and said, Father, I will do all things which thou hast commanded me: 
+### 2 
+ἀλλὰ πῶς δυνήσομαι λαβεῖν τὸ ἀργύριον καὶ οὐ γινώσκω αὐτόν; 
+
+2 But how can I receive the money, seeing I know him not? 
+### 3 
+καὶ ἔδωκεν αὐτῷ τὸ χειρόγραφον καὶ εἶπεν αὐτῷ· ζήτησον σεαυτῷ ἄνθρωπον, ὃς συμπορεύσεταί σοι, καὶ δώσω αὐτῷ μισθὸν ἕως ζῶ· καὶ λαβὲ πορευθεὶς τὸ ἀργύριον. 
+
+3 Then he gave him the handwriting, and said unto him, Seek thee a man which may go with thee, whiles I yet live, and I will give him wages: and go and receive the money. 
+### 4 
+καὶ ἐπορεύθη ζητῆσαι ἄνθρωπον καὶ εὗρε τὸν Ῥαφαήλ, ὃς ἦν ἄγγελος, καὶ οὐκ ᾔδει· 
+
+4 Therefore when he went to seek a man, he found Raphael that was an angel. But he knew not; 
+### 5 
+καὶ εἶπεν αὐτῷ· εἰ δύναμαι πορευθῆναι μετὰ σοῦ ἐν Ῥάγοις τῆς Μηδίας, καὶ εἰ ἔμπειρος εἶ τῶν τόπων; 
+
+5 and he said unto him, Canst thou go with me to Rages? and knowest thou those places well? 
+### 6 
+καὶ εἶπεν αὐτῷ ὁ ἄγγελος· πορεύσομαι μετὰ σοῦ καὶ τῆς ὁδοῦ ἐμπειρῶ καὶ παρὰ Γαβαὴλ τὸν ἀδελφὸν ἡμῶν ηὐλίσθην. 
+
+6 To whom the angel said, I will go with thee, and I know the way well: for I have lodged with our brother Gabael. 
+## c6
+### 17
+καὶ ἐὰν εἰσέλθῃς εἰς τὸν νυμφῶνα, λήψῃ τέφραν θυμιαμάτων καὶ ἐπιθήσεις ἀπὸ τῆς καρδίας καὶ τοῦ ἥπατος τοῦ ἰχθύος καὶ καπνίσεις, 
+
+17 And when thou shalt come into the marriage chamber, thou shalt take the ashes of perfume, and shalt lay upon them some of the heart and liver of the fish, and shalt make a smoke with it: 
+### 18 
+καὶ ὀσφρανθήσεται τὸ δαιμόνιον καὶ φεύξεται καὶ οὐκ ἐπανελεύσεται εἰς τὸν αἰῶνα τοῦ αἰῶνος. ὅταν δὲ προσπορεύῃ αὐτῇ, ἐγέρθητε ἀμφότεροι καὶ βοήσατε πρὸς τὸν ἐλεήμονα Θεόν, καὶ σώσει ὑμᾶς καὶ ἐλεήσει. μὴ φοβοῦ, ὅτι σοὶ αὐτὴ ἡτοιμασμένη ἦν ἀπὸ τοῦ αἰῶνος, καὶ σὺ αὐτὴν σώσεις, καὶ πορεύσεται μετὰ σοῦ, καὶ ὑπολαμβάνω ὅτι σοι ἔσται ἐξ αὐτῆς παιδία. 
+
+18 And the devil shall smell it, and flee away, and never come again any more: but when thou shalt come to her, rise up both of you, and pray to God which is merciful, who will have pity on you, and save you: fear not, for she is appointed unto thee from the beginning; and thou shalt preserve her, and she shall go with thee. Moreover I suppose that she shall bear thee children. 
 # judith
 https://www.sefaria.org/Book_of_Judith
 

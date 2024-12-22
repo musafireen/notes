@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/ktl.arthSh.md",
+                "file": "Ref/mdhvA.SDS.BAK.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,37 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/MundU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ec26624b8e1be66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref/pnn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0bc2b1234573107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref/aps.md",
+                "file": "Ref/mdhvA.SDS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,10 +61,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hdt",
-                "matchingCase": false,
+                "query": "mdhv",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -106,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5c547e5a99914051",
@@ -122,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/ktl.arthSh.md",
+                "file": "Ref/mdhvA.SDS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/ktl.arthSh.md",
+                "file": "Ref/mdhvA.SDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/ktl.arthSh.md"
+                "file": "Ref/mdhvA.SDS.md"
               }
             }
           }
@@ -181,46 +159,46 @@
       "templates:Insert template": false
     }
   },
-  "active": "5e3c009a14375111",
+  "active": "905179785971b4e6",
   "lastOpenFiles": [
-    "Ref/MnSmr.md",
+    "Ref/mdhvA.SDS.BAK.md",
+    "Ref/mdhvA.SDS.md",
     "Ref/ktl.arthSh.md",
-    "Ref/ChU.md",
-    "Ref/BU.md",
-    "Ref/SvetU.md",
-    "Ref/kthU.md",
-    "Ref/KstkU.md",
-    "Ref/RV.md",
+    "Ref/~syncthing~mdhvA.SDS.md.tmp",
+    "Ref/~syncthing~mdhvA.SDS.BAK.md.tmp",
+    "Ref/mdhvAcr.md",
+    "Ref/mdhvA.SDS_BAK.md",
+    "Ref/mdhvA.SDS - Copy.md",
+    "Ref/bbl.apcryph.ethp.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/demiurgic_theodicy/evil_cosmos_matter_creation_demiurge.md",
     "Ref/MundU.md",
-    "Ref/hdt.hist.md",
-    "Ref/TS.md",
-    "Ref/KthkU.md",
-    "Ref/SpB.md",
-    "Ref/JB.md",
-    "Ref/AB.md",
+    "Ref/maarri.md",
+    "Ref/Orig.md",
+    "Ref/celsus.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Free will/No free will in quran.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/demiurgic_theodicy/~syncthing~evil_cosmos_matter_creation_demiurge.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/demiurgic_theodicy/~syncthing~Duality batttle sophia vs demiurge.md.tmp",
+    "boomerang/anti_minority_propadna.md",
+    "Ref/tfTb.md",
+    "Ref/tfKthB.md",
+    "Ref/tfKthE.md",
+    "Ref/Qtf.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Free will/No free will in quran.sync-conflict-20241128-073714-RXT2P7M.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Free will/~syncthing~No free will in quran.md.tmp",
+    "Ref/jawzi.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/demiurgic_theodicy/Salafis as the new ashkenazi jew.md",
+    "Ref/Pasted image 20241128002518.png",
     "Ref/pnn.md",
-    "Ref/Asv.md",
-    "Ref/aps.md",
-    "Ref/RV.sync-conflict-20241124-193627-AFLIAW3.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk4.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/shirk.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/~syncthing~jinn.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shirk/~syncthing~shirk4.md.tmp",
+    "boomerang/~syncthing~bal.md.tmp",
     "Ref/~syncthing~RV.sync-conflict-20241124-193627-AFLIAW3.md.tmp",
-    "Ref/vlmk.RY.md",
-    "Ref/MB.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ru'ya/Untitled.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Samkhya_kabbala_ghuli.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nafs_atma.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/theogony.md",
-    "Ref/mtsP.md",
     "Ref/~syncthing~mtsP.md.tmp",
-    "Ref/~syncthing~mtsP.sync-conflict-20241122-015137-AFLIAW3.md.tmp",
-    "Ref/~syncthing~mtsP.sync-conflict-20241122-015037-AFLIAW3.md.tmp",
-    "Ref/~syncthing~mtsP.sync-conflict-20241122-014927-AFLIAW3.md.tmp",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/nuh/~syncthing~nuh_utnapishtim_manu.md.tmp",
-    "boomerang/~syncthing~randos.md.tmp",
-    "Ref/~syncthing~gilg.md.tmp",
-    "Ref/~syncthing~shurup.md.tmp",
-    "Ref/~syncthing~SpB.md.tmp",
     "boomerang/bd_army_lying_about_utsab_mandal_age.jpg",
     "boomerang/bd army harassing teen haircut.png",
     "madaripuria_genz_khil2.png",

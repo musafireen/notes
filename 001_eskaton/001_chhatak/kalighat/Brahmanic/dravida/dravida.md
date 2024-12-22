@@ -8,20 +8,82 @@
 மதுரை maturai
 ## ettuttokai
 எட்டுத்தொகை Eṭṭuttokai অষ্টমালা 
+எட்டு Eṭṭu
+தொகை tokai মালা
 
 From 3rd cankam (of 3)
+
+கலித்தொகை, kalittokai শিক্ষামালা
+கலித் শিক্ষা
+
+பாலை pālai দুগ্ধ
+முல்லை mullai মুল্লৈ
+நெய்தல் neytal বুনন
+குறிஞ்சி kuṟiñci স্মরতু
+மருதம் marutam মরুত
+திணை tiṇai বিভাগ/স্থান?
+வெட்சி veṭci ?ফুল
+
+குறுந்தொகை – Kuṟuntokai ক্ষুদ্রকমালা
+குறுந் Kuṟun ক্ষুদ্রক
+
+நற்றிணை – Naṟṟiṇai ইতিহাস
+
+அகநானூறு, Akanāṉūṟu চতুঃশত আন্ত্য
+அகம் akam অন্তঃ
+நானூறு nāṉūṟu চতুঃশত
+நான்கு Nāṉku চতুঃ
+புறநானூறு Puṟanāṉūṟu চতুঃশত বাহ্য
+புறம் puṟam বহিঃ 
 ### akam
 அகம் akam অন্তঃ
 ### puram
 புறம் puṟam বহিঃ 
 #### patiruppattu
 பதிற்றுப்பத்து Patiṟṟuppattu দশদশ
+பத்து pattu দশ
 #### paripatal
 பரிபாடல் Paripāṭal সমতা 
 ## pattuppattu
 பத்துப்பாட்டு Pattuppāṭṭu দশগীতি
+பாட்டு pāṭṭu গীতি
 
 From 3rd cankam (of 3)
+
+குறிஞ்சிப்பாட்டு kuṟiñcippāṭṭu 
+
+மலைபடுகடாம்  malaipaṭukaṭām মলয়শ্রেণী 
+படுகடாம் paṭukaṭām শ্রেণী 
+
+மதுரைக்காஞ்சி maturaikkāñci ???মথুরাকাঞ্চি
+மதுரை maturai ???মথুরা
+காஞ்சி kāñci ???কাঞ্চি
+
+நெடுநல்வாடை neṭunalvāṭai শীত
+நெடு neṭu দীর্ঘ 
+நல்ல nalla সু
+வாடை vāṭai বাম/উত্তর
+
+முல்லைப்பாட்டு mullaippāṭṭu ???
+
+பட்டினப்பாலை paṭṭiṉappālai পট্টিদুগ্ধ 
+பட்டினம் paṭṭiṉam পট্টি
+
+பெரும்பாணாற்றுப்படை perumpāṇāṟṟuppaṭai ???
+பெரு peru বৃহৎ
+பாண் Pāṇ ছন্দ
+அற்று Āṟṟu আর
+படை Paṭai প্রদান 
+
+பொருநராற்றுப்படை porunarāṟṟuppaṭai
+பொருநர் porunar নর্তক 
+
+சிறுபாணாற்றுப்படை ciṟupāṇāṟṟuppaṭai 
+சிறுபான் ciṟupāṇ ক্ষুদ্রক 
+
+திருமுருகாற்றுப்படை tirumurukāṟṟuppaṭai 
+திரு tiru শ্রী 
+முருகு muruku কুমার 
 ## tolkappiyam
 தொல்காப்பியம் Tolkāppiyam 
 தொல் tol প্রাচীন 
@@ -32,14 +94,6 @@ From 2nd (of 3) camkams
 
 அகப்பொருள் akapporul বিষয় 
 சூத்திரம் cūttiram সূত্র 
-
-திணை tiṇai বিভাগ/স্থান?
- veṭci
-குறிஞ்சி kuṟiñci স্মরতু
-நெய்தல் neytal বুনন
-முல்லை mullai মুল্লৈ
-மருதம் marutam মরুত
-பாலை pālai দুগ্ধ
 
 # sramana
 ## patiren-kirkkanakku

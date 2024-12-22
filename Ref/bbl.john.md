@@ -60,6 +60,11 @@ And there was given unto him a mouth speaking great things and blasphemies; and 
 ουτοι εισιν οι μετα γυναικων ουκ εμολυνθησαν παρθενοι γαρ εισιν ουτοι εισιν οι ακολουθουντες τω αρνιω οπου αν υπαγη ουτοι ηγορασθησαν απο των ανθρωπων απαρχη τω θεω και τω αρνιω
 
 These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, [being] the firstfruits unto God and to the Lamb.
+## c16
+### 16
+και συνηγαγεν αυτους εις τον τοπον τον καλουμενον εβραιστι αρμαγεδδων
+
+And he gathered them together into a place called in the Hebrew tongue Armageddon.
 ## c20
 ### 1
 και ειδον αγγελον καταβαινοντα εκ του ουρανου εχοντα την κλειδα της αβυσσου και αλυσιν μεγαλην επι την χειρα αυτου

@@ -81,7 +81,22 @@ Zebulun and Naphtali [were] a people [that] jeoparded their lives unto the death
 בָּ֤אוּ מְלָכִים֙ נִלְחָ֔מוּ אָ֤ז נִלְחֲמוּ֙ מַלְכֵ֣י כְנַ֔עַן בְּתַעְנַ֖ךְ עַל־מֵ֣י מְגִדּ֑וֹ בֶּ֥צַע כֶּ֖סֶף לֹ֥א לָקָֽחוּ ׃
 
 The kings came [and] fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money.
+## c19
+### 22
+הֵמָּה֮ מֵיטִיבִ֣ים אֶת־לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי־בְלִיַּ֗עַל נָסַ֙בּוּ֙ אֶת־הַבַּ֔יִת מִֽתְדַּפְּקִ֖ים עַל־הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל־הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙ לֵאמֹ֔ר הוֹצֵ֗א אֶת־הָאִ֛ישׁ אֲשֶׁר־בָּ֥א אֶל־בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ ׃
+
+[Now] as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, [and] beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him.
+## c20
+### 13
+וְעַתָּ֡ה תְּנוּ֩ אֶת־הָאֲנָשִׁ֨ים בְּנֵֽי־בְלִיַּ֜עַל אֲשֶׁ֤ר בַּגִּבְעָה֙ וּנְמִיתֵ֔ם וּנְבַעֲרָ֥ה רָעָ֖ה מִיִּשְׂרָאֵ֑ל וְלֹ֤א אָבוּ֙ בִּנְיָמִ֔ן לִשְׁמֹ֕עַ בְּק֖וֹל אֲחֵיהֶ֥ם בְּנֵֽי־יִשְׂרָאֵֽל ׃
+
+Now therefore deliver [us] the men, the children of Belial, which [are] in Gibeah, that we may put them to death, and put away evil from Israel. But the children of Benjamin would not hearken to the voice of their brethren the children of Israel:
 # 1_samuel
+## c2
+### 12
+וּבְנֵ֥י עֵלִ֖י בְּנֵ֣י בְלִיָּ֑עַל לֹ֥א יָדְע֖וּ אֶת־יְהוָֽה ׃
+
+Now the sons of Eli [were] sons of Belial; they knew not the LORD.
 ## c15
 ### 11
 נִחַ֗מְתִּי כִּֽי־הִמְלַ֤כְתִּי אֶת־שָׁאוּל֙ לְמֶ֔לֶךְ כִּֽי־שָׁב֙ מֵאַֽחֲרַ֔י וְאֶת־דְּבָרַ֖י לֹ֣א הֵקִ֑ים וַיִּ֙חַר֙ לִשְׁמוּאֵ֔ל וַיִּזְעַ֥ק אֶל־יְהוָ֖ה כָּל־הַלָּֽיְלָה ׃

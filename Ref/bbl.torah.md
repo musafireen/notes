@@ -77,6 +77,22 @@ So he drove out the man; and he placed at the east of the garden of Eden Cherubi
 וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא־נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג ׃
 
 And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand [was] leprous as snow.
+#### 10
+וַיֹּ֖אמֶר מֶ֣ה עָשִׂ֑יתָ ק֚וֹל דְּמֵ֣י אָחִ֔יךָ צֹעֲקִ֥ים אֵלַ֖י מִן־הָֽאֲדָמָֽה ׃
+
+And he said, What hast thou done ? the voice of thy brother´s blood crieth unto me from the ground.
+#### 11
+וַתִּשָּׁחֵ֥ת הָאָ֖רֶץ לִפְנֵ֣י הָֽאֱלֹהִ֑ים וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס ׃
+
+The earth also was corrupt before God, and the earth was filled with violence.
+#### 12
+וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָאָ֖רֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה כִּֽי־הִשְׁחִ֧ית כָּל־בָּשָׂ֛ר אֶת־דַּרְכּ֖וֹ עַל־הָאָֽרֶץ ׃ ס
+
+And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.
+#### 13
+וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל־בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי־מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת־הָאָֽרֶץ ׃
+
+And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.
 ## c6
 #### 5
 וַיַּ֣רְא יְהוָ֔ה כִּ֥י רַבָּ֛ה רָעַ֥ת הָאָדָ֖ם בָּאָ֑רֶץ וְכָל־יֵ֙צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ רַ֥ק רַ֖ע כָּל־הַיּֽוֹם ׃
@@ -582,7 +598,16 @@ Your eyes have seen what the LORD did because of Baalpeor: for all the men that 
 שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד
 
 Hear, O Israel: The LORD our God [is] one LORD:
+## c13
+### 13
+[[#c13#14]]
+כִּֽי־תִשְׁמַ֞ע בְּאַחַ֣ת עָרֶ֗יךָ אֲשֶׁר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ נֹתֵ֥ן לְךָ֛ לָשֶׁ֥בֶת שָׁ֖ם לֵאמֹֽר ׃
 
+[Certain] men, the children of Belial, are gone out from among you, and have withdrawn the inhabitants of their city, saying, Let us go and serve other gods, which ye have not known;
+### 14
+יָצְא֞וּ אֲנָשִׁ֤ים בְּנֵֽי־בְלִיַּ֙עַל֙ מִקִּרְבֶּ֔ךָ וַיַּדִּ֛יחוּ אֶת־יֹשְׁבֵ֥י עִירָ֖ם לֵאמֹ֑ר נֵלְכָ֗ה וְנַעַבְדָ֛ה אֱלֹהִ֥ים אֲחֵרִ֖ים אֲשֶׁ֥ר לֹא־יְדַעְתֶּֽם ׃
+
+Then shalt thou enquire, and make search, and ask diligently; and, behold, [if it be] truth, [and] the thing certain, [that] such abomination is wrought among you;
 ## c21
 #### 3
 וְהָיָ֣ה הָעִ֔יר הַקְּרֹבָ֖ה אֶל־הֶחָלָ֑ל וְלָֽקְח֡וּ זִקְנֵי֩ הָעִ֨יר הַהִ֜וא עֶגְלַ֣ת בָּקָ֗ר אֲשֶׁ֤ר לֹֽא־עֻבַּד֙ בָּ֔הּ אֲשֶׁ֥ר לֹא־מָשְׁכָ֖ה בְּעֹֽל ׃

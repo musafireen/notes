@@ -133,7 +133,54 @@ For it became the Creator of the universe, after laying down laws for its govern
 Καὶ ταῦτά φημι οὐδέπω περὶ τοῦ Ἰησοῦ ἐξετάζων ἀλλ' ἔτι Μωϋσέα, τὸν πολλῷ ἐλάττονα κυρίου, δεικνύς, ὡς ὁ λόγος παραστήσει, πολλῷ διαφέροντα τῶν σοφῶν σου ποιητῶν καὶ φιλοσόφων.
 
 And this I maintain, having as yet entered into no investigation regarding Jesus, but still demonstrating that Moses, who is far inferior to the Lord, is, as the Discourse will show, greatly superior to your wise poets and philosophers.
+### c23
+Ἑξῆς τούτοις φησὶν ὁ Κέλσος ὅτι _τῷ ἡγησαμένῳ σφῶν \[ἑπόμενοι Μωϋσεῖ αἰπόλοι καὶ ποιμένες\], ἀγροίκοις ἀπάταις ψυχαγωγηθέντες_ \[_ἕνα ἐνόμισαν εἶναι θεόν._ 
 
+After this, Celsus next asserts that "Those herdsmen and shepherds who followed Moses as their leader, had their minds deluded by vulgar deceits, and so supposed that there was one God." 
+
+Δεικνύτω\] τοίνυν πῶς, _αἰπόλων καὶ ποιμένων ἀλόγως,_ ὡς οἴεται, _ἀποστάντων τοῦ σέβειν θεούς,_ αὐτὸς δύναται παραστῆσαι \[τὸ πλῆθος τῶν καθ' Ἕλληνας θεῶν\] ἢ τοὺς λοιποὺς βαρβάρους. 
+
+Let him show, then, how, after this irrational departure, as he regards it, of the herdsmen and shepherds from the worship of many gods, he himself is able to establish the multiplicity of deities that are found amongst the Greeks, or among those other nations that are called Barbarian. 
+
+[Δεικνύτω τοίνυν ὑπόστασιν καὶ οὐσίαν Μνημοσύνης γεννώσης ἀπὸ Διὸς τὰς Μούσας, ἢ Θέμιδος τὰς Ὥρας, 
+
+Let him establish, therefore, the existence of Mnemosyne, the mother of the Muses by Zeus; or of Themis, the parent of the Hours; 
+
+ἢ τὰς Χάριτας ἀεὶ γυμνὰς παραστησάτω δύνασθαι κατ' οὐσίαν ὑφεστηκέναι.] 
+
+or let him prove that the ever naked Graces can have a real, substantial existence. 
+
+Ἀλλ' οὐ δυνήσεται τὰ Ἑλλήνων ἀναπλάσματα σωματοποιεῖσθαι δοκοῦντα ἀπὸ τῶν πραγμάτων δεικνύναι θεούς. 
+
+But he will not be able to show, from any actions of theirs, that these fictitious representations of the Greeks, which have the appearance of being invested with bodies, are (really) gods. 
+
+Τί γὰρ μᾶλλον οἱ Ἑλλήνων μῦθοι περὶ θεῶν ἀληθεῖς ἤ, φέρ' εἰπεῖν, οἱ Αἰγυπτίων, οὐκ εἰδότων τῇ σφῶν διαλέκτῳ \[Μνημοσύνην μητέρα Μουσῶν ἐννέα οὐδὲ Θέμιν Ὡρῶν οὐδὲ Εὐρυνόμην μαῖαν τῶν Χαρίτων\] οὐδὲ τὰ λοιπὰ ὀνόματα αὐτῶν; 
+
+And why should the fables of the Greeks regarding the gods be true, any more than those of the Egyptians for example, who in their language know nothing of a Mnemosyne, mother of the nine Muses; nor of a Themis, parent of the Hours; nor of a Euphrosyne, one of the Graces; nor of any other of these names? 
+
+\[Πόσῳ οὖν ἐνεργέστερον\] καὶ πάντων τούτων τῶν ἀναπλασμάτων βέλτιον τὸ ἐκ τῶν ὁρωμένων \[πειθόμενον τοῖς κατὰ τὴν εὐταξίαν τοῦ κόσμου σέβειν τὸν δημιουργὸν αὐτοῦ ἑνὸς ὄντος ἕνα καὶ συμπνέοντος αὐτοῦ ὅλῳ ἑαυτῷ καὶ διὰ τοῦτο μὴ δυναμένῳ ὑπὸ πολλῶν δημιουργῶν γεγονέναι, 
+
+How much more manifest (and how much better than all these inventions!) is it that, convinced by what we see, in the admirable order of the world, we should worship the Maker of it as the one Author of one effect, and which, as being wholly in harmony with itself, cannot on that account have been the work of many makers; 
+
+ὡς οὐδ' ὑπὸ πολλῶν ψυχῶν συνέχεσθαι ὅλον τὸν οὐρανὸν κινουσῶν· ἀρκεῖ γὰρ μία ἡ φέρουσα ὅλην τὴν ἀπλανῆ ἀπὸ ἀνατολῶν ἐπὶ δυσμὰς καὶ ἐμπεριλαβοῦσα ἔνδον πάντα, ὧν χρείαν ἔχει ὁ κόσμος, τὰ μὴ αὐτοτελῆ. 
+
+and that we should believe that the whole heaven is not held together by the movements of many souls, for one is enough, which bears the whole of the non-wandering sphere from east to west, and embraces within it all things which the world requires, and which are not self-existing! 
+
+Πάντα γὰρ μέρη κόσμου, οὐδὲν δὲ μέρος ὅλου θεός· 
+
+For all are parts of the world, while God is no part of the whole. 
+
+δεῖ γὰρ εἶναι τὸν θεὸν μὴ ἀτελῆ, ὥσπερ ἐστὶ τὸ μέρος ἀτελές. 
+
+But God cannot be imperfect, as a part is imperfect. 
+
+Τάχα δὲ βαθύτερος λόγος δείξει ὅτι κυρίως θεὸς ὥσπερ οὐκ ἔστι μέρος οὕτως οὐδὲ ὅλον, ἐπεὶ τὸ ὅλον ἐκ μερῶν ἐστι· 
+
+And perhaps profounder consideration will show, that as God is not a part, so neither is He properly the whole, since the whole is composed of parts; 
+
+καὶ οὐχ αἱρεῖ λόγος παραδέξασθαι τὸν ἐπὶ πᾶσι θεὸν εἶναι ἐκ μερῶν, ὧν ἕκαστον οὐ δύναται ὅπερ τὰ ἄλλα μέρη.\]
+
+and reason will not allow us to believe that the God who is over all is composed of parts, each one of which cannot do what all the other parts, can.
 ## b4
 ### c10
 

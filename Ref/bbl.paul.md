@@ -169,6 +169,46 @@ Charity suffereth long, [and] is kind; charity envieth not; charity vaunteth not
 Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
 
 # 2 cor
+## c6
+### 15
+τις δε συμφωνησις χριστω προς [βελιαρ] [βελιαλ] η τις μερις πιστω μετα απιστου
+
+And what concord hath Christ with Belial ? or what part hath he that believeth with an infidel ?
+## c12
+### 1-12
+#### 2
+οιδα ανθρωπον εν χριστω προ ετων δεκατεσσαρων ειτε εν σωματι ουκ οιδα ειτε εκτος του σωματος ουκ οιδα ο θεος οιδεν αρπαγεντα τον τοιουτον εως τριτου ουρανου
+
+I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth; ) such an one caught up to the third heaven.
+#### 3
+και οιδα τον τοιουτον ανθρωπον ειτε εν σωματι ειτε εκτος του σωματος ουκ οιδα ο θεος οιδεν
+
+And I knew such a man, whether in the body, or out of the body, I cannot tell: God knoweth; )
+#### 4
+οτι ηρπαγη εις τον παραδεισον και ηκουσεν αρρητα ρηματα α ουκ εξον ανθρωπω λαλησαι
+
+How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.
+#### 7
+και τη υπερβολη των αποκαλυψεων ινα μη υπεραιρωμαι εδοθη μοι σκολοψ τη σαρκι αγγελος σαταν ινα με κολαφιζη ινα μη υπεραιρωμαι
+
+And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
+#### 8
+υπερ τουτου τρις τον κυριον παρεκαλεσα ινα αποστη απ εμου
+
+For this thing I besought the Lord thrice, that it might depart from me.
+#### 9
+και ειρηκεν μοι αρκει σοι η χαρις μου η γαρ δυναμις μου εν ασθενεια τελειουται ηδιστα ουν μαλλον καυχησομαι εν ταις ασθενειαις μου ινα επισκηνωση επ εμε η δυναμις του χριστου
+
+And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
+#### 10
+διο ευδοκω εν ασθενειαις εν υβρεσιν εν αναγκαις εν διωγμοις εν στενοχωριαις υπερ χριστου οταν γαρ ασθενω τοτε δυνατος ειμι
+
+Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ´s sake: for when I am weak, then am I strong.
+#### 12
+τα μεν σημεια του αποστολου κατειργασθη εν υμιν εν παση υπομονη εν σημειοις και τερασιν και δυναμεσιν
+
+Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.
+### ?
 # gal
 ## c3
 ### 13
@@ -199,6 +239,15 @@ Envyings, murders, drunkenness, revellings, and such like: of the which I tell y
 For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.
 # 1 thes
 # philp
+## c3
+### 15-21
+#### 20
+ημων γαρ το πολιτευμα εν ουρανοις υπαρχει εξ ου [ου] και σωτηρα απεκδεχομεθα κυριον ιησουν χριστον
 
+For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:
+#### 21
+ος μετασχηματισει το σωμα της ταπεινωσεως ημων εις το γενεσθαι αυτο συμμορφον τω σωματι της δοξης αυτου κατα την ενεργειαν του δυνασθαι αυτον και υποταξαι εαυτω τα παντα
+
+Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.
 # philmn
 

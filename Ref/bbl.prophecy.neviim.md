@@ -139,6 +139,14 @@ https://biblehub.com/lexicon/ezekiel/1-26.htm
 הָיֹ֣ה הָיָ֣ה דְבַר־יְ֠הוָה אֶל־יְחֶזְקֵ֨אל בֶּן־בּוּזִ֧י הַכֹּהֵ֛ן בְּאֶ֥רֶץ כַּשְׂדִּ֖ים עַל־נְהַר־כְּבָ֑ר וַתְּהִ֥י עָלָ֛יו שָׁ֖ם יַד־יְהוָֽה ׃
 
 The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.
+### 4
+וָאֵ֡רֶא וְהִנֵּה֩ ר֨וּחַ סְעָרָ֜ה בָּאָ֣ה מִן־הַצָּפ֗וֹן עָנָ֤ן גָּדוֹל֙ וְאֵ֣שׁ מִתְלַקַּ֔חַת וְנֹ֥גַֽהּ ל֖וֹ סָבִ֑יב וּמִ֨תּוֹכָ֔הּ כְּעֵ֥ין הַחַשְׁמַ֖ל מִתּ֥וֹךְ הָאֵֽשׁ ׃
+
+And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness [was] about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.
+### 5
+וּמִ֨תּוֹכָ֔הּ דְּמ֖וּת אַרְבַּ֣ע חַיּ֑וֹת וְזֶה֙ מַרְאֵֽיהֶ֔ן דְּמ֥וּת אָדָ֖ם לָהֵֽנָּה ׃
+
+Also out of the midst thereof [came] the likeness of four living creatures. And this [was] their appearance; they had the likeness of a man.
 ### 6
 וְאַרְבָּעָ֥ה פָנִ֖ים לְאֶחָ֑ת וְאַרְבַּ֥ע כְּנָפַ֖יִם לְאַחַ֥ת לָהֶֽם ׃
 
@@ -159,6 +167,18 @@ Their wings [were] joined one to another; they turned not when they went; they w
 וּדְמ֣וּת פְּנֵיהֶם֮ פְּנֵ֣י אָדָם֒ וּפְנֵ֨י אַרְיֵ֤ה אֶל־הַיָּמִין֙ לְאַרְבַּעְתָּ֔ם וּפְנֵי־שׁ֥וֹר מֵֽהַשְּׂמֹ֖אול לְאַרְבַּעְתָּ֑ן וּפְנֵי־נֶ֖שֶׁר לְאַרְבַּעְתָּֽן ׃
 
 As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.
+### 13
+וּדְמ֨וּת הַחַיּ֜וֹת מַרְאֵיהֶ֣ם כְּגַחֲלֵי־אֵ֗שׁ בֹּֽעֲרוֹת֙ כְּמַרְאֵ֣ה הַלַּפִּדִ֔ים הִ֕יא מִתְהַלֶּ֖כֶת בֵּ֣ין הַחַיּ֑וֹת וְנֹ֣גַהּ לָאֵ֔שׁ וּמִן־הָאֵ֖שׁ יוֹצֵ֥א בָרָֽק ׃
+
+As for the likeness of the living creatures, their appearance [was] like burning coals of fire, [and] like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.
+### 15
+וָאֵ֖רֶא הַחַיּ֑וֹת וְהִנֵּה֩ אוֹפַ֨ן אֶחָ֥ד בָּאָ֛רֶץ אֵ֥צֶל הַחַיּ֖וֹת לְאַרְבַּ֥עַת פָּנָֽיו ׃
+
+Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.
+### 16
+מַרְאֵ֨ה הָאוֹפַנִּ֤ים וּמַעֲשֵׂיהֶם֙ כְּעֵ֣ין תַּרְשִׁ֔ישׁ וּדְמ֥וּת אֶחָ֖ד לְאַרְבַּעְתָּ֑ן וּמַרְאֵיהֶם֙ וּמַ֣עֲשֵׂיהֶ֔ם כַּאֲשֶׁ֛ר יִהְיֶ֥ה הָאוֹפַ֖ן בְּת֥וֹךְ הָאוֹפָֽן ׃
+
+The appearance of the wheels and their work [was] like unto the colour of a beryl: and they four had one likeness: and their appearance and their work [was] as it were a wheel in the middle of a wheel.
 ### 26
 וּמִמַּ֗עַל לָרָקִ֙יעַ֙ אֲשֶׁ֣ר עַל־רֹאשָׁ֔ם כְּמַרְאֵ֥ה אֶֽבֶן־סַפִּ֖יר דְּמ֣וּת כִּסֵּ֑א וְעַל֙ דְּמ֣וּת הַכִּסֵּ֔א דְּמ֞וּת כְּמַרְאֵ֥ה אָדָ֛ם עָלָ֖יו מִלְמָֽעְלָה ׃
 
