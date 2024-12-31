@@ -8,9 +8,9 @@
 
 ![[bbl.history.neviim#1_kings#c11#25]]
 
-![[Qsorted#2:102]]
+![[Qrsi#2:102]]
 
-![[Qsorted#38:34]]
+![[Qrsi#38:34]]
 
 ![[bbl.history.ketuvim#1_chronicles#c21#1]]
 

@@ -50,21 +50,26 @@ Depart, all ye profane, and close the doors.’ ”
 
 ### c7
 
-Καὶ αὐτοῦ δὲ τοῦ Πυθαγορικοῦ φιλοσόφου,
-
-b
-
-τοῦ Νουμηνίου λέγω , ἀπὸ τοῦ πρώτου Περὶ τἀγαθοῦ τάδε παραθήσομαι
+Καὶ αὐτοῦ δὲ τοῦ Πυθαγορικοῦ φιλοσόφου, b τοῦ Νουμηνίου λέγω , ἀπὸ τοῦ πρώτου Περὶ τἀγαθοῦ τάδε παραθήσομαι
 
 ALSO from the Pythagorean philosopher himself, I mean Numenius, I will quote as follows from his first book On the Good:
 
-“ Εἰς δὲ τοῦτο δεήσει εἰπόντα καὶ σημηνάμενον
+“ Εἰς δὲ τοῦτο δεήσει εἰπόντα καὶ σημηνάμενον c
+ταῖς μαρτυρίαις ταῖς Πλάτωνος ἀναχωρήσασθαι καὶ ξυνδήσασθαι τοῖς λόγοις τοῦ Πυθαγόρου , 
 
-c
-ταῖς μαρτυρίαις ταῖς Πλάτωνος ἀναχωρήσασθαι καὶ ξυνδήσασθαι τοῖς λόγοις τοῦ Πυθαγόρου , ἐρικαλἐσασθαι
-δὲ τὰ ἔθνη τὰ εὐδοκιμοῦντα, προσφερόμενον αὐτῶν τὰς τελετὰς καὶ τὰ δόγματα, τάς τε ἱδρύσεις συντελουμένας Πλάτωνι ὁμολογουμένως, ὁπόσας Βσαχμᾶνες καὶ Ἰουδαῖοι καὶ Μάγοι καὶ Αἰγύπτιοι διέ- θεντο
+[NUMENIUS] 8 'But when one has spoken upon this point, and sealed it by the testimonies of Plato, it will be necessary to go back and connect it with the precepts of Pythagoras, 
 
-[NUMENIUS] 8 'But when one has spoken upon this point, and sealed it by the testimonies of Plato, it will be necessary to go back and connect it with the precepts of Pythagoras, and to appeal to the nations of good repute, bringing forward their rites and doctrines, and their institutions which are formed in agreement with those of Plato, all that the Brachmans, and Jews, and Magi, and Egyptians arranged.'
+ἐρικαλἐσασθαι δὲ τὰ ἔθνη τὰ εὐδοκιμοῦντα, 
+
+and to appeal to the nations of good repute, 
+
+προσφερόμενον αὐτῶν τὰς τελετὰς καὶ τὰ δόγματα, τάς τε ἱδρύσεις συντελουμένας Πλάτωνι ὁμολογουμένως, 
+
+bringing forward their rites and doctrines, and their institutions which are formed in agreement with those of Plato, 
+
+ὁπόσας Βσαχμᾶνες καὶ Ἰουδαῖοι καὶ Μάγοι καὶ Αἰγύπτιοι διέθεντο
+
+all that the Brachmans, and Jews, and Magi, and Egyptians arranged.'
 
 Ταῦτα μὲν οὖν περὶ τῶνδε.
 
@@ -72,10 +77,7 @@ So much then on these points.
 
 ### c8
 1
-Καὶ ἐν τῇ τρίτῃ δὲ βίβλῳ Μώσεως ὁ αὐτὸς
-
-d
-τάδε λέγων μνημονεύει
+Καὶ ἐν τῇ τρίτῃ δὲ βίβλῳ Μώσεως ὁ αὐτὸς d τάδε λέγων μνημονεύει
 
 ALSO in his third book the same author makes mention of Moses, speaking as follows: 9
 
@@ -91,10 +93,7 @@ ALSO in his third book the same author makes mention of Moses, speaking as follo
 'So then these were the men chosen by the people of Egypt as fit to stand beside Musaeus, who led forth the Jews, a man who was most powerful in prayer to God; and of the plagues which Musaeus brought upon Egypt, these men showed themselves able to disperse the most violent.'
 
 3
-Διὰ δὴ τούτων ὁ Νουμήνιος καὶ τοῖς ὑπὸ
-
-412
-Μώσεως ἐπιIελ͂ῖ-σθ̀εῖσι παραδόξοις θαύμασι καὶ αὐτῷ δὲ ὡς θεοφιλεῖ γενομένῳ μαρτυρεῖ.
+Διὰ δὴ τούτων ὁ Νουμήνιος καὶ τοῖς ὑπὸ 412 Μώσεως ἐπιIελ͂ῖ-σθ̀εῖσι παραδόξοις θαύμασι καὶ αὐτῷ δὲ ὡς θεοφιλεῖ γενομένῳ μαρτυρεῖ.
 
 Now by these words Numenius bears witness both to the marvellous wonders performed by Moses, and to Moses himself as having been beloved of God.
 
@@ -102,10 +101,7 @@ Now by these words Numenius bears witness both to the marvellous wonders perform
 
 1
 Συνᾴδει δὲ τούτοις καὶ ὁ Πολυΐστωρ Ἀλέξανδρος, ὢν καὶ πολυμαθὴς ἀνὴρ , τοῖς τε
-μὴ πάρεργον τὸν ἀπὸ παιδείας καρπὸν πεποιημένοις
-
-245
-Ἔλλησι γνωριμώτατος, ὃς ἐν τῇ Περὶ Ἰουδαίων συντάξει τὰ κατὰ τὸν Ἀβραὰμ τοῦτον ἱστορεῖ κατὰ λέξιν τον τρόπον
+μὴ πάρεργον τὸν ἀπὸ παιδείας καρπὸν πεποιημένοις 245 Ἔλλησι γνωριμώτατος, ὃς ἐν τῇ Περὶ Ἰουδαίων συντάξει τὰ κατὰ τὸν Ἀβραὰμ τοῦτον ἱστορεῖ κατὰ λέξιν τον τρόπον
 
 AND with this agrees also Alexander Polyhistor, a man of great intellect and much learning, and very well known to those Greeks who have gathered the fruits of education in no perfunctory manner: for in his compilation, Concerning the Jews, he records the history of this man Abraham in the following manner word for word:
 
@@ -480,6 +476,482 @@ d
 ἐννέα.”
 
 'But when the Egyptians went in with them and were pursuing them, a fire, it is said, shone out upon them from the front, and the sea overflowed the path again, and the Egyptians were all destroyed by the fire and the flood: but the Jews having escaped this danger spent forty years in the wilderness, God raining down meal for them like millet, similar in colour to snow. And Moses they say was tall and ruddy, with long white hair, and dignified: and he performed these deeds when he was about eighty-nine years old.'
+## b11
+### c9
+Μώσεως ἐν ταῖς ἱεροφαντίαις χρησμὸν ἐκ
+
+308
+d
+προσώπου τοῦ θεοῦ φήσαντος “ἐγώ εἰμι ὁ ὤν. οὕτως ἐρεῖς τοῖς υἱοῖς Ἰσραὴλ, ὁ ὢν ἀπέσταλκέ με
+πρὸς ὑμᾶς”, παραθεμένου δὲ καὶ τὸν θεὸν ἄντικρυς μόνον ὄντα, καὶ τῆσδε κυρίως καὶ ἁρμοδίως ἠξιωμένον τῆς κλήσεως ἀποφηναμένου·
+2
+πάλιν τε αὖ Σολομῶνος περὶ τῆς τῶν αἰσθητῶν καὶ σωματικῶν γενέσεως τε καὶ φθορᾶς ἀνειπόντος “τί τὸ γεγονός ;
+
+524
+
+αὐτὸ τὸ γενησόμενον. καὶ τί τὸ πεποιημένον; αὐτὸ τὸ ποιηθησόμενον. καὶ οὐκ ἔστι πᾶν πρόσφατον ὑπὸ τὸν ἥλιον, ὃ λαλήσει καὶ ἐρεῖ, ἴδε τοῦτο καινόν ἐστιν· ἤδη γέγονεν ἐν τοῖς αἰῶσι τοῖς γενομένοις ἀπὸ ἔμπροσθεν ἡμῶν·”
+3
+τούτοις δὲ καὶ ἡμῶν
+ἀκολούθως εἰς δύο τὸ πὰν διαιρούντων, εἴς τε νοητὸν καὶ αἰσθητὸν, καὶ τὸ μὲν νοητὸν ἀσώματον καὶ λογικὸν τὴν φύσιν, ἄφθαρτόν τε καὶ ἀθάνατον εἶναι ὁριζομένων, τὸ δ αἰσθητὸν ἐν ῥύσει καὶ φθορᾷ, μεταβολῇ τε καὶ τροπῇ τῆς οὐσίας ὑπάρχειν· πάν-
+των δ ἐπὶ μίαν ἀρχὴν ἀνακεφαλαιουμένων, ἴν τε
+
+b
+εἶναι τὸ ἀγένητον καὶ τὸ κυρίως καὶ ἀληθῶς ὂν δογματιζόντων , τὸ πάντων ἀσωμάτων τε καὶ σωμά-
+v.2.p.22
+τῶν αἴτιον·
+4
+θέα τίνα τρόπον οὐ μόνον τὴν διάνοιαν, ἀλλὰ καὶ τὰς λέξεις αὐτὰς καὶ τὰ ῥήματα τῆς Εβραίων γραφῆς παραξέσας ὁ Πλάτων’ ἐξοικειοῦται τὸ δόγμα, πλατύτερον ὧδέ πη διασαφῶν
+
+Τί τὸ ὂν ἀεὶ, γένεσιν δὲ οὐκ ἔχον; καὶ τί τὸ
+γινόμενον μὲν ἀεὶ, ὂν δὲ οὐδέποτε; τὸ μὲν δὴ νοήσει μετὰ λόγου περιληπτὸν ἀεὶ κατὰ τὰ αὐτὰ ὂν, τὸ δὲ αἰσθήσει ἀλόγῳ δοξαστὸν γινόμενον καὶ ἀπολλύμενον,
+
+c
+ὄντως δὲ οὐδέποτε ὄν.”
+5
+Ἀρ’ οὐ σαφῶς πέφηνεν ὁ θαυμάσιος τὸ μὲν
+παρὰ Μωσεῖ φῆσαν λόγιον ἐγώ εἰμι ὁ ὤν” μεταποιήσας διὰ τοῦ τί τὸ ὂν ἀεὶ, γένεσιν δὲ οὐκ ἔχον; καὶ τοῦτό γε λευκότερον διασαφήσας ἐν τῷ φάναι, μηδ’ ἄλλο εἶναι τὸ ὂν ἢ τὸ οὐ σαρκὸς ὀφθαλμοῖς ὁρώμενον, νῷ δὲ καταλαμβανόμενον. ἐρωτήσας γοῦν
+τί τὸ ὂν, αὐτὸς ἑαυτῷ ἀποκρίνεται, λέγων “ τὸ δὴ νοήσει μετὰ λόγου περιληπτὸν ὄν. ”
+
+6
+τὸ δὲ Σολομώντειον
+
+d
+φῆσαν “ τί γεγονός; αὐτὸ τὸ γενησόμενον· καὶ τί τὸ πεποιημένον; αὐτὸ τὸ ποιηθησόμενον·” αὐτοῖς σχεδὸν ῥήμασι διερμηνεύσας δῆλος
+ἂν εἴη λέγων “τὸ δ’ αἰσθήσει ἀλόγῳ δοξαστὸν, γινόμενον καὶ ἀπολλύμενον, ὄντως δὲ οὐδέποτε ὄν. ” οἷς καὶ ἐπιφέρει
+7
+“ Ταῦτα γὰρ πάντα μέρη χρόνου , τὸ ἦν καὶ ἔσται · ἃ δὴ φέροντες λανθάνομεν ἐπὶ τὴν ἀίδιον
+οὐσίαν, οὐκ ὀρθῶς. λέγομεν γὰρ δὴ ὡς ἦν, ἐστί τε καὶ ἔσται. τῇ δὲ τὸ ἔστι μόνον κατὰ τὸν ἀληθῆ λόγον προσήκει · τὸ δὲ ἦν καὶ τὸ ἔσται περὶ τὴν ἐν χρόνῳ γένεσιν οὖσαν πρέπει λέγεσθαι· κινήσεις γάρ ἐστον. τὸ δὲ ἀεὶ κατὰ τὰ αὐτὰ ἔχον ἀκινήτως οὔτε
+[*] [*]
+
+v.2.p.23
+πρεσβύτερον οὔτε νεώτερον προσήκει γίνεσθαι διάχρόνον,
+525
+οὐδὲ γενέσθαι ποτὲ, οὐδὲ γεγονέναι νῦν, οὐδ’ εἰσαῦθις ἔσεσθαι τὸ παράπαν, οὐδ’ ὅσα γένεσις τοῖς ἐν αἰσθήσει φερομένοις προσῆψεν, ἀλλὰ χρόνου ταῦτα,
+αἰῶνα μιμουμένου καὶ κατ’ ἀριθμὸν κυκλουμένου, γέγονεν εἴδη. καὶ πρὸς τούτοις ἔτι τὰ τοιάδε · τὸ γεγονὸς εἷναι γεγονὸς, καὶ τὸ γιγνόμενον εἶναι γιγνόμενον· ἔτι τε τὸ γενησόμενον εἶναι γενησόνενον.”
+8
+Καὶ ἵνα γε μή τις ἡμᾶς παρερμηνεύειν ἡγήσηται
+τὰς τοῦ φιλοσόφου φωνὰς, ὑπομνήμασι χρήσομαι
+
+b
+τῶνδε τῶν λόγων τὴν διάνοιαν ἐκφαίνουσι. πλείους μὲν οὖν εἰς τὴν τούτων ἐπιβεβλήκασι θεωρίαν, ἐμοὶ δ’ ἐξαρκεῖ τανῦν ἀνδρὸς ἐπιφανοῦς Νουμηνίου τοῦ Πυθαγορείου παραθέσθαι λέξεις, ἃς ἐν
+τῷ Περὶ τἀγαθοῦ δευτέρῳ συγγράμματι ὧδέ πη διέξεισιν
+
+MOSES in his declarations of sacred truth uttered a response in the person of God: 'I AM THAT I AM. Thus shalt thou say unto the children of Israel, I AM hath sent me unto you,' 35 and so represented God as the sole absolute Being, and declared Him to have been properly and fitly honoured with this name.
+
+And Solomon again spake concerning the origin and the decay of things corporeal and sensible: 'What is that which hath been? The very thing that shall be. And what is that which hath been done? The very thing that shall be done. And there is nothing new under the sun, whereof a man shall speak and say, See, this is new. It hath been already, in the ages which were before us.' 36
+
+In accordance with them we also divide the All into two parts, that which can be perceived only by the mind, and that which can be perceived by the senses: and the former we define as incorporeal and rational in its nature, and imperishable and immortal; but the sensible as being always in flux and decay, and in change and conversion of its substance. And all things being summed up and referred to one beginning, we hold the doctrine that the uncreate, and that which has proper and true being, is One, which is the cause of all things incorporeal and corporeal.
+
+Now see in what manner Plato, having imitated not only the thought, but also the very expressions and words of the Hebrew Scripture, appropriates the doctrine, explaining it more at large, as follows:
+
+'What is that which always is and has no becoming? And what is that which is always becoming and never is? The former is that which may be comprehended by intelligence combined with reason, being always in the same conditions. The latter is that which may be conjectured by opinion with the help of unreasoning sensation, becoming and perishing but never really being.' 37
+
+Does it not plainly appear that the admirable philosopher has altered the oracle which in Moses declared 'I AM THAT I AM' 38 into 'What is that which always is and has no becoming?' And this he has made still clearer when he says that true 'being' is nothing else than that which is not seen by eyes of flesh, but is conceived by the mind. So having asked, What is 'being'? he makes answer to himself, saying: 'That which may be comprehended by intelligence combined with reason.' 
+
+And as to Solomon's maxim which said, 'What is that which hath been? The very thing that shall be. And what is that which hath been done? The very thing that shall be done,' 39 it must be evident that he translated this almost in the very words, saying, 'But that which may be conjectured by means of irrational sensation is becoming and perishing, but never really "being."' To which he also adds: 40
+
+'For all these are parts of time, the "was" and "shall be"; which we unconsciously but wrongly transfer to the eternal essence. For we say that "It was, and is, and shall be." But to this essence the "is" alone is truly appropriate; and the "was" and the "will be" are proper to be spoken of the generation in time, for they are movements. But to that which is always immovably in the same conditions it belongs not to become either older or younger through time: nor that it ever became, nor has now become, nor will be hereafter at all, nor be subject to any of the conditions which becoming attaches to the things which pass to and fro in sensation: but these are forms of time, imitating eternity and moving by number in a circle. And besides these there are such expressions as the following; what has become is become, and what becomes is becoming, and what will become is about to become.'
+
+And lest any one should suppose that I am misinterpreting the philosopher's words, I will make use of commentaries which explain the meaning of these statements. There are indeed many who have set themselves to the consideration of these matters; but at present it is enough for me to quote the expressions of an illustrious man, Numenius the Pythagorean, which he uses in his second Book Concerning the Good, as follows:
+### c10
+‘‘Φέρε οὖν ὅση δύναμις ἐγγύτατα πρὸς τὸ ὂν
+
+c
+ἀναγόμεθα, καὶ λέγωμεν, τὸ ὂν οὔτε ποτὲ ἦν οὔτε
+309
+ποτὲ μὴ γένηται , ἀλλ’ ἔστιν ἀεὶ ἐν χρόνῳ ὡρισμένῳ,
+τῷ ἐνεστῶτι μόνῳ.
+2
+τοῦτον μὲν οὖν τὸν ἐνεστῶτα εἴ τις ἐθέλει ἀνακαλεῖν αἰῶνα, κἀγὼ συμβούλομαι· τὸν δὲ παρελθόντα χρόνον οἴεσθαι χρὴ ἡμᾶς διαπεφευγότα ἤδη διαπεφευγέναι ἀποδεδρακέναι τε εἰς τὸ εἶναι μηκέτι · ὅ τε αὖ μέλλων ἐστὶ μὲν οὐδέπω,
+
+d
+
+ἐπαγγέλλεται δὲ οἷός τε ἔσεσθαι ἥξειν εἰς τὸ εἷναι.
+3
+οὐκ οὖν εἰκός ἐστιν ἐνί γε τρόπῳ νομίζειν τὸ ὂν ἤτοι μὴ εἷναι, ἢ μηκέτι, ἢ μηδέπω. ὡς τούτου γε οὕτως λεγομένου, ἐν γίνεταί τι ἐν τῷ λόγῳ μέγα ἀδύνατον, εἶναί τε ὁμοῦ ταὐτὸν καὶ μὴ εἶναι.
+
+4
+εἰ
+δὲ οὕτως ἔχει σχολῇ γ’ ἂν ἄλλο τι εἷναι δύναιτο, τοῦ ὄντος αὐτοῦ μὴ ὄντος κατὰ αὐτὸ τὸ ὄν. τὸ γὰρ ὂν ἀίδιόν τε βέβαιόν τε ἐστὶν, ἀεὶ κατὰ ταὐτὸν, οὐδὲ
+
+v.2.p.24
+γέγονε μὲν, ἐφθάρη δὲ, οὐδ’ ἐμεγεθύνετο μὲν, ἐμειώθη δέ· οὐδὲ μὴ ἐγένετό πω πλέον, ἢ ἔλασσον· καὶ μὲν δὴ τά τε ἄλλα καὶ οὐδὲ τοπικός κινηθήσεται.
+5
+οὐδὲ γὰρ θέμις αὐτῷ κινηθῆναι , οὐδὲ μὲν ὀπίσω, οὐδὲ πρόσω· οὔτε ἄνω ποτὲ οὔτε κάτω·
+
+526
+οὐδ’ εἰς δεξιὰ, οὐδ’ εἰς ἀριστερὰ μεταβήσεταί ποτε τὸ ὄν· οὔτε περὶ τὸ μέσον ποτε ἑαυτοῦ κινηθήσεται, ἀλλὰ μᾶλλον καὶ ἐστήξεται καὶ ἀραρός τε καὶ ἑστήκὸς ἔσται κατὰ ταὐτὰ ἔχον ἀεὶ καὶ ὡσαύτως.”
+6
+Καὶ ἐξῆς μεθ’ ἕτερα ἐπιλέγει
+
+
+“ Τοσαῦτα μὲν οὖν μοι πρὸ ὁδοῦ. αὐτὸς δ’ οὐκίτι σχηματισθήσομαι , οὐδ’ ἀγνοεῖν φήσω τὸ ὄνομα τοῦ ἀσωμάτου· καὶ γὰρ κινδυνεύει νῦν ἤδη ἥδιον εἶναι εἰπεῖν μᾶλλον ἢ μὴ εἰπεῖν. καὶ δῆτα λέγω τὸ
+
+b
+ὄνομα αὐτῷ εἶναι τοῦτο τὸ πάλαι ζητούμενον.
+7
+ἀλλὰ
+μὴ γελασάτω τις, ἐὰν γῶ τοῦ ἀσωμάτου εἶναι ὄνομα οὐσίαν καὶ ὄν. ἡ δὲ αἰτία τοῦ ὄντος ὀνόματός ἐστι τὸ μὴ γεγονέναι, μηδὲ φθαρήσεσθαι, μηδ’ ἄλλην μήτε κίνησιν μηδεμίαν δέχεσθαι μήτε μεταβολὴν κρείττω ἢ φαύλην · εἶναι δὲ ἁπλοῦν καὶ ἀναλλοίωτον,
+καὶ ἐν ἰδέᾳ τῇ αὐτῇ, καὶ μήτε ἐθελούσιον ἐξίστασθαι τῆς ταὐτότητος μήθ’ ὑφ’ ἑτέρου προσαναγκάξεσθαι.
+
+c
+8
+ἔφη δὲ καὶ ὁ Πλάτων’ ἐν Κρατύλῳ τὰ ὀνόματα ὁμοιώσει τῶν πραγμάτων εἶναι αὐτὰ ἐπίθετα. ἔστω οὖν καὶ δεδόχθω εἶναι τὸ ὂν ἀσώματον.”
+
+
+9
+Εἶθ’ ὑποκαταβὰς ἐπιλέγει
+
+“ Τὸ ὂν εἶπον ἀσώματον , τοῦτο δὲ εἶναι τὸ νοητόν. τὰ μὲν οὖν λεχθέντα, ὅσα μνημονεύειν ἐστί μοι, τοιαῦτα γοῦν ἦν. τὸν δ’ ἐπιζητοῦντα λόγον ἐθέλω παραμυθήσασθαι, τοσόνδε ὑπειπὼν, ὅτι ταῦτα
+τοῖς δόγμασι τοῖς Πλάτωνος εἰ μὴ συμβαίνει, ἀλλ’ ἑτέρου γ’ ἐχρῆν οἴεσθαί τινος ἀνδρὸς μεγάλου, μέγα
+
+v.2.p.25
+δυναμένου , οἵου Πυθαγόρου.
+10
+λέγει γοῦν Πλάτων, φέρ’ ἀναμνησθῶ πῶς λέγει· · τί τὸ ὂν ἀεὶ, γένεσιν
+
+d
+δὲ οὐκ ἔχον; καὶ τί τὸ γινόμενον μὲν, ὂν δὲ οὐδέποτε; τὸ μὲν δὴ νοήσει μετὰ λόγου περιληπτὸν,
+τὸ δ’ αὖ δόξῃ μετὰ αἰσθήσεως ἀλόγου δοξαστὸν, γινόμενον καὶ ἀπολλύμενον , ὄντως δὲ οὐδέποτε ὅν.”
+11
+ἤρετο γὰρ, τί ἐστι τὸ ὂν, φὰς αὐτὸ ἀγένητον ἀναμφιλέκτως. γένεσιν γὰρ οὐκ ἔφη εἶναι τῷ ὄντι· ἐτρέπετο γὰρ ἄν· τρεπόμενον δὲ οὐκ ἦν ἀίδιον.”
+
+
+12
+Εἶτα ὑποβάς φησιν
+
+Εἰ μὲν δὴ τὸ ὂν πάντως πάντη ἀίδιόν τέ ἐστι καὶ ἄτρεπτον καὶ οὐδαμῶς οὐδαμῆ ἐξιστάμενον ἐξ ἑαυτοῦ, μένει δὲ κατὰ τὰ αὐτὰ καὶ ὡσαύτως ἕστηκε, τοῦτο δήπου ἂν εἴη τὸ τῇ νοήσει μετὰ λόγου περιληπτόν.
+
+13
+εἰ δὲ τὸ σῶμα ῥεῖ καὶ φέρεται ὑπὸ τῆς εὐθὺ μεταβολῆς, ἀποδιδράσκει καὶ οὐκ ἔστιν. ὅθεν
+
+527
+οὐ πολλὴ μανία μὴ οὐ τοῦτο εἶναι ἀόριστον, δόξῃ δὲ μόνῃ δοξαστὸν, καὶ ὥς φησι Πλάτων’, γινόμενον καὶ ἀπολλύμενον, ὄντως δὲ οὐδέποτε ὄν.”
+
+14
+Ταῦτα μὲν οὖν ὁ Νουμήνιος , ὁμοῦ τὰ Πλάτωνος καὶ πολὺ πρότερον τὰ Μώσεως ἐπὶ τὸ σαφέστερον διερμηνεύων. εἰκότως δῆτα εἰς αὐτὸν ἐκεῖνο τὸ λόγιον περιφέρεται, δι’ οὗ φάναι μνημονεύεται, τί γάρ ἐστι Πλάτων’, ἢ Μώσης ἀττικίζων;
+
+
+15
+Θέα δὲ πρὸς τούτοις εἰ μὴ τὸν παρόντα νοῦν b ἐπὶ πλέον καὶ ὁ Πλούταρχος ἐξαπλῶν συντρέχοι ἂν ταῖς τε προκειμέναις φωναῖς τῶν φιλοσόφων καὶ
+
+310
+ταῖς αὖθις Ἑβραίων κειμέναις ἐν ἑτέραις θεολογίαις, δι’ ὧν τοτὲ μὲν εἰσάγεται λέγων ὁ χρηματίζων θεὸς
+“διότι ἐγὼ κύριος ὁ θεὸς ὑμῶν, καὶ οὐκ ἠλλοίωμαι ·
+16
+τοτὲ δ’ εἰς αὐτὸν ἀφορῶν ὁ προφήτης ἀποτείνεται “ ὅτι δὴ τὰ μὲν ὁρατὰ πάντα τραπείη ἄν ποτε
+
+v.2.p.26
+καὶ μεταβληθείη , σὺ δὲ ὁ αὐτὸς εἶ, καὶ τὰ ἔτη σοῦ c οὐκ ἐκλείψουσι. σκόπει γοῦν εἰ μὴ ὡς ἐν προτάσει· τοῦ τε παρὰ Μωσεῖ φήσαντος “ ἐγώ εἰμι ὁ ὤν·” καὶ τοῦ ” ἐγὼ κύριος ὁ θεὸς ὑμῶν, καὶ οὐκ ἠλλοίωμαι·” καὶ τοῦ “ σὺ δὲ ὁ αὐτὸς ἑἶ”, δόξαι ἂν ὁ Πλούταρχος
+ἐν τῷ Περὶ τοῦ Εἶ τοῦ ἐν Δελφοῖς τὴν διάνοιαν ἐφερμηνεύειν, τάδε λέγων πρὸς λέξιν
+d
+
+[NUMENIUS] 41 'COME then, let us mount up as nearly as we possibly can to true "being," and let us say that "being" neither at any time "was," nor ever can "become," but always "is" in a definite time, the present only.
+
+'If, however, any one wishes to rename this present time eternity, I too am willing. But the time past we ought to consider altogether gone, already so gone away and escaped as to exist no longer: and on the other hand the time to come as yet is not, but professes to be able at some future time to come into being.
+
+'It is not therefore reasonable to suppose "being," at least in one and the same sense, either not to be or to be no longer, or not yet. Since when this is so stated, there arises in the statement one great impossibility, that the same thing at the same time should both be and not be.
+
+'For if this were so, scarcely would it be possible for anything else to be, if "being" itself in regard to its very "being" be not. For "being" is eternal and constant, ever in the same condition, nor has it been generated and destroyed, nor increased and diminished: nor did it ever yet become more or less: and certainly neither in other senses nor yet locally will it be moved.
+
+'For it is not right for it to be moved, either backward or forward: nor upward ever, nor downward: neither to the right hand nor to the left shall "being" ever pass: nor shall it ever be moved around its own centre; but rather it shall stand fast, and shall be fixed and set firm, ever in the same conditions and same mode.'
+
+And then, after other statements, he adds:
+
+'So much then for my introduction. But for my own part I will no longer make pretences, nor say that I do not know the name of the incorporeal; for now at length it seems likely to be pleasanter to speak than not to speak it. And so then I say that its name is that which we have so long been examining.
+
+'But let no one laugh, if I affirm that the name of the incorporeal is "essence" and "being." And the cause of the name "being" is that it has not been generated nor will be destroyed, nor is it subject to any other motion at all, nor any change for better or for worse; but is simple and unchangeable, and in the same idea, and neither willingly departs from its sameness, nor is compelled by any other to depart.
+
+'Plato too said in the Cratylus 42 that names are exactly adapted to a likeness of the things. Be it granted then and agreed that "being" is the incorporeal.'
+
+Then lower down he adds:
+
+'I said that "being" is incorporeal, and that this is that which can be perceived by the mind only. Their statements then, so far as I can remember, were certainly of this kind: but any one who feels the want of an explanation I am willing to encourage with just this suggestion, that if these statements do not agree with the doctrines of Plato, yet at least he must consider them to be those of some other great man of the highest ability, such as Pythagoras.
+
+'Plato at all events says 43 ----come, let me remember how he says it----What is that which, always is and has no becoming? And what that which is always becoming, and never is? The first that which may be comprehended by intelligence combined with reason, and the other that which may be conjectured by opinion with the aid of unreasoning sensation, becoming and perishing, but never really "being."
+
+'For he was inquiring what is "being," and saying that it is unquestionably without beginning. For he said that for "being" there is no becoming: for then it would be changed, but that which is liable to change is not eternal.'
+
+Then below he says:
+
+'If then "being" is altogether and in every way eternal and unchangeable, and by no means departs in any way from itself, but abides in the same conditions, and remains fixed in the same manner, this surely must be that which can be comprehended by intelligence combined with reason.
+
+'But if body is in flux and is carried off by the change of the moment, it passes away and no longer exists. Wherefore is it not utter folly to deny that this is something undefinable, and that can only be conjectured by opinion, and, as Plato says, becoming and perishing, but never really "being"? '
+
+Thus then speaks Numenius, explaining clearly both Plato's doctrines and the much earlier doctrines of Moses. With reason therefore is that saying currently attributed to him, in which it is recorded that he said, 'For what else is Plato than Moses speaking Attic Greek?'
+
+But see, besides this, whether Plutarch in further unfolding the same thought may not agree both with the statements of philosophers which have been brought forward, and the theological doctrines of the Hebrews set forth again in other places, whereby at one time the God who makes answer is introduced as saying: 44 'For I am the LORD your God, and I am not changed': and at another time the Prophet directs his speech with a view to Him, saying that the things which are seen would all some time be changed and removed, 'but Thou art the same, and Thy years shall not fail.' 45 Observe then whether----when He who spake in Moses, as if proposing a question, said,'I AM THAT I AM,' and, 'I am the LORD your God, and I am not changed': and again, 'But Thou art (εἶ) the same'----whether, I say. Plutarch would not seem to be interpreting the meaning of this in his treatise Concerning the Εἶ at Delphi, when he speaks word for word thus: 46
+### c17
+‘‘Κόσμον αἰσθητὸν τόνδε εἴ τις θαυμάζει, εἴς τε τὸ μέγεθος καὶ τὸ κάλλος καὶ τὴν τάξιν τῆς
+φορὰς τῆς ἀιδίου βλέπων, καὶ θεοὺς τοὺς ἐν αὐτῷ, τοὺς μὲν ὁρωμένους , τοὺς δὲ καὶ ἀφανεῖς ὄντας, καὶ δαίμονας καὶ ζῷα φυτά τε πάντα, ἐπὶ τὸ ἀρχέτυπον αὐτοῦ καὶ τὸ ἀληθινώτερον ἀναβὰς, κἀκεῖ πάντα ἰδέτω νοητὰ, καὶ παρ’ αὐτῶν ἀί·δια ἐν οἰκείᾳ συνέσει
+
+c
+καὶ ζωῇ, καὶ τούτων τὸν ἀκήρατον νοῦν προστάτην καὶ σοφίαν ἀμήχανον.”
+2
+Εἶθ’ ἑξῆς τούτοις ἐπιφέρει λέγων
+
+“ Τίς οὖν ὁ τοῦτον γεννήσας; ὁ ἁπλοῦς καὶ ὁ
+
+315
+πρὸ τοῦ τοιούτου , ὁ αἴτιος τοῦ καὶ εἶναι καὶ πολὺν
+εἶναι τοῦτον, ὁ τὸν ἀριθμὸν ποιῶν· ὁ γὰρ ἀριθμὸς οὐ πρῶτος· καὶ γὰρ πρὸ τῆς δυάδος τὸ ἴν· δεύτερον δὲ δυὰς, καὶ παρὰ τοῦ ἑνὸς γενομένη.
+3
+Καὶ πάλιν ὑποβὰς ἐπιλέγει
+
+“Πῶς οὖν, καὶ τί δεῖ νοῆσαι περὶ ἐκεῖνο μένον;
+περίλαμψιν ἐξ αὐτοῦ μὲν, ἐξ αὐτοῦ δὲ μένοντος· οἶον ἡλίου τὸ περὶ αὐτὸν λαμπρὸν φῶς περιθέον, ἐξ
+
+d
+αὐτοῦ ἀεὶ γεννώμενον , μένοντος δέ.
+4
+καὶ πάντα τὰ ὄντα ἕως μένει, ἐκ τῆς αὐτῶν οὐσίας, ἀναγκαίαν τὴν περὶ αὐτὰ πρὸς τὸ ἔξω αὐτῶν ἐκ τῆς παρούσης
+δυνάμεως δίδωσιν αὐτῶν ἐξηρτημένην ὑπόστασιν, εἰκόνα οὖσαν οἶον ἀρχετύπων , ὧν ἐξέφυ.
+
+5
+πῦρ μὲν τὴν παρ’ αὐτῷ θερμότητα καὶ χιὼν οὐκ εἴσω μόνον τὸ ψυχρὸν κατέχει. μάλιστα δὲ ὅσα εὐώδη μαρτυρεῖ τούτῳ· ἕως γάρ ἐστι, πρόεισί τι ἐξ αὐτῶν
+[*]
+
+v.2.p.37
+περὶ αὐτὰ, ὧν ἀπολαύει ὑποστάντων ὅ τι πλησίον.
+6
+καὶ πάντα δὲ ὅσα ἤδη τέλεια γεννᾷ· τὸ δὴ ἀεὶ
+
+536
+τέλειον ἀεὶ καὶ ἀίδιον γεννᾷ · καὶ ἔλαττον δὲ ἑαυτοῦ γεννᾷ.
+7
+τί οὖν χρὴ περὶ τοῦ τελειοτάτου λέγειν;
+μηδὲν ἀπ’ αὐτοῦ, ἢ τὰ μέγιστα μετ’ αὐτό. μέγιστον δὲ μετ’ αὐτὸν νοῦς καὶ δεύτερον. καὶ γὰρ ὁρᾷ ὁ νοῦς ἐκεῖνον, καὶ δεῖται αὐτοῦ μόνου, ἐκεῖνος δὲ τούτου οὐδέν. καὶ τὸ γεννώμενον ἀπὸ κρείττονος νοῦ νοῦν εἶναι· καὶ κρείττων ἁπάντων νοῦς, ὅτι
+τἄλλα μετ’ αὐτόν.”
+
+8
+Τούτοις ἐξῆς ἐπιφέρει λέγων
+
+“ Ποθεῖ δὲ πᾶν τὸ γεννῆσαν καὶ τοῦτο ἀγαπᾷ, καὶ μάλιστα ὅταν ὦσι μόνοι τὸ γεννῆσαν καὶ τὸ γεγεννημένον. ὅταν δὲ καὶ τὸ ἄριστον ᾖ τὸ γεννῆσαν,
+
+b
+
+ἐξ ἀνάγκης σύνεστιν αὐτῷ, ὡς τῇ ἑτερότητι μόνον κεχωρίσθαι. εἰκόνα δὲ ἐκείνου εἶναι λέγομεν τὸν νοῦν. δεῖ γὰρ σαφέστερον λέγειν.”
+9
+Καὶ πάλιν τούτοις ἐπιλέγει
+
+“ Καὶ διὰ τοῦτο καὶ τὰ Πλάτωνος τριττά · πάντα
+περὶ τὸν πάντων βασιλέα φησὶ τὰ πρῶτα · καὶ δεύτερον περὶ τὰ δεύτερα, καὶ περὶ τὰ τρίτα τρίτον. λέγει δὲ καὶ τοῦ αἰτίου εἶναι πατέρα, αἴτιον μὲν τὸν νοῦν λέγων· δημιουργὸς γὰρ ὁ νοῦς αὐτῷ.
+
+c
+10
+τοῦτον δέ φησι τὴν ψυχὴν ποιεῖν ἐν τῷ κρατῆρι
+ἐκείνῳ. τοῦ δὲ αἰτίου νοῦ ὄντος, πατέρα φησὶ τἀγαθὸν καὶ τὸ ἐπέκεινα νοῦ καὶ ἐπέκεινα οὐσίας. πολλαχοῦ δὲ τὸ ὂν καὶ τὸν νοῦν τὴν ἰδέαν λέγει. ὥστε Πλάτωνα εἰδέναι ἐκ μὲν τοῦ ἀγαθοῦ τὸν νοῦν, ἐκ δὲ τοῦ νοῦ τὴν ψυχήν· καὶ εἶναι τοὺς λόγους
+τούσδε μὴ καινοὺς, μηδὲ νῦν, ἀλλὰ πάλαι μὲν εἰρῆσθαι μὴ ἀναπεπταμένως· τοὺς δὲ νῦν λόγους ἐξηγητὰς ἐκείνων γεγονέναι, μαρτυρίοις πιστωσαμένους
+
+v.2.p.38
+τὰς δόξας ταύτας παλαιὰς εἶναι τοῖς αὐτοῦ Πλάπωνος γράμμασι.”
+d
+11
+Ταῦτα μὲν ὁ Πλωτῖνος· ὁ δὲ Νουμήνιος τὰ Πλάτωνος πρεσβεύων ἐν τοῖς Περὶ τἀγαθοῦ τάδε καὶ αὐτὸς περὶ τοῦ δευτέρου αἰτίου λέγων διερ-
+μηνεύει
+
+[PLOTINUS] 83 'IF any one admires this world of sense, beholding at once its greatness and beauty and the order of its eternal course, and the gods that are therein, some visible, and some invisible, the daemons, and animals and all kinds of plants, let him mount up to its original pattern and to the more real world, and there let him see all intelligible things, and things which are of themselves eternal in their own understanding and life, see also the pure intelligence and the infinite wisdom that presides over them.' 
+
+Then afterwards in addition to this he says: 
+
+'Who then is He that begat Him? He who is simple, and prior to a plurality of this kind, who is the cause both of His being, and of His plurality. For number came not first: since before the duad is the one; and the duad is second, and produced from the one.' 84
+
+And again he goes on and adds: 85
+
+'How then and what must we conceive concerning that abiding substance? A light shining around and proceeding from it, while it remains itself unchanged, as from the sun proceeds the bright surrounding light that runs around it, ever produced out of it, while it remains unchanged itself.
+
+'And all existing things, so long as they remain, give forth necessarily from their own essence and from the power present in the substance which surrounds them externally and is dependent upon them, being as it were an image of the archetypes from which it sprang.
+
+'Thus fire gives forth the heat which proceeds from it, and snow does not merely retain its cold within itself. And especially all fragrant things bear witness to this fact: for as long as they exist, a something from them goes forth around them, which is enjoyed by whatever is near.
+
+'Moreover all things as soon as they are perfect begin to generate: so that which is always perfect is always generating a something eternal, and what it generates is less than itself.
+
+'What then must we say concerning the Most Perfect? That He either generates nothing from Himself, or the things which are the greatest next to Himself. But after Him mind is the greatest and the second. For the mind beholds Him and has need of Him alone, but He has no need of it: and that which is begotten from a superior mind, must be mind; and mind is superior to all things, because all the rest come after it.'
+
+After this he says further: 86
+
+'Now everything desires and loves that which begat it, and especially when that which begat and that which is begotten exist alone. And when that which begat is also the very best, the begotten is necessarily so joined with it, as to be separated only by its otherness. But, since it is necessary to speak more plainly, I mean that mind is His image.'
+
+And to this again he adds: 87
+
+'This is the reason also of Plato's trinities: for he says that around the King of all are all the primaries, and around the second the secondaries, and around the third the tertiaries. He says also that the Cause has a Father, meaning that Mind is the Cause, for with Plato Mind is the Creator.
+
+'And Mind, he says, makes the Soul in that cup of his. And the Cause which is Mind has for its Father, he says, the Good, and that which transcends both Mind and essence. But in many places he speaks of Being and of Mind as the Idea. So that Plato recognizes Mind as proceeding from the Good, and the Soul from Mind: and these are no new doctrines, nor now first stated, but long since, though not publicly divulged: and the doctrines of the present time have been interpretations of the former, which by the testimony of Plato's own writings have confirmed the antiquity of these opinions.'
+
+This is what Plotinus says. And Numenius highly commending Plato's doctrines in his treatise Of the Good gives his own interpretation of the Second Cause, as follows:
+### c18
+“Τὸν μέλλοντα δὲ συνήσειν θεοῦ πέρι πρώτου καἰ δευτέρου χρὴ πρότερον διελέσθαι ἕκαστα
+
+537
+ἐν τάξει καὶ ἐν εὐθημοσύνῃ τινί· κἄπειτα ἐπειδὰν δοκῇ ἤδη εὖ ἔχειν, τότε καὶ δεῖ ἐπιχειρεῖν εἰπεῖν
+κοσμίως, ἄλλως δὲ μὴ, ἢ τῷ πρωϊαίτερον πρὶν τὰ πρῶτα γενέσθαι ἁπτομένῳ σποδὸς ὁ θησαυρὸς γίνεσθαι λέγεται.
+2
+μὴ δὴ πάθωμεν ἡμεῖς ταύτόν· θεὸν δὲ προσκαλεσάμενοι, ἑαυτοῦ γνώμονα γενόμενον τῷ λόγῳ, δεῖξαι θησαυρὸν φροντίδων, ἀρχώμεθα οὕτως.
+εὐκτέον μὲν ἤδη, διελέσθαι δὲ δεῖ.
+
+3
+ὁ θεὸς ὁ μὲν πρῶτος ἐν ἑαυτῷ ὤν ἐστιν ἁπλοῦς, διὰ τὸ ἑαυτῷ συγγινόμενος διόλου μή ποτε εἶναι διαιρετός· ὁ θεὸς μέντοι ὁ δεύτερος καὶ τρίτος ἐστὶν εἶς· συμ-
+
+b
+φερόμενος δὲ τῇ ὕλῃ δυάδι οὔσῃ ἑνοῖ μὲν αὐτὴν,
+σχίζεται δὲ ὑπ αὐτῆς, ἐπιθυμητικὸν ἦθος ἐχούσης καὶ ῥεούσης.
+4
+τῷ οὖν μὴ εἶναι πρὸς τῷ νοητῷ, ἦν
+
+316
+γὰρ ἂν πρὸς ἑαυτῷ, διὰ τὸ τὴν ὕλην βλέπειν, ταύτης ἐπιμελούμενος ἀπερίοπτος ἑαυτοῦ γίνεται.
+5
+καὶ ἅπτεται τοῦ αἰσθητοῦ καὶ περιέπει , ἀνάγει τε ἔτι
+εἰς τὸ ἴδιον ἦθος ἐπορεξάμενος τῆς ὕλης.”
+
+6
+Καὶ μεθ’ ἕτερά φησι
+
+Καὶ γὰρ οὔτε δημιουργεῖν ἐστι χρεὼν τὸν πρῶτον, καὶ τοῦ δημιουργοῦντος δὲ θεοῦ χρὴ εἶναι νομίζεσθαι πατέρα τὸν πρῶτον θεόν.
+
+7
+εἰ μὲν οὖν
+περὶ τοῦ δημιουργικοῦ ζητοῖμεν, φάσκοντες δεῖν τὸν πρότερον ὑπάρξαντα , οὕτως ἂν ποιεῖν ἔχειν διαφε-
+
+v.2.p.39
+ρόντως, οἰκεία ἡ πρόσοδος αὕτη γεγονυῖα ἂν εἴη
+c
+τοῦ λόγου· εἰ δὲ περὶ τοῦ δημιουργοῦ μή ἐστιν ὁ λόγος , ζητοῦμεν δὲ περὶ τοῦ πρώτου, ἀφοσιοῦμαί τε τὰ λεχθέντα καὶ ἔστω μὲν ἐκεῖνα ἄρρητα, μέτειμι
+δὲ ἑλεῖν τὸν λόγον, ἑτέρωθεν θηράσας.
+8
+πρὸ μέντοι τοῦ λόγου τῆς ἁλώσεως διομολογησώμεθα ἡμῖν αὐτοῖς ὁμολογίαν οὐκ ἀμφισβητήσιμον ἀκοῦσαι, τὸν μὲν πρῶτον θεὸν ἀργὸν εἶναι ἔργων ξυμπάντων καὶ βασιλέα, τὸν δημιουργικὸν δὲ θεὸν ἡγεμονεῖν δι’
+οὐρανοῦ ἰόντα.
+
+9
+διὰ δὲ τούτου καὶ ὁ στόλος ἡμῖν ἐστι, κάτω τοῦ νοῦ πεμπομένου ἐν διεξόδῳ πᾶσι τοῖς κοινωνῆσαι συντεταγμένοις.
+
+10
+βλέποντος μὲν οὑν
+
+d
+καὶ ἐπεστραμμένου πρὸς ἡμῶν ἕκαστον τοῦ θεοῦ συμβαίνει ζῆν τε καὶ βιώσκεσθαι τότε τὰ σώματα,
+κηδεύοντος τοῦ θεοῦ τοῖς ἀκροβολισμοῖς · μεταστρέξοντος δὲ εἰς τὴν ἑαυτοῦ περιωπὴν τοῦ θεοῦ ταῦτα μὲν ἀποσβέννυσθαι, τὸν δὲ νοῦν ζῆν βίου ἐπαυρόμενον εὐδαίμονος.”
+11
+Ταῦτα μὲν ὁ Νουμήνιος. σὺ δέ γε παράθες
+αὐτοῖς τὰ ἀπὸ τῆς τοῦ Δαβὶδ προφητείας πάλαι παρ’ Ἑβραίοις τοῦτον ᾀδόμενα τὸν τρόπον “ ὡς ἐμεγαλύνθη τὰ ἔργα σου, κύριε· πάντα ἐν σοφίᾳ ἐποίησας. ἐπληρώθη ἡ γῆ τῆς κτίσεως σου · πάντα πρός
+
+538
+σε προσδοκῶσι, δοῦναι τὴν τροφὴν αὐτοῖς εἰς εὔκαιρον.
+δόντος σου αὐτοῖς συλλέξουσιν , ἀνοίξαντος δέ σου τὴν χεῖρα τὰ πάντα πληρωθήσεται χρηστότητος. ἀποστρέψαντος δέ σου τὸ πρόσωπον ταραχθήσονται. ἀντανελεῖς τὸ πνεῦμα αὐτῶν, καὶ ἐκλείψουσι καὶ εἰς τὸν χοῦν αὑτῶν ἐπιστρέψουσιν. ἐξαποστελεῖς
+τὸ πνεῦμά σου, καὶ κτισθήσονται, καὶ ἀνακαινιεῖς τὸ πρόσωπον τῆς γῆς.”
+12
+τί γὰρ ταῦτα διαφέροι ἂν τῆς φασκούσης τοῦ φιλοσόφου
+
+v.2.p.40
+b
+διανοίας ὡς ἄρα “ βλέποντος μὲν καὶ ἐπεστραμμένου πρὸς ἡμῶν ἕκαστον τοῦ θεοῦ συμβαίνει ζῆν τε καὶ βιώσκεσθαι τότε τὰ σώματα κηδεύοντος τοῦ θεοῦ· τοῖς ἀκροβολισμοῖς , μετ’ αστρέφοντος ὃς δὲ εἰς τὴν ἑαυτοῦ περιωπὴν τοῦ θεοῦ ταῦτα ἀποσβέννυσθαι;”
+
+13
+Πάλιν δ’ αὖ τοῦ σωτηρίου λόγου παρ’ ἡμῖν φάντος “ ἐγώ εἰμι ἡ ἄμπελος, ὁ πατήρ μου ὁ γεωργὸς, ὑμεῖς τὰ κλήματα” ὁ Νουμήνιος ἐπάκουσον οἷα περὶ τοῦ δευτέρου αἰτίου θεολογεῖ
+
+c
+14
+“Ὥσπερ δὲ πάλιν λόγος ἐστὶ γεωργῷ πρὸς
+τὸν φυτεύοντα ἀναφερόμενος , τὸν αὐτὸν λόγον μάλιστά ἐστιν ὁ πρῶτος θεὸς πρὸς τὸν δημιουργόν. ὁ μέν γε ὢν σπέρμα πάσης ψυχῆς σπείρει εἰς τὰ μεταλαγχάνοντα αὐτοῦ χρήματα σύμπαντα· ὁ νομοθέτης δὲ φυτεύει καὶ διανέμει καὶ μεταφυτεύει εἰς ἡμᾶς
+ἑκάστους τὰ ἐκεῖθεν προκαταβεβλημένα.”
+
+15
+Καὶ ἑξῆς δὲ πάλιν περὶ τοῦ πῶς ἀπὸ τοῦ πρώτου αἰτίου τὸ δεύτερον ὑπέστη τοιάδε φησίν
+
+“Ὁπόσα δὲ δοθέντα μέτεισι πρὸς τὸν λαμβάνοντα, ἀπελθόντα ἐκ τοῦ δεδωκότος , ἐστὶ θεραπεία,
+d χρήματα, νόμισμα κοῖλον, ἐπίσημον· ταυτὶ μὲν οὖν ἐστι θνητὰ καὶ ἀνθρώπινα , τὰ δὲ θεῖά ἐστιν οἶα μεταδοθέντα ἐνθένδ’ ἐκεῖθι γεγενημένα, ἐνθένδε τε οὐκ ἀπελήλυθε, κἀκεῖθι γενόμενα τὸν μὲν ὤνησε, τὸν δ’ οὐκ ἔβλαψε, καὶ προσώνησε τῇ περὶ ὧν ἠπίστατο
+ἀναμνήσει.
+
+16
+ἔστι δὲ τοῦτο τὸ καλὸν χρῆμα ἐπιστήμη ἡ καλὴ, ἧς ὤνατο μὲν ὁ λαβὼν, οὐκ ἀπολείπεται δ’ αὐτῆς ὁ δεδωκώς. οἷον ἂν ἴδοις ἐξαφθέντα ἀφ’ ἑτέρου λύχνου λύχνον φῶς ἔχοντα, ὃ μὴ
+
+317
+τὸν πρότερον ἀφείλατο, ἀλλὰ τῆς ἐν αὐτῷ ὕλης πρὸς
+τὸ ἐκείνου πῦρ ἐξαφθείσης.
+17
+τοιοῦτον τὸ χρῆμά ἐστι τὸ τῆς ἐπιστήμης , ἣ δοθεῖσα καὶ ληφθεῖσα
+
+v.2.p.41
+παραμένει μὲν τῷ δεδωκότι, σύνεστι δὲ τῷ λαβόντι ἡ αὐτή.
+18
+τούτου δὲ τὸ αἴτιον, a ξένε, οὐδέν
+
+539
+ἐστιν ἀνθρώπινον · ἀλλ’ ὅτι ἕξις τε καὶ οὐσία ἡ ἔχουσα τὴν ἐπιστήμην ἡ αὐτή ἐστι παρά τε τῷ δεδωκότι
+θεῷ καὶ παρὰ τῷ εἰληφότι ἐμοὶ καὶ σοί.
+19
+διὸ καὶ ὁ Πλάτων’ τὴν σοφίαν ὑπὸ Προμηθέως ἐλθεῖν εἰς ἀνθρώπους μετὰ φανοτάτου τινὸς πυρος ἔφη.”
+
+Καὶ πάλιν ὑποβὰς ἐξῆς φησιν
+
+
+20
+“ Εἰσὶ δ’ οὗτοι βίοι ὁ μὲν πρώτου, ὁ δὲ δευτέρου θεοῦ. δηλονότι ὁ μὲν· πρῶτος θεὸς ἔσται ἑστὼς, ὁ δὲ δεύτερος ἔμπαλίν ἐστι κινούμενος. ὁ μὲν οὖν
+
+b
+πρῶτος περὶ τὰ νοητὰ, ὁ δὲ δεύτερος περὶ τὰ νοητὰ καὶ αἰσθητά.
+21
+μὴ θαυμάσῃς δ’ εἰ τοῦτ’ ἔφην·
+πολὺ γὰρ ἔτι θαυμαστότερον ἀκούσῃ. ἀντὶ γὰρ τῆς προσούσης τῷ δευτέρῳ κινήσεως τὴν προσοῦσαν τῷ πρώτῳ στάσιν φημὶ εἶναι κίνησιν σύμφυτον, ἀφ’ ἧς ἥ τε τάξις τοῦ κόσμου καὶ ἡ μονὴ ἀίδιος καὶ ἡ σωτηρία ἀναχεῖται εἰς τὰ ὅλα.”
+
+
+22
+Ἐπὶ τούτοις καὶ ἐν τῷ ἕκτῳ προστίθησι ταῦτα
+
+“Ἐπειδὴ ᾔδει ὁ Πλάτων’ παρὰ τοῖς ἀνθρώποις τὸν μὲν δημιουργὸν γινωσκόμενον μόνον, τὸν μέντοι πρῶτον νοῦν, ὅστις καλεῖται αὐτὸ ὂν, παντάπασιν
+
+c
+ἀγνοούμενον παρ’ αὐτοῖς, διὰ τοῦτο οὕτως εἶπεν,
+ὥσπερ ἄν τις οὕτω λέγοι,
+23
+Ὠ ἄνθρωποι , ὃν τοπάξετε ὑμεῖς νοῦν οὐκ ἔστι πρῶτος, ἀλλὰ ἕτερος πρὸ τούτου νοῦς πρεσβύτερος καὶ θειότερος.”
+
+24
+Καὶ μεθ’ ἕτερα ἐπιλέγει
+
+“ Κυβερνήτης μέν που ἐν μέσῳ πελάγει φορούμενος
+ὑπὲρ πηδαλίων ὑψίζυγος τοῖς οἴαξι διιθύνει [*]
+
+v.2.p.42
+τὴν ναῦν ἐφεζόμενος, ὄμματα δ αὐτοῦ καὶ νοῦς
+d
+εὐθὺ τοῦ αἰθέρος ξυντέταται πρὸς τὰ μετάρσια, καὶ ἡ ὁδὸς αὐτῷ ἄνω δι οὐρανοῦ ἄπεισι, πλέοντι κάτω κατὰ τὴν θάλατταν· οὕτω καὶ ὁ δημιουργὸς τὴν ὕλην, τοῦ μήτε διακροῦσαι μήτε ἀποπλαγχθῆναι αὐτὴν,
+ἁρμονίᾳ ξυνδησάμενος αὐτὸς μὲν ὑπὲρ ταύτης ἔδρυται, οἷον ὑπὲρ νεὼς ἐπὶ θαλάττης, τῆς ὕλης· τὴν ἁρμονίαν δὲ ἰθύνει, ταῖς ἰδέαις οἰακίζων, βλέπει τε ἀντὶ τοῦ οὐρανοῦ εἰς τὸν ἄνω θεὸν προσαγόμενον αὐτοῦ τὰ ὄμματα , λαμβάνει τε τὸ μὲν κριτικὸν ἀπὸ
+τῆς θεωρίας, τὸ δὲ ὁρμητικὸν ἀπὸ τῆς ἐφέσεως.”
+25
+Καὶ ὁ σωτήριος παρ ἡμῖν λόγος “οὐδὲν, φησὶ, δύναται ὁ υἱὸς ποιεῖν ἀφ ἑαυτοῦ, ἐὰν μή τι βλέπῃ τὸν πατέρα ποιοῦντα.” ἀλλὰ γὰρ τοσαῦτα καὶ
+
+540
+περὶ τοῦδε ὁ Νουμήνιος. ὅτι δὲ οὐκ οἰκεῖα, τὰ δὲ
+Πλάτωνι δοκοῦντα διεσάφει, οὐδὲν ἐπιλέγειν δεῖ ταῖς αὐτοῦ φωναῖς.
+26
+ὁ δέ γε Πλάτων ὅτι μὴ πρῶτος ταῖσδε κέχρηται ταῖς ἐπιβολαῖς, φθάνουσι δ αὐτὸν προειληφότες Ἑβραίων οἱ σοφοὶ, δέδεικται διὰ τῶν ἐκτεθειμένων. εἰκότως δῆτα καὶ τῶν νέων φιλοσόφων
+διαφανὴς γεγονὼς Ἀμέλιος , τῆς Πλάτωνος καὶ αὐτὸς, εἰ καί τις ἄλλος, ζηλωτὴς φιλοσοφίας, πλὴν ἀλλὰ βάρβαρον ὀνομάσας τὸν Ἑβραῖον θεολόγον, εἰ καὶ μὴ ἑέ ὀνόματος ἠξίωσε τοῦ εὐαγγελιστοῦ Ἰωάννου μνήμην ποιήσασθαι, ἐπιμαρτυρεῖ δ οὖν
+
+b
+ὅμως ταῖς αὐτοῦ φωναῖς, αὐτὰ δὴ ταῦτα πρὸς ῥῆμα γράφων
+
+not deprive the former, but had its own material kindled at the other's flame.
+
+'Such a thing is knowledge, which when given and received remains the same with the giver, and is communicated to the receiver.
+
+'And the cause of this, my friend, is not anything human; but that the state and essence which possesses knowledge is the same both in God who has given, and in you and me who have received it.
+
+'Wherefore also Plato said that wisdom was brought to mankind "with a brilliant flame of fire by Prometheus."' 94
+
+And again afterwards lower down he says: 
+
+'Now the modes of life of the First God and of the Second are these: evidently the First God will be at rest, while the Second on the contrary is in motion. So then the First is engaged with intelligibles, and the Second with both intelligibles and sensibles. 'And be not surprised at my saying this, for you are going to hear something far more surprising. For instead of that motion which belongs to the Second I assert that the rest which belongs to the First is His natural motion, from which both the order of the world, and its eternal continuance, and its safety is diffused throughout the universe.' 95
+
+After this in the sixth Book also he adds the following: 96
+
+'Since Plato knew that the Creator alone was known among men, but that the First Mind, which is called Absolute Being, is altogether unknown among them, therefore he spoke in this way, just as if one were to say; The First Mind, my good sirs, is not that which you imagine, but another mind before it, more ancient and more divine.'
+
+And after other passages he adds:
+
+'A pilot when driven along in mid ocean, sits high above the helm, and steers the ship by the tillers, but his eyes and mind are strained directly at the sky, looking at things aloft, as his course passes across the heaven above, while he sails upon the sea below. So also the Creator having bound matter together in harmony that it may neither break out nor slip away, is Himself seated above matter, as above a ship on the sea: and in directing the harmony He steers by the ideas, while instead of the sky He looks to the High God who attracts His eyes, and takes His judgement from that contemplation, and His energy from that impulse.'
+
+Also the Word of our Salvation says, 'The Son can do nothing of Himself, but what He seeth the Father doing.' 97 Enough, however, has been said by Numenius on this subject: and there is no need to add anything to his own words to show that he was explaining not his own opinions but Plato's. And that Plato is not the first who has made these attempts, but has been anticipated by the Hebrew sages, has been proved by the examples already set forth. Naturally therefore Amelius also, who was distinguished among recent philosophers, and above all others an admirer of Plato's philosophy, who moreover called the Hebrew theologian a Barbarian, even though he did not deign to mention John the Evangelist by name, nevertheless bears witness to his statements, writing exactly what follows word for word:
 
 ## b13
 ### c12

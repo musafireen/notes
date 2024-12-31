@@ -1,3 +1,3 @@
 Anaxagoras
 
-![[Qsorted#75:6]]![[Qsorted#75:7]]![[Qsorted#75:8]]![[Qsorted#75:9]]
+![[Qrsi#75:6]]![[Qrsi#75:7]]![[Qrsi#75:8]]![[Qrsi#75:9]]

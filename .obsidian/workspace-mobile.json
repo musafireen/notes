@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bnBhtt.md",
+                "file": "Ref/iren.advHaer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bnBhtt"
+              "title": "iren.advHaer"
             }
           },
           {
@@ -153,26 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/Qtf.md",
+                "file": "Ref/haft.azilla/h.a.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qtf"
-            }
-          },
-          {
-            "id": "730463fcefa1eb28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "jinn"
+              "title": "h.a.1"
             }
           },
           {
@@ -237,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/Ling/Hebrew_arabic/arabic_relative_pronoun.md",
+                "file": "001_eskaton/Ling/Hebrew_arabic/arabic_morphology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "arabic_relative_pronoun"
+              "title": "arabic_morphology"
             }
           },
           {
@@ -251,16 +237,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/iamb.mysEg.md",
+                "file": "Ref/eusb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "iamb.mysEg"
+              "title": "eusb"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -287,7 +273,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "drav",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -309,7 +295,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "52f2f15d1bae5ff6",
@@ -354,7 +340,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/bnBhtt.md"
+            "file": "Ref/haft.azilla/h.a.1.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -371,48 +357,49 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "906d4dd5c5280b00",
+  "active": "da6304b2e5b65b68",
   "lastOpenFiles": [
-    "Ref/klds.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
-    "Ref/PttPtt.md",
-    "Ref/ettkott.md",
-    "Ref/porph.md",
-    "Ref/bnBhtt.md",
-    "Ref/sangam.md",
-    "Ref/Ḥ.md",
-    "Ref/bbl.apcryph.apclyp.md",
-    "Ref/bbl.poetry.md",
-    "Ref/tlmd.amora.gemara.md",
-    "Ref/bbl.prophecy.ketuvim.md",
-    "Ref/bbl.prophecy.neviim.md",
-    "Ref/bbl.history.neviim.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
-    "Ref/bbl.apcryph.ethp.md",
-    "Ref/mdrsh.md",
-    "Ref/bbl.torah.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/rafa/merkaba.md",
-    "Ref/bbl.apcryph.cath.md",
-    "Ref/enoch1.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sharif/Sharif.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sharif/nietzche_morality.md",
-    "Ref/mtsP.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/nuh/nuh_utnapishtim_manu.md",
-    "Ref/RV.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sharif",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kursi",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/rafa",
-    "Ref/tfTb",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zll/Hjj.md",
+    "Ref/haft.azilla/h.a.1.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zll/shbh.md",
+    "Ref/ShBh.md",
+    "Ref/Qrsi.md",
+    "Ref/umm.kitab/u.k.1.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zll/haft.azilla/h.a.1.md",
+    "Ref/umm.kitab/u.k.12.md",
+    "Ref/umm.kitab/u.k.2.md",
+    "Ref/umm.kitab/u.k.23.md",
+    "Ref/umm.kitab/u.k.32.md",
+    "Ref/umm.kitab/u.k.11.md",
+    "Ref/umm.kitab/u.k.5.md",
+    "Ref/umm.kitab/u.k.30.md",
+    "Ref/umm.kitab/u.k.24.md",
+    "Ref/umm.kitab/u.k.15.md",
+    "Ref/umm.kitab/u.k.36.md",
+    "Ref/umm.kitab/u.k.22.md",
+    "Ref/umm.kitab/u.k.21.md",
+    "Ref/umm.kitab/u.k.3.md",
+    "Ref/umm.kitab/u.k.26.md",
+    "Ref/umm.kitab/u.k.0.md",
+    "Ref/umm.kitab/u.k.18.md",
+    "Ref/umm.kitab/u.k.14.md",
+    "Ref/umm.kitab/u.k.10.md",
+    "Ref/umm.kitab/u.k.9.md",
+    "Ref/umm.kitab",
+    "Ref/haft.azilla",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/hikmah/umm_l_kitab",
+    "Ref/iamb.pyth",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/araf/Pythagorean_platonic/15194409_656388334522608_3437266025718668693_o.jpg",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/araf/Pythagorean_platonic",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/du'a",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/eid",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/adad/desktop.ini",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/adad/sab'",
     "Ref/Pasted image 20241128002518.png",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/iktisab",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs",
-    "Ref/SpB.txt",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/nuh",
     "boomerang/madaripuria_genz_khil.png",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/mu'allam",
     "boomerang/454817935_8007547926005160_936124851052004106_n.jpg",
     "Untitled.canvas",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/15194409_656388334522608_3437266025718668693_o.jpg"

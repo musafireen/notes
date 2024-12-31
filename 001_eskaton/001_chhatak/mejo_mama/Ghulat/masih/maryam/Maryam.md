@@ -1,5 +1,5 @@
 
-![[Qsorted#19:25]]
+![[Qrsi#19:25]]
 
 ![[bbl.apcryph.syr#itenarium#28]]
 

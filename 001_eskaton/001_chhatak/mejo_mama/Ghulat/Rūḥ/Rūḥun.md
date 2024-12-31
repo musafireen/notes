@@ -1,5 +1,5 @@
 
 # rūḥun minhu
-![ [Qsorted#4:171]]
+![ [Qrsi#4:171]]
 
-![ [Qsorted#58:22]]
+![ [Qrsi#58:22]]

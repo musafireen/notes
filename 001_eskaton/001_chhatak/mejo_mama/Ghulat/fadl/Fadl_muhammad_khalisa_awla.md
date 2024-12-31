@@ -1,7 +1,7 @@
 Khalisa nabi
 
 Fadl muhammad
-
+![[surord#58]]
 
 # Q:8:1
 

@@ -1,8 +1,8 @@
 # dhurriyyāt iblīs
 
 ## auliyā l z.ālimīn
-![[Qsorted#18:50]]
+![[Qrsi#18:50]]
 
 ## min l nās w l jinn
-![[Qsorted#6:112]]
+![[Qrsi#6:112]]
 

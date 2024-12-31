@@ -1,9 +1,9 @@
 
 # Q:7:172
-![[Qrsd#7:172]]
+![[Qrsi#7:172]]
 
-## iamb
-![[iamb.MysEg#1.3#2]]
+## iamb.mEg:1:3:3
+![[iamb.MysEg#1.3#3]]
 
 # Q:2:38
 ![[Qrsd#2:38]]

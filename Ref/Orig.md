@@ -183,7 +183,63 @@ And perhaps profounder consideration will show, that as God is not a part, so ne
 and reason will not allow us to believe that the God who is over all is composed of parts, each one of which cannot do what all the other parts, can.
 ## b4
 ### c10
+### c51
+Δοκεῖ δέ μοι καὶ ἀκηκοέναι ὅτι ἐστὶ συγγράμματα περιέχοντα τὰς τοῦ νόμου ἀλληγορίας, 
 
+Celsus appears to me to have heard that there are treatises in existence which contain allegorical explanations of the law of Moses. 
+
+ἅπερ εἰ ἀνεγνώκει, οὐκ ἂν ἔλεγεν· 
+
+These however, he could not have read; for if he had he would not have said: 
+
+αἱ γοῦν δοκοῦσαι περὶ αὐτῶν ἀλληγορίαι γεγράφθαι πολὺ τῶν μύθων αἰσχίους εἰσὶ καὶ ἀτοπώτεραι, τὰ μηδαμῆ μηδαμῶς ἁρμοσθῆναι δυνάμενα θαυμαστῇ τινι καὶ παντάπασιν ἀναισθήτῳ μωρίᾳ συνάπτουσαι. 
+
+"The allegorical explanations, however, which have been devised are much more shameful and absurd than the fables themselves, inasmuch as they endeavour to unite with marvellous and altogether insensate folly things which cannot at all be made to harmonize." 
+
+ἔοικε δὲ περὶ τῶν Φίλωνος συγγραμμάτων ταῦτα λέγειν ἢ καὶ τῶν ἔτι ἀρχαιοτέρων, ὁποῖά ἐστι τὰ Ἀριστοβούλου. 
+
+He seems to refer in these words to the works of Philo, or to those of still older writers, such as Aristobulus. 
+
+στοχάζομαι δὲ τὸν Κέλσον μὴ ἀνεγνωκέναι τὰ βιβλία, 
+
+But I conjecture that Celsus has not read their books, 
+
+ἐπεὶ πολλαχοῦ οὕτως ἐπιτετεῦχθαί μοι φαίνεται, 
+
+since it appears to me that in many passages they have so successfully hit the meaning (of the sacred writers), 
+
+ὥστε αἱρεθῆναι ἂν καὶ τοὺς ἐν Ἕλλησι φιλοσοφοῦντας ἀπὸ τῶν λεγομένων· 
+
+that even Grecian philosophers would have been captivated by their explanations; 
+
+ἐν οἷς οὐ μόνον φράσις ἐξήσκηται ἀλλὰ καὶ νοήματα καὶ δόγματα καὶ ἡ χρῆσις τῶν, ὡς οἴεται, ἀπὸ τῶν γραφῶν μύθων ὁ Κέλσος. 
+
+for in their writings we find not only a polished style, but exquisite thoughts and doctrines, and a rational use of what Celsus imagines to be fables in the sacred writings. 
+
+ἐγὼ δ οἶδα καὶ Νουμήνιον τὸν Πυθαγόρειον. ἄνδρα πολλῷ κρεῖττον διηγησάμενον Πλάτωνα καὶ (περὶ) τῶν Πυθαγορείων δογμάτων πρεσβεύσαντα, πολλαχοῦ τῶν συγγραμμάτων αὐτοῦ ἐκτιθέμενον τὰ Μωϋσέως καὶ τῶν προφητῶν καὶ οὐκ ἀπιθάνως αὐτὰ τροπολογοῦντα, ὥσπερ ἐν τῷ καλουμένῳ Ἔποπι καὶ ἐν τοῖς περὶ ἀριθμῶν καὶ ἐν τοῖς περὶ τόπου. 
+
+I know, moreover, that Numenius the Pythagorean--a surpassingly excellent expounder of Plato, and who held a foremost place as a teacher of the doctrines of Pythagoras--in many of his works quotes from the writings of Moses and the prophets, and applies to the passages in question a not improbable allegorical meaning, as in his work called Epops, and in those which treat of "Numbers" and of "Place." 
+
+ἐν δὲ τῷ τρίτῳ περὶ τἀγαθοῦ ἐκτίθεται καὶ περὶ τοῦ Ἰησοῦ ἱστορίαν τινὰ, τὸ ὄνομα αὐτοῦ οὐ λέγων, καὶ τροπολογεῖ αὐτήν· 
+
+And in the third book of his dissertation on The Good, he quotes also a narrative regarding Jesus--without, however, mentioning His name--and gives it an allegorical signification, 
+
+πότερον δ ἐπιτετευγμένως ἢ ἀποτετευγμένως, ἄλλου καιροῦ ἐστιν εἰπεῖν. 
+
+whether successfully or the reverse I may state on another occasion. 
+
+ἐκτίθεται καὶ τὴν περὶ Μωϋσέως καὶ Ἰαννοῦ καὶ Ἰαμβροῦ ἱστορίαν. 
+
+He relates also the account respecting Moses, and Jannes, and Jambres. 
+
+ἀλλ οὐκ ἐν ἐκείνῃ σεμνυνόμεθα, ἀποδεχόμεθα δ αὐτὸν μᾶλλον Κέλσου καὶ ἄλλων Ἑλλήνων βουληθέντα φιλομαθῶς καὶ τὰ ἡμέτερα
+ἐξετάσαι 
+
+But we are not elated on account of this instance, though we express our approval of Numenius, rather than of Celsus and other Greeks, because he was willing to investigate our histories from a desire to acquire knowledge, 
+
+καὶ κινηθέντα ὡς περὶ τροπολογουμένων καὶ οὐ μωρῶν συγγραμμάτων.
+
+and was (duly) affected by them as narratives which were to be allegorically understood, and which did not belong to the category of foolish compositions.
 ### c89
 
 Ἐχρῆν οὖν τὸν Κέλσον, διὰ τῶν προκειμένων βουλόμενον θειότερα καὶ σοφώτερα ἀποδεῖξαι τὰ ἄλογα ζῷα τῶν ἀνθρώπων, κατασκευάσαι διὰ πλειόνων ὡς ὑπάρχουσαν τὴν τοιάνδε μαντικὴν καὶ τὴν ἀπολογίαν μετὰ τοῦτ' ἐναργεστέρως ἀποδεῖξαι καὶ ἀποδεικτικῶς ἀποδοκιμάσαι μὲν τοὺς λόγους τῶν ἀναιρούντων τὰς τοιασδὶ μαντείας ἀποδεικτικῶς δ' ἀνατρέψαι καὶ τοὺς λόγους τῶν εἰπόντων ἀπὸ δαιμόνων ἢ θεῶν γίνεσθαι τὰς κινήσεις τοῖς ζῴοις πρὸς τὸ μαντεύσασθαι καὶ μετὰ ταῦτα κατασκευάσαι περὶ τῆς τῶν ἀλόγων ζῴων ψυχῆς ὡς θειοτέρας. 

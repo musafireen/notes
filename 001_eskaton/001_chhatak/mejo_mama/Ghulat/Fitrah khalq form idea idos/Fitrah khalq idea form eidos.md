@@ -3,8 +3,8 @@
 https://biblehub.com/genesis/1-27.htm#lexicon
 ![[bbl.torah#gen#c1#27]]
 
-![[Qsorted#30:30]]
+![[Qrsi#30:30]]
 
-![[Qsorted#4:119]]
+![[Qrsi#4:119]]
 
 ![[Qrsd#20:50]]

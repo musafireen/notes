@@ -113,6 +113,11 @@ But when Jesus saw [it], he was much displeased, and said unto them, Suffer the 
 αμην λεγω υμιν ος εαν μη δεξηται την βασιλειαν του θεου ως παιδιον ου μη εισελθη εις αυτην
 
 Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall in no wise enter therein.
+### 45
+και γαρ ο υιος του ανθρωπου ουκ ηλθεν διακονηθηναι αλλα διακονησαι και δουναι την ψυχην αυτου λυτρον αντι πολλων
+
+For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
+
 ## c13
 ### 12
 παραδωσει δε αδελφος αδελφον εις θανατον και πατηρ τεκνον και επαναστησονται τεκνα επι γονεις και θανατωσουσιν αυτους
@@ -348,6 +353,10 @@ And if any man will sue thee at the law, and take away thy coat, let him have [t
 εισελθετε δια της στενης πυλης οτι πλατεια η πυλη και ευρυχωρος η οδος η απαγουσα εις την απωλειαν και πολλοι εισιν οι εισερχομενοι δι αυτης
 
 Enter ye in at the strait gate: for wide [is] the gate, and broad [is] the way, that leadeth to destruction, and many there be which go in thereat:
+### 15
+προσεχετε δε απο των ψευδοπροφητων οιτινες ερχονται προς υμας εν ενδυμασιν προβατων εσωθεν δε εισιν λυκοι αρπαγες
+
+Beware of false prophets, which come to you in sheep´s clothing, but inwardly they are ravening wolves.
 ## c9
 ### 34
 οι δε φαρισαιοι ελεγον εν τω αρχοντι των δαιμονιων εκβαλλει τα δαιμονια

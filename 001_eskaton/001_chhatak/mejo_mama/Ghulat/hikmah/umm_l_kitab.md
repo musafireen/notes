@@ -186,24 +186,24 @@ Non-standard quran
 
 # quran
 
-![[Qsorted#3:7]]
+![[Qrsi#3:7]]
 
-![[Qsorted#30:6]]![[Qsorted#30:7]]
+![[Qrsi#30:6]]![[Qrsi#30:7]]
 
-![[Qsorted#11:108]]
+![[Qrsi#11:108]]
 
-![[Qsorted#45:3]]
+![[Qrsi#45:3]]
 
-![[Qsorted#48:14]]
+![[Qrsi#48:14]]
 
-![[Qsorted#22:37]]
+![[Qrsi#22:37]]
 
-![[Qsorted#59:21]]
+![[Qrsi#59:21]]
 
-![[Qsorted#23:12]]![[Qsorted#23:14]]
+![[Qrsi#23:12]]![[Qrsi#23:14]]
 
-![[Qsorted#19:11]]![[Qsorted#19:12]]
+![[Qrsi#19:11]]![[Qrsi#19:12]]
 
-![[Qsorted#20:74]]
+![[Qrsi#20:74]]
 
-![[Qsorted#55:72]]
+![[Qrsi#55:72]]

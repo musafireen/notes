@@ -2,7 +2,7 @@ in golden age men governed by daemons under cronos :nomoi
 
 hierarchy of kinds :pl.nom#716a-b
 
-![[Qsorted#2:102]]
+![[Qrsi#2:102]]
 
 
 

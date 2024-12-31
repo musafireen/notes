@@ -1,17 +1,17 @@
 
 # kalimat fulān
 [[kalimat fulān]]
-![[Qsorted#7:137]]
+![[Qrsi#7:137]]
 
-![[Qsorted#7:158]]
+![[Qrsi#7:158]]
 
 # l kalim
 
-![[Qsorted#35:10]]
+![[Qrsi#35:10]]
 
 # kalimatun
 
-![[Qsorted#20:129]]
+![[Qrsi#20:129]]
 
-![[Qsorted#10:19]]
+![[Qrsi#10:19]]
 
