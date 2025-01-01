@@ -1,0 +1,19 @@
+الباب الثالث والستون : فى معرفة المرء و نفسه باربع طبائع وأربع دعائم وأربع أركان 
+
+قال الصادق في شرح ذلك اين طبائع الإنسان هي: السوداء و الصفراء والبلغم و التم. وأركان النور والنار والريح والماء وصورة طينية. فهو قد نظر في النور وأكل وشرب بالنار وجامع وتحرك ووجد الذوق والطعم بالماء، فهذا باب من صورته، فإذا نزلت في النفس هذه الأركان كانت تسعة تسعى، وإيجاد بدء خلقها عقله، وهو دليله ونظره وسبيله ومفتاحه وبه يستكمل ما انزل به، فإذا كان تأييد عقله من النور كان عالما حافظة ذكيا فهيما فطينة، يعلم بذلك من نضجه وعزه وكيف ولم، فلما أفاد عرف مجراه وموصله ومفصله فيكون قد أدرك بها الفناء وعاش بالبقاء بإخلاص الوحدانية، والآداب بالطاعة، فإذا فعل ذلك كان مستدركا لما قد فات وازاد على ما هو عليه، فعلى ذلك باتي وعرف ما هو فيه ومن أي شيء هو ههنا، وإلى ما هو صائر إليه ولا يجد أصفر إلا في أصفر ولا أحمر إلا في أحمر، ولا أسود إلا في أسود، ولا بياض إلا في بياض، ولا يجد إلا شما او حلوة أو مرة أو حامضة أو مالحة، فإذا عرف الأحمر من غير حمرة، والأصفر من غير صفرة، والأبيض من غير بياض والأسود من غير سواد، فكان تمام معرفته كيف يجد وهمه ولا يكون وهمه إلا بتأييد ،عقله، وقد يكون أن تجري فيه النفس وهي حارة، ثم تجري فيه وهي باردة، فإذا حلت به الحارة وقد سر وبطر وارتاح وابتهج واستبشر وفجر وزنا واهتز وفرح ، وإذا جاءت به الباردة اهتم وحزن وقل ودل وقسي واستياس فهي العوارض التي يكون منها الأسقام وان سبيلها المأكول والمشروب في ساعات لا تكون ساعات موافقة لذلك المشرب والمأكل بحد خطية 
+
+فيستوعب الآلام من الألوان والأسقام على موجب العلل والحاجة، والسلام
+
+**"In Knowing the Individual and his Self with Four Characters and Four Pillars and Four** **Corners"**
+
+Imam Al Sadiq said "In explaining that, the Characteristics of a person are: the Black and the Yellow and the Mucus and the Blood and the Corners of Light and Fire and Wind and Water and a Mud/Clay Image. He looks in Light and eats and drinks with Fire and he gathers and moves and finds taste and food by Water. For that is a Door from his Image for if these Corners descend in a Self it was nine seeking and finding the beginning of its creation is his mind. And that is his Guide and his Sight and his Way and his Key and with it he completes what he was sent down with"
+
+For if the support of his mind was of Light he was a Knower, Memorized, Intelligent, Understands, Clairvoyant. He knows about that from his maturity and glory and how and why. For when he benefited others he knew its direction/path and its connection and disconnection. So by that he would have realized Mortality and he lives immortally by Devotion to Monotheism.
+
+And the Arts are by Obediance so if he does that he realizes what has passed and he increased in what he is upon. And upon that he comes and knows what he is in and from what thing he is here and to what he is going to be. And he does not find Yellow except in Yellow nor Red except in Red nor Black except in Black and no Whiteness except in Whiteness. And he does not find except a Smell or Sweetness or Sourness or Acidy or Salty.
+
+For if he knows the Red without Red and the Yellow without the Yellow and the White without the White and the Black without the Black.
+
+Then that is the completion of his Knowing. How does he renew the illusion and his illusion is not except by the support of his mind. And it might be that the self runs in him while it is hot then it runs through him while he is cold. So if the Hot came upon him he is Joyful and Vain and Rested and Delighted and Glad and he commits Adultery and Fornicates and is Shaken and Happy. And if the Cold came upon him he is Griefed and Saddened and Lowered and Humiliated and Forgetful and Hopeless. For it is the symptoms that from it are ill health. And its course is food and drink in Hours and that are not Agreeable Hours for that drink and food. So he endures the pains from the colors and the ill health...and Peace."
+
+- 110 -

@@ -1,5 +1,7 @@
 جا برگفت یا خداوندِ من گویند که سرِ آدم بآسمان رسیدی، ! 410 چون شناسیم، باقر گفت سرِ آدم هدایتِ الهی است که از مغز بدل پیوسته است به آدم معترضه که دلِ آدم جایگاهِ وی است، چون زمین و قبۀ سر در گشادگی آسمان است و این نو روح بر آسما ر آسمانِ عالم کوچک رسیده است ه است از معترضه بر ممتحنه و از ممتحنه بر به شه آبگون رسیده است است تا بده دیوان برسیده است و تا بدیوان غاية الغايات جلت عظمته یا جابر بسیار بار عالمان باشند [411] 2] کہ کتا نابهای بھے های نه نهانی خوانده نده باشند با برایشان کدام است و پای ایشان کدام و دست چپ از در و اسنوز ندانند که سرایشان که نوز باشند .۶۱۱ دست راست از هم نشناسند،
 
+He said, "O my Lord, they say that the head of Adam has reached the sky!" 410 Because we know, Baqir said, "The head of Adam is the divine guidance that is connected from the brain to the body of Adam, and the heart of Adam is his place, because the earth and the dome of the head are in the expanse of the sky, and this new spirit has reached the heavens of the small world, and it is from the body of the test to the test, and from the test to the water-white king, until it has reached the heavens, and until the end of the ends, the glory of the greatness or the oppressor, many burdens of the scholars. [411] 2] That the books of the hidden treasures are not read, and which is for them, and which is their foot, and their left hand from the door and the snores do not know that their heads are new. 611 Their right hand does not recognize each other,
+
 ### Notes
 
 7. 1H الدورات

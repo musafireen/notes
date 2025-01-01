@@ -1,5 +1,5 @@
 
-# 173e
+## 173e
 
 [pl.sym.173e](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0173%3Atext%3DSym.%3Asection%3D173e)
 
@@ -187,12 +187,78 @@ to turn out to be respected and conspicuous
 • οἰκειότης οἰκεῖος οἶκος 
 strangeness and familiarity
 
-# 179d
+## 179d
 τῷ ἔργῳ: οὕτω καὶ θεοὶ τὴν περὶ τὸν ἔρωτα σπουδήν τε καὶ ἀρετὴν μάλιστα τιμῶσιν. Ὀρφέα δὲ τὸν Οἰάγρου ἀτελῆ ἀπέπεμψαν ἐξ Ἅιδου, φάσμα δείξαντες τῆς γυναικὸς ἐφ᾽ ἣν ἧκεν, αὐτὴν δὲ οὐ δόντες, ὅτι μαλθακίζεσθαι ἐδόκει, ἅτε ὢν κιθαρῳδός, καὶ οὐ τολμᾶν ἕνεκα τοῦ ἔρωτος ἀποθνῄσκειν ὥσπερ Ἄλκηστις, ἀλλὰ διαμηχανᾶσθαι ζῶν εἰσιέναι εἰς Ἅιδου. τοιγάρτοι διὰ ταῦτα δίκην αὐτῷ ἐπέθεσαν, καὶ ἐποίησαν τὸν θάνατον αὐτοῦ ὑπὸ γυναικῶν
 
 In this manner even the gods give special honor to zeal and courage in concerns of love. But Orpheus, son of Oeagrus, they sent back with failure from Hades, showing him only a wraith of the woman for whom he came; her real self they would not bestow, for he was accounted to have gone upon a coward's quest, too like the minstrel that he was, and to have lacked the spirit to die as Alcestis did for the sake of love, when he contrived the means of entering Hades alive. Wherefore they laid upon him the penalty he deserved, and caused him to meet his death
 
-# 210b
+## 202e
+ὥσπερ τὰ πρότερα, ἔφη, μεταξὺ θνητοῦ καὶ ἀθανάτου.
+
+τί οὖν, ὦ Διοτίμα;
+
+δαίμων μέγας, ὦ Σώκρατες: καὶ γὰρ πᾶν τὸ δαιμόνιον [202ε] μεταξύ ἐστι θεοῦ τε καὶ θνητοῦ.
+
+τίνα, ἦν δ᾽ ἐγώ, δύναμιν ἔχον;
+
+ἑρμηνεῦον καὶ διαπορθμεῦον θεοῖς τὰ παρ᾽ ἀνθρώπων καὶ ἀνθρώποις τὰ παρὰ θεῶν, τῶν μὲν τὰς δεήσεις καὶ θυσίας, τῶν δὲ τὰς ἐπιτάξεις τε καὶ ἀμοιβὰς τῶν θυσιῶν, ἐν μέσῳ δὲ ὂν ἀμφοτέρων συμπληροῖ, ὥστε τὸ πᾶν αὐτὸ αὑτῷ συνδεδέσθαι. διὰ τούτου καὶ ἡ μαντικὴ πᾶσα χωρεῖ καὶ ἡ τῶν ἱερέων τέχνη τῶν τε περὶ τὰς θυσίας καὶ τελετὰς
+
+[202e] “‘Well what?’
+
+“‘As I previously suggested, between a mortal and an immortal.’
+
+“‘And what is that, Diotima?’
+
+“‘A great spirit, Socrates: for the whole of the spiritual1 is between divine and mortal.’
+
+“‘Possessing what power?’ I asked.
+
+“‘Interpreting and transporting human things to the gods and divine things to men; entreaties and sacrifices from below, and ordinances and requitals from above: being midway between, it makes each to supplement the other, so that the whole is combined in one. Through it are conveyed all divination and priestcraft concerning sacrifice and ritual
+## 203a
+[203α] καὶ τὰς ἐπῳδὰς καὶ τὴν μαντείαν πᾶσαν καὶ γοητείαν. 
+
+[203a] and incantations, and all soothsaying and sorcery. 
+
+θεὸς δὲ ἀνθρώπῳ οὐ μείγνυται, 
+
+God with man does not mingle: 
+
+ἀλλὰ διὰ τούτου πᾶσά ἐστιν ἡ ὁμιλία καὶ ἡ διάλεκτος θεοῖς πρὸς ἀνθρώπους, καὶ ἐγρηγορόσι καὶ καθεύδουσι: 
+
+but the spiritual is the means of all society and converse of men with gods and of gods with men, whether waking or asleep. 
+
+καὶ ὁ μὲν περὶ τὰ τοιαῦτα σοφὸς δαιμόνιος ἀνήρ, ὁ δὲ ἄλλο τι σοφὸς ὢν ἢ περὶ τέχνας ἢ χειρουργίας τινὰς βάναυσος. 
+
+Whosoever has skill in these affairs is a spiritual man to have it in other matters, as in common arts and crafts, is for the mechanical. 
+
+οὗτοι δὴ οἱ δαίμονες πολλοὶ καὶ παντοδαποί εἰσιν, εἷς δὲ τούτων ἐστὶ καὶ ὁ Ἔρως.
+
+Many and multifarious are these spirits, and one of them is Love.’
+
+πατρὸς δέ, ἦν δ᾽ ἐγώ, τίνος ἐστὶ καὶ μητρός; 
+
+“‘From what father and mother sprung?’ I asked.
+## 203b
+[203β] μακρότερον μέν, ἔφη, διηγήσασθαι: ὅμως δέ σοι ἐρῶ. 
+
+“‘That is rather a long story,’ she replied; ‘but still, I will tell it you. 
+
+ὅτε γὰρ ἐγένετο ἡ Ἀφροδίτη, ἡστιῶντο οἱ θεοὶ οἵ τε ἄλλοι καὶ ὁ τῆς Μήτιδος ὑὸς Πόρος. 
+
+When Aphrodite was born, the gods made a great feast, and among the company was Resource the son of Cunning. 
+
+ἐπειδὴ δὲ ἐδείπνησαν, προσαιτήσουσα οἷον δὴ εὐωχίας οὔσης ἀφίκετο ἡ Πενία, καὶ ἦν περὶ τὰς θύρας. 
+
+And when they had banqueted there came Poverty abegging, as well she might in an hour of good cheer, and hung about the door. 
+
+ὁ οὖν Πόρος μεθυσθεὶς τοῦ νέκταρος— οἶνος γὰρ οὔπω ἦν—εἰς τὸν τοῦ Διὸς κῆπον εἰσελθὼν βεβαρημένος ηὗδεν. 
+
+Now Resource, grown tipsy with nectar—for wine as yet there was none—went into the garden of Zeus, and there, overcome with heaviness, slept. 
+
+ἡ οὖν Πενία ἐπιβουλεύουσα διὰ τὴν αὑτῆς ἀπορίαν παιδίον ποιήσασθαι ἐκ τοῦ Πόρου, κατακλίνεταί [203ξ] τε παρ᾽ αὐτῷ καὶ ἐκύησε τὸν ἔρωτα. 
+
+Then Poverty, being of herself so resourceless, devised the scheme of having a child by Resource, [203c] and lying down by his side she conceived Love. 
+## 210b
 τὸ ἐπὶ ὁτῳοῦν σώματι τῷ ἐπὶ ἑτέρῳ σώματι ἀδελφόν ἐστι, 
 
 but next he must remark how the beauty attached to this or that body is cognate to that which is attached to any other, 
@@ -209,7 +275,7 @@ it is gross folly not to regard as one and the same the beauty belonging to all;
 
 and so, having grasped this truth, he must make himself a lover of all beautiful bodies, and slacken the stress of his feeling for one by contemning it and counting it a trifle. But his next advance will be to set a higher value on the beauty of souls than on that of the body, so that however little the grace that may bloom in any likely soul
 
-# 215a
+## 215a
 
 [pl.sym.215a](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0173%3Atext%3DSym.%3Asection%3D215a)
 
@@ -281,13 +347,13 @@ I withhold my ears from the Sirens, and make off in flight
 • δραπετεύω δραπέτης διδράσκω 
 • τινά / παρά τινος
 to run away from someone
-# 218b
+## 218b
 Ἐρυξιμάχους, Παυσανίας, Ἀριστοδήμους τε καὶ Ἀριστοφάνας: Σωκράτη δὲ αὐτὸν τί δεῖ λέγειν, καὶ ὅσοι ἄλλοι; πάντες γὰρ κεκοινωνήκατε τῆς φιλοσόφου μανίας τε καὶ βακχείας—διὸ πάντες ἀκούσεσθε: συγγνώσεσθε γὰρ τοῖς τε τότε πραχθεῖσι καὶ τοῖς νῦν λεγομένοις. οἱ δὲ οἰκέται, καὶ εἴ τις ἄλλος ἐστὶν βέβηλός τε καὶ ἄγροικος, πύλας πάνυ μεγάλας τοῖς ὠσὶν ἐπίθεσθε.
 ἐπειδὴ γὰρ οὖν, ὦ ἄνδρες, ὅ τε λύχνος ἀπεσβήκει καὶ
 
 a Pausanias, an Aristodemus, and an Aristophanes—I need not mention Socrates himself—and all the rest of them; every one of you has had his share of philosophic frenzy and transport, so all of you shall hear. You shall stand up alike for what then was done and for what now is spoken. But the domestics, and all else profane and clownish, must clap the heaviest of doors upon their ears.
 “Well, gentlemen, when the lamp had been put out
-# 219e
+## 219e
 
 [pl.sym.219e](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0173%3Atext%3DSym.%3Asection%3D219e)
 

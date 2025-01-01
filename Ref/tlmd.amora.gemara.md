@@ -32,6 +32,32 @@ However, now that he has been created, he should examine his actions that he has
 וְאָמְרִי לַהּ: יְמַשְׁמֵשׁ בְּמַעֲשָׂיו.
 
 And some say: He should scrutinize his planned actions and evaluate whether or not and in what manner those actions should be performed, so that he will not sin.
+## tnt
+#### 24.a
+##### 4
+מַעֲשֶׂה שֶׁשָּׁלְחוּ לְחוֹנִי הַמְעַגֵּל וְכוּ׳. 
+
+The mishna taught: **An incident** occurred in **which** the people **sent** a message **to Ḥoni HaMe’aggel.** 
+
+This event is related in greater detail in the following _baraita_. 
+
+תָּנוּ רַבָּנַן: פַּעַם אַחַת יָצָא רוֹב אֲדָר וְלֹא יָרְדוּ גְּשָׁמִים, 
+
+**The Sages taught: Once, most of** the month of **Adar had passed but rain had** still **not fallen. 
+
+שָׁלְחוּ לְחוֹנִי הַמְעַגֵּל: הִתְפַּלֵּל וְיֵרְדוּ גְּשָׁמִים! הִתְפַּלֵּל, וְלֹא יָרְדוּ גְּשָׁמִים. עָג עוּגָה וְעָמַד בְּתוֹכָהּ, 
+
+They sent** this message **to Ḥoni HaMe’aggel: Pray, and rain will fall. He prayed, but no rain fell. 
+
+כְּדֶרֶךְ שֶׁעָשָׂה חֲבַקּוּק הַנָּבִיא, שֶׁנֶּאֱמַר: 
+
+He drew a circle** in the dust **and stood inside it, in the manner that the prophet Habakkuk did, as it is stated: 
+
+״עַל מִשְׁמַרְתִּי אֶעֱמֹדָה וְאֶתְיַצְּבָה עַל מָצוֹר וְגוֹ׳״.
+
+“And I will stand upon my watch and set myself upon the tower,** and I will look out to see what He will say to me, and what I shall answer when I am reproved” (Habakkuk 2:1). 
+
+This verse is taken to mean that Habakkuk fashioned a kind of prison for himself where he sat.
 ## hag
 #### 14.b
 ##### 2

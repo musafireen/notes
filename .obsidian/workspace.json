@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/umm.kitab/u.k.37.md",
+                "file": "Ref/umm.kitab/u.k.14.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "h.a.1",
+                "query": "u.k.6",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/umm.kitab/u.k.37.md",
+                "file": "Ref/umm.kitab/u.k.14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/umm.kitab/u.k.37.md",
+                "file": "Ref/umm.kitab/u.k.14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/umm.kitab/u.k.37.md"
+                "file": "Ref/umm.kitab/u.k.14.md"
               }
             }
           }
@@ -171,32 +171,33 @@
   },
   "active": "f39ae90aac6e8673",
   "lastOpenFiles": [
-    "Ref/haft.azilla/~syncthing~h.a.1.md.tmp",
-    "Ref/umm.kitab/u.k.38.md",
-    "Ref/umm.kitab/u.k.37.md",
+    "Ref/umm.kitab/u.k.13.md",
+    "Ref/umm.kitab/u.k.12.md",
+    "Ref/umm.kitab/u.k.11.md",
     "Ref/umm.kitab/u.k.10.md",
     "Ref/umm.kitab/u.k.9.md",
     "Ref/umm.kitab/u.k.8.md",
     "Ref/umm.kitab/u.k.7.md",
     "Ref/umm.kitab/u.k.6.md",
-    "Ref/umm.kitab/u.k.5.md",
-    "Ref/umm.kitab/u.k.4.md",
-    "Ref/umm.kitab/u.k.3.md",
-    "Ref/umm.kitab/u.k.2.md",
-    "Ref/umm.kitab/u.k.1.md",
-    "Ref/umm.kitab/u.k.0.md",
-    "Ref/umm.kitab/u.k.36.md",
-    "Ref/umm.kitab/u.k.35.md",
-    "Ref/umm.kitab/u.k.34.md",
-    "Ref/umm.kitab/u.k.33.md",
-    "Ref/umm.kitab/u.k.32.md",
-    "Ref/umm.kitab/u.k.31.md",
-    "Ref/umm.kitab/u.k.30.md",
-    "Ref/umm.kitab/u.k.29.md",
-    "Ref/umm.kitab/u.k.28.md",
-    "Ref/umm.kitab/u.k.27.md",
-    "Ref/umm.kitab/u.k.26.md",
-    "Ref/umm.kitab/u.k.25.md",
+    "Ref/haft.azilla/h.a.67.md",
+    "Ref/haft.azilla/h.a.66.md",
+    "Ref/haft.azilla/h.a.65.md",
+    "Ref/haft.azilla/h.a.64.md",
+    "Ref/haft.azilla/h.a.63.md",
+    "Ref/haft.azilla/h.a.62.md",
+    "Ref/haft.azilla/h.a.61.md",
+    "Ref/haft.azilla/h.a.60.md",
+    "Ref/haft.azilla/h.a.59.md",
+    "Ref/haft.azilla/h.a.58.md",
+    "Ref/haft.azilla/h.a.57.md",
+    "Ref/haft.azilla/h.a.56.md",
+    "Ref/haft.azilla/h.a.55.md",
+    "Ref/haft.azilla/h.a.54.md",
+    "Ref/haft.azilla/h.a.53.md",
+    "Ref/haft.azilla/h.a.52.md",
+    "Ref/haft.azilla/h.a.51.md",
+    "Ref/haft.azilla/h.a.50.md",
+    "Ref/haft.azilla/~syncthing~h.a.1.md.tmp",
     "Ref/umm.kitab",
     "Ref/haft.azilla",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/zll/ilovepdf_pages-to-jpg.q7JcsLhN.zip.part",
@@ -206,7 +207,6 @@
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/araf/~syncthing~araf.md.tmp",
     "Ref/~syncthing~mdrsh.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/~syncthing~shahadat.md.tmp",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/hurr_'abd/~syncthing~hurr_abd.md.tmp",
     "Ref/Pasted image 20241128002518.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

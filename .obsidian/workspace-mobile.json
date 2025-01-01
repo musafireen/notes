@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/eusb.md",
+                "file": "Ref/pl.symposium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eusb"
+              "title": "pl.symposium"
             }
           }
         ],
@@ -359,14 +359,24 @@
   },
   "active": "da6304b2e5b65b68",
   "lastOpenFiles": [
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zll/Hjj.md",
+    "Ref/umm.kitab/u.k.12.md",
     "Ref/haft.azilla/h.a.1.md",
+    "Ref/umm.kitab/u.k.13.md",
+    "Ref/haft.azilla/h.a.13.md",
+    "Ref/haft.azilla/h.a.31.md",
+    "Ref/haft.azilla/h.a.26.md",
+    "Ref/haft.azilla/h.a.25.md",
+    "Ref/haft.azilla/h.a.16.md",
+    "Ref/umm.kitab/u.k.36.md",
+    "Ref/pl.symposium.md",
+    "Ref/eusb.md",
+    "Ref/dmsc.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zll/Hjj.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/zll/shbh.md",
     "Ref/ShBh.md",
     "Ref/Qrsi.md",
     "Ref/umm.kitab/u.k.1.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/zll/haft.azilla/h.a.1.md",
-    "Ref/umm.kitab/u.k.12.md",
     "Ref/umm.kitab/u.k.2.md",
     "Ref/umm.kitab/u.k.23.md",
     "Ref/umm.kitab/u.k.32.md",
@@ -375,16 +385,6 @@
     "Ref/umm.kitab/u.k.30.md",
     "Ref/umm.kitab/u.k.24.md",
     "Ref/umm.kitab/u.k.15.md",
-    "Ref/umm.kitab/u.k.36.md",
-    "Ref/umm.kitab/u.k.22.md",
-    "Ref/umm.kitab/u.k.21.md",
-    "Ref/umm.kitab/u.k.3.md",
-    "Ref/umm.kitab/u.k.26.md",
-    "Ref/umm.kitab/u.k.0.md",
-    "Ref/umm.kitab/u.k.18.md",
-    "Ref/umm.kitab/u.k.14.md",
-    "Ref/umm.kitab/u.k.10.md",
-    "Ref/umm.kitab/u.k.9.md",
     "Ref/umm.kitab",
     "Ref/haft.azilla",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/hikmah/umm_l_kitab",

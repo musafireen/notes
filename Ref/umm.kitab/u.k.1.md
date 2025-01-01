@@ -22,9 +22,15 @@ So, the divine manifestation in the guardianship of Ali presented the jewels of 
 
 So, the divine manifestation in the wilayat of Ali was presented to the cities and villages. In every city and village that they accepted, all the people of that wilayat were religious, and in every city and village that they denied, all the people were disbelievers and lost and misguided.
 
-یا جابر آیتِ قرآن بر این ناطق است قَولُهُ تَعالی أَلَم تَرَ أَنَّ اللّهَ یَسجُدُ لَهُ مَن فِی السَمَوَاتِ و مَن فِی الأَرضِ و الشّمسُ و القَمَرُ و النُجُومُ و الجِبَالُ وَ الشَّجَرُ و الدَّوَابُّ (؟) و کَثِیرٌٍ حَقَّ عَلَیهِ العَذَابُ، و مَن یُهِنِ اللّهُ فَمَا لَهُ مِن مُکرِمٍ [[22,18-19]](https://www.islamicstudies.info/tafheem.php?sura=22&verse=18)
+یا جابر آیتِ قرآن بر این ناطق است قَولُهُ تَعالی 
 
-O Jabir, a verse of the Qur’an that speaks for itself is the saying of God Almighty: “Have you not seen that to God prostrates whoever is in the heavens and whoever is on the earth and the sun, the moon, the stars, the mountains, the trees, and the moving creatures? But many have the punishment justly due. And he whom God humiliates - for him there is no one to give him honor.”
+O Jabir, a verse of the Qur’an that speaks for itself is the saying of God Almighty: 
+
+أَلَم تَرَ أَنَّ اللّهَ یَسجُدُ لَهُ مَن فِی السَمَوَاتِ و مَن فِی الأَرضِ و الشّمسُ و القَمَرُ و النُجُومُ و الجِبَالُ وَ الشَّجَرُ و الدَّوَابُّ (؟) و کَثِیرٌٍ حَقَّ عَلَیهِ العَذَابُ، و مَن یُهِنِ اللّهُ فَمَا لَهُ مِن مُکرِمٍ
+
+\[[22,18-19](https://www.islamicstudies.info/tafheem.php?sura=22&verse=18)]\]
+
+“Have you not seen that to God prostrates whoever is in the heavens and whoever is on the earth and the sun, the moon, the stars, the mountains, the trees, and the moving creatures? But many have the punishment justly due. And he whom God humiliates - for him there is no one to give him honor.”
 
 ### Notes
 

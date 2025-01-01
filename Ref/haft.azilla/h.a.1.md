@@ -323,9 +323,16 @@ and it is the Highest of Paradises. 
 Then He created the First Adam and took the covenant upon him and his offspring.Then Allah said "Who is your Lord?" 
 
 ## ref.11.1
+![[Qrsi#7:26]]![[Qrsi#7:27]]
+
+![[Qrsi#:7:31]]
+
+![[Qrsi#7:35]]
+
 ![[Qrsi#7:172]]
 
 ![[Qrsi#36:60]]
+
 
 ![[Qrsi#2:31]]
 ## unref.11.1
