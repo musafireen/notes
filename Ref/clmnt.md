@@ -849,27 +849,53 @@ So Plato thinks that some of the barbarians are also philosophers. But Epicurus,
 
 ἀρχιπροφήτῃ μαθητεῦσαι, Πλάτων δὲ Σεχνούφιδι τῷ Ἡλιοπολίτῃ, Εὔδοξος 1.15.69.2 
 
-δὲ ὁ Κνίδιος Κονούφιδι τῷ καὶ αὐτῷ Αἰγυπτίῳ. ἐν δὲ τῷ περὶ ψυχῆς Πλάτων ** 
+δὲ ὁ Κνίδιος Κονούφιδι τῷ καὶ αὐτῷ Αἰγυπτίῳ. 
+
+(69) Pythagoras is recorded as a student of Sonches, the highest prophet of the Egyptians; Plato is recorded as a student of Sechnyphis of Heliopolis; and, Eudoxos of Knidos is recorded as a student of Konyphis, who was also an Egyptian. 
+
+ἐν δὲ τῷ περὶ ψυχῆς Πλάτων ** 
 
 πάλιν προφητείαν γνωρίζων φαίνεται, προφήτην εἰσάγων τὸν τῆς Λαχέσεως λόγον
 
-ἐξαγγέλλοντα πρὸς τὰς κληρου1.15.69.3 μένας ψυχὰς <καὶ> προθεσπίζοντα. κἀν τῷ
+ἐξαγγέλλοντα πρὸς τὰς κληρου1.15.69.3 μένας ψυχὰς <καὶ> προθεσπίζοντα. 
 
-Τιμαίῳ τὸν σοφώτατον Σόλωνα μανθάνοντα εἰοάγει πρὸς τοῦ βαρβάρου. ἔχει δὲ τὰ
+In his book On the Soul, . . . [missing material]. Plato again clearly recognizes prophecy when he introduces a prophet announcing the word of Lachesis, uttering predictions to the souls whose destiny is becoming fixed. 
+
+κἀν τῷ
+
+Τιμαίῳ τὸν σοφώτατον Σόλωνα μανθάνοντα εἰοάγει πρὸς τοῦ βαρβάρου. 
+
+And in the Timaeus [22 B], Plato introduces the most wise Solon learning from the barbarian. 
+
+ἔχει δὲ τὰ
 
 τῆς λέξεως ὧδε· ὦ Σόλων, Σόλων, Ἕλληνες ὑμεῖς αἰεὶ παῖδές ἐστε, 1.15.69.4 γέρων
 
-δὲ Ἕλλην οὐδείς· οὐ γὰρ ἔχετε μάθημα χρόνῳ πολιόν. ∆ημόκριτος γὰρ τοὺς
+δὲ Ἕλλην οὐδείς· οὐ γὰρ ἔχετε μάθημα χρόνῳ πολιόν. 
+
+The substance of the declaration is to the following effect: “O Solon, Solon, you Greeks are always children. And no Greek is an old man. For you have no learning that is grey with age”.
+
+∆ημόκριτος γὰρ τοὺς
 
 Βαβυλωνίους λόγους <προσλαβὼν τοὺς> ἠθικοὺς πεποίηται· λέγεται γὰρ τὴν
 
 Ἀκικάρου στήλην ἑρμηνευθεῖσαν τοῖς ἰδίοις συντάξαι συγγράμμασι κἄστιν
 
-ἐπισημήνασθαι <τὰ> παρ' αὐτοῦ, τάδε λέγει ∆ημόκριτος 1.15.69.5 γράφοντος. ναὶ μὴν
+ἐπισημήνασθαι <τὰ> παρ' αὐτοῦ, τάδε λέγει ∆ημόκριτος 1.15.69.5 γράφοντος. 
 
-καὶ περὶ αὑτοῦ ᾑ σεμνυνόμενός φησί που ἐπὶ τῇ πολυμαθία· ἐγὼ δὲ τῶν κατ' 
+Demokritos appropriated the Babylonian ethical discourses, for he is said to have combined with his own compositions a translation of the inscription (stelē) of Akikaros. You may find the distinction notified by him when he writes, “thus says Demokritos.” 
 
-ἐμαυτὸν ἀνθρώπων γῆν πλείστην ἐπεπλανησάμην, ἱστορέων τὰ μήκιστα, καὶ ἀέρας
+ναὶ μὴν
+
+καὶ περὶ αὑτοῦ ᾑ σεμνυνόμενός φησί που ἐπὶ τῇ πολυμαθία· 
+
+About himself, too, where, bragging about his erudition, he says, 
+
+ἐγὼ δὲ τῶν κατ' 
+
+ἐμαυτὸν ἀνθρώπων γῆν πλείστην ἐπεπλανησάμην, 
+
+ἱστορέων τὰ μήκιστα, καὶ ἀέρας
 
 τε καὶ γέας πλείστας εἶδον, καὶ λογίων ἀνθρώπων πλείστων ἐπήκουσα, καὶ
 
@@ -877,59 +903,94 @@ So Plato thinks that some of the barbarians are also philosophers. But Epicurus,
 
 καλεόμενοι Ἁρπεδονάπται, σὺν τοῖς δ' ἐπὶ πᾶσιν ἐπ' ἔτε' 1.15.69.6 ὀγδώκοντα ἐπὶ
 
-ξείνης ἐγενήθην. ἐπῆλθε γὰρ Βαβυλῶνά τε καὶ Περσίδα καὶ Αἴγυπτον τοῖς τε Μάγοις
+ξείνης ἐγενήθην. 
 
-καὶ τοῖς ἱερεῦσι μαθητεύων. Ζωροάστρην δὲ τὸν Μάγον τὸν Πέρσην ὁ Πυθαγόρας
+“I have travelled the earth than any man of my time, investigating the most remote parts. I have seen the most skies and lands, and I have heard of learned men in very great numbers. 
+
+ἐπῆλθε γὰρ Βαβυλῶνά τε καὶ Περσίδα καὶ Αἴγυπτον τοῖς τε Μάγοις
+
+καὶ τοῖς ἱερεῦσι μαθητεύων. 
+
+And in composition no one has surpassed me. In demonstration, not even those among the Egyptians who are called Arpenodaptians, with whom I lived in exile eighty years, surpassed me.” For Demokritos went to Babylon, Persia, and Egypt, to learn from the Magians and the priests. 
+
+Ζωροάστρην δὲ τὸν Μάγον τὸν Πέρσην ὁ Πυθαγόρας
 
 ἐζήλωσεν, <καὶ> βίβλους ἀποκρύφους τἀνδρὸς τοῦδε οἱ τὴν Προδίκου μετιόντες
 
 αἵρεσιν 1.15.70.1 αὐχοῦσι κεκτῆσθαι. 
 
-(69) Pythagoras is recorded as a student of Sonches, the highest prophet of the Egyptians; Plato is recorded as a student of Sechnyphis of Heliopolis; and, Eudoxos of Knidos is recorded as a student of Konyphis, who was also an Egyptian. In his book On the Soul, . . . [missing material]. Plato again clearly recognizes prophecy when he introduces a prophet announcing the word of Lachesis, uttering predictions to the souls whose destiny is becoming fixed. And in the Timaeus [22 B], Plato introduces the most wise Solon learning from the barbarian. The substance of the declaration is to the following effect: “O Solon, Solon, you Greeks are always children. And no Greek is an old man. For you have no learning that is grey with age”.
-
-Demokritos appropriated the Babylonian ethical discourses, for he is said to have combined with his own compositions a translation of the inscription (stelē) of Akikaros. You may find the distinction notified by him when he writes, “thus says Demokritos.” About himself, too, where, bragging about his erudition, he says, “I have travelled the earth than any man of my time, investigating the most remote parts. I have seen the most skies and lands, and I have heard of learned men in very great numbers. And in composition no one has surpassed me. In demonstration, not even those among the Egyptians who are called Arpenodaptians, with whom I lived in exile eighty years, surpassed me.” For Demokritos went to Babylon, Persia, and Egypt, to learn from the Magians and the priests. 
-
 Pythagoras was enthusiastic about Zoroaster, the Magian of Persia. Those who follow the sect (or: heresy) of Prodikos claim to possess the secret books of Zoroaster.
 
 #### s70
-1.15.70.1 αὐχοῦσι κεκτῆσθαι. Ἀλέξανδρος δὲ ἐν τῷ περὶ Πυθαγορικῶν
+Ἀλέξανδρος δὲ ἐν τῷ περὶ Πυθαγορικῶν
 
 συμβόλων Ζαράτῳ τῷ Ἀσσυρίῳ μαθητεῦσαι ἱστορεῖ τὸν Πυθαγόραν (Ἰεζεκιὴλ
 
 τοῦτον ἡγοῦνταί τινες, οὐκ ἔστι δέ, ὡς ἔπειτα δηλωθήσεται), ἀκηκοέναι τε πρὸς
 
-τούτοις Γαλατῶν καὶ Βραχμάνων τὸν 1.15.70.2 Πυθαγόραν βούλεται. Κλέαρχος δὲ ὁ
-
-Περιπατητικὸς εἰδέναι φησί 1.15.70.3 τινα Ἰουδαῖον, ὃς Ἀριστοτέλει συνεγένετο. 
-
-Ἡράκλειτος γὰρ οὐκἀνθρωπίνως φησίν, ἀλλὰ σὺν θεῷ <τὸ> μέλλον Σιβύλλῃ
-
-πεφάνθαι. φασὶ γοῦν ἐν ∆ελφοῖς παρὰ τὸ βουλευτήριον δείκνυσθαι πέτραν τινά. ἐφ' 
-
-ἧς λέγεται καθίζεσθαι τὴν πρώτην Σίβυλλαν ἐκ τοῦ Ἑλικῶνος παραγενομένην ὑπὸ
-
-τῶν Μουσῶν τραφεῖσαν. ἔνιοι δέ φασιν ἐκ 1.15.70.4 Μαλιέων ἀφικέσθαι Λαμίας
-
-οὖσαν θυγατέρα τῆς Ποσειδῶνος. Σαραπίων δὲ ἐν τοῖς ἔπεσι μηδὲ ἀποθανοῦσαν
-
-λῆξαι μαντικῆς φησι τὴν Σίβυλλαν, καὶ τὸ μὲν εἰς ἀέρα χωρῆσαν αὐτῆς μετὰ
-
-τελευτήν, τοῦτ' εἶναι τὸ ἐν φήμαις καὶ κληδόσι μαντευόμενον, <ἐκ> δὲ τοῦ εἰς γῆν
-
-μεταβαλόντος σώματος πόας ὡς εἰκὸς ἀναφυείσης, ὅσα ἂν αὐτὴν ἐπινεμηθῇ
-
-θρέμματᾳ κατ' ἐκεῖνον δήπουθεν γενόμενα τὸν τόπον, ἀκριβῆ τὴν διὰ τῶν σπλάγχνων τοῖς ἀνθρώποις προφαίνειν τοῦ μέλλοντος δήλωσιν γράφει, τὴν δὲ
-
-ψυχὴν αὐτῆς εἶναι τὸ ἐν τῇ σελήνῃ φαινόμενον πρόσωπον οἴεται. 
-
+τούτοις Γαλατῶν καὶ Βραχμάνων τὸν 1.15.70.2 Πυθαγόραν βούλεται. 
 
 Alexander [Polyhistor], in his book On Pythagorean Symbols, reports that Pythagoras was a student of Zaratos the Assyrian (some think that he is Ezekiel; but he is not, as I will show), and claims that, in addition to these, Pythagoras consulted with Galatians and Brahmans.
 
-Klearchos the Peripatetic says that he knew a Judean who associated with Aristotle. . . [omitted paragraphs]. . . . Thus philosophy, a thing of the highest utility, flourished in antiquity among the barbarians, shedding its light on the peoples (ethnē). And afterwards it came to Greece. First in its ranks were the prophets among the Egyptians; the Chaldeans among the Assyrians; the Druids among the Galatians; the Samanaians among the Baktrians; those who philosophize among the Celts; and, the Magians of the Persians, who predicted the saviour’s birth, and came into the land of Judea guided by a star.
+Κλέαρχος δὲ ὁ
 
-(70) Alexander [Polyhistor], in his book On Pythagorean Symbols, reports that Pythagoras was a student of Zaratos the Assyrian (some think that he is Ezekiel; but he is not, as I will show), and claims that, in addition to these, Pythagoras consulted with Galatians and Brahmans. Klearchos the Peripatetic says that he knew a Judean who associated with Aristotle.
+Περιπατητικὸς εἰδέναι φησί 1.15.70.3 τινα Ἰουδαῖον, ὃς Ἀριστοτέλει συνεγένετο. 
 
-Herakleitos says that the sibyl [at Delphi] spoke not in a human way but by god’s aid. They say, accordingly, that at Delphi a stone was placed beside the oracle, and the first sibyl, who came from Helikon and was raised by the Muses, sat on it. But some say that she came from Malis, being the daughter of Lamia and granddaughter of Poseidon. In his epic verses, Serapion says that the sibyl contined her divination even after death. He writes that the air that came from her dead body was what caused oracular utterances in voices and omens. Furthermore, when her body decomposed into earth, a grass naturally grew out of it. Whatever animals happened to be there and ate the grass exhibited an accurate knowledge of the future by way of their entrails. He also thinks that the face seen in the moon is the sibyl’s soul. 
+Klearchos the Peripatetic says that he knew a Judean who associated with Aristotle. . . [omitted paragraphs]. . . . 
+
+Ἡράκλειτος γὰρ οὐκἀνθρωπίνως φησίν, ἀλλὰ σὺν θεῷ <τὸ> μέλλον Σιβύλλῃ
+
+πεφάνθαι. 
+
+Herakleitos says that the sibyl [at Delphi] spoke not in a human way but by god’s aid. 
+
+φασὶ γοῦν ἐν ∆ελφοῖς παρὰ τὸ βουλευτήριον δείκνυσθαι πέτραν τινά. 
+
+They say, accordingly, that at Delphi a stone was placed beside the oracle, 
+
+ἐφ' 
+
+ἧς λέγεται καθίζεσθαι τὴν πρώτην Σίβυλλαν ἐκ τοῦ Ἑλικῶνος παραγενομένην ὑπὸ
+
+τῶν Μουσῶν τραφεῖσαν. 
+
+and the first sibyl, who came from Helikon and was raised by the Muses, sat on it. 
+
+ἔνιοι δέ φασιν ἐκ 1.15.70.4 Μαλιέων ἀφικέσθαι Λαμίας
+
+οὖσαν θυγατέρα τῆς Ποσειδῶνος. 
+
+But some say that she came from Malis, being the daughter of Lamia and granddaughter of Poseidon. 
+
+Σαραπίων δὲ ἐν τοῖς ἔπεσι μηδὲ ἀποθανοῦσαν
+
+λῆξαι μαντικῆς φησι τὴν Σίβυλλαν, 
+
+In his epic verses, Serapion says that the sibyl contined her divination even after death. 
+
+καὶ τὸ μὲν εἰς ἀέρα χωρῆσαν αὐτῆς μετὰ
+
+τελευτήν, τοῦτ' εἶναι τὸ ἐν φήμαις καὶ κληδόσι μαντευόμενον, 
+
+He writes that the air that came from her dead body was what caused oracular utterances in voices and omens. 
+
+<ἐκ> δὲ τοῦ εἰς γῆν
+
+μεταβαλόντος σώματος πόας ὡς εἰκὸς ἀναφυείσης, 
+
+Furthermore, when her body decomposed into earth, a grass naturally grew out of it. 
+
+ὅσα ἂν αὐτὴν ἐπινεμηθῇ
+
+θρέμματᾳ κατ' ἐκεῖνον δήπουθεν γενόμενα τὸν τόπον, ἀκριβῆ τὴν διὰ τῶν σπλάγχνων τοῖς ἀνθρώποις προφαίνειν τοῦ μέλλοντος δήλωσιν γράφει, 
+
+Whatever animals happened to be there and ate the grass exhibited an accurate knowledge of the future by way of their entrails. 
+
+τὴν δὲ
+
+ψυχὴν αὐτῆς εἶναι τὸ ἐν τῇ σελήνῃ φαινόμενον πρόσωπον οἴεται. 
+
+He also thinks that the face seen in the moon is the sibyl’s soul. 
 #### s71
 1.15.71.1 Τάδε μὲν περὶ Σιβύλλης· 
 
@@ -974,19 +1035,39 @@ Also, some of the Indians obey the precepts of Buddha (Boutta) who they honour a
 
 δὲ καὶ Ἀνάχαρσις ἦν, καὶ πολλῶν παρ' 1.15.72.2 Ἕλλησι διαφέρων οὗτος
 
-ἀναγράφεται φιλοσόφων. τοὺς δὲ Ὑπερβορέους Ἑλλάνικος ὑπὲρ τὰ Ῥίπαια ὄρη
+ἀναγράφεται φιλοσόφων. 
+
+Anacharsis was a Scythian, and it is recorded that he was superior to many Greek philosophers. 
+
+τοὺς δὲ Ὑπερβορέους Ἑλλάνικος ὑπὲρ τὰ Ῥίπαια ὄρη
 
 οἰκεῖν ἱστορεῖ, διδάσκεσθαι δὲ αὐτοὺς δικαιοσύνην μὴ κρεοφαγοῦντας, ἀλλ' 
 
-ἀκροδρύοις χρωμένους. 1.15.72.3 τοὺς ἑξηκονταετεῖς οὗτοι ἔξω πυλῶν ἄγοντες
+ἀκροδρύοις χρωμένους. 
 
-ἀφανίζουσιν. εἰσὶ δὲ καὶ παρὰ Γερμανοῖς αἱ ἱεραὶ καλούμεναι γυναῖκες, αἳ ποταμῶν
+And the Hyperboreans, Hellanikos relates, lived beyond the Riphaean mountains. They learned justice and did not eat meat, but rather nuts. 
+
+1.15.72.3 τοὺς ἑξηκονταετεῖς οὗτοι ἔξω πυλῶν ἄγοντες
+
+ἀφανίζουσιν. 
+
+They take everyone who is over sixty years old outside the gates and kill them. 
+
+εἰσὶ δὲ καὶ παρὰ Γερμανοῖς αἱ ἱεραὶ καλούμεναι γυναῖκες, αἳ ποταμῶν
 
 δίναις προσβλέπουσαι καὶ ῥευμάτων ἑλιγμοῖς καὶ ψόφοις τεκμαίρονται καὶ
 
-προθεσπίζουσι τὰ μέλλοντα. αὗται γοῦν οὐκ εἴασαν αὐτοὺς τὴν μάχην θέσθαι πρὸς
+προθεσπίζουσι τὰ μέλλοντα. 
 
-Καίσαρα πρὶν ἐπιλάμψαι σελήνην τὴν νέαν. 1.15.72.4 τούτων ἁπάντων πρεσβύτατον
+There are also among the Germans those called sacred women, who predict future events by inspecting the whirlpools of rivers and the eddies and by listening to the sounds of streams. 
+
+αὗται γοῦν οὐκ εἴασαν αὐτοὺς τὴν μάχην θέσθαι πρὸς
+
+Καίσαρα πρὶν ἐπιλάμψαι σελήνην τὴν νέαν. 
+
+These women did not allow the men to fight against [Julius] Caesar until the new moon shone.
+
+1.15.72.4 τούτων ἁπάντων πρεσβύτατον
 
 μακρῷ τὸ Ἰουδαίων γένος, καὶ τὴν παρ' αὐτοῖς φιλοσοφίαν ἔγγραπτον γενομένην
 
@@ -994,7 +1075,13 @@ Also, some of the Indians obey the precepts of Buddha (Boutta) who they honour a
 
 Φίλων, οὐ μὴν ἀλλὰ καὶ Ἀριστόβουλος ὁ Περιπατητικὸς καὶ ἄλλοι πλείους, 1.15.72.5 
 
-ἵνα μὴ κατ' ὄνομα ἐπιὼν διατρίβω. φανερώτατα δὲ Μεγασθένης ὁ συγγραφεὺς ὁ
+ἵνα μὴ κατ' ὄνομα ἐπιὼν διατρίβω. 
+
+[Judeans as the oldest barbarian people]
+
+Among all these peoples, by far the most ancient is the Judean descent group (genos). Philo the Pythagorean (along with Aristoboulos the Peripatetic and several others who I will not name to save time here) shows that the philosophy of the Judeans was put into writing before Greek philosophy. 
+
+φανερώτατα δὲ Μεγασθένης ὁ συγγραφεὺς ὁ
 
 Σελεύκῳ τῷ Νικάτορι συμβεβιωκὼς ἐν τῇ τρίτῃ τῶν Ἰνδικῶν ὧδε γράφει· ἅπαντα
 
@@ -1004,11 +1091,7 @@ Also, some of the Indians obey the precepts of Buddha (Boutta) who they honour a
 
 ὑπὸ 1.15.73.1 τῶν καλουμένων Ἰουδαίων. 
 
-Anacharsis was a Scythian, and it is recorded that he was superior to many Greek philosophers. And the Hyperboreans, Hellanikos relates, lived beyond the Riphaean mountains. They learned justice and did not eat meat, but rather nuts. They take everyone who is over sixty years old outside the gates and kill them. There are also among the Germans those called sacred women, who predict future events by inspecting the whirlpools of rivers and the eddies and by listening to the sounds of streams. These women did not allow the men to fight against [Julius] Caesar until the new moon shone.
-
-[Judeans as the oldest barbarian people]
-
-Among all these peoples, by far the most ancient is the Judean descent group (genos). Philo the Pythagorean (along with Aristoboulos the Peripatetic and several others who I will not name to save time here) shows that the philosophy of the Judeans was put into writing before Greek philosophy. The author Megasthenes, a contemporary of Seleukos Nikanor [reigned ca. 305-281 BCE], clearly writes as follows in the third section of his book On Indian Matters: “All that was said about nature by the ancients is said also by philosophers outside of Greece, some things by the Brahmans among the Indians and others by those called Judeans in Syria.” 
+The author Megasthenes, a contemporary of Seleukos Nikanor [reigned ca. 305-281 BCE], clearly writes as follows in the third section of his book On Indian Matters: “All that was said about nature by the ancients is said also by philosophers outside of Greece, some things by the Brahmans among the Indians and others by those called Judeans in Syria.” 
 
 #### s73
 τινὲς δὲ μυθικώτερον τῶν Ἰδαίων
@@ -1017,35 +1100,61 @@ Among all these peoples, by far the most ancient is the Judean descent group (ge
 
 Ἐφεσίων λεγομένων γραμμάτων καὶ ἡ τῶν κατὰ μου σικὴν εὕρεσις ῥυθμῶν
 
-ἀναφέρεται· δι' ἣν αἰτίαν οἱ παρὰ τοῖς μουσικοῖς δάκτυλοι τὴν προσηγορίαν
+ἀναφέρεται· 
 
-εἰλήφασι. Φρύγες δὲ ἦσαν καὶ 1.15.73.2 βάρβαροι οἱ Ἰδαῖοι δάκτυλοι. Ἡρόδωρος δὲ
+Some of those more inclined to legends say that certain so-called Dactyls of Ida [a mountain on Crete] were the first sages, to whom are attributed the invention of so-called “Ephesian letters” and musical rhythms. 
+
+δι' ἣν αἰτίαν οἱ παρὰ τοῖς μουσικοῖς δάκτυλοι τὴν προσηγορίαν
+
+εἰλήφασι. Φρύγες δὲ ἦσαν καὶ 1.15.73.2 βάρβαροι οἱ Ἰδαῖοι δάκτυλοι. 
+
+For this reason “dactyls” in music received their name. Now the Dactyls of Ida were Phrygians and barbarians. 
+
+Ἡρόδωρος δὲ
 
 τὸν Ἡρακλέα μάντιν καὶφυσικὸν γενόμενον ἱστορεῖ παρὰ Ἄτλαντος τοῦ βαρβάρου
 
 τοῦ Φρυγὸς διαδέχεσθαι τοὺς τοῦ κόσμου κίονας, αἰνιττομένου τοῦ μύθου τὴν
 
-1.15.73.3 τῶν οὐρανίων ἐπιστήμην μαθήσει διαδέχεσθαι. ὁ δὲ Βηρύτιος Ἕρμιππος
+1.15.73.3 τῶν οὐρανίων ἐπιστήμην μαθήσει διαδέχεσθαι. 
+
+Herodoros [of Herakleia, fifth century BCE] relates that Herakles was a seer and a student of physics [within philosophy] who received the columns of the universe from the barbarian Atlas, the Phrygian, a story which means that he was taught knowledge of the heavenly bodies. 
+
+ὁ δὲ Βηρύτιος Ἕρμιππος
 
 Χείρωνα τὸν Κένταυρον σοφὸν καλεῖ, ἐφ' οὗ καὶ ὁ τὴν Τιτανομαχίαν γράψας φησίν, 
 
 ὡς πρῶτος οὗτος εἴς τε δικαιοσύνην θνητῶν γένος ἤγαγεν δείξας ὅρκους καὶ θυσίας
 
-ἱλαρὰς καὶ σχήματα Ὀλύμπου. 1.15.73.4 παρὰ τούτῳ Ἀχιλλεὺς παιδεύεται ὁ ἐπ' 
+ἱλαρὰς καὶ σχήματα Ὀλύμπου. 
+
+Hermippos of Berytos [early second century CE] calls Charon the Centaur wise, about whom the person who wrote The Battle of Giants says, “that he first led the race of mortals to righteousness by teaching them the solemnity of the oath, propitiatory sacrifices, and the figures of Olympos.” 
+
+1.15.73.4 παρὰ τούτῳ Ἀχιλλεὺς παιδεύεται ὁ ἐπ' 
 
 Ἴλιον στρατεύσας, Ἱππὼ δὲἡ θυγάτηρ τοῦ Κενταύρου συνοικήσασα Αἰόλῳ ἐδιδάξατο
 
-αὐτὸν τὴν 1.15.73.5 φυσικὴν θεωρίαν, τὴν πάτριον ἐπιστήμην. μαρτυρεῖ καὶ
+αὐτὸν τὴν 1.15.73.5 φυσικὴν θεωρίαν, τὴν πάτριον ἐπιστήμην. 
 
-Εὐριπίδης περὶ τῆς Ἱπποῦς ὧδέ πως· ἣ πρῶτα μὲν τὰ θεῖα προὐμαντεύσατο χρησμοῖσι <σαφέσιν> ἀστέρων ἐπ' ἀντολαῖς. 1.15.73.6 παρὰ τῷ Αἰόλῳ τούτῳ Ὀδυσσεὺς μετὰ
+Achilles, who fought at Troy, was taught by Charon. Hippo, the daughter of the Centaur, who dwelt with Aiolus, taught him her father’s theory of physics. 
 
-τὴν Ἰλίου ἅλωσιν ξενίζεται. παρατήρει μοι τοὺς χρόνους εἰς σύγκρισιν τῆς Μωυσέως
+μαρτυρεῖ καὶ
+
+Εὐριπίδης περὶ τῆς Ἱπποῦς ὧδέ πως· ἣ πρῶτα μὲν τὰ θεῖα προὐμαντεύσατο χρησμοῖσι <σαφέσιν> ἀστέρων ἐπ' ἀντολαῖς. 
+
+Euripides also refers to Hippo as follows: “Who first, by oracles, presaged, and by the rising stars, events divine.” 
+
+1.15.73.6 παρὰ τῷ Αἰόλῳ τούτῳ Ὀδυσσεὺς μετὰ
+
+τὴν Ἰλίου ἅλωσιν ξενίζεται. 
+
+By this Aeolos, Odysseus was received as a guest after the taking of Troy. 
+
+παρατήρει μοι τοὺς χρόνους εἰς σύγκρισιν τῆς Μωυσέως
 
 ἡλικίας καὶ τῆς κατ' αὐτὸν ἀρχαιοτάτης φιλοσοφίας.
 
-Some of those more inclined to legends say that certain so-called Dactyls of Ida [a mountain on Crete] were the first sages, to whom are attributed the invention of so-called “Ephesian letters” and musical rhythms. For this reason “dactyls” in music received their name. Now the Dactyls of Ida were Phrygians and barbarians. Herodoros [of Herakleia, fifth century BCE] relates that Herakles was a seer and a student of physics [within philosophy] who received the columns of the universe from the barbarian Atlas, the Phrygian, a story which means that he was taught knowledge of the heavenly bodies. Hermippos of Berytos [early second century CE] calls Charon the Centaur wise, about whom the person who wrote The Battle of Giants says, “that he first led the race of mortals to righteousness by teaching them the solemnity of the oath, propitiatory sacrifices, and the figures of Olympos.” Achilles, who fought at Troy, was taught by Charon. Hippo, the daughter of the Centaur, who dwelt with Aiolus, taught him her father’s theory of physics. Euripides also refers to Hippo as follows: “Who first, by oracles, presaged, and by the rising stars, events divine.” 
-
-By this Aeolos, Odysseus was received as a guest after the taking of Troy. Take note of these dates in comparison with the age of Moses, and with the oldest period of philosophy contemporary with Moses.
+Take note of these dates in comparison with the age of Moses, and with the oldest period of philosophy contemporary with Moses.
 
 ### c16
 [Other Barbarian inventions: Astrology, purity regulations, land-measurement, medicine, etc.]
@@ -1281,7 +1390,94 @@ Moreover, Archilochos of Paros invented iambic poetry, and Hipponax of Ephesos i
 According to some, Greek philosophy in one way or another teaches the truth accidentally, obscurely, and partially. Others would have it started by the devil (diabolos). Several suppose that certain powers descended to inspire all philosophy [cf. 1 Enoch 1-36]. But even if Greek philosophy does not fully comprehend the extent of the truth and, furthermore, is too weak to fulfill the commandments of the Lord, it nonetheless prepares the way for the truly royal teaching. In some way or another, it offers training, shapes character, and prepares the person who believes in Providence to receive the truth.
 
 ### c21
-#### 131
+
+#### s101
+[1.21.101]
+
+[1]    Καὶ περὶ μὲν τοῦ παρ' Ἑβραίων τὰ τῶν φιλοσόφων ἐσκευωρῆσθαι δόγματα μικρὸν ὕστερον διαληψόμεθα, πρότερον δέ, ὅπερ ἀκόλουθον ἦν, περὶ τῶν κατὰ Μωυσέα χρόνων ἤδη λεκτέον, δι' ὧν δειχθήσεται ἀναμφηρίστως πάσης σοφίας ἀρχαιοτάτη ἡ κατὰ [2] Ἑβραίους φιλοσοφία. εἴρηται μὲν οὖν περὶ τούτων ἀκριβῶς Τατιανῷ ἐν τῷ Πρὸς Ἕλληνας, εἴρηται δὲ καὶ Κασσιανῷ ἐν τῷ πρώτῳ τῶν Ἐξηγητικῶν· ἀπαιτεῖ δὲ ὅμως τὸ ὑπόμνημα καὶ ἡμᾶς ἐπιδραμεῖν τὰ [3] κατὰ τὸν τόπον εἰρημένα. Ἀπίων τοίνυν ὁ γραμματικός, ὁ Πλειστονίκης ἐπικληθείς, ἐν τῇ τετάρτῃ τῶν Αἰγυπτιακῶν ἱστοριῶν, καίτοι φιλαπεχθημόνως πρὸς Ἑβραίους διακείμενος, ἅτε Αἰγύπτιος τὸ γένος, ὡς καὶ κατὰ Ἰουδαίων συντάξασθαι βιβλίον, Ἀμώσιος τοῦ Αἰγυπτίων βασιλέως μεμνημένος καὶ τῶν κατ' αὐτὸν πράξεων, μάρτυρα [4] παρατίθεται Πτολεμαῖον τὸν Μενδήσιον. καὶ τὰ τῆς λέξεως αὐτοῦ ὧδε ἔχει· "κατέσκαψε δὲ τὴν Ἀουαρίαν Ἄμωσις κατὰ τὸν Ἀργεῖον γενόμενος Ἴναχον, ὡς ἐν τοῖς Χρόνοις ἀνέγραψεν ὁ Μενδήσιος Πτολεμαῖος.
+
+On the plagiarizing of the dogmas of the philosophers from the Hebrews, we shall treat a little afterwards. But first, as due order demands, we must now speak of the epoch of Moses, by which the philosophy of the Hebrews will be demonstrated beyond all contradiction to be the most ancient of all wisdom. This has been discussed with accuracy by Tatian in his book To the Greeks, and by Cassian in the first book of his Exegetics. Nevertheless our commentary demands that we too should run over what has been said on the point. Apion, then, the grammarian, surnamed Pleistonices, in the fourth book of The Egyptian Histories, although of so hostile a disposition towards the Hebrews, being by race an Egyptian, as to compose a work against the Jews, when referring to Amosis king of the Egyptians, and his exploits, adduces, as a witness, Ptolemy of Mendes. 
+
+[5] ὁ δὲ Πτολεμαῖος οὗτος ἱερεὺς μὲν ἦν, τὰς δὲ τῶν Αἰγυπτίων βασιλέων πράξεις ἐν τρισὶν ὅλαις ἐκθέμενος βίβλοις κατὰ Ἄμωσίν φησιν Αἰγύπτου βασιλέα Μωυσέως ἡγουμένου γεγονέναι Ἰουδαίοις τὴν ἐξ Αἰγύπτου πορείαν, ἐξ ὧν συνῶπται κατὰ Ἴναχον [1.21.102] [1] ἠκμακέναι τὸν Μωσέα. 
+
+And his remarks are to the following effect: Amosis, who lived in the time of the Argive Inachus, overthrew Athyria, as Ptolemy of Mendes relates in his Chronology. Now this Ptolemy was a priest; and setting forth the deeds of the Egyptian kings in three entire books, he says, that the exodus of the Jews from Egypt, under the conduct of Moses, took place while Amosis was king of Egypt. Whence it is seen that Moses flourished in the time of Inachus. 
+#### s102
+παλαίτατα δὲ τῶν Ἑλληνικῶν τὰ Ἀργολικά, τὰ ἀπὸ Ἰνάχου λέγω, ὡς Διονύσιος ὁ Ἁλικαρνασσεὺς ἐν τοῖς Χρόνοις [2] διδάσκει. τούτων δὲ †τεσσαράκοντα μὲν γενεαῖς νεώτερα τὰ Ἀττικὰ τὰ ἀπὸ Κέκροπος τοῦ διφυοῦς δὴ καὶ αὐτόχθονος, ὥς φησι κατὰ λέξιν ὁ Τατιανός, ἐννέα δὲ τὰ Ἀρκαδικὰ τὰ ἀπὸ Πελασγοῦ· λέγεται [3] δὲ καὶ οὗτος αὐτόχθων. τούτων δὲ ἄλλαιν δυοῖν νεώτερα τὰ Φθιωτικὰ τὰ ἀπὸ Δευκαλίωνος. εἰς δὲ τὸν χρόνον τῶν Τρωϊκῶν ἀπὸ Ἰνάχου γενεαὶ μὲν εἴκοσι ἢ ‹μιᾷ› πλείους διαριθμοῦνται, ἔτη δέ, ὡς ἔπος [4] εἰπεῖν, τετρακόσια καὶ πρόσω. εἰ δὲ τὰ Ἀσσυρίων πολλοῖς ἔτεσι πρεσβύτερα τῶν Ἑλληνικῶν ἀφ' ὧν Κτησίας λέγει, φανήσεται ‹τῷ δευτέρῳ καὶ τετρακοσιοστῷ ἔτει τῆς Ἀσσυρίων ἀρχῆς, τῆς δὲ Βηλούχου τοῦ ὀγδόου δυναστείας› τῷ δευτέρῳ καὶ τριακοστῷ ἡ Μωυσέως κατὰ Ἄμωσιν τὸν Αἰγύπτιον καὶ κατὰ Ἴναχον τὸν Ἀργεῖον ἐξ [5] Αἰγύπτου κίνησις. ἦν δὲ κατὰ τὴν Ἑλλάδα κατὰ μὲν Φορωνέα τὸν μετὰ Ἴναχον ὁ ἐπὶ Ὠγύγου κατακλυσμὸς καὶ ἡ ἐν Σικυῶνι βασιλεία, πρώτου μὲν Αἰγιαλέως, εἶτα Εὔρωπος, εἶτα Τελχῖνος, καὶ ἡ Κρητὸς [6] ἐν Κρήτῃ. Ἀκουσίλαος γὰρ Φορωνέα πρῶτον ἄνθρωπον γενέσθαι λέγει· ὅθεν καὶ ὁ τῆς Φορωνίδος ποιητὴς εἶναι αὐτὸν ἔφη "πατέρα [1.21.103] [1] θνητῶν ἀνθρώπων". 
+
+And of the Hellenic states, the most ancient is the Argolic, I mean that which took its rise from Inachus, as Dionysius of Halicarnassus teaches in his Times. And younger by forty generations than it was Attica, founded by Cecrops, who was an aboriginal of double race, as Tatian expressly says; and Arcadia, founded by Pelasgus, younger too by nine generations; and he, too, is said to have been an aboriginal. And more recent than this last by fifty-two generations, was Pthiotis, rounded by Deucalion.
+
+And from the time of Inachus to the Trojan war twenty generations or more are reckoned; let us say, four hundred years and more. And if Ctesias says that the Assyrian power is many years older than the Greek, the exodus of Moses from Egypt will appear to have taken place in the forty-second year of the Assyrian empire, in the thirty-second year of the reign of Belochus, in the time of Amosis the Egyptian, and of Inachus the Argive. And in Greece, in the time of Phoroneus, who succeeded Inachus, the flood of Ogyges occurred; and monarchy subsisted in Sicyon first in the person of Ægialeus, then of Europs, then of Telches; in Crete, in the person of Cres. For Acusilaus says that Phoroneus was the first man. Whence, too, the author of Phoronis said that he was "the father of mortal men." 
+#### s103
+ἐντεῦθεν ὁ Πλάτων ἐν Τιμαίῳ κατακολουθήσας Ἀκουσιλάῳ γράφει· "καί ποτε προαγαγεῖν βουληθεὶς αὐτοὺς περὶ τῶν ἀρχαίων εἰς λόγους τῶν τῇδε τῇ πόλει τὰ ἀρχαιότατα λέγειν ἐπιχειρεῖ, περὶ Φορωνέως τε τοῦ πρώτου λεχθέντος καὶ Νιόβης, καὶ [2] τὰ μετὰ τὸν κατακλυσμόν." "κατὰ δὲ Φόρβαντα Ἀκταῖος, ἀφ' οὗ Ἀκταία ἡ Ἀττική. κατὰ δὲ Τριόπαν Προμηθεὺς καὶ Ἄτλας καὶ Ἐπιμηθεὺς καὶ ὁ διφυὴς Κέκροψ καὶ Ἰώ. κατὰ δὲ Κρότωπον ἡ [3] ἐπὶ Φαέθοντος ἐκπύρωσις καὶ ‹ἡ› ἐπὶ Δευκαλίωνος ἐπομβρία. κατὰ δὲ Σθένελον ἥ τε Ἀμφικτύονος βασιλεία καὶ ἡ εἰς Πελοπόννησον Δαναοῦ παρουσία καὶ ‹ἡ› ὑπὸ Δαρδάνου τῆς Δαρδανίας κτίσις," ὃν "πρῶτον", φησὶν Ὅμηρος, "τέκετο νεφεληγερέτα Ζεύς," "ἥ τε [4] ‹τῆς Εὐρώπης› εἰς Κρήτην ἐκ Φοινίκης ἀνακομιδή. κατὰ δὲ Λυγκέα τῆς Κόρης ἡ ἁρπαγὴ καὶ ἡ τοῦ ἐν Ἐλευσῖνι τεμένους καθίδρυσις Τριπτολέμου τε γεωργία καὶ ἡ Κάδμου εἰς Θήβας παρουσία Μίνωός [5] τε βασιλεία. κατὰ δὲ Προῖτον ὁ Εὐμόλπου πρὸς Ἀθηναίους πόλεμος. κατὰ δὲ Ἀκρίσιον Πέλοπος ἀπὸ Φρυγίας διάβασις καὶ Ἴωνος εἰς Ἀθήνας ἄφιξις καὶ ὁ δεύτερος Κέκροψ αἵ τε Περσέως καὶ Διονύσου [1.21.104] [1] πράξεις Ὀρφεύς τε καὶ Μουσαῖος." 
+
+Thence Plato in the Timaeus, following Acusilaus, writes: "And wishing to draw them out into a discussion respecting antiquities, he said that he ventured to speak of the most remote antiquities of this city respecting Phoroneus, called the first man, and Niobe, and what happened after the deluge." And in the time of Phorbus lived Actaeus, from whom is derived Actaia, Attica; and in the time of Triopas lived Prometheus, and Atlas, and Epimetheus, and Cecrops of double race, and Ino.
+
+And in the time of Crotopus occurred the burning of Phaethon, and the deluge s of Deucalion; and in the time of Sthenelus, the reign of Amphictyon, and the arrival of Danaus in the Peloponnesus; and trader Dardanus happened the building of Dardania, whom, says Homer, "First cloud-compelling Zeus begat,"- and the transmigration from Crete into Phoenicia. And in the time of Lynceus took place the abduction of Proserpine, and the dedication of the sacred enclosure in Eleusis, and the husbandry of Triptolemus, and the arrival of Cadmus in Thebes, and the reign of Minos. And in the time of Proetus the war of Eumolpus with the Athenians took place; and in the time of Acrisius, the removal of Pelops from Phrygia, the arrival of Ion at Athens; and the second Cecrops appeared, and the exploits of Perseus and Dionysus took place, and Orpheus and Musaeus lived. 
+#### s104
+κατὰ δὲ τὸ ὀκτωκαιδέκατον ἔτος τῆς Ἀγαμέμνονος βασιλείας Ἴλιον ἑάλω, Δημοφῶντος τοῦ Θησέως βασιλεύοντος Ἀθήνησι τῷ πρώτῳ ἔτει, θαργηλιῶνος μηνὸς δευτέρᾳ [2] ἐπὶ δέκα, ὥς φησι Διονύσιος ὁ Ἀργεῖος, Ἀγίας δὲ καὶ Δερκύλος ἐν τῇ τρίτῃ μηνὸς πανήμου ὀγδόῃ φθίνοντος, Ἑλλάνικος γὰρ δωδεκάτῃ θαργηλιῶνος μηνός, καί τινες τῶν τὰ Ἀττικὰ συγγραψαμένων ὀγδόῃ φθίνοντος, βασιλεύοντος τὸ τελευταῖον ἔτος Μενεσθέως, πληθυούσης σελήνης·
+
+νὺξ μὲν ἔην, φησὶν ὁ τὴν μικρὰν Ἰλιάδα πεποιηκώς,
+
+μεσάτα, λαμπρὰ δὲ ἐπέτελλε σελάνα· [3] ἕτεροι ‹δὲ› σκιροφοριῶνος τῇ αὐτῇ ἡμέρᾳ. Θησεὺς δὲ [ὁ] Ἡρακλέους ζηλωτὴς ὢν πρεσβύτερός ἐστι τῶν Τρωϊκῶν μιᾷ γενεᾷ. τοῦ γοῦν Τληπολέμου, ὃς ἦν υἱὸς Ἡρακλέους, Ὅμηρος μέμνηται ἐπὶ Ἴλιον στρατεύσαντος.
+   
+And in the eighteenth year of the reign of Agamemnon, Troy was taken, in the first year of the reign of Demophon the son of Theseus at Athens, on the twelfth day of the month Thargelion, as Dionysius the Argive says; but Ægias and Dercylus, in the third book, say that it was on the eighth day of the last division of the month Panemus; Hellanicus says that it was on the twelfth of the month Thargelion; and some of the authors of the Attica say that it was on the eighth of the last division of the month in the last year of Menestheus, at full moon.
+
+"It was midnight," says the author of the Little Iliad, "And the moon shone clear." Others say, it took place on the same day of Scirophorion. But Theseus, the rival of Hercules, is older by a generation than the Trojan war. Accordingly Tlepolemus, a son of Hercules, is mentioned by Homer, as having served at Troy.
+#### s105
+[1.21.105]
+
+[1]    Προτερεῖν ἄρα Μωυσῆς ἀποδείκνυται τῆς μὲν Διονύσου ἀποθεώσεως ἔτη ἑξακόσια τέσσαρα, εἴ γε τῆς Περσέως βασιλείας τῷ τριακοστῷ δευτέρῳ ἔτει ἐκθεοῦται, ὥς φησιν Ἀπολλόδωρος ἐν τοῖς [2] Χρονικοῖς. ἀπὸ δὲ Διονύσου ἐπὶ Ἡρακλέα καὶ τοὺς περὶ Ἰάσονα ἀριστεῖς τοὺς ἐν τῇ Ἀργοῖ πλεύσαντας συνάγεται ἔτη ἑξήκοντα τρία· Ἀσκληπιός τε καὶ Διόσκουροι συνέπλεον αὐτοῖς, ὡς μαρτυρεῖ ὁ Ῥόδιος [3] Ἀπολλώνιος ἐν τοῖς Ἀργοναυτικοῖς. ἀπὸ δὲ τῆς Ἡρακλέους ἐν Ἄργει βασιλείας ἐπὶ τὴν Ἡρακλέους αὐτοῦ καὶ Ἀσκληπιοῦ ἀποθέωσιν ἔτη συνάγεται τριάκοντα ὀκτὼ κατὰ τὸν χρονογράφον Ἀπολλόδωρον.
+
+[4] ἐντεῦθεν δὲ ἐπὶ τὴν Κάστορος καὶ Πολυδεύκους ἀποθέωσιν ἔτη πεντήκοντα [5] τρία. ἐνταῦθά που καὶ ἡ Ἰλίου κατάληψις. εἰ δὲ χρὴ πείθεσθαι καὶ Ἡσιόδῳ τῷ ποιητῇ, ἀκούσωμεν αὐτοῦ·
+
+   Ζηνὶ δ' ἄρα Ἀτλαντὶς Μαίη τέκε κύδιμον Ἑρμῆν,
+
+   κήρυκ' ἀθανάτων, ἱερὸν λέχος εἰσαναβᾶσα·
+
+   Καδμείη δ' ἄρα οἱ Σεμέλη τέκε φαίδιμον υἱόν,
+
+   μιχθεῖσ' ἐν φιλότητι, Διώνυσον πολυγηθῆ.
+   
+Moses, then, is shown to have preceded the deification of Dionysus six hundred and four years, if he was deified in the thirty-second year of the reign of Perseus, as Apollodorus says in his Chronology. From Bacchus to Hercules and the chiefs that sailed with Jason in the ship Argo, are comprised sixty-three years. Æsculapius and the Dioscuri sailed with them, as Apollonius Rhodius testifies in his Argonautics. And from the reign of Hercules, in Argos, to the deification of Hercules and of Æsculapius, are comprised thirty-eight years, according to Apollodorus the chronologist; from this to the deification of Castor and Pollux, fifty-three years. And at this time Troy was taken. And if we may believe the poet Hesiod, let us hear him: "Then to Jove, Maia, Atlas' daughter, bore renowned Hermes, Herald of the immortals, having ascended the sacred couch.
+#### s106
+[1.21.106]
+
+[1] Κάδμος μὲν ὁ Σεμέλης πατὴρ ἐπὶ Λυγκέως εἰς Θήβας ἔρχεται καὶ τῶν Ἑλληνικῶν γραμμάτων εὑρετὴς γίνεται, Τριόπας δὲ συγχρονεῖ Ἴσιδι ἑβδόμῃ γενεᾷ ἀπὸ Ἰνάχου (Ἶσιν δὲ τὴν καὶ Ἰώ φασιν διὰ τὸ ἰέναι αὐτὴν διὰ πάσης τῆς γῆς πλανωμένην), ταύτην δὲ Ἴστρος ἐν [2] τῷ περὶ τῆς Αἰγυπτίων ἀποικίας Προμηθέως θυγατέρα φησί. Προμηθεὺς δὲ κατὰ Τριόπαν ἑβδόμῃ γενεᾷ μετὰ Μωυσέα, ὥστε καὶ πρὸ τῆς καθ' Ἕλληνας ἀνθρωπογονίας ὁ Μωυσῆς ἠκμακέναι φαίνεται.
+
+[3] Λέων δὲ ὁ τὰ περὶ τῶν κατ' Αἴγυπτον θεῶν πραγματευσάμενος τὴν Ἶσιν ὑπὸ Ἑλλήνων Δήμητρα καλεῖσθαί φησιν, ἣ κατὰ Λυγκέα γίνεται [4] ἑνδεκάτῃ ὕστερον Μωυσέως γενεᾷ. Ἆπίς τε ὁ Ἄργους βασιλεὺς [5] Μέμφιν οἰκίζει, ὥς φησιν Ἀρίστιππος ἐν πρώτῃ Ἀρκαδικῶν. τοῦτον δὲ Ἀριστέας ὁ Ἀργεῖος ἐπονομασθῆναί φησι Σάραπιν καὶ τοῦτον [6] εἶναι ὃν Αἰγύπτιοι σέβουσιν, Νυμφόδωρος δὲ ὁ Ἀμφιπολίτης ἐν τρίτῳ Νομίμων Ἀσίας τὸν Ἆπιν τὸν ταῦρον τελευτήσαντα καὶ ταριχευθέντα εἰς σορὸν ἀποτεθεῖσθαι ἐν τῷ ναῷ τοῦ τιμωμένου δαίμονος, κἀντεῦθεν Σορόαπιν κληθῆναι καὶ Σάραπιν συνηθείᾳ τινὶ τῶν ἐγχωρίων
+
+And Semele, the daughter of Cadmus, too, bore an illustrious son, Dionysus, the joy-inspiring, when she mingled with him in love." Cadmus, the father of Semele, came to Thebes in the time of Lynceus, and was the inventor of the Greek letters. Triopas was a contemporary of Isis, in the seventh generation from Inachus. And Isis, who is the same as Io, is so called, it is said, from her going (ienai) roaming over the whole earth. Her, Istrus, in his work on the migration of the Egyptians, calls the daughter of Prometheus. Prometheus lived in the time of Triopas, in the seventh generation after Moses. So that Moses appears to have flourished even before the birth of men, according to the chronology of the Greeks. Leon, who treated of the Egyptian divinities, says that Isis by the Greeks was called Ceres, who lived in the time of Lynceus, in the eleventh generation after Moses. And Apis the king of Argos built Memphis, as Aristippus says in the first book of the Arcadica. And Aristeas the Argive says that he was named Serapis, and that it is he that the Egyptians worship. And Nymphodorus of Amphipolis, in the third book of the Institutions of Asia, says that the bull Apis, dead and laid in a coffin (soros), was deposited in the temple of the god (daimonos) there worshipped, and thence was called Soroapis, and afterwards Serapis by the custom of the natives. 
+#### s107
+[1.21.107] [1] ὕστερον. Ἆπις δὲ τρίτος ἐστὶν ἀπὸ Ἰνάχου. ναὶ μὴν ἡ Λητὼ κατὰ Τιτυὸν γίνεται,
+
+Λητὼ γὰρ ἥλκησε, Διὸς κυδρὴν παράκοιτιν, [2] Τιτυὸς δὲ συνεχρόνισεν Ταντάλῳ. εἰκότως ἄρα καὶ ὁ Βοιώτιος Πίνδαρος γράφει· "ἐν χρόνῳ δὲ γένετ' Ἀπόλλων," καὶ οὐδὲν θαυμαστόν, ὅπου γε καὶ Ἀδμήτῳ θητεύων εὑρίσκεται σὺν καὶ Ἡρακλεῖ "μέγαν [3] εἰς ἐνιαυτόν". Ζῆθος δὲ καὶ Ἀμφίων οἱ μουσικῆς εὑρεταὶ περὶ τὴν [4] Κάδμου γεγόνασιν ἡλικίαν. κἄν τις ἡμῖν λέγῃ Φημονόην πρώτην χρησμῳδῆσαι Ἀκρισίῳ, ἀλλ' ἴστω γε ὅτι μετὰ Φημονόην ἔτεσιν ὕστερον εἴκοσι ἑπτὰ οἱ περὶ Ὀρφέα καὶ Μουσαῖον καὶ Λίνον τὸν [5] Ἡρακλέους διδάσκαλον. Ὅμηρος δὲ καὶ Ἡσίοδος πολλῷ νεώτεροι τῶν Ἰλιακῶν, μεθ' οὓς μακρῷ νεώτεροι οἱ παρ' Ἕλλησι νομοθέται, Λυκοῦργός τε καὶ Σόλων, καὶ οἱ ἑπτὰ σοφοί, οἵ τε ἀμφὶ τὸν Σύριον Φερεκύδην καὶ Πυθαγόραν τὸν μέγαν κάτω που περὶ τὰς ὀλυμπιάδας [6] γενόμενοι, ὡς παρεστήσαμεν. καὶ θεῶν ἄρα τῶν πλείστων παρ' Ἕλλησιν, οὐ μόνον τῶν λεγομένων σοφῶν τε καὶ ποιητῶν, ὁ Μωυσῆς ἡμῖν ἀποδέδεικται πρεσβύτερος.
+
+And Apis is third after Inachus. Further, Latona lived in the time of Tityus. "For he dragged Latona, the radiant consort of Zeus." Now Tityus was contemporary with Tantalus. Rightly, therefor, the Boeotian Pindar writes, "And in time was Apollo born;" and no wonder when he is found along with Hercules, serving Admetus "for a long year." Zethus and Amphion, the inventors of music, lived about the age of Cadmus. And should one assert that Phemonoe was the first who sang oracles in verse to Acrisius, let him know that twenty-seven years after Phemonoe, lived Orpheus, and Musaeus, and Linus the teacher of Hercules. And Homer and Hesiod are much more recent than the Trojan war; and after them the legislators among the Greeks are far more recent, Lycurgus and Solon, and the seven wise men, and Pherecydes of Syros, and Pythagoras the great, who lived later, about the Olympiads, as we have shown. We have also demonstrated Moses to be more ancient, not only than those called poets and wise men among the Greeks, but than the most of their deities. 
+#### s108
+[1]    Καὶ οὔτι γε μόνος οὗτος, ἀλλὰ καὶ ἡ Σίβυλλα Ὀρφέως παλαιοτέρα· λέγονται γὰρ καὶ περὶ τῆς ἐπωνυμίας αὐτῆς καὶ περὶ τῶν χρησμῶν τῶν καταπεφημισμένων ἐκείνης εἶναι λόγοι πλείους, Φρυγίαν τε οὖσαν κεκλῆσθαι Ἄρτεμιν καὶ ταύτην παραγενομένην εἰς Δελφοὺς ᾆσαι·
+
+Nor he alone, but the Sibyl also is more ancient than Orpheus. For it is said, that respecting her appellation and her oracular utterances there are several accounts; that being a Phrygian, she was called Artemis; and that on her arrival at Delphi, she sang- 
+
+[2]    ὦ Δελφοί, θεράποντες ἑκηβόλου Ἀπόλλωνος,
+
+   ἦλθον ἐγὼ χρήσουσα Διὸς νόον αἰγιόχοιο,
+
+   αὐτοκασιγνήτῳ κεχολωμένη Ἀπόλλωνι.
+
+"O Delphians, ministers of far-darting Apollo, I come to declare the mind of Ægis-bearing Zeus, Enraged as I am at my own brother Apollo.
+
+[3] ἔστι δὲ καὶ ἄλλη Ἐρυθραία Ἡροφίλη καλουμένη· 
+
+There is another also, an Erythraean, called Herophile. 
+
+μέμνηται τούτων Ἡρακλείδης ὁ Ποντικὸς ἐν τῷ Περὶ χρηστηρίων. 
+
+These are mentioned by Heraclides of Pontus in his work On Oracles. 
+
+ἐῶ δὲ τὴν Αἰγυπτίαν καὶ τὴν Ἰταλήν, ἣ τὸ ἐν Ῥώμῃ Κάρμαλον ᾤκησεν, ἧς υἱὸς Εὔανδρος ὁ τὸ ἐν Ῥώμῃ τοῦ Πανὸς ἱερὸν τὸ Λουπέρκιον καλούμενον κτίσας.
+
+I pass over the Egyptian Sibyl, and the Italian, who inhabited the Carmentale in Rome, whose son was Evander, who built the temple of Pan in Rome, called the Lupercal.
+#### s131
 Ναὶ μὴν Ὀνομάκριτος ὁ Ἀθηναῖος, οὗ τὰ εἰς
 
 Ὀρφέα φερόμεναποιήματα λέγεται εἶναι, κατὰ τὴν τῶν Πεισιστρατιδῶν ἀρχὴν περὶ
@@ -1377,6 +1573,21 @@ Callinns is not much older; for Archilochus refers to Magnetes as destroyed, whi
 πρεσβύτερος ὢν ἐπιβεβληκέναι Ἀρχίᾳ τῷ Συρακούσας κτίσαντι.
 
 Eumelus of Corinth being older, is said to have met Archias, who founded Syracuse.
+
+#### s132
+[1.21.132]
+
+[1]    Καὶ ταῦτα μὲν προήχθημεν εἰπεῖν, ὅτι μάλιστα ἐν τοῖς πάνυ παλαιοῖς τοὺς τοῦ Κύκλου ποιητὰς τιθέασιν. ἤδη δὲ καὶ παρ' Ἕλλησι χρησμολόγοι συχνοὶ γεγονέναι φέρονται, ὡς οἱ Βάκιδες (ὃ μὲν [2] Βοιώτιος, ὃ δὲ Ἀρκάς), πολλὰ πολλοῖς προαγορεύσαντες. τῇ δὲ τοῦ Ἀθηναίου Ἀμφιλύτου συμβουλῇ καὶ Πεισίστρατος ἐκράτυνε τὴν [3] τυραννίδα τὸν καιρὸν τῆς ἐπιθέσεως δηλώσαντος. σιγάσθω γὰρ Κομήτης ὁ Κρής, Κινύρας ὁ Κύπριος, Ἄδμητος ὁ Θετταλός, Ἀρισταῖος ὁ Κυρηναῖος, Ἀμφιάραος ὁ Ἀθηναῖος, Τιμόξενος ὁ Κερκυραῖος, Δημαίνετος ὁ Φωκαεύς, Ἐπιγένης ὁ Θεσπιεύς, Νικίας ὁ Καρύστιος, Ἀρίστων ὁ Θετταλός, Διονύσιος ὁ Καρχηδόνιος, Κλεοφῶν ὁ Κορίνθιος, Ἱππώ τε ἡ Χείρωνος καὶ Βοιὼ καὶ Μαντὼ καὶ τῶν Σιβυλλῶν τὸ πλῆθος, ἡ Σαμία ἡ Κολοφωνία ἡ Κυμαία ἡ Ἐρυθραία ἡ Φυτὼ ἡ Ταραξάνδρα ἡ Μακέτις ἡ Θετταλὴ ἡ Θεσπρωτίς, Κάλχας τε αὖ καὶ Μόψος, οἳ κατὰ τὰ Τρωϊκὰ γεγόνασι, πρεσβύτερος δὲ ὁ Μόψος, 
+
+We were induced to mention these things, because the poets of the epic cycle are placed amongst those of most remote antiquity. Already, too, among the Greeks, many diviners are said to have made their appearance, as the Bacides, one a Boeotian, the other an Arcadian, who uttered many predictions to many. By the counsel of Amphiletus the Athenian, who showed the time for the onset, Pisistratus, too, strengthened his government. For we may pass over in silence Cometes of Crete, Cinyras of Cyprus, Admetus the Thessalian, Aristaeas the Cyrenian, Amphiaraus the Athenian, Timoxeus the Corcyraean, Demaenetus the Phocian, Epigenes the Thespian, Nicias the Carystian, Aristo the Thessalian, Dionysius the Carthaginian, Cleophon the Corinthian, Hippo the daughter of Chiro, and Boeo, and Manto, and the host of Sibyls, the Samian, the Colophonian, the Cumaean, the Erythraean, the Pythian, the Taraxandrian, the Macetian, the Thessalian, and the Thesprotian. And Calchas again, and Mopsus, who lived during the Trojan war. 
+
+#### s133 
+[1.21.133] [1] ὡς ἂν συμπλεύσας τοῖς Ἀργοναύταις. φασὶ δὲ τὴν Μόψου καλουμένην Μαντικὴν συντάξαι τὸν Κυρηναῖον Βάττον, Δωρόθεός τε ἐν τῷ πρώτῳ πανδέκτῃ ἀλκυόνος καὶ κορώνης ἐπακοῦσαι τὸν Μόψον [2] ἱστορεῖ. προγνώσει δὲ καὶ Πυθαγόρας ὁ μέγας προσανεῖχεν αἰεὶ Ἄβαρίς τε ὁ Ὑπερβόρειος καὶ Ἀριστέας ὁ Προκοννήσιος Ἐπιμενίδης τε ὁ Κρής, ὅστις εἰς Σπάρτην ἀφίκετο, καὶ Ζωροάστρης ὁ Μῆδος Ἐμπεδοκλῆς τε ὁ Ἀκραγαντῖνος καὶ Φορμίων ὁ Λάκων, ναὶ μὴν Πολυάρατος ὁ Θάσιος Ἐμπεδότιμός τε ὁ Συρακούσιος ἐπί τε τούτοις [3] Σωκράτης ὁ Ἀθηναῖος μάλιστα· 
+
+Mopsus, however, was older, having sailed along with the Argonants. And it is said that Battus the Cyrenian composed what is called the Divination of Mop-sus. Dorotheus in the first Pandect relates that Mopsus was the disciple of Alcyon and Corone. And Pythagoras the Great always applied his mind to prognostication, and Abaris the Hyperborean, and Aristaeas the Proconnesian, and Epimenides the Cretan, who came to Sparta, and Zoroaster the Mede, and Empedocles of Agrigentum, and Phormion the Lacedaemonian; Polyaratus, too, of Thasus, and Empedotimus of Syracuse; and in addition to these, Socrates the Athenian in particular.
+
+"ἔστι γάρ μοι", φησὶν ἐν τῷ Θεάγει, "ἐκ παιδὸς ἀρξάμενον θείᾳ μοίρᾳ παραγινόμενον δαιμόνιον σημεῖον, τοῦτο δέ ἐστι φωνή, ἣ ὅταν γένηται, ἐπίσχει τοῦτο ὃ μέλλω πράττειν, [4] προτρέπει δὲ οὐδέποτε." Ἐξήκεστός τε ὁ Φωκέων τύραννος δύο δακτυλίους φορῶν γεγοητευμένους τῷ ψόφῳ τῷ πρὸς ἀλλήλους διῃσθάνετο τοὺς καιροὺς τῶν πράξεων, ἀπέθανεν δὲ ὅμως δολοφονηθείς, καίτοι προσημήναντος τοῦ ψόφου, ὥς φησιν Ἀριστοτέλης ἐν
+
 
 ## b3
 https://www.philipharland.com/Blog/2023/05/indian-wisdom-alexander-polyhistor-clement-of-alexandria-vii-on-the-brahmans-late-second-century-ce/

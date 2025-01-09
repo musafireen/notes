@@ -18,7 +18,7 @@ So He sent to them the Messengers and the first that came to them from the Messe
 
 And that is why Imam Ali (as) said "With us the matter begun and with us it shall end."
 
-وذلك أن رسول اللّه وأمير المؤمنين كانا على خلقه كالِظلة، واسم على الأشباح والأرواح. 
+وذلك أن رسول اللّه وأمير المؤمنين كانا على خلقه كالأظلة، واسم على الأشباح والأرواح. 
 
 And that is that the Prophet of Allah and Imam Ali were created in His image as the Shadows were, and they were a name upon the Ghosts and Spirits. 
 

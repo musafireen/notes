@@ -14,7 +14,7 @@ Iblis said to himself "I am better than them and those but when he travelled in 
 
 So he (Iblis) said "How can that be when I am better than those people that were created Bodies? I run in their Bodies and they cannot run in me."
 
-فأقبل هو وذريته يدخلون في الِبدان التي لا روح فيها.
+فأقبل هو وذريته يدخلون في الأبدان التي لا روح فيها.
 
 So he and his offspring went forth entering into the Bodies that contain no Spirit in it.
 
@@ -74,11 +74,11 @@ and whoever does not have Concealment (Taqiyya) has no faith 
 
 and Allah said to the Believers as He was disciplining them:
 
-إني سأخلق لکم عدوا وإنه سيعصيني وذريته وإني أعذبهم، في الدنيا والْخرة،   
+إني سأخلق لکم عدوا وإنه سيعصيني وذريته وإني أعذبهم، في الدنيا وا لآخرة،   
 
-_**"I shall create for you an enemy and He will disobey Me along with his seed and I shall**_ _**punish them in this world and the Hereafter.”**_
+_**"I shall create for you an enemy and He will disobey Me along with his seed and I shall punish them in this world and the Hereafter.”**_
 
-أما في الدنيا ففي المسوخية، وأما في الْخرة في النار.   
+أما في الدنيا ففي المسوخية، وأما في ا لآخرة في النار.   
 
 As for the World it will be in (Maskh) Transformation/Reincarnation into an animal. And in the Here-After it will be the Hel Fire!” 
 
@@ -86,9 +86,11 @@ As for the World it will be in (Maskh) Transformation/Reincarnation into an anim
 
 Then the Imam recited:
 
-_وَلَنُذِ يقَنّهُمْ مِنَ الْعَذَابِ_ _الْأَ__دْنَى دُونَ الْعَذَابِ ا__لْأَكْبَرِ لَعَلّهُمْ يَ رْجِعُونَ_  
+_وَلَنُذِيقَنّهُمْ مِنَ الْعَذَابِ الْأَدْنَى دُونَ الْعَذَابِ الْأَكْبَرِ لَعَلّهُمْ يَرْجِعُونَ_  
 
-_**"And indeed We will make them taste of the Lower Penalty of this (life) prior to the**_ _**supreme Penalty, in order that they may return."**_ (The Holy Qurán 32:21)
+_**"And indeed We will make them taste of the Lower Penalty of this (life) prior to the supreme Penalty, in order that they may return."**_ (The Holy Qurán 32:21)
+
+[[Qrsi#32:21]]
 
 وقال عز من قائل للمؤمنين:  
 
@@ -96,7 +98,7 @@ Allah said to the Believers
 
 إني لست بجائر، ولا أظلم أحدا من خلقي، ولا أعذب أحدة إلا بذنبه،   
 
-_**"I am not Unjust and I do not wrong any one of my creation I do not punish any one**_ _**except by their own sins.”**_
+_**"I am not Unjust and I do not wrong any one of my creation I do not punish any one except by their own sins.”**_
 
 وإني أريد أن آخذ عليهم عهد اللّه وميثاقه بأنه خلقهم ويرزقهم ويحبوا ويموتوا بقدرته وسلطانه التي أعداهم اللّه إياها. وعلى هذا العهد والميثاق اعطاهم هذه القدرة .  
 
@@ -114,19 +116,18 @@ _**"And remember We took your covenant and We raised above you the Toor"**_ 
 
 (And the Imam said the Toor is the first Veil). 
 
-_****_خُذُوا مَا آتَيْنَاكُمْ بِقُوّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلّکُمْ تَتّقُونَ_**  
+**_خُذُوا مَا آتَيْنَاكُمْ بِقُوّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلّکُمْ تَتّقُونَ_**  
 **_
 
-_**"Hold firmly to what We have given and bring (ever)**_ _**to remembrance what is therein: Perchance ye may fear Allah."**_ (The Holy Qurán 2:63)
+_**"Hold firmly to what We have given and bring (ever) to remembrance what is therein: Perchance ye may fear Allah."**_ (The Holy Qurán 2:63)
 
 وقال تعالى  
 
-_**_وَِإذْ أخَذْنَا مِنَ النّبِيّينَ مِيثَاقَهُمْ وَمِنْكَ وَمِنْ نُوحٍ وَِإبْرَاهِيمَ وَمُوسَى وَعِيسَى ابْنِ مَرْيَمَ وَأَخَذ_**_نَا مِنْهُمْ مِيثَاقًا غَلِيظًا لِیَ_****_سْأ_****_أ_****_لَ_** **_الصّادِقِينَ عَنْ صِدْقِهِمْ_** **_وَأَعَدّ لِلْکَافِرِینَ عَذَابًا ألِيمًا_**  
-**_
+**_وَِإذْ أخَذْنَا مِنَ النّبِيّينَ مِيثَاقَهُمْ وَمِنْكَ وَمِنْ نُوحٍ وَِإبْرَاهِيمَ وَمُوسَى وَعِيسَى ابْنِ مَرْيَمَ وَأَخَذنَا مِنْهُمْ مِيثَاقًا غَلِيظًا لِیَسْأألَ الصّادِقِينَ عَنْ صِدْقِهِمْ وَأَعَدّ لِلْکَافِرِینَ عَذَابًا ألِيمًا_**
 
-_**"And remember We took from the prophets their covenant: As (We did) from thee, And**_ _**Noah, And Abraham, And Moses And Jesus son of Mary. We took from them a solemn**_ _**covenant. That (Allah) may question the (custodians) of Truth concerning the Truth**_ _**they (were charged with): And He has prepared for the Unbelievers a grievous**_ _**Penalty.”**_ (The Holy Qurán, 33:7-8)
+_**"And remember We took from the prophets their covenant: As (We did) from thee, And Noah, And Abraham, And Moses And Jesus son of Mary. We took from them a solemn covenant. That (Allah) may question the (custodians) of Truth concerning the Truth they (were charged with): And He has prepared for the Unbelievers a grievous Penalty.”**_ (The Holy Qurán, 33:7-8)
 
-قال الصادق فدخل الکتمان في الميثاق الذي أخذه على الِنبياء والأوصياء. فقال: استروا ذلك واكتموه لما علم ما في قلوب الِعداء. 
+قال الصادق فدخل الکتمان في الميثاق الذي أخذه على الأنبياء والأوصياء. فقال: استروا ذلك واكتموه لما علم ما في قلوب الأعداء. 
 
 Imam Sadiq said "As such Concealment entered into the Covenant that He took upon the Prophets and Vicegerents. So conceal this and keep it secret for who knows what is in the hearts of the enemies".
 
@@ -134,7 +135,7 @@ Imam Sadiq said "As such Concealment entered into the Covenant that He took upon
 
 Mufaddal asked "How did He make them swear to the Covenant?"
 
-قال: حلف الِنبياء باللّه، وحلف الِوصياء باللّه، وحلف المؤمنين باللّه العظيم، وحلقهم بهذا الميثاق على المعرفة والأظلة والأشباح والأبدان بعد حلف الميثاق العظيم، قوله تعالى  
+قال: حلف الأنبياء باللّه، وحلف الأوصياء باللّه، وحلف المؤمنين باللّه العظيم، وحلقهم بهذا الميثاق على المعرفة والأظلة والأشباح والأبدان بعد حلف الميثاق العظيم، قوله تعالى  
 
 Imam Sadiq replied "He made the Prophets Swear by Allah and the Vicegerents Swear by Allah and He made the Believers Swear by Allah the Great and He made them Swear upon the Covenant concerning. The Knowing and the Shadows and the Ghosts and the Bodies after the Swear of the Great Covenant in Allahś words:
 

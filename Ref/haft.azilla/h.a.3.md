@@ -14,7 +14,7 @@ Then the Imam recited:
 
 _**"He causes the dawn to break; and He has made the night a home, and the sun and**_ _**the moon for reckoning, this is an arrangement of the Mighty, the Knowing."**_ (The Holy Qurán 6:96)
 
-حتى يعلمهم كيف يجعل الليل سکنا، وكيف يخلق لهم شمسا ونهارة وقمرة وليلَ،  
+حتى يعلمهم كيف يجعل الليل سکنا، وكيف يخلق لهم شمسا ونهارة وقمرة وليلا،  
 
 "That was so He could teach them how the night was made a home, and how He created for them a Sun and Day and Moon and Night"
 
@@ -48,7 +48,7 @@ And how they make mistakes and how they fall into error and how they disobey and
 
 and He showed them all this so He would have the Proof (Hujjat) over them. 
 
-ثم خلق الِدوار الَثني عشر،  
+ثم خلق الأدوار الاثني عشر،  
 
 Then He created the 12 Rounds, 
 
@@ -109,7 +109,7 @@ Damn them and upon them is the Curse of Allah! 
 
 What do they say about the Here-after?"
 
-قلت: يقولون يا مولاي هي دائمة لَ انتهاء لها.  
+قلت: يقولون يا مولاي هي دائمة لا انتهاء لها.  
 
 "My Lord, they say it is forever, never ending."
 
@@ -121,7 +121,7 @@ Imam Al Sadiq said  "They are ignorant of Allahś command. 
 
 Verily, Allah has not created anything except that He knows its Beginning and End. 
 
-وكيف يخفى عليه أمر الْخرة وغايتها ومنتهاها،  
+وكيف يخفى عليه أمر الآخرة وغايتها ومنتهاها،  
 
 How could the command of the HereAfter, its Purpose and its End be hidden from Him? 
 

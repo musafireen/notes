@@ -217,3 +217,56 @@ and of the approaching fleet, frightened by the strangeness of the presence, and
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0541
 
 # b18
+# b36
+## p13
+Ὅτι Βαττάκης τις ὄνομα ἧκε, φησιν, ἐκ Πεσσινοῦντος τῆς Φρυγίας, ἱερεὺς ὑπάρχων τῆς μεγάλης τῶν θεῶν μητρός. 
+
+One Battaces, a priest of the goddess Rhea, came to Rome from Pessinus, a city of Phrygia. 
+
+οὗτος κατὰ πρόσταγμα τῆς θεοῦ παρεῖναι φήσας 
+
+He declared that he had come by command of the goddess, 
+
+τοῖς ἄρχουσιν ἐνέτυχε καὶ τῇ συγκλήτῳ, λέγων τὸ ἱερὸν τῆς θεοῦ μεμιᾶνθαι, 
+
+and he told the magistrates and senate that their temple was profaned, 
+
+καὶ δεῖν αὐτῇ δημοσίᾳ καθαρμοὺς ἐπὶ τῆς Ῥώμης συντελεσθῆναι. 
+
+and that a public expiation ought to be made in the name of the Romans. 
+
+ἐφόρει δὲ ἐσθῆτα καὶ τὴν περὶ τὸ σῶμα ἄλλην κατασκευὴν ἐξηλλαγμένην καὶ ὑπὸ τῶν Ῥωμαίων ἐθῶν οὐκ ἐπιχωρουμένην· 
+
+His clothing and the other ornaments of his body were very strange, and altogether unusual at Rome; 
+
+χρυσοῦν τε γὰρ στέφανον εἶχεν ὑπερμεγέθη καὶ στολὴν ἀνθίνην διάχρυσον, βασιλικὴν ἀξίαν ἐπιφαίνουσαν. 2 
+
+for he bore a golden crown of great size, and a flowered gown embroidered with gold, giving the appearance of royal rank. 2 
+
+ποιησάμενος δὲ λόγους ἐπὶ τῶν ἐμβόλων ἐν τῷ δήμῳ καὶ τὸ πλῆθος εἰς δεισιδαιμονίαν ἐμβαλών, καταλύματος μὲν δημοσίου καὶ ξενίων ἠξιώθη, 
+
+After he had spoken to the people from the rostra, and filled the people with religious awe, he was honoured with public lodgings and hospitality: 
+
+τὸν δὲ στέφανον ἐκωλύθη φορεῖν ὑφ' ἑνὸς τῶν δημάρχων Αὔλου Πομπηίου. 
+
+but he was forbidden to wear the crown by Aulus Pompeius, a tribune of the people. 
+
+διά τινος δ' ἑτέρου δημάρχου προαχθεὶς ἐπὶ τὰ ἔμβολα καὶ περὶ τῆς εἰς τὸ ἱερὸν ἁγνείας ἐπερωτώμενος ἀποκρίσεις ἐποιεῖτο δεισιδαιμονίαν περιεχούσας. 
+
+When another tribune brought him back to the rostra, and asked how the expiatory sacrifices should be made, his answers were full of religious fervour. 
+
+καταστασιασθεὶς δὲ ὑπὸ τοῦ Πομπηίου καὶ μεθ' ὕβρεως ἀπαλλαγεὶς 
+
+At length he was driven out by Pompeius' faction, with many scorns and insults. 
+
+ἐπὶ τὴν κατάλυσιν οὐκέτι προεπορεύετο, 
+
+He went back to his lodgings, and never ventured out after that, 
+
+λέγων μὴ μόνον ἑαυτὸν ἀσεβῶς προπεπηλακίσθαι, ἀλλὰ καὶ τὴν θεόν. 3 
+
+saying that they had dishonoured not only himself, but also the goddess. 3 
+
+ὁ δὲ Πομπήιος παραχρῆμα μὲν λάβρῳ πυρετῷ συνεσχέθη, μετὰ δὲ ταῦτα ἄφωνος γενόμενος καὶ καταληφθεὶς κυναγχικῷ πάθει τριταῖος κατέστρεψε τὸν βίον, παρὰ τοῖς πολλοῖς ὑποληφθεὶς θείᾳ τινὶ προνοίᾳ ἀνθ' ὧν εἰς τὸν ἱερέα καὶ τὴν θεὸν ἐπλημμέλησεν τοῦ ζῆν ἐστερῆσθαι· σφόδρα γὰρ Ῥωμαῖοι δεισιδαιμονοῦσι. διόπερ ὁ Βαττάκης λαβὼν τὴν συγχώρησιν τῆς κατὰ τὴν ἱερὰν στολὴν κατασκευῆς καὶ τιμηθεὶς ἀξιολόγοις ξενίοις ὑπὸ πολλῶν ἀνδρῶν τε καὶ γυναικῶν προεπέμφθη τὴν ἐκ τῆς Ῥώμης ἐπάνοδον ποιούμενος.
+
+Before long Pompeius fell into a high fever, and then had a quinsy, which took away his speech, and he died on the third day. The common people believed that his death was caused by divine providence, as a result of his profane and impious abuse of the goddess and her priest; for the Romans are extremely god-fearing. Therefore Battaces was honoured with many presents, and allowed to continue wearing his sacred vestments with all their ornaments; and when he left Rome to return home, he was escorted out of the city by a multitude of men and women.

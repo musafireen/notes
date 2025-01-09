@@ -31,15 +31,15 @@ Allah created their works from the Seven Fountains that are in the Heavens for i
 
 Then Allah dipped the Shadows and Ghosts into the Fountains and made for every inhabitants of the Skies a Light in His Fountain and they became Spirits in the Bodies. 
 
-وقال: وإنما تسمت الأظلة لِنها كانت أظلة في ظل نور اللّه،  
+وقال: وإنما تسمت الأظلة لِأنها كانت أظلة في ظل نور اللّه،  
 
 They were called Shadows because they were Shadows in the Shade of the Light of Allah 
 
-و إنما تسمت الأشباح فلَنها ذات اللّه،  
+و إنما تسمت الأشباح فلانها ذات اللّه،  
 
 and they were called Ghosts because they are the Essence of Allah. 
 
-وإنما تسمت الآرواح فلَنها استراحت إلى معرفة اللّه،   
+وإنما تسمت الآرواح فلانها استراحت إلى معرفة اللّه،   
 
 And they were called Spirits/Souls because they rest to know Allah.
 

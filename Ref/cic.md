@@ -3,6 +3,23 @@ https://www.thelatinlibrary.com/cic.html
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D2%3Abook%3D4%3Asection%3D103
 
 https://www.attalus.org/translate/index.html
+
+# div
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0043%3Abook%3D2%3Asection%3D110
+## b2
+### s109
+“ [109] Assumit autem Cratippus hoc modo: 'Sunt autem innumerabiles praesensiones non fortuitae.' At ego dico nullam. vide, quanta sit controversia. iam assumptione non concessa nulla conclusio est. 'At impudentes sumus qui, cum tam perspicuum sit, non concedamus.' Quid est 'perspicuum '? 'Multa vera,' inquit, 'evadere.' Quid, quod multo [p. 494] plura falsa? nonne ipsa varietas, quae est propria fortunae, fortunam esse causam, non naturam esse docet? deinde, si tua ista conclusio, Cratippe, vera est—tecum enim mihi res est—non intellegis eadem uti posse et haruspices et fulguratores et interpretes ostentorum et augures et sortilegos et Chaldaeos? quorum generum nullum est ex quo non aliquid sicut praedictum sit evaserit. ergo aut ea quoque genera divinandi sunt, quae tu rectissime improbas, aut, si ea non sunt, non intellego cur haec duo sint quae relinquis. qua ergo ratione haec inducis, eadem illa possunt esse, quae tollis.
+
+”
+
+[109] "Cratippus states his minor premise thus: 'But there are countless instances of prophecies being fulfilled without the intervention of luck.' On the contrary, I say there isn't even one. Observe how keen the controversy grows! Now that the minor premise is denied the conclusion fails. But he retorts: ' You are unreasonable not to grant it, it is so evident.' Why 'evident'? 'Because many prophecies come true.' And what of the fact that many more don't [p. 495] come true? Does not this very uncertainty, which is characteristic of luck, demonstrate that their fulfilment is accounted for by luck and not by any law of nature? Furthermore, my dear Cratippus—for my controversy is with you—if that argument of yours is sound, don't you see that it is equally available in behalf of the means of divination practised by soothsayers, augurs, Chaldeans and by interpreters of lightnings, portents, and lots? For each of these classes will furnish you with at least one instance of a prophecy that came to pass. Therefore either they too are all means of divining—and this you very properly deny—or, if they are not, then, so far as I can see, the two classes which you permit to remain are not means of divining. Hence the same reasoning employed by you to establish the two kinds which you accept may be used to establish the others which you reject.
+### s110
+“ [110] 54. Quid vero habet auctoritatis furor iste, quem 'divinum' vocatis ut, quae sapiens non videat, ea videat insanus, et is qui humanos sensus amiserit divinos adsecutus sit? Sibyllae versus observamus, quos illa furens fudisse dicitur. quorum interpres nuper falsa quadam hominum fama dicturus in senatu putabatur eum, quem re vera regem habebamus, appellandum quoque esse regem, si salvi esse vellemus. hoc si est in libris, in quem hominem et in quod tempus est? callide enim, qui illa composuit, perfecit, ut, quodcumque accidisset, praedictum videretur hominum et temporum definitione sublata. [p. 496]
+”
+
+[110] 54. "But what weight is to be given to that frenzy of yours, which you term ' divine' and which enables the crazy man to see what the wise man does not see, and invests the man who has lost human intelligence with the intelligence of gods? We Romans venerate the verses of the Sibyl who is said to have uttered them while in a frenzy. Recently there was a rumour, which was believed at the time, but turned out to be false, that one of the interpreters1 of those verses was going to declare in the Senate that, for our safety, the man whom we had as king in fact should be made king also in name. If this is in the books, to what man and to what time does it refer? For it was clever in the author to take care that whatever happened should appear foretold because all reference to persons or time had been [p. 497] omitted.
+
+1 Lucius Cotta, one of the quindecimviri who had charge of the verses. This story is told by Suetonius in his lul. Caesar, ch. 79. It was said that according to the Sibylline verses the Parthians could only be conquered by a king and therefore that Caesar should be called king. Plutarch, Caesar, ch. 60 and 64.
 # ortr
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.02.0120
 

@@ -479,7 +479,283 @@ and such a thought would be the very truth.”
  
 
 Carl Robert Griechische Heldensage I 402. 404 n. 3. Of the vases showing the death of Orpheus v. see the same l. l. in the version by Phanocles nr. 77. 
+## b14
+### 101
+Sibylla.
+Has ubi praeteriit et Parthenopeia dextra
+moenia deseruit, laeva de parte canori
+Aeolidae tumulum et, loca feta palustribus undis,
+litora Cumarum vivacisque antra Sibyllae
+105intrat, et ut manes veniat per Averna paternos,
+orat. At illa diu vultum tellure moratum
+erexit tandemque deo furibunda recepto
+“magna petis” dixit, “vir factis maxime, cuius
+dextera per ferrum est, pietas spectata per ignes.
+110Pone tamen, Troiane, metum: potiere petitis
+Elysiasque domos et regna novissima mundi
+me duce cognosces simulacraque cara parentis.
+Invia virtuti nulla est via!” Dixit et auro
+fulgentem ramum silva Iunonis Avernae
+115monstravit iussitque suo divellere trunco.
 
+Paruit Aeneas et formidabilis Orci
+vidit opes atavosque suos umbramque senilem
+magnanimi Anchisae; didicit quoque iura locorum,
+quaeque novis essent adeunda pericula bellis.
+120Inde ferens lassos adverso tramite passus
+cum duce Cumaea mollit sermone laborem.
+
+Dumque iter horrendum per opaca crepuscula carpit,
+“seu dea tu praesens, seu dis gratissima” dixit,
+“numinis instar eris semper mihi meque fatebor
+125muneris esse tui, quae me loca mortis adire,
+quae loca me visae voluisti evadere mortis.
+Pro quibus aerias meritis evectus ad auras
+templa tibi statuam, tribuam tibi turis honores.”
+
+Respicit hunc vates et suspiratibus haustis
+130“nec dea sum” dixit “nec sacri turis honore
+humanum dignare caput; neu nescius erres,
+lux aeterna mihi carituraque fine dabatur,
+si mea virginitas Phoebo patuisset amanti.
+Dum tamen hanc sperat dum praecorrumpere donis
+135me cupit, “elige” ait, “virgo Cumaea, quid optes:
+optatis potiere tuis.” Ego pulveris hausti
+ostendi cumulum: quot haberet corpora pulvis,
+tot mihi natales contingere vana rogavi;
+excidit, ut peterem iuvenes quoque protinus annos.
+140Hos tamen ille mihi dabat aeternamque iuventam,
+si venerem paterer: contempto munere Phoebi
+innuba permaneo; sed iam felicior aetas
+terga dedit, tremuloque gradu venit aegra senectus,
+quae patienda diu est (nam iam mihi saecula septem
+145acta vides): superest, numeros ut pulveris aequem,
+ter centum messes, ter centum musta videre.
+Tempus erit, cum de tanto me corpore parvam
+longa dies faciet consumptaque membra senecta
+ad minimum redigentur onus: nec amata videbor
+150nec placuisse deo; Phoebus quoque forsitan ipse
+vel non cognoscet vel dilexisse negabit:
+usque adeo mutata ferar, nullique videnda,
+voce tamen noscar; vocem mihi fata relinquent.”
+
+He hath them left, and for to moppe and mowe, but not to speake.
+Aenaeas having past this Ile, and on his ryght hand left
+The towne of Naples, and the tumb of Mysen on his left,
+Toogither with the fenny grounds: at Cumye landed, and
+Went unto longlyvde Sybills house, with whom he went in hand
+That he to see his fathers ghoste myght go by Averne deepe.
+Shee long uppon the earth in stownd her eyes did fixed keepe,
+And at the length as soone as that the spryght of prophesye
+Was entred her, shee raysing them did thus ageine reply:
+O most renowmed wyght, of whom the godlynesse by fyre
+And valeantnesse is tryde by swoord, great things thou doost requyre.
+But feare not, Trojane: for thou shalt bee lord of thy desyre.
+To see the reverend image of thy deerebeeloved syre,
+Among the fayre Elysian feeldes where godly folke abyde,
+And all the lowest kingdoomes of the world I will thee guyde.
+No way to vertue is restreynd. This spoken, shee did showe
+A golden bowgh that in the wood of Proserpine did growe,
+And willed him to pull it from the tree. He did obey:
+And sawe the powre of dreadfull hell, and where his graundsyres lay
+And eeke the aged Ghost of stowt Anchises. Furthermore
+He lernd the customes of the land arryvd at late before,
+And what adventures should by warre betyde him in that place.
+From thence retyring up ageine a slow and weery pace,
+He did asswage the tediousnesse by talking with his guyde.
+For as he in the twylyght dim this dreadfui way did ryde,
+He sayed: Whither present thou thyself a Goddesse bee,
+Or such a one as God dooth love most dearly, I will thee
+For ever as a Goddesse take, and will acknowledge mee
+Thy servant, for saufguyding mee the place of death to see,
+And for thou from the place of death hast brought me sauf and free.
+For which desert, what tyme I shall atteyne to open ayre,
+I will a temple to thee buyld ryght sumptuous, large, and fayre,
+And honour thee with frankincence. The prophetisse did cast
+Her eye uppon Aenaeas backe, and syghing sayd at last:
+I am no Goddesse. Neyther think thou canst with conscience ryght,
+With holy incence honour give to any mortall wyght.
+But to th'entent through ignorance thou erre not, I had beene
+Eternall and of worldly lyfe I should none end have seene,
+If that I would my maydenhod on Phebus have bestowde.
+Howbeeit whyle he stood in hope to have the same, and trowde
+To overcome mee with his gifts: Thou mayd of Cumes (quoth he)
+Choose what thou wilt, and of thy wish the owner thou shalt bee.
+I taking full my hand of dust, and shewing it him there,
+Desyred like a foole to live as many yeeres as were
+Small graynes of cinder in that heape. I quight forgot to crave
+Immediately, the race of all those yeeres in youth to have.
+Yit did he graunt mee also that, uppon condicion I
+Would let him have my maydenhod, which thing I did denye.
+And so rejecting Phebus gift a single lyfe I led.
+But now the blessefull tyme of youth is altogither fled,
+And irksome age with trembling pace is stolne uppon my head,
+Which long I must endure. For now already as you see
+Seven hundred yeares are come and gone and that the number bee
+Full matched of the granes of dust, three hundred harvestes mo,
+I must three hundred vintages see more before I go.
+The day will come that length of tyme shall make my body small,
+And little of my withered limbes shall leave or naught at all.
+And none shall think that ever God was tane in love with mee.
+Even out of Phebus knowledge then perchaunce I growen shall bee,
+Or at the least that ever he mee lovde he shall denye,
+So sore I shall be altered. And then shall no mannes eye
+Discerne mee. Only by my voyce I shall bee knowen. For why
+The fates shall leave mee still my voyce for folke to know mee by.
+### 154
+Achaemenides apud Polyphemum.
+Talia convexum per iter memorante Sibylla
+155sedibus Euboicam Stygiis emergit in urbem
+Troius Aeneas sacrisque ex more litatis
+litora adit nondum nutricis habentia nomen.
+
+Hic quoque substiterat per taedia longa laborum
+Neritius Macareus, comes experientis Ulixei;
+160desertum quondam mediis e rupibus Aetnae
+noscit Achaemeniden improvisoque repertum
+vivere miratus “qui de casusve deusve
+servat, Achaemenide? cur” inquit “barbara Graium
+prora vehit? petitur vestra quae terra carina?”
+
+165Talia quaerenti iam non hirsutus amictu,
+iam suus et spinis conserto tegmine nullis,
+fatur Achaemenides: “Iterum Polyphemon et illos
+adspiciam fluidos humano sanguine rictus,
+hac mihi si potior domus est Ithacique carina,
+170si minus Aenean veneror genitore nec umquam
+esse satis potero, praestem licet omnia, gratus.
+Quod loquor et spiro caelumque et sidera solis
+respicio, possimne ingratus et impius esse?
+Ille dedit, quod non anima haec Cyclopis in ora
+175venit, et ut iam nunc lumen vitale relinquam,
+aut tumulo aut certe non illa condar in alvo.
+Quid mihi tunc animi (nisi si timor abstulit omnem
+sensum animumque) fuit, cum vos petere alta relictus
+aequora conspexi? Volui inclamare, sed hosti
+180prodere me timui: vestrae quoque clamor Ulixis
+paene rati nocuit. Vidi, cum monte revulsum
+inmanem scopulum medias permisit in undas;
+vidi iterum veluti tormenti viribus acta
+vasta Giganteo iaculantem saxa lacerto
+185et, ne deprimeret fluctus ventusve carinam,
+pertimui, iam me non esse oblitus in illa.
+
+Ut vero fuga vos a certa morte reduxit,
+ille quidem totam gemebundus obambulat Aetnam
+praetemptatque manu silvas et luminis orbus
+190rupibus incursat foedataque bracchia tabo
+in mare protendens gentem exsecratur Achivam
+atque ait: “O si quis referat mihi casus Ulixem
+aut aliquem e sociis, in quem mea saeviat ira,
+viscera cuius edam, cuius viventia dextra
+195membra mea laniem, cuius mihi sanguis inundet
+guttur et elisi trepident sub dentibus artus:
+quam nullum aut leve sit damnum mihi lucis ademptae!”
+
+Haec et plura ferox; me luridus occupat horror
+spectantem vultus etiamnum caede madentes
+200crudelesque manus et inanem luminis orbem
+membraque et humano concretam sanguine barbam.
+mors erat ante oculos, minimum tamen ipsa doloris:
+et iam prensurum, iam nunc mea viscera rebar
+in sua mersurum, mentique haerebat imago
+205temporis illius, quo vidi bina meorum
+ter quater adfligi sociorum corpora terrae,
+cum super ipse iacens hirsuti more leonis
+visceraque et carnes cumque albis ossa medullis
+semianimesque artus avidam condebat in alvum.
+210Me tremor invasit: stabam sine sanguine maestus;
+mandentemque videns eiectantemque cruentas
+ore dapes et frusta mero glomerata vomentem
+talia fingebam misero mihi fata parari
+perque dies multos latitans omnemque tremescens
+215ad strepitum, mortemque timens cupidusque moriri,
+glande famem pellens et mixta frondibus herba,
+solus, inops, exspes, leto poenaeque relictus
+hanc procul adspexi longo post tempore navem
+oravique fugam gestu ad litusque cucurri —
+220et movi. Graiumque ratis Troiana recepit!
+
+Tu quoque pande tuos, comitum gratissime, casus
+et ducis et turbae, quae tecum est credita ponto.”
+
+As Sybill in the vaulted way such talk as this did frame,
+The Trojane knyght Aenaeas up at Cumes fro Limbo came.
+And having doone the sacrifyse accustomd for the same,
+He tooke his journey to the coast which had not yit the name
+Receyved of his nurce. In this same place he found a mate
+Of wyse Ulysses, Macare of Neritus, whoo late
+Before, had after all his long and tediouse toyles, there stayd.
+He spying Achemenides (whom late ago afrayd
+They had among mount Aetnas Cliffs abandond when they fled
+From Polypheme): and woondring for to see he was not dead,
+Sayd thus: O Achemenides, what chaunce, or rather what
+Good God hathe savde the lyfe of thee? What is the reason that
+A barbrous shippe beares thee a Greeke? Or whither saylest thou?
+To him thus, Achemenides, his owne man freely now
+And not forgrowen as one forlorne, nor clad in bristled hyde,
+Made answer: Yit ageine I would I should in perrill byde
+Of Polypheme, and that I myght those chappes of his behold
+Beesmeared with the blood of men, but if that I doo hold
+This shippe more deere than all the Realme of wyse Ulysses, or
+If lesser of Aenaeas I doo make account than for
+My father, neyther (though I did as much as doone myght bee,)
+I could ynough bee thankfull for his goodnesse towards mee.
+That I still speake and breathe, that I the Sun and heaven doo see,
+Is his gift. Can I thanklesse then or myndlesse of him bee,
+That downe the round eyed gyants throte this soule of myne went not?
+And that from hencefoorth when to dye it ever be my lot
+I may be layd in grave, or sure not in the Gyants mawe?
+What hart had I that tyme (at least if feare did not withdrawe
+Both hart and sence) when left behynd, you taking shippe I sawe?
+I would have called after you but that I was afrayd
+By making outcrye to my fo myself to have beewrayd.
+For even the noyse that you did make did put Ulysses shippe
+In daunger. I did see him from a cragged mountaine strippe
+A myghty rocke, and into sea it throwe midway and more.
+Ageine I sawe his giants pawe throwe huge big stones great store
+As if it were a sling. And sore I feared lest your shippe
+Should drowned by the water bee that from the stones did skippe,
+Or by the stones themselves, as if my self had beene therin.
+But when that flyght had saved you from death, he did begin
+On Aetna syghing up and downe to walke: and with his pawes
+Went groping of the trees among the woodes. And forbycause
+He could not see, he knockt his shinnes ageinst the rocks eche where.
+And stretching out his grisly armes (which all beegrymed were
+With baken blood) to seaward, he the Greekish nation band,
+And sayd: O if that sum good chaunce myght bring unto my hand
+Ulysses or sum mate of his, on whom to wreake myne ire,
+Uppon whose bowells with my teeth I like a Hawke myght tyre:
+Whose living members myght with theis my talants teared beene:
+Whoose blood myght bubble down my throte: whose flesh myght pant between
+My jawes: how lyght or none at all this losing of myne eye
+Would seeme. Theis woordes and many mo the cruell feend did cry.
+A shuddring horror perced mee to see his smudged face,
+And cruell handes, and in his frunt the fowle round eyelesse place,
+And monstrous members, and his beard beslowbered with the blood
+Of man. Before myne eyes then death the smallest sorrow stood.
+I loked every minute to bee seased in his pawe.
+I looked ever when he should have cramd mee in his mawe.
+And in my mynd I of that tyme mee thought the image sawe
+When having dingd a doozen of our fellowes to the ground
+And lying lyke a Lyon feerce or hunger sterved hownd
+Uppon them, very eagerly he downe his greedy gut
+Theyr bowwels and theyr limbes yit more than half alive did put,
+And with theyr flesh toogither crasht the bones and maree whyght.
+I trembling like an aspen leaf stood sad and bloodlesse quyght.
+And in beholding how he fed and belked up againe
+His bloody vittells at his mouth, and uttred out amayne
+The clottred gobbets mixt with wyne, I thus surmysde: Like lot
+Hangs over my head now, and I must also go to pot.
+And hyding mee for many dayes, and quaking horribly
+At every noyse, and dreading death, and wisshing for to dye,
+Appeasing hunger with the leaves of trees, and herbes and mast,
+Alone, and poore, and footelesse, and to death and pennance cast,
+A long tyme after I espyde this shippe afarre at last,
+And ronning downeward to the sea by signes did succour seeke.
+Where fynding grace, this Trojane shippe receyved mee, a Greeke.
+But now I prey thee, gentle freend, declare thou unto mee
+Thy Capteines and thy fellowes lucke that tooke the sea with thee.
 ## b15
 
 ### 60

@@ -49,17 +49,9 @@ This book is called the Book of Mother-Books [kitāb al-ummuhāt], for the origi
 
 و این (کتاب) در شهرِ مکّه در محلّۀ قریش و ابن هاشم در خانۀ عبد مناف گفته است و در خزانۀ باقر علیه السلام بوده، جعفرِ جُعفی برآورده در کوفه آورده اند تا بروزگارِ هارون و علی ابن عبد العظیم بعراق آورده اند و بروزگارِ وفاتِ خویش بمؤمنان و مرسَلان سپرده است و زینهار و أمانت در گردنِ ایشان کرده است که مؤمنان و موحّدان و [9] سروران از این کتاب با هیچ معترض نداده اند و با هیچ مخلوق نگفته اند که نهمه مؤمنان علم بدینِ روشنی برتابد که این آن علم آست که از فهم و وهمِ ما بیرون است مگر مؤمنِ موحّد یا پیغمبرِ مرسَل یا فرشتۀ مقرّب نتوان پذیرفتن که دلِ ایشان پُر از نورِ وحدانیّتِ الهی باشد، و دیگر هیچ مؤمن احتمالِ این علمِ عالمِ الاسرار ندارد اِلّا عمر کتاه کند و زندگانی نقصان پذیرد،
 
-This book was dictated [gofta] in the city of Mecca, in the quarter of the Quraysh and the Banu Hashim in the house of 'Abd al-Manaf,82 and was in the archive [khizāna] of Bāqir peace be upon him. Ja'far-i Ju'fi83 removed it and brought it to Kūfa until, in the time of Hārūn (al-Rashid), ‘Alī b. 'Abd al-'Azim84 brought it to al-'Iraq. At the time of his own death, he handed it over to the believers and those he sent [mu'minān va-mursalān] charging them to take due diligence and take precautions that the believers, the confessors of God's unity, and [9] the leaders not to give this book to any insolent person [muʻtariż] and not to dictate it to any creature, for not all believers penetrate the knowledge of the religion of illumination.85 This is that knowledge that is beyond our understanding and imagining. Only a believer confessing the oneness of God, a prophet sent (by God), or an archangel [fereshta-ye muqarrab] could accept that their heart be the vessel of the light of divine oneness. No other believer could bear this knowledge of the world of secrets without shortening his lifespan or accepting the diminishment of life.86[10] و صفتِ وحدانیّتِ باری جلّ جلاله از این کتاب معلوم می شود و بحقائق از صنعِ حقّ سراپردۀ عالی و حجابِ مؤمنی و صفتِ عرش و کرسی و لوح و قلم و حجابهای روحهای مؤمنان و کافران و معترضان و بیچونی و بیچگونگی وهستی و نیستی و شناسکاریِ ملکِ تعالی جلّت عظمته
+This book was dictated [gofta] in the city of Mecca, in the quarter of the Quraysh and the Banu Hashim in the house of 'Abd al-Manaf,82 and was in the archive [khizāna] of Bāqir peace be upon him. Ja'far-i Ju'fi83 removed it and brought it to Kūfa until, in the time of Hārūn (al-Rashid), ‘Alī b. 'Abd al-'Azim84 brought it to al-'Iraq. At the time of his own death, he handed it over to the believers and those he sent [mu'minān va-mursalān] charging them to take due diligence and take precautions that the believers, the confessors of God's unity, and [9] the leaders not to give this book to any insolent person [muʻtariż] and not to dictate it to any creature, for not all believers penetrate the knowledge of the religion of illumination.85 This is that knowledge that is beyond our understanding and imagining. Only a believer confessing the oneness of God, a prophet sent (by God), or an archangel [fereshta-ye muqarrab] could accept that their heart be the vessel of the light of divine oneness. No other believer could bear this knowledge of the world of secrets without shortening his lifespan or accepting the diminishment of life.86[10]
 
-[10] By this book the nature of the oneness of the Creator-may he be exalted-is known, as well as the realities of the creative power of God [san-i haqq]: the towering curtain, the believers' veil, the depiction of the throne and footstool, the tablet, the pen, and the veils of the spirits of the believers, the unbelievers, the insolent [muʻtarizān], the unqualifiable and ineffable [bīchūnī va bichegūnī], the existent and non-existent, and the recognition of the Exalted King87-may his glory be exalted!
-
-و آن پنچ ملکان با هفت دَورِ الهی و با هفت دورِ بشری از این کتاب [11] معلوم می شود، و هفت مجادلۀ ابلیس و آدم و آفرینشِ کلّی از آنچه در فهم و وهم و اندیشۀ دل بگنجد و آنکه نگنجد همه در این کتاب باز آورده است;
-
-By this book are the five angels alongside the seven divine and human cycles [11] made known. The seven disputes of Iblis and Adam and the total creation of that which enters and does not enter into the understanding, imagining and ponderings of the heart-everything is presented in this book
-
-ٌاز مقالاتِ باقر علینا منه السلام که هُوَ الَّذِی أَنزَلَ عَلَیکَ الکِتَابَ مِنهُ آیاتٌ مُحکَماَتٌ هُنَّ أُمُّ الکِتَابِ و أُخَرُ مُتَشَابِهَات [[3,5]](https://www.islamicstudies.info/tafheem.php?sura=3&verse=5)،
-
-[10] و صفتِ وحدانیّتِ باری جلّ جلاله از این کتاب معلوم می شود و بحقائق از صنعِ حقّ سراپردۀ عالی و حجابِ مؤمنی و صفتِ عرش و کرسی و لوح و قلم و حجابهای روحهای مؤمنان و کافران و معترضان و بیچونی و بیچگونگی وهستی و نیستی و شناسکاریِ ملکِ تعالی جلّت عظمته
+و صفتِ وحدانیّتِ باری جلّ جلاله از این کتاب معلوم می شود و بحقائق از صنعِ حقّ سراپردۀ عالی و حجابِ مؤمنی و صفتِ عرش و کرسی و لوح و قلم و حجابهای روحهای مؤمنان و کافران و معترضان و بیچونی و بیچگونگی وهستی و نیستی و شناسکاریِ ملکِ تعالی جلّت عظمته
 
 [10] By this book the nature of the oneness of the Creator-may he be exalted-is known, as well as the realities of the creative power of God [san-i haqq]: the towering curtain, the believers' veil, the depiction of the throne and footstool, the tablet, the pen, and the veils of the spirits of the believers, the unbelievers, the insolent [muʻtarizān], the unqualifiable and ineffable [bīchūnī va bichegūnī], the existent and non-existent, and the recognition of the Exalted King87-may his glory be exalted!
 
@@ -67,9 +59,17 @@ By this book are the five angels alongside the seven divine and human cycles [11
 
 By this book are the five angels alongside the seven divine and human cycles [11] made known. The seven disputes of Iblis and Adam and the total creation of that which enters and does not enter into the understanding, imagining and ponderings of the heart-everything is presented in this book
 
-ٌاز مقالاتِ باقر علینا منه السلام که هُوَ الَّذِی أَنزَلَ عَلَیکَ الکِتَابَ مِنهُ آیاتٌ مُحکَماَتٌ هُنَّ أُمُّ الکِتَابِ و أُخَرُ مُتَشَابِهَات [3,5]،
+ٌاز مقالاتِ باقر علینا منه السلام که 
 
-from the teachings [maqālāt] of Bāqir-his peace be upon us!—that "He who revealed to you the Book; in it are verses made clear, these are the Mother of the Book [umm al-kitāb], and other ambiguous verses" (Q.3.7).
+from the teachings [maqālāt] of Bāqir-his peace be upon us!—that 
+
+هُوَ الَّذِی أَنزَلَ عَلَیکَ الکِتَابَ مِنهُ آیاتٌ مُحکَماَتٌ هُنَّ أُمُّ الکِتَابِ و أُخَرُ مُتَشَابِهَات [3,5]،
+
+"He who revealed to you the Book; in it are verses made clear, these are the Mother of the Book [umm al-kitāb], and other ambiguous verses" (Q.3.7).
+
+\[[3,7](https://www.islamicstudies.info/tafheem.php?sura=3&verse=7)\]،
+
+[[Qrsi#3:7]]
 
 ### Notes
 
@@ -97,9 +97,16 @@ from the teachings [maqālāt] of Bāqir-his peace be upon us!—that "He who re
 
 ## prelude
 
-و این کتاب را اُمُّ الکتاب باقر نام نهاده است، و امّ الکتاب باقر العلم بود علینا منه السلام [12] که در گاه و هنگامی که باقر از مادر بزاد و در وجود آمد از امّ المؤمنین آمنه همی گفت آیاتٌ محکَمَاتٌ هُنَّ أُمُّ الکِتَابِ [[3,5]](https://www.islamicstudies.info/tafheem.php?sura=3&verse=5)،
+و این کتاب را اُمُّ الکتاب باقر نام نهاده است، و امّ الکتاب باقر العلم بود علینا منه السلام [12] که در گاه و هنگامی که باقر از مادر بزاد و در وجود آمد از امّ المؤمنین آمنه همی گفت 
 
-This book Bāqir named Umm al-Kitāb, and it was the Umm al-Kitāb of the Discloser of Knowledge [baqir al-'ilm]-his peace be upon us! [12] At the time and place that Bāqir was born from his mother and came into being, he spoke to his mother, the Mother of Believers, Amina88 thus, "Verses made clear they are the Umm al-Kitāb" ([Q.3.7](https://www.islamicstudies.info/tafheem.php?sura=3&verse=7)).
+This book Bāqir named Umm al-Kitāb, and it was the Umm al-Kitāb of the Discloser of Knowledge [baqir al-'ilm]-his peace be upon us! [12] At the time and place that Bāqir was born from his mother and came into being, he spoke to his mother, the Mother of Believers, Amina88 thus, 
+
+آیاتٌ محکَمَاتٌ هُنَّ أُمُّ الکِتَابِ
+\[[3,5](https://www.islamicstudies.info/tafheem.php?sura=3&verse=5)\]،
+
+"Verses made clear they are the Umm al-Kitāb" ([Q.3.7](https://www.islamicstudies.info/tafheem.php?sura=3&verse=7)).
+
+[[Qrsi#3:7]]
 
 اورا چون بکتّاب1 فرستادند فرا ایزدی2 حکمت و علمِ تأییدی از وی ظهور کرد که هیچ کُتّابی ندیده بود، چنین روایت کند جابر ابن عبد الله الانصاری که در آن هنگامی که باقر العلم علینا منه السّلام هنوز طفلِ پنج ساله بود که اورا بکتّابِ عبد اللّهِ صبّاح3 فرستادند، عبد الله چنانکه [13] عادتِ کُتّابیان باشد آن لوحِ سیمِ صافیِ بیست و نُه حروف بر لوحش نوشته بدستِ باقر العلم داد و فرمود که بگو ألف، با قر گفت الِف، عبد الله گفت بگو بی، باقر گفت تا معنیِ الف را نگوئ بی نگویم عبد اللّه گفت یا قرّة العُیونِ مؤمنان فَقُل ألِف یا باقر، فَقالَ ألف الله لا إِلهَ اِلّا هُوَ الحَیُّ القَیُّومُ
 
@@ -141,9 +148,19 @@ Bāqir said: "O teacher [adibi], the ba' is the door to the alif alif is Muḥam
 
 "Abdallah said, "O two eyes of the believers! Other than this, I know not as of yet!
 
-باقر گفت، یا عبد الله این همه اَدیبان [18] بنادانی کُتّاب می دارند و نمی دانند که اوّل ألف است یا ب، و اوّلِ این حروف ب است و آن وقت الف که ب علی است و الف محمّد است و بظاهر محمد پیشرَو است و علی بابِ ممحمّد است و از در در سرای می توان رفتن و از علی در محمّد می توان رسیدن، و محمّد و علی هز دو یکی اند و ألف و ب یکی اند و نقطۀ الف که پوشیده است نطقِ محمّد است که پوشیده است و نقطۀ ب که آشکار است نطقِ علی ست که [19] بعلمِ نور آشکار است، و این کافران که از کُندوی اهریمن اند1 شریعتِ محمّد میدانند و بکار دارند و از شریعتِ علی خبر ندارند که محمّد دنیا ست و علی آخرت است، تصدیقًا لقوله تعالی، یَعلَمُونَ ظَاهِرًا مِنَ الحَیوةِ الدُّنیَا و هُم عَنِ الآخِرَةِ هُم غَافِلُونَ [[30,6]](https://www.islamicstudies.info/tafheem.php?sura=30&verse=6) یا عبد الله اوّلِ این حروف نقطه است یا ب، 
+باقر گفت، یا عبد الله این همه اَدیبان [18] بنادانی کُتّاب می دارند و نمی دانند که اوّل ألف است یا ب، و اوّلِ این حروف ب است و آن وقت الف که ب علی است و الف محمّد است و بظاهر محمد پیشرَو است و علی بابِ ممحمّد است و از در در سرای می توان رفتن و از علی در محمّد می توان رسیدن، و محمّد و علی هز دو یکی اند و ألف و ب یکی اند و نقطۀ الف که پوشیده است نطقِ محمّد است که پوشیده است و نقطۀ ب که آشکار است نطقِ علی ست که [19] بعلمِ نور آشکار است، و این کافران که از کُندوی اهریمن اند1 شریعتِ محمّد میدانند و بکار دارند و از شریعتِ علی خبر ندارند که محمّد دنیا ست و علی آخرت است، تصدیقًا لقوله تعالی، 
 
-Bāqir said: "O 'Abdallah, all these masters of learning [18] held school in ignorance and while not knowing what is first, alif or ba?! The first of these letters is ba', then alif, bā' is ‘Alī, and alif is Muhammad. Only outwardly [be-zahir] is Muḥammad the precursor [pishrow]. ‘Alī is the door [bab] of Muḥammad. (Only) through the door [dar] can one enter the palace, and (only) through ‘Alī can one approach Muḥammad. Muḥammad and ‘Alī are one, and alif and ba' are one.100 The diacritic [nutqa] of alif, which is concealed,101 is the speech [nutq] of Muḥammad, which is concealed. The diacritic of ba' «ب», which is manifest, is the speech of ‘Alī, which [19] is manifest by the gnosis [ilm] of light. Those infidels from the hive of Ahrīman [īn kāfirān az kandū-ye ahrīman]102 know the shari'a of Muḥammad and practice it but have no awareness [khabar] of the shari'a of ‘Alī or that Muḥammad is this life [dunya] and ‘Alī the next [ākhirat]. An affirmation of His word, may He be glorified: "They know of the outward appearance of the life of the world, but of the End they are heedless' ([Q.30.7](https://www.islamicstudies.info/tafheem.php?sura=30&verse=7)). O 'Abdallah, first among these letters is the diacritic or ba?"
+Bāqir said: "O 'Abdallah, all these masters of learning [18] held school in ignorance and while not knowing what is first, alif or ba?! The first of these letters is ba', then alif, bā' is ‘Alī, and alif is Muhammad. Only outwardly [be-zahir] is Muḥammad the precursor [pishrow]. ‘Alī is the door [bab] of Muḥammad. (Only) through the door [dar] can one enter the palace, and (only) through ‘Alī can one approach Muḥammad. Muḥammad and ‘Alī are one, and alif and ba' are one.100 The diacritic [nutqa] of alif, which is concealed,101 is the speech [nutq] of Muḥammad, which is concealed. The diacritic of ba' «ب», which is manifest, is the speech of ‘Alī, which [19] is manifest by the gnosis [ilm] of light. Those infidels from the hive of Ahrīman [īn kāfirān az kandū-ye ahrīman]102 know the shari'a of Muḥammad and practice it but have no awareness [khabar] of the shari'a of ‘Alī or that Muḥammad is this life [dunya] and ‘Alī the next [ākhirat]. An affirmation of His word, may He be glorified: 
+
+یَعلَمُونَ ظَاهِرًا مِنَ الحَیوةِ الدُّنیَا و هُم عَنِ الآخِرَةِ هُم غَافِلُونَ 
+
+\[[30,6](https://www.islamicstudies.info/tafheem.php?sura=30&verse=6)\] 
+
+"They know of the outward appearance of the life of the world, but of the End they are heedless' ([Q.30.7](https://www.islamicstudies.info/tafheem.php?sura=30&verse=7)). 
+
+یا عبد الله اوّلِ این حروف نقطه است یا ب، 
+
+O 'Abdallah, first among these letters is the diacritic or ba?"
 
 عبد الله گفت یا دو دیدۀ محمّد این معنی را نمی دانم الّا که از تو بشنوم،
 
@@ -189,17 +206,106 @@ Then 'Abdallah stood on his feet and prayed, saying, "I bear witness!109 Glory,
 
 'Abdallah said, "O Lord of myself and all believers! How are these seven and twelve contained in one diacritic?!"
 
-باقر گفت نقطه سه حرف است نون پنجاه و پنج باشد و قاف صد و ده باشد و ت چهار صد و چهار باشد1 بجمله نوزده باشد که بر هم زنی هفت و دوازده باشد، این هفت و دوازده که دو عالم را منوّر و روشن می دارند، [27] و دوازده ما ئیم از پشتِ روحانیِ أمیر المؤمنین علی و از رحمِ فاطمه عَلَینا مِنهُم السَّلام، و هفت این ملائکتان اند که از ما خالی نباشند نه در الهیّت و نه در بشریّت، مَا دَامَاتِ السَّمَوَاتُ و الأَرضُ [[11,109]](https://www.islamicstudies.info/tafheem.php?sura=11&verse=109) با ما باشند، قَولُهُ إِنَّ فِی السَّمَوَاتِ و الأَرضِ لَآیَاتٍ لِلمُؤمِنِینَ[[45,2]](https://www.islamicstudies.info/tafheem.php?sura=45&verse=2)
+باقر گفت نقطه سه حرف است نون پنجاه و پنج باشد و قاف صد و ده باشد و ت چهار صد و چهار باشد1 بجمله نوزده باشد که بر هم زنی هفت و دوازده باشد، این هفت و دوازده که دو عالم را منوّر و روشن می دارند، [27] و دوازده ما ئیم از پشتِ روحانیِ أمیر المؤمنین علی و از رحمِ فاطمه عَلَینا مِنهُم السَّلام، و هفت این ملائکتان اند که از ما خالی نباشند نه در الهیّت و نه در بشریّت، 
 
-Bāqir said, “Nuqṭa consists of three consonants: nun (has the numerical value of) 50 and 5, qaf is 100 and 10, and ta' is 400 and 4.116 Altogether, they are 19, as well as 7 and 12. This is the seven and twelve that illuminate and fill the two worlds with light. [27] And we (the imams?) are twelve from spiritual loins of the Commander of the Faithful ‘Alī [az posht-i rūḥānī-ye amīr al-mu'minin ‘Alī] and the womb of Fatima-their peace be upon us!—and seven are the angels whom we are never without, whether in divinity or humanity.117 They are with us as long as the Heaven and the Earth remain' ([Q.11.109](https://www.islamicstudies.info/tafheem.php?sura=11&verse=109)), for 'indeed, in the Heavens and Earth are signs to those who believe' ([Q.45.3](https://www.islamicstudies.info/tafheem.php?sura=45&verse=3))."
+Bāqir said, “Nuqṭa consists of three consonants: nun (has the numerical value of) 50 and 5, qaf is 100 and 10, and ta' is 400 and 4.116 Altogether, they are 19, as well as 7 and 12. This is the seven and twelve that illuminate and fill the two worlds with light. [27] And we (the imams?) are twelve from spiritual loins of the Commander of the Faithful ‘Alī [az posht-i rūḥānī-ye amīr al-mu'minin ‘Alī] and the womb of Fatima-their peace be upon us!—and seven are the angels whom we are never without, whether in divinity or humanity.117 
+
+مَا دَامَاتِ السَّمَوَاتُ و الأَرضُ
+\[[11,109](https://www.islamicstudies.info/tafheem.php?sura=11&verse=109)\]
+
+They are with us as long as the Heaven and the Earth remain' ([Q.11.109](https://www.islamicstudies.info/tafheem.php?sura=11&verse=109)), 
+
+با ما باشند، قَولُهُ 
+
+for 
+
+إِنَّ فِی السَّمَوَاتِ و الأَرضِ لَآیَاتٍ لِلمُؤمِنِینَ
+
+\[[45,2](https://www.islamicstudies.info/tafheem.php?sura=45&verse=2)\]
+
+'indeed, in the Heavens and Earth are signs to those who believe' ([Q.45.3](https://www.islamicstudies.info/tafheem.php?sura=45&verse=3))."
 
 پس عبد الله گفت یا خداوندِ من سخن از لب و دندانِ شَکَر بارِ تو که مرهمِ روحها ست نظاره کردن در بهشتِ باقی در این روی تو ست، یا [28] میوۀ دلِ مؤمنان این دو عالم کدام اند که گفتی دو عالم از ایشان روشن است،
 
 'Abdallah said, “O my Lord, a word from your lips and sweet-spoken mouth is like salve to the soul! Your face is a glimpse into eternal paradise! [28] O fruit of the believers' hearts, the two worlds of which you speak, which of them is the luminescent one [rowshan ast]?"
 
-باقر گفت یکی این عالمِ بزرگ که گفته آمد و یکی این عالمِ کوچک که تخت و سریر گاهِ ملکِ تعلی ست شخص و هیکلِ امامانِ زمان و عالمانِ ربانی، که نقطه 3 نور اند که درهم بسته اند، نون روح الایمان است از بالای روح، و روح قاف است از بالای نطق و نقطۀ ت که بر آخر است و این پنج نقطه همان پنج خاصّ اند، و روحِ [29] شنوائی حَسَن است و روحِ بینائی حُسَین است و روحِ بویائی فاطمه است و روح گویائی علی است و روحِ چاشنی گیر محمّد است، و 3 حرف و پنج نقطه هشت نور اند، حرفِ میانین روح است بر مغزِ پیشانی بمعنیِ ملکِ تعالی، و از راستش چهار حرف اند چشمِ راست و گوشِ راست و بینیِ راست، و نطق علمِ نور یعنی سلمان و مقداد و با ذرّ و عمّار، و از سوی چپ سه حرف اند چشمِ چپ و گوشِ چپ و بینیِ چپ بمعنیِ با هُرَیره و با جُندَب و با کُمَیل، [30] این روح برنگِ قمر در میانِ این هفت نوران بر تخت و سریرگاه نشسته، قَولُهُ تعالی، وَ لِلّهِ مُلکُ السَّمَوَاتِ و الأَرضِ یَغفِرُ لِمَن یَمشَآءُ وَ یُعَذِّبُ مَن یَشَآءُ وَ کَانَ اللهُ غَفُورًا رَحِیمًا [[48,14]](https://www.islamicstudies.info/tafheem.php?sura=48&verse=14) یا عبد الله خداوند جلّ جلاله این روح است که آمسان و زمین مُلکِ وَی است، یعنی این نور که بر تخت و سریرگاه در خدمتِ او یند و آنکه در این دل اند گروهی را بیآمُرزد و گروهی را نیآمرزد [31] و در عذاب افگند، و این دوازده دوازده جوارح اند که هر یکی بکار بگُماشته و هفت این رسوالنِ ملکِ تعالی اند که هرگز نورِ ایشان از هیکلِ مؤمنان وا نَرَهد، و این روح الحیوةِ ناطقۀ ممتحنه که از قبّۀ لاجوردی در این مغزِ مؤمنان پیوسته است و از مغز حدّی بدل پیوسته است و حدّی بدین دو لب و زبان هر آوازی که در دنیا ست دارد، و یکی روح الایمانِ موحّد است که اُلفت و مهربانی بدین [32] روح القلوبِ مؤمنان و محبّان روشنائی می رساند و مراعاتِ برادرانِ مؤمنان می کند از این پردۀ مهتاب رنگ در این روح الحیوةِ ناطقه پیوسته است، و یکی روح الحفظ لَوحِ محفوظِ ملکِ تعالی ست، در عالمِ کوچک که نگاه دارندۀ علمهای ملکوتی است از بحرِ آفتاب رنگ در این روح الایمان که امینِ ملکِ تعالی ست پیوسته است، و یکی روح الفکر قلمِ این لَوح که اندیش در ملکوت الأعلی کند و علمها از ناخوانده1 [33] و ناشنیده از حجابِ ملکِ تعالی دریابد از دیوانِ بنفشه رنگ در این روح الحفظ پیوسته است، و یکی روح العلم که دمِ عیسی ست که مُردگانرا زِنده کند از پردۀ عقیق رنگ در این روح الفکر پیوسته است، و یکی روح العقل که داورِ ملکِ تعالی ست از دیوانِ آتش گون در این روح العلم پیوسته است، و یکی روح القدس که معاینۀ شخصِ خداوند است که از فهم و وهم و اسم و نام ونشان برون است از دیوانِ یاقوت رنگ [34] در این روح العقل ظهور می کند و هرگز در این جهانِ کوچک در قالبِ خونین و گوچدین نگنجد و نیآید، قَولُهُ تَعالی، لَن یَنَالَ للهُ لُحُومُهَا وَ لَا دِمَاءُها وَ لَکِن یَنَالُهُ التَّقوَی [22,38] و این هفت روح چون قَوسِ قُزَح درهم پیوسته اند از بالای مغزِ مؤمنان و عالمانِ ربانی همچنانکه این قَوسِ قُزَح سر در زمینِ عالمِ بزرگ می نهد این روحها پرده پرده بر این مغز نهند که زمین [35] عرصاتِ قیامت است، و از این سریرگاهِ ایزدی هر یک نوری در این رگِ حبل الورید دارد بدین دو روح که یکی از منزلتِ معترضان است در نیمۀ راستِ دل در خانۀ باد است، و یکی از منزلتِ آن مؤمنان که در قالبِ هوائی و سمائی بودند هم در این نیمۀ دلِ راست در خانۀ آبِ پاک است، این هر دو روح بدین نور (و) روشنائی بدین رگِ هفت شاخ بدیشان پیوسته است، از خدای بترسند و روی بخُدای [36] کنند (و) در این کوه که نامِ او دل است طلبِ نجاتِ جاودانی کنند تصدیقًا لِقَولِهِ تَعالی، اَو أَنزَلنَا هَذَا القُرآنَ عَلَی جَبَلٍ لَرَأَیتَهُ خَاشِعًا مُتَصَدِّعًا مِن خَشیَةِ اللهِ وَ تِلکَ الأَمثَالُ نَضرِبُهَا لِلنّاسِ لَعَلَّهُم یَتَفَکَّرُونَ [59,21] و این هفت روح که همه آفرینش بدستِ ایشان است و هر هفتی که در آسمانها و در زمینها ست رد الهیّت و بشریّت بدلیل و برهانِ [37] ایشان است و آیت این است که خدای تعالی با مصطفی در کلامِ مجید گفته که قَولُهُ تَعالی، وَ لَقَد خَلَقنَا الإِنسَانَ مِن سُلالَةٍ مِن طِینٍ، ثُمَّ جَعَلنَاهُ نُطفَةً فِی قَرَارٍ مَکِینٍ ، ثُمَّ خَلَقنَا النُطفَةَ عَلَقَةَ فَخَلَقنَا العَلَقَةَ مُضعَةً قَخَلَقنَا المُصعَةَ عِظَامًا فَکَسَونا العِظَامَ لَحمًا ثُمَّ أَنشَأنَاهُ خَلقًا آخَرَ [23,12-14] [38] ش
+باقر گفت یکی این عالمِ بزرگ که گفته آمد و یکی این عالمِ کوچک که تخت و سریر گاهِ ملکِ تعلی ست شخص و هیکلِ امامانِ زمان و عالمانِ ربانی، 
 
-Bāqir said, "One is the macro-cosmos ['alam-i bozorg], which has been mentioned, and the other is the micro-cosmos ['ālam-i kuchek], which is the throne and footstool of the Most High King—the form and vessel [shakhṣ-o haykal] of the imāms of the age and the divine masters ['ālimān-i rabbānī]. The word nuqta consists of three lights that are also related: nun is the spirit of faith above the spirit [ru], and the spirit of the qaf is above the speech [nutq] and the diacritic of the ta'.118 These five diacritics are the very same five Chosen: the spirit [29] of hearing [rih-i shenvā?] is Ḥasan, the spirit of sight [rūḥ-i bīnā’î] is Ḥusayn, the spirit of smell [rūḥ-i būyā'] is Fatima, the spirit of speech [rih-i gūya'i] is ‘Alī, the spirit of taste [rūḥ-i chāshen-gīr] is Muḥammad. The three letters and five diacritics are eight lights. The middle letter is the spirit behind the forehead [ruh bar maghz-i pīshāni]—meaning the Most High King. To his right are four letters: the right eye, the right ear, and right nostril and the speech of the brilliant knowledge [nutq-i ilm-i nur], who are Salman, Miqdād, Abu Dharr, and 'Ammar. And to the left are three letters: the left eye, the left ear, and the left nostril, who are Abu Hurayra, Abū Jundab, and Abū Kumayl. [30] This spirit coloured by the moon sits in the midst of seven lights above the throne and the footstool. Such is the word of the Most High, 'To God belongs dominion over the Heavens and the Earth, the one who forgives whomever he wills and chastises whomever he wills, but God is forgiving and merciful' (Q.48.14). O 'Abdallah, the Lord-may he be glorified-is the spirit that holds dominion over Heaven and Earth, meaning the light, which is on the throne and footstool in his service and which is in the heart, forgiving some and not forgiving others [31] who are cast into eternal torment ['adhab]. The twelve are the twelve limbs each entrusted with a task, and the seven are the messengers of the Exalted King whose light shall never depart from the temple [haykal] of the believers. The speaking, discerning spirit of life [ruh al-ḥayāt-i nāṭiqa-ye mumtaḥin] from the azure firmament [qubba-ye lajvardi] is shrouded in the minds of the believers. From the mind a border joins to the heart and another joins to the two lips and tongues. It speaks all languages found in the world [har āvāzī ke dar dunyā'st darad]. One is the spirit of faith in the oneness of God [rūḥ al-īmān-i muwahḥed], which brings friendship and amity to the [32] spirit of the hearts of the believers and the lovers of the light [muhibbān-i rowshāni] and aids the brothers of the believers—shrouded by the moonlit veil in the speaking spirit of life [ruh al-hayat-i nāțiqa]. One is the spirit of preservation [ruh al-hifz], the Preserved Tablet [lawḥ-i mahfuz] of the Exalted King in the micro-cosmos ['alam-i kuchek], which is the steward of the wisdom of the kingdom of God ['ilmha-ye malkūtī]—shrouded by the sunlit sea in the spirit of faith, which is the assurance [amin] of the Exalted King. One is the spirit of thought [ruh al-fikr], the pen of the tablet that ponders the Highest Kingdom [malkūt al-a la], the unproclaimed [33] and the unheard wisdom that ['ilmha az nā-kh"ānda va na-shanīda] hangs from the veil of the Exalted King and is shrouded by the violet dīvān in the spirit of preservation. One is the spirit of knowledge [ruh al-'ilm], which is the breath of Jesus that gives life to the dead-shrouded by a veil of carnelian red ['aqiq-rang] in the spirit of thought. One is the spirit of the intellect [ruh al-'aq!], which is the judge of the Exalted King—shrouded by the dīvān coloured by fire in the spirit of knowledge. One is the spirit of holiness [rūḥ al-quds],119 the visible form of God [ke muʻāyana-ye shakhṣ-i khodāvand ast] that is beyond understanding and imagining, beyond naming and designation, and beyond intimation [ke az fahm va wahm va ism va nām va neshān bīrūn ast]—made manifest by the ruby dīvān [34] in the spirit of the intellect and never encased in or brought to the micro-cosmos in the form of flesh and blood [dar qālib-khūnīn va gūchdin]. Thus is the word of the Most High: 'Its meat and blood do not reach God, rather your piety reaches him' (Q.22.38). These seven spirits are bound to one another like a rainbow above the minds of the believers and godly instructors. As the rainbow rests on the highest point of the earth in the macro-cosmos, these spirits rest veil upon veil above the mind, which is the surface [35] of the plateaux of the Day of Resurrection and Judgment [ke zamīn-i ‘araṣāt-i qiyāmat ast]. Each light exists in the jugular vein, and in this cycle are two spirits. One is from the station of the insolent [manzilat-i muʻtarizān] found in the right half of the heart in the 'chamber of wind' [khāna-ye bād]; the other is from the station of the believers who are in an aerial and heavenly form [dar qālib-i havāī va samar], and this is also in the chamber of pure waters. Both of these spirits are bound to these with the religion of light and luminescence through the vein with seven branches. They fear God and seek his face. [36] And on this mountain-whose name is 'heat [del]'-they seek eternal salvation, testifying to his word, 'If we would have sent down this Qur'an on top of a mountain, then you would have seen it humbled and rent asunder by the fear of God. We impress these similitudes upon humankind that they might ponder' (Q.59.21). These seven spirits in whose hands is all creation and each heptad [har hafti] in the heavens and the earth in divine and human sphere [dar ilāhīyat va basharīyat] are a demonstration and proof of them. The sign [āyat] of this is that God Most High said to al-Mustafă (i.e., Muḥammad) in excellent speech, 'Verily we created humankind from an extract of clay; then we made it sperm firmly affixed; then we made it a clot of blood and made the clot a lump, and made the lump bones. Thus we clothed the bones with flesh and formed it into another creation' ([Q.23.12–14](https://www.islamicstudies.info/tafheem.php?sura=23&verse=12)).”
+Bāqir said, "One is the macro-cosmos ['alam-i bozorg], which has been mentioned, and the other is the micro-cosmos ['ālam-i kuchek], which is the throne and footstool of the Most High King—the form and vessel [shakhṣ-o haykal] of the imāms of the age and the divine masters ['ālimān-i rabbānī]. 
+
+که نقطه 3 نور اند که درهم بسته اند، نون روح الایمان است از بالای روح، و روح قاف است از بالای نطق و نقطۀ ت که بر آخر است و این پنج نقطه همان پنج خاصّ اند، و روحِ [29] شنوائی حَسَن است و روحِ بینائی حُسَین است و روحِ بویائی فاطمه است و روح گویائی علی است و روحِ چاشنی گیر محمّد است، و 3 حرف و پنج نقطه هشت نور اند، حرفِ میانین روح است بر مغزِ پیشانی بمعنیِ ملکِ تعالی، و از راستش چهار حرف اند چشمِ راست و گوشِ راست و بینیِ راست، و نطق علمِ نور یعنی سلمان و مقداد و با ذرّ و عمّار، و از سوی چپ سه حرف اند چشمِ چپ و گوشِ چپ و بینیِ چپ بمعنیِ با هُرَیره و با جُندَب و با کُمَیل، [30] این روح برنگِ قمر در میانِ این هفت نوران بر تخت و سریرگاه نشسته، قَولُهُ تعالی، 
+
+The word nuqta consists of three lights that are also related: nun is the spirit of faith above the spirit [ru], and the spirit of the qaf is above the speech [nutq] and the diacritic of the ta'.118 These five diacritics are the very same five Chosen: the spirit [29] of hearing [rih-i shenvā?] is Ḥasan, the spirit of sight [rūḥ-i bīnā’î] is Ḥusayn, the spirit of smell [rūḥ-i būyā'] is Fatima, the spirit of speech [rih-i gūya'i] is ‘Alī, the spirit of taste [rūḥ-i chāshen-gīr] is Muḥammad. The three letters and five diacritics are eight lights. The middle letter is the spirit behind the forehead [ruh bar maghz-i pīshāni]—meaning the Most High King. To his right are four letters: the right eye, the right ear, and right nostril and the speech of the brilliant knowledge [nutq-i ilm-i nur], who are Salman, Miqdād, Abu Dharr, and 'Ammar. And to the left are three letters: the left eye, the left ear, and the left nostril, who are Abu Hurayra, Abū Jundab, and Abū Kumayl. [30] This spirit coloured by the moon sits in the midst of seven lights above the throne and the footstool. Such is the word of the Most High, 
+
+وَ لِلّهِ مُلکُ السَّمَوَاتِ و الأَرضِ یَغفِرُ لِمَن یَمشَآءُ وَ یُعَذِّبُ مَن یَشَآءُ وَ کَانَ اللهُ غَفُورًا رَحِیمًا
+
+\[[48,14](https://www.islamicstudies.info/tafheem.php?sura=48&verse=14)\]
+
+'To God belongs dominion over the Heavens and the Earth, the one who forgives whomever he wills and chastises whomever he wills, but God is forgiving and merciful' (Q.48.14). 
+
+یا عبد الله خداوند جلّ جلاله این روح است که آمسان و زمین مُلکِ وَی است، یعنی این نور که بر تخت و سریرگاه در خدمتِ او یند و آنکه در این دل اند گروهی را بیآمُرزد و گروهی را نیآمرزد [31] و در عذاب افگند، 
+
+O 'Abdallah, the Lord-may he be glorified-is the spirit that holds dominion over Heaven and Earth, meaning the light, which is on the throne and footstool in his service and which is in the heart, forgiving some and not forgiving others [31] who are cast into eternal torment ['adhab]. 
+
+و این دوازده دوازده جوارح اند که هر یکی بکار بگُماشته و هفت این رسوالنِ ملکِ تعالی اند که هرگز نورِ ایشان از هیکلِ مؤمنان وا نَرَهد، 
+
+The twelve are the twelve limbs each entrusted with a task, and the seven are the messengers of the Exalted King whose light shall never depart from the temple [haykal] of the believers. 
+
+و این روح الحیوةِ ناطقۀ ممتحنه که از قبّۀ لاجوردی در این مغزِ مؤمنان پیوسته است و از مغز حدّی بدل پیوسته است و حدّی بدین دو لب و زبان هر آوازی که در دنیا ست دارد، 
+
+The speaking, discerning spirit of life [ruh al-ḥayāt-i nāṭiqa-ye mumtaḥin] from the azure firmament [qubba-ye lajvardi] is shrouded in the minds of the believers. From the mind a border joins to the heart and another joins to the two lips and tongues. It speaks all languages found in the world [har āvāzī ke dar dunyā'st darad]. 
+
+و یکی روح الایمانِ موحّد است که اُلفت و مهربانی بدین [32] روح القلوبِ مؤمنان و محبّان روشنائی می رساند و مراعاتِ برادرانِ مؤمنان می کند از این پردۀ مهتاب رنگ در این روح الحیوةِ ناطقه پیوسته است، 
+
+One is the spirit of faith in the oneness of God [rūḥ al-īmān-i muwahḥed], which brings friendship and amity to the [32] spirit of the hearts of the believers and the lovers of the light [muhibbān-i rowshāni] and aids the brothers of the believers—shrouded by the moonlit veil in the speaking spirit of life [ruh al-hayat-i nāțiqa]. 
+
+و یکی روح الحفظ لَوحِ محفوظِ ملکِ تعالی ست، در عالمِ کوچک که نگاه دارندۀ علمهای ملکوتی است از بحرِ آفتاب رنگ در این روح الایمان که امینِ ملکِ تعالی ست پیوسته است، 
+
+One is the spirit of preservation [ruh al-hifz], the Preserved Tablet [lawḥ-i mahfuz] of the Exalted King in the micro-cosmos ['alam-i kuchek], which is the steward of the wisdom of the kingdom of God ['ilmha-ye malkūtī]—shrouded by the sunlit sea in the spirit of faith, which is the assurance [amin] of the Exalted King. 
+
+و یکی روح الفکر قلمِ این لَوح که اندیش در ملکوت الأعلی کند و علمها از ناخوانده1 [33] و ناشنیده از حجابِ ملکِ تعالی دریابد از دیوانِ بنفشه رنگ در این روح الحفظ پیوسته است، 
+
+One is the spirit of thought [ruh al-fikr], the pen of the tablet that ponders the Highest Kingdom [malkūt al-a la], the unproclaimed [33] and the unheard wisdom that ['ilmha az nā-kh"ānda va na-shanīda] hangs from the veil of the Exalted King and is shrouded by the violet dīvān in the spirit of preservation. 
+
+و یکی روح العلم که دمِ عیسی ست که مُردگانرا زِنده کند از پردۀ عقیق رنگ در این روح الفکر پیوسته است، 
+
+One is the spirit of knowledge [ruh al-'ilm], which is the breath of Jesus that gives life to the dead-shrouded by a veil of carnelian red ['aqiq-rang] in the spirit of thought. 
+
+و یکی روح العقل که داورِ ملکِ تعالی ست از دیوانِ آتش گون در این روح العلم پیوسته است، 
+
+One is the spirit of the intellect [ruh al-'aq!], which is the judge of the Exalted King—shrouded by the dīvān coloured by fire in the spirit of knowledge. 
+
+و یکی روح القدس که معاینۀ شخصِ خداوند است که از فهم و وهم و اسم و نام ونشان برون است از دیوانِ یاقوت رنگ [34] در این روح العقل ظهور می کند و هرگز در این جهانِ کوچک در قالبِ خونین و گوچدین نگنجد و نیآید، قَولُهُ تَعالی، 
+
+One is the spirit of holiness [rūḥ al-quds],119 the visible form of God [ke muʻāyana-ye shakhṣ-i khodāvand ast] that is beyond understanding and imagining, beyond naming and designation, and beyond intimation [ke az fahm va wahm va ism va nām va neshān bīrūn ast]—made manifest by the ruby dīvān [34] in the spirit of the intellect and never encased in or brought to the micro-cosmos in the form of flesh and blood [dar qālib-khūnīn va gūchdin]. Thus is the word of the Most High: 
+
+لَن یَنَالَ للهُ لُحُومُهَا وَ لَا دِمَاءُها وَ لَکِن یَنَالُهُ التَّقوَی [22,38] 
+
+'Its meat and blood do not reach God, rather your piety reaches him' (Q.22.38). 
+
+و این هفت روح چون قَوسِ قُزَح درهم پیوسته اند از بالای مغزِ مؤمنان و عالمانِ ربانی همچنانکه این قَوسِ قُزَح سر در زمینِ عالمِ بزرگ می نهد این روحها پرده پرده بر این مغز نهند که زمین [35] عرصاتِ قیامت است، 
+
+These seven spirits are bound to one another like a rainbow above the minds of the believers and godly instructors. As the rainbow rests on the highest point of the earth in the macro-cosmos, these spirits rest veil upon veil above the mind, which is the surface [35] of the plateaux of the Day of Resurrection and Judgment [ke zamīn-i ‘araṣāt-i qiyāmat ast]. 
+
+و از این سریرگاهِ ایزدی هر یک نوری در این رگِ حبل الورید دارد بدین دو روح که یکی از منزلتِ معترضان است در نیمۀ راستِ دل در خانۀ باد است، و یکی از منزلتِ آن مؤمنان که در قالبِ هوائی و سمائی بودند هم در این نیمۀ دلِ راست در خانۀ آبِ پاک است، این هر دو روح بدین نور (و) روشنائی بدین رگِ هفت شاخ بدیشان پیوسته است، از خدای بترسند و روی بخُدای [36] کنند (و) در این کوه که نامِ او دل است طلبِ نجاتِ جاودانی کنند تصدیقًا لِقَولِهِ تَعالی، 
+
+Each light exists in the jugular vein, and in this cycle are two spirits. One is from the station of the insolent [manzilat-i muʻtarizān] found in the right half of the heart in the 'chamber of wind' [khāna-ye bād]; the other is from the station of the believers who are in an aerial and heavenly form [dar qālib-i havāī va samar], and this is also in the chamber of pure waters. Both of these spirits are bound to these with the religion of light and luminescence through the vein with seven branches. They fear God and seek his face. [36] And on this mountain-whose name is 'heat [del]'-they seek eternal salvation, testifying to his word, 
+
+اَو أَنزَلنَا هَذَا القُرآنَ عَلَی جَبَلٍ لَرَأَیتَهُ خَاشِعًا مُتَصَدِّعًا مِن خَشیَةِ اللهِ وَ تِلکَ الأَمثَالُ نَضرِبُهَا لِلنّاسِ لَعَلَّهُم یَتَفَکَّرُونَ [59,21] 
+
+'If we would have sent down this Qur'an on top of a mountain, then you would have seen it humbled and rent asunder by the fear of God. We impress these similitudes upon humankind that they might ponder' (Q.59.21). 
+
+و این هفت روح که همه آفرینش بدستِ ایشان است و هر هفتی که در آسمانها و در زمینها ست رد الهیّت و بشریّت بدلیل و برهانِ [37] ایشان است و آیت این است که خدای تعالی با مصطفی در کلامِ مجید گفته که قَولُهُ تَعالی، 
+
+These seven spirits in whose hands is all creation and each heptad [har hafti] in the heavens and the earth in divine and human sphere [dar ilāhīyat va basharīyat] are a demonstration and proof of them. The sign [āyat] of this is that God Most High said to al-Mustafă (i.e., Muḥammad) in excellent speech, 
+
+وَ لَقَد خَلَقنَا الإِنسَانَ مِن سُلالَةٍ مِن طِینٍ، ثُمَّ جَعَلنَاهُ نُطفَةً فِی قَرَارٍ مَکِینٍ ، ثُمَّ خَلَقنَا النُطفَةَ عَلَقَةَ فَخَلَقنَا العَلَقَةَ مُضعَةً قَخَلَقنَا المُصعَةَ عِظَامًا فَکَسَونا العِظَامَ لَحمًا ثُمَّ أَنشَأنَاهُ خَلقًا آخَرَ
+
+[23,12-14] [38] 
+
+'Verily we created humankind from an extract of clay; then we made it sperm firmly affixed; then we made it a clot of blood and made the clot a lump, and made the lump bones. Thus we clothed the bones with flesh and formed it into another creation' ([Q.23.12–14](https://www.islamicstudies.info/tafheem.php?sura=23&verse=12)).”
+
+ش
 
 پس عبد اللهِ صبّاح سر و روی باقر العلم ببوسید و برپای خاست و دعا و آفرین برخواند و گفت سبّوح قدّوس و قدّوس سبّوح محمَد و علی حقًّا حقًّا، علی و محمّد بِآلائه و نعمائه زینهار ای مؤمنان و مسلمان، ای خداوند افشاننده و بخشاینده گواهی دهم که خداوندِ همۀ مؤمنانی و آفرینندۀ زمین و آسمانی زینهار ای خداوند آفریننده سبّوح قدّوس، می گفت [39] و بر زمین درافتاد
 
@@ -209,17 +315,44 @@ Bāqir said, "One is the macro-cosmos ['alam-i bozorg], which has been mentioned
 
 When his senses returned, he no longer saw Muḥammad al-Bāqir; rather, he saw Muḥammad the Chosen [al-mustafa], whose face shone with light like lightning and with two tresses of light in front. And he would say, "I am 'Glory to God' [anā subḥāna’llāh]”— meaning, "I am the pure and sanctified Lord [manam khodavānd-i pāk va pākīze] and transcend all attributes and description". "Abdallah, who saw this, collapsed onto the ground.
 
-چون باز راست آمد أمیرالمؤمنین علی را دید که می گفت أَنا الحَمدُ لِلّهِ یعنی منم آن خداوند که آسمان و زمین حمد و ثنای من می گویند وَ إِن [40] مِن شَیءٍ إِلَّا یُسَبِّحُ بِحَمدِهِ [[17,46]](https://www.islamicstudies.info/tafheem.php?sura=17&verse=46)
+چون باز راست آمد أمیرالمؤمنین علی را دید که می گفت أَنا الحَمدُ لِلّهِ یعنی منم آن خداوند که آسمان و زمین حمد و ثنای من می گویند
 
-When he returned to himself again, he saw the Commander of the Faithful ‘Alī, who said, “I am Praise be to God' [ana l-ḥamdu lillāh]"—meaning, "I am the Lord whom the heavens and the earth extol and praise and [40] 'there is nothing which does not declare his glory' ([Q.17.44](https://www.islamicstudies.info/tafheem.php?sura=17&verse=44)). ‘Abdallah again collapsed on the ground.
+When he returned to himself again, he saw the Commander of the Faithful ‘Alī, who said, “I am Praise be to God' [ana l-ḥamdu lillāh]"—meaning, "I am the Lord whom the heavens and the earth extol and praise and [40] 
 
-عبد الله دیگر بار باز بر زمین در افتاد و چون سر برداشت علی را ندید فاطمه را دید که معجرِ سبز بر سر کشیده و لباس از سُندُس و اِستِبرَق پوشیده که هزار هزار نور و شعاع از وی می تافت و می گفت لَا إِلهَ إِلّا أَنا اللهُ یعنی که نیست بخُبر من خداوندی در هیچ مقامی نه در الهیّت و نه در بشریّت و نه در آسمان و نه در زمین اِلّا من که فاطمة الفاطر م و آفرینندۀ روحهای مؤمنان منم [41] إِنِّی الخَالِقُ البَارِئُ لَهُ الأَسمَآءُ الحُسنَی [[59,24]](https://www.islamicstudies.info/tafheem.php?sura=59&verse=24)
+وَ إِن [40] مِن شَیءٍ إِلَّا یُسَبِّحُ بِحَمدِهِ 
 
-When he lifted his head he no longer saw ‘Alī but saw Fățima, who had a green veil pulled over her head and was wrapped in cloth "of fine silk and shining brocade" ([Q.18.31](https://www.islamicstudies.info/tafheem.php?sura=18&verse=31)),120 from which a million rays of light shone. And she was saying, “There is no god save the God I am [lā ilāha illā anā’llāh]”—meaning, “Besides me there is no Lord in any place whether in the divine or human realm or in the heavens or on the earth. There is no god but I, Fățima the Creater [al-fațir],121 I am the Creator of the spirits of the believers. [41] 'I am Creator and Author to whom belongs the beautiful names' ([Q.59.24](https://www.islamicstudies.info/tafheem.php?sura=59&verse=24))." 'Abdallah once again became prostrate.
+\[[17,46](https://www.islamicstudies.info/tafheem.php?sura=17&verse=46)]
 
-پس عبد الله دیگر بار باز بسجود شُد چون باز راست آمد فاطمه را ندید و حَسَنِ علی ر دید که همچون ماهِ شبِ چهارده برقش شُعاع بر می زد و می گفت أَنا اللهُ أکبَرُ یعنی منم خداوند بزرگ تر از آسمانها و زمین و مِهتَر منم أَنا اللهُ لَا إِلَهَ اِلَا هُوَ لَهُ الأَسمَاءُ الحُسنی [[59,24]](https://www.islamicstudies.info/tafheem.php?sura=59&verse=24)
+'there is nothing which does not declare his glory' ([Q.17.44](https://www.islamicstudies.info/tafheem.php?sura=17&verse=44)). ‘Abdallah again collapsed on the ground.
 
-When his senses returned, he no longer saw Fatima but saw Hasan-i ‘Alī from whom there emitted flashing and resplendent light like a moon of the fortieth night. He was saying, "I am 'God is great' [anā'llāhu akbar]”—meaning, "I am the Lord who is greater than the heavens and the earth and the elder [mehtar]. I am God; there is no god but he to whom belongs the beautiful names' ([Q.39.24](https://www.islamicstudies.info/tafheem.php?sura=39&verse=24))."
+عبد الله دیگر بار باز بر زمین در افتاد و چون سر برداشت علی را ندید فاطمه را دید که معجرِ سبز بر سر کشیده و لباس از 
+
+When he lifted his head he no longer saw ‘Alī but saw Fățima, who had a green veil pulled over her head and was wrapped in cloth  
+سُندُس و اِستِبرَق 
+
+"of fine silk and shining brocade" ([Q.18.31](https://www.islamicstudies.info/tafheem.php?sura=18&verse=31)),120
+
+پوشیده که هزار هزار نور و شعاع از وی می تافت و می گفت لَا إِلهَ إِلّا أَنا اللهُ یعنی که نیست بخُبر من خداوندی در هیچ مقامی نه در الهیّت و نه در بشریّت و نه در آسمان و نه در زمین اِلّا من که فاطمة الفاطر م و آفرینندۀ روحهای مؤمنان منم [41] 
+
+from which a million rays of light shone. And she was saying, “There is no god save the God I am [lā ilāha illā anā’llāh]”—meaning, “Besides me there is no Lord in any place whether in the divine or human realm or in the heavens or on the earth. There is no god but I, Fățima the Creater [al-fațir],121 I am the Creator of the spirits of the believers. [41] 
+
+إِنِّی الخَالِقُ البَارِئُ لَهُ الأَسمَآءُ الحُسنَی 
+
+\[[59,24](https://www.islamicstudies.info/tafheem.php?sura=59&verse=24)\]
+
+'I am Creator and Author to whom belongs the beautiful names' ([Q.59.24](https://www.islamicstudies.info/tafheem.php?sura=59&verse=24))." 
+
+پس عبد الله دیگر بار باز بسجود شُد چون باز راست آمد فاطمه را ندید و حَسَنِ علی ر دید که همچون ماهِ شبِ چهارده برقش شُعاع بر می زد و می گفت أَنا اللهُ أکبَرُ یعنی منم خداوند بزرگ تر از آسمانها و زمین و مِهتَر منم 
+
+'Abdallah once again became prostrate. When his senses returned, he no longer saw Fatima but saw Hasan-i ‘Alī from whom there emitted flashing and resplendent light like a moon of the fortieth night. He was saying, "I am 'God is great' [anā'llāhu akbar]”—meaning, 
+
+أَنا اللهُ لَا إِلَهَ اِلَا هُوَ لَهُ الأَسمَاءُ الحُسنی 
+
+\[[59,24](https://www.islamicstudies.info/tafheem.php?sura=39&verse=24)\]
+
+"I am the Lord who is greater than the heavens and the earth and the elder [mehtar]. I am God; there is no god but he to whom belongs the beautiful names' ([Q.59.24](https://www.islamicstudies.info/tafheem.php?sura=59&verse=24))."
+
+[[Qrsi#59:24]]
 
 پس عبد الله چون باز راست آمد حَسَن را ندید حُسَینِ علی را دید که ماه (و) شتری از لب و دندانِ او می تافت [42] و آفتاب از دیمِ وی بر آفتابِ عالمِ بزرگ غلبه می کرد و بیمِ آن بود که عبد الله بسوختی، و می گفت لَا حَولَ وَ لَا قُوَّةَ إِلَّا بِاللهِ العَلیِّ العَظِیمِ، یعنی از من بیرون خداوندی نیست که عذاب کنندۀ کافران منم، رهانندۀ مؤمنان منم، حسینِ علی منم و حسنِ علی منم و فاطمۀ زَهرا منم، و علیُّ الأَعلَی منم، و محمّد مصطفی منم، ع
 
@@ -253,29 +386,69 @@ Then Bāqir al-'Ilm said, "O enlightened ones, there is great danger in removing
 
 "O enlightened ones, brothers! You know that in the days of our Lord, the Commander of the Faithful ‘Alī—who appeared with authority and to whom was given the caliphate-the minaret in the city of Kufa prostrated itself to him and could not be made upright again and thus remained, [48] and all the people bore witness, in secret and openly, with undoubting hearts and with unwavering conviction. Only Abu l-Khaṭṭāb spoke openly concerning this light and declaration, 'O Arab and non-Arab ['ajam]! Be my witnesses that there is no god in the 18,000 worlds save ‘Alī b. Abi Talib,' until our Lord, our father, commanded that Abū l-Khaṭṭāb be executed and burned at the stake.132 O enlightened ones, if our father had not killed and burned Abu l-Khaṭṭāb at the stake, then he would have spoken the word that must not be spoken for 940 more years".133
 
-[49] پس همۀ آن مؤمنان عفو می خواستند و جابرِ عبد اللهِ انصاری بر پای خاست و گفت مَا شاءَ اللهُ کَانَ وَ لَم یَکُن إِلّا أَن یَشاءُ، فرمان خداوند را ست هرچه خواهد بکند، پس خداوند باقر به بخشود و این آیت برخواند که فَخَرَجَ عَلَی قَومِهِ مِن المِحرَبِ فَأَوحَی إِلَیهِم أَن سَبِّحُوا بُکرَةً وَ عَشِیًّا، یَا یَحیَی خُذِ الکِتَابَ بِقُوَّةٍ وَ آتَینَاهُ الحُکمَ صَبِیًّا [[19,12-13]](https://www.islamicstudies.info/tafheem.php?sura=19&verse=12)
+[49] پس همۀ آن مؤمنان عفو می خواستند و جابرِ عبد اللهِ انصاری بر پای خاست و گفت مَا شاءَ اللهُ کَانَ وَ لَم یَکُن إِلّا أَن یَشاءُ، فرمان خداوند را ست هرچه خواهد بکند، پس خداوند باقر به بخشود و این آیت برخواند که 
 
-[49] Then all of the believers asked for forgiveness. Jābir b. 'Abdallah al-Anṣārī stood on his feet and said, "Whatsoever God willed came to be, and nothing came to be that he did not will. The command of God is right; all that he wills is done". Lord Bāqir pardoned them and recited this verse, "Then he went out to his people from the Temple and prophesied to them: 'Pray morning and evening! O John, hold fast to the Book!" And we gave him wisdom even as a youth" ([Q.19.11](https://www.islamicstudies.info/tafheem.php?sura=19&verse=11) f.).
+[49] Then all of the believers asked for forgiveness. Jābir b. 'Abdallah al-Anṣārī stood on his feet and said, "Whatsoever God willed came to be, and nothing came to be that he did not will. The command of God is right; all that he wills is done". Lord Bāqir pardoned them and recited this verse, 
 
-چون باقر العلم این آیت بخواند [50] شخصی نه مُرده نه زِنده، لَا یَمُوتُ فِیهَا وَ لَا یَحیَا [[20,76]](https://www.islamicstudies.info/tafheem.php?sura=20&verse=76) از دیوارِ حُجره فاطمه بیرون آمد، باقر العلم بادی بر وی دمید، چون روح از لب و دندانِ آن طفلِ ماه روی ظهور کرد بحلقومِ آن شخص فروشد و باز راست آمد، و دیگر بار وَ الشَّهَادَةِ الکَبِیرُ المُتَعَلِ [[13,10]](https://www.islamicstudies.info/tafheem.php?sura=13&verse=10) می خواند و گواهی برخواندیِ باقر می داد بآن همه روشنیان،
+فَخَرَجَ عَلَی قَومِهِ مِن المِحرَبِ فَأَوحَی إِلَیهِم أَن سَبِّحُوا بُکرَةً وَ عَشِیًّا، یَا یَحیَی خُذِ الکِتَابَ بِقُوَّةٍ وَ آتَینَاهُ الحُکمَ صَبِیًّا 
 
-As Bāqir al-'Ilm recited this verse, [50] a form [shakhsi] neither living nor dead-"there one does not die, nor does one live" ([Q.20.76](https://www.islamicstudies.info/tafheem.php?sura=20&verse=76))-came out from the wall of Fatima's chamber. Bāqir al-'Ilm blew a breath on him, and as the spirit appeared from the lips and teeth of the moonfaced child, it went down the throat of this form. It straightened up and then recited, "... the testimony, the great and the exalted!" ([Q.13.9](https://www.islamicstudies.info/tafheem.php?sura=13&verse=9)) and testified to the divinity of Bāqir [khodavandi-ye baqir] before all the enlightened ones.
+\[[19,12-13](https://www.islamicstudies.info/tafheem.php?sura=19&verse=12)\]
+
+"Then he went out to his people from the Temple and prophesied to them: 'Pray morning and evening! O John, hold fast to the Book!" And we gave him wisdom even as a youth" ([Q.19.11](https://www.islamicstudies.info/tafheem.php?sura=19&verse=11) f.).
+
+چون باقر العلم این آیت بخواند [50] شخصی نه مُرده نه زِنده، 
+
+As Bāqir al-'Ilm recited this verse, [50] a form [shakhsi] neither living nor dead-
+
+لَا یَمُوتُ فِیهَا وَ لَا یَحیَا 
+
+\[[20,76](https://www.islamicstudies.info/tafheem.php?sura=20&verse=76)\]
+
+"there one does not die, nor does one live" [Q.20.76](https://www.islamicstudies.info/tafheem.php?sura=20&verse=76)
+
+از دیوارِ حُجره فاطمه بیرون آمد، باقر العلم بادی بر وی دمید، چون روح از لب و دندانِ آن طفلِ ماه روی ظهور کرد بحلقومِ آن شخص فروشد و باز راست آمد، و دیگر بار 
+
+came out from the wall of Fatima's chamber. Bāqir al-'Ilm blew a breath on him, and as the spirit appeared from the lips and teeth of the moonfaced child, it went down the throat of this form. It straightened up and then recited, 
+
+وَ الشَّهَادَةِ الکَبِیرُ المُتَعَلِ
+
+\[[13,10](https://www.islamicstudies.info/tafheem.php?sura=13&verse=10)\]
+
+"... the testimony, the great and the exalted!" ([Q.13.9](https://www.islamicstudies.info/tafheem.php?sura=13&verse=9)) 
+
+می خواند و گواهی برخواندیِ باقر می داد بآن همه روشنیان،
+
+and testified to the divinity of Bāqir [khodavandi-ye baqir] before all the enlightened ones.
 
 باقر گفت یا عبد الله چه دیدی و چگونه بودی،
 
 Bāqir said, “O 'Abdallah, what have you seen and in what state were you?"
 
-عبد الله گفت ای حداوندِ همه خداوندان [51] و نورِ همۀ نوران خویشتن را در خواب دیدم در بهشت با حور در قصور نشسته بودم در خیمهای نورانی و روحانی با وِلدان و غِلمان (و) حُورٌ مَقصُورَاتٌ فی الخیَامِ [[55,72]](https://www.islamicstudies.info/tafheem.php?sura=55&verse=72) و محمّد و علی و فاطمه و حسن و حسین را دیدم که همه اهلِ بهشت گواهی برخداوندیِ ایشان می دادند و من نیز گواهی می دادم و می گفتم شَهَدَ اللهُ أنَّهُ لَا إِلهَ إِلَّا هُوَ الحَیُّ القَیُّومُ و ترا دیدم یا خداوندِ من که صد هزار آفتاب و ماه از لب [52] و دندانِ تو ظهور می کند، و چون از خواب بیدار شدم این همه هیچ ندیدم و ترا دیدم که بادی بدهانِ من بردمیدی و همه اندامِ من گویا گشت و گواهی می داد،  
+عبد الله گفت ای حداوندِ همه خداوندان [51] و نورِ همۀ نوران خویشتن را در خواب دیدم در بهشت با حور در قصور نشسته بودم در خیمهای نورانی و روحانی با وِلدان و غِلمان 
 
-'Abdallah said, "O Lord of lords [51] and Light of all lights, I saw myself asleep [dar kh"āb] in paradise seated alongside houris inside palaces and inside spiritual and luminescent pavillons alongside young boys and youthful servants (cf. [Q.56.17](https://www.islamicstudies.info/tafheem.php?sura=56&verse=17)) and 'demure houris in pavillons' ([Q.55.72](https://www.islamicstudies.info/tafheem.php?sura=55&verse=72)). I saw Muḥammad, ‘Alī, Fatima, Ḥasan and Husayn to whose divinity all the inhabitants of paradise bore witness, and I also bore witness and said, 'God testifies that there is no god but he, the living, the enduring'. And I saw you, my Lord, as though a hundred thousand moons and suns appeared from your lips [52] and teeth. As I awoke from sleep, I saw none of this but saw you blowing breath into my mouth, and all my limbs were able to speak, and I bore witness!"
+Abdallah said, "O Lord of lords [51] and Light of all lights, I saw myself asleep [dar kh"āb] in paradise seated alongside houris inside palaces and inside spiritual and luminescent pavillons alongside young boys and youthful servants '(cf. [Q.56.17](https://www.islamicstudies.info/tafheem.php?sura=56&verse=17)) 
+
+(و) حُورٌ مَقصُورَاتٌ فی الخیَامِ 
+
+\[[55,72](https://www.islamicstudies.info/tafheem.php?sura=55&verse=72)]
+
+and 'demure houris in pavillons' ([Q.55.72](https://www.islamicstudies.info/tafheem.php?sura=55&verse=72)). 
+
+و محمّد و علی و فاطمه و حسن و حسین را دیدم که همه اهلِ بهشت گواهی برخداوندیِ ایشان می دادند و من نیز گواهی می دادم و می گفتم شَهَدَ اللهُ أنَّهُ لَا إِلهَ إِلَّا هُوَ الحَیُّ القَیُّومُ و ترا دیدم یا خداوندِ من که صد هزار آفتاب و ماه از لب [52] و دندانِ تو ظهور می کند، و چون از خواب بیدار شدم این همه هیچ ندیدم و ترا دیدم که بادی بدهانِ من بردمیدی و همه اندامِ من گویا گشت و گواهی می داد،  
+
+I saw Muḥammad, ‘Alī, Fatima, Ḥasan and Husayn to whose divinity all the inhabitants of paradise bore witness, and I also bore witness and said, 'God testifies that there is no god but he, the living, the enduring'. And I saw you, my Lord, as though a hundred thousand moons and suns appeared from your lips [52] and teeth. As I awoke from sleep, I saw none of this but saw you blowing breath into my mouth, and all my limbs were able to speak, and I bore witness!"
 
 طالب ابن عبد الله بر پای خاست و گفت، من نیز خویشتن را بفدای خداوند باقر می کنم با آنچه پدرم دیده است من نیز به بینم،
 
 Talib, the son of 'Abdallah,134 stood on his feet and said, "I too will sacrifice myself for Lord Bāqir [be-fida-ye khodavānd-i bāger mī-konam] so that I may see the likes of which my father has seen!"
 
-و این مذهبِ فدائی و طالبی در شام و شامات همه آن است که طالب نهاده است، و مذهبِ اسماعیل آن است که فرزندانِ ابو [53] الخطّاب نهاده اند که تنِ خود را بفدای فرزندانِ جعفرِ صادق اسماعیل کردند که در دَورِ دوائر بماند وَالسّلام عَلَی مَنِ اتََبَعَ الهُدَی،  
+و این مذهبِ فدائی و طالبی در شام و شامات همه آن است که طالب نهاده است، و مذهبِ اسماعیل آن است که فرزندانِ ابو [53] الخطّاب نهاده اند که تنِ خود را بفدای فرزندانِ جعفرِ صادق اسماعیل کردند که در دَورِ دوائر بماند   
 
-This self-sacrificing, Talibi school of thought [in madhhab-i fidāī va-țālibi] is the very one {in Damascus and Syria}135 that Talib founded. The Ismā‘īlī school of thought is the one that the successors of Abū [53] l-Khaṭṭāb had founded, who sacrificed their own bodies for the sake of the successors of Ja'far al-Ṣādiq and Ismā‘īl,136 which remained throughout all cycles. "Peace be upon those who follow Guidance" ([Q.20.47](https://www.islamicstudies.info/tafheem.php?sura=20&verse=47))!
+This self-sacrificing, Talibi school of thought [in madhhab-i fidāī va-țālibi] is the very one {in Damascus and Syria}135 that Talib founded. The Ismā‘īlī school of thought is the one that the successors of Abū [53] l-Khaṭṭāb had founded, who sacrificed their own bodies for the sake of the successors of Ja'far al-Ṣādiq and Ismā‘īl,136 which remained throughout all cycles. 
+
+وَالسّلام عَلَی مَنِ اتََبَعَ الهُدَی،
+
+"Peace be upon those who follow Guidance" ([Q.20.47](https://www.islamicstudies.info/tafheem.php?sura=20&verse=47))!
 
 ### Notes
 

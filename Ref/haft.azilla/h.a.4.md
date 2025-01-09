@@ -1,8 +1,8 @@
 # الباب الرابع Door # 4
 
-**في معرفة عصيان الخلق وعلله و کيف نسوا ما ذ کروا به "In Knowing the Disobediance of Creation, the Reason of it and how they forgot what** **they were reminded of"**
+**في معرفة عصيان الخلق وعلله و کيف نسوا ما ذکروا به "In Knowing the Disobediance of Creation, the Reason of it and how they forgot what** **they were reminded of"**
 
-قال المفضل: قال مولَي أبو عبد اللّه :فرغ اللّه من ذلك كله بمقدار خمسين ألف سنة،  
+قال المفضل: قال مولاي أبو عبد اللّه :فرغ اللّه من ذلك كله بمقدار خمسين ألف سنة،  
 
 Imam Sadiq said "Allah vacated from all that in the length of 50,000 years." 
 
@@ -74,11 +74,12 @@ _**"They forgot a good part of the message that was sent them: so we estranged t
 _ثم تلا  
 _
 
-_وَلَوْ أَنّهُمْ فَعَلُوا مَا يُ وعَظُونَ بِهِ لَکَانَ خَيْرًا لَهُمْ وَأَشَدّ تَثْبِیتًا * وَِإذًا لَْتَيْنَاهُمْ مِنْ لَدُنّا أَجْرًا عَظِيمًا * وَلَهَدَيْنَاهُمْ صِرَاطًا مُسْتَقِيمًا  
+_وَلَوْ أَنّهُمْ فَعَلُوا مَا يُوعَظُونَ بِهِ لَکَانَ خَيْرًا لَهُمْ وَأَشَدّ تَثْبِیتًا * وَِإذًا لَْتَيْنَاهُمْ مِنْ لَدُنّا أَجْرًا عَظِيمًا * وَلَهَدَيْنَاهُمْ صِرَاطًا مُسْتَقِيمًا  
 _
 
 _**"If they had done what they were told, it would have been better for them, and would**_ _**have strengthened their (Faith). And indeed We would have bestowed upon them a**_ _**great reward from Ourselves. And indeed We would have guided them to the Straight**_ _**Path.**_ 
 
+[[Qrsi#4:66]][[Qrsi#4:67]][[Qrsi#4:68]]
 _ثم قرا  
 _
 
@@ -86,6 +87,7 @@ _وَمَنْ يُطِعِ اللّه وَالرّسُولَ فَأُولَئِ
 
 _**And whoso obey Allah and the Messenger. Then they will be in the company of**_ _**those on whom Allah has bestowed His Grace.**_ _**Of the Prophets, the Truthful, the Martyrs and the Righteous. And how excellent these**_ _**companions are! Such is the Bounty from Allah and Allah is Sufficient as All Knower."**_
 
+[[Qrsi#4:69]][[Qrsi#4:70]]
 - 8 -
 
 يعني بما أضمرتم في قلوبکم من ردكم على اللّه تعالى. 
@@ -96,10 +98,12 @@ _**And whoso obey Allah and the Messenger. Then they will be in the company of**
 
 Imam Sadiq said "Then Allah warned the Believers by saying:)
 
-_يَا أيّهَا الّذِ ينَ آمَنُوا خُذُوا حِذْرَكُمْ  
+_يَا أيّهَا الّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ  
 _
 
 _**"O you who believe! Take your precautions."**_ (The Holy Qurán 2:66 – 71)
+
+[[Qrsi#4:71]]
 
 يعني من مثل هذا القول ومن ردها على اللّه تعالى.  
 
@@ -121,7 +125,7 @@ in regret over what they had said 
 
 and sorry about what they missed from seeing Him and His knowledge 
 
-وأسفة على ما فاتهم من رؤيته وعلمه وحرمانهم من النظر إليه وحلَوة كلامه،   
+وأسفة على ما فاتهم من رؤيته وعلمه وحرمانهم من النظر إليه وحلاوة كلامه،   
 
 and being deprived from looking at Him and the Sweetness of His speech 
 

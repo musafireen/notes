@@ -3,6 +3,719 @@ https://www.tertullian.org/fathers/eusebius_pe_09_book9.htm
 
 https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1:1.1.1-1.1.5/
 
+## b1
+### c9
+#### 1
+“Τοὺς δ’ οὖν κατ’ Αἴγυπτον ἀνθρώπους τὸ
+παλαιὸν γενομένους ἀναβλέψαντας εἰς τὸν κόσμον, καὶ τὴν τῶν ὅλων φύσιν καταπλαγέντας τε καὶ θαυμάσαντας,
+
+c
+ὑπολαβεῖν εἶναι δύο θεοὺς ἀïδίους τε καὶ πρώτους, τόν τε ἤλιον καὶ τὴν σελήνην, ὧν τὸν μὲν Ὄσιριν, τὴν δὲ Ἰσιν ὀνομάσαι, ἀπό τινος ἐτύμου τεθείσης
+ἑκατέρας τὴς προσηγοοίας.
+
+[DIODORUS] 'It is said then that the men who dwelled of old in Egypt when they looked up to the cosmos, and were struck with astonishment and admiration at the nature of the universe, supposed that the sun and moon were two eternal and primal gods, one of whom they named Osiris, and the other Isis, each name being applied from some true etymology.
+#### 2
+υεθερμηνευομένων γὰρ τούτων εἰς τὸν Ελληνικὸν τῆς διαλέκτου τρόπον εἶναι μὲν τὸν Ὂσιριν πολυόφθλμον, εἰκότως· πάντη γὰρ ἐπιβαλλοντα τὰς ἀκτῖνας ὡσπερ πολλοῖς ὀφθαλμοῖς βλέπειν ἂπασαν γῆν καὶ θάλατταν· καὶ
+τὸν ποιητὴν δὲ λέγειν σύμφωνα τούτοις, [*]
+
+v.1.p.33
+Ἠέλιός θ’ ὃς πάντ’ ἐφορᾷς καὶ πάντ’ ἐπακούεις.
+
+'For when they are translated into the Greek form of speech, Osiris is "many eyed"; with reason, for casting his beams in every direction he beholds, as it were with many eyes, the whole earth and sea: and with this the poet's words agree:
+#### 3
+τῶν δὲ παρ’ Ἓλλησι παλαιῶν μυθολόγων τινὲς
+
+d
+τὸν Ὄσιριν Διόνυσον προσονομάζουσι καὶ Σείριον παρωνύμως. ὧν Εὔμολπος μὲν ἐν τοῖς Βακχικοῖς
+ἔπεσί φησιν
+ἀστροφαῆ Διόνυσον ἐν ἀκτίνεσσι πυρωπόν.
+Ὀρφεὺς δὲ
+τοὔνεκά μιν καλέουσι Φάνητά τε καὶ Διόνυσον.
+
+φασὶ δέ τινες καὶ τὸ ἔναμμα αὐτῷ τὸ τῆς νεβρίδος ἀπὸ τῆς τῶν ἄστρων ποικιλίας περιῆφθαι.
+
+Thou Sun, who all things seest, and nearest all." 12
+
+'But some of the ancient mythologists among the Greeks give to Osiris the additional name Dionysus, and, by a slight change in the name, Sirius. One of these, Eumolpus, speaks in his Bacchic poems thus:
+
+                                                "Dionysus named, 
+"Bright as a star, his face aflame with rays." 13
+
+And Orpheus says:
+
+"For that same cause Phanes and Dionysus him they call."14
+
+Some say also that the fawn-skin cloak is hung about him as a representation of the spangling of the stars.
+#### 4
+τὴν δὲ Ἰσιν μεθερμηνευομένη εἶναι παλαιὰν, τεθειμένης τῆς προσηγορίας τῇ σελήνῃ ἀπὸ τῆς ἀιδίου καὶ παλαιᾶς γενέσεως· κέρατα δ’ αὐτῇ περιτιθέασιν ἀπό τε
+τῆς ὄψεως, ἣν ἔχουσα φαίνεται καθ’ ὃν ἂν χρόνον ὑπάρχῃ μηνοειδὴς, καὶ ἀπὸ τῆς καθιερωμένης αὐτῇ
+
+28
+βοὸς παρ’ Αἰγυπτίοις. τούτους δὲ τοὺς θεοὺς ὑφίστανται τὸν σύμπαντα κόσμον διοικεῖν.
+
+Isis" too, being interpreted, means "ancient," the name having been given to the Moon from her ancient and eternal origin. And they put horns upon her, both from the aspect with which she appears whenever she is crescent-shaped, and also from the cow which is consecrated to her among the Egyptians. And these deities they suppose to regulate the whole world.' 15
+#### 5
+Τοιαῦτα μὲν οὖν καὶ ταῦτα. ἔχεις δὲ καὶ ἐν
+τῇ Φοινικικῇ θεολογίᾳ ὡς ἄρα Φοινίκων οἶ πρῶτοι φυσικοὶ ἥλιον καὶ σελήνην καὶ τοὺς λοιποὺς πλανήτας ἀστέρας καὶ τὰ στοιχεῖα καὶ τὰ τούτοις συναφῆ θεοὺς μόνους ἐγίνωσκον, καὶ ὅτι τούτοις οἶ παλαίτατοι τὰ τῆς γῆς ἀφιέρωσαν βλαστήματα, καὶ θεοὺς ἐνόμισαν,
+καὶ προσεκύνουν ταῦτα, ἀφ’ ὧν αὐτοί τε διεγίνοντο
+
+b
+καὶ οἶ ἑπόμενοι, καὶ οἱ πρὸ αὐτῶν πάντες, καὶ χοὰς καὶ ἐπιχύσεις ἐτέλουν· ἔλεον δὲ καὶ οἶκτον καὶ κλαυθμὸν βλαστήματι γῆς ἀπιόντι καθιέρουν, καὶ γενέσει ζῴων ἐκ γῆς πρώτῃ καὶ τῇ ἐξ ἀλλήλων καὶ
+τελευτῇ, καθ’ ἣν τοῦ ζῆν ἀπήρχοντο.
+
+Such then are the statements on this subject. You find, too, in the Phoenician theology, that their first 'physical philosophers knew no other gods than the sun, the moon, and besides these the planets, the elements also, and the things connected with them'; and that to these the earliest of mankind 'consecrated the productions of the earth, and regarded them as gods, and worshipped them as the sources of sustenance to themselves and to following generations, and to all that went before them, and offered to them drink-offerings and libations.' But pity and lamentation and weeping they consecrated to the produce of the earth when perishing, and to the generation of living creatures at first from the earth, and then to their production one from another, and to their end, when they departed from life. These their notions of worship were in accordance with their own weakness, and the want as yet of any enterprise of mind.'
+#### 6
+αὗται δ’ ἦσαν αἶ ἐπίνοιαι τῆς προσκυνήσεως ὅμοιαι τῇ αὐτῶν ἀσθενείᾳ καὶ ψυχῆς ἔτι ἀτολμίᾳ. ταῦτα καὶ ἡ Φοινί-
+
+v.1.p.34
+κῶν γραφὴ, ὡς ἐξῆς ἀποδειχθήσεται. ἀλλὰ καὶ τῶν
+19
+καθ’ ἡμᾶς γεγονὼς αὐτὸς ἐκεῖνος, ὁ ταῖς καθ’ ἡμῶν
+c
+λαμπρυνόμενος δυσφημίαις, ἐν οἶς ἐπέγραψε ‘‘Περὶ τῆς τῶν ἐμψύχων ἀποχῆς,” καὶ τῶν παλαιῶν ἀρχαιότητος τὴν μνήμην ὧδέ πως αὐτολεξεὶ, Θεοφράστῳ μάρτυρι
+χρώμενος, παρατίθεται
+
+Such are the statements of the Phoenician writings, as will be proved in due course. Moreover, one of our own time, that very man who gains celebrity by his abuse of us, in the treatise which he entitled Of Abstinence from Animal Food, makes mention of the old customs of the ancients as follows in his own words, on the testimony of Theophrastus:16
+#### 7
+“Ἀνάριθμος μέν τις ἔοικεν εἶναι χρόνος, ἀφ’ οὗ τό γε πάντων λογιώτατον γένος, ὥς φησι Θεόφραστος, καὶ τὴν ἱερωτάτην ὑπὸ τοῦ Νείλου κτισθεῖσαν χώραν κατοικοῦν, ἤρξαντο οἱ πρῶτοι ἐφ’ ἑστίας τοῖς
+οὐρανίοις θεοῖς θύειν, οὐ σμύρνης οὐδὲ κασίας καὶ λιβανωτοῦ κρόκῳ μιχθέντων ἀπαρχάς· πολλαῖς γὰρ
+
+d
+γενεαῖς ὕστερα παρελήφθη ταῦτα, καὶ πλάνης μαστὴρ ὁ ἄνθρωπος γιγνόμενος τῆς ἀναγκαίας ζωῆς μετὰ πολλῶν πόνων καὶ δακρύων σταγόνας τούτων
+ἀπήρξατο τοῖς θεοῖς·)
+
+[PORPHYRY] 'It is probably an incalculable time since, as Theophrastus says, the most learned race of mankind, inhabiting that most sacred land which Nilus founded, were the first to begin to offer upon the hearth to the heavenly deities not the first-fruits of myrrh nor of cassia and frankincense mingled with saffron; for these were adopted many generations later, when man becoming a wanderer in search of his necessary livelihood with many toils and tears offered drops of these tinctures as first-fruits to the gods.
+#### 8
+οὐ τούτων οὖν ἔθυον πρόερον, ἀλλὰ χλόης οἱονεί τινα τῆς γονίμου φύσεως χνοῦν ταῖς χερσὶν ἀράμενοι. δένδρα μὲν γὰρ δὴ πρὸ ζῴων ἀνέδωκεν ἡ γῆ, τῶν δένδρων δὲ πολὺ πρόσθεν τὴν ἐπέτειον γεννωμένην πόαν· ἧς δρεπόμενοι φύλλα
+καὶ ῥίζας καὶ τοὺς ὅλους τῆς φύσεως αὐτῶν βλαστοῦς κατέκαιον, ταύτῃ τοὺς φαινομένους οὐρανίους θεοὺς τῇ θυσίᾳ δεξιούμενοι, καὶ τοῦ πυρὸς ἀπαθανατίςοντες αὐτοῖς τὰς τιμάς.
+
+'"Of these then they made no offerings formerly, but of herbage, which they lifted up in their hands as the bloom of the productive power of nature. For the earth gave forth trees before animals, and long before trees the herbage which is produced year by year; and of this they culled leaves and roots and the whole shoots of their growth, and burned them, greeting thus the visible deities of heaven with their offering, and dedicating to them the honours of perpetual fire.
+#### 9
+τούτοις γὰρ καὶ τὸ πῦρ ἀθάνατον ἐφύλαττον ἐν τοῖς ἱεροῖς, ὡς ὂν μάλιστα
+
+29
+αὐτοῖς ὁμοιότατον. ἐκ δὲ τῆς θυμιάσεως τῶν ἀπὸ γῆς θυμιατήριά τε ἐκάλουν καὶ τὸ θύειν καὶ θυσίας, ἃ δὴ ἡμεῖς ὡς τὴν ὑστέραν πλημμέλειαν σημαίνοντα οὐκ ὀρθῶς ἐξακούομεν, τὴν διὰ τῶν ζῴων δοκοῦσαν θεραπείαν καλοῦντες θυσίαν.
+10
+τοσοῦτον 30] [*]
+
+v.1.p.35
+δὲ τοῖς παλαιοῖς τοῦ μὴ παραβαίνειν τὸ ἔθος ἔμελεν ὡς κατὰ τῶν ἐκλειπόντων τὸ ἀρχαῖον, ἐπεισαγόντων δὲ ἕτερον, ἀρασαμένους ἀρώματα τὰ θυμιώμενα προσαγορεύσαι.
+
+'For these they also kept in their temples an undying fire, as being most especially like them. And from the fume (θυμιασις) of the produce of the earth they formed the words θυμιατηρια (altars of incense), and θυειν (to offer), and θυσιας (offerings),—words which we misunderstand as signifying the erroneous practice of later times, when we apply the term θυσια to the so-called worship which consists of animal sacrifice.
+
+'And so anxious were the men of old not to transgress their custom, that they cursed (αρωμαι) those who neglected the old fashion and introduced another, calling their own incense-offerings αρωματα.' 
+#### 11
+Ταῦτα εἰπὼν ἐπιλέγει μεθ’ ἕτερα
+
+b
+“Πόρρω δὲ τῶν περὶ τὰς θυσίας ἀπαρχῶν τοῖς ἀνθρώποις προιουσῶν παρανομίας ἡ τῶν δεινοτάτων θυμάτων παράληψις ἐπεισήχθη ὠμότητος πλήρης, ὡς δοκεῖν τὰς πρόσθεν λεχθείσας καθ’ ἡμῶν ἀρὰς νῦν
+τέλος εἰληφέναι, σφαξάντων τῶν ἀνθρώπων καὶ τοὺς βωμοὺς αἱμαξάντων.”
+
+After these and other statements he adds:
+
+'But when these beginnings of sacrifices were carried by men to a great pitch of disorder, the adoption of the most dreadful offerings, full of cruelty, was introduced; so that the curses formerly pronounced against us seemed now to have received fulfilment, when men slaughtered victims and defiled the altars with blood.' 17
+#### 12
+Τοσαῦτα καὶ ὁ Πορφύριος οὐ μᾶλλον ἢ ὁ Θεόφραστος. ἐπισφράγισμα δὲ τοῦ λόγου γένοιτ’ ἂν ἡμῖν ὁ Πλάτων’ ἐν Κρατύλῳ, πρόσθεν τῶν εἰφημένων
+
+c
+
+αὐτῷ περὶ τῶν Ἑλλήνων ὧδέ πη φάσκων πρὸς ῥῆμα
+Φαίνονταί μοι οἱ πρῶτοι τῶν ἀνθρώπων τῶν περὶ τὴν Ἑλλάδα τούτους μόνους θεοὺς ἡγεῖσθαι, οὕσπερ νῦν πολλοὶ τῶν βαρβάρων, ἥλιον καὶ σελήνην
+καὶ γῆν καὶ ἄστρα καὶ οὐρανόν· ἅτε οὖν αὐτὰ ὁρῶντες πάντα ἀεὶ ἰόντα δρόμῳ καὶ θέοντα, ἀπὸ ταύτης τῆς φύσεως τῆς τοῦ θεῖν θεοὺς αὐτοὺς ἐπονομάσαι.”
+
+So far writes Porphyry, or rather Theophrastus: and we may find a seal and confirmation of the statement in what Plato in the Cratylus, before his remarks concerning the Greeks, says word for word as follows:
+
+[PLATO] 'It appears to me that the first inhabitants of Hellas had only the same gods as many of the barbarians have now, namely the sun, moon, earth, stars, and heaven: as therefore they saw them always moving on in their course and running (θεοντα), from this their natural tendency to run they called them θεουσ (gods).' 18
+#### 13
+Ἀλλ’ ὅτι μὲν οἱ πρῶτοι καὶ παλαίτατοι τῶν
+
+d
+
+ἀνθρώπων οὔτε ναῶν οἰκοδομίαις προσεῖχον οὔτε ξοάνων ἀφιδρύμασιν, οὔπω τότε γραφικῆς οὐδὲ πλαστικῆς ἢ γλυπτικῆς ἢ ἀνδριαντοποιητικῆς τέχνης ἐφευρημένης, οὐδὲ μὴν οἰκοδομικῆς οὐδὲ ἀρχιτεκτονικῆς πω συνεστώσης, παντί τῳ οἶμαι συλλογιζομένῳ
+δῆλον εἶναι.
+
+But I think it must be evident to every one on consideration that the first and most ancient of mankind did not apply themselves either to building temples or to setting up statues, since at that time no art of painting, or modelling, [or carving], or statuary had yet been discovered, nor, indeed, were building or architecture as yet established.
+#### 14
+ὅτι δὲ οὐδὲ τῶν μετὰ ταῦτα [*]
+
+v.1.p.36
+κατωνομασμένων θεῶν τε καὶ ἡρώων μνήμη τις τοῖς τότε παρῆν, οὔτ’ οὖν τις ἦν αὐτοῖς Ζεὺς, οὐ Κρόνος, οὐ Ποσειδῶν, οὐκ Ἀπόλλων, οὐχ Ἥρα, οὐκ Ἀθηνᾶ, οὐ Διόνυσος, οὐδέ τις ἕτερος θήλειά τε καὶ ἄρρην θεὸς, οἷοι μετὰ ταῦτα μυρίοι παρά τε βαρβάροις καὶ
+Ἕλλησιν, ἀλλ’ οὐδὲ δαίμων τις ἀγαθὸς ἢ φαῦλος ἐν ἀνθρώποις ἐθαυμάζετο, μόνα δὲ τὰ φαινόμενα τῶν
+30
+οὐρανίων ἄστρων, παρὰ τὸ θέειν, ὅπερ ἐστὶ τρέχειν, θεῶν τε προσηγορίας, ὡς αὐτοί φασιν, ἐτύγχανε, καὶ οὐδὲ ταῦτα ταῖς διὰ ζῴων θυςίαις καὶ ταῖς μετὰ
+20
+ταῦτα περινοηθείσαις τιμαῖς ἐθρησκεύετο, οὐχ ἡμέτερος ὁ λόγος, οἴκοθεν δὲ καὶ ἐξ αὐτῶν Ἑλλήνων ἡ μαρτυρία, διὰ τῶν προτεθειμενων φωνῶν καὶ τῶν αὖθις ἑξῆς παρατεθησομένων τὴν ἀπόδειξιν παρασχομένη.
+
+Nor was there any mention among the men of that age of those who have since been denominated gods and heroes, nor had they any Zeus, nor Kronos, Poseidon, Apollo, Hera, Athena, Dionysus, nor any other deity, either male or female, such as there were afterwards in multitudes among both barbarians and Greeks; nor was there any daemon good or bad reverenced among men, but only the visible stars of heaven because of their running (θεειν) received, as they themselves say, the title of gods (θεων), and even these were not worshipped with animal sacrifices and the honours afterwards superstitiously invented.
+
+This statement is not ours, but the testimony comes from within, and from the Greeks themselves, and supplies its proof by the words which have been already quoted and by those which will hereafter be set forth in due order.
+#### 15
+τοῦτο δὲ καὶ οἱ ἱεροὶ καθ’ ἡμᾶς διδάσκουσι
+λόγοι, πᾶσι μὲν τοῖς ἔθνεσι τὸ κατ’ ἀρχὰς τὴν τῶν ὁρωμενων φωστήρων τιμὴν ἀπονενεμῆσθαι περιέχοντες, μόνῳ δὲ τῷ Ἑβραςιων γένει τὴν ἐποπτείαν
+
+b
+ἀνατεθεῖσθαι [τῆς θεωρίας] τοῦ τῶν ὅλων ποιητοῦ τε καὶ δημιουργοῦ θεοῦ καὶ τῆς εἰς αὐτὸν
+ἀληθοῦς εὐσεβείας.
+
+This is what our holy Scriptures also teach, in which it is contained, that in the beginning the worship of the visible luminaries had been assigned to all the nations, and that to the Hebrew race alone had been entrusted the full initiation into the knowledge of God the Maker and Artificer of the universe, and of true piety towards Him. 
+#### 16
+οὐκ ἄρα τις ἦν θεογονίας Ἑλληνικῆς ἢ βαρβαρικῆς τοῖς παλαιτάτοις τῶν ἀνθρώπων λόγος, οὐδὲ ξοάνων ἀψύχων ἵδρυσις οὐδ’ ἡ νῦν πολλὴ φλυαρία τῆς τῶν θεῶν ἀρρένων τε καὶ θηλειῶν κατονομασίας.
+
+So then among the oldest of mankind there was no mention of a Theogony, either Greek or barbarian, nor any erection of lifeless statues, nor all the silly talk that there is now about the naming of the gods both male and female.
+#### 17
+εἱ γοῦν προσηγορίαι
+καὶ τὰ ὀνόματα ἐξ ἀνθρώπων ὕστερον ἐφευρημένα οὔπω τότε ἐν ἀνθρώποις ἐγνωρίζετο, ἀλλ’ οὐδὲ δαιμόνων καὶ πνευμάτων ἀφανῶν ἀνακλήσεις, οὐκ ἔκτοποι
+
+c
+περὶ θεῶν καὶ ἡρώων μυθολογίαι, οὐκ ἀπορρήτων τελετῶν μυστήρια, οὐδ’ ὅλως τι τῆς πολλῆς
+καὶ ἀδολέσχου τῶν μετέπειτα ἀνδρῶν δεισιδαιμονίας.
+
+In fact the titles and names which men have since invented were not as yet known among mankind: no, nor yet invocations of invisible daemons and spirits, nor absurd mythologies about gods and heroes, nor mysteries of secret initiations, nor anything at all of the excessive and frivolous superstition of later generations.
+#### 18
+ἀνθρώπων ἄρα ταῦτα ἦν εὑρήματα καὶ θνητῆς
+
+v.1.p.37
+φύσεως ἀναπλάσματα, μᾶλλον δὲ τρόπων αἰσχρῶν καὶ ἀκολάστων ἐπιτεχνήματα, κατὰ τὸ παρ’ ἡμῖν θεῖον λόγιον τὸ φάσκον “ἀρχὴ πορνείας ἐπίνοια εἰδώλω.”
+
+These then were men's inventions, and representations of our mortal nature, or rather new devices of base and licentious dispositions, according to our divine oracle which says, The devising of idols was the beginning of fornication.19 
+#### 19
+ἡ γοῦν τῶν ἐθνῶν ἁπάντων πολύθεος
+πλάνη μακροῖς ὕστερον αἰῶσι πέφανται, ἀρξαμένη μὲν ἀπὸ Φοινίκων καὶ· Αἰγυπτίων , διαβᾶσα δὲ ἐκ
+
+d
+τούτων ἐπί τε τὰ λοιπὰ ἔθνη καὶ μέχρις αὐτῶν Ἑλλήνων, ὡς καὶ τοῦτο πάλιν ἡ τῶν παλαιτάτων ἱστορία κατέχει, ἣν καὶ αὐτὴν ἐπισκέψασθαι καιρὸς ἀπὸ
+τῶν Φοινικικῶν ἀρξαμένους.
+
+In fact the polytheistic error of all the nations is only seen long ages afterwards, having taken its beginning from the Phoenicians and Egyptians, and passed over from them to the other nations, and even to the Greeks themselves. For this again is affirmed by the history of the earliest ages; which history itself it is now time for us to review, beginning from the Phoenician records.
+#### p20
+Ἱστορεῖ δὲ ταῦτα Σαγχουνιάθων, ἀνὴρ παλαίτατος καὶ τῶν Τρωικῶν χρόνων, ὥς φασι, πρεσβύτερος, ὃν καὶ ἐπ’ ἀκριβείᾳ καὶ ἀληθείᾳ τῆς Φοινικικῆς ἱστορίας ἀποδεχθῆναι μαρτυροῦσι. Φίλων
+δὲ τούτου πᾶσαν τὴν συγγραφὴν ὁ Βύβλιος, οὐχ ὁ Ἑβραῖος, μεταβαλὼν ἀπὸ τῆς Φοινίκων γλώττης ἐπὶ τὴν Ἑλλάδα φωνὴν ἐξέδωκε. μέμνηται τούτων ὁ καθ’
+
+31
+ἡμᾶς τὴν καθ’ ἡμῶν πεποιημένος συσκευὴν ἐν τετάρτῳ τῆς πρὸς ἡμᾶς ὑποθέσεως, ὧδε τῷ ἀνδρὶ μαρτυρῶν
+πρὸς λέξιν
+
+Now the historian of this subject is Sanchuniathon, an author of great antiquity, and older, as they say, than the Trojan times, one whom they testify to have been approved for the accuracy and truth of his Phoenician History. Philo of Byblos, not the Hebrew, translated his whole work from the Phoenician language into the Greek, and published it. The author in our own day of the compilation against us mentions these things in the fourth book of his treatise Against the Christians, where he bears the following testimony to Sanchuniathon, word for word:
+#### p21
+“ἱστορεῖ δὲ τὰ περὶ Ἰουδαίων ἀληθέστατα, ὅτι καὶ τοῖς τόποις καὶ τοῖς ὀνόμασιν αὐτῶν τὰ συμφωνότατα, Σαγχουνιάθων ὁ Βηρύτιος, εἰληφὼς τὰ ὑπομνήματα παρὰ Ἱερομβάλου τοῦ ἱερέως θεοῦ τοῦ
+Ἰευώ· ὃς Ἀβιβάλῳ τῷ βασιλεῖ Βηρυτίων τὴν ἱστορίαν ἀναθεὶς ὑπ’ ἐκείνου καὶ τῶν κατ’ αὐτὸν ἐξεταστῶν τῆς ἀληθείας παρεδέχθη. οἱ δὲ τούτων χρόνοι
+
+b
+καὶ πρὸ τῶν Τρωïκῶν πίπτουσι χρόνων, καὶ σχεδὸν τοῖς Μώσεως πλησιάζουσιν, ὡς αἶ τῶν Φοινίκης βασιλέων
+σιλέων μηνύουσι διαδοχαί. Σαγχουνιάθων δὲ κατὰ τὴν Φοινίκων διάλεκτον φιλαληθῶς πᾶσαν τὴν παλαιὰν ἱστορίαν ἐκ τῶν κατὰ πόλιν ὑπομνημάτων καὶ
+v.1.p.38
+τῶν ἐν τοῖς ἱεροῖς ἀναγραφῶν συναγαγὼν δὴ καὶ συγγράψας ἐπὶ Σεμιράμεως γέγονε τῆς Ἀσσυρίων βασιλίδος, ἣ πρὸ τῶν Ἰλιακῶν, ἢ κατ’ αὐτούς γε τοὺς χρόνους γενέσθαι ἀναγέγραπται. τὰ δὲ τοῦ Σαγχουνιάθωνος
+c
+εἰς Ἑλλάδα γλῶσσαν ἡρμήνευσε Φίλων ὁ
+Βύβλιος.”
+
+[PORPHYRY] 'Of the affairs of the Jews the truest history, because the most in accordance with their places and names, is that of Sanchuniathon of Berytus, who received the records from Hierombalus the priest of the god Ieuo; he dedicated his history to Abibalus king of Berytus, and was approved by him and by the investigators of truth in his time. Now the times of these men fall even before the date of the Trojan war, and approach nearly to the times of Moses, as is shown by the successions of the kings of Phoenicia. And Sanchuniathon, who made a complete collection of ancient history from the records in the various cities and from the registers in the temples, and wrote in the Phoenician language with a love of truth, lived in the reign of Semiramis, the queen of the Assyrians, who is recorded to have lived before the Trojan war or in those very times. And the works of Sanchuniathon were translated into the Greek tongue by Philo of Byblos.' 20
+#### p22
+Ταῦτα μὲν ὁ δηλωθεὶς, ἀλήθειαν ὁμοῦ καὶ παλαιότητα τῷ δὴ θεολόγῳ μαρτυρήσας. ὁ δὲ προιὼν, οὐ τὸν ἐπὶ πάντων θεὸν, οὐδὲ μὴν θεοὺς τοὺς κατ’ οὐρανὸν, θνητοὺς δὲ ἄνδρας καὶ γυναῖκας, οὐδὲ τὸν
+τρόπον ἀστείους, οἴους δι’ ἀρετὴν ἄξιον εἶναι ἀποδέξασθαι ἢ ζηλῶσαι τῆς φιλοσοφίας, φαυλότητος δὲ καὶ μοχθηρίας ἁπάσης κακίαν περιβεβλημένους Θεολογεῖ. 
+
+So wrote the author before mentioned, bearing witness at once to the truthfulness and antiquity of the so-called theologian. But he, as he goes forward, treats as divine not the God who is over all, nor yet the gods in the heaven, but mortal men and women, not even refined in character, such as it would be right to approve for their virtue, or emulate for their love of wisdom, but involved in the dishonour of every kind of vileness and wickedness.
+
+καὶ μαρτυρεῖ γε τούτους αὐτοὺς ἐκείνους εἶναι,
+
+d
+τοὺς εἰσέτι καὶ νῦν θεοὺς παρὰ τοῖς πᾶσι νενομισμένους
+21
+κατά τε τὰς πόλεις καὶ τὰς χώρας. 
+
+He testifies also that these are the very same who are still regarded as gods by all both in the cities and in country districts. 
+
+δέχου δὲ καὶ τούτων ἐκ τῶν ἐγγράφων τὰς ἀποδείξεις.
+
+But let me give you the proofs of this out of his writings.
+#### p23
+ὁ δὴ Φίλων εἰς ἐννέα βίβλους τὴν πᾶσαν τοῦ Σαγχουνιάθωνος πραγματείαν διελὼν, κατὰ τὸ προοίμιον τοῦ πρώτου συγγράμματος αὐτοῖς ῥήμασι προλέγει
+περὶ τοῦ Σαγχουνιάθωνος ταῦτα
+
+Philo then, having divided the whole work of Sanchuniathon into nine books, in the introduction to the first book makes this preface concerning Sanchuniathon, word for word: 21
+#### p24
+“Τούτων οὕτως ἐχόντων ὁ Σαγχουνιάθων, ἀνὴρ πολυμαθὴς καὶ πολυπράγμων γενόμενος, καὶ τὰ ἐξ ἀρχῆς, ἀφ’ οὗ τὰ πάντα συνέστη, παρὰ πάντων εἰδέναι ποθῶν, πολυφροντίστως ἐξεμάστευσε τὰ
+Τααύτου, εἰδὼς ὅτι τῶν ὑφ’ ἡλίῳ γεγονότων πρῶτός ἐστι Τάαυτος, ὁ τῶν γραμμάτων τὴν εὕρεσιν ἐπινοήσας καὶ τῆς τῶν ὑπομνημάτων γραφῆς κατάρξας, καὶ ἀπὸ τοῦδε ὥσπερ κρηπῖδα βαλόμενος τοῦ λόγου, ὃν
+
+32
+Αἰγύπτιοι μὲν ἐκάλεσαν Θωὺθ, Ἀλεξανδρεῖς δὲ Θὼθ,
+Ἑρμῆν δὲ Ἓλληνες μετέφρασαν.”
+
+[PHILO] 'These things being so, Sanchuniathon, who was a man of much learning and great curiosity, and desirous of knowing the earliest history of all nations from the creation of the world, searched out with great care the history of Taautus, knowing that of all men under the sun Taautus was the first who thought of the invention of letters, and began the writing of records: and he laid the foundation, as it were, of his history, by beginning with him, whom the Egyptians called Thoyth, and the Alexandrians Thoth, translated by the Greeks into Hermes.'
+#### p25
+Ταῦτα εἰπὼν ἐπιμέμφεται τοῖς νεωτέροις
+
+v.1.p.39
+τοῖς μετὰ ταῦτα, ὡς ἂν βεβιασμένως καὶ οὐκ ἀληθῶς τοὺς περὶ θεῶν μύθους ἐπ’ ἀλληγορίας καὶ φυσικὰς διηγήσεις τε καὶ θεωρίας ἀνάγουσι· λέγει δ’ οὖν προίων
+
+After these statements he finds fault with the more recent authors as violently and untruly reducing the legends concerning the gods to allegories and physical explanations and theories; and so he goes on to say:
+#### p26
+“Ἀλλ’ οἱ μὲν νεώτατοι τῶν ἱερολόγων τὰ μὲν γεγονότα πράγματα ἐξ ἀρχῆς ἀπεπέμψαντο, ἀλληγορίας δὲ καὶ μύθους ἐπινοήσαντες καὶ τοῖς κοσμι- κοῖς παθήμασι συγγένειαν πλασάμενοι μυστήρια κατέστησαν,
+
+b
+πολὺν αὐτοῖς ἐπῆγον τῦφον, ὡς μὴ
+ῥᾳδίως τινὰ συνορᾶν τὰ κατ’ ἀλήθειαν γενόμενα· ὁ δὲ συμβαλὼν τοῖς ἀπὸ τῶν ἀδύτων εὑρεθεῖσιν ἀπο- κρύφοις Ἀμμουνέων γράμμασι συγκειμένοις, ἃ δὴ οὐκ ἦν πᾶσι γνώριμα, τὴν μάθησιν ἁπάντων αὐτὸς ἤσκησε· καὶ τέλος ἐπιθεὶς τῇ πραγματείᾳ, τὸν κατ’
+ἀρχὰς μῦθον καὶ τὰς ἀλληγορίας ἐκποδὼν ποιησάμενος, ἐξηνύσατο τὴν πρόθεσιν, ἴως πάλιν οἱ ἐπιγενόμενοι ἱερεῖς χρόνοις ὕστερον ἠθέλησαν αὐτὴν ἀποκρύψαι, καὶ εἰς τὸ μυθῶδες ἀποκαταστῆσαι· ἐξ οὗ τὸ μυστικὸν ἀνέκυπτεν οὐδέπω φθάσαν εἰς
+Ἓλληνας.”
+c
+
+'But the most recent of the writers on religion rejected the real events from the beginning, and having invented allegories and myths, and formed a fictitious affinity to the cosmical phenomena, established mysteries, and overlaid them with a cloud of absurdity, so that one cannot easily discern what really occurred: but he having lighted upon the collections of secret writings of the Ammoneans which were discovered in the shrines and of course were not known to all men, applied himself diligently to the study of them all; and when he had completed the investigation, he put aside the original myth and the allegories, and so completed his proposed work; until the priests who followed in later times wished to hide this away again, and to restore the mythical character; from which time mysticism began to rise up, not having previously reached the Greeks.'
+#### p27
+Τούτοις ἑξῆς φησιν
+
+Next to this he says:
+
+“Ταῦθ’ ἡμῖν εὕρηται ἐπιμελῶς εἰδέναι τὰ Φοινίκων ποθοῦσι, καὶ πολλὴν ἐξερευνησαμένοις ὕλην, οὐχὶ τὴν παρ’ Ἕλλησι· διάφωνος γὰρ αὕτη καὶ φιλονεικότεον
+ὑπ’ ἐνίων μᾶλλον ἢ πρὸς ἀλήθειαν συντεθεῖσα.
+
+'These things I have discovered in my anxious desire to know the history of the Phoenicians, and after a thorough investigation of much matter, not that which is found among the Greeks, for that is contradictory, and compiled by some in a contentious spirit rather than with a view to truth.'
+#### p28
+Καὶ μεθ’ ἕτερα
+
+And after other statements:
+
+Οὕτως τε ἔχειν πεπεῖσθαι ἡμῖν παρέστη ὡς ἐκεῖνος γέγραφε, τὴν διαφωνίαν ὁρῶσι τὴν παρ’ Ἓλλησι.
+περὶ ἧς μοι τρία πεφιλοτίμηται βιβλία τὴν d ἐπιγραφὴν ἔχοντα Παραδόξου ἱστορίας.”
+
+'And the conviction that the facts were as he has described them came to me, on seeing the disagreement among the Greeks: concerning which I have carefully composed three books bearing the title Paradoxical History.'
+#### p29
+Καὶ αὖθις μεθ’ ἕτερα ἐπιλέγει
+
+And again after other statements he adds:
+
+v.1.p.40
+“Προδιαρθρῶσαι δὲ ἀναγκαῖον πρὸς τὴν αὖθις σαφήνειαν, καὶ τὴν τῶν κατὰ μέρος διάγνωσιν ὅτι οἱ παλαίτατοι τῶν βαρβάρων, ἐξαιρέτως δὲ Φοίνικές τε καὶ Αἰγύπτιοι, παρ’ ὧν καὶ οἱ λοιποὶ παρέλαβον ἄνθρωποι, θεοὺς ἐνόμιζον μεγίστους τοὺς τὰ πρὸς
+τὴν βιωτικὴν χρείαν εὑρόντας, ἢ καὶ κατά τι εὖ ποιήσαντας τὰ ἔθνη· εὐεργέτας τε τούτους καὶ πολλῶν αἰτίους ἀγαθῶν ἡγούμενοι ὡς θεοὺς προσεκύνουν, καὶ εἰς τὸ χρεὼν μεταστάντας ναοὺς κατασκευασάμενοι,
+
+33
+στήλας τε καὶ ῥάβδους ἀφιέρουν ἐξ
+ὀνόματος αὐτῶν, καὶ ταῦτα μεγάλως σεβόμενοι, καὶ ἑορτὰς ἔνεμον αὐτοῖς τὰς μεγίστας Φοίνικες· ἐξαιρέτως δὲ καὶ ἀπὸ τῶν σφετέρων βασιλέων τοῖς κοσμικοῖς στοιχείοις καί τισι τῶν νομιζομένων θεῶν τὰς ὀνομασίας ἐπέθεσαν· φυσικοὺς δὲ ἥλιον καὶ σελήνην
+καὶ τοὺς λοιποὺς πλανήτας ἀστέρας καὶ τὰ στοιχεῖα καὶ τὰ τούτοις συναφῆ θεοὺς μόνους ἐγίνωσκον, ὥστ’ αὐτοῖς τοὺς μὲν θνητοὺς, τοὺς δὲ ἀθανάτους θεοὺς εἷναι.”
+b
+
+'But with a view to clearness hereafter, and the determination of particulars, it is necessary to state distinctly beforehand that the most ancient of the barbarians, and especially the Phoenicians and Egyptians, from whom the rest of mankind received their traditions, regarded as the greatest gods those who had discovered the necessaries of life, or in some way done good to the nations. Esteeming these as benefactors and authors of many blessings, they worshipped them also as gods after their death, and built shrines, and consecrated pillars and staves after their names: these the Phoenicians held in great reverence, and assigned to them their greatest festivals. Especially they applied the names of their kings to the elements of the cosmos, and to some of those who were regarded as gods. But they knew no other gods than those of nature, sun, and moon, and the rest of the wandering stars, and the elements and things connected with them, so that some of their gods were mortal and some immortal.'
+#### p30
+Ταῦτα κατὰ τό προοίμιον ὁ Φίλων διαστειλάμενος
+ἐξῆς ἀπάρχεται τῆς τοὐ Σαγχουνιάθωνος ἑρμηνείας, ὧδέ πως τὴν Φοινικικὴν ἐκτιθέμενος θεολογίαν
+
+22
+
+Philo having explained these points in his preface, next begins his interpretation of Sanchuniathon by setting forth the theology of the Phoenicians as follows:
+### c10
+#### p1
+“ Τὴν τῶν ὅλων ἀρχὴν ὑποτίθεται ἀέρα ζο c φώδη καὶ πνευματώδη, ἢ πνοὴν ἀέρος ζοφώδους,
+καὶ χάος θολερὸν, ἐρεβῶδες. ταῦτα δὲ εἶναι ἄπειρα καὶ διὰ πολὺν αἰῶνα μὴ ἔχειν πέρας. ὅτε δὲ, φησὶν, ἠράσθη τὸ πνεῦμα τῶν ἰδίων ἀρχῶν καὶ ἐγένετο σύγκρασις, ἡ πλοκὴ ἐκείνη ἐκλήθη πόθος. αὕτη δὲ ἀρχὴ κτίσεως ἁπάντων. αὐτὸ δὲ οὐκ ἐγίνωσκε τὴν
+αὐτοῦ κτίσιν, καὶ ἐκ τῆς αὐτοῦ συμπλοκῆς τοῦ πνεύματος ἐγένετο Μώτ.
+
+'The first principle of the universe he supposes to have been air dark with cloud and wind, or rather a blast of cloudy air, and a turbid chaos dark as Erebus; and these were boundless and for long ages had no limit. But when the wind, says he, became enamoured of its own parents, and a mixture took place, that connexion was called Desire. This was the beginning of the creation of all things: but the wind itself had no knowledge of its own creation. From its connexion Mot was produced, 
+#### p2
+τοῦτό τινές φασιν ἰλὺν, οἷ
+
+v.1.p.41
+δὲ ὑδατώδους μίξεως σῆψιν. καὶ ἐκ ταύτης ἐγένετο πᾶσα σπορὰ κτίσεως καὶ γένεσις τῶν ὅλων. ἦν δέ τινα ζῷα οὐκ ἔχοντα αἴσθησιν, ἐξ ὧν ἐγένετο ζῷα νοερὰ, καὶ ἐκλήθη Ζωφασημὶν, τοῦτ’ ἔστιν οὐρανοῦ
+κατόπται. καὶ ἀνεπλάσθη ὁμοίως ᾠοῦ σχήματι, καὶ
+d
+ἐξέλαμψε Μὼτ, ἥλιός τε καὶ σελήνη ἀστέρες τε καὶ ἄστρα μεγάλα.”
+
+which some say is mud, and others a putrescence of watery compound; and out of this came every germ of creation, and the generation of the universe. So there were certain animals which had no sensation, and out of them grew intelligent animals, and were called "Zophasemin," that is "observers of heaven"; and they were formed like the shape of an egg. Also Mot burst forth into light, and sun, and moon, and stars, and the great constellations.'
+#### p3
+Τοιαύτη μὲν αὐτῶν ἡ κοσμογονία, ἄντικρυς ἀθεότητα εἰσάγουσα· ἴδωμεν δὲ ἐξῆς ὡς καὶ τὴν
+ζωογονίαν ὑποστῆναι λέγει. φησὶν οὑν
+
+Such was their cosmogony, introducing downright atheism. But let us see next how he states the generation of animals to have arisen. He says, then:
+#### p4
+“Καὶ τοῦ ἀέρος διαυγάσαντος, διὰ πύρωσιν καὶ τῆς θαλάσσης καὶ τῆς γῆς ἐγένετο πνεύματα καὶ νέφη καὶ οὐρανίων ὑδάτων μέγισται καταφοραὶ καὶ χύσεις. καὶ ἐπειδὴ διεκρίθη, καὶ τοῦ ἰδίου τόπου
+διεχωρίσθη διὰ τὴν τοῦ ἡλίου πύρωσιν, καὶ πάντα συνήντησε πάλιν ἐν ἀέρι τάδε τοῖσδε, καὶ συνέρραξαν, βρονταί τε ἀπετελέσθησαν καὶ ἀστραπαὶ, καὶ πρὸς τὸν πάταγον τῶν βροντῶν τὰ πριγεγραννέβα
+
+34
+νοερὰ ζῷα ἐγρηγόρησεν, καὶ πρὸς τὸν ἦχον ἐπτύρη,
+καὶ ἐκινήθη ἔν τε γῇ καὶ θαλάσσῃ ἄρρεν καὶ θῆλυ.”
+
+'And when the air burst into light, both the sea and the land became heated, and thence arose winds and clouds, and very great downpours and floods of the waters of heaven. So after they were separated, and removed from their proper place because of the sun's heat, and all met together again in the air dashing together one against another, thunderings and lightnings were produced, and at the rattle of the thunder the intelligent animals already described woke up, and were scared at the sound, and began to move both on land and sea, male and female.'
+#### p5
+Τοιαύτη αὐτοῖς καὶ ἡ ζωογονία. τούτοις ἐξῆς ὁ αὐτὸς συγγραφεὺς ἐπιφέρει λέγων
+
+Such is their theory of the generation of animals. Next after this the same writer adds and says:
+
+“Ταῦθ’ ηὑρέθη ἐν τῇ κοσμογονίᾳ γεγραμμένα
+Τααύτου καὶ τοῖς ἐκείνου ὑπομνήμασιν, ἔκ τε στοχασμῶν καὶ τεκμηρίων ὧν ἑώρακεν αὐτοῦ ἡ διάνοια καὶ ηὗρε καὶ ἡμῖν ἐφώτισεν.’
+
+'These things were found written in the cosmogony of Taautus, and in his Commentaries, both from conjectures, and from evidences which his intellect discerned, and discovered, and made clear to us.'
+#### p6
+Ἑξῆς τούτοις ὀνόματα τῶν ἀνέμων εἰπὼν νότοου
+
+b
+καὶ βορέου καὶ τῶν λοιπῶν ἐπιλέγει
+
+Next to this, after mentioning the names of the winds Notos and Boreas and the rest, he continues:
+
+“Ἀλλ’ οὗτοί γε πρῶτοι ἀφιέρωσαν τὰ τῆς γῆς βλαστήματα καὶ θεοὺς ἐνόμισαν, καὶ προσεκύνουν ταῦτα, ἀφ’ ὦν αὐτοί τε διεγένοντο καὶ οἶ ἑπόμενοι,
+
+v.1.p.42
+καὶ οἱ πρὸ αὐτῶν πάντες, καὶ χοὰς καὶ ἐπιθύσεις ἐποίουν.”
+
+'But these were the first who consecrated the productions of the earth, and regarded them as gods, and worshipped them as being the support of life both to themselves, and to those who were to come after them, and to all before them, and they offered to them drink-offerings and libations.'
+#### p7
+Καὶ ἐπιλέγει
+
+He adds also:
+
+“Αὗται δ ἦσαν αἱ ἐπίνοιαι τῆς προσκυνήσεως ὅμοιαι τῇ αὐτῶν ἀσθενείᾳ καὶ ψυχῆς ἀτολμίᾳ. εἶτά
+φησι γεγενῆσθαι ἐκ τοῦ Κολπία ἀνέμου καὶ γυναικὸς Βάαυτ, τοῦτο δὲ νύκτα ἑρμηνεύει, Αἰῶνα καὶ Πρωτόγονον, θνητοὺς ἄνδρας, οὕτω καλουμένους·
+
+c
+εὑρεῖν δὲ τὸν Αἰῶνα τὴν ἀπὸ δένδρων τροφήν. ἐκ τούτων τοὺς γενομένους κληθῆναι Γένος καὶ Γενεὰν,
+καὶ οἰκῆσαι τὴν Φοινίκην· αὐχμῶν δὲ γενομένων τὰς χεῖρας εἰς οὐρανὸν ὀρέγειν πρὸς τὸν ἥλιον. τοῦτον γὰρ (φησὶ) θεὸν ἐνόμιζον μόνον οὐρανοῦ κύριον. Βεελσάμην καλοῦντες, ὅ ἐστι παρὰ Φοίνιξι κύριος οὐρανοῦ, Ζεὺς δὲ παρ Ἕλλησι.”
+
+'These were their notions of worship, corresponding to their own weakness, and timidity of soul. Then he says that from the wind Colpias and his wife Baau (which he translates "Night") were born Aeon and Protogonus, mortal men, so called: and that Aeon discovered the food obtained from trees. That their offspring were called Genos and Genea, and inhabited Phoenicia: and that when droughts occurred, they stretched out their hands to heaven towards the sun; for him alone (he says) they regarded as god the lord of heaven, calling him Beelsamen, which is in the Phoenician language "lord of heaven," and in Greek "Zeus."'
+#### p8
+Μετὰ δὲ ταῦτα πλάνην Ἕλλησιν αἰτιᾶται λέγων
+
+And after this he charges the Greeks with error, saying:
+
+“Οὐ γὰρ ματαίως αὐτὰ πολλαχῶς διεστειλάμεθα, σιν ὀνομάτων, ἅπερ οἱ Ἕλληνες ἀγνοήσαντες ἄλλως ἐξεδέξαντο, πλανηθέντες τῇ ἀμφιβολίᾳ τῆς
+μεταφράσεως.”
+
+'For it is not without cause that we have explained these things in many ways, but in view of the later misinterpretations of the names in the history, which the Greeks in ignorance took in a wrong sense, being deceived by the ambiguity of the translation.'
+#### p9
+Ἑξῆς φησιν
+
+Afterwards he says:
+
+“Ἀπὸ Γένους Αἰῶνος καὶ Πρωτογόνου γεννηθῆναι αὖθις παῖδας θνητοὺς, οἷς εἶναι ὀνόματα Φῶς καὶ Πύρ καὶ Φλόξ. οὗτοι (φησὶν) ἐκ παρατριβῆς
+ξύλων εὗρον πῦρ καὶ τὴν χρῆσιν ἐδίδαξαν. υἱοὺς δὲ ἐγέννησαν οὗτοι μεγέθει τε καὶ ὑπεροχῇ κρείσσονας, ὧν τὰ ὀνόματα τοῖς ὄρεσιν ἐπετέθη ὧν ἐκράτησαν, ὡς ἐξ αὐτῶν κληθῆναι τὸ Κάσσιον, καὶ τὸν Λίβανον, καὶ τὸν Ἀντιλίβανον, καὶ τὸ Βραθύ. ἐκ
+τούτων (φησὶν) ἐγεννήθη Σαμημροῦμος, ὁ καὶ Ὑψου-
+
+23
+ράνιος, καὶ Οὔσωος· ἀπὸ μητέρων δὲ (φησὶν) ἐχρη-
+v.1.p.43
+μάτιζον, τῶν τότε γυναικῶν ἀνέδην μισγομένων οἷς ἀν’ ἐντύχοιεν.
+
+'From Genos, son of Aeon and Protogonus, were begotten again mortal children, whose names are Light, and Fire, and Flame. These, says he, discovered fire from rubbing pieces of wood together, and taught the use of it. And they begat sons of surpassing size and stature, whose names were applied to the mountains which they occupied: so that from them were named mount Cassius, and Libanus, and Antilibanus, and Brathy. From these, he says, were begotten Memrumus and Hypsuranius; and they got their names, he says, from their mothers, as the women in those days had free intercourse with any whom they met.'
+#### p10
+Εἶτά φησι
+
+Then he says:
+
+35
+“Τὸν Ὑψουράνιον οἰκῆσαι Τυρὸν, καλύβας τε
+ἐπινοῆσαι ἀπὸ καλάμων καὶ θρύων καὶ παπύρου, στασιάσαι δὲ πρὸς τὸν ἀδελφὸν Οὔσωνον, ὃς τῷ σώματι ·πρῶτος ἐκ δερμάτων ὧν ἴσχυσε συλλαβεῖν θηρίων εὗρε. ῥαγδαίων δὲ γενομένων ὄμβρων καὶ πνευμάτων παρατριβέντα τὰ ἐν τῇ Τυρῷ δένδρα
+πῦρ ἀνάψαι καὶ τὴν αὐτόθι ὕλην καταφλέξαι. δένδρου δὲ λαβόμενον τὸν Οὒσωον καὶ καὶ ἀποκλαδεσαντα πρῶτον τολμῆσαι εἰς θάλατταν ἐμβῆναι· ἀνιερῶσαι
+
+b
+δὲ δύο στήλας πυρὶ καὶ πνεύματι, καὶ προσκυνῆσαι, αἷμά τε σπένδειν αὐταῖς ἐξ ὧν ἤγρευε θηρίων.
+
+'Hypsuranius inhabited Tyre, and contrived huts out of reeds and rushes and papyrus: and he quarrelled with his brother Ousous, who first invented a covering for the body from skins of wild beasts which he was strong enough to capture. And when furious rains and winds occurred, the trees in Tyre were rubbed against each other and caught fire, and burnt down the wood that was there. And Ousous took a tree, and, having stripped off the branches, was the first who ventured to embark on the sea; and be consecrated two pillars to fire and wind, and worshipped them, and poured libations of blood upon them from the wild beasts which he took in hunting.
+#### p11
+
+τούτων δὲ τελευτησάντων τοὺς ἀπολειφθέντας φησὶ ῥάβδους αὐτοῖς ἀφιερῶσαι, καὶ τὰς στήλας προσκυνεῖν, καὶ τούτοις ἑορτὰς ἄγειν κατ’ ἔτος. χρόνοις δὲ ὕστερον πολλοῖς ἀπὸ τῆς Ὑψουρανίου γενεᾶς γενέσθαι Ἀγρέα καὶ Ἁλιέα, τοὺς ἄγρας καὶ ἁλείας εὑρετᾶς,
+ἐξ ὧν κληθῆναι ἀγρευτὰς καὶ ἁλιεῖς· ἐξ ὧν γενέσθαι
+
+c
+δύο ἀδελφοὺς σιδήρου εὑρετὰς καὶ τῆς τούτου ἐργασίας, ὧν θάτερον τὸν Χρυσὼρ λόγους ἀσκῆσαι καὶ ἐπῳδὰς καὶ μαντείας· εἶναι δὲ τοῦτον Ἣφαιστον, εὑρεῖν δὲ καὶ ἄγκιστρον καὶ δέλεαρ καὶ ὁρμιὰν
+καὶ σχεδίαν, πρῶτόν τε πάντων ἀνθρώπων πλεῦσαι· διὸ καὶ ὡς θεὸν αὐτὸν μετὰ θάνατον ἐσεβάσθησαν.
+
+'But when Hypsuranius and Ousous were dead, those who were left, he says, consecrated staves to them, and year by year worshipped their pillars and kept festivals in their honour. But many years afterwards from the race of llypsuranius were born Agreus and Halieus, the inventors of hunting and fishing, from whom were named huntsmen and fishermen: and from them were bom two brethren, discoverers of iron and the mode of working it; the one of whom, Chrysor, practised oratory, and incantations, and divinations: and that he was Hephaestus, and invented the hook, and bait, and line, and raft, and was the first of all men to make a voyage: wherefore they reverenced him also as a god after his death. 
+#### p12
+καλεῖσθαι δὲ αὐτὸν καὶ Δία μειλίχιον· οἶ δὲ τοὺς ἀδελφοὺς αὐτοῦ τοίχους φασὶν ἐπινοῆσαι ἐκ πλίνθων. μετὰ ταῦτ’ ἐκ τοῦ γένους τούτων γενέσθαι
+
+d
+
+νεανίας δύο, καλεῖσθαι δὲ αὐτῶν τὸν μὲν Τεχνίτην, τὸν δὲ Γήινον αὐτόχθονα οὗτοι ἐπενόησαν τῷ πηλῷ τῆς πλίνθου συμμιγνύειν φορυτὸν καὶ τῷ ἡλίῳ
+v.1.p.44
+αὐτὰς τερσαίνειν, ἀλλὰ καὶ στέγας ἐξεῦρον. ἀπὸ τούτων ἐγένοντο ἕτεροι, ὧν ὁ μὲν Ἀλρὸς ἐκαλεῖτο, ὁ δὲ Ἀγρούηρος ἢ Ἀγρότης, οὗ καὶ ξόανον εἷναι μάλα σεβάσμιον καὶ ναὸν ζυγοφορούμενον ἐν Φοινίκῃ· παρὰ δὲ Βυβλίοις ἐξαιρέτως θεῶν ὁ μέγιστος ὀνομάζεται.
+
+And he was also called Zeus Meilichios. And some say that his brothers invented walls of brick. Afterwards there sprang from their race two youths, one of whom was called Technites (Artificer), and the other Geinos Autochthon (Earth-born Aboriginal). These devised the mixing of straw with the clay of bricks, and drying them in the sun, and moreover invented roofs. From them others were born, one of whom was called Agros, and the other Agrueros or Agrotes; and of the latter there is in Phoenicia a much venerated statue, and a shrine drawn by yokes of oxen; and among the people of Byblos he is named pre-eminently the greatest of the gods.
+#### p13
+ἐπενόησαν δὲ οὗτοι αὐλὰς προστιθέναι τοῖς οἴκοις καὶ περιβόλαια καὶ σπήλαια. ἐκ τούτων ἀγρόται καὶ κυνηγοί. οὗτοι δὲ καὶ Ἄληται καὶ Τιτᾶνες
+
+36
+καλοῦνται. ἀπὸ τούτων γενέσθαι Ἄμυνον καὶ Μάγον, οἳ κατέδειξαν κώμας καὶ ποίμνας. ἀπὸ τούτων
+γενέσθαι Μισὼρ καὶ Συδὺκ, τουτ’ ἐστιν εὔλυτον καὶ δίκαιον. οὗτοι τὴν τοῦ ἁλὸς χρῆσιν εὗρον.
+
+'These two devised the addition to houses of courts, and enclosures, and caves. From them came husbandmen and huntsmen. They are also called Aletae and Titans. From these were born Amynos and Magus, who established villages and sheepfolds. From them came Misor and Suduc, that is to say "Straight " and "Just": these discovered the use of salt.
+#### p14
+ἀπὸ Μισὼρ Τάαυτος, ὃς εὗρε τὴν τῶν πρώτων στοιχείων γραφήν· ὃν Αἰγύπτιοι μὲν Θωὺθ, Ἀλεξανδρεῖς δὲ Θὼθ, Ἓλληνες δὲ Ἑρμῆν ἐκάλεσαν. 
+
+'From Misor was born Taautus, who invented the first written alphabet; the Egyptians called him Thoyth, the Alexandrians Thoth, and the Greeks Hermes.
+
+ἐκ δὲ
+τοῦ Συδὺκ Διόσκουροι, ἢ Κάβειροι, ἢ Κορύβαντες, ἢ Σαμοθρᾷκες. οὗτοι φησὶ) πρῶτοι πλοῖον εὗρον. ἐκ τούτων γεγόνασιν ἕτεροι, οἳ καὶ βοτάνας εὗρον καὶ τὴν τῶν δακετῶν ἴασιν καὶ ἐπῳδάς. κατὰ τούτους γίνεταί τις Ἐλιοῦν καλούμενος Ὕψιστος, καὶ Θήλεια
+λεγομένη Βηρούθ· οἱ καὶ κατῴκουν περὶ Βύβλον.
+
+b
+
+'From Suduc came the Dioscuri, or Cabeiri, or Corybantes, or Samothraces: these, he says, first invented a ship. From them have sprung others, who discovered herbs, and the healing of venomous bites, and charms. In their time is born a certain Elioun called "the Most High," and a female named Beruth, and these dwelt in the neighbourhood of Byblos.
+#### p15
+ἐξ ὧν γεννᾶται Ἐπίγειος αὐτόχθων, ὃν ὕστερον ἐκάλεσαν Οὐρανόν· ὡς ἀπ’ αὐτοῦ καὶ τὸ ὑπὲρ ἡμᾶς στοιχεῖον δι’ ὑπερβολὴν τοῦ κάλλους ὀνομάζειν οὐρανόν. γεννᾶται δὲ τούτῳ ἀδελφὴ ἐκ τῶν προειρημένων,
+ἣ καὶ ἐκλήθη Γῆ. καὶ διὰ τὸ κάλλος αὐτῆς φησὶν) ἐκάλεσαν τὴν ὁμώνυμον γῆν. ὁ δὲ τούτων πατὴρ ὁ Ὕψιστος ἐν συμβολῇ θηρίων τελευτήσας ἀφιερώθη, ᾧ χοὰς καὶ θυσίας οἱ παῖδες ἐτέλεσαν.
+
+'And from them is born Epigeius or Autochthon, whom they afterwards called Uranus; so that from him they named the element above us Uranus because of the excellence of its beauty. And he has a sister born of the aforesaid parents, who was called Ge (earth), and from her, he says, because of her beauty, they called the earth by the same name. And their father, the Most High, died in an encounter with wild beasts, and was deified, and his children offered to him libations and sacrifices.
+#### p16
+παραλαβὼν δὲ ὁ Οὐρανὸς τὴν τοῦ πατρὸς ἀρχὴν
+
+c
+ἄγεται πρὸς γάμον τὴν ἀδελφὴν Γῆν, καὶ ποιεῖται ἐξ αὐτῆς παῖδας τέσσαρας, Ἦλον, τὸν καὶ Κρόνον,
+v.1.p.45
+καὶ Βαίτυλον καὶ Δαγὼν, ὅς ἐστι Σιτὼν, καὶ Ἂτλαντα. καὶ ἐξ ἄλλων δὲ γαμετῶν ὁ Οὐρανὸς πολλὴν ἔσχε γενεάν. διὸ χαλεπαίνουσα ἡ Γῆ τὸν Οὐρανὸν ζηλοτυποῦσα ἐκάκιζεν, ὡς καὶ διαστῆναι ἀλλήλω.
+#### p17
+ὁ δὲ Οὐρανὸς ἀποχωρήσας αὐτῆς, μετὰ βίας ὅτε καὶ ἐβούλετο ἐπιὼν καὶ πλησιάζων αὐτῇ,
+
+24
+πάλιν ἀπηλλάττετο· ἐπεχείρει δὲ καὶ τοὺς ἐξ αὐτῆς παῖδας διαφθείρειν· τὴν δὲ Γῆν ἀμύνασθαι πολλάκις,
+d
+συμμαχίαν αὐτῇ συλλεξαμένην· εἰς ἄνδρας δὲ
+προελθὼν ὁ Κρόνος Ἑρμῇ τῷ τρισμεγίστῳ συμβούλῳ καὶ βοηθῷ χρώμενος, οὕτος γὰρ ἣν αὐτῷ γραμμα- τεὺς, τὸν πατέρα Οὐρανὸν ἀμύνεται, τιμωρῶν τῇ μητρί.
+#### p18
+Κρόνῳ δὲ γίνονται παῖδες Περσεφόνη καὶ Ἀθηνᾶ. ἡ μὲν οὖν πρώτη παρθένος ἐτελεύτα,
+τῆς δὲ Ἀθηνᾶς γνώμῃ καὶ Ἑρμοῦ κατεσκεύασε Κρόνος ἐκ σιδήρου ἅρπην καὶ δόρυ. εἶτα ὁ Ἑρμῆς τοῖς τοῦ Κρόνου συμμάχοις λόγους μαγείας διαλεχθεὶς πόθον ἐνεποίησε τῆς κατὰ τοῦ Οὐρανοῦ μάχης ὑπὲρ τῆς Γῆς. καὶ οὕτω Κρόνος τὸν Οὐρανὸν πολέμῳ
+συμβαλὼν τῆς ἀρχῆς ἤλασε καὶ τὴν βασιλείαν διεδέξατο. ἑάλω δὲ καὶ ἐν τῇ μάχῃ ἡ ἐπέραστος τοῦ
+
+37
+Οὐρανοῦ σύγκοιτος ἐγκύμων οὖσα, ἣν ἐκδίδωσιν ὁ Κρόνος Δαγῶνι πρὸς γάμον.
+#### p19
+τίκτει δὲ τούτῳ ὃ κατὰ γαστρὸς ἐξ Οὐρανοῦ ἔφερεν, ὅ καὶ ἐκάεσε
+Δημαροῦν. ἐπὶ τούτοις ὁ Κρόνος τεῖχος περιβάλει τῇ ἑαυτοῦ οἰκήσει, καὶ πόλιν πρώτην κτίζει τὴν ἐπὶ Φοινίκης Βύβλον.
+
+#### p20
+μετὰ ταῦτα τὸν ἀδελὸ τὸν ἴδιον Ἄτλαντα ὑπονοήσας ὁ Κρόνος μετὰ γνώμης τοῦ Ἑρμοῦ εἰς βάθος γῆς ἐμβαλὼν κατέχωσε
+
+b
+
+κατὰ τοῦτον τὸν χρόνον οἶ ἀπὸ τῶν Διοσκούρων σχεδίας καὶ πλοῖα συνθέντες ἒπλευσαν, καὶ ἐκριφέντες περὶ τὸ Κάσσιον ὅρος ναὸν αὐτόθι ἀφιέρωσαν. οἱ δὲ
+v.1.p.46
+σύμμαχοι Ἣλου τοῦ Κρόνου Ἐλωεὶμ ἐπεκλήθησαν, ὡς ἂν Κρόνιοι οὗτοι ἦσαν οἶ λεγόμενοι ἐπὶ Κρόνου,
+#### p21
+Κρόνος δὲ υἱὸν ἔχων Σάδιδον ἰδίῳ αὐτὸν σιδή- ρῳ διεχρήσατο, δι’ ὑπονοίας αὐτὸν ἐσχηκὼς, καὶ τῆς c ψυχῆς, αὐτόχειρ τοῦ παιδὸς γενόμενος, ἐστέρησεν·
+ὡσαύτως καὶ θυγατρὸς ἰδίας τὴν κεφαλὴν ἀπέτεμεν, ὡς πάντας ἐκπεπλῆχθαι θεοὺς τὴν Κρόνου γνώμην.
+
+#### p22
+χρόνου δὲ προἰ·όντος Οὐρανὸς ἐν φυγῇ τυγχάνων θυγατέρα αὐτοῦ παρθένον Ἀστάρτην μεθ’ ἑτέρων ἀδελφῶν αὐτῆς δύο, Ῥέας καὶ Διώνης, δόλῳ τὸν
+Κρόνον ἀνελεῖν ὑπομέμπει· ἃς καὶ ἑλὼν ὁ Κρόνος κουριδίας γαμετὰς ἀδελφὰς οὔσας ἐποιήσατο.
+
+#### p23
+γνοὺς δὲ Οὐρανὸς ἐπιστρατεύει κατὰ τοῦ Κρόνου Εἱμαρμένην καὶ Ὥραν μεθ’ ἑτέρων συμμάχων, καὶ ταύτας
+
+d
+ἐξοικειωσάμενος ὁ Κρόνος παρ’ ἑαυτῷ κατέσχεν. ἔτι
+δὲ φησὶν) ἐπενόησε θεὸς Οὐρανὸς βαιτύλια, λίθους ἐμψύχους μηχανησάμενος. Κρόνῳ δὲ ἐγένοντο ἀπὸ Ἀστάρης θυγατέρες ἑπτὰ Τιτανίδες ἢ Αρτέμιδες.
+#### p24
+καὶ πάλιν τῷ αὐτῷ γίνονται ἀπὸ Ῥέας παῖδες ἑπτὰ, ὧν ὁ νεώτατος ἅμα τῇ γενέσει ἀφιερώθη· καὶ
+ἀπὸ Διώνης θήλειαι, καὶ ἀπὸ Ἀστάρτης πάλιν ἂρρενες δύο, Πόθος καὶ Ἒρως.
+
+#### p25
+ὁ δὲ Δαγὼν, ἐπειδὴ εὗρε σῖτον καὶ ἄροτρον, ἐκλήθη Ζεὺς Ἀρότρις. Συδύκῳ δὲ, τῷ λεγομένῳ δικαίῳ, μία τῶν Τιτανίδων συνελθοῦσα γεννᾷ τὸν Ἀσκληπιόν.
+
+#### p26
+ἐγεννήθησαν
+
+38
+δὲ καὶ ἐν Περαίᾳ Κρόνῳ τρεῖς παῖδες, Κρόνος ὁμώνυμος τῷ πατρὶ καὶ Ζεὺς Βῆλος καὶ Ἀπόλλων. κατὰ τούτους γίνονται Πόντος καὶ Τυφὼν καὶ Νηρεὺς, πατὴρ Πόντου.
+#### p27
+ἀπὸ δὲ τοῦ Πόντου γίνεται Σιδῶν, ἣ καθ’ ὑπερβολὴν εὐφωνίας πρώτη
+ὕμνον ᾠδῆς εὗρε, κα; Ποσειδῶν. τῷ δὲ Δημαροῦντι γίνεται Μέλκαθρος, ὁ καὶ Ἡρακλῆς.
+
+#### p28
+εἶτα πάλιν
+
+v.1.p.47
+Οὐρανὸς πολεμεῖ Πόντῳ, καὶ ἀποστὰς Δημαροῦντι προστίθεται , ἔπεισί τε Πόντῳ ὁ Δημαροῦς, τροποῦταί τε αὐτὸν ὁ Πόντος, ὁ δὲ Δημαροῦς φυγῆς θυσίαν ηὔξατο.
+#### p29
+ἔτει δὲ τριακοστῷ δευτέρῳ τῆς
+ἑαυτοῦ κρατήσεως καὶ βασιλείας ὁ Ἦλος, τοῦτ ἔστιν ὁ Κρόνος, Οὐρανὸν τὸν πατέρα λοχήσας ἐν τόπῳ τινὶ
+
+b
+μεσογείῳ καὶ λαβὼν ὑποχείριον ἐκτέμνει αὐτοῦ τὰ αἰδοῖα, σύνεγγυς πηγῶν τε καὶ ποταμῶν. ἔνθα ἀφιερώθη Οὐρανὸς, καὶ ἀπηρτίσθη αὐτοῦ τὸ πνεῦμα, καὶ
+25
+
+ἀπέσταξεν αὐτοῦ τὸ αἷμα τῶν αἰδοίων εἰς τὰς πηγὰς καὶ τῶν ποταμῶν τὰ ὕδατα, καὶ μέχρι τούτου δείκνυται τὸ χωρίον.”
+#### p30
+Τοσαῦτα μὲν δὴ τὰ τοῦ Κρόνου, καὶ τοιαῦτά γε τὰ σεμνὰ τοῦ παρ Ἕλλησι βοωμένου βίου τῶν
+ἐπὶ Κρόνου, οὓς καί φασι γεγονέναι πρῶτον χρύσεον
+
+c
+τε γένος μερόπων ἀνθρώπων, τῆς μακαριζομένης ἐκείνης τῶν παλαιῶν εὐδαιμονίας. πάλιν δὲ ὁ συγγραφεὺς τούτοις μεθ ἕτερα ἐπιφέρει λέγων
+#### p31
+“Ἀστάρτη δὲ ἡ μεγίστη καὶ Ζεὺς Δημαροῦς
+καὶ Ἄδωδος βασιλεὺς θεῶν ἐβασίλευον τῆς χώρας Κρόνου γνώμῃ. ἡ δὲ Ἀστάρτη ἐπέθηκε τῇ ἰδίᾳ κεφαλῇ βασιλείας παράσημον κεφαλὴν ταύρου· περινοστοῦσα δὲ τὴν οἰκουμένην εὗρεν ἀεροπετῆ ἀστέρα, ὃν καὶ ἀνελομένη ἐν Τύρῳ τῇ ἁγίᾳ νήσῳ ἀφιέρωσε.
+
+#### p32
+τὴν δὲ Ἀστάρτην Φοίνικες τὴν Ἀφροδίτην εἶναι
+
+d
+λέγουσι. καὶ ὁ Κρόνος δὲ περιιὼν τὴν οἰκουμένην Ἀθηνᾷ τῇ ἑαυτοῦ θυγατρὶ δίδωσι τῆς Ἄττικῆς τὴν βασιλείαν.
+#### p33
+λοιμοῦ δὲ γενομένου καὶ φθορᾶς τὸν ἑαυτοῦ μονογενῆ υἱὸν Κρόνος Οὐρανῷ τῷ πατρὶ ὁλο-
+καρποῖ, καὶ τὰ αἰδοῖα περιτέμνεται, ταυτὸν ποιῆσαι καὶ τοὺς ἅμ αὐτῷ συμμάχους καταναγκάσας,
+
+#### p34
+καὶ μετ οὐ πολὺ ἕτερον αὐτοῦ παῖδα ἀπὸ Ρέας ὀνομαζό-
+
+v.1.p.48
+μένον Μοὐθ ἀποθανόντα ἀφιεροῖ. Θάνατον δὲ καὶ Πλούτωνα Φοίνικες ὀνομάζουσι.
+#### p35
+καὶ ἐπὶ τούτοις ὁ Κρόνος Βύβλον μὲν τὴν πόλιν θεᾷ Βααλτίδι, τῇ καὶ Διώνῃ, δίδωσι, Βηρυτὸν δὲ Ποσειδῶνι
+
+39
+καὶ Καβείροις Ἀγρόταις τε καὶ Ἁλιεῦσιν, οἱ καὶ τὰ
+τοῦ Πόντου λείψανα εἰς τὴν Βηρυτὸν ἀφιέρωσαν.
+#### p36
+πρὸ δὲ τούτων θεὸς Ταυθὸς μιμησάμενος τῶν συνόντων θεῶν ὄψεις, Κρόνου τε καὶ Δαγῶνος καὶ τῶν λοιπῶν, διετύπωσεν τοὺς ἱεροὺς τῶν στοιχείων χαρακτῆρας. ἐπενόησε δὲ καὶ τῷ Κρόνῳ παράσημα
+βασιλείας ὄμματα τέσσαρα ἐκ τῶν ἐμπροσθίων καὶ ὀπισθίων μερῶν, * * * δύο δὲ ἡσυχῆ μύοντα, καὶ ἐπὶ τῶν ὤμων πτερὰ τέσσαρα, δύο μὲν ὡς ἱπτάμενα, δύο δὲ ὡς ὑφειμένα.
+
+#### p37
+τὸ δὲ σύμβολον ἦν, ἐπειδὴ Κρόνος κοιμώμενος ἔβλεπε, καὶ ἐγρηγορὼς ἐκοιμᾶτο ·
+
+b
+καὶ ἐπὶ τῶν πτερῶν ὁμοίως, ὅτι ἀναπαυόμενος ἔπτατο καὶ ἱπτάμενος ἀνεπαύετο. τοῖς δὲ λοιποῖς θεοῖς δύο ἑκάστῳ πτερώματα ἐπὶ τῶν ὤμων, ὡς ὅτι δὴ συνίπτντο τῷ Κρόνῳ. καὶ αὐτῷ δὲ πάλιν ἐπὶ τῆς κεφαλῆς πτερὰ δύο, ἕν ἐπὶ τοῦ ἡγεμονικωτάτου νοῦ
+καὶ ἓν ἐπὶ τῆς αἰσθήσεως.
+#### p38
+ἐλθὼν δὲ ὁ Κρόνος εἰς νότου χώραν ἅπασαν τὴν Αἴγυπτον ἔδωκε θεῷ Ταυθῷ, ὅπως βασίλειον αὐτῷ γένηται. ταῦτα δὲ
+
+c
+(φησὶ) πρῶτοι πάντων ὑπεμνηματίσαντο οἶ ἑπτὰ παῖδες Κάβειροι, καὶ ὁ ἴδιος αὐτῶν ἀδελφὸς
+Ἀσκληπιὸς, ὡς αὐτοῖς ἐνετείλατο θεὸς Ταυθός.
+#### p39
+ταῦτα πάντα ὁ Θαβίων, ὃς πάμπρωτος τῶν ἀπ’ αἰῶνος γεγονότων Φοινίκων ἱεροφάντης ἀλληγορῄ σας, τοῖς τοῖς τε φυσικοῖς καὶ κοσμικοῖς πάθεσιν ξας, παρέδωκε τοῖς ὀργεῶσι καὶ τελετῶν κατάρχουσι
+προφήταις· οἱ δὲ τὸν τῦφον αὔξειν ἐκ παντὸς ἐπι- νοοῦντες τοῖς αὐτῶν διαδόχοις παρέδοσαν καὶ τοῖς
+
+v.1.p.49
+ἐπεισάκτοις· ὣν εἶς ἦν καὶ Εἰσίριος τῶν τριῶν γραμέπεισάκτοις ·
+d
+εὑρετὴς, ἀδελφὸς Χνᾶ τοῦ πρώτου] μετονομασθέντος Φοίνικος."
+#### p40
+Εἶσ ἑξῆς αὖθις ἐπιλέγει
+
+
+‟ Οἱ δὲ Ἑλληνες εὐφυίᾳ πάντας ὑπερβαλλόμενοι τὰ μὲν πρῶτα πλεῖστα ἐξιδιώσαντο, εἶτα καὶ τοῖς προκοσμήμασι ποικίλως ἐξετραγῴδησαν, ταῖς τε τῶν μύθων ἡδοναῖς θέλγειν ἐπινοοῦντες παντοίως ἐποίκιλλον. ἔνθεν Ἡσίοδος οἵ τε κυκλικοὶ περιηχημένοι
+θεογονίας καὶ γιγαντομαχίας καὶ Τιτανομαχίας ἔπλασαν ἰδίας καὶ ἐκτομὰς, οἷς συμπεριφερόμενοι ἐξενίκησαν τὴν ἀλήθειαν.
+
+#### p41
+σύντροφοι δὲ τοῖς ἐκείνων πλάσμασιν αἱ ἀκοαὶ ἡμῶν γενόμεναι , καὶ προληφθεῖσαι
+
+40
+πολλοῖς αἰῶσιν, ὡς παρακαταθήκην φυλάσσουσιν
+26
+
+ἣν παρεδέξαντο μυθοποιίαν, καθάπερ καὶ ἀρχόμενος εἶπον, ἥτις συνεργηθεῖσα χρόνῳ δυσεξίτητον αὐτῆς τὴν κατοχὴν εἴργασται, ὥστε τὴν μὲν ἀλήθειαν δοκεῖν λῆρον , τὸ δὲ τῆς ἀφηγήσεως νόθον ἀλήθειαν."
+
+#### p42
+Ταῦτα ἀπὸ τῆς Σαγχουνιάθωνος προκείσθω γραφῆς, ἑρμηνευθείσης μὲν ὑπὸ Φίλωνος τοῦ Βυβλίου, δοκιμασθείσης δὲ ὡς ἀληθοῦς ὑπὸ τῆς Πορφυρίου τοῦ φιλοσόφου μαρτυρίας. 
+
+Let these suffice as quotations from the writings of Sanchuniathon, translated by Philo of Byblos, and approved as true by the testimony of Porphyry the philosopher.
+
+ὁ δ’ αὐτὸς ἐν τῷ b περὶ Ἰουδαίων συγγράμματι ἔτι καὶ ταῦτα περὶ τοῦ
+Κρόνου γράφει
+
+The same author, in his History of the Jews, further writes thus concerning Kronos:
+#### p43
+‟ Ταυθὸς, ὃν Αἰγύπτιοι Θωὺθ προσαγορεύουσι, σοφίᾳ διενεγκὼν παρὰ τοῖς Φοίνιξι, πρῶτος τὰ κατὰ τὴν θεοσέβειαν ἐκ τῆς τῶν χυδαίων ἀπειρίας εἰς ἐπιστημονικὴν ἐμπειρίαν διέταξεν. ᾧ μετὰ γενεὰς
+πλείους θεὸς Σουρμουβηλὸς Θουρώ τε ἡ μετονομασθεῖσα Εὔσαρθις ἀκολουθήσαντες κεκρυμμένην τοῦ
+
+v.1.p.50
+Ταυοῦ καὶ ἀλληγορίαις ἐπεσκιασμένην τὴν θεολογίαν ἐφώτισαν. "
+
+'Tauthus, whom the Egyptians call Thoyth, excelled in wisdom among the Phoenicians, and was the first to rescue the worship of the gods from the ignorance of the vulgar, and arrange it in the order of intelligent experience. Many generations after him a god Sourmoubelos and Thuro, whose name was changed to Eusarthis, brought to light the theology of Tauthus which had been hidden and overshadowed, by allegories.'
+#### p44
+Καὶ μετὰ βραχέα φησίν
+
+And soon after he says:
+
+c
+‟Ἔθος ἔθος ἦν τοῖς παλαιοῖς ἐν ταῖς μεγάλαις συμφοραῖς τῶν κινδύνων ἀντὶ τῆς πάντων φθορᾶς τὸ
+ἠγαπημένον τῶν τέκνων τοὺς κρατοῦντας ἢ πόλεως ἢ ἔθνους εἰς σφαγὴν ἐπιδιδόναι, λύτρον τοῖς τιμωροῖς δαίμοσι· κατεσφάττοντο δὲ οἱ διδόμενοι μυστικῶς. Κρόνος τοίνυν, ὃν οἱ Φοίνικες Ἠλον προσαγορεύουσι, βασιλεύων τῆς χώρας, καὶ ὕστερον μετὰ τὴν
+τοῦ βίου τελευτὴν εἰς τὸν τοῦ Κρόνου ἀστέρα καθιερωθεὶς , ἐξ ἐπιχωρίας νύμφης Ἀνωβρὲτ λεγομένης
+
+d
+υἱὸν ἔχων μονογενῆ, ὃν διὰ τοῦτο Ἰεδοὺδ ἐκάλουν, τοῦ μονογενοῦς οὕτως ἔτι καὶ νῦν καλουμένου παρὰ τοῖς Φοίνιξι) κινδύνων ἐκ πολέμου μεγίστων
+κατειληφότων τὴν χώραν, βασιλικῷ κοσμήσας σχήματι τὸν υἱὸν βωμόν τε κατασκευάσας ἄσμενος κατέθυσεν. "
+
+'It was a custom of the ancients in great crises of danger for the rulers of a city or nation, in order to avert the common ruin, to give up the most beloved of their children for sacrifice as a ransom to the avenging daemons; and those who were thus given up were sacrificed with mystic rites. Kronos then, whom the Phoenicians call Elus, who was king of the country and subsequently, after his decease, was deified as the star Saturn, had by a nymph of the country named Anobret an only begotten son, whom they on this account called ledud, the only begotten being still so called among the Phoenicians; and when very great dangers from war had beset the country, he arrayed his son in royal apparel, and prepared an altar, and sacrificed him.'
+#### p45
+Ὁ δ’ αὐτὸς πάλιν περὶ τῶν Φοινίκων στοιχείων ἐκ τῶν Σαγχουνιάθωνος μεταβαλὼν θέα ὁποῖά φησι περὶ τῶν ἑρπυστικῶν καὶ ἰοβόλων θηρίων, ἃ
+δὴ χρῆσιν μὲν ἀγαθὴν ἀνθρώποις οὐδεμίαν συντελεῖ, φθορὰν δὲ καὶ λύμην οἷς ἂν τὸν δυσαλθῆ καὶ χαλεπὸν ἰὸν ἐγχρίμψειεν ἀπεργάζεται. γράφει δὲ καὶ ταῦτα πρὸς λέξιν ὧδέ πως λέγων
+
+Again see what the same author, in his translation from Sanchuniathon about the Phoenician alphabet, says concerning the reptiles and venomous beasts, which contribute no good service to mankind, but work death and destruction to any in whom they inject their incurable and fatal poison. This also he describes, saying word for word as follows:
+#### p46
+‟ Τὴν μὲν οὖν τοῦ δράκοντος φύσιν καὶ τῶν
+
+41
+ὄφενω αὐτὸς ἐξεθείασεν ὁ Ταυθὸς, καὶ μετ’ αὐτὸν αὖθις Φοίνικές τε καὶ Αἰγύπτιοι· πνευματικώτατον γὰρ τὸ ζῷον πάντων τῶν ἑρπετῶν καὶ πυρῶδες ὑπ’ αὐτοῦ παρεδόθη· παρ’ ὃ καὶ τάχος ἀνυπέρβλητον διὰ τοῦ πνεύματος παρίστησι , χωρὶς ποδῶν τε καὶ
+χειρῶν ἢ ἄλλου τινὸς τῶν ἔκτοσθεν, δι’ ὧν τὰ λοιπὰ ζῷα τὰς κινήσεις ποιεῖται· καὶ ποικίλων σχημάτων
+v.1.p.51
+τύπους ἀποτελεῖ, καὶ κατὰ τὴν πορείαν ἑλικοειδεῖς ἔχει τὰς ὁρμὰς ἐφ’ ὃ βούλεται τάχος.
+
+'The nature then of the dragon and of serpents Tauthus himself regarded as divine, and so again after him did the Phoenicians and Egyptians: for this animal was declared by him to be of all reptiles most full of breath, and fiery. In consequence of which it also exerts an unsurpassable swiftness by means of its breath, without feet and hands or any other of the external members by which the other animals make their movements. It also exhibits forms of various shapes, and in its progress makes spiral leaps as swift as it chooses. 
+#### p47
+καὶ πολυχρονιώτατον δέ ἐστιν, οὐ μόνον τε ἐκδυόμενον τὸ γήρας νεάζειν, ἀλλὰ καὶ αὔξησιν ἐπιδέχεσθαι μείξονα
+
+b
+
+πέφυκε· καὶ ἐπειδὰν τὸ ὡρισμένον μέτρον πληρώσῃ, εἰς ἑαυτὸν ἀναλίσκεται , ὡς ἐν ταῖς ἱεραῖς ὁμοίως αὐτὸς ὁ Ταυθὸς κατέταξε γραφαῖς. διὸ καὶ ἐν ἱεροῖς τοῦτο τὸ ζῷον καὶ ἐν μυστηρίοις συμπαρείληπται.
+
+It is also most long-lived, and its nature is to put off its old skin, and so not only to grow young again, but also to assume a larger growth; and after it has fulfilled its appointed measure of age, it is self-consumed, in like manner as Tauthus himself has set down in his sacred books: for which reason this animal has also been adopted in temples and in mystic rites.
+#### p48
+εἴρηται δὲ ἡμῖν περὶ αὐτοῦ ἐν τοῖς ἐπιγραφομένοις
+Ἐθωθιῶν ὑπομνήμασιν ἐπὶ πλέον· ἐν οἷς κατασκευάξεται ὅτι ἀθάνατον εἴη, καὶ ὡς εἰς ἑαυτὸν ἀναλύεται, ὥσπερ πρόκειται· οὐ γὰρ θνήσκει ἰδίῳ θανάτῳ, εἰ μὴ βίᾳ τινὶ πληγὲν, τοῦτο τὸ ζῷον. Φοίνικες
+
+c
+δὲ αὐτὸ ἀγαθὸν δαίμονα καλοῦσιν· ὁμοίως καὶ Αἰγύπτιοι
+κνὴφ ἐπονομάζουσι · προστιθέασι δὲ αὐτῷ ἱέρακος κεφαλὴν, διὰ τὸ πρακτικὸν τοῦ ἱέρακος.
+
+'We have spoken more fully about it in the memoirs entitled Ethothiae, in which we prove that it is immortal, and is self-consumed, as is stated before: for this animal does not die by a natural death, but only if struck by a violent blow. The Phoenicians call it "Good Daemon": in like manner the Egyptians also surname it Cneph; and they add to it the head of a hawk because of the hawk's activity.
+#### p49
+καί φησιν ὁ Ἐπήεις ἀλληγορῶν , (ὁ ὀνομασθεὶς παρ’ αὐτοῖς μέγιστος ἱεροφάντης καὶ ἱερογραμματεὺς, ὃν μετέφρασεν Ἄρειος Ἡρακλεοπολίτης) κατὰ λέξιν
+οὕτως · τὸ πρῶτον ὂν θειότατον ὄφις ἐστὶν ἱέρακος
+
+27
+ἔχων μορφὴν, ἄγαν ἐπίχαρις· ὃς εἰ ἀναβλέψειε, φωτὸς
+d
+τὸ πᾶν ἐπλήρου ἐν τῇ πρωτογόνῳ χώρᾳ αὐτοῦ· εἰ δὲ καμμύσειε, σκότος ἐγίνετο,’
+
+'Epeïs also (who is called among them a chief hierophant and sacred scribe, and whose work was translated [into Greek] by Areius of Heracleopolis), speaks in an allegory word for word as follows:
+
+'The first and most divine being is a serpent with the form of a hawk, extremely graceful, which whenever he opened his eyes filled all with light in his original birthplace, but if he shut his eyes, darkness came on.'
+
+#### p50
+ἔμφασιν διδοὺς ὁ Ἐπήεις ὅτι καὶ διάπυρόν ἐστι διὰ τοῦ φάναι
+διηύγασε · φωτὸς γὰρ ἴδιόν ἐστι τὸ διαυγάσαι. παρὰ Φοινίκων δὲ καὶ Φερεκύδης λαβὼν τὰς ἀφορμὰς ἐθεολόγησε περὶ τοῦ πιρ αὐτῷ λεγομένου Ὀφίονος θεοῦ καὶ τῶν Ὀφιονιδῶν , περὶ ὧν αὖθις λέξομεν.
+
+'Epeïs here intimates that he is also of a fiery substance, by saying "he shone through," for to shine through is peculiar to light. From the Phoenicians Pherecydes also took the first ideas of his theology concerning the god called by him Ophion and concerning the Ophionidae, of whom we shall speak again.
+#### p51
+ἔτι μὴν οἱ Αἰγύπτιοι ἀπὸ τῆς αὐτῆς ἐννοίας τὸν
+κόσμον γράφοντες περιφερῆ κύκλον ἀεροειδῆ καὶ πυρωπὸν χαράσσουσι, καὶ μέσα τεταμένον ὄφιν ἱερακόμορφον · καὶ ἔστι τὸ πᾶν σχῆμα ὡς τὸ παρ’ ἡμῖν
+
+v.1.p.52
+42
+θῆτα · τὸν μὲν κύκλον κόσμον μηνύοντες , τὸν δὲ μέσον ὄφιν συνεκτικὸν τούτου ἀγαθὸν δαίμονα σημαίνοντες.
+
+'Moreover the Egyptians, describing the world from the same idea, engrave the circumference of a circle, of the colour of the sky and of fire, and a hawk-shaped serpent stretched across the middle of it, and the whole shape is like our Theta (θ), representing the circle as the world, and signifying by the serpent which connects it in the middle the good daemon.
+#### p52
+καὶ Ζωροάστρης δὲ ὁ μάγος ἐν τῇ ἱερᾷ συναγωγῇ τῶν Περσικῶν φησι κατὰ λέξιν ὁ δὲ θεός ἐστι κεφαλὴν ἔχων ἱέρακος. οὗτός ἐστιν ὁ πρῶτος
+ἄφθαρτος, ἀίδιος, ἀγένητος, ἀμερὴς, ἀνομοιότατος, ἡνίοχος παντὸς καλοῦ, ἀδωροδόκητος , ἀγαθῶν ἀγαθώτατος, φρονίμων φρονιμώτατος · ἔστι δὲ καὶ πατὴρ εὐνομίας καὶ δικαιοσύνης, αὐτοδίδακτος , φυσικὸς, καὶ τέλειος, καὶ σοφὸς, καὶ ἱεροῦ φυσικοῦ μόνος εὑρετής.
+
+'Zoroaster also the Magian, in the Sacred Collection of Persian Records, says in express words: "And god has the head of a haw
+
+b
+τὰ δ’ αὐτὰ καὶ Ὀστάνης φησὶ περὶ αὐτοῦ ἐν τῇ ἐπιγραφομένῃ Ὀκτατεύχῳ."
+#### p53
+Πάντες δὲ τὰς ἀφορμὰς παρὰ Ταυθοῦ λαβόντες ἐφυσιολόγησαν, ὥσπερ πρόκειται. καὶ τὰ μὲν πρῶτα στοιχεῖα τὰ διὰ τῶν ὄφεων ναοὺς κατασκευασάμενοι
+ἐν ἀδύτοις ἀφιέρωσαν , καὶ τούτοις ἑορτὰς καὶ θυσίας ἐπετέλουν καὶ ὄργια, θεοὺς τοὺς μεγίστους νομίξοντες καὶ ἀρχηγοὺς τῶν ὅλων. τοσαῦτα καὶ περὶ τῶν ὄφεων.
+
+#### p54
+Ἀλλὰ γὰρ τὰ μὲν τῆς Φοινίκων θεολογίας
+τοῦτον περιέχει τὸν τρόπον· ἣν ἀμεταστρεπτὶ φεύγειν καὶ τῆς τῶν παλαιόν φρενοβλαβείας τὴν ἴασιν
+
+c
+μεταδιώκειν ὁ σωτήριος εὐαγγελίζεται λόγος.
+#### p55
+ὅτι δὲ μὴ μῦθοι ταῦτα καὶ ποιητῶν ἀναπλάσματα λανθάνουσάν τινα ἐν ὑπονοίαις ἔχοντα θεωρίαν τυγχάνει,
+σοφῶν δὲ καὶ παλαιῶν, ὡς ἂν αὐτοὶ φαῖεν, θεολόγων ἀληθεῖς μαρτυρίαι, τὰ καὶ ποιητῶν ἁπάντων καὶ λογογράφων πρεσβύτερα περιέχουσαι, τό τε πιστὸν τῶν λόγων ἐπαγόμεναι ἀπὸ τῆς εἰσέτι δεῦρο ἐν ταῖς κατὰ Φοινίκην πόλεσί τε καὶ κώμαις κρατούσης τῶν θεῶν
+
+d
+προσηγορίας τε καὶ ἱστορίας , τῶν τε παρ’ ἑκάστοις ἐπιτελουμένων μυστηρίων , δῆλον ἂν εἴη, ὡς μηκέτι
+v.1.p.53
+χρῆναι τούτων βιαίους ἀνιχνεύειν φυσιολογίας, σαφῆ τὸν ἐξ αὐτῶν ἔλεγχον ἐπιφερομένων τῶν πραγμάτων. τοιαύτη μὲν οὑν ἡ Φοινίκων θεολογία· ὥρα δὲ μεταβάντας καὶ τὰ Αἰγυπτίων ἐπιθεωρῆσαι.
 ## b3
 ### c7
 #### p97d

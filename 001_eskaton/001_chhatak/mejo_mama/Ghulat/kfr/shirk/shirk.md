@@ -157,8 +157,7 @@ Isis
 
 [Q.53:20](https://quran.com/53:20/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#53:20]]![[Qrsd#53:21]]![[Qrsd#53:22]]![[Qrsd#53:23]]![[Qrsd#53:27]]![[Qrsd#53:28]]
-
+![[Qrsd#53:20]]
 ## manaw`p ()
 at qudayd
 by B hudhayl B mudrika B ilyas B Adnan
@@ -170,6 +169,11 @@ Tyche
 Fortuna
 Fata
 Ananke
+
+# Q:53:23
+[Q.53:23](https://quran.com/53:23/tafsirs/ar-tafsir-al-tabari)
+![[Qrsd#53:21]]![[Qrsd#53:22]]![[Qrsd#53:23]]![[Qrsd#53:27]]![[Qrsd#53:28]]
+
 
 # Q:53:27
 

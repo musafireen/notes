@@ -1,8 +1,11 @@
 
 metempsychosis transmigration reincarnation
+
+# tarkīb
+![[Qrsi#82:1]]![[Qrsi#82:2]]![[Qrsi#82:3]]![[Qrsi#82:4]]![[Qrsi#82:5]]![[Qrsi#82:6]]![[Qrsi#82:7]]![[Qrsi#82:8]]![[Qrsi#82:9]]
 # مسوخية maskh masūkhīyah metamorphosis
 
-![[Qrsi#?:1]]
+![[Q#?:?]]
 
 ![[Qrsi#36:67]]
 
@@ -19,9 +22,11 @@ metempsychosis transmigration reincarnation
 
 ## ردة return
 
+![[Qrsi#95:4]]![[Qrsi#95:5]]
 ![[Qrsi#6:27]]
 
-![[Qrsi#95:4]]![[Qrsi#95:5]]
+![[Qrsi#22:5]]
+
 
 ## جعال change
 
@@ -76,3 +81,5 @@ milesian fable from plato's phaedo to valentinus
 Reincarnation /metempsychosis /transmigration vedantic, neoplatonic, gnostic, ghuli, nusayri, druze
 
 # Hulul vs ishkhas
+# mathal hayah dunya
+![[Qrsi#10:24]]

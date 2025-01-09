@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/haft.azilla/h.a.1.md",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "h.a.1"
+              "title": "jinn"
             }
           },
           {
@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boomerang/bal.md",
+                "file": "boomerang/gen-z_targetting_propaganda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bal"
+              "title": "gen-z_targetting_propaganda"
             }
           },
           {
@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/pl.symposium.md",
+                "file": "Ref/tacit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pl.symposium"
+              "title": "tacit"
             }
           }
         ],
@@ -340,7 +340,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/haft.azilla/h.a.1.md"
+            "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -359,32 +359,35 @@
   },
   "active": "da6304b2e5b65b68",
   "lastOpenFiles": [
-    "Ref/umm.kitab/u.k.12.md",
-    "Ref/haft.azilla/h.a.1.md",
-    "Ref/umm.kitab/u.k.13.md",
-    "Ref/haft.azilla/h.a.13.md",
-    "Ref/haft.azilla/h.a.31.md",
-    "Ref/haft.azilla/h.a.26.md",
-    "Ref/haft.azilla/h.a.25.md",
-    "Ref/haft.azilla/h.a.16.md",
-    "Ref/umm.kitab/u.k.36.md",
-    "Ref/pl.symposium.md",
-    "Ref/eusb.md",
-    "Ref/dmsc.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zll/Hjj.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zll/shbh.md",
-    "Ref/ShBh.md",
-    "Ref/Qrsi.md",
-    "Ref/umm.kitab/u.k.1.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zll/haft.azilla/h.a.1.md",
-    "Ref/umm.kitab/u.k.2.md",
-    "Ref/umm.kitab/u.k.23.md",
-    "Ref/umm.kitab/u.k.32.md",
-    "Ref/umm.kitab/u.k.11.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak.sync-conflict-20250109-141737-AFLIAW3.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.sync-conflict-20250109-141736-AFLIAW3.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak_bak.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn_BAK2.md",
+    "boomerang/gen-z_targetting_propaganda.md",
+    "boomerang/bal.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn_BAK.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak(1).md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Free will/No free will in quran.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/kitab_ahl.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/Hanif_milla_ibrahim.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab2.md",
     "Ref/umm.kitab/u.k.5.md",
-    "Ref/umm.kitab/u.k.30.md",
-    "Ref/umm.kitab/u.k.24.md",
-    "Ref/umm.kitab/u.k.15.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/nSr.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/naSara.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/hwd_yahudi.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/kutub.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/israel.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/Hwr.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/hwd_yahudi_israel.md",
+    "Ref/umm.kitab/u.k.4.md",
+    "Ref/umm.kitab/u.k.3.md",
+    "Ref/umm.kitab/u.k.2.md",
+    "Ref/umm.kitab/u.k.1.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/rkb",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/Kahin",
     "Ref/umm.kitab",
     "Ref/haft.azilla",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/hikmah/umm_l_kitab",
@@ -393,9 +396,6 @@
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/araf/Pythagorean_platonic",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/du'a",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/eid",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/adad/desktop.ini",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/adad/sab'",
     "Ref/Pasted image 20241128002518.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

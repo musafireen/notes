@@ -68,4 +68,7 @@ And this is the common and familiar Orphic theology.” (trans. Thomas Taylor, 1
 
 ## 125c
 
-
+# isidor
+## 302
+https://en.m.wikipedia.org/wiki/Eshmun
+The Asclepius in Beirut is neither a Greek nor an Egyptian, but some native Phoenician divinity. For to Sadyk were born children who are interpreted as Dioscuri and Cabeiri; and in addition to these was born an eighth son, Esmunus, who is interpreted as Asclepius.

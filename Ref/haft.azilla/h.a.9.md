@@ -6,7 +6,7 @@ Nasibi: A person who holds hatred in their hearts towards the Ahlul Bayt.
 
 Imam Jafar al Sadiq said "The Nasibi is not whoever shows hatred to us the Ahlul Bayt because you will not find a man saying "I hate Mohammed and His Household (as) but the Nasibi is rather he who shows hatred towards you while they know that you are of our followers and Shia."
 
-قال المفضل: قلت لمولايما تقول في الرجل الناصبي يتزوج بالأمرأة المؤمنة؟  
+قال المفضل: قلت لمولاي ما تقول في الرجل الناصبي يتزوج بالأمرأة المؤمنة؟  
 
 Mufaddal said "I said to my Master Imam Sadiq `What do you say about the Nasibi man who marries a Believing woman?"
 
@@ -46,7 +46,7 @@ A Believer testifying to the faith of his brother is Greater than all that, 
 
 it is a right and duty upon the brother towards his Believing brother"
 
-وذلك وصف اللّه المؤمنين عندما كان يؤدبهم في الأظلة في جميع ما ينالهم من الِعداء في الدنيا، وأعلمهم في إظهار الأعداء عليهم.
+وذلك وصف اللّه المؤمنين عندما كان يؤدبهم في الأظلة في جميع ما ينالهم من الأعداء في الدنيا، وأعلمهم في إظهار الأعداء عليهم.
 
 "And it is because of that Allah described to the Believers when He was disciplining them in the Shadows about everything that was to befall them from the Enemies of this World and He taught them of the appearance of their enemies upon them. 
 

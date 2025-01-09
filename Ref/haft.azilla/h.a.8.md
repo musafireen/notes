@@ -2,7 +2,7 @@
 
 **في معرفة إذا جئنا من کل أمة بشهيد وجئنا بك على** هؤلاء شهيدا "In Knowing How We Brought from Ever Nation a Witness, and We brought You as a **Witness upon them"**
 
-قال أبو عبد اللّه ثم إن اللّه جمع أرواح الِنبياء والِوصياء والمؤمنين كلها فکتب عليها كتابة
+قال أبو عبد اللّه ثم إن اللّه جمع أرواح الأنبياء والأوصياء والمؤمنين كلها فکتب عليها كتابة
 
 Imam Ja´far al Sadiq said "Then Allah gathered the Spirits /Souls of all the Prophets and Vicegerents and Believers and He wrote upon it a Book. 
 
@@ -21,7 +21,9 @@ Then Imam Al-Sadiq recited:
 _فَکَيْفَ إِذَا جِئْنَا مِنْ كُلّ أمّةٍ بِشَهِيدٍ  
 _
 
-_**"How then if We brought from each people a witness. And We brought you as a**_ _**witness against these people!"**_ (The Holy Qurán 4:41)
+_**"How then if We brought from each people a witness. 
+
+And We brought you as a witness against these people!"**_ (The Holy Qurán 4:41)
 
 أتدري كيف نزلت؟  
 
@@ -31,7 +33,7 @@ Imam Sadiq asked "Do you know how this Verse came down?"
 
 Mufaddal replied "No"
 
-قال: نزلت هذه الْية بأدم على ولده وكل رسول، وجئنا بك يا محمد على الآدميين شهيد.  
+قال: نزلت هذه الآية بأدم على ولده وكل رسول، وجئنا بك يا محمد على الآدميين شهيد.  
 
 Imam Sadiq said "This Verse came down concerning Adam over his seed and every Prophet and We came with You O Mohammed as a Witness over all Humanity". 
 
@@ -39,9 +41,11 @@ Imam Sadiq said "This Verse came down concerning Adam over his seed and every Pr
 
 Then Imam Al-Sadiq recited:
 
-_وَأقِيمُوا الشّهَادَةَ لِلّهِ ذَلِکُمْ يُوعَظُ بِهِ مَنْ كَانَ يُؤْمِنُ بِاللّه وَالْيَوْمِ الْْخِرِ_
+_وَأقِيمُوا الشّهَادَةَ لِلّهِ ذَلِکُمْ يُوعَظُ بِهِ مَنْ كَانَ يُؤْمِنُ بِاللّه وَالْيَوْمِ الآخِرِ_
 
-_**"And establish the evidence before Allah. Such is the admonition given to him who**_ _**believes in Allah and the Last Day."**_ (The Holy Qurán 65:2)
+_**"And establish the evidence before Allah. Such is the admonition given to him who believes in Allah and the Last Day."**_ (The Holy Qurán 65:2)
+
+[[Qrsi#65:2]]
 
 والأظلة والأشباح والأرواح.  
 
@@ -70,19 +74,21 @@ Did Allah not say
 _وَأَقِيمُوا الشّهَادَةَ لِلّهِ  
 _
 
-_**“And establish the evidence before Al**__**l**__**ah?"**_ (The Holy Qurán 65:2) 
+_**“And establish the evidence before Allah?"**_ (The Holy Qurán 65:2) 
 
 Would you like a Proof more trusted than the Word of Allah?"
 
 قلت: يا مولاي وكيف الآية التي في أمرالنساء والطلاق؟  
 
-Mufaddal said "O Master and how is the verse then concerning the matter of women and divorce? “Al ah the Majestic and High said” 
+Mufaddal said "O Master and how is the verse then concerning the matter of women and divorce? 
+
+“Al ah the Majestic and High said” 
 
 قال: هي  
 
 Imam Sadiq said,
 
-_وَلَا يَبَ الشّهَدَاءُ إذَا مَا دُعُوا  
+_وَلَا يَأْبَ الشّهَدَاءُ إذَا مَا دُعُوا  
 _
 
 _**"It is The witnesses should not refuse when they are called on.**_ 
@@ -91,7 +97,9 @@ _**"It is The witnesses should not refuse when they are called on.**_ 
 
 **_ذَلِکُمْ أقْسَطُ عِنْدَ_** **_اللّه_** **_وَأَ_****_قْوَمُ_**
 
-_**It is juster in the sight**_ _**of Allah, More suitable as evidence."**_ (The Holy Qurán 2:282)
+_**It is juster in the sight of Allah, More suitable as evidence."**_ (The Holy Qurán 2:282)
+
+[[Qrsi#2:282]]
 
 وقال تعالى  
 
@@ -104,7 +112,7 @@ _**"Who is more unjust than those who conceal the testimony they have"**_ (The 
 _وَمَنْ يَکْتُمْهَا فَِإنّهُ آثِمٌ قَلْبُهُ وَ اللّه بِمَا تَعْمَلُونَ عَلِيم  
 _
 
-_**"For whoever conceals it- His heart is tainted with sin. And Allah Knoweth all that ye**_ _**do."**_ (The Holy Qurán 2:283)
+_**"For whoever conceals it- His heart is tainted with sin. And Allah Knoweth all that ye do."**_ (The Holy Qurán 2:283)
 
 - 14 -
 
@@ -112,7 +120,7 @@ _**"For whoever conceals it- His heart is tainted with sin. And Allah Knoweth al
 
 قال المفضل: سيدي ومولاي : إني لأجد بعض إخواني المؤمنين العارفين المحقين ربما وقع في حال مع بعض الأضداد المخالفين فيستعين بي أخي المؤمن ويستشهدني في حال ليس لي به علم ولا معرفة ولا أدري كيف أصنع معه إن شهدت معه شهدت بما لا علم لي أحقا هو أم باطل، وإن تخلفت عنه هلکت، فأي شيء أصنع يا مولاي حتى أتخلص ولا آثم؟
 
-قال مولاي منه الرحمة : يا مفضل، إشهد لأخيك على عدوه فما للکافر على المؤمن حرمة، ولَ عصمة.
+قال مولاي منه الرحمة : يا مفضل، إشهد لأخيك على عدوه فما للکافر على المؤمن حرمة، ولا عصمة.
 
 قال المفضل: أشهد بما لا أعلم واللّه تعالى يقول  
 
@@ -120,8 +128,8 @@ _**"For whoever conceals it- His heart is tainted with sin. And Allah Knoweth al
 
 وأنا فما أعلم  
 
-فقال مولاي منه السلام: بلى يا مفضل، أنت تعلم أوما علمت أن اللّه أخذ عليهم العهد وأمر المؤمنين أن يشهدوا لْخوانهم المؤمنين إذا كانوا عندهم في موضع التقية والأمانة في جميع ما يشهدون لهم فيه وذلك إن شهادة المؤمن لأخيه المؤمن بالإيمان أعظم من ذلك كله، وهو لا يعلم ما بنفسه بسره، فهذه الشهادة هي شهادة صدق لأنها قضاء الحق اللّه لأن الحق الباري تعالى لقوله تعالى
+فقال مولاي منه السلام: بلى يا مفضل، أنت تعلم أوما علمت أن اللّه أخذ عليهم العهد وأمر المؤمنين أن يشهدوا لآخوانهم المؤمنين إذا كانوا عندهم في موضع التقية والأمانة في جميع ما يشهدون لهم فيه وذلك إن شهادة المؤمن لأخيه المؤمن بالإيمان أعظم من ذلك كله، وهو لا يعلم ما بنفسه بسره، فهذه الشهادة هي شهادة صدق لأنها قضاء الحق اللّه لأن الحق الباري تعالى لقوله تعالى
 
 إن اللّه هو الحق وهو يحيي ويميت  
 
-فأنت تشهد لِخيك أنه قد عرف الحق الذي هو الباري، فما يجب أن يتخلف المؤمن عن نصرة أخيه المؤمن لأن اللّه تعالى لما أخذ الميثاق عليهم أمرهم أن يشهدوا بعضهم على بعض على العدی لأنه أعلمکم باستطالة العدی عليکم بما كسبتم بذنوبکم و أمركم أن تشهدوا بعضکم لبعض لما فيه نجاتکم وخلاصکم من الأعداء وجعل ذلك فرضا واجبة على المؤمن على أخيه المؤمن واني حق أحق من شهادتك لأخيك المؤمن وخلاصه من الأعداء الظالمين.
+فأنت تشهد لأخيك أنه قد عرف الحق الذي هو الباري، فما يجب أن يتخلف المؤمن عن نصرة أخيه المؤمن لأن اللّه تعالى لما أخذ الميثاق عليهم أمرهم أن يشهدوا بعضهم على بعض على العدی لأنه أعلمکم باستطالة العدی عليکم بما كسبتم بذنوبکم و أمركم أن تشهدوا بعضکم لبعض لما فيه نجاتکم وخلاصکم من الأعداء وجعل ذلك فرضا واجبة على المؤمن على أخيه المؤمن واني حق أحق من شهادتك لأخيك المؤمن وخلاصه من الأعداء الظالمين.
