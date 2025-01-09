@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b61b129eebffdee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref/tfTb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jinn",
+                "query": "tfTb",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
+                "file": "Ref/tfTb.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
+                "file": "Ref/tfTb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md"
+                "file": "Ref/tfTb.md"
               }
             }
           }
@@ -194,14 +206,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "9933e842181072f7",
+  "active": "5b61b129eebffdee",
   "lastOpenFiles": [
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/~syncthing~jinn_shaytan.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
+    "Ref/tfTb.md",
+    "Ref/Qrsi.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk4.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak(1).md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/New folder",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn_BAK.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab2.md",
@@ -226,12 +241,8 @@
     "Ref/haft.azilla/~syncthing~h.a.4.md.tmp",
     "Ref/haft.azilla/~syncthing~h.a.3.md.tmp",
     "Ref/haft.azilla/~syncthing~h.a.0.md.tmp",
-    "Ref/haft.azilla/~syncthing~h.a.10.md.tmp",
     "Ref/umm.kitab/u.k.14.md",
     "Ref/haft.azilla/h.a.2.md",
-    "Ref/haft.azilla/h.a.1.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/araf/araf.md",
-    "Ref/mdhvA.SDS.md",
     "Ref/Pasted image 20241128002518.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
