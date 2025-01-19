@@ -10478,7 +10478,7 @@ And “_the invocations_” do not excite the inspiration of the reasoning power
 #### gr
 Ταῦτα μὲν οὖν οὕτως ἡμῖν ἐχέτω·
 #### en
-That which follows in the next place, descends from a divine alienation of mind to an ecstasy of the reasoning power which leads it to a worse condition, and absurdly says, “_that the cause of divination is the mania which happens in diseases_.
+That which follows in the next place, 
 #### sn
 Ταῦτα μὲν οὖν οὕτως ἡμῖν ἐχέτω·
 #### ar
@@ -10488,7 +10488,7 @@ That which follows in the next place, descends from a divine alienation of mind 
 #### gr
 τὸ δὲ ἐπὶ τούτοις ἀπὸ τῆς ἐνθέου παραφορᾶς ἐπὶ τὴν ἔκστασιν τῆς διανοίας τὴν ἐπὶ τὸ χεῖρον ἀποπίπτει, τήν τε ἐν τοῖς νοσήμασι συμπίπτουσαν μανίαν παραλόγως αἰτίαν εἶναί φησι τῆς μαντικῆς.
 #### en
-” For, as we may conjecture, it assimilates enthusiasm to the redundancy of the black bile, to the aberrations of intoxication, and to the fury which happens from mad dogs.
+descends from a divine alienation of mind to an ecstasy of the reasoning power which leads it to a worse condition, and absurdly says, “_that the cause of divination is the mania which happens in diseases_.” 
 #### sn
 τὸ δὲ ἐπὶ τούτοις ἀπὸ τῆς ἐνθέου παραφορᾶς ἐπὶ τὴν ἔκστασιν τῆς διανοίας τὴν ἐπὶ τὸ χεῖρον ἀποπίπτει, τήν τε ἐν τοῖς νοσήμασι συμπίπτουσαν μανίαν παραλόγως αἰτίαν εἶναί φησι τῆς μαντικῆς.
 #### ar
@@ -10498,7 +10498,7 @@ That which follows in the next place, descends from a divine alienation of mind 
 #### gr
 χολῆς γὰρ πλεονασμοῖς ὡς ἔστιν εἰκάσαι τῆς μελαίνης καὶ μέθης παρατροπαῖς καὶ τῇ λύσσῃ τῇ ἀπὸ λυσσώντων κυνῶν συμβαινούσῃ τὸν ἐνθουσιασμὸν ἀπεικάζει.
 #### en
-It is necessary, therefore, from the beginning, to divide ecstasy into two species, one of which leads to a worse condition of being, and fills us with stupidity and folly;
+For, as we may conjecture, it assimilates enthusiasm to the redundancy of the black bile, to the aberrations of intoxication, and to the fury which happens from mad dogs. 
 #### sn
 χολῆς γὰρ πλεονασμοῖς ὡς ἔστιν εἰκάσαι τῆς μελαίνης καὶ μέθης παρατροπαῖς καὶ τῇ λύσσῃ τῇ ἀπὸ λυσσώντων κυνῶν συμβαινούσῃ τὸν ἐνθουσιασμὸν ἀπεικάζει.
 #### ar
@@ -10508,7 +10508,7 @@ It is necessary, therefore, from the beginning, to divide ecstasy into two speci
 #### gr
 δεῖ τοίνυν ἐξ ἀρχῆς διελέσθαι διχῇ τὰ εἴδη τῆς ἐκστάσεως, ὧν τὰ μὲν ἐπὶ τὸ χεῖρον παρατρέπεται καὶ τὰ μὲν ἀνοίας πληροῖ καὶ παραφροσύνης, τὰ δὲ τῆς παρ’ ἀνθρώποις σωφροσύνης τιμιώτερα ἀγαθὰ παρέχει·
 #### en
-but the other imparts goods which are more honourable than human temperance.
+It is necessary, therefore, from the beginning, to divide ecstasy into two species, one of which leads to a worse condition of being, and fills us with stupidity and folly; but the other imparts goods which are more honourable than human temperance.
 #### sn
 δεῖ τοίνυν ἐξ ἀρχῆς διελέσθαι διχῇ τὰ εἴδη τῆς ἐκστάσεως, ὧν τὰ μὲν ἐπὶ τὸ χεῖρον παρατρέπεται καὶ τὰ μὲν ἀνοίας πληροῖ καὶ παραφροσύνης, τὰ δὲ τῆς παρ’ ἀνθρώποις σωφροσύνης τιμιώτερα ἀγαθὰ παρέχει·
 #### ar
@@ -10518,7 +10518,7 @@ but the other imparts goods which are more honourable than human temperance.
 #### gr
 καὶ τὰ μὲν ἐπὶ τὴν ἄτακτον καὶ πλημμελῆ καὶ ὑλικὴν ἀποπίπτει κίνησιν, τὰ δ’ ἐπιδίδωσιν ἑαυτὰ πρὸς τὴν ἐξάρχουσαν αἰτίαν καὶ αὐτῆς τῆς ἐν τῷ κόσμῳ διατάξεως·
 #### en
-One species also deviates to a disorderly, confused, and material motion;
+One species also deviates to a disorderly, confused, and material motion; but the other gives itself to the cause which rules over the orderly distribution of things in the world.
 #### sn
 καὶ τὰ μὲν ἐπὶ τὴν ἄτακτον καὶ πλημμελῆ καὶ ὑλικὴν ἀποπίπτει κίνησιν, τὰ δ’ ἐπιδίδωσιν ἑαυτὰ πρὸς τὴν ἐξάρχουσαν αἰτίαν καὶ αὐτῆς τῆς ἐν τῷ κόσμῳ διατάξεως·
 #### ar
@@ -10526,25 +10526,19 @@ One species also deviates to a disorderly, confused, and material motion;
 
 ### 6
 #### gr
-καὶ τὰ μὲν ὡς ἐστερημένα τῆς γνώσεως παραφέρεται ἀπὸ τοῦ φρονεῖν, τὰ δ’ ὡς συναπτόμενα τοῖς ὑπερέχουσι πάσης
-
-τῆς ἐν ἡμῖν φρονήσεως·
+καὶ τὰ μὲν ὡς ἐστερημένα τῆς γνώσεως παραφέρεται ἀπὸ τοῦ φρονεῖν, τὰ δ’ ὡς συναπτόμενα τοῖς ὑπερέχουσι πάσης τῆς ἐν ἡμῖν φρονήσεως·
 #### en
-but the other gives itself to the cause which rules over the orderly distribution of things in the world.
+And the one, indeed, as being deprived of knowledge, wanders from wisdom; but the other conjoins with natures that transcend all our wisdom.
 #### sn
-καὶ τὰ μὲν ὡς ἐστερημένα τῆς γνώσεως παραφέρεται ἀπὸ τοῦ φρονεῖν, τὰ δ’ ὡς συναπτόμενα τοῖς ὑπερέχουσι πάσης
-
-τῆς ἐν ἡμῖν φρονήσεως·
+καὶ τὰ μὲν ὡς ἐστερημένα τῆς γνώσεως παραφέρεται ἀπὸ τοῦ φρονεῖν, τὰ δ’ ὡς συναπτόμενα τοῖς ὑπερέχουσι πάσης τῆς ἐν ἡμῖν φρονήσεως·
 #### ar
-καὶ τὰ μὲν ὡς ἐστερημένα τῆς γνώσεως παραφέρεται ἀπὸ τοῦ φρονεῖν, τὰ δ’ ὡς συναπτόμενα τοῖς ὑπερέχουσι πάσης
-
-τῆς ἐν ἡμῖν φρονήσεως·
+καὶ τὰ μὲν ὡς ἐστερημένα τῆς γνώσεως παραφέρεται ἀπὸ τοῦ φρονεῖν, τὰ δ’ ὡς συναπτόμενα τοῖς ὑπερέχουσι πάσης τῆς ἐν ἡμῖν φρονήσεως·
 
 ### 7
 #### gr
 καὶ τὰ μέν ἐστιν ἐν τροπῇ τὰ δ’ ἄτρεπτα·
 #### en
-And the one, indeed, as being deprived of knowledge, wanders from wisdom;
+The one, likewise, is unstable, but the other is immutable.
 #### sn
 καὶ τὰ μέν ἐστιν ἐν τροπῇ τὰ δ’ ἄτρεπτα·
 #### ar
@@ -10554,7 +10548,7 @@ And the one, indeed, as being deprived of knowledge, wanders from wisdom;
 #### gr
 καὶ τὰ μὲν παρὰ φύσιν τὰ δ’ ὑπὲρ τὴν φύσιν·
 #### en
-but the other conjoins with natures that transcend all our wisdom.
+The one is preternatural, but the other is above nature.
 #### sn
 καὶ τὰ μὲν παρὰ φύσιν τὰ δ’ ὑπὲρ τὴν φύσιν·
 #### ar
@@ -10564,7 +10558,7 @@ but the other conjoins with natures that transcend all our wisdom.
 #### gr
 καὶ τὰ μὲν καταγωγὰ ψυχῆς τὰ δὲ ἀναγωγά·
 #### en
-The one, likewise, is unstable, but the other is immutable.
+The one draws down the soul, but the other elevates it.
 #### sn
 καὶ τὰ μὲν καταγωγὰ ψυχῆς τὰ δὲ ἀναγωγά·
 #### ar
@@ -10574,7 +10568,7 @@ The one, likewise, is unstable, but the other is immutable.
 #### gr
 καὶ τὰ μὲν διίστησιν ἔξω παντάπασι τῆς θείας μοίρας, τὰ δὲ πρὸς αὐτὴν συνάπτει.
 #### en
-The one is preternatural, but the other is above nature.
+And the one entirely separates us from a divine allotment, but the other connects us with it.
 #### sn
 καὶ τὰ μὲν διίστησιν ἔξω παντάπασι τῆς θείας μοίρας, τὰ δὲ πρὸς αὐτὴν συνάπτει.
 #### ar
@@ -10584,7 +10578,7 @@ The one is preternatural, but the other is above nature.
 #### gr
 Διὰ τί δὴ οὖν τοσοῦτον ἀπεσφάλη ὁ λόγος τῆς προκειμένης ὑποθέσεως, ὡς ἐπὶ τὰ ἔσχατα παρενεχθῆναι τῆς μανίας κακὰ ἀπὸ τῶν πρωτείων καὶ ἀγαθῶν;
 #### en
-The one draws down the soul, but the other elevates it.
+Why, therefore, does your assertion so much wander from the proposed hypothesis, as to decline from things primary and good to the last evils of insanity?
 #### sn
 Διὰ τί δὴ οὖν τοσοῦτον ἀπεσφάλη ὁ λόγος τῆς προκειμένης ὑποθέσεως, ὡς ἐπὶ τὰ ἔσχατα παρενεχθῆναι τῆς μανίας κακὰ ἀπὸ τῶν πρωτείων καὶ ἀγαθῶν;
 #### ar
@@ -10594,7 +10588,7 @@ The one draws down the soul, but the other elevates it.
 #### gr
 τί γὰρ δὴ ταῖς μελαγχολίαις ἢ μέθαις ἢ ταῖς ἄλλαις ταῖς ἀπὸ τοῦ σώματος ἐγειρομέναις παρακοπαῖς προσέοικεν ὁ ἐνθουσιασμός;
 #### en
-And the one entirely separates us from a divine allotment, but the other connects us with it.
+For in what is enthusiasm similar to melancholy, or intoxication, or any other delirium excited by the body?
 #### sn
 τί γὰρ δὴ ταῖς μελαγχολίαις ἢ μέθαις ἢ ταῖς ἄλλαις ταῖς ἀπὸ τοῦ σώματος ἐγειρομέναις παρακοπαῖς προσέοικεν ὁ ἐνθουσιασμός;
 #### ar
@@ -10604,7 +10598,7 @@ And the one entirely separates us from a divine allotment, but the other connect
 #### gr
 τίς δ’ ἂν μαντεία ποτὲ ἐγγένοιτο ἀπὸ τῶν νοσημάτων τοῦ σώματος;
 #### en
-Why, therefore, does your assertion so much wander from the proposed hypothesis, as to decline from things primary and good to the last evils of insanity?
+Or what prediction can ever be produced from diseases of the body?
 #### sn
 τίς δ’ ἂν μαντεία ποτὲ ἐγγένοιτο ἀπὸ τῶν νοσημάτων τοῦ σώματος;
 #### ar
@@ -10614,7 +10608,7 @@ Why, therefore, does your assertion so much wander from the proposed hypothesis,
 #### gr
 οὐχ ἡ μὲν τοιαύτη παραγωγὴ διαφθορὰ παντελής ἐστιν, ἡ δὲ θεοφορία τελειότης καὶ σωτηρία τῆς ψυχῆς;
 #### en
-For in what is enthusiasm similar to melancholy, or intoxication, or any other delirium excited by the body?
+Is not a derivation of this kind a perfect corruption, but divine inspiration the perfection and salvation of the soul?
 #### sn
 οὐχ ἡ μὲν τοιαύτη παραγωγὴ διαφθορὰ παντελής ἐστιν, ἡ δὲ θεοφορία τελειότης καὶ σωτηρία τῆς ψυχῆς;
 #### ar
@@ -10624,7 +10618,7 @@ For in what is enthusiasm similar to melancholy, or intoxication, or any other d
 #### gr
 οὐ κατ’ ἀσθένειαν μὲν ἡ φαύλη συμπίπτει, κατὰ πλήρωσιν δὲ δυνάμεως ἡ βελτίων;
 #### en
-Or what prediction can ever be produced from diseases of the body?
+And does not depraved enthusiasm take place through imbecility, but the enthusiasm which is more excellent through a plenitude of power?
 #### sn
 οὐ κατ’ ἀσθένειαν μὲν ἡ φαύλη συμπίπτει, κατὰ πλήρωσιν δὲ δυνάμεως ἡ βελτίων;
 #### ar
@@ -10634,7 +10628,7 @@ Or what prediction can ever be produced from diseases of the body?
 #### gr
 ὡς δ’ ἁπλῶς εἰπεῖν ἡ μὲν ἡσυχάζουσα κατὰ τὴν οἰκείαν ζωὴν καὶ σύνεσιν ἑτέρῳ παραδίδωσι τὴν ἑαυτῆς χρῆσιν, ἡ δὲ τὰς οἰκείας ἐνεργείας ἐνεργοῦσα κάκιστα καὶ θορυβωδῶς ταύτας ἀποδίδωσι.
 #### en
-Is not a derivation of this kind a perfect corruption, but divine inspiration the perfection and salvation of the soul?
+In short, the latter being quiescent, according to its own proper life and intelligence, gives itself to be used by another [power which is superior to itself]; but the former, energizing according to its proper energies, renders these most depraved and turbulent.
 #### sn
 ὡς δ’ ἁπλῶς εἰπεῖν ἡ μὲν ἡσυχάζουσα κατὰ τὴν οἰκείαν ζωὴν καὶ σύνεσιν ἑτέρῳ παραδίδωσι τὴν ἑαυτῆς χρῆσιν, ἡ δὲ τὰς οἰκείας ἐνεργείας ἐνεργοῦσα κάκιστα καὶ θορυβωδῶς ταύτας ἀποδίδωσι.
 #### ar
@@ -10644,7 +10638,7 @@ Is not a derivation of this kind a perfect corruption, but divine inspiration th
 #### gr
 Κἀκείνη τοίνυν ἡ διαφορὰ πάντων ἐστὶν ἐναργεστάτη, ὡς ἄρα ἐπὶ τῶν θείων πάντα τὰ ἔργα ἐξήλλακται.
 #### en
-And does not depraved enthusiasm take place through imbecility, but the enthusiasm which is more excellent through a plenitude of power?
+This, therefore, is a difference the most manifest of all others, because all the works of divine natures differ [in a transcendent degree] from the works of other beings.
 #### sn
 Κἀκείνη τοίνυν ἡ διαφορὰ πάντων ἐστὶν ἐναργεστάτη, ὡς ἄρα ἐπὶ τῶν θείων πάντα τὰ ἔργα ἐξήλλακται.
 #### ar
@@ -10654,7 +10648,7 @@ And does not depraved enthusiasm take place through imbecility, but the enthusia
 #### gr
 ὥσπερ γὰρ ἐξήρηται τὰ κρείττονα γένη παρὰ πάντα τὰ ἄλλα, οὕτω καὶ τὰ ἐνεργήματα αὐτῶν οὐδενὶ τῶν ὄντων προσἑοικεν.
 #### en
-In short, the latter being quiescent, according to its own proper life and intelligence, gives itself to be used by another [power which is superior to itself];
+For as the more excellent genera are exempt from all others, thus also their energies do not resemble those of any other nature.
 #### sn
 ὥσπερ γὰρ ἐξήρηται τὰ κρείττονα γένη παρὰ πάντα τὰ ἄλλα, οὕτω καὶ τὰ ἐνεργήματα αὐτῶν οὐδενὶ τῶν ὄντων προσἑοικεν.
 #### ar
@@ -10664,7 +10658,7 @@ In short, the latter being quiescent, according to its own proper life and intel
 #### gr
 ὥστε ἂν εἴπῃς θείαν παραφοράν, ἄφελε πάσας εὐθὺς τὰς ἀνθρωπίνας παρατροπάς.
 #### en
-but the former, energizing according to its proper energies, renders these most depraved and turbulent.
+Hence, when you speak of divine mania, immediately remove from it all human perversions.
 #### sn
 ὥστε ἂν εἴπῃς θείαν παραφοράν, ἄφελε πάσας εὐθὺς τὰς ἀνθρωπίνας παρατροπάς.
 #### ar
@@ -10674,7 +10668,7 @@ but the former, energizing according to its proper energies, renders these most 
 #### gr
 καὶ ἐὰν νῆψιν αὐτοῖς ἱερατικὴν ἀποδῷς, μηκέτι σκόπει τὴν ἀνθρωπίνην νῆψιν, ὡς οὖσαν ἐκείνῃ παραπλησίαν.
 #### en
-This, therefore, is a difference the most manifest of all others, because all the works of divine natures differ [in a transcendent degree] from the works of other beings.
+And if you ascribe a sacred “_sobriety and vigilance_” to divine natures, you must not consider human sobriety and vigilance as similar to it.
 #### sn
 καὶ ἐὰν νῆψιν αὐτοῖς ἱερατικὴν ἀποδῷς, μηκέτι σκόπει τὴν ἀνθρωπίνην νῆψιν, ὡς οὖσαν ἐκείνῃ παραπλησίαν.
 #### ar
@@ -10684,7 +10678,7 @@ This, therefore, is a difference the most manifest of all others, because all th
 #### gr
 πάντως δὲ τὰς κατὰ τὰ νοσήματα τοῦ σώματος οἷον ὑποχύσεις καὶ τὰς ἀπὸ τῶν νοσημάτων κινουμένας φαντασίας μὴ παράβαλλε ταῖς θείαις φαντασίαις·
 #### en
-For as the more excellent genera are exempt from all others, thus also their energies do not resemble those of any other nature.
+But by no means compare the diseases of the body, such as suffusions, and the imaginations excited by diseases, with divine imaginations.
 #### sn
 πάντως δὲ τὰς κατὰ τὰ νοσήματα τοῦ σώματος οἷον ὑποχύσεις καὶ τὰς ἀπὸ τῶν νοσημάτων κινουμένας φαντασίας μὴ παράβαλλε ταῖς θείαις φαντασίαις·
 #### ar
@@ -10694,7 +10688,7 @@ For as the more excellent genera are exempt from all others, thus also their ene
 #### gr
 τί γὰρ δὴ κοινὸν αὗται πρὸς ἀλλήλας ἔχουσι;
 #### en
-Hence, when you speak of divine mania, immediately remove from it all human perversions.
+For what have the two in common with each other?
 #### sn
 τί γὰρ δὴ κοινὸν αὗται πρὸς ἀλλήλας ἔχουσι;
 #### ar
@@ -10704,7 +10698,7 @@ Hence, when you speak of divine mania, immediately remove from it all human perv
 #### gr
 μηδ’ αὖ τὰς ἀμφιβόλους καταστάσεις, οἷον μεταξὺ νήψεώς τε καὶ ἐκστάσεως, παραθῇς ποτὲ ταῖς ὡρισμέναις κατὰ μίαν ἐνέργειαν ἱερατικαῖς τῶν θεῶν ὄψεσιν.
 #### en
-And if you ascribe a sacred “_sobriety and vigilance_” to divine natures, you must not consider human sobriety and vigilance as similar to it.
+Nor again, must you compare “_an ambiguous state_,” such as that which takes place between a sober condition of mind and ecstasy, with sacred visions of the Gods, which are defined by one energy.
 #### sn
 μηδ’ αὖ τὰς ἀμφιβόλους καταστάσεις, οἷον μεταξὺ νήψεώς τε καὶ ἐκστάσεως, παραθῇς ποτὲ ταῖς ὡρισμέναις κατὰ μίαν ἐνέργειαν ἱερατικαῖς τῶν θεῶν ὄψεσιν.
 #### ar
@@ -10714,7 +10708,7 @@ And if you ascribe a sacred “_sobriety and vigilance_” to divine natures, yo
 #### gr
 ἀλλὰ μηδὲ ταῖς ἀπὸ τῆς γοητείας τεχνικῶς κατασκευαζομέναις φαντασίαις παράβαλλε τὰς ἐναργεστάτας θεωρίας τῶν θεῶν·
 #### en
-But by no means compare the diseases of the body, such as suffusions, and the imaginations excited by diseases, with divine imaginations.
+But neither must you compare the most manifest surveys of the Gods with the imaginations artificially procured by enchantment (Goetia).
 #### sn
 ἀλλὰ μηδὲ ταῖς ἀπὸ τῆς γοητείας τεχνικῶς κατασκευαζομέναις φαντασίαις παράβαλλε τὰς ἐναργεστάτας θεωρίας τῶν θεῶν·
 #### ar
@@ -10726,7 +10720,7 @@ But by no means compare the diseases of the body, such as suffusions, and the im
 
 οὔτε ἀλήθειαν αὗται ἔχουσιν, ἄχρι δὲ τοῦ δοκεῖν φαντάσματα ψιλὰ προτείνουσι.
 #### en
-For what have the two in common with each other?
+For the latter have neither the energy, nor the essence, nor the truth of the things that are seen, but extend mere phantasms, as far as to appearances only. 
 #### sn
 οὔτε γὰρ ἐνέργειαν οὔτε οὐσίαν τῶν ὁρωμένων
 
@@ -10740,7 +10734,7 @@ For what have the two in common with each other?
 #### gr
 Πάντα δὴ οὖν τὰ τοιαῦτα ἀπορήματα ὡς ἀλλοτρίως προσαγόμενα καὶ ἀπὸ τῶν ἐναντίων ἐπὶ τὰ ἐναντία μεταφερόμενα οὐχ ἡγούμεθα ἅπτεσθαι τῆς προσηκούσης ὑποθέσεως·
 #### en
-Nor again, must you compare “_an ambiguous state_,” such as that which takes place between a sober condition of mind and ecstasy, with sacred visions of the Gods, which are defined by one energy.
+All such doubts as these, however, which are adduced foreign to the purpose, and tend from contraries to contraries, we do not consider as pertinent to the present hypothesis. 
 #### sn
 Πάντα δὴ οὖν τὰ τοιαῦτα ἀπορήματα ὡς ἀλλοτρίως προσαγόμενα καὶ ἀπὸ τῶν ἐναντίων ἐπὶ τὰ ἐναντία μεταφερόμενα οὐχ ἡγούμεθα ἅπτεσθαι τῆς προσηκούσης ὑποθέσεως·
 #### ar
@@ -10750,7 +10744,7 @@ Nor again, must you compare “_an ambiguous state_,” such as that which takes
 #### gr
 ὅθεν καὶ ἡμεῖς παραδείξαντες αὐτῶν τὸ ἀπηρτημένον, οὐκέτ’ οἰόμεθα δεῖν ἐν αὐτοῖς ἐπὶ πλεῖον διατρίβειν, ὡς ἐριστικῶς περιπλανωμένοις ἀλλ’ οὐχὶ μετά τινος φιλοσοφίας ἐπεζητημένοις.
 #### en
-But neither must you compare the most manifest surveys of the Gods with the imaginations artificially procured by enchantment. For the latter have neither the energy, nor the essence, nor the truth of the things that are seen, but extend mere phantasms, as far as to appearances only. All such doubts as these, however, which are adduced foreign to the purpose, and tend from contraries to contraries, we do not consider as pertinent to the present hypothesis. Hence, as we have shown the unappropriateness of them, we do not think it requisite to discuss them any further, because they are contentiously introduced, and not with philosophical investigation.
+Hence, as we have shown the unappropriateness of them, we do not think it requisite to discuss them any further, because they are contentiously introduced, and not with philosophical investigation.
 #### sn
 ὅθεν καὶ ἡμεῖς παραδείξαντες αὐτῶν τὸ ἀπηρτημένον, οὐκέτ’ οἰόμεθα δεῖν ἐν αὐτοῖς ἐπὶ πλεῖον διατρίβειν, ὡς ἐριστικῶς περιπλανωμένοις ἀλλ’ οὐχὶ μετά τινος φιλοσοφίας ἐπεζητημένοις.
 #### ar
@@ -15376,9 +15370,21 @@ If, however, the world is multiform, and all perfect, and is united from many or
 
 ### 1
 #### gr
-Ὁ τοίνυν ποικίλος τρόπος τῆς ἐν ταῖς ἱερουργίαις ἁγιστείας τὰ μὲν ἀποκαθαίρει, τὰ δὲ τελειοῖ τῶν ἐν ἡμῖν ἢ περὶ ἡμᾶς ὄντων, τὰ δὲ εἰς συμμετρίαν καὶ τάξιν καθίστησι, τὰ δὲ ἄλλως ἀπολύει τῆς θνητοειδοῦς πλημμελείας, πάντα δὲ προσήγορα τοῖς ὅλοις κρείττοσιν ἡμῶν ἀπεργάζεται.
+Ὁ τοίνυν ποικίλος τρόπος τῆς ἐν ταῖς ἱερουργίαις ἁγιστείας τὰ μὲν ἀποκαθαίρει, τὰ δὲ τελειοῖ τῶν ἐν ἡμῖν ἢ περὶ ἡμᾶς ὄντων, 
+
+τὰ δὲ εἰς συμμετρίαν καὶ τάξιν καθίστησι, 
+
+τὰ δὲ ἄλλως ἀπολύει τῆς θνητοειδοῦς πλημμελείας, 
+
+πάντα δὲ προσήγορα τοῖς ὅλοις κρείττοσιν ἡμῶν ἀπεργάζεται.
 #### en
 The various mode, therefore, of sanctity in sacred operations partly purifies and partly perfects some one of the things that are in us or about us.
+
+And some things, indeed, it restores to symmetry and order;
+
+but others it liberates from mortal-formed error.
+
+But it renders all things familiar and friendly to all the natures that are superior to us.
 #### sn
 Ὁ τοίνυν ποικίλος τρόπος τῆς ἐν ταῖς ἱερουργίαις ἁγιστείας τὰ μὲν ἀποκαθαίρει, τὰ δὲ τελειοῖ τῶν ἐν ἡμῖν ἢ περὶ ἡμᾶς ὄντων, τὰ δὲ εἰς συμμετρίαν καὶ τάξιν καθίστησι, τὰ δὲ ἄλλως ἀπολύει τῆς θνητοειδοῦς πλημμελείας, πάντα δὲ προσήγορα τοῖς ὅλοις κρείττοσιν ἡμῶν ἀπεργάζεται.
 #### ar
@@ -15388,7 +15394,7 @@ The various mode, therefore, of sanctity in sacred operations partly purifies an
 #### gr
 καὶ μὴν συνιόντων γε εἰς τὸ αὐτὸ τῶν θείων αἰτίων καὶ τῶν ἀνθρωπίνων παραπλησίων αὐτοῖς παρασκευῶν, πάντα τέλεια καὶ μεγάλα ἀγαθὰ τῆς θυσίας ἡ τελεσιουργία παρέχεται.
 #### en
-And some things, indeed, it restores to symmetry and order;
+Moreover, when divine causes, and human preparations which are assimilated to them conspire in one and the same, then the perfection of sacred operations imparts all the perfect and great benefits of sacrifice.
 #### sn
 καὶ μὴν συνιόντων γε εἰς τὸ αὐτὸ τῶν θείων αἰτίων καὶ τῶν ἀνθρωπίνων παραπλησίων αὐτοῖς παρασκευῶν, πάντα τέλεια καὶ μεγάλα ἀγαθὰ τῆς θυσίας ἡ τελεσιουργία παρέχεται.
 #### ar
@@ -15398,7 +15404,7 @@ And some things, indeed, it restores to symmetry and order;
 #### gr
 Οὐ χεῖρον δέ τοι καὶ τὰ τοιαῦτα προσθεῖναι πρὸς ἀκριβῆ περὶ τῶν αὐτῶν κατανόησιν.
 #### en
-but others it liberates from mortal-formed error.
+It will not be amiss, also, to add such particulars as the following, in order to the accurate comprehension of these things.
 #### sn
 Οὐ χεῖρον δέ τοι καὶ τὰ τοιαῦτα προσθεῖναι πρὸς ἀκριβῆ περὶ τῶν αὐτῶν κατανόησιν.
 #### ar
@@ -15408,7 +15414,7 @@ but others it liberates from mortal-formed error.
 #### gr
 πέφυκεν ἀεὶ τῶν ἀκροτάτων ἡ περιουσία τῆς δυνάμεως καὶ ἐν τῷδε ὑπερέχειν τῶν ὅλων, ἐν τῷ παρεῖναι πᾶσιν ἐξ ἴσου τὴν αὐτὴν ἀνεμποδίστως·
 #### en
-But it renders all things familiar and friendly to all the natures that are superior to us.
+An exuberance of power is always present with the highest causes, and at the same time that this power transcends all things, it is equally present with all with unimpeded energy.
 #### sn
 πέφυκεν ἀεὶ τῶν ἀκροτάτων ἡ περιουσία τῆς δυνάμεως καὶ ἐν τῷδε ὑπερέχειν τῶν ὅλων, ἐν τῷ παρεῖναι πᾶσιν ἐξ ἴσου τὴν αὐτὴν ἀνεμποδίστως·
 #### ar
@@ -15418,7 +15424,7 @@ But it renders all things familiar and friendly to all the natures that are supe
 #### gr
 ἐλλάμπει τοίνυν κατὰ τοῦτον τὸν λόγον καὶ τοῖς ἐσχάτοις τὰ πρώτιστα, καὶ πάρεστιν ἀύλως τοῖς ἐνύλοις τὰ ἄυλα.
 #### en
-Moreover, when divine causes, and human preparations which are assimilated to them conspire in one and the same, then the perfection of sacred operations imparts all the perfect and great benefits of sacrifice.
+Hence, conformably to this, the first illuminate the last of things, and immaterial are present with material natures immaterially.
 #### sn
 ἐλλάμπει τοίνυν κατὰ τοῦτον τὸν λόγον καὶ τοῖς ἐσχάτοις τὰ πρώτιστα, καὶ πάρεστιν ἀύλως τοῖς ἐνύλοις τὰ ἄυλα.
 #### ar
@@ -15428,7 +15434,7 @@ Moreover, when divine causes, and human preparations which are assimilated to th
 #### gr
 μὴ δή τις θαυμαζέτω, ἐὰν καὶ ὕλην τινὰ καθαρὰν καὶ θείαν εἶναι λέγωμεν·
 #### en
-It will not be amiss, also, to add such particulars as the following, in order to the accurate comprehension of these things.
+Nor should it be considered by any one as wonderful, if we say that there is a certain pure and divine matter.
 #### sn
 μὴ δή τις θαυμαζέτω, ἐὰν καὶ ὕλην τινὰ καθαρὰν καὶ θείαν εἶναι λέγωμεν·
 #### ar
@@ -15436,25 +15442,27 @@ It will not be amiss, also, to add such particulars as the following, in order t
 
 ### 7
 #### gr
-ἀπὸ γὰρ τοῦ πατρὸς καὶ δημιουργοῦ τῶν ὅλων καὶ αὐτὴ γενομένη, τὴν
-
-τελειότητα ἑαυτῆς ἐπιτηδείαν κέκτηται πρὸς θεῶν ὑποδοχήν.
+ἀπὸ γὰρ τοῦ πατρὸς καὶ δημιουργοῦ τῶν ὅλων καὶ αὐτὴ γενομένη, τὴν τελειότητα ἑαυτῆς ἐπιτηδείαν κέκτηται πρὸς θεῶν ὑποδοχήν.
 #### en
-An exuberance of power is always present with the highest causes, and at the same time that this power transcends all things, it is equally present with all with unimpeded energy.
+[117] For matter being generated by the father and demiurgus of wholes, receives a perfection adapted to itself, in order to its becoming the receptacle of the Gods.
 #### sn
-ἀπὸ γὰρ τοῦ πατρὸς καὶ δημιουργοῦ τῶν ὅλων καὶ αὐτὴ γενομένη, τὴν
-
-τελειότητα ἑαυτῆς ἐπιτηδείαν κέκτηται πρὸς θεῶν ὑποδοχήν.
+ἀπὸ γὰρ τοῦ πατρὸς καὶ δημιουργοῦ τῶν ὅλων καὶ αὐτὴ γενομένη, τὴν τελειότητα ἑαυτῆς ἐπιτηδείαν κέκτηται πρὸς θεῶν ὑποδοχήν.
 #### ar
-ἀπὸ γὰρ τοῦ πατρὸς καὶ δημιουργοῦ τῶν ὅλων καὶ αὐτὴ γενομένη, τὴν
-
-τελειότητα ἑαυτῆς ἐπιτηδείαν κέκτηται πρὸς θεῶν ὑποδοχήν.
+ἀπὸ γὰρ τοῦ πατρὸς καὶ δημιουργοῦ τῶν ὅλων καὶ αὐτὴ γενομένη, τὴν τελειότητα ἑαυτῆς ἐπιτηδείαν κέκτηται πρὸς θεῶν ὑποδοχήν.
 
 ### 8
 #### gr
-καὶ ἅμα οὐδὲν διείργει τὰ κρείττονα πρὸς τὸ δύνασθαι τὰ καταδεέστερα ἑαυτῶν ἐλλάμπειν, οὐδὲ τὴν ὕλην οὖν ἀφίστησιν οὐδὲν τῆς τῶν βελτιόνων μετουσίας, ὥςτε ὅση τέλεια καὶ καθαρὰ καὶ ἀγαθοειδὴς ὑπάρχει, πρὸς θεῶν ὑποδοχήν ἐστιν οὐκ ἀνάρμοστος·
+καὶ ἅμα οὐδὲν διείργει τὰ κρείττονα πρὸς τὸ δύνασθαι τὰ καταδεέστερα ἑαυτῶν ἐλλάμπειν, 
+
+οὐδὲ τὴν ὕλην οὖν ἀφίστησιν οὐδὲν τῆς τῶν βελτιόνων μετουσίας, 
+
+ὥςτε ὅση τέλεια καὶ καθαρὰ καὶ ἀγαθοειδὴς ὑπάρχει, πρὸς θεῶν ὑποδοχήν ἐστιν οὐκ ἀνάρμοστος·
 #### en
-Hence, conformably to this, the first illuminate the last of things, and immaterial are present with material natures immaterially.
+At the same time nothing prevents more excellent beings from being able to impart their light to subordinate natures.
+
+Neither, therefore, is matter separated from the participation of better causes;
+
+so that such matter as is perfect, pure, and boniform, is not unadapted to the reception of the Gods.
 #### sn
 καὶ ἅμα οὐδὲν διείργει τὰ κρείττονα πρὸς τὸ δύνασθαι τὰ καταδεέστερα ἑαυτῶν ἐλλάμπειν, οὐδὲ τὴν ὕλην οὖν ἀφίστησιν οὐδὲν τῆς τῶν βελτιόνων μετουσίας, ὥςτε ὅση τέλεια καὶ καθαρὰ καὶ ἀγαθοειδὴς ὑπάρχει, πρὸς θεῶν ὑποδοχήν ἐστιν οὐκ ἀνάρμοστος·
 #### ar
@@ -15464,7 +15472,7 @@ Hence, conformably to this, the first illuminate the last of things, and immater
 #### gr
 ἐπεὶ γὰρ ἔδει καὶ τὰ ἐν γῇ μηδαμῶς εἶναι ἄμοιρα τῆς θείας κοινωνίας, ἐδέξατό τινα ἀπ’ αὐτῆς θείαν μοῖραν καὶ ἡ γῆ, ἱκανὴν οὖσαν χωρῆσαι τοὺς θεούς.
 #### en
-Nor should it be considered by any one as wonderful, if we say that there is a certain pure and divine matter.
+For, since it is requisite that terrestrial natures should by no means be destitute of divine communion, the earth also receives a certain divine portion from it, sufficient for the participation of the Gods.
 #### sn
 ἐπεὶ γὰρ ἔδει καὶ τὰ ἐν γῇ μηδαμῶς εἶναι ἄμοιρα τῆς θείας κοινωνίας, ἐδέξατό τινα ἀπ’ αὐτῆς θείαν μοῖραν καὶ ἡ γῆ, ἱκανὴν οὖσαν χωρῆσαι τοὺς θεούς.
 #### ar
@@ -15474,7 +15482,7 @@ Nor should it be considered by any one as wonderful, if we say that there is a c
 #### gr
 Ταῦτα τοίνυν κατιδοῦσα ἡ θεουργικὴ τέχνη, κοινῶς τε οὑτωσὶ κατ’ οἰκειότητα ἑκάστῳ τῶν θεῶν τὰς προσφόρους ὑποδοχὰς ἀνευρίσκουσα, συμπλέκει πολλάκις λίθους βοτάνας ζῶα ἀρώματα, ἄλλα τε τοιαῦτα ἱερὰ καὶ τέλεια καὶ θεοειδῆ, κἄπειτα ἀπὸ πάντων τούτων ὑποδοχὴν ὁλοτελῆ καὶ καθαρὰν ἀπεργάζεται.
 #### en
-[117] For matter being generated by the father and demiurgus of wholes, receives a perfection adapted to itself, in order to its becoming the receptacle of the Gods.
+The theurgic art, therefore, perceiving this to be the case, and thus having discovered in common, appropriate receptacles, conformably to the peculiarity of each of the Gods, it frequently connects together stones, herbs, animals, aromatics, and other sacred, perfect, and deiform substances of the like kind; and afterwards, from all these, it produces an entire and pure receptacle. 
 #### sn
 Ταῦτα τοίνυν κατιδοῦσα ἡ θεουργικὴ τέχνη, κοινῶς τε οὑτωσὶ κατ’ οἰκειότητα ἑκάστῳ τῶν θεῶν τὰς προσφόρους ὑποδοχὰς ἀνευρίσκουσα, συμπλέκει πολλάκις λίθους βοτάνας ζῶα ἀρώματα, ἄλλα τε τοιαῦτα ἱερὰ καὶ τέλεια καὶ θεοειδῆ, κἄπειτα ἀπὸ πάντων τούτων ὑποδοχὴν ὁλοτελῆ καὶ καθαρὰν ἀπεργάζεται.
 #### ar
@@ -15482,25 +15490,19 @@ Nor should it be considered by any one as wonderful, if we say that there is a c
 
 ### 11
 #### gr
-Οὐ γὰρ δὴ δεῖ δυσχεραίνειν πᾶσαν ὕλην, ἀλλὰ μόνην
-
-τὴν ἀλλοτρίαν τῶν θεῶν, τὴν δὲ οἰκείαν πρὸς αὐτοὺς ἐκλέγεσθαι, ὡς συμφωνεῖν δυναμένην εἴς τε θεῶν οἰκοδομήσεις καὶ καθιδρύσεις ἀγαλμάτων καὶ δὴ καὶ εἰς τὰς τῶν θυσιῶν ἱερουργίας.
+Οὐ γὰρ δὴ δεῖ δυσχεραίνειν πᾶσαν ὕλην, ἀλλὰ μόνην τὴν ἀλλοτρίαν τῶν θεῶν, τὴν δὲ οἰκείαν πρὸς αὐτοὺς ἐκλέγεσθαι, ὡς συμφωνεῖν δυναμένην εἴς τε θεῶν οἰκοδομήσεις καὶ καθιδρύσεις ἀγαλμάτων καὶ δὴ καὶ εἰς τὰς τῶν θυσιῶν ἱερουργίας.
 #### en
-At the same time nothing prevents more excellent beings from being able to impart their light to subordinate natures.
+For it is not proper to despise all matter, but that alone which is foreign from the Gods. But that matter is to be chosen which is adapted to them, as being able to accord with the edifices of the Gods, the dedication of statues, and the sacred operations of sacrifices. 
 #### sn
-Οὐ γὰρ δὴ δεῖ δυσχεραίνειν πᾶσαν ὕλην, ἀλλὰ μόνην
-
-τὴν ἀλλοτρίαν τῶν θεῶν, τὴν δὲ οἰκείαν πρὸς αὐτοὺς ἐκλέγεσθαι, ὡς συμφωνεῖν δυναμένην εἴς τε θεῶν οἰκοδομήσεις καὶ καθιδρύσεις ἀγαλμάτων καὶ δὴ καὶ εἰς τὰς τῶν θυσιῶν ἱερουργίας.
+Οὐ γὰρ δὴ δεῖ δυσχεραίνειν πᾶσαν ὕλην, ἀλλὰ μόνην τὴν ἀλλοτρίαν τῶν θεῶν, τὴν δὲ οἰκείαν πρὸς αὐτοὺς ἐκλέγεσθαι, ὡς συμφωνεῖν δυναμένην εἴς τε θεῶν οἰκοδομήσεις καὶ καθιδρύσεις ἀγαλμάτων καὶ δὴ καὶ εἰς τὰς τῶν θυσιῶν ἱερουργίας.
 #### ar
-Οὐ γὰρ δὴ δεῖ δυσχεραίνειν πᾶσαν ὕλην, ἀλλὰ μόνην
-
-τὴν ἀλλοτρίαν τῶν θεῶν, τὴν δὲ οἰκείαν πρὸς αὐτοὺς ἐκλέγεσθαι, ὡς συμφωνεῖν δυναμένην εἴς τε θεῶν οἰκοδομήσεις καὶ καθιδρύσεις ἀγαλμάτων καὶ δὴ καὶ εἰς τὰς τῶν θυσιῶν ἱερουργίας.
+Οὐ γὰρ δὴ δεῖ δυσχεραίνειν πᾶσαν ὕλην, ἀλλὰ μόνην τὴν ἀλλοτρίαν τῶν θεῶν, τὴν δὲ οἰκείαν πρὸς αὐτοὺς ἐκλέγεσθαι, ὡς συμφωνεῖν δυναμένην εἴς τε θεῶν οἰκοδομήσεις καὶ καθιδρύσεις ἀγαλμάτων καὶ δὴ καὶ εἰς τὰς τῶν θυσιῶν ἱερουργίας.
 
 ### 12
 #### gr
 οὐδὲ γὰρ ἂν ἄλλως τοῖς ἐπὶ γῆς τόποις ἢ τοῖς δεῦρο κατοικοῦσιν ἀνθρώποις μετουσία ἂν γένοιτο τῆς τῶν κρειττόνων λήψεως, εἰ μή τις τοιαύτη καταβολὴ πρώτη προενιδρυθείη·
 #### en
-Neither, therefore, is matter separated from the participation of better causes;
+For no otherwise can a participation of superior beings be obtained by places in the earth, or by men that dwell in it, unless a foundation of this kind is first established. 
 #### sn
 οὐδὲ γὰρ ἂν ἄλλως τοῖς ἐπὶ γῆς τόποις ἢ τοῖς δεῦρο κατοικοῦσιν ἀνθρώποις μετουσία ἂν γένοιτο τῆς τῶν κρειττόνων λήψεως, εἰ μή τις τοιαύτη καταβολὴ πρώτη προενιδρυθείη·
 #### ar
@@ -15510,7 +15512,7 @@ Neither, therefore, is matter separated from the participation of better causes;
 #### gr
 πείθεσθαι δὲ χρὴ τοῖς ἀπορρήτοις λόγοις, ὡς καὶ διὰ τῶν μακαρίων θεαμάτων ὕλη τις ἐκ θεῶν παραδίδοται·
 #### en
-so that such matter as is perfect, pure, and boniform, is not unadapted to the reception of the Gods.
+It is also requisite to be persuaded by arcane assertions, that a certain matter is imparted by the Gods, through blessed visions. 
 #### sn
 πείθεσθαι δὲ χρὴ τοῖς ἀπορρήτοις λόγοις, ὡς καὶ διὰ τῶν μακαρίων θεαμάτων ὕλη τις ἐκ θεῶν παραδίδοται·
 #### ar
@@ -15520,7 +15522,7 @@ so that such matter as is perfect, pure, and boniform, is not unadapted to the r
 #### gr
 αὕτη δήπου συμφυής ἐστιν αὐτοῖς ἐκείνοις τοῖς διδοῦσιν·
 #### en
-For, since it is requisite that terrestrial natures should by no means be destitute of divine communion, the earth also receives a certain divine portion from it, sufficient for the participation of the Gods.
+This matter, therefore, is doubtless connascent with those by whom it is imparted. 
 #### sn
 αὕτη δήπου συμφυής ἐστιν αὐτοῖς ἐκείνοις τοῖς διδοῦσιν·
 #### ar
@@ -15530,7 +15532,7 @@ For, since it is requisite that terrestrial natures should by no means be destit
 #### gr
 οὐκοῦν καὶ ἡ τῆς τοιαύτης ὕλης θυσία ἀνεγείρει τοὺς θεοὺς ἐπὶ τὴν ἔμφασιν, καὶ προσκαλεῖται εὐθέως πρὸς κατάληψιν, χωρεῖ τε αὐτοὺς παραγιγνομένους καὶ τελείως ἐπιδείκνυσι;
 #### en
-The theurgic art, therefore, perceiving this to be the case, and thus having discovered in common, appropriate receptacles, conformably to the peculiarity of each of the Gods, it frequently connects together stones, herbs, animals, aromatics, and other sacred, perfect, and deiform substances of the like kind; and afterwards, from all these, it produces an entire and pure receptacle. For it is not proper to despise all matter, but that alone which is foreign from the Gods. But that matter is to be chosen which is adapted to them, as being able to accord with the edifices of the Gods, the dedication of statues, and the sacred operations of sacrifices. For no otherwise can a participation of superior beings be obtained by places in the earth, or by men that dwell in it, unless a foundation of this kind is first established. _It is also requisite to be persuaded by arcane assertions, that a certain matter is imparted by the Gods, through blessed visions. _ This matter, therefore, is doubtless connascent with those by whom it is imparted. Hence, does it not follow that the sacrifice of a matter of this kind excites the Gods to present themselves to the view, immediately calls forth the participation of them, receives them when they accede, and perfectly unfolds them into light?
+Hence, does it not follow that the sacrifice of a matter of this kind excites the Gods to present themselves to the view, immediately calls forth the participation of them, receives them when they accede, and perfectly unfolds them into light?
 #### sn
 οὐκοῦν καὶ ἡ τῆς τοιαύτης ὕλης θυσία ἀνεγείρει τοὺς θεοὺς ἐπὶ τὴν ἔμφασιν, καὶ προσκαλεῖται εὐθέως πρὸς κατάληψιν, χωρεῖ τε αὐτοὺς παραγιγνομένους καὶ τελείως ἐπιδείκνυσι;
 #### ar

@@ -8,6 +8,10 @@ And God said, Let us make man in our image, after our likeness: and let them hav
 וַיִּבְרָ֨א אֱלֹהִ֤ים ׀ אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם ׃
 
 So God created man in his [own] image, in the image of God created he him; male and female created he them.
+#### 31
+וַיַּ֤רְא אֱלֹהִים֙ אֶת־כָּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי ׃ פ
+
+And God saw every thing that he had made, and, behold, [it was] very good. And the evening and the morning were the sixth day.
 ## c2
 #### 7
 וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת־הָֽאָדָ֗ם עָפָר֙ מִן־הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה ׃
@@ -248,6 +252,105 @@ And God opened her eyes, and she saw a well of water; and she went, and filled t
 וַיֵּ֖שֶׁב בְּמִדְבַּ֣ר פָּארָ֑ן וַתִּֽקַּֽח־ל֥וֹ אִמּ֛וֹ אִשָּׁ֖ה מֵאֶ֥רֶץ מִצְרָֽיִם ׃ פ
 
 And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt.
+## c36
+#### 2
+עֵשָׂ֛ו לָקַ֥ח אֶת־נָשָׁ֖יו מִבְּנ֣וֹת כְּנָ֑עַן אֶת־עָדָ֗ה בַּת־אֵילוֹן֙ הַֽחִתִּ֔י וְאֶת־אָהֳלִֽיבָמָה֙ בַּת־עֲנָ֔ה בַּת־צִבְע֖וֹן הַֽחִוִּֽי ׃
+
+Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;
+#### 3
+וְאֶת־בָּשְׂמַ֥ת בַּת־יִשְׁמָעֵ֖אל אֲח֥וֹת נְבָיֽוֹת ׃
+
+And Bashemath Ishmael´s daughter, sister of Nebajoth.
+#### 4
+וַתֵּ֧לֶד עָדָ֛ה לְעֵשָׂ֖ו אֶת־אֱלִיפָ֑ז וּבָ֣שְׂמַ֔ת יָלְדָ֖ה אֶת־רְעוּאֵֽל ׃
+
+And Adah bare to Esau Eliphaz; and Bashemath bare Reuel;
+#### 5
+וְאָהֳלִֽיבָמָה֙ יָֽלְדָ֔ה אֶת־יעיש וְאֶת־יַעְלָ֖ם וְאֶת־קֹ֑רַח אֵ֚לֶּה בְּנֵ֣י עֵשָׂ֔ו אֲשֶׁ֥ר יֻלְּדוּ־ל֖וֹ בְּאֶ֥רֶץ כְּנָֽעַן ׃
+
+And Aholibamah bare Jeush, and Jaalam, and Korah: these [are] the sons of Esau, which were born unto him in the land of Canaan.
+#### 6
+וַיִּקַּ֣ח עֵשָׂ֡ו אֶת־נָ֠שָׁיו וְאֶת־בָּנָ֣יו וְאֶת־בְּנֹתָיו֮ וְאֶת־כָּל־נַפְשׁ֣וֹת בֵּיתוֹ֒ וְאֶת־מִקְנֵ֣הוּ וְאֶת־כָּל־בְּהֶמְתּ֗וֹ וְאֵת֙ כָּל־קִנְיָנ֔וֹ אֲשֶׁ֥ר רָכַ֖שׁ בְּאֶ֣רֶץ כְּנָ֑עַן וַיֵּ֣לֶךְ אֶל־אֶ֔רֶץ מִפְּנֵ֖י יַעֲקֹ֥ב אָחִֽיו ׃
+
+And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob.
+#### 7
+כִּֽי־הָיָ֧ה רְכוּשָׁ֛ם רָ֖ב מִשֶּׁ֣בֶת יַחְדָּ֑ו וְלֹ֨א יָֽכְלָ֜ה אֶ֤רֶץ מְגֽוּרֵיהֶם֙ לָשֵׂ֣את אֹתָ֔ם מִפְּנֵ֖י מִקְנֵיהֶֽם ׃
+
+For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle.
+#### 8
+וַיֵּ֤שֶׁב עֵשָׂו֙ בְּהַ֣ר שֵׂעִ֔יר עֵשָׂ֖ו ה֥וּא אֱדֽוֹם ׃
+
+Thus dwelt Esau in mount Seir: Esau [is] Edom.
+#### 11
+וַיִּהְי֖וּ בְּנֵ֣י אֱלִיפָ֑ז תֵּימָ֣ן אוֹמָ֔ר צְפ֥וֹ וְגַעְתָּ֖ם וּקְנַֽז ׃
+
+And the sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz.
+#### 12
+וְתִמְנַ֣ע ׀ הָיְתָ֣ה פִילֶ֗גֶשׁ לֶֽאֱלִיפַז֙ בֶּן־עֵשָׂ֔ו וַתֵּ֥לֶד לֶאֱלִיפַ֖ז אֶת־עֲמָלֵ֑ק אֵ֕לֶּה בְּנֵ֥י עָדָ֖ה אֵ֥שֶׁת עֵשָֽׂו ׃
+
+And Timna was concubine to Eliphaz Esau´s son; and she bare to Eliphaz Amalek: these [were] the sons of Adah Esau´s wife.
+#### 13
+וְאֵ֙לֶּה֙ בְּנֵ֣י רְעוּאֵ֔ל נַ֥חַת וָזֶ֖רַח שַׁמָּ֣ה וּמִזָּ֑ה אֵ֣לֶּ֣ה הָי֔וּ בְּנֵ֥י בָשְׂמַ֖ת אֵ֥שֶׁת עֵשָֽׂו ׃
+
+And these [are] the sons of Reuel; Nahath, and Zerah, Shammah, and Mizzah: these were the sons of Bashemath Esau´s wife.
+#### 20
+אֵ֤לֶּה בְנֵֽי־שֵׂעִיר֙ הַחֹרִ֔י יֹשְׁבֵ֖י הָאָ֑רֶץ לוֹטָ֥ן וְשׁוֹבָ֖ל וְצִבְע֥וֹן וַעֲנָֽה ׃
+
+These [are] the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah,
+#### 21
+וְדִשׁ֥וֹן וְאֵ֖צֶר וְדִישָׁ֑ן אֵ֣לֶּה אַלּוּפֵ֧י הַחֹרִ֛י בְּנֵ֥י שֵׂעִ֖יר בְּאֶ֥רֶץ אֱדֽוֹם ׃
+
+And Dishon, and Ezer, and Dishan: these [are] the dukes of the Horites, the children of Seir in the land of Edom.
+#### 22
+וַיִּהְי֥וּ בְנֵי־לוֹטָ֖ן חֹרִ֣י וְהֵימָ֑ם וַאֲח֥וֹת לוֹטָ֖ן תִּמְנָֽע ׃
+
+And the children of Lotan were Hori and Hemam; and Lotan´s sister [was] Timna.
+#### 24
+וְאֵ֥לֶּה בְנֵֽי־צִבְע֖וֹן וְאַיָּ֣ה וַעֲנָ֑ה ה֣וּא עֲנָ֗ה אֲשֶׁ֨ר מָצָ֤א אֶת־הַיֵּמִם֙ בַּמִּדְבָּ֔ר בִּרְעֹת֥וֹ אֶת־הַחֲמֹרִ֖ים לְצִבְע֥וֹן אָבִֽיו ׃
+
+And these [are] the children of Zibeon; both Ajah, and Anah: this [was that] Anah that found the mules in the wilderness, as he fed the asses of Zibeon his father.
+#### 25
+וְאֵ֥לֶּה בְנֵֽי־עֲנָ֖ה דִּשֹׁ֑ן וְאָהֳלִיבָמָ֖ה בַּת־עֲנָֽה
+
+And the children of Anah [were] these; Dishon, and Aholibamah the daughter of Anah.
+#### 28
+אֵ֥לֶּה בְנֵֽי־דִישָׁ֖ן ע֥וּץ וַאֲרָֽן ׃
+
+The children of Dishan [are] these; Uz, and Aran.
+#### 31
+וְאֵ֙לֶּה֙ הַמְּלָכִ֔ים אֲשֶׁ֥ר מָלְכ֖וּ בְּאֶ֣רֶץ אֱד֑וֹם לִפְנֵ֥י מְלָךְ־מֶ֖לֶךְ לִבְנֵ֥י יִשְׂרָאֵֽל ׃
+
+And these [are] the kings that reigned in the land of Edom, before there reigned any king over the children of Israel.
+#### 32
+וַיִּמְלֹ֣ךְ בֶּאֱד֔וֹם בֶּ֖לַע בֶּן־בְּע֑וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה ׃
+
+And Bela the son of Beor reigned in Edom; and the name of his city was Dinhabah.
+#### 33
+וַיָּ֖מָת בָּ֑לַע וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו יוֹבָ֥ב בֶּן־זֶ֖רַח מִבָּצְרָֽה ׃
+
+And Bela died, and Jobab the son of Zerah of Bozrah reigned in his stead.
+#### 35
+וַיָּ֖מָת חֻשָׁ֑ם וַיִּמְלֹ֨ךְ תַּחְתָּ֜יו הֲדַ֣ד בֶּן־בְּדַ֗ד הַמַּכֶּ֤ה אֶת־מִדְיָן֙ בִּשְׂדֵ֣ה מוֹאָ֔ב וְשֵׁ֥ם עִיר֖וֹ עֲוִֽית ׃
+
+And Husham died, and Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead: and the name of his city [was] Avith.
+#### 40
+וְ֠אֵלֶּה שְׁמ֞וֹת אַלּוּפֵ֤י עֵשָׂו֙ לְמִשְׁפְּחֹתָ֔ם לִמְקֹמֹתָ֖ם בִּשְׁמֹתָ֑ם אַלּ֥וּף תִּמְנָ֛ע אַלּ֥וּף עַֽלְוָ֖ה אַלּ֥וּף יְתֵֽת ׃
+
+And these [are] the names of the dukes [that came] of Esau, according to their families, after their places, by their names; duke Timnah, duke Alvah, duke Jetheth,
+
+#### 41
+אַלּ֧וּף אָהֳלִיבָמָ֛ה אַלּ֥וּף אֵלָ֖ה אַלּ֥וּף פִּינֹֽן ׃
+
+Duke Aholibamah, duke Elah, duke Pinon,
+#### 42
+אַלּ֥וּף קְנַ֛ז אַלּ֥וּף תֵּימָ֖ן אַלּ֥וּף מִבְצָֽר ׃
+
+Duke Kenaz, duke Teman, duke Mibzar,
+#### 43
+אַלּ֥וּף מַגְדִּיאֵ֖ל אַלּ֣וּף עִירָ֑ם אֵ֣לֶּה ׀ אַלּוּפֵ֣י אֱד֗וֹם לְמֹֽשְׁבֹתָם֙ בְּאֶ֣רֶץ אֲחֻזָּתָ֔ם ה֥וּא עֵשָׂ֖ו אֲבִ֥י אֱדֽוֹם ׃ פ
+
+Duke Magdiel, duke Iram: these [be] the dukes of Edom, according to their habitations in the land of their possession: he [is] Esau the father of the Edomites.
+
 ## c39
 #### 1
 וְיוֹסֵ֖ף הוּרַ֣ד מִצְרָ֑יְמָה וַיִּקְנֵ֡הוּ פּוֹטִיפַר֩ סְרִ֨יס פַּרְעֹ֜ה שַׂ֤ר הַטַּבָּחִים֙ אִ֣ישׁ מִצְרִ֔י מִיַּד֙ הַיִּשְׁמְעֵאלִ֔ים אֲשֶׁ֥ר הוֹרִדֻ֖הוּ שָֽׁמָּה ׃
@@ -362,6 +465,28 @@ And Moses stretched forth his rod toward heaven: and the LORD sent thunder and h
 וַיֵּ֨ט מֹשֶׁ֣ה אֶת־מַטֵּהוּ֮ עַל־אֶ֣רֶץ מִצְרַיִם֒ וַֽיהוָ֗ה נִהַ֤ג ר֥וּחַ קָדִים֙ בָּאָ֔רֶץ כָּל־הַיּ֥וֹם הַה֖וּא וְכָל־הַלָּ֑יְלָה הַבֹּ֣קֶר הָיָ֔ה וְר֙וּחַ֙ הַקָּדִ֔ים נָשָׂ֖א אֶת־הָאַרְבֶּֽה ׃
 
 And Moses stretched forth his rod over the land of Egypt, and the LORD brought an east wind upon the land all that day, and all [that] night; [and] when it was morning, the east wind brought the locusts.
+## c16
+#### 13
+וַיְהִ֣י בָעֶ֔רֶב וַתַּ֣עַל הַשְּׂלָ֔ו וַתְּכַ֖ס אֶת־הַֽמַּחֲנֶ֑ה וּבַבֹּ֗קֶר הָֽיְתָה֙ שִׁכְבַ֣ת הַטַּ֔ל סָבִ֖יב לַֽמַּחֲנֶֽה ׃
+
+And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host.
+#### 14
+וַתַּ֖עַל שִׁכְבַ֣ת הַטָּ֑ל וְהִנֵּ֞ה עַל־פְּנֵ֤י הַמִּדְבָּר֙ דַּ֣ק מְחֻסְפָּ֔ס דַּ֥ק כַּכְּפֹ֖ר עַל־הָאָֽרֶץ ׃
+
+And when the dew that lay was gone up, behold, upon the face of the wilderness [there lay] a small round thing, [as] small as the hoar frost on the ground.
+#### 15
+וַיִּרְא֣וּ בְנֵֽי־יִשְׂרָאֵ֗ל וַיֹּ֨אמְר֜וּ אִ֤ישׁ אֶל־אָחִיו֙ מָ֣ן ה֔וּא כִּ֛י לֹ֥א יָדְע֖וּ מַה־ה֑וּא וַיֹּ֤אמֶר מֹשֶׁה֙ אֲלֵהֶ֔ם ה֣וּא הַלֶּ֔חֶם אֲשֶׁ֨ר נָתַ֧ן יְהוָ֛ה לָכֶ֖ם לְאָכְלָֽה ׃
+
+And when the children of Israel saw [it], they said one to another, It [is] manna: for they wist not what it [was]. And Moses said unto them, This [is] the bread which the LORD hath given you to eat.
+## c17
+#### 5
+וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁ֗ה עֲבֹר֙ לִפְנֵ֣י הָעָ֔ם וְקַ֥ח אִתְּךָ֖ מִזִּקְנֵ֣י יִשְׂרָאֵ֑ל וּמַטְּךָ֗ אֲשֶׁ֨ר הִכִּ֤יתָ בּוֹ֙ אֶת־הַיְאֹ֔ר קַ֥ח בְּיָדְךָ֖ וְהָלָֽכְתָּ ׃
+
+And the LORD said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go.
+#### 6
+הִנְנִ֣י עֹמֵד֩ לְפָנֶ֨יךָ שָּׁ֥ם ׀ עַֽל־הַצּוּר֮ בְּחֹרֵב֒ וְהִכִּ֣יתָ בַצּ֗וּר וְיָצְא֥וּ מִמֶּ֛נּוּ מַ֖יִם וְשָׁתָ֣ה הָעָ֑ם וַיַּ֤עַשׂ כֵּן֙ מֹשֶׁ֔ה לְעֵינֵ֖י זִקְנֵ֥י יִשְׂרָאֵֽל ׃
+
+Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.
 ## c20
 #### 3
 לֹֽ֣א יִהְיֶֽה־לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל־פָּנָֽיַ ׃
@@ -467,6 +592,11 @@ And if a woman have an issue, [and] her issue in her flesh be blood, she shall b
 και γυνη εαν ρεη ρυσει αιματος ημερας πλειους ουκ εν καιρω της αφεδρου αυτης εαν και ρεη μετα την αφεδρον αυτης πασαι αι ημεραι ρυσεως ακαθαρσιας αυτης καθαπερ αι ημεραι της αφεδρου ακαθαρτος εσται
 
 And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness shall be as the days of her separation: she [shall be] unclean.
+## c16
+### 10
+וְהַשָּׂעִ֗יר אֲשֶׁר֩ עָלָ֨ה עָלָ֤יו הַגּוֹרָל֙ לַעֲזָאזֵ֔ל יָֽעֳמַד־חַ֛י לִפְנֵ֥י יְהוָ֖ה לְכַפֵּ֣ר עָלָ֑יו לְשַׁלַּ֥ח אֹת֛וֹ לַעֲזָאזֵ֖ל הַמִּדְבָּֽרָה ׃
+
+But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, [and] to let him go for a scapegoat into the wilderness.
 ## c18
 #### 20
 וּמִֽזַּרְעֲךָ֥ לֹא־תִתֵּ֖ן לְהַעֲבִ֣יר לַמֹּ֑לֶךְ וְלֹ֧א תְחַלֵּ֛ל אֶת־שֵׁ֥ם אֱלֹהֶ֖יךָ אֲנִ֥י יְהוָֽה ׃
@@ -503,6 +633,33 @@ https://bibliaparalela.com/text/leviticus/23-40.htm
 
 And the earth opened her mouth, and swallowed them up, and their houses, and all the men that [appertained] unto Korah, and all [their] goods.
 ## c21
+וַיִּשְׁמַ֞ע הַכְּנַעֲנִ֤י מֶֽלֶךְ־עֲרָד֙ יֹשֵׁ֣ב הַנֶּ֔גֶב כִּ֚י בָּ֣א יִשְׂרָאֵ֔ל דֶּ֖רֶךְ הָאֲתָרִ֑ים וַיִּלָּ֙חֶם֙ בְּיִשְׂרָאֵ֔ל וַיִּ֥שְׁבְּ ׀ מִמֶּ֖נּוּ שֶֽׁבִי ׃
+
+And [when] king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took [some] of them prisoners.
+#### 3
+וַיִּשְׁמַ֨ע יְהוָ֜ה בְּק֣וֹל יִשְׂרָאֵ֗ל וַיִּתֵּן֙ אֶת־הַֽכְּנַעֲנִ֔י וַיַּחֲרֵ֥ם אֶתְהֶ֖ם וְאֶת־עָרֵיהֶ֑ם וַיִּקְרָ֥א שֵׁם־הַמָּק֖וֹם חָרְמָֽה ׃ פ
+
+And the LORD hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.
+#### 4
+וַיִּסְע֞וּ מֵהֹ֤ר הָהָר֙ דֶּ֣רֶךְ יַם־ס֔וּף לִסְבֹ֖ב אֶת־אֶ֣רֶץ אֱד֑וֹם וַתִּקְצַ֥ר נֶֽפֶשׁ־הָעָ֖ם בַּדָּֽרֶךְ
+
+And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.
+#### 5
+וַיְדַבֵּ֣ר הָעָ֗ם בֵּֽאלֹהִים֮ וּבְמֹשֶׁה֒ לָמָ֤ה הֶֽעֱלִיתֻ֙נוּ֙ מִמִּצְרַ֔יִם לָמ֖וּת בַּמִּדְבָּ֑ר כִּ֣י אֵ֥ין לֶ֙חֶם֙ וְאֵ֣ין מַ֔יִם וְנַפְשֵׁ֣נוּ קָ֔צָה בַּלֶּ֖חֶם הַקְּלֹקֵֽל ׃
+
+And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness ? for [there is] no bread, neither [is there any] water; and our soul loatheth this light bread.
+#### 6
+וַיְשַׁלַּ֨ח יְהוָ֜ה בָּעָ֗ם אֵ֚ת הַנְּחָשִׁ֣ים הַשְּׂרָפִ֔ים וַֽיְנַשְּׁכ֖וּ אֶת־הָעָ֑ם וַיָּ֥מָת עַם־רָ֖ב מִיִּשְׂרָאֵֽל ׃
+
+And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.
+#### 8
+וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁ֗ה עֲשֵׂ֤ה לְךָ֙ שָׂרָ֔ף וְשִׂ֥ים אֹת֖וֹ עַל־נֵ֑ס וְהָיָה֙ כָּל־הַנָּשׁ֔וּךְ וְרָאָ֥ה אֹת֖וֹ וָחָֽי ׃
+
+And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.
+#### 9
+וַיַּ֤עַשׂ מֹשֶׁה֙ נְחַ֣שׁ נְחֹ֔שֶׁת וַיְשִׂמֵ֖הוּ עַל־הַנֵּ֑ס וְהָיָ֗ה אִם־נָשַׁ֤ךְ הַנָּחָשׁ֙ אֶת־אִ֔ישׁ וְהִבִּ֛יט אֶל־נְחַ֥שׁ הַנְּחֹ֖שֶׁת וָחָֽי ׃
+
+And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
 #### 14
 עַל־כֵּן֙ יֵֽאָמַ֔ר בְּסֵ֖פֶר מִלְחֲמֹ֣ת יְהוָ֑ה אֶת־וָהֵ֣ב בְּסוּפָ֔ה וְאֶת־הַנְּחָלִ֖ים אַרְנֽוֹן ׃
 
@@ -635,3 +792,27 @@ When the most High divided to the nations their inheritance, when he separated t
 και εγενηθη μερις κυριου λαος αυτου ιακωβ σχοινισμα κληρονομιας αυτου ισραηλ
 
 For the LORD´S portion [is] his people; Jacob [is] the lot of his inheritance.
+#### 10
+יִמְצָאֵ֙הוּ֙ בְּאֶ֣רֶץ מִדְבָּ֔ר וּבְתֹ֖הוּ יְלֵ֣ל יְשִׁמֹ֑ן יְסֹֽבְבֶ֙נְהוּ֙ יְב֣וֹנְנֵ֔הוּ יִצְּרֶ֖נְהוּ כְּאִישׁ֥וֹן עֵינֽוֹ ׃
+
+He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye.
+#### 12
+יְהוָ֖ה בָּדָ֣ד יַנְחֶ֑נּוּ וְאֵ֥ין עִמּ֖וֹ אֵ֥ל נֵכָֽר ׃
+
+[So] the LORD alone did lead him, and [there was] no strange god with him.
+#### 14
+יַרְכִּבֵ֙הוּ֙ עַל־במותי אָ֔רֶץ וַיֹּאכַ֖ל תְּנוּבֹ֣ת שָׂדָ֑י וַיֵּנִקֵ֤הֽוּ דְבַשׁ֙ מִסֶּ֔לַע וְשֶׁ֖מֶן מֵחַלְמִ֥ישׁ צֽוּר ׃
+
+He made him ride on the high places of the earth, that he might eat the increase of the fields; and he made him to suck honey out of the rock, and oil out of the flinty rock;
+#### 15
+וַיִּשְׁמַ֤ן יְשֻׁרוּן֙ וַיִּבְעָ֔ט שָׁמַ֖נְתָּ עָבִ֣יתָ כָּשִׂ֑יתָ וַיִּטֹּשׁ֙ אֱל֣וֹהַ עָשָׂ֔הוּ וַיְנַבֵּ֖ל צ֥וּר יְשֻׁעָתֽוֹ ׃
+
+But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered [with fatness]; then he forsook God [which] made him, and lightly esteemed the Rock of his salvation.
+#### 16
+יַקְנִאֻ֖הוּ בְּזָרִ֑ים בְּתוֹעֵבֹ֖ת יַכְעִיסֻֽהוּ ׃
+
+They provoked him to jealousy with strange [gods], with abominations provoked they him to anger.
+#### 17
+יִזְבְּח֗וּ לַשֵּׁדִים֙ לֹ֣א אֱלֹ֔הַ אֱלֹהִ֖ים לֹ֣א יְדָע֑וּם חֲדָשִׁים֙ מִקָּרֹ֣ב בָּ֔אוּ לֹ֥א שְׂעָר֖וּם אֲבֹתֵיכֶֽם ׃
+
+They sacrificed unto devils, not to God; to gods whom they knew not, to new [gods that] came newly up, whom your fathers feared not.

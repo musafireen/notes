@@ -179,8 +179,12 @@ NOTES:
 
 
 [2] Τίμαιος Πλάτωνος 40e:
-![[pl.timaeus#40e]]
-
+![[pl.tim#40e]]
+# scholParm
+## c847
+#### 19
+??? statue animation telestic 
+#### 29
 # VitHom
 
 ## c26

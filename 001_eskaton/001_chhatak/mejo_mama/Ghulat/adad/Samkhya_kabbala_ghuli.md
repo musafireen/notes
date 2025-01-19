@@ -335,13 +335,16 @@ mahat (buddhi), ahaṃkāra, { śabda, sparṣa, rūpa, rasa, gandha },
 ūṣā /brāhmi muhūrta (3-6), prātaḥ kāla /pūrvāhna (6-9), madhyāhna (9-12), aparāhna (12-3), sāyaṃ kāla (3-6), pradoṣa (6-9), niṣitha (9-12), triyāmā (12-3)
 ## vasu
 ## lokapāla
+## dhātu
+svarṇa, raupya, tāmra, kaṭhina, śīsā, pitala, lauha, pārada
+
 # 10 
 ## aḥwāl
 murāqaba, qurb, wajd, sukr, wudd, 'iśq, yaqīn
 ## ?devi
 kāli, tārā, tripurā, bhuvaneśvarī, bhairavi, chinnamastā, dhumavati, bagalamukhi, mātaṅgi, kamalā
 ## sefirot
-keter, hochmah, binah, chesed, geburah, tipheret, nezak, hod, yesod, malcutn 
+keter, hochmah, binah, chesed, geburah, tipheret, nezak, hod, yesod, malcut 
 ## angels
 metatron, raziel, tzaphkiel, zadkiel, chamuel, michael, haniel, raphael, gabriel, sandalphon
 § sahasrāra, ājñā, suṣumna, piṅgala, iḍā, viśuddhi, anāhata, maṇipura, svādhiṣṭhana, mūladhāra ()

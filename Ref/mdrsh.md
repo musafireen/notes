@@ -4,6 +4,31 @@ https://www.sefaria.org/texts
 # rabbah
 ## G
 https://www.sefaria.org/Bereshit_Rabbah?tab=contents
+### c3
+#### 7
+אָמַר רַבִּי יְהוּדָה בַּר סִימוֹן, 
+
+Rabbi Yehuda bar Simon said: 
+
+יְהִי עֶרֶב אֵין כְּתִיב כָּאן, אֶלָּא וַיְהִי עֶרֶב, מִכָּאן שֶׁהָיָה סֵדֶר זְמַנִּים קֹדֶם לָכֵן. 
+
+“It will be evening” is not written here, but rather, “it was evening” – from here we learn that there had been an order to time even beforehand.17
+
+אָמַר רַבִּי אַבָּהוּ מְלַמֵּד שֶׁהָיָה בּוֹרֵא עוֹלָמוֹת וּמַחֲרִיבָן, עַד שֶׁבָּרָא אֶת אֵלּוּ, אָמַר דֵּין הַנְיָן לִי, יַתְהוֹן לָא הַנְיָן לִי. אָמַר רַבִּי פִּנְחָס 
+
+Rabbi Abahu said: This teaches that He continuously created worlds and destroyed them, until He created the current one, and said: ‘This one pleases Me, those did not please Me.’ Rabbi Pinḥas said: 
+
+טַעְמֵיהּ דְּרַבִּי אַבָּהוּ 
+
+The source for Rabbi Abahu is: 
+
+(בראשית א, לא): וַיַּרְא אֱלֹהִים אֶת כָּל אֲשֶׁר עָשָׂה וְהִנֵּה טוֹב מְאֹד, 
+
+“God saw everything that He had made, and behold, it was very good” ([Genesis 1:31](bbl.torah#gen#c1#31))
+
+דֵּין הַנְיָין לִי יַתְהוֹן לָא הַנְיָין לִי.
+
+– this pleases Me, those did not please Me.
 ### c8
 ##### 5
 אָמַר רַבִּי סִימוֹן, בְּשָׁעָה שֶׁבָּא הַקָּדוֹשׁ בָּרוּךְ הוּא לִבְרֹאת אֶת אָדָם הָרִאשׁוֹן, נַעֲשׂוּ מַלְאֲכֵי הַשָּׁרֵת כִּתִּים כִּתִּים, 
@@ -125,3 +150,10 @@ Another interpretation, they are godly,26 they are powerful. Inasmuch as they ca
 
 “His wife looked behind him, and she became a pillar of salt” (Genesis 19:26).
 “His wife looked behind him, [and she became a pillar of salt]” – Rabbi Yitzḥak said: This was because she sinned with salt on that night that the angels came to Lot. What did she do? She went to all her neighbors and said to them: ‘Give me salt, as we have guests,’ and her intention was that the residents of the city should become aware of them. That is why “she became a pillar of salt.”
+# tnhm
+https://www.sefaria.org/Midrash_Tanchuma
+## c9
+### 2
+וַיֹּאמֶר קַיִן אֶל הֶבֶל אָחִיו, מָה אָמַר לוֹ? נְחַלֵּק הָעוֹלָם וַאֲנִי בְּכוֹר וְאֶטֹּל פִּי שְׁנָיִם. אָמַר לוֹ הֶבֶל, אֶפְשָׁר. אָמַר לוֹ קַיִן, אִם כֵּן אֲנִי נוֹטֵל יָתֵר חֵלֶק עַל חֶלְקִי מְקוֹם שֶׁנִּתְקַבֵּל בּוֹ קָרְבָּנֶךָ. אָמַר לוֹ הֶבֶל, לֹא תִטֹּל. וְעַל דָּבָר זֶה נָפְלָה קְטָטָה בֵינֵיהֶם, שֶׁנֶּאֱמַר: וַיְהִי בִהְיוֹתָם בַּשָּׂדֶה. וּלְהַלָּן כְּתִיב: צִיּוֹן שָׂדֶה תֵחָרֵשׁ (ירמיה כו, יח).
+
+And Cain spoke unto Abel, his brother (Gen. 4:8). What did he say to him? He said: “Let us divide the world between us, but since I am the eldest, I shall take twice as much.” Abel replied: “Perhaps.” “If we do this,” Cain continued, “I want my share to include the place at which your sacrifice was accepted.” Abel replied: “That, you cannot have.” Thereupon, they began to quarrel, as it is said: And it came to pass while they were in the field that Cain arose (ibid.), and it says elsewhere: Zion shall be plowed as a field (Jer. 26:18).

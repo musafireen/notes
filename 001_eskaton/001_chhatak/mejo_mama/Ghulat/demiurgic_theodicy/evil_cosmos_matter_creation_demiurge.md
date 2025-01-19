@@ -10,22 +10,22 @@ genesis creation | [on](on) entity/existence
 https://youtu.be/mTnQ__VSQzc
 ## timaeus
 ### 28a-b
-![[pl.timaeus#28a]]
-![[pl.timaeus#28b]]
+![[pl.tim#28a]]
+![[pl.tim#28b]]
 ### 29a
 Icon:
-![[pl.timaeus#29a]]
+![[pl.tim#29a]]
 ### 29d
 icon myth:
-![[pl.timaeus#29d]]
+![[pl.tim#29d]]
 ### 29e
 Synistas bulesis malista paraplesion agathon pan genesis ectos Phthonos
-![[pl.timaeus#29e]]
+![[pl.tim#29e]]
 ### 30a
 agatha on dynamis bulesis theos :
-![[pl.timaeus#30a]]
+![[pl.tim#30a]]
 ### 30b
-![[pl.timaeus#30b]]
+![[pl.tim#30b]]
 ## republic 6,7
 [[pl.republic#b6]]
 [[pl.republic#b7]]

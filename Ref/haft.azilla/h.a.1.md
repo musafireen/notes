@@ -72,6 +72,7 @@ So the Imam said "Allah is the Helper from what they say, they have lied upon Al
 
 verily Allah the Magnificent created Light before Darkness! 
 ## ref.10.1
+![[Qrsi#36:40]]
 ![[Qrsi#35:19]]![[Qrsi#35:20]]![[Qrsi#35:22]]
 
 ![[Qrsi#6:1]]

@@ -138,12 +138,21 @@ https://remacle.org/bloodwolf/historiens/Plutarque/isisetosirisa.htm
 
 ### 367
 
-## 41
+## c41
 Ἠθικὰ Πλουτάρχου· 26. 367 c. d Περὶ Ἴσιδος καὶ Ὀσίριδος:
 
 Οἱ δὲ τοῖσδε τοῖς φυσικοῖς καὶ τῶν ἀπ´ ἀστρολογίας μαθηματικῶν ἔνια μιγνύντες Τυφῶνα μὲν οἴονται τὸν ἡλιακὸν κόσμον, Ὄσιριν δὲ τὸν σεληνιακὸν λέγεσθαι· τὴν μὲν γὰρ σελήνην γόνιμον τὸ φῶς καὶ ὑγροποιὸν ἔχουσαν εὐμενῆ καὶ γοναῖς ζῴων καὶ φυτῶν εἶναι βλαστήσεσι· τὸν δ´ ἥλιον ἀκράτῳ πυρὶ καὶ σκληρῷ καταθάλπειν {τε} καὶ καταυαίνειν τὰ φυόμενα καὶ τεθηλότα καὶ τὸ πολὺ μέρος τῆς γῆς παντάπασιν ὑπὸ φλογμοῦ ποιεῖν ἀοίκητον καὶ κατακρατεῖν πολλαχοῦ καὶ τῆς σελήνης. 
 
 “But those who join with these physiological accounts certain mathematical matters relating to astronomy suppose Typhon to mean the world of the sun, and Osiris that of the moon; for that the moon, being endued with a prolific and moistening light, is very favorable both to the breeding of animals and the springing up of plants; but the sun, having in it an immoderate and excessive fire, burns and dries up such things as grow up and look green, and by its scorching heat renders a great part of the world wholly uninhabitable, and very often gets the better of the moon.” (trans. William W. Goodwin, 1874) 
+## c46
+??? Chatgpt
+...
+Λέγεται δὲ καὶ ἐκ Περσῶν καὶ Ἰνδῶν ἱερὰ τὰ τοιαῦτα παραληφθῆναι τοῖς Ἕλλησι.
+...
+
+...
+It is said that such sacred rites were also adopted by the Greeks from the Persians and the Indians.
+...
 
 # anim_prc
 

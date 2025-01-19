@@ -1,5 +1,7 @@
 الباب الباب التاسع عشر : في معرفة كمال المؤمن وانتهائه بالإيمان حتى يكتفي بمؤتنه من الأكل والشرب ويصعد إلى السماء وينزل إلى الأرض 
 
+**"In Knowing the Perfection of the Believer and his Finish with Faith in which he is** **settled with his subsistence’s of food and drink and he Rises to the Sky and Descends** **to the Earth"**
+
 قال المفضل: قلت لمولاي: ما حد انتهاء المؤمن؟ 
 
 قال: إذا ارتقى المؤمن في درجة الأبواب. قلت: أيرتقون من درجة إلى درجة حتى يصيروا ملائكة، فيرفع عنهم الأكل والشرب والاهتمام بتلك الأشياء ويرتقون إلى السماء وينزلون إلى الأرض. 
@@ -35,8 +37,6 @@
 فقال لي: أنا خارج عنك بعد ساعة من الليل، ثم أوصاني وقال: عليك بخصلتين، احتفظ بهما، عليك بالمبالغة والمعرفة وإياك أن تقصر في العمل، فإن المعرفة أي معرفة ربك هي المنتهي وعليك ببر إخوانك من أولياء الله، فإن النجاة فيه، ولا تلاقي من إخوانك إلا بالخضوع، وإن كان دونك في الشرف والمال والبنين، فإنك إن فعلت ذلك كفاك الله عز وجل مهمات أمور التنيا والآخرة، وكان الله لك يا أخي من وراء كل تجارة و أوصيك يا أخي ونفسي بكتمان سر الله تعالى وباطن مكنونه، إلا من إخوانك الموحدين المقربين بمعرفة العلي الأعلى، ثم غاب عني، فقال الصادق : لقد أتاني في هذا الأسبوع ثلاث مرات فسلم علي وأنا فيكم ولا تعرفونهم. 
 
 قال المفضل: فكتب بعد ذلك مولاي إلى أكثر من عشرين منهم والسلام. 
-
-**"In Knowing the Perfection of the Believer and his Finish with Faith in which he is** **settled with his subsistence’s of food and drink and he Rises to the Sky and Descends** **to the Earth"**
 
 Mufaddal asked: "Do they keep getting higher and higher in station until they become like angels and the need for food and drink and interest in those things is lifted from them and they ascend to the skies and come down to the Earth?"
 

@@ -280,6 +280,8 @@ But Alexander said that such devices were unbecoming to men who are victorious i
 https://scaife.perseus.org/library/urn:cts:greekLit:tlg0074.tlg002/
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0531
 
+https://sourcebooks.web.fordham.edu/ancient/arrian-bookVIII-India.asp
+
 https://en.wikisource.org/wiki/Ancient_India_as_described_by_Megasthen%C3%AAs_and_Arrian
 ## c5
 
@@ -292,16 +294,56 @@ As for Dionysus, the city of Nysa is no mean memorial of his expedition, and als
 
 Among the Sibae, too, an Indian tribe, having noticed them clad with skins they used to assert that they were relics of Heracles’ expedition. What is more, as the Sibae carried a club, and they brand their cattle with a club, they referred this too to some memory of Heracles’ club. 
 ## c7
+### 1
+ἔθνεα δὲ Ἰνδικὰ εἴκοσι καὶ ἑκατὸν τὰ πάντα λέγει
+
+Megasthenes states that there are one hundred and eighteen Indian tribes. 
+
+[25] Μεγασθένης, δυοῖν δέοντα. καὶ πολλὰ μὲν εἶναι ἔθνεα Ἰνδικὰ καὶ αὐτὸς συμφέρομαι Μεγασθένεϊ, τὸ δὲ ἀτρεκὲς. οὐκ ἔχω εἰκάσαι ὅκως ἐκμαθὼν ἀνέγραψεν, οὔτε πολλοστὸν μέρος τῆς Ἰνδῶν γῆς ἐπελθών, οὔτε ἐπιμιξίης πᾶσι τοῖσι γένεσιν ἐούσης ἐς ἄλληλα. 
+
+That there are many, I agree with Megasthenes; but I cannot conjecture how he learnt and recorded the exact number, when he never visited any great part of India, and since these different races have not much intercourse one with another. 
+### 2
+πάλαι μὲν δὴ νομάδας εἶναι Ἰνδούς, κατάπερ Σκυθέων τοὺς οὐκ [p. 9] ἀροτῆρας, οἳ ἐν τῇσιν ἁμάξῃσι πλανεύμενοι ἄλλοτε ἄλλην τῆς Σκυθίης ἀμείβουσιν, οὔτε πόλιας οἰκέοντες οὔτε ἱρὰ θεῶν σέβοντες.
+
+The Indians, he says, were originally nomads, as are the non-agricultural Scythians, who wandering in their waggons inhabit now one and now another part of Scythia; not dwelling in cities and not reverencing any temples of the gods; 
+### 3
+[3] οὕτω μηδὲ Ἰνδοῖσι πόλιας εἶναι μηδὲ ἱρὰ θεῶν δεδομημένα, ἀλλὰ ἀμπίσχεσθαι μὲν δορὰς θηρίων ὅσων κατακάνοιεν, σιτέεσθαι δὲ τῶν δενδρέων τὸν φλοιόν. καλέεσθαι δὲ τὰ δένδρεα ταῦτα τῇ Ἰνδῶν φωνῇ τάλα, καὶ φύεσθαι ἐπ᾽ αὐτῶν, κατάπερ τῶν φοινίκων ἐπὶ τῇσι κορυφῇσιν, οἷά περ τολύπας. 
+
+just so the Indians also had no cities and built no temples; but were clothed with the skins of animals slain in the chase, and for food ate the bark of trees; these trees were called in the Indian tongue Tala, and there grew upon them, just as on the tops of palm trees, what look like clews of wool. 
+### 4
+[4] σιτέεσθαι δὲ καὶ τῶν θηρίων ὅσα ἕλοιεν ὠμοφαγέοντας, πρίν γε δὴ Διόνυσον ἐλθεῖν ἐς τὴν χώρην τὴν Ἰνδῶν. 
+
+They also used as food what game they had captured, eating it raw, before, at least, Dionysus came into India. 
+### 5
+[5] Διόνυσον δὲ ἐλθόντα, ὡς καρτερὸς ἐγένετο Ἰνδῶν, πόλιάς τε οἰκίσαι καὶ νόμους θέσθαι τῇσι πόλισιν, οἴνου τε δοτῆρα Ἰνδοῖσι γενέσθαι κατάπερ Ἕλλησι, καὶ σπείρειν διδάξαι τὴν γῆν διδόντα αὐτὸν σπέρματα, 
+
+But when Dionysus had come, and become master of India, he founded cities, and gave laws for these cities, and became to the Indians the bestower of wine, as to the Greeks, and taught them to sow their land, giving them seed. 
+### 6
+[6] ἢ οὐκ ἐλάσαντος ταύτῃ Τριπτολέμου, ὅτε περ ἐκ Δήμητρος ἐστάλη σπείρειν γῆν πᾶσαν, ἢ πρὸ Τριπτολέμου τις οὗτος Διόνυσος ἐπελθὼν τὴν Ἰνδῶν γῆν σπέρματά σφισιν ἔδωκε καρποῦ τοῦ ἡμέρου. 
+
+It may be that Triptolemus, when he was sent out by Demeter to sow the entire earth, did not come this way; or perhaps before Triptolemus this Dionysus whoever he was came to India and gave the Indians seeds of domesticated plants; 
+### 7
+[7] βόας τε ὑπ᾽ ἄροτρον ζεῦξαι Διόνυσον πρῶτον, καὶ ἀροτῆρας ἀντὶ νομάδων ποιῆσαι Ἰνδῶν τοὺς πολλούς, καὶ ὁπλίσαι ὅπλοισι τοῖσιν ἀρηίοισι. 
+
+then Dionysus first yoked oxen to the plough and made most of the Indians agriculturists instead of wanderers, and armed them also with the arms of warfare. 
 ### 8
 καὶ θεοὺς σέβειν ὅτι ἐδίδαξε Διόνυσος ἄλλους τε καὶ μάλιστα δὴ ἑωυτὸν κυμβαλίζοντας καὶ τυμπανίζοντας: καὶ ὄρχησιν δὲ διδάξαι τὴν σατυρικήν,
 
 Further, Dionysus taught them to reverence other gods, but especially, of course, himself, with clashings of cymbals and beating of drums and dancing in the Satyric fashion, 
 ## c8
+When departing from India, after making all these arrangements, he made Spatembas king of the land, one of his Companions, being most expert in Bacchic rites; when Spatembas died, Budyas his son reigned in his stead; the father was King of India fifty-two years, and the son twenty years; and his son, again, came to the throne, one Cradeuas; and his descendants for the most part received the kingdom in succession, son succeeding father; if the succession failed, then the kings were appointed for some pre-eminence. 
 ### 4
-
 [4] Ἡρακλέα δέ, ὅντινα ἐς Ἰνδοὺς ἀπικέσθαι λόγος κατέχει, παρ᾽ αὐτοῖσιν Ἰνδοῖσι γηγενέα λέγεσθαι.
 
-About this there is a story among the Indians, that Heracles, to whom when in mature years this daughter was born, 
+But Heracles, whom tradition states to have arrived as far as India, was called by the Indians themselves 'Indigenous.' 
+### 5
+τοῦτον τὸν Ἡρακλέα μάλιστα πρὸς Σουρασηνῶν γεραίρεσθαι, Ἰνδικοῦ ἔθνεος, ἵνα δύο πόλιες μεγάλαι, Μέθορά τε καὶ Κλεισόβορα: καὶ ποταμὸς Ἰωβάρης πλωτὸς διαρρέει τὴν χώρην αὐτῶν.
+
+This Heracles was chiefly honoured by the Surasenians, an Indian tribe, among whom are two great cities, Methora and Cleisobora, and the navigable river Iobares flows through their territory. 
+### 6
+τὴν σκευὴν δὲ οὗτος ὁ Ἡρακλέης ἥντινα ἐφόρεε Μεγασθένης λέγει ὅτι ὁμοίην τῷ Θηβαίῳ Ἡρακλέϊ, ὡς αὐτοὶ Ἰνδοὶ ἀπηγέονται. καὶ τούτῳ ἄρσενας μὲν παῖδας πολλοὺς κάρτα γενέσθαι ἐν τῇ Ἰνδῶν γῇ — πολλῇσι γὰρ δὴ γυναιξὶν ἐς γάμον ἐλθεῖν καὶ τοῦτον τὸν Ἡρακλέα —, θυγατέρα δὲ μουνογενέην. οὔνομα δὲ εἶναι τῇ παιδὶ Πανδαίην, καὶ τὴν χώρην.
+
+Megasthenes also says that the garb which this Heracles wore was like that of the Theban Heracles, as also the Indians themselves record; he also had many sons in his country, for this Heracles too wedded many wives; he had only one daughter, called Pandaea; 
 ### 7
 
 [7] ἵνα τε ἐγένετο καὶ ἧστινος ἐπέτρεψεν αὐτῇ ἄρχειν Ἡρακλέης, τῆς παιδὸς ἐπώνυμον. 
@@ -311,6 +353,21 @@ as also the country in which she was born, and to rule which Heracles educated h
 καὶ ταύτῃ ἐλέφαντας μὲν γενέσθαι ἐκ τοῦ πατρὸς ἐς πεντακοσίους, ἵππον δὲ ἐς τετρακισχιλίην, πεζῶν δὲ ἐς τὰς τρισκαίδεκα μυριάδας.
 
 here she possessed five hundred elephants given by her father, four thousand horsemen, and as many as a hundred and thirty thousand foot-soldiers.
+### 8
+καὶ τάδε δὲ μετεξέτεροι Ἰνδῶν περὶ Ἡρακλέος λέγουσιν, ἐπελθόντα αὐτὸν πᾶσαν γῆν καὶ θάλασσαν καὶ καθήραντα ὅ τι περ κακόν, καινὸν εἶδος ἐξευρεῖν ἐν τῇ θαλάσσῃ κόσμου γυναικηίου,
+
+This also some writers relate about Heracles; he traversed all the earth and sea, and when he had rid the earth of evil monsters he found in the sea a jewel much affected by women. 
+### 9
+ὅντινα καὶ ἐς τοῦτο ἔτι οἵ τε ἐξ Ἰνδῶν τῆς χώρης τὰ ἀγώγιμα παρ᾽ ἡμέας ἀγινέοντες σπουδῇ ὠνεόμενοι ἐκκομίζουσι,
+
+And thus, even to our day, those who bring exports from India to our country purchase these jewels at great price and export them, 
+### 10
+καὶ Ἑλλήνων δὲ πάλαι καὶ Ῥωμαίων νῦν ὅσοι πολυκτέανοι καὶ εὐδαίμονες μέζονι ἔτι σπουδῇ ὠνέονται τὸν μαργαρίτην δὴ τὰν θαλάσσιον οὕτω τῇ Ἰνδῶν γλώσσῃ καλεόμενον. τὸν γὰρ Ἡρακλέα, ὡς καλόν οἱ ἐφάνη τὸ φόρημα, ἐκ πάσης θαλάσσης ἐς τὴν Ἰνδῶν δυναγινέειν [p. 11] τὸν μαργαρίτην δὴ τοῦτον, τῇ θυγατρὶ τῇ ἑωυτοῦ εἶναι κόσμον.
+
+and all Greeks in old time, and Romans now who are rich and prosperous, are more eager to buy the sea pearl, as it is called in the Indian tongue for that Heracles, the jewel appearing to him charming, collected from all the sea to India this kind of pearl, to adorn his daughter. 
+
+And Megasthenes says that this oyster is taken with nets; that it is a native of the sea, many oysters being together, like bees; and that the pearl oysters have a king or queen, as bees do. Should anyone by chance capture the king, he can easily surround the rest of the oysters; but should the king slip through, then the others cannot be taken; and of those that are taken, the Indians let their flesh rot, but use the skeleton as an ornament. For among the Indians this pearl sometimes is worth three times its weight in solid gold, which is itself dug up in India.
+
 ## c11
 ### 7
 οὗτοι γυμνοὶ διαιτέονται οἱ σοφισταί, τοῦ μὲν χειμῶνος ὑπαίθριοι ἐν τῷ ἡλίῳ, τοῦ δὲ θέρεος, ἐπεὰν ὁ ἥλιος κατέχῃ, ἐν τοῖσι λειμῶσι καὶ τοῖσιν ἕλεσιν ὑπὸ δένδρεσι μεγάλοισιν, ὧν τὴν σκιὴν Νέαρχος λέγει ἐς πέντε πλέθρα ἐν κύκλῳ ἐξικνέεσθαι, καὶ ἂν καὶ μυρίους ἀνθρώπους ὑπὸ ἑνὶ δένδρεϊ σκιάζεσθαι: τηλικαῦτα εἶναι ταῦτα τὰ δένδρεα.

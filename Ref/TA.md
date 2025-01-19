@@ -241,12 +241,20 @@ five indeed are the great sacrifices, to be performed daily until the end for pe
 ## 10.1
 Laksmidhara Yantra
 #### 5
+Rudragayatri
 ५ प॒शूग्श्च॒ मह्य॒माव॑ह॒ जीव॑नं च॒ दिशो॑ दिश । मा नो॑ हिꣳसीज्जातवेदो॒
  गामश्वं॒ पुरु॑षं॒ जग॑त् । अबि॑भ्र॒दग्न॒ आग॑हि श्रि॒या मा॒ परि॑पातय ।
  पुरु॑षस्य विद्म सहस्रा॒क्षस्य॑ महादे॒वस्य॑ धीमहि । तन्नो॑ रुद्रः प्रचो॒दया᳚त्
  । तत्पुरु॑षाय वि॒द्महे॑ महादे॒वाय॑ धीमहि । तन्नो॑ रुद्रः प्रचो॒दया᳚त् ।
  तत्पुरु॑षाय वि॒द्महे॑ वक्रतु॒ण्डाय॑ धीमहि । तन्नो॑ दन्तिः प्रचो॒दया᳚त् ।
  तत्पुरु॑षाय वि॒द्महे॑ चक्रतु॒ण्डाय॑ धीमहि ॥ ०। १०। १। ५॥
+
+Bring me cattle and life; may all directions favor me. O Jātavedas (Agni), do not harm our cows, horses, people, or the moving world.
+Come here, bearing the offering, O Agni, and protect me with your grace.
+We meditate upon the great Purusha, the thousand-eyed Mahadeva. May Rudra inspire us.
+We meditate upon that Purusha, the great Mahadeva. May Rudra inspire us.
+We meditate upon that Purusha, the one with a curved trunk (Vakratunda). May Danti (Ganesha) inspire us.
+We meditate upon that Purusha, the one with a discus-shaped trunk (Chakratunda). May he inspire us.
 #### 6
 ६ तन्नो॑ नन्दिः प्रचो॒दया᳚त् । तत्पुरु॑षाय वि॒द्महे॑ महासे॒नाय॑ धीमहि ।
  तन्न॑ष्षण्मुखः प्रचो॒दया᳚त् । तत्पुरु॑षाय वि॒द्महे॑ सुवर्णप॒क्षाय॑ धीमहि ।
@@ -324,4 +332,37 @@ He attains union, co-residence and enjoyment with the Dēvas in their worlds.
 य ए॒वं वेदे᳚त्युप॒निषत् ॥ ०। १०। १५। ३२॥
 
 The secret knowledge is thus imparted.
+## 10.17
+https://www.himalayanacademy.com/media/books/five-powers-of-siva_ei/web/ch36_51.html
+(Pancabrahma manrtrani 10.17-21 in reverse)
 
+सद्योजातं प्रपद्यामि सद्योजाताय वै नमो नमः।
+भवे भवेनातिभवे भवस्वमां भवोद्भवाय नमः।।§
+
+I submit my mind, speech and body totally and repeatedly to Lord Sadyojata, who manifests Himself and instantaneously creates bodies and worlds, who appears to devotees in the forms contemplated by them and yet transcends such forms assumed by Him and who has a retinue of Deities formed of millions of mantras. May He make my form as of His own form.§
+## 10.18
+वामदेवाय नमो ज्येष्ठाय नमः श्रेष्ठाय नमो रुद्राय नमः
+कालाय नमः कलविकरणाय नमो बलविकरणाय नमो
+बलाय नमो बलप्रमथनाय नमस्सर्वभूतदमनाय
+नमो मनोन्मनाय नमः।§
+
+Salutations to the luminous Lord who sportively creates everything. Salutations to the One who is eternally the Eldest, transcending the great cycles of time. Salutations to the One whose lordship excels all other Gods. Salutations to the One who wards off the sufferings of all living beings. Salutations to the One who is Eternal Time. Salutations to the One who sets into operation the divisions of time and maintains the worlds in an orderly way. Salutations to the One who, being the source of strength, strengthens the auspicious forces. Salutations to the One who, being the wielder of strength, withdraws the strength of inauspicious forces and extirpates them. Salutations to the One who guides all souls to ultimately reach Him. §
+## 10.19
+#### 37
+https://sanatanadhara.com/ishwara/siva-rudra-linga/
+
+३७ अ॒घोरे᳚भ्योऽथ॒ घोरे᳚भ्यो॒ घोर॒घोर॑तरेभ्यः । सर्वे᳚भ्यस्सर्व॒
+ शर्वे᳚भ्यो॒ नम॑स्ते अस्तु रु॒द्ररू॑पेभ्यः ॥ ०। १०। १९। ३७॥ ॥ १९॥
+
+Salutations to Lord Siva who manifests Himself in countless benign forms, in frightful and terrifying forms, and to all those countless forms of Rudra (eulogized in the Sri Rudram hymn). Salutations to all such manifestations of Lord Siva.§
+## 10.20
+तत्पुरुषाय विद्महे महादेवाय धीमहि
+तन्नो रुद्रः प्रचोदयात्।§
+
+As guided by my guru, I realize the form of Siva known as Tatpurusha. I meditate with pure mind and refined intellect on the Great Illuminator. Let Tatpurusha—who cuts asunder the limiting bonds of the souls and by this act comes to be known as Rudra—guide, enlighten and strengthen my organs of knowledge and action and my internal faculties.§
+## 10.21
+ईशानस्सर्वविद्यानां ईश्वरस्सर्वभूतानां
+ब्रह्मािधपतिर्ब्रह्मणोऽधिपतिर्ब्रह्माशिवो मे
+अस्तु सदाशिवोम्।§
+
+Lord Ishana—the Supreme Lord and Revealer of all knowledge and spiritual disciplines, the nourisher and controller of all living beings, the Directing Lord of Sadasiva, He who is the guiding and directing authority for the eight Vidyeshvaras, who directs Brahma, Vishnu and others—may He present Himself in this Sivalinga. By such benign presence, let there occur absolute purity and auspiciousness in me. Om.§

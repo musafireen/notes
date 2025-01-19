@@ -893,7 +893,7 @@
 # Q:37:7
 [Q.37:7](https://quran.com/37:7/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#37:7]]
+![[Qrsi#37:7]]![[Qrsi#37:8]]![[Qrsi#37:9]]![[Qrsi#37:10]]
 
 ## ~~~ شَيْطَٰن
 1st inst: [[#Q:81:25]]

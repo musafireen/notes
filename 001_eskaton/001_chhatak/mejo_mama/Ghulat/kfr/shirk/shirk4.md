@@ -157,11 +157,6 @@
 ![[Qrsi#53:19]]
 
 ## ٱللَّٰت ()
-
-
-## ٱلْعُزَّىٰ ()
-
-
 at ta'if
 by B attab B thaqif B hawazin B khasafa B qays b Aylān B mudar B adnan
 
@@ -173,18 +168,31 @@ Hera
 Juno
 :[[cic#verr#o2#4.103]]
 
+Aphrodite
+Venus
+Hathor
+
+![[hdt.hist#b1#c131#3]]
+
+
+## ٱلْعُزَّىٰ ()
+
 at suqam nakhlah l sha'miya
 by B sulaym B khasafa B qays b aylān B mudar B adnan
 by B quraysh B kinana B khuzema B ilyas B mudar B adnan
 
 Aphrodite
 Venus
+Hathor
+
 astarte
-:[[hdt.hist#b1#105.2]]
+:![[hdt.hist#b1#105.2]]
 athirat
 asherah
 Ishtar
 Inanna
+
+Demeter
 Isis
 
 # Q:53:20

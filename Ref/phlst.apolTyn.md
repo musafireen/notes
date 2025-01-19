@@ -294,20 +294,87 @@ At this place they say that they also fell in with a woman who was black from he
 They say that from this point they crossed the part of the Caucasus which stretches down to the Red Sea; and this range is thickly overgrown with aromatic shrubs. The spurs then of the mountain bear the cinnamon tree, which resembles the young tendrils of the vine, and the goat gives sure indication of this aromatic shrub; for if you hold out a bit of cinnamon to a goat, she will whine and whimper after your hand like a dog, and will follow you when you go away, pressing her nose against it; and if the goat herd drags her away, she will moan as if she were being torn away from the lotus. But on the steeps of this mountain there grow very lofty frankincense trees, as well as many other species, for example the pepper trees which are cultivated by the apes.
 Nor did they neglect to record the look and appearance of this tree, and I will repeat exactly their account of it. The pepper tree resembles in general the willow of the Greeks, and particularly in regard to the berry of the fruit; and it grows in steep ravines where it cannot be got at by men, and where a community of apes is said to live in the recesses of the mountain and in any of its glens; and these apes are held in great esteem by the Indians, because they harvest the pepper for them, and they drive the lions off them with dogs and weapons. For the lion, when he is sick, attacks the ape in order to get a remedy, for the flesh of the ape stays the course of his disease; and he attacks it when he is grown old to get a meal, for the lions when they are past hunting stags and wild boars gobble up the apes, and husband for their pursuit whatever strength they have left. The inhabitants of the country, however, are not disposed to allow this, because they regard these animals as their benefactors, and so make war against the lions in behalf of them. For this is the way they go to work in collecting the pepper; the Indians go up to the lower trees and pluck off the fruit, and they make little round shallow pits around the trees, into which they collect the pepper, carelessly tossing it in, as if it had no value and was of no serious use to mankind. Then the monkeys mark their actions from above out of their fastnesses, and when the night comes on they imitate the action of the Indians, and twisting off the twigs of the trees, they bring and throw them into the pits in question; then the Indians at daybreak carry away the heaps of the spice which they have thus got without any trouble, and indeed during the repose of slumber.
 ## 5
-ὑπεράραντες δὲ τοῦ ὄρους πεδίον ἰδεῖν φασι λεῖον κατατετμημένον ἐς τάφρους πλήρεις ὕδατος. εἶναι δὲ αὐτῶν τὰς μὲν ἐπικαρσίους, τὰς δὲ ὀρθάς, διηγμένας ἐκ τοῦ ποταμοῦ τοῦ Γάγγου τῆς τε χώρας ὅρια οὔσας τοῖς τε πεδίοις ἐπαγομένας, ὁπότε ἡ γῆ διψῴη. τὴν δὲ γῆν ταύτην ἀρίστην φασὶ τῆς Ἰνδικῆς εἶναι καὶ μεγίστην τῶν ἐκεῖ λήξεων, πεντεκαίδεκα ἡμερῶν ὁδοῦ μῆκος ἐπὶ τὸν Γάγγην, ὀκτωκαίδεκα δὲ ἀπὸ θαλάσσης ἐπὶ τὸ τῶν πιθήκων ὄρος, ᾧ ξυμπαρατείνει. πεδιὰς πᾶσα ἡ χώρα μέλαινά τε καὶ πάντων εὔφορος. ἰδεῖν μὲν γὰρ ἐν αὐτῇ στάχυας ἀνεστῶτας, ὅσον οἱ δόνακες, ἰδεῖν δὲ κυάμους τριπλασίους τῶν Αἰγυπτίων τὸ μέγεθος σήσαμόν τε καὶ κέγχρον ὑπερφυᾶ πάντα. ἐνταῦθα καὶ τὰ κάρυα φύεσθαί φασιν, ὧν πολλὰ πρὸς ἱεροῖς ἀνακεῖσθαι τοῖς δεῦρο θαύματος ἕνεκα. τὰς δὲ ἀμπέλους φύεσθαι μὲν μικράς, καθάπερ αἱ Λυδῶν τε καὶ Μαιόνων, ποτίμους δὲ εἶναι καὶ ἀνθοσμίας ὁμοῦ τῷ ἀποτρυγᾶν. [p. 88] ἐνταῦθα καὶ δένδρῳ φασὶν ἐντετυχηκέναι προσεοικότι τῇ δάφνῃ, φύεσθαι δὲ αὐτοῦ κάλυκα εἰκασμένην τῇ μεγίστῃ ῥόᾳ, καὶ μῆλον ἐγκεῖσθαι τῇ κάλυκι κυάνεον μέν, ὥσπερ τῶν ὑακίνθων αἱ κάλυκες, πάντων δὲ ἥδιστον, ὁπόσα ἐξ ὡρῶν ἥκει.
+ὑπεράραντες δὲ τοῦ ὄρους πεδίον ἰδεῖν φασι λεῖον κατατετμημένον ἐς τάφρους πλήρεις ὕδατος. εἶναι δὲ αὐτῶν τὰς μὲν ἐπικαρσίους, τὰς δὲ ὀρθάς, διηγμένας ἐκ τοῦ ποταμοῦ τοῦ Γάγγου τῆς τε χώρας ὅρια οὔσας τοῖς τε πεδίοις ἐπαγομένας, ὁπότε ἡ γῆ διψῴη. 
 
-After crossing the top of the mountain, they say they saw a smooth plain seamed with cuts and ditches full of water, some of which were carried crosswise, whilst others were straight; these are derived from the river Ganges, and serve both for boundaries and also are distributed over the plain, when the soil is dry. But they say that this soil is the best in India, and constitutes the greatest of the territorial divisions of that country, extending in length towards the Ganges a journey of fifteen days and of eighteen from the sea to the mountain of the apes along which it skirts
-The whole soil of the plain is a dead level, black and fertile of everything; for you can see on it standing grain as high as reeds and you can also see beans three times as large as the Egyptian kind, as well as sesame and millet of enormous size. And they say that nuts also grow there, of which many are treasured up in our temples here as objects of curiosity. But the vines which grow there are small, like those of the Lydians and Maeones; their vintage however is not only drinkable, but has a fine bouquet from the first. They also say that they came upon a tree there resembling the laurel, upon which there grew a cup or husk resembling a very large pomegranate; and inside the cup there was a kernel as blue as the cups of the hyacinth, but sweeter to the taste than any of the fruits the seasons bring.
+After crossing the top of the mountain, they say they saw a smooth plain seamed with cuts and ditches full of water, some of which were carried crosswise, whilst others were straight; these are derived from the river Ganges, and serve both for boundaries and also are distributed over the plain, when the soil is dry. 
+
+τὴν δὲ γῆν ταύτην ἀρίστην φασὶ τῆς Ἰνδικῆς εἶναι καὶ μεγίστην τῶν ἐκεῖ λήξεων, πεντεκαίδεκα ἡμερῶν ὁδοῦ μῆκος ἐπὶ τὸν Γάγγην, ὀκτωκαίδεκα δὲ ἀπὸ θαλάσσης ἐπὶ τὸ τῶν πιθήκων ὄρος, ᾧ ξυμπαρατείνει. 
+
+But they say that this soil is the best in India, and constitutes the greatest of the territorial divisions of that country, extending in length towards the Ganges a journey of fifteen days and of eighteen from the sea to the mountain of the apes along which it skirts
+
+πεδιὰς πᾶσα ἡ χώρα μέλαινά τε καὶ πάντων εὔφορος. 
+
+The whole soil of the plain is a dead level, black and fertile of everything; 
+
+ἰδεῖν μὲν γὰρ ἐν αὐτῇ στάχυας ἀνεστῶτας, ὅσον οἱ δόνακες, ἰδεῖν δὲ κυάμους τριπλασίους τῶν Αἰγυπτίων τὸ μέγεθος σήσαμόν τε καὶ κέγχρον ὑπερφυᾶ πάντα. 
+
+for you can see on it standing grain as high as reeds and you can also see beans three times as large as the Egyptian kind, as well as sesame and millet of enormous size. 
+
+ἐνταῦθα καὶ τὰ κάρυα φύεσθαί φασιν, ὧν πολλὰ πρὸς ἱεροῖς ἀνακεῖσθαι τοῖς δεῦρο θαύματος ἕνεκα. 
+
+And they say that nuts also grow there, of which many are treasured up in our temples here as objects of curiosity. 
+
+τὰς δὲ ἀμπέλους φύεσθαι μὲν μικράς, καθάπερ αἱ Λυδῶν τε καὶ Μαιόνων, ποτίμους δὲ εἶναι καὶ ἀνθοσμίας ὁμοῦ τῷ ἀποτρυγᾶν. 
+
+But the vines which grow there are small, like those of the Lydians and Maeones; their vintage however is not only drinkable, but has a fine bouquet from the first. 
+
+[p. 88] ἐνταῦθα καὶ δένδρῳ φασὶν ἐντετυχηκέναι προσεοικότι τῇ δάφνῃ, φύεσθαι δὲ αὐτοῦ κάλυκα εἰκασμένην τῇ μεγίστῃ ῥόᾳ, καὶ μῆλον ἐγκεῖσθαι τῇ κάλυκι κυάνεον μέν, ὥσπερ τῶν ὑακίνθων αἱ κάλυκες, πάντων δὲ ἥδιστον, ὁπόσα ἐξ ὡρῶν ἥκει.
+
+They also say that they came upon a tree there resembling the laurel, upon which there grew a cup or husk resembling a very large pomegranate; and inside the cup there was a kernel as blue as the cups of the hyacinth, but sweeter to the taste than any of the fruits the seasons bring.
+
 Note 1: “Indian ass” is Aristotle’s name for the rhinoceros.
 ## 6
-καταβαίνοντες δὲ τὸ ὄρος δρακόντων θήρᾳ περιτυχεῖν φασι, περὶ ἧς ἀνάγκη λέξαι: καὶ γὰρ σφόδρα εὔηθες ὑπὲρ μὲν τοῦ λαγὼ καὶ ὅπως ἁλίσκεται καὶ ἁλώσεται, πολλὰ εἰρῆσθαι τοῖς ἐς φροντίδα βαλλομένοις ταῦτα, ἡμᾶς δὲ παρελθεῖν λόγον γενναίας τε καὶ δαιμονίου θήρας μηδὲ τῷ ἀνδρὶ παραλειφθέντα, ἐς ὃν ταῦτα ἔγραψα: δρακόντων μὲν γὰρ δὴ ἀπείροις μήκεσι κατέζωσται πᾶσα ἡ Ἰνδικὴ χώρα καὶ μεστὰ μὲν αὐτῶν ἕλη, μεστὰ δὲ ὄρη, κενὸς δὲ οὐδεὶς λόφος. οἱ μὲν δὴ ἕλειοι νωθροί τέ εἰσι καὶ τριακοντάπηχυ μῆκος ἔχουσι καὶ κράνος αὐτοῖς οὐκ ἀνέστηκεν, ἀλλ᾽ εἰσὶ ταῖς δρακαίναις ὅμοιοι, μέλανες δὲ ἱκανῶς τὸν νῶτον καὶ ἧττον φολιδωτοὶ τῶν ἄλλων. καὶ σοφώτερον ἧπται τοῦ λόγου περὶ αὐτῶν Ὅμηρος ἢ οἱ πολλοὶ ποιηταί, τὸν γὰρ δράκοντα τὸν ἐν Αὐλίδι τὸν πρὸς τῇ πηγῇ οἰκοῦντα περὶ νῶτα δαφοινὸν εἴρηκεν, οἱ δὲ ἄλλοι ποιηταὶ τὸν ὁμοήθη τούτῳ τὸν ἐν τῷ τῆς Νεμέας ἄλσει φασὶ καὶ λοφιὰν ἔχειν, ὅπερ οὐκ ἂν περὶ τοὺς ἑλείους εὕροιμεν.
+καταβαίνοντες δὲ τὸ ὄρος δρακόντων θήρᾳ περιτυχεῖν φασι, περὶ ἧς ἀνάγκη λέξαι: 
 
-Now as they descended the mountain, they say they came in for a dragon hunt, which I must needs describe. For it is utterly absurd for those who are amateurs of hare-hunting to spin yarns about the hare as to how it is caught or ought to be caught, and yet that we should omit to describe a chase as bold as it is wonderful, and in which the sage, of whom I have written this account, was careful to set on record:
-The whole of India is girt with dragons of enormous size; for not only the marshes are full of them, but the mountains as well, and there is not a single ridge without one. Now the marsh kind are sluggish in their habits and are thirty cubits long, and they have no crest standing up on their heads, but in this respect resemble the she-dragons. Their backs however are very black, with fewer scales on them than the other kinds; and Homer has described them with deeper insight than have most poets, for he says that the dragon that lived hard by the spring in Aulis had a tawny back [Iliad 2.308]; but other poets declare that the congener of this one in the grove of Nemea also had a crest, a feature which we could not verify in regard to the marsh dragons.
+Now as they descended the mountain, they say they came in for a dragon hunt, which I must needs describe. 
+
+καὶ γὰρ σφόδρα εὔηθες ὑπὲρ μὲν τοῦ λαγὼ καὶ ὅπως ἁλίσκεται καὶ ἁλώσεται, πολλὰ εἰρῆσθαι τοῖς ἐς φροντίδα βαλλομένοις ταῦτα, ἡμᾶς δὲ παρελθεῖν λόγον γενναίας τε καὶ δαιμονίου θήρας μηδὲ τῷ ἀνδρὶ παραλειφθέντα, ἐς ὃν ταῦτα ἔγραψα: 
+
+For it is utterly absurd for those who are amateurs of hare-hunting to spin yarns about the hare as to how it is caught or ought to be caught, and yet that we should omit to describe a chase as bold as it is wonderful, and in which the sage, of whom I have written this account, was careful to set on record:
+
+δρακόντων μὲν γὰρ δὴ ἀπείροις μήκεσι κατέζωσται πᾶσα ἡ Ἰνδικὴ χώρα καὶ μεστὰ μὲν αὐτῶν ἕλη, μεστὰ δὲ ὄρη, κενὸς δὲ οὐδεὶς λόφος. 
+
+The whole of India is girt with dragons of enormous size; for not only the marshes are full of them, but the mountains as well, and there is not a single ridge without one. 
+
+οἱ μὲν δὴ ἕλειοι νωθροί τέ εἰσι καὶ τριακοντάπηχυ μῆκος ἔχουσι καὶ κράνος αὐτοῖς οὐκ ἀνέστηκεν, ἀλλ᾽ εἰσὶ ταῖς δρακαίναις ὅμοιοι, μέλανες δὲ ἱκανῶς τὸν νῶτον καὶ ἧττον φολιδωτοὶ τῶν ἄλλων. 
+
+Now the marsh kind are sluggish in their habits and are thirty cubits long, and they have no crest standing up on their heads, but in this respect resemble the she-dragons. Their backs however are very black, with fewer scales on them than the other kinds; 
+
+καὶ σοφώτερον ἧπται τοῦ λόγου περὶ αὐτῶν Ὅμηρος ἢ οἱ πολλοὶ ποιηταί, τὸν γὰρ δράκοντα τὸν ἐν Αὐλίδι τὸν πρὸς τῇ πηγῇ οἰκοῦντα περὶ νῶτα δαφοινὸν εἴρηκεν, 
+
+and Homer has described them with deeper insight than have most poets, for he says that the dragon that lived hard by the spring in Aulis had a tawny back [Iliad 2.308]; 
+
+οἱ δὲ ἄλλοι ποιηταὶ τὸν ὁμοήθη τούτῳ τὸν ἐν τῷ τῆς Νεμέας ἄλσει φασὶ καὶ λοφιὰν ἔχειν, ὅπερ οὐκ ἂν περὶ τοὺς ἑλείους εὕροιμεν.
+
+but other poets declare that the congener of this one in the grove of Nemea also had a crest, a feature which we could not verify in regard to the marsh dragons.
 ## 7
-οἱ δὲ ὑπὸ τὰς ὑπωρείας τε καὶ τοὺς λόφους ἵενται μὲν ἐς τὰ πεδία ἐπὶ θήρᾳ, πλεονεκτοῦσι δὲ τῶν ἑλείων πάντα, καὶ γὰρ ἐς πλέον τοῦ μήκους ἐλαύνουσι καὶ ταχύτεροι τῶν ὀξυτάτων ποταμῶν φέρονται καὶ διαφεύγει αὐτοὺς οὐδέν: τούτοις καὶ λοφιὰ φύεται νέοις μὲν ὑπανίσχουσα τὸ μέτριον, τελειουμένοις δὲ συναυξανομένη τε καὶ συνανιοῦσα ἐς πολύ, ὅτε δὴ πυρσοί τε καὶ πριόνωτοι γίγνονται. οὗτοι καὶ γενειάσκουσι [p. 89] καὶ τὸν αὐχένα ὑψοῦ αἴρουσι καὶ τὴν φολίδα στίλβουσι δίκην ἀργύρου, αἱ δὲ τῶν ὀφθαλμῶν κόραι λίθος ἐστὶ διάπυρος, ἰσχὺν δ᾽ αὐτῶν ἀμήχανον εἶναί φασιν ἐς πολλὰ τῶν ἀποθέτων. γίγνεται δὲ τοῖς θηρῶσιν ὁ πεδινὸς εὕρημα, ἐπειδὰν τῶν ἐλεφάντων τινὰ ἐπισπάσηται, τουτὶ γὰρ ἀπόλλυσιν ἄμφω τὰ θηρία. καὶ κέρδος τοῖς ἑλοῦσι δράκοντας ὀφθαλμοί τε γίγνονται καὶ δορὰ καὶ ὀδόντες. εἰσὶ δὲ τὰ μὲν ἄλλα ὅμοιοι τοῖς τῶν μεγίστων συῶν, λεπτότεροι δὲ καὶ διάστροφοι καὶ τὴν αἰχμὴν ἄτριπτοι, καθάπερ οἱ τῶν μεγάλων ἰχθύων.
+οἱ δὲ ὑπὸ τὰς ὑπωρείας τε καὶ τοὺς λόφους ἵενται μὲν ἐς τὰ πεδία ἐπὶ θήρᾳ, πλεονεκτοῦσι δὲ τῶν ἑλείων πάντα, 
 
-And the dragons along the foothills and the mountain crests make their way into the plains after their quarry, and get the better all round of those in the marshes; for indeed they reach a greater length, and move faster than the swiftest rivers, so that nothing escapes them. These actually have a crest, of moderate extent and height when they are young; but as they reach their full size, it grows with them and extends to a considerable height, at which time also they turn red and get serrated backs. This kind also have beards, and lift their necks on high, while their scales glitter like silver; and the pupils of their eyes consist of a fiery stone, and they say that this has an uncanny power for many secret purposes. The plain specimen falls the prize of the hunters whenever it draws into its folds an elephant; for the destruction of both creatures is the result, and those who capture the dragons are rewarded by getting the eyes and skin and teeth. In most respects the tusks resemble the largest swine’s, but they are slighter in build and twisted, and have a point as unabraded as sharks’ teeth.
+And the dragons along the foothills and the mountain crests make their way into the plains after their quarry, and get the better all round of those in the marshes; 
+
+καὶ γὰρ ἐς πλέον τοῦ μήκους ἐλαύνουσι καὶ ταχύτεροι τῶν ὀξυτάτων ποταμῶν φέρονται καὶ διαφεύγει αὐτοὺς οὐδέν: 
+
+for indeed they reach a greater length, and move faster than the swiftest rivers, so that nothing escapes them. 
+
+τούτοις καὶ λοφιὰ φύεται νέοις μὲν ὑπανίσχουσα τὸ μέτριον, τελειουμένοις δὲ συναυξανομένη τε καὶ συνανιοῦσα ἐς πολύ, ὅτε δὴ πυρσοί τε καὶ πριόνωτοι γίγνονται. 
+
+These actually have a crest, of moderate extent and height when they are young; but as they reach their full size, it grows with them and extends to a considerable height, at which time also they turn red and get serrated backs. 
+
+οὗτοι καὶ γενειάσκουσι [p. 89] καὶ τὸν αὐχένα ὑψοῦ αἴρουσι καὶ τὴν φολίδα στίλβουσι δίκην ἀργύρου, αἱ δὲ τῶν ὀφθαλμῶν κόραι λίθος ἐστὶ διάπυρος, ἰσχὺν δ᾽ αὐτῶν ἀμήχανον εἶναί φασιν ἐς πολλὰ τῶν ἀποθέτων. 
+
+This kind also have beards, and lift their necks on high, while their scales glitter like silver; and the pupils of their eyes consist of a fiery stone, and they say that this has an uncanny power for many secret purposes. 
+
+γίγνεται δὲ τοῖς θηρῶσιν ὁ πεδινὸς εὕρημα, ἐπειδὰν τῶν ἐλεφάντων τινὰ ἐπισπάσηται, τουτὶ γὰρ ἀπόλλυσιν ἄμφω τὰ θηρία. 
+
+The plain specimen falls the prize of the hunters whenever it draws into its folds an elephant; 
+
+καὶ κέρδος τοῖς ἑλοῦσι δράκοντας ὀφθαλμοί τε γίγνονται καὶ δορὰ καὶ ὀδόντες. 
+
+for the destruction of both creatures is the result, and those who capture the dragons are rewarded by getting the eyes and skin and teeth. 
+
+εἰσὶ δὲ τὰ μὲν ἄλλα ὅμοιοι τοῖς τῶν μεγίστων συῶν, λεπτότεροι δὲ καὶ διάστροφοι καὶ τὴν αἰχμὴν ἄτριπτοι, καθάπερ οἱ τῶν μεγάλων ἰχθύων.
+
+In most respects the tusks resemble the largest swine’s, but they are slighter in build and twisted, and have a point as unabraded as sharks’ teeth.
 ## 8
 οἱ δὲ ὄρειοι δράκοντες τὴν μὲν φολίδα χρυσοῖ φαίνονται, τὸ δὲ μῆκος ὑπὲρ τοὺς πεδινούς, γένεια δὲ αὐτοῖς βοστρυχώδη, χρυσᾶ κἀκεῖνα, καὶ κατωφρύωνται μᾶλλον ἢ οἱ πεδινοὶ ὄμμα τε ὑποκάθηται τῇ ὀφρύι δεινὸν καὶ ἀνειδὲς δεδορκός, ὑπόχαλκόν τε ἠχὼ φέρουσιν, ἐπειδὰν τῇ γῇ ὑποκυμαίνωσιν, ἀπὸ δὲ τῶν λόφων πυρσῶν ὄντων πῦρ αὐτοῖς ἄττει λαμπαδίου πλέον. οὗτοι καὶ τοὺς ἐλέφαντας αἱροῦσιν, αὐτοὶ δὲ ὑπὸ τῶν Ἰνδῶν οὕτως ἁλίσκονται: κοκκοβαφεῖ πέπλῳ χρυσᾶ ἐνείραντες γράμματα τίθενται πρὸ τῆς χειᾶς ὕπνον ἐγγοητεύσαντες τοῖς γράμμασιν, ὑφ᾽ οὗ νικᾶται τοὺς ὀφθαλμοὺς ὁ δράκων ἀτρέπτους ὄντας, καὶ πολλὰ τῆς ἀπορρήτου σοφίας ἐπ᾽ αὐτὸν ᾄδουσιν, οἷς ἄγεταί τε καὶ τὸν αὐχένα ὑπερβαλὼν τῆς χειᾶς ἐπικαθεύδει τοῖς γράμμασι: προσπεσόντες οὖν οἱ Ἰνδοὶ κειμένῳ πελέκεις ἐναράττουσι, καὶ τὴν κεφαλὴν ἀποτεμόντες λῄζονται τὰς ἐν αὐτῇ λίθους. ἀποκεῖσθαι δέ φασιν ἐν ταῖς τῶν ὀρείων δρακόντων κεφαλαῖς λίθους τὸ μὲν εἶδος ἀνθηρὰς καὶ πάντα ἀπαυγαζούσας χρώματα, τὴν δὲ ἰσχὺν ἀρρήτους κατὰ τὸν δακτύλιον, ὃν γενέσθαι φασὶ τῷ Γύγῃ. πολλάκις δὲ καὶ τὸν Ἰνδὸν [p. 90] αὐτῷ πελέκει καὶ αὐτῇ τέχνῃ συλλαβὼν ἐς τὴν αὑτοῦ χειὰν φέρων ᾤχετο μονονοὺ σείων τὸ ὄρος. οὗτοι καὶ τὰ ὄρη τὰ περὶ τὴν Ἐρυθρὰν οἰκεῖν λέγονται, σύριγμα δὲ δεινόν φασιν ἀκούεσθαι τούτων καὶ κατιόντας αὐτοὺς ἐπὶ τὴν θάλατταν πλεῖν ἐπὶ πολὺ τοῦ πελάγους. περὶ δὲ ἐτῶν μήκους τοῦ θηρίου τούτου γνῶναί τε ἄπορον καὶ εἰπεῖν ἄπιστον. τοσαῦτα περὶ δρακόντων οἶδα.
 

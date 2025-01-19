@@ -18,7 +18,7 @@
 # Q:81:10
 [Q.81:10](https://quran.com/81:10/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#81:10]]
+![[Qrsi#r81.1]]
 
 ## صُحُف نشر<1>
 
@@ -26,7 +26,7 @@
 # Q:87:18
 [Q.87:18](https://quran.com/87:18/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#87:18]]
+![[Qrsi#r87.1]]
 
 ## صُحُف أَوَّل<1>
 
@@ -49,7 +49,7 @@
 # Q:53:36
 [Q.53:36](https://quran.com/53:36/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#53:36]]
+![[Qrsi#r53.3.x]]
 
 ## ~~~ صُحُف مُوسَىٰ<2>
 1st inst: [[#Q:87:19]]
@@ -58,7 +58,7 @@
 # Q:80:13
 [Q.80:13](https://quran.com/80:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#80:13]]
+![[Qrsi#80:11]]![[Qrsi#80.13]]
 
 ## صُحُف مُّكَرَّمَة<1>
 
@@ -74,7 +74,7 @@
 # Q:54:52
 [Q.54:52](https://quran.com/54:52/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#54:52]]
+![[Qrsi#r54.3.x]]
 
 ## ~~~ زُبُر
 1st inst: [[#Q:54:43]]
@@ -229,7 +229,7 @@
 # Q:26:196
 [Q.26:196](https://quran.com/26:196/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#26:196]]
+![[Qrsi#r26.11.1]]
 
 ## ~~~ زُبُر
 1st inst: [[#Q:54:43]]
@@ -247,7 +247,7 @@
 # Q:17:2
 [Q.17:2](https://quran.com/17:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#17:2]]
+![[Qrsi#r17.1.1]]
 
 ## ~~~ إِسْرَائِيل
 1st inst: [[#Q:7:105]]
@@ -273,7 +273,7 @@
 # Q:17:101
 [Q.17:101](https://quran.com/17:101/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#17:101]]
+![[Qrsi#r17.10.x]]
 
 ## ~~~ إِسْرَائِيل
 1st inst: [[#Q:7:105]]

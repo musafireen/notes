@@ -14,7 +14,7 @@
 # idea
 ἰδέα
 
-![[pl.phaedrus#265b#2]]
+![[pl.phaedr#265b#2]]
 
 ![[pl.republic#507b#3]]
 # phenomena

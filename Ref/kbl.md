@@ -1,8 +1,13 @@
 
 
+# sfr_ytz
+[[sfr.ytzr]]
 # sfr_bhr
-https://www.sefaria.org/Sefer_HaBahir
+[[sfr.Bhr]]
+## shmal
+[[mmr.azl.shmal]]
 
 # zhr
-https://www.sefaria.org/Zohar
+[[sfr.zohr]]
+
 

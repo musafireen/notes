@@ -327,6 +327,10 @@ And Elijah answered and said to the captain of fifty, If I [be] a man of God, th
 
 And he said unto him, Thus saith the LORD, Forasmuch as thou hast sent messengers to enquire of Baalzebub the god of Ekron, [is it] not because [there is] no God in Israel to enquire of his word ? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die.
 ## c2
+#### 11
+וַיְהִ֗י הֵ֣מָּה הֹלְכִ֤ים הָלוֹךְ֙ וְדַבֵּ֔ר וְהִנֵּ֤ה רֶֽכֶב־אֵשׁ֙ וְס֣וּסֵי אֵ֔שׁ וַיַּפְרִ֖דוּ בֵּ֣ין שְׁנֵיהֶ֑ם וַיַּ֙עַל֙ אֵ֣לִיָּ֔הוּ בַּֽסְעָרָ֖ה הַשָּׁמָֽיִם ׃
+
+And it came to pass, as they still went on, and talked, that, behold, [there appeared] a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.
 ### 23
 וַיַּ֥עַל מִשָּׁ֖ם בֵּֽית־אֵ֑ל וְה֣וּא ׀ עֹלֶ֣ה בַדֶּ֗רֶךְ וּנְעָרִ֤ים קְטַנִּים֙ יָצְא֣וּ מִן־הָעִ֔יר וַיִּתְקַלְּסוּ־בוֹ֙ וַיֹּ֣אמְרוּ ל֔וֹ עֲלֵ֥ה קֵרֵ֖חַ עֲלֵ֥ה קֵרֵֽחַ ׃
 

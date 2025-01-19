@@ -1,5 +1,9 @@
-# lamentations
+# lam
+## c3
+### 38
+מִפִּ֤י עֶלְיוֹן֙ לֹ֣א תֵצֵ֔א הָרָע֖וֹת וְהַטּֽוֹב ׃
 
+Out of the mouth of the most High proceedeth not evil and good ?
 # daniel
 ## c3
 ### 21

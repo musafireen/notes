@@ -2,9 +2,11 @@ https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0197%3Abo
 # b2
 ## c5
 ### 12
-μάλιστα δ᾽ οἱ νῦν ἄμεινον ἔχοιεν ἄν τι λέγειν περὶ τῶν κατὰ Βρεττανοὺς καὶ Γερμανοὺς καὶ τοὺς περὶ τὸν Ἴστρον τούς τε ἐντὸς καὶ τοὺς ἐκτὸς Γέτας τε καὶ Τυρεγέτας καὶ Βαστάρνας, ἔτι δὲ τοὺς περὶ τὸν Καύκασον, οἷον Ἀλβανοὺς καὶ Ἴβηρας. ἀπήγγελται δ᾽ ἡμῖν καὶ ὑπὸ τῶν τὰ Παρθικὰ συγγραψάντων, τῶν περὶ Ἀπολλόδωρον τὸν Ἀρτεμιτηνόν, ἃ πολλῶν ἐκεῖνοι μᾶλλον ἀφώρισαν, τὰ περὶ τὴν Ὑρκανίαν καὶ τὴν Βακτριανήν: τῶν τε Ῥωμαίων καὶ εἰς τὴν εὐδαίμονα Ἀραβίαν ἐμβαλόντων μετὰ στρατιᾶς νεωστί, ἧς ἡγεῖτο ἀνὴρ φίλος ἡμῖν καὶ ἑταῖρος Αἴλιος Γάλλος, καὶ τῶν ἐκ τῆς Ἀλεξανδρείας ἐμπόρων στόλοις ἤδη πλεόντων διὰ τοῦ Νείλου καὶ τοῦ Ἀραβίου κόλπου μέχρι τῆς Ἰνδικῆς, πολὺ μᾶλλον καὶ ταῦτα ἔγνωσται τοῖς νῦν ἢ τοῖς πρὸ ἡμῶν. ὅτε γοῦν Γάλλος ἐπῆρχε τῆς Αἰγύπτου, συνόντες αὐτῷ καὶ συναναβάντες μέχρι Συήνης καὶ τῶν Αἰθιοπικῶν ὅρων ἱστοροῦμεν, ὅτι καὶ ἑκατὸν [p. 158] καὶ εἴκοσι νῆες πλέοιεν ἐκ Μυὸς ὅρμου πρὸς τὴν Ἰνδικήν, πρότερον ἐπὶ τῶν Πτολεμαϊκῶν βασιλέων ὀλίγων παντάπασι θαρρούντων πλεῖν καὶ τὸν Ἰνδικὸν ἐμπορεύεσθαι φόρτον.
+μάλιστα δ᾽ οἱ νῦν ἄμεινον ἔχοιεν ἄν τι λέγειν περὶ τῶν κατὰ Βρεττανοὺς καὶ Γερμανοὺς καὶ τοὺς περὶ τὸν Ἴστρον τούς τε ἐντὸς καὶ τοὺς ἐκτὸς Γέτας τε καὶ Τυρεγέτας καὶ Βαστάρνας, ἔτι δὲ τοὺς περὶ τὸν Καύκασον, οἷον Ἀλβανοὺς καὶ Ἴβηρας. ἀπήγγελται δ᾽ ἡμῖν καὶ ὑπὸ τῶν τὰ Παρθικὰ συγγραψάντων, τῶν περὶ Ἀπολλόδωρον τὸν Ἀρτεμιτηνόν, ἃ πολλῶν ἐκεῖνοι μᾶλλον ἀφώρισαν, τὰ περὶ τὴν Ὑρκανίαν καὶ τὴν Βακτριανήν: 
 
 Writers of the present day can describe with more certainty [than formerly] the Britons, the Germans, and the dwellers on either side of the Danube, the Getæ,1 the Tyrigetæ, the Bastarnæ,2 the tribes dwelling by the Caucasus, such as the Albanians and Iberians.3 We are besides possessed of a description of Hyrcania4 and Bactriana in the Histories of Parthia written by such men as Apollodorus of Artemita,5 who leave detailed the boundaries [of those countries] with greater accuracy than other geographers.
+
+τῶν τε Ῥωμαίων καὶ εἰς τὴν εὐδαίμονα Ἀραβίαν ἐμβαλόντων μετὰ στρατιᾶς νεωστί, ἧς ἡγεῖτο ἀνὴρ φίλος ἡμῖν καὶ ἑταῖρος Αἴλιος Γάλλος, καὶ τῶν ἐκ τῆς Ἀλεξανδρείας ἐμπόρων στόλοις ἤδη πλεόντων διὰ τοῦ Νείλου καὶ τοῦ Ἀραβίου κόλπου μέχρι τῆς Ἰνδικῆς, πολὺ μᾶλλον καὶ ταῦτα ἔγνωσται τοῖς νῦν ἢ τοῖς πρὸ ἡμῶν. ὅτε γοῦν Γάλλος ἐπῆρχε τῆς Αἰγύπτου, συνόντες αὐτῷ καὶ συναναβάντες μέχρι Συήνης καὶ τῶν Αἰθιοπικῶν ὅρων ἱστοροῦμεν, ὅτι καὶ ἑκατὸν [p. 158] καὶ εἴκοσι νῆες πλέοιεν ἐκ Μυὸς ὅρμου πρὸς τὴν Ἰνδικήν, πρότερον ἐπὶ τῶν Πτολεμαϊκῶν βασιλέων ὀλίγων παντάπασι θαρρούντων πλεῖν καὶ τὸν Ἰνδικὸν ἐμπορεύεσθαι φόρτον.
 
 The entrance of a Roman army into Arabia Felix under the command of my friend and companion Ælius Gallus,6 and the traffic of the Alexandrian merchants whose vessels pass up the Nile and Arabian Gulf7 to India, have rendered us much better acquainted with these countries than our predecessors were. I was with Gallus at the time he was prefect of Egypt, and accompanied him as far as Syene and the frontiers of Ethiopia, and I found that about one hundred and twenty ships sail from Myos-hormos8 to India, although, in the time of the Ptolemies, scarcely any one would venture on this voyage and the commerce with the Indies.
 
@@ -54,12 +56,50 @@ Some, however, have not hesitated to identify Cephallenia with Dulichium, and ot
 ## c3
 ### 21
 
-[21] Ἀκουσίλαος δ᾽ ὁ Ἀργεῖος ἐκ Καβειροῦς καὶ Ἡφαίστου Κάμιλλον λέγει, τοῦ δὲ τρεῖς Καβείρους, ὧν νύμφας Καβειρίδας: Φερεκύδης δ᾽ ἐξ Ἀπόλλωνος καὶ Ῥητίας Κύρβαντας ἐννέα, οἰκῆσαι δ᾽ αὐτοὺς ἐν Σαμοθρᾴκῃ: ἐκ δὲ Καβειροῦς τῆς Πρωτέως καὶ Ἡφαίστου Καβείρους τρεῖς καὶ νύμφας τρεῖς Καβειρίδας, ἑκατέροις δ᾽ ἱερὰ γίνεσθαι. μάλιστα μὲν οὖν ἐν Ἴμβρῳ καὶ Λήμνῳ τοὺς Καβείρους τιμᾶσθαι συμβέβηκεν, ἀλλὰ καὶ ἐν Τροίᾳ κατὰ πόλεις: τὰ δ᾽ ὀνόματα αὐτῶν ἐστι μυστικά. Ἡρόδοτος δὲ καὶ ἐν Μέμφει [p. 665] λέγει τῶν Καβείρων ἱερὰ καθάπερ καὶ τοῦ Ἡφαίστου, διαφθεῖραι δ᾽ αὐτὰ Καμβύσην. ἔστι δ᾽ ἀοίκητα τὰ χωρία τῆς τῶν δαιμόνων τούτων τιμῆς, τό τε Κορυβαντεῖον τὸ ἐν τῇ Ἁμαξιτίᾳ τῆς νῦν Ἀλεξανδρέων χώρας ἐγγὺς τοῦ Σμινθίου, καὶ ἡ Κορύβισσα ἐν τῇ Σκηψίᾳ περὶ ποταμὸν Εὐρήεντα καὶ κώμην ὁμώνυμον καὶ ἔτι χείμαρρον Αἰθαλόεντα. πιθανὸν δέ φησιν ὁ Σκήψιος, Κουρῆτας μὲν καὶ Κορύβαντας εἶναι τοὺς αὐτούς, οἳ περὶ τὰς τῆς μητρὸς τῶν θεῶν ἁγιστείας πρὸς ἐνόπλιον ὄρχησιν ᾔθεοι καὶ κόροι τυγχάνουσι παρειλημμένοι. καὶ Κορύβαντες δὲ ἀπὸ τοῦ κορύπτοντας βαίνειν ὀρχηστικῶς, οὓς καὶ βητάρμονας λέγει ὁ ποιητής“ δεῦτ᾽ ἄγε Φαιήκων βητάρμονες, ὅσσοι ἄριστοι.
-”1 τῶν δὲ Κορυβάντων ὀρχηστικῶν καὶ ἐνθουσιαστικῶν ὄντων καὶ τοὺς μανικῶς κινουμένους κορυβαντιᾶν φαμεν.
+[21] Ἀκουσίλαος δ᾽ ὁ Ἀργεῖος ἐκ Καβειροῦς καὶ Ἡφαίστου Κάμιλλον λέγει, τοῦ δὲ τρεῖς Καβείρους, ὧν νύμφας Καβειρίδας: 
+
+Acusilaüs,241 the Argive, calls Cadmilus the son of Cabeiro and Hephaestus, and Cadmilus the father of three Cabeiri, and these the fathers of the nymphs called Cabeirides. 
+
+Φερεκύδης δ᾽ ἐξ Ἀπόλλωνος καὶ Ῥητίας Κύρβαντας ἐννέα, οἰκῆσαι δ᾽ αὐτοὺς ἐν Σαμοθρᾴκῃ: 
+
+Pherecydes242 says that nine Cyrbantes were sprung from Apollo and Rhetia, and that they took up their abode in Samothrace; 
+
+ἐκ δὲ Καβειροῦς τῆς Πρωτέως καὶ Ἡφαίστου Καβείρους τρεῖς καὶ νύμφας τρεῖς Καβειρίδας, ἑκατέροις δ᾽ ἱερὰ γίνεσθαι. 
+
+and that three Cabeiri and three nymphs called Cabeirides were the children of Cabeiro, the daughter of Proteus, and Hephaestus, and that sacred rites were instituted in honor of each triad. 
+
+μάλιστα μὲν οὖν ἐν Ἴμβρῳ καὶ Λήμνῳ τοὺς Καβείρους τιμᾶσθαι συμβέβηκεν, ἀλλὰ καὶ ἐν Τροίᾳ κατὰ πόλεις: τὰ δ᾽ ὀνόματα αὐτῶν ἐστι μυστικά. 
+
+Now it has so happened that the Cabeiri are most honored in Imbros and Lemnos, but they are also honored in separate cities of the Troad; their names, however, are kept secret. 
+
+Ἡρόδοτος δὲ καὶ ἐν Μέμφει [p. 665] λέγει τῶν Καβείρων ἱερὰ καθάπερ καὶ τοῦ Ἡφαίστου, διαφθεῖραι δ᾽ αὐτὰ Καμβύσην. 
+
+Herodotus243 says that there were temples of the Cabeiri in Memphis, as also of Hephaestus, but that Cambyses destroyed them. 
+
+ἔστι δ᾽ ἀοίκητα τὰ χωρία τῆς τῶν δαιμόνων τούτων τιμῆς, τό τε Κορυβαντεῖον τὸ ἐν τῇ Ἁμαξιτίᾳ τῆς νῦν Ἀλεξανδρέων χώρας ἐγγὺς τοῦ Σμινθίου, καὶ ἡ Κορύβισσα ἐν τῇ Σκηψίᾳ περὶ ποταμὸν Εὐρήεντα καὶ κώμην ὁμώνυμον καὶ ἔτι χείμαρρον Αἰθαλόεντα. 
+
+The places where these deities were worshipped are uninhabited, both the Corybanteium in Hamaxitia in the territory now belonging to the Alexandreians near Sminthium,244 and Corybissa in Scepsia in the neighborhood of the river Eurëeis and of the village which bears the same name and also of the winter torrent Aethalöeis. 
+
+πιθανὸν δέ φησιν ὁ Σκήψιος, Κουρῆτας μὲν καὶ Κορύβαντας εἶναι τοὺς αὐτούς, οἳ περὶ τὰς τῆς μητρὸς τῶν θεῶν ἁγιστείας πρὸς ἐνόπλιον ὄρχησιν ᾔθεοι καὶ κόροι τυγχάνουσι παρειλημμένοι. 
+
+The Scepsian says that it is probable that the Curetes and the Corybantes were the same, being those who had been accepted as young men, or "youths," for the war-dance in connection with the holy rites of the Mother of the gods, 
+
+καὶ Κορύβαντες δὲ ἀπὸ τοῦ κορύπτοντας βαίνειν ὀρχηστικῶς, 
+
+and also as "corybantes" from the fact that they "walked with a butting of their heads" in a dancing way.245 
+
+οὓς καὶ βητάρμονας λέγει ὁ ποιητής 
+
+These are called by the poet "betarmones":246
+
+“δεῦτ᾽ ἄγε Φαιήκων βητάρμονες, ὅσσοι ἄριστοι.”1 
+
+“Come now, all ye that are the best 'betarmones' of the Phaeacians.”247 
+
+τῶν δὲ Κορυβάντων ὀρχηστικῶν καὶ ἐνθουσιαστικῶν ὄντων καὶ τοὺς μανικῶς κινουμένους κορυβαντιᾶν φαμεν.
 1 Hom. Od. 8.250
 
-Acusilaüs,241 the Argive, calls Cadmilus the son of Cabeiro and Hephaestus, and Cadmilus the father of three Cabeiri, and these the fathers of the nymphs called Cabeirides. Pherecydes242 says that nine Cyrbantes were sprung from Apollo and Rhetia, and that they took up their abode in Samothrace; and that three Cabeiri and three nymphs called Cabeirides were the children of Cabeiro, the daughter of Proteus, and Hephaestus, and that sacred rites were instituted in honor of each triad. Now it has so happened that the Cabeiri are most honored in Imbros and Lemnos, but they are also honored in separate cities of the Troad; their names, however, are kept secret. Herodotus243 says that there were temples of the Cabeiri in Memphis, as also of Hephaestus, but that Cambyses destroyed them. The places where these deities were worshipped are uninhabited, both the Corybanteium in Hamaxitia in the territory now belonging to the Alexandreians near Sminthium,244 and Corybissa in Scepsia in the neighborhood of the river Eurëeis and of the village which bears the same name and also of the winter torrent Aethalöeis. The Scepsian says that it is probable that the Curetes and the Corybantes were the same, being those who had been accepted as young men, or "youths," for the war-dance in connection with the holy rites of the Mother of the gods, and also as "corybantes" from the fact that they "walked with a butting of their heads" in a dancing way.245 These are called by the poet "betarmones":246“Come now, all ye that are the best 'betarmones' of the Phaeacians.
-”247 And because the Corybantes are inclined to dancing and to religious frenzy, we say of those who are stirred with frenzy that they are "corybantising." [22]
+And because the Corybantes are inclined to dancing and to religious frenzy, we say of those who are stirred with frenzy that they are "corybantising." [22]
 
 ## c5
 

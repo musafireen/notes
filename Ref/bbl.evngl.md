@@ -307,7 +307,7 @@ And when they were departed, behold, the angel of the Lord appeareth to Joseph i
 
 et erat ibi usque ad obitum Herodis ut adimpleretur quod dictum est a Domino per prophetam dicentem ex Aegypto vocavi filium meum
 
-And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.
+And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son. [[bbl.prophecy.neviim#hosea#c11#1]]
 ### 16
 τοτε ηρωδης ιδων οτι ενεπαιχθη υπο των μαγων εθυμωθη λιαν και αποστειλας ανειλεν παντας τους παιδας τους εν βηθλεεμ και εν πασιν τοις οριοις αυτης απο διετους και κατωτερω κατα τον χρονον ον ηκριβωσεν παρα των μαγων
 
@@ -827,6 +827,27 @@ In him was life; and the life was the light of men.
 
 And Nathanael said unto him, Can there any good thing come out of Nazareth ? Philip saith unto him, Come and see.
 ## c8
+#### 1
+ιησους δε επορευθη εις το ορος των ελαιων
+
+Jesus went unto the mount of Olives.
+#### 2
+ορθρου δε παλιν παρεγενετο εις το ιερον και πας ο λαος ηρχετο προς αυτον και καθισας εδιδασκεν αυτους
+
+And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them.
+#### 3
+αγουσιν δε οι γραμματεις και οι φαρισαιοι προς αυτον γυναικα εν μοιχεια κατειλημμενην και στησαντες αυτην εν μεσω
+
+And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,
+#### 6
+τουτο δε ελεγον πειραζοντες αυτον ινα εχωσιν κατηγορειν αυτου ο δε ιησους κατω κυψας τω δακτυλω εγραφεν εις την γην [μη] προσποιουμενος
+
+This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with [his] finger wrote on the ground, [as though he heard them not ].
+#### 7
+ως δε επεμενον ερωτωντες αυτον ανακυψας ειπεν προς αυτους ο αναμαρτητος υμων πρωτος τον λιθον επ αυτη βαλετω
+
+So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.
+
 ### 41
 υμεις ποιειτε τα εργα του πατρος υμων ειπον ουν αυτω ημεις εκ πορνειας ου γεγεννημεθα ενα πατερα εχομεν τον θεον
 
@@ -899,6 +920,18 @@ And Pilate wrote a title, and put [it] on the cross. And the writing was, JESUS 
 ελεγον ουν τω πιλατω οι αρχιερεις των ιουδαιων μη γραφε ο βασιλευς των ιουδαιων αλλ οτι εκεινος ειπεν βασιλευς ειμι των ιουδαιων
 
 Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews.
+### 25
+ειστηκεισαν δε παρα τω σταυρω του ιησου η μητηρ αυτου και η αδελφη της μητρος αυτου μαρια η του κλωπα και μαρια η μαγδαληνη
+
+These things therefore the soldiers did. But there were standing by the cross of Jesus his mother, and his mother´s sister, Mary the wife of Clopas, and Mary Magdalene.
+### 26
+ιησους ουν ιδων την μητερα και τον μαθητην παρεστωτα ον ηγαπα λεγει τη μητρι αυτου γυναι ιδου ο υιος σου
+
+When Jesus therefore saw his mother, and the disciple standing by whom he loved, he saith unto his mother, Woman, behold thy son!
+### 27
+ειτα λεγει τω μαθητη ιδου η μητηρ σου και απ εκεινης της ωρας ελαβεν αυτην ο μαθητης εις τα ιδια
+
+Then saith he to the disciple, Behold thy mother ! And from that hour that disciple took her unto his own [home].
 ### 30
 οτε ουν ελαβεν το οξος ο ιησους ειπεν τετελεσται και κλινας την κεφαλην παρεδωκεν το πνευμα
 
@@ -907,6 +940,10 @@ When Jesus therefore had received the vinegar, he said, It is finished: and he b
 οι ουν ιουδαιοι [επει] παρασκευη ην ινα μη μεινη επι του σταυρου τα σωματα εν τω σαββατω [επει] παρασκευη ην ην γαρ μεγαλη η ημερα εκεινου του σαββατου ηρωτησαν τον πιλατον ινα κατεαγωσιν αυτων τα σκελη και αρθωσιν
 
 The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day, ) besought Pilate that their legs might be broken, and [that] they might be taken away.
+### 35
+και ο εωρακως μεμαρτυρηκεν και αληθινη αυτου εστιν η μαρτυρια κακεινος οιδεν οτι αληθη λεγει ινα υμεις πιστευσητε
+
+And he that saw [it] bare record, and his record is true: and he knoweth that he saith true, that ye might believe.
 ## c20
 ### 24
 θωμας δε εις εκ των δωδεκα ο λεγομενος διδυμος ουκ ην μετ αυτων οτε ηλθεν ο ιησους
@@ -932,3 +969,12 @@ Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: ble
 πολλα μεν ουν και αλλα σημεια εποιησεν ο ιησους ενωπιον των μαθητων αυτου α ουκ εστιν γεγραμμενα εν τω βιβλιω τουτω
 
 And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:
+## c21
+### 24
+ουτος εστιν ο μαθητης ο μαρτυρων περι τουτων και γραψας ταυτα και οιδαμεν οτι αληθης εστιν η μαρτυρια αυτου
+
+This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true.
+#### 25
+εστιν δε και αλλα πολλα οσα εποιησεν ο ιησους ατινα εαν γραφηται καθ εν ουδε αυτον οιμαι τον κοσμον χωρησαι τα γραφομενα βιβλια αμην
+
+And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.

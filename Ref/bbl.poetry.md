@@ -80,6 +80,14 @@ Behold, I was shapen in iniquity; and in sin did my mother conceive me.
 
 Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, [for] the rebellious also, that the LORD God might dwell [among them].
 ## c78
+#### 19
+וַֽיְדַבְּר֗וּ בֵּֽאלֹ֫הִ֥ים אָ֭מְרוּ הֲי֣וּכַל אֵ֑ל לַעֲרֹ֥ךְ שֻׁ֝לְחָ֗ן בַּמִּדְבָּֽר ׃
+
+Yea, they spake against God; they said, Can God furnish a table in the wilderness ?
+#### 20
+הֵ֤ן הִכָּה־צ֨וּר ׀ וַיָּז֣וּבוּ מַיִם֮ וּנְחָלִ֪ים יִ֫שְׁטֹ֥פוּ הֲגַם־לֶ֭חֶם י֣וּכַל תֵּ֑ת אִם־יָכִ֖ין שְׁאֵ֣ר לְעַמּֽוֹ ׃
+
+Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people ?
 ### 49
 יְשַׁלַּח־בָּ֨ם ׀ חֲר֬וֹן אַפּ֗וֹ עֶבְרָ֣ה וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים ׃
 

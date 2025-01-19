@@ -7,7 +7,7 @@ Fadl muhammad
 
 [Q.8:1](https://quran.com/8:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#8:1]]
+![[Qrsi#8:1]]
 
 ## nfl (spoil)
 
@@ -15,14 +15,14 @@ Fadl muhammad
 
 [Q.8:20](https://quran.com/8:20/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#8:20]]
+![[Qrsi#8:20]]
 ## TwE rsl ( )
 
 # Q:8:41
 
 [Q.8:41](https://quran.com/8:41/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#8:41]]
+![[Qrsi#8:41]]
 
 ## xms gnm ( )
 
@@ -30,19 +30,19 @@ Fadl muhammad
 
 [Q.8:46](https://quran.com/8:46/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#8:67]]
+![[Qrsi#8:67]]
 
 # Q:3:32
 
 [Q.3:32](https://quran.com/3:32/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#3:32]]
+![[Qrsi#3:32]]
 
 # Q:3:161
 
 [Q.3:161](https://quran.com/3:161/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#3:161]]
+![[Qrsi#3:161]]
 
 ## nbA gll ( )
 
@@ -50,26 +50,26 @@ Fadl muhammad
 
 [Q.33:4](https://quran.com/33:4/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#33:4]]![[Qrsd#33:5]]
+![[Qrsi#33:4]]![[Qrsi#33:5]]
 ## dEy ()
 
 # Q:33:6
 
 [Q.33:6](https://quran.com/33:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#33:6]]
+![[Qrsi#33:6]]
 
 ## nbA wly ( )
 
 # Q:33:33
 
 [Q.33:33](https://quran.com/33:33/tafsirs/ar-tafsir-al-tabari)
-![[Qrsd#33:33]]
+![[Qrsi#33:33]]
 
 # Q:33:36
 
 [Q.33:36](https://quran.com/33:36/tafsirs/ar-tafsir-al-tabari)
-![[Qrsd#33:36]]
+![[Qrsi#33:36]]
 
 ## rsl qDy Amr (  )
 
@@ -77,7 +77,7 @@ Fadl muhammad
 
 [Q.33:37](https://quran.com/33:37/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#33:37]]![[Qrsd#33:38]]
+![[Qrsi#33:37]]![[Qrsi#33:38]]
 
 ## dEy zwj ( )
 
@@ -85,7 +85,7 @@ Fadl muhammad
 
 [Q.33:40](https://quran.com/33:40/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#33:40]]
+![[Qrsi#33:40]]
 
 ## xtm nbA
 
@@ -93,18 +93,18 @@ Fadl muhammad
 
 [Q.33:50](https://quran.com/33:50/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#33:50]]![[Qrsd#33:51]]![[Qrsd#33:52]]
+![[Qrsi#33:50]]![[Qrsi#33:51]]![[Qrsi#33:52]]
 ## nbA xlS
 
 # Q:33.r7
 
-![[Qrsd#r33.7]]
+![[Qrsi#r33.7]]
 
 # Q:4:59
 
 [Q.4:59](https://quran.com/4:59/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#4:59]]
+![[Qrsi#4:59]]
 
 ## rdd rsl ( )
 
@@ -112,25 +112,26 @@ Fadl muhammad
 
 [Q.4:80](https://quran.com/4:80/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#4:80]]
+![[Qrsi#4:80]]
 
 # Q:4:83
 
 [Q.4:83](https://quran.com/4:83/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#4:83]]
+![[Qrsi#4:83]]
 
 # Q:47:33
 
 [Q.47:33](https://quran.com/47:33/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#47:33]]
-
+![[Qrsi#47:33]]
+# Q:24:62
+![[Qrsi#24:62]]
 # Q:24:63
 
 [Q.24:63](https://quran.com/24:63/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#24:63]]![[Qrsd#22:62]]
+![[Qrsi#24:63]]![[Qrsi#24:62]]
 ## (iii)%20root%3Axlf Amr rsl (  )
 
 ## pos%3AN%20root%3AdEw rsl byn (  among)
@@ -139,26 +140,26 @@ Fadl muhammad
 
 [Q.58:1](https://quran.com/58:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#58:1]]
+![[Qrsi#58:1]]
 
 # Q:49:14
 
 [Q.49:14](https://quran.com/49:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#49:14]]
+![[Qrsi#49:14]]
 
 # Q:66:1
 
 [Q.66:1](https://quran.com/66:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#66:1]]![[Qrsd#66:2]]![[Qrsd#66:3]]![[Qrsd#66:4]]![[Qrsd#66:5]]
+![[Qrsi#66:1]]![[Qrsi#66:2]]![[Qrsi#66:3]]![[Qrsi#66:4]]![[Qrsi#66:5]]
 # Q:9:24
-![[Qrsd#9:24]]
+![[Qrsi#9:24]]
 
 ## rsl Hbb ( beloved)
 
 # Q:9:120
 
-![[Qrsd#9:120]]
+![[Qrsi#9:120]]
 
 ## rgb nfs rsl (  )

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/mdhvA.md",
+                "file": "Ref/TA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mdhvA"
+              "title": "TA"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Pythagorean_platonic/Samkhya_kabbala_ghuli.md",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/adad/Samkhya_kabbala_ghuli.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/tlmd.amora.gemara.md",
-                "mode": "source",
+                "file": "Ref/mdrsh.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tlmd.amora.gemara"
+              "title": "mdrsh"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn_shaytan.md",
+                "file": "Ref/haft.azilla/h.a.19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jinn_shaytan"
+              "title": "h.a.19"
             }
           },
           {
@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.apcryph.ethp.md",
+                "file": "Ref/bbl.torah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bbl.apcryph.ethp"
+              "title": "bbl.torah"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/Ling/Hebrew_arabic/arabic_homophonous_homosemantic.md",
+                "file": "001_eskaton/Ling/Hebrew_arabic/Arabic_homonyms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "arabic_homophonous_homosemantic"
+              "title": "Arabic_homonyms"
             }
           },
           {
@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/tacit.md",
-                "mode": "source",
+                "file": "Ref/clmnt.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tacit"
+              "title": "clmnt"
             }
           },
           {
@@ -260,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -354,7 +354,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/tfTb.md"
+            "file": "Ref/clmnt.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -371,46 +371,50 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "da6304b2e5b65b68",
+  "active": "00adfa2219d80aac",
   "lastOpenFiles": [
-    "Ref/tfTb.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn_shaytan.md",
-    "Ref/Qrsi.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Free will/No free will in quran.md",
-    "001_eskaton/Ling/Hebrew_arabic/arabic_homophonous_homosemantic.md",
-    "001_eskaton/Ling/Hebrew_arabic/arabic_morphology.md",
-    "Prof/Job opening.md",
-    "sylhet_social_media.md",
-    "instigators.md",
-    "boomerang/gen-z_targetting_propaganda.md",
+    "Ref/pl.phaedr.md",
+    "Ref/clmnt.md",
+    "Ref/pl.tim.md",
+    "Ref/phlst.apolTyn.md",
+    "Ref/plut.md",
+    "Ref/hdt.hist.md",
+    "Ref/diodSic.biblHist.md",
+    "Ref/strab.geogr.md",
+    "Ref/Arr.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk4.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk.md",
+    "Ref/haft.azilla/h.a.19.md",
+    "Ref/haft.azilla/h.a.20.md",
+    "Ref/haft.azilla/h.a.17.md",
+    "Ref/haft.azilla/h.a.13.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fadl/fadl.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/awla_al_ul_khass_khalisah/Fadl.md",
+    "Ref/haft.azilla/h.a.12.md",
+    "Ref/haft.azilla/h.a.11.md",
+    "Ref/haft.azilla/h.a.10.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/God's very own argument.md",
+    "Ref/mdrsh.md",
+    "Ref/kbl.md",
+    "Ref/sfr.ytzr.md",
+    "Ref/sfr.Bhr.md",
+    "Ref/sfr.zohr.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad/Itqan",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kawthar",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/74_31_arb.png",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/74_31_eng.png",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/qarya",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.png",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.png",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn_shaytan.png",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/shaytan.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak.sync-conflict-20250109-141737-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.sync-conflict-20250109-141736-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak_bak.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn_BAK2.md",
-    "boomerang/bal.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn_BAK.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak(1).md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/kitab_ahl.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/Hanif_milla_ibrahim.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab2.md",
-    "Ref/umm.kitab/u.k.5.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/nSr.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/naSara.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/rkb",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/Kahin",
     "Ref/umm.kitab",
     "Ref/haft.azilla",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/hikmah/umm_l_kitab",
-    "Ref/iamb.pyth",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/araf/Pythagorean_platonic/15194409_656388334522608_3437266025718668693_o.jpg",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/araf/Pythagorean_platonic",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/du'a",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk",
     "Ref/Pasted image 20241128002518.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

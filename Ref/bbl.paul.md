@@ -167,7 +167,19 @@ Charity suffereth long, [and] is kind; charity envieth not; charity vaunteth not
 ουκ ασχημονει ου ζητει τα εαυτης ου παροξυνεται ου λογιζεται το κακον
 
 Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
+## c15
+#### 4
+και οτι εταφη και οτι εγηγερται τη τριτη ημερα κατα τας γραφας
 
+And that he was buried, and that he rose again the third day according to the scriptures:
+#### 5
+και οτι ωφθη κηφα ειτα τοις δωδεκα
+
+And that he was seen of Cephas, then of the twelve:
+#### 6
+επειτα ωφθη επανω πεντακοσιοις αδελφοις εφαπαξ εξ ων οι πλειους μενουσιν εως αρτι τινες δε και εκοιμηθησαν
+
+After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
 # 2 cor
 ## c6
 ### 15
