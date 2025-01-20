@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/haft.azilla/h.a.19.md",
+                "file": "Ref/alBeruni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "h.a.19"
+              "title": "alBeruni"
             }
           },
           {
@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sylhet_social_media.md",
+                "file": "boomerang/bal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sylhet_social_media"
+              "title": "bal"
             }
           },
           {
@@ -260,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -371,10 +371,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "00adfa2219d80aac",
+  "active": "da6304b2e5b65b68",
   "lastOpenFiles": [
-    "Ref/pl.phaedr.md",
+    "Ref/haft.azilla/h.a.19.md",
+    "Ref/alBeruni.md",
+    "Ref/bRush.md",
+    "Ref/gzl.md",
+    "Ref/Buni.md",
+    "boomerang/bal.md",
+    "sylhet_social_media.md",
     "Ref/clmnt.md",
+    "Ref/pl.phaedr.md",
     "Ref/pl.tim.md",
     "Ref/phlst.apolTyn.md",
     "Ref/plut.md",
@@ -384,7 +391,6 @@
     "Ref/Arr.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk4.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk.md",
-    "Ref/haft.azilla/h.a.19.md",
     "Ref/haft.azilla/h.a.20.md",
     "Ref/haft.azilla/h.a.17.md",
     "Ref/haft.azilla/h.a.13.md",
@@ -393,12 +399,6 @@
     "Ref/haft.azilla/h.a.12.md",
     "Ref/haft.azilla/h.a.11.md",
     "Ref/haft.azilla/h.a.10.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/God's very own argument.md",
-    "Ref/mdrsh.md",
-    "Ref/kbl.md",
-    "Ref/sfr.ytzr.md",
-    "Ref/sfr.Bhr.md",
-    "Ref/sfr.zohr.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad/Itqan",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kawthar",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad",
