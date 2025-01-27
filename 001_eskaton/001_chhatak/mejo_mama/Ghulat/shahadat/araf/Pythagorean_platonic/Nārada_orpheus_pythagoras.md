@@ -17,7 +17,7 @@ c 100 use lyre for soul to return to sphere
 
 # spondaic
 
-[[iamb.pyth.md#28#_153]]
+[[Ref/iamb.pyth#28#_153]]
 
 [[hsd]]
 

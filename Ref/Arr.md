@@ -262,6 +262,40 @@ Again, when he arrived at Taxila and saw the naked sect of Indian philosophers, 
 καὶ ὁ μὲν πρεσβύτατος τῶν σοφιστῶν, ὅτου ὁμιληταὶ οἱ ἄλλοι ἦσαν, Δάνδαμις ὄνομα, οὔτε αὐτὸς ἔφη παρ᾽ Ἀλέξανδρον ἥξειν οὔτε τοὺς ἄλλους εἴα,
 
 But the oldest of the philosophers, Dandamis by name, of whom the others were disciples, refused to come himself to Alexander, and would not allow the others to do so.
+### c4
+##### 1
+ἐν τούτῳ δὲ Ἀλέξανδρος Ἀτροπάτην μὲν ἐπὶ τὴν αὐτοῦ σατραπείαν ἐκπέμπει παρελθὼν ἐς Σοῦσα, Ἀβουλίτην δὲ καὶ τὸν τούτου παῖδα Ὀξάθρην, ὅτι κακῶς ἐπεμελεῖτο τῶν Σουσίων, συλλαβὼν ἀπέκτεινε. 
+
+At this time Alexander sent Atropates away to his own viceroyalty,841 after advancing to Susa; where he arrested Abulites and his son Oxathres, and put them to death on the ground that they were governing the Susians badly.842 
+##### 2
+πολλὰ μὲν δὴ ἐπεπλημμέλητο ἐκ τῶν κατεχόντων τὰς χώρας ὅσαι δορίκτητοι πρὸς Ἀλεξάνδρου ἐγένοντο ἔς τε τὰ ἱερὰ καὶ τάφους καὶ αὐτοὺς τοὺς ὑπηκόους, ὅτι χρόνιος ὁ εἰς Ἰνδοὺς στόλος ἐγεγένητο τῷ βασιλεῖ καὶ οὐ πιστὸν ἐφαίνετο ἀπονοστήσειν αὐτὸν ἐκ τοσῶνδε ἐθνῶν καὶ τοσῶνδε ἐλεφάντων, ὑπὲρ τὸν Ἰνδόν τε καὶ Ὑδάσπην καὶ τὸν Ἀκεσίνην καὶ Ὕφασιν φθειρόμενον. 
+
+Many outrages upon temples, tombs, and the subjects themselves had been committed by those who were ruling the countries conquered by Alexander in war; because the king’s expedition into India had taken a long time, and it was not thought credible that he would ever return in safety from so many nations possessing so many elephants, going to his destruction beyond the Indus, Hydaspes, Acesines, and Hyphasis.843 
+##### 3
+καὶ αἱ ἐν Γαδρωσίοις δὲ αὐτῷ ξυμφοραὶ ξυνενεχθεῖσαι ἔτι μᾶλλον ἐπῆραν τοὺς [ἐν] ταύτῃ σατραπεύοντας καταφρονῆσαι αὐτοῦ τῆς οἴκοι ἀπονοστήσεως. οὐ μὴν ἀλλὰ καὶ αὐτὸς Ἀλέξανδρος ὀξύτερος λέγεται γενέσθαι ἐν τῷ τότε ἐς τὸ πιστεῦσαί τε τοῖς ἐπικαλουμένοις ὡς πιθανοῖς δὴ ἐν παντὶ οὖσι, καὶ ἐπὶ τὸ τιμωρήσασθαι μεγάλως τοὺς καὶ ἐπὶ μικροῖς ἐξελεγχθέντας, ὅτι καὶ τὰ μεγάλα ἂν ἐδόκουν αὐτῷ τῇ αὐτῇ γνώμῃ ἐξεργάσασθαι. 
+
+The calamities that befell him among the Gadrosians were still greater inducements to those acting as viceroys in this region to be free from apprehension of his return to his dominions. 375Not only so, but Alexander himself is said to have become more inclined at that time to believe accusations which were plausible in every way, as well as to inflict very severe punishment upon those who were convicted even of small offences, because with the same disposition he thought they would be likely to perform great ones.844
+##### 4
+ὁ δὲ καὶ γάμους ἐποίησεν ἐν Σούσοις αὑτοῦ τε καὶ τῶν ἑταίρων: αὐτὸς μὲν τῶν Δαρείου θυγατέρων τὴν πρεσβυτάτην Βαρσίνην ἠγάγετο, ὡς δὲ λέγει Ἀριστόβουλος, καὶ ἄλλην πρὸς ταύτῃ, τῶν Ὤχου 1 [p. 294] θυγατέρων τὴν νεωτάτην Παρύσατιν. ἤδη δὲ ἦν αὐτῷ ἠγμένη καὶ ἡ Ὀξυάρτου τοῦ Βακτρίου παῖς Ῥωξάνη. 
+
+In Susa also he celebrated both his own wedding and those of his companions. He himself married Barsine, the eldest daughter of Darius,845 and according to Aristobulus, besides her another, Parysatis, the youngest daughter of Ochus.846 He had already married Roxana, daughter of Oxyartes the Bactrian.847 
+##### 5
+Δρύπετιν δὲ Ἡφαιστίωνι δίδωσι, Δαρείου παῖδα καὶ ταύτην, ἀδελφὴν τῆς αὑτοῦ γυναικός: ἐθέλειν γάρ οἱ ἀνεψιοὺς τῶν παίδων γενέσθαι τοὺς Ἡφαιστίωνος παῖδας: Κρατερῷ δὲ Ἀμαστρίνην τὴν Ὀξυάτρου τοῦ Δαρείου ἀδελφοῦ παῖδα: Περδίκκᾳ δὲ τὴν Ἀτροπάτου τοῦ Μηδίας σατράπου παῖδα ἔδωκεν: 
+
+To Hephaestion he gave Drypetis, another daughter of Darius, and his own wife’s sister; for he wished Hephaestion’s children to be first cousins to his own. To Craterus he gave Amastrine, daughter of Oxyartes the brother of Darius; to Perdiccas, the daughter of Atropates, viceroy of Media; 
+##### 6
+Πτολεμαίῳ δὲ τῷ σωματοφύλακι καὶ Εὐμενεῖ τῷ γραμματεῖ τῷ βασιλικῷ τὰς Ἀρταβάζου παῖδας τῷ μὲν Ἀρτακάμαν, τῷ δὲ Ἄρτωνιν: Νεάρχῳ δὲ τὴν Βαρσίνης τε καὶ Μέντορος παῖδα: Σελεύκῳ δὲ τὴν Σπιταμένους τοῦ Βακτρίου παῖδα: ὡσαύτως δὲ καὶ τοῖς ἄλλοις ἑταίροις τὰς δοκιμωτάτας Περσῶν τε καὶ Μήδων παῖδας ἐς ὀγδοήκοντα. οἱ γάμοι δὲ ἐποιήθησαν νόμῳ τῷ Περσικῷ: 
+
+to Ptolemy the confidential body-guard, and Eumenes the royal secretary, the daughters of Artabazus, to the former Artacama, and to the latter Artonis. To Nearchus he gave the daughter of Barsine and Mentor; to Seleucus the daughter of Spitamenes the Bactrian. Likewise to the rest of his Companions he gave the choicest daughters of the Persians and Medes, to the number of eighty. 
+##### 7
+θρόνοι ἐτέθησαν τοῖς νυμφίοις ἐφεξῆς καὶ μετὰ τὸν πότον ἧκον αἱ γαμούμεναι καὶ παρεκαθέζοντο ἑκάστη τῷ ἑαυτῆς: οἱ δὲ ἐδεξιώσαντό τε αὐτὰς καὶ ἐφίλησαν: πρῶτος δὲ ὁ βασιλεὺς ἦρξεν: ἐν τῷ αὐτῷ γὰρ πάντων ἐγίγνοντο οἱ γάμοι. καὶ τοῦτο, εἴπερ τι ἄλλο, ἔδοξε δημοτικόν τε καὶ φιλέταιρον πρᾶξαι Ἀλέξανδρον. 
+
+The weddings were celebrated after the Persian manner, seats being placed in a row for the bridegrooms; and after the banquet the brides 376came in and seated themselves, each one near her own husband. The bridegrooms took them by the right hand and kissed them; the king being the first to begin, for the weddings of all were conducted in the same way. This appeared the most popular thing which Alexander ever did; 
+##### 8
+οἱ δὲ παραλαβόντες ἀπῆγον τὴν αὐτοῦ ἕκαστος: προῖκας δὲ ξυμπάσαις ἐπέδωκεν Ἀλέξανδρος. καὶ ὅσοι δὲ ἄλλοι ἠγμένοι ἦσαν Μακεδόνες τῶν Ἀσιανῶν τινας γυναικῶν, ἀπογραφῆναι ἐκέλευσε καὶ τούτων τὰ ὀνόματα, καὶ ἐγένοντο ὑπὲρ τοὺς μυρίους, καὶ τούτοις δωρεαὶ Ἀλεξάνδρου ἐδόθησαν ἐπὶ τοῖς γάμοις.
+1 Aristob. fr. 38
+
+and it proved his affection for his Companions. Each man took his own bride and led her away; and on all without exception Alexander bestowed dowries.848 He also ordered that the names of all the other Macedonians who had married any of the Asiatic women should be registered. They were over 10,000 in number; and to these Alexander made presents on account of their weddings.
 ### c7
 #### 8
 ἐν δὲ τῷ ἀνάπλῳ τοὺς καταρράκτας τοὺς κατὰ τὸν ποταμὸν ἀφανίζων ὁμαλὸν πάντῃ ἐποίει τὸν ῥοῦν, οἳ δὴ ἐκ Περσῶν πεποιημένοι ἦσαν τοῦ μή τινα ἀπὸ θαλάσσης ἀναπλεῦσαι εἰς τὴν χώραν αὐτῶν νηΐτῃ στόλῳ κρατήσαντα. 
@@ -283,6 +317,40 @@ https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0531
 https://sourcebooks.web.fordham.edu/ancient/arrian-bookVIII-India.asp
 
 https://en.wikisource.org/wiki/Ancient_India_as_described_by_Megasthen%C3%AAs_and_Arrian
+## c1
+#### 1
+τὰ ἔξω τοῦ Ἰνδοῦ ποταμοῦ τὰ πρὸς ἑσπέρην ἔστε ἐπὶ ποταμὸν Κωφῆνα Ἀστακηνοὶ καὶ Ἀσσακηνοί, ἔθνεα Ἰνδικά, ἐποικέουσιν. 
+
+ALL the territory that lies west of the river Indus up to the river Cophen is inhabited by Astacenians and Assacenians, Indian tribes. 
+#### 2
+ἀλλὰ οὔτε μεγάλοι τὰ σώματα, κατάπερ οἱ ἐντὸς τοῦ Ἰνδοῦ ᾠκισμένοι, οὔτε ἀγαθοὶ ὡσαύτως τὸν θυμὸν οὐδὲ μέλανες ὡσαύτως τοῖσι πολλοῖσιν Ἰνδοῖσιν. 
+
+But they are not, like the Indians dwelling within the river Indus, tall of stature, nor similarly brave in spirit, nor as black as the greater part of the Indians. 
+
+#### 3
+οὗτοι πάλαι μὲν Ἀσσυρίοισιν ὑπήκοοι ἦσαν: ἐπὶ δὲ Μήδοισι Περσέων ἤκουον, καὶ φόρους ἀπέφερον Κύρῳ τῷ Καμβύσεω ἐκ τῆς γῆς σφῶν, οὓς ἔταξε Κῦρος. 
+
+These long ago were subject to the Assyrians; then to the Medes, and so they became subject to the Persians; and they paid tribute to Cyrus son of Cambyses from their territory, as Cyrus commanded. 
+#### 4
+Νυσαῖοι δὲ οὐκ Ἰνδικὸν γένος ἐστίν, ἀλλὰ τῶν ἅμα Διονύσῳ ἐλθόντων ἐς τὴν γῆν τὴν Ἰνδῶν, τυχὸν μὲν Ἑλλήνων, ὅσοι ἀπόμαχοι αὐτῶν ἐγένοντο ἐν τοῖσι πολέμοισιν οὕστινας πρὸς Ἰνδοὺς Διόνυσος ἐπολέμησε, τυχὸν δὲ καὶ τῶν ἐπιχωρίων. 
+
+The Nysaeans are not an Indian race; but part of those who came with Dionysus to India; possibly even of those Greeks who became past service in the wars which Dionysus waged with Indians; 
+#### 5
+τοὺς ἐθέλοντας τοῖσιν Ἕλλησι συνῴκισε, τήν τε χώρην Νυσαίην ὠνόμασεν ἀπὸ τοῦ οὔρεος τῆς Νύσης Διόνυσος, καὶ τὴν πόλιν αὐτὴν Νῦσαν. 
+
+possibly also volunteers of the neighbouring tribes whom Dionysus settled there together with the Greeks, calling the country Nysaea from the mountain Nysa, and the city itself Nysa. 
+#### 6
+καὶ τὸ οὖρος τὸ πρὸς τῇ πόλι, ὅτου ἐν τῇσιν ὑπωρείῃσιν ᾤκισται ἡ Νῦσα, Μηρὸς κληίζεται ἐπὶ τῇ συμφορῇ ᾗτινι ἐχρήσατο εὐθὺς γενόμενος. 
+
+And the mountain near the city, on whose foothills Nysa is built, is called Merus because of the incident at Dionysus' birth. 
+#### 7
+ταῦτα μὲν οἱ ποιηταὶ ἐπὶ Διονύσῳ ἐποίησαν, καὶ ἐξηγείσθων αὐτὰ ὅσοι λόγιοι Ἑλλήνων ἢ βαρβάρων: 
+
+All this the poets sang about Dionysus; and I leave it to the narrators of Greek or Eastern history to recount them. 
+#### 8
+ἐν Ἀσσακηνοῖσι δὲ Μάσσακα, πόλις μεγάλη, ἵναπερ καὶ τὸ κράτος τῆς γῆς ἐστι τῆς Ἀσσακίης: καὶ ἄλλη πόλις Πευκελαῗτις, μεγάλη καὶ αὐτή, οὐ μακρὰν τοῦ Ἰνδοῦ. ταῦτα μὲν ἔξω τοῦ Ἰνδοῦ ποταμοῦ ᾤκισται πρὸς ἑσπέρην ἔστε ἐπὶ τὸν Κωφῆνα. [p. 2]
+
+Among the Assacenians is Massaca, a great city, where resides the chief authority of the Assacian land; and another city Peucela, this also a great city, not far from the Indus. These places then are inhabited on this side of the Indus towards the west, as far as the river Cophen.
 ## c5
 
 ### 9

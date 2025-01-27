@@ -66,7 +66,7 @@ This temple, I discover from making inquiry, is the oldest of all the temples of
 But the Scythians who pillaged the temple, and all their descendants after them, were afflicted by the goddess with the “female” sickness: and so the Scythians say that they are afflicted as a consequence of this and also that those who visit Scythian territory see among them the condition of those whom the Scythians call “Hermaphrodites”.1
 
 1 The derivation of this word is uncertain; it is agreed that the disease was a loss of virility. In Hdt. 4.67 ἐναρής = ἀνδρόγονος.
-### c131
+## c131
 Πέρσας δὲ οἶδα νόμοισι τοιοῖσιδε χρεωμένους, ἀγάλματα μὲν καὶ νηοὺς καὶ βωμοὺς οὐκ ἐν νόμῳ ποιευμένους ἱδρύεσθαι, ἀλλὰ καὶ τοῖσι ποιεῦσι μωρίην ἐπιφέρουσι, ὡς μὲν ἐμοὶ δοκέειν, ὅτι οὐκ ἀνθρωποφυέας ἐνόμισαν τοὺς θεοὺς κατά περ οἱ Ἕλληνες εἶναι: 
 
 As to the customs of the Persians, I know them to be these. It is not their custom to make and set up statues and temples and altars, but those who do such things they think foolish, because, I suppose, they have never believed the gods to be like men, as the Greeks do; 
@@ -78,6 +78,12 @@ As to the customs of the Persians, I know them to be these. It is not their cust
 [3] τούτοισι μὲν δὴ θύουσι μούνοισι ἀρχῆθεν, ἐπιμεμαθήκασι δὲ καὶ τῇ Οὐρανίῃ θύειν, παρά τε Ἀσσυρίων μαθόντες καὶ Ἀραβίων. καλέουσι δὲ Ἀσσύριοι τὴν Ἀφροδίτην Μύλιττα, Ἀράβιοι δὲ Ἀλιλάτ, Πέρσαι δὲ Μίτραν.
 
 [3] From the beginning, these are the only gods to whom they have ever sacrificed; they learned later to sacrifice to the “heavenly”1 Aphrodite from the Assyrians and Arabians. She is called by the Assyrians Mylitta, by the Arabians Alilat, by the Persians Mitra.
+## c170
+#### 3
+αὕτη μὲν Βίαντος τοῦ Πριηνέος γνώμη ἐπὶ διεφθαρμένοισι Ἴωσι γενομένη, χρηστὴ δὲ καὶ πρὶν ἢ διαφθαρῆναι Ἰωνίην Θάλεω ἀνδρὸς Μιλησίου ἐγένετο, τὸ ἀνέκαθεν γένος ἐόντος Φοίνικος, ὃς ἐκέλευε ἓν βουλευτήριον Ἴωνας ἐκτῆσθαι, τὸ δὲ εἶναι ἐν Τέῳ （Τέων γὰρ μέσον εἶναι Ἰωνίης）, τὰς δὲ ἄλλας πόλιας οἰκεομένας μηδὲν ἧσσον νομίζεσθαι κατά περ ἐς δῆμοι εἶεν: οὗτοι μὲν δή σφι γνώμας τοιάσδε ἀπεδέξαντο.
+
+This was the advice which Bias of Priene gave after the destruction of the Ionians; and that given before the destruction by Thales of Miletus, a Phoenician by descent, was good too; he advised that the Ionians have one place of deliberation, and that it be in Teos (for that was the center of Ionia), and that the other cities be considered no more than demes.
+Thus Bias and Thales advised.
 # b2
 ## c3
 κατὰ μὲν δὴ τὴν τροφὴν τῶν παίδων τοσαῦτα ἔλεγον, ἤκουσα δὲ καὶ ἄλλα ἐν Μέμφι ἐλθὼν ἐς λόγους τοῖσι ἱρεῦσι τοῦ Ἡφαίστου. καὶ δὴ καὶ ἐς Θήβας τε καὶ ἐς Ἡλίου πόλιν αὐτῶν τούτων εἵνεκεν ἐτραπόμην, ἐθέλων εἰδέναι εἰ συμβήσονται τοῖσι λόγοισι τοῖσι ἐν Μέμφι: οἱ γὰρ Ἡλιοπολῖται λέγονται Αἰγυπτίων εἶναι λογιώτατοι. 
@@ -390,22 +396,68 @@ Thus they showed that all those whose statues stood there had been good men, but
 νῦν δὲ Διόνυσόν τε λέγουσι οἱ Ἕλληνες ὡς αὐτίκα γενόμενον ἐς τὸν μηρὸν ἐνερράψατο Ζεὺς καὶ ἤνεικε ἐς Νύσαν τὴν ὑπὲρ Αἰγύπτου ἐοῦσαν ἐν τῇ Αἰθιοπίῃ, καὶ Πανός γε πέρι οὐκ ἔχουσι εἰπεῖν ὅκῃ ἐτράπετο γενόμενος. δῆλά μοι γέγονε ὅτι ὕστερον ἐπύθοντο οἱ Ἕλληνες τούτων τὰ οὐνόματα ἢ τὰ τῶν ἄλλων θεῶν: ἀπ᾽ οὗ δὲ ἐπύθοντο χρόνου, ἀπὸ τούτου γενεηλογέουσι αὐτῶν τὴν γένεσιν.
 
 but as it is, the Greek story has it that no sooner was Dionysus born than Zeus sewed him up in his thigh and carried him away to Nysa in Ethiopia beyond Egypt; and as for Pan, the Greeks do not know what became of him after his birth. It is therefore plain to me that the Greeks learned the names of these two gods later than the names of all the others, and trace the birth of both to the time when they gained the knowledge.
+## c152
+#### 1
+τὸν δὲ Ψαμμήτιχον τοῦτον πρότερον φεύγοντα τὸν Αἰθίοπα Σαβακῶν, ὅς οἱ τὸν πατέρα Νεκῶν ἀπέκτεινε, τοῦτον φεύγοντα τότε ἐς Συρίην, ὡς ἀπαλλάχθη ἐκ τῆς ὄψιος τοῦ ὀνείρου ὁ Αἰθίοψ, κατήγαγον Αἰγυπτίων οὗτοι οἳ ἐκ νομοῦ τοῦ Σαΐτεω εἰσί. 
+
+This Psammetichus had formerly been in exile in Syria, where he had fled from Sabacos the Ethiopian, who killed his father Necos; then, when the Ethiopian departed because of what he saw in a dream, the Egyptians of the district of Saïs brought him back from Syria. 
+##### 2
+μετὰ δὲ βασιλεύοντα τὸ δεύτερον πρὸς τῶν ἕνδεκα βασιλέων καταλαμβάνει μιν διὰ τὴν κυνέην φεύγειν ἐς τὰ ἕλεα. 
+
+[2] Psammetichus was king for the second time when he found himself driven away into the marshes by the eleven kings because of the helmet. 
+
+##### 3
+ἐπιστάμενος ὦν ὡς περιυβρισμένος εἴη πρὸς αὐτῶν, ἐπενόεε τίσασθαι τοὺς διώξαντας. πέμψαντι δέ οἱ ἐς Βουτοῦν πόλιν ἐς τὸ χρηστήριον τῆς Λητοῦς, ἔνθα δὴ Αἰγυπτίοισι ἐστὶ μαντήιον ἀψευδέστατον, ἦλθε χρησμὸς ὡς τίσις ἥξει ἀπὸ θαλάσσης χαλκέων ἀνδρῶν ἐπιφανέντων. 
+
+[3] Believing, therefore, that he had been abused by them, he meant to be avenged on those who had expelled him. He sent to inquire in the town of Buto, where the most infallible oracle in Egypt is; the oracle answered that he would have vengeance when he saw men of bronze coming from the sea. 
+##### 4
+καὶ τῷ μὲν δὴ ἀπιστίη μεγάλη ὑπεκέχυτο χαλκέους οἱ ἄνδρας ἥξειν ἐπικούρους. χρόνου δὲ οὐ πολλοῦ διελθόντος ἀναγκαίη κατέλαβε Ἴωνάς τε καὶ Κᾶρας ἄνδρας κατὰ ληίην ἐκπλώσαντας ἀπενειχθῆναι ἐς Αἴγυπτον, ἐκβάντας δὲ ἐς γῆν καὶ ὁπλισθέντας χαλκῷ ἀγγέλλει τῶν τις Αἰγυπτίων ἐς τὰ ἕλεα ἀπικόμενος τῷ Ψαμμητίχῳ, ὡς οὐκ ἰδὼν πρότερον χαλκῷ ἄνδρας ὁπλισθέντας, ὡς χάλκεοι ἄνδρες ἀπιγμένοι ἀπὸ θαλάσσης λεηλατεῦσι τὸ πεδίον. 
+
+[4] Psammetichus did not in the least believe that men of bronze would come to aid him. But after a short time, Ionians and Carians, voyaging for plunder, were forced to put in on the coast of Egypt, where they disembarked in their armor of bronze; and an Egyptian came into the marsh country and brought news to Psammetichus (for he had never before seen armored men) that men of bronze had come from the sea and were foraging in the plain. 
+##### 5
+ὁ δὲ μαθὼν τὸ χρηστήριον ἐπιτελεύμενον φίλα τε τοῖσι Ἴωσι καὶ Καρσὶ ποιέεται καί σφεας μεγάλα ὑπισχνεύμενος πείθει μετ᾽ ἑωυτοῦ γενέσθαι. ὡς δὲ ἔπεισε, οὕτω ἅμα τοῖσι τὰ ἑωυτοῦ βουλομένοισι Αἰγυπτίοισι καὶ τοῖσι ἐπικούροισι καταιρέει τοὺς βασιλέας
+
+[5] Psammetichus saw in this the fulfillment of the oracle; he made friends with the Ionians and Carians, and promised them great rewards if they would join him and, having won them over, deposed the eleven kings with these allies and those Egyptians who volunteered.
 ## c153
 κρατήσας δὲ Αἰγύπτου πάσης ὁ Ψαμμήτιχος ἐποίησε τῷ Ἡφαίστῳ προπύλαια ἐν Μέμφι τὰ πρὸς νότον ἄνεμον τετραμμένα, αὐλήν τε τῷ Ἄπι, ἐν τῇ τρέφεται ἐπεὰν φανῇ ὁ Ἆπις, οἰκοδόμησε ἐναντίον τῶν προπυλαίων, πᾶσάν τε περίστυλον ἐοῦσαν καὶ τύπων πλέην: ἀντὶ δὲ κιόνων ὑπεστᾶσι κολοσσοὶ δυωδεκαπήχεες τῇ αὐλῇ. ὁ δὲ Ἆπις κατὰ τὴν Ἑλλήνων γλῶσσαν ἐστὶ Ἔπαφος.
 
 Having made himself master of all Egypt, he made the southern outer court of Hephaestus' temple at Memphis, and built facing this a court for Apis, where Apis is kept and fed whenever he appears; this court has an inner colonnade all around it and many cut figures; the roof is held up by great statues twenty feet high for pillars. Apis in Greek is Epaphus.
+## c154
+#### 1
+τοῖσι δὲ Ἴωσι καὶ τοῖσι Καρσὶ τοῖσι συγκατεργασαμένοισι αὐτῷ ὁ Ψαμμήτιχος δίδωσι χώρους ἐνοικῆσαι ἀντίους ἀλλήλων, τοῦ Νείλου τὸ μέσον ἔχοντος, τοῖσι οὐνόματα ἐτέθη Στρατόπεδα: τούτους τε δή σφι τοὺς χώρους δίδωσι καὶ τὰ ἄλλα τὰ ὑπέσχετο πάντα ἀπέδωκε. 
+
+To the Ionians and Carians who had helped him, Psammetichus gave places to live in called The Camps, opposite each other on either side of the Nile; and besides this, he paid them all that he had promised. 
+##### 2
+καὶ δὴ καὶ παῖδας παρέβαλε αὐτοῖσι Αἰγυπτίους τὴν Ἑλλάδα γλῶσσαν ἐκδιδάσκεσθαι. ἀπὸ δὲ τούτων ἐκμαθόντων τὴν γλῶσσαν οἱ νῦν ἑρμηνέες ἐν Αἰγύπτῳ γεγόνασι. 
+
+[2] Moreover, he put Egyptian boys in their hands to be taught Greek, and from these, who learned the language, are descended the present-day Egyptian interpreters. 
+##### 3
+οἱ δὲ Ἴωνές τε καὶ οἱ Κᾶρες τούτους τοὺς χώρους οἴκησαν χρόνον ἐπὶ πολλόν: εἰσὶ δὲ οὗτοι οἱ χῶροι πρὸς θαλάσσης ὀλίγον ἔνερθε Βουβάστιος πόλιος, ἐπὶ τῷ Πηλουσίῳ καλεομένῳ στόματι τοῦ Νείλου. τούτους μὲν δὴ χρόνῳ ὕστερον βασιλεὺς Ἄμασις ἐξαναστήσας ἐνθεῦτεν κατοίκισε ἐς Μέμφιν, φυλακὴν ἑωυτοῦ ποιεύμενος πρὸς Αἰγυπτίων. 
+
+[3] The Ionians and Carians lived for a long time in these places, which are near the sea, on the arm of the Nile called the Pelusian, a little way below the town of Bubastis. Long afterwards, king Amasis removed them and settled them at Memphis to be his guard against the Egyptians. 
+##### 4
+τούτων δὲ οἰκισθέντων ἐν Αἰγύπτῳ, οἱ Ἕλληνες οὕτω ἐπιμισγόμενοι τούτοισι τὰ περὶ Αἴγυπτον γινόμενα ἀπὸ Ψαμμητίχου βασιλέος ἀρξάμενοι πάντα καὶ τὰ ὕστερον ἐπιστάμεθα ἀτρεκέως: πρῶτοι γὰρ οὗτοι ἐν Αἰγύπτῳ ἀλλόγλωσσοι κατοικίσθησαν. 
+
+[4] It is a result of our communication with these settlers in Egypt (the first of foreign speech to settle in that country) that we Greeks have exact knowledge of the history of Egypt from the reign of Psammetichus onwards. 
+##### 5
+ἐξ ὧν δὲ ἐξανέστησαν χώρων, ἐν τούτοισι δὲ οἵ τε ὁλκοὶ τῶν νεῶν καὶ τὰ ἐρείπια τῶν οἰκημάτων τὸ μέχρι ἐμεῦ ἦσαν.
+
+[5] There still remained in my day, in the places out of which the Ionians and Carians were turned, the winches1 for their ships and the ruins of their houses. This is how Psammetichus got Egypt.
+
+1 Probably capstans for hauling the ships ashore.
 ## c155
+#### 1
 Ψαμμήτιχος μέν νυν οὕτω ἔσχε Αἴγυπτον. 
 
 τοῦ δὲ χρηστηρίου τοῦ ἐν Αἰγύπτῳ πολλὰ ἐπεμνήσθην ἤδη, καὶ δὴ λόγον περὶ αὐτοῦ ὡς ἀξίου ἐόντος ποιήσομαι. τὸ γὰρ χρηστήριον τοῦτο τὸ ἐν Αἰγύπτῳ ἐστὶ μὲν Λητοῦς ἱρόν, ἐν πόλι δὲ μεγάλῃ ἱδρυμένον κατὰ τὸ Σεβεννυτικὸν καλεόμενον στόμα τοῦ Νείλου, ἀναπλέοντι ἀπὸ θαλάσσης ἄνω. 
 
 I have often mentioned the Egyptian oracle, and shall give an account of this, as it deserves. This oracle is sacred to Leto, and is situated in a great city by the Sebennytic arm of the Nile, on the way up from the sea. 
-
-[2] οὔνομα δὲ τῇ πόλι ταύτῃ ὅκου τὸ χρηστήριον ἐστὶ Βουτώ, ὡς καὶ πρότερον ὠνόμασταί μοι. ἱρὸν δὲ ἐστὶ ἐν τῇ Βουτοῖ ταύτῃ Ἀπόλλωνος καὶ Ἀρτέμιδος, καὶ ὅ γε νηὸς τῆς Λητοῦς, ἐν τῷ δὴ τὸ χρηστήριον ἔνι, αὐτός τε τυγχάνει ἐὼν μέγας καὶ τὰ προπύλαια ἔχει ἐς ὕψος δέκα ὀργυιέων. 
+##### 2
+οὔνομα δὲ τῇ πόλι ταύτῃ ὅκου τὸ χρηστήριον ἐστὶ Βουτώ, ὡς καὶ πρότερον ὠνόμασταί μοι. ἱρὸν δὲ ἐστὶ ἐν τῇ Βουτοῖ ταύτῃ Ἀπόλλωνος καὶ Ἀρτέμιδος, καὶ ὅ γε νηὸς τῆς Λητοῦς, ἐν τῷ δὴ τὸ χρηστήριον ἔνι, αὐτός τε τυγχάνει ἐὼν μέγας καὶ τὰ προπύλαια ἔχει ἐς ὕψος δέκα ὀργυιέων. 
 
 [2] Buto is the name of the city where this oracle is; I have already mentioned it. In Buto there is a temple of Apollo and Artemis. The shrine of Leto where the oracle is, is itself very great, and its outer court is sixty feet high. 
-
-[3] τὸ δέ μοι τῶν φανερῶν ἦν θῶμα μέγιστον παρεχόμενον, φράσω: ἔστι ἐν τῷ τεμένεϊ τούτῳ Λητοῦς νηὸς ἐξ ἑνὸς λίθου πεποιημένος ἔς τε ὕψος καὶ ἐς μῆκος καὶ τοῖχος ἕκαστος τούτοισι ἴσος τεσσεράκοντα πηχέων τούτων ἕκαστον ἐστί, τὸ δὲ καταστέγασμα τῆς ὀροφῆς ἄλλος ἐπίκειται λίθος, ἔχων τὴν παρωροφίδα τετράπηχυν.
+##### 3
+τὸ δέ μοι τῶν φανερῶν ἦν θῶμα μέγιστον παρεχόμενον, φράσω: ἔστι ἐν τῷ τεμένεϊ τούτῳ Λητοῦς νηὸς ἐξ ἑνὸς λίθου πεποιημένος ἔς τε ὕψος καὶ ἐς μῆκος καὶ τοῖχος ἕκαστος τούτοισι ἴσος τεσσεράκοντα πηχέων τούτων ἕκαστον ἐστί, τὸ δὲ καταστέγασμα τῆς ὀροφῆς ἄλλος ἐπίκειται λίθος, ἔχων τὴν παρωροφίδα τετράπηχυν.
 
 [3] But what caused me the most wonder among the things apparent there I shall mention. In this precinct is the shrine of Leto, the height and length of whose walls is all made of a single stone slab; each wall has an equal length and height; namely, seventy feet. Another slab makes the surface of the roof, the cornice of which is seven feet broad. 
 ## c156
@@ -433,7 +485,116 @@ Thus, then, the shrine is the most marvellous of all the things that I saw in th
 [6] ἐκ τούτου δὲ τοῦ λόγου καὶ οὐδενὸς ἄλλου Αἰσχύλος ὁ Εὐφορίωνος ἥρπασε τὸ ἐγὼ φράσω, μοῦνος δὴ ποιητέων τῶν προγενομένων: ἐποίησε γὰρ Ἄρτεμιν εἶναι θυγατέρα Δήμητρος. τὴν δὲ νῆσον διὰ τοῦτο γενέσθαι πλωτήν. ταῦτα μὲν οὕτω λέγουσι.
 
 [6] It was from this legend and no other that Aeschylus son of Euphorion took a notion which is in no poet before him: that Artemis was the daughter of Demeter. For this reason the island was made to float. So they say.
+## c178
+#### 1
+φιλέλλην δὲ γενόμενος ὁ Ἄμασις ἄλλα τε ἐς Ἑλλήνων μετεξετέρους ἀπεδέξατο, καὶ δὴ καὶ τοῖσι ἀπικνευμένοισι ἐς Αἴγυπτον ἔδωκε Ναύκρατιν πόλιν ἐνοικῆσαι: τοῖσι δὲ μὴ βουλομένοισι αὐτῶν οἰκέειν, αὐτοῦ δὲ ναυτιλλομένοισι ἔδωκε χώρους ἐνιδρύσασθαι βωμοὺς καὶ τεμένεα θεοῖσι. 
+
+Amasis became a philhellene, and besides other services which he did for some of the Greeks, he gave those who came to Egypt the city of Naucratis to live in; and to those who travelled to the country without wanting to settle there, he gave lands where they might set up altars and make holy places for their gods. 
+#### 2
+τὸ μέν νυν μέγιστον αὐτῶν τέμενος, καὶ ὀνομαστότατον ἐὸν καὶ χρησιμώτατον, καλεύμενον δὲ Ἑλλήνιον, αἵδε αἱ πόλιες εἰσὶ αἱ ἱδρυμέναι κοινῇ, Ἱώνων μὲν Χίος καὶ Τέως καὶ Φώκαια καὶ Κλαζομεναί, Δωριέων δὲ Ῥόδος καὶ Κνίδος καὶ Ἁλικαρνησσὸς καὶ Φάσηλις, Αἰολέων δὲ ἡ Μυτιληναίων μούνη. 
+
+[2] Of these the greatest and most famous and most visited precinct is that which is called the Hellenion, founded jointly by the Ionian cities of Chios, Teos, Phocaea, and Clazomenae, the Dorian cities of Rhodes, Cnidus, Halicarnassus, and Phaselis, and one Aeolian city, Mytilene. 
+#### 3
+τουτέων μὲν ἐστὶ τοῦτο τὸ τέμενος, καὶ προστάτας τοῦ ἐμπορίου αὗται αἱ πόλιες εἰσὶ αἱ παρέχουσαι: ὅσαι δὲ ἄλλαι πόλιες μεταποιεῦνται, οὐδέν σφι μετεὸν μεταποιεῦνται. χωρὶς δὲ Αἰγινῆται ἐπὶ ἑωυτῶν ἱδρύσαντο τέμενος Διός, καὶ ἄλλο Σάμιοι Ἥρης καὶ Μιλήσιοι Ἀπόλλωνος.
+
+[3] It is to these that the precinct belongs, and these are the cities that furnish overseers of the trading port; if any other cities advance claims, they claim what does not belong to them. The Aeginetans made a precinct of their own, sacred to Zeus; and so did the Samians for Hera and the Milesians for Apollo.
+## c179
+ἦν δὲ τὸ παλαιὸν μούνη Ναύκρατις ἐμπόριον καὶ ἄλλο οὐδὲν Αἰγύπτου: εἰ δέ τις ἐς τῶν τι ἄλλο στομάτων τοῦ Νείλου ἀπίκοιτο, χρῆν ὀμόσαι μὴ μὲν ἑκόντα ἐλθεῖν, ἀπομόσαντα δὲ τῇ νηὶ αὐτῇ πλέειν ἐς τὸ Κανωβικόν: ἢ εἰ μή γε οἷά τε εἴη πρὸς ἀνέμους ἀντίους πλέειν, τὰ φορτία ἔδεε περιάγειν ἐν βάρισι περὶ τὸ Δέλτα, μέχρι οὗ ἀπίκοιτο ἐς Ναύκρατιν. οὕτω μὲν δὴ Ναύκρατις ἐτετίμητο.
+
+Naucratis was in the past the only trading port in Egypt. Whoever came to any other mouth of the Nile had to swear that he had not come intentionally, and had then to take his ship and sail to the Canobic mouth; or if he could not sail against contrary winds, he had to carry his cargo in barges around the Delta until he came to Naucratis. In such esteem was Naucratis held.
+## c180
+#### 1
+ἀμφικτυόνων δὲ μισθωσάντων τὸν ἐν Δελφοῖσι νῦν ἐόντα νηὸν τριηκοσίων ταλάντων ἐξεργάσασθαι （ὁ γὰρ πρότερον ἐὼν αὐτόθι αὐτόματος κατεκάη）, τοὺς Δελφοὺς δὴ ἐπέβαλλε τεταρτημόριον τοῦ μισθώματος παρασχεῖν. 
+
+When the Amphictyons paid three hundred talents to have the temple that now stands at Delphi finished (as that which was formerly there burnt down by accident), it was the Delphians' lot to pay a fourth of the cost. 
+#### 2
+πλανώμενοι δὲ οἱ Δελφοὶ περὶ τὰς πόλις ἐδωτίναζον, ποιεῦντες δὲ τοῦτο οὐκ ἐλάχιστον ἐξ Αἰγύπτου ἠνείκαντο: Ἄμασις μὲν γάρ σφι ἔδωκε χίλια στυπτηρίης τάλαντα, οἱ δὲ ἐν Αἰγύπτῳ οἰκέοντες Ἕλληνες εἴκοσι μνέας.
+
+[2] They went about from city to city collecting gifts, and got most from Egypt; for Amasis gave them a thousand talents' weight of astringent earth,1 and the Greek settlers in Egypt twenty minae.
+
+1 Alum, apparently.
+## c181
+#### 1
+Κυρηναίοισι δὲ Ἄμασις φιλότητά τε καὶ συμμαχίην συνεθήκατο, ἐδικαίωσε δὲ καὶ γῆμαι αὐτόθεν, εἴτ᾽ ἐπιθυμήσας Ἑλληνίδος γυναικὸς εἴτε καὶ ἄλλως φιλότητος Κυρηναίων εἵνεκα: 
+
+Amasis made friends and allies of the people of Cyrene. And he decided to marry from there, either because he had his heart set on a Greek wife, or for the sake of the Corcyreans' friendship; 
+
+##### 2
+γαμέει δὲ ὦν οἳ μὲν λέγουσι Βάττου οἳ δ᾽ Ἀρκεσίλεω θυγατέρα, οἳ δὲ Κριτοβούλου ἀνδρὸς τῶν ἀστῶν δοκίμου, τῇ οὔνομα ἦν Λαδίκη: τῇ ἐπείτε συγκλίνοιτο ὁ Ἄμασις, μίσγεσθαι οὐκ οἷός τε ἐγίνετο, τῇσι δὲ ἄλλῃσι γυναιξὶ ἐχρᾶτο. 
+
+[2] in any case, he married a certain Ladice, said by some to be the daughter of Battus, of Arcesilaus by others, and by others again of Critobulus, an esteemed citizen of the place. But whenever Amasis lay with her, he became unable to have intercourse, though he managed with every other woman; 
+
+##### 3
+ἐπείτε δὲ πολλὸν τοῦτο ἐγίνετο, εἶπε ὁ Ἄμασις πρὸς τὴν Λαδίκην ταύτην καλεομένην, ‘ὦ γύναι, κατά με ἐφάρμαξας, καὶ ἔστι τοι οὐδεμία μηχανὴ μὴ οὐκ ἀπολωλέναι κάκιστα γυναικῶν πασέων.’ 
+
+[3] and when this happened repeatedly, Amasis said to the woman called Ladice, “Woman, you have cast a spell on me, and there is no way that you shall avoid perishing the most wretchedly of all women.” 
+
+##### 4
+ἡ δὲ Λαδίκη, ἐπείτε οἱ ἀρνευμένῃ οὐδὲν ἐγίνετο πρηΰτερος ὁ Ἄμασις, εὔχεται ἐν τῷ νόῳ τῇ Ἀφροδίτῃ, ἤν οἱ ὑπ᾽ ἐκείνην τὴν νύκτα μιχθῇ ὁ Ἄμασις, τοῦτο γάρ οἱ κακοῦ εἶναι μῆχος, ἄγαλμά οἱ ἀποπέμψειν ἐς Κυρήνην. μετὰ δὲ τὴν εὐχὴν αὐτίκα οἱ ἐμίχθη ὁ Ἄμασις. καὶ τὸ ἐνθεῦτεν ἤδη, ὁκότε ἔλθοι Ἄμασις πρὸς αὐτήν, ἐμίσγετο, καὶ κάρτα μιν ἔστερξε μετὰ τοῦτο. 
+
+[4] So Ladice, when the king did not relent at all although she denied it, vowed in her heart to Aphrodite that, if Amasis could have intercourse with her that night, since that would remedy the problem, she would send a statue to Cyrene to her. And after the prayer, immediately, Amasis did have intercourse with her. And whenever Amasis came to her thereafter, he had intercourse, and he was very fond of her after this. 
+
+##### 5
+ἡ δὲ Λαδίκη ἀπέδωκε τὴν εὐχὴν τῇ θεῷ: ποιησαμένη γὰρ ἄγαλμα ἀπέπεμψε ἐς Κυρήνην, τὸ ἔτι καὶ ἐς ἐμὲ ἦν σόον, ἔξω τετραμμένον τοῦ Κυρηναίων ἄστεος. ταύτην τὴν Λαδίκην, ὡς ἐπεκράτησε Καμβύσης Αἰγύπτου καὶ ἐπύθετο αὐτῆς ἥτις εἴη, ἀπέπεμψε ἀσινέα ἐς Κυρήνην.
+
+[5] Ladice paid her vow to the goddess; she had an image made and sent it to Cyrene, where it stood safe until my time, facing outside the city. Cambyses, when he had conquered Egypt and learned who Ladice was, sent her away to Cyrene unharmed.
+## c182
+#### 1
+ἀνέθηκε δὲ καὶ ἀναθήματα ὁ Ἄμασις ἐς τὴν Ἑλλάδα, τοῦτο μὲν ἐς Κυρήνην ἄγαλμα ἐπίχρυσον Ἀθηναίης καὶ εἰκόνας ἑωυτοῦ γραφῇ εἰκασμένην, τοῦτο δὲ τῇ ἐν Λίνδῳ Ἀθηναίῃ δύο τε ἀγάλματα λίθινα καὶ θώρηκα λίνεον ἀξιοθέητον, τοῦτο δ᾽ ἐς Σάμον τῇ Ἥρῃ εἰκόνας ἑωυτοῦ διφασίας ξυλίνας, αἳ ἐν τῷ νηῷ τῷ μεγάλῳ ἱδρύατο ἔτι καὶ τὸ μέχρι ἐμεῦ, ὄπισθε τῶν θυρέων. 
+
+Moreover, Amasis dedicated offerings in Hellas. He gave to Cyrene a gilt image of Athena and a painted picture of himself; to Athena of Lindus, two stone images and a marvellous linen breast-plate; and to Hera in Samos, two wooden statues of himself that were still standing in my time behind the doors in the great shrine. 
+#### 2
+ἐς μέν νυν Σάμον ἀνέθηκε κατὰ ξεινίην τὴν ἑωυτοῦ τε καὶ Πολυκράτεος τοῦ Αἰάκεος, ἐς δὲ Λίνδον ξεινίης μὲν οὐδεμιῆς εἵνεκεν, ὅτι δὲ τὸ ἱρὸν τὸ ἐν Λίνδῳ τὸ τῆς Ἀθηναίης λέγεται τὰς Δαναοῦ θυγατέρας ἱδρύσασθαι προσσχούσας, ὅτε ἀπεδίδρησκον τοὺς Αἰγύπτου παῖδας. ταῦτα μὲν ἀνέθηκε ὁ Ἄμασις, εἷλε δὲ Κύπρον πρῶτος ἀνθρώπων καὶ κατεστρέψατο ἐς φόρου ἀπαγωγήν.
+
+[2] The offerings in Samos were dedicated because of the friendship between Amasis and Polycrates,1 son of Aeaces; what he gave to Lindus was not out of friendship for anyone, but because the temple of Athena in Lindus is said to have been founded by the daughters of Danaus, when they landed there in their flight from the sons of Egyptus. Such were Amasis' offerings. Moreover, he was the first conqueror of Cyprus, which he made tributary to himself.
+
+1 Polycrates' rule began probably in 532 B.C. For the friendship between him and Amasis, see Hdt. 3.39.
 # b3
+## c1
+#### 1
+ἐπὶ τοῦτον δὴ τὸν Ἄμασιν Καμβύσης ὁ Κύρου ἐστρατεύετο, ἄγων καί ἄλλους τῶν ἦρχε καὶ Ἑλλήνων Ἴωνάς τε καὶ Αἰολέας, δι᾽ αἰτίην τοιήνδε. πέμψας Καμβύσης ἐς Αἴγυπτον κήρυκα αἴτεε Ἄμασιν θυγατέρα, αἴτεε δὲ ἐκ βουλῆς ἀνδρὸς Αἰγυπτίου, ὃς μεμφόμενος Ἄμασιν ἔπρηξε ταῦτα ὅτι μιν ἐξ ἁπάντων τῶν ἐν Αἰγύπτῳ ἰητρῶν ἀποσπάσας ἀπὸ γυναικός τε καὶ τέκνων ἔκδοτον ἐποίησε ἐς Πέρσας, ὅτε Κῦρος πέμψας παρὰ Ἄμασιν αἴτεε ἰητρὸν ὀφθαλμῶν ὃς εἴη ἄριστος τῶν ἐν Αἰγύπτῳ. 
+
+Cyrus' son Cambyses was leading an army of his subjects, Ionian and Aeolian Greeks among them,1 against this Amasis for the following reason. Cambyses had sent a herald to Egypt asking Amasis for his daughter; he asked on the advice of an Egyptian, who advised it out of resentment against Amasis, that out of all the Egyptian physicians Amasis had dragged him away from his wife and children and sent him up to Persia when Cyrus sent to Amasis asking for the best eye-doctor in Egypt. 
+
+1 The received date is 525 B.C.
+##### 2
+ταῦτα δὴ ἐπιμεμφόμενος ὁ Αἰγύπτιος ἐνῆγε τῇ συμβουλῇ κελεύων αἰτέειν τὸν Καμβύσεα Ἄμασιν θυγατέρα, ἵνα ἢ δοὺς ἀνιῷτο ἢ μὴ δοὺς Καμβύσῃ ἀπέχθοιτο. ὁ δὲ Ἄμασις τῇ δυνάμι τῶν Περσέων ἀχθόμενος καὶ ἀρρωδέων οὐκ εἶχε οὔτε δοῦναι οὔτε ἀρνήσασθαι: εὖ γὰρ ἠπίστατο ὅτι οὐκ ὡς γυναῖκά μιν ἔμελλε Καμβύσης ἕξειν ἀλλ᾽ ὡς παλλακήν. 
+
+[2] Out of resentment, the Egyptian by his advice induced Cambyses to ask Amasis for his daughter, so that Amasis would either be wretched if he gave her, or hated by Cambyses if he did not. Amasis, intimidated by the power of Persia and frightened, could neither give his daughter nor refuse her; for he knew well that Cambyses was not going to take her as his wife but as his concubine. 
+##### 3
+ταῦτα δὴ ἐκλογιζόμενος ἐποίησε τάδε. ἦν Ἀπρίεω τοῦ προτέρου βασιλέος θυγάτηρ κάρτα μεγάλη τε καὶ εὐειδὴς μούνη τοῦ οἴκου λελειμμένη, οὔνομα δέ οἱ ἦν Νίτητις: ταύτην δὴ τὴν παῖδα ὁ Ἄμασις κοσμήσας ἐσθῆτί τε καὶ χρυσῷ ἀποπέμπει ἐς Πέρσας ὡς ἑωυτοῦ θυγατέρα. 
+
+[3] After considering the matter, he did as follows. There was a daughter of the former king Apries, all that was left of that family, quite tall and pretty, and her name was Nitetis; this girl Amasis adorned with clothes and gold and sent to Cambyses as his own daughter. 
+##### 4
+μετὰ δὲ χρόνον ὥς μιν ἠσπάζετο πατρόθεν ὀνομάζων, λέγει πρὸς αὐτὸν ἡ παῖς ‘ὦ βασιλεῦ, διαβεβλημένος ὑπὸ Ἀμάσιος οὐ μανθάνεις. ὃς ἐμὲ σοὶ κόσμῳ ἀσκήσας ἀπέπεμψε ὡς ἑωυτοῦ θυγατέρα διδούς, ἐοῦσαν τῇ ἀληθείῃ Ἀπρίεω, τὸν ἐκεῖνος ἐόντα ἑωυτοῦ δεσπότεα μετ᾽ Αἰγυπτίων ἐπαναστὰς ἐφόνευσε.’ 
+
+[4] But after a time, as he embraced her addressing her as the daughter of Amasis, the girl said to him, “O King, you do not understand how you have been made a fool of by Amasis, who dressed me in finery and sent me to you as his own daughter, when I am in fact the daughter of Apries, the ruler Amasis revolted from with the Egyptians and killed.” 
+##### 5
+τοῦτο δὴ τὸ ἔπος καὶ αὕτη ἡ αἰτίη ἐγγενομένη ἤγαγε Καμβύσεα τὸν Κύρου μεγάλως θυμωθέντα ἐπ᾽ Αἴγυπτον.
+
+[5] This speech and this crime that occurred turned Cyrus' son Cambyses, furiously angry, against Egypt. So the Persians say.
+## c2
+#### 1
+οὕτω μέν νυν λέγουσι Πέρσαι. Αἰγύπτιοι δὲ οἰκηιοῦνται Καμβύσεα, φάμενοί μιν ἐκ ταύτης δὴ τῆς Ἀπρίεω θυγατρὸς γενέσθαι: Κῦρον γὰρ εἶναι τὸν πέμψαντα παρὰ Ἄμασιν ἐπὶ τὴν θυγατέρα, ἀλλ᾽ οὐ Καμβύσεα. λέγοντες δὲ ταῦτα οὐκ ὀρθῶς λέγουσι. 
+
+But the Egyptians, who say that Cambyses was the son of this daughter of Apries, claim him as one of theirs; they say that it was Cyrus who asked Amasis for his daughter, and not Cambyses. 
+#### 2
+οὐ μὲν οὐδὲ λέληθε αὐτούς （εἰ γὰρ τινὲς καὶ ἄλλοι, τὰ Περσέων νόμιμα ἐπιστέαται καὶ Αἰγύπτιοι） ὅτι πρῶτα μὲν νόθον οὔ σφι νόμος ἐστὶ βασιλεῦσαι γνησίου παρεόντος, αὖτις δὲ ὅτι Κασσανδάνης τῆς Φαρνάσπεω θυγατρὸς ἦν παῖς Καμβύσης, ἀνδρὸς Ἀχαιμενίδεω, ἀλλ᾽ οὐκ ἐκ τῆς Αἰγυπτίης. ἀλλὰ παρατρέπουσι τὸν λόγον προσποιεύμενοι τῇ Κύρου οἰκίῃ συγγενέες εἶναι.
+
+[2] But what they say is false. They are certainly not unaware (for if any understand the customs of the Persians the Egyptians do) firstly, that it is not their custom for illegitimate offspring to rule when there are legitimate offspring; and secondly, that Cambyses was the son of Cassandane, the daughter of Pharnaspes, who was an Achaemenid, and not of the Egyptian woman. But they falsify the story, pretending to be related to the house of Cyrus. That is the truth of the matter.
+## c3
+#### 1
+καὶ ταῦτα μὲν ὧδε ἔχει. λέγεται δὲ καὶ ὅδε λόγος, ἐμοὶ μὲν οὐ πιθανός, ὡς τῶν Περσίδων γυναικῶν ἐσελθοῦσά τις παρὰ τὰς Κύρου γυναῖκας, ὡς εἶδε τῇ Κασσανδάνῃ παρεστεῶτα τέκνα εὐειδέα τε καὶ μεγάλα, πολλῷ ἐχρᾶτο τῷ ἐπαίνῳ ὑπερθωμάζουσα, ἡ δὲ Κασσανδάνη ἐοῦσα τοῦ Κύρου γυνὴ εἶπε τάδε: 
+
+The following story, incredible to me, is also told: that one of the Persian women who came to visit Cyrus' wives, and saw the tall and attractive children who stood by Cassandane, expressed her admiration in extravagant terms. Then Cassandane, Cyrus' wife, said, 
+##### 2
+‘τοιῶνδε μέντοι ἐμὲ παίδων μητέρα ἐοῦσαν Κῦρος ἐν ἀτιμίῃ ἔχει, τὴν δὲ ἀπ᾽ Αἰγύπτου ἐπίκτητον ἐν τιμῇ τίθεται.’ τὴν μὲν ἀχθομένην τῇ Νιτήτι εἰπεῖν ταῦτα, τῶν δέ οἱ παίδων τὸν πρεσβύτερον εἰπεῖν Καμβύσεα: 
+
+[2] “Although I am the mother of such children, Cyrus dishonors me and honors his new woman from Egypt.” So she spoke in her bitterness against Nitetis; and Cambyses, the eldest of her sons, said, 
+##### 3
+‘τοιγάρ τοι ὦ μῆτερ, ἐπεὰν ἐγὼ γένωμαι ἀνήρ, Αἰγύπτου τὰ μὲν ἄνω κάτω θήσω, τὰ δὲ κάτω ἄνω.’ ταῦτα εἰπεῖν αὐτὸν ἔτεα ὡς δέκα κου γεγονότα, καὶ τὰς γυναῖκας ἐν θώματι γενέσθαι: τὸν δὲ διαμνημονεύοντα οὕτω δή, ἐπείτε ἀνδρώθη καὶ ἔσχε τὴν βασιληίην, ποιήσασθαι τὴν ἐπ᾽ Αἴγυπτον στρατηίην.
+
+[3] “Then, mother, when I am grown up, I will turn all Egypt upside down.” When he said this, he was about ten years old, and the women were amazed; but he kept it in mind, and it was thus that when he grew up and became king, he made the campaign against Egypt.
 ## c8
 #### 1
 σέβονται δὲ Ἀράβιοι πίστις ἀνθρώπων ὅμοια τοῖσι μάλιστα, ποιεῦνται δὲ αὐτὰς τρόπῳ τοιῷδε: τῶν βουλομένων τὰ πιστὰ ποιέεσθαι ἄλλος ἀνήρ, ἀμφοτέρων αὐτῶν ἐν μέσῳ ἑστεώς, λίθῳ ὀξέι τὸ ἔσω τῶν χειρῶν παρὰ τοὺς δακτύλους τοὺς μεγάλους ἐπιτάμνει τῶν ποιευμένων τὰς πίστις, καὶ ἔπειτα λαβὼν ἐκ τοῦ ἱματίου ἑκατέρου κροκύδα ἀλείφει τῷ αἵματι ἐν μέσῳ κειμένους λίθους ἑπτά: τοῦτο δὲ ποιέων ἐπικαλέει τε τὸν Διόνυσον καὶ τὴν Οὐρανίην. 
@@ -599,11 +760,95 @@ But when things had to turn out badly for him, they did so for this reason: he c
 [5] εἵποντο τῶν Σκύθεων οἱ προεστεῶτες, καὶ αὐτοὺς ἀναγαγὼν ὁ Βορυσθενεΐτης λάθρῃ ἐπὶ πύργον κατεῖσε. ἐπείτε δὲ παρήιε σὺν τῷ θιάσῳ ὁ Σκύλης καὶ εἶδόν μιν βακχεύοντα οἱ Σκύθαι, κάρτα συμφορὴν μεγάλην ἐποιήσαντο, ἐξελθόντες δὲ ἐσήμαινον πάσῃ τῇ στρατιῇ τὰ ἴδοιεν. 
 
 [5] The leading men among the Scythians followed him, and the Borysthenite brought them up secretly onto a tower; from which, when Scyles passed by with his company of worshippers, they saw him playing the Bacchant; thinking it a great misfortune, they left the city and told the whole army what they had seen. 
+## c105
+#### 1
+Νευροὶ δὲ νόμοισι μὲν χρέωνται Σκυθικοῖσι, γενεῇ δὲ μιῇ πρότερον σφέας τῆς Δαρείου στρατηλασίης κατέλαβε ἐκλιπεῖν τὴν χώρην πᾶσαν ὑπὸ ὀφίων: ὄφιας γάρ σφι πολλοὺς μὲν ἡ χώρη ἀνέφαινε, οἱ δὲ πλεῦνες ἄνωθέν σφι ἐκ τῶν ἐρήμων ἐπέπεσον, ἐς ὃ πιεζόμενοι οἴκησαν μετὰ Βουδίνων τὴν ἑωυτῶν ἐκλιπόντες. κινδυνεύουσι δὲ οἱ ἄνθρωποι οὗτοι γόητες εἶναι. 
+
+The Neuri follow Scythian customs; but one generation before the advent of Darius' army, they happened to be driven from their country by snakes; for their land produced great numbers of these, and still more came down on them out of the desolation on the north, until at last the Neuri were so afflicted that they left their own country and lived among the Budini. It may be that these people are wizards; 
+#### 2
+λέγονται γὰρ ὑπὸ Σκυθέων καὶ Ἑλλήνων τῶν ἐν τῇ Σκυθικῇ κατοικημένων ὡς ἔτεος ἑκάστου ἅπαξ τῶν Νευρῶν ἕκαστος λύκος γίνεται ἡμέρας ὀλίγας καὶ αὖτις ὀπίσω ἐς τὠυτὸ κατίσταται. ἐμὲ μέν νυν ταῦτα λέγοντες οὐ πείθουσι, λέγουσι δὲ οὐδὲν ἧσσον, καὶ ὀμνῦσι δὲ λέγοντες.
+
+[2] for the Scythians, and the Greeks settled in Scythia, say that once a year every one of the Neuri becomes a wolf for a few days and changes back again to his former shape. Those who tell this tale do not convince me; but they tell it nonetheless, and swear to its truth.
+## c106
+ἀνδροφάγοι δὲ ἀγριώτατα πάντων ἀνθρώπων ἔχουσι ἤθεα, οὔτε δίκην νομίζοντες οὔτε νόμῳ οὐδενὶ χρεώμενοι: νομάδες δὲ εἰσι, ἐσθῆτά τε φορέουσι τῇ Σκυθικῇ ὁμοίην, γλῶσσαν δὲ ἰδίην, ἀνδροφαγέουσι δὲ μοῦνοι τούτων.
+
+The Man-eaters are the most savage of all men in their way of life; they know no justice and obey no law. They are nomads, wearing a costume like the Scythian, but speaking a language of their own; of all these, they are the only people that eat men.
+## c159
+ἐπὶ μέν νυν Βάττου τε τοῦ οἰκιστέω τῆς ζόης, ἄρξαντος ἐπὶ τεσσεράκοντα ἔτεα, καὶ τοῦ παιδὸς αὐτοῦ Ἀρκεσίλεω ἄρξαντος ἑκκαίδεκα ἔτεα, οἴκεον οἱ Κυρηναῖοι ἐόντες τοσοῦτοι ὅσοι ἀρχὴν ἐς τὴν ἀποικίην ἐστάλησαν. 
+
+Now in the time of Battus the founder of the colony, who ruled for forty years, and of his son Arcesilaus who ruled for sixteen, the inhabitants of Cyrene were no more in number than when they had first gone out to the colony. 
+#### 2
+ἐπὶ δὲ τοῦ τρίτου, Βάττου τοῦ εὐδαίμονος καλεομένου, Ἕλληνας πάντας ὥρμησε χρήσασα ἡ Πυθίη πλέειν συνοικήσοντας Κυρηναίοισι Λιβύην: ἐπεκαλέοντο γὰρ οἱ Κυρηναῖοι ἐπὶ γῆς ἀναδασμῷ: 
+
+[2] But in the time of the third ruler, Battus, who was called the Fortunate, the Pythian priestess warned all Greeks by an oracle to cross the sea and live in Libya with the Cyrenaeans; for the Cyrenaeans invited them, promising a distribution of land; 
+#### 3
+ἔχρησε δὲ ὧδε ἔχοντα. “ὃς δέ κεν ἐς Λιβύην πολυήρατον ὕστερον ἔλθῃ
+γᾶς ἀναδαιομένας, μετὰ οἷ ποκα φαμὶ μελήσειν.” 
+
+[3] and this was the oracle: ““Whoever goes to beloved Libya after
+The fields are divided, I say shall be sorry afterward.”
+” 
+#### 4
+συλλεχθέντος δὲ ὁμίλου πολλοῦ ἐς τὴν Κυρήνην, περιταμνόμενοι γῆν πολλὴν οἱ περίοικοι Λίβυες καὶ ὁ βασιλεὺς αὑτῶν τῷ οὔνομα ἦν Ἀδικράν, οἷα τῆς τε χώρης στερισκόμενοι καὶ περιυβριζόμενοι ὑπὸ τῶν Κυρηναίων, πέμψαντες ἐς Αἴγυπτον ἔδοσαν σφέας αὐτοὺς Ἀπρίῃ τῷ Αἰγύπτου βασιλέι. 
+
+[4] So a great multitude gathered at Cyrene, and cut out great tracts of land from the territory of the neighboring Libyans. Robbed of their lands and treated violently by the Cyrenaeans, these then sent to Egypt together with their king, whose name was Adicran, and put their affairs in the hands of Apries, the king of that country. 
+#### 5
+ὁ δὲ συλλέξας στρατὸν Αἰγυπτίων πολλὸν ἔπεμψε ἐπὶ τὴν Κυρήνην. οἱ δὲ Κυρηναῖοι ἐκστρατευσάμενοι ἐς Ἴρασα χῶρον καὶ ἐπὶ κρήνην Θέστην συνέβαλόν τε τοῖσι Αἰγυπτίοισι καὶ ἐνίκησαν τῇ συμβολῇ.
+
+[5] Apries mustered a great force of Egyptians and sent it against Cyrene; the Cyrenaeans marched out to Irasa and the Thestes spring, and there fought with the Egyptians and beat them; 
+#### 6
+ἅτε γὰρ οὐ πεπειρημένοι πρότερον οἱ Αἰγύπτιοι Ἑλλήνων καὶ παραχρεώμενοι διεφθάρησαν οὕτω ὥστε ὀλίγοι τινὲς αὐτῶν ἀπενόστησαν ἐς Αἴγυπτον. ἀντὶ τούτων Αἰγύπτιοι καὶ ταῦτα ἐπιμεμφόμενοι Ἀπρίῃ ἀπέστησαν ἀπ᾽ αὐτοῦ.
+
+[6] for the Egyptians had as yet had no experience of Greeks, and despised their enemy; as a result of which, they were so utterly destroyed that few of them returned to Egypt. Because of this misfortune, and because they blamed him for it, the Egyptians revolted from Apries.1
+## c160
+τούτου δὲ τοῦ Βάττου παῖς γίνεται Ἀρκεσίλεως. ὃς βασιλεύσας πρῶτα τοῖσι ἑωυτοῦ ἀδελφεοῖσι ἐστασίασε, ἐς ὅ μιν οὗτοι ἀπολιπόντες οἴχοντο ἐς ἄλλον χῶρον τῆς Λιβύης καὶ ἐπ᾽ ἑωυτῶν βαλόμενοι ἔκτισαν πόλιν ταύτην ἣ τότε καὶ νῦν Βάρκη κλέεται: κτίζοντες δὲ ἅμα αὐτὴν ἀπιστᾶσι ἀπὸ τῶν Κυρηναίων τοὺς Λίβυας. 
+
+This Battus had a son Arcesilaus; on his first coming to reign, he quarrelled with his brothers, until they left him and went away to another place in Libya, where they founded a city for themselves, which was then and is now called Barce; and while they were founding it, they persuaded the Libyans to revolt from the Cyrenaeans. 
+#### 2
+μετὰ δὲ Ἀρκεσίλεως ἐς τοὺς ὑποδεξαμένους τε τῶν Λιβύων καὶ ἀποστάντας τοὺς αὐτοὺς τούτους ἐστρατεύετο: οἱ δὲ Λίβυες δείσαντες αὐτὸν οἴχοντο φεύγοντες πρὸς τοὺς ἠοίους τῶν Λιβύων. 
+
+[2] Then Arcesilaus led an army into the country of the Libyans who had received his brothers and had also revolted; and they fled in fear of him to the eastern Libyans. 
+#### 3
+ὁ δὲ Ἀρκεσίλεως εἵπετο φεύγουσι, ἐς οὗ ἐν Λεύκωνί τε τῆς Λιβύης ἐγίνετο ἐπιδιώκων καὶ ἔδοξε τοῖσι Λίβυσι ἐπιθέσθαι οἱ. συμβαλόντες δὲ ἐνίκησαν τοὺς Κυρηναίους τοσοῦτο ὥστε ἑπτακισχιλίους ὁπλίτας Κυρηναίων ἐνθαῦτα πεσεῖν. 
+
+[3] Arcesilaus pursued them until he came in his pursuit to Leucon in Libya, where the Libyans resolved to attack him; they engaged, and so wholly overcame the Cyrenaeans that seven thousand Cyrenaean soldiers were killed there. 
+#### 4
+μετὰ δὲ τὸ τρῶμα τοῦτο Ἀρκεσίλεων μὲν κάμνοντά τε καὶ φάρμακον πεπωκότα ὁ ἀδελφεὸς Ἁλίαρχος ἀποπνίγει, Ἁλίαρχον δὲ ἡ γυνὴ ἡ Ἀρκεσίλεω δόλῳ κτείνει, τῇ οὔνομα ἦν Ἐρυξώ.
+
+[4] After this disaster, Arcesilaus, being worn down and having taken a drug, was strangled by his brother Learchus; Learchus was deftly killed by Arcesilaus' wife, Eryxo.
+## c204
+οὗτος ὁ Περσέων στρατὸς τῆς Λιβύης ἑκαστάτω ἐς Εὐεσπερίδας ἦλθε. τοὺς δὲ ἠνδραποδίσαντο τῶν Βαρκαίων, τούτους δὲ ἐκ τῆς Αἰγύπτου ἀνασπάστους ἐποίησαν παρὰ βασιλέα, βασιλεὺς δέ σφι Δαρεῖος ἔδωκε τῆς Βακτρίης χώρης κώμην ἐγκατοικῆσαι. οἳ δὲ τῇ κώμῃ ταύτῃ οὔνομα ἔθεντο Βάρκην, ἥ περ ἔτι καὶ ἐς ἐμὲ ἦν οἰκεομένη ἐν γῇ τῇ Βακτρίῃ.
+
+This Persian force advanced as far as Euhesperidae in Libya and no farther. As for the Barcaeans whom they had taken for slaves, they carried them from Egypt into banishment and brought them to the king, and Darius gave them a town of Bactria to live in. They gave this town the name Barce, and it remained an inhabited place in Bactria until my own lifetime.
 # b5
 ### 5.3
 Θρηίκων δὲ ἔθνος μέγιστον ἐστὶ μετά γε Ἰνδοὺς πάντων ἀνθρώπων: εἰ δὲ ὑπ᾽ ἑνὸς ἄρχοιτο ἢ φρονέοι κατὰ τὠυτό, ἄμαχόν τ᾽ ἂν εἴη καὶ πολλῷ κράτιστον πάντων ἐθνέων κατὰ γνώμην τὴν ἐμήν. ἀλλὰ γὰρ τοῦτο ἄπορόν σφι καὶ ἀμήχανον μή κοτε ἐγγένηται, εἰσὶ δὴ κατὰ τοῦτο ἀσθενέες. [2] οὐνόματα δ᾽ ἔχουσι πολλὰ κατὰ χώρας ἕκαστοι, νόμοισι δὲ οὗτοι παραπλησίοισι πάντες χρέωνται κατὰ πάντα, πλὴν Γετέων καὶ Τραυσῶν καὶ τῶν κατύπερθε Κρηστωναίων οἰκεόντων. 
 
 The Thracians are the biggest nation in the world, next to the Indians. If they were under one ruler, or united, they would, in my judgment, be invincible and the strongest nation on earth. Since, however, there is no way or means to bring this about, they are weak. [2] The Thracians have many names, each tribe according to its region, but they are very similar in all their customs, save the Getae, the Trausi, and those who dwell above the Crestonaeans. 
+# b6
+## c20
+ἐνθεῦτεν οἱ ζωγρηθέντες τῶν Μιλησίων ἤγοντο ἐς Σοῦσα. βασιλεὺς δὲ σφέας Δαρεῖος κακὸν οὐδὲν ἄλλο ποιήσας κατοίκισε ἐπὶ τῇ Ἐρυθρῇ καλεομένῃ θαλάσσῃ ἐν Ἄμπῃ πόλι, παρ᾽ ἣν Τίγρης ποταμὸς παραρρέων ἐς θάλασσαν ἐξιεῖ. τῆς δὲ Μιλησίων χώρης αὐτοὶ μὲν οἱ Πέρσαι εἶχον τὰ περὶ τὴν πόλιν καὶ τὸ πεδίον, τὰ δὲ ὑπεράκρια ἔδοσαν Καρσὶ Πηδασεῦσι ἐκτῆσθαι.
+
+After that, the captive Milesians were brought to Susa. King Darius did them no further harm, settling them by the sea called Red, in the city of Ampe, by which the river Tigris flows as it issues into the sea. Of the Milesian land the Persians themselves held what was nearest to the city, and the plain, giving the hill country into the possession of Carians from Pedasa.
+## c119
+#### 1
+τοὺς δὲ τῶν Ἐρετριέων ἀνδραποδισμένους Δᾶτίς τε καὶ Ἀρταφρένης, ὡς προσέσχον πρὸς τὴν Ἀσίην πλέοντες, ἀνήγαγον ἐς Σοῦσα. βασιλεὺς δὲ Δαρεῖος, πρὶν μὲν αἰχμαλώτους γενέσθαι τοὺς Ἐρετριέας, ἐνεῖχέ σφι δεινὸν χόλον, οἷα ἀρξάντων ἀδικίης προτέρων τῶν Ἐρετριέων: 
+
+When Datis and Artaphrenes reached Asia in their voyage, they carried the enslaved Eretrians inland to Susa. [2] Before the Eretrians were taken captive, king Darius had been terribly angry with them for doing him unprovoked wrong; 
+#### 2
+[2] ἐπείτε δὲ εἶδε σφέας ἀπαχθέντας παρ᾽ ἑωυτὸν καὶ ἑωυτῷ ὑποχειρίους ἐόντας, ἐποίησε κακὸν ἄλλο οὐδέν, ἀλλὰ σφέας τῆς Κισσίης χώρης κατοίκισε ἐν σταθμῷ ἑωυτοῦ τῷ οὔνομα ἐστὶ Ἀρδέρικκα, ἀπὸ μὲν Σούσων δέκα καὶ διηκοσίους σταδίους ἀπέχοντι, τεσσεράκοντα δὲ ἀπὸ τοῦ φρέατος τὸ παρέχεται τριφασίας ἰδέας: καὶ γὰρ ἄσφαλτον καὶ ἅλας καὶ ἔλαιον ἀρύσσονται ἐξ αὐτοῦ τρόπῳ τοιῷδε: 
+
+but when he saw them brought before him and subject to him, he did them no harm, but settled them in a domain of his own called Ardericca in the Cissian land; this place is two hundred and ten stadia distant from Susa, and forty from the well that is of three kinds. [3] Asphalt and salt and oil are drawn from it in the following way: 
+#### 3
+[3] ἀντλέεται μὲν κηλωνηίῳ, ἀντὶ δὲ γαυλοῦ ἥμισυ ἀσκοῦ οἱ προσδέδεται: ὑποτύψας δὲ τούτῳ ἀντλέει καὶ ἔπειτα ἐγχέει ἐς δεξαμενήν: ἐκ δὲ ταύτης ἐς ἄλλο διαχεόμενον τρέπεται τριφασίας ὁδούς. καὶ ἡ μὲν ἄσφαλτος καὶ οἱ ἅλες πήγνυνται παραυτίκα: τὸ δὲ ἔλαιον οἱ Πέρσαι καλέουσι τοῦτο ῥαδινάκην, ἔστι δὲ μέλαν καὶ ὀδμὴν παρεχόμενον βαρέαν. 
+
+a windlass is used in the drawing, with half a skin tied to it in place of a bucket; this is dipped into the well and then poured into a tank; then what is drawn is poured into another tank and goes three ways: the asphalt and the salt congeal immediately; the oil,1 which the Persians call rhadinace, is dark and evil-smelling. 
+
+1 Petroleum.
+#### 4
+[4] ἐνθαῦτα τοὺς Ἐρετριέας κατοίκισε βασιλεὺς Δαρεῖος, οἳ καὶ μέχρι ἐμέο εἶχον τὴν χώρην ταύτην, φυλάσοντες τὴν ἀρχαίην γλῶσσαν. τὰ μὲν δὴ περὶ Ἐρετριέας ἔσχε οὕτω.
+
+[4] There king Darius settled the Eretrians, and they dwelt in that place until my time, keeping their ancient language. Such was the fate of the Eretrians.
 # b7
 ## 64.1
 Βάκτριοι δὲ περὶ μὲν τῇσι κεφαλῇσι ἀγχότατα τῶν Μηδικῶν ἔχοντες ἐστρατεύοντο, τόξα δὲ καλάμινα ἐπιχώρια καὶ αἰχμὰς βραχέας.

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/ptjYogS.md",
+                "file": "Ref/TA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ptjYogS"
+              "title": "TA"
             }
           },
           {
@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/adad/Samkhya_kabbala_ghuli.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -145,6 +145,20 @@
               },
               "icon": "lucide-file",
               "title": "frds"
+            }
+          },
+          {
+            "id": "da6304b2e5b65b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref/alBeruni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "alBeruni"
             }
           },
           {
@@ -223,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/pl.tim.md",
-                "mode": "source",
+                "file": "Ref/clmnt.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pl.tim"
+              "title": "clmnt"
             }
           },
           {
@@ -244,23 +258,9 @@
               "icon": "lucide-file",
               "title": "Job opening"
             }
-          },
-          {
-            "id": "2bdce49042c4ca21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nfs.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nfs"
-            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -309,7 +309,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "52f2f15d1bae5ff6",
@@ -321,7 +321,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ref/plut.md",
+            "file": "Ref/bbl.apcryph.ethp.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -340,8 +340,8 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ref/plut.md",
-            "linksCollapsed": true,
+            "file": "Ref/bbl.apcryph.ethp.md",
+            "linksCollapsed": false,
             "unlinkedCollapsed": false
           },
           "icon": "links-going-out",
@@ -354,7 +354,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nfs.md"
+            "file": "Ref/clmnt.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -371,34 +371,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2bdce49042c4ca21",
+  "active": "da6304b2e5b65b68",
   "lastOpenFiles": [
+    "Ref/haft.azilla/h.a.19.md",
+    "Ref/alBeruni.md",
+    "Ref/bRush.md",
+    "Ref/gzl.md",
+    "Ref/Buni.md",
+    "boomerang/bal.md",
+    "sylhet_social_media.md",
+    "Ref/clmnt.md",
+    "Ref/pl.phaedr.md",
     "Ref/pl.tim.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Science/Science_claims.sync-conflict-20250106-155221-AFLIAW3.md",
-    "Ref/mtsP.sync-conflict-20241122-015137-AFLIAW3.md",
-    "Ref/mtsP.sync-conflict-20241122-015037-AFLIAW3.md",
-    "Ref/MB.sync-conflict-20240901-094935-RXT2P7M.md",
-    "Ref/MB.sync-conflict-20240830-123929-RXT2P7M.md",
-    "Ref/MB.sync-conflict-20240830-122003-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak.sync-conflict-20250109-141737-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.sync-conflict-20250109-141736-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Free will/No free will in quran.sync-conflict-20241128-073714-RXT2P7M.md",
-    "Ref/ptjYogS.sync-conflict-20250123-040211-BGQWT43.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.sync-conflict-20241030-104033-AFLIAW3.md",
-    "Ref/Qrsi.sync-conflict-20250112-235541-AFLIAW3.md",
-    "Ref/RV.sync-conflict-20241124-193627-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ruh/ruh.sync-conflict-20241223-180808-AFLIAW3.md",
-    "Ref/RV.sync-conflict-20241125-015844-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/znn_zEm_fry_kdhb.sync-conflict-20241227-115628-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.sync-conflict-20241126-165802-AFLIAW3.md",
-    "Ref/iamb.MEg.sync-conflict-20240901-182359-AFLIAW3.md",
-    "Ref/mtsP.sync-conflict-20241122-014927-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nfs.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nfs3.md",
-    "Ref/frds.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nfs2.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nafs_whd.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/huna.md",
+    "Ref/phlst.apolTyn.md",
+    "Ref/plut.md",
+    "Ref/hdt.hist.md",
+    "Ref/diodSic.biblHist.md",
+    "Ref/strab.geogr.md",
+    "Ref/Arr.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk4.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk.md",
+    "Ref/haft.azilla/h.a.20.md",
+    "Ref/haft.azilla/h.a.17.md",
+    "Ref/haft.azilla/h.a.13.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fadl/fadl.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/awla_al_ul_khass_khalisah/Fadl.md",
+    "Ref/haft.azilla/h.a.12.md",
+    "Ref/haft.azilla/h.a.11.md",
+    "Ref/haft.azilla/h.a.10.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad/Itqan",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kawthar",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad",

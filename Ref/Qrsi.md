@@ -6656,7 +6656,7 @@ Tell them \[O Muhammad\]: 'I have no power to benefit or harm myself except as A
 7.189-206
 
 ### 7:189
-۞ هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ ۖ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَـٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ
+۞ هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّىهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ ۖ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَـٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ
 
 It is He - Allah -Who created you from a single being, and out of it He made its mate, that he may find comfort in her. And when he covers her, she bears a light burden and goes about with it. Then, when she grows heavy, they pray to their Lord: 'If You bestow upon us a healthy child, we will surely give thanks.'
 

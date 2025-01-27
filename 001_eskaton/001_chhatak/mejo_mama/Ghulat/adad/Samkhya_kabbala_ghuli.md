@@ -45,6 +45,11 @@ pneuma, psyche, hyle
 tamas, rajas, sattva 
 ## varga
 kāma, artha, dharma, (mokṣa )
+### bios
+hedon, politic, theoreric
+:[[arstl.nicEth#b1#c5#2]]
+chrema-tryph, arch-hegemony, theory
+:[[iambPyth#_58]]
 ## triveda
 ṛg, sāma, yajur 
 ## yajñaprakāra

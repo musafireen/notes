@@ -693,9 +693,45 @@ But to the women he is said to have discoursed concerning sacrifices as follows:
 ## _58
 ------
 
-Λέγεται δὲ Πυθαγόρας πρῶτος φιλόσοφον ἑαυτὸν προσαγορεῦσαι, οὐ καινοῦ μόνον ὀνόματος ὑπάρξας, ἀλλὰ καὶ πρᾶγμα οἰκεῖον προσεκδιδάσκων χρησίμως. ἐοικέναι γὰρ ἔφη τὴν εἰς τὸν βίον τῶν
+Λέγεται δὲ Πυθαγόρας πρῶτος φιλόσοφον ἑαυτὸν προσαγορεῦσαι, οὐ καινοῦ μόνον ὀνόματος ὑπάρξας, ἀλλὰ καὶ πρᾶγμα οἰκεῖον προσεκδιδάσκων χρησίμως. 
 
-ἀνθρώπων πάροδον τῷ ἐπὶ τὰς πανηγύρεις ἀπαντῶντι ὁμίλῳ. ὡς γὰρ ἐκεῖσε παντοδαποὶ φοιτῶντες ἄνθρωποι ἄλλος κατ’ ἄλλου χρείαν ἀφικνεῖται, ὃ μὲν χρηματισμοῦ τε καὶ κέρδους χάριν ἀπεμπολῆσαι τὸν φόρτον ἐπειγόμενος, ὁ δὲ δὅξης ἓνεκα ἐπιδειξόμενος τὴν ῥώμην τοῦ σώματος· ἔστι δὲ καὶ τρίτον εἶδος τό γε ἐλευθεριώτατον συναλιζόμενον τόπων θέας ἓνεκα καὶ δημιουργημάτων καλῶν καὶ ἀρετῆς ἔργων καὶ λόγων, ὧν αἱ ἐπιδείξεις εἰώθασιν ἐν ταῖς πανηγύρεσι γίνεσθαι· οὕτως δὴ κἀν τῷ βίῳ παντοδαποὺς ἀνθρώπους ταῖς σπουδαῖς εἰς ταὐτὸ ἀθροίζεσθαι. τοὺς μὲν γὰρ χρημάτων καὶ τρυφῆς αἱρεῖ πόθος, τοὺς δὲ ἀρχῆς καὶ ἡγεμονίας ἵμερος φιλονεικίαι τε δοξομανεῖς κατέχουσιν· εἰλικρινέστατον δὲ εἶναι τοῦτον ἀνθρώπου τρόπον, τὸν ἀποδεξάμενον τὴν τῶν καλλίστων θεωρίαν, ὃν καὶ προσονομάζειν φιλόσοφον.
+It is also said, that Pythagoras was the first who called himself a philosopher; this not being a new name, but previously instructing us in a useful manner in a thing appropriate to the name. 
+
+ἐοικέναι γὰρ ἔφη τὴν εἰς τὸν βίον τῶν ἀνθρώπων πάροδον τῷ ἐπὶ τὰς πανηγύρεις ἀπαντῶντι ὁμίλῳ. 
+
+For he said that the entrance of men into the present life, resembled the progression of a crowd to some public spectacle. 
+
+ὡς γὰρ ἐκεῖσε παντοδαποὶ φοιτῶντες ἄνθρωποι ἄλλος κατ’ ἄλλου χρείαν ἀφικνεῖται, 
+
+For there men of every description assemble with different views; 
+
+ὃ μὲν χρηματισμοῦ τε καὶ κέρδους χάριν ἀπεμπολῆσαι τὸν φόρτον ἐπειγόμενος, 
+
+one hastening to sell his wares for the sake of money and gain; 
+
+ὁ δὲ δὅξης ἓνεκα ἐπιδειξόμενος τὴν ῥώμην τοῦ σώματος· 
+
+but another that he may acquire renown by exhibiting the strength of his body; 
+
+ἔστι δὲ καὶ τρίτον εἶδος τό γε ἐλευθεριώτατον συναλιζόμενον τόπων θέας ἓνεκα καὶ δημιουργημάτων καλῶν καὶ ἀρετῆς ἔργων καὶ λόγων, ὧν αἱ ἐπιδείξεις εἰώθασιν ἐν ταῖς πανηγύρεσι γίνεσθαι· 
+
+and there is also a third class of men, and those the most liberal, who assemble for the sake of surveying the places, the beautiful works of art, the specimens of valor, and the literary productions which are usually exhibited on such occasions. 
+
+οὕτως δὴ κἀν τῷ βίῳ παντοδαποὺς ἀνθρώπους ταῖς σπουδαῖς εἰς ταὐτὸ ἀθροίζεσθαι. 
+
+Thus also in the present life, men of all-various pursuits are collected together in one and the same place. 
+
+τοὺς μὲν γὰρ χρημάτων καὶ τρυφῆς αἱρεῖ πόθος, 
+
+For some are influenced by the desire of riches and luxury; 
+
+τοὺς δὲ ἀρχῆς καὶ ἡγεμονίας ἵμερος φιλονεικίαι τε δοξομανεῖς κατέχουσιν· 
+
+others by the love of power and dominion; and others are possessed with an insane ambition for glory. 
+
+εἰλικρινέστατον δὲ εἶναι τοῦτον ἀνθρώπου τρόπον, τὸν ἀποδεξάμενον τὴν τῶν καλλίστων θεωρίαν, ὃν καὶ προσονομάζειν φιλόσοφον.
+
+But the most pure and unadulterated character, is that of the man who gives himself to the contemplation of the most beautiful things, and whom it is proper to call a philosopher.[14]
 
 ## _59
 ------
@@ -704,7 +740,7 @@ But to the women he is said to have discoursed concerning sacrifices as follows:
 
 οὐρανοῦ θέαν καὶ τῶν ἐν αὐτῷ φορουμένων ἀστέρων εἴ τις καθορῴη τὴν τάξιν, κατὰ μετουσίαν μέντοι τοῦ πρώτου καὶ τοῦ νοητοῦ εἶναι αὐτὸ τοιοῦτον. τὸ δὲ πρῶτον ἦν ἐκεῖνο ἡ τῶν ἀριθμῶν τε καὶ λόγων φύσις διὰ πάντων διαθέουσα, καθ’ οὓς τὰ πάντα ταῦτα συντέτακταί τε ἐμμελῶς καὶ κεκόσμηται πρεπόντως, καὶ σοφία μὲν ἡ τῷ ὄντι ἐπιστήμη \[τις\] ἡ περὶ τὰ καλὰ τὰ πρῶτα καὶ θεῖα καὶ ἀγήρατα καὶ ἀεὶ κατὰ τὰ αὐτὰ καὶ ὡσαύτως ἔχοντα ἀσχολουμένη, ὧν μετοχῇ καὶ τὰ ἄλλα ἂν εἴποι τις καλά· φιλοσοφία δὲ ἡ ζήλωσις τῆς τοιαύτης θεωρίας. καλὴ μὲν οὖν καὶ αὕτη παιδείας ἦν ἐπιμέλεια ἡ συντείνουσα αὐτῷ πρὸς τὴν τῶν ἀνθρώπων ἐπανόρθωσιν.
 
-It is also said, that Pythagoras was the first who called himself a philosopher; this not being a new name, but previously instructing us in a useful manner in a thing appropriate to the name. For he said that the entrance of men into the present life, resembled the progression of a crowd to some public spectacle. For there men of every description assemble with different views; one hastening to sell his wares for the sake of money and gain; but another that he may acquire renown by exhibiting the strength of his body; and there is also a third class of men, and those the most liberal, who assemble for the sake of surveying the places, the beautiful works of art, the specimens of valor, and the literary productions which are usually exhibited on such occasions. Thus also in the present life, men of all-various pursuits are collected together in one and the same place. For some are influenced by the desire of riches and luxury; others by the love of power and dominion; and others are possessed with an insane ambition for glory. But the most pure and unadulteratedcharacter, is that of the man who gives himself to the contemplation of the most beautiful things, and whom it is proper to call a philosopher.[14]He adds, that the survey of all heaven, and of the stars that revolve in it, is indeed beautiful, when the order of them is considered. For they derive this beauty and order by the participation of the first and the intelligible essence. But that first essence is the nature of number and reasons [i. e. productive principles,] which pervades through all things, and according to which all these [celestial bodies] are elegantly arranged, and fitly adorned. And wisdom indeed, truly so called, is a certain science which is conversant with the first beautiful objects,[15] and these divine, undecaying, and possessing an invariable sameness of subsistence; by the participation of which other things also may be called beautiful. But philosophy is the appetition of a thing of this kind. The attention therefore to erudition is likewise beautiful, which Pythagoras extended, in order to effect the correction of mankind.
+He adds, that the survey of all heaven, and of the stars that revolve in it, is indeed beautiful, when the order of them is considered. For they derive this beauty and order by the participation of the first and the intelligible essence. But that first essence is the nature of number and reasons [i. e. productive principles,] which pervades through all things, and according to which all these [celestial bodies] are elegantly arranged, and fitly adorned. And wisdom indeed, truly so called, is a certain science which is conversant with the first beautiful objects,[15] and these divine, undecaying, and possessing an invariable sameness of subsistence; by the participation of which other things also may be called beautiful. But philosophy is the appetition of a thing of this kind. The attention therefore to erudition is likewise beautiful, which Pythagoras extended, in order to effect the correction of mankind.
 # 13
 =====
 

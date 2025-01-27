@@ -353,7 +353,7 @@ Herm. XXX vs. 5; Christian Lobeck Aglaophamus I 251; S. Reinach Archiv für Reli
 # testm
 ## 247
 
-![[iamb.pyth.md#_243]]
+![[Ref/iamb.pyth#_243]]
 
 SUMMARY: This testimony, from the Life of Pythagoras by Iamblichus, says that Orpheus is the most ancient of the poets and that he used the Doric dialect.
 

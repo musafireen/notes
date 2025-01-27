@@ -111,7 +111,7 @@ with reverence and enthusiasm over a long time.
 
 #### 15
 
-दृष्टानुश्रविकविषयवितृष्णस्य वशीकारसंज्ञावैराग्यम् ॥१५॥
+दृष्टानुश्रविकविषयवितृष्णस्य वशीकारसंज्णावैराग्यम् ॥१५॥
 
 Absence of thirst towards objects,
 either as seen or following heard spiritual teachings,

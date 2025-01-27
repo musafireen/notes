@@ -310,6 +310,39 @@ IL.1.30   in my own house, in Argos, far from her own land, going
 Oceanus,tethys
 ### 261
 Nyx, zeus
+## b6
+### 130
+ILE 130 οὐδὲ γὰρ οὐδὲ Δρύαντος υἱός κρατερός) Λυκόοργος
+
+1.6.130 since even the son of Dryas, Lykourgos the powerful, did not
+
+11.6.131 δὴν ἦν, ὃς ῥα θεοῖσιν ἐπουρανίοισιν έριζεν:
+
+IL 6.131 live long; he who tried to fight with the gods of the bright sky,
+
+11.6.132 ὅς ποτε μαινομένοιο Διωνύσοιο τιθήνας
+
+IL.6.132 who once drove the fosterers of rapturous Dionysos
+
+1.6.133 σεῦε κατ' ἠγάθεον Νυσήϊον: Μαϊ 158' Βάμα πᾶσαι 416]
+
+ILE 133 headlong down the sacred Nyseian hill, and all of them
+
+11.6.134 θύσθλα χαμαὶ κατέχευαν ὑπ' ἀνδροφόνοιο Λυκούργου
+
+ILE 134 shed and scattered their wands on the ground, stricken with an ox-goad
+
+18.135 θεινόμεναι βουπλῆγι: Διώνυσος δὲ φοβηθείς
+
+6 135 by murderous Lykourgos, while Dionysos in terror
+
+11.6 136 δύσεθ' ἀλὸς κατὰ κῦμα, Θέτις δ' ὑπεδέξατο κόλπω
+
+IL6.136 dived into the salt surf, and Thetis took him to her bosom,
+
+11.6.137 δειδιότα: κρατερός) 19 γάρ Ποέχε τρόμος τα ἀνδρὸς ὁμοκλῇ.
+
+IL.6.137 frightened, with the strong shivers upon him at the man's blustering.
 ## b7
 ### 418
 άμφοτερον νεκυας τ' άγεμεν έτεροι" δὲ μεθ' ύλην.
