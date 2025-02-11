@@ -251,6 +251,10 @@ drāviḍa, tailaṅga, karṇaṭaka, mahārāṣṭra, gurjara
 
 Kaifiyat:
 drāviḍa, andhrapūrva, karṇaṭaka, mahārāṣṭra/deśastha, x
+## pancāgni
+adoloka, parjanya, idaṃloka, puruṣa, yoṣa
+:[[BU#6.2]]
+:[[Chu#5.3]]-[[ChU#5.10]]
 # 6
 ## nāṭiq
 adam, nūḥ, ibrāhīm, mūsā, 'īsā, muḥammad 

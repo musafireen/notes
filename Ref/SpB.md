@@ -1,5 +1,7 @@
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/
 
+https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english
+
 http://gretil.sub.uni-goettingen.de/gretil.html#Brahm
 # haviryajna
 # k1
@@ -569,6 +571,33 @@ He anoints (the eyes) with a reed-stalk, for the reed is a thunderbolt. It is on
 यूपं  व्रक्ष्यन्वैष्णव्यर्चा  जुहोति  |  विष्णवो  हि  यूपस्तस्माद्वैष्णव्यर्चा  जुहोति
 
 Being about to cut the sacrificial stake, he offers with a verse addressed to Vishnu. For the stake belongs to Vishnu; therefore he offers with a verse addressed to Vishnu.
+### 3.7.1
+##### 17
+अथैवमभिपद्य वाचयति 
+
+Thereupon he makes (the sacrificer) say while touching it, 
+
+(Vajasaneyi Samhita VI, 4; [Rig-veda I, 22, 19](RV#1.22#19))
+
+विष्णोः कर्माणि पश्यत यतो व्रतानि पस्पशे इन्द्रस्य युज्युः सखेति 
+
+“See ye the deeds of Vishnu, whereby he beheld the sacred ordinances, Indra’s allied friend!” 
+
+वज्रं वा एष प्राहार्षीद्यो यूपमुदशिश्रियद्विष्णोर्विजितिम् पश्यतेत्येवैतदाह यदाह विष्णोः कर्माणि पश्यत यतो व्रतानि पश्पशे इन्द्रस्य युज्यः सखेतीन्द्रो वै यज्ञस्य देवता 
+
+For he who has set up the sacrificial stake has hurled the thunderbolt: “See ye Vishnu’s conquest!” he means to say when he says, “See ye the deeds of Vishnu, whereby he beheld the sacred ordinances, Indra’s allied friend.” Indra, forsooth, is the deity of the sacrifice, 
+
+वैष्णवो यूपस्तं सेन्द्रं करोति 
+
+and the sacrificial stake belongs to Vishnu; he thereby connects it with Indra; 
+
+तस्मादाहेन्द्रस्य युज्यः सखेति
+
+therefore he says, “Indra’s allied friend.”
+##### 23
+स्वर्गस्यो हैष लोकस्य समारोहणः क्रियते यद्यूपशकल इयं रशना रशनायै यूपशकलो यूपशकलाच्चषालं चषालात्स्वर्गं लोकं समश्नुते
+
+Moreover, that chip of the stake is made an ascent to the heavenly world; there is this girdle-rope; after the rope the chip of the stake; after the chip of the stake the top-ring; and from the top-ring one reaches the heavenly world.
 ### 3.8.1
 ##### 6
 अथाह  पर्यग्नयेऽनुब्रूहीति  | उल्मुकमादायाग्नीत्पर्यग्निं  करोति  तद्यत्पर्यग्निं  करोत्यचिद्रमेवैनमेतदग्निना  परिगृह्णाति  नेदेनं  नाष्ट्रा  रक्षांसि  प्रमृशानित्यग्निर्हि  रक्षसामपहन्ता  तस्मात्पर्यग्निं  करोति  तद्यत्रैनं  श्रपयन्ति  तदभिपरिहरति
@@ -669,7 +698,7 @@ They said, “Surely, being thus, we shall not be able to generate: let us make 
 अथ यैतेषां सप्तानाम् पुरुषाणां श्रीः यो रस आसीत्तमूर्ध्वं समुदौहस्तदस्य शिरोऽभवद्यच्रियं समुदौहंस्तस्माचिरस्तस्मिन्नेतस्मिन्प्राणा अश्रयन्त तस्माद्वेवैतचिरोऽथ यत्प्राणा अश्रयन्त तस्मादु प्राणाः श्रियौऽथ यत्सर्वस्मिन्नश्रयन्त तस्मादु शरीरम्
 
 And what excellence, what life-sap (rasa) there was in those seven persons, that they concentrated above, that became his head. And because (in it) they concentrated the excellence (shri), therefore it is (called) the head (shiras). It was thereto that the breaths resorted (shri): therefore also it is the head (shiras). And because the breaths did so resort (shri) thereto, therefore also the breaths (vital airs, and their organs) are elements of excellence (shri). And because they resorted to the whole (system) therefore (this is called) body (sharira).
-5. 
+2. 
 ##### 8
 सोऽयम्  पुरुषः  प्रजापतिरकामयत  भूयान्त्स्याम्  प्रजायेयेति  सोऽश्राम्यत्स  तपो ऽतप्यत  स  श्रान्तस्तेपानो  ब्रह्मैव  प्रथममसृजत  त्रयोमेव  विद्यां  सैवास्मै  प्रतिष्ठाभवत्तस्मादाहुर्ब्रह्मास्य  सर्वस्य  प्रतिष्ठेति  तस्मादनूच्य  प्रतितिष्ठति  प्रतिष्ठा  ह्येषा  यद्ब्रह्म  तस्याम्  प्रतिष्ठायाम्  प्रतिष्ठितोऽतप्यत
 
@@ -925,6 +954,36 @@ He then recognised her and implored her ([[RV#10.95#1]]X, 95, I), “Oh, my wife
 ते  होचुः  संवत्सरं  चातुष्प्राश्यमोदनम्  पच  स एतस्यैवाश्वत्थस्य  तिस्रस्तिस्रः  समिधो  घृतेनांवज्य  समिद्वतीभिर्घृतवतीभिरृग्भिरभ्याधत्तात्स  यस्ततऽग्निर्जनिता  स एव  स  भवितेति
 
 They said, “Cook for a whole year a mess of rice sufficient for four persons; and taking each time three logs from this Ashvattha tree, anoint them with ghee, and put them on the fire with verses containing the words "log" and "ghee": the fire which shall result therefrom will be that very fire (which is required).”
+### 11.5.6
+https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1057067.html
+##### 3
+अथ ब्रह्मयज्ञः 
+
+Then as to the sacrifice to the Brahman. 
+
+स्वाध्यायो वै ब्रह्मयज्ञस्तस्य वा 
+
+The sacrifice to the Brahman is one’s own (daily) study (of the Veda). 
+
+एतस्य ब्रह्मयज्ञस्य वागेव जुहूर्मन उपभृच्चक्षुर्ध्रुवा मेधा स्रुवः सत्यमवभृथः स्वर्गो लोक उदयनं 
+
+The juhu-spoon of this same sacrifice to the Brahman is speech, its upabhrit the mind, its dhruva the eye, its sruva mental power, its purificatory bath truth, its conclusion heaven. 
+
+यावन्तं ह वा इमाम् पृथिवीं वित्तेन पूर्णां ददंलोकं जयति 
+
+And, verily, however great the world he gains by giving away (to the priests) this earth replete with wealth, 
+
+त्रिस्तावन्तं जयति भूयांसं चाक्षय्यं 
+
+thrice that and more—an imperishable world does he gain, 
+
+य एवं विद्वानहरहः स्वाध्यायमधीते 
+
+whosoever, knowing this, studies day by day his lesson (of the Veda): 
+
+तस्मात्स्वाह्यायोऽध्येतव्यः
+
+therefore let him study his daily lesson.
 ### 11.7.1
 ##### 1
 पशुबंधेन  यजते  पशवो  वै  पशुबंधः  स  यत्पशुबंधेन  यजते  पशुमानसानीति  तेन  गृहेषु  यजेत  गृहेषु  पशूंबद्ंना ईति  

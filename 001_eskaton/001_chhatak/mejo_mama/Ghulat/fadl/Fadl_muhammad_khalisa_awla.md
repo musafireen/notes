@@ -1,8 +1,14 @@
 Khalisa nabi
 
 Fadl muhammad
-![[surord#58]]
+![[surord#16]]
 
+# Q:16:89
+[Q.16:89](https://quran.com/16:89/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#16:89]]
+
+## شَهِيد عَلَى شَهِيد أمَّة
 # Q:8:1
 
 [Q.8:1](https://quran.com/8:1/tafsirs/ar-tafsir-al-tabari)
@@ -107,6 +113,12 @@ Fadl muhammad
 ![[Qrsi#4:59]]
 
 ## rdd rsl ( )
+# Q:4:64
+![[Qrsi#4:64]]
+## gfr rasūl
+# 4:65
+![[Qrsi#4:65]]
+## ĥkm k
 
 # Q:4:80
 

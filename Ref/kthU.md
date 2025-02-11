@@ -49,6 +49,11 @@ As you have lived here. Oh Brahman, a venerable guest in my house for three nigh
 स्वर्गलोका अमृतत्वं भजन्त एतद्द्वितीयेन वृणे वरेण ॥ १३ ॥
 
 Oh Death! thou knowest the fire which leads to heaven; explain to me who am zealous that (the fire) by which those, whose world is heaven, attain immortality. I pray for this by my second boon.
+### 14
+प्र ते ब्रवीमि तदु मे निबोध स्वर्ग्यमग्निं नचिकेतः प्रजानन् ।
+अनन्तलोकाप्तिमथो प्रतिष्ठां विद्धि त्वमेतं निहितं गुहायाम् ॥ १४ ॥
+
+(Death says) I will tell thee well; attend to me, Oh Nachiketas, I know the fire leading to heaven; know the fire which leads to heaven and also the support of the universe and which is seated in the cavity.
 #### 15
 लोकादिमग्निं तमुवाच तस्मै या इष्टका यावतीर्वा यथा वा ।
 स चापि तत्प्रत्यवदद्यथोक्तंअथास्य मृत्युः पुनरेवाह तुष्टः ॥ १५ ॥
@@ -138,6 +143,14 @@ Beyond the senses, are the rudiments of its objects; beyond these rudiments is t
 Whoever with zeal, causes to be recited before an. assembly of Brahmins or at the time of Sraddha of the ancestors, this highest secret, that secures immortality, secures immortality.
 # k2
 ## 2.1
+#### 1
+पराञ्चि खानि व्यतृणत्स्वयम्भूस्तस्मात्पराङ्पश्यति नान्तरात्मन् ।
+
+The self-existent created the senses out-going: therefore, one sees outside and not the atman within. 
+
+कश्चिद्धीरः प्रत्यगात्मानमैक्षदावृत्तचक्शुरमृतत्वमिच्छन् ॥ १ ॥
+
+Some intelligent man, with his senses turned away, (from their object), desirous of immortality, sees the atman within.
 #### 9
 यतश्चोदेति सूर्योऽस्तं यत्र च गच्छति ।
 तं देवाःसर्वे अर्पितास्तदु नात्येति कश्चन । एतद्वैतत् ॥ ९ ॥

@@ -13,6 +13,7 @@
 ![[Qrsi#81:7]]
 
 ## {ln[~]*u[~]*fuws
+Nafs zawj ilm hadr
 
 
 # Q:81:14
@@ -35,7 +36,7 @@
 # Q:89:27
 [Q.89:27](https://quran.com/89:27/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#89:27]]
+![[Qrsi#89:27]]![[Qrsi#89:28]]
 
 ## {ln[~]*a[~]*fos
 
@@ -51,7 +52,7 @@
 # Q:91:7
 [Q.91:7](https://quran.com/91:7/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#91:7]]
+![[Qrsi#91:7]]![[Qrsi#91:8]]![[Qrsi#91:9]]![[Qrsi#91:10]]
 
 ## ~~~ n[~]*a[~]*fos[FNK]
 1st inst: [[#Q:74:38]]
@@ -60,7 +61,7 @@
 # Q:75:2
 [Q.75:2](https://quran.com/75:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#75:2]]
+![[Qrsi#75:2]]![[Qrsi#75:3]]
 
 ## ~~~ {ln[~]*a[~]*fos
 1st inst: [[#Q:89:27]]
@@ -77,7 +78,7 @@
 # Q:50:16
 [Q.50:16](https://quran.com/50:16/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#50:16]]
+![[Qrsi#50:16]]![[Qrsi#50:17]]![[Qrsi#50:18]]
 
 ## ~~~ (?<!{l)n[~]*a[~]*fos[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:75:14]]
@@ -86,7 +87,7 @@
 # Q:50:21
 [Q.50:21](https://quran.com/50:21/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#50:21]]
+![[Qrsi#50:19]]![[Qrsi#50:20]]![[Qrsi#50:21]]![[Qrsi#50:22]]![[Qrsi#50:23]]![[Qrsi#50:24]]![[Qrsi#50:27]]![[Qrsi#50:28]]
 
 ## ~~~ n[~]*a[~]*fos[FNK]
 1st inst: [[#Q:74:38]]
@@ -112,7 +113,7 @@
 # Q:7:23
 [Q.7:23](https://quran.com/7:23/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#7:23]]
+![[Qrsi#7:19]]![[Qrsi#7:20]]![[Qrsi#7:22]]![[Qrsi#7:23]]
 
 ## ~~~ (?<!{lo)>anfus[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:7:9]]
@@ -337,7 +338,7 @@
 # Q:27:14
 [Q.27:14](https://quran.com/27:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#27:14]]
+![[Qrsi#27:13]]![[Qrsi#27:14]]
 
 ## ~~~ (?<!{lo)>anfus[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:7:9]]
@@ -364,7 +365,7 @@
 # Q:27:92
 [Q.27:92](https://quran.com/27:92/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#27:92]]
+![[Qrsi#27:91]]![[Qrsi#27:92]]
 
 ## ~~~ (?<!{l)n[~]*a[~]*fos[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:75:14]]
@@ -373,7 +374,7 @@
 # Q:28:16
 [Q.28:16](https://quran.com/28:16/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#28:16]]
+![[Qrsi#28:15]]![[Qrsi#28:16]]
 
 ## ~~~ (?<!{l)n[~]*a[~]*fos[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:75:14]]
@@ -400,7 +401,7 @@
 # Q:17:7
 [Q.17:7](https://quran.com/17:7/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#17:7]]
+![[Qrsi#17:4]]![[Qrsi#17:7]]
 
 ## ~~~ (?<!{lo)>anfus[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:7:9]]
@@ -659,7 +660,7 @@
 # Q:6:24
 [Q.6:24](https://quran.com/6:24/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:24]]
+![[Qrsi#6.22]]![[Qrsi#6:23]]![[Qrsi#6:24]]
 
 ## ~~~ (?<!{lo)>anfus[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:7:9]]
@@ -695,7 +696,7 @@
 # Q:6:98
 [Q.6:98](https://quran.com/6:98/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:98]]
+![[Qrsi#r6.12.1]]
 
 ## ~~~ n[~]*a[~]*fos[FNK]
 1st inst: [[#Q:74:38]]
@@ -713,7 +714,7 @@
 # Q:6:123
 [Q.6:123](https://quran.com/6:123/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:123]]
+![[Qrsi#6:123]]![[Qrsi#6:124]]![[Qrsi#6:128]]![[Qrsi#6:129]]
 
 ## ~~~ (?<!{lo)>anfus[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:7:9]]
@@ -803,7 +804,7 @@
 # Q:39:15
 [Q.39:15](https://quran.com/39:15/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#39:15]]
+![[Qrsi#39:14]]![[Qrsi#39:15]]
 
 ## ~~~ (?<!{lo)>anfus[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:7:9]]
@@ -893,7 +894,7 @@
 # Q:41:53
 [Q.41:53](https://quran.com/41:53/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#41:53]]
+![[Qrsi#41:52]]![[Qrsi#41:53]]
 
 ## ~~~ (?<!{lo)>anfus[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:7:9]]
@@ -974,7 +975,7 @@
 # Q:18:51
 [Q.18:51](https://quran.com/18:51/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#18:51]]
+![[Qrsi#18;50]]![[Qrsi#18:51]]
 
 ## ~~~ (?<!{lo)>anfus[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:7:9]]
@@ -1068,7 +1069,7 @@
 # Q:14:45
 [Q.14:45](https://quran.com/14:45/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#14:45]]
+![[Qrsi#14:44]]![[Qrsi#14:45]]
 
 ## ~~~ (?<!{lo)>anfus[aiu](?=h|k|y|Y|n|$)
 1st inst: [[#Q:7:9]]

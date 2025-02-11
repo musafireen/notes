@@ -23,6 +23,12 @@ You have protected Narya, Turvaśa, Yadu and Turvīti, of the face of Vayya; you
 अ॒पाम॑तिष्ठद्ध॒रुण॑ह्वरं॒ तमो॒ऽन्तर्वृ॒त्रस्य॑ ज॒ठरे॑षु॒ पर्व॑तः । अ॒भीमिन्द्रो॑ न॒द्यो॑ व॒व्रिणा॑ हि॒ता विश्वा॑ अनु॒ष्ठाः प्र॑व॒णेषु॑ जिघ्नते ॥
 
 The darkness obstructed the current of the waters; the cloud was within the belly of Vṛtra; but Indra precipitated all the waters which the obstructor had concealed, in succession, down to the hollows (of the earth).
+## 1.60
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829611.html
+#### 1
+वह्निं॑ य॒शसं॑ वि॒दथ॑स्य के॒तुं सु॑प्रा॒व्यं॑ दू॒तं स॒द्योअ॑र्थम् । द्वि॒जन्मा॑नं र॒यिमि॑व प्रश॒स्तं रा॒तिं भ॑र॒द्भृग॑वे मात॒रिश्वा॑ ॥
+
+“Mātariśvan brought, as a friend, to Bhṛgu, the celebrated Vahni, the illuminator of sacrifices, the careful protector (of his votaries), the swift-moving messenger (of the gods), the offspring of two parents, (to be to him) as it were a precious treasure.”
 ## 1.61
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829617.html
 #### 5
@@ -408,9 +414,13 @@ I have beheld the unwearied protector of the universe, the sun, travelling upwar
 
 invested with aggregative and diffusive radiance, he revolves in the midst of the regions.
 #### 46
-इन्द्रं॑ मि॒त्रं वरु॑णम॒ग्निमा॑हु॒रथो॑ दि॒व्यः स सु॑प॒र्णो ग॒रुत्मा॑न् । एकं॒ सद्विप्रा॑ बहु॒धा व॑दन्त्य॒ग्निं य॒मं मा॑त॒रिश्वा॑नमाहुः ॥
+इन्द्रं॑ मि॒त्रं वरु॑णम॒ग्निमा॑हु॒रथो॑ दि॒व्यः स सु॑प॒र्णो ग॒रुत्मा॑न् । 
 
-“They have styled (him, the Sun), Indra, Mitra, Varuṇa, Agni, and he is the celestial, well-winged Garutmat, for learned priests call one by many names as they speak of Agni, Yama, Mātariśvan.”
+“They have styled (him, the Sun), Indra, Mitra, Varuṇa, Agni, and he is the celestial, well-winged Garutmat, 
+
+एकं॒ सद्विप्रा॑ बहु॒धा व॑दन्त्य॒ग्निं य॒मं मा॑त॒रिश्वा॑नमाहुः ॥
+
+for learned priests call one by many names as they speak of Agni, Yama, Mātariśvan.”
 #### 48
 द्वाद॑श प्र॒धय॑श्च॒क्रमेकं॒ त्रीणि॒ नभ्या॑नि॒ क उ॒ तच्चि॑केत । तस्मि॑न्त्सा॒कं त्रि॑श॒ता न श॒ङ्कवो॑ऽर्पि॒ताः ष॒ष्टिर्न च॑लाच॒लास॑: ॥
 
@@ -458,6 +468,29 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831015
 
 grant us, (Tvaṣṭa), their increase.”
 # b2
+## 2.1
+### 3-7
+#### 3
+त्वम॑ग्न॒ इन्द्रो॑ वृष॒भः स॒ताम॑सि॒ त्वं विष्णु॑रुरुगा॒यो न॑म॒स्य॑: । त्वं ब्र॒ह्मा र॑यि॒विद्ब्र॑ह्मणस्पते॒ त्वं वि॑धर्तः सचसे॒ पुरं॑ध्या ॥
+
+“You, Agni, are Indra, the showerer (of bounties) on the good; you are adorable Viṣṇu, the hymned of many; you Brahmaṇaspati, are Brahmā, the possessor of riches; you, the author of various (conditions) are associated with wisdom.”
+#### 4
+त्वम॑ग्ने॒ राजा॒ वरु॑णो धृ॒तव्र॑त॒स्त्वं मि॒त्रो भ॑वसि द॒स्म ईड्य॑: । त्वम॑र्य॒मा सत्प॑ति॒र्यस्य॑ स॒म्भुज॒द त्वमंशो॑ वि॒दथे॑ देव भाज॒युः ॥
+
+“You, Agni, are the royal Varuṇa, observant of holy vows; you are the adorable Mitra, the destroyer (of foes); you are Aryaman, the protector of the virtuous, whose (liberality) is enjoyed by all; you are a portion (of the sun); be the distributor (of good things), divine (Agni), at our sacrifice.”
+#### 5
+त्वम॑ग्ने॒ त्वष्टा॑ विध॒ते सु॒वीर्यं॒ तव॒ ग्नावो॑ मित्रमहः सजा॒त्य॑म् । त्वमा॑शु॒हेमा॑ ररिषे॒ स्वश्व्यं॒ त्वं न॒रां शर्धो॑ असि पुरू॒वसु॑: ॥
+
+“You, Agni, are Tvaṣṭā, (the giver) of great wealth to (your) worshipper; these praises are yours; do you, of benevolent power, (admit) our affinity; you, who are prompt to encourage (us), give us good (store of) horses; you, who abound with opulence, are the strength of men.”
+#### 6
+त्वम॑ग्ने रु॒द्रो असु॑रो म॒हो दि॒वस्त्वं शर्धो॒ मारु॑तं पृ॒क्ष ई॑शिषे । त्वं वातै॑ररु॒णैर्या॑सि शंग॒यस्त्वं पू॒षा वि॑ध॒तः पा॑सि॒ नु त्मना॑ ॥
+
+“You, Agni, are Rudra, the expeller (of foes) from the expanse of heaven; you are the strength of the Maruts; you are supreme over (sacrificial) food; you, who are plural asantly domiciled (in the hall of sacrifice), go with ruddy horses, (fleet as) the wind; as Pūṣan, you cherish, of yours own will, those who offer worship.”
+#### 7
+त्वम॑ग्ने द्रविणो॒दा अ॑रं॒कृते॒ त्वं दे॒वः स॑वि॒ता र॑त्न॒धा अ॑सि । त्वं भगो॑ नृपते॒ वस्व॑ ईशिषे॒ त्वं पा॒युर्दमे॒ यस्तेऽवि॑धत् ॥
+
+“You, Agni, are Draviṇodās, to him who honours you; you are the divine Savitā, the possessor of precious things; protector of men, you are Bhaga, and rule over wealth; you are the cherisher of him who worships you in his dwelling.”
+### ?
 ## 2.11
 #### 19
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831162.html
@@ -1193,9 +1226,13 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc834859
 ## 7.59
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc835068.html
 #### 12
-त्र्य॑म्बकं यजामहे सु॒गन्धिं॑ पुष्टि॒वर्ध॑नम् । उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ मामृता॑त् ॥
+त्र्य॑म्बकं यजामहे सु॒गन्धिं॑ पुष्टि॒वर्ध॑नम् । 
 
-“We worship Tryambaka, whose fame is fragrant, the augmenter of increase; may I be liberated from death, and, like the urvāruka from its stalk, but not to immortality; let us worship Trayambaka, whose fame is fragrant, the augmenter of increase; may I be liberated from death like the urvāruka from its stalk, but not unto immortality.”
+“We worship Tryambaka, whose fame is fragrant, the augmenter of increase; 
+
+उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ मामृता॑त् ॥
+
+may I be liberated from death, and, like the urvāruka from its stalk, but not to immortality;”
 ## 7.66
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc835128.html
 #### 1

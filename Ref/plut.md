@@ -273,8 +273,45 @@ https://remacle.org/bloodwolf/historiens/Plutarque/isisetosirisa.htm
 It is said that such sacred rites were also adopted by the Greeks from the Persians and the Indians.
 ...
 
-# anim_prc
+# anim_prcr
 
 ## 1028f
+ἣμισυ ταῖς λοιπαῖς ἄχρι τῆς ἰσημερίας, ἐν ἑξαπλασίοις καὶ τριπλασίοις διαστήμασι τοῦ χρόνου τὴν ἀνωμαλίαν ἐπανισοῦντος. 
 
-# qConv
+The remaining half [of the year] lasts until the equinox, with the irregularity being balanced out over time in intervals of sixfold and threefold durations. 
+
+Χαλδαῖοι δὲ λέγουσι τὸ ἔαρ ἐν τῷ διὰ τεττάρων γίγνεσθαι πρὸς τὸ μετόπωρον, ἐν δὲ τῷ διὰ πέντε πρὸς τὸν χειμῶνα, πρὸς δὲ τὸ θέρος ἐν τῷ διὰ πασῶν. 
+
+The Chaldeans say that spring is formed in the ratio of four parts to autumn, in the ratio of five parts to winter, and in the ratio of all [the parts together] to summer. 
+
+εἰ δ᾽ ὀρθῶς ὁ Εὐριπίδης διορίζεται θέρους τέσσαρας μῆνας καὶ χειμῶνος ἴσους
+φίλης τ᾽ ὀπώρας διπτύχους ἦρός τ᾽ ἴσους
+ἐν τῷ διὰ πασῶν αἱ ὧραι μεταβάλλουσιν. 
+
+And if Euripides correctly defines summer and winter as equal in duration—
+
+‘Four months for summer, and equal ones for winter,
+And for dear autumn twofold, equal to spring’—
+
+then the seasons change in the ratio of all [the parts together]. 
+
+ἔνιοι δὲ γῇ μὲν τὴν τοῦ προσλαμβανομένου χώραν ἀποδιδόντες σελήνῃ δὲ τὴν ὑπάτην Στίλβωνα δὲ καὶ
+
+Some, however, assign to the earth the region that is added, to the moon the highest [sphere], and to Stilbon [i.e., Mercury]..."
+# colot
+### 1118c
+‘ εἰπεῖν παρέξει, ταὐτὰ πολλοῖς ἐγκεκληκώς. 
+
+It will be possible to say that he has often been accused of saying the same things to many. 
+
+ἐν οἷς δὲ κομιδῇ διαγελᾷ καὶ φλαυρίζει τὸν Σωκράτην ζητοῦντα τί ἄνθρωπός ἐστι καὶ νεανιευόμενον, ὥς φησιν, ὅτι μηδ᾽ αὐτὸς εἰδείη, δῆλος μέν ἐστιν αὐτὸς [p. 453] οὐδέποτε πρὸς τούτῳ γενόμενος: 
+
+And in those cases where he outright mocks and ridicules Socrates for inquiring what a human being is and for, as he says, behaving youthfully by admitting that he himself does not even know, it is clear that he himself [i.e., the critic] has never engaged in such an inquiry. 
+
+ὁ δ᾽ Ἡράκλειτος ὡς μέγα τι καὶ σεμνὸν διαπεπραγμένος ‘ἐδιζησάμην’ φησὶν ‘ἐμεωυτόν,’ 
+
+But Heraclitus, as if he had accomplished something great and solemn, says, 'I searched for myself.' 
+
+καὶ τῶν ἐν Δελφοῖς γραμμάτων θειότατον ἐδόκει τὸ ‘γνῶθι σαυτόν’ ὃ δὴ καὶ Σωκράτει ἀπορίας καὶ ζητήσεως ταύτης ἀρχὴν ἐνέδωκεν, ὡς Ἀριστοτέλης ἐν τοῖς Πλατωνικοῖς εἴρηκε: ’
+
+And among the inscriptions at Delphi, the most divine seemed to be 'Know thyself,' which indeed also provided Socrates with the starting point for his perplexity and inquiry, as Aristotle has said in On Plato."

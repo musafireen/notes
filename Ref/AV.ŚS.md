@@ -740,19 +740,274 @@ Men deep in lore of Brahma know that Animated Being which dwells in the golden t
 
 The young maid of Kirāta race, a little damsel, digs the drug, digs it with shovels wrought of gold on the high ridges of the hills.
 ## 10.6
-#### 9
-यम् अबध्नाद् बृहस्पतिर् मणिं फालं घृतश्चुतम् उग्रम् खदिरम् ओजसे तम् बिभ्रच् चन्द्रमा मणिम् असुराणां पुरो ऽजयद् दानवानां हिरण्ययीः सो अस्मै श्रियम् इद् दुहे भूयोभूयः श्वःश्वस् तेन त्वं द्विषतो जहि
+#### 6
+यमबंध्नाद्धहस्पतिर्मुर्णि पाले घृतञ्चतंमुग्रं कंचिरमोजंसे। तमुग्निः प्रत्यंमुञ्चत सो अंस्मै दुह आज्यं भूयर्योभूयः श्वः श्वस्तेन त्वं द्विषुतो जंहि ॥
+
+6The Charm Brihaspati hath bound, the fatness-dropping citron-wood, the potent Khadira for strength,
+This Agni hath put on: it yields clarified butter for this man.
+#### 8
+यमबंच्नाद्वृहस्पतिंर्मुर्णि पार्ले घृतश्चतंमुग्रम्कंचिरमोज॑से । तं सोमः प्रत्यंमुञ्चत मुहे श्रोत्रांयु चक्षसे। सो अस्मै वर्चु इहुंहे भूयर्योभूयः श्वः श्वस्तेन त्वम्द्धिषुतो जंहि ॥
 
 The Charm Brihaspati, etc.
+This Charm hath Soma put on him for might, for hearing, and for sight.
+This yields him energy indeed, again, again, etc.
+#### 10
+यम् अबध्नाद् बृहस्पतिर् मणिं फालं घृतश्चुतम् उग्रम् खदिरम् ओजसे । 
+
+The Charm Brihaspati, etc.
+
+तम् बिभ्रच् चन्द्रमा मणिम् असुराणां पुरो ऽजयद् दानवानां हिरण्ययीः । 
+
 This Charm did Chandra wear, with this conquered the forts of Asuras, the golden forts of Dānavas.
+
+सो अस्मै श्रियम् इद् दुहे भूयोभूयः श्वःश्वस् तेन त्वं द्विषतो जहि ॥
+
 This yields him glory and renown, again, etc.
+#### 20
+अर्थर्वाणो अबध्नताथर्वणा अंबध्नत। 
+
+Atharvan made the Amulet, Atharvan's children fashioned it.
+
+तैर्मुदिनो अङ्गिरसो दस्यूंनां बिभिदुः पुरस्तेन त्वम्द्विंषतो जंहि ॥
+
+With them the sage Angirases broke through the Dasyus' fortresses. With this subdue thine enemies.
+#### 22
+यमबंध्ना॒द्वृहस्पति॑र्देवेभ्यो असुंरक्षितिम्। स मायं मुणिरागंमुद्रसेंन सह वर्चसा ॥
+
+22The Amulet Brihaspati formed for the Gods, that slew the fiends.
+#### 35
+एतमिमं समाहितं जुष्णो अग्ने प्रतिं हर्यु होमैः। 
+
+Love thou, O Agni, pleased with burnt oblations, this sacred fuel that is ranged in order.
+
+तस्मिन्विधेम सुम॒तिं स्वस्ति प्रजाम्चक्षुः प॒शून्त्समिंद्धे जा॒तवे॑दसि ब्रह्मणा ॥
+
+In him may we find grace and loving-kindness, happiness, ​progeny, and sight and cattle, in Jātavedas kindled with devotion.
 ## 10.7
+#### 2
+कस्मादङ्गांद्दीप्यते अ॒ग्निर॑स्य॒ कस्मादङ्गात्पवते मातरिश्वं । 
+
+Out of which member glows the light of Agni? Form which proceeds the breath of Mātarisvan?
+
+कस्मादङ्गाद्वि मिमीते ऽधिं चुन्द्रमां मुह स्कुम्भस्य॒ मिमांनो अङ्गंम् ॥
+
+From which doth Chandra measure out his journey, travelling over Skambha's mighty body
+#### 7
+यस्मि॑न्त्स्तब्ध्वा प्र॒जाप॑तिर्लोकान्त्सर्वां अधर्धारयत् । 
+
+7Who out of many, tell me, is that Skambha,
+
+स्कम्भं तं ब्रूहि कत॒मः स्विंदे॒व सः ॥
+
+On whom Prajāpati set up and firmly stablished all the worlds?
+#### 8
+यत् परमम् अवमम् यच् च मध्यमं प्रजापतिः ससृजे विश्वरूपम् 
+कियता स्कम्भः प्र विवेश तत्र यन् न प्राविशत् कियत् तद् बभूव ||8||
+
+That universe which Prajāpati created, wearing all forms,, the highest, midmost, lowest,
+How far did Skambha penetrate within it? What portion did he leave unpenetrated?
+#### 9
+कियता स्कम्भः प्र विवेश भूतम् कियद् भविष्यद् अन्वाशये ऽस्य 
+एकं यद् अङ्गम् अकृणोत् सहस्रधा कियता स्कम्भः प्र विवेश तत्र ||9||
+
+How far within the past hath Skambha entered? How much of him hath reached into the future?
+That one part which he set in thousand places,—how far did Skambha penetrate within it?
+#### 10
+यत्र लोकाम्श् च कोशांश् चापो ब्रह्म जना विदुः 
+असच् च यत्र सच् चान्त स्कम्भं तं ब्रूहि कतमः स्विद् एव सः ||10|| {22}
+
+Who out of many, tell me, is that Skambha in whom men recognize the Waters, Brahma,
+In whom they know the worlds and their enclosures, in whom are non-existence and existence?
+#### 12
+यस्मिन् भूमिर् अन्तरिक्षं द्यौर् यस्मिन्न् अध्य् आहिता यत्राग्निश् चन्द्रमाः सूर्यो वातस् तिष्ठन्त्य् आर्पिताः स्कम्भं तं ब्रूहि कतमः स्विद् एव सः ||12||
+
+Who out of many, tell me, is that Skambha
+On whom as their foundation earth and firmament and sky are set;
+In whom as their appointed place rest Fire and Moon and Sun and Wind?
+#### 13
+यस्य त्रयस्त्रिंशद् देवा अङ्गे सर्वे समाहिताः 
+स्कम्भं तं ब्रूहि कतमः स्विद् एव सः ||13||
+
+Who out of many, tell me, is that Skambha
+He in whose body are contained all three-and-thirty Deities?
+#### 18
+यस्य शिरो वैश्वानरश् चक्षुर् अङ्गिरसो ऽभवन् 
+अङ्गानि यस्य यातवः स्कम्भं तं ब्रूहि कतमः स्विद् एव सः ||18||
+
+Who out of many, tell me, is that Skambha
+Of whom Vaisvānara became the head, the Angirases his eye, and Yātus his corporeal parts?
+#### 19
+यस्य ब्रह्म मुखम् आहुर् जिह्वां मधुकशाम् उत 
+विराजम् ऊधो यस्याहुः स्कम्भं तं ब्रूहि कतमः स्विद् एव सः ||19||
+
+Who out of many, tell me, is that Skambha
+Whose mouth they say is Holy Lore, his tongue the Honey-sweetened Whip, his udder is Virāj, they say?
+#### 20
+यस्माद् ऋचो अपातक्षन् यजुर् यस्माद् अपाकषन् सामानि यस्य लोमान्य् अथर्वाङ्गिरसो मुखं स्कम्भं तं ब्रूहि कतमः स्विद् एव सः ||20|| {23}
+
+Who out of many, tell me, is that Skambha
+From whom they hewed the Ṛcas off, from whom they chipped the Yajus, he
+Whose hairs are Sāma-verses and his mouth the Atharvāngi-rases?
 #### 24
 http://www.onlineved.com/atharva-ved/?language=1&kand=10&sukt=7&mantra=24
-यत्र देवा ब्रह्मविदो ब्रह्म ज्येष्ठमुपासते | यो वै तान्विद्यात्प्रत्यक्षं स ब्रह्मा वेदिता स्यात् ||24||
+यत्र देवा ब्रह्मविदो ब्रह्म ज्येष्ठमुपासते | 
 
-Where the brahman-knowing gods worship the chief brahman—whoso verily knoweth them eye to eye (pratyakṣam), he may be a Brahman (brahman), a knower.
+Where the brahman-knowing gods worship the chief brahman—
 
+यो वै तान्विद्यात्प्रत्यक्षं स ब्रह्मा वेदिता स्यात् ||24||
+
+whoso verily knoweth them eye to eye (pratyakṣam), he may be a Brahman (brahman), a knower.
+#### 25
+बृहन्तो नाम ते देवा ये ऽसतः परि जज्ञिरे 
+
+Great, verily, are those Gods who sprang from non-existence into life.
+
+एकं तद् अङ्गं स्कम्भस्यासद् आहुः परो जनाः ||25||
+
+Further, men say that that one part of Skambha is nonentity.
+#### 26
+यत्र स्कम्भः प्रजनयन् पुराणं व्यवर्तयत् 
+
+Where Skambha generating gave the Ancient World its shape and form,
+
+एकं तद् अङ्गं स्कम्भस्य पुराणम् अनुसंविदुः ||26||
+
+They recognized that single part of Skambha as the Ancient World,
+#### 27
+यस्य त्रयस्त्रिंशद् देवा अङ्गे गात्रा विभेजिरे 
+
+The three-and-thirty Gods within his body were disposed as limbs:
+
+तान् वै त्रयस्त्रिंशद् देवान् एके ब्रहम्विदो विदुः ||27||
+
+Some, deeply versed in Holy Lore, some know those three-and- thirty Gods.
+#### 28
+हिरण्यगर्भम् परमम् अनत्युद्यं जना विदुः 
+
+Men know Hiranyagarbha as supreme and inexpressible:
+
+स्कम्भस् तद् अग्रे प्रासिञ्चद् धिरण्यं लोके अन्तरा ||28||
+
+In the beginning, in the midst of the world, Skambha poured that gold.
+#### 34
+यस्य वातः प्राणापानौ चक्षुर् अङ्गिरसो ऽभवन् 
+दिशो यश् चक्रे प्रज्ञानीस् तस्मै ज्येष्ठाय ब्रह्मणे नमः ||34||
+
+Homage to highest Brahma, him whose two life-breathings were  the Wind,
+The Angirases his sight: who made the regions be his means of  sense.
+#### 39
+यस्मै हस्ताभ्यां पादाभ्यां वाचा श्रोत्रेण चक्षुषा
+यस्मै देवाः सदा बलिं प्रयछन्ति विमिते ऽमितं स्कम्भं तं ब्रूहि कतमः स्विद् एव सः ||39||
+
+Who out of many, tell me, is that Skambha.
+To whom the Deities with hands, with feet, and voice, and ear, and eye.
+Present unmeasured tribute in the measured hall of sacrifice?
+#### 40
+अप तस्य हतं तमो व्यावृत्तः स पाप्मना 
+सर्वाणि तस्मिन् ज्योतींषि यानि त्रीणि प्रजापतौ ||40||
+
+Darkness is chased away from him: he is exempt from all dist- ​ress.
+In him are all the lights, the three abiding in Prajāpati.
+#### 41
+यो वेतसं हिरण्ययं तिष्ठन्तं सलिले वेद 
+स वै गुह्यः प्रजापतिः ||41||
+
+He verily who knows the Reed of Gold that stands amid the  flood, is the mysterious Lord of Life.
+#### 42
+तन्त्रम् एके युवती विरूपे अभ्याक्रामं वयतः षण्मयूखम् 
+
+Singly the two young Maids of different colours approach the  six-pegged warp in turns and weave it.
+
+प्रान्या तन्तूंस् तिरते धत्ते अन्या 
+
+The one draws out the threads, the other lays them: 
+
+नाप वृञ्जाते न गमातो अन्तम् ||42||
+
+they break  them not, they reach no end of labour.
+#### 43
+तयोर् अहं परिनृत्यन्त्योर् इव न वि जानामि यतरा परस्तात् 
+
+Of these two, dancing round as 'twere, I cannot distinguish  whether ranks before the other.
+
+पुमान् एनद् वयत्य् उद् गृणन्ति 
+
+A Male in weaves this web, a Male divides it: 
+
+पुमान् एनद् वि जभाराधि नाके ||43||
+
+a Male hath stretched it to the cope of heaven p. 25
+#### 44
+इमे मयूखा उप तस्तभुर् दिवं 
+
+These pegs have buttressed up the sky. 
+
+सामानि चक्रुस् तसराणि वातवे ||44|| {25}
+
+The Sāmans have turned  them into shuttles for the weaving.
+## 10.8
+#### 1
+यो भूतं च भव्यं च सर्वं यश् चाधितिष्ठति 
+स्व् अर्यस्य च केवलं तस्मै ज्येष्ठाय ब्रह्मणे नमः ||1||
+
+Worship to loftiest Brahma, Lord of what hath been and what  shall be,
+To him who rules the universe, and heavenly light is all his own!
+#### 2
+स्कम्भेनेमे विष्टभिते द्यौश् च भूमिश् च तिष्ठतः 
+
+Upheld by Skambha's power these two, the heaven and the earth,   stand fast.
+
+स्कम्भ इदं सर्वम् आत्मन्वद् यत् प्राणन् निमिषच् च यत् ||2||
+
+Skambha is all this world of life, whatever breathes or shuts an. eye.
+#### 3
+तिस्रो ह प्रजा अत्यायम् आयन् न्य् अन्या अर्कम् अभितो ऽविशन्त 
+
+Three generations have gone by and vanished and others near  have entered into sunlight.
+
+बृहन् ह तस्थौ रजसो विमानो हरितो हरिणीर् आ विवेश ||3||
+
+There stood on high he who metes out the region into green,  plants hath passed the Golden-coloured.
+#### 4
+द्वादश प्रधयश् चक्रम् एकं त्रीणि नभ्यानि क उ तच् चिकेत 
+
+One is the wheel, the tires are twelve in number, the naves are   three What man hath understood it?
+
+तत्राहतास् त्रीणि शतानि शङ्कवः षष्टिश् च खीला अविचाचला ये ||4||
+
+Three hundred spokes have thereupon been hammered, and sixty  pins set firmly in their places. p. 28
+#### 5
+इदं सवितर् वि जानीहि षड् यमा एक एकजः 
+
+Discern thou this, O Savitar. Six are the twins, one singly born.
+
+तस्मिन् हापित्वम् इछन्ते य एषाम् एक एकजः ||5||
+
+They claim relationship in that among them which is born alone.
+#### 6
+आविः सन् निहितं गुहा जरन् नाम महत् पदम् 
+
+Though manifest, it lies concealed in the vast place they call the old:
+
+तत्रेदं सर्वम् आर्पितम् एजत् प्राणत् प्रतिष्ठितम् ||6||
+
+Therein is firmly stationed all the moving, breathing universe.
+#### 7
+एकचक्रं वर्तत एकनेमि सहस्राक्षरं प्र पुरो नि पश्चा 
+
+Up, eastward downward in the west, ‘it rolleth, with countless  elements, one-wheeled, single-fellied.
+
+अर्धेन विश्वं भुवनं जजान यद् अस्यार्धं क्व तद् बभूव ||7||
+
+With half it hath begotten all creation. Where hath the other half   become unnoticed?
+#### 13
+प्रजापतिश् चरति गर्भे अन्तर् अदृश्यमानो बहुधा वि जायते 
+
+he, though unseen, is  born in sundry places.
+
+अर्धेन विश्वं भुवनं जजान यद् अस्यार्धं कतमः स केतुः ||13||
+
+He with one half engendered all creation. What sign is there to  tell us of the other?
 ## 10.9
 #### 12
 

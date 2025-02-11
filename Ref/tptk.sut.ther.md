@@ -1,4 +1,4 @@
-
+https://suttacentral.net/dn16/en/sujato?lang=en&layout=linebyline&reference=ms&notes=asterisk&highlight=true&script=latin
 
 # Digha Nikaya
 : 34 long discourses
@@ -87,11 +87,14 @@ Therefore, mendicant, the misdeed is yours alone, the mistake is yours alone, in
 “No, Mister Gotama.”
 “নো হিদং, ভো গোতম”।
 ## mahāvagga
+https://suttacentral.net/ps-mahavagga?view=normal&lang=en
 14
 15-Mana Midane Suffe
 
+
+
 ### mahāparinibbāna
-https://suttacentral.net/dn16/en/sujato?lang=en&layout=linebyline&reference=ms&notes=asterisk&highlight=true&script=latin
+https://suttacentral.net/dn16/en/sujato?lang=en&layout=linebyline&reference=ms&notes=asterisk&highlight=true&script=bengali
 #### ambapālīgaṇikā
 2.14.1ms7D_344msdiv161
 Ambapālī the courtesan heard that the Buddha had arrived and was staying in her mango grove.

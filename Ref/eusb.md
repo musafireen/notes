@@ -738,6 +738,141 @@ Depart all ye profane, and close the doors.’
 “The thoughts of a wise theology, wherein men indicated God and God’s powers by images akin to sense, and sketched invisible things in visible forms, I will show to those who have learned to read from the statues as from books the things there written concerning the Gods.”
 
 (trans. E. H. Gifford, 1903)
+### c9
+‟Ὅρα δὲ τὴν τῶν Ἑλλήνων σοφίαν οὑτωσὶ 
+διασκοπούμενος. τὸν γὰρ Δία τὸν νοῦν τοῦ κόσμου
+ὑπολαμβάνοντες, ὃς τὰ ἐν αὐτῷ ἐδημιούργησεν ἔχων
+ τὸν κόσμον , ἐν μὲν ταῖς θεολογίαις ταύτῃ περὶ αὐτοῦ
+παραδεδώκασιν οἱ τὰ Ὀρφέως εἰπόντες · 
+
+[PORPHYRY] 'Now look at the wisdom of the Greeks, and examine it as follows. The authors of the Orphic hymns supposed Zeus to be the mind of the world, and that he created all things therein, containing the world in himself. Therefore in their theological systems they have handed down their opinions concerning him thus:  22 
+
+Ζεὺς πρῶτος γένετο, Ζεὺς ὕστατος ἀργικέραυνος, Ζεὺς κεφαλὴ, Ζεὺς μέσσα, Δῖός δ’ ἐκ πάντα τέτυκται. Ζεὺς ἄρσην γένετο, Ζεὺς ἄφθιτος ἔπλετο νύμφη. Ζεὺς πυθμὴν γαίης τε καὶ οὐρανοῦ ἀστερόεντος. Ζεὺς βασιλεὺς, Ζεὺς αὐτὸς ἁπάντων ἀρχιγένεθλος. ‘ἐν κράτος, εἶς δαίμων γένετο, μέγας ἀρχὸς ἁπάντων, ‘ὲν δὲ δέμας βασίλειον, ἐν ᾡ τάδε πάντα κυκλεῖται, πῦρ καὶ ὕδωρ καὶ γαῖα καὶ αἰθὴρ, νύξ τε καὶ ἦμαρ, καὶ Μῆτις, πρῶτος γενέτωρ καὶ Ἕρως πολυτερπής· πάντα γὰρ ἐν μεγάλῳ Ζῆνός τάδε σώματι κεῖται. τοῦ δή τοι κεφαλὴν μὲν ἰδεῖν καὶ καλὰ πρόσωπα οὐρανὸς αἰγλήεις , ὃν χρύσεαι ἀμφὶς ἔθειραι ἄστρων μαρμαρέων περικαλλέες ἠερέθονται , ὢ ταύρεα δ’ ἀμφοτέρωθε δύο χρύσεια κέρατα, ἀντολίη τε δύσις τε, θεῶν ὁδοὶ Οὐρανιώνων, 2 ἐν τοῖς Νόμοις] 12. p. 955 E. 12 Ὅρα δὲ — ] Porphyrius
+ap. Stob. Ecl. 1, 3, 23. ὄμματα δ᾿ ἠέλιός τε καὶ ἀντιόωσα σελήνη. νοῦς δέ οἱ ἀψευδ]ὴς, βασιλήϊος, ἄφθιτος αἰθὴρ, ᾧ δὴ πάντα κυκλεῖ καὶ φράζεται, οὐδέ τις ἐστὶν αὐδὴ, οὔτ᾿ ἐνοπὴ, οὔτε κτύοπος, οὐδὲ μὲν ὄσσα, ἣ λήθει Διὸς οὖας ὑπερμενέος Κρονίωνος. ὧδε μὲν ἀθανάτην κεφαλὴν ἔχει ἠδὲ νόημα· Σῶμα δέ οἱ περιφεγγὲς, ἀπείριτον, ἀστυφέλικτον, ὄβριμον, ὀβριμόγυιον, ὑπερμενὲς ὧδε τέτυκται. Ωμοι μὲν καὶ στγέρνα καὶ εὐρέα νῶτα θεοῖο ἀὴρ εὐρυβίης, πτέρυγες δέ οἱ ἐξεφύοντο, τῇς ἐπὶ πάντα ποτᾶθ᾿, ἱερὴ δέ οἱ ἔπλετο νηδὺς, γαῖα τε παμμήτειρ᾿ ὁρέων τ᾿ αἰπεινὰ κάρηνα· μέσση δὲ ζώνη βαρυηχέος οἶδμα θαλάσσης καὶ πόντου· πυμάτη δὲ βάσις, χθονὸς ἔνδοθι ῥίζαι, Τάρταρά τ᾿ εὐρώεντα καὶ ἔσχατα πέιρατα γαίης. Πάντα δ᾿ ἀποκρύψας αὖθις φάος ἐς πολυγηθὲς μέλλεν ἀπὸ κραδίης προφέρειν πάλι, θέσκελα ῤέζων. 
+
+Zeus was the first, Zeus last, the lightning's lord, 
+Zeus head, Zeus centre, all things are from Zeus. 
+Zeus born a male, Zeus virgin undefiled; 
+Zeus the firm base of earth and starry heaven; 
+Zeus sovereign, Zeus alone first cause of all: 
+One power divine, great ruler of the world, 
+One kingly form, encircling all things here, 
+Fire, water, earth, and ether, night and day; 
+Wisdom, first parent, and delightful Love: 
+For in Zeus' mighty body these all lie. 
+His head and beauteous face the radiant heaven 
+Reveals, and round him float in shining waves 
+The golden tresses of the twinkling stars. 
+On either side bulls' horns of gold are seen, 
+Sunrise and sunset, footpaths of the gods. 
+His eyes the Sun, the Moon's responsive light; 
+His mind immortal ether, sovereign truth, 
+Hears and considers all; nor any speech, 
+Nor cry, nor noise, nor ominous voice escapes 
+The ear of Zeus, great Kronos' mightier son: 
+Such his immortal head, and such his thought. 
+His radiant body, boundless, undisturbed 
+In strength of mighty limbs was formed thus: 
+The god's broad-spreading shoulders, breast, and back 
+Air's wide expanse displays; on either side 
+Grow wings, wherewith throughout all space he flies. 
+Earth the all-mother, with her lofty hills, 
+His sacred belly forms; the swelling flood 
+Of hoarse resounding Ocean girds his waist. 
+His feet the deeply rooted ground upholds, 
+And dismal Tartarus, and earth's utmost bounds. 
+All things he hides, then from his heart again 
+In godlike action brings to gladsome light.
+
+Ζεὺς οὖν ὁ πᾶς κόσμος, ζῷον ἐκ ζῴων καὶ θεὸς
+ἐκ θεῶν· Ζεὺς δὲ, καθὸ νοῦς, ἀφ᾿ οὗ προφέρει
+πάντα καὶ δημιουργεῖ τοῖς νοήμασι. Τῶν δὴ θεολόγων 
+τὰ δὴ περὶ τοῦ θεοῦ τοῦτον ἐξηγησαμένων
+τὸν τρόπον, εἰκόνα μὲν τοιαύτην δημιουργεῖν, οἵαν
+ὁ λόγος ἐμήνυσεν, οὔθ᾿ οἷόν τε ἦν οὔτ᾿, εἴ τις ἐπενόησε,
+τὸ ζωτικὸν καὶ νοερὸν καὶ προνοητικὸν διὰ
+τῆς σφαίρας ἐδείκνυεν. 
+
+'Zeus, therefore, is the whole world, animal of animals, and god of gods; but Zeus, that is, inasmuch as he is the mind from which he brings forth all things, and by his thoughts creates them. When the theologians had explained the nature of god in this manner, to make an image such as their description indicated was neither possible, nor, if any one thought of it, could he show the look of life, and intelligence, and forethought by the figure of a sphere.
+
+ἀνθρωπόμορφον δὲ τοῦ  Διὸς τὸ δείκηλον πεποιήκασιν, ὅτι νοῦς ἦν καθ᾿ ὃν ἐδημιούργει καὶ λόγοις σπερματικοῖς ἀπετέλει τὰ
+πάντα· κάθηται δὲ, τὸ ἑδραῖον τῆς δυνάμεως αἰνιττόμενος· γυμνὰ δὲ ἔχει τὰ ἄνω, ὅτι φανερὸς ἐν τοῖς
+νοεροῖς καὶ τοῖς οὐρανίοις τοῦ κόσμου μέρεςίν ἐστι· 
+ σκέπεται δὲ αὐτῷ τὰ πρόσθια, ὅτι ἀφανὴς τοῖς κάτω
+Κεκρυμμένοις· ἔχει δὲ τῇ μὲν λαιᾷ τὸ σκῆπτρον, καθ᾿ 
+ὃ μάλιστα τῶν τοῦ σώματος μερῶν τὸ ἡγεμονικώτατόν
+τε καὶ νοερώτατον ὑποικουρεῖ σπλλάγχνον, ἡ καρδία· βασιλεὺς γὰρ τοῦ κόσμου ὁ δημιουργικὸς νοῦς·
+προτείνει δὲ τῇ δεξιᾷ ἢ ἀετὸν, ὅτι κρατεῖ τῶν ἀεροπόρων θεῶν, ὡς τῶν μεταρσίων ὀρνέων ὁ ἀετὸς, ἢ
+νίκην, ὅτι νενίκηκεν αὐτὸς πάντα.” 
+
+'But they have made the representation of Zeus in human form, because mind was that according to which he wrought, and by generative laws brought all things to completion; and he is seated, as indicating the steadfastness of his power: and his upper parts are bare, because he is manifested in the intellectual and the heavenly parts of the world; but his feet are clothed, because he is invisible in the things that lie hidden below. And he holds his sceptre in his left hand, because most close to that side of the body dwells the heart, the most commanding and intelligent organ: for the creative mind is the sovereign of the world. And in his right hand he holds forth either an eagle, because he is master of the gods who traverse the air, as the eagle is master of the birds that fly aloft----or a victory, because he is himself victorious over all things.'
+
+Ταῦτά σοι ὁ Πορφύριος, ὧν τὸν εἰρημένον τρόπον ἀποδεδομένων ἠρέμα καὶ ἐπὶ σχολῆς ἐπιθεωρῆσαι καλὸν τίνα ποτὲ ἄρα τὸν Δία φασὶν εἷναι τὰ ἔπη. ἐγὼ μὲν γὰρ οὐδὲ ἄλλον ἡγοῦμαι ἢ τὸν ὁρώμενον κόσμον ἐκ παντοίων συνεστῶτα μερῶν, τῶν τε κατ’ οὐρανὸν καὶ αἰθέρα καὶ τῶν ἐν τούτοις φαινομένων ἄστρων, ὥσπερ ἐν μεγάλου σώματος κεφαλῇ προτεταγμένων, τῶν τε ἐν ἀέρι καὶ γῇ καὶ θαλάττῃ καὶ τοῖς παραπλησίοις. 
+
+These things Porphyry tells you: and after they have been delivered in the manner already stated, it will be well to examine quietly and at leisure what after all the verses declare Zeus to be. I for my part think they make him to be none else than the visible world consisting of many various parts, both of those in heaven and in the ether, and of the stars which appear therein,----these being set first as in the head of a great body,----and also of the parts that lie in the air, and earth, and sea, and the like.
+
+μέρη γοῦν κόσμου καὶ γῆ καὶ ὄρη καὶ βουνοὶ, εἱλεῖταί τε αὐτῶν ἐν μέσῳ ζώνης τρόπον ἡ θάλαττα, καὶ πῦρ δὲ καὶ ὕδωρ νύξ τε καὶ ἡμέρα τῆς αὐτῆς εἶεν ἂν τοῦ κόσμου φύσεως μέρη. ταῦτα δ’ ἄντικρυς τὸν ὁρώμενον ὑποφαίνειν ἡγοῦμαι κόσμον, εἰ μή τι καὶ σφάλλομαι, καὶ τὸ ὅλον ἐκ μερῶν συνεστὼς διδάσκει. λέγει δ’ οὖν Πάντα γὰρ ἐν μεγάλῳ Ζῆνός τάδε σώματι κεῖται. καὶ τίνα τὰ πάντα διασαφεῖ
+
+Certainly the earth and mountains and hills are parts of the world, and the sea is rolled round in the midst of them like a girdle, and fire also and water, and night and day must be parts of the same nature of the world. These things I suppose to indicate directly the visible world, unless I am somewhat mistaken, and to show us the universe made up of various parts. He says at all events:
+
+'For in Zeus' mighty body these all lie.'
+
+And what 'these all' are, he clearly states:
+
+ πῦρ καὶ ὕδωρ καὶ γαῖα καὶ αἰθὴρ , νύξ τε καὶ ἦμαρ. τοῦ δή τοι κεφαλὴν μὲν ἰδεῖν καὶ καλὰ πρόσωπα οὐρανὸς αἰγλήεις, ὃν χρύσεαι ἀμφὶς ἔθειραι ἄστρων μαρμαρέων περικαλλέες ἠερέθονται, καὶ τὰ τούτοις ἀκόλουθα· 
+ 
+'Fire, water, earth, and ether, night and day. 
+His head and beauteous face the radiant heaven 
+Reveals, and round him float in shining waves 
+The golden tresses of the twinkling stars.'
+ 
+ἐν οἷς ἐπιφέρει τὸν νοῦν τοῦ Δῖός λέγων εἶναι τὸν αἰθέρα καὶ οὐδὲν ἄλλο, κατὰ τοὺς Στωϊκοὺς τὴν πυρώδη καὶ θερμὴν οὐσίαν τὸ ἡγεμονικὸν φάσκοντας εἶναι τοῦ κόσμου, καὶ τὸν θεὸν εἶναι σῶμα, καὶ τὸν δημιουργὸν αὐτὸν οὐδ’ ἕτερον τῆς τοῦ πυρὸς δυνάμεως. κατὰ τὰ αὐτὰ γὰρ οἶμαι καὶ ἐν τοῖς ἔπεσιν εἰρῆσθαι 
+
+In the verses that follow these, he adds the statement that the mind of Zeus is the ether and nothing else, in agreement with the Stoics, who assert that the element of fire and heat is the ruling principle of the world, and that god is a body, and the Creator himself nothing else than the force of fire. For in this same sense I think it is said in the verses:
+
+Νοῦς δέ οἱ ἀψευδὴς βασιλήϊος, ἄφθιτος αἰθὴρ, ᾧ δὴ πάντα κυκλεῖ καὶ φράζεται. 
+
+'His mind immortal ether, sovereign truth, 
+Hears and considers all.'
+
+δι᾿ ὧν ἀνεπικαλύπτως ζῷον μέγα τὸν κόσμον
+ὑποθέμενος, καὶ τοῦτον Δία προσειπὼν, νοῦν μὲν
+αὐτοῦ τὸν αἰθέρα, σῶμα δὲ τὰ λοιπὰ τοῦ κόσμου μέρη 
+ἀπεφήνατο εἶναι. 
+
+Wherein without any concealment he supposed the world to be a great animal, and calling it Zeus, he represented the ether as his mind, and the remaining parts of the world as his body.
+
+τοιοῦτος μέν τις ὁ διὰ τῶν ἐπῶν ὑπογραφόμενος τυγχάνει Ζεύς. 
+
+Such is found to be the Zeus depicted by the verses.
+
+ὁ δὲ τῶν ἐπῶν ἐξηγητὴς ἀρξάμενος μὲν τοῖς ἔπεσιν ἀκολούθως λέγει, Ζεὺς οὖν ὁ πᾶς κόσμος, ζῷον ἐκ ζῴων, θεὸς ἐκ θεῶν· σαφῶς τὸν θεολογούμενον Δία οὐδὲ ἄλλον ἢ τὸν ὁρώμενον καὶ αἰσθητὸν κόσμον δηλοῦσθαι διὰ τῶν ἐπῶν ἑρμηνεύσας. 
+
+And the interpreter of the poem begins by saying, in accordance with the same, 'Zeus, therefore, is the whole world, animal of animals, god of gods;' thus clearly explaining that the Zeus of his theology is shown by the poem to be no other than the visible and sensible world.
+
+Αἰγυπτίων δὲ ὁ λόγος, παρ᾿ ὧν καὶ Ὀρφεὺς τὴν θεολογίαν ἐκλαβὼν τὸν κόσμον εἶναι τὸν θεὸν
+ᾤετο, ἐκ πλειόνων θεῶν τῶν αὐτοῦ μερῶν, (ὅτι καὶ 
+τὰ μέρη τοῦ κόσμου θεολογοῦντες ἐν τοῖς πρόσθεν
+ἀπεδείχθησαν,) συνεστῶτα, καὶ τούτου πλέον οὐδὲν τὰ
+παρατεθέντα τῶν ἐπῶν ῥήματα διεσάφησεν. 
+
+Now the doctrine was that of the Egyptians, from whom Orpheus took his theology, and thought that the world was the god composed of many gods who were parts of himself (for they were shown in what goes before to have also deified the parts of the world); and the statements which have been quoted from the verses declared nothing more than this.
+
+ὁ δὲ μετὰ τὴν πρώτην ἑρμηνείαν δευτέραν ἐξ αὑτοῦ προστίθησι, τὸν τῶν ὅλων ποιητὴν θεὸν τὸν δημιουργικὸν νοῦν τοῦτον φάσκων εἶναι τὸν τεθεολογημένον. 
+
+But Porphyry after his first interpretation adds another of his own, asserting that the God who is the Maker of the world is this creative mind which has been deified by the poet.
+
+πῶς δ᾿ ἂν αὐτὸν τοῦτον ἐθεολόγει, ὃν μηδὲ τὴν
+ἀρχὴν ἔγνω ὁ τῶν ἐπῶν ποιητὴς, εἴτε ὁ Θρᾷξ εἴη
+Ὀρφεὺς εἴτε τις ἄλλος; εἰ δὴ παρ᾿ Αἰγυπτίων ἢ καὶ
+τῶν πρώτων Ἑλλήνων ἥκοντα ἦν εἰς αὐτὸν τὰ τῆς 
+θεολογίας , οἶ δέ γε ἀπεδείχθησαν οὐδὲν νοητὸν ἐπιστάμενοι, οὐδ᾿ ἐν ἀφανεῖ καὶ ἀσωμάτῳ οὐσίᾳ περιεχόμενον, εἴ τῳ ἱκανὸς πιστώσασθαι ὁ Πλάτων, ὁμολογῶν ἐν Κρατύλῳ τοὺς πρώτους τῶν ἀνθρώπων περὶ τὴν Ἑλλάδα τούτους μόνους θεοὺς ἡγεῖσθαι, οὕσπερ νῦν πολλοὶ τῶν βαρβάρων, ἥλιον καὶ σελήνην καὶ γῆν καὶ ἄστρα καὶ οὐρανόν. 
+
+But how could the poet, whether he were the Thracian Orpheus or any one else, deify just this mind, of which he never knew any thing at all, if indeed his theological doctrines came to him from the Egyptians or from the primitive Greeks? For these were proved to have understood nothing ideal or comprised in invisible and incorporeal essence, if Plato's assurance may suffice us, when in the Cratylus he admits 'that the first race of men in Greece believed only in these same gods which many of the barbarians believe in now, sun, and moon, and earth, and stars, and heaven.'  23 
+
+καὶ ὁ Χαιῥήμων δὲ μικρῷ ἔμπροσθεν ἐμαρτύρει οὐδ᾿ ἄλλο τι πρὸ τοῦ ὁρωμένου κόσμου τοὺς Αἰγυπτίους ἡγεῖσθαι, οὐδ᾿ ἄλλους θεοὺς πλὴν τῶν πλανητῶν καὶ τῶν λοιπῶν ἀστέρων, πάντα τε εἰς τὰ ὁρώμενα τοῦ κόσμου μέρη καὶ οὐδὲν εἰς ἀσωμάτους καὶ ζώσας οὐσίας ἑρμηνεύοντας.
+
+
 
 ### c13
 #### p118a

@@ -1,9 +1,9 @@
-http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0051
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052%3Abook%3D1%3Asection%3D985b
 
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0052
 # b1
 ## 983b
- [1] ὅμως δὲ παραλάβωμεν καὶ τοὺς πρότερον ἡμῶν εἰς ἐπίσκεψιν τῶν ὄντων ἐλθόντας καὶ φιλοσοφήσαντας περὶ τῆς ἀληθείας. δῆλον γὰρ ὅτι κἀκεῖνοι λέγουσιν ἀρχάς τινας καὶ αἰτίας: ἐπελθοῦσιν οὖν ἔσται τι προὔργου τῇ μεθόδῳ τῇ νῦν: [5] ἢ γὰρ ἕτερόν τι γένος εὑρήσομεν αἰτίας ἢ ταῖς νῦν λεγομέναις μᾶλλον πιστεύσομεν.
+[1] ὅμως δὲ παραλάβωμεν καὶ τοὺς πρότερον ἡμῶν εἰς ἐπίσκεψιν τῶν ὄντων ἐλθόντας καὶ φιλοσοφήσαντας περὶ τῆς ἀληθείας. δῆλον γὰρ ὅτι κἀκεῖνοι λέγουσιν ἀρχάς τινας καὶ αἰτίας: ἐπελθοῦσιν οὖν ἔσται τι προὔργου τῇ μεθόδῳ τῇ νῦν: [5] ἢ γὰρ ἕτερόν τι γένος εὑρήσομεν αἰτίας ἢ ταῖς νῦν λεγομέναις μᾶλλον πιστεύσομεν.
 τῶν δὴ πρώτων φιλοσοφησάντων οἱ πλεῖστοι τὰς ἐν ὕλης εἴδει μόνας ᾠήθησαν ἀρχὰς εἶναι πάντων: ἐξ οὗ γὰρ ἔστιν ἅπαντα τὰ ὄντα καὶ ἐξ οὗ γίγνεται πρώτου καὶ εἰς ὃ φθείρεται τελευταῖον, τῆς μὲν [10] οὐσίας ὑπομενούσης τοῖς δὲ πάθεσι μεταβαλλούσης, τοῦτο στοιχεῖον καὶ ταύτην ἀρχήν φασιν εἶναι τῶν ὄντων, καὶ διὰ τοῦτο οὔτε γίγνεσθαι οὐθὲν οἴονται οὔτε ἀπόλλυσθαι, ὡς τῆς τοιαύτης φύσεως ἀεὶ σωζομένης, ὥσπερ οὐδὲ τὸν Σωκράτην φαμὲν οὔτε γίγνεσθαι ἁπλῶς ὅταν γίγνηται καλὸς ἢ μουσικὸς [15] οὔτε ἀπόλλυσθαι ὅταν ἀποβάλλῃ ταύτας τὰς ἕξεις, διὰ τὸ ὑπομένειν τὸ ὑποκείμενον τὸν Σωκράτην αὐτόν, οὕτως οὐδὲ τῶν ἄλλων οὐδέν: ἀεὶ γὰρ εἶναί τινα φύσιν ἢ μίαν ἢ πλείους μιᾶς ἐξ ὧν γίγνεται τἆλλα σωζομένης ἐκείνης. τὸ μέντοι πλῆθος καὶ τὸ εἶδος τῆς τοιαύτης ἀρχῆς οὐ τὸ αὐτὸ [20] πάντες λέγουσιν, ἀλλὰ Θαλῆς μὲν ὁ τῆς τοιαύτης ἀρχηγὸς φιλοσοφίας ὕδωρ φησὶν εἶναι （διὸ καὶ τὴν γῆν ἐφ᾽ ὕδατος ἀπεφήνατο εἶναι）, λαβὼν ἴσως τὴν ὑπόληψιν ταύτην ἐκ τοῦ πάντων ὁρᾶν τὴν τροφὴν ὑγρὰν οὖσαν καὶ αὐτὸ τὸ θερμὸν ἐκ τούτου γιγνόμενον καὶ τούτῳ ζῶν （τὸ δ᾽ ἐξ οὗ γίγνεται, τοῦτ᾽ ἐστὶν [25] ἀρχὴ πάντων）—διά τε δὴ τοῦτο τὴν ὑπόληψιν λαβὼν ταύτην καὶ διὰ τὸ πάντων τὰ σπέρματα τὴν φύσιν ὑγρὰν ἔχειν, τὸ δ᾽ ὕδωρ ἀρχὴν τῆς φύσεως εἶναι τοῖς ὑγροῖς. εἰσὶ δέ τινες οἳ καὶ τοὺς παμπαλαίους καὶ πολὺ πρὸ τῆς νῦν γενέσεως καὶ πρώτους θεολογήσαντας οὕτως οἴονται περὶ τῆς φύσεως [30] ὑπολαβεῖν: Ὠκεανόν τε γὰρ καὶ Τηθὺν ἐποίησαν τῆς γενέσεως πατέρας, καὶ τὸν ὅρκον τῶν θεῶν ὕδωρ, τὴν καλουμένην ὑπ᾽ αὐτῶν Στύγα τῶν ποιητῶν: τιμιώτατον μὲν γὰρ τὸ πρεσβύτατον, ὅρκος δὲ τὸ τιμιώτατόν ἐστιν.
 
 [1] however, let us avail ourselves of the evidence of those who have before us approached the investigation of reality and philosophized about Truth. For clearly they too recognize certain principles and causes, and so it will be of some assistance to our present inquiry if we study their teaching; because we shall either discover some other kind of cause, or have more confidence in those which we have just described.
@@ -20,7 +20,63 @@ There are some3 who think that the men of very ancient times, long before the pr
 4 cf. Hom. Il. 14. 201, Hom. Il. 14.246.
 
 5 Cf. Hom. Il. 2.755, Hom. Il. 14.271, Hom. Il.15.37.
+## 986a
+τὰ τῶν ἀριθμῶν στοιχεῖα τῶν ὄντων στοιχεῖα πάντων ὑπέλαβον εἶναι, καὶ τὸν ὅλον οὐρανὸν ἁρμονίαν εἶναι καὶ ἀριθμόν: 
 
+[986a] [1] they assumed the elements of numbers to be the elements of everything, and the whole universe (Uranus) to be a proportion1 (harmony) or number. 
+
+καὶ ὅσα εἶχον ὁμολογούμενα ἔν τε τοῖς ἀριθμοῖς καὶ ταῖς ἁρμονίαις πρὸς [5] τὰ τοῦ οὐρανοῦ πάθη καὶ μέρη καὶ πρὸς τὴν ὅλην διακόσμησιν, ταῦτα συνάγοντες ἐφήρμοττον. 
+
+Whatever analogues to the processes and parts of the heavens and to the whole order of the universe they could exhibit in numbers and proportions, these they collected and correlated;
+
+κἂν εἴ τί που διέλειπε, προσεγλίχοντο τοῦ συνειρομένην πᾶσαν αὐτοῖς εἶναι τὴν πραγματείαν: λέγω δ᾽ οἷον, 
+
+and if there was any deficiency anywhere, they made haste to supply it, in order to make their system a connected whole. 
+
+ἐπειδὴ τέλειον ἡ δεκὰς εἶναι δοκεῖ καὶ πᾶσαν περιειληφέναι τὴν τῶν ἀριθμῶν φύσιν, [10] καὶ τὰ φερόμενα κατὰ τὸν οὐρανὸν δέκα μὲν εἶναί φασιν, ὄντων δὲ ἐννέα μόνον τῶν φανερῶν διὰ τοῦτο δεκάτην τὴν ἀντίχθονα ποιοῦσιν. 
+
+For example, since the decad is considered to be a complete thing and to comprise the whole essential nature of the numerical system, they assert that the bodies which revolve in the heavens are ten; and there being only nine2 that are visible, they make the "antichthon"3 the tenth.
+
+διώρισται δὲ περὶ τούτων ἐν ἑτέροις ἡμῖν ἀκριβέστερον. 
+
+We have treated this subject in greater detail elsewhere4; 
+
+ἀλλ᾽ οὗ δὴ χάριν ἐπερχόμεθα, τοῦτό ἐστιν ὅπως λάβωμεν καὶ παρὰ τούτων τίνας εἶναι τιθέασι τὰς [15] ἀρχὰς καὶ πῶς εἰς τὰς εἰρημένας ἐμπίπτουσιν αἰτίας. 
+
+but the object of our present review is to discover from these thinkers too what causes they assume and how these coincide with our list of causes.
+
+φαίνονται δὴ καὶ οὗτοι τὸν ἀριθμὸν νομίζοντες ἀρχὴν εἶναι καὶ ὡς ὕλην τοῖς οὖσι καὶ ὡς πάθη τε καὶ ἕξεις, 
+
+Well, it is obvious that these thinkers too consider number to be a first principle, both as the material5 of things and as constituting their properties and states.6 
+
+τοῦ δὲ ἀριθμοῦ στοιχεῖα τό τε ἄρτιον καὶ τὸ περιττόν, 
+τούτων δὲ τὸ μὲν πεπερασμένον τὸ δὲ ἄπειρον, τὸ δ᾽ ἓν ἐξ ἀμφοτέρων εἶναι τούτων [20] （καὶ γὰρ ἄρτιον εἶναι καὶ περιττόν）, τὸν δ᾽ ἀριθμὸν ἐκ τοῦ ἑνός, ἀριθμοὺς δέ, καθάπερ εἴρηται, τὸν ὅλον οὐρανόν.
+
+The elements of number, according to them, are the Even and the Odd. Of these the former is limited and the latter unlimited; Unity consists of both [20] (since it is both odd and even)7; number is derived from Unity; and numbers, as we have said, compose the whole sensible universe.
+
+ἕτεροι δὲ τῶν αὐτῶν τούτων τὰς ἀρχὰς δέκα λέγουσιν εἶναι τὰς κατὰ συστοιχίαν λεγομένας, 
+
+Others8 of this same school hold that there are ten principles, which they enunciate in a series of corresponding pairs: 
+
+πέρας καὶ ἄπειρον, περιττὸν καὶ ἄρτιον, ἓν καὶ πλῆθος, δεξιὸν καὶ ἀριστερόν, ἄρρεν [25] καὶ θῆλυ, ἠρεμοῦν καὶ κινούμενον, εὐθὺ καὶ καμπύλον, φῶς καὶ σκότος, ἀγαθὸν καὶ κακόν, τετράγωνον καὶ ἑτερόμηκες: 
+
+(1.) Limit and the Unlimited; (2.) Odd and Even; (3.) Unity and Plurality; (4.) Right and Left; (5.) Male and Female; (6.) Rest and Motion; (7.) Straight and Crooked; (8.) Light and Darkness; (9.) Good and Evil; (10.) Square and Oblong.
+
+ὅνπερ τρόπον ἔοικε καὶ Ἀλκμαίων ὁ Κροτωνιάτης ὑπολαβεῖν, καὶ ἤτοι οὗτος παρ᾽ ἐκείνων ἢ ἐκεῖνοι παρὰ τούτου παρέλαβον τὸν λόγον τοῦτον: 
+
+Apparently Alcmaeon of Croton speculated along the same lines, and either he derived the theory from them or they from him; 
+
+καὶ γὰρ ἐγένετο τὴν ἡλικίαν Ἀλκμαίων [30] ἐπὶ γέροντι Πυθαγόρᾳ, ἀπεφήνατο δὲ παραπλησίως τούτοις: 
+
+for [Alcmaeon was contemporary with the old age of Pythagoras, and]9 his doctrines were very similar to theirs.10 
+
+φησὶ γὰρ εἶναι δύο τὰ πολλὰ τῶν ἀνθρωπίνων, λέγων τὰς ἐναντιότητας οὐχ ὥσπερ οὗτοι διωρισμένας ἀλλὰ τὰς τυχούσας, οἷον λευκὸν μέλαν, γλυκὺ πικρόν, ἀγαθὸν κακόν, μέγα μικρόν. 
+
+He says that the majority of things in the world of men are in pairs; but the contraries which he mentions are not, as in the case of the Pythagoreans, carefully defined, but are taken at random, e.g. white and black, sweet and bitter, good and bad, great and small.
+
+οὗτος μὲν οὖν ἀδιορίστως ἀπέρριψε περὶ τῶν λοιπῶν,
+
+Thus Alcmaeon only threw out vague hints with regard to the other instances of contrariety,
 ## 986b
 
 ### 20

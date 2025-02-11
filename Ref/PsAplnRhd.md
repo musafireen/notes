@@ -2,7 +2,7 @@
 # argnt
 http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0227%3Abook%3D4%3Acard%3D1595
 
-https://www.theoi.com/Text/ApolloniusRhodius1.html?utm_source=chatgpt.com
+https://www.theoi.com/Text/ApolloniusRhodius1.html
 
 https://www.gutenberg.org/files/830/830-h/830-h.htm
 
@@ -173,6 +173,24 @@ singing the praises of Rhea most venerable;
 ληξάντων ἀνέμων νῆσον λίπον εἰρεσίῃσιν.
 
 but at dawn the winds had ceased and they rowed away from the island.
+## b2
+### 985-995
+καί νύ κε δηθύνοντες Ἀμαζονίδεσσιν ἔμιξαν
+ὑσμίνην, καὶ δ᾽ οὔ κεν ἀναιμωτί γ᾽ ἐρίδηναν--
+οὐ γὰρ Ἀμαζονίδες μάλ᾽ ἐπήτιδες, οὐδὲ θέμιστας
+τίουσαι πεδίον Δοιάντιον ἀμφενέμοντο:
+ἀλλ᾽ ὕβρις στονόεσσα καὶ Ἄρεος ἔργα μεμήλει:
+
+And they would have tarried there and have closed in battle with the Amazons, and would have fought not without bloodshed for the Amazons were not gentle foes and regarded not justice, those dwellers on the Doeantian plain; but grievous insolence and the works of Ares were all their care; 
+
+δὴ γὰρ καὶ γενεὴν ἔσαν Ἄρεος Ἁρμονίης τε
+νύμφης, ἥ τ᾽ Ἄρηϊ φιλοπτολέμους τέκε κούρας,
+ἄλσεος Ἀκμονίοιο κατὰ πτύχας εὐνηθεῖσα--
+εἰ μὴ ἄρ᾽ ἐκ Διόθεν πνοιαὶ πάλιν Ἀργέσταο
+ἤλυθον: οἱ δ᾽ ἀνέμῳ περιηγέα κάλλιπον ἀκτήν,
+995ἔνθα Θεμισκύρειαι Ἀμαζόνες ὡπλίζοντο.
+
+for by race they were the daughters of Ares and the nymph Harmonia, who bare to Ares war-loving maids, wedded to him in the glens of the Acmonian wood had not the breezes of Argestes come again from Zeus; and with the wind they left the rounded beach, where the Themiscyreian Amazons were arming for war. 
 ## b3
 ### 132
 Come, be ready to perform for me the task I will tell thee of, 

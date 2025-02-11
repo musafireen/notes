@@ -656,9 +656,13 @@ and the lover of thought and knowledge must needs pursue first [46e] the causes 
 Now regarding the auxiliary causes which have helped the eyes to acquire the power which they now possess, let this statement suffice. Next we must declare the most important
 # 47
 ## 47a
-[47α] δεδώρηται, μετὰ τοῦτο ῥητέον. ὄψις δὴ κατὰ τὸν ἐμὸν λόγον αἰτία τῆς μεγίστης ὠφελίας γέγονεν ἡμῖν, ὅτι τῶν νῦν λόγων περὶ τοῦ παντὸς λεγομένων οὐδεὶς ἄν ποτε ἐρρήθη μήτε ἄστρα μήτε ἥλιον μήτε οὐρανὸν ἰδόντων. νῦν δ᾽ ἡμέρα τε καὶ νὺξ ὀφθεῖσαι μῆνές τε καὶ ἐνιαυτῶν περίοδοι καὶ ἰσημερίαι καὶ τροπαὶ μεμηχάνηνται μὲν ἀριθμόν, χρόνου δὲ ἔννοιαν περί τε τῆς τοῦ παντὸς φύσεως ζήτησιν ἔδοσαν: 
+[47α] δεδώρηται, μετὰ τοῦτο ῥητέον. ὄψις δὴ κατὰ τὸν ἐμὸν λόγον αἰτία τῆς μεγίστης ὠφελίας γέγονεν ἡμῖν, ὅτι τῶν νῦν λόγων περὶ τοῦ παντὸς λεγομένων οὐδεὶς ἄν ποτε ἐρρήθη μήτε ἄστρα μήτε ἥλιον μήτε οὐρανὸν ἰδόντων. 
 
-[47a] benefit effected by them, for the sake of which God bestowed them upon us. Vision, in my view, is the cause of the greatest benefit to us, inasmuch as none of the accounts now given concerning the Universe would ever have been given if men had not seen the stars or the sun or the heaven. But as it is, the vision of day and night and of months and circling years has created the art of number and has given us not only the notion of Time1 but also means of research into the nature of the Universe. 
+[47a] benefit effected by them, for the sake of which God bestowed them upon us. Vision, in my view, is the cause of the greatest benefit to us, inasmuch as none of the accounts now given concerning the Universe would ever have been given if men had not seen the stars or the sun or the heaven. 
+
+νῦν δ᾽ ἡμέρα τε καὶ νὺξ ὀφθεῖσαι μῆνές τε καὶ ἐνιαυτῶν περίοδοι καὶ ἰσημερίαι καὶ τροπαὶ μεμηχάνηνται μὲν ἀριθμόν, χρόνου δὲ ἔννοιαν περί τε τῆς τοῦ παντὸς φύσεως ζήτησιν ἔδοσαν: 
+
+But as it is, the vision of day and night and of months and circling years has created the art of number and has given us not only the notion of Time1 but also means of research into the nature of the Universe. 
 ## 47b
 ἐξ ὧν [47β] ἐπορισάμεθα φιλοσοφίας γένος, οὗ μεῖζον ἀγαθὸν οὔτ᾽ ἦλθεν οὔτε ἥξει ποτὲ τῷ θνητῷ γένει δωρηθὲν ἐκ θεῶν. λέγω δὴ τοῦτο ὀμμάτων μέγιστον ἀγαθόν: τἆλλα δὲ ὅσα ἐλάττω τί ἂν ὑμνοῖμεν, ὧν ὁ μὴ φιλόσοφος τυφλωθεὶς ὀδυρόμενος ἂν θρηνοῖ μάτην; ἀλλὰ τούτου λεγέσθω παρ᾽ ἡμῶν αὕτη ἐπὶ ταῦτα αἰτία, θεὸν ἡμῖν ἀνευρεῖν δωρήσασθαί τε ὄψιν, ἵνα τὰς ἐν οὐρανῷ τοῦ νοῦ κατιδόντες περιόδους χρησαίμεθα ἐπὶ τὰς περιφορὰς τὰς τῆς παρ᾽ ἡμῖν διανοήσεως, 
 

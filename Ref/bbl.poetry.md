@@ -67,6 +67,11 @@ Therefore shalt thou make them turn their back, [when] thou shalt make ready [th
 περιεσχον με ωδινες θανατου και χειμαρροι ανομιας εξεταραξαν με
 
 The sorrows of death compassed me, and the floods of ungodly men made me afraid.
+## c37
+#### 11
+וַעֲנָוִ֥ים יִֽירְשׁוּ־אָ֑רֶץ וְ֝הִתְעַנְּג֗וּ עַל־רֹ֥ב שָׁלֽוֹם
+
+But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.
 ## c51
 ### 5
 כִּֽי־פְ֭שָׁעַי אֲנִ֣י אֵדָ֑ע וְחַטָּאתִ֖י נֶגְדִּ֣י תָמִֽיד ׃

@@ -102,6 +102,7 @@ This is the attainment on the level of the body [adhyātma]. [The inner attainme
 ॥ इति त्रयोदशः खण्डः ॥
 # k3
 ## 3.6
+#### 1
 तद्यत्प्रथमममृतं तद्वसव उपजीवन्त्यग्निना मुखेन न वै देवा अश्नन्ति न पिबन्त्येतदेवामृतं दृष्ट्वा तृप्यन्ति ॥ ३.६.१ ॥
 
 Led by fire, the Vasus enjoy the first nectar [which is the red colour]. As a matter of fact, the gods and goddesses neither eat nor drink. They are pleased merely by seeing the nectar.
@@ -113,6 +114,95 @@ https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239031.
 
 The sage Ghora, of the family of Aṅgirasa, taught this truth to Kṛṣṇa, the son of Devakī. As a result, Kṛṣṇa became free from all desires. Then Ghora said: ‘At the time of death a person should repeat these three mantras: “You never decay, you never change, and you are the essence of life.”’ Here are two Ṛk mantras in this connection:
 # k4
+## 4.1
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239046.html
+#### 1
+जानश्रुतिर्ह पौत्रायणः 
+
+In ancient times there was a king who was the great-grandson of Janaśruta. 
+
+श्रद्धादेयो बहुदायी 
+
+He was a highly charitable person, who gave many gifts in charity, and always with due respect. 
+
+बहुपाक्य आस 
+
+He also had large quantities of food cooked for people. 
+
+स ह सर्वत आवसथान्मापयांचक्रे सर्वत एव मेऽन्नमत्स्यन्तीति ॥ ४.१.१ ॥
+
+With the thought in mind, ‘People all over will eat my food,’ he had many rest-houses built in different places.
+#### 3
+तमु ह परः प्रत्युवाच कम्वर एनमेतत्सन्तं सयुग्वानमिव रैक्वमात्थेति यो नु कथं सयुग्वा रैक्व इति ॥ ४.१.३ ॥
+
+The swan in front replied: ‘Say, who is this person? From the way you are talking one would think he was Raikva with the cart.’ Then the other swan asked, ‘And who is this Raikva with the cart you are referring to?’.
+#### 4
+यथा कृतायविजितायाधरेयाः संयन्त्येवमेनं सर्वं तदभिसमैति यत्किंच प्रजाः साधु कुर्वन्ति 
+
+Just as in a game of dice, when a person wins the toss called kṛta he automatically wins the lower tosses also, in the same way, whatever good work people do goes to the credit of Raikva. 
+
+यस्तद्वेद यत्स वेद स मयैतदुक्त इति ॥ ४.१.४ ॥
+
+If anyone knows what Raikva knows, he becomes like Raikva. This is how I would describe Raikva.’
+## 4.3
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239060.html
+#### 1
+वायुर्वाव संवर्गो 
+
+The air swallows everything. 
+
+यदा वा अग्निरुद्वायति वायुमेवाप्येति 
+
+When fire is extinguished, it disappears into the air. 
+
+यदा सूर्योऽस्तमेति वायुमेवाप्येति 
+
+When the sun sets, it disappears into the air. 
+
+यदा चन्द्रोऽस्तमेति वायुमेवाप्येति ॥ ४.३.१ ॥
+
+And when the moon sets, it disappears into the air.
+#### 2
+यदाप उच्छुष्यन्ति वायुमेवापियन्ति 
+
+When water dries up, it disappears into the air. 
+
+वायुर्ह्येवैतान्सर्वान्संवृङ्क्त 
+
+The air swallows all these. 
+
+इत्यधिदैवतम् ॥ ४.३.२ ॥
+
+This is the worship of the forces of nature (adhidaivata).
+#### 8
+तस्म उ ह ददुस्ते वा 
+
+Then they gave him alms. 
+
+एते पञ्चान्ये पञ्चान्ये दश 
+
+The first five [Vāyu, etc.] and the second five [prāṇa, etc.] together make ten. 
+
+सन्तस्तत्कृतं 
+
+That is kṛta [the throw of dice of the highest denomination]. 
+
+तस्मात्सर्वासु दिक्ष्वन्नमेव दश 
+
+These ten are the ten directions, and they are the food. 
+
+कृतं सैषा विराडन्नादी तयेदं सर्वं 
+
+This kṛta is Virāṭ. As Virāṭ is all-pervasive, everything is its food. 
+
+दृष्टं सर्वमस्येदं 
+
+By that Virāṭ all this is seen. 
+
+दृष्टं भवत्यन्नादो भवति य एवं वेद य एवं वेद ॥ ४.३.८ ॥
+॥ इति तृतीयः खण्डः ॥
+
+He who knows this Virāṭ becomes Virāṭ himself. He becomes all-pervasive and everything becomes his food.
 ## 4.4
 Verse 4.4.1
 #### 1
@@ -136,6 +226,27 @@ https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239190.
 
 Om. He who knows the oldest and the best himself becomes the oldest and the best. It is prāṇa which is the oldest and the best.
 ## 5.3
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239165.html
+#### 1
+श्वेतकेतुर्हारुणेयः पञ्चालानां समितिमेयाय तं ह प्रवाहणो जैवलिरुवाच कुमारानु त्वाशिषत्पितेत्यनु हि भगव इति ॥ ५.३.१ ॥
+
+Once Śvetaketu, the grandson of Aruṇa, went to the court of the Pañcālas. Pravāhaṇa, the son of Jīvala, asked him, ‘Young man, did your father teach you?’ [Śvetaketu replied:] ‘Yes, revered sir, he did’.
+#### 2
+वेत्थ यदितोऽधि प्रजाः प्रयन्तीति न भगव इति वेत्थ यथा पुनरावर्तन्त३ इति न भगव इति वेत्थ पथोर्देवयानस्य पितृयाणस्य च व्यावर्तना३ इति न भगव इति ॥ ५.३.२ ॥
+
+[Pravāhaṇa asked,] ‘Do you have any idea where, from this world, human beings go in heaven?’ ‘No, sir, I have no idea,’ [replied Śvetaketu]. ‘Do you know how they come back?’ ‘No, sir, I don’t.’ ‘Have you any idea where the two paths—the path of the gods and the path of the ancestors—part?’ ‘No, sir, I don’t know’.
+#### 3
+वेत्थ यथासौ लोको न सम्पूर्यत३ इति न भगव इति वेत्थ यथा पञ्चम्यामाहुतावापः पुरुषवचसो भवन्तीति नैव भगव इति ॥ ५.३.३ ॥
+
+[Pravāhaṇa asked,] ‘Do you know why the other world [the world of the moon] is not filled with people?’ [Śvetaketu replied,] ‘No, revered sir, I don’t know.’ ‘Do you know why after the fifth oblation water comes to be called “puruṣa” [man]?’ ‘No, sir, I don’t know’.
+#### 4
+अथानु किमनुशिष्ठोऽवोचथा यो हीमानि न विद्यात्कथं सोऽनुशिष्टो ब्रुवीतेति स हायस्तः पितुरर्धमेयाय तं होवाचाननुशिष्य वाव किल मा भगवानब्रवीदनु त्वाशिषमिति ॥ ५.३.४ ॥
+
+[Pravāhaṇa said:] ‘Why did you say then, “I have been taught”? How can one who does not know these things say, “I have been taught”?’ Śvetaketu was hurt. He went back to his father and said, ‘You have not really taught ṃe, yet you said, “I have taught you.”’.
+#### 5
+पञ्च मा राजन्यबन्धुः प्रश्नानप्राक्षीत्तेषां नैकंचनाशकं विवक्तुमिति स होवाच यथा मा त्वं तदैतानवदो यथाहमेषां नैकंचन वेद यद्यहमिमानवेदिष्यं कथं ते नावक्ष्यमिति ॥ ५.३.५ ॥
+
+[Śvetaketu said:] ‘That friend of the princes put five questions to me. I was not able to answer a single one of them.’ [He then told his father the five questions. After pondering over them for some time, his father] said: ‘Those questions you told me about on your return from the court—I am not able to answer even one of them. If I knew the answers, why should I have not told you?’.
 #### 6
 स ह गौतमो राज्ञोऽर्धमेयाय तस्मै ह प्राप्तायार्हां चकार स ह प्रातः सभाग उदेयाय तं होवाच मानुषस्य भगवन्गौतम वित्तस्य वरं वृणीथा इति स होवाच तवैव राजन्मानुषं वित्तं यामेव कुमारस्यान्ते वाचमभाषथास्तामेव मे ब्रूहीति स ह कृच्छ्री बभूव ॥ ५.३.६ ॥
 
@@ -144,15 +255,79 @@ Gautama then went to the king’s palace. On his arrival, the king welcomed him 
 तं ह चिरं वसेत्याज्ञापयांचकार तं होवाच यथा मा त्वं गौतमावदो यथेयं न प्राक्त्वत्तः पुरा विद्या ब्राह्मणान्गच्छति तस्मादु सर्वेषु लोकेषु क्षत्रस्यैव प्रशासनमभूदिति तस्मै होवाच ॥ ५.३.७ ॥
 
 The king then issued orders that Gautama should stay with him for a long time [as a brahmacari. Gautama did that. One day] the king said to him: ‘O Gautama, regarding the matter which you asked about, no brāhmin before you had access to this knowledge. This is why in the past, in all the worlds, it was only the kṣatriyas who had the right to impart this knowledge.’ Having said this, he proceeded to teach Gautama.
-## 5.8
+## 5.4
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239173.html
 #### 1
-योषा वाव गौतमाग्निस्तस्या उपस्थ एव समिद्यदुपमन्त्रयते स धूमो योनिरर्चिर्यदन्तः करोति तेऽङ्गारा अभिनन्दा विस्फुलिङ्गाः ॥ ५.८.१ ॥
+इति तृतीयः खण्डः ॥
+असौ वाव लोको गौतमाग्निस्तस्यादित्य एव समिद्रश्मयो धूमोऽहरर्चिश्चन्द्रमा अङ्गारा नक्षत्राणि विस्फुलिङ्गाः ॥ ५.४.१ ॥
 
-O Gautama, woman is the [sacrificial] fire... 
+O Gautama, heaven is the [sacrificial] fire; the sun is its fuel; the rays are the smoke; day is the flame; the moon is the embers; and the stars are the sparks.
+#### 2
+तस्मिन्नेतस्मिन्नग्नौ देवाः श्रद्धां जुह्वति तस्या अहुतेः सोमो राजा संभवति ॥ ५.४.२ ॥
+
+The gods [i.e., the organs of the sacrificer] offer water as a token of respect to the fire [heaven]. Out of that oblation appears King Soma [the shining moon].
+
+॥ इति चतुर्थः खण्डः ॥
+## 5.5
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239176.html
+#### 1
+पर्जन्यो वाव गौतमाग्निस्तस्य वायुरेव समिदभ्रं धूमो विद्युदर्चिरशनिरङ्गाराह्रादनयो विस्फुलिङ्गाः ॥ ५.५.१ ॥
+
+O Gautama, the god of rain is the [sacrificial] fire; air is its fuel; the cloud is the smoke; lightning is the flame; the thunderbolt is the embers; and thunder is the sparks.
+#### 2
+तस्मिन्नेतस्मिन्नग्नौ देवाः सोमं राजानं जुह्वति तस्या आहुतेर्वर्षं संभवति ॥ ५.५.२ ॥
+
+The gods offer King Soma [the shining moon] as the oblation to the fire. Out of that oblation appears rain.
+
+॥ इति पञ्चमः खण्डः ॥
+## 5.6
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239179.html
+#### 1
+पृथिवी वाव गौतमाग्निस्तस्याः संवत्सर एव समिदाकाशो धूमो रात्रिरर्चिर्दिशोऽङ्गारा अवान्तरदिशो विस्फुलिङ्गाः ॥ ५.६.१ ॥
+
+O Gautama, the earth is the [sacrificial] fire; the year is its fuel; the sky is the smoke; night is the flame; the quarters are the embers; and the intermediate directions are the sparks.
+#### 2
+तस्मिन्नेतस्मिन्नग्नौ देवा वर्षं जुह्वति तस्या आहुतेरन्नं संभवति ॥ ५.६.२ ॥
+॥ इति षष्ठः खण्डः ॥
+
+The gods offer rain as the oblation to the fire. Out of that oblation appears food.
+## 5.7
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239182.html
+#### 1
+पुरुषो वाव गौतमाग्निस्तस्य वागेव समित्प्राणो धूमो जिह्वार्चिश्चक्षुरङ्गाराः श्रोत्रं विस्फुलिङ्गाः ॥ ५.७.१ ॥
+
+O Gautama, man is the [sacrificial] fire; speech is his fuel; prāṇa is the smoke; the tongue is the flame; the eyes are the embers; and the ears are the sparks.
+#### 2
+तस्मिन्नेतस्मिन्नग्नौ देवा अन्नं जुह्वति तस्या आहुते रेतः सम्भवति ॥ ५.७.२ ॥
+
+The gods offer food as the oblation to the fire. Out of that oblation appears semen.
+
+॥ इति सपतमः खण्डः ॥
+## 5.8
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239185.html
+#### 1
+योषा वाव गौतमाग्निस्तस्या 
+
+O Gautama, woman is the [sacrificial] fire
+
+उपस्थ एव समिद्यदुपमन्त्रयते स धूमो योनिरर्चिर्यदन्तः करोति तेऽङ्गारा अभिनन्दा विस्फुलिङ्गाः ॥ ५.८.१ ॥
+
+... 
 #### 2
 तस्मिन्नेतस्मिन्नग्नौ देवा रेतो जुह्वति तस्या आहुतेर्गर्भः संभवति ॥ ५.८.२ ॥
 
 The gods offer semen as the oblation to the fire. Out of that oblation appears the foetus.
+## 5.9
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239187.html
+#### 1
+इति तु पञ्चम्यामाहुतावापः पुरुषवचसो भवन्तीति स उल्बावृतो गर्भो दश वा नव वा मासानन्तः शयित्वा यावद्वाथ जायते ॥ ५.९.१ ॥
+
+Thus, after the fifth oblation, water becomes known as ‘man.’ The foetus lies within the mother’s womb, covered with membrane, for about nine or ten months, and then it is born.
+#### 2
+स जातो यावदायुषं जीवति तं प्रेतं दिष्टमितोऽग्नय एव हरन्ति यत एवेतो यतः संभूतो भवति ॥ ५.९.२ ॥
+॥ इति नवमः खण्डः ॥
+
+When a person is born, he lives as long as he is destined to live. Then, when he dies as ordained, they [his sons or disciples] take him from his home to the fire from which he came. It is that same fire from which he was born [and to which he owes his birth].
 ## 5.10
 https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239190.html
 #### 1
@@ -191,13 +366,96 @@ But those who do not follow either of these two paths are born among small anima
 स्तेनो हिरण्यस्य सुरां पिबंश्च गुरोस्तल्पमावसन्ब्रह्महा चैते पतन्ति चत्वारः पञ्चमश्चाचरंस्तैरिति ॥ ५.१०.९ ॥
 
 A person who steals gold, or drinks liquor, or goes to bed with his teacher’s wife, or kills a brāhmin—these four are lost. Also lost is the fifth—one who keeps company with such people.
+## 5.18
+#### 2
+तस्य ह वा एतस्यात्मनो वैश्वानरस्य मूर्धैव सुतेजाश्चक्षुर्विश्वरूपः 
+
+Suteja [i.e., ‘the bright and beautiful’—heaven] is the head of this Vaiśvānara Self; Viśvarūpa [‘having many forms’—the sun] is the eye; 
+
+प्राणः पृथग्वर्त्मात्मा संदेहो बहुलो बस्तिरेव रयिः 
+
+Pṛthagvartmā [‘one who changes direction’—air] is the prāṇa; Bahula [‘pervasive’—space] is the middle part; Rayi [‘wealth’—water] is the bladder; 
+
+पृथिव्येव पादावुर एव वेदिर्लोमानि बर्हिर्हृदयं गार्हपत्यो 
+
+the earth [Pratiṣṭhā—‘the support’] is the feet; the sacrificial altar is the chest; the kuśa grass is the hair on the chest; the Gārhapatya fire is the heart; 
+
+मनोऽन्वाहार्यपचन आस्यमाहवनीयः ॥ ५.१८.२ ॥
+
+the Anvāhāryapacana [i.e., the Dakṣiṇāgni] fire is the mind; and the Āhavanīya fire is the mouth.
+
+॥ इति अष्टादशः खण्डः ॥
 # k6
+## 6.1
+### 4-6
+#### 4
+यथा सोम्यैकेन 
+
+O Somya, it is like this: 
+
+मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्याद्वाचारम्भणं विकारो नामधेयं 
+
+By knowing a single lump of earth you know all objects made of earth. All changes are mere words, in name only. 
+
+मृत्तिकेत्येव सत्यम् ॥ ६.१.४ ॥
+
+But earth is the reality.
+#### 5
+यथा सोम्यैकेन 
+
+O Somya, it is like this: 
+
+लोहमणिना सर्वं लोहमयं विज्ञातं स्याद्वाचारम्भणं विकारो नामधेयं 
+
+By knowing a single lump of gold you know all objects made of gold. All changes are mere words, in name only.
+
+लोहमित्येव सत्यम् ॥ ६.१.५ ॥
+
+But gold is the reality.
+#### 6
+यथा सोम्यिकेन 
+
+O Somya, it is like this: 
+
+नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्याद्वाचारम्भणं विकारो नामधेयं 
+
+By knowing a single nail-cutter you know all objects made of iron. All changes are mere words, in name only. 
+
+कृष्णायसमित्येव सत्यमेवंसोम्य स आदेशो भवतीति ॥ ६.१.६ ॥
+
+But iron is the reality. O Somya, this is the teaching I spoke of.
+### ?
 ## 6.2
 https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239259.html
-#### 2
-कुतस्तु खलु सोम्यैवंस्यादिति होवाच कथमसतः सज्जायेतेति। सत्त्वेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् ॥ ६.२.२ ॥
+#### 1
+सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् । 
 
-The father said: ‘O Somya, what proof is there for this—that from nothing something has emerged? Rather, before this world came into being, O Somya, there was only existence, one without a second’.
+Somya, before this world was manifest there was only existence, one without a second. 
+
+तद्धैक आहुरसदेवेदमग्र आसीदेकमेवाद्वितीयं 
+
+On this subject, some maintain that before this world was manifest there was only non-existence, one without a second. 
+
+तस्मादसतः सज्जायत ॥ ६.२.१ ॥
+
+Out of that non-existence, existence emerged.
+#### 2
+कुतस्तु खलु सोम्यैवंस्यादिति होवाच कथमसतः सज्जायेतेति। 
+
+The father said: ‘O Somya, what proof is there for this—that from nothing something has emerged? 
+
+सत्त्वेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् ॥ ६.२.२ ॥
+
+Rather, before this world came into being, O Somya, there was only existence, one without a second’.
+#### 3
+तदैक्षत बहु स्यां प्रजायेयेति तत्तेजोऽसृजत तत्तेज ऐक्षत बहु स्यां प्रजायेयेति तदपोऽसृजत । तस्माद्यत्र क्वच शोचति स्वेदते वा पुरुषस्तेजस एव तदध्यापो जायन्ते ॥ ६.२.३ ॥
+
+That Existence decided: ‘I shall be many. I shall be born.’ He then created fire. That fire also decided: ‘I shall be many. I shall be born.’ Then fire produced water. That is why whenever or wherever a person mourns or perspires, he produces water.
+#### 4
+ता आप ऐक्षन्त बह्व्यः स्याम प्रजायेमहीति ता अन्नमसृजन्त तस्माद्यत्र क्व च वर्षति तदेव भूयिष्ठमन्नं भवत्यद्भ्य एव तदध्यन्नाद्यं जायते ॥ ६.२.४ ॥
+॥ इति द्वितीयः खण्डः ॥
+
+That water decided: ‘I shall be many; I shall be born.’ That water then created food. This is why whenever and wherever there is rain, at once food grows in great abundance. It is from water that food is produced.
 ## 6.8
 #### 1
 उद्दालको हारुणिः श्वेतकेतुं पुत्रमुवाच स्वप्नान्तं मे सोम्य विजानीहीति यत्रैतत्पुरुषः स्वपिति नाम सता सोम्य तदा सम्पन्नो भवति स्वमपीतो भवति तस्मादेनं स्वपितीत्याचक्षते स्वंह्यपीतो भवति ॥ ६.८.१ ॥
@@ -265,6 +523,49 @@ These are only names. Worship name.
 ॥ इति प्रथमः खण्डः ॥
 
 5 ‘Anyone who worships name as Brahman can do what he pleases within the limits of the name.’ Nārada asked, ‘Sir, is there anything higher than name?’ ‘Of course there is something higher than name,’ replied Sanatkumāra. Nārada then said, ‘Sir, please explain that to me’.
+## 7.10
+#### 1
+आपो वावान्नाद्भूयस्तस्माद्यदा सुवृष्टिर्न भवति व्याधीयन्ते प्राणा अन्नं कनीयो भविष्यतीत्यथ 
+
+Water is certainly superior to food. That is why if there is no rain, people worry and think, ‘There will not be enough food.’ 
+
+यदा सुवृष्टिर्भवत्यानन्दिनः प्राणा भवन्त्यन्नं बहु भविष्यतीत्याप एवेमा मूर्ता 
+
+But if there is a good rainfall, they are happy, thinking, ‘There will be plenty of food.’ All these are water in different forms: 
+
+येयं पृथिवी यदन्तरिक्षं यद्द्यौर्यत्पर्वता यद्देवमनुष्यायत्पशवश्च वयांसि च तृणवनस्पतयः श्वापदान्याकीटपतङ्गपिपीलकमाप एवेमा मूर्ता अप उपास्स्वेति ॥ 
+
+the earth, the interspace, heaven, the mountains, gods and human beings, cattle and birds, creepers and trees, animals of prey, worms, insects, and ants. All these are water in different forms. Therefore worship water.
+
+७.१०.१ ॥
+#### 2
+स योऽपो ब्रह्मेत्युपास्त आप्नोति सर्वान्कामांस्तृप्तिमान्भवति 
+
+‘One who worships water as Brahman gets all he desires and is happy. 
+
+यावदपां गतं तत्रास्य यथाकामचारो भवति योऽपो ब्रह्मेत्युपास्तेऽस्ति 
+
+One who worships water as Brahman can do what he pleases within the limits of water.’ 
+
+Nārada asked, 
+
+भगवोऽद्भ्यो भूय इत्यद्भ्यो  
+
+‘Sir, is there anything higher than water?’ 
+
+वाव भूयोऽस्तीति 
+
+‘Of course there is something higher than water,’ 
+
+replied Sanatkumāra. 
+
+Nārada then said, 
+
+तन्मे भगवान्ब्रवीत्विति 
+
+‘Sir, please explain that to me’.
+
+॥ ७.१०.२ ॥ ॥ इति दशमः खण्डः ॥
 # k8
 ## 8.1
 https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239413.html
@@ -276,6 +577,62 @@ Om. This body is the city of Brahman. Within it is an abode in the shape of a lo
 दहरोऽस्मिन्नन्तराकाशस्तस्मिन्यदन्तस्तदन्वेष्टव्यं तद्वाव विजिज्ञासितव्यमिति ॥ ८.१.१ ॥
 
 and within that there is a small space. One must search within this space and earnestly desire to know what is there.
+#### 3
+[The teacher replies:] 
+
+यावान्वा अयमाकाशस्तावानेषोऽन्तर्हृदय अकाश 
+
+‘The space in the heart is as big as the space outside. 
+
+उभे अस्मिन्द्यावापृथिवी अन्तरेव समाहिते 
+
+Heaven and earth are both within it, 
+
+उभावग्निश्च वायुश्च सूर्याचन्द्रमसावुभौ विद्युन्नक्षत्राणि 
+
+so also fire and air, the sun and the moon, lightning and the stars. 
+
+यच्चास्येहास्ति यच्च नास्ति सर्वं तदस्मिन्समाहितमिति ॥ ८.१.३ ॥
+
+Everything exists within that space in the embodied self—whatever it has or does not have’.
+## 8.5
+https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239441.html
+#### 1
+अथ यद्यज्ञ इत्याचक्षते ब्रह्मचर्यमेव 
+
+Then that which is known as yajña [sacrifice] is brahmacarya. 
+
+तद्ब्रह्मचर्येण ह्येव यो ज्ञाता तं विन्दतेऽथ 
+
+This is because one who knows the Self attains Brahmaloka through brahmacarya. 
+
+यदिष्टमित्याचक्षते ब्रह्मचर्यमेव तद्ब्रह्मचर्येण ह्येवेष्ट्वात्मानमनुविन्दते ॥ ८.५.१ ॥
+
+Again, that which is known as iṣṭa [worship] is brahmacarya, for the desired Self is attained through brahmacarya.
+#### 2
+अथ यत्सत्त्रायणमित्याचक्षते ब्रह्मचर्यमेव 
+
+Then, that which is known as ‘Sattrāyaṇa’ [a sacrifice lasting a long time] is brahmacarya, 
+
+तद्ब्रह्मचर्येण ह्येव सत आत्मनस्त्राणं विन्दतेऽथ 
+
+for it is through brahmacarya that the individual self gets liberated [attains union with the Cosmic Self]. 
+
+यन्मौनमित्याचक्षते ब्रह्मचर्यमेव तब्ब्रह्मचर्येण ह्येवात्मानमनुविद्य मनुते ऽ॥ ८.५.२ ॥
+
+Then, that which is called ‘mauna’ [silence] is brahmacarya, for through brahmacarya one realizes the Self, and having realized the Self one remains absorbed in the thought of it.
+#### 3
+अथ यदनाशकायनमित्याचक्षते ब्रह्मचर्यमेव 
+
+Then, that which is known as ‘anāśakāyana’ [the path of fasting] is brahmacarya, 
+
+तदेष ह्यात्मा न नश्यति यं ब्रह्मचर्येणानुविन्दतेऽथ 
+
+for through brahmacarya one attains the Self which is immortal. Then, that which is called ‘araṇyāyana’ [life in the forest] is brahmacarya. 
+
+यदरण्यायनमित्याचक्षते ब्रह्मचर्यमेव तदरश्च ह वै ण्यश्चार्णवौ ब्रह्मलोके तृतीयस्यामितो दिवि तदैरं मदीयं सरस्तदश्वत्थः सोमसवनस्तदपराजिता पूर्ब्रह्मणः प्रभुविमितं हिरण्मयम् ॥ ८.५.३ ॥
+
+This is because in Brahmaloka, which is the third world from the earth, there are two oceans called Ara and Ṇya. There also one finds a lake called Airammadīya [so-called because its waters are intoxicating], a peepal tree always exuding soma juice, a city called Aparājitā [the Invincible] belonging to Brahmā, and a canopy of gold specially made by the Lord.
 ## 8.7
 #### 1
 य आत्मापहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासः सत्यकामः सत्यसंकल्पः सोऽन्वेष्टव्यः स विजिज्ञासितव्यः स सर्वांश्च लोकानाप्नोति सर्वांश्च कामान्यस्तमात्मानमनुविद्य विजानातीति ह प्रजापतिरुवाच ॥ ८.७.१ ॥

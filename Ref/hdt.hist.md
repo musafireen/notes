@@ -2,75 +2,80 @@
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0126
 # b1
 
-## 102.1
+## c102
+#### 1
 Δηιόκεω δὲ παῖς γίνεται Φραόρτης, ὃς τελευτήσαντος Δηιόκεω, βασιλεύσαντος τρία καὶ πεντήκοντα ἔτεα, παρεδέξατο τὴν ἀρχήν, παραδεξάμενος δὲ οὐκ ἀπεχρᾶτο μούνων Μήδων ἄρχειν, ἀλλὰ στρατευσάμενος ἐπὶ τοὺς Πέρσας πρώτοισί τε τούτοισι ἐπεθήκατο καὶ πρώτους Μήδων ὑπηκόους ἐποίησε.
 
 Deioces had a son, Phraortes, who inherited the throne when Deioces died after a reign of fifty-three years.1 Having inherited it, he was not content to rule the Medes alone: marching against the Persians, he attacked them first, and they were the first whom he made subject to the Medes.
 
 1 Deioces died in 656 B.C.
 
-## 102.2
+#### 2
 μετὰ δὲ ἔχων δύο ταῦτα ἔθνεα καὶ ἀμφότερα ἰσχυρά, κατεστρέφετο τὴν Ἀσίην ἀπ᾽ ἄλλου ἐπ᾽ ἄλλο ἰὼν ἔθνος, ἐς ὃ στρατευσάμενος ἐπὶ τοὺς Ἀσσυρίους καὶ Ἀσσυρίων, τούτους οἳ Νίνον εἶχον καὶ ἦρχον πρότερον πάντων, τότε δὲ ἦσαν μεμουνωμένοι μὲν συμμάχων ἅτε ἀπεστεώτων, ἄλλως μέντοι ἑωυτῶν εὖ ἥκοντες, ἐπὶ τούτους δὴ στρατευσάμενος ὁ Φραόρτης αὐτός τε διεφθάρη, ἄρξας δύο καὶ εἴκοσι ἔτεα, καὶ ὁ στρατὸς αὐτοῦ ὁ πολλός.
 
 Then, with these two strong nations at his back, he subjugated one nation of Asia after another, until he marched against the Assyrians; that is, against those of the Assyrians who held Ninus. These had formerly been rulers of all; but now their allies had deserted them and they were left alone, though well-off themselves. Marching against these Assyrians, then, Phraortes and most of his army perished, after he had reigned twenty-two years.
 
-## 103.1
+## c103
+#### 1
 Φραόρτεω δὲ τελευτήσαντος ἐξεδέξατο Κυαξάρης ὁ Φραόρτεω τοῦ Δηιόκεω παῖς. οὗτος λέγεται πολλὸν ἔτι γενέσθαι ἀλκιμώτερος τῶν προγόνων, καὶ πρῶτός τε ἐλόχισε κατὰ τέλεα τοὺς ἐν τῇ, Ἀσίῃ καὶ πρῶτος διέταξε χωρὶς ἑκάστους εἶναι, τούς τε αἰχμοφόρους καὶ τοὺς τοξοφόρους καὶ τοὺς ἱππέας: πρὸ τοῦ δὲ ἀναμὶξ ἦν πάντα ὁμοίως ἀναπεφυρμένα.
 
 At his death he was succeeded by his son Cyaxares. He is said to have been a much greater soldier than his ancestors: it was he who first organized the men of Asia in companies and posted each arm apart, the spearmen and archers and cavalry: before this they were all mingled together in confusion.
 
-## 103.2
+#### 2
 οὗτος ὁ τοῖσι Λυδοῖσι ἐστὶ μαχεσάμενος ὅτε νὺξ ἡ ἡμέρη ἐγένετό σφι μαχομένοισι, καὶ ὁ τὴν Ἅλυος ποταμοῦ ἄνω Ἀσίην πᾶσαν συστήσας ἑωυτῷ. συλλέξας δὲ τοὺς ὑπ᾽ ἑωυτῷ ἀρχομένους πάντας ἐστρατεύετο ἐπὶ τὴν Νίνον, τιμωρέων τε τῷ πατρὶ καὶ τὴν πόλιν ταύτην θέλων ἐξελεῖν.
 
 This was the king who fought against the Lydians when the day was turned to night in the battle, and who united under his dominion all of Asia that is beyond the river Halys. Collecting all his subjects, he marched against Ninus, wanting to avenge his father and to destroy the city.
 
-## 103.3
+#### 3
 καί οἱ, ὡς συμβαλὼν ἐνίκησε τοὺς Ἀσσυρίους, περικατημένῳ τὴν Νίνον ἐπῆλθε Σκυθέων στρατὸς μέγας, ἦγε δὲ αὐτοὺς βασιλεὺς ὁ Σκυθέων Μαδύης Προτοθύεω παῖς: οἳ ἐσέβαλον μὲν ἐς τὴν Ἀσίην Κιμμερίους ἐκβαλόντες ἐκ τῆς Εὐρώπης, τούτοισι δὲ ἐπισπόμενοι φεύγουσι οὕτω ἐς τὴν Μηδικὴν χώρην ἀπίκοντο.
 
 He defeated the Assyrians in battle; but while he was besieging their city, a great army of Scythians came down upon him, led by their king Madyes son of Protothyes. They had invaded Asia after they had driven the Cimmerians out of Europe: pursuing them in their flight, the Scythians came to the Median country.1
 
 1 This is the same story as that related in the early chapters of Book IV. The Scythians, apparently, marched eastwards along the northern slope of the Caucasus, turning south between the end of the range and the Caspian. But Herodotus' geography in this story is difficult to follow.—The “Saspires” are in Armenia.
 
-## 104.1
+## c104
+#### 1
 ἔστι δὲ ἀπὸ τῆς λίμνης τῆς Μαιήτιδος ἐπὶ Φᾶσιν ποταμὸν καὶ ἐς Κόλχους τριήκοντα ἡμερέων εὐζώνῳ ὁδός, ἐκ δὲ τῆς Κολχίδος οὐ πολλὸν ὑπερβῆναι ἐς τὴν Μηδικήν, ἀλλ᾽ ἓν τὸ διὰ μέσου ἔθνος αὐτῶν ἐστι, Σάσπειρες, τοῦτο δὲ παραμειβομένοισι εἶναι ἐν τῇ Μηδικῇ.
 
 It is a thirty days' journey for an unencumbered man from the Maeetian lake[1](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D1%3Achapter%3D104%3Asection%3D1#note1) to the river [Phasis](https://www.perseus.tufts.edu/hopper/entityvote?doc=Perseus:text:1999.01.0001&auth=tgn,7012263&n=1&type=place) and the land of the Colchi; from the Colchi it is an easy matter to cross into Media: there is only one nation between, the Saspires; to pass these is to be in Media.
 
 [1](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D1%3Achapter%3D104%3Asection%3D1#note-link1) The Maeetian lake is the Sea of [Azov](https://www.perseus.tufts.edu/hopper/entityvote?doc=Perseus:text:1999.01.0001&auth=tgn,7014825&n=1&type=place).
 
-## 104.2
+#### 2
 οὐ μέντοι οἵ γε Σκύθαι ταύτῃ ἐσέβαλον, ἀλλὰ τὴν κατύπερθε ὁδὸν πολλῷ μακροτέρην ἐκτραπόμενοι, ἐν δεξιῇ ἔχοντες τὸ Καυκάσιον ὄρος. ἐνθαῦτα οἱ μὲν Μῆδοι συμβαλόντες τοῖσι Σκύθῃσι καὶ ἑσσωθέντες τῇ μάχῃ τῆς ἀρχῆς κατελύθησαν. οἱ δὲ Σκύθαι τὴν Ἀσίην πᾶσαν ἐπέσχον.
 
 Nevertheless, it was not by this way that the Scythians entered; they turned aside and came by the upper and much longer way, keeping the Caucasian mountains on their right. There, the Medes met the Scythians, who defeated them in battle, deprived them of their rule, and made themselves masters of all [Asia](https://www.perseus.tufts.edu/hopper/entityvote?doc=Perseus:text:1999.01.0001&auth=tgn,1000004&n=1&type=place).
 
-## 105.1
+## c105
+#### 1
 ἐνθεῦτεν δὲ ἤισαν ἐπ᾽ Αἴγυπτον. καὶ ἐπείτε ἐγένοντο ἐν τῇ Παλαιστίνῃ Συρίῃ, Ψαμμήτιχος σφέας Αἰγύπτου βασιλεὺς ἀντιάσας δώροισί τε καὶ λιτῇσι ἀποτράπει τὸ προσωτέρω μὴ πορεύεσθαι.
 
 From there they marched against Egypt: and when they were in the part of Syria called Palestine, Psammetichus king of Egypt met them and persuaded them with gifts and prayers to come no further.
 
-## 105.2
+#### 2
 οἳ δὲ ἐπείτε ἀναχωρέοντες ὀπίσω ἐγένοντο τῆς Συρίης ἐν Ἀσκάλωνι πόλι, τῶν πλεόνων Σκυθέων παρεξελθόντων ἀσινέων, ὀλίγοι τινὲς αὐτῶν ὑπολειφθέντες ἐσύλησαν τῆς οὐρανίης Ἀφροδίτης τὸ ἱρόν.
 
 So they turned back, and when they came on their way to the city of Ascalon in Syria, most of the Scythians passed by and did no harm, but a few remained behind and plundered the temple of Heavenly Aphrodite.1
 
 1 The great goddess (Mother of Heaven and Earth) worshipped by Eastern nations under various names—Mylitta in Assyria, Astarte in Phoenicia: called Heavenly Aphrodite, or simply the Heavenly One, by the Greeks.
 
-## 105.3
+#### 3
 ἔστι δὲ τοῦτο τὸ ἱρόν, ὡς ἐγὼ πυνθανόμενος εὑρίσκω, πάντων ἀρχαιότατον ἱρῶν ὅσα ταύτης τῆς θεοῦ: καὶ γὰρ τὸ ἐν Κύπρῳ ἱρὸν ἐνθεῦτεν ἐγένετο, ὡς αὐτοὶ Κύπριοι λέγουσι, καὶ τὸ ἐν Κυθήροισι Φοίνικές εἰσὶ οἱ ἱδρυσάμενοι ἐκ ταύτης τῆς Συρίης ἐόντες.
 
 This temple, I discover from making inquiry, is the oldest of all the temples of the goddess, for the temple in Cyprus was founded from it, as the Cyprians themselves say; and the temple on Cythera was founded by Phoenicians from this same land of Syria.
 
-## 105.4
+#### 4
 τοῖσι δὲ τῶν Σκυθέων συλήσασι τὸ ἱρὸν τὸ ἐν Ἀσκάλωνι καὶ τοῖσι τούτων αἰεὶ ἐκγόνοισι ἐνέσκηψε ὁ θεὸς θήλεαν νοῦσον: ὥστε ἅμα λέγουσί τε οἱ Σκύθαι διὰ τοῦτο σφέας νοσέειν, καὶ ὁρᾶν παρ᾽ ἑωυτοῖσι τοὺς ἀπικνεομένους ἐς τὴν Σκυθικὴν χώρην ὡς διακέαται τοὺς καλέουσι Ἐνάρεας οἱ Σκύθαι.
 
 But the Scythians who pillaged the temple, and all their descendants after them, were afflicted by the goddess with the “female” sickness: and so the Scythians say that they are afflicted as a consequence of this and also that those who visit Scythian territory see among them the condition of those whom the Scythians call “Hermaphrodites”.1
 
 1 The derivation of this word is uncertain; it is agreed that the disease was a loss of virility. In Hdt. 4.67 ἐναρής = ἀνδρόγονος.
 ## c131
+#### 1
 Πέρσας δὲ οἶδα νόμοισι τοιοῖσιδε χρεωμένους, ἀγάλματα μὲν καὶ νηοὺς καὶ βωμοὺς οὐκ ἐν νόμῳ ποιευμένους ἱδρύεσθαι, ἀλλὰ καὶ τοῖσι ποιεῦσι μωρίην ἐπιφέρουσι, ὡς μὲν ἐμοὶ δοκέειν, ὅτι οὐκ ἀνθρωποφυέας ἐνόμισαν τοὺς θεοὺς κατά περ οἱ Ἕλληνες εἶναι: 
 
 As to the customs of the Persians, I know them to be these. It is not their custom to make and set up statues and temples and altars, but those who do such things they think foolish, because, I suppose, they have never believed the gods to be like men, as the Greeks do; 
-
+#### 2
 [2] οἳ δὲ νομίζουσι Διὶ μὲν ἐπὶ τὰ ὑψηλότατα τῶν ὀρέων ἀναβαίνοντες θυσίας ἔρδειν, τὸν κύκλον πάντα τοῦ οὐρανοῦ Δία καλέοντες: θύουσι δὲ ἡλίῳ τε καὶ σελήνῃ καὶ γῇ καὶ πυρὶ καὶ ὕδατι καὶ ἀνέμοισι. 
 
 [2] but they call the whole circuit of heaven Zeus, and to him they sacrifice on the highest peaks of the mountains; they sacrifice also to the sun and moon and earth and fire and water and winds. 
@@ -84,6 +89,27 @@ As to the customs of the Persians, I know them to be these. It is not their cust
 
 This was the advice which Bias of Priene gave after the destruction of the Ionians; and that given before the destruction by Thales of Miletus, a Phoenician by descent, was good too; he advised that the Ionians have one place of deliberation, and that it be in Teos (for that was the center of Ionia), and that the other cities be considered no more than demes.
 Thus Bias and Thales advised.
+## c173
+#### 1
+καὶ οὗτοι μὲν τρόποισι τοιούτοισι χρέωνται, οἱ δὲ Λύκιοι ἐκ Κρήτης τὠρχαῖον γεγόνασι （τὴν γὰρ Κρήτην εἶχον τὸ παλαιὸν πᾶσαν βάρβαροι）:
+
+Such are their ways. The Lycians were from Crete in ancient times (for in the past none that lived on Crete were Greek).
+#### 2
+[2] διενειχθέντων δὲ ἐν Κρήτῃ περὶ τῆς βασιληίης τῶν Εὐρώπης παίδων Σαρπηδόνος τε καὶ Μίνω, ὡς ἐπεκράτησε τῇ στάσι Μίνως, ἐξήλασε αὐτόν τε Σαρπηδόνα καὶ τοὺς στασιώτας αὐτοῦ, οἳ δὲ ἀπωσθέντες ἀπίκοντο τῆς Ἀσίης ἐς γῆν τὴν Μιλυάδα: τὴν γὰρ νῦν Λύκιοι νέμονται, αὕτη τὸ παλαιὸν ἦν Μιλυάς, οἱ δὲ Μιλύαι τότε Σόλυμοι ἐκαλέοντο. 
+
+[2] Now there was a dispute in Crete about the royal power between Sarpedon and Minos, sons of Europa; Minos prevailed in this dispute and drove out Sarpedon and his partisans; who, after being driven out, came to the Milyan land in Asia. What is now possessed by the Lycians was in the past Milyan, and the Milyans were then called Solymi. 
+#### 3
+[3] ἕως μὲν δὴ αὐτῶν Σαρπηδὼν ἦρχε, οἳ δὲ ἐκαλέοντο τό πέρ τε ἠνείκαντο οὔνομα καὶ νυν ἔτι καλέονται ὑπὸ τῶν περιοίκων οἱ Λύκιοι Τερμίλαι: ὡς δὲ ἐξ Ἀθηνέων Λύκος ὁ Πανδίονος, ἐξελασθεὶς καὶ οὗτος ὑπὸ τοῦ ἀδελφεοῦ Αἰγέος, ἀπίκετο ἐς τοὺς Τερμίλας παρὰ Σαρπηδόνα, οὕτω δὴ κατὰ τοῦ Λύκου τὴν ἐπωνυμίην Λύκιοι ἀνὰ χρόνον ἐκλήθησαν. 
+
+[3] For a while Sarpedon ruled them, and the people were called Termilae, which was the name that they had brought with them and that is still given to the Lycians by their neighbors; but after Lycus son of Pandion came from Athens—banished as well by his brother, Aegeus—to join Sarpedon in the land of the Termilae, they came in time to be called Lycians after Lycus. 
+#### 4
+[4] νόμοισι δὲ τὰ μὲν Κρητικοῖσι τὰ δὲ Καρικοῖσι χρέωνται. ἓν δὲ τόδε ἴδιον νενομίκασι καὶ οὐδαμοῖσι ἄλλοισι συμφέρονται ἀνθρώπων: καλέουσι ἀπὸ τῶν μητέρων ἑωυτοὺς καὶ οὐκὶ ἀπὸ τῶν πατέρων: 
+
+[4] Their customs are partly Cretan and partly Carian. But they have one which is their own and shared by no other men: they take their names not from their fathers but from their mothers, 
+#### 5
+[5] εἰρομένου δὲ ἑτέρου τὸν πλησίον τίς εἴη, καταλέξει ἑωυτὸν μητρόθεν καὶ τῆς μητρὸς ἀνανεμέεται τὰς μητέρας. καὶ ἢν μέν γε γυνὴ ἀστὴ δούλῳ συνοικήσῃ, γενναῖα τὰ τέκνα νενόμισται: ἢν δὲ ἀνὴρ ἀστὸς καὶ ὁ πρῶτος αὐτῶν γυναῖκα ξείνην ἢ παλλακὴν ἔχῃ, ἄτιμα τὰ τέκνα γίνεται.
+
+[5] and when one is asked by his neighbor who he is, he will say that he is the son of such a mother, and rehearse the mothers of his mother. Indeed, if a female citizen marries a slave, her children are considered pure-blooded; but if a male citizen, even the most prominent of them, takes an alien wife or concubine, the children are dishonored.
 # b2
 ## c3
 κατὰ μὲν δὴ τὴν τροφὴν τῶν παίδων τοσαῦτα ἔλεγον, ἤκουσα δὲ καὶ ἄλλα ἐν Μέμφι ἐλθὼν ἐς λόγους τοῖσι ἱρεῦσι τοῦ Ἡφαίστου. καὶ δὴ καὶ ἐς Θήβας τε καὶ ἐς Ἡλίου πόλιν αὐτῶν τούτων εἵνεκεν ἐτραπόμην, ἐθέλων εἰδέναι εἰ συμβήσονται τοῖσι λόγοισι τοῖσι ἐν Μέμφι: οἱ γὰρ Ἡλιοπολῖται λέγονται Αἰγυπτίων εἶναι λογιώτατοι. 
@@ -608,7 +634,8 @@ There are no men who respect pledges more than the Arabians. This is how they gi
 [3] Διόνυσον δὲ θεῶν μοῦνον καὶ τὴν Οὐρανίην ἡγέονται εἶναι, καὶ τῶν τριχῶν τὴν κουρὴν κείρεσθαι φασὶ κατά περ αὐτὸν τὸν Διόνυσον κεκάρθαι: κείρονται δὲ περιτρόχαλα, ὑποξυρῶντες τοὺς κροτάφους. ὀνομάζουσι δὲ τὸν μὲν Διόνυσον Ὀροτάλτ, τὴν δὲ Οὐρανίην Ἀλιλάτ.
 
 [3] They believe in no other gods except Dionysus and the Heavenly Aphrodite; and they say that they wear their hair as Dionysus does his, cutting it round the head and shaving the temples. They call Dionysus, Orotalt; and Aphrodite, Alilat.1
-## 80.2
+## 80
+#### 2
 
 [2] Ὀτάνης μὲν ἐκέλευε ἐς μέσον Πέρσῃσι καταθεῖναι τὰ πρήγματα, λέγων τάδε. ‘ἐμοὶ δοκέει ἕνα μὲν ἡμέων μούναρχον μηκέτι γενέσθαι. οὔτε γὰρ ἡδὺ οὔτε ἀγαθόν. εἴδετε μὲν γὰρ τὴν Καμβύσεω ὕβριν ἐπ᾽ ὅσον ἐπεξῆλθε, μετεσχήκατε δὲ καὶ τῆς τοῦ Μάγου ὕβριος.
 
@@ -670,72 +697,278 @@ Other Indians, to the east of these, are nomads and eat raw flesh; they are call
 
 There are other Indians, again, who kill no living creature, nor plant anything, nor are accustomed to have houses; they eat grass, and they have a grain growing naturally from the earth in its husk, about the size of a millet-seed, which they gather with the husk and boil and eat. When any one of them falls sick, he goes into the desert and lies there, and no one notices whether he is sick or dies.
 ## c100
+#### 1
 μίξις δὲ τούτων τῶν Ἰνδῶν τῶν κατέλεξα πάντων ἐμφανής ἐστι κατά περ τῶν προβάτων, καὶ τὸ χρῶμα φορέουσι ὅμοιον πάντες καὶ παραπλήσιον Αἰθίοψι. 
 
 These Indians whom I have described have intercourse openly like cattle; they are all black-skinned, like the Ethiopians. 
-
+#### 2
 [2] ἡ γονὴ δὲ αὐτῶν, τὴν ἀπίενται ἐς τὰς γυναῖκας, οὐ κατά περ τῶν ἄλλων ἀνθρώπων ἐστὶ λευκή, ἀλλὰ μέλαινα κατά περ τὸ χρῶμα. τοιαύτην δὲ καὶ Αἰθίοπες ἀπίενται θορήν. οὗτοι μὲν τῶν Ἰνδῶν ἑκαστέρω τῶν Περσέων οἰκέουσι καὶ πρὸς νότου ἀνέμου, καὶ Δαρείου βασιλέος οὐδαμὰ ὑπήκουσαν.
 
 [2] Their semen too, which they ejaculate into the women, is not white like other men's, but black like their skin, and resembles in this respect that of the Ethiopians. These Indians dwell far away from the Persians southwards, and were not subjects of King Darius.
 ## c102
+#### 1
 ἄλλοι δὲ τῶν Ἰνδῶν Κασπατύρῳ τε πόλι καὶ τῇ Πακτυϊκῇ χώρῃ εἰσὶ πρόσουροι, πρὸς ἄρκτου τε καὶ βορέω ἀνέμου κατοικημένοι τῶν ἄλλων Ἰνδῶν, οἳ Βακτρίοισι παραπλησίην ἔχουσι δίαιταν. οὗτοι καὶ μαχιμώτατοι εἰσὶ Ἰνδῶν καὶ οἱ ἐπὶ τὸν χρυσὸν στελλόμενοι εἰσὶ οὗτοι: κατὰ γὰρ τοῦτο ἐστὶ ἐρημίη διὰ τὴν ψάμμον. 
 
 Other Indians dwell near the town of Caspatyrus and the Pactyic country,1 north of the rest of India; these live like the Bactrians; they are of all Indians the most warlike, and it is they who are sent for the gold; for in these parts all is desolate because of the sand. 
-
+#### 2
 [2] ἐν δὴ ὦν τῇ ἐρημίῃ ταύτῃ καὶ τῇ ψάμμῳ γίνονται μύρμηκες μεγάθεα ἔχοντες κυνῶν μὲν ἐλάσσονα ἀλωπέκων δὲ μέζονα: εἰσὶ γὰρ αὐτῶν καὶ παρὰ βασιλέι τῷ Περσέων ἐνθεῦτεν θηρευθέντες. οὗτοι ὦν οἱ μύρμηκες ποιεύμενοι οἴκησιν ὑπὸ γῆν ἀναφορέουσι τὴν ψάμμον κατά περ οἱ ἐν τοῖσι Ἕλλησι μύρμηκες κατὰ τὸν αὐτὸν τρόπον, εἰσὶ δὲ καὶ αὐτοὶ τὸ εἶδος ὁμοιότατοι: ἡ δὲ ψάμμος ἡ ἀναφερομένη ἐστὶ χρυσῖτις. 
 
 [2] In this sandy desert are ants,2 not as big as dogs but bigger than foxes; the Persian king has some of these, which have been caught there. These ants live underground, digging out the sand in the same way as the ants in Greece, to which they are very similar in shape, and the sand which they carry from the holes is full of gold. 
-
+#### 3
 [3] ἐπὶ δὴ ταύτην τὴν ψάμμον στέλλονται ἐς τὴν ἔρημον οἱ Ἰνδοί, ζευξάμενος ἕκαστος καμήλους τρεῖς, σειρηφόρον μὲν ἑκατέρωθεν ἔρσενα παρέλκειν, θήλεαν δὲ ἐς μέσον: ἐπὶ ταύτην δὴ αὐτὸς ἀναβαίνει, ἐπιτηδεύσας ὅκως ἀπὸ τέκνων ὡς νεωτάτων ἀποσπάσας ζεύξει. αἱ γάρ σφι κάμηλοι ἵππων οὐκ ἥσσονες ἐς ταχυτῆτα εἰσί, χωρὶς δὲ ἄχθεα δυνατώτεραι πολλὸν φέρειν.
 
 [3] It is for this sand that the Indians set forth into the desert. They harness three camels apiece, males on either side sharing the drawing, and a female in the middle: the man himself rides on the female, that when harnessed has been taken away from as young an offspring as may be. Their camels are as swift as horses, and much better able to bear burdens besides.
+## c115
+#### 1
+αὗται μέν νυν ἔν τε τῇ Ἀσίῃ ἐσχατιαί εἰσι καὶ ἐν τῇ Λιβύῃ. περὶ δὲ τῶν ἐν τῇ Εὐρώπῃ τῶν πρὸς ἑσπέρην ἐσχατιέων ἔχω μὲν οὐκ ἀτρεκέως λέγειν: οὔτε γὰρ ἔγωγε ἐνδέκομαι Ἠριδανὸν καλέεσθαι πρὸς βαρβάρων ποταμὸν ἐκδιδόντα ἐς θάλασσαν τὴν πρὸς βορέην ἄνεμον, ἀπ᾽ ὅτευ τὸ ἤλεκτρον φοιτᾶν λόγος ἐστί, οὔτε νήσους οἶδα Κασσιτερίδας ἐούσας, ἐκ τῶν ὁ κασσίτερος ἡμῖν φοιτᾷ. 
+
+These then are the most distant lands in Asia and Libya. But concerning those in Europe that are the farthest away towards evening, I cannot speak with assurance; for I do not believe that there is a river called by foreigners Eridanus issuing into the northern sea, where our amber is said to come from, nor do I have any knowledge of Tin Islands, where our tin is brought from. 
+#### 2
+[2] τοῦτο μὲν γὰρ ὁ Ἠριδανὸς αὐτὸ κατηγορέει τὸ οὔνομα ὡς ἔστι Ἑλληνικὸν καὶ οὐ βάρβαρον, ὑπὸ ποιητέω δὲ τινὸς ποιηθέν: τοῦτο δὲ οὐδενὸς αὐτόπτεω γενομένου δύναμαι ἀκοῦσαι, τοῦτο μελετῶν, ὅκως θάλασσα ἐστὶ τὰ ἐπέκεινα Εὐρώπης. ἐξ ἐσχάτης δ᾽ ὦν ὁ κασσίτερος ἡμῖν φοιτᾷ καὶ τὸ ἤλεκτρον.
+
+[2] The very name Eridanus betrays itself as not a foreign but a Greek name, invented by some poet; nor for all my diligence have I been able to learn from one who has seen it that there is a sea beyond Europe. All we know is that our tin and amber come from the most distant parts.
+## c116
+#### 1
+πρὸς δὲ ἄρκτου τῆς Εὐρώπης πολλῷ τι πλεῖστος χρυσὸς φαίνεται ἐών: ὅκως μὲν γινόμενος, οὐκ ἔχω οὐδὲ τοῦτο ἀτρεκέως εἶπαι, λέγεται δὲ ὑπὲκ τῶν γρυπῶν ἁρπάζειν Ἀριμασποὺς ἄνδρας μουνοφθάλμους. 
+
+But in the north of Europe there is by far the most gold. In this matter again I cannot say with assurance how the gold is produced, but it is said that one-eyed men called Arimaspians steal it from griffins. 
+#### 2
+[2] πείθομαι δὲ οὐδὲ τοῦτο ὅκως μουνόφθαλμοι ἄνδρες φύονται, φύσιν ἔχοντες τὴν ἄλλην ὁμοίην τοῖσι ἄλλοισι ἀνθρώποισι: 
+
+[2] But I do not believe this, that there are one-eyed men who have a nature otherwise the same as other men. 
+#### 3
+[3] αἱ δὲ ὦν ἐσχατιαὶ οἴκασι, περικληίουσαι τὴν ἄλλην χώρην καὶ ἐντὸς ἀπέργουσαι, τὰ κάλλιστα δοκέοντα ἡμῖν εἶναι καὶ σπανιώτατα ἔχειν αὗται.
+
+[3] The most outlying lands, though, as they enclose and wholly surround all the rest of the world, are likely to have those things which we think the finest and the rarest.
+## c117
+#### 1
+ἔστι δὲ πεδίον ἐν τῇ Ἀσίῃ περικεκληιμένον ὄρεϊ πάντοθεν, διασφάγες δὲ τοῦ ὄρεος εἰσὶ πέντε. τοῦτο τὸ πεδίον ἦν μὲν κοτὲ Χορασμίων, ἐν οὔροισι ἐὸν Χορασμίων τε αὐτῶν καὶ Ὑρκανίων καὶ Πάρθων καὶ Σαραγγέων καὶ Θαμαναίων, ἐπείτε δὲ Πέρσαι ἔχουσι τὸ κράτος, ἐστὶ τοῦ βασιλέος. 
+
+There is a plain in Asia shut in on all sides by mountains through which there are five passes.1 This plain was once the Chorasmians', being at the boundaries of the Chorasmians, the Hyrcanians, Parthians, Sarangians, and Thamanaei, but since the Persians have held power it has been the king's. 
+#### 2
+[2] ἐκ δὴ ὦν τοῦ περικληίοντος ὄρεος τούτου ῥέει ποταμὸς μέγας, οὔνομα δέ οἱ ἐστὶ Ἄκης. οὗτος πρότερον μὲν ἄρδεσκε διαλελαμμένος πενταχοῦ τούτων τῶν εἰρημένων τὰς χώρας, διὰ διασφάγος ἀγόμενος ἑκάστης ἑκάστοισι: ἐπείτε δὲ ὑπὸ τῷ Πέρσῃ εἰσί, πεπόνθασι τοιόνδε: 
+
+[2] Now from the encircling mountains flows a great river whose name is the Aces. Its stream divides into five channels and formerly watered the lands of the above-mentioned peoples, going to each through a different pass, but since the beginning of the Persian rule 
+#### 3
+[3] τὰς διασφάγας τῶν ὀρέων ἐνδείμας ὁ βασιλεὺς πύλας ἐπ᾽ ἑκάστῃ διασφάγι ἔστησε: ἀποκεκληιμένου δὲ τοῦ ὕδατος τῆς ἐξόδου τὸ πεδίον τὸ ἐντὸς τῶν ὀρέων πέλαγος γίνεται, ἐνδιδόντος μὲν τοῦ ποταμοῦ, ἔχοντος δὲ οὐδαμῇ ἐξήλυσιν. 
+
+[3] the king has blocked the mountain passes, and closed each passage with a gate; with the water barred from outlet, the plain within the mountains becomes a lake, seeing that the river pours into it and finds no way out. 
+#### 4
+[4] οὗτοι ὦν οἵ περ ἔμπροσθε ἐώθεσαν χρᾶσθαι τῷ ὕδατι, οὐκ ἔχοντες αὐτῷ χρᾶσθαι συμφορῇ μεγάλῃ διαχρέωνται. τὸν μὲν γὰρ χειμῶνα ὕει σφι ὁ θεὸς ὥσπερ καὶ τοῖσι ἄλλοισι ἀνθρώποισι, τοῦ δὲ θέρεος σπείροντες μελίνην καὶ σήσαμον χρηίσκονται τῷ ὕδατι. 
+
+[4] Those therefore who before were accustomed to use the water endure great hardship in not being able to use it; for during the winter, god rains for them just as for the rest of mankind, but in the summer they are in need of the water for their sown millet and sesame. 
+#### 5
+[5] ἐπεὰν ὦν μηδέν σφι παραδιδῶται τοῦ ὕδατος, ἐλθόντες ἐς τοὺς Πέρσας αὐτοί τε καὶ γυναῖκες, στάντες κατὰ τὰς θύρας τοῦ βασιλέος βοῶσι ὠρυόμενοι, ὁ δὲ βασιλεὺς τοῖσι δεομένοισι αὐτῶν μάλιστα ἐντέλλεται ἀνοίγειν τὰς πύλας τὰς ἐς τοῦτο φερούσας. 
+
+[5] So whenever no water is given to them, they come into Persia with their women, and cry and howl before the door of the king's palace, until the king commands that the river-gate should be opened for those whose need is greatest; 
+#### 6
+[6] ἐπεὰν δὲ διάκορος ἡ γῆ σφεων γένηται πίνουσα τὸ ὕδωρ, αὗται μὲν αἱ πύλαι ἀποκληίονται, ἄλλας δ᾽ ἐντέλλεται ἀνοίγειν ἄλλοισι τοῖσι δεομένοισι μάλιστα τῶν λοιπῶν. ὡς δ᾽ ἐγὼ οἶδα ἀκούσας, χρήματα μεγάλα πρησσόμενος ἀνοίγει πάρεξ τοῦ φόρου.
+
+[6] then, when this land has drunk its fill of water, that gate is shut, and the king has another opened for those of the rest who most require it. I know by hearsay that he gets a lot of money, over and above the tribute, for opening the gates. So much for these matters.
+## c125
+#### 1
+Πολυκράτης δὲ πάσης συμβουλίης ἀλογήσας ἔπλεε παρὰ τὸν Ὀροίτεα, ἅμα ἀγόμενος ἄλλους τε πολλοὺς τῶν ἑταίρων, ἐν δὲ δὴ καὶ Δημοκήδεα τὸν Καλλιφῶντος Κροτωνιήτην ἄνδρα, ἰητρόν τε ἐόντα καὶ τὴν τέχνην ἀσκέοντα ἄριστα τῶν κατ᾽ ἑωυτόν. 
+
+But Polycrates would listen to no advice. He sailed to meet Oroetes, with a great retinue of followers, among whom was Democedes, son of Calliphon, a man of Croton and the most skillful physician of his time. 
+#### 2
+[2] ἀπικόμενος δὲ ἐς τὴν Μαγνησίην ὁ Πολυκράτης διεφθάρη κακῶς, οὔτε ἑωυτοῦ ἀξίως οὔτε τῶν ἑωυτοῦ φρονημάτων: ὅτι γὰρ μὴ οἱ Συρηκοσίων γενόμενοι τύραννοι οὐδὲ εἷς τῶν ἄλλων Ἑλληνικῶν τυράννων ἄξιος ἐστὶ Πολυκράτεϊ μεγαλοπρεπείην συμβληθῆναι. 
+
+[2] But no sooner had Polycrates come to Magnesia than he was horribly murdered in a way unworthy of him and of his aims; for, except for the sovereigns of Syracuse, no sovereign of Greek race is fit to be compared with Polycrates for magnificence. 
+#### 3
+[3] ἀποκτείνας δέ μιν οὐκ ἀξίως ἀπηγήσιος Ὀροίτης ἀνεσταύρωσε: τῶν δέ οἱ ἑπομένων ὅσοι μὲν ἦσαν Σάμιοι, ἀπῆκε, κελεύων σφέας ἑωυτῷ χάριν εἰδέναι ἐόντας ἐλευθέρους, ὅσοι δὲ ἦσαν ξεῖνοί τε καὶ δοῦλοι τῶν ἑπομένων, ἐν ἀνδραπόδων λόγῳ ποιεύμενος εἶχε. 
+
+[3] Having killed him in some way not fit to be told, Oroetes then crucified him; as for those who had accompanied him, he let the Samians go, telling them to thank him that they were free; those who were not Samians, or were servants of Polycrates' followers, he kept for slaves. 
+#### 4
+[4] Πολυκράτης δὲ ἀνακρεμάμενος ἐπετέλεε πᾶσαν τὴν ὄψιν τῆς θυγατρός: ἐλοῦτο μὲν γὰρ ὑπὸ τοῦ Διὸς ὅκως ὕοι, ἐχρίετο δὲ ὑπὸ τοῦ ἡλίου, ἀνιεὶς αὐτὸς ἐκ τοῦ σώματος ἰκμάδα.
+
+[4] And Polycrates hanging in the air fulfilled his daughter's vision in every detail; for he was washed by Zeus when it rained, and he was anointed by Helios as he exuded sweat from his body.
+## c129
+#### 1
+ἀπικομένων δὲ καὶ ἀνακομισθέντων τῶν Ὀροίτεω χρημάτων ἐς τὰ Σοῦσα, συνήνεικε χρόνῳ οὐ πολλῷ ὕστερον βασιλέα Δαρεῖον ἐν ἄγρῃ θηρῶν ἀποθρώσκοντα ἀπ᾽ ἵππου στραφῆναι τὸν πόδα. 
+
+Oroetes' slaves and other possessions were brought to Susa. Not long after this, it happened that Darius twisted his foot in dismounting from his horse while hunting [2] so violently that the ball of the ankle joint was dislocated from its socket. 
+#### 2
+[2] καί κως ἰσχυροτέρως ἐστράφη: ὁ γάρ οἱ ἀστράγαλος ἐξεχώρησε ἐκ τῶν ἄρθρων. νομίζων δὲ καὶ πρότερον περὶ ἑωυτὸν ἔχειν Αἰγυπτίων τοὺς δοκέοντας εἶναι πρώτους τὴν ἰητρικήν, τούτοισι ἐχρᾶτο. οἳ δὲ στρεβλοῦντες καὶ βιώμενοι τὸν πόδα κακὸν μέζον ἐργάζοντο. 
+
+Darius called in the best physicians of Egypt, whom he had until now kept near his person. But by violently twisting the foot they made the injury worse; 
+#### 3
+[3] ἐπ᾽ ἑπτὰ μὲν δὴ ἡμέρας καὶ ἑπτὰ νύκτας ὑπὸ τοῦ παρεόντος κακοῦ ὁ Δαρεῖος ἀγρυπνίῃσι εἴχετο: τῇ δὲ δὴ ὀγδόῃ ἡμέρῃ ἔχοντί οἱ φλαύρως, παρακούσας τις πρότερον ἔτι ἐν Σάρδισι τοῦ Κροτωνιήτεω Δημοκήδεος τὴν τέχνην ἀγγέλλει τῷ Δαρείῳ: ὁ δὲ ἄγειν μιν τὴν ταχίστην παρ᾽ ἑωυτὸν ἐκέλευσε: τὸν δὲ ὡς ἐξεῦρον ἐν τοῖσι Ὀροίτεω ἀνδραπόδοισι ὅκου δὴ ἀπημελημένον, παρῆγον ἐς μέσον πέδας τε ἕλκοντα καὶ ῥάκεσι ἐσθημένον.
+
+[3] and for seven days and nights the king could not sleep because of the pain. On the eighth day, when he was doing poorly, someone who had heard in Sardis of the skill of Democedes of Croton told Darius of him; and he told them to bring him as quickly as possible. When they found him among the slaves of Oroetes, where he was forgotten, they brought him along, dragging his chains and dressed in rags.
+## c130
+σταθέντα δὲ ἐς μέσον εἰρώτα ὁ Δαρεῖος τὴν τέχνην εἰ ἐπίσταιτο: ὁ δὲ οὐκ ὑπεδέκετο, ἀρρωδέων μὴ ἑωυτὸν ἐκφήνας τὸ παράπαν τῆς Ἑλλάδος ᾖ ἀπεστερημένος: 
+
+Darius asked him when he was brought in if he were trained in medicine. He refused to admit it, for he was afraid that if he revealed himself he would be cut off from Hellas for good. 
+
+[2] κατεφάνη τε τῷ Δαρείῳ τεχνάζειν ἐπιστάμενος, καὶ τοὺς ἀγαγόντας αὐτὸν ἐκέλευσε μάστιγάς τε καὶ κέντρα παραφέρειν ἐς τὸ μέσον. ὁ δὲ ἐνθαῦτα δὴ ὦν ἐκφαίνει, φὰς ἀτρεκέως μὲν οὐκ ἐπίστασθαι, ὁμιλήσας δὲ ἰητρῷ φλαύρως ἔχειν τὴν τέχνην. 
+
+[2] It was clear to Darius, however, that he was trained in deceit,1 and he ordered those who had brought him to bring along scourges and goads. Then he confessed, saying that his training was not exact, but that he had associated with a physician and had a passing acquaintance with medicine. 
+
+[3] μετὰ δέ, ὥς οἱ ἐπέτρεψε, Ἑλληνικοῖσι ἰήμασι χρεώμενος καὶ ἤπια μετὰ τὰ ἰσχυρὰ προσάγων ὕπνου τέ μιν λαγχάνειν ἐποίεε καὶ ἐν χρόνῳ ὀλίγῳ ὑγιέα μιν ἀπέδεξε, οὐδαμὰ ἔτι ἐλπίζοντα ἀρτίπουν ἔσεσθαι. 
+
+[3] But when Darius turned the case over to him and Democedes applied Greek remedies and used gentleness instead of the Egyptians' violence, he enabled him to sleep and in a short time had him well, although Darius had had no hope of regaining the use of his foot. 
+
+[4] δωρέεται δή μιν μετὰ ταῦτα ὁ Δαρεῖος πεδέων χρυσέων δύο ζεύγεσι: ὁ δέ μιν ἐπείρετο εἴ οἱ διπλήσιον τὸ κακὸν ἐπίτηδες νέμει, ὅτι μιν ὑγιέα ἐποίησε. ἡσθεὶς δὲ τῷ ἔπεϊ ὁ Δαρεῖος ἀποπέμπει μιν παρὰ τὰς ἑωυτοῦ γυναῖκας: παράγοντες δὲ οἱ εὐνοῦχοι ἔλεγον πρὸς τὰς γυναῖκας ὡς βασιλέι οὗτος εἴη ὃς τὴν ψυχὴν ἀπέδωκε. 
+
+[4] After this, Darius rewarded him with a gift of two pairs of golden fetters. “Is it your purpose,” Democedes asked, “to double my pains for making you well?” Pleased by the retort, Darius sent him to his own wives. The eunuchs who conducted him told the women that this was the man who had given the king his life back. 
+
+[5] ὑποτύπτουσα δὲ αὐτέων ἑκάστη φιάλῃ τοῦ χρυσοῦ ἐς θήκην ἐδωρέετο Δημοκήδεα οὕτω δή τι δαψιλέι δωρεῇ ὡς τοὺς ἀποπίπτοντας ἀπὸ τῶν φιαλέων στατῆρας ἑπόμενος ὁ οἰκέτης, τῷ οὔνομα ἦν Σκίτων, ἀνελέγετο καί οἱ χρῆμα πολλόν τι χρυσοῦ συνελέχθη.
+
+[5] Each of them took a bowl and dipped it in a chest full of gold, so richly rewarding Democedes that the servant accompanying him, whose name was Sciton, collected a very great sum of gold by picking up the staters that fell from the bowls.
+## c131
+ὁ δὲ Δημοκήδης οὗτος ὧδε ἐκ Κρότωνος ἀπιγμένος Πολυκράτεϊ ὡμίλησε: πατρὶ συνείχετο ἐν τῇ Κρότωνι ὀργὴν χαλεπῷ: τοῦτον ἐπείτε οὐκ ἐδύνατο φέρειν, ἀπολιπὼν οἴχετο ἐς Αἴγιναν. καταστὰς δὲ ἐς ταύτην πρώτῳ ἔτεϊ ὑπερεβάλετο τοὺς ἄλλους ἰητρούς, ἀσκευής περ ἐὼν καὶ ἔχων οὐδὲν τῶν ὅσα περὶ τὴν τέχνην ἐστὶ ἐργαλήια. 
+
+Now this is how Democedes had come from Croton to live with Polycrates: he was oppressed by a harsh-tempered father at Croton; since he could not stand him, he left him and went to Aegina. Within the first year after settling there, he excelled the rest of the physicians, although he had no equipment nor any medical implements. 
+
+[2] καί μιν δευτέρῳ ἔτεϊ ταλάντου Αἰγινῆται δημοσίῃ μισθοῦνται, τρίτῳ δὲ ἔτεϊ Ἀθηναῖοι ἑκατὸν μνέων, τετάρτῳ δὲ ἔτεϊ Πολυκράτης δυῶν ταλάντων. οὕτω μὲν ἀπίκετο ἐς τὴν Σάμον, καὶ ἀπὸ τούτου τοῦ ἀνδρὸς οὐκ ἥκιστα Κροτωνιῆται ἰητροὶ εὐδοκίμησαν. 
+
+[2] In his second year the Aeginetans1 paid him a talent to be their public physician; in the third year the Athenians hired him for a hundred minae, and Polycrates in the fourth year for two talents. Thus he came to Samos, and not least because of this man the physicians of Croton were well-respected 
+
+[3] ἐγένετο γὰρ ὦν τοῦτο ὅτε πρῶτοι μὲν Κροτωνιῆται ἰητροὶ ἐλέγοντο ἀνὰ τὴν Ἑλλάδα εἶναι, δεύτεροι δὲ Κυρηναῖοι. κατὰ τὸν αὐτὸν δὲ τοῦτον χρόνον καὶ Ἀργεῖοι ἤκουον μουσικὴν εἶναι Ἑλλήνων πρῶτοι.1
+
+[3] for at this time the best physicians in Greek countries were those of Croton, and next to them those of Cyrene. About the same time the Argives had the name of being the best musicians].
+## b132
+τότε δὴ ὁ Δημοκήδης ἐν τοῖσι Σούσοισι ἐξιησάμενος Δαρεῖον οἶκόν τε μέγιστον εἶχε καὶ ὁμοτράπεζος βασιλέι ἐγεγόνεε, πλήν τε ἑνὸς τοῦ ἐς Ἕλληνας ἀπιέναι πάντα τἆλλά οἱ παρῆν. 
+
+So now because he had healed Darius at Susa Democedes had a very grand house and ate at the king's table; he had everything, except permission to return to the Greeks. 
+
+[2] καὶ τοῦτο μὲν τοὺς Αἰγυπτίους ἰητρούς, οἳ βασιλέα πρότερον ἰῶντο, μέλλοντας ἀνασκολοπιεῖσθαι ὅτι ὑπὸ Ἕλληνος ἰητροῦ ἑσσώθησαν, τούτους βασιλέα παραιτησάμενος ἐρρύσατο: τοῦτο δὲ μάντιν Ἠλεῖον Πολυκράτεϊ ἐπισπόμενον καὶ ἀπημελημένον ἐν τοῖσι ἀνδραπόδοισι ἐρρύσατο. ἦν δὲ μέγιστον πρῆγμα Δημοκήδης παρὰ βασιλέι.
+
+[2] When the Egyptian physicians who until now had attended the king were about to be impaled for being less skilful than a Greek, Democedes interceded with the king for them and saved them; and he saved an Elean seer, too, who had been a retainer of Polycrates' and was forgotten among the slaves. Democedes was a man of considerable influence with the King.
 # b4
 
-## 11.1
+## c11
+#### 1
 ἔστι δὲ καὶ ἄλλος λόγος ἔχων ὧδε, τῷ μάλιστα λεγομένῳ αὐτός πρόσκειμαι, Σκύθας τοὺς νομάδας οἰκέοντας ἐν τῇ Ἀσίῃ, πολέμῳ πιεσθέντας ὑπὸ Μασσαγετέων, οἴχεσθαι διαβάντας ποταμὸν Ἀράξην ἐπὶ γῆν τὴν Κιμμερίην （τὴν γὰρ νῦν νέμονται Σκύθαι, αὕτη λέγεται τὸ παλαιὸν εἶναι Κιμμερίων）, 
 
 There is yet another story, to which account I myself especially incline. It is to this effect. The nomadic Scythians inhabiting Asia, when hard pressed in war by the Massagetae, fled across the Araxes1 river to the Cimmerian country (for the country which the Scythians now inhabit is said to have belonged to the Cimmerians before), 
-## c36
-καὶ ταῦτα μὲν Ὑπερβορέων πέρι εἰρήσθω: τὸν γὰρ περὶ Ἀβάριος λόγον τοῦ λεγομένου εἶναι Ὑπερβορέου οὐ λέγω, ὡς1 τὸν ὀιστὸν περιέφερε κατὰ πᾶσαν γῆν οὐδὲν σιτεόμενος. εἰ δὲ εἰσὶ ὑπερβόρεοι τινὲς ἄνθρωποι, εἰσὶ καὶ ὑπερνότιοι ἄλλοι. [2] γελῶ δὲ ὁρέων γῆς περιόδους γράψαντας πολλοὺς ἤδη καὶ οὐδένα νοονεχόντως ἐξηγησάμενον: οἳ Ὠκεανόν τε ῥέοντα γράφουσι πέριξ τὴν γῆν ἐοῦσαν κυκλοτερέα ὡς ἀπὸ τόρνου, καὶ τὴν Ἀσίην τῇ Εὐρώπῃ ποιεύντων ἴσην. ἐν ὀλίγοισι γὰρ ἐγὼ δηλώσω μέγαθός τε ἑκάστης αὐτέων καὶ οἵη τις ἐστὶ ἐς γραφὴν ἑκάστη. 
+## c12
+#### 1
+καὶ νῦν ἔστι μὲν ἐν τῇ Σκυθικῇ Κιμμέρια τείχεα, ἔστι δὲ πορθμήια Κιμμέρια, ἔστι δὲ καὶ χωρῇ οὔνομα Κιμμερίη, ἔστι δὲ Βόσπορος Κιμμέριος καλεόμενος: 
 
-I have said this much of the Hyperboreans, and let it suffice; for I do not tell the story of that Abaris, alleged to be a Hyperborean, who carried the arrow over the whole world, fasting all the while. But if there are men beyond the north wind, then there are others beyond the south. [2] And I laugh to see how many have before now drawn maps of the world, not one of them reasonably; for they draw the world as round as if fashioned by compasses, encircled by the Ocean river, and Asia and Europe of a like extent. For myself, I will in a few words indicate the extent of the two, and how each should be drawn. 
+And to this day there are Cimmerian walls in Scythia, and a Cimmerian ferry, and there is a country Cimmeria1 and a strait named Cimmerian. 
+#### 2
+[2] φαίνονται δὲ οἱ Κιμμέριοι φεύγοντες ἐς τὴν Ἀσίην τοὺς Σκύθας καὶ τὴν χερσόνησον κτίσαντες, ἐν τῇ νῦν Σινώπη πόλις Ἑλλὰς οἴκισται. φανεροὶ δὲ εἰσὶ καὶ οἱ Σκύθαι διώξαντες αὐτοὺς καὶ ἐσβαλόντες ἐς γῆν τὴν Μηδικὴν, ἁμαρτόντες τῆς ὁδοῦ: 
+
+[2] Furthermore, it is evident that the Cimmerians in their flight from the Scythians into Asia also made a colony on the peninsula where the Greek city of Sinope has since been founded; and it is clear that the Scythians pursued them and invaded Media, missing their way; 
+#### 3
+[3] οἱ μὲν γὰρ Κιμμέριοι αἰεὶ τὴν παρὰ θάλασσαν ἔφευγον, οἱ δὲ Σκύθαι ἐν δεξιῇ τὸν Καύκασον ἔχοντες ἐδίωκον ἐς οὗ ἐσέβαλον ἐς γῆν τὴν Μηδικήν, ἐς μεσόγαιαν τῆς ὁδοῦ τραφθέντες. οὗτος δὲ ἄλλος ξυνὸς Ἑλλήνων τε καὶ βαρβάρων λεγόμενος λόγος εἴρηται.
+
+[3] for the Cimmerians always fled along the coast, and the Scythians pursued with the Caucasus on their right until they came into the Median land, turning inland on their way. That is the other story current among Greeks and foreigners alike.
+## c13
+#### 1
+ἔφη δὲ Ἀριστέης ὁ Καϋστροβίου ἀνὴρ Προκοννήσιος ποιέων ἔπεα, ἀπικέσθαι ἐς Ἰσσηδόνας φοιβόλαμπτος γενόμενος, Ἰσσηδόνων δὲ ὑπεροικέειν Ἀριμασποὺς ἄνδρας μουνοφθάλμους ὕπερ δὲ τούτων τοὺς χρυσοφύλακας γρῦπας, τούτων δὲ τοὺς Ὑπερβορέους κατήκοντας ἐπὶ θάλασσαν. 
+
+There is also a story related in a poem by Aristeas son of Caüstrobius, a man of Proconnesus. This Aristeas, possessed by Phoebus, visited the Issedones; beyond these (he said) live the one-eyed Arimaspians, beyond whom are the griffins that guard gold, and beyond these again the Hyperboreans, whose territory reaches to the sea. 
+#### 2
+[2] τούτους ὦν πάντας πλὴν Ὑπερβορέων, ἀρξάντων Ἀριμασπῶν, αἰεὶ τοῖσι πλησιοχώροισι ἐπιτίθεσθαι, καὶ ὑπὸ μὲν Ἀριμασπῶν ἐξωθέεσθαι ἐκ τῆς χώρης Ἰσσηδόνας, ὑπὸ δὲ Ἰσσηδόνων Σκύθας, Κιμμερίους δὲ οἰκέοντας ἐπὶ τῇ νοτίῃ θαλάσσῃ ὑπὸ Σκυθέων πιεζομένους ἐκλείπειν τὴν χώρην. οὕτω οὐδὲ οὗτος συμφέρεται περὶ τῆς χώρης ταύτης Σκύθῃσι.
+
+[2] Except for the Hyperboreans, all these nations (and first the Arimaspians) are always at war with their neighbors; the Issedones were pushed from their lands by the Arimaspians, and the Scythians by the Issedones, and the Cimmerians, living by the southern sea, were hard pressed by the Scythians and left their country. Thus Aristeas' story does not agree with the Scythian account about this country.
+## c32
+Ὑπερβορέων δὲ πέρι ἀνθρώπων οὔτε τι Σκύθαι λέγουσι οὐδὲν οὔτε τινὲς ἄλλοι τῶν ταύτῃ οἰκημένων, εἰ μὴ ἄρα Ἰσσηδόνες. ὡς δὲ ἐγὼ δοκέω, οὐδ᾽ οὗτοι λέγουσι οὐδέν: ἔλεγον γὰρ ἂν καὶ Σκύθαι, ὡς περὶ τῶν μουνοφθάλμων λέγουσι. ἀλλ᾽ Ἡσιόδῳ μὲν ἐστὶ περὶ Ὑπερβορέων εἰρημένα, ἔστι δὲ καὶ Ὁμήρῳ ἐν Ἐπιγόνοισι, εἰ δὴ τῷ ἐόντι γε Ὅμηρος ταῦτα τὰ ἔπεα ἐποίησε.
+
+Concerning the Hyperborean people, neither the Scythians nor any other inhabitants of these lands tell us anything, except perhaps the Issedones. And, I think, even they say nothing; for if they did, then the Scythians, too, would have told, just as they tell of the one-eyed men. But Hesiod speaks of Hyperboreans, and Homer too in his poem The Heroes' Sons,1 if that is truly the work of Homer.
+## c33
+#### 1
+πολλῷ δέ τι πλεῖστα περὶ αὐτῶν Δήλιοι λέγουσι, φάμενοι ἱρὰ ἐνδεδεμένα ἐν καλάμῃ πυρῶν ἐξ Ὑπερβορέων φερόμενα ἀπικνέεσθαι ἐς Σκύθας, ἀπὸ δὲ Σκυθέων ἤδη δεκομένους αἰεὶ τοὺς πλησιοχώρους ἑκάστους κομίζειν αὐτὰ τὸ πρὸς ἑσπέρης ἑκαστάτω ἐπὶ τὸν Ἀδρίην, 
+
+But the Delians1 say much more about them than any others do. They say that offerings wrapped in straw are brought from the Hyperboreans to Scythia; when these have passed Scythia, each nation in turn receives them from its neighbors until they are carried to the Adriatic sea, which is the most westerly limit of their journey; 
+
+1 This Delian story about the Hyperboreans is additional evidence of the known fact that trade routes from the earliest times linked northern with southeastern Europe. Amber in particular was carried from the Baltic to the Aegean.
+#### 2
+[2] ἐνθεῦτεν δὲ πρὸς μεσαμβρίην προπεμπόμενα πρώτους Δωδωναίους Ἑλλήνων δέκεσθαι, ἀπὸ δὲ τούτων καταβαίνειν ἐπὶ τὸν Μηλιέα κόλπον καὶ διαπορεύεσθαι ἐς Εὔβοιαν, πόλιν τε ἐς πόλιν πέμπειν μέχρι Καρύστου, τὸ δ᾽ ἀπὸ ταύτης ἐκλιπεῖν Ἄνδρον: Καρυστίους γὰρ εἶναι τοὺς κομίζοντας ἐς Τῆνον, Τηνίους δὲ ἐς Δῆλον. 
+
+[2] from there, they are brought on to the south, the people of Dodona being the first Greeks to receive them. From Dodona they come down to the Melian gulf, and are carried across to Euboea, and one city sends them on to another until they come to Carystus; after this, Andros is left out of their journey, for Carystians carry them to Tenos, and Tenians to Delos. 
+#### 3
+[3] ἀπικνέεσθαι μέν νυν οὕτω ταῦτα τὰ ἱρὰ λέγουσι ἐς Δῆλον: πρῶτον δὲ τοὺς Ὑπερβορέους πέμψαι φερούσας τὰ ἱρὰ δὺο κόρας, τὰς ὀνομάζουσι Δήλιοι εἶναι Ὑπερόχην τε καὶ Λαοδίκην: ἅμα δὲ αὐτῇσι ἀσφαλείης εἵνεκεν πέμψαι τοὺς Ὑπερβορέους τῶν ἀστῶν ἄνδρας πέντε πομπούς, τούτους οἳ νῦν Περφερέες καλέονται τιμὰς μεγάλας ἐν Δήλῳ ἔχοντες. 
+
+[3] Thus (they say) these offerings come to Delos. But on the first journey, the Hyperboreans sent two maidens bearing the offerings, to whom the Delians give the names Hyperoche and Laodice, and five men of their people with them as escort for safe conduct, those who are now called Perpherees2 and greatly honored at Delos. 
+
+2 That is, probably, the Bearers.
+#### 4
+[4] ἐπεὶ δὲ τοῖσι Ὑπερβορέοισι τοὺς ἀποπεμφθέντας ὀπίσω οὐκ ἀπονοστέειν, δεινὰ ποιευμένους εἰ σφέας αἰεὶ καταλάμψεται ἀποστέλλοντας μὴ ἀποδέκεσθαι, οὕτω δὴ φέροντας ἐς τοὺς οὔρους τὰ ἱρὰ ἐνδεδεμένα ἐν πυρῶν καλάμῃ τοὺς πλησιοχώρους ἐπισκήπτειν κελεύοντας προπέμπειν σφέα ἀπὸ ἑωυτῶν ἐς ἄλλο ἔθνος. 
+
+[4] But when those whom they sent never returned, they took it amiss that they should be condemned always to be sending people and not getting them back, and so they carry the offerings, wrapped in straw, to their borders, and tell their neighbors to send them on from their own country to the next; 
+#### 5
+[5] καὶ ταῦτα μὲν οὕτω προπεμπόμενα ἀπικνέεσθαι λέγουσι ἐς Δῆλον. οἶδα δὲ αὐτὸς τούτοισι τοῖσι ἱροῖσι τόδε ποιεύμενον προσφερές, τὰς Θρηικίας καὶ τὰς Παιονίδας γυναῖκας, ἐπεὰν θύωσι τῇ Ἀρτέμιδι τῇ βασιλείῃ, οὐκ ἄνευ πυρῶν καλάμης ἐχούσας τὰ ἱρά.
+
+[5] and the offerings, it is said, come by this conveyance to Delos. I can say of my own knowledge that there is a custom like these offerings; namely, that when the Thracian and Paeonian women sacrifice to the Royal Artemis, they have straw with them while they sacrifice.
+## c34
+#### 1
+καὶ ταῦτα μὲν δὴ ταύτας οἶδα ποιεύσας: τῇσι δὲ παρθένοισι ταύτῃσι τῇσι ἐξ Ὑπερβορέων τελευτησάσῃσι ἐν Δήλῳ κείρονται καὶ αἱ κόραι καὶ οἱ παῖδες οἱ Δηλίων: αἱ μὲν πρὸ γάμου πλόκαμον ἀποταμνόμεναι καὶ περὶ ἄτρακτον εἱλίξασαι ἐπὶ τὸ σῆμα τιθεῖσι 
+
+I know that they do this. The Delian girls and boys cut their hair in honor of these Hyperborean maidens, who died at Delos; the girls before their marriage cut off a tress and lay it on the tomb, wound around a spindle 
+#### 2
+[2] （τὸ δὲ σῆμα ἐστὶ ἔσω ἐς τὸ Ἀρτεμίσιον ἐσιόντι ἀριστερῆς χειρός, ἐπιπέφυκε δέ οἱ ἐλαίη）, ὅσοι δὲ παῖδες τῶν Δηλίων, περὶ χλόην τινὰ εἱλίξαντες τῶν τριχῶν τιθεῖσι καὶ οὗτοι ἐπὶ τὸ σῆμα.
+
+[2] (this tomb is at the foot of an olive-tree, on the left hand of the entrance of the temple of Artemis); the Delian boys twine some of their hair around a green stalk, and lay it on the tomb likewise.
+## c35
+#### 1
+αὗται μὲν δὴ ταύτην τιμὴν ἔχουσι πρὸς τῶν Δήλου οἰκητόρων. φασὶ δὲ οἱ αὐτοὶ οὗτοι καὶ τὴν Ἄργην τε καὶ τὴν Ὦπιν ἐούσας παρθένους ἐξ Ὑπερβορέων κατὰ τοὺς αὐτοὺς τούτους ἀνθρώπους πορευομένας ἀπικέσθαι ἐς Δῆλον ἔτι πρότερον Ὑπερόχης τε καὶ Λαοδίκης. 
+
+In this way, then, these maidens are honored by the inhabitants of Delos. These same Delians relate that two virgins, Arge and Opis, came from the Hyperboreans by way of the aforesaid peoples to Delos earlier than Hyperoche and Laodice; 
+#### 2
+[2] ταύτας μέν νυν τῇ Εἰλειθυίῃ ἀποφερούσας ἀντὶ τοῦ ὠκυτόκου τὸν ἐτάξαντο φόρον ἀπικέσθαι, τὴν δὲ Ἄργην τε καὶ τὴν Ὦπιν ἅμα αὐτοῖσι θεοῖσι ἀπικέσθαι λέγουσι καὶ σφι τιμὰς ἄλλας δεδόσθαι πρὸς σφέων: 
+
+[2] these latter came to bring to Eileithyia the tribute which they had agreed to pay for easing child-bearing; but Arge and Opis, they say, came with the gods themselves,1 and received honors of their own from the Delians. 
+#### 3
+[3] καὶ γὰρ ἀγείρειν σφι τὰς γυναῖκας ἐπονομαζούσας τὰ οὐνόματα ἐν τῷ ὕμνῳ τόν σφι Ὠλὴν ἀνὴρ Λύκιος ἐποίησε, παρὰ δὲ σφέων μαθόντας νησιώτας τε καὶ Ἴωνας ὑμνέειν Ὦπίν τε καὶ Ἄργην ὀνομάζοντάς τε καὶ ἀγείροντας （οὗτος δὲ ὁ Ὠλὴν καὶ τοὺς ἄλλους τοὺς παλαιοὺς ὕμνους ἐποίησε ἐκ Λυκίης ἐλθὼν τοὺς ἀειδομένους ἐν Δήλῳ）, 
+
+[3] For the women collected gifts for them, calling upon their names in the hymn made for them by Olen of Lycia; it was from Delos that the islanders and Ionians learned to sing hymns to Opis and Arge, calling upon their names and collecting gifts (this Olen, after coming from Lycia, also made the other and ancient hymns that are sung at Delos). 
+#### 4
+[4] καὶ τῶν μηρίων καταγιζομένων ἐπὶ τῷ βωμῷ τὴν σποδὸν ταύτην ἐπὶ τὴν θήκην τῆς Ὤπιός τε καὶ Ἄργης ἀναισιμοῦσθαι ἐπιβαλλομένην. ἡ δὲ θήκη αὐτέων ἐστὶ ὄπισθε τοῦ Ἀρτεμισίου, πρὸς ἠῶ τετραμμένη, ἀγχοτάτω τοῦ Κηίων ἱστιητορίου.
+
+[4] Furthermore, they say that when the thighbones are burnt in sacrifice on the altar, the ashes are all cast on the burial-place of Opis and Arge, behind the temple of Artemis, looking east, nearest the refectory of the people of Ceos.
+## c36
+#### 1
+καὶ ταῦτα μὲν Ὑπερβορέων πέρι εἰρήσθω: τὸν γὰρ περὶ Ἀβάριος λόγον τοῦ λεγομένου εἶναι Ὑπερβορέου οὐ λέγω, ὡς1 τὸν ὀιστὸν περιέφερε κατὰ πᾶσαν γῆν οὐδὲν σιτεόμενος. εἰ δὲ εἰσὶ ὑπερβόρεοι τινὲς ἄνθρωποι, εἰσὶ καὶ ὑπερνότιοι ἄλλοι. 
+
+I have said this much of the Hyperboreans, and let it suffice; for I do not tell the story of that Abaris, alleged to be a Hyperborean, who carried the arrow over the whole world, fasting all the while. But if there are men beyond the north wind, then there are others beyond the south. 
+#### 2
+[2] γελῶ δὲ ὁρέων γῆς περιόδους γράψαντας πολλοὺς ἤδη καὶ οὐδένα νοονεχόντως ἐξηγησάμενον: οἳ Ὠκεανόν τε ῥέοντα γράφουσι πέριξ τὴν γῆν ἐοῦσαν κυκλοτερέα ὡς ἀπὸ τόρνου, καὶ τὴν Ἀσίην τῇ Εὐρώπῃ ποιεύντων ἴσην. ἐν ὀλίγοισι γὰρ ἐγὼ δηλώσω μέγαθός τε ἑκάστης αὐτέων καὶ οἵη τις ἐστὶ ἐς γραφὴν ἑκάστη. 
+
+[2] And I laugh to see how many have before now drawn maps of the world, not one of them reasonably; for they draw the world as round as if fashioned by compasses, encircled by the Ocean river, and Asia and Europe of a like extent. For myself, I will in a few words indicate the extent of the two, and how each should be drawn. 
 ## c59
+#### 1
 τὰ μὲν δὴ μέγιστα οὕτω σφι εὔπορα ἐστί, τὰ δὲ λοιπὰ νόμαια κατὰ τάδε σφι διακέεται. θεοὺς μὲν μούνους τούσδε ἱλάσκονται, Ἱστίην μὲν μάλιστα, ἐπὶ δὲ Δία καὶ Γῆν, νομίζοντες τὴν Γῆν τοῦ Διὸς εἶναι γυναῖκα, μετὰ δὲ τούτους, Ἀπόλλωνά τε καὶ οὐρανίην Ἀφροδίτην καὶ Ἡρακλέα καὶ Ἄρεα. τούτους μὲν πάντες Σκύθαι νενομίκασι, οἱ δὲ καλεόμενοι βασιλήιοι Σκύθαι καὶ τῷ Ποσειδέωνι θύουσι. 
 
 The most important things are thus provided them. It remains now to show the customs which are established among them. The only gods whom they propitiate are these: Hestia in particular, and secondly Zeus and Earth, whom they believe to be the wife of Zeus; after these, Apollo, and the Heavenly Aphrodite, and Heracles, and Ares. All the Scythians worship these as gods; the Scythians called Royal sacrifice to Poseidon also. 
-
+#### 2
 [2] ὀνομάζεται δὲ σκυθιστὶ Ἱστίη μὲν Ταβιτί, Ζεὺς δὲ ὀρθότατα κατὰ γνώμην γε τὴν ἐμὴν καλεόμενος Παπαῖος, Γῆ δὲ Ἀπί. Ἀπόλλων δὲ Γοιτόσυρος, οὐρανίη δὲ Ἀφροδίτη Ἀργίμπασα, Ποσειδέων δὲ Θαγιμασάδας. ἀγάλματα δὲ καὶ βωμοὺς καὶ νηοὺς οὐ νομίζουσι ποιέειν πλὴν Ἄρεϊ. τούτῳ δὲ νομίζουσι.
 
 [2] In the Scythian tongue, Hestia is called Tabiti; Zeus (in my judgment most correctly so called) Papaeus;1 Earth is Apia; Apollo Goetosyrus; the Heavenly Aphrodite Argimpasa; Poseidon Thagimasadas. It is their practice to make images and altars and shrines for Ares, but for no other god.
 ## c60
+#### 1
 θυσίη δὲ ἡ αὐτὴ πᾶσι κατέστηκε περὶ πάντα τὰ ἱρὰ ὁμοίως, ἐρδομένη ὧδε: τὸ μὲν ἱρήιον αὐτὸ ἐμπεποδισμένον τοὺς ἐμπροσθίους πόδας ἔστηκε, ὁ δὲ θύων ὄπισθε τοῦ κτήνεος ἑστεὼς σπάσας τὴν ἀρχὴν τοῦ στρόφου καταβάλλει μιν, 
 
 In all their sacred rites they follow the same method of sacrifice; this is how it is offered. The victim stands with its forefeet shackled together; the sacrificer stands behind the beast, and throws it down by pulling the end of the rope; 
-
+#### 2
 [2] πίπτοντος δὲ τοῦ ἱρηίου ἐπικαλέει τὸν θεὸν τῷ ἂν θύῃ, καὶ ἔπειτα βρόχῳ περὶ ὦν ἔβαλε τὸν αὐχένα, σκυταλίδα δὲ ἐμβαλὼν περιάγει καὶ ἀποπνίγει, οὔτε πῦρ ἀνακαύσας οὔτε καταρξάμενος οὔτ᾽ ἐπισπείσας: ἀποπνίξας δὲ καὶ ἀποδείρας τρέπεται πρὸς ἕψησιν.
 
 [2] as the victim falls, he invokes whatever god it is to whom he sacrifices. Then, throwing a noose around the beast's neck, he thrusts in a stick and twists it and so strangles the victim, lighting no fire nor offering the first-fruits, nor pouring any libation; and having strangled and skinned the beast, he sets about cooking it.
 ## c61
+#### 1
 τῆς δὲ γῆς τῆς Σκυθικῆς αἰνῶς ἀξύλου ἐούσης ὧδε σφι ἐς τὴν ἕψησιν τῶν κρεῶν ἐξεύρηται: ἐπειδὰν ἀποδείρωσι τὰ ἱρήια, γυμνοῦσι τὰ ὀστέα τῶν κρεῶν, ἔπειτα ἐσβάλλουσι, ἢν μὲν τύχωσι ἔχοντες, ἐς λέβητας ἐπιχωρίους, μάλιστα Λεσβίοισι κρητῆρσι προσεικέλους, χωρὶς ἢ ὅτι πολλῷ μέζονας: ἐς τούτους ἐσβάλλοντες ἕψουσι ὑποκαίοντες τὰ ὀστέα τῶν ἱρηίων. ἢν δὲ μή σφι παρῇ, ὁ λέβης, οἳ δὲ ἐς τὰς γαστέρας τῶν ἱρηίων ἐσβάλλοντες τὰ κρέα πάντα καὶ παραμίξαντες ὕδωρ ὑποκαίουσι τὰ ὀστέα: 
 
 Now as the Scythian land is quite bare of wood, this is how they contrive to cook the meat. When they have skinned the victims, they strip the meat from the bones and throw it into the cauldrons of the country, if they have them: these are most like Lesbian bowls, except that they are much bigger; they throw the meat into these, then, and cook it by lighting a fire beneath with the bones of the victims. But if they have no cauldron, then they put all the meat into the victims' stomachs, adding water, and make a fire of the bones beneath, 
-
+#### 2
 [2] τὰ δὲ αἴθεται κάλλιστα, αἱ δὲ γαστέρες χωρέουσι εὐπετέως τὰ κρέα ἐψιλωμένα τῶν ὀστέων: καὶ οὕτω βοῦς τε ἑωυτὸν ἐξέψει καὶ τἆλλα ἱρήια ἑωυτὸ ἕκαστον. ἐπεὰν δὲ ἑψηθῇ τὰ κρέα, ὁ θύσας τῶν κρεῶν καὶ τῶν σπλάγχνων ἀπαρξάμενος ῥίπτει ἐς τὸ ἔμπροσθε. θύουσι δὲ καὶ τὰ ἄλλα πρόβατα καὶ ἵππους μάλιστα.
 
 [2] which burn nicely; the stomachs easily hold the meat when it is stripped from the bones; thus a steer serves to cook itself, and every other victim does likewise. When the flesh is cooked, the sacrificer takes the first-fruits of the flesh and the entrails and casts them before him. They use all grazing animals for sacrifice, but mainly horses.
 ## c62
+#### 1
 τοῖσι μὲν δὴ ἄλλοισι τῶν θεῶν οὕτω θύουσι καὶ ταῦτα τῶν κτηνέων, τῷ δὲ Ἄρεϊ ὧδε. κατὰ νομοὺς ἑκάστους τῶν ἀρχέων ἐσίδρυται σφι Ἄρεος ἱρὸν τοιόνδε φρυγάνων φάκελοι συννενέαται ὅσον τ᾽ ἐπὶ σταδίους τρεῖς μῆκος καὶ εὖρος, ὕψος δὲ ἔλασσον: ἄνω δὲ τούτου τετράγωνον ἄπεδον πεποίηται, καὶ τὰ μὲν τρία τῶν κώλων ἐστὶ ἀπότομα, κατὰ δὲ τὸ ἓν ἐπιβατόν. 
 
 This is their way of sacrificing to other gods and these are the beasts offered; but their sacrifices to Ares are of this sort. Every district in each of the governments has a structure sacred to Ares; namely, a pile of bundles of sticks three eighths of a mile wide and long, but of a lesser height, on the top of which there is a flattened four-sided surface; three of its sides are sheer, but the fourth can be ascended. 
-
+#### 2
 [2] ἔτεος δὲ ἑκάστου ἁμάξας πεντήκοντα καὶ ἑκατὸν ἐπινέουσι φρυγάνων: ὑπονοστέει γὰρ δὴ αἰεὶ ὑπὸ τῶν χειμώνων. ἐπὶ τούτου δὴ τοῦ σηκοῦ ἀκινάκης σιδήρεος ἵδρυται ἀρχαῖος ἑκάστοισι, καὶ τοῦτ᾽ ἐστὶ τοῦ Ἄρεος τὸ ἄγαλμα. τούτῳ δὲ τῷ ἀκινάκῃ θυσίας ἐπετείους προσάγουσι προβάτων καὶ ἵππων, καὶ δὴ καὶ τοῖσιδ᾽ ἔτι πλέω θύουσι ἢ τοῖσι ἄλλοισι θεοῖσι: 
 
 [2] Every year a hundred and fifty wagon-loads of sticks are heaped upon this; for the storms of winter always make it sink down. On this sacred pile an ancient scimitar of iron is set for each people: their image of Ares. They bring yearly sacrifice of sheep and goats and horses to this scimitar, offering to these symbols even more than they do to the other gods. 
-
+#### 3
 [3] ὅσους ἂν τῶν πολεμίων ζωγρήσωσι, ἀπὸ τῶν ἑκατὸν ἀνδρῶν ἄνδρα θύουσι τρόπῳ οὐ τῷ αὐτῷ καὶ τὰ πρόβατα, ἀλλ᾽ ἑτεροίῳ. ἐπεὰν γὰρ οἶνον ἐπισπείσωσι κατὰ τῶν κεφαλέων, ἀποσφάζουσι τοὺς ἀνθρώπους ἐς ἄγγος καὶ ἔπειτα ἀνενείκαντες ἄνω ἐπὶ τὸν ὄγκον τῶν φρυγάνων καταχέουσι τὸ αἷμα τοῦ ἀκινάκεω. 
 
 [3] Of enemies that they take alive, they sacrifice one man in every hundred, not as they sacrifice sheep and goats, but differently. They pour wine on the men's heads and cut their throats over a bowl; then they carry the blood up on to the pile of sticks and pour it on the scimitar. 
-
+#### 4
 [4] ἄνω μὲν δὴ φορέουσι τοῦτο, κάτω δὲ παρὰ τὸ ἱρὸν ποιεῦσι τάδε: τῶν ἀποσφαγέντων ἀνδρῶν τοὺς δεξιοὺς ὤμους πάντας ἀποταμόντες σὺν τῇσι χερσὶ ἐς τὸν ἠέρα ἱεῖσι, καὶ ἔπειτα καὶ τὰ ἄλλα ἀπέρξαντες ἱρήια ἀπαλλάσσονται. χεὶρ δὲ τῇ ἂν πέσῃ κέεται, καὶ χωρὶς ὁ νεκρός.
 
 [4] They carry the blood up above, but down below by the sacred pile they cut off all the slain men's right arms and hands and throw these into the air, and depart when they have sacrificed the rest of the victims; the arm lies where it has fallen, and the body apart from it.
@@ -760,6 +993,26 @@ But when things had to turn out badly for him, they did so for this reason: he c
 [5] εἵποντο τῶν Σκύθεων οἱ προεστεῶτες, καὶ αὐτοὺς ἀναγαγὼν ὁ Βορυσθενεΐτης λάθρῃ ἐπὶ πύργον κατεῖσε. ἐπείτε δὲ παρήιε σὺν τῷ θιάσῳ ὁ Σκύλης καὶ εἶδόν μιν βακχεύοντα οἱ Σκύθαι, κάρτα συμφορὴν μεγάλην ἐποιήσαντο, ἐξελθόντες δὲ ἐσήμαινον πάσῃ τῇ στρατιῇ τὰ ἴδοιεν. 
 
 [5] The leading men among the Scythians followed him, and the Borysthenite brought them up secretly onto a tower; from which, when Scyles passed by with his company of worshippers, they saw him playing the Bacchant; thinking it a great misfortune, they left the city and told the whole army what they had seen. 
+## c95
+ὡς δὲ ἐγὼ πυνθάνομαι τῶν τὸν Ἑλλήσποντον οἰκεόντων Ἑλλήνων καὶ Πόντον, τὸν Σάλμοξιν τοῦτον ἐόντα ἄνθρωπον δουλεῦσαι ἐν Σάμῳ, δουλεῦσαι δὲ Πυθαγόρῃ τῷ Μνησάρχου, 
+
+I understand from the Greeks who live beside the Hellespont and Pontus, that this Salmoxis was a man who was once a slave in Samos, his master being Pythagoras son of Mnesarchus; 
+
+[2] ἐνθεῦτεν δὲ αὐτὸν γενόμενον ἐλεύθερον χρήματα κτήσασθαι μεγάλα, κτησάμενον δὲ ἀπελθεῖν ἐς τὴν ἑωυτοῦ. ἅτε δὲ κακοβίων τε ἐόντων τῶν Θρηίκων καὶ ὑπαφρονεστέρων, τὸν Σάλμοξιν τοῦτον ἐπιστάμενον δίαιτάν τε Ἰάδα καὶ ἤθεα βαθύτερα ἢ κατὰ Θρήικας, οἷα Ἕλλησι τε ὁμιλήσαντα καὶ Ἑλλήνων οὐ τῷ ἀσθενεστάτῳ σοφιστῇ Πυθαγόρη, 
+
+[2] then, after being freed and gaining great wealth, he returned to his own country. Now the Thracians were a poor and backward people, but this Salmoxis knew Ionian ways and a more advanced way of life than the Thracian; for he had consorted with Greeks, and moreover with one of the greatest Greek teachers, Pythagoras; 
+
+[3] κατασκευάσασθαι ἀνδρεῶνα, ἐς τὸν πανδοκεύοντα τῶν ἀστῶν τοὺς πρώτους καὶ εὐωχέοντα ἀναδιδάσκειν ὡς οὔτε αὐτὸς οὔτε οἱ συμπόται αὐτοῦ οὔτε οἱ ἐκ τούτων αἰεὶ γινόμενοι ἀποθανέονται, ἀλλ᾽ ἥξουσι ἐς χῶρον τοῦτον ἵνα αἰεὶ περιεόντες ἕξουσι τὰ πάντα ἀγαθά. 
+
+[3] therefore he made a hall, where he entertained and fed the leaders among his countrymen, and taught them that neither he nor his guests nor any of their descendants would ever die, but that they would go to a place where they would live forever and have all good things. 
+
+[4] ἐν ᾧ δὲ ἐποίεε τὰ καταλεχθέντα καὶ ἔλεγε ταῦτα, ἐν τούτῳ κατάγαιον οἴκημα ἐποιέετο. ὡς δέ οἱ παντελέως εἶχε τὸ οἴκημα, ἐκ μὲν τῶν Θρηίκων ἠφανίσθη, καταβὰς δὲ κάτω ἐς τὸ κατάγαιον οἴκημα διαιτᾶτο ἐπ᾽ ἔτεα τρία: 
+
+[4] While he was doing as I have said and teaching this doctrine, he was meanwhile making an underground chamber. When this was finished, he vanished from the sight of the Thracians, and went down into the underground chamber, where he lived for three years, 
+
+[5] οἳ δὲ μιν ἐπόθεόν τε καὶ ἐπένθεον ὡς τεθνεῶτα. τετάρτω δὲ ἔτεϊ ἐφάνη τοῖσι Θρήιξι, καὶ οὕτω πιθανά σφι ἐγένετο τὰ ἔλεγε ὁ Σάλμοξις. ταῦτα φασί μιν ποιῆσαι.
+
+[5] while the Thracians wished him back and mourned him for dead; then in the fourth year he appeared to the Thracians, and thus they came to believe what Salmoxis had told them. Such is the Greek story about him.
 ## c105
 #### 1
 Νευροὶ δὲ νόμοισι μὲν χρέωνται Σκυθικοῖσι, γενεῇ δὲ μιῇ πρότερον σφέας τῆς Δαρείου στρατηλασίης κατέλαβε ἐκλιπεῖν τὴν χώρην πᾶσαν ὑπὸ ὀφίων: ὄφιας γάρ σφι πολλοὺς μὲν ἡ χώρη ἀνέφαινε, οἱ δὲ πλεῦνες ἄνωθέν σφι ἐκ τῶν ἐρήμων ἐπέπεσον, ἐς ὃ πιεζόμενοι οἴκησαν μετὰ Βουδίνων τὴν ἑωυτῶν ἐκλιπόντες. κινδυνεύουσι δὲ οἱ ἄνθρωποι οὗτοι γόητες εἶναι. 
@@ -773,6 +1026,51 @@ The Neuri follow Scythian customs; but one generation before the advent of Dariu
 ἀνδροφάγοι δὲ ἀγριώτατα πάντων ἀνθρώπων ἔχουσι ἤθεα, οὔτε δίκην νομίζοντες οὔτε νόμῳ οὐδενὶ χρεώμενοι: νομάδες δὲ εἰσι, ἐσθῆτά τε φορέουσι τῇ Σκυθικῇ ὁμοίην, γλῶσσαν δὲ ἰδίην, ἀνδροφαγέουσι δὲ μοῦνοι τούτων.
 
 The Man-eaters are the most savage of all men in their way of life; they know no justice and obey no law. They are nomads, wearing a costume like the Scythian, but speaking a language of their own; of all these, they are the only people that eat men.
+## c110
+110-117???amazon,scythian,sauromatae
+#### 1
+Σαυροματέων δὲ πὲρι ὧδε λέγεται. ὅτε Ἕλληνες Ἀμαζόσι ἐμαχέσαντο （τὰς δὲ Ἀμαζόνας καλέουσι Σκύθαι Οἰόρπατα, δύναται δὲ τὸ οὔνομα τοῦτο κατὰ Ἑλλάδα γλῶσσαν ἀνδροκτόνοι: οἰὸρ γὰρ καλέουσι ἄνδρα, τὸ δὲ πατὰ κτείνειν）, τότε λόγος τοὐς Ἕλληνας νικήσαντας τῇ ἐπὶ Θερμώδοντι μάχη ἀποπλέειν ἄγοντας τρισὶ πλοίοισι τῶν Ἀμαζόνων ὅσας ἐδυνέατο ζωγρῆσαι, τὰς δὲ ἐν τῷ πελάγει ἐπιθεμένας ἐκκόψαι τοὺς ἄνδρας. 
+
+About the Sauromatae, the story is as follows. When the Greeks were at war with the Amazons (whom the Scythians call Oiorpata, a name signifying in our tongue killers of men, for in Scythian a man is “oior” and to kill is “pata”), the story runs that after their victory on the Thermodon they sailed away carrying in three ships as many Amazons as they had been able to take alive; and out at sea the Amazons attacked the crews and killed them. 
+#### 2
+[2] πλοῖα δὲ οὐ γινώσκειν αὐτὰς οὐδὲ πηδαλίοισι χρᾶσθαι οὐδὲ ἱστίοισι οὐδὲ εἰρεσίῃ: ἀλλ᾽ ἐπεὶ ἐξέκοψαν τοὺς ἄνδρας ἐφέροντο κατὰ κῦμα καὶ ἄνεμον, καὶ ἀπικνέονται τῆς λίμνης τῆς Μαιήτιδος ἐπὶ Κρημνούς: οἱ δὲ Κρημνοὶ εἰσὶ γῆς τῆς Σκυθέων τῶν ἐλευθέρων. ἐνθαῦτα ἀποβᾶσαι ἀπὸ τῶν πλοίων αἱ Ἀμαζόνες ὁδοιπόρεον ἐς τὴν οἰκεομένην. ἐντυχοῦσαι δὲ πρώτῳ ἱπποφορβίῳ τοῦτο διήρπασαν, καὶ ἐπὶ τούτων ἱππαζόμεναι ἐληίζοντο τὰ τῶν Σκυθέων.
+
+[2] But they knew nothing about ships, or how to use rudder or sail or oar; and with the men dead, they were at the mercy of waves and winds, until they came to the Cliffs by the Maeetian lake; this place is in the country of the free Scythians. The Amazons landed there, and set out on their journey to the inhabited country, and seizing the first troop of horses they met, they mounted them and raided the Scythian lands.
+## c111
+#### 1
+οἱ δὲ Σκύθαι οὐκ εἶχον συμβαλέσθαι τὸ πρῆγμα: οὔτε γὰρ φωνὴν οὔτε ἐσθῆτα οὔτε τὸ ἔθνος ἐγίνωσκον, ἀλλ᾽ ἐν θώματι ἦσαν ὁκόθεν ἔλθοιεν, ἐδόκεον δ᾽ αὐτὰς εἶναι ἄνδρας τὴν αὐτὴν ἡλικίην ἔχοντας, μάχην τε δὴ πρὸς αὐτὰς ἐποιεῦντο. ἐκ δὲ τῆς μάχης τῶν νεκρῶν ἐκράτησαν οἱ Σκύθαι, καὶ οὕτω ἔγνωσαν ἐούσας γυναῖκας. 
+
+The Scythians could not understand the business; for they did not recognize the women's speech or their dress or their nation, but wondered where they had come from, and imagined them to be men all of the same age; and they met the Amazons in battle. The result of the fight was that the Scythians got possession of the dead, and so came to learn that their foes were women. 
+#### 2
+[2] βουλευομένοισι ὦν αὐτοῖσι ἔδοξε κτείνειν μὲν οὐδενὶ τρόπῳ ἔτι αὐτάς, ἑωυτῶν δὲ τοὺς νεωτάτους ἀποπέμψαι ἐς αὐτάς, πλῆθος εἰκάσαντας ὅσαι περ ἐκεῖναι ἦσαν τούτους δὲ στρατοπεδεύεσθαι πλησίον ἐκεινέων καὶ ποιέειν τὰ περ ἂν καὶ ἐκεῖναι ποιέωσι. ἢν δὲ αὐτοὺς διώκωσι, μάχεσθαι μὲν μή, ὑποφεύγειν δέ: ἐπεὰν δὲ παύσωνται, ἐλθόντας αὖτις πλησίον στρατοπεδεύεσθαι. ταῦτα ἐβουλεύσαντο οἱ Σκύθαι βουλόμενοι ἐξ αὐτέων παῖδας ἐκγενήσεσθαι. ἀποπεμφθέντες δὲ οἱ νεηνίσκοι ἐποίευν τὰ ἐντεταλμένα.
+
+[2] Therefore, after deliberation they resolved by no means to slay them as before, but to send their youngest men to them, of a number corresponding (as they guessed) to the number of the women. They directed these youths to camp near the Amazons and to imitate all that they did; if the women pursued them, not to fight, but to flee; and when the pursuit stopped, to return and camp near them. This was the plan of the Scythians, for they desired that children be born of the women. The young men who were sent did as they were directed.
+## c114
+#### 1
+μετὰ δὲ συμμίξαντες τὰ στρατόπεδα οἴκεον ὁμοῦ, γυναῖκα ἔχων ἕκαστος ταύτην τῇ τὸ πρῶτον συνεμίχθη. τὴν δὲ φωνὴν τὴν μὲν τῶν γυναικῶν οἱ ἄνδρες οὐκ ἐδυνέατο μαθεῖν, τὴν δὲ τῶν ἀνδρῶν αἱ γυναῖκες συνέλαβον. 
+
+Presently they joined their camps and lived together, each man having for his wife the woman with whom he had had intercourse at first. Now the men could not learn the women's language, but the women mastered the speech of the men; 
+#### 2
+[2] ἐπεὶ δὲ συνῆκαν ἀλλήλων, ἔλεξαν πρὸς τὰς Ἀμαζόνας τάδε οἱ ἄνδρες. ‘ἡμῖν εἰσὶ μὲν τοκέες, εἰσὶ δὲ κτήσιες: νῦν ὦν μηκέτι πλεῦνα χρόνον ζόην τοιήνδε ἔχωμεν, ἀλλ᾽ ἀπελθόντες ἐς τὸ πλῆθος διαιτώμεθα. γυναῖκας δὲ ἕξομεν ὑμέας καὶ οὐδαμὰς ἄλλας.’ αἳ δὲ πρὸς ταῦτα ἔλεξαν τάδε. 
+
+[2] and when they understood each other, the men said to the Amazons, “We have parents and possessions; therefore, let us no longer live as we do, but return to our people and be with them; and we will still have you, and no others, for our wives.” To this the women replied: 
+#### 3
+[3] ‘ἡμεῖς οὐκ ἂν δυναίμεθα οἰκέειν μετὰ τῶν ὑμετερέων γυναικῶν: οὐ γὰρ τὰ αὐτὰ νόμαια ἡμῖν τε κἀκείνῃσι ἐστί. ἡμεῖς μὲν τοξεύομέν τε καὶ ἀκοντίζομεν καὶ ἱππαζόμεθα, ἔργα δὲ γυναικήια οὐκ ἐμάθομεν: αἱ δὲ ὑμέτεραι γυναῖκες τούτων μὲν οὐδὲν τῶν ἡμεῖς κατελέξαμεν ποιεῦσι, ἔργα δὲ γυναικήια ἐργάζονται μένουσαι ἐν τῇσι ἁμάξῃσι, οὔτ᾽ ἐπὶ θήρην ἰοῦσαι οὔτε ἄλλῃ οὐδαμῇ. 
+
+[3] “We could not live with your women; for we and they do not have the same customs. We shoot the bow and throw the javelin and ride, but have never learned women's work; and your women do none of the things of which we speak, but stay in their wagons and do women's work, and do not go out hunting or anywhere else. 
+#### 4
+[4] οὐκ ἂν ὦν δυναίμεθα ἐκείνῃσι συμφέρεσθαι. ἀλλ᾽ εἰ βούλεσθε γυναῖκας ἔχειν ἡμέας καὶ δοκέειν εἶναι δίκαιοι, ἐλθόντες παρὰ τοὺς τοκέας ἀπολάχετε τῶν κτημάτων τὸ μέρος, καὶ ἔπειτα ἐλθόντες οἰκέωμεν ἐπὶ ἡμέων αὐτῶν.’ ἐπείθοντο καὶ ἐποίησαν ταῦτα οἱ νεηνίσκοι.
+
+[4] So we could never agree with them. If you want to keep us for wives and to have the name of fair men, go to your parents and let them give you the allotted share of their possessions, and after that let us go and live by ourselves.” The young men agreed and did this.
+## c116
+#### 1
+ἐπείθοντο καὶ ταῦτα οἱ νεηνίσκοι, διαβάντες δὲ τὸν Τάναϊν ὁδοιπόρεον πρὸς ἥλιον ἀνίσχοντα τριῶν μὲν ἡμερέων ἀπὸ τοῦ Τανάιδος ὁδόν, τριῶν δὲ ἀπὸ τῆς λίμνης τῆς Μαιήτιδος πρὸς βορέην ἄνεμον. ἀπικόμενοι δὲ ἐς τοῦτον τὸν χῶρον ἐν τῷ νυν κατοίκηνται, οἴκησαν τοῦτον. 
+
+To this too the youths agreed; and crossing the Tanaïs, they went a three days' journey east from the river, and a three days' journey north from lake Maeetis; and when they came to the region in which they now live, they settled there. 
+#### 2
+[2] καὶ διαίτῃ ἀπὸ τούτου χρὲωνται τῇ παλαιῇ τῶν Σαυροματέων αἱ γυναῖκες, καὶ ἐπὶ θήρην ἐπ᾽ ἵππων ἐκφοιτῶσαι ἅμα τοῖσι ἀνδράσι καὶ χωρὶς τῶν ἀνδρῶν, καὶ ἐς πόλεμον φοιτῶσαι καὶ στολὴν τὴν αὐτὴν τοῖσι ἀνδράσι φορέουσαι.
+
+[2] Ever since then the women of the Sauromatae have followed their ancient ways; they ride out hunting, with their men or without them; they go to war, and dress the same as the men.
 ## c159
 ἐπὶ μέν νυν Βάττου τε τοῦ οἰκιστέω τῆς ζόης, ἄρξαντος ἐπὶ τεσσεράκοντα ἔτεα, καὶ τοῦ παιδὸς αὐτοῦ Ἀρκεσίλεω ἄρξαντος ἑκκαίδεκα ἔτεα, οἴκεον οἱ Κυρηναῖοι ἐόντες τοσοῦτοι ὅσοι ἀρχὴν ἐς τὴν ἀποικίην ἐστάλησαν. 
 

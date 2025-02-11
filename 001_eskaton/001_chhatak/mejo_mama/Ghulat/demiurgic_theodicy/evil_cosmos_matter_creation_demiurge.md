@@ -27,8 +27,8 @@ agatha on dynamis bulesis theos :
 ### 30b
 ![[pl.tim#30b]]
 ## republic 6,7
-[[pl.republic#b6]]
-[[pl.republic#b7]]
+[[pl.rep#b6]]
+[[pl.rep#b7]]
 TODO
 
 Cosmos prison

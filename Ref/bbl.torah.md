@@ -98,6 +98,10 @@ And God looked upon the earth, and, behold, it was corrupt; for all flesh had co
 
 And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.
 ## c6
+#### 2
+וַיִּרְא֤וּ בְנֵי־הָֽאֱלֹהִים֙ אֶת־בְּנ֣וֹת הָֽאָדָ֔ם כִּ֥י טֹבֹ֖ת הֵ֑נָּה וַיִּקְח֤וּ לָהֶם֙ נָשִׁ֔ים מִכֹּ֖ל אֲשֶׁ֥ר בָּחָֽרוּ ׃
+
+That the sons of God saw the daughters of men that they [were] fair; and they took them wives of all which they chose.
 #### 5
 וַיַּ֣רְא יְהוָ֔ה כִּ֥י רַבָּ֛ה רָעַ֥ת הָאָדָ֖ם בָּאָ֑רֶץ וְכָל־יֵ֙צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ רַ֥ק רַ֖ע כָּל־הַיּֽוֹם ׃
 

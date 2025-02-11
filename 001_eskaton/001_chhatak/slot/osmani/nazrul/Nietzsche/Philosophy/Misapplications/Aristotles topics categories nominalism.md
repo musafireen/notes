@@ -8,7 +8,7 @@
 εἶδος
 ![[pl.phaedon#103e#2]]
 
-![[pl.republic#596a#4]]
+![[pl.rep#596a#4]]
 
 
 # idea
@@ -16,7 +16,7 @@
 
 ![[pl.phaedr#265b#2]]
 
-![[pl.republic#507b#3]]
+![[pl.rep#507b#3]]
 # phenomena
 
 # noumena

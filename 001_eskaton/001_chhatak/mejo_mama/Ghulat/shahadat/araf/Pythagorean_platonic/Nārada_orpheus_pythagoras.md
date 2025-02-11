@@ -4,10 +4,10 @@
 7 strings for 7 spheres of heaven
 
 c b70 soul needs cithera to ascend
-:varro
+:varro:mlwest
 
-c 100 use lyre for soul to return to sphere
-:cicero
+c 100 use lyre/nerve for soul to return to sphere
+:[[cic#rep#b6#c18]]
 
 # vīnā of nārada
 
@@ -59,7 +59,7 @@ during roman time
 # soul immortality
 
 [[pl.phaedon]]
-[[pl.republic]]
+[[pl.rep]]
 
 # reincarnation
 
@@ -93,7 +93,7 @@ Lyre-staked Head of orpheus used by thracian lesbian women for prophecy
 
 # misogyny
 orpheus reincarnated as swan for distaste for women
-:[[pl.republic]]
+:[[pl.rep]]
 
 Women tatooed by husbands for killing orpheus 
 Plutarch

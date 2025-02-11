@@ -1990,7 +1990,7 @@ And from the Alexander of Euripides: "But time will show; and learning, by that 
 πάνθ' ὁρῶν καὶ πάντ' ἀκούων πάντ' ἀναπτύσσει χρόνος. 
 
 And from the Hipponos of Sophocles: "Besides, conceal thou nought; since Time, That sees all, hears all, all things will unfold."
-
+#### s11
 6.2.11.1 Ἀλλὰ κἀκεῖνα
 
 ὁμοίως ἐπιδράμωμεν. Εὐμήλου γὰρ ποιήσαντος· Μνημοσύνης καὶ Ζηνὸς Ὀλυμπίου
@@ -2028,7 +2028,7 @@ And of what father dost thou call thyself the son?"
 And what? Theognis having said: "Wine largely drunk is bad; but if one use It with discretion, 'tis not bad, but good,"- does not Panyasis write?
 
 "Above the gods' best gift to men ranks wine, In measure drunk; but in excess the worst."
-
+#### s12
 6.2.12.1 Ἀλλὰ καὶ Ἡσιόδου λέγοντος· σοὶ δ' ἐγὼ ἀντὶ πυρὸς δώσω κακόν, ᾧ κεν ἅπαντες τέρπωνται, 
 
 Hesiod, too, saying: "But for the fire to thee I'll give a plague,
@@ -2070,7 +2070,7 @@ One sometimes must with others play the fool."
 πέλονται, 6.2.12.8 Ἀγίας ἐποίησεν· δῶρα γὰρ ἀνθρώπων νοῦν ἤπαφεν ἠδὲ καὶ ἔργα. 
 
 And Antimachus of Teos having said: "From gifts, to mortals many ills arise,"- Augias composed the line: "For gifts men's mind and acts deceive."
-
+#### s13
 6.2.13.1 Ἡσιόδου δὲ εἰπόντος· οὐ μὲν γάρ τι γυναικὸς ἀνὴρ ληίζετ' ἄμεινον τῆς
 
 ἀγαθῆς· τῆς δ' αὖτε κακῆς οὐ ῥίγιον ἄλλο, 6.2.13.2 Σιμωνίδης εἶπεν· γυναικὸς δ' 
@@ -2120,7 +2120,7 @@ Now grow'st thou, and thou now decay'st away.
 τοὺς ἔχοντας ἀναπαύσας ὕπνῳ. 
 
 And there is set no limit, no, not one, For mortals of their course to make an end, Except when Death's remorseless final end Comes, sent from Zeus,"- Diphilus writes: "There is no life which has not its own ills, Pains, cares, thefts, and anxieties, disease; And Death, as a physician, coming, gives Rest to their victims in his quiet sleep."
-
+#### s14
 6.2.14.1 Ἔτι τοῦ Εὐριπίδου εἰπόντος· πολλαὶ μορφαὶ
 
 τῶν δαιμονίων, πολλὰ δ' ἀέλπτως κραίνουσι θεοί, 6.2.14.2 ὁ τραγικὸς ὁμοίως
@@ -2164,7 +2164,7 @@ For Anacreon, having written: "Luxurious love I sing, With flowery garlands grac
 ταράσσει κἀπὶ πόντον ἔρχεται. 
 
 Euripides writes : "For love not only men attacks, And women; but disturbs The souls of gods above, and to the sea Descends."
-
+#### s15
 6.2.15.1 Ἀλλ' ἵνα μὴ ἐπὶ πλέον προΐῃ ὁ λόγος
 
 φιλοτιμουμένων ἡμῶν τὸ εὐεπίφορον εἰς κλοπὴν τῶν Ἑλλήνων κατὰ τοὺς λόγους
@@ -2184,7 +2184,7 @@ Euripides writes : "For love not only men attacks, And women; but disturbs The s
 καινὸν καὶ πολυειδῆ τὸν λόγον ποιήσομαι. 
 
 But not to protract the discourse further, in our anxiety to show the propensity of the Greeks to plagiarism in expressions and dogmas, allow us to adduce the express testimony of Hippias, the sophist of Elea, who discourses on the point in hand, and speaks thus: "Of these things some perchance are said by Orpheus, some briefly by Musaeus; some in one place, others in other places; some by Hesiod, some by Homer, some by the rest of the poets; and some in prose compositions, some by Greeks, some by Barbarians. And I from all these, placing together the things of most importance and of kindred character, will make the present discourse new and varied."
-
+#### s16
 6.2.16.1 Ὡς δὲ μὴ ἄμοιρον τήν τε
 
 φιλοσοφίαν τήν τε ἱστορίαν, ἀλλὰ μηδὲ τὴν ῥητορικὴν τοῦ ὁμοίου ἐλέγχου
@@ -2214,227 +2214,208 @@ And Euripides having said in Telephus: "Shall we Greeks be slaves to Barbarians?
 δουλεύσομεν Ἕλληνες ὄντες βαρβάρῳ; 
 
 Thrasymachus, in the oration for the Larissaeans, says: "Shall we be slaves to Archelaus -- Greeks to a Barbarian?"
+#### s17
+##### 1
+6.2.17.1 Ὀρφέως δὲ ποιήσαντος· ἔστιν ὕδωρ ψυχῇ, θάνατος δ' ὑδάτεσ<σ>ιν ἀμοιβή, ἐκ δὲ ὕδατος <μὲν> γαῖα, τὸ δ' ἐκ γαίας πάλιν ὕδωρ· ἐκ τοῦ δὴ ψυχὴ ὅλον αἰθέρα ἀλλάσσουσα· 
 
-6.2.17.1 Ὀρφέως δὲ ποιήσαντος· ἔστιν ὕδωρ
+And Orpheus having said: "Water is the change for soul, and death for water; From water is earth, and what comes from earth is again water, And from that, soul, which changes the whole ether;" 
+##### 2
+6.2.17.2 Ἡράκλειτος ἐκ τούτων συνιστάμενος τοὺς λόγους ὧδέ πως γράφει· ψυχῇσιν θάνατος ὕδωρ γενέσθαι, ὕδατι δὲ θάνατος γῆν γενέσθαι, ἐκ γῆς δὲ ὕδωρ γίνεται, ἐξ ὕδατος δὲ ψυχή. 
 
-ψυχῇ, θάνατος δ' ὑδάτεσ<σ>ιν ἀμοιβή, ἐκ δὲ ὕδατος <μὲν> γαῖα, τὸ δ' ἐκ γαίας πάλιν
+and Heraclitus, putting together the expressions from these lines, writes thus: "It is death for souls to become water, and death for water to become earth; and from earth comes water, and from water soul."
+##### ?
+6.2.17.3 Ναὶ μὴν Ἀθάμαντος τοῦ Πυθαγορείου εἰπόντος ὧδε ἀγέννατος παντὸς ἀρχὰ καὶ ῥιζώματα τέσσαρα τυγχάνοντι, πῦρ, ὕδωρ, ἀήρ, γῆ· 
 
-ὕδωρ· ἐκ τοῦ δὴ ψυχὴ ὅλον αἰθέρα ἀλλάσσουσα· 6.2.17.2 Ἡράκλειτος ἐκ τούτων
+And Athamas the Pythagorean having said, "Thus was produced the beginning of the universe; and there are four roots -- fire, water, air, earth: 
 
-συνιστάμενος τοὺς λόγους ὧδέ πως γράφει· ψυχῇσιν θάνατος ὕδωρ γενέσθαι, ὕδατι
+ἐκ τούτων γὰρ αἱ γενέσεις τῶν γινομένων 
 
-δὲ θάνατος γῆν γενέσθαι, ἐκ γῆς δὲ ὕδωρ γίνεται, ἐξ ὕδατος δὲ ψυχή. 
+for from these is the origination of what is produced," -- 
 
-And Orpheus having said: "Water is the change for soul, and death for water; From water is earth, and what comes from earth is again water, And from that, soul, which changes the whole ether;" and Heraclitus, putting together the expressions from these lines, writes thus: "It is death for souls to become water, and death for water to become earth; and from earth comes water, and from water soul."
+ὁ Ἀκραγαντῖνος 6.2.17.4 ἐποίησεν Ἐμπεδοκλῆς· 
 
-6.2.17.3 Ναὶ
+Empedocles of Agrigentum wrote : 
 
-μὴν Ἀθάμαντος τοῦ Πυθαγορείου εἰπόντος ὧδε ἀγέννατος παντὸς ἀρχὰ καὶ
+τέσσαρα τῶν πάντων ῥιζώματα πρῶτον ἄκουε· πῦρ καὶ ὕδωρ καὶ γαῖαν ἰδ' αἰθέρος ἄπλετον ὕψος· ἐκ γὰρ τῶν ὅσα τ' ἦν ὅσα τ' ἔσσεται ὅσσα τ' ἔασιν. 
 
-ῥιζώματα τέσσαρα τυγχάνοντι, πῦρ, ὕδωρ, ἀήρ, γῆ· 
-
-And Athamas the Pythagorean having said, "Thus was produced the beginning of the universe; and there are four roots -- fire, water, air, earth: for from these is the origination of what is produced," -- 
-
-ἐκ τούτων γὰρ αἱ γενέσεις τῶν
-
-γινομένων ὁ Ἀκραγαντῖνος 6.2.17.4 ἐποίησεν Ἐμπεδοκλῆς· τέσσαρα τῶν πάντων
-
-ῥιζώματα πρῶτον ἄκουε· πῦρ καὶ ὕδωρ καὶ γαῖαν ἰδ' αἰθέρος ἄπλετον ὕψος· ἐκ γὰρ
-
-τῶν ὅσα τ' ἦν ὅσα τ' ἔσσεται ὅσσα τ' ἔασιν. 
-
-Empedocles of Agrigentum wrote : "The four roots of all things first do thou hear- Fire, water, earth, and ether's boundless height:
+"The four roots of all things first do thou hear- Fire, water, earth, and ether's boundless height:
 
 For of these all that was, is, shall be, comes."
 
-6.2.17.5 Καὶ Πλάτωνος μὲν λέγοντος διὰ
+6.2.17.5 Καὶ Πλάτωνος μὲν λέγοντος 
 
-τοῦτο καὶ <οἱ> θεοὶ τῶν ἀν6.2.17.5 θρωπείων ἐπιστήμονες, οὓς ἂν διὰ πλείστου
+And Plato having said,
 
-ποιῶνται, θᾶττον ἀπαλ6.2.17.6 λάττουσι τοῦ ζῆν 
+διὰ τοῦτο καὶ <οἱ> θεοὶ τῶν ἀν6.2.17.5 θρωπείων ἐπιστήμονες, οὓς ἂν διὰ πλείστου ποιῶνται, θᾶττον ἀπαλ6.2.17.6 λάττουσι τοῦ ζῆν 
 
-And Plato having said,"Wherefore also the gods, knowing men, release sooner from life those they value most,
+"Wherefore also the gods, knowing men, release sooner from life those they value most,
 
-Μένανδρος πεποίηκεν· ὃν οἱ θεοὶ
-
-φιλοῦσιν, ἀποθνῄσκει νέος. 
+Μένανδρος πεποίηκεν· ὃν οἱ θεοὶ φιλοῦσιν, ἀποθνῄσκει νέος. 
 
 "Menander wrote: "Whom the gods love, dies young."
+#### s18
+6.2.18.1 Εὐριπίδου δὲ ἐν μὲν τῷ Οἰνομάῳ γράφοντος· τεκμαιρόμεσθα τοῖς παροῦσι τὰ ἀφανῆ, 6.2.18.2 ἐν δὲ τῷ Φοίνικι· τὰ ἀφανῆ τεκμηρίοισιν εἰκότως ἁλίσκεται, 
 
-6.2.18.1 Εὐριπίδου δὲ ἐν μὲν τῷ Οἰνομάῳ γράφοντος·
+And Euripides having written in the OEnomaus: "We judge of things obscure from what we see;" and in the Phoenix: "By signs the obscure is fairly grasped?- 
 
-τεκμαιρόμεσθα τοῖς παροῦσι τὰ ἀφανῆ, 6.2.18.2 ἐν δὲ τῷ Φοίνικι· τὰ ἀφανῆ
+6.2.18.3 Ὑπερείδης λέγει· ἃ δ' ἐστὶν ἀφανῆ, ἀνάγκη τοὺς διδάσκοντας τεκμηρίοις καὶ τοῖς εἰκόσι ζητεῖν. 
 
-τεκμηρίοισιν εἰκότως ἁλίσκεται, 6.2.18.3 Ὑπερείδης λέγει· ἃ δ' ἐστὶν ἀφανῆ, ἀνάγκη
+Hyperides says, "But we must investigate things unseen by learning from signs and probabilities." 
 
-τοὺς διδάσκοντας τεκμηρίοις καὶ τοῖς εἰκόσι ζητεῖν. 6.2.18.4 Ἰσοκράτους τε αὖ
+6.2.18.4 Ἰσοκράτους τε αὖ εἰπόντος δεῖ δὲ τὰ μέλλοντα τοῖς προγεγενη 6.2.18.5 μένοις τεκμαίρεσθαι 
 
-εἰπόντος δεῖ δὲ τὰ μέλλοντα τοῖς προγεγενη 6.2.18.5 μένοις τεκμαίρεσθαι Ἀνδοκίδης
+And Isocrates having said, "We must conjecture the future by the past," 
 
-οὐκ ὀκνεῖ λέγειν· χρὴ γὰρ τεκμηρίοις χρῆσθαι τοῖς πρότερον γενομένοις περὶ τῶν
+Ἀνδοκίδης οὐκ ὀκνεῖ λέγειν· χρὴ γὰρ τεκμηρίοις χρῆσθαι τοῖς πρότερον γενομένοις περὶ τῶν μελλόντων ἔσεσθαι. 6.2.18.6 
 
-μελλόντων ἔσεσθαι. 6.2.18.6 Ἔτι Θεόγνιδος ποιήσαντος· χρυσοῦ κιβδήλοιο καὶ
+Andocides does not shrink from saying, "For we must make use of what has happened previously as signs in reference to what is to be." 
 
-ἀργύρου ἄ<ν>σχετος ἄτη, Κύρνε, καὶ ἐξευρεῖν ῥᾴδιον ἀνδρὶ σοφῷ· εἰ δὲ φίλου νόος
+Ἔτι Θεόγνιδος ποιήσαντος· χρυσοῦ κιβδήλοιο καὶ ἀργύρου ἄ<ν>σχετος ἄτη, Κύρνε, καὶ ἐξευρεῖν ῥᾴδιον ἀνδρὶ σοφῷ· εἰ δὲ φίλου νόος ἀνδρὸς ἐνὶ στήθεσ<σ>ι λέληθεν ψυδρὸς ἐών, δόλιον δ' ἐν φρεσὶν ἦτορ ἔχει, τοῦτο θεὸς κιβδηλότατον ποίησε βροτοῖσι, καὶ γνῶναι πάντων τοῦτ' ἀνιαρότερον, 6.2.18.7 
 
-ἀνδρὸς ἐνὶ στήθεσ<σ>ι λέληθεν ψυδρὸς ἐών, δόλιον δ' ἐν φρεσὶν ἦτορ ἔχει, τοῦτο
+Besides, Theognis having said : "The evil of counterfeit silver and gold is not intoler able, O Cyrnus, and to a wise man is not difficult of detection; But if the mind of a friend is hidden in his breast, If he is false, and has a treacherous heart within, This is the basest thing for mortals, caused by God, And of all things the hardest to detect,"- 
 
-θεὸς κιβδηλότατον ποίησε βροτοῖσι, καὶ γνῶναι πάντων τοῦτ' ἀνιαρότερον, 6.2.18.7 
+Εὐριπίδης μὲν γὰρ γράφει· ὦ Ζεῦ, τί δὴ χρυσοῦ μὲν ὃς κίβδηλος ἦν, τεκμήρια ἀνθρώποισιν ὤπασας σαφῆ, ἀνδρῶν δὲ ὅτῳ χρὴ τὸν κακὸν διειδέναι, οὐδεὶς χαρακτὴρ ἐμπέφυκε σώματι; 
 
-Εὐριπίδης μὲν γὰρ γράφει· ὦ Ζεῦ, τί δὴ χρυσοῦ μὲν ὃς κίβδηλος ἦν, τεκμήρια
+Euripides writes : "Oh Zeus, why hast thou given to men clear tests Of spurious gold, while on the body grows No mark sufficing to discover clear The wicked man?"
 
-ἀνθρώποισιν ὤπασας σαφῆ, ἀνδρῶν δὲ ὅτῳ χρὴ τὸν κακὸν διειδέναι, οὐδεὶς
-
-χαρακτὴρ ἐμπέφυκε σώματι; 
-
-And Euripides having written in the OEnomaus: "We judge of things obscure from what we see;" and in the Phoenix: "By signs the obscure is fairly grasped?- Hyperides says, "But we must investigate things unseen by learning from signs and probabilities." And Isocrates having said, "We must conjecture the future by the past," Andocides does not shrink from saying, "For we must make use of what has happened previously as signs in reference to what is to be." Besides, Theognis having said : "The evil of counterfeit silver and gold is not intoler able, O Cyrnus, and to a wise man is not difficult of detection; But if the mind of a friend is hidden in his breast, If he is false, and has a treacherous heart within, This is the basest thing for mortals, caused by God, And of all things the hardest to detect,"- Euripides writes : "Oh Zeus, why hast thou given to men clear tests Of spurious gold, while on the body grows No mark sufficing to discover clear The wicked man?"
-
-6.2.18.8 Ὑπερείδης δὲ καὶ αὐτὸς λέγει· χαρακτὴρ οὐδεὶς
-
-ἔπεστιν ἐπὶ τοῦ προσώπου τῆς διανοίας τοῖς ἀνθρώποις. 
+6.2.18.8 Ὑπερείδης δὲ καὶ αὐτὸς λέγει· χαρακτὴρ οὐδεὶς ἔπεστιν ἐπὶ τοῦ προσώπου τῆς διανοίας τοῖς ἀνθρώποις. 
 
 Hyperides himself also says, "There is no feature of the mind impressed on the countenance Of men."
+#### s19
+6.2.19.1 Πάλιν Στασίνου ποιήσαντος· νήπιος ὃς πατέρα κτείνων παῖδας καταλείπει, 
 
-6.2.19.1 Πάλιν Στασίνου
+Again, Stasinus having composed the line: "Fool, who, having slain the father, leaves the children,"- 
 
-ποιήσαντος· νήπιος ὃς πατέρα κτείνων παῖδας καταλείπει, 6.2.19.2 Ξενοφῶν λέγει·
+6.2.19.2 Ξενοφῶν λέγει· ὁμοίως γάρ μοι νῦν φαίνομαι πεποιηκέναι, ὡς εἴ τις πατέρα ἀποκτείνας τῶν παίδων αὐτοῦ φείσαιτο. 
 
-ὁμοίως γάρ μοι νῦν φαίνομαι πεποιηκέναι, ὡς εἴ τις πατέρα ἀποκτείνας τῶν παίδων
+Xenophon says, "For I seem to myself to have acted in like manner, as if one who killed the father should spare his children." 
 
-αὐτοῦ φείσαιτο. 6.2.19.3 Σοφοκλέους τε ἐν Ἀντιγόνῃ ποιήσαντος· μητρός τε ἐν
+6.2.19.3 Σοφοκλέους τε ἐν Ἀντιγόνῃ ποιήσαντος· μητρός τε ἐν
 
-Ἅιδου καὶ πατρὸς τετευχότων, οὐκ ἔστ' ἀδελφὸς ὅστις ἂν βλάστοι ποτέ, 6.2.19.4 
+Ἅιδου καὶ πατρὸς τετευχότων, οὐκ ἔστ' ἀδελφὸς ὅστις ἂν βλάστοι ποτέ, 
 
-Ἡρόδοτος λέγει· μητρὸς καὶ πατρὸς οὐκ ἔτ' ὄντων, ἀδελφὸν ἄλλον οὐχ ἕξω. 6.2.19.5 
+And Sophocles having written in the Antigone: "Mother and father being in Hades now, No brother ever can to me spring forth?- 
 
-Πρὸς τούτοις Θεοπόμπου ποιήσαντος· δὶς παῖδες οἱ γέροντες ὀρθῷ τῷ λόγῳ, 
+6.2.19.4 Ἡρόδοτος λέγει· μητρὸς καὶ πατρὸς οὐκ ἔτ' ὄντων, ἀδελφὸν ἄλλον οὐχ ἕξω.  
 
-Again, Stasinus having composed the line: "Fool, who, having slain the father, leaves the children,"- Xenophon says, "For I seem to myself to have acted in like manner, as if one who killed the father should spare his children." And Sophocles having written in the Antigone: "Mother and father being in Hades now, No brother ever can to me spring forth?- Herodotus says, "Mother and father being no more, I shall not have another brother." In addition to these, Theopompus having written: "Twice children are old men in very truth;"
+Herodotus says, "Mother and father being no more, I shall not have another brother." 
 
-6.2.19.6 
+6.2.19.5 Πρὸς τούτοις Θεοπόμπου ποιήσαντος· δὶς παῖδες οἱ γέροντες ὀρθῷ τῷ λόγῳ, 
 
-καὶ πρό γε τούτου Σοφοκλέους ἐν τῷ Πηλεῖ· Πηλέα τὸν Αἰάκειον οἰκουρὸς μόνη
+In addition to these, Theopompus having written: "Twice children are old men in very truth;"
 
-γερονταγωγῶ καὶ ἀναπαιδεύω <πάλιν>· πάλιν γὰρ αὖθις παῖς ὁ γηράσκων ἀνήρ, 
+6.2.19.6  καὶ πρό γε τούτου Σοφοκλέους ἐν τῷ Πηλεῖ· Πηλέα τὸν Αἰάκειον οἰκουρὸς μόνη γερονταγωγῶ καὶ ἀναπαιδεύω <πάλιν>· πάλιν γὰρ αὖθις παῖς ὁ γηράσκων ἀνήρ, 
 
-6.2.19.7 Ἀντιφῶν ὁ ῥήτωρ λέγει· γηροτροφία γὰρ προσέοικεν παιδοτροφίᾳ, 6.2.19.8 
+And before him Sophocles in Peleus: "Peleus, the son of Aeacus, I, sole housekeeper, Guide, old as he is now, and train again, For the aged man is once again a child,"- 
 
-ἀλλὰ καὶ ὁ φιλόσοφος Πλάτων· ἄρ', ὡς ἔοικεν, ὁ γέρων δὶς παῖς γένοιτ' ἄν. 6.2.20.1 
+6.2.19.7 Ἀντιφῶν ὁ ῥήτωρ λέγει· γηροτροφία γὰρ προσέοικεν παιδοτροφίᾳ,  
 
-Ναὶ μὴν Θουκυδίδου λέγοντος Μαραθῶνί τε μόνοι προκινδυνεῦ6.2.20.2 σαι
+Antipho the orator says, "For the nursing of the old is like the nursing of children." 
 
-∆ημοσθένης εἶπεν· μὰ τοὺς ἐν Μαραθῶνι προκινδυνεύσαντας. 6.2.20.3 Οὐδὲ ἐκεῖνα
+6.2.19.8 ἀλλὰ καὶ ὁ φιλόσοφος Πλάτων· ἄρ', ὡς ἔοικεν, ὁ γέρων δὶς παῖς γένοιτ' ἄν.  
 
-παραπέμψομαι· Κρατίνου ἐν Πυτίνῃ εἰπόντος· τὴν μὲν παρασκευὴν ἴσως γινώσκετε, 
+Also the philosopher Plato says, "The old man then, as seems, will be twice a child." 
+#### s20
+6.2.20.1 Ναὶ μὴν Θουκυδίδου λέγοντος Μαραθῶνί τε μόνοι προκινδυνεῦσαι
 
-And before him Sophocles in Peleus: "Peleus, the son of Aeacus, I, sole housekeeper, Guide, old as he is now, and train again, For the aged man is once again a child,"- Antipho the orator says, "For the nursing of the old is like the nursing of children." Also the philosopher Plato says, "The old man then, as seems, will be twice a child." Further, Thucydides having said, "We alone bore the brunt at Marathon," -- Demosthenes said, "By those who bore the brunt at Marathon." Nor will I omit the following. Cratinus having said in the "The preparation perchance you know,"
+Further, Thucydides having said, "We alone bore the brunt at Marathon," -- 
 
-6.2.20.4 Ἀνδοκίδης ὁ ῥήτωρ λέγει· τὴν μὲν παρασκευήν, ὦ ἄνδρες δικασταί, καὶ τὴν
+6.2.20.2 ∆ημοσθένης εἶπεν· μὰ τοὺς ἐν Μαραθῶνι προκινδυνεύσαντας. 
 
-προθυμίαν τῶν ἐχθρῶν τῶν ἐμῶν σχεδόν τι πάντες εἴσεσθε. 6.2.20.5 ὁμοίως καὶ
+Demosthenes said, "By those who bore the brunt at Marathon." 
 
-Νικίας ἐν τῷ πρὸς Λυσίαν ὑπὲρ <παρα>καταθήκης τὴν μὲν παρασκευὴν καὶ τὴν
+6.2.20.3 Οὐδὲ ἐκεῖνα παραπέμψομαι· Κρατίνου ἐν Πυτίνῃ εἰπόντος· τὴν μὲν παρασκευὴν ἴσως γινώσκετε, 
 
-προθυμίαν τῶν ἀντιδίκων ὁρᾶτε, ὦ ἄνδρες 6.2.20.6 δικασταί, φησίν, καὶ μετὰ τοῦτον
+Nor will I omit the following. Cratinus having said in the "The preparation perchance you know,"
 
-Αἰσχίνης λέγει· τὴν μὲν παρασκευὴν ὁρᾶτε, ὦ ἄνδρες Ἀθηναῖοι, καὶ τὴν παράταξιν. 
+6.2.20.4 Ἀνδοκίδης ὁ ῥήτωρ λέγει· τὴν μὲν παρασκευήν, ὦ ἄνδρες δικασταί, καὶ τὴν προθυμίαν τῶν ἐχθρῶν τῶν ἐμῶν σχεδόν τι πάντες εἴσεσθε. 
 
-6.2.20.7 Πάλιν ∆ημοσθένους εἰπόντος ὅση μέν, ὦ ἄνδρες Ἀθηναῖοι, σπουδὴ περὶ
+Andocides the orator says, "The preparation, gentlemen of the jury, and the eagerness of our enemies, almost all of you know." 
 
-τουτονὶ τὸν ἀγῶνα καὶ παραγγελία γέγονεν, σχεδὸν οἶ6.2.20.8 μαι πάντας ὑμᾶς ᾐσθῆσθαι Φιλῖνος τε ὁμοίως· ὅση μέν, ὦ ἄνδρες δικασταί, σπουδὴ καὶ παράταξις
+6.2.20.5 ὁμοίως καὶ Νικίας ἐν τῷ πρὸς Λυσίαν ὑπὲρ <παρα>καταθήκης τὴν μὲν παρασκευὴν καὶ τὴν προθυμίαν τῶν ἀντιδίκων ὁρᾶτε, ὦ ἄνδρες 6.2.20.6 δικασταί, φησίν, 
 
-γεγένηται περὶ τὸν ἀγῶνα τουτονί, οὐδ' ἕνα ὑμῶν ἀγνοεῖν ἡγοῦμαι. 6.2.21.1 
+Similarly also Nicias, in the speech on the deposit, against Lysias, says, "The preparation and the eagerness of the adversaries, ye see, O gentlemen of the jury." 
 
-Ἰσοκράτους πάλιν εἰρηκότος ὥσπερ τῶν χρημάτων, ἀλλ' οὐκ 6.2.21.2 ἐκείνου
+καὶ μετὰ τοῦτον Αἰσχίνης λέγει· τὴν μὲν παρασκευὴν ὁρᾶτε, ὦ ἄνδρες Ἀθηναῖοι, καὶ τὴν παράταξιν. 
 
-συγγενὴς οὖσα Λυσίας ἐν τοῖς Ὀρφανικοῖς λέγει· καὶ φανερὸς γέγονεν οὐ τῶν
+After him Aeschines says, "You see the preparation, O men of Athens, and the line of battle." 
 
-σωμάτων συγγενὴς ὤν, ἀλλὰ τῶν χρημάτων. 6.2.21.3 Ἐπεὶ καὶ Ὁμήρου ποιήσαντος·
+6.2.20.7 Πάλιν ∆ημοσθένους εἰπόντος ὅση μέν, ὦ ἄνδρες Ἀθηναῖοι, σπουδὴ περὶ τουτονὶ τὸν ἀγῶνα καὶ παραγγελία γέγονεν, σχεδὸν οἶ6.2.20.8 μαι πάντας ὑμᾶς ᾐσθῆσθαι 
 
-ὦ πέπον, εἰ μὲν γὰρ πόλεμον περὶ τόνδε φυγόντες αἰεὶ δὴ μέλλοιμεν ἀγήρω τ' 
+Again, Demosthenes having said, "What zeal and what canvassing, O men of Athens, have been employed in this contest, I think almost all of you are aware;" 
 
-ἀθανάτω τε ἔσσεσθ', οὔτε κεν αὐτὸς ἐνὶ πρώτοισι μαχοίμην οὔτε κε σὲ στέλλοιμι
+Φιλῖνος τε ὁμοίως· ὅση μέν, ὦ ἄνδρες δικασταί, σπουδὴ καὶ παράταξις γεγένηται περὶ τὸν ἀγῶνα τουτονί, οὐδ' ἕνα ὑμῶν ἀγνοεῖν ἡγοῦμαι. 
 
-μάχην ἐς κυδιάνειραν· νῦν δ', ἔμπης γὰρ κῆρες ἐφεστᾶσι<ν> θανάτοιο μυρίαι, ἃς οὐκ
+and Philinus similarly, "What zeal, what forming of the line of battle, gentlemen of the jury, have taken place in this contest, I think not one of you is ignorant." 
+#### s21
+6.2.21.1  Ἰσοκράτους πάλιν εἰρηκότος ὥσπερ τῶν χρημάτων, ἀλλ' οὐκ 6.2.21.2 ἐκείνου συγγενὴς οὖσα 
 
-ἔστι φυγεῖν βροτὸν οὐδ' ὑπαλύξαι, ἴομεν, εἴ κέ τῳ εὖχος ὀρέξομεν, ἠέ τις ἡμῖν, 
+Isocrates, again, having said, "As if she were related to his wealth, not him," 
 
-Andocides the orator says, "The preparation, gentlemen of the jury, and the eagerness of our enemies, almost all of you know." Similarly also Nicias, in the speech on the deposit, against Ly-sias, says, "The preparation and the eagerness of the adversaries, ye see, O gentlemen of the jury." After him Aeschines says, "You see the preparation, O men of Athens, and the line of battle." Again, Demosthenes having said, "What zeal and what canvassing, O men of Athens, have been employed in this contest, I think almost all of you are aware;" and Philinus similarly, "What zeal, what forming of the line of battle, gentlemen of the jury, have taken place in this contest, I think not one of you is ignorant." Isocrates, again, having said, "As if she were related to his wealth, not him," Lysias says in the Orphics, "And he was plainly related not to the persons, but to the money." Since Homer also having written: "O friend, if in this war, by taking flight, We should from age and death exemption win, I would not fight among the first myself, Nor would I send thee to the glorious fray; But now -- for myriad fates of death attend In any case, which man may not escape Or shun -- come on. To some one we shall bring Renown, or some one shall to us,"
+Λυσίας ἐν τοῖς Ὀρφανικοῖς λέγει· καὶ φανερὸς γέγονεν οὐ τῶν σωμάτων συγγενὴς ὤν, ἀλλὰ τῶν χρημάτων. 
 
-6.2.21.4 Θεόπομπος γράφει· εἰ μὲν γὰρ ἦν τὸν κίνδυνον τὸν παρόντα διαφυγόντας
+Lysias says in the Orphics, "And he was plainly related not to the persons, but to the money." 
 
-ἀδεῶς διάγειν τὸν ἐπίλοιπον χρόνον, οὐκ ἂν ἦν θαυμαστὸν φιλοψυχεῖν, νῦν δὲ
+6.2.21.3 Ἐπεὶ καὶ Ὁμήρου ποιήσαντος· ὦ πέπον, εἰ μὲν γὰρ πόλεμον περὶ τόνδε φυγόντες αἰεὶ δὴ μέλλοιμεν ἀγήρω τ' ἀθανάτω τε ἔσσεσθ', οὔτε κεν αὐτὸς ἐνὶ πρώτοισι μαχοίμην οὔτε κε σὲ στέλλοιμι μάχην ἐς κυδιάνειραν· νῦν δ', ἔμπης γὰρ κῆρες ἐφεστᾶσι<ν> θανάτοιο μυρίαι, ἃς οὐκ ἔστι φυγεῖν βροτὸν οὐδ' ὑπαλύξαι, ἴομεν, εἴ κέ τῳ εὖχος ὀρέξομεν, ἠέ τις ἡμῖν, 
 
-τοσαῦται κῆρες τῷ βίῳ παραπεφύκασιν ὥστε τὸν ἐν ταῖς μάχαις θάνατον
+Since Homer also having written: "O friend, if in this war, by taking flight, We should from age and death exemption win, I would not fight among the first myself, Nor would I send thee to the glorious fray; But now -- for myriad fates of death attend In any case, which man may not escape Or shun -- come on. To some one we shall bring Renown, or some one shall to us,"
 
-αἱρετώτερον εἶναι δοκεῖν. 6.2.21.5 Τί δ'; οὐχὶ καὶ Χίλωνος τοῦ σοφιστοῦ
+6.2.21.4 Θεόπομπος γράφει· εἰ μὲν γὰρ ἦν τὸν κίνδυνον τὸν παρόντα διαφυγόντας ἀδεῶς διάγειν τὸν ἐπίλοιπον χρόνον, οὐκ ἂν ἦν θαυμαστὸν φιλοψυχεῖν, νῦν δὲ τοσαῦται κῆρες τῷ βίῳ παραπεφύκασιν ὥστε τὸν ἐν ταῖς μάχαις θάνατον αἱρετώτερον εἶναι δοκεῖν. 
 
-ἀποφθεγξαμένου ἐγγύα, 6.2.21.6 πάρα δ' ἄτα Ἐπίχαρμος τὴν αὐτὴν γνώμην ἑτέρῳ
+Theopompus writes, "For if, by avoiding the present danger, we were to pass the rest of our time in security, to show love of life would not be wonderful. But now, so many fatalities are incident to life, that death in battle seems preferable." 
 
-ὀνόματι προηνέγκατο εἰπών· ἐγγύας ἄτα <'στι> θυγάτηρ, ἐγγύα δὲ ζαμίας. 6.2.22.1 
+6.2.21.5 Τί δ'; οὐχὶ καὶ Χίλωνος τοῦ σοφιστοῦ ἀποφθεγξαμένου ἐγγύα, 
 
-Ἀλλὰ καὶ τοῦ ἰατροῦ Ἱπποκράτους ἐπιβλέπειν οὖν δεῖ καὶ ὥρην 6.2.22.2 καὶ χώρην
+And what? Child the sophist having uttered the apophthegm, "Become surety, and mischief is at hand," 
 
-καὶ ἡλικίην καὶ νόσους 
+6.2.21.6 πάρα δ' ἄτα Ἐπίχαρμος τὴν αὐτὴν γνώμην ἑτέρῳ ὀνόματι προηνέγκατο εἰπών· ἐγγύας ἄτα <'στι> θυγάτηρ, ἐγγύα δὲ ζαμίας.  
 
-Theopompus writes, "For if, by avoiding the present danger, we were to pass the rest of our time in security, to show love of life would not be wonderful.
+did not Epicharmus utter the same sentiment in other terms, when he said, "Suretyship is the daughter of mischief, and loss that of suretyship?" 
+#### s22
+6.2.22.1 Ἀλλὰ καὶ τοῦ ἰατροῦ Ἱπποκράτους ἐπιβλέπειν οὖν δεῖ καὶ ὥρην 6.2.22.2 καὶ χώρην καὶ ἡλικίην καὶ νόσους γράφοντος 
 
-But now, so many fatalities are incident to life, that death in battle seems preferable." And what? Child the sophist having uttered the apophthegm, "Become surety, and mischief is at hand," did not Epicharmus utter the same sentiment in other terms, when he said, "Suretyship is the daughter of mischief, and loss that of suretyship?" Further, Hippocrates the physician having written, "You must look to time, and locality, and age, and disease,"
+Further, Hippocrates the physician having written, "You must look to time, and locality, and age, and disease,"
 
-γράφοντος Εὐριπίδης ἐν ἑξαμέτρῳ τινὶ ῥήσει φησίν· ὃς οἶδ' 
-
-ἰατρεύειν καλῶς, πρὸς τὰς διαίτας τῶν ἐνοικούντων πόλιν τὴν γῆν <τ'> ἰδόντα τὰς
-
-νόσους σκοπεῖν χρεών. 
+Εὐριπίδης ἐν ἑξαμέτρῳ τινὶ ῥήσει φησίν· ὃς οἶδ' ἰατρεύειν καλῶς, πρὸς τὰς διαίτας τῶν ἐνοικούντων πόλιν τὴν γῆν <τ'> ἰδόντα τὰς νόσους σκοπεῖν χρεών. 
 
 Euripides says in Hexameters : - "Those who the healing art would practise well, Must study people's modes of life, and note The soil, and the diseases so consider."
 
-6.2.22.3 Ὁμήρου πάλιν ποιήσαντος· μοῖραν δ' οὔ τινά φημι
+6.2.22.3 Ὁμήρου πάλιν ποιήσαντος· μοῖραν δ' οὔ τινά φημι πεφυγμένον ἔμμεναι ἀνδρῶν. 
 
-πεφυγμένον ἔμμεναι ἀνδρῶν. 6.2.22.4 ὅ τε Ἀρχῖνος λέγει· πᾶσι μὲν ἀνθρώποις
+Homer again, having written: "I say no mortal man can doom escape,"- 
 
-ὀφείλεται ἀποθανεῖν ἢ 6.2.22.5 πρότερον ἢ εἰς ὕστερον, ὅ τε ∆ημοσθένης· πᾶσι μὲν
+6.2.22.4 ὅ τε Ἀρχῖνος λέγει· πᾶσι μὲν ἀνθρώποις ὀφείλεται ἀποθανεῖν ἢ 6.2.22.5 πρότερον ἢ εἰς ὕστερον,
 
-γὰρ ἀνθρώποις τέλος τοῦ βίου θάνατος, κἂν ἐν οἰκίσκῳ τις αὑτὸν καθείρξας τηρῇ. 
+Archinus says, "All men are bound to die either sooner or later;" 
 
-Homer again, having written: "I say no mortal man can doom escape,"- Archinus says, "All men are bound to die either sooner or later;" and Demosthenes, "To all men death is the end of life, though one should keep himself shut up in a coop."
+ὅ τε ∆ημοσθένης· πᾶσι μὲν γὰρ ἀνθρώποις τέλος τοῦ βίου θάνατος, κἂν ἐν οἰκίσκῳ τις αὑτὸν καθείρξας τηρῇ. 
 
-6.2.23.1 Ἡροδότου τε αὖ ἐν τῷ περὶ Γλαύκου τοῦ Σπαρτιάτου λόγῳ φήσαντος τὴν
+and Demosthenes, "To all men death is the end of life, though one should keep himself shut up in a coop."
+#### s23
+6.2.23.1 Ἡροδότου τε αὖ ἐν τῷ περὶ Γλαύκου τοῦ Σπαρτιάτου λόγῳ φήσαντος τὴν Πυθίαν εἰπεῖν τὸ πειρηθῆναι τοῦ θεοῦ καὶ τὸ ποιῆσαι 6.2.23.2 ἴσον γενέσθαι, 
 
-Πυθίαν εἰπεῖν τὸ πειρηθῆναι τοῦ θεοῦ καὶ τὸ ποιῆσαι 6.2.23.2 ἴσον γενέσθαι, 
+And Herodotus, again, having said, in his discourse about Glaucus the Spartan, that the Pythian said, "In the case of the Deity, to say and to do are equivalent," 
 
 Ἀριστοφάνης ἔφη· δύναται γὰρ ἴσον τῷ δρᾶν τὸ νοεῖν, 
 
-And Herodotus, again, having said, in his discourse about Glaucus the Spartan, that the Pythian said, "In the case of the Deity, to say and to do are equivalent," Aristophanes said : "For to think and to do are equivalent."
+Aristophanes said : "For to think and to do are equivalent."
 
-6.2.23.3 καὶ πρὸ τούτου ὁ
-
-Ἐλεάτης Παρμενίδης· τὸ γὰρ αὐτὸ νοεῖν ἐστί<ν> τε καὶ εἶναι. 
+6.2.23.3 καὶ πρὸ τούτου ὁ Ἐλεάτης Παρμενίδης· τὸ γὰρ αὐτὸ νοεῖν ἐστί<ν> τε καὶ εἶναι. 
 
 And before him, Parmenides of Elea said: "For thinking and being are the same."
 
-6.2.23.4 Ἢ οὐχὶ καὶ
+6.2.23.4 Ἢ οὐχὶ καὶ Πλάτωνος εἰπόντος ἡμεῖς δὲ τοῦτο λέξοιμεν ἂν ἴσως οὐκ ἀτόπως, ὅτι ἀρχὴ μὲν ἔρωτος ὅρασις, μειοῖ δὲ τὸ πάθος ἐλπίς, 6.2.23.5 τρέφει δὲ μνήμη, τηρεῖ δὲ συνήθεια, 
 
-Πλάτωνος εἰπόντος ἡμεῖς δὲ τοῦτο λέξοιμεν ἂν ἴσως οὐκ ἀτόπως, ὅτι ἀρχὴ μὲν
+And Plato having said, "And we shall show, not absurdly perhaps, that the beginning of love is sight; and hope diminishes the passion, memory nourishes it, and intercourse preserves it;" 
 
-ἔρωτος ὅρασις, μειοῖ δὲ τὸ πάθος ἐλπίς, 6.2.23.5 τρέφει δὲ μνήμη, τηρεῖ δὲ συνήθεια, 
+Φιλήμων ὁ κωμικὸς γράφει· ὁρῶσι πάντες πρῶτον, εἶτ' ἐθαύμασαν, ἔπειτ'  ἐπεθεώρησαν, εἶτ' ἐς ἐλπίδα. ἐνέπεσοι· οὕτω γίνεται ἐκ τούτων ἔρως. 
 
-Φιλήμων ὁ κωμικὸς γράφει· ὁρῶσι πάντες πρῶτον, εἶτ' ἐθαύμασαν, ἔπειτ' 
+does not Philemon the comic poet write : "First all see, then admire; Then gaze, then come to hope; And thus arises love?"
 
-ἐπεθεώρησαν, εἶτ' ἐς ἐλπίδα. ἐνέπεσοι· οὕτω γίνεται ἐκ τούτων ἔρως. 
-
-And Plato having said, "And we shall show, not absurdly perhaps, that the beginning of love is sight; and hope diminishes the passion, memory nourishes it, and intercourse preserves it;" does not Philemon the comic poet write : "First all see, then admire; Then gaze, then come to hope; And thus arises love?"
-
-6.2.23.6 Ἀλλὰ
-
-καὶ ∆ημοσθένους εἰπόντος πᾶσι γὰρ ἡμῖν ὁ θάνατος ὀφεί6.2.23.7 λεται καὶ τὰ ἑξῆς, ὁ
-
-Φανοκλῆς ἐν Ἔρωσιν ἢ Καλοῖς γράφει· ἀλλὰ τὸ Μοιράων νῆμ' ἄλλυτον, οὐδέ ποτ' 
-
-ἔστιν ἐκφυγέειν, ὁπόσοι γῆν ἐπιφερβόμεθα. 
+6.2.23.6 Ἀλλὰ καὶ ∆ημοσθένους εἰπόντος πᾶσι γὰρ ἡμῖν ὁ θάνατος ὀφεί6.2.23.7 λεται καὶ τὰ ἑξῆς, ὁ Φανοκλῆς ἐν Ἔρωσιν ἢ Καλοῖς γράφει· ἀλλὰ τὸ Μοιράων νῆμ' ἄλλυτον, οὐδέ ποτ' ἔστιν ἐκφυγέειν, ὁπόσοι γῆν ἐπιφερβόμεθα. 
 
 Further, Demosthenes having said, "For to all of us death is a debt," and so forth, Phanocles writes in Loves, or The Beautiful: "But from the Fates' unbroken thread escape Is none for those that feed on earth."
-
+#### s24
 6.2.24.1 Εὕροις δ' ἂν καὶ Πλάτωνος
 
 εἰπόντος παντὸς γὰρ φυτοῦ ἡ πρώτη βλάστη, καλῶς ὁρμηθεῖσα πρὸς ἀρετήν, τῆς
@@ -2476,7 +2457,7 @@ Further, Euripides having written : "For to the temperate enough sufficient is "
 6.2.24.10 ὁ Ἐπίκουρος λέγει· δικαιοσύνης καρπὸς μέγιστος ἀταραξία. 
 
 Again, Aristophanes having written : "Life thou securely shalt enjoy, being just And free from turmoil, and from fear live well,"- Epicurus says, "The greatest fruit of righteousness is tranquillity."
-
+#### s25
 6.2.25.1 Αἱ μὲν
 
 οὖν ἰδέαι τῆς κατὰ διάνοιαν Ἑλληνικῆς κλοπῆς εἰς ὑπόδειγμα ἐναργὲς τῷ διορᾶν
@@ -2498,7 +2479,7 @@ Let these species, then, of Greek plagiarism of sentiments, being such, stand as
 Σαμίου τὴν Οἰχαλίας ἅλωσιν. 
 
 And not only have they been detected pirating and paraphrasing thoughts and expressions, as will be shown; but they will also be convicted of the possession of what is entirely stolen. For stealing entirely what is the production of others they have published it as their own; as Eugamon of Cyrene did the entire book on the Thesprotians from Musaeus, and Pisander of Camirus the Heraclea of Pisinus of Lindus, and Panyasis of Halicarnassus, the capture of OEchalia from Cleophilus of Samos.
-
+#### s26
 6.2.26.1 Εὕροις δ' ἂν καὶ Ὅμηρον τὸν μέγαν ποιητὴν
 
 ἐκεῖνα τὰ ἔπη· οἷον δὲ τρέφει ἔρνος ἀνὴρ ἐριθηλὲς ἐλαίης καὶ τὰ ἑξῆς κατὰ λέξιν
@@ -2550,34 +2531,30 @@ And Aristophanes the comic poet has, in the first of the Thesmophoriazusoe, tran
 
 καὶ Λεάνδριος καὶ Ἀναξιμένης καὶ Ἑλλάνικος καὶ Ἑκαταῖος καὶ Ἀνδροτίων και
 
-Φιλόχορος ∆ιευχίδας τε ὁ Μεγαρικὸς τὴν ἀρχὴν τοῦ λόγου ἐκ τῆς 6.2.27.1 
+Φιλόχορος ∆ιευχίδας τε ὁ Μεγαρικὸς τὴν ἀρχὴν τοῦ λόγου ἐκ τῆς  6.2.27.1 Ἑλλανίκου ∆ευκαλιωνείας μετέβαλεν. 
 
-Ἑλλανίκου ∆ευκαλιωνείας μετέβαλεν. σιωπῶ δὲ Ἡράκλειτον τὸν 6.2.27.2 Ἐφέσιον, 
+Eumelus and Acusilaus the historiographers changed the contents of Hesiod into prose, and published them as their own. Gorgias of Leontium and Eudemus of Naxus, the historians, stole from Melesagoras. And, besides, there is Bion of Proconnesus, who epitomized and transcribed the writings of the ancient Cadmus, and Archilochus, and Aristotle, and Leandrus, and Hellanicus, and Hecataeus, and Androtion, and Philochorus. Dieuchidas of Megara transferred the beginning of his treatise from the Deucalion of Hellanicus. 
+#### s27
+##### 1
+σιωπῶ δὲ Ἡράκλειτον τὸν 6.2.27.2 Ἐφέσιον, ὃς παρ' Ὀρφέως τὰ πλεῖστα εἴληφεν. 
 
-ὃς παρ' Ὀρφέως τὰ πλεῖστα εἴληφεν. 
+I pass over in silence Heraclitus of Ephesus, who took a very great deal from Orpheus.
+##### ?
+παρὰ Πυθαγόρου δὲ καὶ τὴν ψυχὴν ἀθάνατον εἶναι Πλάτων ἔσπακεν, ὃ δὲ παρ' Αἰγυ6.2.27.3 πτίων. 
 
-Eumelus and Acusilaus the historiographers changed the contents of Hesiod into prose, and published them as their own. Gorgias of Leontium and Eudemus of Naxus, the historians, stole from Melesagoras. And, besides, there is Bion of Proconnesus, who epitomized and transcribed the writings of the ancient Cadmus, and Archilochus, and Aristotle, and Leandrus, and Hellanicus, and Hecataeus, and Androtion, and Philochorus. Dieuchidas of Megara transferred the beginning of his treatise from the Deucalion of Hellanicus. I pass over in silence Heraclitus of Ephesus, who took a very great deal from Orpheus.
+From Pythagoras Plato derived the immortality of the soul; and he from the Egyptians. 
 
-παρὰ Πυθαγόρου δὲ καὶ τὴν ψυχὴν ἀθάνατον
+πολλοί τε τῶν ἀπὸ Πλάτωνος συγγραφὰς πεποίηνται, καθ' ἃς ἀποδεικνύουσι τούς τε Στωϊκούς, ὡς ἐν ἀρχῇ εἰρήκαμεν, τόν τε Ἀριστοτέλη τὰ πλεῖστα καὶ κυριώτατα τῶν δογμάτων παρὰ Πλά6.2.27.4 τωνος εἰληφέναι. 
 
-εἶναι Πλάτων ἔσπακεν, ὃ δὲ παρ' Αἰγυ6.2.27.3 πτίων. πολλοί τε τῶν ἀπὸ Πλάτωνος
+And many of the Platonists composed books, in which they show that the Stoics, as we said in the beginning, and Aristotle, took the most and principal of their dogmas from Plato. 
 
-συγγραφὰς πεποίηνται, καθ' ἃς ἀποδεικνύουσι τούς τε Στωϊκούς, ὡς ἐν ἀρχῇ
+ἀλλὰ καὶ Ἐπίκουρος παρὰ ∆ημοκρίτου τὰ προηγούμενα ἐσκευώρηται δόγματα. 
 
-εἰρήκαμεν, τόν τε Ἀριστοτέλη τὰ πλεῖστα καὶ κυριώτατα τῶν δογμάτων παρὰ
+Epicurus also pilfered his leading dogmas from Democritus. 
 
-Πλά6.2.27.4 τωνος εἰληφέναι. ἀλλὰ καὶ Ἐπίκουρος παρὰ ∆ημοκρίτου τὰ προηγούμενα ἐσκευώρηται δόγματα. 
+6.2.27.5 Ταυτὶ μὲν οὖν ταύτῃ· ἐπιλείψει γάρ με ὁ βίος, εἰ καθ' ἕκαστον ἐπεξιέναι αἱροίμην τὴν Ἑλληνικὴν διελέγχων φίλαυτον κλοπήν, καὶ ὡς σφετερίζονται τὴν εὕρεσιν τῶν παρ' αὐτοῖς καλλίστων δογμάτων, ἣν παρ' ἡμῶν εἰλήφασιν. 
 
-6.2.27.5 Ταυτὶ μὲν οὖν ταύτῃ· ἐπιλείψει γάρ με
-
-ὁ βίος, εἰ καθ' ἕκαστον ἐπεξιέναι αἱροίμην τὴν Ἑλληνικὴν διελέγχων φίλαυτον
-
-κλοπήν, καὶ ὡς σφετερίζονται τὴν εὕρεσιν τῶν παρ' αὐτοῖς καλλίστων δογμάτων, 
-
-ἣν παρ' ἡμῶν εἰλήφασιν. 
-
-From Pythagoras Plato derived the immortality of the soul; and he from the Egyptians. And many of the Platonists composed books, in which they show that the Stoics, as we said in the beginning, and Aristotle, took the most and principal of their dogmas from Plato. Epicurus also pilfered his leading dogmas from Democritus. Let these things then be so. For life would fail me, were I to undertake to go over the subject in detail, to expose the selfish plagiarism of the Greeks, and how they claim the discovery of the best of their doctrines, which they have received from us. 
-
+Let these things then be so. For life would fail me, were I to undertake to go over the subject in detail, to expose the selfish plagiarism of the Greeks, and how they claim the discovery of the best of their doctrines, which they have received from us. 
 ### c6
 
 #### s53

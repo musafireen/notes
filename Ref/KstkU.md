@@ -150,7 +150,58 @@ Brahman says to him: 'Water indeed is this my world 1, the whole Brahman world, 
 
 Whatever victory, whatever might belongs to Brahman, that victory and that might he obtains who knows this, yea, who knows this 2.
 # a2
+### 12
 Prana
+
+अथातो दैवः परिमर 
+
+Next follows the Daiva Parimara 4, the dying around of the gods 
+
+(the absorption of the two classes of gods, mentioned before, into prâna or Brahman). 
+
+एतद्वै ब्रह्म दीप्यते यदग्निर्ज्वलत्यथैतन्म्रियते
+
+This Brahman shines forth indeed when the fire burns, and it dies when it burns not. 
+
+यन्न ज्वलति तस्यादित्यमेव तेजो गच्छति वायुं प्राण एतद्वै
+
+Its splendour goes to the sun alone, the life (prâna, the moving principle) to the air.
+
+ब्रह्म दीप्यते यथादित्यो दृश्यतेऽथैतन्म्रियते यन्न दृश्यते 
+
+This Brahman shines forth indeed when the sun is seen, and it dies when it is not seen. 
+
+तस्य चन्द्रमसमेव तेजो गच्छति वायुं प्राण एतद्वै ब्रह्म दीप्यते 
+
+Its splendour goes to the moon alone, the life (prâna) to the air.
+
+यच्चन्द्रमा दृश्यतेऽथैतन्म्रियते यन्न दृश्यते 
+
+This Brahman shines forth indeed when the moon is seen, and it dies when it is not seen. 
+
+तस्य विद्युतमेव तेजो गच्छति वायुं प्राण 
+
+Its splendour goes to the lightning alone, its life (prâna) to the air.
+
+एतद्वै ब्रह्म दीप्यते यद्विद्युद्विद्योततेऽथैतन्म्रियते यन्न विद्योतते 
+
+This Brahman shines forth indeed when the lightning flashes, and it dies when it flashes not. 
+
+तस्य वायुमेव तेजो गच्छति वायुं प्राणस्ता वा एताः सर्वा देवता 
+
+Its splendour goes to the air, and the life (prâna) to the air. Thus all these deities (i. e. fire, sun, moon, lightning), 
+
+वायुमेव प्रविश्य वायौ सृप्ता न मूर्च्छन्ते
+
+having entered the air, though dead, do not vanish; 
+
+तस्मादेव पुनरुदीरत 
+
+and out of the very air they rise again. 
+
+इत्यधिदैवतमथाध्यात्मम् 
+
+So much with reference to the deities (mythological). Now then with reference to the body (physiological).
 # a3
 ### 1
 प्रतर्दनो ह वै दैवोदासिरिन्द्रस्य प्रियं धामोपजगाम युद्धेन
@@ -262,3 +313,25 @@ Of this, this is the proof, this is the understanding. When a man is thus sick, 
 
 Let no man try to find out what speech is, let him know the speaker. Let no man try to find out what odour is, let him know him who smells. Let no man try to find out what form is, let him know the seer. Let no man try to find out what sound is, let him know the hearer. Let no man try to find out the tastes of food, let him know the knower of tastes. Let no man try to find out what action is, let him know the agent. Let no man try to find out what pleasure and pain are, let him know the knower of pleasure and pain. Let no man try to find out what happiness, joy, and offspring are, let him know the knower of happiness, joy, and offspring. Let no man try to find out what movement is, let him know the mover. Let no man try to find out what mind is, let him know the thinker. These ten objects (what is spoken, smelled, seen, &c.) have reference to pragñâ (self-consciousness), the ten subjects (speech, the senses, mind) have reference to objects. If there were no objects, there would be no subjects; and if there were no subjects, there would be no objects. For on either side alone nothing could be achieved. But that (the self of pragñâ, consciousness, and prâna, life) is not many, (but one.) For as in a car the circumference of a wheel is placed on the spokes, and the spokes on the nave, thus are these objects (circumference) placed on the subjects (spokes), and the subjects on the prâna. And that prâna (breath, the living and breathing power) indeed is the self of pragñâ (the self-conscious self), blessed, imperishable, immortal. He does not increase by a good action, nor decrease by a bad action. For he (the self of prâna and pragñâ) makes him, whom he wishes to lead up from these worlds, do a good deed; and the same makes him, whom he wishes to lead down from these worlds, do a bad deed 1. And he is the guardian of the world, he is the king of the world, he is the lord of the universe,--and he is my (Indra's) self, thus let it be known, yea, thus let it be known!
 # a4
+### 2
+स होवाच बालाकिर्य एवैष आदित्ये पुरुषस्तमेवाहमुपास इति
+
+Bālākī said:
+"This very person (Puruṣa) in the sun is the one I meditate upon."
+
+तं होवाचाजातशत्रुर्मामैतस्मिन्समवादयिष्ठा बृहत्पाण्डरवासा अतिष्ठाः सर्वेषां भूतानां मूर्धेति वा अहमेतमुपास इति 
+
+Then Ajātaśatru replied:
+"Do not speak to me in this way. The great one, wearing a white robe, stands above all beings as their head. That is the one I meditate upon."
+
+स यो हैतमेवमुपास्तेऽतिष्ठाः  सर्वेषां भूतानां मूर्धा भवति ॥ २॥
+
+Whoever meditates in this way also becomes the head of all beings.
+### 4
+सहोवाच बालाकिर्य एवैष विद्युति पुरुष एतमेवाहं ब्रह्मोपास इति 
+
+Bâlâki said: 'The person that is in the lightning, on him I meditate.'
+
+तं होवाचाजातशत्रुर्मा मैतस्मिन्समवादयिष्ठास्तेजस्यात्मेति वा अहमेतमुपास इति स यो हैतमेवमुपास्ते तेजस्यात्मा भवति ॥ ४॥ 
+
+Agâtasatru said to him: 'Do not challenge me on this. I meditate on him as the self in light. Whoso meditates on him thus, becomes the self in light.'

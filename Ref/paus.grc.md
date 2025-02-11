@@ -26,6 +26,17 @@ The first rulers then in this country were Polycaon, the son of Lelex, and Messe
 Polyneices, the son of Oedipus, has fallen on his knee, and Eteocles, the other son of Oedipus, is rushing on him. Behind Polyneices stands a woman with teeth as cruel as those of a beast, and her fingernails are bent like talons. An inscription by her calls her Doom, implying that Polyneices has been carried off by fate, and that Eteocles fully deserved his end. Dionysus is lying down in a cave, a bearded figure holding a golden cup, and clad in a tunic reaching to the feet. Around him are vines, apple-trees and pomegranate-trees.
 
 # b7
+## c2
+#### 6
+τότε δὲ ὡς ἐκράτησαν τῶν ἀρχαίων Μιλησίων οἱ Ἴωνες, τὸ μὲν γένος πᾶν τὸ ἄρσεν ἀπέκτειναν πλὴν ὅσοι τῆς πόλεως ἁλισκομένης ἐκδιδράσκουσι, γυναῖκας δὲ καὶ θυγατέρας τὰς ἐκείνων γαμοῦσι.
+τοῦ δὲ Νειλέως ὁ τάφος ἰόντων ἐς Διδύμους ἐστὶν οὐ πόρρω τῶν πυλῶν ἐν ἀριστερᾷ τῆς ὁδοῦ: τὸ δὲ ἱερὸν τὸ ἐν Διδύμοις τοῦ Ἀπόλλωνος καὶ τὸ μαντεῖόν ἐστιν ἀρχαιότερον ἢ κατὰ τὴν Ἰώνων ἐσοίκησιν, πολλῷ δὲ πρεσβύτερα ἔτι ἢ κατὰ Ἴωνας τὰ ἐς τὴν Ἄρτεμιν τὴν Ἐφεσίαν ἐστίν.
+
+When the Ionians had overcome the ancient Milesians they killed every male, except those who escaped at the capture of the city, but the wives of the Milesians and their daughters they married.
+The grave of Neileus is on the left of the road, not far from the gate, as you go to Didymi. The sanctuary of Apollo at Didymi, and his oracle, are earlier than the immigration of the Ionians, while the cult of Ephesian Artemis is far more ancient still than their coming.
+#### 7
+οὐ μὴν πάντα γε τὰ ἐς τὴν θεὸν ἐπύθετο ἐμοὶ δοκεῖν Πίνδαρος, ὃς Ἀμαζόνας τὸ ἱερὸν ἔφη τοῦτο ἱδρύσασθαι στρατευομένας ἐπὶ Ἀθήνας τε καὶ Θησέα. αἱ δὲ ἀπὸ Θερμώδοντος γυναῖκες ἔθυσαν μὲν καὶ τότε τῇ Ἐφεσίᾳ θεῷ, ἅτε ἐπιστάμεναι τε ἐκ παλαιοῦ τὸ ἱερόν, καὶ ἡνίκα Ἡρακλέα ἔφυγον, αἱ δὲ καὶ Διόνυσον τὰ ἔτι ἀρχαιότερα, ἱκέτιδες ἐνταῦθα ἐλθοῦσαι: οὐ μὴν ὑπὸ Ἀμαζόνων γε ἱδρύθη, Κόρησος δὲ αὐτόχθων καὶ Ἔφεσος—Καΰστρου δὲ τοῦ ποταμοῦ τὸν Ἔφεσον παῖδα εἶναι νομίζουσιν—, οὗτοι τὸ ἱερόν εἰσιν οἱ ἱδρυσάμενοι, καὶ ἀπὸ τοῦ Ἐφέσου τὸ ὄνομά ἐστι τῇ πόλει.
+
+Pindar, however, it seems to me, did not learn everything about the goddess, for he says that this sanctuary was founded by the Amazons during their campaign against Athens and Theseus.1 It is a fact that the women from the Thermodon, as they knew the sanctuary from of old, sacrificed to the Ephesian goddess both on this occasion and when they had fled from Heracles; some of them earlier still, when they had fled from Dionysus, having come to the sanctuary as suppliants. However, it was not by the Amazons that the sanctuary was founded, but by Coresus, an aboriginal, and Ephesus, who is thought to have been a son of the river Cayster, and from Ephesus the city received its name.
 ## c18
 ### 4
 ᾠκίσθη δὲ καὶ τρίτη μεταξὺ Ἀνθείας καὶ Ἀρόης Μεσάτις πόλις. ὁπόσα δὲ οἱ Πατρεῖς περὶ Διονύσου λέγουσι, τραφῆναί τε αὐτὸν ἐν τῇ Μεσάτει καὶ ἐνταῦθα ἐπιβουλευθέντα ὑπὸ Τιτάνων ἐς παντοῖον ἀφικέσθαι κίνδυνον, οὐκ ἐναντιούμενος τοῖς Πατρεῦσιν τῆς Μεσάτεως τὸ ὄνομα αὐτοῖς σφισιν ἐξηγεῖσθαι παρίημι.

@@ -1,6 +1,69 @@
 
 http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D1%3Achapter%3D11
 # b1
+## c0
+#### 1
+Τὸ τῆς φιλοσοφίας ἔργον ἔνιοί φασιν ἀπὸ βαρβάρων ἄρξαι. 
+
+There are some who say that the study of philosophy had its beginning among the barbarians. 
+
+γεγενῆσθαι γὰρ παρὰ μὲν Πέρσαις Μάγους, παρὰ δὲ Βαβυλωνίοις ἢ Ἀσσυρίοις Χαλδαίους, καὶ Γυμνοσοφιστὰς παρ᾽ Ἰνδοῖς, 
+
+They urge that the Persians have had their Magi, the Babylonians or Assyrians their Chaldaeans, and the Indians their Gymnosophists; 
+
+παρά τε Κελτοῖς καὶ Γαλάταις τοὺς καλουμένους Δρυΐδας καὶ Σεμνοθέους, 
+
+and among the Celts and Gauls there are the people called Druids or Holy Ones, 
+
+καθά φησιν Ἀριστοτέλης ἐν τῷ Μαγικῷ καὶ Σωτίων ἐν τῷ εἰκοστῷ τρίτῳ τῆς Διαδοχῆς. 
+
+for which they cite as authorities the Magicus of Aristotle and Sotion in the twenty-third1 book of his Succession of Philosophers. 
+
+Φοίνικά τε γενέσθαι Μῶχον, καὶ Θρᾷκα Ζάμολξιν, καὶ Λίβυν Ἄτλαντα.
+
+Also they say that Mochus was a Phoenician, Zamolxis a Thracian, and Atlas a Libyan.
+
+Αἰγύπτιοι μὲν γὰρ Νείλου γενέσθαι παῖδα Ἥφαιστον, ὃν ἄρξαι φιλοσοφίας, ἧς τοὺς προεστῶτας ἱερέας εἶναι καὶ προφήτας. 
+
+[2] If we may believe the Egyptians, Hephaestus was the son of the Nile, and with him philosophy began, priests and prophets being its chief exponents. 
+#### 2
+2 [2] ἀπὸ δὲ τούτου εἰς Ἀλέξανδρον τὸν Μακεδόνα ἐτῶν εἶναι μυριάδας τέσσαρας καὶ ὀκτακισχίλια ὀκτακόσια ἑξήκοντα τρία: ἐν οἷς ἡλίου μὲν ἐκλείψεις γενέσθαι τριακοσίας ἑβδομήκοντα τρεῖς, σελήνης δὲ ὀκτακοσίας τριάκοντα δύο.
+
+Hephaestus lived 48,863 years before Alexander of Macedon, and in the interval there occurred 373 solar and 832 lunar eclipses.
+
+Ἀπὸ δὲ τῶν Μάγων, ὧν ἄρξαι Ζωροάστρην τὸν Πέρσην, Ἑρμόδωρος μὲν ὁ Πλατωνικὸς ἐν τῷ Περὶ μαθημάτων φησὶν εἰς τὴν Τροίας ἅλωσιν ἔτη γεγονέναι πεντακισχίλια: 
+
+The date of the Magians, beginning with Zoroaster the Persian, was 5000 years before the fall of Troy, as given by Hermodorus the Platonist in his work on mathematics; 
+
+Ξάνθος δὲ ὁ Λυδὸς εἰς τὴν Ξέρξου διάβασιν ἀπὸ τοῦ Ζωροάστρου ἑξακισχίλιά φησι, καὶ μετ᾽ αὐτὸν γεγονέναι πολλούς τινας Μάγους κατὰ διαδοχήν, Ὀστάνας καὶ Ἀστραμψύχους καὶ Γωβρύας καὶ Παζάτας, μέχρι τῆς τῶν Περσῶν ὑπ᾽ Ἀλεξάνδρου καταλύσεως.
+
+but Xanthus the Lydian reckons 6000 years from Zoroaster to the expedition of Xerxes, and after that event he places a long line of Magians in succession, bearing the names of Ostanas, Astrampsychos, Gobryas, and Pazatas, down to the conquest of Persia by Alexander.
+#### 3
+Λανθάνουσι δ᾽ αὑτοὺς τὰ τῶν Ἑλλήνων κατορθώματα, ἀφ᾽ ὧν μὴ ὅτι γε φιλοσοφία, ἀλλὰ καὶ γένος ἀνθρώπων ἦρξε, βαρβάροις προσάπτοντες. 
+
+These authors forget that the achievements which they attribute to the barbarians belong to the Greeks, with whom not merely philosophy but the human race itself began. 
+
+ἰδοὺ γοῦν παρὰ μὲν Ἀθηναίοις γέγονε Μουσαῖος, παρὰ δὲ Θηβαίοις Λίνος. 
+
+For instance, Musaeus is claimed by Athens, Linus by Thebes. 
+
+καὶ τὸν μὲν Εὐμόλπου παῖδά φασι, ποιῆσαι δὲ Θεογονίαν καὶ Σφαῖραν πρῶτον: φάναι τε ἐξ ἑνὸς τὰ πάντα γίνεσθαι καὶ εἰς ταὐτὸν ἀναλύεσθαι. 
+
+It is said that the former, the son of Eumolpus, was the first to compose a genealogy of the gods and to construct a sphere, and that he maintained that all things proceed from unity and are resolved again into unity. 
+
+τοῦτον τελευτῆσαι Φαληροῖ, καὶ αὐτῷ ἐπιγεγράφθαι τόδε τὸ ἐλεγεῖον:
+
+He died at Phalerum, and this is his epitaph2:
+
+Εὐμόλπου φίλον υἱὸν ἔχει τὸ Φαληρικὸν οὖδας,
+Μουσαῖον, φθιμένου σῶμ᾽, ὑπὸ τῷδε τάφῳ.
+
+Musaeus, to his sire Eumolpus dear,
+In Phalerean soil lies buried here;
+
+ἀπὸ δὲ τοῦ πατρὸς τοῦ Μουσαίου καὶ Εὐμολπίδαι καλοῦνται παρ᾽ Ἀθηναίοις.
+
+and the Eumolpidae at Athens get their name from the father of Musaeus.
 ## c1
 ### 4
 Τὸν δὲ Λίνον παῖδα εἶναι Ἑρμοῦ καὶ Μούσης Οὐρανίας: ποιῆσαι δὲ κοσμογονίαν, ἡλίου καὶ σελήνης πορείαν, καὶ ζῴων καὶ καρπῶν γενέσεις. τούτῳ ἀρχὴ τῶν ποιημάτων ἥδε:
@@ -1623,7 +1686,6 @@ He flourished in the 60th Olympiad[38](##b-e##38)
 
 and his school lasted until the ninth or tenth generation. 
 ### 46 
-
 τελευταῖοι γὰρ ἐγένοντο τῶν Πυθαγορείων, οὓς καὶ Ἀριστόξενος εἶδε, Ξενόφιλός τε ὁ Χαλκιδεὺς ἀπὸ Θρᾴκης καὶ Φάντων ὁ Φλιάσιος καὶ Ἐχεκράτης καὶ Διοκλῆς καὶ Πολύμναστος, Φλιάσιοι καὶ αὐτοί. ἦσαν δ᾽ ἀκροαταὶ Φιλολάου καὶ Εὐρύτου τῶν Ταραντίνων.
 
 For the last of the Pythagoreans, whom Aristoxenus[f2](##fn#2) in his time saw, were Xenophilus[f8](##fn#8) from the Thracian Chalcidice, [Phanton of Phlius](https://en.m.wikipedia.org/wiki/Phanto_of_Phlius), and [Echecrates](https://en.m.wikipedia.org/wiki/Echecrates_of_Phlius), Diocles and Polymnastus, also of Phlius, who were pupils of Philolaus[f6](##fn#6) and [Eurytus of Tarentum](https://en.m.wikipedia.org/wiki/Eurytus_(Pythagorean)).
@@ -2120,9 +2182,244 @@ He was the son of Pirithous, as he himself tells us at the beginning of his trea
 # b9
 
 ## c1
-
+#### 1
 Heraclitus diss pythagoras
 
+Ἡράκλειτος Βλόσωνος ἤ, ὥς τινες, Ἡράκωντος2 Ἐφέσιος. 
+
+Heraclitus, son of Bloson or, according to some, of Heracon, was a native of Ephesus. 
+
+οὗτος ἤκμαζε μὲν κατὰ τὴν ἐνάτην καὶ ἑξηκοστὴν Ὀλυμπιάδα. 
+
+He flourished in the 69th Olympiad.1 
+
+μεγαλόφρ ων δὲ γέγονε παρ᾽ ὁντιναοῦ καὶ ὑπερόπτης, 
+
+He was lofty-minded beyond all other men,2 and over-weening, 
+
+ὡς καὶ ἐκ τοῦ συγγράμματος αὐτοῦ δῆλον, ἐν ᾧ φησι, 
+
+as is clear from his book in which he says : 
+
+"πολυμαθίη νόον3 οὐ διδάσκει: Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην, αὖτίς τε Ξενοφάνεά τε καὶ Ἑκαταῖον." 
+
+"Much learning does not teach understanding ; else would it have taught Hesiod and Pythagoras, or, again, Xenophanes and Hecataeus."3 
+
+εἶναι γὰρͅ ιἓν τὸ σοφόν, ἐπίστασθαι γνώμην, ὁτέη ἐκυβέρνησε πάντα διὰ πάντων." 
+
+For "this one thing is wisdom, to understand thought, as that which guides all the world everywhere."4 
+
+τόν τε Ὅμηρον ἔφασκεν ἄξιον ἐκ τῶν ἀγώνων ἐκβάλλεσθαι καὶ ῥαπίζεσθαι, καὶ Ἀρχίλοχον ὁμοίως.
+
+And he used to say that "Homer deserved to be chased out of the lists and beaten with rods, and Archilochus likewise."5
+#### 3
+ἀναχωρήσας δ᾽ εἰς τὸ ἱερὸν τῆς Ἀρτέμιδος μετὰ τῶν παίδων ἠστραγάλιζε: 
+
+[3] He would retire to the temple of Artemis and play at knuckle-bones with the boys ; 
+
+περιστάντων δ᾽ αὐτὸν τῶν Ἐφεσίων, "τί, ὦ κάκιστοι, θαυμάζετε;" εἶπεν: "ἢ οὐ κρεῖττον τοῦτο ποιεῖν ἢ μεθ᾽ ὑμῶν πολιτεύεσθαι;"
+
+and when the Ephesians stood round him and looked on, "Why, you rascals," he said, "are you astonished? Is it not better to do this than to take part in your civil life ?"
+
+Καὶ τέλος μισανθρωπήσας καὶ ἐκπατήσας ἐν τοῖς ὄρεσι διητᾶτο, πόας σιτούμενος καὶ βοτάνας. 
+
+Finally, he became a hater of his kind and wandered on the mountains, and there he continued to live, making his diet of grass and herbs. 
+
+καὶ μέντοι καὶ διὰ τοῦτο περιτραπεὶς εἰς ὕδερον κατῆλθεν εἰς ἄστυ καὶ τῶν ἰατρῶν αἰνιγματωδῶς ἐπυνθάνετο εἰ δύναιντ᾽ ἐξ ἐπομβρίας αὐχμὸν ποιῆσαι: 
+
+However, when this gave him dropsy, he made his way back to the city and put this riddle to the physicians, whether they were competent to create a drought after heavy rain. 
+
+τῶν δὲ μὴ συνιέντων, αὑτὸν εἰς βουστάσιον κατορύξας τῇ τῶν βολίτων ἀλέᾳ ἤλπισεν ἐξατμισθήσεσθαι. 
+
+They could make nothing of this, whereupon he buried himself in a cowshed, expecting that the noxious damp humour would be drawn out of him by the warmth of the manure. 
+
+οὐδὲν δ᾽ ἀνύων οὐδ᾽ οὕτως, ἐτελεύτα βιοὺς ἔτη ἑξήκοντα.
+
+But, as even this was of no avail, he died at the age of sixty.
+#### 5
+Γέγονε δὲ θαυμάσιος ἐκ παίδων, ὅτε καὶ νέος ὢν ἔφασκε μηδὲν εἰδέναι, τέλειος μέντοι γενόμενος πάντ᾽ ἐγνωκέναι. 
+
+He was exceptional from his boyhood ; for when a youth he used to say that he knew nothing, although when he was grown up he claimed that he knew everything. 
+
+ἤκουσέ τ᾽ οὐδενός, ἀλλ᾽ αὑτὸν ἔφη διζήσασθαι καὶ μαθεῖν πάντα παρ᾽ ἑαυτοῦ. 
+
+He was nobody's pupil, but he declared that he "inquired of himself,"10 and learned everything from himself. 
+
+Σωτίων δέ φησιν εἰρηκέναι τινὰς Ξενοφάνους αὐτὸν ἀκηκοέναι: λέγειν τε Ἀρίστωνα ἐν τῷ Περὶ Ἡρακλείτου καὶ τὸν ὕδερον αὐτὸν θεραπευθῆναι, ἀποθανεῖν δ᾽ ἄλλῃ νόσῳ. τοῦτο δὲ καὶ Ἱππόβοτός φησι.
+
+Some, however, had said that he had been a pupil of Xenophanes, as we learn from Sotion, who also tells us that Ariston in his book On Heraclitus declares that he was cured of the dropsy and died of another disease. And Hippobotus has the same story.
+
+Τὸ δὲ φερόμενον αὐτοῦ βιβλίον ἐστὶ μὲν ἀπὸ τοῦ συνέχοντος Περὶ φύσεως, διῄρηται δ᾽ εἰς τρεῖς λόγους, εἴς τε τὸν περὶ τοῦ παντὸς καὶ πολιτικὸν καὶ θεολογικόν. 10 
+
+As to the work which passes as his, it is a continuous treatise On Nature, but is divided into three discourses, one on the universe, another on politics, and a third on theology. 
+#### 6
+[6] ἀνέθηκε δ᾽ αὐτὸ εἰς τὸ τῆς Ἀρτέμιδος ἱερόν, ὡς μέν τινες, ἐπιτηδεύσας ἀσαφέστερον γράψαι, ὅπως οἱ δυνάμενοι <μόνοι> προσίοιεν αὐτῷ καὶ μὴ ἐκ τοῦ δημώδους εὐκαταφρόνητον ᾖ. 
+
+[6] This book he deposited in the temple of Artemis and, according to some, he deliberately made it the more obscure in order that none but adepts should approach it, and lest familiarity should breed contempt. 
+
+τοῦτον δὲ καὶ ὁ Τίμων ὑπογράφει λέγων,
+
+Of our philosopher Timon11 gives a sketch in these words12 :
+
+τοῖς δ᾽ ἔνι κοκκυστής, ὀχλολοίδορος Ἡράκλειτος, αἰνικτὴς ἀνόρουσε.
+
+In their midst uprose shrill, cuckoo-like, a mob-reviler, riddling Heraclitus.
+
+Θεόφραστος δέ φησιν ὑπὸ μελαγχολίας τὰ μὲν ἡμιτελῆ, τὰ δ᾽ ἄλλοτ᾽ ἄλλως ἔχοντα γράψαι. 
+
+Theophrastus puts it down to melancholy that some parts of his work are half-finished, while other parts make a strange medley. 
+
+σημεῖον δ᾽ αὐτοῦ τῆς μεγαλοφροσύνης Ἀντισθένης φησὶν ἐν Διαδοχαῖς: ἐκχωρῆσαι γὰρ τἀδελφῷ τῆς βασιλείας. 
+
+As a proof of his magnanimity Antisthenes in his Successions of Philosophers cites the fact that he renounced his claim to the kingship in favour of his brother. 
+
+τοσαύτην δὲ δόξαν ἔσχε τὸ σύγγραμμα ὡς καὶ αἱρετιστὰς ἀπ᾽ αὐτοῦ γενέσθαι τοὺς κληθέντας Ἡρακλειτείους.
+
+So great fame did his book win that a sect was founded and called the Heracliteans, after him.
+#### 7
+Ἐδόκει δ᾽ αὐτῷ καθολικῶς μὲν τάδε: 
+
+Here is a general summary of his doctrines. 
+
+ἐκ πυρὸς τὰ πάντα συνεστάναι καὶ εἰς τοῦτο ἀναλύεσθαι: 
+
+All things are composed of fire, and into fire they are again resolved ; 
+
+πάντα δὲ γίνεσθαι καθ᾽ εἱμαρμένην καὶ διὰ τῆς ἐναντιοδρομίας ἡρμόσθαι τὰ ὄντα: 
+
+further, all things come about by destiny, and existent things are brought into harmony by the clash of opposing currents ; 
+
+καὶ πάντα ψυχῶν εἶναι καὶ δαιμόνων πλήρη. 
+
+again, all things are filled with souls and divinities. 
+
+εἴρηκε δὲ καὶ περὶ τῶν ἐν κόσμῳ συνισταμένων πάντων παθῶν, ὅτι τε ὁ ἥλιός ἐστι τὸ μέγεθος οἷος φαίνεται. 
+
+He has also given an account of all the orderly happenings in the universe, and declares the sun to be no larger than it appears. 
+
+λέγεται δὲ καὶ 
+
+Another of his sayings is : 
+
+"ψυχῆς πείρατα ἰὼν οὐκ ἂν ἐξεύροιο, πᾶσαν ἐπιπορευόμενος ὁδόν: οὕτω βαθὺν λόγον ἔχει." 
+
+"Of soul thou shalt never find boundaries, not if thou trackest it on every path ; so deep is its cause."13 
+
+τήν τ᾽ οἴησιν ἱερὰν νόσον ἔλεγε καὶ τὴν ὅρασιν ψεύδεσθαι. 
+
+Self-conceit he used to call a falling sickness (epilepsy) and eyesight a lying sense.14 
+
+λαμπρῶς τ᾽ ἐνίοτε ἐν τῷ συγγράμματι καὶ σαφῶς ἐκβάλλει, ὥστε καὶ τὸν νωθέστατον ῥᾳδίως γνῶναι καὶ δίαρμα ψυχῆς λαβεῖν: 
+
+Sometimes, however, his utterances are clear and distinct, so that even the dullest can easily understand and derive therefrom elevation of soul. 
+
+ἥ τε βραχύτης καὶ τὸ βάρος τῆς ἑρμηνείας ἀσύγκριτον.
+
+For brevity and weightiness his exposition is incomparable.
+#### 8
+12 [8] Καὶ τὰ ἐπὶ μέρους δὲ αὐτῷ ὧδ᾽ ἔχει τῶν δογμάτων: 
+
+Coming now to his particular tenets, we may state them as follows : 
+
+πῦρ εἶναι στοιχεῖον καὶ πυρὸς ἀμοιβὴν τὰ πάντα, ἀραιώσει καὶ πυκνώσει γινόμενα. 
+
+fire is the element, all things are exchange for fire and come into being by rarefaction and condensation15 ; 
+
+σαφῶς δ᾽ οὐδὲν ἐκτίθεται. 
+
+but of this he gives no clear explanation. 
+
+γίνεσθαί τε πάντα κατ᾽ ἐναντιότητα καὶ ῥεῖν τὰ ὅλα ποταμοῦ δίκην, πεπεράνθαι τε τὸ πᾶν καὶ ἕνα εἶναι κόσμον: 
+
+All things come into being by conflict of opposites, and the sum of things flows like a stream. Further, all that is is limited and forms one world. 
+
+γεννᾶσθαί τε αὐτὸν ἐκ πυρὸς καὶ πάλιν ἐκπυροῦσθαι κατά τινας περιόδους ἐναλλὰξ τὸν σύμπαντα αἰῶνα: 
+
+And it is alternately born from fire and again resolved into fire in fixed cycles to all eternity, 
+
+τοῦτο δὲ γίνεσθαι καθ᾽ εἱμαρμένην. 
+
+and this is determined by destiny. 
+
+τῶν δὲ ἐναντίων τὸ μὲν ἐπὶ τὴν γένεσιν ἄγον καλεῖσθαι πόλεμον καὶ ἔριν, τὸ δ᾽ ἐπὶ τὴν ἐκπύρωσιν ὁμολογίαν καὶ εἰρήνην, καὶ τὴν μεταβολὴν ὁδὸν ἄνω κάτω, τόν τε κόσμον γίνεσθαι κατ᾽ αὐτήν.
+
+Of the opposites that which tends to birth or creation is called war and strife, and that which tends to destruction by fire is called concord and peace.16 Change he called a pathway up and down, and this determines the birth of the world.
+#### 9
+[9] Πυκνούμενον γὰρ τὸ πῦρ ἐξυγραίνεσθαι συνιστάμενόν τε γίνεσθαι ὕδωρ, πηγνύμενον δὲ τὸ ὕδωρ εἰς γῆν τρέπεσθαι: 
+
+For fire by contracting turns into moisture, and this condensing turns into water ; water again when congealed turns into earth. 
+
+καὶ ταύτην ὁδὸν ἐπὶ τὸ κάτω εἶναι. 
+
+This process he calls the downward path. 
+
+πάλιν τε αὖ τὴν γῆν χεῖσθαι, ἐξ ἧς τὸ ὕδωρ γίνεσθαι, ἐκ δὲ τούτου τὰ λοιπά, σχεδὸν πάντα ἐπὶ τὴν ἀναθυμίασιν ἀνάγων τὴν ἀπὸ τῆς θαλάττης: 
+
+Then again earth is liquefied, and thus gives rise to water, and from water the rest of the series is derived. He reduces nearly everything to exhalation from the sea. 
+
+αὕτη δέ ἐστιν ἡ ἐπὶ τὸ ἄνω ὁδός. 
+
+This process is the upward path. 
+
+γίνεσθαι δ᾽ ἀναθυμιάσεις ἀπό τε γῆς καὶ θαλάττης, ἃς μὲν λαμπρὰς καὶ καθαράς, ἃς δὲ σκοτεινάς. 
+
+Exhalations arise from earth as well as from sea ; those from sea are bright and pure, those from earth dark. 
+
+αὔξεσθαι δὲ τὸ μὲν πῦρ ὑπὸ τῶν λαμπρῶν, τὸ δὲ ὑγρὸν ὑπὸ τῶν ἑτέρων. 
+
+Fire is fed by the bright exhalations, the moist element by the others. 
+
+τὸ δὲ περιέχον ὁποῖόν ἐστιν οὐ δηλοῖ: 
+
+He does not make clear the nature of the surrounding element. 
+
+εἶναι μέντοι ἐν αὐτῷ σκάφας ἐπεστραμμένας κατὰ κοῖλον πρὸς ἡμᾶς, ἐν αἷς ἀθροιζομένας τὰς λαμπρὰς ἀναθυμιάσεις ἀποτελεῖν φλόγας, ἃς εἶναι τὰ ἄστρα. 14 
+
+He says, however, that there are in it bowls with their concavities turned towards us, in which the bright exhalations collect and produce flames. These are the stars. 
+#### 10
+[10] λαμπροτάτην δὲ εἶναι τὴν τοῦ ἡλίου φλόγα καὶ θερμοτάτην. 
+
+The flame of the sun is the brightest and the hottest ; 
+
+τὰ μὲν γὰρ ἄλλα ἄστρα πλεῖον ἀπέχειν ἀπὸ γῆς καὶ διὰ τοῦτο ἧττον λάμπειν καὶ θάλπειν, τὴν δὲ σελήνην προσγειοτέραν οὖσαν μὴ διὰ τοῦ καθαροῦ φέρεσθαι τόπου. 
+
+the other stars are further from the earth and for that reason give it less light and heat. The moon, which is nearer to the earth, traverses a region which is not pure. 
+
+τὸν μέντοι ἥλιον ἐν διαυγεῖ καὶ ἀμιγεῖ κινεῖσθαι15 καὶ σύμμετρον ἀφ᾽ ἡμῶν ἔχειν διάστημα: 
+
+The sun, however, moves in a clear and untroubled region, and keeps a proportionate distance from us. 
+
+τοιγάρτοι μᾶλλον θερμαίνειν τε καὶ φωτίζειν. 
+
+That is why it gives us more heat and light. 
+
+ἐκλείπειν τε ἥλιον καὶ σελήνην, ἄνω στρεφομένων τῶν σκαφῶν: τούς τε κατὰ μῆνα τῆς σελήνης σχηματισμοὺς γίνεσθαι στρεφομένης ἐν αὐτῇ κατὰ μικρὸν τῆς σκάφης. 
+
+Eclipses of the sun and moon occur when the bowls are turned upwards ; the monthly phases of the moon are due to the bowl turning round in its place little by little. 
+
+ἡμέραν τε καὶ νύκτα γίνεσθαι καὶ μῆνας καὶ ὥρας ἐτείους καὶ ἐνιαυτοὺς ὑετούς τε καὶ πνεύματα καὶ τὰ τούτοις ὅμοια κατὰ τὰς διαφόρους ἀναθυμιάσεις. 16 
+
+Day and night, months, seasons and years, rains and winds and other similar phenomena are accounted for by the various exhalations. 
+#### 11
+[11] τὴν μὲν γὰρ λαμπρὰν ἀναθυμίασιν φλογωθεῖσαν ἐν τῷ κύκλῳ17 τοῦ ἡλίου ἡμέραν ποιεῖν, τὴν δὲ ἐναντίαν ἐπικρατήσασαν νύκτ᾽ ἀποτελεῖν: 
+
+Thus the bright exhalation, set aflame in the hollow orb of the sun, produces day, the opposite exhalation when it has got the mastery causes night ; 
+
+καὶ ἐκ μὲν τοῦ λαμπροῦ τὸ θερμὸν αὐξόμενον θέρος ποιεῖν, ἐκ δὲ τοῦ σκοτεινοῦ τὸ ὑγρὸν πλεονάζον χειμῶνα ἀπεργάζεσθαι. 
+
+the increase of warmth due to the bright exhalation produces summer, whereas the preponderance of moisture due to the dark exhalation brings about winter. 
+
+ἀκολούθως δὲ τούτοις καὶ περὶ τῶν ἄλλων αἰτιολογεῖ. 
+
+His explanations of other phenomena are in harmony with this. 
+
+περὶ δὲ τῆς γῆς οὐδὲν ἀποφαίνεται ποία τίς ἐστιν, ἀλλ᾽ οὐδὲ περὶ τῶν σκαφῶν. καὶ ταῦτα μὲν ἦν αὐτῷ τὰ δοκοῦντα.
+
+He gives no account of the nature of the earth, nor even of the bowls. These, then, were his opinions.
+
+Τὰ δὲ περὶ Σωκράτους καὶ ὅσα ἐντυχὼν τῷ συγγράμματι εἴποι, κομίσαντος Εὐριπίδου, καθά φησιν Ἀρίστων, ἐν τῷ περὶ Σωκράτους εἰρήκαμεν. 18
+
+The story told by Ariston of Socrates, and his remarks when he came upon the book of Heraclitus, which Euripides brought him, I have mentioned in my Life of Socrates.17
 ## c2
 
 ### 18
@@ -2149,7 +2446,7 @@ Seven and sixty are now the years that have been tossing my cares up and down th
 Φησὶ δὲ τέτταρα εἶναι τῶν ὄντων στοιχεῖα, κόσμους δ᾽ ἀπείρους, οὐ παραλλακτοὺς δέ. τὰ νέφη συνίστασθαι τῆς ἀφ᾽ ἡλίου ἀτμίδος ἀναφερομένης καὶ αἰρούσης αὐτὰ εἰς τὸ περιέχον. οὐσίαν θεοῦ σφαιροειδῆ, μηδὲν ὅμοιον ἔχουσαν ἀνθρώπῳ: ὅλον δὲ ὁρᾶν καὶ ὅλον ἀκούειν, μὴ μέντοι ἀναπνεῖν: σύμπαντά τε εἶναι νοῦν καὶ φρόνησιν καὶ ἀΐδιον. πρῶτός τε ἀπεφήνατο ὅτι πᾶν τὸ γινόμενον φθαρτόν ἐστι καὶ ἡ ψυχὴ πνεῦμα.
 
 He holds that there are four elements of existent things, and worlds unlimited in number but not overlapping [in time]. Clouds are formed when the vapour from the sun is carried upwards and lifts them into the surrounding air. The substance of God is spherical, in no way resembling man. He is all eye and all ear, but does not breathe; he is the totality of mind and thought, and is eternal. Xenophanes was the first to declare that everything which comes into being is doomed to perish, and that the soul is breath.
-
+## c9
 ## c11
 http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D9%3Achapter%3D11
 ### 61

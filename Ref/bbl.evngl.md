@@ -537,6 +537,14 @@ He shall be great, and shall be called the Son of the Highest: and the Lord God 
 et regnabit in domo Iacob in aeternum et regni eius non erit finis
 
 And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.
+#### 60
+και αποκριθεισα η μητηρ αυτου ειπεν ουχι αλλα κληθησεται ιωαννης
+
+And his mother answered and said, Not [so]; but he shall be called John.
+#### 61
+και ειπον προς αυτην οτι ουδεις εστιν εν τη συγγενεια σου ος καλειται τω ονοματι τουτω
+
+And they said unto her, There is none of thy kindred that is called by this name.
 ## c2
 ### 1
 εγενετο δε εν ταις ημεραις εκειναις εξηλθεν δογμα παρα καισαρος αυγουστου απογραφεσθαι πασαν την οικουμενην

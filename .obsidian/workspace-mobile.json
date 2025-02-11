@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/mtsP.md",
+                "file": "Ref/RV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mtsP"
+              "title": "RV"
             }
           },
           {
@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/adad/Samkhya_kabbala_ghuli.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/iren.advHaer.md",
+                "file": "Ref/smplc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "iren.advHaer"
+              "title": "smplc"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.torah.md",
+                "file": "Ref/bbl.prophecy.neviim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bbl.torah"
+              "title": "bbl.prophecy.neviim"
             }
           },
           {
@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boomerang/bal.md",
+                "file": "boomerang/sylhet_social_media.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bal"
+              "title": "sylhet_social_media"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/pl.tim.md",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/wiswas/wiswas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pl.tim"
+              "title": "wiswas"
             }
           },
           {
@@ -246,21 +246,21 @@
             }
           },
           {
-            "id": "2bdce49042c4ca21",
+            "id": "3b93f3d02fdf239d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nfs.md",
-                "mode": "preview",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/hyperborean_apollo_nara_narayana.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nfs"
+              "title": "hyperborean_apollo_nara_narayana"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -275,7 +275,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -287,7 +288,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Gaude",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -354,7 +355,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nfs.md"
+            "file": "Ref/smplc.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -366,39 +370,40 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2bdce49042c4ca21",
+  "active": "906d4dd5c5280b00",
   "lastOpenFiles": [
+    "Ref/bbl.prophecy.neviim.md",
+    "Ref/bbl.history.neviim.md",
+    "Ref/bbl.poetry.md",
+    "Ref/bbl.torah.md",
+    "Ref/smplc.md",
+    "Ref/bbl.evngl.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/wiswas/wiswas.md",
+    "Ref/arstl.cael.md",
+    "Ref/arstl.MetP.md",
+    "Ref/diog.lives.md",
+    "Ref/pl.leges.md",
+    "Ref/pl.rep.md",
+    "Ref/RV.md",
+    "Ref/SpB.md",
+    "Ref/epiph.panar.md",
+    "Ref/arstl.phys.md",
     "Ref/pl.tim.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Science/Science_claims.sync-conflict-20250106-155221-AFLIAW3.md",
-    "Ref/mtsP.sync-conflict-20241122-015137-AFLIAW3.md",
-    "Ref/mtsP.sync-conflict-20241122-015037-AFLIAW3.md",
-    "Ref/MB.sync-conflict-20240901-094935-RXT2P7M.md",
-    "Ref/MB.sync-conflict-20240830-123929-RXT2P7M.md",
-    "Ref/MB.sync-conflict-20240830-122003-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak.sync-conflict-20250109-141737-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.sync-conflict-20250109-141736-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Free will/No free will in quran.sync-conflict-20241128-073714-RXT2P7M.md",
-    "Ref/ptjYogS.sync-conflict-20250123-040211-BGQWT43.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.sync-conflict-20241030-104033-AFLIAW3.md",
-    "Ref/Qrsi.sync-conflict-20250112-235541-AFLIAW3.md",
-    "Ref/RV.sync-conflict-20241124-193627-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ruh/ruh.sync-conflict-20241223-180808-AFLIAW3.md",
-    "Ref/RV.sync-conflict-20241125-015844-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/znn_zEm_fry_kdhb.sync-conflict-20241227-115628-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.sync-conflict-20241126-165802-AFLIAW3.md",
-    "Ref/iamb.MEg.sync-conflict-20240901-182359-AFLIAW3.md",
-    "Ref/mtsP.sync-conflict-20241122-014927-AFLIAW3.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nfs.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nfs3.md",
-    "Ref/frds.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nfs2.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/nafs/nafs_whd.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/turan/huna.md",
+    "Ref/iren.advHaer.md",
+    "Ref/ChU.md",
+    "Ref/kthU.md",
+    "boomerang/sylhet_social_media.md",
+    "boomerang/bal.md",
+    "boomerang/Hindutva.md",
+    "Ref/clmnt.md",
+    "Ref/BU.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/adad/Samkhya_kabbala_ghuli.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/a'jamī/Indian",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/wiswas",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/tawhid",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad/Itqan",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kawthar",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad",
@@ -411,9 +416,6 @@
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn_shaytan.png",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/rkb",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/Kahin",
-    "Ref/umm.kitab",
-    "Ref/haft.azilla",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/araf/Pythagorean_platonic/15194409_656388334522608_3437266025718668693_o.jpg",
     "Ref/Pasted image 20241128002518.png",
     "Untitled 2.canvas",

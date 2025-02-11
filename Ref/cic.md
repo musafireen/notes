@@ -174,7 +174,7 @@ for the earthly sphere, the ninth, remains ever motionless and stationary in its
 Illi autem octo cursus, in quibus eadem vis est duorum, septem efficiunt distinctos intervallis sonos, qui numerus rerum omnium fere nodus est; 
 
 But the other eight spheres, two of which move with the same velocity, produce seven different sounds, - a number which is the key of almost everything. 
-
+#### 7
 quod docti homines nervis imitati atque cantibus aperuerunt sibi reditum in hunc locum, sicut alii, qui praestantibus ingeniis in vita humana divina studia coluerunt.
 
 Learned men, by imitating this harmony on stringed instruments and in song, have gained for themselves a return to this region, as others have obtained the same reward by devoting their brilliant intellects to divine pursuits during their earthly lives. 

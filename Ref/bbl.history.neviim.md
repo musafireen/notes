@@ -308,6 +308,27 @@ Now therefore send, [and] gather to me all Israel unto mount Carmel, and the pro
 וַיֹּ֤אמֶר אֵלִיָּ֙הוּ֙ אֶל־הָעָ֔ם אֲנִ֞י נוֹתַ֧רְתִּי נָבִ֛יא לַיהוָ֖ה לְבַדִּ֑י וּנְבִיאֵ֣י הַבַּ֔עַל אַרְבַּע־מֵא֥וֹת וַחֲמִשִּׁ֖ים אִֽישׁ ׃
 
 Then said Elijah unto the people, I, [even] I only, remain a prophet of the LORD; but Baal´s prophets [are] four hundred and fifty men.
+## c22
+#### 10
+וּמֶ֣לֶךְ יִשְׂרָאֵ֡ל וִֽיהוֹשָׁפָ֣ט מֶֽלֶךְ־יְהוּדָ֡ה יֹשְׁבִים֩ אִ֨ישׁ עַל־כִּסְא֜וֹ מְלֻבָּשִׁ֤ים בְּגָדִים֙ בְּגֹ֔רֶן פֶּ֖תַח שַׁ֣עַר שֹׁמְר֑וֹן וְכָ֨ל־הַנְּבִיאִ֔ים מִֽתְנַבְּאִ֖ים לִפְנֵיהֶֽם ׃
+
+And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria; and all the prophets prophesied before them.
+#### 19
+וַיֹּ֕אמֶר לָכֵ֖ן שְׁמַ֣ע דְּבַר־יְהוָ֑ה רָאִ֤יתִי אֶת־יְהוָה֙ יֹשֵׁ֣ב עַל־כִּסְא֔וֹ וְכָל־צְבָ֤א הַשָּׁמַ֙יִם֙ עֹמֵ֣ד עָלָ֔יו מִימִינ֖וֹ וּמִשְּׂמֹאלֽוֹ ׃
+
+And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.
+#### 20
+וַיֹּ֣אמֶר יְהוָ֗ה מִ֤י יְפַתֶּה֙ אֶת־אַחְאָ֔ב וְיַ֕עַל וְיִפֹּ֖ל בְּרָמֹ֣ת גִּלְעָ֑ד וַיֹּ֤אמֶר זֶה֙ בְּכֹ֔ה וְזֶ֥ה אֹמֵ֖ר בְּכֹֽה ׃
+
+And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead ? And one said on this manner, and another said on that manner.
+#### 21
+וַיֵּצֵ֣א הָר֗וּחַ וַֽיַּעֲמֹד֙ לִפְנֵ֣י יְהוָ֔ה וַיֹּ֖אמֶר אֲנִ֣י אֲפַתֶּ֑נּוּ וַיֹּ֧אמֶר יְהוָ֛ה אֵלָ֖יו בַּמָּֽה ׃
+
+And there came forth a spirit, and stood before the LORD, and said, I will persuade him.
+#### 23
+וְעַתָּ֗ה הִנֵּ֨ה נָתַ֤ן יְהוָה֙ ר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל־נְבִיאֶ֣יךָ אֵ֑לֶּה וַֽיהוָ֔ה דִּבֶּ֥ר עָלֶ֖יךָ רָעָֽה ׃
+
+Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee.
 # 2_kings
 ## c1
 ### 9

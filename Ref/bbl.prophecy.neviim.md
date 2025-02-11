@@ -25,12 +25,37 @@ Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceiv
 
 For before the child shall have knowledge to cry, My father, and my mother, the riches of Damascus and the spoil of Samaria shall be taken away before the king of Assyria.
 ## c11
-## 1
+#### 1
 וְיָצָ֥א חֹ֖טֶר מִגֵּ֣זַע יִשָׁ֑י וְנֵ֖צֶר מִשָּׁרָשָׁ֥יו יִפְרֶֽה ׃
 
 και εξελευσεται ραβδος εκ της ριζης ιεσσαι και ανθος εκ της ριζης αναβησεται
 
 And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:
+## c14
+#### 4
+וְנָשָׂ֜אתָ הַמָּשָׁ֥ל הַזֶּ֛ה עַל־מֶ֥לֶךְ בָּבֶ֖ל וְאָמָ֑רְתָּ אֵ֚יךְ שָׁבַ֣ת נֹגֵ֔שׂ שָׁבְתָ֖ה מַדְהֵבָֽה ׃
+
+That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased ! the golden city ceased !(proverb: or, taunting speech)
+#### 8
+גַּם־בְּרוֹשִׁ֛ים שָׂמְח֥וּ לְךָ֖ אַרְזֵ֣י לְבָנ֑וֹן מֵאָ֣ז שָׁכַ֔בְתָּ לֹֽא־יַעֲלֶ֥ה הַכֹּרֵ֖ת עָלֵֽינוּ ׃
+
+Yea, the fir trees rejoice at thee, [and] the cedars of Lebanon, [saying], Since thou art laid down, no feller is come up against us.
+#### 12
+אֵ֛יךְ נָפַ֥לְתָּ מִשָּׁמַ֖יִם הֵילֵ֣ל בֶּן־שָׁ֑חַר נִגְדַּ֣עְתָּ לָאָ֔רֶץ חוֹלֵ֖שׁ עַל־גּוֹיִֽם ׃
+
+How art thou fallen from heaven, O Lucifer, son of the morning ! [how] art thou cut down to the ground, which didst weaken the nations !
+#### 13
+וְאַתָּ֞ה אָמַ֤רְתָּ בִֽלְבָבְךָ֙ הַשָּׁמַ֣יִם אֶֽעֱלֶ֔ה מִמַּ֥עַל לְכֽוֹכְבֵי־אֵ֖ל אָרִ֣ים כִּסְאִ֑י וְאֵשֵׁ֥ב בְּהַר־מוֹעֵ֖ד בְּיַרְכְּתֵ֥י צָפֽוֹן ׃
+
+For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
+#### 14
+אֶעֱלֶ֖ה עַל־בָּ֣מֳתֵי עָ֑ב אֶדַּמֶּ֖ה לְעֶלְיֽוֹן ׃
+
+I will ascend above the heights of the clouds; I will be like the most High.
+#### 15
+אַ֧ךְ אֶל־שְׁא֛וֹל תּוּרָ֖ד אֶל־יַרְכְּתֵי־בֽוֹר ׃
+
+Yet thou shalt be brought down to hell, to the sides of the pit.
 ## c42
 ### 8
 אֲנִ֥י יְהוָ֖ה ה֣וּא שְׁמִ֑י וּכְבוֹדִי֙ לְאַחֵ֣ר לֹֽא־אֶתֵּ֔ן וּתְהִלָּתִ֖י לַפְּסִילִֽים ׃
@@ -187,7 +212,35 @@ The appearance of the wheels and their work [was] like unto the colour of a bery
 et super firmamentum quod erat inminens capiti eorum quasi aspectus lapidis sapphyri similitudo throni et super similitudinem throni similitudo quasi aspectus hominis desuper
 
 And above the firmament that [was] over their heads [was] the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne [was] the likeness as the appearance of a man above upon it.
+## c28
+#### 3
+הִנֵּ֥ה חָכָ֛ם אַתָּ֖ה מדנאל כָּל־סָת֖וּם לֹ֥א עֲמָמֽוּךָ ׃
 
+Behold, thou [art] wiser than Daniel; there is no secret that they can hide from thee:
+#### 4
+בְּחָכְמָֽתְךָ֙ וּבִתְבוּנָ֣תְךָ֔ עָשִׂ֥יתָ לְּךָ֖ חָ֑יִל וַתַּ֛עַשׂ זָהָ֥ב וָכֶ֖סֶף בְּאוֹצְרוֹתֶֽיךָ ׃
+
+by your wisdom and by your understanding you have gotten you riches, and have gotten gold and silver into your treasures;
+#### 6
+לָכֵ֕ן כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה יַ֛עַן תִּתְּךָ֥ אֶת־לְבָבְךָ֖ כְּלֵ֥ב אֱלֹהִֽים ׃
+
+Therefore thus saith the Lord GOD; Because thou hast set thine heart as the heart of God;
+#### 7
+לָכֵ֗ן הִנְנִ֨י מֵבִ֤יא עָלֶ֙יךָ֙ זָרִ֔ים עָרִיצֵ֖י גּוֹיִ֑ם וְהֵרִ֤יקוּ חַרְבוֹתָם֙ עַל־יְפִ֣י חָכְמָתֶ֔ךָ וְחִלְּל֖וּ יִפְעָתֶֽךָ ׃
+
+Behold, therefore I will bring strangers upon thee, the terrible of the nations: and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy brightness.
+#### 8
+לַשַּׁ֖חַת יֽוֹרִד֑וּךָ וָמַ֛תָּה מְמוֹתֵ֥י חָלָ֖ל בְּלֵ֥ב יַמִּֽים ׃
+
+They shall bring thee down to the pit, and thou shalt die the deaths of [them that are] slain in the midst of the seas.
+#### 12
+בֶּן־אָדָ֕ם שָׂ֥א קִינָ֖ה עַל־מֶ֣לֶךְ צ֑וֹר וְאָמַ֣רְתָּ לּ֗וֹ כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה אַתָּה֙ חוֹתֵ֣ם תָּכְנִ֔ית מָלֵ֥א חָכְמָ֖ה וּכְלִ֥יל יֹֽפִי ׃
+
+Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith the Lord GOD; Thou sealest up the sum, full of wisdom, and perfect in beauty.
+#### 13
+בְּעֵ֨דֶן גַּן־אֱלֹהִ֜ים הָיִ֗יתָ כָּל־אֶ֨בֶן יְקָרָ֤ה מְסֻכָתֶ֙ךָ֙ אֹ֣דֶם פִּטְדָ֞ה וְיָהֲלֹ֗ם תַּרְשִׁ֥ישׁ שֹׁ֙הַם֙ וְיָ֣שְׁפֵ֔ה סַפִּ֣יר נֹ֔פֶךְ וּבָרְקַ֖ת וְזָהָ֑ב מְלֶ֨אכֶת תֻּפֶּ֤יךָ וּנְקָבֶ֙יךָ֙ בָּ֔ךְ בְּי֥וֹם הִבָּרַאֲךָ֖ כּוֹנָֽנוּ ׃
+
+Thou hast been in Eden the garden of God; every precious stone [was] thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created. (sardius: or, ruby)(beryl: or, chrysolite)
 ## c38
 ### 2
 בֶּן־אָדָ֗ם שִׂ֤ים פָּנֶ֙יךָ֙ אֶל־גּוֹג֙ אֶ֣רֶץ הַמָּג֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֣שֶׁךְ וְתֻבָ֑ל וְהִנָּבֵ֖א עָלָֽיו ׃

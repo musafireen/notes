@@ -17129,6 +17129,7 @@ Ask them: 'Whose testimony is the greatest?' Say: 'Allah is the witness between 
 
 ![[#r6.3.1]]
 ![[#r6.3.2]]
+![[Qrsi#r6.3.3]]
 ## r6.3.1
 
 [Q.6.21-22](https://www.islamicstudies.info/tafheem.php?sura=6&verse=21&to=22)
@@ -26776,7 +26777,7 @@ On that Day We shall roll up the heavens like a scroll for writing. Even as We o
 ### 21:105
 وَلَقَدْ كَتَبْنَا فِى ٱلزَّبُورِ مِنۢ بَعْدِ ٱلذِّكْرِ أَنَّ ٱلْأَرْضَ يَرِثُهَا عِبَادِىَ ٱلصَّـٰلِحُونَ
 
-Surely We wrote in the Psalms, after the exhortation, that the earth shall be inherited by My righteous servants.
+Surely We wrote in the Psalms, after the exhortation, that the earth shall be inherited by My righteous servants.[[bbl.poetry#psalms#c37#11]]
 
 
 ### 21:106
@@ -31634,8 +31635,8 @@ Those whom We have given the Book will recognize this just as they recognize the
 
 ## r6.3.2
 
-[Q.6.23-30](https://www.islamicstudies.info/tafheem.php?sura=6&verse=23&to=30)
-6.23-30
+[Q.6.23-23](https://www.islamicstudies.info/tafheem.php?sura=6&verse=23&to=23)
+6.23-23
 
 ### 6:23
 ثُمَّ لَمْ تَكُن فِتْنَتُهُمْ إِلَّآ أَن قَالُوا۟ وَٱللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ

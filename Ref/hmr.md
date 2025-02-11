@@ -310,6 +310,11 @@ IL.1.30   in my own house, in Argos, far from her own land, going
 Oceanus,tethys
 ### 261
 Nyx, zeus
+## b3
+#### 189
+ἤματι τῷ 13ὅτε τ' ἦλθον Άμαζόνες ἀντιάνειραι:
+
+On that day when the Amazon women came, men's equals.
 ## b6
 ### 130
 ILE 130 οὐδὲ γὰρ οὐδὲ Δρύαντος υἱός κρατερός) Λυκόοργος
@@ -881,3 +886,31 @@ OD.11.639   and the current's wave carried her through river Ocean,
 
 OD.11.640   πρῶτα μὲν εἰρεσίη, μετέπειτα δὲ κάλλιμος οὖρος.
 OD.11.640   rowing first, then afterwards a beautiful fair wind.
+## b17
+τὸν δ' ἀπαμειβόμενος προσέφης, 3] [5Εύμαιε συβώτα:2]4[5]
+
+OD.17.380 Swineherd Eumaeus, you said to him in reply:
+
+OD.17.381 [Αντίνο', οὐ μὲν καλά6] 17 καὶ ἐσθλὸς ἐὼν ἀγορεύεις:71
+
+OD.17.381 "Antinous, though you're a noble, you aren't speaking nobly.
+
+OD.17.382 τίς γὰρ δὴ ξεῖνον καλεῖ ἄλλοθεν αὐτὸς ἐπελθὼν 17.382 For who invites a stranger from elsewhere, when he comes upon
+
+OD.17.383 ἄλλον γ', εἰ μὴ τῶν ἱοἳ δημιοεργοὶ ἔασι, 81
+
+OD.17.383 another, unless he's one of those who work for the kingdom,
+
+1384 μάντιν ἢ ἰητῆρα κακῶν ἢ τέκτονα δούρων,
+
+34 a seer, or a healer of evils, or a skilled worker with beams,
+
+OD.17.385 ἢ καὶ θέσπιν ἀοιδόν, ὅ κεν [τέρπῃσιν ἀείδων;]
+
+OD.17.385 or even an inspired singer, who would delight with his singing?
+
+OD.17.386 οὗτοι γάρ κλητοί γε το βροτῶν [έπ' [12ἀπείρονα γαῖαν:10]11]12] OD.17.386 For these are invited by mortals all over the boundless earth,
+
+OD.17.387 πτωχόν [13δ' οὐκ ἄν τις 13] καλέοι τρύξοντα ἔ αὐτόν.
+
+OD.17.387 but no one would invite a beggar who'd consume him.

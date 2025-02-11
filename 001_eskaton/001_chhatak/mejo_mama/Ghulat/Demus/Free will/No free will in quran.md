@@ -1,5 +1,5 @@
 
-![[surord#18]]
+![[surord#6]]
 # Q:no free will in quran?
 
 # Q:68:1
@@ -23,6 +23,10 @@
 ## $rr xlq rbb
 # Q:53:26
 ![[Qrsi#53:26]]
+# Q:91:7
+![[Qrsi#91:7]]
+![[Qrsi#91:8]]![[Qrsi#91:9]]![[Qrsi#91:10]]
+## نَفْس لهم فَجَر تَقْوَى
 # Q:7:179
 ![[Qrsi#7:179]]
 ## *rA Ans kvr jnhnm

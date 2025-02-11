@@ -179,8 +179,52 @@ p. 220b12 Ἔτι ὡς ἐνδέχεται κίνησιν εἶναι τὴν
 
 καὶ ὅρα ὅτι μίαν καὶ τὴν αὐτὴν λέγει κίνησιν τὴν πάλιν καὶ πάλιν, καὶ τὸ πρότερον καὶ ὕστερον ἓν καὶ τὸ αὐτό· ὅτι δὲ καὶ οὗτος ἄλλο καὶ ἄλλο τὸ ἀεὶ γινόμενον εἶναί φησι καὶ τῆς κινήσεως καὶ τοῦ χρόνου, ἄκουσον οἷα μετ' ὀλίγον τῶν ἤδη παρατεθέντων γέγραφεν· "ὥσπερ δὲ τῆς κινήσεως τὸ ἄτομόν ἐστι μόνον τὸ δὲ παρεληλυθὸς ἔρρει τὸ δὲ ἐσόμενον οὔπω ἔστιν, οὕτω καὶ τοῦ χρόνου τὸ μὲν οἴχεται τὸ δὲ οὔπω ἔστι τὸ δὲ παρόν ἐστιν ἄλλο καὶ ἄλλο γινόμενον ἀεί".
 # caelo
-http://www.poesialatina.it/_ns/Greek/testi/Simplicius/De_caelo.html
+http://www.poesialatina.it/_ns/Greek/testi/Simplicius/In_Aristotelis_quattuor_libros_de_caelo_commentaria.html
 
+http://www.poesialatina.it/_ns/Greek/testi/Simplicius/De_caelo.html
+## c293
+### s15-17
+Λοιπὸν δὲ περὶ τῆς γῆς εἰπεῖν ἕως τοῦ καὶ πειρώμε   νοι συγκοσμεῖν. 
+Ἐπὶ τὸ δέκατον καὶ τελευταῖον τοῦ βιβλίου κεφαλαῖον τὸ περὶ τῆς γῆς μέτεισιν οἰκεῖον καὶ αὐτὸ τοῖς περὶ τοῦ οὐρανοῦ λόγοις ὑπάρχον. μνημονεύσας γὰρ πρότερον τῆς γῆς καὶ ὡς ἐν μέσῳ κειμένης τοῦ παντὸς οὐρανοῦ καὶ ὡς ἀκινήτου καὶ κέντρου λόγον πρὸς αὐτὸν ἐχούσης καὶ ἀπὸ τοῦ σφαιροειδοῦς αὐτῆς τὸ τοῦ οὐρανοῦ σφαιροειδὲς ἀποδείξας καὶ ἁπλῶς τὰ κατὰ τὴν πρὸς τὸν οὐρανὸν αὐτῆς σχέσιν ἐξ ὑποθέσεως λαβὼν ταῦτα νῦν ἀποδείκνυσιν, ἵνα τέλεος ὁ περὶ τοῦ οὐρανοῦ λόγος ᾖ· καὶ γὰρ καὶ οἱ ἀστρονόμοι περὶ οὐρανοῦ καὶ τῶν οὐρανίων πραγματευόμενοι περὶ τῆς γῆς καὶ αὐτοὶ ταῦτα δεικνύουσιν, ὅτι ἐν μέσῳ τοῦ οὐρανοῦ καὶ ὅτι ἀκίνητος κέντρου λόγον ἔχουσα πρὸς τὸν οὐρανὸν καὶ τὸ σχῆμα σφαιροειδής. πάντα γὰρ αὐτῇ ταῦτα κατὰ τὴν σχέσιν ὑπάρχει τὴν πρὸς τὸν οὐρανόν, τὰ δὲ ἄλλα, ὅσα ὑπάρχει τῇ γῇ κατὰ τὴν πρὸς τὰ ἄλλα τρία στοιχεῖα σύνταξιν, ἐν τοῖς δυσὶ βιβλίοις τοῖς ἐφεξῆς ἐρεῖ. τρία οὖν περὶ αὐτῆς προβαλλόμενος περί τε τῆς θέσεως αὐτῆς, ὅπου κειμένη τυγχάνει, καὶ δεύτερον, πότερον τῶν ἠρεμούντων ἐστὶν ἢ τῶν κινουμένων, καὶ τρίτον περὶ τοῦ σχήματος αὐτῆς, τὰς προκαταβεβλημένας καὶ περὶ τούτων δόξας πρῶτον ἐκτίθεται καὶ πρὸς αὐτὰς ὑπαντήσας οὕτω τὰ δοκοῦντα ἑαυτῷ περὶ τούτων συλλογίζεται. πρῶτον δὲ περὶ τῆς θέσεως λέγει, ὅτι οἱ μὲν ἄπειρον τὸν κόσμον λέγοντες οὐδ' ἂν ζητοῖεν τὴν ἐν τῷ παντὶ θέσιν αὐτῆς· ἐν γὰρ ἀπείρῳ οὔτε ἀρχὴ οὔτε μέσον οὔτε τέλος ἐστί· τῶν δὲ πεπερασμένον τὸν κόσμον λεγόντων οἱ μὲν πλεῖστοι ἐπὶ τοῦ μέσου κεῖσθαι λέγουσι τὴν γῆν, ὥσπερ Ἐμπεδοκλῆς καὶ Ἀναξίμανδρος καὶ Ἀναξιμένης καὶ Ἀναξαγόρας καὶ Δημόκριτος καὶ Πλάτων· 
+
+"Next, we shall speak about the Earth, as far as we may attempt to bring order to our discussion.  
+
+The tenth and final chapter of the book addresses the Earth, a subject closely related to the discussion of the heavens. Having previously mentioned the Earth as lying at the center of the entire heavens, as being motionless and having the role of a center, and having demonstrated that the spherical shape of the heavens follows from the Earth's own sphericity—taking these matters hypothetically—he now sets out to prove them, so that the discussion on the heavens may be complete.  
+
+Indeed, even astronomers, when discussing the heavens and celestial bodies, demonstrate that the Earth is at the center of the heavens, that it is motionless, and that it has the role of a center relative to the heavens, as well as a spherical shape. All these attributes belong to it by virtue of its relation to the heavens. However, other properties that belong to the Earth due to its relation to the other three elements will be discussed in the following two books.  
+
+Thus, he introduces three points of inquiry regarding the Earth:  
+1. Its position—where it happens to be located.  
+2. Whether it is among stationary or moving bodies.  
+3. Its shape.  
+
+First, he sets out the pre-existing opinions on these topics, and then, having addressed them, he develops his own conclusions.  
+
+Regarding its position, he states that those who claim the cosmos is infinite do not even inquire about the Earth's position within the whole, since in an infinite cosmos there is no beginning, middle, or end. However, among those who believe the cosmos is finite, most say that the Earth lies at its center—such as Empedocles, Anaximander, Anaximenes, Anaxagoras, Democritus, and Plato.  
+### s18-25  
+ἀντιφάσκουσι δὲ οἱ Πυθαγόρειοι· τοῦτο γὰρ σημαίνει τὸ ἐναντίως· οὐ περὶ τὸ μέσον λέγοντες αὐτήν, ἀλλ' ἐν μὲν τῷ μέσῳ τοῦ παντὸς πῦρ εἶναί φασι, περὶ δὲ τὸ μέσον τὴν ἀντίχθονα φέρεσθαί φασι γῆν οὖσαν καὶ αὐτήν, ἀντίχθονα δὲ καλουμένην διὰ τὸ ἐξ ἐναντίας τῇδε τῇ γῇ εἶναι, μετὰ δὲ τὴν ἀντίχθονα ἡ γῆ ἥδε φερομένη καὶ αὐτὴ περὶ τὸ μέσον, μετὰ δὲ τὴν γῆν ἡ σελήνη· οὕτω γὰρ αὐτὸς ἐν τῷ περὶ τῶν Πυθαγορικῶν ἱστορεῖ· 
+
+The Pythagoreans, however, disagree. Instead of placing the Earth at the center, they claim that fire is at the middle of the cosmos, and that the 'Counter-Earth' (*Antichthon*) moves around this center along with the Earth. They call it *Antichthon* because it is opposite our Earth. After the *Antichthon*, our Earth also moves around the center, followed by the Moon. This is what he records in his *History of the Pythagoreans*.  
+
+τὴν δὲ γῆν ὡς ἓν τῶν ἄστρων οὖσαν κινουμένην περὶ τὸ μέσον κατὰ τὴν πρὸς τὸν ἥλιον σχέσιν νύκτα καὶ ἡμέραν ποιεῖν· ἡ δὲ ἀντίχθων κινουμένη περὶ τὸ μέσον καὶ ἑπομένη τῇ γῇ ταύτῃ οὐχ ὁρᾶται ὑφ' ἡμῶν διὰ τὸ ἐπιπροσθεῖν ἡμῖν ἀεὶ τὸ τῆς γῆς [512] σῶμα. 
+
+According to them, the Earth, being like one of the stars, moves around the center and, in relation to the Sun, creates night and day. The *Antichthon*, moving around the center and following our Earth, is not visible to us because the mass of our Earth always obscures it from view.  
+
+ταῦτα δέ, φησί, λέγουσιν οὐ πρὸς τὰ ἐναργῆ πράγματα τοὺς λόγους καὶ τὰς αἰτίας ἁρμοδίως ζητοῦντες, ἀλλὰ πρός τινας ἑαυτῶν δόξας καὶ λόγους τὰ φαινόμενα πράγματα προσέλκοντες καὶ πειρώμενοι ἐκείνοις ταῦτα συναρμόττειν, ὅπερ ἐστὶν ἀτοπώτατον· τέλειον γὰρ ἀριθμὸν ὑποθέμενοι τὴν δεκάδα ἐβούλοντο καὶ τῶν κυκλοφορητικῶν σωμάτων τὸν ἀριθμὸν εἰς δεκάδα συνάγειν. θέντες οὖν, φησί, τὴν ἀπλανῆ μίαν καὶ τὰς πλανωμένας ἑπτὰ καὶ τὴν γῆν ταύτην τῇ ἀντίχθονι τὴν δεκάδα συνεπλήρωσαν.
+
+However, he argues that these theories are not derived from clear observations or logical causes but rather from their own philosophical doctrines, attempting to fit observed phenomena into pre-existing ideas, which is highly unreasonable. They assumed that the number ten was a 'perfect' number and therefore wanted to make the number of celestial bodies conform to it. So, he says, they counted the fixed stars as one, the seven wandering planets, our Earth, and the *Antichthon*, thus completing the decade.  
+
+Καὶ οὕτω μὲν αὐτὸς τὰ τῶν Πυθαγορείων ἀπεδέξατο· οἱ δὲ γνησιώτερον αὐτῶν μετασχόντες πῦρ μὲν ἐν τῷ μέσῳ λέγουσι τὴν δημιουργικὴν δύναμιν τὴν ἐκ μέσου πᾶσαν τὴν γῆν ζῳογονοῦσαν καὶ τὸ ἀπεψυγμένον αὐτῆς ἀναθάλπουσαν· διὸ οἱ μὲν Ζηνὸς πύργον αὐτὸ καλοῦσιν, ὡς αὐτὸς ἐν τοῖς Πυθαγορικοῖς ἱστόρησεν, οἱ δὲ Διὸς φυλακήν, ὡς ἐν τούτοις, οἱ δὲ Διὸς θρόνον, ὡς ἄλλοι φασίν. 
+
+Such was their account. But those who more faithfully adhered to their ideas said that fire occupied the center, being the creative force that gives life to the entire Earth and rekindles what has cooled. For this reason, some called it 'Zeus' Tower,' as recorded in *On the Pythagoreans*, while others called it 'Zeus' Watchtower' or 'Zeus' Throne,' as various sources report.  
+
+ἄστρον δὲ τὴν γῆν ἔλεγον ὡς ὄργανον καὶ αὐτὴν χρόνου· ἡμερῶν γάρ ἐστιν αὕτη καὶ νυκτῶν αἰτία· ἡμέραν μὲν γὰρ ποιεῖ τὸ πρὸς τῷ ἡλίῳ μέρος καταλαμπομένη, νύκτα δὲ κατὰ τὸν κῶνον τῆς γινομένης ἀπ' αὐτῆς σκιᾶς. 
+
+They also considered the Earth to be a celestial body, serving as an instrument of time, since it is the cause of days and nights. Day occurs when its illuminated side faces the Sun, while night results from the conical shadow cast by the Earth.  
+
+ἀντίχθονα δὲ τὴν σελήνην ἐκάλουν οἱ Πυθαγόρειοι, ὥσπερ καὶ "αἰθερίαν γῆν," καὶ ὡς ἀντιφράττουσαν τῷ ἡλιακῷ φωτί, ὅπερ ἴδιον γῆς, καὶ ὡς ἀποπερατοῦσαν τὰ οὐράνια, καθάπερ ἡ γῆ τὸ ὑπὸ σελήνην.
+
+The Pythagoreans also called the Moon *Antichthon*, or 'Aetherial Earth,' believing it blocked solar light—just as the Earth does—and marked the boundary of the heavens, just as the Earth marks the boundary of the sublunar realm."
 ## c528
 ### s30
 
@@ -232,7 +276,6 @@ B 35
 παντοίαις ἰδέηισιν ἀρηρότα, θαῦμα ἰδέσθαι.
 
 (fr. 35 D) Mais je rentre à nouveau dans la route que mes chants | 190 | ont déjà parcourue; à mon discours j'ajoute le discours | que voici. Quand la Haine se fut retirée à l'extrémité | du tourbillon, et qu'au centre fut venue résider l'Amitié, | dès lors toutes choses se réunissent pour former un seul ensemble, | mais ce n'est pas d'un seul coup, et dans les différents lieux se constituent d'elles-mêmes des unions différentes. | 195 | De ce qui s'unit ainsi naissent les innombrables races des êtres mortels ; | mais en face de ce qui était associé, beaucoup reste isolé; | c'est ce qu'a retenu la Haine tout en s'éloignant; car elle n'était pas encore, de tous les côtés, | absolument rejetée à l'extrême limite du cercle; | mais elle occupait encore telle partie, telle autre était déjà abandonnée par elle. | 200 | Toutefois, à mesure qu'elle reculait, à mesure avançait d'autant | la bienveillante Amitié, dans son élan victorieux. | Dès lors étaient devenues mortelles les choses auparavant immortelles; | dès lors mélangé, ce qui d'abord était isolé. Dans ces nouveaux sentiers, | dans ces unions naquirent les innombrables races des êtres mortels, | 205 | affectant les formes les plus diverses, les plus merveilleuses. | ....
-
 # anima
 http://www.poesialatina.it/_ns/Greek/testi/Simplicius/In_Aristotelis_libros_de_anima_commentaria_[Sp._].html
 

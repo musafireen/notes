@@ -262,7 +262,8 @@ https://www.hellenicgods.org/preface-to-fragments-in-4-ieroi-logoi-en-rapsoidiai
 ![[procl#schlPol#b2#339#p17]]
 ![[procl#schlPol#340#p1]]
 
-
+## f226
+![[clmnt#strom#b6#s17#1]]![[clmnt#b6#s17#2]]
 
 ## f235
 ![[olmpdr#schlPhd#68c#p48]]

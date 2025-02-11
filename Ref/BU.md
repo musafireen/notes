@@ -235,9 +235,121 @@ Now this self (the ignorant man) is an object of enjoyment to all beings. That h
 This (aggregate of desirable objects) was but the self in the beginning—the only entity. He desired, ‘Let me have a wife, so that I may be born (as the child). And let me have wealth, so that I may perform rites.’ This much indeed is (the range of) desire. Even if one wishes, one cannot get more than this. Therefore to this day a man being single desires, ‘Let me have a wife, so that I may be born. And let me have wealth, so that I may perform rites.’ Until he obtains each one of these, he considers himself incomplete. His completeness also (comes thus): The mind is his self, speech his wife, the vital force his child, the eye his human wealth, for he obtains it through the eye, the ear his divine wealth, for he hears of it through the ear, and the body is its (instrument of) rite, for he performs rites through the body. (So) this sacrifice has five factors—the animals have five factors, the men have five factors, and all this that exists has five factors. He who knows it as such attains all this.
 ## 1.5
 #### 14
-स एष संवत्सरः प्रजापतिः षोडशकलः, तस्य रात्रय एव पञ्चदश कलाः, ध्रुवैवास्य षोदशि कला; स रात्रिभिरेवा च पूर्यतेऽप च क्षीयते; सोऽमावास्यां रात्रिमेतया षोडस्या कलया सर्वमिदं प्राणभृदनुप्रविश्य ततः प्रातर्जायते; तस्मादेतं रात्रिम् प्राणभृतः प्राणं न विच्छिन्द्यात्, अपि कृकतासस्य, एतस्या एव देवताया अपचित्यै ॥ १४ ॥
+स एष संवत्सरः प्रजापतिः षोडशकलः, 
 
-This Prajāpati (Hiraṇyagarbha) has sixteen digits and is represented by the year. The nights (and days) are his fifteen digits, and the constant one is his sixteenth digit. He (as the moon) is filled as well as wasted by the nights (and days). Through this sixteenth digit he permeates all these living beings on the new-moon night and rises the next morning. Therefore. on this night one should not take the life of living beings, not even of a chameleon, the adoration of this deity alone.
+This Prajāpati (Hiraṇyagarbha) has sixteen digits and is represented by the year. 
+
+तस्य रात्रय एव पञ्चदश कलाः, ध्रुवैवास्य षोदशि कला; 
+
+The nights (and days) are his fifteen digits, and the constant one is his sixteenth digit. 
+
+स रात्रिभिरेवा च पूर्यतेऽप च क्षीयते; 
+
+He (as the moon) is filled as well as wasted by the nights (and days). 
+
+सोऽमावास्यां रात्रिमेतया षोडस्या कलया सर्वमिदं प्राणभृदनुप्रविश्य ततः प्रातर्जायते; 
+
+Through this sixteenth digit he permeates all these living beings on the new-moon night and rises the next morning. 
+
+तस्मादेतं रात्रिम् प्राणभृतः प्राणं न विच्छिन्द्यात्, अपि कृकतासस्य, एतस्या एव देवताया अपचित्यै ॥ १४ ॥
+
+Therefore. on this night one should not take the life of living beings, not even of a chameleon, the adoration of this deity alone.
+#### 21
+अथातो व्रतमीमांसा; 
+
+Now a consideration of the vow: 
+
+प्रजापतिर्ह कर्माणि ससृजे, 
+
+Prajāpati projected the organs. 
+
+तानि सृष्टान्यन्योऽन्येनास्पर्धन्त—
+
+These, on being projected, quarrelled with one another. 
+
+वदिष्याम्येवाहमिति वाग्दध्रे, द्रक्ष्याम्यहमिति चक्षुः, श्रोष्याम्यहमिति श्रोत्रम्, 
+
+The organ of speech took a vow, ‘I will go on speaking.’ The eye: ‘I will see.’ The ear: ‘I will hear.’ 
+
+एवमन्यानि कर्माणि यथाकर्म; 
+
+And so did the other organs according to their functions. 
+
+तानि मृत्युः श्रमो भूत्वोपयेमे, तान्याप्नोत्, तान्याप्त्वा मृत्युरवारुन्ध; 
+
+Death captured them in the form of fatigue—it overtook them, and having overtaken them it controlled them. 
+
+तस्मात्श्राम्यत्येव वाक्, श्राम्यति चक्षुः, श्राम्यति श्रोत्रम्; 
+
+Therefore the organ of speech invariably gets tired, and so do the eye and the ear. 
+
+अथेममेव नाप्नोद्योऽयं मध्यमः प्राणः; तानि ज्ञातुं दध्रिरे । 
+
+But death did not overtake this vital force in the body. The organs resolved to know it. 
+
+अयं वै नः श्रेष्ठो यः संचरंश्चासंचरंश् च न व्यथते, अथो न रिष्यति, हन्तास्यैव सर्वे रूपमसामेति; 
+
+‘This is the greatest among us that, when it moves or does not move, feels no pain nor is injured. Well, let us all be of its form.’ 
+
+त एतस्यैव सर्वे रूपमभवन्, तस्मादेत एतैनाख्यायन्ते प्राणा इति; 
+
+Therefore they are called by this name of ‘Prāṇa.’ 
+
+तेन ह वाव तत्कुलमाचक्षते यस्मिन्कुले भवति य एवं वेद; 
+
+That family in which a man is born who knows as above, is indeed named after him. 
+
+य उ हैवंविदा स्पर्धतेऽनुशुष्यति, अनुशुष्य हैवान्ततो म्रियते 
+
+And he who competes with one who knows as above shrivels, and after shrivelling dies at the end. 
+
+इत्यध्यात्मम् ॥ २१ ॥
+
+This is with reference to the body.
+#### 22
+अथाधिदैवतम्—
+
+Now with reference to the gods: 
+
+ज्वलिष्याम्येवाहमित्यग्निर्दध्रे, तप्स्याम्यहमित्यादित्यः, भास्याम्यहमिति चन्द्रमाः, 
+
+Fire took a vow, ‘I will go on burning.’ The sun: ‘I will give heat.’ The moon: ‘I will shine.’ 
+
+एवमन्या देवता यथादेवतम्; 
+
+And so did the other gods according to their functions. 
+
+स यथैषां प्राणानां मध्यमः प्राणः, एवमेतासां देवतानां वायुः,; 
+
+As is the vital force in the body among these organs, so is Vāyu (air) among these gods. 
+
+निम्लोचन्ति हान्या देवताः, न वायुः; 
+
+Other gods sink, but not air. 
+
+सैषानस्तमिता देवता यद्वायुः ॥ २२ ॥
+
+Air is the deity that never sets.
+#### 23
+अथैष श्लोको भवति—
+
+Now there is this verse: 
+
+‘यतश्चोदेति सूर्यः, अस्तं यत्र च गच्छति’ इति प्रानाद्वा एष उदेति, प्राणेऽस्तमेति, ‘तं देवास्चक्रिरे धर्मम्,  स एवाद्य, स उ श्वः’ इति । 
+
+‘The gods observed the vow of that from which the sun rises and in which he sets. It is (followed) to-day, and it will be (followed) to-morrow.’ 
+
+यद्वा एतेऽमुर्ह्यद्रियन्त तदेवाप्यद्य कुर्वन्ति । 
+
+The sun indeed rises from the vital force and also sets in it. 
+
+तस्मादेकमेव व्रतं चरेत्, प्राण्याच्चैवापान्याच्च, नेन्मा पाप्मा मृत्युराप्नु वदिति; 
+
+Therefore a man. should observe a single vow—do the functions of the Prāṇa and Apāna (respiration and excretion), lest the evil of death (fatigue) should overtake him. 
+
+यद्यु चरेत्समापिपयिषेत्, तेनो एतस्यै देवतायै सायुज्यं सलोकतां जयति ॥ २३ ॥
+
+And if he observes it, he should seek to finish it. Through it he attains identity with this deity, or lives in the same world with it.
 # k2
 ## 2.1
 #### 1
@@ -489,13 +601,49 @@ He said to them, ‘Revered Brāhmaṇas, let him who is the best Vedic scholar 
 ‘Yājñavalkya,’ said he, ‘since the sky is, as it were, without a support, through what support does the sacrificer go to heaven?’ ‘Through the mind—through the moon, which is the (real) priest called Brahman. The mind of the. sacrificer is the Brahman. This mind is the moon; the moon is the Brahman; this (moon) is liberation; this (liberation) is emancipation.’ So far about the ways of emancipation; now about the meditation based on resemblance.
 ## 3.2
 #### 10
-याज्ञवल्क्येति होवाच, यदिदं सर्वं मृत्योरन्नम्, का स्वित्सा देवता यस्या मृत्युरन्नमिति; अग्निर्वै मृत्युः, सोऽपामन्नम्, अप पुनर्मृत्युं जयति ॥ १० ॥
+याज्ञवल्क्येति होवाच, यदिदं सर्वं मृत्योरन्नम्, का स्वित्सा देवता यस्या मृत्युरन्नमिति; 
 
-Yājñavalkya,’ said he, ‘since all this is the food of death, who is that god whose food is death?’ ‘Fire is death; it is the food of water. (One who knows thus) conquers (punar) further death.’
+Yājñavalkya,’ said he, ‘since all this is the food of death, who is that god whose food is death?’ 
+
+अग्निर्वै मृत्युः, सोऽपामन्नम्, अप पुनर्मृत्युं जयति ॥ १० ॥
+
+‘Fire is death; it is the food of water. (One who knows thus) conquers (punar) further death.’
 #### 13
-याज्ञवल्क्येति होवाच, यत्रास्य पुरुषस्य मृतस्याग्निं वागप्येति, वातं प्राणः, चक्शुरादित्यम्, मनश्चन्द्रम्, दिशः श्रोत्रम्, पृथिवीं शरीरम्, आकाशमात्म, ओषधीर्लोमानि, वनस्पतीन्केशाः, अप्सु लोहितं च रेतश्च निधीयते, क्वायं तदा पुरुषो भवतीति; अहर सोम्य हस्तमार्तभा, आवामेवैतस्य वेदिष्यावः, न नावेतत् सजन इति । तौ होत्क्रम्य मन्त्रयांचक्राते; तौ ह यदूचतुः कर्म हैव तदूचतुः, अथ यत्प्रशशंसतुः कर्म हैव तत् प्रशशंसतुः; 
+याज्ञवल्क्येति होवाच, 
 
-‘Yājñavalkya,’ said he, ‘when the vocal organ of a man who dies is merged in fire, the nose in air, the eye in the sun, the mind in the moon, the ear in the quarters, the body in the earth, the ether of the heart in the external ether, the hair on the body in the herbs, that on the head in the trees, and the blood and the seed are deposited in water, where is then the man?’ ‘Give me your hand, dear Ārtabhāga, we will [](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc118304.html#page-442)decide this between ourselves, we cannot do it in a crowd.’ They went out and talked it over. What they mentioned there was only work, and what they praised there was also only work. 
+‘Yājñavalkya,’ said he, 
+
+यत्रास्य पुरुषस्य मृतस्याग्निं वागप्येति, 
+
+when the vocal organ of a man who dies is merged in fire, 
+
+वातं प्राणः, चक्शुरादित्यम्, मनश्चन्द्रम्, दिशः श्रोत्रम्, 
+
+‘the nose in air, the eye in the sun, the mind in the moon, the ear in the quarters, 
+
+पृथिवीं शरीरम्, आकाशमात्म, 
+
+the body in the earth, the ether of the heart in the external ether, 
+
+ओषधीर्लोमानि, वनस्पतीन्केशाः, अप्सु लोहितं च रेतश्च निधीयते, 
+
+the hair on the body in the herbs, that on the head in the trees, and the blood and the seed are deposited in water, 
+
+क्वायं तदा पुरुषो भवतीति; 
+
+where is then the man?’ 
+
+अहर सोम्य हस्तमार्तभा, आवामेवैतस्य वेदिष्यावः, न नावेतत् सजन इति । 
+
+Give me your hand, dear Ārtabhāga, we will decide this between ourselves, we cannot do it in a crowd.’ 
+
+तौ होत्क्रम्य मन्त्रयांचक्राते; 
+
+‘They went out and talked it over. 
+
+तौ ह यदूचतुः कर्म हैव तदूचतुः, अथ यत्प्रशशंसतुः कर्म हैव तत् प्रशशंसतुः; 
+
+What they mentioned there was only work, and what they praised there was also only work. 
 
 पुण्यो वै पुण्येन कर्मणा भवति, पापः पापेनेति । 
 
@@ -506,9 +654,57 @@ Yājñavalkya,’ said he, ‘since all this is the food of death, who is that g
 Thereupon Ārtabhāga, of the line of Jaratkāru, kept silent.
 ## 3.3
 #### 2
-स होवाच, उवाच वै सः, अगच्छन्वै ते तद्यत्राश्वमेधयाजिनो गच्छन्तीति; क्व न्वश्वमेधयाजिनो गच्छन्तीति; द्वात्रिंशतं वै देवरथाह्न्यान्ययं लोकः; तं समन्तं पृथिवी द्विस्तावत्पर्येति; तां समन्तं पृथिवी द्विस्तावत्समुद्रः पर्येति; तद्यावती क्शुरस्य धारा, यावद्वा मक्शिकायाः पत्रं, तावानन्तरेणाकाशः; तानिन्द्रः सुपर्णो भूत्वा वायवे प्रायच्छत्, तान्वायुरात्मनि धित्वा तत्रागमयद्यत्राश्वमेधयाजिनोऽभवन्निति; एवमिव वै स वायुमेव प्रशशंस; तस्माद्वायुरेव व्यष्टिः, वायुः समष्टिः; अप पुनर्मृत्युं जयति य एवं वेद । ततो ह भुज्युर्लाह्यायनिरुपरराम ॥ २ ॥
+स होवाच, उवाच वै सः, 
 
-Yājñavalkya said, ‘The Gandharva evidently told you that they went where the performers of the horse sacrifice go.’ ‘And where do the performers of the horse sacrifice go?’ ‘Thirty-two times the space covered by the sun’s chariot in a day makes this world; around it, covering twice the area, is the earth; around the earth, covering twice the area, is the ocean. Now, as is the edge of a razor, or the wing of a fly, so is there just that much opening at the junction (of the two halves of the cosmic shell). (Through that they go out). Fire, in the form of a falcon, delivered them to the air; the air, putting them in itself, took them where the (previous) performers of the horse sacrifice were.’ Thus did the Gandharva praise the air.[14] Therefore the air is the diversity of individuals, and the air is the aggregate. He who knows it as such conquers further death. Thereupon Bhujyu, the grandson of Lahya, kept silent.
+Yājñavalkya said, ‘The Gandharva evidently told you 
+
+अगच्छन्वै ते तद्यत्राश्वमेधयाजिनो गच्छन्तीति; 
+
+that they went where the performers of the horse sacrifice go.’ ‘
+
+क्व न्वश्वमेधयाजिनो गच्छन्तीति; 
+
+And where do the performers of the horse sacrifice go?’ 
+
+द्वात्रिंशतं वै देवरथाह्न्यान्ययं लोकः; 
+
+‘Thirty-two times the space covered by the sun’s chariot in a day makes this world; 
+
+तं समन्तं पृथिवी द्विस्तावत्पर्येति; 
+
+around it, covering twice the area, is the earth; 
+
+तां समन्तं पृथिवी द्विस्तावत्समुद्रः पर्येति; 
+
+around the earth, covering twice the area, is the ocean. 
+
+तद्यावती क्शुरस्य धारा, यावद्वा मक्शिकायाः पत्रं, तावानन्तरेणाकाशः; 
+
+Now, as is the edge of a razor, or the wing of a fly, so is there just that much opening at the junction (of the two halves of the cosmic shell). (Through that they go out). 
+
+तानिन्द्रः सुपर्णो भूत्वा वायवे प्रायच्छत्, 
+
+Fire (Indra), in the form of a falcon, delivered them to the air; 
+
+तान्वायुरात्मनि धित्वा तत्रागमयद्यत्राश्वमेधयाजिनोऽभवन्निति; 
+
+the air, putting them in itself, took them where the (previous) performers of the horse sacrifice were.’ 
+
+एवमिव वै स वायुमेव प्रशशंस; 
+
+Thus did the Gandharva praise the air.[14] 
+
+तस्माद्वायुरेव व्यष्टिः, वायुः समष्टिः; 
+
+Therefore the air is the diversity of individuals, and the air is the aggregate. 
+
+अप पुनर्मृत्युं जयति य एवं वेद । 
+
+He who knows it as such conquers further death. 
+
+ततो ह भुज्युर्लाह्यायनिरुपरराम ॥ २ ॥
+
+Thereupon Bhujyu, the grandson of Lahya, kept silent.
 
 इति तृतीयं ब्राह्मणम् ॥
 चतुर्थं ब्रह्मणम् ।
@@ -547,6 +743,74 @@ He said, ‘Do not, O Gārgī, push your inquiry too far, lest your head should 
 
 इति षष्ठं ब्राह्मणम् ॥
 ## 3.7
+#### 1
+अथ हैनमूद्दालक आरुणिः पप्रच्छ; 
+
+Then Uddālaka, the son of Aruṇa, asked him. 
+
+याज्ञवल्क्येति होवाच, मद्रेष्ववसाम पतञ्चलस्य काप्यस्य गृहेषु यज्ञमधीयानाः; 
+
+‘Yājñavalkya,’ he said, ‘in Madra we lived in the house of Patañcala Kāpya (descendant of Kapi), studying the scriptures on sacrifices. 
+
+तस्यासीद्भार्या गन्धर्वगृहीता, 
+
+His wife was possessed by a Gandharva. 
+
+तमपृच्छाम कोऽसीति; 
+
+We asked him who he was. 
+
+सोऽब्रवीत्कबन्ध आथर्वण इति; 
+
+He said, “Kabandha, the son of Atharvan.”
+
+सोऽब्रवीत्पतञ्चलं काप्यं याज्ञिकांश्च, 
+
+He said to Patañcala Kāpya and those who studied the scriptures on sacrifices, 
+
+वेत्थ नु त्वम् काप्य तत्सूत्रं येनायं च लोकः परश्च लोकः सर्वाणि च भूतानि संदृब्धानि भवन्तीति; 
+
+“Kāpya, do you know that Sūtra[1] by which this life, the next life, and all beings are held together?” 
+
+सोऽब्रवीत्पतञ्चलः काप्यः, 
+
+Patañcala Kāpya said, 
+
+नाहं तद्भगवन्वेदेति, 
+
+“I do not know it, sir.” 
+
+सोऽब्रवीत्पतञ्चलं काप्यं याज्ञिकांश्चः, 
+
+The Gandharva said to him and the students, 
+
+वेत्थ नु त्वम् काप्य तमन्तर्यामिणं य इमं च लोकं परं च लोकं सर्वाणि च भूतानि योऽन्तरो यमयतीति; 
+
+“Kāpya, do you know that Internal Ruler who controls this and the next life and all beings from within?” 
+
+सोऽब्रवीत्पतञ्चलः काप्यः, 
+
+Patañcala Kāpya said, 
+
+नाहं तं भगवन्वेदेति; 
+
+“I do not know Him, sir.” 
+
+सोऽब्रवीत्पतञ्चलं काप्यं याज्ञिकांश्च, 
+
+The Gandharva said to him and the students, 
+
+यो वै तत्काप्य सूत्रं विद्यात्तं चान्तर्यामिणमिति स ब्रह्मवित्, स लोकवित्, स देववित्, स वेदवित्, स भूतवित्, स आत्मवित्, स सर्वविदिति; 
+
+“He who knows that Sūtra and that Internal Ruler as above indeed knows Brahman, knows the worlds, knows the gods, knows the Vedas, knows the beings, knows the self, and knows everything.” 
+
+तदहं वेद; तच्चेत्त्वम् याज्ञवल्क्य सूत्रमविद्वांस्तं चान्तर्यामिणं ब्रह्मगवीरुदजसे, मूर्धा ते विपतिष्यतीति; वेद वा अहं गौतम तत्सूत्रं तं चान्तर्यामिणमिति; यो वा इदं कश्चिद्ब्रूयाद्वेद वेदेति, यथा वेत्थ तथा ब्रूहीति ॥ १ ॥
+
+तेभ्योऽब्रवीत्; 
+
+He explained it all to them. 
+
+I know it. If you, Yājñavalkya, do not know that Sūtra and that Internal Ruler, and still take away the cows that belong only to the knowers of Brahman, your head shall fall off.’ ‘I know, O Gautama, that Sūtra and that Internal Ruler.’ ‘Any one can say, “I know, I know.” Tell us what you know.’
 #### 23
 https://vivekavani.com/bru3c7v23/
 यो रेतसि तिष्ठन् रेतसोऽन्तरः, यं रेतो न वेद, यस्य रेतः शरीरम्, यो रेतोऽन्तरो यमयति, एष त आत्माऽन्तर्याम्यमृतः; अदृष्टो द्रष्टा, अश्रुतः श्रोता, अमतो मन्ता, अविज्ञतो विज्ञाता; नान्योऽतोऽस्ति द्रष्टा, नान्योऽतोऽस्ति श्रोता, नान्योऽतोऽस्ति मन्ता, नान्योऽतोऽस्ति विज्ञात, एष त आत्मान्तर्याम्यमृतः, अतोऽन्यदार्तम्; ततो होद्दालक आरुणिरुपरराम ॥ २३ ॥
@@ -704,17 +968,167 @@ Because when there is duality, as it were, then one sees something, one smells s
 # k5
 # k6
 ## 6.2
+#### 1
+श्वेतकेतुर्ह वा आरुणेयः पञ्चालानां परिषदमाजगाम; 
+
+Śvetaketu, the grandson of Aruṇa, came to the assembly of the Pañcālas.[1] 
+
+स आजगाम जैवलिं प्रवाहणं परिचारयमाणम्; 
+
+He approached Pravāhaṇa, the son of Jīvala, who was being waited on (by his servants). 
+
+तमुदीक्श्याभ्युवाद, कुमारा३ इति; 
+
+Seeing him the King addressed him, ‘Boy!’ 
+
+स भो३ इति प्रतिशुश्राव; 
+
+He replied, ‘Yes.’ 
+
+अनुशिष्टोऽन्वसि पित्रेति; 
+
+‘Have you been taught by your father?’ 
+
+ओमिति होवाच ॥ १ ॥
+
+He said, ‘Yes.’
 #### 2
-वेत्थ यथेमाः प्रजाः प्रयत्यो विप्रतिपद्यन्ता3 इति; नेति होवाच; वेत्थो यथेमं लोकं पुनरापद्यन्ता3 इति; नेति हैवोवाच; वेत्थो यथासौ लोक एवं बहुभिः पुनःपुनः प्रयद्भिर्न संपूर्यता3 इति; नेति हैवोवाच; वेत्थो यतिथ्यामाहुत्यां हुतायामापः पुरुषवाचो भूत्वा समुत्थाय वदन्ती3 इति; नेति हैवोवाच; वेत्थो देवयानस्य वा पथः प्रतिपदं पितृयाणस्य वा—यत्कृत्वा देवयानं वा पन्थानं प्रतिपद्यन्ते, पितृयाणं वा? अपि हि न ऋषेर्वचः श्रुतम्—
-              द्वे सृती अशृणवं पितृणामहं देवानामुत मर्त्यानाम्,
-              ताभ्यामिदं विश्वमेजत्समेति, यदन्तरा पितरं मातरं च ॥ इति ।
+वेत्थ यथेमाः प्रजाः प्रयत्यो विप्रतिपद्यन्ता3 इति; 
+
+Do you know how these people diverge after death?’ 
+
+नेति होवाच; 
+
+‘No,’ said he. 
+
+वेत्थो यथेमं लोकं पुनरापद्यन्ता3 इति; 
+
+‘Do you know how they return to this world?’ 
+
+नेति हैवोवाच; 
+
+‘No,’ said he. 
+
+वेत्थो यथासौ लोक एवं बहुभिः पुनःपुनः प्रयद्भिर्न संपूर्यता3 इति; 
+
+‘Do you know how the other world is never filled by so many people dying thus again and again?’ 
+
+नेति हैवोवाच; 
+
+‘No,’ said he. 
+
+वेत्थो यतिथ्यामाहुत्यां हुतायामापः पुरुषवाचो भूत्वा समुत्थाय वदन्ती3 इति; 
+
+‘Do you know after how many oblations are offered water (the liquid offerings) rises up possessed of a human voice (or under the name of man) and speaks?’ 
+
+नेति हैवोवाच; 
+
+‘No,’ said he. 
+
+वेत्थो देवयानस्य वा पथः प्रतिपदं पितृयाणस्य वा—यत्कृत्वा देवयानं वा पन्थानं प्रतिपद्यन्ते, पितृयाणं वा? अपि हि न ऋषेर्वचः श्रुतम्—
+
+‘Do you know the means of access to the way of the gods, or that to the way of the Manes—doing which people attain either the way of the gods or the way of the Manes? We have heard the words of the Mantra: 
+
+द्वे सृती अशृणवं पितृणामहं देवानामुत मर्त्यानाम्, ताभ्यामिदं विश्वमेजत्समेति, यदन्तरा पितरं मातरं च ॥ इति ।
+
+“I have heard of two routes for men, leading to the Manes and the gods. Going along them all this is united. They lie between the father and the mother (earth and heaven).”’ 
+
 नाहमत एकं चन वेदेति होवाच ॥ २ ॥
 
-Do you know how these people diverge after death?’ ‘No,’ said he. ‘Do you know how they return to this world?’ ‘No,’ said he. ‘Do you know how the other world is never filled by so many people dying thus again and again?’ ‘No,’ said he. ‘Do you know after how many oblations are offered water (the liquid offerings) rises up possessed of a human voice (or under the name of man) and speaks?’ ‘No,’ said he. ‘Do you know the means of access to the way of the gods, or that to the way of the Manes—doing which people attain either the way of the gods or the way of the Manes? We have heard the words of the Mantra: “I have heard of two routes for men, leading to the Manes and the gods. Going along them all this is united. They lie between the father and the mother (earth and heaven).”’ He said, ‘I know not one of them.’
+He said, ‘I know not one of them.’
+#### 3
+अथैनं वसत्योपमन्त्रयांचक्रे; 
+
+Then the King invited him to stay. 
+
+अनादृत्य वसतिं कुमारः प्रदुद्राव; 
+
+The boy, disregarding the invitation to stay, hurried away. 
+
+स आजगाम पितरम्; तं होवाच, 
+
+He came to his father and said to him, 
+
+इति वाव किल नो भवान्पुरानुशिष्टानवोच इति; 
+
+‘Well, did you not tell me before that you had (fully) instructed me?’ 
+
+कथं सुमेध इति; 
+
+‘How (did you get hurt), my sagacious child?’ 
+
+पञ्च मा प्रश्नान्राजन्यबन्धुरप्राक्शीत्, ततो नैकञ्चन वेदेति; 
+
+‘That wretch of a Kṣatriya asked me five questions, and I knew ṅot one of them.’ 
+
+कतमे त इति; 
+
+‘Which are they?’ 
+
+इम इति ह प्रतीकान्युदाजहार ॥ ३ ॥
+
+‘These,’ and he quoted their first words.
+#### 5
+स होवाच, तथा नस्त्वं तात जानीथा यथा यदहं किंच वेद सर्वमहं तत्तुभमवोचं; 
+प्रेहि तु तत्र प्रतीत्य ब्रह्मचर्यं वत्स्याव इति; 
+
+The father said, ‘My child, believe me, whatever I knew I told you every bit of it. But come, let us go there and live as students.’ 
+
+भवानेव गच्छत्विति; 
+
+‘You go alone, please.’ 
+
+स आजगाम गौतमो यत्र प्रवाहणस्य जैवलेरास; 
+
+At this Gautama came to where King Pravāhaṇa, the son of Jīvala, was giving audience. 
+
+तस्मा आसनमाहृत्योदकमहारयांचकार, अथ हास्मा अर्घ्यं चकार; 
+
+The King gave him a seat, had water brought for him, and made him the reverential offering. 
+
+तं होवाच, वरं भगवते गौतमाय दद्म इति ॥ ४ ॥
+
+Then he said, ‘We will give revered Gautama, a boon.’
 #### 8
 स होवाच, तथा नस्त्वम् गौतम मापराधास्तव च पितामहा यथ, इयं विद्येतः पूर्वं न कस्मिंश्चन ब्राह्मण उवास; तां त्वहं तुभ्यं वक्श्यामि, को हि त्वैवं ब्रुवन्तमर्हति प्रत्याख्यातुमिति ॥ ८ ॥
 
 The King said: Please do not take offence with us, Gautama, as your paternal grandfathers did not (with ours). Before this, this learning never rested with a Brāhmaṇa. But I shall teach it to you; for who can refuse you when you speak like this?
+#### 9
+असौ वै लोकोऽग्निर्गौतम; तस्यादित्य एव समित्, रश्मयो धूमः, अहरर्चिर्, दिशोऽङ्गाराः, अवान्तरदिशो विस्फुलिङ्गास्; 
+
+That world (heaven), O Gautama, is fire, the sun is its fuel, the rays its smoke, the day its flame, the four quarters its cinder, and the intermediate quarters its sparks. 
+
+तस्मिन्नेतस्मिन्नग्नौ देवाः, श्रद्धां जुह्वति; 
+
+In this fire the gods offer faith (liquid oblations in subtle form). 
+
+तस्या आहुत्यै सोमो राजा संभवति ॥ ९ ॥
+
+Out of that offering King Moon is born (a body is made in the moon for the sacrificer).
+#### 10
+पर्जन्यो वा अग्निर्गौतम; तस्य संवत्सर एव समित्, अभ्राणि धूमः, विद्युदर्चिः, अशनिरङ्गाराः, ह्रादुनयो विस्फुलिङ्गाः; 
+
+Parjanya (the god of rain), O Gautama, is fire, the year is its fuel, the clouds its smoke, lightning its flame, thunder its cinder, and the rumblings its sparks. 
+
+तस्मिन्नेतस्मिन्नग्नौ देवाः सोमं राजानं जुह्वति; तस्या आहुत्यै वृष्टिः संभवति ॥ १० ॥ 
+
+In this fire the gods offer King Moon. Out of that offering rain is produced.
+#### 11
+अयं वै लोकोऽग्निर्गौतम; तस्य पृथिव्येव समित्, अग्निर्धूमः, रात्रिरर्चिः, चन्द्रमा अङ्गाराः, नक्शत्राणि विष्फुलिङ्गाः; 
+
+This world, O Gautama, is fire, the earth is its fuel, fire its smoke, the night its flame, the moon its cinder, and the stars its sparks. 
+
+तस्मिन्नेतस्मिन्नग्नौ देवा वृष्टिं जुह्वति; तस्या आहुत्या अन्नं संभवति ॥ ११ ॥
+
+In this fire the gods offer rain. Out of that offering food is produced.
+#### 12
+पुरुषो वा अग्निर्गौतम; तस्य व्यात्तमेव समित्, प्राणो धूमः, वागर्चिः, चक्शुरङ्गाराः, श्रोत्रं विस्फुलिङ्गाः; 
+
+Man, O Gautama, is fire, the open mouth is its fuel, the vital force its smoke, speech its flame, the eye its cinder, and the ear its sparks. 
+
+तस्मिन्नेतस्मिन्नग्नौ देवा अन्नं जुह्वति; तस्या आहुत्यै रेतः संभवति ॥ १२ ॥
+
+In this fire the gods offer food. Out of that offering the seed is produced.
 #### 13
 https://vivekavani.com/bru6c2v13/
 योषा वा आग्निर्गौतम; 
@@ -732,17 +1146,85 @@ In this fire the gods offer the seed. Out of that offering a man is born.
 स जीवति यावज्जीवति, अथ यदा म्रियते ॥ १३ ॥ 
 
 He lives as long as he is destined to live. Then, when he dies—
+#### 14
+अथैनमग्नये हरन्ति; 
+
+They carry him to be offered in the fire. 
+
+तस्याग्निरेवाग्निर्भवति, समित्समित्, धूमो धूमः, अर्चिरर्चिः, अङ्गारा अङ्गाराः, विस्फुलिङ्गा विस्फुलिङ्गाः; 
+
+The fire becomes his fire, the fuel his fuel, the smoke his smoke, the flame his flame, the cinder his cinder, and the sparks his sparks. 
+
+तस्मिन्नेतस्मिन्नग्नौ देवाः पुरुषं जुह्वति; तस्या आहुत्यै पुरुषो भास्वरवर्णः संभवति ॥ १४ ॥
+
+In this fire the gods offer the man. Out of that offering the man emerges radiant.
 #### 15-16
 ##### 15
-ते य एवमेतद्विदुः, ये चामी अरण्ये श्रद्धां सत्यमुपासते, तेऽर्चिरभिसंभवन्ति, अर्चिषोऽहः, अह्न आपूर्यमाणपक्षम्, आपूर्यमाणपक्षाद्यान्षण्मासानुदङ्ङादित्य एति; मासेभ्यो देवलोकम्, देवलोकादादित्यम्, आदित्याद्वैद्युतम्; तान्वैद्युतान्पुरुषो मानस एत्य ब्रह्मलोकान् गमयति; ते तेषु ब्रह्मलोकेषु पराः परावतो वसन्ति; तेषां न पुनरावृत्तिः ॥ १५ ॥ 
+ते य एवमेतद्विदुः, 
 
-The people who know this (the Upanishadic doctrine of the identity of the soul and the brahman), and the people there in the wilderness who venerate truth as faith—they pass into the flame (of the cremation fire), and thence into the day . . . into the world of the gods, into the sun, and into the region of lightning. A person made of mind comes to the regions of lightning and leads them to the worlds of brahman. These exalted people live in those worlds of brahman for the longest time. They do not return. 
+The people who know this (the Upanishadic doctrine of the identity of the soul and the brahman), 
+
+ये चामी अरण्ये श्रद्धां सत्यमुपासते, 
+
+and the people there in the wilderness who venerate truth as faith—
+
+तेऽर्चिरभिसंभवन्ति, अर्चिषोऽहः, 
+
+they pass into the flame (of the cremation fire), and thence into the day 
+
+अह्न आपूर्यमाणपक्षम्, आपूर्यमाणपक्षाद्यान्षण्मासानुदङ्ङादित्य एति; 
+
+. . . 
+
+मासेभ्यो देवलोकम्, देवलोकादादित्यम्, 
+
+into the world of the gods, into the sun, 
+
+आदित्याद्वैद्युतम्; तान्वैद्युतान्पुरुषो मानस एत्य ब्रह्मलोकान् गमयति; 
+
+and into the region of lightning. A person made of mind comes to the regions of lightning and leads them to the worlds of brahman. 
+
+ते तेषु ब्रह्मलोकेषु पराः परावतो वसन्ति; तेषां न पुनरावृत्तिः ॥ १५ ॥ 
+
+These exalted people live in those worlds of brahman for the longest time. They do not return. 
 ##### 16
-अथ ये यज्ञेन दानेन तपसा लोकाञ्जयन्ति, ते धूममभिसंभवन्ति, धूमाद्रात्रिं, रात्रेरपक्षीयमाणपक्षम्, अपक्षीयमाणपक्षाद्यान्षण्मासान्दक्षिणादित्य एति, मासेभ्यः पितृलोकम्, पितृलोकाच्चन्द्रम्; ते चन्द्रं प्राप्यान्नं भवन्ति, तांस्तत्र देवा यथा सोमं राजानमाप्यायस्वापक्षीयस्वेति, एवमेनांस्तत्र भक्षयन्ति; तेषां यदा तत्पर्यवैत्यथेममेवाकाशमभिनिष्पद्यन्ते, आकाशाद्वायुम्; वायोर्वृष्टिम्, वृष्टेः पृथिवीम्; ते पृथिवीं प्राप्यान्नं भवन्ति, ते पुनः पुरुषाग्नौ हूयन्ते, ततो योषाग्नौ जायन्ते लोकान्प्रत्युथायिनः; त एवमेवानुपरिवर्तन्ते; अथ य एतौ पन्थानौ न विदुस्ते कीटाः पतङ्गा यदिदं दन्दशूकम् ॥ १६ ॥
-इति द्वितीयं ब्राह्मणम् ॥
+अथ ये यज्ञेन दानेन तपसा लोकाञ्जयन्ति, 
 
-The people who win heavenly worlds, on the other hand, by offering sacrifices, by giving gifts, and by generating inner heat (tapas)—they pass into the smoke, and then into the night . . . into the world of the fathers, into the moon. There they become food. There the gods feed on them, as the moon increases and decreases. When that ends, they pass into the sky, then into the wind, then the rain, and then the earth, where they become food. They are offered in the fire of man and are born in the fire of woman. Rising up again to the heavenly worlds, they circle around in the same way. 
+The people who win heavenly worlds, on the other hand, by offering sacrifices, by giving gifts, and by generating inner heat (tapas)—
+
+ते धूममभिसंभवन्ति, धूमाद्रात्रिं, 
+
+they pass into the smoke, and then into the night 
+
+रात्रेरपक्षीयमाणपक्षम्, अपक्षीयमाणपक्षाद्यान्षण्मासान्दक्षिणादित्य एति, 
+
+. . . 
+
+मासेभ्यः पितृलोकम्, पितृलोकाच्चन्द्रम्; 
+
+into the world of the fathers, into the moon. 
+
+ते चन्द्रं प्राप्यान्नं भवन्ति, तांस्तत्र देवा यथा सोमं राजानमाप्यायस्वापक्षीयस्वेति, एवमेनांस्तत्र भक्षयन्ति; 
+
+There they become food. There the gods feed on them, as the moon increases and decreases. 
+
+तेषां यदा तत्पर्यवैत्यथेममेवाकाशमभिनिष्पद्यन्ते, आकाशाद्वायुम्; वायोर्वृष्टिम्, वृष्टेः पृथिवीम्; ते पृथिवीं प्राप्यान्नं भवन्ति, 
+
+When that ends, they pass into the sky, then into the wind, then the rain, and then the earth, where they become food. 
+
+ते पुनः पुरुषाग्नौ हूयन्ते, ततो योषाग्नौ जायन्ते 
+
+They are offered in the fire of man and are born in the fire of woman. 
+
+लोकान्प्रत्युथायिनः; त एवमेवानुपरिवर्तन्ते; 
+
+Rising up again to the heavenly worlds, they circle around in the same way. 
+
+अथ य एतौ पन्थानौ न विदुस्ते कीटाः पतङ्गा यदिदं दन्दशूकम् ॥ १६ ॥
+
 Those who do not know these two paths, however, become worms, insects, or snakes
+
+इति द्वितीयं ब्राह्मणम् ॥
 ## 6.3
 #### 12
 एतमु हैव सत्यकामो जाबालोऽन्तेवासिभ्य उक्त्वोवाच, अपि य एनं शुष्के स्थाणौ निषिञ्चेत्, जायेरञ्छाखाः, प्ररोहेयुः पलाशानीति; तमेतं नापुत्राय वानन्तेवासिने वा ब्रूयात् ॥ १२ ॥
