@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/lngP.md",
-                "mode": "preview",
+                "file": "Ref/SkP.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lngP"
+              "title": "SkP"
             }
           },
           {
@@ -321,7 +321,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ref/lngP.md",
+            "file": "Ref/SkP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ref/lngP.md",
+            "file": "Ref/SkP.md",
             "linksCollapsed": true,
             "unlinkedCollapsed": false
           },
@@ -354,7 +354,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/lngP.md",
+            "file": "Ref/SkP.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -374,8 +374,8 @@
   },
   "active": "d0bd5a6e7be89323",
   "lastOpenFiles": [
-    "Ref/SkP.md",
     "Ref/lngP.md",
+    "Ref/SkP.md",
     "Ref/RV.md",
     "Ref/ArrPs.periplEryth.md",
     "Ref/hthYogPrdp.md",
