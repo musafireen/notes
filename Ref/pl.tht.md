@@ -1,4 +1,5 @@
 
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0172%3Atext%3DTheaet.%3Asection%3D181a
 
 • εἴδωλον, ου, τό
 1} any unsubstantial form, phantom 2. image reflected in a mirror or in water 3. image in the mind, idea, phantom of the mind
@@ -114,3 +115,25 @@ at leisure
 • τὰ 
 • γεγραμμένα
 I corrected the writings
+## 180d
+
+## 181e
+[180ε] “†οἷον ἀκίνητον τελέθει τῷ παντὶ ὄνομ᾽ εἶναι†”
+
+[180e] “So that it is motionless, the name of which is the All,”
+
+Parmenides, line 98 (ed. Mullach).
+
+Parmenides, line 98 (ed. Mullach)1 
+
+καὶ ἄλλα ὅσα Μέλισσοί τε καὶ Παρμενίδαι ἐναντιούμενοι πᾶσι τούτοις διισχυρίζονται, ὡς ἕν τε πάντα ἐστὶ καὶ ἕστηκεν αὐτὸ ἐν αὑτῷ οὐκ ἔχον χώραν ἐν ᾗ κινεῖται. 
+
+and all the other doctrines maintained by Melissus and Parmenides and the rest, in opposition to all these they maintain that everything is one and is stationary within itself, having no place in which to move. 
+
+τούτοις οὖν, ὦ ἑταῖρε, πᾶσι τί χρησόμεθα; 
+
+What shall we do with all these people, my friend? 
+
+κατὰ σμικρὸν γὰρ προϊόντες λελήθαμεν ἀμφοτέρων εἰς τὸ μέσον πεπτωκότες, καὶ ἂν μή
+
+For, advancing little by little, we have unwittingly fallen between the two parties, and,

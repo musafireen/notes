@@ -158,11 +158,346 @@ http://www.poesialatina.it/_ns/Greek/testi/Simplicius/In_Aristotelis_physicorum_
 αἰεὶ δ᾿ ἐν ταὐτῶι μίμνει κινούμενος οὐδέν
 οὐδὲ μετέρχεσθαί μιν ἐπιπρέπει ἄλλοτε ἄλληι.
 
+It always remains in the same place, never moving, never going toward anything, for that would be inappropriate to it.
 ### c23
 
 #### 19
+ἀλλ᾿ ἀπάνευθε πόνοιο νόου φρενὶ πάντα κραδαίνει. 
 
-ἀλλ᾿ ἀπάνευθε πόνοιο νόου φρενὶ πάντα κραδαίνει.
+Apart from toil he moves all things with the thought of his mind.
+### c30
+ὡς ἀγένητον ἐὸν καὶ ἀνώλεθρόν ἐστιν,
+οὖλον μουνογενές τε καὶ ἀτρεμὲς ἠδ' ἀτέλεστον,
+οὐδέ ποτ' ἦν οὐδ' ἔσται, ἐπεὶ νῦν ἔστιν ὁμοῦ πᾶν.
+
+Parmenides describes being as unborn and indestructible, whole, unique, immovable, and complete. It neither was nor will be, since it exists entirely now.  
+
+οὕτω μὲν οὖν καὶ οὗτος ὡς ἀνέκλειπτον καὶ ὡς ἀγένητον καὶ ἄπειρον εἶναί φησι. 
+
+Thus, he asserts that being is unceasing, ungenerated, and infinite. 
+
+τὴν δὲ τοῦ πέρατος ἔννοιαν δι' ἐκείνων ἐδήλωσε τῶν ἐπῶν 
+
+However, he introduces the concept of limit through the following verses:  
+
+ταὐτόν τ' ἐν ταὐτῷ τε μένον καθ' ἑαυτό ‹τε› κεῖται.
+οὕτως ἔμπεδον αὖθι μένει· 
+
+"The same remains in the same, lying within itself.  
+Thus, it stays firmly in place.  
+
+κρατερὴ γὰρ ἀνάγκη πείρατος ἐν δεσμοῖσιν ἔχει, τό μιν ἀμφὶς ἐέργει, οὕνεκεν οὐκ ἀτελεύτητον τὸ ἐὸν θέμις εἶναι·
+
+For mighty Necessity holds it in the chains of a limit,  
+surrounding it, since it is not fitting for being to be incomplete.  
+
+ἔστι γὰρ οὐκ ἐπιδευές· 
+
+For it lacks nothing,  
+
+†μὴ ἐὸν δὲ ἂν παντὸς ἐδεῖτο.
+
+but non-being would lack everything." 
+
+εἰ γὰρ ὄν ἐστι καὶ οὐχὶ μὴ ὄν, ἀνενδεές ἐστιν, ἀνενδεὲς δὲ ὂν τέλειόν ἐστι, τέλειον δὲ ὂν ἔχει τέλος καὶ οὐκ ἔστιν ἀτελεύτητον, τέλος δὲ ἔχον πέρας ἔχει καὶ ὅρον. 
+
+Since being exists and non-being does not, it is without need. That which is without need is perfect, and that which is perfect has an end; therefore, it is not infinite but has a boundary and a limit.  
+
+οὕτως μὲν οὖν οὐδεμία κατὰ τὰς ἐννοίας τῶν ἀνδρῶν τούτων γέγονεν ἐναντίωσις ἐν οἷς περὶ τοῦ αὐτοῦ λέγουσι. 
+
+Thus, no contradiction arises in their concepts regarding the nature of being.  
+#### 13
+μετελθὼν δὲ ἀπὸ τῶν νοητῶν ἐπὶ τὰ αἰσθητὰ ὁ Παρμενίδης, ἤτοι ἀπὸ ἀληθείας ὡς αὐτός φησιν ἐπὶ δόξαν, ἐν οἷς λέγει
+
+Parmenides then shifts from intelligible realities to sensible ones—from truth, as he claims, to opinion—stating:  
+
+ἐν τῷ σοι παύω πιστὸν λόγον ἠδὲ νόημα
+ἀμφὶς ἀληθείης, δόξας δ' ἀπὸ τοῦδε βροτείους
+μάνθανε, κόσμον ἐμῶν ἐπέων ἀπατηλὸν ἀκούων,
+
+"Here I stop my reliable speech and thought about truth.  
+From now on, learn mortal opinions,  
+listening to the deceptive arrangement of my words." 
+
+τῶν γενητῶν ἀρχὰς καὶ αὐτὸς στοιχειώδεις μὲν τὴν πρώτην ἀντίθεσιν ἔθετο, ἣν φῶς καλεῖ καὶ σκότος ‹ἢ› πῦρ καὶ γῆν ἢ πυκνὸν καὶ ἀραιὸν ἢ ταὐτὸν καὶ ἕτερον, λέγων ἐφεξῆς τοῖς πρότερον παρακειμένοις ἔπεσι
+
+Regarding the origins of things that come to be, he also adopts a fundamental opposition, identifying it as light and darkness, or fire and earth, or dense and rare, or same and other. He continues in the following verses:  
+
+μορφὰς γὰρ κατέθεντο δύο γνώμαις ὀνομάζειν,
+τῶν μίαν οὐ χρεών ἐστιν, ἐν ᾧ πεπλανημένοι εἰσίν· 
+
+"They have set two forms in thought, naming them by convention.  
+One of them is unnecessary, in which they have gone astray.  
+
+ἀντία δ' ἐκρίναντο δέμας καὶ σήματ' ἔθεντο
+χωρὶς ἀπ' ἀλλήλων, τῇ μὲν φλογὸς αἰθέριον πῦρ
+ἤπιον †τὸ μέγ' ἀραιὸν ἐλαφρόν, ἑαυτῷ πάντοσε τὠυτόν,
+
+They distinguished opposites in body and assigned signs,  separating them: one as ethereal fire of flame,  
+gentle, vast, rare, and light, identical to itself in all ways."
+
+Parmenides thus presents a dualistic cosmology, where opposites define the structure of the perceptible world, though he regards such accounts as mere opinion, distinct from the true nature of being.
+### c31
+μορφὰς γὰρ κατέθεντο δύο γνώμαις ὀνομάζειν, τῶν μίαν οὐ χρεών ἐστιν, ἐν ᾧ πεπλανημένοι εἰσίν·
+
+"They established forms and named them with two opinions,  
+of which one should not be, in which they are led astray.  
+ἀντία δ' ἐκρίναντο δέμας καὶ σήματ' ἔθεντο χωρὶς ἀπ' ἀλλήλων, τῇ μὲν φλογὸς αἰθέριον πῦρ ἤπιον †τὸ μέγ' ἀραιὸν ἐλαφρόν, ἑαυτῷ πάντοσε τὠυτόν, [31] τῷ δ' ἑτέρῳ μὴ τὠυτόν· 
+
+And they distinguished opposite bodies and set signs  
+separate from each other—on one side, the ethereal fire of flame,  
+gentle, vast, rarefied, and light, identical to itself everywhere.  On the other side, not the same: 
+
+ἀτὰρ κἀκεῖνο κατ' αὐτὸ τἀντία, νύκτ' ἀδαῆ, πυκινὸν δέμας ἐμβριθές τε.
+
+rather, it is itself opposite—  
+ignorant night, dense in body and heavy."  
+
+καὶ δὴ καὶ καταλογάδην μεταξὺ τῶν ἐπῶν ἐμφέρεταί τι ῥησείδιον ὡς αὐτοῦ Παρμενίδου ἔχον οὕτως· 
+
+"And indeed, in prose between the verses, a certain short saying attributed to Parmenides appears as follows:  
+
+"ἐπὶ τῷδέ ἐστι τὸ ἀραιὸν καὶ τὸ θερμὸν καὶ τὸ φάος καὶ τὸ μαλθακὸν καὶ τὸ κοῦφον, ἐπὶ δὲ τῷ πυκνῷ ὠνόμασται τὸ ψυχρὸν καὶ ὁ ζόφος καὶ σκληρὸν καὶ βαρύ· ταῦτα γὰρ ἀπεκρίθη ἑκατέρως ἑκάτερα." 
+
+'On this side is the rarefied, the warm, the light, the soft, and the weightless, while on the dense side are named the cold, the darkness, the hard, and the heavy; for these were separated, each on its own side.'  
+
+οὕτω σαφῶς ἀντίθετα δύο στοιχεῖα ἔλαβε· 
+
+Thus, he clearly recognized two opposing elements.  
+
+διὸ πρότερον ἓν τὸ ὂν δύ' ἔγνω, καὶ πεπλανῆσθαι δέ φησι τοὺς τὴν ἀντίθεσιν τῶν τὴν γένεσιν συνιστώντων στοιχείων μὴ συνορῶντας ἢ μὴ σαφῶς ἀποκαλύπτοντας· 
+
+Therefore, he first understood Being as one, then as two, and he says that those who do not perceive or clearly reveal the opposition of the elements that constitute generation are led astray.  
+
+ᾧπερ καὶ Ἀριστοτέλης ἀκολουθῶν ἀρχὰς ἔθετο τὰ ἐναντία. 
+
+Following this, Aristotle also established opposites as principles.  
+#### 7
+καὶ ποιητικὸν δὲ αἴτιον οὐ σωμάτων μόνον τῶν ἐν τῇ γενέσει ἀλλὰ καὶ ἀσωμάτων τῶν τὴν γένεσιν συμπληρούντων σαφῶς παραδέδωκεν ὁ Παρμενίδης λέγων
+
+And Parmenides clearly transmitted the productive cause not only of bodies in generation but also of incorporeal things that complete generation, saying:  
+
+αἱ δ' ἐπὶ ταῖς νυκτός, μετὰ δὲ φλογὸς ἵεται αἶσα.
+
+'On the side of night, but after it follows the portion of flame (ভৃগু).  
+
+ἐν δὲ μέσῳ τούτων δαίμων ἣ πάντα κυβερνᾷ·
+
+And in between them is a divine force that governs all things,  
+
+†πάντα γὰρ στυγεροῖο τόκου καὶ μίξιος ἄρχει πέμπουσ' ἄρσενι θῆλυ μιγὲν τό τ' ἐναντίον αὖθις ἄρσεν θηλυτέρῳ.
+
+for it rules over all things of hateful birth and mixing,  
+sending the female to the male and, in turn, the male to the more female.'"  
+#### ?
+Ἀλλὰ δὴ καὶ Ἐμπεδοκλῆς περί τε τοῦ νοητοῦ κόσμου καὶ περὶ τοῦ αἰσθητοῦ διδάσκων καὶ ἐκεῖνον τούτου ἀρχέτυπον παράδειγμα τιθέμενος ἐν ἑκατέρῳ μὲν ἀρχὰς καὶ στοιχεῖα τὰ τέτταρα ταῦτα τέθεικε πῦρ ἀέρα ὕδωρ καὶ γῆν, καὶ ποιητικὰ αἴτια τὴν φιλίαν καὶ τὸ νεῖκος, πλὴν ὅτι τὰ μὲν ἐν τῷ νοητῷ τῇ νοητῇ ἑνώσει κρατούμενα διὰ φιλίας μᾶλλον συνάγεσθαί φησι, τὰ δὲ ἐν τῷ αἰσθητῷ ὑπὸ τοῦ νείκους μᾶλλον διακρίνεσθαι. 
+
+"But indeed, Empedocles, teaching about both the intelligible and the perceptible world, and considering the former as the archetypal paradigm of the latter, established in both the same four principles and elements: fire, air, water, and earth. He also posited the causal forces as Love and Strife, except that in the intelligible world, he says, things are held together more by intellectual unity through Love, whereas in the perceptible world, they are rather separated by Strife.  
+
+ᾧ καὶ ὁ Πλάτων κατακολουθῶν, ἢ πρὸ τοῦ Πλάτωνος ὁ Τίμαιος, ἐν τῷ πρώτῳ παραδείγματι τῷ νοητῷ τὰς τέτταρας ἰδέας προϋπάρχειν φησὶ τὰς ἀπὸ τῶν τεττάρων στοιχείων χαρακτηριζομένας καὶ τὸν τετραμερῆ τοῦτον κόσμον τὸν αἰσθητὸν ἐν ἐσχάτοις παραγούσας, τοῦ νείκους ἐνταῦθα κρατοῦντος διὰ τὴν ἀπὸ τῆς νοητῆς ἑνώσεως ὑποβᾶσαν διάκρισιν. 
+
+Plato, or before him Timaeus, following this doctrine, states that in the first paradigm, the intelligible one, the four ideas corresponding to the four elements preexist and that they bring forth the fourfold perceptible cosmos at the lowest level, where Strife prevails due to the separation arising from the dissolution of the intelligible unity.  
+
+καὶ γέγονεν ὁ λόγος αὐτῷ περὶ ἀμφοτέρων τῶν κόσμων κοινός, πλὴν καὶ οὗτος ὡς ἐν ὕλης λόγῳ τὰ τέτταρα θεὶς στοιχεῖα τὴν περὶ αὐτὰ ἐναντίωσιν τῆς φιλίας καὶ τοῦ νείκους ἐθεάσατο. 
+
+Thus, his discourse applies to both worlds alike, though he also, in a discourse on matter, recognized the four elements and viewed the opposition between Love and Strife as fundamental to them.  
+
+ὅτι γὰρ οὐχ ὡς οἱ πολλοὶ νομίζουσι φιλία μὲν μόνη κατ' Ἐμπεδοκλέα τὸν νοητὸν ἐποίησε κόσμον, νεῖκος δὲ μόνον τὸν [32] αἰσθητόν, ἀλλ' ἄμφω πανταχοῦ οἰκείως θεωρεῖ, ἄκουσον αὐτοῦ τῶν ἐν τοῖς Φυσικοῖς λεγομένων, ἐν οἷς καὶ τῆς ἐνταῦθα δημιουργικῆς συγκράσεως τὴν Ἀφροδίτην ἤτοι τὴν φιλίαν αἰτίαν φησί. 
+
+For it is not, as many believe, that according to Empedocles Love alone formed the intelligible world and Strife alone the perceptible one; rather, he considered both to be present everywhere in a proper manner. Listen, then, to what he says in his *Physics*, where he also calls Aphrodite—Love—the creative cause of the mixture in this world."  
+### c38
+#### 28
+### c39
+συμπληρώσας γὰρ τὸν περὶ τοῦ νοητοῦ λόγον ὁ Παρμενίδης ἐπάγει ταυτί, ἅπερ καὶ πρότερον παρεθέμην·
+
+Parmenides, having completed his discussion on the intelligible realm, transitions to the realm of opinion, as seen in the following lines: 
+
+ἐν τῷ σοι παύσω πιστὸν λόγον ἠδὲ νόημα
+ἀμφὶς ἀληθείης, δόξας δ' ἀπὸ τοῦδε βροτείους
+μάνθανε, κόσμον ἐμῶν ἐπέων ἀπατηλὸν ἀκούων.
+
+*"Here I will stop my trustworthy speech and thought  
+about truth, and from now on, learn mortal opinions,  
+listening to the deceptive order of my words."*  
+
+[39] μορφὰς γὰρ κατέθεντο δύο γνώμας ὀνομάζειν. 
+
+He describes how mortals construct reality by naming two opposing forms:  
+
+τῶν μίαν οὐ χρεών ἐστιν, ἐν ᾧ πεπλανημένοι εἰσίν.
+
+*"They have established two forms to be named by thought.  
+
+ἀντία δ' ἐκρίναντο δέμας καὶ σήματ' ἔθεντο
+χωρὶς ἀπ' ἀλλήλων, τῇ μὲν φλογὸς αἰθέριον πῦρ ἤπιον †ἀραιὸν ἐλαφρὸν ἑωυτῷ πάντοσε τωυτόν,
+τῷ δ' ἑτέρῳ μὴ τωυτόν· 
+
+One is not necessary, in which they have gone astray.  
+They distinguished opposites in body and assigned signs, separating them: one as the ethereal flame of fire, gentle, vast, rare, and light, identical to itself in all ways,  
+
+ἀτὰρ κἀκεῖνο κατ' αὐτὸ τἀντία νύκτ' ἀδαῆ πυκινὸν δέμας ἐμβριθές τε.
+
+the other as its opposite:  
+dense-bodied, heavy, and ignorant night."*  
+
+τόν σοι ἐγὼ διάκοσμον ἐοικότα πάντα φατίζω, ὡς οὐ μή ποτέ τις σε βροτῶν γνώμη παρελάσσῃ.
+
+Parmenides then asserts that this account of opposites, though structured, is ultimately deceptive, not because it is outright false, 
+
+δοξαστὸν οὖν καὶ ἀπατηλὸν τοῦτον καλεῖ τὸν λόγον οὐχ ὡς ψευδῆ ἁπλῶς, ἀλλ' ὡς ἀπὸ τῆς νοητῆς ἀληθείας εἰς τὸ φαινόμενον καὶ δοκοῦν τὸ αἰσθητὸν ἐκπεπτωκότα. 
+
+but because it has fallen away from the truth of intelligible reality into the realm of appearances and sensory perception.  
+
+μετ' ὀλίγα δὲ πάλιν περὶ τῶν δυεῖν στοιχείων εἰπὼν ἐπάγει καὶ τὸ ποιητικὸν λέγων οὕτως
+
+He continues by discussing the generative process, stating:  
+
+αἱ γὰρ στεινότεραι πλῆντο πυρὸς ἀκρήτοιο,
+αἱ δ' ἐπὶ ταῖς νυκτός, μετὰ δὲ φλογὸς ἵεται αἶσα.
+
+*"The narrower ones are filled with pure fire,  
+those above with night, and fate follows the flame.  
+
+ἐν δὲ μέσῳ τούτων δαίμων ἣ πάντα κυβερνᾷ.
+
+In the middle of these is a daimon who governs all."*  
+
+ταύτην καὶ θεῶν αἰτίαν εἶναί φησι λέγων
+
+This daimon is identified as the cause of the gods, as he states:  
+
+πρώτιστον μὲν Ἔρωτα θεῶν μητίσσατο πάντων καὶ τὰ ἑξῆς. 
+
+*"First of all, Love [Eros] the gods devised,  
+and then all else followed."*  
+
+καὶ τὰς ψυχὰς πέμπειν ποτὲ μὲν ἐκ τοῦ ἐμφανοῦς εἰς τὸ ἀειδές, ποτὲ δὲ ἀνάπαλίν φησιν. 
+
+Parmenides even suggests a cycle of souls, describing their movement between the visible and the invisible realms.  
+
+ἀλλὰ ταῦτα μὲν διὰ τὴν πολλὴν νῦν ἄγνοιαν τῶν παλαιῶν γραμμάτων μηκύνειν ἀναγκάζομαι. 
+
+Despite the complexities of these ancient texts, the central argument remains that, if being is one and unchanging, 
+
+εἰκότως δὲ ἓν λέγοντες τὸ ὂν καὶ ἀκίνητον ἔλεγον, εἴπερ περὶ φυσικῶν διελέγοντο. 
+
+then discussing natural phenomena must account for how movement and multiplicity arise. 
+
+συνεισήγετο γὰρ τῇ κινήσει καὶ τὸ καθ' ὃ ἡ κίνησις, εἴτε κατὰ ποιότητα εἴτε κατὰ ποσότητα ἢ κατ' ἄλλο τι, συνεισήγετο δὲ καὶ ὁ τόπος, εἴπερ ἦν φυσικὴ κίνησις, ἄλλος ὢν παρὰ τὸ κινούμενον. 
+
+Since motion implies something distinct from the moving thing (whether in terms of quality, quantity, or place), it requires a framework separate from Parmenides' concept of an absolute, unchanging being.  
+
+ἀλλ' ὁ μὲν Παρμενίδης περὶ τοῦ νοητοῦ λέγων ὄντος·
+
+Thus, he states about true being:  
+
+αὐτὰρ ἀκίνητον, φησί, μεγάλων ἐν πείρασι δεσμῶν ἐστὶν ἄναρχον ἄπαυστον, ἐπεὶ γένεσις καὶ ὄλεθρος [40] τῆδε μάλ' ἐπλάγχθησαν, ἀπῶσε δὲ πίστις ἀληθής.
+
+*"It is unmoving,  
+bound by the great chains of limit,  
+without beginning and without end.  
+For birth and destruction have been led far astray,  
+and true faith has cast them away."*  
+### c78
+τὸ γὰρ ὄν, ὥς φησιν ὁ Παρμενίδης, ἄλλα ἔχει σημεῖα. 
+
+For being, as Parmenides says, has other signs.
+
+κάλλιον δὲ αὐτῶν [78] ἀκούειν τῶν περὶ τοῦ κυρίως ὄντος ὑπ' αὐτοῦ λεγομένων καὶ ἀποδεικνυμένων. 
+
+But it is better to listen to what he himself says and demonstrates about true being.
+
+μεμψάμενος γὰρ τοῖς τὸ ὂν καὶ τὸ μὴ ὂν συμφέρουσιν ἐν τῷ νοητῷ
+οἷς τὸ πέλειν τε καὶ οὐκ εἶναι ταὐτὸν νενόμισται
+κοὐ ταὐτόν, καὶ ἀποστρέψας τῆς ὁδοῦ τῆς τὸ μὴ ὂν ζητούσης
+
+For having criticized those who combine being and non-being in thought,  
+to whom coming-to-be and not-being are considered the same and not the same,  
+and having turned away from the path that seeks non-being,  
+
+ἀλλὰ σὺ τῆσδ' ἀφ' ὁδοῦ διζήσιος εἶργε νόημα,
+
+"But you, keep your thought away from this path of inquiry,"  
+
+ἐπάγει
+
+he then continues:  
+
+μοῦνος δ' ἔτι μῦθος ὁδοῖο
+λείπεται, ὡς ἔστι. ταύτῃ δ' ἐπὶ σήματ' ἔασι
+πολλὰ μάλα·
+
+καὶ παραδίδωσι λοιπὸν τὰ τοῦ κυρίως ὄντος σημεῖα· 
+
+"One path alone now remains, that it is. And on this path, there are many signs:  
+
+ὡς ἀγένητον ἐὸν καὶ ἀνώλεθρόν ἐστιν, οὖλον μουνογενές τε καὶ ἀτρεμὲς ἠδ' ἀτέλεστον,
+
+that being is ungenerated and indestructible,  
+whole, unique, motionless, and without end.  
+
+οὐδέ ποτ' ἦν οὐδ' ἔσται, ἐπεὶ νῦν ἐστιν ὁμοῦ πᾶν
+ἓν συνεχές· 
+
+It was never nor will it be, since it is now all at once,  
+one, continuous. 
+
+τίνα γὰρ γέννην διζήσεαι αὐτοῦ;
+πῇ πόθεν αὐξηθέν; 
+
+For what birth will you seek for it?  
+From where and how could it have grown? 
+
+οὔτ' ἐκ μὴ ἐόντος ἐάσω
+φάσθαι σ' οὐδὲ νοεῖν· 
+
+I will not allow  
+you to say or think that it came from non-being,  
+
+οὐ γὰρ φατὸν οὐδὲ νοητὸν
+ἐστὶν ὅπως οὐκ ἔστι. 
+
+for it is neither to be spoken nor thought that it is not.  
+
+τί δ' ἄν μιν καὶ χρέος ὦρσεν
+ὕστερον ἢ πρόσθεν τοῦ μηδενὸς ἀρξάμενον φῦν;
+
+And what need would have roused it later or earlier to come into being from nothing?  
+
+οὕτως ἢ πάμπαν πέλεναι χρεών ἐστιν ἢ οὐχί,
+οὐδέ ποτ' ἐκ μὴ ἐόντος ἐφήσει πίστιος ἰσχὺς
+γίνεσθαί τι παρ' αὐτό. 
+
+Thus, it must either fully be or not be at all,  
+and the power of conviction will never allow being to come from non-being.  
+
+τοῦ εἵνεκεν οὔτε γενέσθαι
+οὔτ' ὄλλυσθαι ἀνῆκε δίκη χαλάσασα πέδησιν.
+
+For this reason, justice does not loosen its bonds  
+to allow it to come into being or to perish."
+
+Ταῦτα δὴ περὶ τοῦ κυρίως ὄντος λέγων ἐναργῶς ἀποδείκνυσιν, ὅτι ἀγένητον τοῦτο τὸ ὄν· 
+
+These statements about true being clearly demonstrate that it is ungenerated. 
+#### 24
+οὔτε γὰρ ἐξ ὄντος, οὐ γὰρ προϋπῆρχεν ἄλλο ὄν· οὔτε ἐκ τοῦ μὴ ὄντος, οὐδὲ γὰρ ἔστι τὸ μὴ ὄν. 
+
+For it neither comes from being (since nothing existed before it) nor from non-being (since non-being does not exist). 
+
+καὶ διὰ τί δὴ τότε, ἀλλὰ μὴ καὶ πρότερον ἢ ὕστερον ἐγένετο; 
+
+And why then at one time rather than earlier or later would it have come to be? 
+
+ἀλλ' οὐδὲ ἐκ τοῦ πῇ μὲν ὄντος πῇ δὲ μὴ ὄντος, ὡς τὸ γενητὸν γίνεται· 
+
+Nor can it come from something that is in some way being and in some way not being, as generated things do, 
+
+οὐ γὰρ ἂν τοῦ ἁπλῶς ὄντος προϋπάρχοι τὸ πῇ μὲν ὂν πῇ δὲ μὴ ὄν, ἀλλὰ μετ' αὐτὸ ὑφέστηκε. 
+
+for in that case, partial being and partial non-being would precede absolute being, which is impossible.
+
+καὶ ὁ παρὰ Πλάτωνι
 ### c732
 
 p. 220b12 Ἔτι ὡς ἐνδέχεται κίνησιν εἶναι τὴν αὐτὴν ἕως τοῦ οἷον ἐνιαυτὸν ἢ ἔαρ ἢ μετόπωρον.
@@ -184,7 +519,7 @@ http://www.poesialatina.it/_ns/Greek/testi/Simplicius/In_Aristotelis_quattuor_li
 http://www.poesialatina.it/_ns/Greek/testi/Simplicius/De_caelo.html
 ## c293
 ### s15-17
-Λοιπὸν δὲ περὶ τῆς γῆς εἰπεῖν ἕως τοῦ καὶ πειρώμε   νοι συγκοσμεῖν. 
+Λοιπὸν δὲ περὶ τῆς γῆς εἰπεῖν ἕως τοῦ καὶ πειρώμενοι συγκοσμεῖν. 
 Ἐπὶ τὸ δέκατον καὶ τελευταῖον τοῦ βιβλίου κεφαλαῖον τὸ περὶ τῆς γῆς μέτεισιν οἰκεῖον καὶ αὐτὸ τοῖς περὶ τοῦ οὐρανοῦ λόγοις ὑπάρχον. μνημονεύσας γὰρ πρότερον τῆς γῆς καὶ ὡς ἐν μέσῳ κειμένης τοῦ παντὸς οὐρανοῦ καὶ ὡς ἀκινήτου καὶ κέντρου λόγον πρὸς αὐτὸν ἐχούσης καὶ ἀπὸ τοῦ σφαιροειδοῦς αὐτῆς τὸ τοῦ οὐρανοῦ σφαιροειδὲς ἀποδείξας καὶ ἁπλῶς τὰ κατὰ τὴν πρὸς τὸν οὐρανὸν αὐτῆς σχέσιν ἐξ ὑποθέσεως λαβὼν ταῦτα νῦν ἀποδείκνυσιν, ἵνα τέλεος ὁ περὶ τοῦ οὐρανοῦ λόγος ᾖ· καὶ γὰρ καὶ οἱ ἀστρονόμοι περὶ οὐρανοῦ καὶ τῶν οὐρανίων πραγματευόμενοι περὶ τῆς γῆς καὶ αὐτοὶ ταῦτα δεικνύουσιν, ὅτι ἐν μέσῳ τοῦ οὐρανοῦ καὶ ὅτι ἀκίνητος κέντρου λόγον ἔχουσα πρὸς τὸν οὐρανὸν καὶ τὸ σχῆμα σφαιροειδής. πάντα γὰρ αὐτῇ ταῦτα κατὰ τὴν σχέσιν ὑπάρχει τὴν πρὸς τὸν οὐρανόν, τὰ δὲ ἄλλα, ὅσα ὑπάρχει τῇ γῇ κατὰ τὴν πρὸς τὰ ἄλλα τρία στοιχεῖα σύνταξιν, ἐν τοῖς δυσὶ βιβλίοις τοῖς ἐφεξῆς ἐρεῖ. τρία οὖν περὶ αὐτῆς προβαλλόμενος περί τε τῆς θέσεως αὐτῆς, ὅπου κειμένη τυγχάνει, καὶ δεύτερον, πότερον τῶν ἠρεμούντων ἐστὶν ἢ τῶν κινουμένων, καὶ τρίτον περὶ τοῦ σχήματος αὐτῆς, τὰς προκαταβεβλημένας καὶ περὶ τούτων δόξας πρῶτον ἐκτίθεται καὶ πρὸς αὐτὰς ὑπαντήσας οὕτω τὰ δοκοῦντα ἑαυτῷ περὶ τούτων συλλογίζεται. πρῶτον δὲ περὶ τῆς θέσεως λέγει, ὅτι οἱ μὲν ἄπειρον τὸν κόσμον λέγοντες οὐδ' ἂν ζητοῖεν τὴν ἐν τῷ παντὶ θέσιν αὐτῆς· ἐν γὰρ ἀπείρῳ οὔτε ἀρχὴ οὔτε μέσον οὔτε τέλος ἐστί· τῶν δὲ πεπερασμένον τὸν κόσμον λεγόντων οἱ μὲν πλεῖστοι ἐπὶ τοῦ μέσου κεῖσθαι λέγουσι τὴν γῆν, ὥσπερ Ἐμπεδοκλῆς καὶ Ἀναξίμανδρος καὶ Ἀναξιμένης καὶ Ἀναξαγόρας καὶ Δημόκριτος καὶ Πλάτων· 
 
 "Next, we shall speak about the Earth, as far as we may attempt to bring order to our discussion.  

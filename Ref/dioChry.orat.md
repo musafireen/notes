@@ -1,9 +1,57 @@
 
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0567%3Aspeech%3D32%3Asection%3D40
 
+https://topostext.org/work/197
+
 https://penelope.uchicago.edu/Thayer/H/Roman/Texts/Dio_Chrysostom/Discourses/53*.html
 
 https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dio_Chrysostom/home.html
+# o4
+## c4
+ἦν μὲν γάρ, ὥς φασιν, ὁ Ἀλέξανδρος ἀνθρώπων φιλοτιμότατος καὶ μάλιστα δόξης ἐραστὴς καὶ τοῦ καταλιπεῖν ὡς μέγιστον αὑτοῦ ὄνομα ἐν πᾶσιν Ἕλλησι καὶ βαρβάροις, καὶ ἐπεθύμει γε τιμᾶσθαι σχεδὸν οὐχ ὑπὸ τῶν ἀνθρώπων μόνον πανταχοῦ, ἀλλ᾽ εἴ πως δυνατὸν ἦν, ὑπό τε τῶν ὀρνίθων καὶ τῶν ἐν τοῖς ὄρεσι θηρίων.
+
+4 Now it should be explained that Alexander was by  p171 common report the most ambitious of men and the greatest lover of glory. He was anxious to leave his name the greatest among the Greeks and barbarians and longed to be honoured, not only — as one might put it — by mankind the world over, but, if it were at all possible, by the birds of the air and the beasts of the mountains. 
+## c11
+διὰ ταῦτα δὴ δακνόμενος, εἴ τις αὐτοῦ [p. 58] διοίσει ῥᾳδίως οὕτως καὶ ἀπραγμόνως ζῶν, καὶ προσέτι οὐχ ἧττον ὀνομαστὸς ἔσοιτο, τυχὸν δέ τι καὶ ὠφεληθήσεσθαι νομίζων ἀπὸ τῆς συνουσίας τἀνδρός, πάλαι μὲν ἐπεθύμει θεάσασθαι τὸν ἄνδρα καὶ συγγενέσθαι αὐτῷ:
+
+11 Therefore Alexander, being nettled to think that anyone living so easy and care-free a life was going to surpass himself and in addition should be no less famous, and thinking perhaps too that he would receive some benefit from an interview with the man, had long desired to behold him and converse with him; 
+## c12
+ἐπεὶ δὲ ἧκεν εἰς Κόρινθον καὶ τάς τε πρεσβείας ἀπεδέξατο τὰς παρὰ τῶν Ἑλλήνων καὶ τἄλλα τὰ τῶνξυμμάχων διῴκησεν, ἔφη τοῖς περὶ αὐτὸν ὅτι σχολάσαι τι βούλοιτο, καὶ ᾤχετο, οὐκ ἐπὶ θύρας τοῦ Διογένους: οὐ γὰρ ἦσαν αὐτῷ θύραι οὔτε μείζους οὔτε ἐλάττους, οὐδὲ οἶκος ἴδιος οὐδὲ ἑστία, καθάπερ τοῖς μακαρίοις, ἀλλὰ οἴκοις μὲν ἐχρῆτο ταῖς πόλεσι,
+
+12 and when he had come to Corinth and had received the Greek embassies and regulated the affairs of the allies as well, he told his attendants that he wished to have a little leisure and went off — I will not say to the court3 of Diogenes, for he had no court either great or small, nor house nor hearth of his own as the well-to‑do have, 
+## c13
+καὶ ἐνταῦθα διέτριβεν ἐν τοῖς κοινοῖς τε καὶ ἱεροῖς, ἅπερ ἵδρυται τοῖς θεοῖς, ἑστίαν δὲ ἐνόμιζε τὴν γῆν ἅπασαν, ἥπερ ἐστὶ κοινὴ τῶν ἀνθρώπων ἑστία καὶ τροφός.
+
+13 but he made the cities his home and used to live there in the public buildings and in the shrines, which are dedicated to the gods, and took for his hearth-stone the wide world, which after all is man's common hearth and nourisher. 
+# o8
+## c11
+διὰ δὴ τοῦτο ἔφη ὁ Διογένης προσεοικέναι τοῖς κυσὶ τοῖς Λάκωσι: 
+
+Just for that reason, said Diogenes, he was like the Laconian dogs; 
+
+καὶ γὰρ τούτους, ὅταν στῶσιν εἰς τὰς πανηγύρεις, πολλοὺς μὲν εἶναι τοὺς καταψήχοντας καὶ προσπαίζοντας, μηδένα δὲ ὠνεῖσθαι ῥᾳδίως, διὰ τὸ μὴ ἐπίστασθαι χρῆσθαι. 
+
+there were plenty of men to pat them and play with them when they were shown at the popular gatherings, but no one was willing to buy any because he did not know how to deal with them. 
+
+πυθομένου δέ τινος εἰ καὶ αὐτὸς ἥκοι τὸν ἀγῶνα θεασόμενος, οὐκ, ἔφη, [p. 98] ἀλλ᾽ ἀγωνιούμενος. 
+
+And when a certain man asked whether he too came to see the contest, he said, "No, but to take part." 
+
+καὶ ὃς ἐγέλασέ τε καὶ ἤρετο αὐτὸν τίνας ἔχοι τοὺς ἀνταγωνιστάς.
+
+Then when the man laughed and asked him who his competitors were,
+## c14
+ἢ σὺ οἴει τούτων τι ὄφελοσεἶναι τῶν τὰς μεγάλας κοιλίας ἐχόντων, οὓς ἐχρῆν περιαγαγόντας καὶ περικαθάραντας ἐκβαλεῖν, μᾶλλον δὲ καταθύσαντας καὶ κατατεμόντας εὐωχεῖσθαι, καθάπερ οἶμαι τὰ τῶν κητῶν κρέα, τοὺς νοῦν ἔχοντας, ἕψοντας ἁλσὶ καὶ θαλάσσῃ, τὴν δὲ πιμελὴν τήξαντας, ὥσπερ ἐν Πόντῳ παρ᾽ ἡμῖν τὸ τῶν δελφίνων στέαρ, ἀλείφεσθαι τοὺς [15] δεομένους. 
+
+Or do you think those pot-bellies are good for anything? — creatures whom sensible people ought to lead around, subject to the ceremony of purification, and then thrust beyond the borders, or, rather, kill, quarter, and use as food just as people do with the flesh of large fish, don't you know, boiling it in brine and melting out the fat, the way our people at home in Pontus do with the lard of pigs when they want to anoint themselves. For I think these men have less soul than hogs.
+## c16
+ἀλλὰ προκαλούμενον ἐφεξῆς ἅπαντας, καὶ λιμῷ φιλονεικοῦντα καὶ ψύχει καὶ δίψος ὑπομένοντα, κἂν δέῃ μαστιγούμενον καρτερεῖν καὶ τεμνόμενον καὶ καόμενον μηδὲν μαλακὸν ἐνδιδόντα: 
+
+but challenges them one after another, grappling with hunger and cold, withstanding thirst, and disclosing no weakness even though he must endure the lash or give his body to be cut or burned. 
+
+πενίαν δὲ καὶ φυγὴν καὶ ἀδοξίαν καὶ τὰ τοιαῦταμηδὲν ἡγεῖσθαι δεινὸν αὑτῷ, ἀλλὰ πάνυ κοῦφα, καὶ πολλάκις παίζειν ἐν αὐτοῖς τὸν ἄνδρα τὸν τέλειον, ὥσπερ οἱ παῖδες τοῖς ἀστραγάλοις καὶ ταῖς σφαίραις ταῖς ποικίλαις.
+
+Hunting, exile, loss of reputation, and the like have no terrors for him; nay, he holds them as mere trifles, and while in their very grip the perfect man is often as sportive as boys with their dice and their coloured balls.
 ## o32
 ### 38
 οὐ πόλεως: οὐδέ γε, ἂν ὕδωρ ἐπαινῇ τις, ἀνθρώπων ἔπαινος οὗτός ἐστιν, ἀλλὰ φρεάτων: οὐδ᾽ ἂν περὶ εὐκρασίας λέγῃ τις, τοὺς ἀνθρώπους εἶναί φησιν ἀγαθούς, ἀλλὰ τὴν χώραν: οὐδ᾽ ἂν περὶ [p. 278] ἰχθύων, τὴν πόλιν ἐπαινεῖ: πόθεν; ἀλλὰ θάλατταν ἢ λίμνην ἢ ποταμόν. ὑμεῖς δέ, ἂν ἐγκωμιάζῃ τις τὸν Νεῖλον, ἐπαίρεσθε, ὥσπερ αὐτοὶ ῥέοντες ἀπὸ Αἰθιοπίας. σχεδὸν δὲ καὶ τῶν ἄλλων οἱ πλείους ἐπὶ τοῖς τοιούτοις χαίρουσι, καὶ μακαρίους ἑαυτοὺς κρίνουσιν, ἂν οἰκῶσι καθ᾽ Ὅμηρον νῆσον δενδρήεσσαν ἢ βαθεῖαν ἤτινα ἤπειρον εὔβοτον, εὔμηλον, ἢ πρὸς ὄρεσι σκιεροῖς ἢ πηγαῖς διαυγέσιν: ὧν οὐδὲν ἴδιόν ἐστιν ἐκείνων: ἀρετῆς δὲ οὐδὲ ὄναρ αὐτοῖς μέλει.

@@ -1,5 +1,5 @@
 
-https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0138%3Abook%3D7%3Achapter%3D3
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D30%3Achapter%3D1
 
 https://www.thelatinlibrary.com/pliny1.html
 # b4
@@ -88,4 +88,58 @@ Isigonus and Nymphodorus inform us that there are in Africa certain families of 
 notabilius esse quod pupillas binas in oculis singulis habeant. huius generis et feminas in scythia, quae bitiae vocantur, prodit apollonides. phylarchus et in ponto thibiorum genus multosque alios eiusdem naturae, quorum notas tradit in altero oculo geminam pupillam, in altero equi effigiem; eosdem praeterea non posse mergi, ne veste quidem degravatos. haut dissimile iis genus pharmacum in aethiopia damon, quorum sudor tabem contactis corporibus afferat. feminas quidem omnes ubique visu nocere quae duplices pupillas habeant, cicero quoque apud nos auctor est. adeo naturae, cum ferarum morem vescendi humanis visceribus in homine genuisset, gignere etiam in toto corpore et in quorundam oculis quoque venena placuit, ne quid usquam mali esset quod in homine non esset.
 
 A still more remarkable circumstance is, the fact that these persons have two pupils in each eye.25 Apollonides says, that there are certain females of this description in Scythia, who are known as Bythiæ, and Phylarchus states that a tribe of the Thibii in Pontus, and many other persons as well, have a double pupil in one eye, and in the other the figure of a horse.26 He also remarks, that the bodies of these persons will not sink in water,27 even though weighed down by their garments. Damon gives an account of a race of people, not very much unlike them, the Pharnaces of Æthiopia, whose perspiration is productive of consumption28 to the body of every person that it touches. Cicero also, one of our own writers, makes the remark, that the glances of all women who have a double pupil is noxious.29
+# b30
+## c2
+#### 8
+primus, quod exstet, ut equidem invenio, commentatus est de ea osthanes xerxen regem persarum bello, quod is graeciae intulit, comitatus ac velut semina artis portentosae sparsit obiter infecto, quacumque commeaverat, mundo. 
 
+The first person, so far as I can ascertain, who wrote upon magic, and whose works are still in existence, was Osthanes,16 who accompanied Xerxes, the Persian king, in his expedition against Greece. It was he who first17 disseminated, as it were, the germs of this monstrous art, and tainted therewith all parts of the world through which the Persians passed. 
+
+diligentiores paulo ante hunc ponunt zoroastren alium proconnensium. quod certum est, hic maxime osthanes ad rabiem, non aviditatem modo scientiae eius, graecorum populos egit. 
+
+Authors who have made diligent enquiries into this subject, make mention of a second Zoroaster, a native of Proconnesus, as living a little before the time of Osthanes. That it was this same 'Osthanes, more particularly, that inspired the Greeks, not with a fondness only, but a rage, for the art of magic, is a fact beyond all doubt: 
+
+quamquam animadverto summam litterarum claritatem gloriamque ex ea scientia antiquitus et paene semper petitam. 
+
+though at the same time I would remark, that in the most ancient times, and indeed almost invariably, it was in this18 branch of science, that was sought the highest point of celebrity and of literary renown. 
+
+certe pythagoras, empedocles, democritus, plato ad hanc discendam navigavere exiliis verius quam peregrinationibus susceptis, hanc reversi praedicavere, hanc in arcanis habuere. 
+
+At all events, Pythagoras, we find, Empedocles, Democritus, and Plato, crossed the seas, in order to attain a knowledge thereof, submitting, to speak the truth, more to the evils of exile19 than to the mere inconveniences of travel. Returning home, it was upon the praises of this art that they expatiated—it was this that they held as one of their grandest mysteries. 
+
+democritus apollobechen coptiten et dardanum e phoenice inlustravit voluminibus dardani in sepulchrum eius petitis, suis vero ex disciplina eorum editis. 
+
+It was Democritus, too, who first drew attention to Apollobeches20 of Coptos, to Dardanus,21 and to Phœnix: the works of Dardanus he sought in the tomb of that personage, and his own were composed in accordance with the doctrines there found. 
+
+quae recepta ab ullis hominum atque transisse per memoriam aeque ac nihil in vita mirandum est; 
+
+That these doctrines should have been received by any portion of mankind, and transmitted to us by the aid of memory, is to me surprising beyond anything I can conceive.22 
+
+in tantum fides istis fasque omne deest, adeo ut qui cetera in viro probant, haec opera eius esse infitientur. 
+
+All the particulars there found are so utterly incredible, so utterly revolting, that those even who admire Democritus in other respects, are strong in their denial that these works were really written by him. 
+
+sed frustra. 
+
+Their denial, however, is in vain; 
+
+hunc enim maxime adfixisse animis eam dulcedinem constat. 
+
+for it was he, beyond all doubt, who had the greatest share in fascinating men's minds with these attractive chimeras.
+# b34
+## 28
+artifices, qui compositis voluminibus condidere haec, miris laudibus celebrant telephanen phocaeum, ignotum alias, quoniam ... thessaliae habitaverit et ibi opera eius latuerint; 
+
+The writers who compiled these volumes praise Telephanes of Phocaea with remarkable admiration, though he is otherwise unknown, because he lived in Thessaly and his works remained hidden there. 
+
+alioqui suffragiis ipsorum aequatur polyclito, Myroni, pythagorae. 
+
+Otherwise, according to their judgment, he is ranked equal to Polykleitos, Myron, and Pythagoras. 
+
+laudant eius larisam et spintharum pentathlum et apollinem. 
+
+They praise his statues of Larisa, Spintharus the pentathlete, and Apollo. 
+
+alii non hanc ignobilitatis fuisse causam, sed quod se regum xerxis atque darei officinis dediderit, existimant.
+
+Others believe that his obscurity was not due to this reason, but rather because he devoted himself to the workshops of the kings Xerxes and Darius.

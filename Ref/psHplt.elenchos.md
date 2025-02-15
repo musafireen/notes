@@ -669,9 +669,9 @@ f. 40ν
 
 ### 29
 ????
-# b9
+## b9
 http://www.gnosis.org/library/hyp_refut9.htm
-## c4
+### c4
 http://remacle.org/bloodwolf/philosophes/heraclite/diels.htm
 
 Ἡ. μὲν οὖν ἕν φησιν εἶναι τὸ πᾶν διαιρετὸν ἀδιαίρετον, γενητὸν ἀγένητον, θνητὸν ἀθάνατον, λόγον αἰῶνα, πατέρα υἱόν, θεὸν δίκαιον· 
@@ -701,7 +701,7 @@ And that a Son is the universe and throughout endless ages an eternal king of al
 "A sporting child, playing at his dice, is eternity; the kingdom is that of a child." 
 
 And that the Father of all things that have been generated is an unbegotten creature who is creator, let us hear Heraclitus affirming in these words: "Contrariety is a progenitor of all things, and king of all; and it exhibited some as gods, but others as men, and made some slaves, whereas others free." And (he likewise affirms) that there is" a harmony, as in a bow and lyre." That obscure harmony (is better), though unknown and invisible to men, he asserts in these words: "An obscure harmony is preferable to an obvious one." He commends and admires before what is known, that which is unknown and invisible in regard of its power. And that harmony visible to men, and not incapable of being discovered, is better, he asserts in these words: "Whatever things are objects of vision, hearing, and intelligence, these I pre-eminently honour," he says; that is, he prefers things visible to those that are invisible. From such expressions of his it is easy to understand the spirit of his philosophy. "Men," he says, "are deceived in reference to the knowledge of manifest things similarly with Homer, who was wiser than all the Greeks For even children killing vermin deceived him, when they said, 'What we have seen and seized, these we leave behind; whereas what we neither have seen nor seized, these we carry away.'
-## c9
+### c9
 Seems mistaken as 9 in diels
 ![[#b9#c4]]
 

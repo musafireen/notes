@@ -13,8 +13,17 @@ After recounting the invincibility of the wicked Daitya in the guise of a buffal
 If you had not been born as Kauśikī bringing about the death of Śuṃbha and Niśuṃbha, O Goddess, how could the glory and prosperity of the Guardians of Quarters have been regained?
 ##### 56
 O Vindhyavāsinī (‘Resident of Vindhya’), what fruitful penance has been performed by Vindhya where a friendship with you can be acquired even by the Kirātīs (‘huntresses’)!
-![[RV#b10#10.125]]
+[[RV#b10#10.125]]
 # a5
+## c2
+### s82
+https://www.wisdomlib.org/hinduism/book/the-skanda-purana/d/doc425726.html
+### 46-57
+
+
+46-57. After eulogizing me, he made this statement: “The earliest Devas named Tuṣitas have been deprived of their bodies by Bhadrakālī, O Mahādeva. The Vasus have been overpowered and shattered, the Bhāskaras have been injured in the battle. The remaining ones have fled in various directions. How shall the Kāyāvarohaṇa (growing of the body once again) of the Tuṣitas take place?”
+
+On hearing the words of Brahmā, O lady of excellent countenance, I said: “Let these Tuṣitas go to the holy spot Mahākālavana where Lakuṭīśa [Lakulīśa] has gone home after Kāyāvarohaṇa.[1] At my bidding the Brāhmaṇas, accompanied by four disciples, attained the Kāyās when Kaliyuga arrived after Dvāpara was over. All these are my disciples and comparable to me. They stayed on the earth contented and blessed for the purpose of protecting Brāhmaṇas. To the south of that Kṣetra (holy spot) there is an excellent Liṅga. It is divine and it bestows all riches. It accords Kāyā unto the Siddhas. With the favour of that Liṅga, these Suras will attain their Kāyās.” On hearing my words, O my beloved, those Tuṣitas went away delighted in the company of Brahmā to the place where the excellent Liṅga was present. With the favour of that Liṅga, excellent Kāyās were attained by them. Those Tuṣitas became the same as they were before. Hence the name Kāyāvarohaṇeśvara was given by the Devas. The deity shall be bestower of desired things and will be well-known. If the devotees go to the southern quarter and visit the deity Kāyāvarohaṇa with great devotion, Yama shall be their father (a protecting guardian). By visiting it alone, all those sins acquired in the course of thousands and crores of births become dissolved, not otherwise.
 ## c3
 ### 121-124
 #### 121

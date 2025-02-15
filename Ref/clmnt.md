@@ -1653,15 +1653,76 @@ Similar to this book is the Theology of Pherecydes of Syrus;
 
 for Euphorion the poet, and the Causes of Callimachus, and the Alexandra of Lycophron, and the like, are proposed as an exercise in exposition to all the grammarians.
 
-### s14
-#### 109
-5.14.109.1 Εὖ γοῦν καὶ Ξενοφάνης ὁ Κολοφώνιος, διδάσκων ὅτι
-εἷς καὶ ἀσώματος ὁ θεός, ἐπιφέρει· εἷς θεός, ἔν τε θεοῖσι καὶ ἀνθρώποισι μέγιστος, οὔ
-τι δέμας θνητοῖσιν ὁμοίιος οὐδὲ νόημα. 5.14.109.2 καὶ πάλιν· ἀλλ' οἱ βροτοὶ δοκοῦσι
-γεννᾶσθαι θεούς, τὴν σφετέρην δὲ ἐσθῆτα ἔχειν φωνήν τε δέμας τε. 5.14.109.3 καὶ
-πάλιν· ἀλλ' εἴ τοι χεῖρας <γ'> εἶχον βόες ἠὲ λέοντες, ὡς γράψαι χείρεσσι καὶ ἔργα
-τελεῖν ἅπερ ἄνδρες, ἵπποι μέν θ' ἵπποισι, βόες δέ τε βουσὶν ὁμοίας καί <κε> θεῶν
-ἰδέας ἔγραφον καὶ σώματ' ἐποίουν τοιαῦθ' οἷόν περ καὶ αὐτοὶ δέμας εἶχον ὁμοῖον.
+### c14
+#### s104
+##### 1
+οὐ παραπέμπομαι καὶ τὸν Ἐμπεδοκλέα, ὃς φυσικῶς οὕτως τῆς τῶν πάντων ἀναλήψεως μέμνηται, ὡς ἐσομένης ποτὲ εἰς τὴν τοῦ [5.14.104] [1] πυρὸς οὐσίαν μεταβολῆς. 
+
+I do not pass over Empedocles, who speaks thus physically of the renewal of all things, as consisting in a transmutation into the essence of fire, which is to take place. 
+
+σαφέστατα ‹δ'› Ἡράκλειτος ὁ Ἐφέσιος ταύτης ἐστὶ τῆς δόξης, τὸν μέν τινα κόσμον ἀίδιον εἶναι δοκιμάσας, τὸν δέ τινα φθειρόμενον, τὸν κατὰ τὴν διακόσμησιν εἰδὼς οὐχ ἕτερον ὄντα [2] ἐκείνου πως ἔχοντος. 
+
+And most plainly of the same opinion is Heraclitus of Ephesus, who considered that there was a world everlasting, and recognised one perishable -- that is, in its arrangement, not being different from the former, viewed in a certain aspect. 
+##### 2
+ἀλλ' ὅτι μὲν ἀίδιον τὸν ἐξ ἁπάσης τῆς οὐσίας ἰδίως ποιὸν κόσμον ᾔδει, φανερὸν ποιεῖ λέγων οὕτως· 
+
+But that he knew the imperishable world which consists of the universal essence to be everlastingly of a certain nature, he makes clear by speaking thus: 
+
+"κόσμον τὸν αὐτὸν ἁπάντων οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν, ἀλλ' ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον [3] μέτρα." 
+
+"The same world of all things, neither any of the gods, nor any one of men, made. But there was, and is, and will be ever-living fire, kindled according to measure, and quenched according to measure." 
+##### 3
+ὅτι δὲ καὶ γενητὸν καὶ φθαρτὸν αὐτὸν εἶναι ἐδογμάτιζεν, μηνύει τὰ ἐπιφερόμενα· 
+
+And that he taught it to be generated and perishable, is shown by what follows: 
+
+"πυρὸς τροπαὶ πρῶτον θάλασσα, [4] θαλάσσης δὲ τὸ μὲν ἥμισυ γῆ, τὸ δὲ ἥμισυ πρηστήρ," 
+
+"There are transmutations of fire, -- first, the sea; and of the sea the half is land, the half fiery vapour." 
+##### 4
+δυνάμει γὰρ λέγει, ὅτι πῦρ ὑπὸ τοῦ διοικοῦντος λόγου καὶ θεοῦ τὰ σύμπαντα δι' ἀέρος τρέπεται εἰς ὑγρὸν τὸ ὡς σπέρμα τῆς διακοσμήσεως, ὃ καλεῖ θάλασσαν· 
+
+For he says that these are the effects of power. For fire is by the Word of God, which governs all things, changed by the air into moisture, which is, as it were, the germ of cosmical change; and this he calls sea. 
+
+ἐκ δὲ τούτου αὖθις γίνεται γῆ καὶ οὐρανὸς καὶ τὰ ἐμπεριεχόμενα.
+
+And out of it again is produced earth, and sky, and all that they contain. 
+##### 5
+[5] ὅπως δὲ πάλιν ἀναλαμβάνεται καὶ ἐκπυροῦται, σαφῶς διὰ τούτων δηλοῖ· 
+
+How, again, they are restored and ignited, he shows clearly in these words: 
+
+"θάλασσα διαχέεται καὶ μετρέεται εἰς τὸν αὐτὸν λόγον ὁκοῖος πρόσθεν ἦν ἢ γενέσθαι γῆ." 
+
+"The sea is diffused and measured according to the same rule which subsisted before it became earth." 
+
+ὁμοίως καὶ περὶ τῶν [5.14.105] [1] ἄλλων στοιχείων τὰ αὐτά. 
+
+Similarly also respecting the other elements, the same is to be understood. 
+
+Not even before the bright beams of the sun Are men, as being mortal, fit to stand,"- the Sibyl had said before. 
+#### s109
+5.14.109.1 Εὖ γοῦν καὶ Ξενοφάνης ὁ Κολοφώνιος, διδάσκων ὅτι εἷς καὶ ἀσώματος ὁ θεός, ἐπιφέρει· 
+
+Rightly, then, Xenophanes of Colophon, teaching that God is one and incorporeal, adds: 
+
+εἷς θεός, ἔν τε θεοῖσι καὶ ἀνθρώποισι μέγιστος, οὔ
+τι δέμας θνητοῖσιν ὁμοίιος οὐδὲ νόημα. 
+   
+"One God there is 'midst gods and men supreme; In form, in mind, unlike to mortal men."
+
+5.14.109.2 καὶ πάλιν· ἀλλ' οἱ βροτοὶ δοκοῦσι γεννᾶσθαι θεούς, τὴν σφετέρην δὲ ἐσθῆτα ἔχειν φωνήν τε δέμας τε. 
+
+And again: "But men have the idea that gods are born, And wear their clothes, and have both voice and shape.
+
+5.14.109.3 καὶ πάλιν· ἀλλ' εἴ τοι χεῖρας <γ'> εἶχον βόες ἠὲ λέοντες, ὡς γράψαι χείρεσσι καὶ ἔργα τελεῖν ἅπερ ἄνδρες, ἵπποι μέν θ' ἵπποισι, βόες δέ τε βουσὶν ὁμοίας καί <κε> θεῶν ἰδέας ἔγραφον καὶ σώματ' ἐποίουν τοιαῦθ' οἷόν περ καὶ αὐτοὶ δέμας εἶχον ὁμοῖον.
+
+And again: "But had the oxen or the lions hands, Or could with hands depict a work like men, Were beasts to draw the semblance of the gods, The horses would them like to horses sketch, To oxen, oxen, and their bodies make Of such a shape as to themselves belongs.
+#### s122
+##### 3
+ἢν δὲ ὁσίως καὶ δικαίως διαβιώσωμεν, μακάριοι μὲν ἐνταῦθα, μακαριώτεροι δὲ μετὰ τὴν ἐνθένδε ἀπαλλαγήν, οὐ χρόνῳ τινὶ τὴν εὐδαιμονίαν ἔχοντες, ἀλλὰ ἐν αἰῶνι ἀναπαύεσθαι δυνάμενοι, ἀθανάτοις ἄλλοισιν ὁμέστιοι, ἔν τε τραπέζαις ἐόντες ἀνδρείων ἀχέων ἀπόκληροι, ἀτειρεῖς, [4] ἡ φιλόσοφος Ἐμπεδοκλέους λέγει ποιητική. 
+
+If we live piously and justly, we will be blessed in this life and even more blessed after departing from here, not possessing happiness for a limited time but able to rest in eternity Among the other immortals, sharing their homes, At their tables, Free from the griefs of mortals, Unwearied. Thus speaks the philosopher-poet Empedocles.
 ## b6
 
 ### c2
@@ -2593,3 +2654,33 @@ Again, in the same:
 "καὶ γάρ μοι δοκεῖ τοὺς προσποιουμένους φιλοσοφεῖν, ἵνα μάθωσι τί ἐστιν ἡ ὑπόπτερος δρῦς καὶ τὸ ἐπ' αὐτῇ πεποικιλμένον φᾶρος, πάντα ὅσα Φερεκύδης ἀλληγορήσας ἐθεολόγησεν, λαβὼν ἀπὸ τῆς τοῦ Χὰμ προφητείας τὴν ὑπόθεσιν·
 
 "For to me it appears that those who profess to philosophize, do so that they may learn what is the winged oak,'" and the variegated robe on it, all of which Pherecydes has employed as theological allegories, having taken them from the prophecy of Chum.
+## b7
+### c4
+#### 22
+Ἕλληνες δὲ ὥσπερ ἀνθρωπομόρφους οὕτως καὶ ἀνθρωποπαθεῖς τοὺς θεοὺς ὑποτίθενται, 
+
+Now, as the Greeks represent the gods as possessing human forms, so also do they as possessing human passions. 
+
+καὶ καθάπερ τὰς μορφὰς αὐτῶν ὁμοίας ἑαυτοῖς ἕκαστοι διαζωγραφοῦσιν, ὥς φησιν ὁ Ξενοφάνης, 
+
+And as each of them depict their forms similar to themselves, as Xenophanes says, 
+
+"Αἰθίοπές τε μέλανας σιμούς τε Θρᾷκές τε πυρροὺς καὶ γλαυκούς", 
+
+"Ethiopians as black and apes, the Thracians ruddy and tawny;" 
+
+οὕτως καὶ τὰς ψυχὰς ὁμοίους ἑαυτοῖς αὐτοὺς ἀναπλάττουσιν, αὐτίκα βάρβαροι [οἱ] μὲν θηριώδεις καὶ ἀγρίους τὰ ἤθη, ἡμερωτέρους δὲ [2] Ἕλληνες, πλὴν ἐμπαθεῖς. 
+
+so also they assimilate their souls to those who form them: the Barbarians, for instance, who make them savage and wild; and the Greeks, who make them more civilized, yet subject to passion.
+
+διὸ εὐλόγως τοῖς μὲν μοχθηροῖς φαύλας ἔχειν τὰς περὶ θεοῦ διανοήσεις ἀνάγκη, τοῖς δὲ σπουδαίοις ἀρίστας, 
+
+Wherefore it stands to reason, that the ideas entertained of God by wicked men must be bad, and those by good men most excellent. 
+
+καὶ διὰ τοῦτο ὁ τῷ ὄντι "βασιλικὸς τὴν ψυχὴν" καὶ γνωστικὸς οὗτος καὶ θεοσεβὴς καὶ ἀδεισιδαίμων [ὤν], τίμιον, σεμνόν, μεγαλοπρεπῆ, εὐποιητικόν, εὐεργετικόν, ἁπάντων ἀρχηγὸν ἀγαθῶν, κακῶν δὲ ἀναίτιον [3] μόνον εἶναι τὸν μόνον θεὸν πεπεισμένος. 
+
+And therefore he who is in soul truly kingly and gnostic, being likewise pious and free from superstition, is persuaded that He who alone is God is honourable, venerable, august, beneficent, the doer of good, the author of all good things, but not the cause of evil. 
+
+καὶ περὶ μὲν τῆς Ἑλληνικῆς δεισιδαιμονίας ἱκανῶς, οἶμαι, ἐν τῷ Προτρεπτικῷ ἐπιγραφομένῳ ἡμῖν λόγῳ παρεστήσαμεν κατακόρως τῇ κατεπειγούσῃ συγκαταχρώμενοι [7.4.23] [1] ἱστορίᾳ.
+
+And respecting the Hellenic superstition we have, as I think, shown enough in the book entitled by us The Exhortation, availing ourselves abundantly of the history bearing on the point. 

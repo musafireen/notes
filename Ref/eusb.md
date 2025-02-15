@@ -1327,9 +1327,17 @@ d
 ## b11
 ### c3
 #### 8
-φησὶ δ’ Ἀριστόξενος ὁ μουσικὸς Ἰνδῶν εἶναι τὸν λόγον τοῦτον. Αθήνησι γὰρ ἐντυχεῖν Σωκράτει τῶν ἀνδρῶν ἐκείνων ἕνα τινὰ, κἄπειτα αὐτοῦ πυνθάνεσθαι τί ποιῶν φιλοσοφοίη· τοῦ δὲ εἰπόντος ὅτι ζητῶν περὶ τοῦ ἀνθρωπίνου βίου , καταγελάσαι τὸν Ἰνδὸν , λέγοντα μὴ δύνασθαί τινα τὰ ἀνθρώπινα καταδεῖν, ἀγνοοῦντά γε τὰ θεῖα.
+φησὶ δ’ Ἀριστόξενος ὁ μουσικὸς Ἰνδῶν εἶναι τὸν λόγον τοῦτον. 
 
-'Now Aristoxenus the Musician says that this argument comes from the Indians: for a certain man of that nation fell in with Socrates at Athens, and presently asked him, what he was doing in philosophy: and when he said, that he was studying human life, the Indian laughed at him, and said that no one could comprehend things human, if he were ignorant of things divine.
+'Now Aristoxenus the Musician says that this argument comes from the Indians: 
+
+Αθήνησι γὰρ ἐντυχεῖν Σωκράτει τῶν ἀνδρῶν ἐκείνων ἕνα τινὰ, κἄπειτα αὐτοῦ πυνθάνεσθαι τί ποιῶν φιλοσοφοίη· 
+
+for a certain man of that nation fell in with Socrates at Athens, and presently asked him, what he was doing in philosophy: 
+
+τοῦ δὲ εἰπόντος ὅτι ζητῶν περὶ τοῦ ἀνθρωπίνου βίου , καταγελάσαι τὸν Ἰνδὸν , λέγοντα μὴ δύνασθαί τινα τὰ ἀνθρώπινα καταδεῖν, ἀγνοοῦντά γε τὰ θεῖα.
+
+and when he said, that he was studying human life, the Indian laughed at him, and said that no one could comprehend things human, if he were ignorant of things divine.
 ### c9
 Μώσεως ἐν ταῖς ἱεροφαντίαις χρησμὸν ἐκ
 

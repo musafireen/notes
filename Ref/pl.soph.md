@@ -1,5 +1,6 @@
 
-# 241a
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0172%3Atext%3DSoph.%3Asection%3D216a
+## 241a
 τά τε ὄντα λέγων μὴ εἶναι καὶ τὰ μὴ ὄντα εἶναι.
 Θεαίτητος
 πῶς γὰρ ἂν ἄλλως τοιοῦτος γένοιτο;
@@ -19,7 +20,7 @@ Virtually in no other way; but the sophist will not assent to this. Or how can a
 
 Theaetetus
 Of course we understand that he will say we are contradicting our recent statements, since we dare to say that falsehood exists in opinions and words; 
-# 241b
+## 241b
 [241β] ἐν δόξαις τε καὶ κατὰ λόγους; τῷ γὰρ μὴ ὄντι τὸ ὂν προσάπτειν ἡμᾶς πολλάκις ἀναγκάζεσθαι, διομολογησαμένους νυνδὴ τοῦτο εἶναι πάντων ἀδυνατώτατον.
 
 Ξένος
@@ -41,7 +42,7 @@ Very true.
 
 Stranger
 Yes, we have gone through only a small part of them, 
-# 241c
+## 241c
 [241ξ] ὡς ἔπος εἰπεῖν ἀπεράντων.
 
 Θεαίτητος
@@ -75,7 +76,7 @@ Will you then pardon me, and, as your words imply, be content if I somehow withd
 
 Theaetetus
 Of course I will. 
-# 241d
+## 241d
 [241δ]
 
 Ξένος
@@ -121,7 +122,7 @@ It is plain that some such contention is necessary.
 
 Stranger
 Yes, plain even to a blind man, as they say; for unless these statements
-# 241e
+## 241e
 [241ε] τούτων γὰρ μήτ᾽ ἐλεγχθέντων μήτε ὁμολογηθέντων σχολῇ ποτέ τις οἷός τε ἔσται περὶ λόγων ψευδῶν λέγων ἢ δόξης, εἴτε εἰδώλων εἴτε εἰκόνων εἴτε μιμημάτων εἴτε φαντασμάτων αὐτῶν, ἢ καὶ περὶ τεχνῶν τῶν ὅσαι περὶ ταῦτά εἰσι, μὴ καταγέλαστος εἶναι τά γ᾽ ἐναντία ἀναγκαζόμενος αὑτῷ λέγειν.
 
 Θεαίτητος
@@ -131,3 +132,49 @@ Yes, plain even to a blind man, as they say; for unless these statements
 
 Theaetetus
 Very true.
+## 242c
+Ξένος
+τὰ δοκοῦντα νῦν ἐναργῶς ἔχειν ἐπισκέψασθαι πρῶτον [242ξ] μή πῃ τεταραγμένοι μὲν ὦμεν περὶ ταῦτα, ῥᾳδίως δ᾽ ἀλλήλοις ὁμολογῶμεν ὡς εὐκρινῶς ἔχοντες.
+
+Stranger
+We must first examine the points which now seem clear, [242c] lest we may have fallen into some confusion about them and may therefore carelessly agree with one another, thinking that we are judging correctly.
+
+Θεαίτητος
+λέγε σαφέστερον ὃ λέγεις.
+
+Theaetetus
+Express your meaning more clearly.
+
+Ξένος
+εὐκόλως μοι δοκεῖ Παρμενίδης ἡμῖν διειλέχθαι καὶ πᾶς ὅστις πώποτε ἐπὶ κρίσιν ὥρμησε τοῦ τὰ ὄντα διορίσασθαι πόσα τε καὶ ποῖά ἐστιν.
+
+Stranger
+It seems to me that Parmenides and all who ever undertook a critical definition of the number and nature of realities have talked to us rather carelessly.
+
+Θεαίτητος
+πῇ;
+
+Theaetetus
+How so?
+
+Ξένος
+μῦθόν τινα ἕκαστος φαίνεταί μοι διηγεῖσθαι παισὶν ὡς οὖσιν ἡμῖν, 
+
+Stranger
+Every one of them seems to tell us a story, as if we were children. 
+## 242d
+ὁ μὲν ὡς τρία τὰ ὄντα, πολεμεῖ δὲ ἀλλήλοις [242δ] ἐνίοτε αὐτῶν ἄττα πῃ, τοτὲ δὲ καὶ φίλα γιγνόμενα γάμους τε καὶ τόκους καὶ τροφὰς τῶν ἐκγόνων παρέχεται: 
+
+One says there are three principles, that some of them are sometimes waging a sort of war with each other, and sometimes [242d] become friends and marry and have children and bring them up; 
+
+δύο δὲ ἕτερος εἰπών, ὑγρὸν καὶ ξηρὸν ἢ θερμὸν καὶ ψυχρόν, συνοικίζει τε αὐτὰ καὶ ἐκδίδωσι: 
+
+and another says there are two, wet and dry or hot and cold, which he settles together and unites in marriage.1 
+
+τὸ δὲ παρ᾽ ἡμῖν Ἐλεατικὸν ἔθνος, ἀπὸ Ξενοφάνους τε καὶ ἔτι πρόσθεν ἀρξάμενον, ὡς ἑνὸς ὄντος τῶν πάντων καλουμένων οὕτω διεξέρχεται τοῖς μύθοις. 
+
+And the Eleatic sect in our region, beginning with Xenophanes and even earlier, have their story that all things, as they are called, are really one. 
+
+Ἰάδες δὲ καὶ Σικελαί τινες ὕστερον Μοῦσαι συνενόησαν ὅτι συμπλέκειν [242ε] ἀσφαλέστατον ἀμφότερα καὶ λέγειν ὡς τὸ ὂν πολλά τε καὶ ἕν ἐστιν, ἔχθρᾳ δὲ καὶ φιλίᾳ συνέχεται. 
+
+Then some Ionian2 and later some Sicilian3 Muses reflected [242e] that it was safest to combine the two tales and to say that being is many and one, and is (or are) held together by enmity and friendship. 

@@ -1,3 +1,5 @@
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D17%3Achapter%3D1%3Asection%3D33
+
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0198%3Abook%3D11%3Achapter%3D5%3Asection%3D1
 # b2
 ## c5
@@ -155,6 +157,71 @@ The stories that have been spread far and wide with a view to glorifying Alexand
 εἰσπλέοντι δ᾽ ἐν δεξιᾷ μὲν τοῖς Εὐρωπαίοις οἱ συνεχεῖς Σκύθαι νέμονται καὶ Σαρμάται οἱ μεταξὺ τοῦ Τανάιδος καὶ τῆς θαλάττης ταύτης, νομάδες οἱ πλείους, περὶ ὧν εἰρήκαμεν: ἐν ἀριστερᾷ δ᾽ οἱ πρὸς ἕω Σκύθαι, νομάδες καὶ οὗτοι, μέχρι τῆς ἑῴας θαλάττης καὶ τῆς Ἰνδικῆς παρατείνοντες. ἅπαντας μὲν δὴ τοὺς προσβόρρους κοινῶς οἱ παλαιοὶ τῶν Ἑλλήνων συγγραφεῖς Σκύθας καὶ Κελτοσκύθας ἐκάλουν: οἱ δ᾽ ἔτι πρότερον διελόντες τοὺς μὲν ὑπὲρ τοῦ Εὐξείνου καὶ Ἴστρου καὶ τοῦ Ἀδρίου κατοικοῦντας Ὑπερβορέους ἔλεγον καὶ Σαυρομάτας καὶ Ἀριμασπούς, τοὺς δὲ πέραν τῆς Κασπίας θαλάττης τοὺς μὲν Σάκας τοὺς δὲ Μασσαγέτας ἐκάλουν, οὐκ ἔχοντες ἀκριβὲς λέγειν περὶ αὐτῶν οὐδέν, καίπερ πρὸς Μασσαγέτας τοῦ Κύρου πόλεμον ἱστοροῦντες. ἀλλ᾽ οὔτε περὶ τούτων οὐδὲν [p. 713] ἠκρίβωτο πρὸς ἀλήθειαν, οὔτε τὰ παλαιὰ τῶν Περσικῶν οὔτε τῶν Μηδικῶν ἢ Συριακῶν ἐς πίστιν ἀφικνεῖτο μεγάλην διὰ τὴν τῶν συγγραφέων ἁπλότητα καὶ τὴν φιλομυθίαν.
 
 On the right, as one sails into the Caspian Sea, are those Scythians, or Sarmatians,1 who live in the country contiguous to Europe between the Tanaïs River and this sea; the greater part of them are nomads, of whom I have already spoken.2 On the left are the eastern Scythians, also nomads, who extend as far as the Eastern Sea and India. Now all the peoples towards the north were by the ancient Greek historians given the general name "Scythians" or "Celtoscythians"; but the writers of still earlier times, making distinctions between them, called those who lived above the Euxine and the Ister and the Adriatic "Hyperboreans," "Sauromatians," and "Arimaspians," and they called those who lived across the Caspian Sea in part "Sacians" and in part "Massagetans," but they were unable to give any accurate account of them, although they reported a war between Cyrus3 and the Massagetans. However, neither have the historians given an accurate and truthful account of these peoples, nor has much credit been given to the ancient history of the Persians or Medes or Syrians, on account of the credulity of the historians and their fondness for myths.
+## c11
+#### 4
+φασὶ δ᾽ οὖν ὀκτὼ πόλεις τὸν Ἀλέξανδρον ἔν τε τῇ Βακτριανῇ καὶ τῇ Σογδιανῇ κτίσαι, τινὰς δὲ κατασκάψαι, ὧν Καριάτας μὲν τῆς Βακτριανῆς, ἐν ᾗ Καλλισθένης συνελήφθη καὶ παρεδόθη φυλακῆ, Μαράκανδα [p. 727] δὲ τῆς Σογδιανῆς καὶ τὰ Κῦρα, ἔσχατον ὂν Κύρου κτίσμα ἐπὶ τῷ Ἰαξάρτῃ ποταμῷ κείμενον, ὅπερ ἦν ὅριον τῆς Περσῶν ἀρχῆς: 
+
+Be this as it may, they say that Alexander founded eight cities in Bactriana and Sogdiana, and that he razed certain cities to the ground, among which was Cariatae in Bactriana, in which Callisthenes was seized and imprisoned, and Maracanda and Cyra in Sogdiana, Cyra being the last city founded by Cyrus1 and being situated on the Iaxartes River, which was the boundary of the Persian empire; 
+
+κατασκάψαι δὲ τὸ κτίσμα τοῦτο καίπερ ὄντα φιλόκυρον διὰ τὰς πυκνὰς ἀποστάσεις: 
+
+and that although this settlement was fond of Cyrus, he razed it to the ground because of its frequent revolts; 
+
+ἑλεῖν δὲ καὶ πέτρας ἐρυμνὰς σφόδρα ἐκ προδοσίας τήν τε ἐν τῇ Βακτριανῇ τὴν Σισιμίθρου ἐν ᾗ εἶχεν Ὀξυάρτης τὴν θυγατέρα Ῥωξάνην, καὶ τὴν ἐν τῇ Σογδιανῇ τὴν τοῦ Ὤξου, οἱ δ᾽ Ἀριαμάζου φασί. 
+
+and that through a betrayal he took also two strongly fortified rocks, one in Bactriana, that of Sisimithres, where Oxyartes kept his daughter Rhoxana, and the other in Sogdiana, that of Oxus, though some call it the rock of Ariamazes. 
+
+τὴν μὲν οὖν Σισιμίθρου πεντεκαίδεκα σταδίων ἱστοροῦσι τὸ ὕψος, ὀγδοήκοντα δὲ τὸν κύκλον, ἄνω δ᾽ ἐπίπεδον καὶ εὔγεων ὅσον πεντακοσίους ἄνδρας τρέφειν δυναμένην, ἐν ᾗ καὶ ξενίας τυχεῖν πολυτελοῦς καὶ γάμους ἀγαγεῖν Ῥωξάνης τῆς Ὀξυάρτου θυγατρὸς τὸν Ἀλέξανδρον: 
+
+Now writers report that that of Sisimithres is fifteen stadia in height and eighty in circuit, and that on top it is level and has a fertile soil which can support five hundred men, and that here Alexander met with sumptuous hospitality and married Rhoxana, the daughter of Oxyartes; 
+
+τὴν δὲ τῆς Σογδιανῆς διπλασίαν τὸ ὕψος φασί. 
+
+but the rock in Sogdiana, they say, is twice as high as that in Bactriana. 
+
+περὶ τούτους δὲ τοὺς τόπους καὶ τὸ τῶν Βραγχιδῶν ἄστυ ἀνελεῖν, οὓς Ξέρξην μὲν ἱδρῦσαι αὐτόθι συναπάραντας αὐτῷ ἑκόντας ἐκ τῆς οἰκείας διὰ τὸ παραδοῦναι τὰ χρήματα τοῦ θεοῦ τὰ ἐν Διδύμοις καὶ τοὺς θησαυρούς, ἐκεῖνον δ᾽ ἀνελεῖν μυσαττόμενον τὴν ἱεροσυλίαν καὶ τὴν προδοσίαν.
+
+And near these places, they say, Alexander destroyed also the city of the Branchidae, whom Xerxes had settled there—people who voluntarily accompanied him from their homeland—because of the fact that they had betrayed to him the riches and treasures of the god at Didymi. Alexander destroyed the city, they add, because he abominated the sacrilege and the betrayal.
+# b13
+## c2
+### 3
+ἄνδρας δ᾽ ἔσχεν ἐνδόξους τὸ παλαιὸν μὲν Πιττακόν, ἕνα τῶν ἑπτὰ σοφῶν, καὶ τὸν ποιητὴν Ἀλκαῖον καὶ τὸν ἀδελφὸν Ἀντιμενίδαν, ὅν φησιν Ἀλκαῖος Βαβυλωνίοις συμμαχοῦντα τελέσαι μέγαν ἆθλον καὶ ἐκ πόνων αὐτοὺς ῥύσασθαι κτείναντα 
+
+“ ἄνδρα μαχαίταν βασιληίων παλαστὰν (ὥς φησιν) ἀπολείποντα μόνον μίαν παχέων ἀπὺ πέμπων.”1 
+
+Mitylene has produced famous men: in early times, Pittacus, one of the Seven Wise Men; and the poet Alcaeus, and his brother Antimenidas, who, according to Alcaeus, won a great struggle when fighting on the side of the Babylonians, and rescued them from their toils by killing “a warrior, the royal wrestler”(as he says),“who was but one short of five cubits in height.”1 
+
+συνήκμασε δὲ τούτοις καὶ ἡ Σαπφώ, θαυμαστόν τι χρῆμα: οὐ γὰρ ἴσμεν ἐν τῷ τοσούτῳ χρόνῳ τῷ μνημονευομένῳ φανεῖσάν τινα γυναῖκα ἐνάμιλλον οὐδὲ κατὰ μικρὸν ἐκείνῃ ποιήσεως χάριν. 
+
+And along with these flourished also Sappho, a marvellous woman; for in all the time of which we have record I do not know of the appearance of any woman who could rival Sappho, even in a slight degree, in the matter of poetry. 
+
+ἐτυραννήθη δὲ ἡ πόλις κατὰ τοὺς χρόνους τούτους ὑπὸ πλειόνων διὰ τὰς διχοστασίας, καὶ τὰ στασιωτικὰ καλούμενα τοῦ Ἀλκαίου ποιήματα περὶ τούτων ἐστίν: 
+
+The city was in those times ruled over by several tyrants because of the dissensions among the inhabitants; and these dissensions are the subject of the Stasiotic2 poems, as they are called, of Alcaeus. 
+
+ἐν δὲ τοῖς τυράννοις καὶ ὁ Πιττακὸς ἐγένετο. 
+
+And also Pittacus3 was one of the tyrants. 
+
+Ἀλκαῖος μὲν οὖν ὁμοίως ἐλοιδορεῖτο καὶ τούτῳ καὶ τοῖς ἄλλοις, Μυρσίλῳ καὶ Μελάγχρῳ καὶ τοῖς Κλεανακτίδαις καὶ ἄλλοις τισίν, οὐδ᾽ αὐτὸς καθαρεύων τῶν τοιούτων νεωτερισμῶν. 
+
+Now Alcaeus would rail alike at both Pittacus and the rest, Myrsilus and Melanchrus and the Cleanactidae and certain others, though even he himself was not innocent of revolutionary attempts; 
+
+Πιττακὸς δ᾽ εἰς μὲν τὴν τῶν δυναστειῶν κατάλυσιν ἐχρήσατο τῇ μοναρχίᾳ καὶ αὐτός, καταλύσας δὲ ἀπέδωκε τὴν αὐτονομίαν τῇ πόλει. ὕστερον δ᾽ ἐγένετο χρόνοις πολλοῖς Διοφάνης ὁ ῥήτωρ, καθ᾽ ἡμᾶς δὲ Ποτάμων καὶ Λεσβοκλῆς καὶ Κριναγόρας καὶ ὁ συγγραφεὺς Θεοφάνης. 
+
+but even Pittacus himself used monarchy for the overthrow of the oligarchs, and then, after overthrowing them, restored to the city its independence. Diophanes the rhetorician was born much later; but Potamon, Lesbocles, Crinagoras, and Theophanes the historian in my time. 
+
+οὗτος δὲ καὶ πολιτικὸς ἀνὴρ ὑπῆρξε καὶ Πομπηίῳ τῷ Μάγνῳ [p. 864] κατέστη φίλος μάλιστα διὰ τὴν ἀρετὴν ταύτην, καὶ πάσας συγκατώρθωσεν αὐτῷ τὰς πράξεις, ἀφ᾽ ὧν τήν τε πατρίδα ἐκόσμησε τὰ μὲν δι᾽ ἐκείνου τὰ δὲ δι᾽ ἑαυτοῦ, καὶ ἑαυτὸν πάντων τῶν Ἑλλήνων ἐπιφανέστατον ἀνέδειξεν: 
+
+Theophanes was also a statesman; and he became a friend to Pompey the Great, mostly through his very ability, and helped him to succeed in all his achievements; whence he not only adorned his native land, partly through Pompey and partly through himself, but also rendered himself the most illustrious of all the Greeks. 
+
+υἱόν τε ἀπέλιπε Μάρκον Πομπήιον, ὃν τῆς Ἀσίας ἐπίτροπον κατέστησέ ποτε Καῖσαρ ὁ Σεβαστός, καὶ νῦν ἐν τοῖς πρώτοις ἐξετάζεται τῶν Τιβερίου φίλων. 
+
+He left a son, Marcus Pompey, whom Augustus Caesar once set up as Procurator of Asia, and who is now counted among the first of the friends of Tiberius. 
+
+Ἀθηναῖοι δ᾽ ἐκινδύνευσαν μὲν ἀνηκέστῳ ψόγῳ περιπεσεῖν ψηφισάμενοι Μιτυληναίους ἡβηδὸν ἀποσφαγῆναι, μετέγνωσαν δὲ καὶ ἔφθη μιᾷ θᾶττον ἡμέρᾳ τὸ ψήφισμα ἀφιγμένον ὡς τοὺς στρατηγοὺς πρὶν ἢ πρᾶξαι τὸ προσταχθέν.
+
+The Athenians were in danger of suffering an irreparable disgrace when they voted that all Mitylenaeans from youth upwards should be slain, but they changed their minds and their counter-decree reached the generals only one day before the order was to be executed.
 # b15
 ## c1
 ### 4
@@ -601,3 +668,52 @@ Eight naked servants, with girdles round their waists, and fragrant with perfume
 2 In Dion Cassius, liv. ix. he is called Zarmanus, a variation probably of Garmanus, see above, § 60. Chegas, or Sheik, seems to be the Tartar title Chan or Khan, which may be detected also in the names Musi-canus, Porti-canus, Oxy-canus, Assa-canus. Vincent, Voyage of Nearchus, p. 129. Groskurd writes Zarmanos Chanes.
 
 3 Bargosa is probably a corruption of Barygaza mentioned in Arrian's Periplus of the Red Sea. It was a large mart on the north of the river Nerbudda, now Baroatsch or Barutsch. Groskurd.
+# b17
+## c1
+### 33
+τετταράκοντα δ᾽ ἀπὸ τῆς πόλεως σταδίους προελθόντι ὀρεινή τις ὀφρύς ἐστιν, ἐφ᾽ ᾗ πολλαὶ μέν εἰσι πυραμίδες, τάφοι τῶν βασιλέων, τρεῖς δ᾽ ἀξιόλογοι: τὰς δὲ δύο τούτων καὶ ἐν τοῖς ἑπτὰ θεάμασι καταριθμοῦνται: 
+
+At the distance of 40 stadia from Memphis is a brow of a hill, on which are many pyramids, the tombs of the kings.1 Three of them are considerable. Two of these are reckoned among the seven wonders [of the world]. 
+
+εἰσὶ γὰρ σταδιαῖαι τὸ ὕψος, τετράγωνοι τῷ [p. 1127] σχήματι, τῆς πλευρᾶς ἑκάστης μικρῷ μεῖζον τὸ ὕψος ἔχουσαι: 
+
+They are a stadium in height, and of a quadrangular shape. Their height somewhat exceeds the length of each of the sides.2 
+
+μικρῷ δὲ καὶ ἡ ἑτέρα τῆς ἑτέρας ἐστὶ μείζων: 
+
+One pyramid is a little larger than the other. 
+
+ἔχει δ᾽ ἐν ὕψει μέσως πως μιᾶς τῶν πλευρῶν λίθον ἐξαιρέσιμον: 
+
+At a moderate height in one of the sides3 is a stone, which may be taken out; 
+
+ἀρθέντος δὲ σῦρίγξ ἐστι σκολιὰ μέχρι τῆς θήκης: 
+
+when that is removed, there is an oblique passage [leading] to the tomb. 
+
+αὗται μὲν οὖν ἐγγὺς ἀλλήλων ἐπὶ τῷ αὐτῷ ἐπιπέδῳ, ἀπωτέρω δ᾽ ἐστὶν ἐν ὕψει μείζονι τῆς ὀρεινῆς ἡ τρίτη πολὺ ἐλάττων τῶν δυεῖν, πολὺ δὲ μείζονος δαπάνης κατεσκευασμένη: 
+
+They are near each other, and upon the same level. Farther on, at a greater height of the mountain, is the third pyramid, which is much less than the two others, but constructed at much greater expense; 
+
+ἀπὸ γὰρ θεμελίων μέχρι μέσου σχεδόν τι μέλανος λίθου ἐστίν, ἐξ οὗ καὶ τὰς θυΐας κατασκευάζουσι, κομίζοντες πόρρωθεν: 
+
+for from the found- ation nearly as far as the middle, it is built of black stone. Mortars are made of this stone, which is brought from a great distance; 
+
+ἀπὸ γὰρ τῶν τῆς Αἰθιοπίας ὀρῶν: καὶ τῷ σκληρὸς εἶναι καὶ δυσκατέργαστος πολυτελῆ τὴν πραγματείαν παρέσχε: 
+
+for it comes from the mountains of Ethiopia, and being hard and difficult to be worked, the labour is attended with great expense. 
+
+λέγεται δὲ τῆς ἑταίρας τάφος γεγονὼς ὑπὸ τῶν ἐραστῶν, ἣν Σαπφὼ μὲν ἡ τῶν μελῶν ποιήτρια καλεῖ Δωρίχαν, ἐρωμένην τοῦ ἀδελφοῦ αὐτῆς Χαράξου γεγονυῖαν, οἶνον κατάγοντος εἰς Ναύκρατιν Λέσβιον κατ᾽ ἐμπορίαν, ἄλλοι δ᾽ ὀνομάζουσι Ῥοδῶπιν: 
+
+It is said to be the tomb of a courtesan, built by her lovers, and whose name, according to Sappho the poetess, was Doriche. She was the mistress of her brother Charaxus, who traded to the port of Naucratis with wine of Lesbos. Others call her Rhodopis.4 
+
+μυθεύουσι δ᾽ ὅτι λουομένης αὐτῆς ἓν τῶν ὑποδημάτων αὐτῆς ἁρπάσας ἀετὸς παρὰ τῆς θεραπαίνης κομίσειεν εἰς Μέμφιν καὶ τοῦ βασιλέως δικαιοδοτοῦντος ὑπαιθρίου, γενόμενος κατὰ κορυφὴν αὐτοῦ ῥίψειε τὸ ὑπόδημα εἰς τὸν κόλπον: 
+
+A story is told of her, that, when she was bathing, an eagle snatched one of her sandals from the hands of her female attendant and carried it to Memphis; the eagle soaring over the head of the king, who was administering justice at the time, let the sandal fall into his lap. 
+
+ὁ δὲ καὶ τῷ ῥυθμῷ τοῦ ὑποδήματος καὶ τῷ παραδόξῳ κινηθεὶς περιπέμψειεν εἰς τὴν χώραν κατὰ ζήτησιν τῆς φορούσης ἀνθρώπου τοῦτο, εὑρεθεῖσα δ᾽ ἐν τῇ πόλει τῶν Ναυκρατιτῶν ἀναχθείη καὶ γένοιτο γυνὴ τοῦ βασιλέως, τελευτήσασα δὲ τοῦ λεχθέντος τύχοι τάφου.
+
+The king, struck with the shape of the sandal, and the singularity of the accident, sent over the country to discover the woman to whom it belonged. She was found in the city of Naucratis, and brought to the king, who made her his wife. At her death she was honoured with the above-mentioned tomb.
+
+
+1 We have reason to be surprised that Strabo, who had seen the pyramids, has said so little concerning them. Herodotus and Diodorus Siculus enter into more particulars, and in general are more exact. Some idea of the immense labour required may be obtained from considerations such as follow:— The base and height being given, we find for the solid contents—

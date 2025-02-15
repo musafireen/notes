@@ -30,3 +30,6 @@ Expelled from syr darya by yuezhi
 Settled drangiana on river ?
 Expelled from drangiana by Mithradates 2
 Beat bactra
+# pamphylian
+## er_logos
+![[pl.rep#614b]]

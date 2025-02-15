@@ -37,7 +37,24 @@ Sisyphus: I now bid farewell to Zagreus and his ever-hospitable father.1
 in Aeschylus' Egyptians (Aigyptioi), Zagreus was apparently identified with Hades himself
 
 # prom.b
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0010
+# theb
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0014
+# suppl
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0016
+## 96-103
+Χορός
 
+Chorus
 
+ἰάπτει δ᾽ ἐλπίδων
+ἀφ᾽ ὑψιπύργων πανώλεις
+βροτούς, βίαν δ᾽
+οὔτιν᾽ ἐξοπλίζει:
+100πᾶν ἄπονον δαιμονίων.
+ἥμενος ὃν φρόνημά πως
+αὐτόθεν ἐξέπραξεν ἔμπας
+ἑδράνων ἐφ᾽ ἁγνῶν.
 
+From their high-towering hopes he hurls mankind to utter destruction; yet he does not marshal any armed violence— [100] all that is wrought by the powers divine is free from toil. Seated on his holy throne, unmoved, in mysterious ways he accomplishes his will.
 

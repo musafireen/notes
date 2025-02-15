@@ -241,10 +241,7 @@ Therefore we hold our course down the middle of the gulf and pass on as fast as 
 ## 21
 Beyond these places, in a bay at the foot of the left side of this gulf, there is a place by the shore called Muza, a market-town established by law, distant altogether from Berenice for those sailing southward, about twelve thousand stadia. 
 
-21 Καὶ μετὰ ταύτας ἐν κόλπῳ τῷ τελευταιοτάτῳ τῶν εὐωνύμων τούτου τοῦ πελάγους ἐμπόριόν ἐστι νόμιμον παραθαλάσσιον Μούζα, σταδίους ἀπέχον τοὺς πάντας ἀπὸ Βερνίκης, παῤ αὐτὸν τὸν νότον πλεόντων,
-
-274
-ὡς εἰς μυρίους δισχιλίους. 
+21 Καὶ μετὰ ταύτας ἐν κόλπῳ τῷ τελευταιοτάτῳ τῶν εὐωνύμων τούτου τοῦ πελάγους ἐμπόριόν ἐστι νόμιμον παραθαλάσσιον Μούζα, σταδίους ἀπέχον τοὺς πάντας ἀπὸ Βερνίκης, παῤ αὐτὸν τὸν νότον πλεόντων, 274 ὡς εἰς μυρίους δισχιλίους. 
 
 And the whole place is crowded with Arab ship-owners and seafaring men, and is busy with the affairs of commerce; for they carry on a trade with the far-side coast and with Barygaza, sending their own ships there.
 
@@ -523,14 +520,9 @@ Beyond the river Sinthus there is another gulf, not navigable, running in toward
 40 Μετὰ δὲ τὸν Σίνθον ποταμὸν ἕτερός ἐστι κόλπος ἀθεώρητος παρὰ τὸν βορέαν· ὀνομάζεται δὲ Εἰρινὸν, ἐπιλέγεται δὲ ὁ μὲν μικρὸν ὁ δὲ μέγα· πελάγη δέ
 ἐστιν ἀμφότερα τεναγώδη καὶ δίνας ἐλαφρὰς ἔχοντα καὶ συνεχεῖς καὶ μακρὰς ἀπὸ τῆς γῆς, ὡς πολλάκις, τῆς ἠπείρου μηδὲ βλεπομένης, ἐποκέλλειν τὰ πλοῖα, ἐνδοτέρω δὲ προληφθέντα καὶ ἀπόλλυσθαι. 
 
-A promontory stands out from this gulf, curving around from Eirinon toward the East, then South, then West, and enclosing the gulf called [Baraca](https://en.m.wikipedia.org/wiki/Dwarka), which contains seven islands. Those who come to the entrance of this bay escape it by putting about a little and standing further out to sea; but those who are drawn inside into the gulf of Baraca are lost; for the waves are high and very violent, and the sea is tumultuous and foul, and has eddies and rushing whirlpools. 
+A promontory stands out from this gulf, curving around from Eirinon toward the East, then South, then West, and enclosing the gulf called [Baraca](https://en.m.wikipedia.org/wiki/Dwarka) (dvaraka), which contains seven islands. Those who come to the entrance of this bay escape it by putting about a little and standing further out to sea; but those who are drawn inside into the gulf of Baraca are lost; for the waves are high and very violent, and the sea is tumultuous and foul, and has eddies and rushing whirlpools. 
 
-Τούτου δὲ ὑπερέχει τοῦ κόλπου ἀκρωτήριον, ἐπικαμπὲς ἀπὸ τοῦ
-Εἰρίνου μετὰ τὴν ἀνατολὴν καὶ τὸν νότον ὡς εἰς τὴν
-
-289
-δύσιν, ἐμπεριλαμβάνον αὐτὸν τὸν κόλπον λεγόμενον Βαράκην, νήσους ἑπτὰ ἐμπεριειλημμένον, οὗ περὶ μὲν τὰς ἀρχὰς οἱ περιπεσόντες ὀλίγον ὀπίσω καὶ εἰς τὸ πέλαγος ἀναδραμόντες ἐκφεύγουσιν, οἱ δὲ εἰς αὐτὴν κατακλεισθέντες
-τὴν τοῦ Βαράκου κοιλίαν ἀπόλλυνται τὸ μὲν γὰρ κῦμα μέγα καὶ βαρὺ λίαν, ἡ δὲ θάλασσα ταραχώδης καὶ θολερὰ καὶ δίνας ἔχουσα καὶ ῥοώδεις εἰλίγγους. 
+Τούτου δὲ ὑπερέχει τοῦ κόλπου ἀκρωτήριον, ἐπικαμπὲς ἀπὸ τοῦ Εἰρίνου μετὰ τὴν ἀνατολὴν καὶ τὸν νότον ὡς εἰς τὴν 289 δύσιν, ἐμπεριλαμβάνον αὐτὸν τὸν κόλπον λεγόμενον Βαράκην, νήσους ἑπτὰ ἐμπεριειλημμένον, οὗ περὶ μὲν τὰς ἀρχὰς οἱ περιπεσόντες ὀλίγον ὀπίσω καὶ εἰς τὸ πέλαγος ἀναδραμόντες ἐκφεύγουσιν, οἱ δὲ εἰς αὐτὴν κατακλεισθέντες τὴν τοῦ Βαράκου κοιλίαν ἀπόλλυνται τὸ μὲν γὰρ κῦμα μέγα καὶ βαρὺ λίαν, ἡ δὲ θάλασσα ταραχώδης καὶ θολερὰ καὶ δίνας ἔχουσα καὶ ῥοώδεις εἰλίγγους. 
 
 The bottom is in some places abrupt, and in others rocky and sharp, so that the anchors lying there are parted, some being quickly cut off, and others chafing on the bottom. 
 

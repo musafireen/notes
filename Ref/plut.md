@@ -205,14 +205,20 @@ only passing by, he heard the shrill voice of a woman speaking in verse and meas
 This the genius told him was the voice of a Sibyl who, being orbicularly whirled about in the face of the moon, continually sang of future events.
 
 # audPoet
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0140
+
 http://remacle.org/bloodwolf/historiens/Plutarque/surlamanieredeliregr.htm
 
 https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/De_auditu*.html
 
 ### 17e
-ἄλλο πεποιημένοις ἔργον ἢ γνῶσιν καὶ μάθησιν τοῦ ὄντος εὖ μάλα δυσθήρατός ἐστι καὶ δύσληπτος, ὡς ὁμολογοῦσιν αὐτοί. Καὶ τὰ Ἐμπεδοκλέους ἔστω πρόχειρα ταυτί·
+ἄλλο πεποιημένοις ἔργον ἢ γνῶσιν καὶ μάθησιν τοῦ ὄντος εὖ μάλα δυσθήρατός ἐστι καὶ δύσληπτος, ὡς ὁμολογοῦσιν αὐτοί. 
 
-exceedingly hard to track down and hard to get hold of, as they themselves admit; and let these words of Empedocles be constantly in mind:
+exceedingly hard to track down and hard to get hold of, as they themselves admit; 
+
+Καὶ τὰ Ἐμπεδοκλέους ἔστω πρόχειρα ταυτί·
+
+and let these words of Empedocles be constantly in mind:
 
 Οὕτως οὔτ´ ἐπιδερκτὰ τάδ´ ἀνδράσιν οὔτ´ ἐπακουστὰ
 οὔτε νόῳ περιληπτά,
@@ -227,6 +233,10 @@ Nor can it be comprehended by the mind,26
 and the words of Xenophanes:
 
 Never yet was born a man nor ever shall be
+
+εἰδὼς ἀμφὶ θεῶν τε καὶ ἅσσα λέγω περὶ πάντων 
+
+καὶ νὴ Δία τὰ Σωκράτους ἐξομνυμένου παρὰ Πλάτωνι 
 ### 17f
 εἰδὼς ἀμφὶ θεῶν τε καὶ ἅσσα λέγω περὶ πάντων,
 
@@ -315,3 +325,130 @@ But Heraclitus, as if he had accomplished something great and solemn, says, 'I s
 καὶ τῶν ἐν Δελφοῖς γραμμάτων θειότατον ἐδόκει τὸ ‘γνῶθι σαυτόν’ ὃ δὴ καὶ Σωκράτει ἀπορίας καὶ ζητήσεως ταύτης ἀρχὴν ἐνέδωκεν, ὡς Ἀριστοτέλης ἐν τοῖς Πλατωνικοῖς εἴρηκε: ’
 
 And among the inscriptions at Delphi, the most divine seemed to be 'Know thyself,' which indeed also provided Socrates with the starting point for his perplexity and inquiry, as Aristotle has said in On Plato."
+# them
+## c29
+#### 1
+ἅμα δ᾽ ἡμέρᾳ συγκαλέσας τοὺς φίλους εἰσῆγεν αὐτὸν οὐδὲν1 ἐλπίζοντα χρηστὸν ἐξ ὧν ἑώρα τοὺς ἐπὶ θύραις, ὡς ἐπύθοντο τοὔνομα παρόντος αὐτοῦ, χαλεπῶς διακειμένους καὶ κακῶς λέγοντας. 
+
+At daybreak he called his friends together and bade Themistocles to be introduced, who expected no favorable outcome, because he saw that the guards at the gates, when they learned the name of him who was going in, were bitterly disposed and spoke insultingly to him. 
+
+ἔτι δὲ Ῥωξάνης ὁ χιλίαρχος, ὡς κατ᾽ αὐτὸν ἦν ὁ Θεμιστοκλῆς προσιών, καθημένου βασιλέως καὶ τῶν ἄλλων σιωπώντων, ἀτρέμα στενάξας εἶπεν: ‘
+
+And besides, Roxanes the Chiliarch, when Themistocles came along opposite him,—the King being seated and the rest hushed in silence,—said in an angry undertone: 
+
+ὄφις Ἕλλην ὁ ποικίλος, ὁ βασιλέως σε δαίμων δεῦρο ἤγαγεν.’
+
+‘Thou subtle serpent of Hellas, the King's good genius hath brought thee hither.’ 
+#### 2
+[2] οὐ μὴν ἀλλ᾽ εἰς ὄψιν ἐλθόντος αὐτοῦ καὶ πάλιν προσκυνήσαντος, ἀσπασάμενος καὶ προσειπὼν φιλοφρόνως ὁ βασιλεύς, ἤδη μὲν ἔφησεν αὐτῷ διακόσια τάλαντα ὀφείλειν: 
+
+[2] However, when he had come into the King's presence, and had once more paid him obeisance, the King welcomed him and spake him kindly, and said he already owed him two hundred talents, 
+
+κομίσαντα γὰρ αὑτὸν ἀπολήψεσθαι δικαίως τὸ ἐπικηρυχθὲν τῷ ἀγαγόντι: 
+
+for since he had delivered himself up it was only just that he himself should receive the reward proclaimed for his captor. 
+
+πολλῷ δὲ πλείω τούτων ὑπισχνεῖτο καὶ παρεθάρρυνε καὶ λέγειν ἐδίδου περὶ τῶν Ἑλληνικῶν, ἃ βούλοιτο, παρρησιαζόμενον. 
+
+And he promised him much more besides, and bade him take heart, and gave him leave to say whatever he wished concerning the affairs of Hellas, with all frankness of speech. 
+#### 3
+[3] ὁ δὲ Θεμιστοκλῆς ἀπεκρίνατο, τὸν λόγον ἐοικέναι τοῦ ἀνθρώπου τοῖς ποικίλοις στρώμασιν: 
+
+[3] But Themistocles made answer that the speech of man was like embroidered tapestries, 
+
+ὡς γὰρ ἐκεῖνα καὶ τοῦτον ἐκτεινόμενον μὲν ἐπιδείκνυσθαι τὰ εἴδη, συστελλόμενον δὲ κρύπτειν καὶ διαφθείρειν: 
+
+since like them this too had to be extended in order to display its patterns, but when it was rolled up it concealed and distorted them. 
+
+ὅθεν αὐτῷ χρόνου δεῖν. 
+
+Wherefore he had need of time. 
+
+ἐπεὶ δέ, ἡσθέντος τοῦ βασιλέως τῇ εἰκασίᾳ καὶ λαμβάνειν κελεύσαντος, ἐνιαυτὸν αἰτησάμενος καὶ τὴν Περσίδα γλῶτταν ἀποχρώντως ἐκμαθὼν ἐνετύγχανε βασιλεῖ δι᾽ αὑτοῦ, 
+
+The King at once showed his pleasure at this comparison by bidding him take time, and so Themistocles asked for a year, and in that time he learned the Persian language sufficiently to have interviews with the King by himself without interpreters. 
+#### 4
+[4] τοῖς μὲν ἐκτὸς δόξαν παρέσχε περὶ τῶν Ἑλληνικῶν πραγμάτων διειλέχθαι, πολλῶν δὲ καινοτομουμένων περὶ τὴν αὐλὴν καὶ τοὺς φίλους ὑπὸ τοῦ βασιλέως ἐν ἐκείνῳ τῷ καιρῷ, φθόνον ἔσχε παρὰ τοῖς δυνατοῖς, ὡς καὶ κατ᾽ ἐκείνων παρρησίᾳ χρήσασθαι πρὸς αὐτὸν ἀποτετολμηκώς. 
+
+[4] Outsiders thought these conferences concerned Hellenic matters merely; but since about that time many innovations were introduced by the King at court and among his favorites, the magnates became jealous of Themistocles, on the ground that he had made bold to use his freedom of speech with the King to their harm. 
+
+οὐδὲν γὰρ ἦσαν αἱ τιμαὶ ταῖς τῶν ἄλλων ἐοικυῖαι ξένων, ἀλλὰ καὶ κυνηγεσίων βασιλεῖ μετέσχε καὶ τῶν οἴκοι διατριβῶν, ὥστε καὶ μητρὶ τῇ βασιλέως εἰς ὄψιν ἐλθεῖν καὶ γενέσθαι συνήθης, διακοῦσαι δὲ καὶ τῶν μαγικῶν λόγων τοῦ βασιλέως κελεύσαντος. 
+
+For the honors he enjoyed were far beyond those paid to other foreigners; nay, he actually took part in the King's hunts and in his household diversions, so far that he even had access to the queen-mother and became intimate with her, and at the King's bidding heard expositions also of the Magian lore. 
+#### 5
+[5] ἐπεὶ δὲ Δημάρατος ὁ Σπαρτιάτης αἰτήσασθαι δωρεὰν κελευσθεὶς ᾐτήσατο τὴν κίταριν, ὥσπερ οἱ βασιλεῖς, ἐπαράμενος εἰσελάσαι διὰ Σάρδεων, Μιθροπαύστης μὲν ἀνεψιὸς ὢν βασιλέως εἶπε τοῦ Δημαράτου τῆς τιάρας ἁψάμενος: 
+
+[5] And when Demaratus the Spartan, being bidden to ask a gift, asked that he might ride in state through Sardis, wearing his tiara upright after the manner of the Persian kings, Mithropaustes the King's cousin said, touching the tiara of Demaratus: 
+
+‘αὕτη μὲν ἡ κίταρις οὐκ ἔχει ἐγκέφαλον, ὃν ἐπικαλύψει: 
+
+‘This tiara of thine hath no brains to cover; 
+#### 6
+σὺ δ᾽ οὐκ [6] ἔσῃ Ζεὺς ἂν λάβῃς κεραυνόν:’ 
+
+indeed thou wilt not be Zeus merely because thou graspest the thunderbolt.’ 
+
+ἀπωσαμένου δὲ τὸν Δημάρατον ὀργῇ διὰ τὸ αἴτημα τοῦ βασιλέως καὶ δοκοῦντος ἀπαραιτήτως ἔχειν πρὸς αὐτόν, ὁ Θεμιστοκλῆς δεηθεὶς ἔπεισε καὶ διήλλαξε.
+
+[6] The King also repulsed Demaratus in anger at his request, and was minded to be inexorable towards him, and yet Themistocles begged and obtained a reconciliation with him.
+
+λέγεται δὲ καὶ τοὺς ὕστερον βασιλεῖς, ἐφ᾽ ὧν μᾶλλον αἱ Περσικαὶ πράξεις ταῖς Ἑλληνικαῖς ἀνεκράθησαν, ὁσάκις δεηθεῖεν ἀνδρὸς Ἕλληνος, ἐπαγγέλλεσθαι καὶ γράφειν ἕκαστον, ὡς μείζων ἔσοιτο παρ᾽ αὐτῷ Θεμιστοκλέους. 
+
+And it is said that later kings also, in whose reigns Persia and Hellas came into closer relations, as often as they asked for a Hellene to advise them, promised him in writing, every one, that he should be more influential at court than Themistocles. 
+#### 7
+[7] αὐτὸν δὲ τὸν Θεμιστοκλέα φασὶν ἤδη μέγαν ὄντα καὶ θεραπευόμενον ὑπὸ πολλῶν λαμπρᾶς ποτε τραπέζης αὐτῷ παρατεθείσης2 πρὸς τοὺς παῖδας εἰπεῖν: 
+
+[7] And Themistocles himself, they say, now become great and courted by many, said to his children, when a splendid table was once set for him: 
+
+‘ὦ παῖδες, ἀπωλόμεθα ἄν, εἰ μὴ ἀπωλόμεθα.’ 
+
+‘My children, we should now have been undone, had we not been undone before.’ 1 
+
+πόλεις δ᾽ αὐτῷ τρεῖς μὲν οἱ πλεῖστοι δοθῆναι λέγουσιν εἰς ἄρτον καὶ οἶνον καὶ ὄψον, 
+
+Three cities, as most writers say, were given him for bread, wine, and meat, namely: 
+
+Μαγνησίαν καὶ Λάμψακον καὶ Μυοῦντα: 
+
+Magnesia, Lampsacus, and Myus; 
+
+δύο δ᾽ ἄλλας προστίθησιν ὁ Κυζικηνὸς Νεάνθης καὶ Φανίας, 
+
+and two others are added by Neanthes of Cyzicus and by Phanias, namely: 
+
+Περκώτην καὶ Παλαίσκηψιν 
+
+Percote and Palaescepsis; 
+
+εἰς στρωμνὴν καὶ ἀμπεχόνην.
+
+these for his bedding and raiment.
+
+# perc
+### c24
+#### 7
+οὕτω δὲ τὴν Ἀσπασίαν ὀνομαστὴν καὶ κλεινὴν γενέσθαι λέγουσιν ὥστε καὶ Κῦρον τὸν πολεμήσαντα βασιλεῖ περὶ τῆς τῶν Περσῶν ἡγεμονίας τὴν ἀγαπωμένην ὑπ᾽ αὐτοῦ μάλιστα τῶν παλλακίδων Ἀσπασίαν ὀνομάσαι, καλουμένην Μιλτὼ πρότερον. 
+
+So renowned and celebrated did Aspasia become, they say, that even Cyrus, the one who went to war with the Great King for the sovereignty of the Persians, gave the name of Aspasia to that one of his concubines whom he loved best, who before was called Milto. 
+
+ἦν δὲ Φωκαῒ τὸ γένος, Ἑρμοτίμου θυγάτηρ: ἐν δὲ τῇ μάχῃ Κύρυ πεσόντος ἀπαχθεῖσα πρὸς βασιλέα πλεῖστον ἴσχυσε. 
+
+She was a Phocaean by birth, daughter of one Hermotimus, and, after Cyrus had fallen in battle, was carried captive to the King,5 and acquired the greatest influence with him. 
+
+ταῦτα μὲν ἐπελθόντα τῇ μνήμῃ κατὰ τὴν γραφὴν ἀπώσασθαι καὶ παρελθεῖν ἴσως ἀπάνθρωπον ἦν.
+
+These things coming to my recollection as I write, it were perhaps unnatural to reject and pass them by.
+# artx
+## c21
+#### 2
+ὁρῶν δὲ καὶ τοὺς ἑαυτοῦ λογισμοὺς δυνάμεως καὶ τὴν βασιλέως δύναμιν ἀνδρὸς ἔμφρονος δεομένην, ἔπεμψεν ἐπιστολὴν βασιλεῖ περὶ ὧν διενοεῖτο. 
+
+And seeing that his own plans needed a military force, and the king's force needed a sagacious leader, he wrote a letter to the king explaining his purposes. 
+
+καὶ ταύτην ἐκέλευσε τὸν κομίζοντα μάλιστα μὲν ἀποδοῦναι διὰ Ζήνωνος τοῦ Κρητὸς ἢ Πολυκρίτου τοῦ Μενδαίου τούτων δ᾽ ἦν ὁ μὲν Ζήνων ὀρχηστής, ὁ δὲ Πολύκριτος ἰατρός: 
+
+This letter he ordered the bearer, if possible, to give the king by the hand of Zeno the Cretan or Polycritus the Mendaean (Zeno was a teacher of dancing, and Polycritus was a physician); 
+
+ἂν δὲ οὗτοι μὴ παρῶσι, διὰ Κτησίου τοῦ ἰατροῦ.
+
+but if these were not at court, by the hand of Ctesias the physician.

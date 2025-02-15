@@ -436,9 +436,13 @@ Somya, before this world was manifest there was only existence, one without a se
 
 On this subject, some maintain that before this world was manifest there was only non-existence, one without a second. 
 
+[[RV#10.129#1]]
+
 तस्मादसतः सज्जायत ॥ ६.२.१ ॥
 
 Out of that non-existence, existence emerged.
+
+[[RV#10.72#2]], [[RV#10.129#4]]
 #### 2
 कुतस्तु खलु सोम्यैवंस्यादिति होवाच कथमसतः सज्जायेतेति। 
 
@@ -456,6 +460,56 @@ That Existence decided: ‘I shall be many. I shall be born.’ He then created 
 ॥ इति द्वितीयः खण्डः ॥
 
 That water decided: ‘I shall be many; I shall be born.’ That water then created food. This is why whenever and wherever there is rain, at once food grows in great abundance. It is from water that food is produced.
+## 6.6
+#### 1
+दध्नः सोम्य मथ्यमानस्य योऽणिमा स उर्ध्वः समुदीषति तत्सर्पिर्भवति ॥ ६.६.१ ॥
+
+dadhnaḥ somya mathyamānasya yo'ṇimā sa urdhvaḥ samudīṣati tatsarpirbhavati || 6.6.1 ||
+
+1. When curd is churned, the finest part of it rises to the surface. That becomes butter.
+#### 2
+एवमेव खलु सोम्यान्नस्याश्यमानस्य योऽणिमा स उर्ध्वः समुदीषति तन्मनो भवति ॥ ६.६.२ ॥
+
+evameva khalu somyānnasyāśyamānasya yo'ṇimā sa urdhvaḥ samudīṣati tanmano bhavati || 6.6.2 ||
+
+1. O Somya, in the same way, the finest part of the food that is eaten rises to the surface and becomes the mind.
+अपांसोम्य पीयमानानां योऽणिमा स उर्ध्वः समुदीषति सा प्राणो भवति ॥ ६.६.३ ॥
+
+apāṃsomya pīyamānānāṃ yo'ṇimā sa urdhvaḥ samudīṣati sā prāṇo bhavati || 6.6.3 ||
+
+1. O Somya, the finest part of water that is drunk rises to the surface and becomes our prāṇa.
+तेजसः सोम्याश्यमानस्य योऽणिमा स उर्ध्वः समुदीषति सा वाग्भवति ॥ ६.६.४ ॥
+
+tejasaḥ somyāśyamānasya yo'ṇimā sa urdhvaḥ samudīṣati sā vāgbhavati || 6.6.4 ||
+
+1. O Somya, the finest part of fire [butter, etc.] that is eaten rises to the surface and becomes our speech.
+#### 6
+अन्नमयं हि सोम्य मन आपोमयः प्राणस्तेजोमयी वागिति भूय एव मा भगवान्विज्ञापयत्विति तथा सोम्येति होवाच ॥ ६.६.६ ॥
+॥ इति षष्ठः खण्डः ॥
+
+annamayaṃ hi somya mana āpomayaḥ prāṇastejomayī vāgiti bhūya eva mā bhagavānvijñāpayatviti tathā somyeti hovāca || 6.6.6 ||
+|| iti ṣaṣṭhaḥ khaṇḍaḥ ||
+
+1. ‘O Somya, the mind is certainly nourished by food, pṛāṇa by water, and speech by fire.’ [Śvetaketu then said,] ‘Sir, will you please explain this to me again?’ ‘Yes, I will explain again, O Somya,’ replied his father.
+## 6.7
+#### 1
+षोडशकलः सोम्य पुरुषः पञ्चदशाहानि माशीः काममपः पिबापोमयः प्राणो नपिबतो विच्छेत्स्यत इति ॥ ६.७.१ ॥
+
+ṣoḍaśakalaḥ somya puruṣaḥ pañcadaśāhāni māśīḥ kāmamapaḥ pibāpomayaḥ prāṇo napibato vicchetsyata iti || 6.7.1 ||
+
+1. O Somya, a person has sixteen parts, [and all your sixteen parts are intact]. Do not eat anything for fifteen days, but drink as much water as you like. Life is dependent on water. If you do not drink water, you will lose your life.
+#### 2
+स ह पञ्चदशाहानि नशाथ हैनमुपससाद किं ब्रवीमि भो इत्यृचः सोम्य यजूंषि सामानीति स होवाच न वै मा प्रतिभान्ति भो इति ॥ ६.७.२ ॥
+
+sa ha pañcadaśāhāni naśātha hainamupasasāda kiṃ bravīmi bho ityṛcaḥ somya yajūṃṣi sāmānīti sa hovāca na vai mā pratibhānti bho iti || 6.7.2 ||
+
+1. Śvetaketu did not eat anything for fifteen days. After that he came to his father and said, ‘O Father, what shall I recite?’ His father said, ‘Recite the Ṛk, Yajuḥ, and Sāma mantras.’ Śvetaketu replied, ‘I can’t recall any of them, sir’.
+#### 3
+तं होवाच यथा सोम्य महतोऽभ्या हितस्यैकोऽङ्गारः खद्योतमात्रः परिशिष्टः स्यात्तेन ततोऽपि न बहु दहेदेवंसोम्य ते षोडशानां कलानामेका कलातिशिष्टा स्यात्तयैतर्हि वेदान्नानुभवस्यशानाथ मे विज्ञास्यसीति ॥ ६.७.३ ॥
+
+taṃ hovāca yathā somya mahato'bhyā hitasyaiko'ṅgāraḥ khadyotamātraḥ pariśiṣṭaḥ syāttena tato'pi na bahu dahedevaṃsomya te ṣoḍaśānāṃ kalānāmekā kalātiśiṣṭā syāttayaitarhi vedānnānubhavasyaśānātha me vijñāsyasīti || 6.7.3 ||
+
+1. The father said to Śvetaketu: ‘O Somya, from a blazing fire, if there is but a small piece of ember left, the size of a firefly, it cannot bum anything bigger than that. Similarly, O Somya, because only one small part of your sixteen parts remains, you cannot remember the Vedas. Eat something and then you will understand what I am saying’.
 ## 6.8
 #### 1
 उद्दालको हारुणिः श्वेतकेतुं पुत्रमुवाच स्वप्नान्तं मे सोम्य विजानीहीति यत्रैतत्पुरुषः स्वपिति नाम सता सोम्य तदा सम्पन्नो भवति स्वमपीतो भवति तस्मादेनं स्वपितीत्याचक्षते स्वंह्यपीतो भवति ॥ ६.८.१ ॥

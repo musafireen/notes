@@ -105,6 +105,23 @@ What decaying mortal living in the world below and possessed of knowledge, havin
 योऽयं वरो गूढमनुप्रविष्टो नान्यं तस्मान्नचिकेता वृणीते ॥ २९ ॥
 
 Oh Death, tell us that in which men have this doubt, and which is about the great hereafter; no other boon doth Nachiketas crave, than this which entered into the secret. 
+## 1.2
+#### 20
+अणोरणीयान्महतो महीयानात्मास्य जन्तोर्निहितो गुहायां ।
+
+Subtler than the subtle, greater than the great, in the heart of each living being, the atman reposes. 
+
+तमक्रतुः पश्यति वीतशोको धातुः प्रसादान्महिमानमात्मनः ॥ २० ॥
+
+One free from desire, with his mind and the senses composed, sees the glory of the atman and becomes absolved from grief.
+#### 21
+आसीनो दूरं व्रजति शयानो याति सर्वतः ।
+
+Sitting, he goes far; lying, he goes everywhere. 
+
+कस्तं मदामदं देवं मदन्यो ज्ञातुमर्हति ॥ २१ ॥
+
+Who else but me deserves to know the God, who is joyful and joyless.
 ## 1.3
 #### 3
 आत्मानँ रथितं विद्धि शरीरँ रथमेव तु ।

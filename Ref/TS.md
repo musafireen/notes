@@ -710,6 +710,43 @@ f This ocean, the spring of a hundred streams,
 Expanded in the middle of the world,
 Aditi milking ghee for men,
 O Agni, harm not [2] in the highest heaven;
+## 4.4
+### 4.4.5
+१८ इ॒न्द्रा॒ग्निभ्यां᳚ त्वा स॒युजा॑ यु॒जा यु॑नज्म्याघा॒राभ्यां॒
+तेज॑सा॒ वर्च॑सो॒क्थेभिः॒ स्तोमे॑भि॒श्छन्दो॑भी र॒य्यै पोषा॑य
+सजा॒तानां᳚ मध्यम॒स्थेया॑य॒ 
+
+I yoke thee in bonds of fellowship with Indra and Agni, with the ghee sprinklings, with brilliance, with radiance, with the hymns, with the Stomas, with the metres, for the increase of wealth, for pro-eminence among thy fellows; 
+
+मया᳚ त्वा स॒युजा॑ यु॒जा यु॑नज्म्यं॒बा
+
+I yoke thee in bonds of fellowship with me. b Amba, 
+
+दु॒लानि॑त॒त्निर॒भ्रय॑न्ती मे॒घय॑न्ती व॒र्॒षय॑न्ती चुपु॒णीका॒ नामा॑सि
+प्र॒जाप॑तिना त्वा॒ विश्वा॑भिर्धी॒भिरुप॑ दधामि 
+
+Duhi, Nitatni, Abhrayanti, Meghayanti, Varsayanti, Cupunika, art thou by name, with Prajapati, with our every prayer, I deposit thee.
+
+पृथि॒व्यु॑दपु॒रमन्ने॑न
+वि॒ष्टा म॑नु॒ष्या᳚स्ते गो॒प्तारो॒ऽग्निर्विय॑त्तोऽस्यां॒ ताम॒हं प्र प॑द्ये॒ 
+
+c The earth penetrated by food, a reservoir of water (thou art), men are thy guardians, Agni is placed in this (brick), to it I resort, 
+
+सा १९ मे॒ शर्म॑ च॒ वर्म॑ चा॒स्त्वधि॑द्यौर॒न्तरि॑क्षं॒ ब्रह्म॑णा वि॒ष्टा
+
+and may it [1] be my protection and my refuge. d The over-sky penetrated by holy power, the atmosphere (thou art); 
+
+म॒रुत॑स्ते गो॒प्तारो॑ वा॒युर्विय॑त्तोऽस्यां॒ ताम॒हं प्र प॑द्ये॒ सा मे॒ शर्म॑
+च॒ वर्म॑ चास्तु॒ 
+
+the Maruts are thy guardians, Vayu is placed in this (brick), to it I resort, and may it be my protection and my refuge.
+
+द्यौरप॑राजिता॒मृते॑न वि॒ष्टादि॒त्यास्ते॑ गो॒प्तारः॒ सूऱ्यो॒
+विय॑त्तोऽस्यां॒ ताम॒हं प्र प॑द्ये॒ सा मे॒ शर्म॑ च॒ वर्म॑ चास्तु ॥ ४। ४। ५॥
+
+e The sky, penetrated by ambrosia, the unconquered (thou art); the Adityas are thy guardians, the sun is deposited in this (brick), to it I resort, and may it be my protection and my refuge.
+
+ साष्टा च॑त्वारिꣳशच्च ॥ ४। ४। ५॥
 ## 4.5
 ### 4.5.1
 १ नम॑स्ते रुद्र म॒न्यव॑ उ॒तोत॒ इष॑ वे॒ नमः॑ । नम॑स्ते अस्तु॒ धन्व॑ने

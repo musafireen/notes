@@ -887,6 +887,7 @@ OD.11.639   and the current's wave carried her through river Ocean,
 OD.11.640   πρῶτα μὲν εἰρεσίη, μετέπειτα δὲ κάλλιμος οὖρος.
 OD.11.640   rowing first, then afterwards a beautiful fair wind.
 ## b17
+#### 380
 τὸν δ' ἀπαμειβόμενος προσέφης, 3] [5Εύμαιε συβώτα:2]4[5]
 
 OD.17.380 Swineherd Eumaeus, you said to him in reply:
@@ -909,7 +910,9 @@ OD.17.385 ἢ καὶ θέσπιν ἀοιδόν, ὅ κεν [τέρπῃσιν 
 
 OD.17.385 or even an inspired singer, who would delight with his singing?
 
-OD.17.386 οὗτοι γάρ κλητοί γε το βροτῶν [έπ' [12ἀπείρονα γαῖαν:10]11]12] OD.17.386 For these are invited by mortals all over the boundless earth,
+OD.17.386 οὗτοι γάρ κλητοί γε το βροτῶν [έπ' [12ἀπείρονα γαῖαν:10]11]12] 
+
+OD.17.386 For these are invited by mortals all over the boundless earth,
 
 OD.17.387 πτωχόν [13δ' οὐκ ἄν τις 13] καλέοι τρύξοντα ἔ αὐτόν.
 

@@ -1,8 +1,13 @@
+
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0084%3Abook%3D9%3Achapter%3D1%3Asection%3D1
+
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0540
+
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0541
+
 https://penelope.uchicago.edu/Thayer/H/Roman/Texts/Diodorus_Siculus/10*.html
 
 https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html
-
-https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0540
 
 https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0060.tlg001.perseus-grc4:/
 
@@ -770,29 +775,92 @@ Cleinias of Tarentum, who was a member of the order6 of which we have spoken, le
 ἤδη δὲ τῆς ὥρας συγκλειούσης πάντες μὲν ἀπεγίνωσκον,  p58 ὁ δὲ Φιντίας ἀνελπίστως ἐπὶ τῆς ἐσχάτης τοῦ χρόνου ῥοπῆς δρομαῖος ἦλθε, τοῦ Δάμωνος ἀπαγομένου πρὸς τὴν ἀνάγκην. θαυμαστῆς δὲ τῆς φιλίας φανείσης ἅπασιν, ἀπέλυσεν ὁ Διονύσιος τῆς τιμωρίας τὸν ἐγκαλούμενον, καὶ παρεκάλεσε τοὺς ἄνδρας τρίτον ἑαυτὸν εἰς τὴν φιλίαν προσλαβέσθαι.
 
 6 When the hour drew close and all were giving up hope, Phintias unexpectedly  p59 arrived on the run at the last moment, just as Damon was being led off to his fate. Such a friendship was in the eyes of all men a thing of wonder, and Dionysius remitted the punishment of the condemned man, urging the two men to include himself as a third in their friendship.8
+# b11
+## c57
+#### 1
+δόξας δὲ παραδόξως ὑπ᾽ ἐχθροῦ διασεσῶσθαι, πάλιν εἰς μείζονας κινδύνους ἐνέπεσε διὰ τοιαύτας αἰτίας: Μανδάνη Δαρείου μὲν ἦν θυγάτηρ τοῦ φονεύσαντος τοὺς μάγους, ἀδελφὴ δὲ γνησία τοῦ Ξέρξου, μεγίστης δ᾽ ἀποδοχῆς τυγχάνουσα παρὰ τοῖς Πέρσαις. 
 
+But when it seemed that the life of Themistocles had unexpectedly been saved by an enemy, he fell again into even greater dangers for the following reasons. Mandane was the daughter of the Darius1 who had slain the Magi and the full sister of Xerxes, and she enjoyed high esteem among the Persians. 
+#### 2
+[2] αὕτη τῶν υἱῶν ἐστερημένη καθ᾽ ὃν καιρὸν Θεμιστοκλῆς περὶ Σαλαμῖνα κατεναυμάχησε τὸν στόλον τῶν Περσῶν, χαλεπῶς ἔφερε τὴν ἀναίρεσιν τῶν τέκνων, καὶ διὰ τὸ μέγεθος τῆς συμφορᾶς ἠλεεῖτο παρὰ τοῖς πλήθεσιν. 
+
+[2] She had lost her sons at the time Themistocles had defeated the Persian fleet in the sea-battle at Salamis and sorely grieved over the death of her children, and because of her great affliction she was the object of the pity of the people 
+#### 3
+[3] αὕτη πυθομένη τὴν παρουσίαν τοῦ Θεμιστοκλέους, ἦλθεν εἰς τὰ βασίλεια πενθίμην ἐσθῆτα λαβοῦσα, καὶ μετὰ δακρύων ἱκέτευε τὸν ἀδελφὸν ἐπιθεῖναι τιμωρίαν τῷ Θεμιστοκλεῖ. ὡς δ᾽ οὐ προσεῖχεν αὐτῇ, περιῄει τοὺς ἀρίστους τῶν Περσῶν ἀξιοῦσα καὶ καθόλου τὰ πλήθη παροξύνουσα πρὸς τὴν τοῦ Θεμιστοκλέους τιμωρίαν. 
+
+[3] When she learned of the presence of Themistocles, she went to the palace clad in raiment of mourning and with tears entreated her brother to wreak vengeance upon Themistocles. And when the king paid no heed to her, she visited in turn the noblest Persians with her request and, speaking generally, spurred on the people to vengeance upon Themistocles. 
+#### 4
+[4] τοῦ δ᾽ ὄχλου συνδραμόντος ἐπὶ τὰ βασίλεια καὶ μετὰ κραυγῆς ἐξαιτοῦντος ἐπὶ τιμωρίαν τὸν Θεμιστοκλέα, ὁ μὲν βασιλεὺς ἀπεκρίνατο δικαστήριον καταστήσειν ἐκ τῶν ἀρίστων Περσῶν, καὶ τὸ κριθὲν τεύξεσθαι συντελείας: 
+
+[4] When the mob rushed to the palace and with loud shouts demanded the person of Themistocles for punishment, the king replied that he would form a jury of the noblest Persians and that its verdict would be carried out. 
+#### 5
+[5] πάντων δὲ συνευδοκησάντων, καὶ δοθέντος ἱκανοῦ χρόνου εἰς τὴν παρασκευὴν τῆς κρίσεως, ὁ μὲν Θεμιστοκλῆς μαθὼν τὴν Περσίδα διάλεκτον, καὶ ταύτῃ χρησάμενος κατὰ τὴν ἀπολογίαν, ἀπελύθη τῶν ἐγκλημάτων. 
+
+[5] This decision was approved by all, and since a considerable time was given to make the preparations for the trial, Themistocles meanwhile learned the Persian language, and using it in his defence he was acquitted of the charges. 
+#### 6
+[6] ὁ δὲ βασιλεὺς περιχαρὴς γενόμενος ἐπὶ τῇ σωτηρίᾳ τἀνδρὸς μεγάλαις αὐτὸν δωρεαῖς ἐτίμησε: γυναῖκα γὰρ αὐτῷ πρὸς γάμου κοινωνίαν ἔζευξε Περσίδα, εὐγενείᾳ τε καὶ κάλλει διαφέρουσαν, ἔτι δὲ κατ᾽ ἀρετὴν ἐπαινουμένην, οἰκετῶν τε πλῆθος ... πρὸς διακονίαν καὶ παντοδαπῶν ἐκπωμάτων καὶ τὴν ἄλλην χορηγίαν πρὸς ἀπόλαυσιν καὶ τρυφὴν ἁρμόζουσαν
+
+[6] And the king was overjoyed that Themistocles had been saved and honoured him with great gifts; so, for example, he gave him in marriage a Persian woman, who was of outstanding birth and beauty and, besides, praised for her virtue, and [she brought as her dower] not only a multitude of household slaves for their service but also of drinking-cups of every kind and such other furnishings as comport with a life of pleasure and luxury.2
 # b17
+## c69
+#### 1
+μετὰ δὲ ταῦτα ἐπὶ τὴν Περσέπολιν προάγων κατὰ τὴν ὁδὸν ἐπιστολὴν ἐκομίσατο παρὰ τοῦ κυριεύοντος τῆς πόλεως Τιριδάτου. 
+
+Now he set out on the road to Persepolis, and while he was on the road received a letter from the governor of the city, whose name was Tiridates.1 
+
+ἐν ταύτῃ δ᾽ ἦν γεγραμμένον ὅτι ἐὰν παραγενόμενος φθάσῃ τοὺς ἐπιβαλλομένους διατηρῆσαι Δαρείῳ τὴν Περσέπολιν, κύριος ἔσται ταύτης ὑπ᾽ αὐτοῦ παραδοθείσης. 
+
+It stated that if he arrived ahead of those who planned to defend the city for Dareius, he would become master of it, for Tiridates would betray it to him. 
+#### 2
+[2] διόπερ ὁ Ἀλέξανδρος κατὰ σπουδὴν ἦγε τὴν δύναμιν καὶ τὸν Ἀράξην ποταμὸν ζεύξας διεβίβασε τοὺς στρατιώτας. 
+
+[2] Accordingly Alexander led his army on by forced marches; he bridged the Araxes River and so brought his men to the other bank.2
+
+προάγοντος δὲ τοῦ βασιλέως θέαμα παράδοξον καὶ δεινὸν ὤφθη, μισοπονηρίαν μὲν περιέχον κατὰ τῶν πραξάντων, ἔλεον δὲ καὶ συμπάθειαν ἐπιφέρον πρὸς τοὺς ἀνήκεστα πεπονθότας. 
+
+At this point in his advance the king was confronted by a strange and dreadful sight, one to provoke indignation against the perpetrators and sympathetic pity for the unfortunate victims.3 
+#### 3
+[3] ἀπήντησαν γὰρ αὐτῷ μεθ᾽ ἱκετηριῶν Ἕλληνες ὑπὸ τῶν πρότερον βασιλέων ἀνάστατοι γεγονότες, ὀκτακόσιοι μὲν σχεδὸν τὸν ἀριθμὸν ὄντες, ταῖς δ᾽ ἡλικίαις οἱ πλεῖστοι μὲν γεγηρακότες, ἠκρωτηριασμένοι δὲ πάντες, οἱ μὲν χεῖρας, οἱ δὲ πόδας, οἱ δὲ ὦτα καὶ ῥῖνας: 
+
+[3] He was met by Greeks bearing branches of supplication. They had been carried away from their homes by previous kings of Persia and were about eight hundred in number, most of them elderly. All had been mutilated, some lacking hands, some feet, and some ears and noses. 
+#### 4
+[4] τῶν δ᾽ ἐπιστήμας ἢ τέχνας εἰδότων καὶ ἐν παιδείᾳ προκεκοφότων τὰ μὲν ἄλλα τῶν ἀκρωτηρίων ἀπεκέκοπτο, αὐτὰ δὲ μόνα τὰ συνεργοῦντα πρὸς τὰς ἐπιστήμας ἀπελέλειπτο: 
+
+[4] They were persons who had acquired skills or crafts and had made good progress in their instruction; then their other extremities had been amputated and they were left only those which were vital to their profession. 
+
+ὥστε πάντας ὁρῶντας τὰ τῆς ἡλικίας ἀξιώματα καὶ τὰς περιεχούσας τὰ σώματα συμφορὰς ἐλεεῖν τὰς τύχας τῶν ἀκληρούντων, μάλιστα δὲ αὐτὸν τὸν Ἀλέξανδρον συμπαθῆ γενέσθαι τοῖς ἠτυχηκόσι καὶ μὴ δύνασθαι κατασχεῖν τὰ δάκρυα.
+
+All the soldiers, seeing their venerable years and the losses which their bodies had suffered, pitied the lot of the wretches. Alexander most of all was affected by them and unable to restrain his tears. 
 ## c96
-αὐτὸς δὲ μετὰ τῶν φίλων ἐμβὰς εἰς τὰς ναῦς τὸν διὰ τοῦ ποταμοῦ πλοῦν ἐπὶ τὸν Ὠκεανὸν τὸν κατὰ μεσημβρίαν ἐποιεῖτο. τὸ δὲ πολὺ μέρος τῆς δυνάμεως παρὰ τὸν ποταμὸν ὡδοιπόρει, προηγουμένου Κρατεροῦ καὶ Ἡφαιστίωνος. ὡς δʼ ἦλθον ἐπὶ τὴν Ἀκεσίνου καὶ Ὑδάσπου συμβολήν, ἐκβιβάσας τοὺς στρατιώτας προῆγεν ἐπὶ τοὺς ὀνομαζομένους Σίβους.
+#### 1
+αὐτὸς δὲ μετὰ τῶν φίλων ἐμβὰς εἰς τὰς ναῦς τὸν διὰ τοῦ ποταμοῦ πλοῦν ἐπὶ τὸν Ὠκεανὸν τὸν κατὰ μεσημβρίαν ἐποιεῖτο. 
 
-and he, with his friends, went to the temples through the river, swimming on the Meridian Ocean. but the greater part of the force marches across the river, preceded by Crater and Hephaestion. when they came to the confluence of the Akesinus and Hydaspus, you disembarked the soldiers and advanced on the named Sibus.
+and he, with his friends, went to the temples through the river, swimming on the Meridian Ocean. 
 
-2
+τὸ δὲ πολὺ μέρος τῆς δυνάμεως παρὰ τὸν ποταμὸν ὡδοιπόρει, προηγουμένου Κρατεροῦ καὶ Ἡφαιστίωνος. 
+
+but the greater part of the force marches across the river, preceded by Crater and Hephaestion. 
+
+ὡς δʼ ἦλθον ἐπὶ τὴν Ἀκεσίνου καὶ Ὑδάσπου συμβολήν, ἐκβιβάσας τοὺς στρατιώτας προῆγεν ἐπὶ τοὺς ὀνομαζομένους Σίβους.
+
+when they came to the confluence of the Akesinus and Hydaspus, you disembarked the soldiers and advanced on the named Sibus.
+
+#### 2
 τούτους δέ φασιν ἀπογόνους εἶναι τῶν μεθʼ Ἡρακλέους ἐπὶ τὴν Ἄορνον πέτραν στρατευσάντων καὶ τῆς μὲν πολιορκίας ἀποτυχόντων, ἐν τούτῳ δὲ τῷ τόπῳ κατοικισθέντων ὑφʼ Ἡρακλέους. τοῦ δʼ Ἀλεξάνδρου καταστρατοπεδεύσαντος πλησίον ἐπιφανεστάτης πόλεως προῆλθον οἱ δόξῃ πρωτεύοντες τῶν πολιτῶν. ἐντυχόντες δὲ τῷ βασιλεῖ καὶ τὴν συγγένειαν ἀνανεωσάμενοι πάντα ποιήσειν ἔφασαν μετὰ προθυμίας ὡς ἂν συγγενεῖς ὄντες καὶ δῶρα προσεκόμισαν μεγαλοπρεπῆ.
 
 these are the descendants of those who fought with Heracleus on the Aornon stone and of those who failed in the siege, and who lived in this place after Heracleus. of Alexander the Great, encamped near the city, the first of the citizens came in glory. And having pleased the king and the kinship, renewing all the poems, they ate willingly as if they were relatives and presented magnificent gifts.
 
-3
+#### 3
 ὁ δὲ Ἀλέξανδρος ἀποδεξάμενος αὐτῶν τὴν εὔνοιαν καὶ τὰς πόλεις ἀποδείξας ἐλευθέρας προῆγεν ἐπὶ τὰ συνορίζοντα τῶν ἐθνῶν. καταλαβὼν δὲ τοὺς ὀνομαζομένους Ἀγαλασσεῖς ἠθροικότας πεζοὺς μὲν τετρακισμυρίους, ἱππεῖς δὲ τρισχιλίους, συνάψας αὐτοῖς μάχην καὶ νικήσας τοὺς μὲν πλείστους κατέκοψεν, τοὺς δὲ λοιποὺς συμφυγόντας εἰς τὰς πλησίον πόλεις ἐκπολιορκήσας ἐξηνδραποδίσατο.
 
 But Alexander, having accepted their favor and the cities he proved free, advanced to the frontiers of the nations. But when you came upon the people called Agalassies, assembling footmen with four thousand men, and three thousand horsemen, you entered into battle with them, and having defeated most of them, you put them to death, but the rest, fleeing to the neighboring cities, you besieged and surrendered.
 
-4
+#### 4
 τῶν δὲ ἄλλων ἐγχωρίων συναθροισθέντων δισμυρίους μὲν καταφυγόντας εἰς πόλιν μεγάλην κατὰ κράτος εἷλε, τῶν δʼ Ἰνδῶν διαφραξάντων τοὺς στενωποὺς καὶ ἀπὸ τῶν οἰκιῶν μαχομένων εὐρώστως βιαζόμενος ἀπέβαλε τῶν Μακεδόνων οὐκ ὀλίγους.
 
 And of the other countrymen, who had gathered billions, he took refuge in a great city according to the state, and of the four Indians, who barricaded the narrows and from the houses fighting fiercely, he hurriedly drove off not a few of the Macedonians.
 
-5
+#### 5
 διὰ δὲ τὴν ὀργὴν ἐμπρήσας τὴν πόλιν συγκατέκαυσε τοὺς πλείστους· τῶν δʼ ἐγχωρίων τῶν ὑπολειπομένων εἰς τρισχιλίους συμφυγόντας εἰς τὴν ἀκρόπολιν καὶ μεθʼ ἱκετηριῶν δεηθέντας ἀπέλυσεν.
 
 but because of his anger he set the city on fire and burned most of them; of the two villages, the remaining three thousand fled to the citadel and dismissed them with petitions.

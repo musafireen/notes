@@ -1,7 +1,144 @@
 
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0126
 # b1
+## c1
+#### 1
+Ἡροδότου Ἁλικαρνησσέος ἱστορίης ἀπόδεξις ἥδε, ὡς μήτε τὰ γενόμενα ἐξ ἀνθρώπων τῷ χρόνῳ ἐξίτηλα γένηται, μήτε ἔργα μεγάλα τε καὶ θωμαστά, τὰ μὲν Ἕλλησι τὰ δὲ βαρβάροισι ἀποδεχθέντα, ἀκλεᾶ γένηται, τά τε ἄλλα καὶ δι᾽ ἣν αἰτίην ἐπολέμησαν ἀλλήλοισι.
 
+This is the display of the inquiry of Herodotus of Halicarnassus, so that things done by man not be forgotten in time, and that great and marvelous deeds, some displayed by the Hellenes, some by the barbarians, not lose their glory, including among others what was the cause of their waging war on each other.
+
+Περσέων μέν νυν οἱ λόγιοι Φοίνικας αἰτίους φασὶ γενέσθαι τῆς διαφορῆς. 
+
+The Persian learned men say that the Phoenicians were the cause of the dispute. 
+
+τούτους γὰρ ἀπὸ τῆς Ἐρυθρῆς καλεομένης θαλάσσης ἀπικομένους ἐπὶ τήνδε τὴν θάλασσαν, καὶ οἰκήσαντας τοῦτον τὸν χῶρον τὸν καὶ νῦν οἰκέουσι, αὐτίκα ναυτιλίῃσι μακρῇσι ἐπιθέσθαι, ἀπαγινέοντας δὲ φορτία Αἰγύπτιά τε καὶ Ἀσσύρια τῇ τε ἄλλῃ ἐσαπικνέεσθαι καὶ δὴ καὶ ἐς Ἄργος. 
+
+These (they say) came to our seas from the sea which is called Red,1 and having settled in the country which they still occupy, at once began to make long voyages. Among other places to which they carried Egyptian and Assyrian merchandise, they came to Argos, 
+#### 2
+[2] τὸ δὲ Ἄργος τοῦτον τὸν χρόνον προεῖχε ἅπασι τῶν ἐν τῇ νῦν Ἑλλάδι καλεομένῃ χωρῇ. 
+
+[2] which was at that time preeminent in every way among the people of what is now called Hellas. 
+
+ἀπικομένους δὲ τούς Φοίνικας ἐς δὴ τὸ Ἄργος τοῦτο διατίθεσθαι τὸν φόρτον. 
+
+The Phoenicians came to Argos, and set out their cargo. 
+#### 3
+[3] πέμπτῃ δὲ ἢ ἕκτῃ ἡμέρῃ ἀπ᾽ ἧς ἀπίκοντο, ἐξεμπολημένων σφι σχεδόν πάντων, ἐλθεῖν ἐπὶ τὴν θάλασσαν γυναῖκας ἄλλας τε πολλάς καὶ δὴ καὶ τοῦ βασιλέος θυγατέρα: 
+
+[3] On the fifth or sixth day after their arrival, when their wares were almost all sold, many women came to the shore and among them especially the daughter of the king, 
+
+τὸ δέ οἱ οὔνομα εἶναι, κατὰ τὠυτὸ τὸ καὶ Ἕλληνές λέγουσι, Ἰοῦν τὴν Ἰνάχου: 
+
+whose name was Io (according to Persians and Greeks alike), the daughter of Inachus. 
+#### 4
+[4] ταύτας στάσας κατά πρύμνην τῆς νεὸς ὠνέεσθαι τῶν φορτίων τῶν σφι ἦν θυμός μάλιστα: καὶ τοὺς Φοίνικας διακελευσαμένους ὁρμῆσαι ἐπ᾽ αὐτάς. 
+
+[4] As these stood about the stern of the ship bargaining for the wares they liked, the Phoenicians incited one another to set upon them. 
+
+τὰς μὲν δὴ πλεῦνας τῶν γυναικῶν ἀποφυγεῖν, τὴν δὲ Ἰοῦν σὺν ἄλλῃσι ἁρπασθῆναι. ἐσβαλομένους δὲ ἐς τὴν νέα οἴχεσθαι ἀποπλέοντας ἐπ᾽ Αἰγύπτου.
+
+Most of the women escaped: Io and others were seized and thrown into the ship, which then sailed away for Egypt.
+## c7
+#### 1
+ἡ δὲ ἡγεμονίη οὕτω περιῆλθε, ἐοῦσα Ἡρακλειδέων ἐς τὸ γένος τὸ Κροίσου, καλεομένους δὲ Μερμνάδας. 
+
+Now the sovereign power that belonged to the descendants of Heracles1 fell to the family of Croesus, called the Mermnadae, in the following way. 
+
+[2] ἦν Κανδαύλης, τὸν οἱ Ἕλληνές Μυρσίλον ὀνομάζουσι, τύραννος Σαρδίων, ἀπόγονος δὲ Ἀλκαίου τοῦ Ἡρακλέος. Ἄγρων μὲν γὰρ ὁ Νίνου τοῦ Βήλου τοῦ Ἀλκαίου πρῶτος Ἡρακλειδέων βασιλεὺς ἐγένετο Σαρδίων, Κανδαύλης δὲ ὁ Μύρσου ὕστατος. 
+
+[2] Candaules, whom the Greeks call Myrsilus, was the ruler of Sardis; he was descended from Alcaeus, son of Heracles; Agron son of Ninus, son of Belus, son of Alcaeus, was the first Heraclid king of Sardis and Candaules son of Myrsus was the last. 
+#### 3
+[3] οἱ δὲ πρότερον Ἄγρωνος βασιλεύσαντες ταύτης τῆς χώρης ἦσαν ἀπόγονοὶ Λυδοῦ τοῦ Ἄτυος, ἀπ᾽ ὅτευ ὁ δῆμος Λύδιος ἐκλήθη ὁ πᾶς οὗτος, πρότερον Μηίων καλεόμενος. 
+
+[3] The kings of this country before Agron were descendants of Lydus, son of Atys, from whom this whole Lydian district got its name; before that it was called the land of the Meii. 
+#### 4
+[4] παρὰ τούτων Ἡρακλεῖδαι ἐπιτραφθέντες ἔσχον τὴν ἀρχήν ἐκ θεοπροπίου, ἐκ δούλης τε τῆς Ἰαρδάνου γεγονότες καὶ Ἡρακλέος, ἄρξαντες μὲν ἐπὶ δύο τε καὶ εἴκοσι γενεᾶς ἀνδρῶν ἔτεα πέντε τε καὶ πεντακόσια, παῖς παρὰ πατρὸς ἐκδεκόμενος τὴν ἀρχήν, μέχρι Κανδαύλεω τοῦ Μύρσου.
+
+[4] The Heraclidae, descendants of Heracles and a female slave of Iardanus, received the sovereignty from these and held it, because of an oracle; and they ruled for twenty-two generations, or five hundred and five years, son succeeding father, down to Candaules son of Myrsus.
+## c29
+#### 1
+ἀπικνέονται ἐς Σάρδις ἀκμαζούσας πλούτῳ ἄλλοι τε οἱ πάντες ἐκ τῆς Ἑλλάδος σοφισταί, οἳ τοῦτον τὸν χρόνον ἐτύγχανον ἐόντες, ὡς ἕκαστος αὐτῶν ἀπικνέοιτο, 
+
+and after these were subdued and subject to Croesus in addition to the Lydians, all the sages from Hellas who were living at that time, coming in different ways, came to Sardis, which was at the height of its property; 
+
+καὶ δὴ καὶ Σόλων ἀνὴρ Ἀθηναῖος, ὃς Ἀθηναίοισι νόμους κελεύσασι ποιήσας ἀπεδήμησε ἔτεα δέκα κατά θεωρίης πρόφασιν ἐκπλώσας, 
+
+and among them came Solon the Athenian, who, after making laws for the Athenians at their request, went abroad for ten years, sailing forth to see the world, he said. 
+
+ἵνα δὴ μή τινα τῶν νόμων ἀναγκασθῇ, λῦσαι τῶν ἔθετο. 
+
+This he did so as not to be compelled to repeal any of the laws he had made, 
+## c30
+#### 1
+αὐτῶν δὴ ὦν τούτων καὶ τῆς θεωρίης ἐκδημήσας ὁ Σόλων εἵνεκεν ἐς Αἴγυπτον ἀπίκετο παρὰ Ἄμασιν καὶ δὴ καὶ ἐς Σάρδις παρὰ Κροῖσον. 
+
+So for that reason, and to see the world, Solon went to visit Amasis in Egypt and then to Croesus in Sardis. 
+
+ἀπικόμενος δὲ ἐξεινίζετο ἐν τοῖσι βασιληίοισι ὑπὸ τοῦ Κροίσου: 
+
+When he got there, Croesus entertained him in the palace, 
+
+μετὰ δὲ ἡμέρῃ τρίτῃ ἢ τετάρτῃ κελεύσαντος Κροίσου τὸν Σόλωνα θεράποντες περιῆγον κατὰ τοὺς θησαυρούς, καὶ ἐπεδείκνυσαν πάντα ἐόντα μεγάλα τε καὶ ὄλβια. 
+
+and on the third or fourth day Croesus told his attendants to show Solon around his treasures, and they pointed out all those things that were great and blest.
+## c74
+#### 1
+μετὰ δὲ ταῦτα, οὐ γὰρ δὴ ὁ Ἀλυάττης ἐξεδίδου τοὺς Σκύθας ἐξαιτέοντι Κυαξάρῃ, πόλεμος τοῖσι Λυδοῖσι καὶ τοῖσι Μήδοισι ἐγεγόνεε ἐπ᾽ ἔτεα πέντε, ἐν τοῖσι πολλάκις μὲν οἱ Μῆδοι τοὺς Λυδοὺς ἐνίκησαν, πολλάκις δὲ οἱ Λυδοὶ τοὺς Μήδους, ἐν δὲ καὶ νυκτομαχίην τινὰ ἐποιήσαντο: 
+
+After this, since Alyattes would not give up the Scythians to Cyaxares at his demand, there was war between the Lydians and the Medes for five years; each won many victories over the other, and once they fought a battle by night. 
+#### 2
+[2] διαφέρουσι δέ σφι ἐπὶ ἴσης τὸν πόλεμον τῷ ἕκτῳ ἔτεϊ συμβολῆς γενομένης συνήνεικε ὥστε τῆς μάχης συνεστεώσης τὴν ἡμέρην ἐξαπίνης νύκτα γενέσθαι. τὴν δὲ μεταλλαγὴν ταύτην τῇ ἡμέρης Θαλῆς ὁ Μιλήσιος τοῖσι Ἴωσι προηγόρευσε ἔσεσθαι, οὖρον προθέμενος ἐνιαυτὸν τοῦτον ἐν τῷ δὴ καὶ ἐγένετο ἡ μεταβολή. 
+
+[2] They were still warring with equal success, when it happened, at an encounter which occurred in the sixth year, that during the battle the day was suddenly turned to night. Thales of Miletus had foretold this loss of daylight to the Ionians, fixing it within the year in which the change did indeed happen.1 
+#### 3
+[3] οἱ δὲ Λυδοί τε καὶ οἱ Μῆδοι ἐπείτε εἶδον νύκτα ἀντὶ ἡμέρης γενομένην, τῆς μάχης τε ἐπαύσαντο καὶ μᾶλλόν τι ἔσπευσαν καὶ ἀμφότεροι εἰρήνην ἑωυτοῖσι γενέσθαι. οἱ δὲ συμβιβάσαντες αὐτοὺς ἦσαν οἵδε, Συέννεσίς τε ὁ Κίλιξ καὶ Λαβύνητος ὁ Βαβυλώνιος. 
+
+[3] So when the Lydians and Medes saw the day turned to night, they stopped fighting, and both were the more eager to make peace. Those who reconciled them were Syennesis the Cilician and Labynetus the Babylonian; 
+#### 4
+[4] οὗτοί σφι καὶ τὸ ὅρκιον οἱ σπεύσαντες γενέσθαι ἦσαν καὶ γάμων ἐπαλλαγὴν ἐποίησαν: Ἀλυάττεα γὰρ ἔγνωσαν δοῦναι τὴν θυγατέρα Ἀρύηνιν Ἀστυάγεϊ τῷ Κυαξάρεω παιδί: ἄνευ γὰρ ἀναγκαίης ἰσχυρῆς συμβάσιες ἰσχυραὶ οὐκ ἐθέλουσι συμμένειν. 
+
+[4] they brought it about that there should be a sworn agreement and a compact of marriage between them: they judged that Alyattes should give his daughter Aryenis to Astyages, son of Cyaxares; for without strong constraint agreements will not keep their force. 
+#### 5
+[5] ὅρκια δὲ ποιέεται ταῦτα τὰ ἔθνεα τὰ πέρ τε Ἕλληνες, καὶ πρὸς τούτοισι, ἐπεὰν τοὺς βραχίονας ἐπιτάμωνται ἐς τὴν ὁμοχροίην, τὸ αἷμα ἀναλείχουσι ἀλλήλων.
+
+[6] These nations make sworn compacts as do the Greeks; and besides, when they cut the skin of their arms, they lick each other's blood.
+## c75
+#### 1
+τοῦτον δὴ ὦν τὸν Ἀστυάγεα Κῦρος ἐόντα ἑωυτοῦ μητροπάτορα καταστρεψάμενος ἔσχε δι᾽ αἰτίην τὴν ἐγὼ ἐν τοῖσι ὀπίσω λόγοισι σημανέω: 
+
+Cyrus had subjugated this Astyages, then, Cyrus' own mother's father, for the reason which I shall presently disclose. 
+#### 2
+[2] τὰ Κροῖσος ἐπιμεμφόμενος τῷ Κύρῳ ἔς τε τὰ χρηστήρια ἔπεμπε εἰ στρατεύηται ἐπὶ Πέρσας, καὶ δὴ καὶ ἀπικομένου χρησμοῦ κιβδήλου, ἐλπίσας πρὸς ἑωυτοῦ τὸν χρησμὸν εἶναι, ἐστρατεύετο ἐς τὴν Περσέων μοῖραν. 
+
+[2] Having this reason to quarrel with Cyrus, Croesus sent to ask the oracles if he should march against the Persians; and when a deceptive answer came he thought it to be favorable to him, and so led his army into the Persian territory. 
+#### 3
+[3] ὡς δὲ ἀπίκετο ἐπὶ τὸν Ἅλυν ποταμὸν ὁ Κροῖσος, τὸ ἐνθεῦτεν, ὡς μὲν ἐγὼ λέγω, κατὰ τὰς ἐούσας γεφύρας διεβίβασε τὸν στρατόν, ὡς δὲ ὁ πολλὸς λόγος Ἑλλήνων, Θαλῆς οἱ ὁ Μιλήσιος διεβίβασε. 
+
+[3] When he came to the river Halys, he transported his army across it—by the bridges which were there then, as I maintain; but the general belief of the Greeks is that Thales of Miletus got the army across. 
+#### 4
+[4] ἀπορέοντος γὰρ Κροίσου ὅκως οἱ διαβήσεται τὸν ποταμὸν ὁ στρατός 
+
+[4] The story is that, as Croesus did not know how his army could pass the river 
+
+(οὐ γὰρ δὴ εἶναι κω τοῦτον τὸν χρόνον τὰς γεφύρας ταύτας) 
+
+(as the aforesaid bridges did not yet exist then), 
+
+λέγεται παρεόντα τὸν Θαλῆν ἐν τῷ στρατοπέδῳ ποιῆσαι αὐτῷ τὸν ποταμὸν ἐξ ἀριστερῆς χειρὸς ῥέοντα τοῦ στρατοῦ καὶ ἐκ δεξιῆς ῥέειν, ποιῆσαι δὲ ὧδε: 
+
+Thales, who was in the encampment, made the river, which flowed on the left of the army, also flow on the right, in the following way. 
+#### 5
+[5] ἄνωθεν τοῦ στρατοπέδου ἀρξάμενον διώρυχα βαθέαν ὀρύσσειν, ἄγοντα μηνοειδέα, ὅκως ἂν τὸ στρατόπεδον ἱδρυμένον κατὰ νώτου λάβοι, ταύτῃ κατὰ τὴν διώρυχα ἐκτραπόμενος ἐκ τῶν ἀρχαίων ῥεέθρων, καὶ αὖτις παραμειβόμενος τὸ στρατόπεδον ἐς τὰ ἀρχαῖα ἐσβάλλοι: 
+
+[5] Starting from a point on the river upstream from the camp, he dug a deep semi-circular trench, so that the stream, turned from its ancient course, would flow in the trench to the rear of the camp and, passing it, would issue into its former bed, 
+
+ὥστε ἐπείτε καὶ ἐσχίσθη τάχιστα ὁ ποταμός, ἀμφοτέρῃ διαβατὸς ἐγένετο, 
+
+with the result that as soon as the river was thus divided into two, both channels could be forded. 
+#### 6
+[6] οἳ δὲ καὶ τὸ παράπαν λέγουσι καὶ τὸ ἀρχαῖον ῥέεθρον ἀποξηρανθῆναι. ἀλλὰ τοῦτο μὲν οὐ προσίεμαι: κῶς γὰρ ὀπίσω πορευόμενοι διέβησαν αὐτόν;
+
+[6] Some even say that the ancient channel dried up altogether. But I do not believe this; for in that case, how did they pass the river when they were returning?
 ## c102
 #### 1
 Δηιόκεω δὲ παῖς γίνεται Φραόρτης, ὃς τελευτήσαντος Δηιόκεω, βασιλεύσαντος τρία καὶ πεντήκοντα ἔτεα, παρεδέξατο τὴν ἀρχήν, παραδεξάμενος δὲ οὐκ ἀπεχρᾶτο μούνων Μήδων ἄρχειν, ἀλλὰ στρατευσάμενος ἐπὶ τοὺς Πέρσας πρώτοισί τε τούτοισι ἐπεθήκατο καὶ πρώτους Μήδων ὑπηκόους ἐποίησε.
@@ -83,11 +220,51 @@ As to the customs of the Persians, I know them to be these. It is not their cust
 [3] τούτοισι μὲν δὴ θύουσι μούνοισι ἀρχῆθεν, ἐπιμεμαθήκασι δὲ καὶ τῇ Οὐρανίῃ θύειν, παρά τε Ἀσσυρίων μαθόντες καὶ Ἀραβίων. καλέουσι δὲ Ἀσσύριοι τὴν Ἀφροδίτην Μύλιττα, Ἀράβιοι δὲ Ἀλιλάτ, Πέρσαι δὲ Μίτραν.
 
 [3] From the beginning, these are the only gods to whom they have ever sacrificed; they learned later to sacrifice to the “heavenly”1 Aphrodite from the Assyrians and Arabians. She is called by the Assyrians Mylitta, by the Arabians Alilat, by the Persians Mitra.
+## c153
+#### 1
+ταῦτα εἰπόντος τοῦ κήρυκος, λέγεται Κῦρον ἐπειρέσθαι τοὺς παρεόντας οἱ Ἑλλήνων τινες ἐόντες ἄνθρωποι Λακεδαιμόνιοι καὶ κόσοι πλῆθος ταῦτα ἑωυτῷ προαγορεύουσι: 
+
+When the herald had proclaimed this, Cyrus is said to have asked the Greeks who were present who and how many in number these Lacedaemonians were who made this declaration. 
+
+πυνθανόμενον δέ μιν εἰπεῖν ἄνθρωποι Λακεδαιμόνιοι καὶ κόσοι ‘οὐκ ἔδεισά κω ἄνδρας τοιούτους, τοῖσι ἐστι χῶρος ἐν μέση τῇ πόλι ἀποδεδεγμένος ἐς τὸν συλλεγόμενοι ἀλλήλους ὀμνύντες ἐξαπατῶσι: 
+
+When he was told, he said to the Spartan herald, “I never yet feared men who set apart a place in the middle of their city where they perjure themselves and deceive each other. 
+
+τοῖσι, ἢν ἐγὼ ὑγιαίνω, οὐ τὰ Ἰώνων πάθεα ἔσται ἔλλεσχα ἀλλὰ τὰ οἰκήια.’ 
+
+They, if I keep my health, shall talk of their own misfortunes, not those of the Ionians.” 
+#### 2
+[2] ταῦτα ἐς τοὺς πάντας Ἕλληνας ἀπέρριψε ὁ Κῦρος τὰ ἔπεα, ὅτι ἀγορὰς στησάμενοι ὠνῇ τε καὶ πρήσι χρέωνται: 
+
+[2] He uttered this threat against all the Greeks, because they have markets and buy and sell there; 
+
+αὐτοὶ γὰρ οἱ Πέρσαι ἀγορῇσι οὐδὲν ἐώθασι χρᾶσθαι, οὐδέ σφι ἐστὶ τὸ παράπαν ἀγορή. 
+
+for the Persians themselves were not used to resorting to markets at all, nor do they even have a market of any kind. 
+#### 3
+[3] μετὰ ταῦτα ἐπιτρέψας τὰς μὲν Σάρδις Ταβάλῳ ἀνδρὶ Πέρσῃ, τὸν δὲ χρυσὸν τόν τε Κροίσου καὶ τὸν τῶν ἄλλων Λυδῶν Πακτύῃ ἀνδρὶ Λυδῷ κομίζειν, ἀπήλαυνε αὐτὸς ἐς Ἀγβάτανα, Κροῖσόν τε ἅμα ἀγόμενος καὶ τοὺς Ἴωνας ἐν οὐδενὶ λόγῳ ποιησάμενος τὴν πρώτην εἶναι. 
+
+[3] Presently, entrusting Sardis to a Persian called Tabalus, and instructing Pactyes, a Lydian, to take charge of the gold of Croesus and the Lydians, he himself marched away to Ecbatana, taking Croesus with him, and at first taking no notice of the Ionians. 
+#### 4
+[4] ἡ τε γὰρ Βαβυλών οἱ ἦν ἐμπόδιος καὶ τὸ Βάκτριον ἔθνος καὶ Σάκαι τε καὶ Αἰγύπτιοι, ἐπ᾽ οὓς ἐπεῖχέ τε στρατηλατέειν αὐτός, ἐπὶ δὲ Ἴωνας ἄλλον πέμπειν στρατηγόν.
+
+[4] For he had Babylon on his hands and the Bactrian nation and the Sacae and Egyptians; he meant to lead the army against these himself, and to send another commander against the Ionians.
 ## c170
 #### 3
-αὕτη μὲν Βίαντος τοῦ Πριηνέος γνώμη ἐπὶ διεφθαρμένοισι Ἴωσι γενομένη, χρηστὴ δὲ καὶ πρὶν ἢ διαφθαρῆναι Ἰωνίην Θάλεω ἀνδρὸς Μιλησίου ἐγένετο, τὸ ἀνέκαθεν γένος ἐόντος Φοίνικος, ὃς ἐκέλευε ἓν βουλευτήριον Ἴωνας ἐκτῆσθαι, τὸ δὲ εἶναι ἐν Τέῳ （Τέων γὰρ μέσον εἶναι Ἰωνίης）, τὰς δὲ ἄλλας πόλιας οἰκεομένας μηδὲν ἧσσον νομίζεσθαι κατά περ ἐς δῆμοι εἶεν: οὗτοι μὲν δή σφι γνώμας τοιάσδε ἀπεδέξαντο.
+αὕτη μὲν Βίαντος τοῦ Πριηνέος γνώμη ἐπὶ διεφθαρμένοισι Ἴωσι γενομένη, χρηστὴ δὲ καὶ πρὶν ἢ διαφθαρῆναι Ἰωνίην Θάλεω ἀνδρὸς Μιλησίου ἐγένετο, τὸ ἀνέκαθεν γένος ἐόντος Φοίνικος, ὃς ἐκέλευε ἓν βουλευτήριον Ἴωνας ἐκτῆσθαι, τὸ δὲ εἶναι ἐν Τέῳ 
 
-This was the advice which Bias of Priene gave after the destruction of the Ionians; and that given before the destruction by Thales of Miletus, a Phoenician by descent, was good too; he advised that the Ionians have one place of deliberation, and that it be in Teos (for that was the center of Ionia), and that the other cities be considered no more than demes.
+This was the advice which Bias of Priene gave after the destruction of the Ionians; and that given before the destruction by Thales of Miletus, a Phoenician by descent, was good too; he advised that the Ionians have one place of deliberation, and that it be in Teos 
+
+(Τέων γὰρ μέσον εἶναι Ἰωνίης), 
+
+(for that was the center of Ionia), 
+
+τὰς δὲ ἄλλας πόλιας οἰκεομένας μηδὲν ἧσσον νομίζεσθαι κατά περ ἐς δῆμοι εἶεν: 
+
+and that the other cities be considered no more than demes.
+
+οὗτοι μὲν δή σφι γνώμας τοιάσδε ἀπεδέξαντο.
+
 Thus Bias and Thales advised.
 ## c173
 #### 1
@@ -110,6 +287,40 @@ Such are their ways. The Lycians were from Crete in ancient times (for in the pa
 [5] εἰρομένου δὲ ἑτέρου τὸν πλησίον τίς εἴη, καταλέξει ἑωυτὸν μητρόθεν καὶ τῆς μητρὸς ἀνανεμέεται τὰς μητέρας. καὶ ἢν μέν γε γυνὴ ἀστὴ δούλῳ συνοικήσῃ, γενναῖα τὰ τέκνα νενόμισται: ἢν δὲ ἀνὴρ ἀστὸς καὶ ὁ πρῶτος αὐτῶν γυναῖκα ξείνην ἢ παλλακὴν ἔχῃ, ἄτιμα τὰ τέκνα γίνεται.
 
 [5] and when one is asked by his neighbor who he is, he will say that he is the son of such a mother, and rehearse the mothers of his mother. Indeed, if a female citizen marries a slave, her children are considered pure-blooded; but if a male citizen, even the most prominent of them, takes an alien wife or concubine, the children are dishonored.
+## c179
+#### 4
+ἔστι δὲ ἄλλη πόλις ἀπέχουσα ὀκτὼ ἡμερέων ὁδὸν ἀπὸ Βαβυλῶνος: Ἲς οὔνομα αὐτῇ. ἔνθα ἐστὶ ποταμὸς οὐ μέγας: Ἲς καὶ τῷ ποταμῷ τὸ οὔνομα: ἐσβάλλει δὲ οὗτος ἐς τὸν Εὐφρήτην ποταμὸν τὸ ῥέεθρον. 
+
+There is another city, called Is,1 eight days' journey from Babylon, where there is a little river, also named Is, a tributary of the Euphrates river; 
+
+οὗτος ὦν ὁ Ἲς ποταμὸς ἅμα τῷ, ὕδατι θρόμβους ἀσφάλτου ἀναδιδοῖ πολλούς, ἔνθεν ἡ ἄσφαλτος ἐς τὸ ἐν Βαβυλῶνι τεῖχος ἐκομίσθη.
+
+from the source of this river Is, many lumps of bitumen rise with the water; and from there the bitumen was brought for the wall of Babylon.
+## c181
+#### 1
+τοῦτο μὲν δὴ τὸ τεῖχος θώρηξ ἐστί, ἕτερον δὲ ἔσωθεν τεῖχος περιθέει, οὐ πολλῷ τεῳ ἀσθενέστερον τοῦ ἑτέρου τείχεος, στεινότερον δέ. 
+
+These walls are the city's outer armor; within them there is another encircling wall, nearly as strong as the other, but narrower. 
+#### 2
+[2] ἐν δὲ φάρσεϊ ἑκατέρῳ τῆς πόλιος ἐτετείχιστο ἐν μέσῳ ἐν τῷ μὲν τὰ βασιλήια περιβόλῳ μεγάλῳ τε καὶ ἰσχυρῷ, ἐν δὲ τῷ ἑτέρῳ Διὸς Βήλου ἱρὸν χαλκόπυλον, καὶ ἐς ἐμὲ ἔτι τοῦτο ἐόν, δύο σταδίων πάντῃ, ἐὸν τετράγωνον. 
+
+[2] In the middle of one division of the city stands the royal palace, surrounded by a high and strong wall; and in the middle of the other is still to this day the sacred enclosure of Zeus Belus,1 a square of four hundred and forty yards each way, with gates of bronze. 
+#### 3
+[3] ἐν μέσῳ δὲ τοῦ ἱροῦ πύργος στερεὸς οἰκοδόμηται, σταδίου καὶ τὸ μῆκος καὶ τὸ εὖρος, καὶ ἐπὶ τούτῳ τῷ πύργῳ ἄλλος πύργος ἐπιβέβηκε, καὶ ἕτερος μάλα ἐπὶ τούτῳ, μέχρι οὗ ὀκτὼ πύργων. 
+
+[3] In the center of this sacred enclosure a solid tower has been built, two hundred and twenty yards long and broad; a second tower rises from this and from it yet another, until at last there are eight. 
+#### 4
+[4] ἀνάβασις δὲ ἐς αὐτοὺς ἔξωθεν κύκλῳ περὶ πάντας τοὺς πύργους ἔχουσα πεποίηται. μεσοῦντι δέ κου τῆς ἀναβάσιος ἐστὶ καταγωγή τε καὶ θῶκοι ἀμπαυστήριοι, ἐν τοῖσι κατίζοντες ἀμπαύονται οἱ ἀναβαίνοντες. 
+
+[4] The way up them mounts spirally outside the height of the towers; about halfway up is a resting place, with seats for repose, where those who ascend sit down and rest. 
+#### 5
+[5] ἐν δὲ τῷ τελευταίῳ πύργῳ νηὸς ἔπεστι μέγας: ἐν δὲ τῷ νηῷ κλίνη μεγάλη κέεται εὖ ἐστρωμένη, καὶ οἱ τράπεζα παρακέεται χρυσέη. 
+
+[5] In the last tower there is a great shrine; and in it stands a great and well-covered couch, and a golden table nearby. 
+
+ἄγαλμα δὲ οὐκ ἔνι οὐδὲν αὐτόθι ἐνιδρυμένον, οὐδὲ νύκτα οὐδεὶς ἐναυλίζεται ἀνθρώπων ὅτι μὴ γυνὴ μούνη τῶν ἐπιχωρίων, τὴν ἂν ὁ θεὸς ἕληται ἐκ πασέων, ὡς λέγουσι οἱ Χαλδαῖοι ἐόντες ἱρέες τούτου τοῦ θεοῦ.
+
+But no image has been set up in the shrine, nor does any human creature lie there for the night, except one native woman, chosen from all women by the god, as the Chaldaeans say, who are priests of this god.
 # b2
 ## c3
 κατὰ μὲν δὴ τὴν τροφὴν τῶν παίδων τοσαῦτα ἔλεγον, ἤκουσα δὲ καὶ ἄλλα ἐν Μέμφι ἐλθὼν ἐς λόγους τοῖσι ἱρεῦσι τοῦ Ἡφαίστου. καὶ δὴ καὶ ἐς Θήβας τε καὶ ἐς Ἡλίου πόλιν αὐτῶν τούτων εἵνεκεν ἐτραπόμην, ἐθέλων εἰδέναι εἰ συμβήσονται τοῖσι λόγοισι τοῖσι ἐν Μέμφι: οἱ γὰρ Ἡλιοπολῖται λέγονται Αἰγυπτίων εἶναι λογιώτατοι. 
@@ -369,6 +580,80 @@ The Egyptians were the first who maintained the following doctrine, too, that th
 τούτῳ τῷ λόγῳ εἰσὶ οἳ Ἑλλήνων ἐχρήσαντο, οἳ μὲν πρότερον οἳ δὲ ὕστερον, ὡς ἰδίῳ ἑωυτῶν ἐόντι: τῶν ἐγὼ εἰδὼς τὰ οὐνόματα οὐ γράφω.
 
 There are Greeks who have used this doctrine, some earlier and some later, as if it were their own; I know their names, but do not record them.
+## c134
+#### 1
+πυραμίδα δὲ οὗτος ἀπελίπετο πολλὸν ἐλάσσω τοῦ πατρός, εἴκοσι ποδῶν καταδέουσαν κῶλον ἕκαστον τριῶν πλέθρων, ἐούσης τετραγώνου, λίθου δὲ ἐς τὸ ἥμισυ Αἰθιοπικοῦ: 
+
+This king, too, left a pyramid, but far smaller than his father's, each side twenty feet short of three hundred feet long, square at the base, and as much as half its height of Ethiopian stone. 
+
+τὴν δὴ μετεξέτεροι φασὶ Ἑλλήνων Ῥοδώπιος ἑταίρης γυναικὸς εἶναι, οὐκ ὀρθῶς λέγοντες. 
+
+Some Greeks say that it was built by Rhodopis, the courtesan, but they are wrong; 
+#### 2
+[2] οὐδὲ ὦν οὐδὲ εἰδότες μοι φαίνονται λέγειν οὗτοι ἥτις ἦν ἡ Ῥοδῶπις: 
+
+[2] indeed, it is clear to me that they say this without even knowing who Rhodopis was 
+
+οὐ γὰρ ἄν οἱ πυραμίδα ἀνέθεσαν ποιήσασθαι τοιαύτην, ἐς τὴν ταλάντων χιλιάδες ἀναρίθμητοι ὡς λόγῳ εἰπεῖν ἀναισίμωνται: 
+
+(otherwise, they would never have credited her with the building of a pyramid on which what I may call an uncountable sum of money was spent), 
+
+πρὸς δὲ ὅτι κατὰ Ἄμασιν βασιλεύοντα ἦν ἀκμάζουσα Ῥοδῶπις, ἀλλ᾽ οὐ κατὰ τοῦτον. 
+
+or that Rhodopis flourished in the reign of Amasis, not of Mycerinus; 
+#### 3
+[3] ἔτεσι γὰρ κάρτα πολλοῖσι ὕστερον τούτων τῶν βασιλέων τῶν τὰς πυραμίδας ταύτας ἦν λιπομένων Ῥοδῶπις, γενεὴν μὲν ἀπὸ Θρηίκης, δούλη δὲ ἦν Ἰάδμονος τοῦ Ἡφαιστοπόλιος ἀνδρὸς Σαμίου, σύνδουλος δὲ Αἰσώπου τοῦ λογοποιοῦ. 
+
+[3] for very many years later than these kings who left the pyramids came Rhodopis, who was Thracian by birth, and a slave of Iadmon son of Hephaestopolis the Samian, and a fellow-slave of Aesop the story-writer. 
+
+καὶ γὰρ οὗτος Ἰάδμονος ἐγένετο, ὡς διέδεξε τῇδε οὐκ ἥκιστα: 
+
+For he was owned by Iadmon, too, as the following made crystal clear: 
+#### 4
+[4] ἐπείτε γὰρ πολλάκις κηρυσσόντων Δελφῶν ἐκ θεοπροπίου ὃς βούλοιτο ποινὴν τῆς Αἰσώπου ψυχῆς ἀνελέσθαι, ἄλλος μὲν οὐδεὶς ἐφάνη, Ἰάδμονος δὲ παιδὸς παῖς ἄλλος Ἰάδμων ἀνείλετο. 
+
+[4] when the Delphians, obeying an oracle, issued many proclamations summoning anyone who wanted it to accept compensation for the killing of Aesop, no one accepted it except the son of Iadmon's son, another Iadmon; 
+
+οὕτω καὶ Αἴσωπος Ἰάδμονος ἐγένετο.
+
+hence Aesop, too, was Iadmon's.
+## c135
+#### 1
+Ῥοδῶπις δὲ ἐς Αἴγυπτον ἀπίκετο Ἐάνθεω τοῦ Σαμίου κομίσαντος, ἀπικομένη δὲ κατ᾽ ἐργασίην ἐλύθη χρημάτων μεγάλων ὑπὸ ἀνδρὸς Μυτιληναίου Χαράξου τοῦ Σκαμανδρωνύμου παιδός, ἀδελφεοῦ δὲ Σαπφοῦς τῆς μουσοποιοῦ. 
+
+Rhodopis came to Egypt to work, brought by Xanthes of Samos, but upon her arrival was freed for a lot of money by Kharaxus of Mytilene, son of Scamandronymus and brother of Sappho the poetess. 
+##### 2
+[2] οὕτω δὴ ἡ Ῥοδῶπις ἐλευθερώθη, καὶ κατέμεινέ τε ἐν Αἰγύπτῳ καὶ κάρτα ἐπαφρόδιτος γενομένη μεγάλα ἐκτήσατο χρήματα ὡς ἂν εἶναι Ῥοδώπι, ἀτὰρ οὐκ ὥς γε ἐς πυραμίδα τοιαύτην ἐξικέσθαι. 
+
+[2] Thus Rhodopis lived as a free woman in Egypt, where, as she was very alluring, she acquired a lot of money—sufficient for such a Rhodopis, so to speak, but not for such a pyramid. 
+#### 3
+[3] τῆς γὰρ τὴν δεκάτην τῶν χρημάτων ἰδέσθαι ἐστὶ ἔτι καὶ ἐς τόδε παντὶ τῷ βουλομένῳ, οὐδὲν δεῖ μεγάλα οἱ χρήματα ἀναθεῖναι. 
+
+[3] Seeing that to this day anyone who likes can calculate what one tenth of her worth was, she cannot be credited with great wealth. 
+
+ἐπεθύμησε γὰρ Ῥοδῶπις μνημήιον ἑωυτῆς ἐν τῇ Ἑλλάδι καταλιπέσθαι, ποίημα ποιησαμένη τοῦτο τὸ μὴ τυγχάνοι ἄλλῳ ἐξευρημένον καὶ ἀνακείμενον ἐν ἱρῷ, τοῦτο ἀναθεῖναι ἐς Δελφοὺς μνημόσυνον ἑωυτῆς. 
+
+For Rhodopis desired to leave a memorial of herself in Greece, by having something made which no one else had thought of or dedicated in a temple and presenting this at Delphi to preserve her memory; 
+#### 4
+[4] τῆς ὦν δεκάτης τῶν χρημάτων ποιησαμένη ὀβελοὺς βουπόρους πολλοὺς σιδηρέους, ὅσον ἐνεχώρεε ἡ δεκάτη οἱ, ἀπέπεμπε ἐς Δελφούς: 
+
+[4] so she spent one tenth of her substance on the manufacture of a great number of iron beef spits, as many as the tenth would pay for, and sent them to Delphi; 
+
+οἳ καὶ νῦν ἔτι συννενέαται ὄπισθε μὲν τοῦ βωμοῦ τὸν Χῖοι ἀνέθεσαν, ἀντίον δὲ αὐτοῦ τοῦ νηοῦ. 
+
+these lie in a heap to this day, behind the altar set up by the Chians and in front of the shrine itself. 
+#### 5
+[5] φιλέουσι δέ κως ἐν τῇ Ναυκράτι ἐπαφρόδιτοι γίνεσθαι αἱ ἑταῖραι. τοῦτο μὲν γὰρ αὕτη, τῆς πέρι λέγεται ὅδε ὁ λόγος, οὕτω δή τι κλεινὴ ἐγένετο ὡς καὶ οἱ πάντες Ἕλληνες Ῥοδώπιος τὸ οὔνομα ἐξέμαθον: 
+
+[5] The courtesans of Naucratis seem to be peculiarly alluring, for the woman of whom this story is told became so famous that every Greek knew the name of Rhodopis, 
+
+τοῦτο δὲ ὕστερον ταύτης, τῇ οὔνομα ἦν Ἀρχιδίκη, ἀοίδιμος ἀνὰ τὴν Ἑλλάδα ἐγένετο, ἧσσον δὲ τῆς ἑτέρης περιλεσχήνευτος. 
+
+and later on a certain Archidice was the theme of song throughout Greece, although less celebrated than the other. 
+#### 6
+[6] Χάραξος δὲ ὡς λυσάμενος Ῥοδῶπιν ἀπενόστησε ἐς Μυτιλήνην, ἐν μέλεϊ Σαπφὼ πολλὰ κατεκερτόμησέ μιν.
+
+[6] Kharaxus, after giving Rhodopis her freedom, returned to Mytilene. He is bitterly attacked by Sappho in one of her poems. This is enough about Rhodopis.
 ## c137
 τοῦτον μὲν τοσαῦτα ἀποδέξασθαι. μετὰ δὲ τοῦτον βασιλεῦσαι ἄνδρα τυφλὸν ἐξ Ἀνύσιος πόλιος, τῷ οὔνομα Ἄνυσιν εἶναι. ἐπὶ τούτου βασιλεύοντος ἐλάσαι ἐπ᾽ Αἴγυπτον χειρὶ πολλῇ Αἰθίοπάς τε καὶ Σαβακῶν τὸν Αἰθιόπων βασιλέα. 
 
@@ -578,23 +863,51 @@ Moreover, Amasis dedicated offerings in Hellas. He gave to Cyrene a gilt image o
 # b3
 ## c1
 #### 1
-ἐπὶ τοῦτον δὴ τὸν Ἄμασιν Καμβύσης ὁ Κύρου ἐστρατεύετο, ἄγων καί ἄλλους τῶν ἦρχε καὶ Ἑλλήνων Ἴωνάς τε καὶ Αἰολέας, δι᾽ αἰτίην τοιήνδε. πέμψας Καμβύσης ἐς Αἴγυπτον κήρυκα αἴτεε Ἄμασιν θυγατέρα, αἴτεε δὲ ἐκ βουλῆς ἀνδρὸς Αἰγυπτίου, ὃς μεμφόμενος Ἄμασιν ἔπρηξε ταῦτα ὅτι μιν ἐξ ἁπάντων τῶν ἐν Αἰγύπτῳ ἰητρῶν ἀποσπάσας ἀπὸ γυναικός τε καὶ τέκνων ἔκδοτον ἐποίησε ἐς Πέρσας, ὅτε Κῦρος πέμψας παρὰ Ἄμασιν αἴτεε ἰητρὸν ὀφθαλμῶν ὃς εἴη ἄριστος τῶν ἐν Αἰγύπτῳ. 
+ἐπὶ τοῦτον δὴ τὸν Ἄμασιν Καμβύσης ὁ Κύρου ἐστρατεύετο, ἄγων καί ἄλλους τῶν ἦρχε καὶ Ἑλλήνων Ἴωνάς τε καὶ Αἰολέας, δι᾽ αἰτίην τοιήνδε. 
 
-Cyrus' son Cambyses was leading an army of his subjects, Ionian and Aeolian Greeks among them,1 against this Amasis for the following reason. Cambyses had sent a herald to Egypt asking Amasis for his daughter; he asked on the advice of an Egyptian, who advised it out of resentment against Amasis, that out of all the Egyptian physicians Amasis had dragged him away from his wife and children and sent him up to Persia when Cyrus sent to Amasis asking for the best eye-doctor in Egypt. 
+Cyrus' son Cambyses was leading an army of his subjects, Ionian and Aeolian Greeks among them,1 against this Amasis for the following reason. 
+
+πέμψας Καμβύσης ἐς Αἴγυπτον κήρυκα αἴτεε Ἄμασιν θυγατέρα, αἴτεε δὲ ἐκ βουλῆς ἀνδρὸς Αἰγυπτίου, ὃς μεμφόμενος Ἄμασιν ἔπρηξε ταῦτα ὅτι μιν ἐξ ἁπάντων τῶν ἐν Αἰγύπτῳ ἰητρῶν ἀποσπάσας ἀπὸ γυναικός τε καὶ τέκνων ἔκδοτον ἐποίησε ἐς Πέρσας, ὅτε Κῦρος πέμψας παρὰ Ἄμασιν αἴτεε ἰητρὸν ὀφθαλμῶν ὃς εἴη ἄριστος τῶν ἐν Αἰγύπτῳ. 
+
+Cambyses had sent a herald to Egypt asking Amasis for his daughter; he asked on the advice of an Egyptian, who advised it out of resentment against Amasis, that out of all the Egyptian physicians Amasis had dragged him away from his wife and children and sent him up to Persia when Cyrus sent to Amasis asking for the best eye-doctor in Egypt. 
 
 1 The received date is 525 B.C.
 ##### 2
-ταῦτα δὴ ἐπιμεμφόμενος ὁ Αἰγύπτιος ἐνῆγε τῇ συμβουλῇ κελεύων αἰτέειν τὸν Καμβύσεα Ἄμασιν θυγατέρα, ἵνα ἢ δοὺς ἀνιῷτο ἢ μὴ δοὺς Καμβύσῃ ἀπέχθοιτο. ὁ δὲ Ἄμασις τῇ δυνάμι τῶν Περσέων ἀχθόμενος καὶ ἀρρωδέων οὐκ εἶχε οὔτε δοῦναι οὔτε ἀρνήσασθαι: εὖ γὰρ ἠπίστατο ὅτι οὐκ ὡς γυναῖκά μιν ἔμελλε Καμβύσης ἕξειν ἀλλ᾽ ὡς παλλακήν. 
+ταῦτα δὴ ἐπιμεμφόμενος ὁ Αἰγύπτιος ἐνῆγε τῇ συμβουλῇ κελεύων αἰτέειν τὸν Καμβύσεα Ἄμασιν θυγατέρα, ἵνα ἢ δοὺς ἀνιῷτο ἢ μὴ δοὺς Καμβύσῃ ἀπέχθοιτο. 
 
-[2] Out of resentment, the Egyptian by his advice induced Cambyses to ask Amasis for his daughter, so that Amasis would either be wretched if he gave her, or hated by Cambyses if he did not. Amasis, intimidated by the power of Persia and frightened, could neither give his daughter nor refuse her; for he knew well that Cambyses was not going to take her as his wife but as his concubine. 
+[2] Out of resentment, the Egyptian by his advice induced Cambyses to ask Amasis for his daughter, so that Amasis would either be wretched if he gave her, or hated by Cambyses if he did not. 
+
+ὁ δὲ Ἄμασις τῇ δυνάμι τῶν Περσέων ἀχθόμενος καὶ ἀρρωδέων οὐκ εἶχε οὔτε δοῦναι οὔτε ἀρνήσασθαι: 
+
+Amasis, intimidated by the power of Persia and frightened, could neither give his daughter nor refuse her; 
+
+εὖ γὰρ ἠπίστατο ὅτι οὐκ ὡς γυναῖκά μιν ἔμελλε Καμβύσης ἕξειν ἀλλ᾽ ὡς παλλακήν. 
+
+for he knew well that Cambyses was not going to take her as his wife but as his concubine. 
 ##### 3
-ταῦτα δὴ ἐκλογιζόμενος ἐποίησε τάδε. ἦν Ἀπρίεω τοῦ προτέρου βασιλέος θυγάτηρ κάρτα μεγάλη τε καὶ εὐειδὴς μούνη τοῦ οἴκου λελειμμένη, οὔνομα δέ οἱ ἦν Νίτητις: ταύτην δὴ τὴν παῖδα ὁ Ἄμασις κοσμήσας ἐσθῆτί τε καὶ χρυσῷ ἀποπέμπει ἐς Πέρσας ὡς ἑωυτοῦ θυγατέρα. 
+ταῦτα δὴ ἐκλογιζόμενος ἐποίησε τάδε. 
 
-[3] After considering the matter, he did as follows. There was a daughter of the former king Apries, all that was left of that family, quite tall and pretty, and her name was Nitetis; this girl Amasis adorned with clothes and gold and sent to Cambyses as his own daughter. 
+[3] After considering the matter, he did as follows. 
+
+ἦν Ἀπρίεω τοῦ προτέρου βασιλέος θυγάτηρ κάρτα μεγάλη τε καὶ εὐειδὴς μούνη τοῦ οἴκου λελειμμένη, οὔνομα δέ οἱ ἦν Νίτητις: 
+
+There was a daughter of the former king Apries, all that was left of that family, quite tall and pretty, and her name was Nitetis; 
+
+ταύτην δὴ τὴν παῖδα ὁ Ἄμασις κοσμήσας ἐσθῆτί τε καὶ χρυσῷ ἀποπέμπει ἐς Πέρσας ὡς ἑωυτοῦ θυγατέρα. 
+
+this girl Amasis adorned with clothes and gold and sent to Cambyses as his own daughter. 
 ##### 4
-μετὰ δὲ χρόνον ὥς μιν ἠσπάζετο πατρόθεν ὀνομάζων, λέγει πρὸς αὐτὸν ἡ παῖς ‘ὦ βασιλεῦ, διαβεβλημένος ὑπὸ Ἀμάσιος οὐ μανθάνεις. ὃς ἐμὲ σοὶ κόσμῳ ἀσκήσας ἀπέπεμψε ὡς ἑωυτοῦ θυγατέρα διδούς, ἐοῦσαν τῇ ἀληθείῃ Ἀπρίεω, τὸν ἐκεῖνος ἐόντα ἑωυτοῦ δεσπότεα μετ᾽ Αἰγυπτίων ἐπαναστὰς ἐφόνευσε.’ 
+μετὰ δὲ χρόνον ὥς μιν ἠσπάζετο πατρόθεν ὀνομάζων, λέγει πρὸς αὐτὸν ἡ παῖς 
 
-[4] But after a time, as he embraced her addressing her as the daughter of Amasis, the girl said to him, “O King, you do not understand how you have been made a fool of by Amasis, who dressed me in finery and sent me to you as his own daughter, when I am in fact the daughter of Apries, the ruler Amasis revolted from with the Egyptians and killed.” 
+[4] But after a time, as he embraced her addressing her as the daughter of Amasis, the girl said to him, 
+
+‘ὦ βασιλεῦ, διαβεβλημένος ὑπὸ Ἀμάσιος οὐ μανθάνεις. 
+
+“O King, you do not understand how you have been made a fool of by Amasis, 
+
+ὃς ἐμὲ σοὶ κόσμῳ ἀσκήσας ἀπέπεμψε ὡς ἑωυτοῦ θυγατέρα διδούς, ἐοῦσαν τῇ ἀληθείῃ Ἀπρίεω, τὸν ἐκεῖνος ἐόντα ἑωυτοῦ δεσπότεα μετ᾽ Αἰγυπτίων ἐπαναστὰς ἐφόνευσε.’ 
+
+who dressed me in finery and sent me to you as his own daughter, when I am in fact the daughter of Apries, the ruler Amasis revolted from with the Egyptians and killed.” 
 ##### 5
 τοῦτο δὴ τὸ ἔπος καὶ αὕτη ἡ αἰτίη ἐγγενομένη ἤγαγε Καμβύσεα τὸν Κύρου μεγάλως θυμωθέντα ἐπ᾽ Αἴγυπτον.
 
@@ -634,7 +947,118 @@ There are no men who respect pledges more than the Arabians. This is how they gi
 [3] Διόνυσον δὲ θεῶν μοῦνον καὶ τὴν Οὐρανίην ἡγέονται εἶναι, καὶ τῶν τριχῶν τὴν κουρὴν κείρεσθαι φασὶ κατά περ αὐτὸν τὸν Διόνυσον κεκάρθαι: κείρονται δὲ περιτρόχαλα, ὑποξυρῶντες τοὺς κροτάφους. ὀνομάζουσι δὲ τὸν μὲν Διόνυσον Ὀροτάλτ, τὴν δὲ Οὐρανίην Ἀλιλάτ.
 
 [3] They believe in no other gods except Dionysus and the Heavenly Aphrodite; and they say that they wear their hair as Dionysus does his, cutting it round the head and shaving the temples. They call Dionysus, Orotalt; and Aphrodite, Alilat.1
-## 80
+## c39
+#### 1
+Καμβύσεω δὲ ἐπ᾽ Αἴγυπτον στρατευομένου ἐποιήσαντο καὶ Λακεδαιμόνιοι στρατηίην ἐπὶ Σάμον τε καὶ Πολυκράτεα τὸν Αἰάκεος: ὃς ἔσχε Σάμον ἐπαναστάς, 
+
+While Cambyses was attacking Egypt, the Lacedaemonians too were making war upon Samos and upon Aeaces' son Polycrates, who had revolted and won Samos.1 
+#### 2
+[2] καὶ τὰ μὲν πρῶτα τριχῇ δασάμενος τὴν πόλιν ... 1τοῖσι ἀδελφεοῖσι Πανταγνώτῳ καὶ Συλοσῶντι ἔνειμε, μετὰ δὲ τὸν μὲν αὐτῶν ἀποκτείνας τὸν δὲ νεώτερον Συλοσῶντα ἐξελάσας ἔσχε πᾶσαν Σάμον, σχὼν δὲ ξεινίην Ἀμάσι τῷ Αἰγύπτου βασιλέι συνεθήκατο, πέμπων τε δῶρα καὶ δεκόμενος ἄλλα παρ᾽ ἐκείνου. 
+
+[2] And first, dividing the city into three parts, he gave a share in the government to his brothers Pantagnotus and Syloson; but presently he put one of them to death, banished the younger, Syloson, and so made himself lord of all Samos; then he made a treaty with Amasis king of Egypt, sending to him and receiving from him gifts. 
+#### 3
+[3] ἐν χρόνῳ δὲ ὀλίγῳ αὐτίκα τοῦ Πολυκράτεος τὰ πρήγματα ηὔξετο καὶ ἦν βεβωμένα ἀνά τε τὴν Ἰωνίην καὶ τὴν ἄλλην Ἑλλάδα: 
+
+[2] Very soon after this, Polycrates grew to such power that he was famous in Ionia and all other Greek lands; 
+
+ὅκου γὰρ ἰθύσειε στρατεύεσθαι, πάντα οἱ ἐχώρεε εὐτυχέως. 
+
+for all his military affairs succeeded. 
+
+ἔκτητο δὲ πεντηκοντέρους τε ἑκατὸν καὶ χιλίους τοξότας, ἔφερε δὲ καὶ ἦγε πάντας διακρίνων οὐδένα: 
+
+He had a hundred fifty-oared ships, and a thousand archers. [4] And he pillaged every place, indiscriminately; 
+#### 4
+[4] τῷ γὰρ φίλῳ ἔφη χαριεῖσθαι μᾶλλον ἀποδιδοὺς τὰ ἔλαβε ἢ ἀρχὴν μηδὲ λαβών. 
+
+for he said that he would get more thanks if he gave a friend back what he had taken than if he never took it at all. 
+
+συχνὰς μὲν δὴ τῶν νήσων ἀραιρήκεε, πολλὰ δὲ καὶ τῆς ἠπείρου ἄστεα: 
+
+He had taken many of the islands, and many of the mainland cities. 
+
+ἐν δὲ δὴ καὶ Λεσβίους πανστρατιῇ βοηθέοντας Μιλησίοισι ναυμαχίῃ κρατήσας εἷλε, οἳ τὴν τάφρον περὶ τὸ τεῖχος τὸ ἐν Σάμῳ πᾶσαν δεδεμένοι ὤρυξαν.
+
+Among others, he conquered the Lesbians; they had brought all their force to aid the Milesians, and Polycrates defeated them in a sea-fight; it was they who, being his captives, dug all the trench around the acropolis of Samos.
+## c68
+#### 1
+προεῖπε μὲν δὴ ταῦτα αὐτίκα ἐνιστάμενος ἐς τὴν ἀρχήν, ὀγδόῳ δὲ μηνὶ ἐγένετο κατάδηλος τρόπῳ τοιῷδε. 
+
+Such was his proclamation at the beginning of his reign; but in the eighth month he was exposed in the following manner. 
+
+Ὀτάνης ἦν Φαρνάσπεω μὲν παῖς, γένεϊ δὲ καὶ χρήμασι ὅμοιος τῷ πρώτῳ Περσέων. 
+
+There was one Otanes, son of Pharnaspes, as well-born and rich a man as any Persian. 
+
+[2] οὗτος ὁ Ὀτάνης πρῶτος ὑπώπτευσε τὸν Μάγον ὡς οὐκ εἴη ὁ Κύρου Σμέρδις ἀλλ᾽ ὅς περ ἦν, τῇδε συμβαλόμενος, ὅτι τε οὐκ ἐξεφοίτα ἐκ τῆς ἀκροπόλιος καὶ ὅτι οὐκ ἐκάλεε ἐς ὄψιν ἑωυτῷ οὐδένα τῶν λογίμων Περσέων: 
+
+[2] This Otanes was the first to guess that the Magus was not Cyrus' son Smerdis and who, in fact, he was; the reason was, that he never left the acropolis nor summoned any notable Persian into his presence. And having formed this suspicion Otanes did as follows: 
+#### 3
+[3] ὑποπτεύσας δέ μιν ἐποίεε τάδε. ἔσχε αὐτοῦ Καμβύσης θυγατέρα, τῇ οὔνομα ἦν Φαιδύμη: 
+
+[3] Cambyses had taken his daughter, whose name was Phaedyme; 
+
+τὴν αὐτὴν δὴ ταύτην εἶχε τότε ὁ Μάγος καὶ ταύτῃ τε συνοίκεε καὶ τῇσι ἄλλῃσι πάσῃσι τῇσι τοῦ Καμβύσεω γυναιξί. 
+
+this same girl the Magus had now and he lived with her and with all Cambyses' other wives. 
+
+πέμπων δὴ ὦν ὁ Ὀτάνης παρὰ ταύτην τὴν θυγατέρα ἐπυνθάνετο παρ᾽ ὅτεῳ ἀνθρώπων κοιμῷτο, εἴτε μετὰ Σμέρδιος τοῦ Κύρου εἴτε μετὰ ἄλλου τευ. 
+
+Otanes sent to this daughter, asking at what man's side she lay, with Smerdis, Cyrus' son, or with some other? 
+#### 4
+[4] ἣ δέ οἱ ἀντέπεμπε φαμένη οὐ γινώσκειν: οὔτε γὰρ τὸν Κύρου Σμέρδιν ἰδέσθαι οὐδαμὰ οὔτε ὅστις εἴη ὁ συνοικέων αὐτῇ εἰδέναι. 
+
+[4] She sent back a message that she did not know; for (she said) she had never seen Cyrus' son Smerdis, nor did she know who her bedfellow was. 
+
+ἔπεμπε δεύτερα ὁ Ὀτάνης λέγων 
+
+Then Otanes sent a second message, to this effect: 
+
+‘εἰ μὴ αὐτὴ Σμέρδιν τὸν Κύρου γινώσκεις, σὺ δὲ παρὰ Ἀτόσσης πύθευ ὅτεῳ τούτῳ συνοικέει αὐτή τε ἐκείνη καὶ σύ: 
+
+“If you do not know Cyrus' son Smerdis yourself, then find out from Atossa who it is that she and you are living with; 
+
+πάντως γὰρ δή κου τόν γε ἑωυτῆς ἀδελφεὸν γινώσκει.’ 
+
+for surely she knows her own brother.” 
+#### 5
+ἀντιπέμπει πρὸς ταῦτα ἡ θυγάτηρ 
+
+[5] To this his daughter replied: 
+
+[5] ‘οὔτε Ἀτόσσῃ δύναμαι ἐς λόγους ἐλθεῖν οὔτε ἄλλην οὐδεμίαν ἰδέσθαι τῶν συγκατημενέων γυναικῶν. 
+
+“I cannot communicate with Atossa, nor can I see any other of the women of the household; 
+
+ἐπείτε γὰρ τάχιστα οὗτος ὥνθρωπος, ὅστις κοτὲ ἐστί, παρέλαβε τὴν βασιληίην, διέσπειρε ἡμέας ἄλλην ἄλλῃ τάξας.’
+
+for no sooner had this man, whoever he is, made himself king, than he sent us to live apart, each in her own appointed place.”
+## c70
+#### 1
+ὁ δὲ Ὀτάνης παραλαβὼν Ἀσπαθίνην καὶ Γοβρύην, Περσέων τε πρώτους ἐόντας καὶ ἑωυτῷ ἐπιτηδεοτάτους ἐς πίστιν, ἀπηγήσατο πᾶν τὸ πρῆγμα: 
+
+Otanes then took aside two Persians of the highest rank whom he thought worthiest of trust, Aspathines and Gobryas, and told them the whole story. 
+
+οἳ δὲ καὶ αὐτοὶ ἄρα ὑπώπτευον οὕτω τοῦτο ἔχειν, ἀνενείκαντος δὲ τοῦ Ὀτάνεω τοὺς λόγους ἐδέξαντο, 
+
+These, it would seem, had themselves suspected that it was so; and now they readily believed what Otanes revealed to them. 
+#### 2
+[2] καὶ ἔδοξέ σφι ἕκαστον ἄνδρα Περσέων προσεταιρίσασθαι τοῦτον ὅτεῳ πιστεύει μάλιστα. 
+
+[2] They resolved that each should take into his confidence that Persian whom he most trusted; 
+
+Ὀτάνης μέν νυν ἐσάγεται Ἰνταφρένεα, Γοβρύης δὲ Μεγάβυζον, Ἀσπαθίνης δὲ Ὑδάρνεα. 
+
+Otanes brought in Intaphrenes, Gobryas brought Megabyzus, and Aspathines Hydarnes.1 
+#### 3
+[3] γεγονότων δὲ τούτων ἓξ παραγίνεται ἐς τὰ Σοῦσα Δαρεῖος ὁ Ὑστάσπεος ἐκ Περσέων ἥκων: τούτων γὰρ δὴ ἦν οἱ ὁ πατὴρ ὕπαρχος. 
+
+[3] When they were six, Darius, whose father, Hystaspes, was a subordinate governor of the Persians, arrived at Susa. 
+
+ἐπεὶ ὦν οὗτος ἀπίκετο, τοῖσι ἓξ τῶν Περσέων ἔδοξε καὶ Δαρεῖον προσεταιρίσασθαι.
+
+When he came, then, the six Persians resolved to include Darius too.
+## c80
 #### 2
 
 [2] Ὀτάνης μὲν ἐκέλευε ἐς μέσον Πέρσῃσι καταθεῖναι τὰ πρήγματα, λέγων τάδε. ‘ἐμοὶ δοκέει ἕνα μὲν ἡμέων μούναρχον μηκέτι γενέσθαι. οὔτε γὰρ ἡδὺ οὔτε ἀγαθόν. εἴδετε μὲν γὰρ τὴν Καμβύσεω ὕβριν ἐπ᾽ ὅσον ἐπεξῆλθε, μετεσχήκατε δὲ καὶ τῆς τοῦ Μάγου ὕβριος.
@@ -685,18 +1109,42 @@ All this abundance of gold, from which the Indians send the aforementioned gold-
 
 1 Not the bamboo, apparently, but the “kana,” which sometimes grows to a height of 50 feet.
 ## c99
-ἄλλοι δὲ τῶν Ἰνδῶν πρὸς ἠῶ οἰκέοντες τούτων νομάδες εἰσὶ κρεῶν ἐδεσταὶ ὠμῶν, καλέονται δὲ Παδαῖοι, νομαίοισι δὲ τοιοῖσιδε λέγονται χρᾶσθαι: ὃς ἂν κάμῃ τῶν ἀστῶν, ἤν τε γυνὴ ἤν τε ἀνήρ, τὸν μὲν ἄνδρα ἄνδρες οἱ μάλιστά οἱ ὁμιλέοντες κτείνουσι, φάμενοι αὐτὸν τηκόμενον τῇ νούσῳ τὰ κρέα σφίσι διαφθείρεσθαι: ὁ δὲ ἄπαρνος ἐστὶ μὴ μὲν νοσέειν, οἱ δὲ οὐ συγγινωσκόμενοι ἀποκτείναντες κατευωχέονται. 
+ἄλλοι δὲ τῶν Ἰνδῶν πρὸς ἠῶ οἰκέοντες τούτων νομάδες εἰσὶ κρεῶν ἐδεσταὶ ὠμῶν, καλέονται δὲ Παδαῖοι, νομαίοισι δὲ τοιοῖσιδε λέγονται χρᾶσθαι: ὃς ἂν κάμῃ τῶν ἀστῶν, ἤν τε γυνὴ ἤν τε ἀνήρ, τὸν μὲν ἄνδρα ἄνδρες οἱ μάλιστά οἱ ὁμιλέοντες κτείνουσι, φάμενοι αὐτὸν τηκόμενον τῇ νούσῳ τὰ κρέα σφίσι διαφθείρεσθαι: 
 
-Other Indians, to the east of these, are nomads and eat raw flesh; they are called Padaei. It is said to be their custom that when anyone of their fellows, whether man or woman, is sick, a man's closest friends kill him, saying that if wasted by disease he will be lost to them as meat; though he denies that he is sick, they will not believe him, but kill and eat him. 
+Other Indians, to the east of these, are nomads and eat raw flesh; they are called Padaei. It is said to be their custom that when anyone of their fellows, whether man or woman, is sick, a man's closest friends kill him, saying that if wasted by disease he will be lost to them as meat; 
 
-[2] ἣ δὲ ἂν γυνὴ κάμῃ, ὡσαύτως αἱ ἐπιχρεώμεναι μάλιστα γυναῖκες ταὐτὰ τοῖσι ἀνδράσι ποιεῦσι. τὸν γὰρ δὴ ἐς γῆρας ἀπικόμενον θύσαντες κατευωχέονται: ἐς δὲ τούτου λόγον οὐ πολλοί τινες αὐτῶν ἀπικνέονται: πρὸ γὰρ τοῦ τὸν ἐς νοῦσον πίπτοντα πάντα κτείνουσι.
+ὁ δὲ ἄπαρνος ἐστὶ μὴ μὲν νοσέειν, οἱ δὲ οὐ συγγινωσκόμενοι ἀποκτείναντες κατευωχέονται. 
 
-[2] When a woman is sick, she is put to death like the men by the women who are her close acquaintances. As for one that has come to old age, they sacrifice him and feast on his flesh; but not many reach this reckoning, for before that everyone who falls ill they kill.
+though he denies that he is sick, they will not believe him, but kill and eat him. 
+
+[2] ἣ δὲ ἂν γυνὴ κάμῃ, ὡσαύτως αἱ ἐπιχρεώμεναι μάλιστα γυναῖκες ταὐτὰ τοῖσι ἀνδράσι ποιεῦσι. 
+
+[2] When a woman is sick, she is put to death like the men by the women who are her close acquaintances. 
+
+τὸν γὰρ δὴ ἐς γῆρας ἀπικόμενον θύσαντες κατευωχέονται: 
+
+As for one that has come to old age, they sacrifice him and feast on his flesh; 
+
+ἐς δὲ τούτου λόγον οὐ πολλοί τινες αὐτῶν ἀπικνέονται: 
+
+but not many reach this reckoning, 
+
+πρὸ γὰρ τοῦ τὸν ἐς νοῦσον πίπτοντα πάντα κτείνουσι.
+
+for before that everyone who falls ill they kill.
 ## c100
-ἑτέρων δὲ ἐστὶ Ἰνδῶν ὅδε ἄλλος τρόπος: οὔτε κτείνουσι οὐδὲν ἔμψυχον οὔτε τι σπείρουσι οὔτε οἰκίας νομίζουσι ἐκτῆσθαι ποιηφαγέουσί τε: καὶ αὐτοῖσι ἐστὶ ὅσον κέγχρος τὸ μέγαθος ἐν κάλυκι, αὐτόματον ἐκ τῆς γῆς γινόμενον, τὸ συλλέγοντες αὐτῇ τῇ κάλυκι ἕψουσί τε καὶ σιτέονται. ὃς δ᾽ ἂν ἐς νοῦσον αὐτῶν πέσῃ, ἐλθὼν ἐς τὴν ἔρημον κεῖται: φροντίζει δὲ οὐδεὶς οὔτε ἀποθανόντος οὔτε κάμνοντος.
+ἑτέρων δὲ ἐστὶ Ἰνδῶν ὅδε ἄλλος τρόπος: οὔτε κτείνουσι οὐδὲν ἔμψυχον οὔτε τι σπείρουσι οὔτε οἰκίας νομίζουσι ἐκτῆσθαι ποιηφαγέουσί τε: 
 
-There are other Indians, again, who kill no living creature, nor plant anything, nor are accustomed to have houses; they eat grass, and they have a grain growing naturally from the earth in its husk, about the size of a millet-seed, which they gather with the husk and boil and eat. When any one of them falls sick, he goes into the desert and lies there, and no one notices whether he is sick or dies.
-## c100
+There are other Indians, again, who kill no living creature, nor plant anything, nor are accustomed to have houses; they eat grass, 
+
+καὶ αὐτοῖσι ἐστὶ ὅσον κέγχρος τὸ μέγαθος ἐν κάλυκι, αὐτόματον ἐκ τῆς γῆς γινόμενον, τὸ συλλέγοντες αὐτῇ τῇ κάλυκι ἕψουσί τε καὶ σιτέονται. 
+
+and they have a grain growing naturally from the earth in its husk, about the size of a millet-seed, which they gather with the husk and boil and eat. 
+
+ὃς δ᾽ ἂν ἐς νοῦσον αὐτῶν πέσῃ, ἐλθὼν ἐς τὴν ἔρημον κεῖται: φροντίζει δὲ οὐδεὶς οὔτε ἀποθανόντος οὔτε κάμνοντος.
+
+When any one of them falls sick, he goes into the desert and lies there, and no one notices whether he is sick or dies.
+## c101
 #### 1
 μίξις δὲ τούτων τῶν Ἰνδῶν τῶν κατέλεξα πάντων ἐμφανής ἐστι κατά περ τῶν προβάτων, καὶ τὸ χρῶμα φορέουσι ὅμοιον πάντες καὶ παραπλήσιον Αἰθίοψι. 
 
@@ -775,66 +1223,215 @@ But Polycrates would listen to no advice. He sailed to meet Oroetes, with a grea
 
 [2] But no sooner had Polycrates come to Magnesia than he was horribly murdered in a way unworthy of him and of his aims; for, except for the sovereigns of Syracuse, no sovereign of Greek race is fit to be compared with Polycrates for magnificence. 
 #### 3
-[3] ἀποκτείνας δέ μιν οὐκ ἀξίως ἀπηγήσιος Ὀροίτης ἀνεσταύρωσε: τῶν δέ οἱ ἑπομένων ὅσοι μὲν ἦσαν Σάμιοι, ἀπῆκε, κελεύων σφέας ἑωυτῷ χάριν εἰδέναι ἐόντας ἐλευθέρους, ὅσοι δὲ ἦσαν ξεῖνοί τε καὶ δοῦλοι τῶν ἑπομένων, ἐν ἀνδραπόδων λόγῳ ποιεύμενος εἶχε. 
+[3] ἀποκτείνας δέ μιν οὐκ ἀξίως ἀπηγήσιος Ὀροίτης ἀνεσταύρωσε: 
 
-[3] Having killed him in some way not fit to be told, Oroetes then crucified him; as for those who had accompanied him, he let the Samians go, telling them to thank him that they were free; those who were not Samians, or were servants of Polycrates' followers, he kept for slaves. 
+[3] Having killed him in some way not fit to be told, Oroetes then crucified him; 
+
+τῶν δέ οἱ ἑπομένων ὅσοι μὲν ἦσαν Σάμιοι, ἀπῆκε, κελεύων σφέας ἑωυτῷ χάριν εἰδέναι ἐόντας ἐλευθέρους, ὅσοι δὲ ἦσαν ξεῖνοί τε καὶ δοῦλοι τῶν ἑπομένων, ἐν ἀνδραπόδων λόγῳ ποιεύμενος εἶχε. 
+
+as for those who had accompanied him, he let the Samians go, telling them to thank him that they were free; those who were not Samians, or were servants of Polycrates' followers, he kept for slaves. 
 #### 4
-[4] Πολυκράτης δὲ ἀνακρεμάμενος ἐπετέλεε πᾶσαν τὴν ὄψιν τῆς θυγατρός: ἐλοῦτο μὲν γὰρ ὑπὸ τοῦ Διὸς ὅκως ὕοι, ἐχρίετο δὲ ὑπὸ τοῦ ἡλίου, ἀνιεὶς αὐτὸς ἐκ τοῦ σώματος ἰκμάδα.
+[4] Πολυκράτης δὲ ἀνακρεμάμενος ἐπετέλεε πᾶσαν τὴν ὄψιν τῆς θυγατρός: 
 
-[4] And Polycrates hanging in the air fulfilled his daughter's vision in every detail; for he was washed by Zeus when it rained, and he was anointed by Helios as he exuded sweat from his body.
+[4] And Polycrates hanging in the air fulfilled his daughter's vision in every detail; 
+
+ἐλοῦτο μὲν γὰρ ὑπὸ τοῦ Διὸς ὅκως ὕοι, ἐχρίετο δὲ ὑπὸ τοῦ ἡλίου, ἀνιεὶς αὐτὸς ἐκ τοῦ σώματος ἰκμάδα.
+
+for he was washed by Zeus when it rained, and he was anointed by Helios as he exuded sweat from his body.
 ## c129
 #### 1
-ἀπικομένων δὲ καὶ ἀνακομισθέντων τῶν Ὀροίτεω χρημάτων ἐς τὰ Σοῦσα, συνήνεικε χρόνῳ οὐ πολλῷ ὕστερον βασιλέα Δαρεῖον ἐν ἄγρῃ θηρῶν ἀποθρώσκοντα ἀπ᾽ ἵππου στραφῆναι τὸν πόδα. 
+ἀπικομένων δὲ καὶ ἀνακομισθέντων τῶν Ὀροίτεω χρημάτων ἐς τὰ Σοῦσα, συνήνεικε χρόνῳ οὐ πολλῷ ὕστερον βασιλέα Δαρεῖον ἐν ἄγρῃ θηρῶν ἀποθρώσκοντα ἀπ᾽ ἵππου στραφῆναι τὸν πόδα. [2] καί κως ἰσχυροτέρως ἐστράφη: ὁ γάρ οἱ ἀστράγαλος ἐξεχώρησε ἐκ τῶν ἄρθρων. 
 
 Oroetes' slaves and other possessions were brought to Susa. Not long after this, it happened that Darius twisted his foot in dismounting from his horse while hunting [2] so violently that the ball of the ankle joint was dislocated from its socket. 
 #### 2
-[2] καί κως ἰσχυροτέρως ἐστράφη: ὁ γάρ οἱ ἀστράγαλος ἐξεχώρησε ἐκ τῶν ἄρθρων. νομίζων δὲ καὶ πρότερον περὶ ἑωυτὸν ἔχειν Αἰγυπτίων τοὺς δοκέοντας εἶναι πρώτους τὴν ἰητρικήν, τούτοισι ἐχρᾶτο. οἳ δὲ στρεβλοῦντες καὶ βιώμενοι τὸν πόδα κακὸν μέζον ἐργάζοντο. 
+νομίζων δὲ καὶ πρότερον περὶ ἑωυτὸν ἔχειν Αἰγυπτίων τοὺς δοκέοντας εἶναι πρώτους τὴν ἰητρικήν, τούτοισι ἐχρᾶτο. 
 
-Darius called in the best physicians of Egypt, whom he had until now kept near his person. But by violently twisting the foot they made the injury worse; 
+Darius called in the best physicians of Egypt, whom he had until now kept near his person. 
+
+οἳ δὲ στρεβλοῦντες καὶ βιώμενοι τὸν πόδα κακὸν μέζον ἐργάζοντο. 
+
+But by violently twisting the foot they made the injury worse; 
 #### 3
-[3] ἐπ᾽ ἑπτὰ μὲν δὴ ἡμέρας καὶ ἑπτὰ νύκτας ὑπὸ τοῦ παρεόντος κακοῦ ὁ Δαρεῖος ἀγρυπνίῃσι εἴχετο: τῇ δὲ δὴ ὀγδόῃ ἡμέρῃ ἔχοντί οἱ φλαύρως, παρακούσας τις πρότερον ἔτι ἐν Σάρδισι τοῦ Κροτωνιήτεω Δημοκήδεος τὴν τέχνην ἀγγέλλει τῷ Δαρείῳ: ὁ δὲ ἄγειν μιν τὴν ταχίστην παρ᾽ ἑωυτὸν ἐκέλευσε: τὸν δὲ ὡς ἐξεῦρον ἐν τοῖσι Ὀροίτεω ἀνδραπόδοισι ὅκου δὴ ἀπημελημένον, παρῆγον ἐς μέσον πέδας τε ἕλκοντα καὶ ῥάκεσι ἐσθημένον.
+[3] ἐπ᾽ ἑπτὰ μὲν δὴ ἡμέρας καὶ ἑπτὰ νύκτας ὑπὸ τοῦ παρεόντος κακοῦ ὁ Δαρεῖος ἀγρυπνίῃσι εἴχετο: 
 
-[3] and for seven days and nights the king could not sleep because of the pain. On the eighth day, when he was doing poorly, someone who had heard in Sardis of the skill of Democedes of Croton told Darius of him; and he told them to bring him as quickly as possible. When they found him among the slaves of Oroetes, where he was forgotten, they brought him along, dragging his chains and dressed in rags.
+[3] and for seven days and nights the king could not sleep because of the pain. 
+
+τῇ δὲ δὴ ὀγδόῃ ἡμέρῃ ἔχοντί οἱ φλαύρως, παρακούσας τις πρότερον ἔτι ἐν Σάρδισι τοῦ Κροτωνιήτεω Δημοκήδεος τὴν τέχνην ἀγγέλλει τῷ Δαρείῳ: 
+
+On the eighth day, when he was doing poorly, someone who had heard in Sardis of the skill of Democedes of Croton told Darius of him; 
+
+ὁ δὲ ἄγειν μιν τὴν ταχίστην παρ᾽ ἑωυτὸν ἐκέλευσε: 
+
+and he told them to bring him as quickly as possible. 
+
+τὸν δὲ ὡς ἐξεῦρον ἐν τοῖσι Ὀροίτεω ἀνδραπόδοισι ὅκου δὴ ἀπημελημένον, παρῆγον ἐς μέσον πέδας τε ἕλκοντα καὶ ῥάκεσι ἐσθημένον.
+
+When they found him among the slaves of Oroetes, where he was forgotten, they brought him along, dragging his chains and dressed in rags.
 ## c130
-σταθέντα δὲ ἐς μέσον εἰρώτα ὁ Δαρεῖος τὴν τέχνην εἰ ἐπίσταιτο: ὁ δὲ οὐκ ὑπεδέκετο, ἀρρωδέων μὴ ἑωυτὸν ἐκφήνας τὸ παράπαν τῆς Ἑλλάδος ᾖ ἀπεστερημένος: 
+#### 1
+σταθέντα δὲ ἐς μέσον εἰρώτα ὁ Δαρεῖος τὴν τέχνην εἰ ἐπίσταιτο: 
 
-Darius asked him when he was brought in if he were trained in medicine. He refused to admit it, for he was afraid that if he revealed himself he would be cut off from Hellas for good. 
+Darius asked him when he was brought in if he were trained in medicine. 
 
-[2] κατεφάνη τε τῷ Δαρείῳ τεχνάζειν ἐπιστάμενος, καὶ τοὺς ἀγαγόντας αὐτὸν ἐκέλευσε μάστιγάς τε καὶ κέντρα παραφέρειν ἐς τὸ μέσον. ὁ δὲ ἐνθαῦτα δὴ ὦν ἐκφαίνει, φὰς ἀτρεκέως μὲν οὐκ ἐπίστασθαι, ὁμιλήσας δὲ ἰητρῷ φλαύρως ἔχειν τὴν τέχνην. 
+ὁ δὲ οὐκ ὑπεδέκετο, ἀρρωδέων μὴ ἑωυτὸν ἐκφήνας τὸ παράπαν τῆς Ἑλλάδος ᾖ ἀπεστερημένος: 
 
-[2] It was clear to Darius, however, that he was trained in deceit,1 and he ordered those who had brought him to bring along scourges and goads. Then he confessed, saying that his training was not exact, but that he had associated with a physician and had a passing acquaintance with medicine. 
+He refused to admit it, for he was afraid that if he revealed himself he would be cut off from Hellas for good. 
+#### 2
+[2] κατεφάνη τε τῷ Δαρείῳ τεχνάζειν ἐπιστάμενος, καὶ τοὺς ἀγαγόντας αὐτὸν ἐκέλευσε μάστιγάς τε καὶ κέντρα παραφέρειν ἐς τὸ μέσον. 
 
+[2] It was clear to Darius, however, that he was trained in deceit,1 and he ordered those who had brought him to bring along scourges and goads. 
+
+ὁ δὲ ἐνθαῦτα δὴ ὦν ἐκφαίνει, φὰς ἀτρεκέως μὲν οὐκ ἐπίστασθαι, ὁμιλήσας δὲ ἰητρῷ φλαύρως ἔχειν τὴν τέχνην. 
+
+Then he confessed, saying that his training was not exact, but that he had associated with a physician and had a passing acquaintance with medicine. 
+#### 3
 [3] μετὰ δέ, ὥς οἱ ἐπέτρεψε, Ἑλληνικοῖσι ἰήμασι χρεώμενος καὶ ἤπια μετὰ τὰ ἰσχυρὰ προσάγων ὕπνου τέ μιν λαγχάνειν ἐποίεε καὶ ἐν χρόνῳ ὀλίγῳ ὑγιέα μιν ἀπέδεξε, οὐδαμὰ ἔτι ἐλπίζοντα ἀρτίπουν ἔσεσθαι. 
 
 [3] But when Darius turned the case over to him and Democedes applied Greek remedies and used gentleness instead of the Egyptians' violence, he enabled him to sleep and in a short time had him well, although Darius had had no hope of regaining the use of his foot. 
+#### 4
+[4] δωρέεται δή μιν μετὰ ταῦτα ὁ Δαρεῖος πεδέων χρυσέων δύο ζεύγεσι: ὁ δέ μιν ἐπείρετο εἴ οἱ διπλήσιον τὸ κακὸν ἐπίτηδες νέμει, ὅτι μιν ὑγιέα ἐποίησε. 
 
-[4] δωρέεται δή μιν μετὰ ταῦτα ὁ Δαρεῖος πεδέων χρυσέων δύο ζεύγεσι: ὁ δέ μιν ἐπείρετο εἴ οἱ διπλήσιον τὸ κακὸν ἐπίτηδες νέμει, ὅτι μιν ὑγιέα ἐποίησε. ἡσθεὶς δὲ τῷ ἔπεϊ ὁ Δαρεῖος ἀποπέμπει μιν παρὰ τὰς ἑωυτοῦ γυναῖκας: παράγοντες δὲ οἱ εὐνοῦχοι ἔλεγον πρὸς τὰς γυναῖκας ὡς βασιλέι οὗτος εἴη ὃς τὴν ψυχὴν ἀπέδωκε. 
+[4] After this, Darius rewarded him with a gift of two pairs of golden fetters. “Is it your purpose,” Democedes asked, “to double my pains for making you well?” 
 
-[4] After this, Darius rewarded him with a gift of two pairs of golden fetters. “Is it your purpose,” Democedes asked, “to double my pains for making you well?” Pleased by the retort, Darius sent him to his own wives. The eunuchs who conducted him told the women that this was the man who had given the king his life back. 
+ἡσθεὶς δὲ τῷ ἔπεϊ ὁ Δαρεῖος ἀποπέμπει μιν παρὰ τὰς ἑωυτοῦ γυναῖκας: 
 
+Pleased by the retort, Darius sent him to his own wives. 
+
+παράγοντες δὲ οἱ εὐνοῦχοι ἔλεγον πρὸς τὰς γυναῖκας ὡς βασιλέι οὗτος εἴη ὃς τὴν ψυχὴν ἀπέδωκε. 
+
+The eunuchs who conducted him told the women that this was the man who had given the king his life back. 
+#### 5
 [5] ὑποτύπτουσα δὲ αὐτέων ἑκάστη φιάλῃ τοῦ χρυσοῦ ἐς θήκην ἐδωρέετο Δημοκήδεα οὕτω δή τι δαψιλέι δωρεῇ ὡς τοὺς ἀποπίπτοντας ἀπὸ τῶν φιαλέων στατῆρας ἑπόμενος ὁ οἰκέτης, τῷ οὔνομα ἦν Σκίτων, ἀνελέγετο καί οἱ χρῆμα πολλόν τι χρυσοῦ συνελέχθη.
 
 [5] Each of them took a bowl and dipped it in a chest full of gold, so richly rewarding Democedes that the servant accompanying him, whose name was Sciton, collected a very great sum of gold by picking up the staters that fell from the bowls.
 ## c131
-ὁ δὲ Δημοκήδης οὗτος ὧδε ἐκ Κρότωνος ἀπιγμένος Πολυκράτεϊ ὡμίλησε: πατρὶ συνείχετο ἐν τῇ Κρότωνι ὀργὴν χαλεπῷ: τοῦτον ἐπείτε οὐκ ἐδύνατο φέρειν, ἀπολιπὼν οἴχετο ἐς Αἴγιναν. καταστὰς δὲ ἐς ταύτην πρώτῳ ἔτεϊ ὑπερεβάλετο τοὺς ἄλλους ἰητρούς, ἀσκευής περ ἐὼν καὶ ἔχων οὐδὲν τῶν ὅσα περὶ τὴν τέχνην ἐστὶ ἐργαλήια. 
+#### 1
+ὁ δὲ Δημοκήδης οὗτος ὧδε ἐκ Κρότωνος ἀπιγμένος Πολυκράτεϊ ὡμίλησε: 
 
-Now this is how Democedes had come from Croton to live with Polycrates: he was oppressed by a harsh-tempered father at Croton; since he could not stand him, he left him and went to Aegina. Within the first year after settling there, he excelled the rest of the physicians, although he had no equipment nor any medical implements. 
+Now this is how Democedes had come from Croton to live with Polycrates: 
 
-[2] καί μιν δευτέρῳ ἔτεϊ ταλάντου Αἰγινῆται δημοσίῃ μισθοῦνται, τρίτῳ δὲ ἔτεϊ Ἀθηναῖοι ἑκατὸν μνέων, τετάρτῳ δὲ ἔτεϊ Πολυκράτης δυῶν ταλάντων. οὕτω μὲν ἀπίκετο ἐς τὴν Σάμον, καὶ ἀπὸ τούτου τοῦ ἀνδρὸς οὐκ ἥκιστα Κροτωνιῆται ἰητροὶ εὐδοκίμησαν. 
+πατρὶ συνείχετο ἐν τῇ Κρότωνι ὀργὴν χαλεπῷ: 
 
-[2] In his second year the Aeginetans1 paid him a talent to be their public physician; in the third year the Athenians hired him for a hundred minae, and Polycrates in the fourth year for two talents. Thus he came to Samos, and not least because of this man the physicians of Croton were well-respected 
+he was oppressed by a harsh-tempered father at Croton; 
 
+τοῦτον ἐπείτε οὐκ ἐδύνατο φέρειν, ἀπολιπὼν οἴχετο ἐς Αἴγιναν. 
+
+since he could not stand him, he left him and went to Aegina. 
+
+καταστὰς δὲ ἐς ταύτην πρώτῳ ἔτεϊ ὑπερεβάλετο τοὺς ἄλλους ἰητρούς, ἀσκευής περ ἐὼν καὶ ἔχων οὐδὲν τῶν ὅσα περὶ τὴν τέχνην ἐστὶ ἐργαλήια. 
+
+Within the first year after settling there, he excelled the rest of the physicians, although he had no equipment nor any medical implements. 
+#### 2
+[2] καί μιν δευτέρῳ ἔτεϊ ταλάντου Αἰγινῆται δημοσίῃ μισθοῦνται, τρίτῳ δὲ ἔτεϊ Ἀθηναῖοι ἑκατὸν μνέων, τετάρτῳ δὲ ἔτεϊ Πολυκράτης δυῶν ταλάντων. 
+
+[2] In his second year the Aeginetans1 paid him a talent to be their public physician; in the third year the Athenians hired him for a hundred minae, and Polycrates in the fourth year for two talents. 
+
+οὕτω μὲν ἀπίκετο ἐς τὴν Σάμον, καὶ ἀπὸ τούτου τοῦ ἀνδρὸς οὐκ ἥκιστα Κροτωνιῆται ἰητροὶ εὐδοκίμησαν. 
+
+Thus he came to Samos, and not least because of this man the physicians of Croton were well-respected 
+#### 3
 [3] ἐγένετο γὰρ ὦν τοῦτο ὅτε πρῶτοι μὲν Κροτωνιῆται ἰητροὶ ἐλέγοντο ἀνὰ τὴν Ἑλλάδα εἶναι, δεύτεροι δὲ Κυρηναῖοι. κατὰ τὸν αὐτὸν δὲ τοῦτον χρόνον καὶ Ἀργεῖοι ἤκουον μουσικὴν εἶναι Ἑλλήνων πρῶτοι.1
 
 [3] for at this time the best physicians in Greek countries were those of Croton, and next to them those of Cyrene. About the same time the Argives had the name of being the best musicians].
 ## b132
+#### 1
 τότε δὴ ὁ Δημοκήδης ἐν τοῖσι Σούσοισι ἐξιησάμενος Δαρεῖον οἶκόν τε μέγιστον εἶχε καὶ ὁμοτράπεζος βασιλέι ἐγεγόνεε, πλήν τε ἑνὸς τοῦ ἐς Ἕλληνας ἀπιέναι πάντα τἆλλά οἱ παρῆν. 
 
 So now because he had healed Darius at Susa Democedes had a very grand house and ate at the king's table; he had everything, except permission to return to the Greeks. 
+#### 2
+[2] καὶ τοῦτο μὲν τοὺς Αἰγυπτίους ἰητρούς, οἳ βασιλέα πρότερον ἰῶντο, μέλλοντας ἀνασκολοπιεῖσθαι ὅτι ὑπὸ Ἕλληνος ἰητροῦ ἑσσώθησαν, τούτους βασιλέα παραιτησάμενος ἐρρύσατο: 
 
-[2] καὶ τοῦτο μὲν τοὺς Αἰγυπτίους ἰητρούς, οἳ βασιλέα πρότερον ἰῶντο, μέλλοντας ἀνασκολοπιεῖσθαι ὅτι ὑπὸ Ἕλληνος ἰητροῦ ἑσσώθησαν, τούτους βασιλέα παραιτησάμενος ἐρρύσατο: τοῦτο δὲ μάντιν Ἠλεῖον Πολυκράτεϊ ἐπισπόμενον καὶ ἀπημελημένον ἐν τοῖσι ἀνδραπόδοισι ἐρρύσατο. ἦν δὲ μέγιστον πρῆγμα Δημοκήδης παρὰ βασιλέι.
+[2] When the Egyptian physicians who until now had attended the king were about to be impaled for being less skilful than a Greek, Democedes interceded with the king for them and saved them; 
 
-[2] When the Egyptian physicians who until now had attended the king were about to be impaled for being less skilful than a Greek, Democedes interceded with the king for them and saved them; and he saved an Elean seer, too, who had been a retainer of Polycrates' and was forgotten among the slaves. Democedes was a man of considerable influence with the King.
+τοῦτο δὲ μάντιν Ἠλεῖον Πολυκράτεϊ ἐπισπόμενον καὶ ἀπημελημένον ἐν τοῖσι ἀνδραπόδοισι ἐρρύσατο. 
+
+and he saved an Elean seer, too, who had been a retainer of Polycrates' and was forgotten among the slaves. 
+
+ἦν δὲ μέγιστον πρῆγμα Δημοκήδης παρὰ βασιλέι.
+
+Democedes was a man of considerable influence with the King.
+## c134
+#### 1
+ὡς δὲ ἄρα μιν μετὰ ταῦτα ἰώμενος ὑγιέα ἀπέδεξε, ἐνθαῦτα δὴ διδαχθεῖσα ὑπὸ τοῦ Δημοκήδεος ἡ Ἄτοσσα προσέφερε ἐν τῇ κοίτῃ Δαρείῳ λόγον τοιόνδε. 
+
+And after he treated her and did cure her, Atossa addressed Darius in their chamber as she had been instructed by Democedes: 
+
+‘ὦ βασιλεῦ, ἔχων δύναμιν τοσαύτην κάτησαι, οὔτε τι ἔθνος προσκτώμενος οὔτε δύναμιν Πέρσῃσι.
+
+“O King, although you have so much power you are idle, acquiring no additional people or power for the Persians. 
+## c137
+#### 1
+πλέοντες δὲ ἐνθεῦτεν οἱ Πέρσαι καὶ διώκοντες Δημοκήδεα ἀπικνέονται ἐς τὴν Κρότωνα, εὑρόντες δέ μιν ἀγοράζοντα ἅπτοντο αὐτοῦ. 
+
+The Persians sailed from Tarentum and pursued Democedes to Croton, where they found him in the marketplace and tried to seize him.
+## c139
+#### 1
+μετὰ δὲ ταῦτα Σάμον βασιλεὺς Δαρεῖος αἱρέει, πολίων πασέων πρώτην Ἑλληνίδων καὶ βαρβάρων, διὰ τοιήνδε τινὰ αἰτίην. 
+
+After this, King Darius conquered Samos, the greatest of all city states, Greek or barbarian, the reason for his conquest being this: 
+
+Καμβύσεω τοῦ Κύρου στρατευομένου ἐπ᾽ Αἴγυπτον ἄλλοι τε συχνοὶ ἐς τὴν Αἴγυπτον ἀπίκοντο Ἑλλήνων, οἳ μέν, ὡς οἰκός, κατ᾽ ἐμπορίην στρατευόμενοι, οἳ δὲ τινὲς καὶ αὐτῆς τῆς χώρης θεηταί: 
+
+when Cambyses, son of Cyrus, invaded Egypt, many Greeks came with the army, some to trade, as was natural, and some to see the country itself; 
+
+τῶν ἦν καὶ Συλοσῶν ὁ Αἰάκεος, Πολυκράτεός τε ἐὼν ἀδελφεὸς καὶ φεύγων ἐκ Σάμου.
+
+among them was Syloson, son of Aeaces, who was Polycrates' brother and in exile from Samos. 
+#### 2
+τοῦτον τὸν Συλοσῶντα κατέλαβε εὐτυχίη τις τοιήδε. λαβὼν χλανίδα καὶ περιβαλόμενος πυρρὴν ἠγόραζε ἐν τῇ Μέμφι: ἰδὼν δὲ αὐτὸν Δαρεῖος, δορυφόρος τε ἐὼν Καμβύσεω καὶ λόγου οὐδενός κω μεγάλου, ἐπεθύμησε τῆς χλανίδος καὶ αὐτὴν προσελθὼν ὠνέετο.
+
+This Syloson had a stroke of good luck. He was in the market at Memphis wearing a red cloak, when Darius, at that time one of Cambyses' guard and as yet a man of no great importance, saw him, and coveting the cloak came and tried to buy it.
+## c149
+#### 1
+τὴν δὲ Σάμον σαγηνεύσαντες1οἱ Πέρσαι παρέδοσαν Συλοσῶντι ἔρημον ἐοῦσαν ἀνδρῶν. 
+
+As for Samos, the Persians swept it clear and turned it over uninhabited to Syloson. 
+
+ὑστέρῳ μέντοι χρόνῳ καὶ συγκατοίκισε αὐτὴν ὁ στρατηγὸς Ὀτάνης ἔκ τε ὄψιος ὀνείρου καὶ νούσου ἥ μιν κατέλαβε νοσῆσαι τὰ αἰδοῖα.
+
+But afterwards Otanes, the Persian general, helped to settle the land, prompted by a dream and a disease that he contracted in his genitals.
+## c153
+#### 1
+ἐνθαῦτα εἰκοστῷ μηνὶ Ζωπύρῳ τῷ Μεγαβύζου, τούτου ὃς τῶν ἑπτὰ ἀνδρῶν ἐγένετο τῶν τὸν Μάγον κατελόντων, τούτῳ τῷ Μεγαβύζου παιδὶ Ζωπύρῳ ἐγένετο τέρας τόδε: 
+
+But in the twentieth month of the siege a marvellous thing befell Zopyrus, son of that Megabyzus who was one of the seven destroyers of the Magus: 
+
+τῶν οἱ σιτοφόρων ἡμιόνων μία ἔτεκε. 
+
+one of his food-carrying mules gave birth. 
+
+ὡς δέ οἱ ἐξαγγέλθη καὶ ὑπὸ ἀπιστίης αὐτὸς ὁ Ζώπυρος εἶδε τὸ βρέφος, ἀπείπας τοῖσι ἰδοῦσι μηδενὶ φράζειν τὸ γεγονὸς ἐβουλεύετο.
+
+Zopyrus would not believe the news; but when he saw the foal for himself, he told those who had seen it to tell no one;
+#### 2
+καί οἱ πρὸς τὰ τοῦ Βαβυλωνίου ῥήματα, ὃς κατ᾽ ἀρχὰς ἔφησε, ἐπεάν περ ἡμίονοι τέκωσι, τότε τὸ τεῖχος ἁλώσεσθαι, πρὸς ταύτην τὴν φήμην Ζωπύρῳ ἐδόκεε εἶναι ἁλώσιμος ἡ Βαβυλών: 
+
+then reflecting he recalled the Babylonian's word at the beginning of the siege—that the city would be taken when mules gave birth—and having this utterance in mind he conceived that Babylon might be taken; 
+
+σὺν γὰρ θεῷ ἐκεῖνόν τε εἰπεῖν καὶ ἑωυτῷ τεκεῖν τὴν ἡμίονον.
+
+for the hand of heaven, he supposed, was in the man's word and the birth from his own mule.
+## c160
+#### 1
+Ζωπύρου δὲ οὐδεὶς ἀγαθοεργίην Περσέων ὑπερεβάλετο παρὰ Δαρείῳ κριτῇ οὔτε τῶν ὕστερον γενομένων οὔτε τῶν πρότερον, ὅτι μὴ Κῦρος μοῦνος: τούτῳ γὰρ οὐδεὶς Περσέων ἠξίωσέ κω ἑωυτὸν συμβαλεῖν. 
+
+There never was in Darius' judgment any Persian before or after who did better service than Zopyrus, except Cyrus, with whom no Persian could compare himself. 
+
+πολλάκις δὲ Δαρεῖον λέγεται γνώμην τήνδε ἀποδέξασθαι, ὡς βούλοιτο ἂν Ζώπυρον εἶναι ἀπαθέα τῆς ἀεικείης μᾶλλον ἢ Βαβυλῶνάς οἱ εἴκοσι πρὸς τῇ ἐούσῃ προσγενέσθαι. 
+
+Many times Darius is said to have declared that he would rather Zopyrus were free of disfigurement than have twenty Babylons on top of the one he had. 
+#### 2
+[2] ἐτίμησε δέ μιν μεγάλως: καὶ γὰρ δῶρά οἱ ἀνὰ πᾶν ἔτος ἐδίδου ταῦτα τὰ Πέρσῃσι ἐστὶ τιμιώτατα, καὶ τὴν Βαβυλῶνά οἱ ἔδωκε ἀτελέα νέμεσθαι μέχρι τῆς ἐκείνου ζόης, καὶ ἄλλα πολλὰ ἐπέδωκε. 
+
+[2] He honored him very much; every year he sent him such gifts as the Persians hold most precious, and let him govern Babylon all his life with no tribute to pay, giving him many other things besides. 
+
+Ζωπύρου δὲ τούτου γίνεται Μεγάβυζος, ὃς ἐν Αἰγύπτῳ ἀντία Ἀθηναίων καὶ τῶν συμμάχων ἐστρατήγησε: 
+
+This Zopyrus was the father of Megabyzus, who was general of an army in Egypt against the Athenians and their allies; 
+
+Μεγαβύζου δὲ τούτου γίνεται Ζώπυρος, ὃς ἐς Ἀθήνας ηὐτομόλησε ἐκ Περσέων.
+
+and Megabyzus' son was that Zopyrus who deserted from the Persians to Athens.
 # b4
 
 ## c11
@@ -928,15 +1525,44 @@ I have said this much of the Hyperboreans, and let it suffice; for I do not tell
 [2] γελῶ δὲ ὁρέων γῆς περιόδους γράψαντας πολλοὺς ἤδη καὶ οὐδένα νοονεχόντως ἐξηγησάμενον: οἳ Ὠκεανόν τε ῥέοντα γράφουσι πέριξ τὴν γῆν ἐοῦσαν κυκλοτερέα ὡς ἀπὸ τόρνου, καὶ τὴν Ἀσίην τῇ Εὐρώπῃ ποιεύντων ἴσην. ἐν ὀλίγοισι γὰρ ἐγὼ δηλώσω μέγαθός τε ἑκάστης αὐτέων καὶ οἵη τις ἐστὶ ἐς γραφὴν ἑκάστη. 
 
 [2] And I laugh to see how many have before now drawn maps of the world, not one of them reasonably; for they draw the world as round as if fashioned by compasses, encircled by the Ocean river, and Asia and Europe of a like extent. For myself, I will in a few words indicate the extent of the two, and how each should be drawn. 
+## c44
+#### 1
+τῆς δὲ Ἀσίης τὰ πολλὰ ὑπὸ Δαρείου ἐξευρέθη, ὃς βουλόμενος Ἰνδὸν ποταμόν, ὃς κροκοδείλους δεύτερος οὗτος ποταμῶν πάντων παρέχεται, τοῦτον τὸν ποταμὸν εἰδέναι τῇ ἐς θάλασσαν ἐκδιδοῖ, πέμπει πλοίοισι ἄλλους τε τοῖσι ἐπίστευε τὴν ἀληθείην ἐρέειν καὶ δὴ καὶ Σκύλακα ἄνδρα Καρυανδέα. 
+
+But as to Asia, most of it was discovered by Darius. There is a river, Indus, second of all rivers in the production of crocodiles. Darius, desiring to know where this Indus empties into the sea, sent ships manned by Scylax, a man of Caryanda, and others whose word he trusted; 
+#### 2
+[2] οἳ δὲ ὁρμηθέντες ἐκ Κασπατύρου τε πόλιος καὶ τῆς Πακτυικῆς γῆς ἔπλεον κατὰ ποταμὸν πρὸς ἠῶ τε καὶ ἡλίου ἀνατολὰς ἐς θάλασσαν, διὰ θαλάσσης δὲ πρὸς ἑσπέρην πλέοντες τριηκοστῷ μηνὶ ἀπικνέονται ἐς τοῦτον τὸν χῶρον ὅθεν ὁ Αἰγυπτίων βασιλεὺς τοὺς Φοίνικας τοὺς πρότερον εἶπα ἀπέστειλε περιπλώειν Λιβύην. 
+
+[2] these set out from the city of Caspatyrus and the Pactyic country, and sailed down the river toward the east and the sunrise until they came to the sea; and voyaging over the sea west, they came in the thirtieth month to that place from which the Egyptian king sent the above-mentioned Phoenicians to sail around Libya. 
+#### 3
+[3] μετὰ δὲ τούτους περιπλώσαντας Ἰνδούς τε κατεστρέψατο Δαρεῖος καὶ τῇ θαλάσσῃ ταύτῃ ἐχρᾶτο. 
+
+[3] After this circumnavigation, Darius subjugated the Indians and made use of this sea. 
+
+οὕτω καὶ τῆς Ἀσίης, πλὴν τὰ πρὸς ἥλιον ἀνίσχοντα, τὰ ἄλλα ἀνεύρηται ὃμοια παρεχομένη τῇ Λιβύῃ.
+
+Thus it was discovered that Asia, except the parts toward the rising sun, was in other respects like Libya.
 ## c59
 #### 1
-τὰ μὲν δὴ μέγιστα οὕτω σφι εὔπορα ἐστί, τὰ δὲ λοιπὰ νόμαια κατὰ τάδε σφι διακέεται. θεοὺς μὲν μούνους τούσδε ἱλάσκονται, Ἱστίην μὲν μάλιστα, ἐπὶ δὲ Δία καὶ Γῆν, νομίζοντες τὴν Γῆν τοῦ Διὸς εἶναι γυναῖκα, μετὰ δὲ τούτους, Ἀπόλλωνά τε καὶ οὐρανίην Ἀφροδίτην καὶ Ἡρακλέα καὶ Ἄρεα. τούτους μὲν πάντες Σκύθαι νενομίκασι, οἱ δὲ καλεόμενοι βασιλήιοι Σκύθαι καὶ τῷ Ποσειδέωνι θύουσι. 
+τὰ μὲν δὴ μέγιστα οὕτω σφι εὔπορα ἐστί, τὰ δὲ λοιπὰ νόμαια κατὰ τάδε σφι διακέεται. θεοὺς μὲν μούνους τούσδε ἱλάσκονται, Ἱστίην μὲν μάλιστα, ἐπὶ δὲ Δία καὶ Γῆν, νομίζοντες τὴν Γῆν τοῦ Διὸς εἶναι γυναῖκα, μετὰ δὲ τούτους, Ἀπόλλωνά τε καὶ οὐρανίην Ἀφροδίτην καὶ Ἡρακλέα καὶ Ἄρεα. 
 
-The most important things are thus provided them. It remains now to show the customs which are established among them. The only gods whom they propitiate are these: Hestia in particular, and secondly Zeus and Earth, whom they believe to be the wife of Zeus; after these, Apollo, and the Heavenly Aphrodite, and Heracles, and Ares. All the Scythians worship these as gods; the Scythians called Royal sacrifice to Poseidon also. 
+The most important things are thus provided them. It remains now to show the customs which are established among them. The only gods whom they propitiate are these: Hestia in particular, and secondly Zeus and Earth, whom they believe to be the wife of Zeus; after these, Apollo, and the Heavenly Aphrodite, and Heracles, and Ares. 
+
+τούτους μὲν πάντες Σκύθαι νενομίκασι, οἱ δὲ καλεόμενοι βασιλήιοι Σκύθαι καὶ τῷ Ποσειδέωνι θύουσι. 
+
+All the Scythians worship these as gods; the Scythians called Royal sacrifice to Poseidon also. 
 #### 2
-[2] ὀνομάζεται δὲ σκυθιστὶ Ἱστίη μὲν Ταβιτί, Ζεὺς δὲ ὀρθότατα κατὰ γνώμην γε τὴν ἐμὴν καλεόμενος Παπαῖος, Γῆ δὲ Ἀπί. Ἀπόλλων δὲ Γοιτόσυρος, οὐρανίη δὲ Ἀφροδίτη Ἀργίμπασα, Ποσειδέων δὲ Θαγιμασάδας. ἀγάλματα δὲ καὶ βωμοὺς καὶ νηοὺς οὐ νομίζουσι ποιέειν πλὴν Ἄρεϊ. τούτῳ δὲ νομίζουσι.
+[2] ὀνομάζεται δὲ σκυθιστὶ Ἱστίη μὲν Ταβιτί, Ζεὺς δὲ ὀρθότατα κατὰ γνώμην γε τὴν ἐμὴν καλεόμενος Παπαῖος, Γῆ δὲ Ἀπί. 
 
-[2] In the Scythian tongue, Hestia is called Tabiti; Zeus (in my judgment most correctly so called) Papaeus;1 Earth is Apia; Apollo Goetosyrus; the Heavenly Aphrodite Argimpasa; Poseidon Thagimasadas. It is their practice to make images and altars and shrines for Ares, but for no other god.
+[2] In the Scythian tongue, Hestia is called Tabiti; Zeus (in my judgment most correctly so called) Papaeus;1 Earth is Apia; 
+
+Ἀπόλλων δὲ Γοιτόσυρος, οὐρανίη δὲ Ἀφροδίτη Ἀργίμπασα, Ποσειδέων δὲ Θαγιμασάδας. 
+
+Apollo Goetosyrus; the Heavenly Aphrodite Argimpasa; Poseidon Thagimasadas. 
+
+ἀγάλματα δὲ καὶ βωμοὺς καὶ νηοὺς οὐ νομίζουσι ποιέειν πλὴν Ἄρεϊ. τούτῳ δὲ νομίζουσι.
+
+It is their practice to make images and altars and shrines for Ares, but for no other god.
 ## c60
 #### 1
 θυσίη δὲ ἡ αὐτὴ πᾶσι κατέστηκε περὶ πάντα τὰ ἱρὰ ὁμοίως, ἐρδομένη ὧδε: τὸ μὲν ἱρήιον αὐτὸ ἐμπεποδισμένον τοὺς ἐμπροσθίους πόδας ἔστηκε, ὁ δὲ θύων ὄπισθε τοῦ κτήνεος ἑστεὼς σπάσας τὴν ἀρχὴν τοῦ στρόφου καταβάλλει μιν, 
@@ -1115,9 +1741,17 @@ This Battus had a son Arcesilaus; on his first coming to reign, he quarrelled wi
 
 [4] After this disaster, Arcesilaus, being worn down and having taken a drug, was strangled by his brother Learchus; Learchus was deftly killed by Arcesilaus' wife, Eryxo.
 ## c204
-οὗτος ὁ Περσέων στρατὸς τῆς Λιβύης ἑκαστάτω ἐς Εὐεσπερίδας ἦλθε. τοὺς δὲ ἠνδραποδίσαντο τῶν Βαρκαίων, τούτους δὲ ἐκ τῆς Αἰγύπτου ἀνασπάστους ἐποίησαν παρὰ βασιλέα, βασιλεὺς δέ σφι Δαρεῖος ἔδωκε τῆς Βακτρίης χώρης κώμην ἐγκατοικῆσαι. οἳ δὲ τῇ κώμῃ ταύτῃ οὔνομα ἔθεντο Βάρκην, ἥ περ ἔτι καὶ ἐς ἐμὲ ἦν οἰκεομένη ἐν γῇ τῇ Βακτρίῃ.
+οὗτος ὁ Περσέων στρατὸς τῆς Λιβύης ἑκαστάτω ἐς Εὐεσπερίδας ἦλθε. 
 
-This Persian force advanced as far as Euhesperidae in Libya and no farther. As for the Barcaeans whom they had taken for slaves, they carried them from Egypt into banishment and brought them to the king, and Darius gave them a town of Bactria to live in. They gave this town the name Barce, and it remained an inhabited place in Bactria until my own lifetime.
+This Persian force advanced as far as Euhesperidae in Libya and no farther. 
+
+τοὺς δὲ ἠνδραποδίσαντο τῶν Βαρκαίων, τούτους δὲ ἐκ τῆς Αἰγύπτου ἀνασπάστους ἐποίησαν παρὰ βασιλέα, βασιλεὺς δέ σφι Δαρεῖος ἔδωκε τῆς Βακτρίης χώρης κώμην ἐγκατοικῆσαι. 
+
+As for the Barcaeans whom they had taken for slaves, they carried them from Egypt into banishment and brought them to the king, and Darius gave them a town of Bactria to live in. 
+
+οἳ δὲ τῇ κώμῃ ταύτῃ οὔνομα ἔθεντο Βάρκην, ἥ περ ἔτι καὶ ἐς ἐμὲ ἦν οἰκεομένη ἐν γῇ τῇ Βακτρίῃ.
+
+They gave this town the name Barce, and it remained an inhabited place in Bactria until my own lifetime.
 # b5
 ### 5.3
 Θρηίκων δὲ ἔθνος μέγιστον ἐστὶ μετά γε Ἰνδοὺς πάντων ἀνθρώπων: εἰ δὲ ὑπ᾽ ἑνὸς ἄρχοιτο ἢ φρονέοι κατὰ τὠυτό, ἄμαχόν τ᾽ ἂν εἴη καὶ πολλῷ κράτιστον πάντων ἐθνέων κατὰ γνώμην τὴν ἐμήν. ἀλλὰ γὰρ τοῦτο ἄπορόν σφι καὶ ἀμήχανον μή κοτε ἐγγένηται, εἰσὶ δὴ κατὰ τοῦτο ἀσθενέες. [2] οὐνόματα δ᾽ ἔχουσι πολλὰ κατὰ χώρας ἕκαστοι, νόμοισι δὲ οὗτοι παραπλησίοισι πάντες χρέωνται κατὰ πάντα, πλὴν Γετέων καὶ Τραυσῶν καὶ τῶν κατύπερθε Κρηστωναίων οἰκεόντων. 
@@ -1125,39 +1759,85 @@ This Persian force advanced as far as Euhesperidae in Libya and no farther. As f
 The Thracians are the biggest nation in the world, next to the Indians. If they were under one ruler, or united, they would, in my judgment, be invincible and the strongest nation on earth. Since, however, there is no way or means to bring this about, they are weak. [2] The Thracians have many names, each tribe according to its region, but they are very similar in all their customs, save the Getae, the Trausi, and those who dwell above the Crestonaeans. 
 # b6
 ## c20
-ἐνθεῦτεν οἱ ζωγρηθέντες τῶν Μιλησίων ἤγοντο ἐς Σοῦσα. βασιλεὺς δὲ σφέας Δαρεῖος κακὸν οὐδὲν ἄλλο ποιήσας κατοίκισε ἐπὶ τῇ Ἐρυθρῇ καλεομένῃ θαλάσσῃ ἐν Ἄμπῃ πόλι, παρ᾽ ἣν Τίγρης ποταμὸς παραρρέων ἐς θάλασσαν ἐξιεῖ. τῆς δὲ Μιλησίων χώρης αὐτοὶ μὲν οἱ Πέρσαι εἶχον τὰ περὶ τὴν πόλιν καὶ τὸ πεδίον, τὰ δὲ ὑπεράκρια ἔδοσαν Καρσὶ Πηδασεῦσι ἐκτῆσθαι.
+ἐνθεῦτεν οἱ ζωγρηθέντες τῶν Μιλησίων ἤγοντο ἐς Σοῦσα. 
 
-After that, the captive Milesians were brought to Susa. King Darius did them no further harm, settling them by the sea called Red, in the city of Ampe, by which the river Tigris flows as it issues into the sea. Of the Milesian land the Persians themselves held what was nearest to the city, and the plain, giving the hill country into the possession of Carians from Pedasa.
+After that, the captive Milesians were brought to Susa. 
+
+βασιλεὺς δὲ σφέας Δαρεῖος κακὸν οὐδὲν ἄλλο ποιήσας κατοίκισε ἐπὶ τῇ Ἐρυθρῇ καλεομένῃ θαλάσσῃ ἐν Ἄμπῃ πόλι, παρ᾽ ἣν Τίγρης ποταμὸς παραρρέων ἐς θάλασσαν ἐξιεῖ. 
+
+King Darius did them no further harm, settling them by the sea called Red, in the city of Ampe, by which the river Tigris flows as it issues into the sea. 
+
+τῆς δὲ Μιλησίων χώρης αὐτοὶ μὲν οἱ Πέρσαι εἶχον τὰ περὶ τὴν πόλιν καὶ τὸ πεδίον, τὰ δὲ ὑπεράκρια ἔδοσαν Καρσὶ Πηδασεῦσι ἐκτῆσθαι.
+
+Of the Milesian land the Persians themselves held what was nearest to the city, and the plain, giving the hill country into the possession of Carians from Pedasa.
+## c41
+#### 4
+Δαρεῖος δέ, ὡς οἱ Φοίνικες Μητίοχον τὸν Μιλτιάδεω ἀνήγαγον, ἐποίησε κακὸν μὲν οὐδὲν Μητίοχον, ἀγαθὰ δὲ συχνά: 
+
+[4] But when the Phoenicians brought Miltiades' son Metiochus before him, Darius did him no harm but much good, 
+
+καὶ γὰρ οἶκον καὶ κτῆσιν ἔδωκε καὶ Περσίδα γυναῖκα, ἐκ τῆς οἱ τέκνα ἐγένετο τὰ ἐς Πέρσας κεκοσμέαται. Μιλτιάδης δὲ ἐξ Ἴμβρου ἀπικνέεται ἐς τὰς Ἀθήνας.
+
+giving him a house and possessions and a Persian wife, who bore him children who were reckoned as Persians. Miltiades made his way from Imbros to Athens.
 ## c119
 #### 1
-τοὺς δὲ τῶν Ἐρετριέων ἀνδραποδισμένους Δᾶτίς τε καὶ Ἀρταφρένης, ὡς προσέσχον πρὸς τὴν Ἀσίην πλέοντες, ἀνήγαγον ἐς Σοῦσα. βασιλεὺς δὲ Δαρεῖος, πρὶν μὲν αἰχμαλώτους γενέσθαι τοὺς Ἐρετριέας, ἐνεῖχέ σφι δεινὸν χόλον, οἷα ἀρξάντων ἀδικίης προτέρων τῶν Ἐρετριέων: 
+τοὺς δὲ τῶν Ἐρετριέων ἀνδραποδισμένους Δᾶτίς τε καὶ Ἀρταφρένης, ὡς προσέσχον πρὸς τὴν Ἀσίην πλέοντες, ἀνήγαγον ἐς Σοῦσα. 
 
-When Datis and Artaphrenes reached Asia in their voyage, they carried the enslaved Eretrians inland to Susa. [2] Before the Eretrians were taken captive, king Darius had been terribly angry with them for doing him unprovoked wrong; 
+When Datis and Artaphrenes reached Asia in their voyage, they carried the enslaved Eretrians inland to Susa. [2] 
+
+βασιλεὺς δὲ Δαρεῖος, πρὶν μὲν αἰχμαλώτους γενέσθαι τοὺς Ἐρετριέας, ἐνεῖχέ σφι δεινὸν χόλον, οἷα ἀρξάντων ἀδικίης προτέρων τῶν Ἐρετριέων: 
+
+Before the Eretrians were taken captive, king Darius had been terribly angry with them for doing him unprovoked wrong; 
 #### 2
-[2] ἐπείτε δὲ εἶδε σφέας ἀπαχθέντας παρ᾽ ἑωυτὸν καὶ ἑωυτῷ ὑποχειρίους ἐόντας, ἐποίησε κακὸν ἄλλο οὐδέν, ἀλλὰ σφέας τῆς Κισσίης χώρης κατοίκισε ἐν σταθμῷ ἑωυτοῦ τῷ οὔνομα ἐστὶ Ἀρδέρικκα, ἀπὸ μὲν Σούσων δέκα καὶ διηκοσίους σταδίους ἀπέχοντι, τεσσεράκοντα δὲ ἀπὸ τοῦ φρέατος τὸ παρέχεται τριφασίας ἰδέας: καὶ γὰρ ἄσφαλτον καὶ ἅλας καὶ ἔλαιον ἀρύσσονται ἐξ αὐτοῦ τρόπῳ τοιῷδε: 
+[2] ἐπείτε δὲ εἶδε σφέας ἀπαχθέντας παρ᾽ ἑωυτὸν καὶ ἑωυτῷ ὑποχειρίους ἐόντας, ἐποίησε κακὸν ἄλλο οὐδέν, ἀλλὰ σφέας τῆς Κισσίης χώρης κατοίκισε ἐν σταθμῷ ἑωυτοῦ τῷ οὔνομα ἐστὶ Ἀρδέρικκα, ἀπὸ μὲν Σούσων δέκα καὶ διηκοσίους σταδίους ἀπέχοντι, τεσσεράκοντα δὲ ἀπὸ τοῦ φρέατος τὸ παρέχεται τριφασίας ἰδέας: 
 
-but when he saw them brought before him and subject to him, he did them no harm, but settled them in a domain of his own called Ardericca in the Cissian land; this place is two hundred and ten stadia distant from Susa, and forty from the well that is of three kinds. [3] Asphalt and salt and oil are drawn from it in the following way: 
+but when he saw them brought before him and subject to him, he did them no harm, but settled them in a domain of his own called Ardericca in the Cissian land; this place is two hundred and ten stadia distant from Susa, and forty from the well that is of three kinds. [3] 
+
+καὶ γὰρ ἄσφαλτον καὶ ἅλας καὶ ἔλαιον ἀρύσσονται ἐξ αὐτοῦ τρόπῳ τοιῷδε: 
+
+Asphalt and salt and oil are drawn from it in the following way: 
 #### 3
-[3] ἀντλέεται μὲν κηλωνηίῳ, ἀντὶ δὲ γαυλοῦ ἥμισυ ἀσκοῦ οἱ προσδέδεται: ὑποτύψας δὲ τούτῳ ἀντλέει καὶ ἔπειτα ἐγχέει ἐς δεξαμενήν: ἐκ δὲ ταύτης ἐς ἄλλο διαχεόμενον τρέπεται τριφασίας ὁδούς. καὶ ἡ μὲν ἄσφαλτος καὶ οἱ ἅλες πήγνυνται παραυτίκα: τὸ δὲ ἔλαιον οἱ Πέρσαι καλέουσι τοῦτο ῥαδινάκην, ἔστι δὲ μέλαν καὶ ὀδμὴν παρεχόμενον βαρέαν. 
+[3] ἀντλέεται μὲν κηλωνηίῳ, ἀντὶ δὲ γαυλοῦ ἥμισυ ἀσκοῦ οἱ προσδέδεται: 
 
-a windlass is used in the drawing, with half a skin tied to it in place of a bucket; this is dipped into the well and then poured into a tank; then what is drawn is poured into another tank and goes three ways: the asphalt and the salt congeal immediately; the oil,1 which the Persians call rhadinace, is dark and evil-smelling. 
+a windlass is used in the drawing, with half a skin tied to it in place of a bucket; 
+
+ὑποτύψας δὲ τούτῳ ἀντλέει καὶ ἔπειτα ἐγχέει ἐς δεξαμενήν: 
+
+this is dipped into the well and then poured into a tank; 
+
+ἐκ δὲ ταύτης ἐς ἄλλο διαχεόμενον τρέπεται τριφασίας ὁδούς. 
+
+then what is drawn is poured into another tank and goes three ways: 
+
+καὶ ἡ μὲν ἄσφαλτος καὶ οἱ ἅλες πήγνυνται παραυτίκα: 
+
+the asphalt and the salt congeal immediately; 
+
+τὸ δὲ ἔλαιον οἱ Πέρσαι καλέουσι τοῦτο ῥαδινάκην, ἔστι δὲ μέλαν καὶ ὀδμὴν παρεχόμενον βαρέαν. 
+
+the oil,1 which the Persians call rhadinace, is dark and evil-smelling. 
 
 1 Petroleum.
 #### 4
-[4] ἐνθαῦτα τοὺς Ἐρετριέας κατοίκισε βασιλεὺς Δαρεῖος, οἳ καὶ μέχρι ἐμέο εἶχον τὴν χώρην ταύτην, φυλάσοντες τὴν ἀρχαίην γλῶσσαν. τὰ μὲν δὴ περὶ Ἐρετριέας ἔσχε οὕτω.
+[4] ἐνθαῦτα τοὺς Ἐρετριέας κατοίκισε βασιλεὺς Δαρεῖος, οἳ καὶ μέχρι ἐμέο εἶχον τὴν χώρην ταύτην, φυλάσοντες τὴν ἀρχαίην γλῶσσαν. 
 
-[4] There king Darius settled the Eretrians, and they dwelt in that place until my time, keeping their ancient language. Such was the fate of the Eretrians.
+[4] There king Darius settled the Eretrians, and they dwelt in that place until my time, keeping their ancient language. 
+
+τὰ μὲν δὴ περὶ Ἐρετριέας ἔσχε οὕτω.
+
+Such was the fate of the Eretrians.
 # b7
-## 64.1
+## c64
+#### 1
 Βάκτριοι δὲ περὶ μὲν τῇσι κεφαλῇσι ἀγχότατα τῶν Μηδικῶν ἔχοντες ἐστρατεύοντο, τόξα δὲ καλάμινα ἐπιχώρια καὶ αἰχμὰς βραχέας.
 
-## 64.2
+#### 64.2
 Σάκαι δὲ οἱ Σκύθαι περὶ μὲν τῇσι κεφαλῇσι κυρβασίας ἐς ὀξὺ ἀπηγμένας ὀρθὰς εἶχον πεπηγυίας, ἀναξυρίδας δὲ ἐνεδεδύκεσαν, τόξα δὲ ἐπιχώρια καὶ ἐγχειρίδια, πρὸς δὲ καὶ ἀξίνας σαγάρις εἶχον. τούτους δὲ ἐόντας Σκύθας Ἀμυργίους Σάκας ἐκάλεον: οἱ γὰρ Πέρσαι πάντας τοὺς Σκύθας καλέουσι Σάκας. Βακτρίων δὲ καὶ Σακέων ἦρχε Ὑστάσπης ὁ Δαρείου τε καὶ Ἀτόσσης τῆς Κύρου.
-
-## 65.1
+## c65
+#### 1
 Ἰνδοὶ δὲ εἵματα μὲν ἐνδεδυκότες ἀπὸ ξύλων πεποιημένα, τόξα δὲ καλάμινα εἶχον καὶ ὀιστοὺς καλαμίνους: ἐπὶ δὲ σίδηρος ἦν. ἐσταλμένοι μὲν δὴ ἦσαν οὕτω Ἰνδοί, προσετετάχατο δὲ συστρατευόμενοι Φαρναζάθρῃ τῷ Ἀρταβάτεω.
-
-## 66.1
+## c66
+#### 1
 ἄριοι δὲ τόξοισι μὲν ἐσκευασμένοι ἦσαν Μηδικοῖσι, τὰ δὲ ἄλλα κατά περ Βάκτριοι. Ἀρίων δὲ ἦρχε Σισάμνης ὁ Ὑδάρνεος. Πάρθοι δὲ καὶ Χοράσμιοι καὶ Σόγδοι τε καὶ Γανδάριοι καὶ Δαδίκαι τὴν αὐτὴν σκευὴν ἔχοντες τὴν καὶ Βάκτριοι ἐστρατεύοντο.
 
 # b8

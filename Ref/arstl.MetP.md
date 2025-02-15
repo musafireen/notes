@@ -20,6 +20,106 @@ There are some3 who think that the men of very ancient times, long before the pr
 4 cf. Hom. Il. 14. 201, Hom. Il. 14.246.
 
 5 Cf. Hom. Il. 2.755, Hom. Il. 14.271, Hom. Il.15.37.
+## 984b
+### 19
+φανερῶς μὲν οὖν Ἀναξαγόραν ἴσμεν ἁψάμενον τούτων τῶν λόγων, αἰτίαν δ᾽ ἔχει πρότερον Ἑρμότιμος [20] ὁ Κλαζομένιος εἰπεῖν. οἱ μὲν οὖν οὕτως ὑπολαμβάνοντες ἅμα τοῦ καλῶς τὴν αἰτίαν ἀρχὴν εἶναι τῶν ὄντων ἔθεσαν, καὶ τὴν τοιαύτην ὅθεν ἡ κίνησις ὑπάρχει τοῖς οὖσιν.
+
+We know definitely that Anaxagoras adopted this view; but Hermotimus6 [20] of Clazomenae is credited with having stated it earlier. Those thinkers, then, who held this view assumed a principle in things which is the cause of beauty, and the sort of cause by which motion is communicated to things.
+### 23
+ὑποπτεύσειε δ᾽ ἄν τις Ἡσίοδον πρῶτον ζητῆσαι τὸ τοιοῦτον, κἂν εἴ τις ἄλλος ἔρωτα ἢ ἐπιθυμίαν ἐν τοῖς οὖσιν ἔθηκεν [25] ὡς ἀρχήν, οἷον καὶ Παρμενίδης: 
+
+It might be inferred that the first person to consider this question was Hesiod, or indeed anyone else who assumed Love or Desire as a first principle in things; e.g. Parmenides. 
+
+καὶ γὰρ οὗτος κατασκευάζων τὴν τοῦ παντὸς γένεσιν 
+
+For he says, where he is describing the creation of the universe, 
+
+“πρώτιστον μέν （φησιν） ἔρωτα θεῶν μητίσατο πάντων”
+
+“ Love she7 created first of all the gods . . .”
+
+Parmenides Fr. 13 (Diels), 
+
+Parmenides Fr. 13 (Diels)
+### 26
+Ἡσίοδος δὲ 
+
+And Hesiod says,8 
+
+“πάντων μὲν πρώτιστα χάος γένετ᾽, αὐτὰρ ἔπειτα
+γαῖ᾽ εὐρύστερνος ...
+
+“ First of all things was Chaos made, and then/Broad-bosomed Earth . . ./
+
+ἠδ᾽ ἔρος, ὃς πάντεσσι μεταπρέπει ἀθανάτοισιν,” 
+
+And Love, the foremost of immortal beings,” 
+
+Hes. Th. 116-20 
+
+ὡς δέον ἐν τοῖς [30] οὖσιν ὑπάρχειν τιν᾽ αἰτίαν ἥτις κινήσει καὶ συνάξει τὰ πράγματα. 
+
+thus implying that there must be in the world some cause to move things and combine them.
+
+τούτους μὲν οὖν πῶς χρὴ διανεῖμαι περὶ τοῦ τίς πρῶτος, ἐξέστω κρίνειν ὕστερον: 
+
+The question of arranging these thinkers in order of priority may be decided later. 
+
+ἐπεὶ δὲ καὶ τἀναντία τοῖς ἀγαθοῖς ἐνόντα ἐφαίνετο ἐν τῇ φύσει, καὶ οὐ μόνον τάξις καὶ τὸ καλὸν ἀλλὰ καὶ ἀταξία καὶ τὸ αἰσχρόν,
+
+Now since it was apparent that nature also contains the opposite of what is good, i.e. not only order and beauty, but disorder and ugliness;
+## 985b
+[1] πυρὶ μὲν καθ᾽ αὑτὸ τοῖς δ᾽ ἀντικειμένοις ὡς μιᾷ φύσει, γῇ τε καὶ ἀέρι καὶ ὕδατι: 
+
+[1] treating fire on the one hand by itself, and the elements opposed to it—earth, air and water—on the other, as a single nature.1 
+
+λάβοι δ᾽ ἄν τις αὐτὸ θεωρῶν ἐκ τῶν ἐπῶν）:
+
+This can be seen from a study of his writings.2
+
+οὗτος μὲν οὖν, ὥσπερ λέγομεν, οὕτω τε καὶ τοσαύτας εἴρηκε τὰς ἀρχάς: 
+
+Such, then, as I say, is his account of the nature and number of the first principles.
+
+Λεύκιππος δὲ καὶ ὁ ἑταῖρος [5] αὐτοῦ Δημόκριτος στοιχεῖα μὲν τὸ πλῆρες καὶ τὸ κενὸν εἶναί φασι, λέγοντες τὸ μὲν ὂν τὸ δὲ μὴ ὄν, 
+
+Leucippus,3 however, and his disciple Democritus4 hold that the elements are the Full and the Void—calling the one "what is" and the other "what is not." 
+
+τούτων δὲ τὸ μὲν πλῆρες καὶ στερεὸν τὸ ὄν, τὸ δὲ κενὸν τὸ μὴ ὄν （διὸ καὶ οὐθὲν μᾶλλον τὸ ὂν τοῦ μὴ ὄντος εἶναί φασιν, ὅτι οὐδὲ τοῦ κενοῦ τὸ σῶμα）, αἴτια δὲ τῶν ὄντων ταῦτα ὡς [10] ὕλην. 
+
+Of these they identify the full or solid with "what is," and the void or rare with "what is not" (hence they hold that what is not is no less real than what is,5 because Void is as real as Body); and they say that these are the material causes of things.
+
+καὶ καθάπερ οἱ ἓν ποιοῦντες τὴν ὑποκειμένην οὐσίαν τἆλλα τοῖς πάθεσιν αὐτῆς γεννῶσι, τὸ μανὸν καὶ τὸ πυκνὸν ἀρχὰς τιθέμενοι τῶν παθημάτων, τὸν αὐτὸν τρόπον καὶ οὗτοι τὰς διαφορὰς αἰτίας τῶν ἄλλων εἶναί φασιν. 
+
+And just as those who make the underlying substance a unity generate all other things by means of its modifications, assuming rarity and density as first principles of these modifications, so these thinkers hold that the "differences"6 are the causes of everything else.
+
+ταύτας μέντοι τρεῖς εἶναι λέγουσι, σχῆμά τε καὶ τάξιν καὶ [15] θέσιν: 
+
+These differences, they say, are three: shape, arrangement, and position; 
+
+διαφέρειν γάρ φασι τὸ ὂν ῥυσμῷ καὶ διαθιγῇ καὶ τροπῇ μόνον: 
+
+because they hold that what is differs only in contour, inter-contact, and inclination .7
+
+τούτων δὲ ὁ μὲν ῥυσμὸς σχῆμά ἐστιν ἡ δὲ διαθιγὴ τάξις ἡ δὲ τροπὴ θέσις: διαφέρει γὰρ τὸ μὲν Α τοῦ Ν σχήματι τὸ δὲ ΑΝ τοῦ ΝΑ τάξει τὸ δὲ Ζ τοῦ Η θέσει. 
+
+(Of these contour means shape, inter-contact arrangement, and inclination position.) Thus, e.g., A differs from N in shape, AN from NA in arrangement, and Z from N8 in position.
+
+περὶ δὲ κινήσεως, ὅθεν ἢ πῶς ὑπάρξει τοῖς οὖσι, καὶ [20] οὗτοι παραπλησίως τοῖς ἄλλοις ῥᾳθύμως ἀφεῖσαν. περὶ μὲν οὖν τῶν δύο αἰτιῶν, ὥσπερ λέγομεν, ἐπὶ τοσοῦτον ἔοικεν ἐζητῆσθαι παρὰ τῶν πρότερον.
+
+As for motion, whence and how it arises in things, [20] they casually ignored this point, very much as the other thinkers did. Such, then, as I say, seems to be the extent of the inquiries which the earlier thinkers made into these two kinds of cause.
+
+ἐν δὲ τούτοις καὶ πρὸ τούτων οἱ καλούμενοι Πυθαγόρειοι τῶν μαθημάτων ἁψάμενοι πρῶτοι ταῦτά τε προήγαγον, καὶ [25] ἐντραφέντες ἐν αὐτοῖς τὰς τούτων ἀρχὰς τῶν ὄντων ἀρχὰς ᾠήθησαν εἶναι πάντων. 
+
+At the same time, however, and even earlier the so-called9 Pythagoreans applied themselves to mathematics, and were the first to develop this science10; and through studying it they came to believe that its principles are the principles of everything.
+
+ἐπεὶ δὲ τούτων οἱ ἀριθμοὶ φύσει πρῶτοι, ἐν δὲ τούτοις ἐδόκουν θεωρεῖν ὁμοιώματα πολλὰ τοῖς οὖσι καὶ γιγνομένοις, μᾶλλον ἢ ἐν πυρὶ καὶ γῇ καὶ ὕδατι, ὅτι τὸ μὲν τοιονδὶ τῶν ἀριθμῶν πάθος δικαιοσύνη [30] τὸ δὲ τοιονδὶ ψυχή τε καὶ νοῦς ἕτερον δὲ καιρὸς καὶ τῶν ἄλλων ὡς εἰπεῖν ἕκαστον ὁμοίως, ἔτι δὲ τῶν ἁρμονιῶν ἐν ἀριθμοῖς ὁρῶντες τὰ πάθη καὶ τοὺς λόγους,
+
+And since numbers are by nature first among these principles, and they fancied that they could detect in numbers, to a greater extent than in fire and earth and water, many analogues11 of what is and comes into being—such and such a property of number being justice ,12 and such and such soul or mind , another opportunity , and similarly, more or less, with all the rest—and since they saw further that the properties and ratios of the musical scales are based on numbers,13 
+
+ἐπεὶ δὴ τὰ μὲν ἄλλα τοῖς ἀριθμοῖς ἐφαίνοντο τὴν φύσιν ἀφωμοιῶσθαι πᾶσαν, οἱ δ᾽ ἀριθμοὶ πάσης τῆς φύσεως πρῶτοι,
+
+and since it seemed clear that all other things have their whole nature modelled upon numbers, and that numbers are the ultimate things in the whole physical universe,
 ## 986a
 τὰ τῶν ἀριθμῶν στοιχεῖα τῶν ὄντων στοιχεῖα πάντων ὑπέλαβον εἶναι, καὶ τὸν ὅλον οὐρανὸν ἁρμονίαν εἶναι καὶ ἀριθμόν: 
 
@@ -78,12 +178,114 @@ He says that the majority of things in the world of men are in pairs; but the co
 
 Thus Alcmaeon only threw out vague hints with regard to the other instances of contrariety,
 ## 986b
+#### 1
+[1] οἱ δὲ Πυθαγόρειοι καὶ πόσαι καὶ τίνες αἱ ἐναντιώσεις [2] ἀπεφήναντο. 
 
+[1] but the Pythagoreans pronounced how many and what the contraries are. 
+
+παρὰ μὲν οὖν τούτων ἀμφοῖν τοσοῦτον ἔστι λαβεῖν, ὅτι τἀναντία ἀρχαὶ τῶν ὄντων: 
+
+Thus from both these authorities1 we can gather thus much, that the contraries are first principles of things; 
+
+τὸ δ᾽ ὅσαι παρὰ τῶν ἑτέρων, καὶ τίνες αὗταί εἰσιν. 
+
+and from the former, how many and what the contraries are.
+
+πῶς μέντοι πρὸς [5] τὰς εἰρημένας αἰτίας ἐνδέχεται συνάγειν, σαφῶς μὲν οὐ διήρθρωται παρ᾽ ἐκείνων, ἐοίκασι δ᾽ ὡς ἐν ὕλης εἴδει τὰ στοιχεῖα τάττειν: 
+
+How these can be referred to our list of causes is not definitely expressed by them, but they appear to reckon their elements as material; 
+
+ἐκ τούτων γὰρ ὡς ἐνυπαρχόντων συνεστάναι καὶ πεπλάσθαι φασὶ τὴν οὐσίαν.
+
+for they say that these are the original constituents of which Being is fashioned and composed.
 ### 20
-Παρμενίδης μὲν γὰρ ἔοικε τοῦ κατὰ τὸν λόγον ἑνὸς ἅπτεσθαι, Μέλισσος [20] δὲ τοῦ κατὰ τὴν ὕλην （διὸ καὶ ὁ μὲν πεπερασμένον ὁ δ᾽ ἄπειρόν φησιν εἶναι αὐτό）: Ξενοφάνης δὲ πρῶτος τούτων ἑνίσας （ὁ γὰρ Παρμενίδης τούτου λέγεται γενέσθαι μαθητής） οὐθὲν διεσαφήνισεν, οὐδὲ τῆς φύσεως τούτων οὐδετέρας ἔοικε θιγεῖν, ἀλλ᾽ εἰς τὸν ὅλον οὐρανὸν ἀποβλέψας τὸ ἓν εἶναί φησι τὸν [25] θεόν. οὗτοι μὲν οὖν, καθάπερ εἴπομεν, ἀφετέοι πρὸς τὴν νῦν ζήτησιν, οἱ μὲν δύο καὶ πάμπαν ὡς ὄντες μικρὸν ἀγροικότεροι, Ξενοφάνης καὶ Μέλισσος:
+Παρμενίδης μὲν γὰρ ἔοικε τοῦ κατὰ τὸν λόγον ἑνὸς ἅπτεσθαι, Μέλισσος [20] δὲ τοῦ κατὰ τὴν ὕλην 
 
 It appears that Parmenides conceived of the Unity as one in definition,2 [20] but Melissus3 as materially one.
-Hence the former says that it is finite,4 and the latter that it is infinite.5 But Xenophanes,6 the first exponent of the Unity (for Parmenides is said to have been his disciple), gave no definite teaching, nor does he seem to have grasped either of these conceptions of unity; but regarding the whole material universe he stated that the Unity is God.
+
+(διὸ καὶ ὁ μὲν πεπερασμένον ὁ δ᾽ ἄπειρόν φησιν εἶναι αὐτό）: 
+
+Hence the former says that it is finite,4 and the latter that it is infinite.5 
+
+Ξενοφάνης δὲ πρῶτος τούτων ἑνίσας （ὁ γὰρ Παρμενίδης τούτου λέγεται γενέσθαι μαθητής） οὐθὲν διεσαφήνισεν, οὐδὲ τῆς φύσεως τούτων οὐδετέρας ἔοικε θιγεῖν, 
+
+But Xenophanes,6 the first exponent of the Unity (for Parmenides is said to have been his disciple), gave no definite teaching, nor does he seem to have grasped either of these conceptions of unity; 
+
+ἀλλ᾽ εἰς τὸν ὅλον οὐρανὸν ἀποβλέψας τὸ ἓν εἶναί φησι τὸν [25] θεόν. 
+
+but regarding the whole material universe he stated that the Unity is God.
+
+οὗτοι μὲν οὖν, καθάπερ εἴπομεν, ἀφετέοι πρὸς τὴν νῦν ζήτησιν, οἱ μὲν δύο καὶ πάμπαν ὡς ὄντες μικρὸν ἀγροικότεροι, Ξενοφάνης καὶ Μέλισσος:
+
+This school then, as we have said, may be disregarded for the purposes of our present inquiry; two of them, Xenophanes and Melissus, may be completely ignored, as being somewhat too crude in their views. 
+
+Παρμενίδης δὲ μᾶλλον βλέπων ἔοικέ που λέγειν: 
+
+Parmenides, however, seems to speak with rather more insight. 
+
+παρὰ γὰρ τὸ ὂν τὸ μὴ ὂν οὐθὲν ἀξιῶν εἶναι, ἐξ ἀνάγκης ἓν οἴεται εἶναι, τὸ ὄν, καὶ [30] ἄλλο οὐθέν （περὶ οὗ σαφέστερον ἐν τοῖς περὶ φύσεως εἰρήκαμεν）, 
+
+For holding as he does that Not-being, as contrasted with Being, is nothing, he necessarily supposes that Being is one and that there is nothing else (we have discussed this point in greater detail in the Physics7); 
+
+ἀναγκαζόμενος δ᾽ ἀκολουθεῖν τοῖς φαινομένοις, καὶ τὸ ἓν μὲν κατὰ τὸν λόγον πλείω δὲ κατὰ τὴν αἴσθησιν ὑπολαμβάνων εἶναι, δύο τὰς αἰτίας καὶ δύο τὰς ἀρχὰς πάλιν τίθησι, θερμὸν καὶ ψυχρόν, οἷον πῦρ καὶ γῆν λέγων:
+
+but being compelled to accord with phenomena, and assuming that Being is one in definition but many in respect of sensation, he posits in his turn two causes, i.e. two first principles, Hot and Cold; or in other words, Fire and Earth.
+## 987a
+[1] τούτων δὲ κατὰ μὲν τὸ ὂν τὸ θερμὸν τάττει θάτερον δὲ κατὰ τὸ μὴ ὄν.
+
+[1] Of these he ranks Hot under Being and the other under Not-being.1
+
+ἐκ μὲν οὖν τῶν εἰρημένων καὶ παρὰ τῶν συνηδρευκότων ἤδη τῷ λόγῳ σοφῶν ταῦτα παρειλήφαμεν, 
+
+From the account just given, and from a consideration of those thinkers who have already debated this question, we have acquired the following information. 
+
+παρὰ μὲν τῶν πρώτων σωματικήν τε τὴν ἀρχήν （ὕδωρ γὰρ καὶ [5] πῦρ καὶ τὰ τοιαῦτα σώματά ἐστιν）, 
+
+From the earliest philosophers we have learned that the first principle is corporeal (since water and fire and the like are bodies); 
+
+καὶ τῶν μὲν μίαν τῶν δὲ πλείους τὰς ἀρχὰς τὰς σωματικάς, ἀμφοτέρων μέντοι ταύτας ὡς ἐν ὕλης εἴδει τιθέντων, 
+
+some of them assume one and others more than one corporeal principle, but both parties agree in making these principles material. 
+
+παρὰ δέ τινων ταύτην τε τὴν αἰτίαν τιθέντων καὶ πρὸς ταύτῃ τὴν ὅθεν ἡ κίνησις, καὶ ταύτην παρὰ τῶν μὲν μίαν παρὰ τῶν δὲ δύο. 
+
+Others assume in addition to this cause the source of motion, which some hold to be one and others two.
+
+μέχρι μὲν [10] οὖν τῶν Ἰταλικῶν καὶ χωρὶς ἐκείνων μορυχώτερον εἰρήκασιν οἱ ἄλλοι περὶ αὐτῶν, πλὴν ὥσπερ εἴπομεν δυοῖν τε αἰτίαιν τυγχάνουσι κεχρημένοι, καὶ τούτων τὴν ἑτέραν οἱ μὲν μίαν οἱ δὲ δύο ποιοῦσι, τὴν ὅθεν ἡ κίνησις: 
+
+Thus down to and apart from the Italian2 philosophers the other thinkers have expressed themselves vaguely on the subject, except that, as we have said, they actually employ two causes, and one of these—the source of motion —some regard as one and others as two. 
+
+οἱ δὲ Πυθαγόρειοι δύο μὲν τὰς ἀρχὰς κατὰ τὸν αὐτὸν εἰρήκασι τρόπον, τοσοῦτον [15] δὲ προσεπέθεσαν ὃ καὶ ἴδιόν ἐστιν αὐτῶν, ὅτι τὸ πεπερασμένον καὶ τὸ ἄπειρον καὶ τὸ ἓν οὐχ ἑτέρας τινὰς ᾠήθησαν εἶναι φύσεις, οἷον πῦρ ἢ γῆν ἤ τι τοιοῦτον ἕτερον, ἀλλ᾽ αὐτὸ τὸ ἄπειρον καὶ αὐτὸ τὸ ἓν οὐσίαν εἶναι τούτων ὧν κατηγοροῦνται, διὸ καὶ ἀριθμὸν εἶναι τὴν οὐσίαν πάντων. 
+
+The Pythagoreans, while they likewise spoke of two principles, made this further addition, which is peculiar to them: they believed, not that the Limited and the Unlimited are separate entities, like fire or water or some other such thing, but that the Unlimited itself and the One itself are the essence of those things of which they are predicated, and hence that number is the essence of all things. 
+
+περί τε [20] τούτων οὖν τοῦτον ἀπεφήναντο τὸν τρόπον, καὶ περὶ τοῦ τί ἐστιν ἤρξαντο μὲν λέγειν καὶ ὁρίζεσθαι, λίαν δ᾽ ἁπλῶς ἐπραγματεύθησαν. 
+
+[20] Such is the nature of their pronouncements on this subject. They also began to discuss and define the "what" of things; but their procedure was far too simple. 
+
+ὡρίζοντό τε γὰρ ἐπιπολαίως, καὶ ᾧ πρώτῳ ὑπάρξειεν ὁ λεχθεὶς ὅρος, τοῦτ᾽ εἶναι τὴν οὐσίαν τοῦ πράγματος ἐνόμιζον, ὥσπερ εἴ τις οἴοιτο ταὐτὸν εἶναι διπλάσιον καὶ τὴν [25] δυάδα διότι πρῶτον ὑπάρχει τοῖς δυσὶ τὸ διπλάσιον. 
+
+They defined superficially, and supposed that the essence of a thing is that to which the term under consideration first applies—e.g. as if it were to be thought that "double" and "2" are the same, because 2 is the first number which is double another.
+
+ἀλλ᾽ οὐ ταὐτὸν ἴσως ἐστὶ τὸ εἶναι διπλασίῳ καὶ δυάδι: 
+
+But presumably "to be double a number" is not the same as "to be the number 2." 
+
+εἰ δὲ μή, πολλὰ τὸ ἓν ἔσται, ὃ κἀκείνοις συνέβαινεν. 
+
+Otherwise, one thing will be many—a consequence which actually followed in their system.3 
+
+παρὰ μὲν οὖν τῶν πρότερον καὶ τῶν ἄλλων τοσαῦτα ἔστι λαβεῖν.
+
+This much, then, can be learned from other and earlier schools of thought.
+
+μετὰ δὲ τὰς εἰρημένας φιλοσοφίας ἡ Πλάτωνος ἐπεγένετο [30] πραγματεία, τὰ μὲν πολλὰ τούτοις ἀκολουθοῦσα, τὰ δὲ καὶ ἴδια παρὰ τὴν τῶν Ἰταλικῶν ἔχουσα φιλοσοφίαν. 
+
+The philosophies described above were succeeded by the system of Plato,4 which in most respects accorded with them, but contained also certain peculiar features distinct from the philosophy of the Italians.
+
+ἐκ νέου τε γὰρ συνήθης γενόμενος πρῶτον Κρατύλῳ καὶ ταῖς Ἡρακλειτείοις δόξαις, ὡς ἁπάντων τῶν αἰσθητῶν ἀεὶ ῥεόντων καὶ ἐπιστήμης περὶ αὐτῶν οὐκ οὔσης, ταῦτα μὲν καὶ ὕστερον οὕτως ὑπέλαβεν:
+
+In his youth Plato first became acquainted with Cratylus5 and the Heraclitean doctrines—that the whole sensible world is always in a state of flux,6 and that there is no scientific knowledge of it—and in after years he still held these opinions.
 ## 990b
 ### 31
 (λέγω δ᾽ οἷον, εἴ τι αὐτοδιπλασίου μετέχει, τοῦτο καὶ ἀϊδίου μετέχει, 

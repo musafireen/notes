@@ -1755,7 +1755,7 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839347
 #### 1
 दे॒वानां॒ नु व॒यं जाना॒ प्र वो॑चाम विप॒न्यया॑ । 
 
-“Let us proclaim with a clear voice the genitive rations of the gods (the divine company), 
+“Let us proclaim with a clear voice the generations of the gods (the divine company), 
 
 उ॒क्थेषु॑ श॒स्यमा॑नेषु॒ यः पश्या॒दुत्त॑रे यु॒गे ॥
 
@@ -2428,42 +2428,55 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840059
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840079.html
 #### 1
 नास॑दासी॒न्नो सदा॑सीत्त॒दानीं॒ नासी॒द्रजो॒ 
+
 “The (asat) non-existent was not, the (sat) existent was not; then the (idāni) world was not, not the (rajas) firmament, 
 
 नो व्यो॑मा प॒रो यत् । 
+
 nor that which is above (the firmament). 
 
 किमाव॑रीव॒: कुह॒ 
+
 How could there by any (āvṛ) investing envelope, and where? 
 
 कस्य॒ शर्म॒न्नम्भ॒: 
+
 Of what (could there be) (śram) felicity? 
 
 किमा॑सी॒द्गह॑नं गभी॒रम् ॥
+
 How (could there be) the (gabhīra) deep (gahana) unfathomable water?”
 #### 2
 न मृ॒त्युरा॑सीद॒मृतं॒ न तर्हि॒ 
+
 “(mṛtyu) Death was not nor at that period (amṛta) immortality, 
 
 न रात्र्या॒ अह्न॑ आसीत्प्रके॒तः । 
+
 there was no indication of (ahn) day, of (rātrī) night; 
 
 आनी॑दवा॒तं स्व॒धया॒ तदेकं॒ 
+
 That (eka) One (avāta) unbreathed upon (ān) breathed of his (svadhā) own strength, 
 
 तस्मा॑द्धा॒न्यन्न प॒रः किं च॒नास॑ ॥
+
 (paras) other than That there was nothing else whatever.”
 #### 3
 तम॑ आसी॒त्तम॑सा गू॒ळ्हमग्रे॑ऽप्रके॒तं स॑लि॒लं सर्व॑मा इ॒दम् । 
+
 “There was (tamas) darkness (gūh) covered by darkness in the (agra) beginning, (sarva)'all (idam) this (world) was (salila) (keta) undistinguishable water; 
 
 तु॒च्छ्येना॒भ्वपि॑हितं॒ यदासी॒त्तप॑स॒स्तन्म॑हि॒नाजा॑य॒तैक॑म् ॥
+
 that empty (eka) united (world) which was (apihi) covered by a (tucchya) mere nothing, was (jan) produced through the (mahi) power of (tapas) austerity.”
 #### 4
 काम॒स्तदग्रे॒ सम॑वर्त॒ताधि॒ मन॑सो॒ रेत॑: प्रथ॒मं यदासी॑त् । 
+
 “In the (agra) beginning there was (kāma) desire, which was the (prathama) first (retas) seed of (manas) mind; 
 
 स॒तो बन्धु॒मस॑ति॒ निर॑विन्दन्हृ॒दि प्र॒तीष्या॑ क॒वयो॑ मनी॒षा ॥
+
 (kavi) sages having (pratīṣ) meditated in their hearts have (nirvid) discovered by their (manīṣ) wisdom the (bandhu) connexion of the (sat) existent with the (asat) non-existent.”
 #### 5
 ति॒र॒श्चीनो॒ वित॑तो र॒श्मिरे॑षाम॒धः स्वि॑दा॒सी३दु॒परि॑ स्विदासी३त् । 
@@ -2471,6 +2484,7 @@ that empty (eka) united (world) which was (apihi) covered by a (tucchya) mere no
 “Their (raśmi) ray was (tan) stretched out, whether (tiras) across, or (adhas) below, or (upari) above; 
 
 रे॒तो॒धा आ॑सन्महि॒मान॑ आसन्त्स्व॒धा अ॒वस्ता॒त्प्रय॑तिः प॒रस्ता॑त् ॥
+
 (some) were (retodhā) shedders of seed, (others) were mighty; (svadhā) food was (avas) inferior; the (prayati) eater was (paras) superior.”
 #### 6
 को अ॒द्धा वे॑द॒ क इ॒ह प्र वो॑च॒त्कुत॒ आजा॑ता॒ कुत॑ इ॒यं विसृ॑ष्टिः । 
@@ -2478,12 +2492,15 @@ that empty (eka) united (world) which was (apihi) covered by a (tucchya) mere no
 “Who really (vid) knows? Who in (iha) this world may (vac) declare it! whence was this (jan) creation, whence was (iyam) it (visṛj) engendered? 
 
 अ॒र्वाग्दे॒वा अ॒स्य वि॒सर्ज॑ने॒नाथा॒ को वे॑द॒ यत॑ आब॒भूव॑ ॥
+
 The (deva) gods (were) (arvāc) subsequent to the (world's) (visarj) creation; so who knows whence it (bhav) arose?”
 #### 7
 इ॒यं विसृ॑ष्टि॒र्यत॑ आब॒भूव॒ यदि॑ वा द॒धे यदि॑ वा॒ न । 
+
 “He from whom this (visṛṣṭi) creation (bhav) arose, he may (dha) uphold it, or he may not (no one else can); 
 
 यो अ॒स्याध्य॑क्षः पर॒मे व्यो॑म॒न्त्सो अ॒ङ्ग वे॑द॒ यदि॑ वा॒ न वेद॑ ॥
+
 he who is its (adhyakṣa) superintendent in the (parama) highest (vyoma) heaven, he (aṅga) assuredly (vid) knows, or if he knows not (no one else does).”
 
 ## 10.136

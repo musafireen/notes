@@ -108,13 +108,44 @@ EPIMENIDES (c. 600 B.C.)
 
 ### 110
 [110] γνωσθεὶς δὲ παρὰ τοῖς Ἕλλησι θεοφιλέστατος εἶναι ὑπελήφθη.
-Τότε καὶ Ἀθηναίοις [τότε] λοιμῷ κατεχομένοις ἔχρησεν ἡ Πυθία καθῆραι τὴν πόλιν: οἱ δὲ πέμπουσι ναῦν τε καὶ Νικίαν τὸν Νικηράτου εἰς Κρήτην, καλοῦντες τὸν Ἐπιμενίδην. καὶ ὃς ἐλθὼν Ὀλυμπιάδι τεσσαρακοστῇ ἕκτῇ ἐκάθηρεν αὐτῶν τὴν πόλιν καὶ ἔπαυσε τὸν λοιμὸν τοῦτον τὸν τρόπον. λαβὼν πρόβατα μέλανά τε καὶ λευκὰ ἤγαγε πρὸς τὸν Ἄρειον πάγον: κἀκεῖθεν εἴασεν ἰέναι οἷ βούλοιντο, προστάξας τοῖς ἀκολούθοις ἔνθα ἂν κατακλίνοι αὐτῶν ἕκαστον, θύειν τῷ προσήκοντι θεῷ: καὶ οὕτω λῆξαι τὸ κακόν. ὅθεν ἔτι καὶ νῦν ἔστιν εὑρεῖν κατὰ τοὺς δήμους τῶν
-
-Ἀθηναίωι βωμοὺς ἀνωνύμους, ὑπόμνημα τῆς τότε γενομένης ἐξιλάσεως. οἱ δὲ τὴν αἰτίαν εἰπεῖν τοῦ λοιμοῦ τὸ Κυλώνειον ἄγος σημαίνειν τε τὴν ἀπαλλαγήν: καὶ διὰ τοῦτο ἀποθανεῖν δύο νεανίας, Κρατῖνον καὶ Κτησίβιον, καὶ λυθῆναι τὴν συμφοράν.
 
 So he became famous throughout Greece, and was believed to be a special favourite of heaven.
-Hence, when the Athenians were attacked by pestilence, and the Pythian priestess bade them purify the city, they sent a ship commanded by Nicias, son of Niceratus, to Crete to ask the help of Epimenides. And he came in the 46th Olympiad,1 purified their city, and stopped the pestilence in the following way. He took sheep, some black and others white, and brought them to the Areopagus; and there he let them go whither they pleased, instructing those who followed them to mark the spot where each sheep lay down and offer a sacrifice to the local divinity. And thus, it is said, the plague was stayed. Hence even to this day altars may be found in different parts of Attica with no name inscribed upon them, which are memorials of this atonement. According to some writers he declared the plague to have been caused by the pollution which Cylon brought on the city and showed them how to remove it. In consequence two young men, Cratinus and Ctesibius, were put to death and the city was delivered from the scourge.
 
+Τότε καὶ Ἀθηναίοις [τότε] λοιμῷ κατεχομένοις ἔχρησεν ἡ Πυθία καθῆραι τὴν πόλιν: 
+
+Hence, when the Athenians were attacked by pestilence, and the Pythian priestess bade them purify the city, 
+
+οἱ δὲ πέμπουσι ναῦν τε καὶ Νικίαν τὸν Νικηράτου εἰς Κρήτην, καλοῦντες τὸν Ἐπιμενίδην. 
+
+they sent a ship commanded by Nicias, son of Niceratus, to Crete to ask the help of Epimenides. 
+
+καὶ ὃς ἐλθὼν Ὀλυμπιάδι τεσσαρακοστῇ ἕκτῇ ἐκάθηρεν αὐτῶν τὴν πόλιν καὶ ἔπαυσε τὸν λοιμὸν τοῦτον τὸν τρόπον. 
+
+And he came in the 46th Olympiad,1 purified their city, and stopped the pestilence in the following way. 
+
+λαβὼν πρόβατα μέλανά τε καὶ λευκὰ ἤγαγε πρὸς τὸν Ἄρειον πάγον: 
+
+He took sheep, some black and others white, and brought them to the Areopagus; 
+
+κἀκεῖθεν εἴασεν ἰέναι οἷ βούλοιντο, προστάξας τοῖς ἀκολούθοις ἔνθα ἂν κατακλίνοι αὐτῶν ἕκαστον, θύειν τῷ προσήκοντι θεῷ: 
+
+and there he let them go whither they pleased, instructing those who followed them to mark the spot where each sheep lay down and offer a sacrifice to the local divinity. 
+
+καὶ οὕτω λῆξαι τὸ κακόν. 
+
+And thus, it is said, the plague was stayed. 
+
+ὅθεν ἔτι καὶ νῦν ἔστιν εὑρεῖν κατὰ τοὺς δήμους τῶν Ἀθηναίωι βωμοὺς ἀνωνύμους, ὑπόμνημα τῆς τότε γενομένης ἐξιλάσεως. 
+
+Hence even to this day altars may be found in different parts of Attica with no name inscribed upon them, which are memorials of this atonement. 
+
+οἱ δὲ τὴν αἰτίαν εἰπεῖν τοῦ λοιμοῦ τὸ Κυλώνειον ἄγος σημαίνειν τε τὴν ἀπαλλαγήν: 
+
+According to some writers he declared the plague to have been caused by the pollution which Cylon brought on the city and showed them how to remove it. 
+
+καὶ διὰ τοῦτο ἀποθανεῖν δύο νεανίας, Κρατῖνον καὶ Κτησίβιον, καὶ λυθῆναι τὴν συμφοράν.
+
+In consequence two young men, Cratinus and Ctesibius, were put to death and the city was delivered from the scourge.
 ### 111
 Ἀθηναῖοι δὲ τάλαντον ἐψηφίσαντο δοῦναι αὐτῷ καὶ ναῦν τὴν ἐς Κρήτην ἀπάξουσαν αὐτόν. ὁ δὲ τὸ μὲν ἀργύριον οὐ προσήκατο: φιλίαν δὲ καὶ συμμαχίαν ἐποιήσατο Κνωσίων καὶ Ἀθηναίων.
 
@@ -308,6 +339,156 @@ So much for those who are called the Sages, with whom some writers also class Pi
 4 Anth. Plan. iii. 128.
 
 5 [122] This forgery is easily analysed. There is the tradition of the malady which proved fatal to Pherecydes ( cf. Porphyry, Vit. Pyth. §55), with the anecdote of his protruding his finger through the door. There is also an allusion to the alleged obscurity of the work on the gods which passed current as written by him.
+# b6
+## c2
+#### 23
+βακτηρίᾳ δ᾽ ἐπεστηρίζετο ἀσθενήσας: 
+
+He did not lean upon a staff until he grew infirm ; 
+
+ἔπειτα μέντοι καὶ διὰ παντὸς ἐφόρει, οὐ μὴν ἐν ἄστει, ἀλλὰ καθ᾽ ὁδὸν αὐτῇ τε καὶ τῇ πήρᾳ, καθά φησιν Ἀθηνόδωρος ὁ Ἀθηναίων προστατήσας καὶ Πολύευκτος ὁ ῥήτωρ καὶ Λυσανίας ὁ Αἰσχρίωνος. 
+
+but afterwards he would carry it everywhere, not indeed in the city, but when walking along the road with it and with his wallet ; so say Olympiodorus,1 once a magistrate at Athens, Polyeuctus the orator, and Lysanias the son of Aeschrio. 
+
+ἐπιστείλας δέ τινι οἰκίδιον αὐτῷ προνοήσασθαι, βραδύνοντος, τὸν ἐν τῷ Μητρῴῳ πίθον ἔσχεν οἰκίαν, ὡς καὶ αὐτὸς ἐν ταῖς ἐπιστολαῖς διασαφεῖ. 
+
+He had written to some one to try and procure a cottage for him. When this man was a long time about it, he took for his abode the tub in the Metroön, as he himself explains in his letters. 
+
+καὶ θέρους μὲν ἐπὶ ψάμμου ζεστῆς ἐκυλινδεῖτο, χειμῶνος δ᾽ ἀνδριάντας κεχιονισμένους περιελάμβανε, πανταχόθεν ἑαυτὸν συνασκῶν.
+
+And in summer he used to roll in it over hot sand, while in winter he used to embrace statues covered with snow, using every means of inuring himself to hardship.
+#### 34
+Πρὸς τοὺς εἰπόντας, "γέρων εἶ καὶ λοιπὸν ἄνες," "τί δέ," ἔφη, "εἰ δόλιχον ἔτρεχον, πρὸς τῷ τέλει ἔδει με ἀνεῖναι καὶ μὴ μᾶλλον ἐπιτεῖναι;" 
+
+To those who said to him, "You are an old man ; take a rest," "What ?" he replied, "if I were running in the stadium, ought I to slacken my pace when approaching the goal ? ought I not rather to put on speed ?" 
+
+κληθεὶς ἐπὶ δεῖπνον οὐκ ἔφη παρέσεσθαι: μηδὲ γὰρ πρῴην αὐτῷ χάριν ἐγνωκέναι. 
+
+Having been invited to a dinner, he declared that he wouldn't go ; for, the last time he went, his host had not expressed a proper gratitude. 
+
+γυμνοῖς ποσὶ χιόνα ἐπάτει καὶ τἄλλα ὅσα ἄνω προείρηται: 
+
+He would walk upon snow barefoot and do the other things mentioned above. 
+
+καὶ ὠμὰ δὲ κρέα ἐπεχείρησε φαγεῖν, ἀλλ᾽ οὐ διῴκησε. 
+
+Not only so ; he even attempted to eat meat raw, but could not manage to digest it. 
+
+κατέλαβέ ποτε Δημοσθένην τὸν ῥήτορα ἐν πανδοκείῳ ἀριστῶντα. 
+
+He once found Demosthenes the orator lunching at an inn, 
+
+τοῦ δ᾽ ὑποχωροῦντος, "τοσούτῳ μᾶλλον," ἔφη, "ἔσῃ ἐν τῷ πανδοκείῳ." 
+
+and, when he retired within, Diogenes said, "All the more you will be inside the tavern." 
+
+ξένων δέ ποτε θεάσασθαι θελόντων Δημοσθένην, τὸν μέσον δάκτυλον ἐκτείνας, "οὗτος ὑμῖν," ἔφη, "ἐστὶν ὁ Ἀθηναίων δημαγωγός." 16
+
+When some strangers expressed a wish to see Demosthenes, he stretched out his middle finger and said, "There goes the demagogue of Athens."
+#### 35
+ἐκβαλόντος δ᾽ ἄρτον τινὸς καὶ αἰσχυνομένου ἀνελέσθαι, βουλόμενος αὐτὸν νουθετῆσαι, κεράμου τράχηλον δήσας ἔσυρε διὰ τοῦ Κεραμεικοῦ.
+
+Some one dropped a loaf of bread and was ashamed to pick it up ; whereupon Diogenes, wishing to read him a lesson, tied a rope to the neck of a wine-jar and proceeded to drag it across the Ceramicus.
+
+Μιμεῖσθαι ἔλεγε τοὺς χοροδιδασκάλους: 
+
+He used to say that he followed the example of the trainers of choruses ; 
+
+καὶ γὰρ ἐκείνους ὑπὲρ τόνον ἐνδιδόναι ἕνεκα τοῦ τοὺς λοιποὺς ἅψασθαι τοῦ προσήκοντος τόνου. 
+
+for they too set the note a little high, to ensure that the rest should hit the right note. 
+
+τοὺς πλείστους ἔλεγε παρὰ δάκτυλον μαίνεσθαι: 
+
+Most people, he would say, are so nearly mad that a finger makes all the difference. 
+
+ἐὰν οὖν τις τὸν μέσον προτείνας πορεύηται, δόξει τῳ μαίνεσθαι, ἐὰν δὲ τὸν λιχανόν, οὐκέτι. 
+
+For, if you go along with your middle finger stretched out, some one will think you mad, but, if it's the little finger, he will not think so. 
+
+τὰ πολλοῦ ἄξια τοῦ μηδενὸς ἔλεγε πιπράσκεσθαι καὶ ἔμπαλιν: 
+
+Very valuable things, said he, were bartered for things of no value, and vice versa. 
+
+ἀνδριάντα γοῦν τρισχιλίων πιπράσκεσθαι, χοίνικα δ᾽ ἀλφίτων δύο χαλκῶν.
+
+At all events a statue fetches three thousand drachmas, while a quart of barley-flour is sold for two copper coins.
+#### 37
+Θεασάμενός ποτε παιδίον ταῖς χερσὶ πῖνον ἐξέρριψε τῆς πήρας τὴν κοτύλην, εἰπών, "παιδίον με νενίκηκεν εὐτελείᾳ." 
+
+One day, observing a child drinking out of his hands, he cast away the cup from his wallet with the words, "A child has beaten me in plainness of living." 
+
+ἐξέβαλε δὲ καὶ τὸ τρυβλίον, ὁμοίως παιδίον θεασάμενος, ἐπειδὴ κατέαξε τὸ σκεῦος, τῷ κοίλῳ τοῦ ψωμίου τὴν φακῆν ὑποδεχόμενον. 
+
+He also threw away his bowl when in like manner he saw a child who had broken his plate taking up his lentils with the hollow part of a morsel of bread. 
+
+συνελογίζετο δὲ καὶ οὕτως: τῶν θεῶν ἐστι πάντα: φίλοι δὲ οἱ σοφοὶ τοῖς θεοῖς: κοινὰ δὲ τὰ τῶν φίλων. πάντ᾽ ἄρα ἐστὶ τῶν σοφῶν. 
+
+He used also to reason thus: "All things belong to the gods. The wise are friends of the gods, and friends hold things in common. Therefore all things belong to the wise." 
+
+θεασάμενός ποτε γυναῖκα ἀσχημονέστερον τοῖς θεοῖς προσπίπτουσαν, βουλόμενος αὐτῆς περιελεῖν τὴν δεισιδαιμονίαν, καθά φησι Ζωίλος ὁ Περγαῖος, προσελθὼν εἶπεν, 
+
+One day he saw a woman kneeling before the gods in an ungraceful attitude, and wishing to free her of superstition, according to Zoïlus of Perga, he came forward and said, 
+
+"οὐκ εὐλαβῇ, ὦ γύναι, μή ποτε θεοῦ ὄπισθεν ἑστῶτοσ--πάντα γάρ ἐστιν αὐτοῦ πλήρη--ἀσχημονήσῃς;" 19
+
+"Are you not afraid, my good woman, that a god may be standing behind you ?--for all things are full of his presence--and you may be put to shame ?
+#### 54
+Ἐρωτηθεὶς ὑπό τινος, "ποῖός τίς σοι Διογένης δοκεῖ ;" 
+
+On being asked by somebody, "What sort of a man do you consider Diogenes to be?" 
+
+"Σωκράτης," εἶπε, "μαινόμενος." 37 
+
+"A Socrates gone mad," said he.19 
+
+ἐρωτηθεὶς ποίῳ καιρῷ δεῖ γαμεῖν, ἔφη, "τοὺς μὲν νέους μηδέπω, τοὺς δὲ πρεσβυτέρους μηδεπώποτε." 
+
+Being asked what was the right time to marry, Diogenes replied, "For a young man not yet: for an old man never at all." 
+
+ἐρωτηθεὶς τί θέλοι κονδύλου λαβεῖν, "περικεφαλαίαν," ἔφη. 
+
+Being asked what he would take to be soundly cuffed, he replied, "A helmet." 
+
+μειράκιον ἰδὼν καλλωπιζόμενον ἔφη, "εἰ μὲν πρὸς ἄνδρας, ἀτυχεῖς: εἰ δὲ πρὸς γυναῖκας, ἀδικεῖς." 
+
+Seeing a youth dressing with elaborate care, he said, "If it's for men, you're a fool; if for women, a knave." 
+
+ἰδών ποτε μειράκιον ἐρυθριῶν, "θάρρει," ἔφη: "τοιοῦτόν ἐστι τῆς ἀρετῆς τὸ χρῶμα." 
+
+One day he detected a youth blushing. "Courage," quoth he, "that is the hue of virtue." 
+
+δυοῖν ποτε νομικοῖν ἀκούσας τοὺς δύο κατέκρινεν, εἰπὼν τὸν μὲν κεκλοφέναι, τὸν δὲ μὴ ἀπολωλεκέναι. 
+
+One day after listening to a couple of lawyers disputing, he condemned them both, saying that the one had no doubt stolen, but the other had not lost anything. 
+
+ἐρωτηθεὶς ποῖον οἶνον ἡδέως πίνει, ἔφη, "τὸν ἀλλότριον." 
+
+To the question what wine he found pleasant to drink, he replied, "That for which other people pay." 
+
+πρὸς τὸν εἰπόντα, "πολλοί σου καταγελῶσιν," "ἀλλ᾽ ἐγώ," ἔφη, "οὐ καταγελῶμαι.
+
+When he was told that many people laughed at him, he made answer, "But I am not laughed down.
+#### 73
+Μηδέν τε ἄτοπον εἶναι ἐξ ἱεροῦ τι λαβεῖν ἢ τῶν ζῴων τινὸς γεύσασθαι: 
+
+And he saw no impropriety either in stealing anything from a temple or in eating the flesh of any animal ; 
+
+μηδ᾽ ἀνόσιον εἶναι τὸ καὶ τῶν ἀνθρωπείων κρεῶν ἅψασθαι, ὡς δῆλον ἐκ τῶν ἀλλοτρίων ἐθῶν: 
+
+nor even anything impious in touching human flesh, this, he said, being clear from the custom of some foreign nations. 
+
+καὶ τῷ ὀρθῷ λόγῳ πάντ᾽ ἐν πᾶσι καὶ διὰ πάντων εἶναι λέγων. 
+
+Moreover, according to right reason, as he put it, all elements are contained in all things and pervade everything : 
+
+καὶ γὰρ ἐν τῷ ἄρτῳ κρέας εἶναι καὶ ἐν τῷ λαχάνῳ ἄρτον, καὶ τῶν σωμάτων τῶν λοιπῶν ἐν πᾶσι διά τινων ἀδήλων πόρων [καὶ]60 ὄγκων εἰσκρινομένων καὶ συνατμιζομένων, ὡς δῆλον ἐν τῷ Πυέστῃ ποιεῖ, εἴ γ᾽ αὐτοῦ αἱ τραγῳδίαι καὶ μὴ Φιλίσκου τοῦ Αἰγινήτου ἐκείνου γνωρίμου ἢ Πασιφῶντος τοῦ Λουκιανοῦ, ὅν φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ μετὰ τὴν τελευτὴν αὐτοῦ συγγράψαι. 
+
+since not only is meat a constituent of bread, but bread of vegetables ; and all other bodies also, by means of certain invisible passages and particles, find their way in and unite with all substances in the form of vapour. This he makes plain in the Thyestes, if the tragedies are really his and not the work of his friend Philiscus of Aegina or of Pasiphon, the son of Lucian,31 who according to Favorinus in his Miscellaneous History wrote them after the death of Diogenes. 
+
+μουσικῆς τε καὶ γεωμετρικῆς καὶ ἀστρολογίας καὶ τῶν τοιούτων ἀμελεῖν, ὡς ἀχρήστων καὶ οὐκ ἀναγκαίων.
+
+He held that we should neglect music, geometry, astronomy, and the like studies, as useless and unnecessary.
 # b8
 
 ## c1
@@ -2166,7 +2347,43 @@ https://en.m.wikipedia.org/wiki/Hippasus#:~:text=Mystic
 [12](#8#1#12) [15](#8#1#15)  [47](#8#1#47) [48](#8#1#48)
 
 https://en.m.wikipedia.org/wiki/Favorinus
+## c2
+### s62
+ὦ φίλοι, οἳ μέγα ἄστυ κατὰ ξανθοῦ Ἀκράγαντος ναίετ᾽ ἀν᾽ ἄκρα πόλεος, ἀγαθῶν μελεδήμονες ἔργων, χαίρετ᾽: 
 
+My friends, who dwell in the grcat city sloping down to yellow Acragas, hard by the citadel, busied with goodly works, all hail! 
+
+ἐγὼ δ᾽ ὑμῖν θεὸς ἄμβροτος, οὐκέτι θνητὸς πωλεῦμαι μετὰ πᾶσι τετιμένος, ὥσπερ ἔοικα, ταινίαις τε περίστεπτος στέφεσίν τε θαλείοις: 
+
+I go about among you an immortal god, no more a mortal, so honoured of all, as is meet, crowned with fillets and flowery garlands. 
+
+τοῖσιν ἅμ᾽ <εὖτ᾽> ἂν ἵκωμαι ἐς ἄστεα τηλεθάοντα, ἀνδράσιν ἠδὲ γυναιξί, σεβίζομαι: 
+
+Straightway as soon as I enter with these, men and women, into flourishing towns, I am reverenced 
+
+οἱ δ᾽ ἅμ᾽ ἕπονται μυρίοι, ἐξερέοντες ὅπῃ πρὸς κέρδος ἀταρπός: 
+
+and tens of thousands follow, to learn where is the path which leads to welfare, 
+
+οἱ μὲν μαντοσυνέων κεχρημένοι, οἱ δ᾽ ἐπὶ νούσων παντοίων ἐπύθοντο κλύειν εὐηκέα βάξιν.
+
+some desirous of oracles, others suffering from all kinds of diseases, desiring to hear a message of healing.
+### s69
+Ἕρμιππος δέ φησι Πάνθειάν τινα Ἀκραγαντίνην ἀπηλπισμένην ὑπὸ τῶν ἰατρῶν θεραπεῦσαι αὐτὸν καὶ διὰ τοῦτο τὴν θυσίαν ἐπιτελεῖν: τοὺς δὲ κληθέντας εἶναι πρὸς τοὺς ὀγδοήκοντα. 
+
+Hermippus tells us that Empedocles cured Panthea, a woman of Agrigentum, who had been given up by the physicians, and this was why he was offering sacrifice, and that those invited were about eighty in number. 
+
+Ἱππόβοτος δέ φησιν ἐξαναστάντα αὐτὸν ὡδευκέναι ὡς ἐπὶ τὴν Αἴτνην, εἶτα παραγενόμενον ἐπὶ τοὺς κρατῆρας τοῦ πυρὸς ἐναλέσθαι καὶ ἀφανισθῆναι, βουλόμενον τὴν περὶ αὑτοῦ φήμην βεβαιῶσαι ὅτι γεγόνοι θεός, ὕστερον δὲ γνωσθῆναι, ἀναρριπισθείσης αὐτοῦ μιᾶς τῶν κρηπίδων: 
+
+Hippobotus, again, asserts that, when he got up, he set out on his way to Etna ; then, when he had reached it, he plunged into the fiery craters and disappeared, his intention being to confirm the report that he had become a god. Afterwards the truth was known, because one of his slippers was thrown up in the flames ; 
+
+χαλκᾶς γὰρ εἴθιστο ὑποδεῖσθαι. 
+
+it had been his custom to wear slippers of bronze. 
+
+πρὸς τοῦθ᾽ ὁ Παυσανίας ἀντέλεγε.
+
+To this story Pausanias is made (by Heraclides) to take exception.21
 ## c5
 
 ### 83

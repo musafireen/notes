@@ -4,8 +4,198 @@ http://classics.mit.edu/Aristotle/physics.html
 
 http://khazarzar.skeptik.net/books/aristot/physicag.htm
 
-# D
+# A
+## 191a
+τὸ ἕτερον ὑπάρχειν τὸ εἶναι αὐτοῖς, ἀλλὰ τρεῖς· 
 
+ἕτερον γὰρ τὸ ἀνθρώπῳ καὶ τὸ ἀμούσῳ εἶναι, καὶ τὸ ἀσχηματίστῳ καὶ χαλκῷ.
+### 3
+πόσαι μὲν οὖν αἱ ἀρχαὶ τῶν περὶ γένεσιν φυσικῶν, καὶ πῶς ποσαί, εἴρηται· 
+
+So then, it has been stated how many and in what way the principles of natural generation exist.  
+
+καὶ δῆλόν ἐστιν ὅτι δεῖ ὑποκεῖσθαί τι τοῖς ἐναντίοις καὶ τἀναντία δύο εἶναι. 
+
+And it is clear that something must underlie the contraries, and that the contraries must be two.  
+
+τρόπον δέ τινα ἄλλον οὐκ ἀναγκαῖον· 
+
+But in another way, this is not necessary, 
+
+ἱκανὸν γὰρ ἔσται τὸ ἕτερον τῶν ἐναντίων ποιεῖν τῇ ἀπουσίᾳ καὶ παρουσίᾳ τὴν μεταβολήν. 
+
+for it will be sufficient that one of the contraries causes change through its presence and absence.  
+
+ἡ δὲ ὑποκειμένη φύσις ἐπιστητὴ κατ' ἀναλογίαν. 
+
+The underlying nature is knowable by analogy.  
+
+ὡς γὰρ πρὸς ἀνδριάντα χαλκὸς ἢ πρὸς κλίνην ξύλον ἢ πρὸς τῶν ἄλλων τι τῶν ἐχόντων μορφὴν [ἡ ὕλη καὶ] τὸ ἄμορφον ἔχει πρὶν λαβεῖν τὴν μορφήν, οὕτως αὕτη πρὸς οὐσίαν ἔχει καὶ τὸ τόδε τι καὶ τὸ ὄν. 
+
+Just as bronze in relation to a statue, or wood in relation to a bed, or any other material in relation to a shaped object,  
+first exists without form before taking on form, so too does this (matter) relate to substance, to individual things, and to being.  
+
+μία μὲν οὖν ἀρχὴ αὕτη, οὐχ οὕτω μία οὖσα οὐδὲ οὕτως ὂν ὡς τὸ τόδε τι, μία δὲ ἧς ὁ λόγος, ἔτι δὲ τὸ ἐναντίον τούτῳ, ἡ στέρησις. 
+
+Thus, there is one principle—though not one in the same way as an individual thing—  
+and another principle which is defined by reason, and yet another, its opposite: privation.  
+
+ταῦτα δὲ πῶς δύο καὶ πῶς πλείω, εἴρηται ἐν τοῖς ἄνω. 
+
+How these are two and yet more than two has been explained earlier.  
+
+πρῶτον μὲν οὖν ἐλέχθη ὅτι ἀρχαὶ τἀναντία μόνον, ὕστερον δ' ὅτι ἀνάγκη καὶ ἄλλο τι
+ὑποκεῖσθαι καὶ εἶναι τρία· 
+
+At first, it was stated that the principles are only contraries. Later, it was said that there must also be something underlying them,  
+so that in total there are three principles.  
+
+ἐκ δὲ τῶν νῦν φανερὸν τίς ἡ διαφορὰ τῶν ἐναντίων, καὶ πῶς ἔχουσιν αἱ ἀρχαὶ πρὸς ἀλλήλας, καὶ τί τὸ ὑποκείμενον. 
+
+From what has now been stated, it is clear what the difference between the contraries is, how the principles relate to each other, and what the underlying subject is.  
+
+πότερον δὲ οὐσία τὸ εἶδος ἢ τὸ ὑποκείμενον, οὔπω δῆλον. 
+
+However, whether the form or the underlying subject is substance is not yet clear.  
+
+ἀλλ' ὅτι αἱ ἀρχαὶ τρεῖς καὶ πῶς τρεῖς, καὶ τίς ὁ τρόπος αὐτῶν, δῆλον. 
+
+But that the principles are three, in what way they are three, and their nature—this is evident.  
+
+πόσαι μὲν οὖν καὶ τίνες εἰσὶν αἱ ἀρχαί, ἐκ τούτων θεωρείσθωσαν.
+
+From this, then, let it be considered how many and what the principles are.  
+
+Ὅτι δὲ μοναχῶς οὕτω λύεται καὶ ἡ τῶν ἀρχαίων
+ἀπορία, λέγωμεν μετὰ ταῦτα. 
+
+That this also resolves the ancient difficulty in a unique way, let us now state.  
+
+ζητοῦντες γὰρ οἱ κατὰ φιλοσοφίαν πρῶτοι τὴν ἀλήθειαν καὶ τὴν φύσιν τῶν ὄντων ἐξετράπησαν οἷον ὁδόν τινα ἄλλην ἀπωσθέντες ὑπὸ ἀπειρίας, 
+
+For the first philosophers, in seeking truth and the nature of beings, were diverted from the correct path by inexperience and claimed that nothing comes into being nor perishes,  
+### 27
+καί φασιν οὔτε γίγνεσθαι τῶν ὄντων οὐδὲν οὔτε φθείρεσθαι διὰ τὸ ἀναγκαῖον μὲν εἶναι γίγνεσθαι τὸ γιγνόμενον ἢ ἐξ ὄντος ἢ ἐκ μὴ ὄντος, ἐκ δὲ τούτων ἀμφοτέρων ἀδύνατον εἶναι· 
+
+because what comes into being must necessarily do so either from being or from non-being,  
+and both of these are impossible.  
+
+οὔτε γὰρ τὸ ὂν γίγνεσθαι (εἶναι γὰρ ἤδη) ἔκ τε μὴ ὄντος οὐδὲν ἂν γενέσθαι· 
+
+For being cannot come into being (since it already is),  
+and from non-being, nothing can be generated,  
+
+ὑποκεῖσθαι γάρ τι δεῖν. 
+
+for there must be something underlying.  
+
+καὶ οὕτω δὴ τὸ ἐφεξῆς συμβαῖνον αὔξοντες οὐδ' εἶναι πολλά φασιν ἀλλὰ μόνον αὐτὸ τὸ ὄν.
+
+Thus, following this reasoning, they concluded that there are not many things, but only being itself.
+## 192a
+πρῶτον μὲν γὰρ ὁμολογοῦσιν ἁπλῶς γίγνεσθαί τι ἐκ μὴ [192a] ὄντος, ᾗ Παρμενίδην ὀρθῶς λέγειν· 
+
+First of all, they agree in general that something comes to be from what is not, in which Parmenides is right.  
+
+εἶτα φαίνεται αὐτοῖς, εἴπερ ἐστὶν ἀριθμῷ μία, καὶ δυνάμει μία μόνον εἶναι. 
+
+Then, it appears to them that if something is one in number, it must also be one in power.  
+
+τοῦτο δὲ διαφέρει πλεῖστον. 
+
+This makes a great difference.  
+
+ἡμεῖς μὲν γὰρ ὕλην καὶ στέρησιν ἕτερόν φαμεν εἶναι, καὶ τούτων τὸ μὲν οὐκ ὂν εἶναι κατὰ [192a.5] συμβεβηκός, τὴν ὕλην, τὴν δὲ στέρησιν καθ' αὑτήν, καὶ τὴν μὲν ἐγγὺς καὶ οὐσίαν πως, τὴν ὕλην, τὴν δὲ οὐδαμῶς· 
+
+For we say that matter and privation are different, and that of these, one (matter) is not-being only incidentally, while privation is not-being in itself. We also say that matter is in some way close to substance, while privation is not at all.  
+
+οἱ δὲ τὸ μὴ ὂν τὸ μέγα καὶ τὸ μικρὸν ὁμοίως, ἢ τὸ συναμφότερον ἢ τὸ χωρὶς ἑκάτερον. 
+
+But others consider not-being as both the great and the small, either together or separately.  
+
+ὥστε παντελῶς ἕτερος ὁ τρόπος οὗτος τῆς τριάδος κἀκεῖνος. 
+
+Thus, this way of understanding the triad is entirely different from the other.  
+
+μέχρι μὲν γὰρ δεῦρο προῆλθον, ὅτι δεῖ τινὰ ὑποκεῖσθαι φύσιν, ταύτην μέντοι μίαν ποιοῦσιν· 
+
+For they have gone so far as to recognize that some underlying nature must exist, yet they make it only one.  
+
+καὶ γὰρ εἴ τις δυάδα ποιεῖ, λέγων μέγα καὶ μι-
+κρὸν αὐτήν, οὐθὲν ἧττον ταὐτὸ ποιεῖ· 
+
+Even if someone calls it a dyad, saying that it is both great and small, it still remains the same; 
+
+τὴν γὰρ ἑτέραν παρεῖδεν.
+
+for they overlook the other.  
+
+ἡ μὲν γὰρ ὑπομένουσα συναιτία τῇ μορφῇ τῶν γιγνομένων ἐστίν, ὥσπερ μήτηρ· 
+
+The underlying nature is a joint cause with form in the coming to be of things, like a mother.  
+
+ἡ δ' ἑτέρα μοῖρα τῆς ἐναντιώσεως πολλάκις ἂν φαντασθείη τῷ πρὸς τὸ κακοποιὸν αὐτῆς ἀτενίζοντι τὴν διάνοιαν οὐδ' εἶναι τὸ παράπαν. 
+
+The other aspect of opposition often appears to the mind that focuses on its destructive nature as if it did not exist at all.  
+
+ὄντος γάρ τινος θείου καὶ ἀγαθοῦ καὶ ἐφετοῦ, τὸ μὲν ἐναντίον αὐτῷ φαμεν εἶναι, τὸ δὲ ὃ πέφυκεν ἐφίεσθαι καὶ ὀρέγεσθαι αὐτοῦ κατὰ τὴν αὑτοῦ φύσιν. 
+
+For since there is something divine, good, and desirable, we say that its opposite exists, as well as that which naturally strives and longs for it.  
+
+τοῖς δὲ συμβαίνει τὸ ἐναντίον ὀρέγεσθαι τῆς αὑτοῦ φθορᾶς. 
+
+But for some, the opposite occurs—they long for their own destruction.  
+
+καίτοι οὔτε αὐτὸ αὑτοῦ οἷόν τε ἐφίεσθαι τὸ εἶδος διὰ τὸ μὴ εἶναι ἐνδεές, οὔτε τὸ ἐναντίον 
+
+(φθαρτικὰ γὰρ ἀλλήλων τὰ ἐναντία), 
+
+Yet neither a form desires itself (since it is not lacking anything), nor does its opposite, since opposites destroy each other.  
+
+ἀλλὰ τοῦτ' ἔστιν ἡ ὕλη, ὥσπερ ἂν εἰ θῆλυ ἄρρενος καὶ αἰσχρὸν καλοῦ· 
+
+Rather, this is the nature of matter, as when the female is to the male or the ugly is to the beautiful.  
+
+πλὴν οὐ καθ' αὑτὸ αἰσχρόν, ἀλλὰ κατὰ συμβεβηκός, οὐδὲ θῆλυ, ἀλλὰ κατὰ συμβεβηκός. 
+
+However, it is not ugly in itself, but only incidentally; nor is it female in itself, but only incidentally.  
+
+[192a.25]  φθείρεται δὲ καὶ γίγνεται ἔστι μὲν ὥς, ἔστι δ' ὡς οὔ. 
+
+Generation and destruction happen in one sense, but not in another.  
+
+ὡς μὲν γὰρ τὸ ἐν ᾧ, καθ' αὑτὸ φθείρεται 
+
+As the subject in which change occurs, something perishes in itself 
+
+(τὸ γὰρ φθειρόμενον ἐν τούτῳ ἐστίν, ἡ στέρησις)· 
+
+(for what perishes is in that, namely, privation).  
+
+ὡς δὲ κατὰ δύναμιν, οὐ καθ' αὑτό, ἀλλ' ἄφθαρτον καὶ ἀγένητον ἀνάγκη αὐτὴν εἶναι. 
+
+But in terms of potentiality, it does not perish in itself but must be imperishable and ungenerated.  
+
+εἴτε γὰρ ἐγίγνετο, ὑποκεῖσθαί τι δεῖ πρῶτον ἐξ
+οὗ ἐνυπάρχοντος· 
+
+For if it were generated, something must first exist as its underlying subject, in which it inheres.  
+
+τοῦτο δ' ἐστὶν αὐτὴ ἡ φύσις, ὥστ' ἔσται πρὶν γενέσθαι 
+
+This is its very nature, so it must exist before coming to be.  
+
+(λέγω γὰρ ὕλην τὸ πρῶτον ὑποκείμενον ἑκάστῳ, ἐξ οὗ γίγνεταί τι ἐνυπάρχοντος μὴ κατὰ συμβεβηκός)· 
+
+(I mean by matter the first subject for each thing, from which something comes to be in itself, not incidentally.)  
+
+εἴτε φθείρεται, εἰς τοῦτο ἀφίξεται ἔσχατον, ὥστε ἐφθαρμένη ἔσται πρὶν φθαρῆναι. 
+
+If it perishes, it will ultimately arrive at this last state, meaning that it must have existed before perishing.  
+
+περὶ δὲ τῆς κατὰ τὸ εἶδος ἀρχῆς, πότερον μία ἢ πολλαὶ καὶ τίς ἢ τίνες εἰσίν, δι' ἀκριβείας τῆς πρώτης φιλοσοφίας ἔργον ἐστὶν διορίσαι, ὥστ' εἰς ἐκεῖνον τὸν [192b] καιρὸν ἀποκείσθω. 
+
+Regarding the formal principle—whether it is one or many and what it is—this is a matter to be determined with precision by first philosophy, so let that inquiry be set aside for now.
 ## 213b
 οἱ δὲ ἄνθρωποι βούλονται κενὸν εἶναι διάστημα ἐν ᾧ μηδέν ἐστι σῶμα αἰσθητόν· οἰόμενοι δὲ τὸ ὂν ἅπαν εἶναι σῶμα φασίν, ἐν ᾧ ὅλως μηδέν ἐστι, τοῦτ' εἶναι κενόν, διὸ τὸ πλῆρες ἀέρος κενὸν εἶναι. οὔκουν τοῦτο δεῖ δεικνύναι, ὅτι ἐστί τι ὁ ἀήρ, ἀλλ' ὅτι οὐκ ἔστι διάστημα ἕτερον τῶν σωμάτων, οὔτε χωριστὸν οὔτε ἐνεργείᾳ ὄν, ὃ διαλαμβάνει τὸ πᾶν σῶμα ὥστε εἶναι μὴ συνεχές, 
 

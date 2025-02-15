@@ -193,9 +193,73 @@ He knew, ‘I indeed am the creation, for I projected all this.’ Therefore he 
 Then he rubbed back and forth thus, and produced fire from its source, the mouth and the hands. Therefore both these are without hair at the inside. When they t talk of particular gods, saying, ‘Sacrifice to him,’ ‘Sacrifice to the other one,’ (they are wrong, since) these are all his projection, for he is all the gods. Now all this that is liquid, he produced from the seed. That is Soma. This universe is indeed this much—food and the eater of food. Soma is food, and fire the eater of food. This is the super-creation of Virāj that he projected the gods, who are even superior to him. Because he, although mortal himself, projected the immortals, therefore this is a super-creation. He who knows this as such becomes (a creator) in this super-creation of Virāj.
 #### 7
 https://vivekavani.com/bru1c4v7/
-तद्धेदं तर्ह्यव्याकृतमासीत्, तन्नामरूपाभ्यामेव व्याक्रियत, असौनामायमिदंरूप इति; तदिदमप्येतर्हि नामरूपाभ्यामेव व्याक्रियते, असौनामायमिदंरूप इति; स एष इह प्रविष्ट आ नखाग्रेभ्यः, यथा क्षुरः क्षुरधानेऽवहितः स्यात्, विश्वम्भरो वा विश्वम्भरकुलाये; तं न पश्यन्ति । अकृत्स्नो हि सः, प्राणन्नेव प्राणो नाम भवति, वदन् वाक्, पश्यंश्चक्षुः, शृण्वन् श्रोत्रम्, मन्वानो मनः; तान्यस्यैतानि कर्मनामान्येव । स योऽत एकैकमुपास्ते न स वेद, अकृत्स्नो ह्येषोऽत एकैकेन भवति; आत्मेत्येवोपासीत, अत्र ह्येते सर्व एकम् भवन्ति । तदेतत्पदनीयमस्य सर्वस्य यदयमात्मा, अनेन ह्येतत्सर्वं वेद । यथा ह वै पदेनानुविन्देदेवम्; कीर्तिं श्लोकं विन्दते य एवं वेद ॥ ७ ॥
+तद्धेदं तर्ह्यव्याकृतमासीत्, 
 
-This (universe) was then undifferentiated. It differentiated only into name and form—it was called such and such, and was of such and such form. So to this day it is differentiated only into name and form—it is called such and such, and is of such and such form. This Self has entered into these bodies up to the tip of the nails—as a razor may be put in its case, or as fire, which sustains the world, may be in its source. People do not see It, for (viewed in Its aspects) It is incomplete. When It does the function of living, It is called the vital force; when It speaks, the organ of speech; when It sees, the eye; when It hears, the ear; and when It thinks, the mind. These are merely Its names according to functions. He who meditates upon each of this totality of aspects does not know, for It is incomplete, (being divided) from this totality by possessing a single characteristic. The Self alone is to be meditated upon, for all these are unified in It. Of all these, this Self alone should be realised, for one knows all these through It, just as one may get (an animal) through its footprints. He who knows It as such obtains fame and association (with his relatives).
+This (universe) was then undifferentiated. 
+
+तन्नामरूपाभ्यामेव व्याक्रियत, 
+
+It differentiated only into name and form—
+
+असौनामायमिदंरूप इति; 
+
+it was called such and such, and was of such and such form. 
+
+तदिदमप्येतर्हि नामरूपाभ्यामेव व्याक्रियते, 
+
+So to this day it is differentiated only into name and form—
+
+असौनामायमिदंरूप इति; 
+
+it is called such and such, and is of such and such form. 
+
+स एष इह प्रविष्ट आ नखाग्रेभ्यः, 
+
+This Self has entered into these bodies up to the tip of the nails—
+
+यथा क्षुरः क्षुरधानेऽवहितः स्यात्, विश्वम्भरो वा विश्वम्भरकुलाये; 
+
+as a razor may be put in its case, or as fire, which sustains the world, may be in its source. 
+
+तं न पश्यन्ति । 
+
+People do not see It, 
+
+अकृत्स्नो हि सः, 
+
+for (viewed in Its aspects) It is incomplete. 
+
+प्राणन्नेव प्राणो नाम भवति, 
+
+When It does the function of living, It is called the vital force; 
+
+वदन् वाक्, पश्यंश्चक्षुः, शृण्वन् श्रोत्रम्, मन्वानो मनः; 
+
+when It speaks, the organ of speech; when It sees, the eye; when It hears, the ear; and when It thinks, the mind. 
+
+तान्यस्यैतानि कर्मनामान्येव । 
+
+These are merely Its names according to functions. 
+
+स योऽत एकैकमुपास्ते न स वेद, अकृत्स्नो ह्येषोऽत एकैकेन भवति; 
+
+He who meditates upon each of this totality of aspects does not know, for It is incomplete, (being divided) from this totality by possessing a single characteristic. 
+
+आत्मेत्येवोपासीत, अत्र ह्येते सर्व एकम् भवन्ति । 
+
+The Self alone is to be meditated upon, for all these are unified in It. 
+
+तदेतत्पदनीयमस्य सर्वस्य यदयमात्मा, अनेन ह्येतत्सर्वं वेद । 
+
+Of all these, this Self alone should be realised, for one knows all these through It, 
+
+यथा ह वै पदेनानुविन्देदेवम्; 
+
+just as one may get (an animal) through its footprints. 
+
+कीर्तिं श्लोकं विन्दते य एवं वेद ॥ ७ ॥
+
+He who knows It as such obtains fame and association (with his relatives).
 #### 8
 https://vivekavani.com/bru1c4v8/
 तदेतत्प्रेयः पुत्रात्, प्रेयो वित्तात्, प्रेयोऽन्यस्मात्सर्वस्मात्, अन्तरतरं, यदयमात्मा । स योऽन्यमात्मनः प्रियं ब्रुवाणं ब्रूयात्, प्रियं रोत्स्यतीति, ईश्वरो ह, तथैव स्यात्; आत्मानमेव प्रियमुपासीत; स य आत्मानमेव प्रियमुपास्ते न हास्य प्रियम् प्रमायुकम् भवति ॥ ८
@@ -825,16 +889,40 @@ https://vivekavani.com/bru3c8v1/
 Then the daughter of Vacaknu said, ‘Revered Brāhmaṇas, I shall ask him two questions. Should he answer me those, none of you can ever beat him in describing Brahman.’ ‘Ask, O Gārgī.’
 #### 8
 https://vivekavani.com/bru3c8v8/
-स होवाच, एतद्वै तदक्षरः, गार्गि ब्राह्मणा अभिवदन्ति, अस्थूलमनण्वह्रस्वमदीर्घमलोहितमस्नेहमच्छायमतमोऽ-
-वाय्वनाकाशमसङ्गमचक्षुष्कमश्रोत्रमवागमनोऽ-
-तेजस्कमप्राणममुखममात्रमनन्तरमबाह्यम्, न तदश्नाति किंचन, न तदश्नाति कश्चन ॥ ८ ॥
+स होवाच, एतद्वै तदक्षरः, गार्गि ब्राह्मणा अभिवदन्ति, 
 
-He said: O Gārgī, the knowers of Brahman say, this Immutable (Brahman) is that. It is neither gross nor minute, neither short nor long, neither red colour nor oiliness, neither shadow nor darkness, neither air nor ether, unattached, neither savour nor odour, without eyes or ears, without the vocal organ or mind, non-luminous, without the vital force or mouth, not a measure, and without interior or exterior. It does not eat anything, nor is It eaten by anybody.
+He said: O Gārgī, the knowers of Brahman say, this Immutable (Brahman) is that. 
+
+अस्थूलमनण्वह्रस्वमदीर्घमलोहितमस्नेहमच्छायमतमोऽ-
+वाय्वनाकाशमसङ्गमचक्षुष्कमश्रोत्रमवागमनोऽ-
+तेजस्कमप्राणममुखममात्रमनन्तरमबाह्यम्, 
+
+It is neither gross nor minute, neither short nor long, neither red colour nor oiliness, neither shadow nor darkness, neither air nor ether, unattached, neither savour nor odour, without eyes or ears, without the vocal organ or mind, non-luminous, without the vital force or mouth, not a measure, and without interior or exterior. 
+
+न तदश्नाति किंचन, न तदश्नाति कश्चन ॥ ८ ॥
+
+It does not eat anything, nor is It eaten by anybody.
 #### 11
 https://vivekavani.com/bru3c8v11/
-तद्वा एतदक्षरं गार्ग्यदृष्टं द्रष्टृ, अश्रुतं श्रोत्तृ, अमतं मन्तृ, अविज्ञातं विज्ञातृ; नान्यदतोऽस्ति द्रष्टृ, नान्यदतोऽस्ति श्रोतृ, नान्यदतोऽस्ति मन्तृ, नान्यदतोऽस्ति विज्ञातृ; एतस्मिन्नु खल्वक्षरे गार्ग्याकाश ओतश्च प्रोतश्चेति ॥ ११ ॥
+तद्वा एतदक्षरं गार्ग्यदृष्टं द्रष्टृ, अश्रुतं श्रोत्तृ, 
 
-This Immutable, O Gārgī, is never seen but is the Witness; It is never heard, but is the Hearer; It is never thought, but is the Thinker; It is never known, but is the Knower. There is no other witness but This, no other hearer but This, no other thinker but This, no other knower but This. By this Immutable, O Gārgī, is the (unmanifested) ether pervaded.
+This Immutable, O Gārgī, is never seen but is the Witness; It is never heard, but is the Hearer; 
+
+अमतं मन्तृ, अविज्ञातं विज्ञातृ; 
+
+It is never known, but is the Knower. It is never thought, but is the Thinker; 
+
+नान्यदतोऽस्ति द्रष्टृ, नान्यदतोऽस्ति श्रोतृ, 
+
+There is no other witness but This, no other hearer but This, 
+
+नान्यदतोऽस्ति मन्तृ, नान्यदतोऽस्ति विज्ञातृ; 
+
+no other thinker but This, no other knower but This. 
+
+एतस्मिन्नु खल्वक्षरे गार्ग्याकाश ओतश्च प्रोतश्चेति ॥ ११ ॥
+
+By this Immutable, O Gārgī, is the (unmanifested) ether pervaded.
 #### 12
 https://vivekavani.com/bru3c8v12/
 सा होवाच, ब्राह्मणा भगवन्तस्तदेव बहु मन्येध्वं यदस्मान्नमस्कारेण मुच्येध्वम्; न वै जातु युष्माकमिमं कश्चिद्ब्रह्मोद्यं जेतेति; ततो ह वाचक्नव्युपरराम ॥ १२ ॥
@@ -851,13 +939,69 @@ Then Vidagdha, the son of Śakala, asked him. ‘How many gods are there, Yājñ
 
 Yājñavalkya said, ‘These are but the manifestations of them, but there are only thirty-three gods.’ ‘Which are those thirty-three?’ ‘The eight Vasus, the eleven Rudras and the twelve Ādityas—these are thirty-one, and Indra and Prajāpati make up the thirty-three.’
 #### 25
-अहल्लिकेति होवाच याज्ञवल्क्यः, यत्रैतदन्यत्रास्मन्मन्यासै, यद्ध्येतदन्यत्रास्मत्स्यात्, श्वानो वैनदद्युः, वयांसि वैनद्विमथ्नीरन्निति ॥ २५ ॥
+अहल्लिकेति होवाच याज्ञवल्क्यः, 
 
-‘You ghost,’ said Yājñavalkya, ‘when you think the heart is elsewhere than in us, (then the body is dead). Should it be elsewhere than in us, dogs would eat this body, or birds tear it to pieces.’[9]
+‘You ghost,’ said Yājñavalkya, 
+
+यत्रैतदन्यत्रास्मन्मन्यासै, 
+
+‘when you think the heart is elsewhere than in us, (then the body is dead). 
+
+यद्ध्येतदन्यत्रास्मत्स्यात्, श्वानो वैनदद्युः, वयांसि वैनद्विमथ्नीरन्निति ॥ २५ ॥
+
+Should it be elsewhere than in us, dogs would eat this body, or birds tear it to pieces.’[9]
 #### 26
-कस्मिन्नु त्वं चात्मा च प्रतिष्ठितौ स्थ इति; प्राण इति; कस्मिन्नु प्राणः प्रतिष्ठित इति; अपान इति; कस्मिन्न्वपानः प्रतिष्ठित इति; व्यान इति; कस्मिन्नु व्यानः प्रतिष्ठित इति; उदान इति; कस्मिन्नूदानः प्रतिष्ठित इति; समान इति; स एष नेति नेत्यात्मा, अगृह्यो नहि गृह्यते, अशीर्यो न हि शीर्यते, असङ्गो नहि सज्यते, असितो न व्यथते, न रिष्यति । एतान्यष्टावायतनानि, अष्टौ लोकाः, अष्टौ देवाः, अष्टौ पुरुषाः; स यस्तान्पुरुषान्निरुह्य प्रत्युह्यात्यक्रामत्, तं त्वौपनिषदं पुरुषं पृच्छामि; तं चेन्मे न विवक्श्यसि, मूर्धा ते विपतिष्यतीति । तं ह न मेने शाकल्यः; तस्य ह मूर्धा विपपात, अपि हास्य परिमोषिणोऽस्थीन्यपजह्रुरन्यन्मन्यमानाः ॥ २६ ॥
+कस्मिन्नु त्वं चात्मा च प्रतिष्ठितौ स्थ इति; प्राण इति; 
 
-‘On what do the body and the heart rest?’ ‘On the Prāṇa.’ ‘On what does the Prāṇa rest?’ ‘On the Apāna.’ ‘On what does the Apāna rest?’ ‘On the Vyāna.’ ‘On what does the Vyāna rest?’ ‘On the Udāna.’ ‘On what does the Udāna rest?’ ‘On the Samāna.’ This self is That which has been described as ‘Not this, not this.’ It is imperceptible, for It is never perceived; undecaying, for It never decays; unattached, for It is never attached; unfettered—It never feels pain, and never suffers injury. ‘These are the eight abodes, the eight instruments of vision, the eight deities and the eight beings. I ask you of that Being who is to be known only from the Upaniṣads, who definitely projects those beings and (again) withdraws them into Himself, and who is at the same time transcendent. If you cannot clearly tell me of Him, your head shall fall off.’ Śākalya did not know Him; his head fell off; and robbers snatched away his bones, mistaking them for something else.
+‘On what do the body and the heart rest?’ ‘On the Prāṇa.’ 
+
+कस्मिन्नु प्राणः प्रतिष्ठित इति; अपान इति; 
+
+‘On what does the Prāṇa rest?’ ‘On the Apāna.’ 
+
+कस्मिन्न्वपानः प्रतिष्ठित इति; व्यान इति; 
+
+‘On what does the Apāna rest?’ ‘On the Vyāna.’ 
+
+कस्मिन्नु व्यानः प्रतिष्ठित इति; उदान इति; 
+
+‘On what does the Vyāna rest?’ ‘On the Udāna.’ 
+
+कस्मिन्नूदानः प्रतिष्ठित इति; समान इति; 
+
+‘On what does the Udāna rest?’ ‘On the Samāna.’ 
+
+स एष नेति नेत्यात्मा, 
+
+This self is That which has been described as ‘Not this, not this.’ 
+
+अगृह्यो नहि गृह्यते, अशीर्यो न हि शीर्यते, असङ्गो नहि सज्यते, 
+
+It is imperceptible, for It is never perceived; undecaying, for It never decays; unattached, for It is never attached; 
+
+असितो न व्यथते, न रिष्यति । 
+
+unfettered—It never feels pain, and never suffers injury. 
+
+एतान्यष्टावायतनानि, अष्टौ लोकाः, अष्टौ देवाः, अष्टौ पुरुषाः; 
+
+‘These are the eight abodes, the eight instruments of vision, the eight deities and the eight beings. 
+
+स यस्तान्पुरुषान्निरुह्य प्रत्युह्यात्यक्रामत्, तं त्वौपनिषदं पुरुषं पृच्छामि; 
+
+I ask you of that Being who is to be known only from the Upaniṣads, who definitely projects those beings and (again) withdraws them into Himself, and who is at the same time transcendent. 
+
+तं चेन्मे न विवक्श्यसि, मूर्धा ते विपतिष्यतीति । 
+
+If you cannot clearly tell me of Him, your head shall fall off.’ 
+
+तं ह न मेने शाकल्यः; तस्य ह मूर्धा विपपात, 
+
+Śākalya did not know Him; his head fell off; 
+
+अपि हास्य परिमोषिणोऽस्थीन्यपजह्रुरन्यन्मन्यमानाः ॥ २६ ॥
+
+and robbers snatched away his bones, mistaking them for something else.
 #### 28
 तान्हैतैः श्लोकैः पप्रच्छ—
 यथा वृक्शो वनस्पतिस्तथैव पुरुषोऽमृषा ॥
