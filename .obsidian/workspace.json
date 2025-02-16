@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/tfTb.md",
+                "file": "Ref/PspS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "h.a.12",
+                "query": "PspS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/haft.azilla/h.a.20.md",
+                "file": "Ref/PspS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/haft.azilla/h.a.20.md",
+                "file": "Ref/PspS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/haft.azilla/h.a.20.md"
+                "file": "Ref/PspS.md"
               }
             }
           }
@@ -200,13 +201,16 @@
   "left-ribbon": {
     "hiddenItems": {
       "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false
+      "switcher:Open quick switcher": false
     }
   },
-  "active": "69a50d2631dadb93",
+  "active": "0ef2aa3cc9945f9a",
   "lastOpenFiles": [
+    "Ref/~syncthing~PspS.md.tmp",
+    "Ref/mdhvA.SDS.BAK.md",
+    "Ref/PspS.md",
+    "Ref/tfTb.md",
+    "Ref/haft.azilla/h.a.20.md",
     "Ref/haft.azilla/h.a.19.md",
     "Ref/haft.azilla/h.a.18.md",
     "Ref/haft.azilla/h.a.17.md",
@@ -216,7 +220,6 @@
     "Ref/haft.azilla/h.a.13.md",
     "Ref/haft.azilla/h.a.12.md",
     "Ref/haft.azilla/h.a.2.md",
-    "Ref/tfTb.md",
     "Ref/Qrsi.sync-conflict-20250112-235541-AFLIAW3.md",
     "Ref/~syncthing~Qrsi.sync-conflict-20250112-235541-AFLIAW3.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.md",
@@ -235,16 +238,11 @@
     "Ref/~syncthing~procl.md.tmp",
     "Ref/~syncthing~bbl.paul.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/iktisab/~syncthing~kasb_musiba.md.tmp",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/hikmah/~syncthing~Naskh.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
     "Ref/Qrsi.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk4.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/malak/malak(1).md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn_BAK.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab2.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/kitab_ahl.md",
     "Ref/Pasted image 20241128002518.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
