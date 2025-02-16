@@ -275,7 +275,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -287,7 +287,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Epimen",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -309,7 +309,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "52f2f15d1bae5ff6",
@@ -321,7 +321,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ref/SkP.md",
+            "file": "Ref/lngP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ref/SkP.md",
+            "file": "Ref/lngP.md",
             "linksCollapsed": true,
             "unlinkedCollapsed": false
           },
@@ -374,32 +374,32 @@
   },
   "active": "d0bd5a6e7be89323",
   "lastOpenFiles": [
-    "Ref/lngP.md",
+    "Ref/VyP.md",
     "Ref/SkP.md",
+    "Ref/KP.md",
+    "Ref/lngP.md",
+    "Ref/VP.md",
+    "Ref/VrP.md",
+    "Ref/VmnP.md",
+    "Ref/bmvP.md",
+    "Ref/brhdP.md",
+    "Ref/PdmP.md",
+    "Ref/SvP.md",
+    "Ref/HV.md",
+    "Ref/KmP.md",
+    "Ref/BhvP.md",
+    "Ref/mtsP.md",
+    "Ref/MkP.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/araf/Pythagorean_platonic/VyP.md",
+    "Ref/BP.md",
+    "Ref/dvBhgP.md",
     "Ref/RV.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/puranas2.md",
     "Ref/ArrPs.periplEryth.md",
     "Ref/hthYogPrdp.md",
     "Sketch/Cancer solving creep.md",
     "Ref/diog.lives.md",
-    "Ref/BhgG.md",
-    "Ref/jnAgam.md",
-    "Ref/dioChry.orat.md",
-    "Ref/epct.md",
-    "Ref/hdt.hist.md",
-    "Ref/clmch.md",
-    "Ref/pl.tim.md",
-    "Ref/plut.md",
-    "Ref/clmnt.md",
-    "Ref/psHplt.elenchos.md",
-    "Ref/hmr.md",
-    "Ref/smplc.md",
-    "Ref/photi.bib.md",
-    "Ref/xnphon.md",
-    "Ref/pliny.natHist.md",
-    "Ref/bbl.poetry.md",
-    "Ref/bbl.history.ketuvim.md",
-    "Ref/arsph.md",
-    "Ref/bbl.history.neviim.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/a'jamī/Indian",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/wiswas",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/tawhid",

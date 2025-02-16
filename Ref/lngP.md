@@ -1,7 +1,9 @@
 
-https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/3_purana/lip_1_pu.htm
+https://sa.m.wikisource.org/wiki/%E0%A4%B2%E0%A4%BF%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D
 
-https://www.wisdomlib.org/hinduism/book/the-linga-purana
+https:gretil.sub.uni-goettingen.degretil1_sanskr3_puranalip_1_pu.htm
+
+https:www.wisdomlib.orghinduismbookthe-linga-purana
 
 # b1
 ## c7
@@ -42,7 +44,7 @@ in brief, mentioned as the leaders of the manvantaras. Among them, the seventh M
 सप्तमस्तस्य वक्ष्यामि युगावर्तेषु योगिनः समतीतेषु कल्पेषु तथा चानागतेषु वै
 
 I shall mention the yogins in this repeated cycle of yugas in the kalpas that have passed by and those that are yet to come.
-### 27-35
+### 29-35
 वाराहः साम्प्रतं ज्ञेयः सप्तमान्तरतः क्रमात् योगावतारांश् च विभोः शिष्याणां संततिस् तथा 
 
 The current kalpa in the seventh manvantara is known as Vārāha. 
@@ -111,6 +113,33 @@ They will be great yogic souls and brahmins who will have mastered all the Vedas
 रुद्रलोकं गमिष्यन्ति पुनरावृत्तिदुर्लभम् एते पाशुपताः सिद्धा भस्मोद्धूलितविग्रहाः
 
 After attaining the yoga of Maheśvara they will go to Rudra’s world, never to return.
+
+134-140.  All these enlightened souls will be the devotees of Śiva and will have their bodies smeared with ashes. 
+### 134-140
+लिङ्गार्चनरता नित्यं बाह्याभ्यन्तरतः स्थिताः भक्त्या मयि च योगेन ध्याननिष्ठा जितेन्द्रियाः 
+
+They will be perpetually engaged in worshipping Liṅga. They will be steadfast and firm in body and the mind. 
+
+संसारबन्धच्छेदार्थं ज्ञानमार्गप्रकाशकम् स्वरूपज्ञानसिद्ध्यर्थं योगं पाशुपतं महत् 
+
+With devotion towards me and by means of yoga they will be established in meditation and acquire self-control. The great Pāśupata yoga can snap worldly ties and illuminate the path of knowledge. 
+
+योगमार्गा अनेकाश् च ज्ञानमार्गास् त्व् अनेकशः न निवृत्तिमुपायान्ति विना पञ्चाक्षरीं क्वचित् 
+
+It is also conducive to Real knowledge. There are several paths of yoga and several paths of knowledge. But without taking recourse to the five-syllabled Mantra[28] 
+
+यदाचरेत्तपश्चायं सर्वद्वन्द्वविवर्जितम् तदा स मुक्तो मन्तव्यः पक्वं फलमिव स्थितः 
+
+one cannot attain eternal bliss. When a person performs penance eschewing Dvandvas (mutually clashing opposites) he can become a liberated soul, as one who has attained the ripe fruit.
+
+एकाहं यः पुमान्सम्यक् चरेत्पाशुपतव्रतम् न सांख्ये पञ्चरात्रे वा न प्राप्नोति गतिं कदा 
+
+इत्येतद्वै मया प्रोक्तम् अवतारेषु लक्षणम् मन्वादिकृष्णपर्यन्तम् अष्टाविंशद् युगक्रमात् 
+
+Even if a man performs Pāśupata rite for a single day he can obtain fruits, the like of which he cannot have either by Pañcarātra[29] or Sāṅkhya.
+
+तत्र श्रुतिसमूहानां विभागो धर्मलक्षणः भविष्यति तदा कल्पे कृष्णद्वैपायनो यदा
+
 ## c58
 ### 10-12
 वृक्षाणां चैव चाश्वत्थं प्लक्षं च प्रपितामहः 
