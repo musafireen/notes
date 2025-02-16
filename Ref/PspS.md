@@ -23,13 +23,13 @@ http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/saiva/pasupsau.htm
 निर्माल्यं // 1।5 //  
 **Discarding of worn-out flowers or offerings.**
 ### 1.6
-लिंग-धारी // 1।6 //  
+लिङ्ग-धारी // 1।6 //  
 **Wearing the Liṅga.**
 ### 1.7
 आयतन-वासी // 1।7 //  
 **Residing in a sacred place (temple, monastery, etc.).**
 ### 1.8
-हसित-गीत-नृत्त-दुंदुं-कार-नमस्कार-जप्यो1पहारेणो7पतिष्ठेत् // 1।8 //  
+हसित-गीत-नृत्त-दुन्दुं-कार-नमस्कार-जप्यो1पहारेणो7पतिष्ठेत् // 1।8 //  
 **One should worship with laughter, song, dance, drum sounds, salutations, chanting, and offerings.**
 ### 1.9
 महा-देवस्य दक्षिणा-मूर्ते // 1।9 //  
@@ -68,7 +68,7 @@ http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/saiva/pasupsau.htm
 ततो ऽस्य योगः प्रवर्तते // 1।20 //  
 **Then his Yoga begins to function.**
 ### 1.21
-दूर-दर्शन-श्रवण-मनन-विज्ञानानि चास्य प्रवर्तंते // 1।21 //  
+दूर-दर्शन-श्रवण-मनन-विज्ञानानि चास्य प्रवर्तन्ते // 1।21 //  
 **Then develop in him the powers of seeing afar, hearing from a distance, deep reflection, and special knowledge.**
 ### 1.22
 सर्व-ज्ञाता // 1।22 //  
@@ -86,19 +86,19 @@ http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/saiva/pasupsau.htm
 धर्मित्वं च // 1।26 //  
 **Attaining perfect righteousness.**
 ### 1.27
-सर्वे चास्य वश्या भवंति // 1।27 //  
+सर्वे चास्य वश्या भवन्ति // 1।27 //  
 **All become subject to his will.**
 ### 1.28
 सर्वेषां चावश्यो भवति // 1।28 //  
 **Yet, he is under the will of none.**
 ### 1.29
-सर्वांश् चा8विशति // 1।29 //  
+सर्वांश्चाविशति // 1।29 //  
 **He pervades all beings.**
 ### 1.30
 सर्वेषां चानावेश्यो भवति // 1।30 //  
 **Yet, none pervades him.**
 ### 1.31
-सर्वे चास्य वध्या भवंति // 1।31 //  
+सर्वे चास्य वध्या भवन्ति // 1।31 //  
 **All become powerless against him.**
 ### 1.32
 सर्वेषां चावध्यो भवति // 1।32 //  
@@ -161,7 +161,7 @@ The seat of time. // 2। 5 //
 सार्व-कामिक इत्य् आचक्षते // 2। 6 //  
 It is called the fulfiller of all desires. // 2। 6 //  
 ### 2.7
-अमंगलं चात्र मंगलं भवति // 2। 7 //  
+अमङ्गलं चात्र मङ्गलं भवति // 2। 7 //  
 Here, inauspiciousness becomes auspiciousness. // 2। 7 //  
 ### 2.8
 अपसव्यं च प्रदक्षिणम् // 2। 8 //  
@@ -228,7 +228,7 @@ Salutations to the one who is beyond the mind. // 2। 27 //
 अथ  तृतीयो ऽध्यायः    
 
 ### 3.1
-अव्यक्त-लिंगी // 3।1 //  
+अव्यक्त-लिङ्गी // 3।1 //  
 **One who has an unmanifested Liṅga (identity or form).**
 ### 3.2
 व्यक्ताचारः // 3।2 //  
@@ -264,10 +264,10 @@ Salutations to the one who is beyond the mind. // 2। 27 //
 क्राथेत वा // 3।12 //  
 **He may make noise.**
 ### 3.13
-स्पंदेत वा // 3।13 //  
+स्पन्देत वा // 3।13 //  
 **Or tremble.**
 ### 3.14
-मंटेत वा // 3।14 //  
+मण्टेत वा // 3।14 //  
 **Or wander aimlessly.**
 ### 3.15
 शृङ्गारेत वा // 3।15 //  
@@ -309,7 +309,7 @@ Salutations to the one who is beyond the mind. // 2। 27 //
 # c4
 अथ  चतुर्थो ऽध्यायः    
 ### 4.1
-गूढ-विद्या तप आनंत्याय प्रकाशते // 4। 1 //  
+गूढ-विद्या तप आनन्त्याय प्रकाशते // 4। 1 //  
 The secret knowledge shines forth for the sake of eternal austerity. // 4। 1 //  
 ### 4.2
 गूढ-व्रतः // 4। 2 //  
@@ -330,31 +330,31 @@ One should wander alone in the world like a madman. // 4। 6 //
 कृतान्नम् उत्सृष्टम् उपाददीत // 4। 7 //  
 One should accept food that is offered or discarded. // 4। 7 //  
 ### 4.8
-उन्मत्तो मूढ इत्य् एवं मंयंते इतरे जनाः // 4। 8 //  
+उन्मत्तो मूढ इत्य् एवं मंयन्ते इतरे जनाः // 4। 8 //  
 Other people consider him mad and foolish. // 4। 8 //  
 ### 4.9
-असन्-मानो हि यंत्राणां सर्वेषाम् उत्तमः स्मृतः // 4। 9 //  
+असन्-मानो हि यन्त्राणां सर्वेषाम् उत्तमः स्मृतः // 4। 9 //  
 For he is remembered as the best among all instruments, though without recognition. // 4। 9 //  
 ### 4.10
-इंद्रो वा अग्रे असुरेषु पाशुपतम् अचरत् // 4। 10 //  
+इन्द्रो वा अग्रे असुरेषु पाशुपतम् अचरत् // 4। 10 //  
 Indeed, Indra first practiced Pāśupata among the Asuras. // 4। 10 //  
 ### 4.11
 स तेषाम् इष्टापूर्तम् आदत्त // 4। 11 //  
 He took away their sacrifices and meritorious deeds. // 4। 11 //  
 ### 4.12
-मायया सुकृतया समविंदत // 4। 12 //  
+मायया सुकृतया समविन्दत // 4। 12 //  
 Through his well-performed illusion, he conquered them. // 4। 12 //  
 ### 4.13
-निंदा ह्य् एषानिंदा तस्मात् // 4। 13 //  
+निन्दा ह्य् एषानिन्दा तस्मात् // 4। 13 //  
 For this censure is indeed praise. // 4। 13 //  
 ### 4.14
-निंद्यमानश् चरेत् // 4। 14 //  
+निन्द्यमानश् चरेत् // 4। 14 //  
 One should behave while being censured. // 4। 14 //  
 ### 4.15
-अनिंदित-कर्मा // 4। 15 //  
+अनिन्दित-कर्मा // 4। 15 //  
 One whose actions are beyond censure. // 4। 15 //  
 ### 4.16
-सर्व-विशिष्टो ऽयं पंथाः // 4। 16 //  
+सर्व-विशिष्टो ऽयं पन्थाः // 4। 16 //  
 This is the most distinguished path. // 4। 16 //  
 ### 4.17
 सत्-पथः // 4। 17 //  
@@ -382,9 +382,9 @@ We contemplate upon the Great God. // 4। 23 //
 May Rudra inspire us. // 4। 24 //
 
 # c5
-अथ  पंचमो ऽध्यायः    
+अथ  पञ्चमो ऽध्यायः    
 ### 5.1
-असंगः // 5।1 //  
+असङ्गः // 5।1 //  
 **Unattached.**
 ### 5.2
 योगी // 5।2 //  
@@ -402,7 +402,7 @@ May Rudra inspire us. // 4। 24 //
 अभिजायते // 5।6 //  
 **He is born anew (spiritually realized).**
 ### 5.7
-इंद्रियाणाम् अभिजयात् // 5।7 //  
+इन्द्रियाणाम् अभिजयात् // 5।7 //  
 **By conquering the senses.**
 ### 5.8
 रुद्रः प्रोवाच तावत् // 5।8 //  
@@ -444,7 +444,7 @@ May Rudra inspire us. // 4। 24 //
 सिद्ध-योगी न लिप्यते कर्मा पातकेन वा // 5।20 //  
 **The perfected yogi is not tainted by actions or sins.**
 ### 5.21
-ऋचम् इष्टाम् अधीयीत गायत्रीम् आत्म-यंत्रितः // 5।21 //  
+ऋचम् इष्टाम् अधीयीत गायत्रीम् आत्म-यन्त्रितः // 5।21 //  
 **He should recite the desired Vedic hymn (ṛc), the Gāyatrī, with self-control.**
 ### 5.22
 रौद्रीं वा बहु-रूपीं वा // 5।22 //  
@@ -491,7 +491,7 @@ May Rudra inspire us. // 4। 24 //
 **बुद्ध्या** // 5।36 //  
 **By wisdom.**
 ### 5.37
-**संचित्तम्** // 5।37 //  
+**सञ्चित्तम्** // 5।37 //  
 **With focused mind.**
 ### 5.38
 **स्थापयित्वा च रुद्रे** // 5।38 //  
@@ -500,7 +500,7 @@ May Rudra inspire us. // 4। 24 //
 **एकः क्षेमी सन् वीत-शोकः** // 5।39 //  
 **Alone, secure, and free from sorrow.**
 ### 5.40
-**अप्रमादी गच्छेद् दुःखानाम् अंतम् ईश-प्रसादात्** // 5।40 //  
+**अप्रमादी गच्छेद् दुःखानाम् अन्तम् ईश-प्रसादात्** // 5।40 //  
 **With diligence, he reaches the end of suffering by the grace of the Lord.**
 ### 5.41
 **अत्रे7दं ब्रह्म जपेत्** // 5।41 //  
