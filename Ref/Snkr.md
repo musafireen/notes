@@ -55,4 +55,8 @@ and one's karma gets eliminated as Maheshwara gets satisfied to the worship.
 
 Yamye sadange nagaretiramye vibhushitangam vividhaishcha bhogai Sadbhaktimuktipradamishamekam shrinaganatham sharanam prapadye
 
+# sdryLhr
+
+study: 
+https://www.wisdomlib.org/hinduism/essay/soundarya-lahari-of-shri-shankara-study
 

@@ -21,7 +21,18 @@ Having prounded this Law, he himself, first of all, taught it to me with due car
 एतद् हि मत्तोऽधिजगे सर्वमेषोऽखिलं मुनिः ॥ ५९ ॥
 
 This Bhṛgu will fully describe to you this (Law); this sage has learnt the whole of this in its entirety, from me.—(59)
+# c2
+## s27
+### 2.162
+सम्मानाद् ब्राह्मणो नित्यमुद्विजेत विषादिव ।
+अमृतस्येव चाकाङ्क्षेदवमानस्य सर्वदा ॥ १६२ ॥
+l
+The Brāhmaṇa should ever shrink from reverence, as from poison; and he should always seek for disrespect, as for nectar.—(162)
+### 2.163
+सुखं ह्यवमतः शेते सुखं च प्रतिबुध्यते ।
+सुखं चरति लोके'स्मिन्नवमन्ता विनश्यति ॥ १६३ ॥
 
+One who is scorned sleeps in comport and wakes up in comfort and goes about in the world in comport; it is the scorner that perishes.—(163)
 # c4
 https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200093.html
 ### 4.16

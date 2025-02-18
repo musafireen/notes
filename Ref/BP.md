@@ -125,6 +125,79 @@ They are just like furious serpents, and they are angrily torn apart by the bill
 ०३२४०४६२ अपश्यत्सर्वभूतानि भगवत्यपि चात्मनि
 ०३२४०४७१ इच्छाद्वेषविहीनेन सर्वत्र समचेतसा
 ०३२४०४७२ भगवद्भक्तियुक्तेन प्राप्ता भागवती गतिः
+# p4
+4.2-4.7 siva pasupata
+## c2
+#### 14
+प्रेतावासेषु घोरेषु प्रेतैर्भूतगणैर्वृतः ।
+
+He lives in filthy places like crematoriums, and his companions are the ghosts and demons. 
+
+अटतु उन्मत्तवत् नग्नो व्युप्तकेशो हसन् रुदन् ॥ १४ ॥
+
+Naked like a madman, sometimes laughing and sometimes crying, 
+#### 15
+चिताभस्मकृतस्नानः प्रेतस्रङ् अस्थिभूषणः ।
+
+he smears crematorium ashes all over his body. He does not bathe regularly, and he ornaments his body with a garland of skulls and bones. 
+
+शिवापदेशो ह्यशिवो मत्तो मत्तजनप्रियः ।
+
+Therefore only in name is he Śiva, or auspicious; actually, he is the most mad and inauspicious creature. Thus he is very dear to crazy beings 
+
+पतिः प्रमथनाथानां तमोमात्रात्मकात्मनाम् ॥ १५ ॥
+
+in the gross mode of ignorance, and he is their leader.
+#### 17
+मैत्रेय उवाच ।
+विनिन्द्यैवं स गिरिशं अप्रतीपमवस्थितम् ।
+दक्षोऽथाप उपस्पृश्य क्रुद्धः शप्तुं प्रचक्रमे ॥ १७ ॥
+
+The sage Maitreya continued: Thus Dakṣa, seeing Lord Śiva sitting as if against him, washed his hands and mouth and cursed him in the following words.
+#### 18
+अयं तु देवयजन इन्द्रोपेन्द्रादिभिर्भवः ।
+सह भागं न लभतां देवैर्देवगणाधमः ॥ १८ ॥
+
+The demigods are eligible to share in the oblations of sacrifice, but Lord Śiva, who is the lowest of all the demigods, should not have a share.
+#### 20
+विज्ञाय शापं गिरिशानुगाग्रणीः ।
+नन्दीश्वरो रोषकषायदूषितः ।
+
+Upon understanding that Lord Śiva had been cursed, Nandīśvara, one of Lord Śiva’s principal associates, became greatly angry. 
+
+दक्षाय शापं विससर्ज दारुणं ।
+ये चान्वमोदन् तदवाच्यतां द्विजाः ॥ २० ॥
+
+His eyes became red, and he prepared to curse Dakṣa and all the brāhmaṇas present there who had tolerated Dakṣa’s cursing Śiva in harsh words.
+#### 22
+गृहेषु कूटधर्मेषु सक्तो ग्राम्यसुखेच्छया ।
+कर्मतन्त्रं वितनुते वेदवादविपन्नधीः ॥ २२ ॥
+
+Pretentiously religious householder life, in which one is attracted to material happiness and thus also attracted to the superficial explanation of the Vedas, robs one of all intelligence and attaches one to fruitive activities as all in all.
+#### 27
+तस्यैवं वदतः शापं श्रुत्वा द्विजकुलाय वै ।
+भृगुः प्रत्यसृजच्छापं ब्रह्मदण्डं दुरत्ययम् ॥ २७ ॥
+
+When all the hereditary brāhmaṇas were thus cursed by Nandīśvara, the sage Bhṛgu, as a reaction, condemned the followers of Lord Śiva with this very strong brahminical curse.
+#### 28
+भवव्रतधरा ये च ये च तान् समनुव्रताः ।
+पाषण्डिनस्ते भवन्तु सच्छास्त्रपरिपन्थिनः ॥ २८ ॥
+
+One who takes a vow to satisfy Lord Śiva or who follows such principles will certainly become an atheist and be diverted from transcendental scriptural injunctions.
+#### 29
+य एतन्मर्त्यमुद्दिश्य भगवत्यप्रतिद्रुहि ।
+द्रुह्यत्यज्ञः पृथग्दृष्टिः तत्त्वतो विमुखो भवेत् ॥ २१ ॥
+
+Anyone who has accepted Dakṣa as the most important personality and neglected Lord Śiva because of envy is less intelligent and, because of visualizing in duality, will be bereft of transcendental knowledge.
+#### 29
+नष्टशौचा मूढधियो जटाभस्मास्थिधारिणः ।
+
+Those who vow to worship Lord Śiva are so foolish that they imitate him by keeping long hair on their heads. 
+
+विशन्तु शिवदीक्षायां यत्र दैवं सुरासवम् ॥ २९ ॥
+
+When initiated into worship of Lord Śiva, they prefer to live on wine, flesh and other such things.
+## c7
 # p9
 ### c16
 #### 29-30

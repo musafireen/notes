@@ -1,5 +1,6 @@
 
-
+study: 
+https://www.wisdomlib.org/hinduism/essay/isanasivagurudeva-paddhati-study
 # c2
 ## 2.42
 ### 2.42.3-4

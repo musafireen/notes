@@ -245,13 +245,16 @@ Rudragayatri
 ५ प॒शूग्श्च॒ मह्य॒माव॑ह॒ जीव॑नं च॒ दिशो॑ दिश । मा नो॑ हिꣳसीज्जातवेदो॒
  गामश्वं॒ पुरु॑षं॒ जग॑त् । अबि॑भ्र॒दग्न॒ आग॑हि श्रि॒या मा॒ परि॑पातय ।
  पुरु॑षस्य विद्म सहस्रा॒क्षस्य॑ महादे॒वस्य॑ धीमहि । तन्नो॑ रुद्रः प्रचो॒दया᳚त्
- । तत्पुरु॑षाय वि॒द्महे॑ महादे॒वाय॑ धीमहि । तन्नो॑ रुद्रः प्रचो॒दया᳚त् ।
- तत्पुरु॑षाय वि॒द्महे॑ वक्रतु॒ण्डाय॑ धीमहि । तन्नो॑ दन्तिः प्रचो॒दया᳚त् ।
- तत्पुरु॑षाय वि॒द्महे॑ चक्रतु॒ण्डाय॑ धीमहि ॥ ०। १०। १। ५॥
+ । 
 
 Bring me cattle and life; may all directions favor me. O Jātavedas (Agni), do not harm our cows, horses, people, or the moving world.
 Come here, bearing the offering, O Agni, and protect me with your grace.
 We meditate upon the great Purusha, the thousand-eyed Mahadeva. May Rudra inspire us.
+
+तत्पुरु॑षाय वि॒द्महे॑ महादे॒वाय॑ धीमहि । तन्नो॑ रुद्रः प्रचो॒दया᳚त् ।
+ तत्पुरु॑षाय वि॒द्महे॑ वक्रतु॒ण्डाय॑ धीमहि । तन्नो॑ दन्तिः प्रचो॒दया᳚त् ।
+ तत्पुरु॑षाय वि॒द्महे॑ चक्रतु॒ण्डाय॑ धीमहि ॥ ०। १०। १। ५॥
+
 We meditate upon that Purusha, the great Mahadeva. May Rudra inspire us.
 We meditate upon that Purusha, the one with a curved trunk (Vakratunda). May Danti (Ganesha) inspire us.
 We meditate upon that Purusha, the one with a discus-shaped trunk (Chakratunda). May he inspire us.
