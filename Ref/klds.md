@@ -1,6 +1,13 @@
 
 # mlvkg
+malavikagnimitra
+https://sa.m.wikisource.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D
+
 # rgh
+https://ambuda.org/texts/raghuvamsham/
+
+https://www.transliteral.org/pages/i100507052437/view
+
 https://sanskritdocuments.org/sites/giirvaani/giirvaani/rv/sargas/
 
 https://www.ebanglalibrary.com/category/%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%83%E0%A6%A4/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A6%B8/%E0%A6%B0%E0%A6%98%E0%A7%81%E0%A6%AC%E0%A6%82%E0%A6%B6/
@@ -68,6 +75,8 @@ https://sanskritdocuments.org/doc_z_misc_major_works/raghuvansha18.html
 https://sanskritdocuments.org/doc_z_misc_major_works/raghuvansha19.html
 
 # kmrs
+https://ambuda.org/texts/kumarasambhavam/
+
 https://sanskritdocuments.org/sites/giirvaani/giirvaani/ks/sarga/
 
 https://sanskritdocuments.org/doc_z_misc_major_works/kumArasambhavam.html
@@ -75,6 +84,10 @@ https://sanskritdocuments.org/doc_z_misc_major_works/kumArasambhavam.html
 https://sanskritdocuments.org/doc_z_misc_major_works/kumArasambhavam8.html
 
 # mghd
+https://ambuda.org/texts/meghadutam-kale/
+
+https://www.transliteral.org/pages/i100320024840/view
+
 https://sanskritdocuments.org/doc_z_misc_major_works/meghanew.html
 # skntl
 https://sanskritdocuments.org/doc_z_misc_major_works/shaakuntala.html

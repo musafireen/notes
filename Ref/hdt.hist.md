@@ -1433,7 +1433,68 @@ This Zopyrus was the father of Megabyzus, who was general of an army in Egypt ag
 
 and Megabyzus' son was that Zopyrus who deserted from the Persians to Athens.
 # b4
+## c1
+#### 1
+μετὰ δὲ τὴν Βαβυλῶνος αἵρεσιν ἐγένετο ἐπὶ Σκύθας αὐτοῦ Δαρείου ἔλασις: 
 
+After taking Babylon, Darius himself marched against the Scythians. 
+
+ἀνθεύσης γὰρ τῆς Ἀσίης ἀνδράσι καὶ χρημάτων μεγάλων συνιόντων, ἐπεθύμησε ὁ Δαρεῖος τίσασθαι Σκύθας, ὅτι ἐκεῖνοι πρότεροι ἐσβαλόντες ἐς τὴν Μηδικὴν καὶ νικήσαντες μάχῃ τοὺς ἀντιουμένους ὑπῆρξαν ἀδικίης. 
+
+For since Asia was bursting with men and vast revenues were coming in, Darius desired to punish the Scythians for the wrong they had begun when they invaded Media first and defeated those who opposed them in battle. 
+#### 2
+[2] τῆς γὰρ ἄνω Ἀσίης ἦρξαν, ὡς καὶ πρότερον μοι εἴρηται, Σκύθαι ἔτεα δυῶν δέοντα τριήκοντα. 
+
+[2] For the Scythians, as I have said before, ruled upper Asia1 for twenty-eight years; 
+
+Κιμμερίους γὰρ ἐπιδιώκοντες ἐσέβαλον ἐς τὴν Ἀσίην, καταπαύσαντες τῆς ἀρχῆς Μήδους: οὗτοι γὰρ πρὶν ἢ Σκύθας ἀπικέσθαι ἦρχον τῆς Ἀσίης. 
+
+they invaded Asia in their pursuit of the Cimmerians, and ended the power of the Medes, who were the rulers of Asia before the Scythians came. 
+#### 3
+[3] τοὺς δὲ Σκύθας ἀποδημήσαντας ὀκτὼ καὶ εἴκοσι ἔτεα καὶ διὰ χρόνου τοσούτου κατιόντας ἐς τὴν σφετέρην ἐξεδέξατο οὐκ ἐλάσσων πόνος τοῦ Μηδικοῦ: 
+
+[3] But when the Scythians had been away from their homes for twenty-eight years and returned to their country after so long an absence, as much trouble as their Median war awaited them. 
+
+εὗρον γὰρ ἀντιουμένην σφίσι στρατιήν οὐκ ὀλίγην. αἱ γὰρ τῶν Σκυθέων γυναῖκες, ὥς σφι οἱ ἄνδρες ἀπῆσαν χρόνον πολλόν, ἐφοίτεον παρὰ τοὺς δούλους.
+
+They found themselves opposed by a great force; for the Scythian women, when their husbands were away for so long, turned to their slaves.
+## c3
+#### 1
+ἐκ τούτων δὴ ὦν σφι τῶν δούλων καὶ τῶν γυναικῶν ἐτράφη νεότης: 
+
+So it came about that a younger generation grew up, born of these slaves and the women; 
+
+οἳ ἐπείτε ἔμαθον τὴν σφετέρην γένεσιν, ἠντιοῦντο αὐτοῖσι κατιοῦσι ἐκ τῶν Μήδων. 
+
+and when the youths learned of their parentage, they came out to fight the Scythians returning from Media. 
+#### 2
+[2] καὶ πρῶτα μὲν τὴν χώρην ἀπετάμοντο, τάφρον ὀρυξάμενοι εὐρέαν κατατείνουσαν ἐκ τῶν Ταυρικῶν ὀρέων ἐς τὴν Μαιῆτιν λίμνην, τῇ περ ἐστὶ μεγίστη: 
+
+[2] First they barred the way to their country by digging a wide trench from the Tauric mountains to the broadest part of the Maeetian lake;1 
+
+μετά γε πειρωμένοισι ἐσβάλλειν τοῖσι Σκύθῃσι ἀντικατιζόμενοι ἐμάχοντο. 
+
+and then, when the Scythians tried to force a passage, they camped opposite them and engaged them in battle. 
+#### 3
+[3] γινομένης δὲ μάχης πολλάκις καί οὐ δυναμένων οὐδὲν πλέον ἔχειν τῶν Σκυθέων τῇ μάχῃ, εἷς αὐτῶν ἔλεξε τάδε. 
+
+[3] There were many fights, and the Scythians could gain no advantage; at last one of them said, 
+
+‘οἷα ποιεῦμεν, ἄνδρες Σκύθαι: δούλοισι τοῖσι ἡμετέροισι μαχόμενοι αὐτοί τε κτεινόμενοι ἐλάσσονες γινόμεθα καὶ ἐκείνους κτείνοντες ἐλασσόνων τὸ λοιπὸν ἄρξομεν. 
+
+“Men of Scythia, look at what we are doing! We are fighting our own slaves; they kill us, and we grow fewer; we kill them, and shall have fewer slaves. 
+#### 4
+[4] νῦν ὦν μοι δοκέει αἰχμὰς μὲν καὶ τόξα μετεῖναι, λαβόντα δὲ ἕκαστον τοῦ ἵππου τὴν μάστιγα ἰέναι ἆσσον αὐτῶν. 
+
+[4] Now, then, my opinion is that we should drop our spears and bows, and meet them with horsewhips in our hands. 
+
+μέχρι μὲν γὰρ ὥρων ἡμέας ὅπλα ἔχοντας, οἳ δὲ ἐνόμιζον ὅμοιοί τε καί ἐξ ὁμοίων ἡμῖν εἶναι: 
+
+As long as they see us armed, they imagine that they are our equals and the sons of our equals; 
+
+ἐπεὰν δὲ ἴδωνται μάστιγας ἀντὶ ὅπλων ἔχοντας, μαθόντες ὡς εἰσὶ ἡμέτεροι δοῦλοι καὶ συγγνόντες τοῦτο. οὐκ ὑπομενέουσι.’
+
+let them see us with whips and no weapons, and they will perceive that they are our slaves; and taking this to heart they will not face our attack.”
 ## c11
 #### 1
 ἔστι δὲ καὶ ἄλλος λόγος ἔχων ὧδε, τῷ μάλιστα λεγομένῳ αὐτός πρόσκειμαι, Σκύθας τοὺς νομάδας οἰκέοντας ἐν τῇ Ἀσίῃ, πολέμῳ πιεσθέντας ὑπὸ Μασσαγετέων, οἴχεσθαι διαβάντας ποταμὸν Ἀράξην ἐπὶ γῆν τὴν Κιμμερίην （τὴν γὰρ νῦν νέμονται Σκύθαι, αὕτη λέγεται τὸ παλαιὸν εἶναι Κιμμερίων）, 
@@ -1620,22 +1681,23 @@ But when things had to turn out badly for him, they did so for this reason: he c
 
 [5] The leading men among the Scythians followed him, and the Borysthenite brought them up secretly onto a tower; from which, when Scyles passed by with his company of worshippers, they saw him playing the Bacchant; thinking it a great misfortune, they left the city and told the whole army what they had seen. 
 ## c95
+#### 1
 ὡς δὲ ἐγὼ πυνθάνομαι τῶν τὸν Ἑλλήσποντον οἰκεόντων Ἑλλήνων καὶ Πόντον, τὸν Σάλμοξιν τοῦτον ἐόντα ἄνθρωπον δουλεῦσαι ἐν Σάμῳ, δουλεῦσαι δὲ Πυθαγόρῃ τῷ Μνησάρχου, 
 
 I understand from the Greeks who live beside the Hellespont and Pontus, that this Salmoxis was a man who was once a slave in Samos, his master being Pythagoras son of Mnesarchus; 
-
+#### 2
 [2] ἐνθεῦτεν δὲ αὐτὸν γενόμενον ἐλεύθερον χρήματα κτήσασθαι μεγάλα, κτησάμενον δὲ ἀπελθεῖν ἐς τὴν ἑωυτοῦ. ἅτε δὲ κακοβίων τε ἐόντων τῶν Θρηίκων καὶ ὑπαφρονεστέρων, τὸν Σάλμοξιν τοῦτον ἐπιστάμενον δίαιτάν τε Ἰάδα καὶ ἤθεα βαθύτερα ἢ κατὰ Θρήικας, οἷα Ἕλλησι τε ὁμιλήσαντα καὶ Ἑλλήνων οὐ τῷ ἀσθενεστάτῳ σοφιστῇ Πυθαγόρη, 
 
 [2] then, after being freed and gaining great wealth, he returned to his own country. Now the Thracians were a poor and backward people, but this Salmoxis knew Ionian ways and a more advanced way of life than the Thracian; for he had consorted with Greeks, and moreover with one of the greatest Greek teachers, Pythagoras; 
-
+#### 3
 [3] κατασκευάσασθαι ἀνδρεῶνα, ἐς τὸν πανδοκεύοντα τῶν ἀστῶν τοὺς πρώτους καὶ εὐωχέοντα ἀναδιδάσκειν ὡς οὔτε αὐτὸς οὔτε οἱ συμπόται αὐτοῦ οὔτε οἱ ἐκ τούτων αἰεὶ γινόμενοι ἀποθανέονται, ἀλλ᾽ ἥξουσι ἐς χῶρον τοῦτον ἵνα αἰεὶ περιεόντες ἕξουσι τὰ πάντα ἀγαθά. 
 
 [3] therefore he made a hall, where he entertained and fed the leaders among his countrymen, and taught them that neither he nor his guests nor any of their descendants would ever die, but that they would go to a place where they would live forever and have all good things. 
-
+#### 4
 [4] ἐν ᾧ δὲ ἐποίεε τὰ καταλεχθέντα καὶ ἔλεγε ταῦτα, ἐν τούτῳ κατάγαιον οἴκημα ἐποιέετο. ὡς δέ οἱ παντελέως εἶχε τὸ οἴκημα, ἐκ μὲν τῶν Θρηίκων ἠφανίσθη, καταβὰς δὲ κάτω ἐς τὸ κατάγαιον οἴκημα διαιτᾶτο ἐπ᾽ ἔτεα τρία: 
 
 [4] While he was doing as I have said and teaching this doctrine, he was meanwhile making an underground chamber. When this was finished, he vanished from the sight of the Thracians, and went down into the underground chamber, where he lived for three years, 
-
+#### 5
 [5] οἳ δὲ μιν ἐπόθεόν τε καὶ ἐπένθεον ὡς τεθνεῶτα. τετάρτω δὲ ἔτεϊ ἐφάνη τοῖσι Θρήιξι, καὶ οὕτω πιθανά σφι ἐγένετο τὰ ἔλεγε ὁ Σάλμοξις. ταῦτα φασί μιν ποιῆσαι.
 
 [5] while the Thracians wished him back and mourned him for dead; then in the fourth year he appeared to the Thracians, and thus they came to believe what Salmoxis had told them. Such is the Greek story about him.
@@ -1831,17 +1893,60 @@ Such was the fate of the Eretrians.
 #### 1
 Βάκτριοι δὲ περὶ μὲν τῇσι κεφαλῇσι ἀγχότατα τῶν Μηδικῶν ἔχοντες ἐστρατεύοντο, τόξα δὲ καλάμινα ἐπιχώρια καὶ αἰχμὰς βραχέας.
 
-#### 64.2
-Σάκαι δὲ οἱ Σκύθαι περὶ μὲν τῇσι κεφαλῇσι κυρβασίας ἐς ὀξὺ ἀπηγμένας ὀρθὰς εἶχον πεπηγυίας, ἀναξυρίδας δὲ ἐνεδεδύκεσαν, τόξα δὲ ἐπιχώρια καὶ ἐγχειρίδια, πρὸς δὲ καὶ ἀξίνας σαγάρις εἶχον. τούτους δὲ ἐόντας Σκύθας Ἀμυργίους Σάκας ἐκάλεον: οἱ γὰρ Πέρσαι πάντας τοὺς Σκύθας καλέουσι Σάκας. Βακτρίων δὲ καὶ Σακέων ἦρχε Ὑστάσπης ὁ Δαρείου τε καὶ Ἀτόσσης τῆς Κύρου.
+The Bactrians in the army wore a headgear very similar to the Median, carrying their native reed bows and short spears. 
+#### 2
+Σάκαι δὲ οἱ Σκύθαι περὶ μὲν τῇσι κεφαλῇσι κυρβασίας ἐς ὀξὺ ἀπηγμένας ὀρθὰς εἶχον πεπηγυίας, ἀναξυρίδας δὲ ἐνεδεδύκεσαν, τόξα δὲ ἐπιχώρια καὶ ἐγχειρίδια, πρὸς δὲ καὶ ἀξίνας σαγάρις εἶχον. 
+
+[2] The Sacae, who are Scythians, had on their heads tall caps, erect and stiff and tapering to a point; they wore trousers, and carried their native bows, and daggers, and also axes which they call “sagaris.” 
+
+τούτους δὲ ἐόντας Σκύθας Ἀμυργίους Σάκας ἐκάλεον: 
+
+These were Amyrgian Scythians, but were called Sacae; 
+
+οἱ γὰρ Πέρσαι πάντας τοὺς Σκύθας καλέουσι Σάκας. 
+
+that is the Persian name for all Scythians. 
+
+Βακτρίων δὲ καὶ Σακέων ἦρχε Ὑστάσπης ὁ Δαρείου τε καὶ Ἀτόσσης τῆς Κύρου.
+
+The commander of the Bactrians and Sacae was Hystaspes, son of Darius and Cyrus' daughter Atossa.
 ## c65
 #### 1
-Ἰνδοὶ δὲ εἵματα μὲν ἐνδεδυκότες ἀπὸ ξύλων πεποιημένα, τόξα δὲ καλάμινα εἶχον καὶ ὀιστοὺς καλαμίνους: ἐπὶ δὲ σίδηρος ἦν. ἐσταλμένοι μὲν δὴ ἦσαν οὕτω Ἰνδοί, προσετετάχατο δὲ συστρατευόμενοι Φαρναζάθρῃ τῷ Ἀρταβάτεω.
+Ἰνδοὶ δὲ εἵματα μὲν ἐνδεδυκότες ἀπὸ ξύλων πεποιημένα, τόξα δὲ καλάμινα εἶχον καὶ ὀιστοὺς καλαμίνους: 
+
+The Indians wore garments of tree-wool,1 and carried reed bows and iron-tipped reed arrows. 
+
+ἐπὶ δὲ σίδηρος ἦν. 
+
+Such was their equipment; 
+
+ἐσταλμένοι μὲν δὴ ἦσαν οὕτω Ἰνδοί, προσετετάχατο δὲ συστρατευόμενοι Φαρναζάθρῃ τῷ Ἀρταβάτεω.
+
+they were appointed to march under the command of Pharnazathres son of Artabates.
 ## c66
 #### 1
-ἄριοι δὲ τόξοισι μὲν ἐσκευασμένοι ἦσαν Μηδικοῖσι, τὰ δὲ ἄλλα κατά περ Βάκτριοι. Ἀρίων δὲ ἦρχε Σισάμνης ὁ Ὑδάρνεος. Πάρθοι δὲ καὶ Χοράσμιοι καὶ Σόγδοι τε καὶ Γανδάριοι καὶ Δαδίκαι τὴν αὐτὴν σκευὴν ἔχοντες τὴν καὶ Βάκτριοι ἐστρατεύοντο.
+ἄριοι δὲ τόξοισι μὲν ἐσκευασμένοι ἦσαν Μηδικοῖσι, τὰ δὲ ἄλλα κατά περ Βάκτριοι. 
 
+The Arians were equipped with Median bows, but in all else like the Bactrians; 
+
+Ἀρίων δὲ ἦρχε Σισάμνης ὁ Ὑδάρνεος. 
+
+their commander was Sisamnes son of Hydarnes. 
+
+Πάρθοι δὲ καὶ Χοράσμιοι καὶ Σόγδοι τε καὶ Γανδάριοι καὶ Δαδίκαι τὴν αὐτὴν σκευὴν ἔχοντες τὴν καὶ Βάκτριοι ἐστρατεύοντο.
+
+The Parthians, Chorasmians, Sogdians, Gandarians, and Dadicae in the army had the same equipment as the Bactrians. 
+#### 2
+[2] τούτων δὲ ἦρχον οἵδε. Πάρθων μὲν καὶ Χορασμίων Ἀρτάβαζος ὁ Φαρνάκεος, Σόγδων δὲ Ἀζάνης ὁ Ἀρταίου, Γανδαρίων δὲ καὶ Δαδικέων Ἀρτύφιος ὁ Ἀρταβάνου.
+
+[2] The Parthians and Chorasmians had for their commander Artabazus son of Pharnaces, the Sogdians Azanes son of Artaeus, the Gandarians and Dadicae Artyphius son of Artabanus.
 # b8
 ## c27
 ### 3
-### 4
+[3] ἐπείτε γὰρ κατειλήθησαν ἐς τὸν Παρνησὸν οἱ Φωκέες ἔχοντες μάντιν Τελλίην τὸν Ἠλεῖον, ἐνθαῦτα ὁ Τελλίης οὗτος σοφίζεται αὐτοῖσι τοιόνδε. γυψώσας ἄνδρας ἑξακοσίους τῶν φωκέων τοὺς, ἀρίστους, αὐτούς τε τούτους καὶ τὰ ὅπλα αὐτῶν, νυκτὸς ἐπεθήκατο τοῖσι Θεσσαλοῖσι, προείπας αὐτοῖσι, τὸν ἂν μὴ λευκανθίζοντα ἴδωνται, τοῦτον κτείνειν. 
 
+[3] When the Phocians were besieged on Parnassus, they had with them the diviner Tellias of Elis; Tellias devised a stratagem for them: he covered six hundred of the bravest Phocians with gypsum, themselves and their armor, and led them to attack the Thessalians by night, bidding them slay whomever they should see not whitened. 
+### 4
+[4] τούτους ὦν αἵ τε φυλακαὶ τῶν Θεσσαλῶν πρῶται ἰδοῦσαι ἐφοβήθησαν, δόξασαι ἄλλο τι εἶναι τέρας, καὶ μετὰ τὰς φυλακὰς αὐτὴ ἡ στρατιὴ οὕτω ὥστε τετρακισχιλίων κρατῆσαι νεκρῶν καὶ ἀσπίδων Φωκέας, τῶν τὰς μὲν ἡμισέας ἐς Ἄβας ἀνέθεσαν τὰς δὲ ἐς Δελφούς: 
+
+[4] The Thessalian sentinels were the first to see these men and to flee for fear, supposing falsely that it was something supernatural, and after the sentinels the whole army fled as well. The Phocians made themselves masters of four thousand dead, and their shields, of which they dedicated half at Abae and the rest at Delphi. 

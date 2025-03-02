@@ -1,5 +1,7 @@
 
 
+https://www.transliteral.org/pages/i111005095635/view
+
 https://scriptures.redzambala.com/hinduism-scriptures/text/samkhya-karika-with-gaudapada-commentaries.html
 
 https://yogastudies.org/text-section/samkhya-karika/samkhya-karika-text/

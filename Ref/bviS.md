@@ -18,8 +18,123 @@ https://www.wisdomlib.org/jainism/book/bhagavati-sutra/d/doc374714.html
 https://www.wisdomlib.org/jainism/book/bhagavati-sutra/d/doc375972.html
 # b15
 ## ?
+#### 638
+**तए णं सावत्थीए नगरीए सिंघाडग-तिग-चउक्क-चच्चर-चउम्मुह-महापह-पहेसु बहुजनो अन्नमन्नस्स एवमाइक्खइ, एवं भासइ, एवं पन्नवेइ, एवं परूवेइ–एवं खलु देवानुप्पिया! गोसाले मंखलिपुत्ते जिने जिनप्पलावी, अरहा अरहप्पलावी, केवली केवलिप्पलावी, सव्वण्णू सव्वण्णुप्पलावी, जिने जिनसद्दं पगासेमाणे विहरइ।**  
+Then, in the city of Sāvatthī, at the marketplaces of Siṁghāḍaga, Tiga, Caukka, Caccara, Caummuha, and Mahāpaha, a large crowd spoke to one another, saying, proclaiming, and announcing: "Thus indeed, O Devānuppiyā! Gosāla Maṅkhaliputta, the Jina, possesses the qualities of a Jina; the Arhat, possesses the qualities of an Arhat; the Kevalin, possesses the qualities of a Kevalin; the Omniscient, possesses the qualities of the Omniscient. He wanders, spreading the sound of the Jina."
+
+**से कहमेयं मन्ने एवं? तेणं कालेणं तेणं समएणं सामी समोसढे जाव परिसा पडिगया।**  
+How should this be understood? In due time, at that moment, the assembly gradually dispersed.
+
+**तेणं कालेणं तेणं समएणं समणस्स भगवओ महावीरस्स जेट्ठे अंतेवासी इंदभूती नामं अनगारे गोयमे गोत्तेणं सत्तुस्सेहे समचउरंससंठाणसंठिए वज्जरिसभनारायसंघयणे कनगपुलगनिधस-पम्हगोरे उग्गतवे दित्ततवे तत्ततवे महातवे ओराले घोरे घोरगुणे घोरतवस्सी घोरबंभचेरवासी उच्छूढसरीरे संखित्तविउलतेयलेल्से छट्ठंछट्ठेणं अनिक्खित्तेणं तवोकम्मेणं संजमेणं तवसा अप्पाणं भावेमाणे विहरइ।**  
+At that time, the chief disciple of the venerable ascetic Mahāvīra was Indabhūti by name, from the Gautama gotra. He was one of the seven hundred chief disciples, symmetrical in all four respects, known as Vajriṣabhanārāyaṇa Saṅghayaṇa. He possessed great austerities, intense discipline, and severe asceticism. His body was golden, his eyelashes long, and his gaze sharp. He was deeply devoted to severe asceticism, fearsome in discipline, and a practitioner of intense austerities. His body was emaciated, and he alternated between contracted and extended postures. He remained steadfast in the sixth stage of ascetic practice, without any lapse, and pursued his spiritual efforts with self-restraint, cultivating ascetic practices.
+
+**तए णं भगवं गोयमे छट्ठक्खमणपारणगंसि पढमाए पोरिसीए सज्झायं करेइ, बीयाए पोरिसीए ज्झाणं ज्झियाइ, तइयाए पोरिसीए अतुरियमचवलमसंभंते मुहपोत्तियं पडिलेहेइ, पडिलेहेत्ता भायणवत्थाइं पडिलेहेइ, पडिलेहेत्ता भायणाइं पमज्जइ, पमज्जित्ता भायणाइं उग्गाहेइ, उग्गाहेत्ता जेणेव समणे भगवं महावीरे तेणेव उवागच्छइ, उवागच्छित्ता समणं भगवं महावीरं वंदइ नमंसइ, वंदित्ता नमंसित्ता एवं वयासी–**  
+Then, the venerable Gautama, after completing the sixth stage of ascetic practice, engaged in the first kind of rigorous recitation. In the second stage, he engaged in profound meditation. In the third stage, he examined words that were untangled, unwavering, and unshaken. After examining them, he reflected upon their meaning. After reflecting, he committed them to memory. After committing them to memory, he sought out the ascetic Bhagavān Mahāvīra. Having approached him, he bowed down and saluted him, and after paying homage, he spoke thus:
+
+**"इच्छामि णं भंते! तुब्भेहिं अब्भणुण्णाए समाणे छट्ठक्खमणपारणगंसि सावत्थीए नगरीए उच्च-नीय-मज्झिमाइं कुलाइं घरसमुदाणस्स भिक्खायरियाए अडित्तए। अहासुहं देवानुप्पिया! मा पडिबंधं।"**  
+"Venerable One! I wish that, with your permission, after completing the sixth stage of ascetic practice, I may undertake the practice of alms-seeking in the city of Sāvatthī among the noble, wealthy, and middle-class families, observing the pure mendicant conduct. O Devānuppiyā! May there be no hindrance."
+
+**तए णं भगवं गोयमे समणेणं भगवया महावीरेणं अब्भणुण्णाए समाणे समणस्स भगवओ महावीरस्स अंतियाओ कोट्ठयाओ चेइयाओ पडिनिक्खमइ, पडिनिक्खमित्ता अतुरियमचवलमसंभंते जुगंतरपलोयणाए दिट्ठीए पुरओ रियं सोहेमाणे-सोहे-माणे जेणेव सावत्थी नगरी तेणेव उवागच्छइ, उवागच्छित्ता सावत्थीए नगरीए उच्च-नीय-मज्झिमाइं कुलाइं घरसमुदाणस्स भिक्खायरियं अडइ।**  
+Then, the venerable Gautama, having received permission from the ascetic Bhagavān Mahāvīra, departed from the presence of the venerable Mahāvīra, leaving the quarters where he had been staying. He set forth with his gaze steady, undistracted, and unshaken, walking in the correct manner, heading towards the city of Sāvatthī. Arriving there, he went among the noble, wealthy, and middle-class families and began his alms-seeking practice.
+
+---
+
+Let me know if you want any adjustments to this style!
+
+तए णं भगवं गोयमे सावत्थीए नगरीए उच्च-नीय-मज्झिमाइं कुलाइं घरसमुदाणस्स भिक्खायरियाए अडमाणे बहुजणसद्दं निसामेइ,  
+*Then, indeed, the venerable Goyama, while wandering among the high, low, and middle classes in the city of Sāvatthī, amidst the multitude of households, heard the noise of many people.*
+
+बहुजनो अन्नमन्नस्स एवमाइक्खइ एवं भासइ एवं पन्नवेइ एवं परूवेइ–  
+*Many people were saying to one another, speaking, announcing, and proclaiming:*
+
+एवं खलु देवानुप्पिया! गोसाले मंखलिपुत्ते जिने जिनप्पलावी जाव जिने जिनसद्दं पगासेमाणे विहरइ।  
+*"Indeed, O beloved of the gods! Gośāla Maṅkhaliputra, the conqueror, the proclaimer of the conquerors, is wandering, proclaiming the word of the conquerors."*
+
+से कहमेयं मन्ने एवं?  
+*"What is this, O revered one?"*
+
+तए णं भगवं गोयमे बहुजणस्स अंतियं एयमट्ठं सोच्चा निसम्म जायसड्ढे जाव समुप्पन्नकोउहल्ले अहापज्जत्तं समु-दाणं गेण्हइ,  
+*Then, indeed, the venerable Goyama, having heard the words of the many people, having considered, having reflected, having arisen curiosity, took his alms bowl and robe.*
+
+गेण्हित्ता सावत्थीओ नगरीओ पडिनिक्खमइ,  
+*Having taken them, he left the city of Sāvatthī.*
+
+अतुरियमचवलमसंभंते जुगंतरपलोयणाए दिट्ठीए पुरओ रियं सोहेमाणे-सोहेमाणे जेणेव कोट्ठए चेइए, जेणेव समणे भगवं महावीरे तेणेव उवागच्छइ,  
+*With swift, uninterrupted, and unimpeded steps, with a gaze fixed forward, shining and shining, he approached the courtyard and the assembly, and approached the ascetic Lord Mahāvīra.*
+
+उवागच्छित्ता समणस्स भगवओ महावीरस्स अदूर-सामंते गमणागमणाए पडिक्कमइ,  
+*Having approached, he began to walk back and forth near the ascetic Lord Mahāvīra.*
+
+पडिक्कमित्ता एसणमणेसणं आलोएइ,  
+*Having walked, he looked around for a place to sit.*
+
+आलोएत्ता भत्तपाणं पडिदंसेइ,  
+*Having looked, he placed his alms bowl and robe.*
+
+पडिदंसेत्ता समणं भगवं महावीरं वंदइ नमंसइ,  
+*Having placed them, he paid homage and bowed to the ascetic Lord Mahāvīra.*
+
+वंदित्ता नमंसित्ता नच्चासन्ने नातिदूरे सुस्सूसमाणे नमंसमाणे अभिमुहे विनएणं पंजलियडे पज्जुवासमाणे एवं वयासी–  
+*Having paid homage and bowed, not too far, not too near, listening respectfully, bowing, facing him, with joined hands, he spoke thus:*
+
+एवं खलु अहं भंते! छट्ठक्खमणपारणगंसि तुब्भेहिं अब्भणुण्णाए समाणे सावत्थीए नगरीए उच्च-नीय-मज्झिमाणि कुलाणि घरसमुदाणस्स भिक्खयरियाए अडमाणे बहुजणसद्दं निसामेमि, बहुजनो अन्नमन्नस्स एवमाइक्खइ एवं भासइ एवं पन्नवेइ एवं परूवेइ–  
+*"Indeed, O revered one! During the sixth month of the rainy season, while you were being praised, I was staying in the city of Sāvatthī, among the high, low, and middle classes, amidst the multitude of households, and I heard the noise of many people. Many people were saying to one another, speaking, announcing, and proclaiming:*
+
+एवं खलु देवानुप्पिया! गोसाले मंखलिपुत्ते जिने जिनप्पलावी जाव जिने जिनसद्दं पगासेमाणे विहरइ।  
+*'Indeed, O beloved of the gods! Gośāla Maṅkhaliputra, the conqueror, the proclaimer of the conquerors, is wandering, proclaiming the word of the conquerors.'*
+
+से कहमेयं भंते! एवं?  
+*What is this, O revered one?"*
+
+तं इच्छामि णं भंते! गोसालस्स मंखलिपुत्तस्स उट्ठाणपारियाणियं परिकहियं।  
+*"I wish, O revered one, to hear about the conduct and behavior of Gośāla Maṅkhaliputra."*
+
+गोयमादी! समणे भगवं महावीरे भगवं गोयमं एवं वयासी–  
+*The ascetic Lord Mahāvīra addressed Goyama thus:*
+
+जण्णं गोयमा! से बहुजनो अन्नमन्नस्स एवमाइ-क्खइ एवं भासइ एवं पन्नवेइ एवं परूवेइ–  
+*"Know, Goyama! Those many people are saying to one another, speaking, announcing, and proclaiming:*
+
+एवं खलु गोसाले मंखलिपुत्ते जिने जिनप्पलावी जाव जिने जिनसद्दं पगासेमाणे विहरइ।  
+*'Indeed, Gośāla Maṅkhaliputra, the conqueror, the proclaimer of the conquerors, is wandering, proclaiming the word of the conquerors.'*
+
+तण्णं मिच्छा।  
+*That is false."*
+
+**अहं पुण गोयमा! एवमाइक्खामि जाव परूवेमि– एवं खलु एयस्स गोसालस्स मंखलीपुत्तस्स मंखली नामं मंखे पिता होत्था। तस्स णं मंखलिस्स मंखस्स भद्दा नामं भारिया होत्था–सुकुमालपाणिपाया जाव पडिरूवा।**  
+But, O Gautama, I declare and proclaim this: Indeed, for this Gosāla Maṅkhaliputta, his father was named Maṅkhali. And for that Maṅkhali, his wife was named Bhaddā—a woman with delicate hands, beautiful and pleasing in appearance.
+
+**तए णं सा भद्दा भारिया अन्नदा कदायि गुव्विणी यावि होत्था। तेणं कालेणं तेणं समएणं सरवणे नामं सन्निवेसे होत्था–रिद्धत्थिमियसमिद्धे जाव नंदनवनसन्निभप्पगासे, पासादीए दरिसणिज्जे अभिरूवे पडिरूवे।**  
+Then, that wife Bhaddā, after some time, became pregnant. At that time, there was a settlement called Saravaṇa, prosperous and flourishing, resplendent like the Nandana Grove, adorned with beautiful mansions, delightful to behold, and charming in every way.
+
+**तत्थ णं सरवणे सन्निवेसे गोबहुले नामं माहणे परिवसइ–अड्ढे जाव बहुजणस्स अपरिभूए, रिउव्वेद जाव बंभण्णएसु परिव्वायएसु य नयेसु सुपरिनिट्ठिए यावि होत्था। तस्स णं गोबहुलस्स माहणस्स गोसाला यावि होत्था।**  
+In that settlement of Saravaṇa, there lived a brāhmaṇa named Gobahula. He was a wealthy man, highly esteemed among the people, and proficient in the sacred texts and the disciplines of renunciation. This Gobahula owned a cowshed.
+
+**तए णं से मंखली मंखे अन्नया कदायि भद्दाए भारियाए गुव्विणीए सद्धिं चित्तफलगहत्थगए मंखत्तणेणं अप्पाणं भावेमाणे पुव्वानुपुव्विं चरमाणे गामानुगामं दूइज्जमाणे जेणेव सरवणे सन्निवेसे जेणेव गोबहुलस्स माहणस्स गोसाला तेणेव उवागच्छइ,**  
+Then, that Maṅkhali, along with his pregnant wife Bhaddā, carrying a begging bowl in hand, continued his ascetic practice, wandering from village to village. Eventually, he arrived at the Saravaṇa settlement, at the cowshed of Gobahula.
+
+**उवागच्छित्ता गोबहुलस्स माहणस्स गोसालाए एगदेसंसि भंडनिक्खेवं करेइ, करेत्ता सरवणे सन्निवेसे उच्च-नीय-मज्झिमाइं कुलाइं घरसमुदानस्स भिक्खायरियाए अडमाणे वसहीए सव्वओ समंता मग्गण-गवेसणं करेइ,**  
+Upon arriving at the cowshed of Gobahula, he placed his belongings in one corner. Then, as he was unable to find a suitable place for alms in the noble, wealthy, and middle-class families of Saravaṇa, he began searching in all directions for a place to stay.
+
+**वसहीए सव्वओ समंता मग्गण-गवेसणं करेमाणे अन्नत्थ वसहिं अलभमाणे तस्सेव गोबहुलस्स माहणस्स गोसालाए एगदेसंसि वासावासं उवागए।**  
+While searching everywhere for shelter, finding none elsewhere, he returned to the same cowshed of Gobahula and took up residence in one corner.
+
+**तए णं सा भद्दा भारिया नवण्हं मासाणं बहुपडिपुण्णाणं अद्धट्ठमाण य राइंदियाणं वीतिक्कंताणं सुकुमालपाणिपायं जाव पडिरूवगं दारगं पयाया।**  
+Then, when nine full months had passed, and when half of the eighth month and the lunar cycle had also been completed, Bhaddā gave birth to a son with delicate hands, handsome and pleasing in appearance.
+
+**तए णं तस्स दारगस्स अम्मापियरो एक्कारसमे दिवसे वीतिक्कंते निव्वत्ते असुइजायकम्म-करणे संपत्ते बारसमे दिवसे अयमेयारूवं गोण्णं गुणनिप्फन्नं नामधेज्जं करेंति–**  
+Then, after eleven days had passed since the birth of the child, and after the purificatory rites for the newborn had been completed, on the twelfth day, they decided upon a name for him, based on the circumstances of his birth.
+
+**"जम्हा णं अम्हं इमे दारए गोबहुलस्स माहणस्स गोसालाए जाए तं होउ णं अम्हं इमस्स दारगस्स नामधेज्जं गोसाले-गोसाले त्ति।"**  
+"Since this child has been born in the cowshed of the brāhmaṇa Gobahula, let his name be 'Gosāla'—Gosāla, indeed!"
+
+**तए णं तस्स दारगस्स अम्मापितरो नामधेज्जं करेंति गोसाले त्ति।**  
+Thus, the child's parents named him 'Gosāla.'
+
+**तए णं से गोसाले दारए उम्मुक्कबालभावे विन्नय-परियणमेत्ते जोव्वणगमणुप्पत्ते सयमेव पाडिएक्कं चित्तफलगं करेइ, करेत्ता चित्तफलगहत्थगए मंखत्तणेणं अप्पाणं भावेमाणे विहरइ।**  
+Then, as Gosāla grew from infancy to childhood, reaching the stage of developing knowledge, and as he attained youth, he took up a solitary ascetic life of his own accord. Carrying a begging bowl, he engaged in rigorous ascetic practice, cultivating his inner self and living as a mendicant.
+
 #### 641
-#### 550
 https://jainelibrary.org/aagam-detail/?wd=VGFwIGthIHNhbWFueSBzYXJ1cA==&srno=1104141
 
 तए णं अहं गोयमा!
@@ -846,6 +961,8 @@ Here is the interlinear translation of the given Ardhamāgadhī passage into Eng
 ---
 
 This translation maintains an interlinear structure while preserving the intended meaning. Let me know if you need further refinements!
+#### 550
+[[#648]]
 #### 648
 Here is the interlinear translation of the given Ardhamāgadhī passage into English:
 
@@ -1558,9 +1675,26 @@ _“Kiṁsaṁṭhiyā ṇaṁ hallā pannattā?”_
 
 ---
 
-This is a partial translation, and I can continue if needed. Let me know if you want the rest!
+तए णं तस्स अयंपुलस्स आजीविओवासगस्स दोच्चं पि अयमेयारूवे अज्झत्थिए चिंतिए पत्थिए मनोगए संकप्पे समुप्पज्जित्था–  
+*Then, indeed, in the second month of the rainy season, in the residence of the Ājīvikas, the thought arose in the mind of that Ājīvika, after reflecting and considering:*
 
-This is another long and intricate text, and here's the translated portion:
+एवं खलु ममं धम्मायरिए धम्मोवदेसए गोसाले मंखलिपुत्ते उप्पन्ननाणदंसणधरे जिने अरहा केवली सव्वण्णू सव्व-दरिसी इहेव सावत्थीए नगरीए हालाहलाए कुंभकारीए कुंभकारावणंसि आजीवियसंघसंपरिवुडे आजीवियसमएणं अप्पाणं भावेमाणे विहरइ,  
+*"Indeed, my teacher, the preacher of the Dharma, Gośāla Maṅkhaliputra, endowed with knowledge and vision, the conqueror, the worthy one, the omniscient, the all-seer, is staying here in the city of Sāvatthī, in the potter's grove of the potter woman Hālāhalā, surrounded by the Ājīvika community, behaving like an Ājīvika."*
+
+तं सेयं खलु मे कल्लं पाउप्पभाए रयणीए जाव उट्ठियम्मि सूरे सहस्सरस्सिम्मि दिनयरे तेयसा जलंते गोसालं मंखलिपुत्तं वंदित्ता जाव पज्जुवासित्ता इमं एयारूवं वागरणं वागरित्तए त्ति कट्टु एवं संपेहेति,  
+*"Therefore, indeed, it is proper for me, in the cool season, on a moonlit night, until the rising of the sun with its thousand rays, to go and pay homage to Gośāla Maṅkhaliputra, to sit near him, and to ask him this question."*
+
+संपेहेत्ता कल्लं पाउप्पभाए रयणीए जाव उट्ठियम्मि सूरे सहस्सरस्सिम्मि दिनयरे तेयसा जलंते ण्हाए कयबलिकम्मे जाव अप्पमहग्घाभरणालंकियसरीरे साओ गिहाओ पडिनिक्खमति,  
+*Having resolved, in the cool season, on a moonlit night, until the rising of the sun with its thousand rays, he performed his duties, adorned his body with modest ornaments, and left his house.*
+
+पडिनिक्खमित्ता पायविहारचारेणं सावत्थिं नगरिं मज्झंमज्झेणं जेणेव हालाहलाए कुंभकारीए कुंभकारावने तेणेव उवागच्छइ,  
+*Having left, he wandered through the city of Sāvatthī, and approached the potter's grove of the potter woman Hālāhalā.*
+
+उवागच्छित्ता गोसालं मंखलिपुत्तं हालाहलाए कुंभकारीए कुंभकारावणंसि अंबकूणगहत्थगयं मज्जपाणगं पीयमाणं अभिक्खणं नच्चमाणं, अभिक्खणं हालाहलाए कुंभकारीए अंजलिकम्मं करेमाणं सीयलएणं मट्टिया पाणएणं आयंचिण-उदएणं गायाइं परिसिंचमाणं पासइ,  
+*Having approached, he saw Gośāla Maṅkhaliputra in the potter's grove of Hālāhalā, holding a jug of water, drinking liquor, dancing excessively, repeatedly making gestures of reverence to Hālāhalā, the potter woman, and sprinkling the songs with water from a clay pot.*
+
+पासित्ता लज्जिए विलिए विड्डे सणियं-सणियं पच्चोसक्कइ।  
+*Having seen, he became ashamed, distressed, and disgusted, and repeatedly turned away.*
 
 ---
 
@@ -1630,33 +1764,30 @@ For this is exactly the doctrine your religious teacher, Gośāla Maṅkhaliputr
 
 **तए णं से अयंपुले आजीविओवासए**
 
-_Tae ṇaṁ se Ayaṁpule ājīvīōvāsaē_  
 Then, that ascetic Ayaṁpula,
 
 **आजीविएहिं थेरेहिं एवं वुत्ते समाणे हट्ठतुट्ठे उट्ठाए उट्ठेइ,**  
-_Ājīvīehim thērehim ēvaṁ vutte samāṇē haṭṭhatuṭṭhē uṭṭhāē uṭṭhēi,_  
+
 Being thus addressed by the senior ascetics, rose up with joy and enthusiasm,
 
 **उट्ठेत्ता जेणेव गोसाले मंखलिपुत्ते तेणेव पहारेत्थ गमणाए।**  
-_Uṭṭhettā jēṇēva Gōsāle Maṅkhaliputte tēṇēva pahārettha gamaṇāē._  
+
 And immediately set off toward Gośāla Maṅkhaliputra.
 
 ---
 
 **तए णं ते आजीविया थेरा**
 
-_Tae ṇaṁ tē ājīviyā thērā_  
 Then, those senior ascetics,
 
 **गोसालस्स मंखलिपुत्तस्स अंबकूणग-एडावणट्ठयाए एगंतमंते संगारं कुव्वंति।**  
-_Gōsālassa Maṅkhaliputtassa aṁbakuṇaga-eḍāvaṇaṭṭhayāē ēganta-maṁtē saṁgāraṁ kuvvaṁti._  
+
 Arranged a secluded place for Gośāla Maṅkhaliputra, near the mango grove and rest area.
 
 ---
 
 **तए णं से गोसाले मंखलिपुत्ते**
 
-_Tae ṇaṁ se Gōsāle Maṅkhaliputte_  
 Then, Gośāla Maṅkhaliputra,
 
 **आजीवियाणं थेरागं संगारं पडिच्छइ,**  
@@ -1670,16 +1801,15 @@ After accepting, he moved to the secluded mango grove.
 ---
 
 **तए णं से अयंपुले आजीवियोवासए**
-
-_Tae ṇaṁ se Ayaṁpule ājīvīōvāsāē_  
+  
 Then, that ascetic Ayaṁpula,
 
 **जेणेव गोसाले मंखलिपुत्ते तेणेव उवागच्छइ,**  
-_Jēṇēva Gōsāle Maṅkhaliputte tēṇēva uvāgacchaī,_  
+
 Went directly to Gośāla Maṅkhaliputra.
 
 **उवागच्छित्ता गोसालं मंखलि-पुत्तं तिक्खुत्तो जाव पज्जुवासति।**  
-_Uvāgacchittā Gōsālaṁ Maṅkhali-puttaṁ tikkhutto jāva pajjuvāsati._  
+
 Upon reaching him, he paid his respects three times and took refuge in him.
 
 ---
@@ -1802,89 +1932,72 @@ In this passage, we see a reflection on the ascetic practices of Gosāla and his
 #### 654
 **तए णं आजीविया थेरा गोसालं मंखलिपुत्तं कालगयं जाणित्ता**
 
-_Tae ṇaṁ ājīviyā thērā gōsālaṁ maṅkhaliputtaṁ kālagayaṁ jāṇittā_  
 Then, the senior Ājīvika ascetics, knowing that Gośāla Maṅkhaliputra had passed away,
 
 **हालाहलाए कुंभकारीए कुंभकारावणस्स दुवाराइं पिहेंति,**
 
-_Hālāhalāē kuṁbhakārīē kuṁbhakārāvaṇassa duvārāiṁ pihēnti,_  
 Closed the doors of the potter Hālāhala’s workshop.
 
 **पिहेत्ता हालाहलाए कुंभकारीए कुंभकारावणस्स बहुमज्झदेसभाए सावत्थिं नगरिं आलिहंति,**
 
-_Pihēttā hālāhalāē kuṁbhakārīē kuṁbhakārāvaṇassa bahumajjhadēsabhāē sāvatthiṁ nagariṁ ālihanti,_  
 After closing them, they solemnly prepared to depart from the central region of Sāvatthī city.
 
 **आलिहित्ता गोसालस्स मंखलिपुत्तस्स सरीरगं वामे पदे सुंबेणं बंधंति,**
 
-_Ālihittā gōsālassa maṅkhaliputtassa sarīragaṁ vāme padē suṁbēṇaṁ bandhaṁti,_  
 Then, they bound Gośāla Maṅkhaliputra’s body by the left foot with a rope.
 
 **बंधित्ता तिक्खुत्तो मुहे उट्ठुभंति,**
 
-_Baṁdhittā tikkhuttō muhē uṭṭhubhaṁti,_  
 After binding, they struck his face three times.
 
 **उट्ठुभित्ता सावत्थीए नगरीए सिंघाडग-तिग-चउक्क-चच्चर-चउम्मुह-महापह-पहेसु**
 
-_Uṭṭhubhittā sāvatthīē nagarīē siṁghāḍaga-tiga-caukka-caccara-caummuha-mahāpaha-pahēsu_  
 Then, they proceeded through Sāvatthī’s main streets, crossroads, marketplaces, and city gates.
 
 **आकट्ट-विकट्टिं करेमाणा णीयं-णीयं सद्देणं उग्घोसेमाणा-उग्घोसेमाणा**
 
-_Ākaṭṭa-vikaṭṭiṁ karēmāṇā ṇīyaṁ-ṇīyaṁ saddēṇaṁ uggōsēmāṇā-uggōsēmāṇā_  
 While dragging and tormenting (the body), they made loud proclamations.
 
 **एवं वयासी–**
 
-_Ēvaṁ vayāsī—_  
 And thus, they declared:
 
 ---
 
 **“नो खलु देवानुप्पिया! गोसाले मंखलिपुत्ते जिने जिनप्पलावी जाव विहरिए।**
 
-_"Nō khalu dēvānuppiyā! Gōsāle Maṅkhaliputte jinē jinappalāvī jāva vihariē."_  
 "O beloved of the gods! Gośāla Maṅkhaliputra, the so-called victorious Jina, lived as such."
 
 **एस णं गोसाले चेव मंखलिपुत्ते समणघायए जाव छउमत्थे चेव कालगए।**
 
-_"Ēsa ṇaṁ Gōsāle cēva Maṅkhaliputte samaṇaghāyaē jāva chaumatthe cēva kālagaē."_  
 But indeed, Gośāla Maṅkhaliputra has died just like any other ascetic of a minor sect.
 
 **समणे भगवं महावीरे जिने जिनप्पलावी जाव विहरइ–**
 
-_"Samaṇē bhagavaṁ Mahāvīrē jinē jinappalāvī jāva viharai—"_  
 While the venerable ascetic, the Bhagavān Mahāvīra, the true victorious Jina, still lives.
 
 **सवह-पडिमोक्खणगं करेंति,**
 
-_"Savaha-paḍimokkhaṇagaṁ karēnti,"_  
 This (Gośāla) was a destroyer of vows and precepts.
 
 **करेत्ता दोच्चं पि पूया-सक्कार-थिरीकरणट्ठयाए**
 
-_"Karēttā dōccaṁ pi pūyā-sakkāra-thirīkaraṇaṭṭhayāē"_  
 Yet, despite his wrongdoing, in order to ensure proper final rites and veneration,
 
 **गोसालस्स मंखलिपुत्तस्स वामाओ पादाओ सुंबं मुयंति,**
 
-_"Gōsālassa Maṅkhaliputtassa vāmāō pādāō suṁbaṁ muyaṁti,"_  
 They symbolically touched Gośāla Maṅkhaliputra’s left foot with their faces.
 
 **मुइत्ता हालाहलाए कुंभकारीए कुंभकारावणस्स दुवारवयणाइं अवंगुणंति,**
 
-_"Muiṭṭā hālāhalāē kuṁbhakārīē kuṁbhakārāvaṇassa duvāravayaṇāiṁ avaṅguṇaṁti,"_  
 Then, they returned through the doorway of the potter Hālāhala’s workshop.
 
 **अवंगुणित्ता गोसालस्स मंखलिपुत्तस्स सरीरगं सुरभिणा गंधोदएणं ण्हाणेंति,**
 
-_"Avaṅguṇittā gōsālassa Maṅkhaliputtassa sarīragaṁ surabhiṇā gandhodāēṇaṁ ṇhāṇēnti,"_  
 Then, they bathed Gośāla Maṅkhaliputra’s body with fragrant, perfumed water.
 
 **तं चेव जाव महया इड्ढिसक्कार-समुदएणं गोसालस्स मंखलिपुत्तस्स सरीरगस्स नीहरणं करेंति।**
 
-_"Taṁ cēva jāva mahayā iḍḍhisakkāra-samudāēṇaṁ gōsālassa Maṅkhaliputtassa sarīragassa nīharaṇaṁ karēnti."_  
 Finally, they performed Gośāla Maṅkhaliputra’s funeral with great honor and ritual offerings.
 #### 655
 **"तए णं समणे भगवं महावीरे अन्नया कदायि सावत्थीओ नगरीओ कोट्ठयाओ चेइयाओ पडिनिक्खमति, पडिनिक्खमित्ता बहिया जनवयविहारं विहरइ। तेणं कालेणं तेणं समएणं मेंढियगामे नामं नगरे होत्था–वण्णओ। तस्स णं मेंढियगामस्स नगरस्स बहिया उत्तरपु-रत्थिमे दिसीभाए, एत्थ णं साणकोट्ठए नामं चेइए होत्था–वण्णओ जाव पुढविसिलापट्टओ। तस्स णं साणकोट्ठगस्स चेइयस्स अदूर-सामंते, एत्थ णं महेगे मालुयाकच्छए यावि होत्था–किण्हे किण्होभासे जाव महामेहनिकुरंबभूए पत्तिए पुप्फिए फलिए हरियगरेरि-ज्जमाणे सिरीए अतीव-अतीव उवसोभेमाणे चिट्ठति।"**

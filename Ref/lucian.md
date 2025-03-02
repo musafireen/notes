@@ -1,6 +1,6 @@
 # heracles
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0423
-
+1
 τὸν Ἡρακλέα οἱ Κελτοὶ Ὄγμιον ὀνομάζουσι φωνῇ τῇ ἐπιχωρίῳ, τὸ δὲ εἶδος τοῦ θεοῦ πάνυ ἀλλόκοτον γράφουσι. γέρων ἐστὶν αὐτοῖς ἐς τὸ ἔσχατον, ἀναφαλαντίας, πολιὸς ἀκριβῶς ὅσαι λοιπαὶ τῶν τριχῶν, ῥυσὸς τὸ δέρμα καὶ διακεκαυμένος ἐς τὸ μελάντατον οἷοί εἰσιν οἱ θαλαττουργοὶ γέροντες· μᾶλλον δὲ Χάρωνα ἢ Ἰαπετόν τινα τῶν ὑποταρταρίων καὶ πάντα μᾶλλον ἢ Ἡρακλέα εἶναι ἂν εἰκάσειας. ἀλλὰ καὶ τοιοῦτος ὢν ἔχει ὅμως τὴν σκευὴν τὴν Ἡρακλέους· καὶ γὰρ τὴν διφθέραν ἐνῆπται τὴν τοῦ λέοντος καὶ τὸ ῥόπαλον ἔχει ἐν τῇ δεξιᾷ καὶ τὸν γωρυτὸν παρήρτηται, καὶ τὸ τόξον ἐντεταμένον ἡ ἀριστερὰ προδείκνυσιν, καὶ ὅλος Ἡρακλῆς ἐστι ταῦτά γε.
 
 2
@@ -64,6 +64,35 @@ https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0420
 # scytha
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0520
 
+# pereg
+## 1
+ὁ κακοδαίμων Περεγρῖνος, ἢ ὡς αὐτὸς ἔχαιρεν ὀνομάζων ἑαυτόν, Πρωτεύς, αὐτὸ δὴ ἐκεῖνο τὸ τοῦ Ὁμηρικοῦ Πρωτέως ἔπαθεν: 
+
+The wretched Peregrinus—or, as he delighted in calling himself, Proteus—suffered precisely the fate of Homer’s Proteus. 
+
+ἅπαντα γὰρ δόξης ἕνεκα γενόμενος καὶ μυρίας τροπὰς τραπόμενος, τὰ τελευταῖα ταῦτα καὶ πῦρ ἐγένετο: 
+
+Having done everything for the sake of fame and having undergone countless transformations, in the end, he even became fire. 
+
+τοσούτῳ ἄρα τῷ ἔρωτι τῆς δόξης εἴχετο. 
+
+Such was his obsession with glory.  
+
+καὶ νῦν ἐκεῖνος ἀπηνθράκωταί σοι ὁ βέλτιστος κατὰ τὸν Ἐμπεδοκλέα, παρ᾽ ὅσον ὁ μὲν κἂν διαλαθεῖν ἐπειράθη ἐμβαλὼν ἑαυτὸν εἰς τοὺς κρατῆρας, ὁ δὲ γεννάδας οὗτος, τὴν πολυανθρωποτάτην τῶν Ἑλληνικῶν πανηγύρεων τηρήσας, πυρὰν ὅτι μεγίστην νήσας ἐνεπήδησεν ἐπὶ τοσούτων μαρτύρων, καὶ λόγους τινὰς ὑπὲρ τούτου εἰπὼν πρὸς τοὺς Ἕλληνας οὐ πρὸ πολλῶν ἡμερῶν τοῦ τολμήματος.
+
+And now, the "most excellent" man has been reduced to ashes, much like Empedocles—except that Empedocles at least tried to disappear unnoticed by throwing himself into the craters, whereas this noble character, having chosen the most crowded of all Greek festivals, built the largest possible pyre and leaped into it before so many witnesses, after delivering a speech to the Greeks about his act not many days prior to his daring deed.
+## 2
+πολλὰ τοίνυν δοκῶ μοι ὁρᾶν σε γελῶντα ἐπὶ τῇ κορύζῃ τοῦ γέροντος, μᾶλλον δὲ καὶ ἀκούω βοῶντος οἷά σε εἰκὸς βοᾶν, ‘ὢ τῆς ἀβελτερίας, ὢ τῆς δοξοκοπίας, ὢ —’ τῶν ἄλλων ἃ λέγειν εἰώθαμεν περὶ αὐτῶν. 
+
+I think I see you laughing a lot at the old man’s runny nose—or rather, I can even hear you shouting what you would be expected to shout: "Oh, the foolishness! Oh, the vanity! Oh—" and the rest of the things we usually say about them.  
+
+σὺ μὲν οὖν πόρρω ταῦτα καὶ μακρῷ ἀσφαλέστερον, ἐγὼ δὲ παρὰ τὸ πῦρ αὐτὸ καὶ ἔτι πρότερον ἐν πολλῷ πλήθει τῶν ἀκροατῶν εἶπον αὐτά, ἐνίων μὲν ἀχθομένων, ὅσοι ἐθαύμαζον τὴν ἀπόνοιαν τοῦ γέροντος: ἦσαν δέ τινες οἳ καὶ αὐτοὶ ἐγέλων ἐπ᾽ αὐτῷ. 
+
+You, of course, are far removed from this and much safer. But I, right there by the fire, and even earlier in front of a large audience, said these things—some were annoyed, those who admired the old man's madness; but there were also some who laughed at him.  
+
+ἀλλ᾽ ὀλίγου δεῖν ὑπὸ τῶν Κυνικῶν ἐγώ σοι διεσπάσθην ὥσπερ ὁ Ἀκταίων ὑπὸ τῶν κυνῶν ἢ ὁ ἀνεψιὸς αὐτοῦ ὁ Πενθεὺς ὑπὸ τῶν Μαινάδων.
+
+However, I was almost torn apart by the Cynics, just like Actaeon by his dogs—or like his cousin, Pentheus, by the Maenads.
 # sch
 ## p275
 

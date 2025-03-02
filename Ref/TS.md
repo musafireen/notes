@@ -1251,6 +1251,7 @@ Occupy the quarters, their bows we unstring
 At a thousand leagues.
 l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose arrows are food, wind, and rain, to them ten eastwards, ten to the south, ten to the west, ten to the north, ten upwards; to them homage, be they merciful to us, him whom we hate and him who hateth us, I place him within your jaws.
 ## 4.7
+### 4.7.1
 १ अग्ना॑विष्णू स॒जोष॑से॒मा व॑र्धन्तु वां॒ गिरः॑ । द्यु॒म्नैर्वाजे॑भि॒रा ग॑तम् ॥
 
    वाज॑श्च मे प्रस॒वश्च॑ मे॒ प्रय॑तिश्च मे॒ प्रसि॑तिश्च मे धी॒तिश्च॑ मे॒
@@ -1263,6 +1264,10 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  मे॒ शर्म॑ च मे॒ वर्म॑ च॒ मेऽङ्गा॑नि च मे॒ऽस्थानि॑ च मे॒ परूꣳ॑षि च
  मे॒ शरी॑राणि च मे ॥ ४। ७। १॥ अ॒पा॒नस्त॒नूश्च॑ मे॒ऽष्टाद॑श च ॥ ४। ७। १॥
 
+iv. 7. 1.
+a O Agni and Visnu, may these songs gladden you in unison; come ye with radiance and strength.
+b May for me strength, instigation, influence, inclination, thought, inspiration, speech, fame, renown, reputation, light, heaven, expiration, inspiration [1], cross-breathing, breath, mind, learning, voice, mind, eye, ear, skill, might, force, strength, life, old age, breath, body, protection, guard, limbs, bones, joints, bodies (prosper through the sacrifice).
+### 4.7.2
 ३ ज्यैष्ठ्यं॑ च म॒ आधि॑पत्यं च मे म॒न्युश्च॑ मे॒ भाम॑श्च॒ मेऽम॑श्च॒
  मेऽंभ॑श्च मे जे॒मा च॑ मे महि॒मा च॑ मे वरि॒मा च॑ मे प्रथि॒मा च॑ मे
  व॒र्ष्मा च॑ मे द्राघु॒या च॑ मे वृ॒द्धं च॑ मे॒ वृद्धि॑श्च मे स॒त्यं च॑
@@ -1274,6 +1279,9 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  च म ऋ॒द्धं च॑ म॒ ऋद्धि॑श्च मे क्लृ॒प्तं च॑ मे॒ क्लृप्ति॑श्च मे
  म॒तिश्च॑ मे सुम॒तिश्च॑ मे ॥ ४। ७। २॥ जग॒च्चर्धि॒श्चतु॑र्दश च ॥ ४। ७। २॥
 
+iv. 7. 2.
+May for me pre-eminence, overlordship, spirit, anger, violence, impetuosity, victorious power, greatness, breadth, extent, greatness, length, growth, growing, truth, faith, world [1], wealth, power, radiance, play, delight, what is born, what is to be born, good words, good deeds, finding, what there is to find, what has been, what will be, easy road, good way, prosperity, prospering, agreement, agreeing, thought, good thought (prosper through the sacrifice).
+### 4.7.3
 ५ शं च॑ मे॒ मय॑श्च मे प्रि॒यं च॑ मेऽनुका॒मश्च॑ मे॒ काम॑श्च मे
  सौमन॒सश्च॑ मे भ॒द्रं च॑ मे॒ श्रेय॑श्च मे॒ वस्य॑श्च मे॒ यश॑श्च
  मे॒ भग॑श्च मे॒ द्रवि॑णं च मे य॒न्ता च॑ मे ध॒र्ता च॑ मे॒ क्षेम॑श्च मे॒
@@ -1286,6 +1294,9 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
 
  विश्वं॑ च॒ शय॑नम॒ष्टौ च॑ ॥ ४। ७। ३॥
 
+iv. 7. 3.
+May for me prosperity, comfort, desire, wish, longing, kindliness, good, better, superior, fame, good luck, riches, restrainer, supporter, peace, firmness, all [1], greatness, discovery, knowledge, begetting, procreation, plough, harrow, holy order, immortality, freeness from disease, freedom from illness, life, longevity, freedom from foes, fearlessness, ease of going, lying, fair dawning, and fair day (prosper through the sacrifice).
+### 4.7.4
 ७ ऊर्क्च॑ मे सू॒नृता॑ च मे॒ पय॑श्च मे॒ रस॑श्च मे घृ॒तं च॑ मे॒
  मधु॑ च मे॒ सग्धि॑श्च मे॒ सपी॑तिश्च मे कृ॒षिश्च॑ मे॒ वृष्टि॑श्च मे॒
  जैत्रं॑ च म॒ औद्भि॑द्यं च मे र॒यिश्च॑ मे॒ राय॑श्च मे पु॒ष्टं च॑ मे॒
@@ -1297,6 +1308,9 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  गो॒धूमा᳚श्च मे म॒सुरा᳚श्च मे प्रि॒यङ्ग॑वश्च॒ मेऽण॑वश्च मे श्या॒माका᳚श्च
  मे नी॒वारा᳚श्च मे ॥ ४। ७। ४॥ वि॒भु च॑ म॒सुरा॒श्चतु॑र्दश च ॥ ४। ७। ४॥
 
+iv. 7. 4.
+May for me strength, righteousness, milk, sap, ghee, honey, eating and drinking in company, ploughing, rain, conquest, victory, wealth, riches, prosperity, prospering, plenteousness [1], lordship, much, more, fun, fuller, imperishableness, bad crops, food, freedom from hunger, rice, barley, beans, sesame, kidney beans, vetches, wheat, lentils, Millet, Panicum miliaceum, Panicum frumentaceum, and wild rice (prosper through the sacrifice).
+### 4.7.5
 ९ अश्मा॑ च मे॒ मृत्ति॑का च मे गि॒रय॑श्च मे॒ पर्व॑ताश्च मे॒ सिक॑ताश्च
  मे॒ वन॒स्पत॑यश्च मे॒ हिर॑ण्यं च॒ मेऽय॑श्च मे॒ सीसं॑ च मे॒ त्रपु॑श्च
  मे श्या॒मं च॑ मे लो॒हं च॑ मे॒ऽग्निश्च॑ म॒ आप॑श्च मे वी॒रुध॑श्च म॒
@@ -1308,6 +1322,9 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  एम॑श्च म॒ इति॑श्च मे॒ गति॑श्च मे ॥ ४। ७। ५॥ कृ॒ष्ट॒प॒च्यञ्चा॒ऽष्टा
  च॑त्वारिꣳशच्च ॥ ४। ७। ५॥
 
+iv. 7. 5.
+May I for me the stone, clay, hills, mountains, sand, trees, gold, bronze, lead, tin, iron, copper, fire, water, roots, plants, what grows on ploughed land, what grows on unploughed land, tame and wild cattle prosper through the sacrifice; may for me wealth and gaining wealth, attainment and attaining, riches, dwelling, act, power, aim, strength, moving and going (prosper through the sacrifice).
+### 4.7.6
 ११ अ॒ग्निश्च॑ म॒ इन्द्र॑श्च मे॒ सोम॑श्च म॒ इन्द्र॑श्च मे सवि॒ता च॑ म॒
  इन्द्र॑श्च मे॒ सर॑स्वती च म॒ इन्द्र॑श्च मे पू॒षा च॑ म॒ इन्द्र॑श्च मे॒
  बृह॒स्पति॑श्च म॒ इन्द्र॑श्च मे मि॒त्रश्च॑ म॒ इन्द्र॑श्च मे॒ वरु॑णश्च
@@ -1320,6 +1337,9 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  च॑ म॒ इन्द्र॑श्च मे प्र॒जाप॑तिश्च म॒ इन्द्र॑श्च मे ॥ ४। ७। ६॥ त्वष्टा॑
  च॒ द्यौश्च॑ म॒ एक॑ विꣳशतिश्च ॥ ४। ७। ६॥
 
+iv. 7. 6.
+May Agni for me and Indra, may Soma and Indra, may Savitr and Indra, may Sarasvati and Indra, may Pusan and Indra, may Brhaspati and Indra, may Mitra and Indra, may Varuna and Indra, may Tvastr [1] and Indra, may Dhatr and Indra, may Visnu and Indra, may the Açvins and Indra, may the Maruts and Indra, may the All-gods and Indra, may earth and Indra, may the atmosphere and Indra, may sky and Indra, may the quarters and Indra, may the head and Indra, may Prajapati and Indra (be auspicious for me through the sacrifice).
+### 4.7.7
 १३ अ॒ꣳ॒शुश्च॑ मे र॒श्मिश्च॒ मेऽदा᳚भ्यश्च॒ मेऽधि॑पतिश्च म
  उपा॒ꣳ॒शुश्च॑ मेऽन्तर्या॒मश्च॑ म ऐन्द्रवाय॒वश्च॑ मे मैत्रावरु॒णश्च॑
  म आश्वि॒नश्च॑ मे प्रतिप्र॒स्थान॑श्च मे शु॒क्रश्च॑ मे म॒न्थी च॑ म
@@ -1331,6 +1351,9 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  मे पात्नीव॒तश्च॑ मे हारियोज॒नश्च॑ मे ॥ ४। ७। ७॥ ऋ॒तु॒ग्र॒हाश्च॒
  चतु॑स्त्रिꣳशच्च ॥ ४। ७। ७॥
 
+iv. 7. 7.
+May the Amçu cup for me, the Raçmi, the Adabhya, the overlord (cup), the Upançu, the Antaryama, the (cup) for Indra and Vayu, the (cup) for Mitra and Varuna, the (cup) for the Açvins, the Pratiprasthana (cup) the Çukra, the Manthin, the Agrayana, the (cup) for the All-gods, the Dhruva, the (cup) for Vaiçvanara, the season cups [1], the Atigrahyas, the (cup) for Indra and Agni, the (cup) for the All-gods, the (cups) for the Maruts, the (cup) for Mahendra, the (cup) for Aditya, the (cup) for Savitr the (cup) for Sarasvati, the (cup) for Pusan, the (cup) for (Tvastr) with the wives (of the gods), the Hariyojana (cup) (prosper for me through the sacrifice).
+### 4.7.8
 १५ इ॒ध्मश्च॑ मे ब॒र्॒हिश्च॑ मे॒ वेदि॑श्च मे॒ धिष्णि॑याश्च मे॒
  स्रुच॑श्च मे चम॒साश्च॑ मे॒ ग्रावा॑णश्च मे॒ स्वर॑वश्च म उपर॒वाश्च॑
  मेऽधि॒षव॑णे च मे द्रोणकल॒शश्च॑ मे वाय॒व्या॑नि च मे पूत॒भृच्च॑
@@ -1338,6 +1361,9 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  मे॒ सद॑श्च मे पुरो॒डाशा᳚श्च मे पच॒ताश्च॑ मेऽवभृ॒थश्च॑ मे
  स्वगाका॒रश्च॑ मे ॥ ४। ७। ८॥ गृ॒हाश्च॒ षोड॑श च ॥ ४। ७। ८॥
 
+iv. 7. 8.
+May the kindling-wood for me, the strew, the altar, the lesser altars, the offering-spoons, the cups, the pressing-stones, the chips (of the post), the sounding-holes, the two pressing-boards, the wooden tub, the Vayu cups, the (bowl) for the purified Soma, the mixing (bowl), the Agnidh's altar, the oblation-holder, the house, the Sadas, the cakes, the cooked (offerings), the final bath, the cry of 'Godspeed' (prosper for me through the sacrifice).
+### 4.7.9
 १६ अ॒ग्निश्च॑ मे घ॒र्मश्च॑ मे॒ऽर्कश्च॑ मे॒ सूर्य॑श्च मे प्रा॒णश्च॑
  मेऽश्वमे॒धश्च॑ मे पृथि॒वी च॒ मेऽदि॑तिश्च मे॒ दिति॑श्च मे॒ द्यौश्च॑
  मे॒ शक्व॑रीर॒ङ्गुल॑यो॒ दिश॑श्च मे य॒ज्ञेन॑ कल्पन्ता॒मृक्च॑ मे॒ साम॑
@@ -1345,6 +1371,9 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  मे व्र॒तं च॑ मेऽहोरा॒त्रयो᳚र्वृ॒ष्ट्या बृ॑हद्रथन्त॒रे च॑ मे य॒ज्ञेन॑
  कल्पेताम् ॥ ४। ७। ९॥ दी॒क्षाऽष्टाद॑श च ॥ ४। ७। ९॥
 
+iv. 7. 9.
+May the fire for me, the cauldron, the beam, the sun, breath, the horse sacrifice, earth, Aditi, Diti, sky, the Çakvari verses, the fingers, the quarters prosper through the sacrifice; may the Re, the Saman, the hymn tune, the Yajus, consecration, penance, the season, the vow (prosper) through the rain of day and night, the Brhat and Rathantara prosper for me through the sacrifice.
+### 4.7.10
 १७ गर्भा᳚श्च मे व॒थ्साश्च॑ मे॒ त्र्यवि॑श्च मे त्र्य॒वी च॑ मे दित्य॒वाट् च॑ मे
  दित्यौ॒ही च॑ मे॒ पञ्चा॑विश्च मे पञ्चा॒वी च॑ मे त्रिव॒थ्सश्च॑ मे त्रिव॒थ्सा
  च॑ मे तुर्य॒वाट् च॑ मे तुर्यौ॒ही च॑ मे पष्ठ॒वाट् च॑ मे पष्ठौ॒ही च॑
@@ -1356,6 +1385,9 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  कल्पतां॒ वाग्य॒ज्ञेन॑ कल्पतामा॒त्मा य॒ज्ञेन॑ कल्पतां य॒ज्ञो य॒ज्ञेन॑ कल्पताम्
  ॥ ४। ७। १०॥ ऋ॒ष॒भश्च॑ चत्वारि॒ꣳ॒शच्च॑ ॥ ४। ७। १०॥
 
+iv. 7. 10.
+May the embryo for me, the calves, the one-and-a-half-year-old male and female, the two-year-old male and female, the two-and-a-half-year-old male and female, the three-year-old male and female, the four-year-old male and female, the draught ox and the draught cow, the bull and the cow that is barren, the steer [1] and the cow that miscarries, the bullock and the cow (prosper through the sacrifice); may life prosper through the sacrifice, may expiration prosper through the sacrifice, may inspiration prosper through the sacrifice, may cross-breathing prosper through the sacrifice, may the eye prosper through the sacrifice, may the ear prosper through the sacrifice, may mind prosper through the sacrifice, may speech prosper through the sacrifice, may the self prosper through the sacrifice, may the sacrifice prosper through the sacrifice.
+### 4.7.11
 १९ एका॑ च मे ति॒स्रश्च॑ मे॒ पञ्च॑ च मे स॒प्त च॑ मे॒ नव॑ च म॒ एका॑दश
  च मे॒ त्रयो॑दश च मे॒ पञ्च॑दश च मे स॒प्तद॑श च मे॒ नव॑दश च
  म॒ एक॑विꣳशतिश्च मे॒ त्रयो॑विꣳशतिश्च मे॒ पञ्च॑विꣳशतिश्च
@@ -1371,6 +1403,11 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
 
  ४। ७। ११॥ त्रय॑स्त्रिꣳशच्च॒ व्यश्ञि॑य॒ एका॑दश च ॥ ४। ७। ११॥
 
+iv. 7. 11.
+a May one for me, three, five, seven, nine, eleven, thirteen, fifteen, seventeen, nineteen, twenty-one, twenty-three, twenty-five, twenty-seven, twenty-nine, thirty-one, thirty-three [1];
+b four, eight, twelve, sixteen, twenty, twenty-four, twenty-eight, thirty-two, thirty-six, forty, forty-four, forty-eight;
+c strength, instigation, the later born, inspiration, heaven, the head, the Vyaçniya, the offspring of the last, the last, the offspring of being, being, the overlord (prosper with the sacrifice).
+### 4.7.12
 २१ वाजो॑ नः स॒प्त प्र॒दिश॒श्चत॑स्रो वा परा॒वतः॑ । वाजो॑ नो॒
  विश्वै᳚र्दे॒वैर्धन॑सातावि॒हाव॑तु ॥ विश्वे॑ अ॒द्य म॒रुतो॒ विश्व॑ ऊ॒ती विश्वे॑
  भवन्त्व॒ग्नयः॒ समि॑द्धाः । विश्वे॑ नो दे॒वा अव॒साग॑मन्तु॒ विश्व॑मस्तु॒
@@ -1392,6 +1429,39 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  दुव॑स्वाङ्छं॒भूर्म॑यो॒भूर॒भि मा॑ वाहि॒ स्वाहा᳚ ॥ ४। ७। १२॥ धने᳚ष्व॒पो
  दुव॑श्वाञ्छं॒भूर्मयो॒भूर॒भि मा॒ द्वे च॑ ॥ ४। ७। १२॥
 
+iv. 7. 12.
+a May strength aid us through the seven quarters,
+The four distances,
+Strength aid us here with the All-gods
+For the gaining of wealth.
+b May all the Maruts to-day be present, all, to aid us,
+Be the fires all enkindled present;
+May the All-gods come to us with aid;
+All wealth, and strength, be ours.
+c O gods, come in your cars of gold
+For the instigation of strength,
+Agni, Indra, Brhaspati
+And the Maruts to drink the Soma.
+d For each prize, aid us, O ye steeds,
+For the rewards [1], O ye wise, immortal, righteous ones;
+Drink of this mead, rejoice in it;
+Delighted go by paths on which the gods go.
+e Strength is in front, in the midst of us;
+Strength shall assort the gods in due season
+The instigation of strength is propitious;
+In all the quarters may I become a lord of strength.
+f Milk may I place on earth, milk on the plants,
+Milk in the sky, in the atmosphere milk,
+Be the quarters rich in milk for me.
+g I unite myself with milk, with ghee,
+I united myself. with waters [2] and plants;
+Strength may I win, O Agni.
+h Night and the dawn, one-minded, but of various form
+United suckle one child;
+The radiant one shineth between sky and earth;
+The gods, granters of wealth, support Agni.
+i Thou art the ocean, full of mist, granting moisture, blow over me with healing, with wonder-working; hail! Thou art of the Maruts, the horde of the Maruts, blow over me with healing, with wonder-working; hail! Thou art the helper, the worshipper, blow over me with healing, with wonder-working; hail!
+### 4.7.13
 २४ अ॒ग्निं यु॑नज्मि॒ शव॑सा घृ॒तेन॑ दि॒व्यꣳ सु॑प॒र्णं वय॑सा
  बृ॒हन्त᳚म् । तेन॑ व॒यं प॑तेम ब्र॒ध्नस्य॑ वि॒ष्टप॒ꣳ॒ सुवो॒ रुहा॑णा॒
  अधि॒ नाक॑ उत्त॒मे ॥ इ॒मौ ते॑ प॒क्षाव॒जरौ॑ पत॒त्रिणो॒ याभ्या॒ꣳ॒
@@ -1424,6 +1494,57 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  जा॒नन्न॑ग्न॒ आ रो॒हाथा॑ नो वर्धया र॒यिम् ॥ ४। ७। १३॥ धृ॒वस्स॒त्रं कृ॑णुते॒
  यस्स॒प्तत्रिꣳ॑शच्च ॥ ४। ७। १३॥
 
+iv. 7.13.
+a Agni I yoke with glory, with ghee,
+The bird divine mighty in strength;
+Therewith may we fly to the expanse of the ruddy one,
+Mounting the heaven above the highest vault.
+b These are wings unaging of thee, the winged,
+Wherewith thou dost smite away the Raksases, O Agni;
+With these may we fly to the world of good men,
+Where are the seers, the first-born, those of yore.
+c Thou art piling, born of the ocean, the drop,
+The skilled one, the eagle, the righteous,
+The golden-winged busy bird, mighty,
+That hath sat down firmly in its place [1].
+d Homage be to thee; harm me not,
+Thou dost stand resting on the head of all;
+Within the ocean is thy heart, thy life;
+Sky and earth are placed on the worlds.
+e Give of the water, cleave the holder of the water; from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye help us with rain; thou art the head of the sky, the navel of earth, the strength of waters and plants, protection of all life, extending; homage to the way!
+f With that devotion wherewith the seers performed the session of sacrifice [2],
+Kindling Agni, bearing aloft the heaven,
+I set on this vault that Agni
+Whom men call him for whom the spread is strewed.
+g Him with our wives let us pursue, O gods,
+With our sons, our brothers, or by gold,
+Seizing the vault in the world of good action,
+Above the third firmament, in the light of the sky.
+h To the middle of speech hath the busy one arisen,
+Agni here, lord of the good, the wise;
+Established on the back of the earth, the radiant one,
+He casteth beneath his feet [3] the combatants.
+i Let Agni here, the most manly, strength-bestowing,
+Of a thousand shapes, shine unwearying,
+Radiant in the midst of the ocean;
+Do ye approach the abodes divine.
+k Move ye forward, go ye long together;
+Make ye the paths gods travelled, O Agni;
+In this highest abode
+O All-gods, sit ye with the sacrificer.
+l That by which thou bearest a thousand,
+Thou, O Agni, all wealth,
+With that highest (path) for the gods to travel,
+Do thou bear this sacrifice for us.
+m Awake, O Agni; be roused for him;
+With this one do thou create sacrifice and donation;
+Making thee, his father, young again
+He hath stretched over thee this covering.
+n This is thy due place of birth,
+Whence born thou didst shine,
+Mount it, O Agni, knowing it,
+And make our wealth increase.
+### 4.7.14
 २९ ममा᳚ग्ने॒ वर्चो॑ विह॒वेष्व॑स्तु व॒यं त्वेन्धा॑नास्त॒नुवं॑ पुषेम । मह्यं॑
  नमन्तां प्र॒दिश॒श्चत॑स्र॒स्त्वयाध्य॑क्षेण॒ पृत॑ना जयेम ॥ मम॑ दे॒वा
  वि॑ह॒वे स॑न्तु॒ सर्व॒ इन्द्रा॑वन्तो म॒रुतो॒ विष्णु॑र॒ग्निः । ममा॒न्तरि॑क्षमु॒रु
@@ -1450,6 +1571,48 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
  हरिवो मे॒ दिनं॑ त्वा ॥ ४। ७। १४॥ व॒नि॒ष॒न्त॒ पु॒रस्ता॒न्मा त्रिच॑त्वारिꣳशच्च
  ॥ ४। ७। १४॥
 
+iv. 7. 14.
+a May radiance be mine, O Agni, in rival invocations,
+May we, kindling thee, make ourselves to prosper;
+To me let the four quarters bow;
+With thee as overseer may we conquer the fighters.
+b Let all the gods be at my invocation,
+The Maruts with Indra, Visnu, Agni;
+May the broad atmosphere be my guardian;
+May the wind blow for me unto this desire.
+c May the gods bestow wealth upon me through sacrifice;
+May blessing be mine, and mine divine invocation;
+The divine sacrificers of old shall win for us [1];
+Unharmed may we be in ourselves, rich in heroes.
+d For me let them sacrifice whatever sacrifices are mine
+Fulfilled be the intent of my mind;
+No sin whatever may I commit;
+May the All-gods befriend me.
+e O ye six spaces divine, for us make broad room;
+O ye All-gods, here show your prowess;
+May we not lose offspring nor ourselves;
+May we not fall victims to our foe, O king Soma.
+f Agni, driving away wrath in front [2],
+As guardian unfailing, do thou guard us on all sides;
+Let thy foes turn away again
+And be their plotting at home ruined through thy foresight.
+g The creator of creators, lord of the world,
+The god Savitr overcoming enmity,
+This sacrifice may the two Açvins and Brhaspati,
+The gods (guard) and protect the sacrificer from misfortune.
+h May the bull, wide extending, afford us protection rich in food,
+He much invoked in this invocation;
+O thou of the bay steeds, be gracious unto our progeny;
+Harm us not [3], abandon not us.
+i May our rivals depart;
+With Indra and Agni we overthrow them;
+The Vasus, the Rudras, the Adityas have made me
+A dread corrector and overlord, sky reaching.
+k Hitherward do we summon Indra from thence,
+Him who is winner of cows, of booty, and winner too of horses;
+Do thou accept this sacrifice at our invocation;
+Ally of it we make thee, O lord of the bays.
+### 4.7.15
 ३३ अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसो॒ यं पाञ्च॑जन्यं ब॒हवः॑ समि॒न्धते᳚
  । विश्व॑स्यां वि॒शि प्र॑विविशि॒वाꣳ स॑मीमहे॒ स नो॑ मुञ्च॒त्वꣳह॑सः ॥
 
@@ -1514,168 +1677,6 @@ l m n Homage to the Rudras on the earth, in the atmosphere, in the sky, whose ar
 इति चतुर्थं काण्डं संपूर्णम् ४॥
 
 ॥ तैत्तिरीय-संहिता ॥
-
-iv. 7. 1.
-a O Agni and Visnu, may these songs gladden you in unison; come ye with radiance and strength.
-b May for me strength, instigation, influence, inclination, thought, inspiration, speech, fame, renown, reputation, light, heaven, expiration, inspiration [1], cross-breathing, breath, mind, learning, voice, mind, eye, ear, skill, might, force, strength, life, old age, breath, body, protection, guard, limbs, bones, joints, bodies (prosper through the sacrifice).
-
-iv. 7. 2.
-May for me pre-eminence, overlordship, spirit, anger, violence, impetuosity, victorious power, greatness, breadth, extent, greatness, length, growth, growing, truth, faith, world [1], wealth, power, radiance, play, delight, what is born, what is to be born, good words, good deeds, finding, what there is to find, what has been, what will be, easy road, good way, prosperity, prospering, agreement, agreeing, thought, good thought (prosper through the sacrifice).
-
-iv. 7. 3.
-May for me prosperity, comfort, desire, wish, longing, kindliness, good, better, superior, fame, good luck, riches, restrainer, supporter, peace, firmness, all [1], greatness, discovery, knowledge, begetting, procreation, plough, harrow, holy order, immortality, freeness from disease, freedom from illness, life, longevity, freedom from foes, fearlessness, ease of going, lying, fair dawning, and fair day (prosper through the sacrifice).
-
-iv. 7. 4.
-May for me strength, righteousness, milk, sap, ghee, honey, eating and drinking in company, ploughing, rain, conquest, victory, wealth, riches, prosperity, prospering, plenteousness [1], lordship, much, more, fun, fuller, imperishableness, bad crops, food, freedom from hunger, rice, barley, beans, sesame, kidney beans, vetches, wheat, lentils, Millet, Panicum miliaceum, Panicum frumentaceum, and wild rice (prosper through the sacrifice).
-
-iv. 7. 5.
-May I for me the stone, clay, hills, mountains, sand, trees, gold, bronze, lead, tin, iron, copper, fire, water, roots, plants, what grows on ploughed land, what grows on unploughed land, tame and wild cattle prosper through the sacrifice; may for me wealth and gaining wealth, attainment and attaining, riches, dwelling, act, power, aim, strength, moving and going (prosper through the sacrifice).
-
-iv. 7. 6.
-May Agni for me and Indra, may Soma and Indra, may Savitr and Indra, may Sarasvati and Indra, may Pusan and Indra, may Brhaspati and Indra, may Mitra and Indra, may Varuna and Indra, may Tvastr [1] and Indra, may Dhatr and Indra, may Visnu and Indra, may the Açvins and Indra, may the Maruts and Indra, may the All-gods and Indra, may earth and Indra, may the atmosphere and Indra, may sky and Indra, may the quarters and Indra, may the head and Indra, may Prajapati and Indra (be auspicious for me through the sacrifice).
-
-iv. 7. 7.
-May the Amçu cup for me, the Raçmi, the Adabhya, the overlord (cup), the Upançu, the Antaryama, the (cup) for Indra and Vayu, the (cup) for Mitra and Varuna, the (cup) for the Açvins, the Pratiprasthana (cup) the Çukra, the Manthin, the Agrayana, the (cup) for the All-gods, the Dhruva, the (cup) for Vaiçvanara, the season cups [1], the Atigrahyas, the (cup) for Indra and Agni, the (cup) for the All-gods, the (cups) for the Maruts, the (cup) for Mahendra, the (cup) for Aditya, the (cup) for Savitr the (cup) for Sarasvati, the (cup) for Pusan, the (cup) for (Tvastr) with the wives (of the gods), the Hariyojana (cup) (prosper for me through the sacrifice).
-
-iv. 7. 8.
-May the kindling-wood for me, the strew, the altar, the lesser altars, the offering-spoons, the cups, the pressing-stones, the chips (of the post), the sounding-holes, the two pressing-boards, the wooden tub, the Vayu cups, the (bowl) for the purified Soma, the mixing (bowl), the Agnidh's altar, the oblation-holder, the house, the Sadas, the cakes, the cooked (offerings), the final bath, the cry of 'Godspeed' (prosper for me through the sacrifice).
-
-iv. 7. 9.
-May the fire for me, the cauldron, the beam, the sun, breath, the horse sacrifice, earth, Aditi, Diti, sky, the Çakvari verses, the fingers, the quarters prosper through the sacrifice; may the Re, the Saman, the hymn tune, the Yajus, consecration, penance, the season, the vow (prosper) through the rain of day and night, the Brhat and Rathantara prosper for me through the sacrifice.
-
-iv. 7. 10.
-May the embryo for me, the calves, the one-and-a-half-year-old male and female, the two-year-old male and female, the two-and-a-half-year-old male and female, the three-year-old male and female, the four-year-old male and female, the draught ox and the draught cow, the bull and the cow that is barren, the steer [1] and the cow that miscarries, the bullock and the cow (prosper through the sacrifice); may life prosper through the sacrifice, may expiration prosper through the sacrifice, may inspiration prosper through the sacrifice, may cross-breathing prosper through the sacrifice, may the eye prosper through the sacrifice, may the ear prosper through the sacrifice, may mind prosper through the sacrifice, may speech prosper through the sacrifice, may the self prosper through the sacrifice, may the sacrifice prosper through the sacrifice.
-
-iv. 7. 11.
-a May one for me, three, five, seven, nine, eleven, thirteen, fifteen, seventeen, nineteen, twenty-one, twenty-three, twenty-five, twenty-seven, twenty-nine, thirty-one, thirty-three [1];
-b four, eight, twelve, sixteen, twenty, twenty-four, twenty-eight, thirty-two, thirty-six, forty, forty-four, forty-eight;
-c strength, instigation, the later born, inspiration, heaven, the head, the Vyaçniya, the offspring of the last, the last, the offspring of being, being, the overlord (prosper with the sacrifice).
-
-iv. 7. 12.
-a May strength aid us through the seven quarters,
-The four distances,
-Strength aid us here with the All-gods
-For the gaining of wealth.
-b May all the Maruts to-day be present, all, to aid us,
-Be the fires all enkindled present;
-May the All-gods come to us with aid;
-All wealth, and strength, be ours.
-c O gods, come in your cars of gold
-For the instigation of strength,
-Agni, Indra, Brhaspati
-And the Maruts to drink the Soma.
-d For each prize, aid us, O ye steeds,
-For the rewards [1], O ye wise, immortal, righteous ones;
-Drink of this mead, rejoice in it;
-Delighted go by paths on which the gods go.
-e Strength is in front, in the midst of us;
-Strength shall assort the gods in due season
-The instigation of strength is propitious;
-In all the quarters may I become a lord of strength.
-f Milk may I place on earth, milk on the plants,
-Milk in the sky, in the atmosphere milk,
-Be the quarters rich in milk for me.
-g I unite myself with milk, with ghee,
-I united myself. with waters [2] and plants;
-Strength may I win, O Agni.
-h Night and the dawn, one-minded, but of various form
-United suckle one child;
-The radiant one shineth between sky and earth;
-The gods, granters of wealth, support Agni.
-i Thou art the ocean, full of mist, granting moisture, blow over me with healing, with wonder-working; hail! Thou art of the Maruts, the horde of the Maruts, blow over me with healing, with wonder-working; hail! Thou art the helper, the worshipper, blow over me with healing, with wonder-working; hail!
-
-iv. 7.13.
-a Agni I yoke with glory, with ghee,
-The bird divine mighty in strength;
-Therewith may we fly to the expanse of the ruddy one,
-Mounting the heaven above the highest vault.
-b These are wings unaging of thee, the winged,
-Wherewith thou dost smite away the Raksases, O Agni;
-With these may we fly to the world of good men,
-Where are the seers, the first-born, those of yore.
-c Thou art piling, born of the ocean, the drop,
-The skilled one, the eagle, the righteous,
-The golden-winged busy bird, mighty,
-That hath sat down firmly in its place [1].
-d Homage be to thee; harm me not,
-Thou dost stand resting on the head of all;
-Within the ocean is thy heart, thy life;
-Sky and earth are placed on the worlds.
-e Give of the water, cleave the holder of the water; from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye help us with rain; thou art the head of the sky, the navel of earth, the strength of waters and plants, protection of all life, extending; homage to the way!
-f With that devotion wherewith the seers performed the session of sacrifice [2],
-Kindling Agni, bearing aloft the heaven,
-I set on this vault that Agni
-Whom men call him for whom the spread is strewed.
-g Him with our wives let us pursue, O gods,
-With our sons, our brothers, or by gold,
-Seizing the vault in the world of good action,
-Above the third firmament, in the light of the sky.
-h To the middle of speech hath the busy one arisen,
-Agni here, lord of the good, the wise;
-Established on the back of the earth, the radiant one,
-He casteth beneath his feet [3] the combatants.
-i Let Agni here, the most manly, strength-bestowing,
-Of a thousand shapes, shine unwearying,
-Radiant in the midst of the ocean;
-Do ye approach the abodes divine.
-k Move ye forward, go ye long together;
-Make ye the paths gods travelled, O Agni;
-In this highest abode
-O All-gods, sit ye with the sacrificer.
-l That by which thou bearest a thousand,
-Thou, O Agni, all wealth,
-With that highest (path) for the gods to travel,
-Do thou bear this sacrifice for us.
-m Awake, O Agni; be roused for him;
-With this one do thou create sacrifice and donation;
-Making thee, his father, young again
-He hath stretched over thee this covering.
-n This is thy due place of birth,
-Whence born thou didst shine,
-Mount it, O Agni, knowing it,
-And make our wealth increase.
-
-iv. 7. 14.
-a May radiance be mine, O Agni, in rival invocations,
-May we, kindling thee, make ourselves to prosper;
-To me let the four quarters bow;
-With thee as overseer may we conquer the fighters.
-b Let all the gods be at my invocation,
-The Maruts with Indra, Visnu, Agni;
-May the broad atmosphere be my guardian;
-May the wind blow for me unto this desire.
-c May the gods bestow wealth upon me through sacrifice;
-May blessing be mine, and mine divine invocation;
-The divine sacrificers of old shall win for us [1];
-Unharmed may we be in ourselves, rich in heroes.
-d For me let them sacrifice whatever sacrifices are mine
-Fulfilled be the intent of my mind;
-No sin whatever may I commit;
-May the All-gods befriend me.
-e O ye six spaces divine, for us make broad room;
-O ye All-gods, here show your prowess;
-May we not lose offspring nor ourselves;
-May we not fall victims to our foe, O king Soma.
-f Agni, driving away wrath in front [2],
-As guardian unfailing, do thou guard us on all sides;
-Let thy foes turn away again
-And be their plotting at home ruined through thy foresight.
-g The creator of creators, lord of the world,
-The god Savitr overcoming enmity,
-This sacrifice may the two Açvins and Brhaspati,
-The gods (guard) and protect the sacrificer from misfortune.
-h May the bull, wide extending, afford us protection rich in food,
-He much invoked in this invocation;
-O thou of the bay steeds, be gracious unto our progeny;
-Harm us not [3], abandon not us.
-i May our rivals depart;
-With Indra and Agni we overthrow them;
-The Vasus, the Rudras, the Adityas have made me
-A dread corrector and overlord, sky reaching.
-k Hitherward do we summon Indra from thence,
-Him who is winner of cows, of booty, and winner too of horses;
-Do thou accept this sacrifice at our invocation;
-Ally of it we make thee, O lord of the bays.
 
 The Horse Sacrifice
 

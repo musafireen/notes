@@ -1234,9 +1234,17 @@ The King gave him a seat, had water brought for him, and made him the reverenti
 
 Then he said, ‘We will give revered Gautama, a boon.’
 #### 8
-स होवाच, तथा नस्त्वम् गौतम मापराधास्तव च पितामहा यथ, इयं विद्येतः पूर्वं न कस्मिंश्चन ब्राह्मण उवास; तां त्वहं तुभ्यं वक्श्यामि, को हि त्वैवं ब्रुवन्तमर्हति प्रत्याख्यातुमिति ॥ ८ ॥
+स होवाच, तथा नस्त्वम् गौतम मापराधास्तव च पितामहा यथ, 
 
-The King said: Please do not take offence with us, Gautama, as your paternal grandfathers did not (with ours). Before this, this learning never rested with a Brāhmaṇa. But I shall teach it to you; for who can refuse you when you speak like this?
+The King said: Please do not take offence with us, Gautama, as your paternal grandfathers did not (with ours). 
+
+इयं विद्येतः पूर्वं न कस्मिंश्चन ब्राह्मण उवास; 
+
+Before this, this learning never rested with a Brāhmaṇa. 
+
+तां त्वहं तुभ्यं वक्श्यामि, को हि त्वैवं ब्रुवन्तमर्हति प्रत्याख्यातुमिति ॥ ८ ॥
+
+But I shall teach it to you; for who can refuse you when you speak like this?
 #### 9
 असौ वै लोकोऽग्निर्गौतम; तस्यादित्य एव समित्, रश्मयो धूमः, अहरर्चिर्, दिशोऽङ्गाराः, अवान्तरदिशो विस्फुलिङ्गास्; 
 

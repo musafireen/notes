@@ -3,6 +3,8 @@ https://titus.uni-frankfurt.de/texte/etcs/ind/aind/mbh/mbh.htm
 [Bhandarkar](https://bombay.indology.info/mahabharata/welcome.html)
 [Bhandarkar](https://sanskritdocuments.org/mirrors/mahabharata/mahabharata-bori.html)
 
+https://ambuda.org/texts/mahabharatam/
+
 [Kumbhakonam](https://sanskritdocuments.org/mirrors/mahabharata/mahabharata-sarit.html)
 
 [Kmg](https://www.wisdomlib.org/hinduism/book/the-mahabharata-mohan)
@@ -6701,7 +6703,26 @@ Ujjayani, Adapekshi, the great rishi Naradi—
 विश्वामित्रात्मजाः सर्वे मुनयो ब्रह्मवादिनः ||५८||
 
 all these sages were knowledgable about the brahman and were descended from Vishvamitra.
-### 24
+### c15
+##### 9
+रराज भगवांस्तत्र देव्या सह महेश्वरः । 
+सोमेन सहितः सूर्यो यथा मेघस्थितस्तथा || 9 || 
+
+There, with the goddess, the illustrious Maheshvara looked resplendent. It was as if the sun was located inside that cloud, together with the moon. 
+##### 10
+संहृष्टरोमा कौन्तेय विस्मयोत्फुल्ललोचनः ।
+अपश्यं देवसंघानां गतिमार्तिहरं हरम् || 10 || 
+
+O Kounteya! My body hair stood up in delight. My eyes dilated in wonder. He is the refuge of the large numbers of gods. He is the dispeller of all affliction. I saw Hara. 
+##### 11
+किरीटिनं गदिनं शूलपाणिं व्याघ्राजिनं जटिलं दण्डपाणिम् । 
+
+He wore a crown. He held a club and a trident in his hands. He was attired in tiger skin. His hair was matted and he held a staff in his hand. 
+
+पिनाकिनं वज्रिणं तीक्ष्णदंष्ट्रं शुभाङ्गदं व्यालयज्ञोपवीतम् || 11 || 
+
+He held the Pinaka and the vajra. His teeth were sharp. He wore sparkling bracelets and his sacred thread was a snake.
+### c24
 ##### 70
 वेदविक्रयिणश्चैव वेदानां चैव दूषकाः
 वेदानां लेखकाश्चैव ते वै निरयगामिनः

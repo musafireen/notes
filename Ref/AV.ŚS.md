@@ -3,7 +3,6 @@ http://www.onlineved.com/atharva-ved/?language=1&kand=10&sukt=2&mantra=31
 http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs___u.htm
 
 https://sacred-texts.com/hin/av/index.htm
-
 ## 1.16
 ### 2-3
 #### 2
@@ -1018,6 +1017,9 @@ https://sacred-texts.com/hin/av/av08010.htm
 
 From all the Gods enthroned in heaven, in air, from those who dwell on earth,
 Draw forth for evermore a stream of milk, of butter, and of mead.
+## 11.2
+#### 6
+rudra tiger skin???
 ## 11.4
 https://sacred-texts.com/hin/av/av11007.htm
 #### 9

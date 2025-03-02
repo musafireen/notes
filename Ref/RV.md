@@ -380,11 +380,23 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830731
 and gandharva seized his (raśana) reins. 
 Vasus, you (niṣṭāṇa) fabricated the (aśva) horse from the (sūra) sun.”
 ## 1.164
-https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840320.html
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830743.html
+#### 1
+अ॒स्य वा॒मस्य॑ पलि॒तस्य॒ होतु॒स्तस्य॒ भ्राता॑ मध्य॒मो अ॒स्त्यश्न॑: । तृ॒तीयो॒ भ्राता॑ घृ॒तपृ॑ष्ठो अ॒स्यात्रा॑पश्यं वि॒श्पतिं॑ स॒प्तपु॑त्रम् ॥
+
+“I have beheld the (viśpati) Lord of men with seven sons; of which delightful and benevolent (deity), who is the object of our invocation, there is an all-pervading middle brother, and a third brother, well fed with (oblations of) ghee.”
+#### 2
+स॒प्त यु॑ञ्जन्ति॒ रथ॒मेक॑चक्र॒मेको॒ अश्वो॑ वहति स॒प्तना॑मा । 
+
+“They yoke the seven (horses) to the one-wheeled car; one horse, named seven, bears it along; 
+
+त्रि॒नाभि॑ च॒क्रम॒जर॑मन॒र्वं यत्रे॒मा विश्वा॒ भुव॒नाधि॑ त॒स्थुः ॥
+
+the three-axled wheel is undecaying, never loosened, and in it all these regions of the universe abide.”
 #### 11
 द्वाद॑शारं न॒हि तज्जरा॑य॒ वर्व॑र्ति च॒क्रं परि॒ द्यामृ॒तस्य॑ । 
 
-The twelve-spoked wheel, of the true (sun) revolves round the heavens, and never (tends) to decay; 
+The twelve-spoked wheel, of the (ṛta) true (sun) (vṛ) revolves round the (dyaus) heavens, and never (tends) to (jar) decay; 
 
 आ पु॒त्रा अ॑ग्ने मिथु॒नासो॒ अत्र॑ स॒प्त श॒तानि॑ विंश॒तिश्च॑ तस्थुः ॥
 
@@ -397,6 +409,30 @@ They have termed the five-footed, twelve-formed parent, Puriṣin, when in the f
 अथे॒मे अ॒न्य उप॑रे विचक्ष॒णं स॒प्तच॑क्रे॒ षळ॑र आहु॒रर्पि॑तम् ॥
 
 and others have termed in Arpita, when in the hither (portion of the sky); shining in his seven-wheeled car), each (wheel) having six spokes.
+#### 13
+पञ्चा॑रे च॒क्रे प॑रि॒वर्त॑माने॒ तस्मि॒न्ना त॑स्थु॒र्भुव॑नानि॒ विश्वा॑ । 
+
+“All beings abide in this five-spoked revolving wheel; 
+
+तस्य॒ नाक्ष॑स्तप्यते॒ भूरि॑भारः स॒नादे॒व न शी॑र्यते॒ सना॑भिः ॥
+
+the heavily-loaded axle is never heated; its eternal compact nave is never worn away.”
+#### 14
+सने॑मि च॒क्रम॒जरं॒ वि वा॑वृत 
+
+“The even-fellied, undecaying wheel, repeatedly revolves; 
+
+उत्ता॒नायां॒ दश॑ यु॒क्ता व॑हन्ति । 
+
+ten, united on the upper surface, bear (the world); 
+
+सूर्य॑स्य॒ चक्षू॒ रज॑सै॒त्यावृ॑तं॒ 
+
+the orb of the sun proceeds, invested with water, 
+
+तस्मि॒न्नार्पि॑ता॒ भुव॑नानि॒ विश्वा॑ ॥
+
+and in it are all beings deposited.”
 #### 15
 सा॒कं॒जानां॑ स॒प्तथ॑माहुरेक॒जं षळिद्य॒मा ऋष॑यो देव॒जा इति॑ । 
 
@@ -1491,12 +1527,14 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc836696
 “He, (Indra), the chief of those to be honoured, desirous of our offerings, approaches; he, the doors ofwhose favour, the sacred rites, Manu, the (universal) father, attained among the gods.”
 # b9
 ## 9.25
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc837514.html
 #### 1
 ## 9.41
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc837626.html
 #### 1
 प्र ये गावो॒ न भूर्ण॑यस्त्वे॒षा अ॒यासो॒ अक्र॑मुः । घ्नन्त॑: कृ॒ष्णामप॒ त्वच॑म् ॥
 
-“(Praise the Soma-juices) which descend like streams of water, swift, brilliant, rapid driving off the (kṛṣṇa) black skinned (rākṣasa).”
+“(Praise the Soma-juices) which descend like streams of water, swift, brilliant, rapid driving off the (kṛṣṇa) black skinned (rākṣasa).
 ## 9.78
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838054.html
 #### 3
@@ -1965,9 +2003,13 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839579
 ## 10.90
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839598.html
 #### 1
-स॒हस्र॑शीर्षा॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात् । स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद्दशाङ्गु॒लम् ॥
+स॒हस्र॑शीर्षा॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात् । 
 
-“Puruṣa, who has a thousand (śīrṣa) heads, a thousand (akṣa) eyes, a thousand (pād) feet, (vṛt) investing the (bhūmi) earth in (viśva) all directions, (atiṣṭhāna) exceeds (it by a space) measuring ten (aṅgula) fingers.”
+“Puruṣa, who has a thousand (śīrṣa) heads, a thousand (akṣa) eyes, a thousand (pād) feet, 
+
+स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद्दशाङ्गु॒लम् ॥
+
+(vṛt) investing the (bhūmi) earth in (viśva) all directions, (atiṣṭhāna) exceeds (it by a space) measuring ten (aṅgula) fingers.”
 #### 2
 पुरु॑ष ए॒वेदं सर्वं॒ यद्भू॒तं यच्च॒ भव्य॑म् । 
 
@@ -1992,7 +2034,6 @@ and Puruṣa is (jya) greater even than this;
 his (tripād) other three-fourths, (being) (amṛta) immortal, (abide) in (dyaus) heaven.”
 
 #### 4
-
 त्रि॒पादू॒र्ध्व उदै॒त्पुरु॑ष॒: 
 
 “(tripād) Three-fourths of Puruṣa (ūrdhva) ascended; 
@@ -2023,21 +2064,27 @@ and afterwards (created) the (bhūmi) earth (and) then (pūra) corporeal forms.�
 then (vasanta) Spring was its (ājya) ghī, (grīṣma) Summer the (idhma) fuel, and (śarat) Autumn the (haviṣ) oblation.”
 #### 7
 तं य॒ज्ञं ब॒र्हिषि॒ प्रौक्ष॒न्पुरु॑षं जा॒तम॑ग्र॒तः । 
+
 “They (prokṣa) immolated as the (yajña) victim upon the (varhi) sacred grass Puruṣa, (jāta) born (agra) before (creation); 
 
 तेन॑ दे॒वा अ॑यजन्त सा॒ध्या ऋष॑यश्च॒ ये ॥
+
 with him the (deva) deities who were Sādhyas and those who were Ṛṣis (yaj) sacrificed.”
 #### 8
 तस्मा॑द्य॒ज्ञात्स॑र्व॒हुत॒: सम्भृ॑तं पृषदा॒ज्यम् । 
+
 “From that (yajña) victim, in whom the (sarvahūt) universal oblation was offered, the mixture of (pṛṣat) curds and (ājya) butter was (sambhṛta) produced, 
 
 प॒शून्ताँश्च॑क्रे वाय॒व्या॑नार॒ण्यान्ग्रा॒म्याश्च॒ ये ॥
+
 (then) he (kar) made those (paśu) animals (vāyavya) over whom Vāyu presides, those that are (āraṅya) wild, and those that are (grāmya) tame.”
 #### 9
 तस्मा॑द्य॒ज्ञात्स॑र्व॒हुत॒ ऋच॒: सामा॑नि जज्ञिरे । 
+
 “From that (yajña) victim, in whom the (sarvahūt) universal oblation was offered, the ṛcs and sāmas were (jāti) produced; 
 
 छन्दां॑सि जज्ञिरे॒ तस्मा॒द्यजु॒स्तस्मा॑दजायत ॥
+
 from him the (chanda) metres were (jāti) born; from him the yajur was born.”
 #### 10
 तस्मा॒दश्वा॑ अजायन्त॒ ये के चो॑भ॒याद॑तः । 

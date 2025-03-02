@@ -1,5 +1,8 @@
 
 
+# sylheti ex-mollah
+https://www.youtube.com/live/EPFHPZnMwlE?t=6854
+# sylheti ex-muslim
 # pro-hindu sylhetis
 ## sylhet ex mayor for hindus
 https://x.com/taslimanasreen/status/1855360604170519031
@@ -32,10 +35,67 @@ https://x.com/OpIndia_com/status/1871517777414242657
 
 
 # sylheti hindu pride
+https://x.com/LyadhkhorB/status/1891836983988846814
+
+https://x.com/shivi1963/status/1838649951355834870
+
+https://x.com/kishanreddybjp/status/1598711962879545344
+
+https://x.com/TheBengalMuslim/status/1845017061132816767
+
+https://x.com/Gaudeshwar/status/1863519243477602569
+
+https://x.com/Ak_soorya/status/1821455885366890584
+
+https://x.com/ih_voice/status/1854909376118898959
+
+https://x.com/ShivamRoy2_/status/1879564780303991166
+
+https://x.com/mekarora/status/1834509123192492304
+
+https://x.com/IAmAKattarHindu/status/1822698539476234628
+
+https://x.com/iMRjoy/status/1862022097004011997
+
+https://x.com/MunnaBhau133381/status/1826649038009368691
+
+https://x.com/Risid001/status/1783371986917577113
+
+
+https://x.com/ArunudoyB/status/1205796871018549248
+
+https://x.com/ArunudoyB/status/1802201734166790587
+
+https://x.com/ArunudoyB/status/1505951823185670147
+
+https://x.com/ArunudoyB/status/1449344230711717888
+
+https://x.com/ArunudoyB/status/1222034190473936896
 
 https://x.com/ArunudoyB/status/1271452813063667712?lang=bn
 
-https://x.com/ArunudoyB/status/1205796871018549248?lang=ar
+https://x.com/ArunudoyB/status/1427234400870141953
+
+https://x.com/ArunudoyB/status/1223226376762740736
+
+https://x.com/ArunudoyB/status/1205870798822498305
+
+https://x.com/ArunudoyB/status/1223158405365256192
+
+https://x.com/ArunudoyB/status/1217799818036166656
+
+https://x.com/ArunudoyB/status/1205872165876158464
+
+
+https://x.com/sandipanthedeb/status/1852277817024651432
+
+https://x.com/itlightmoon5/status/1780558868625396196
+
+https://x.com/myboimessi/status/1822915655882142100
+
+https://x.com/heyitsAPC/status/1870445051727479292
+
+https://x.com/JaipurDialogues/status/1870407599339745383
 
 https://x.com/MadhyomBangla/status/1871432857375347033
 

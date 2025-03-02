@@ -1,4 +1,5 @@
 
+www.hellenicgods.org/the-orphic-fragments-of-otto-kern
 # prin
 ## 123b
 Ή δε κατά τόν Ιερώνυμον φερομένη καί Ελλάνικον, εΐπερ μή και ό αυτός έστιν, ούτως εχει "Υδωρ ήν, φησιν, έξ άρχής καί ύλη έξ ής επάγη ή γη δυο ταύτας άρχας υποτιθέμενος πρωτας, ύδωρ καί γήν, ταυτην μεν ώς φύσει σκεδαστήν, εκείνο δε ώς ταυτης κολλητικόν τε καί 
@@ -29,7 +30,6 @@ Among these, he says, Time generated an egg this tradition too making it generat
 The egg; the dyad of the two natures inside it (male and female), and the plurality of the various seeds between; and thirdly an incorporeal god with golden wings on his shoulders, bulls' heads growing upon his flanks, and on his head a monstrous serpent, presenting the appearance of all kinds of animal forms . . . And the third god of this third triad this theology too celebrates as Firstborn, and it calls him Zeus the orderer of all and < > of the whole world, wherefore he is also called Pan.
 
 ## 123
-
 SUMMARY: Fragment 60 is a Neoplatonic explanation of first principles derived from the epic Orphic poem Sacred Logos in 24 Rhapsodies. These first principles being Time, followed by Aether and Chaos. Next there is a discussion of the Egg from which Phanes leaps forth; Phanes, Ericapaeus, and Metis are united as a triad, implying that the Rhapsodies give these as names of the same God. 
 
 60. (48) ἀπορίαι καὶ λύσεις περὶ τῶν πρώτων ἀρχῶν Δαμασκίου 123 = 60 K. (I 316, 18 Ruelle):

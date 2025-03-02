@@ -1,6 +1,6 @@
 https://suttacentral.net/dn16/en/sujato?lang=en&layout=linebyline&reference=ms&notes=asterisk&highlight=true&script=latin
 
-# Digha Nikaya
+# DighN
 : 34 long discourses
 ## silakkhandavagga
 2 Samanala Sutta
@@ -390,8 +390,115 @@ But still you misrepresent me by your wrong grasp, harm yourself, and create muc
 [5.15](https://suttacentral.net/mn38/en/sujato?lang=en&layout=linebyline&reference=main%2Cms&notes=none&highlight=false&script=Bengali#5.15 "SuttaCentral segment number")
 This will be for your lasting harm and suffering.”
 তঞ্হি তে, মোঘপুরিস, ভবিস্সতি দীঘরত্তং অহিতায় দুক্খায়া”তি।
+## majjhimaPn
+### gahapatiV
+#### c57
+##### 1.387
+“But when did you compose these praises of the ascetic Gotama’s beautiful qualities, householder?”
+“কদা সঞ্ঞূল়্হা পন তে, গহপতি, ইমে সমণস্স গোতমস্স বণ্ণা”তি?
 
-# Samyutta Nikaya
+“Sir, suppose there was a large heap of many different flowers. A deft garland-maker or their apprentice could tie them into a colorful garland.
+“সেয়্যথাপি, ভন্তে, নানাপুপ্ফানং মহাপুপ্ফরাসি, তমেনং দক্খো মালাকারো বা মালাকারন্তেবাসী বা বিচিত্তং মালং গন্থেয়্য;
+In the same way, the Buddha has many beautiful qualities to praise, many hundreds of such qualities.
+এবমেব খো, ভন্তে, সো ভগবা অনেকবণ্ণো অনেকসতবণ্ণো।
+Who, sir, would not praise the praiseworthy?”
+কো হি, ভন্তে, বণ্ণারহস্স বণ্ণং ন করিস্সতী”তি?
+
+Unable to bear this honor paid to the Buddha, the Jain Ñātika spewed hot blood from his mouth there and then.
+অথ খো নিগণ্ঠস্স নাটপুত্তস্স ভগবতো সক্কারং অসহমানস্স তত্থেব উণ্হং লোহিতং মুখতো উগ্গচ্ছীতি।
+
+So I have heard.
+এবং মে সুতং—
+
+At one time the Buddha was staying in the land of the Koliyans, where they have a town named Haliddavasana.[\*](The Koliyans were south-eastern neighbors of the Sakyans, with whom they had close ties in marriage and customs. | Haliddavasana (“yellow-clothes”) is also the scene of SN 45.54, which discusses similarities and differences between Buddhism and wanderers when it comes to meditation.)
+একং সময়ং ভগবা কোলিয়েসু বিহরতি হলিদ্দবসনং নাম কোলিয়ানং নিগমো।
+
+Then Puṇṇa the Koliyan, a cow votary, and the naked ascetic Seniya, a dog votary, went to see the Buddha. Puṇṇa bowed to the Buddha and sat down to one side, while Seniya exchanged greetings and polite conversation with him before sitting down to one side curled up like a dog. [\*](The cow votary (govatika) is attested in Sanskrit (eg. Mahābhārata 5.97.13). Elsewhere, non-Buddhist texts mention snake votaries, fish votaries, those who live like beasts (mṛgacaryā), and others, but not, so far as I am aware, dog votaries. The cow and dog observances are found in later Buddhist texts (Yogacārabhūmi 157.10, Mahākarmavibhaṅga 44.19, Śikṣāsamuccaya 332.3, etc.) evidently drawing from this sutta. Thus while no parallel of this sutta has survived, it was known in northern Buddhist traditions and must have been lost due to a failure of transmission.)
+
+অথ খো পুণ্ণো চ কোলিয়পুত্তো গোবতিকো অচেলো চ সেনিয়ো কুক্কুরবতিকো যেন ভগবা তেনুপসঙ্কমিংসু; উপসঙ্কমিত্বা পুণ্ণো কোলিয়পুত্তো গোবতিকো ভগবন্তং অভিবাদেত্বা একমন্তং নিসীদি। অচেলো পন সেনিয়ো কুক্কুরবতিকো ভগবতা সদ্ধিং সম্মোদি। সম্মোদনীয়ং কথং সারণীয়ং বীতিসারেত্বা কুক্কুরোব পলিকুজ্জিত্বা একমন্তং নিসীদি। 
+
+Variant: palikujjitvā → paḷikujjitvā (bj); palikuṇṭhitvā (sya-all, km); paliguṇṭhitvā (mr)
+
+Puṇṇa said to the Buddha,
+একমন্তং নিসিন্নো খো পুণ্ণো কোলিয়পুত্তো গোবতিকো ভগবন্তং এতদবোচ:
+“Sir, this naked ascetic Seniya the dog votary does a hard thing: he eats food placed on the ground.
+“অয়ং, ভন্তে, অচেলো সেনিয়ো কুক্কুরবতিকো দুক্করকারকো ছমানিক্খিত্তং ভোজনং ভুঞ্জতি।
+For a long time he has undertaken that observance to behave like a dog.
+তস্স তং কুক্কুরবতং দীঘরত্তং সমত্তং সমাদিন্নং।
+Where will he be reborn in his next life?”
+তস্স কা গতি, কো অভিসম্পরায়ো”তি?
+
+“Enough, Puṇṇa, let it be. Don’t ask me that.” Also at SN 42.2 and SN 42.3.
+“অলং, পুণ্ণ, তিট্ঠতেতং; মা মং এতং পুচ্ছী”তি।
+
+For a second time …
+দুতিয়ম্পি খো পুণ্ণো কোলিয়পুত্তো গোবতিকো …পে…
+and a third time, Puṇṇa said to the Buddha,
+ততিয়ম্পি খো পুণ্ণো কোলিয়পুত্তো গোবতিকো ভগবন্তং এতদবোচ:
+“Sir, this naked ascetic Seniya does a hard thing: he eats food placed on the ground.
+“অয়ং, ভন্তে, অচেলো সেনিয়ো কুক্কুরবতিকো দুক্করকারকো ছমানিক্খিত্তং ভোজনং ভুঞ্জতি।
+For a long time he has undertaken that observance to behave like a dog.
+তস্স তং কুক্কুরবতং দীঘরত্তং সমত্তং সমাদিন্নং।
+Where will he be reborn in his next life?”
+তস্স কা গতি, কো অভিসম্পরায়ো”তি?
+##### 1.388
+“Clearly, Puṇṇa, I’m not getting through to you when I say:
+“অদ্ধা খো তে অহং, পুণ্ণ, ন লভামি।
+‘Enough, Puṇṇa, let it be. Don’t ask me that.’
+অলং, পুণ্ণ, তিট্ঠতেতং; মা মং এতং পুচ্ছীতি;
+Nevertheless, I will answer you.
+অপি চ ত্যাহং ব্যাকরিস্সামি।
+
+Take someone who develops the dog observance fully and uninterruptedly. They develop a dog’s ethics, a dog’s mentality, and a dog’s behavior fully and uninterruptedly.
+ইধ, পুণ্ণ, একচ্চো কুক্কুরবতং ভাবেতি পরিপুণ্ণং অব্বোকিণ্ণং, কুক্কুরসীলং ভাবেতি পরিপুণ্ণং অব্বোকিণ্ণং, কুক্কুরচিত্তং ভাবেতি পরিপুণ্ণং অব্বোকিণ্ণং, কুক্কুরাকপ্পং ভাবেতি পরিপুণ্ণং অব্বোকিণ্ণং।
+
+When their body breaks up, after death, they’re reborn in the company of dogs.
+সো কুক্কুরবতং ভাবেত্বা পরিপুণ্ণং অব্বোকিণ্ণং, কুক্কুরসীলং ভাবেত্বা পরিপুণ্ণং অব্বোকিণ্ণং, কুক্কুরচিত্তং ভাবেত্বা পরিপুণ্ণং অব্বোকিণ্ণং, কুক্কুরাকপ্পং ভাবেত্বা পরিপুণ্ণং অব্বোকিণ্ণং কায়স্স ভেদা পরং মরণা কুক্কুরানং সহব্যতং উপপজ্জতি।
+
+But if they have such a view: ‘By this precept or observance or fervent austerity or spiritual life, may I become one of the gods!’ This is their wrong view.
+সচে খো পনস্স এবন্দিট্ঠি হোতি: ‘ইমিনাহং সীলেন বা বতেন বা তপেন বা ব্রহ্মচরিয়েন বা দেবো বা ভবিস্সামি দেবঞ্ঞতরো বা’তি, সাস্স হোতি মিচ্ছাদিট্ঠি।
+
+An individual with wrong view is reborn in one of two places, I say: hell or the animal realm.
+মিচ্ছাদিট্ঠিস্স খো অহং, পুণ্ণ, দ্বিন্নং গতীনং অঞ্ঞতরং গতিং বদামি—নিরয়ং বা তিরচ্ছানয়োনিং বা।
+
+So if the dog observance succeeds it leads to rebirth in the company of dogs, but if it fails it leads to hell.”
+ইতি খো, পুণ্ণ, সম্পজ্জমানং কুক্কুরবতং কুক্কুরানং সহব্যতং উপনেতি, বিপজ্জমানং নিরয়ন্”তি।
+
+When he said this, Seniya cried and burst out in tears.
+এবং বুত্তে, অচেলো সেনিয়ো কুক্কুরবতিকো পরোদি, অস্সূনি পবত্তেসি।
+
+The Buddha said to Puṇṇa,
+অথ খো ভগবা পুণ্ণং কোলিয়পুত্তং গোবতিকং এতদবোচ:
+“This is what I didn’t get through to you when I said:
+“এতং খো তে অহং, পুণ্ণ, নালত্থং।
+‘Enough, Puṇṇa, let it be. Don’t ask me that.’”
+অলং, পুণ্ণ, তিট্ঠতেতং; মা মং এতং পুচ্ছী”তি।
+
+Seniya said, “Sir, I’m not crying because of what the Buddha said.
+“নাহং, ভন্তে, এতং রোদামি যং মং ভগবা এবমাহ;
+But, sir, for a long time I have undertaken this observance to behave like a dog.
+অপি চ মে ইদং, ভন্তে, কুক্কুরবতং দীঘরত্তং সমত্তং সমাদিন্নং।
+Sir, this Puṇṇa is a cow votary.
+অয়ং, ভন্তে, পুণ্ণো কোলিয়পুত্তো গোবতিকো।
+For a long time he has undertaken that observance to behave like a cow.
+তস্স তং গোবতং দীঘরত্তং সমত্তং সমাদিন্নং।
+Where will he be reborn in his next life?”
+তস্স কা গতি, কো অভিসম্পরায়ো”তি?
+
+“Enough, Seniya, let it be. Don’t ask me that.”
+“অলং, সেনিয়, তিট্ঠতেতং; মা মং এতং পুচ্ছী”তি।
+
+For a second time …
+দুতিয়ম্পি খো অচেলো সেনিয়ো …পে…
+and a third time Seniya said to the Buddha,
+ততিয়ম্পি খো অচেলো সেনিয়ো কুক্কুরবতিকো ভগবন্তং এতদবোচ:
+“Sir, this Puṇṇa is a cow votary.
+“অয়ং, ভন্তে, পুণ্ণো কোলিয়পুত্তো গোবতিকো।
+For a long time he has undertaken that observance to behave like a cow.
+তস্স তং গোবতং দীঘরত্তং সমত্তং সমাদিন্নং।
+Where will he be reborn in his next life?”
+তস্স কা গতি, কো অভিসম্পরায়ো”তি?
+# SmyN
 : 55 groups of discourses arranged by subject matter
 ## sagāthāvaggasaṃyutta
 ### vanasaṁyutta
@@ -1512,7 +1619,7 @@ LVI, 11-Dhammacakkacavallane Sulta
 
 LVI.48-Chiggala Sutta
 
-# Anguttara Nikaya
+# AngN
 : Discourses grouped by incremental lists of subjects
 
 65 Kalama Sulta V77-Achita Sutta
@@ -1769,7 +1876,7 @@ that sage is determined by nothing at all.”
 8.4
 সুখুমালাধিপতেয়্যেন চাতি।
 
-# Khuddaka Nikaya
+# KhudN
 A collection of fifteen minor texts
 
 ## 1_Khuddakapatha
@@ -1819,8 +1926,8 @@ hunger and thirst are the third,
 12.4
 and the fourth is said to be craving.
 চতুত্থী তণ্হা পবুচ্চতি।
-### aṭṭhajavagga
-#### paramāṭṭhakasutta
+### aṭṭhajaVg
+#### paramāṭṭhaka
 ##### snp.4.5.1
 If, maintaining that theirs is the “ultimate” view,
 পরমন্তি দিট্ঠীসু পরিব্বসানো,
@@ -1831,21 +1938,43 @@ then they declare all others are “lesser”;
 that’s why they’re not over disputes.
 তস্মা বিবাদানি অবীতিবত্তো।
 
-## 6_Vimanavatthu
+## 6_VimanaVt
 . Accounts of the heavenly rebirths of the virtuous
 
-## 7_Petavatthu
+## 7_PetaVt
 , 51 poems about rebirth as a hungry ghost
 
-## 8_Theragatha
+## 8_TheraG
 Verses by 264 male Elders
 
-## 9_Therigatha
+## 9_TheriG
 : Verses by around 100 female elders.
-
+### visatiN
+#### ambapali
+#### capa
+##### 291
+“Once I carried a hermit’s staff,
+“লট্ঠিহত্থো পুরে আসি,
+but these days I hunt deer.
+সো দানি মিগলুদ্দকো;
+My desires have made me unable to cross
+আসায় পলিপা ঘোরা,
+from the awful marsh to the far shore.
+নাসক্খি পারমেতবে।
+##### 295
+“Please, Kāḷa, come back to me.
+“এহি কাল় নিবত্তস্সু,
+Enjoy pleasures like you did before.
+ভুঞ্জ কামে যথা পুরে;
+I’ll be under your control,
+অহঞ্চ তে বসীকতা,
+along with any relatives I have.”
+যে চ মে সন্তি ঞাতকা”।
 ## 10_Jataka
+[[jtk]]
 547 stories about the Buddha's previous lives
-
+https://suttacentral.net/dn16/en/sujato?lang=en&layout=linebyline&reference=ms&notes=asterisk&highlight=true&script=latin
+[[jtk]]
 ## 11_Niddesa
 : Commentary on portions of the Sutta nipata
 
@@ -1858,5 +1987,5 @@ Abhidharma style analysis of points of doctrine
 ## 14_Buddnavamsa
 . An account of the 24 previous Buddhas
 
-## 15_Cariyapiṭaka
+## 15_CariyaP
 : Jataka stories about the virtues of bodhisattvas

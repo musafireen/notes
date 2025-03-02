@@ -240,7 +240,7 @@ bhedābheda, advaita, viṣiṣṭādvaita, Dvaita, acintya bhedābheda
 ## vedāntideśa
 pratiṣṭhāna, kaladi, rangam, pājaka, māyāpura
 ## pancagauda brāhmāṇa
-![[Ref/klhn.rjt#]]
+![[rjt#]]
 kānyakubja, svārasvata, maithili, utkala, gauḍa
 
 ![[kfyt]]
@@ -359,6 +359,8 @@ metatron, raziel, tzaphkiel, zadkiel, chamuel, michael, haniel, raphael, gabriel
 § sahasrāra, ājñā, suṣumna, piṅgala, iḍā, viśuddhi, anāhata, maṇipura, svādhiṣṭhana, mūladhāra ()
 ## alvar
 poigai, bhoothat, pey, thirumalisai, namma, thiruppan, thondaradippodi, thirumangai, kulasekhara, periya
+## natha
+matsyendra, goraksa, cauraṅgī, jalandhara, carpaṭi, kṛṣṇapāda, nāgārjuna, bhartṛhari, gopicandra/gahinī, revan
 # 12
 ## ashhar
 ## māsa

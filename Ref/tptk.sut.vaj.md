@@ -1,5 +1,7 @@
 rgYud : tantra (sutra)
+https://84000.co/canon-sections/tantra-collection
 
+https://www.dsbcproject.org/canon-text/category/81
 # caryā
 • spyod-pa: caryā
 • • rNam-par sNang-mDzad mNgon-par rDzogs-par bYang-chub-pa : mahāvairocana abhisaṃbodhi
@@ -11,11 +13,20 @@ rgYud : tantra (sutra)
 • • de-bzhin-gshegs-pa thams-cad de-kho-na-nyid bsDus-pa: sarvatathāgata tattvasamgraha
 ## sarvatathāgata_tattvasaṃgraha
 # anuttarayoga
+https://84000.co/canon-sections/unexcelled-yoga-tantras
 • rnal-’byor bla-med: anuttarayoga
 • • pha-rgYud : pitṛtantra mahāyoga tantra
 • || rnal-’byor chen-po: mahāyoga
 • • • mi-bsKyod-pa: akṣobhya
+## guhsmj
+https://www.dsbcproject.org/canon-text/content/840/2968
 • • • • gSang ’dus rtsa : guhyasamāja
+### c18
+#### 94
+प्रदानं हरणं चैव सर्वद्रव्यमशेषतः।
+करोति क्षणमात्रेण चित्तवज्रस्थिरेण वै॥९४॥
+
+## ?
 • • • • gSang ba'i snying po : guhyagarbha
 • • • rNam-sNang: vairocana
 • • • • 'jigs-byed chen-po: vajramahābhairava

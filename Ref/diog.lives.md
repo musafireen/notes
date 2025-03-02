@@ -340,6 +340,55 @@ So much for those who are called the Sages, with whom some writers also class Pi
 
 5 [122] This forgery is easily analysed. There is the tradition of the malady which proved fatal to Pherecydes ( cf. Porphyry, Vit. Pyth. §55), with the anecdote of his protruding his finger through the door. There is also an allusion to the alleged obscurity of the work on the gods which passed current as written by him.
 # b6
+## c1
+#### 1
+Ἀντισθένης Ἀντισθένους Ἀθηναῖος. 
+
+Antisthenes,1 the son of Antisthenes, was an Athenian. 
+
+ἐλέγετο δ᾽ οὐκ εἶναι ἰθαγενής: ὅθεν καὶ πρὸς τὸν ὀνειδίζοντα εἰπεῖν, "καὶ ἡ μήτηρ τῶν θεῶν Φρυγία ἐστίν." 
+
+It was said, however, that he was not of pure Attic blood. Hence his reply to one who taunted him with this: "The mother of the gods too is a Phrygian."2 
+
+ἐδόκει γὰρ εἶναι Θρᾴττης μητρός: 
+
+For his mother was supposed to have been a Thracian. 
+
+ὅθεν καὶ ἐν Τανάγρᾳ κατὰ τὴν μάχην εὐδοκιμήσας ἔδωκε λέγειν Σωκράτει ὡς οὐκ ἂν ἐκ δυοῖν Ἀθηναίων οὕτω γεγόνοι γενναῖος. 
+
+Hence it was that, when he had distinguished himself in the battle of Tanagra,3 he gave Socrates occasion to remark that, if both his parents had been Athenians, he would not have turned out so brave. 
+
+καὶ αὐτὸς δὲ τοὺς Ἀθηναίους ἐπὶ τῷ γηγενεῖς εἶναι σεμνυνομένους ἐκφαυλίζων ἔλεγε μηδὲν εἶναι κοχλιῶν καὶ ἀττελέβων εὐγενεστέρους.
+
+He himself showed his contempt for the airs which the Athenians gave themselves on the strength of being sprung from the soil by the remark that this did not make them any better born than snails or wingless locusts.
+
+Οὗτος κατ᾽ ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος: 
+
+To begin with, he became a pupil of Gorgias the rhetorician, 
+
+ὅθεν τὸ ῥητορικὸν εἶδος ἐν τοῖς διαλόγοις ἐπιφέρει καὶ μάλιστα ἐν τῇ Ἀληθείᾳ καὶ τοῖς Προτρεπτικοῖς.
+
+and hence the rhetorical style that he introduces in his dialogues, and especially in his Truth and in his Exhortations.
+#### 2
+φησὶ δ᾽ Ἕρμιππος ὅτι προείλετο ἐν τῇ τῶν Ἰσθμίων πανηγύρει ψέξαι τε καὶ ἐπαινέσαι Ἀθηναίους, Θηβαίους, Λακεδαιμονίους: 
+
+According to Hermippus he intended at the public gathering for the Isthmian games to discourse on the faults and merits of Athenians, Thebans and Lacedaemonians,
+
+εἶτα μέντοι παραιτήσασθαι ἰδόντα πλείους ἐκ τῶν πόλεων ἀφιγμένους.
+
+but begged to be excused when he saw throngs arriving from those cities.
+
+Ὕστερον δὲ παρέβαλε Σωκράτει, καὶ τοσοῦτον ὤνατο αὐτοῦ, ὥστε παρῄνει τοῖς μαθηταῖς γενέσθαι αὐτῷ πρὸς Σωκράτην συμμαθητάς. 
+
+Later on, however, he came into touch with Socrates, and derived so much benefit from him that he used to advise his own disciples to become fellow-pupils with him of Socrates. 
+
+οἰκῶν τ᾽ ἐν Πειραιεῖ καθ᾽ ἑκάστην ἡμέραν τοὺς τετταράκοντα σταδίους ἀνιὼν ἤκουε Σωκράτους, παρ᾽ οὗ καὶ τὸ καρτερικὸν λαβὼν καὶ τὸ ἀπαθὲς ζηλώσας κατῆρξε πρῶτος τοῦ κυνισμοῦ. 
+
+He lived in the Peiraeus, and every day would tramp the five miles to Athens in order to hear Socrates. From Socrates he learned his hardihood, emulating his disregard of feeling, and thus he inaugurated the Cynic way of life. 
+
+καὶ ὅτι ὁ πόνος ἀγαθὸν συνέστησε διὰ τοῦ μεγάλου Ἡρακλέους καὶ τοῦ Κύρου, τὸ μὲν ἀπὸ τῶν Ἑλλήνων, τὸ δὲ ἀπὸ τῶν βαρβάρων ἑλκύσας.
+
+He demonstrated that pain is a good thing by instancing the great Heracles and Cyrus, drawing the one example from the Greek world and the other from the barbarians.
 ## c2
 #### 23
 βακτηρίᾳ δ᾽ ἐπεστηρίζετο ἀσθενήσας: 
@@ -433,6 +482,122 @@ One day he saw a woman kneeling before the gods in an ungraceful attitude, and w
 "οὐκ εὐλαβῇ, ὦ γύναι, μή ποτε θεοῦ ὄπισθεν ἑστῶτοσ--πάντα γάρ ἐστιν αὐτοῦ πλήρη--ἀσχημονήσῃς;" 19
 
 "Are you not afraid, my good woman, that a god may be standing behind you ?--for all things are full of his presence--and you may be put to shame ?
+#### 39
+[39] ὁμοίως καὶ πρὸς τὸν εἰπόντα ὅτι κίνησις οὐκ ἔστιν, ἀναστὰς περιεπάτει. 
+
+[39] In like manner, when somebody declared that there is no such thing as motion, he got up and walked about. 
+
+πρὸς τὸν λέγοντα περὶ τῶν μετεώρων, "ποσταῖος," ἔφη, "πάρει ἀπὸ τοῦ οὐρανοῦ;" 
+
+When some one was discoursing on celestial phenomena, "How many days," asked Diogenes, "were you in coming from the sky ?" 
+
+εὐνούχου μοχθηροῦ ἐπιγράψαντος ἐπὶ τὴν οἰκίαν, "μηδὲν εἰσίτω κακόν," "ὁ οὖν κύριος," ἔφη, "τῆς οἰκίας ποῦ εἰσέλθῃ;" 
+
+A eunuch of bad character had inscribed on his door the words, "Let nothing evil enter." "How then," he asked, "is the master of the house to get in ?" 
+
+τῷ μύρῳ τοὺς πόδας ἀλειψάμενος ἔφη ἀπὸ μὲν τῆς κεφαλῆς εἰς τὸν ἀέρα ἀπιέναι τὸ μύρον, ἀπὸ δὲ τῶν ποδῶν εἰς τὴν ὄσφρησιν. 
+
+When he had anointed his feet with unguent, he declared that from his head the unguent passed into the air, but from his feet into his nostrils. 
+
+ἀξιούντων Ἀθηναίων μυηθῆναι αὐτὸν καὶ λεγόντων ὡς ἐν ᾄδου προεδρίας οἱ μεμυημένοι τυγχάνουσι, 
+
+The Athenians urged him to become initiated, and told him that in the other world those who have been initiated enjoy a special privilege. 
+
+"γελοῖον," ἔφη, "εἰ Ἀγησίλαος μὲν καὶ Ἐπαμεινώνδας ἐν τῷ βορβόρῳ διάξουσιν, εὐτελεῖς δέ τινες μεμυημένοι ἐν ταῖς μακάρων νήσοις ἔσονται."
+
+"It would be ludicrous," quoth he, "if Agesilaus and Epaminondas are to dwell in the mire, while certain folk of no account will live in the Isles of the Blest because they have been initiated."
+#### 40
+22 [40] Πρὸς τοὺς ἑρπύσαντας ἐπὶ τὴν τράπεζαν μῦς, "ἰδού," φησί, "καὶ Διογένης παρασίτους τρέφει." 
+
+[40] When mice crept on to the table he addressed them thus, "See now even Diogenes keeps parasites." 
+
+Πλάτωνος εἰπόντος αὐτὸν κύνα, "ναί," ἔφη: "ἐγὼ γὰρ ἐπανῆλθον ἐπὶ τοὺς πεπρακότας." 
+
+When Plato styled him a dog, "Quite true," he said, "for I come back again and again to those who have sold me." 
+
+ἐκ τοῦ βαλανείου ἐξιὼν τῷ μὲν πυθομένῳ εἰ πολλοὶ ἄνθρωποι λοῦνται, ἠρνήσατο: τῷ δ᾽, εἰ πολὺς ὄχλος, ὡμολόγησε. 
+
+As he was leaving the public baths, somebody inquired if many men were bathing. He said, No. But to another who asked if there was a great crowd of bathers, he said, Yes. 
+
+Πλάτωνος ὁρισαμένου, Ἄνθρωπός ἐστι ζῷον δίπουν ἄπτερον, καὶ εὐδοκιμοῦντος, τίλας ἀλεκτρυόνα εἰσήνεγκεν αὐτὸν εἰς τὴν σχολὴν καί φησιν, "οὗτός ἐστιν ὁ Πλάτωνος ἄνθρωπος." 
+
+Plato had defined Man as an animal, biped and featherless, and was applauded. Diogenes plucked a fowl and brought it into the lecture-room with the words, "Here is Plato's man." 
+
+ὅθεν τῷ ὅρῳ προσετέθη τὸ πλατυώνυχον. 
+
+In consequence of which there was added to the definition, "having broad nails." 
+
+πρὸς τὸν πυθόμενον ποίᾳ ὥρᾳ δεῖ ἀριστᾶν, "εἰ μὲν πλούσιος," ἔφη, "ὅταν θέλῃ: εἰ δὲ πένης, ὅταν ἔχῃ.
+
+To one who asked what was the proper time for lunch, he said, "If a rich man, when you will; if a poor man, when you can.
+#### 45
+[45] Θεασάμενός ποτε τοὺς ἱερομνήμονας τῶν ταμιῶν τινα φιάλην ὑφῃρημένον ἀπάγοντας ἔφη, "οἱ μεγάλοι κλέπται τὸν μικρὸν ἀπάγουσι." 
+
+[45] Once he saw the officials of a temple leading away some one who had stolen a bowl belonging to the treasurers, and said, "The great thieves are leading away the little thief." 
+
+θεασάμενός ποτε μειράκιον λίθους βάλλον ἐπὶ σταυρόν, "εὖγε," εἶπε, "τεύξῃ γὰρ τοῦ σκοποῦ." 
+
+Noticing a lad one day throwing stones at a cross (gibbet), "Well done," he said, "you will hit your mark."12 
+
+πρὸς τὰ περιστάντα μειράκια καὶ εἰπόντα, "βλέπωμεν μὴ δάκῃ ἡμᾶς," "θαρρεῖτε," ἔφη, "παιδία: κύων τευτλία οὐκ ἐσθίει." 
+
+When some boys clustered round him and said, "Take care he doesn't bite us," he answered, "Never fear, boys, a dog does not eat beetroot." 
+
+πρὸς τὸν ἐπὶ τῇ λεοντῇ θρυπτόμενον, "παῦσαι," ἔφη, "τὰ τῆς ἀρετῆς στρώματα καταισχύνων." 
+
+To one who was proud of wearing a lion's skin his words were, "Leave off dishonouring the habiliments of courage." 
+
+πρὸς τὸν μακαρίζοντα Καλλισθένην καὶ λέγοντα ὡς πολυτελῶν παρ᾽ Ἀλεξάνδρῳ μετέχει, "κακοδαίμων μὲν οὖν ἐστιν," εἶπεν, "ὃς καὶ ἀριστᾷ καὶ δειπνεῖ ὅταν Ἀλεξάνδρῳ δόξῃ."28 
+
+When some one was extolling the good fortune of Callisthenes and saying what splendour he shared in the suite of Alexander, "Not so," said Diogenes, "but rather ill fortune; for he breakfasts and dines when Alexander thinks fit."
+#### 46
+[46] Χρημάτων δεόμενος ἀπαιτεῖν ἔλεγε τοὺς φίλους, οὐκ αἰτεῖν. 
+
+[46] Being short of money, he told his friends that he applied to them not for alms, but for repayment of his due. 
+
+ἐπ᾽ ἀγορᾶς ποτε χειρουργῶν, "εἴθε," ἔφη, "καὶ τὴν κοιλίαν ἦν παρατρίψαντα μὴ πεινῆν." 
+
+When behaving indecently in the marketplace, he wished it were as easy to relieve hunger by rubbing an empty stomach. 
+
+μειράκιον θεασάμενος μετὰ σατραπῶν ἐπὶ δεῖπνον ἀπιόν, ἀποσπάσας πρὸς τοὺς οἰκείους ἀπήγαγε καὶ ἐκέλευσε τηρεῖν. 
+
+Seeing a youth starting off to dine with satraps, he dragged him off, took him to his friends and bade them keep strict watch over him. 
+
+πρὸς τὸ κεκοσμημένον μειράκιον πυθόμενόν τι ἔφη οὐ πρότερον λέξειν αὐτῷ, εἰ μὴ ἀνασυράμενος δείξειε πότερον γυνή ἐστιν ἢ ἀνήρ. 
+
+When a youth effeminately attired put a question to him, he declined to answer unless he pulled up his robe and showed whether he was man or woman. 
+
+πρὸς τὸ κοτταβίζον ἐν τῷ βαλανείῳ μειράκιόν φησιν, "ὅσῳ βέλτιον, τοσούτῳ χεῖρον." 
+
+A youth was playing cottabos in the baths. Diogenes said to him, "The better you play, the worse it is for you." 
+
+ἐν δείπνῳ προσερρίπτουν αὐτῷ τινες ὀστάρια ὡς κυνί: καὶ ὃς ἀπαλλαττόμενος προσεούρησεν αὐτοῖς ὡς κύων.
+
+At a feast certain people kept throwing all the bones to him as they would have done to a dog.13 Thereupon he played a dog's trick and drenched them.
+#### 52
+Ἰδών ποτε δραπέτην ἐπὶ φρέατι καθήμενον ἔφη, "μειράκιον, βλέπε μὴ ἐμπέσῃς." 
+
+One day seeing a runaway slave sitting on the brink of a well, he said, "Take care, my lad, you don't fall in." 
+
+ἰδὼν [μειρακύλλιον] ἱματιοκλέπτην ἐν τῷ βαλανείῳ ἔφη, "ἐπ᾽ ἀλειμμάτιον ἢ ἐπ᾽ ἄλλ᾽ ἱμάτιον;" 
+
+Seeing a boy taking clothes at the baths, he asked, "Is it for a little unguent ( ἀλειμμ άτιον) or is it for a new cloak (ἄλλ᾽ ἱμάτιον)?" 
+
+ἰδών ποτε γυναῖκας ἀπ᾽ ἐλαίας ἀπηγχονισμένας, "εἴθε γάρ," ἔφη, "πάντα τὰ δένδρα τοιοῦτον καρπὸν ἤνεγκεν." 
+
+Seeing some women hanged from an olive-tree, he said, "Would that every tree bore similar fruit." 
+
+ἰδὼν λωποδύτην ἔφη, τἰπτε σὺ ὧδε, φέριστε; ἦ τινα συλήσων νεκύων κατατεθνηώτων;
+
+On seeing a footpad he accosted him thus: What mak'st thou here, my gallant ? Com'st thou perchance for plunder of the dead?17
+
+ἐρωτηθεὶς εἰ παιδισκάριον ἢ παιδάριον ἔχοι, ἔφη, "οὔ:" τοῦ δὲ εἰπόντος, 
+
+Being asked whether he had any maid or boy to wait on him, he said "No." 
+
+"ἐὰν οὖν ἀποθάνῃς, τίς σε ἐξοίσει;" ἔφη, "ὁ χρῄζων τῆς οἰκίας.
+
+"If you should die, then, who will carry you out to burial ?" "Whoever wants the house," he replied.
 #### 54
 Ἐρωτηθεὶς ὑπό τινος, "ποῖός τίς σοι Διογένης δοκεῖ ;" 
 
@@ -469,6 +634,46 @@ To the question what wine he found pleasant to drink, he replied, "That for whic
 πρὸς τὸν εἰπόντα, "πολλοί σου καταγελῶσιν," "ἀλλ᾽ ἐγώ," ἔφη, "οὐ καταγελῶμαι.
 
 When he was told that many people laughed at him, he made answer, "But I am not laughed down.
+#### 60
+[60] Ἐπανῄει ἀπ᾽ Ὀλυμπίων: πρὸς οὖν τὸν πυθόμενον εἰ ὄχλος εἴη πολύς, "πολὺς μέν," εἶπεν, "ὁ ὄχλος, ὀλίγοι δ᾽ οἱ ἄνθρωποι." 
+
+[60] He was returning from Olympia, and when somebody inquired whether there was a great crowd, "Yes," he said, "a great crowd, but few who could be called men." 
+
+τοὺς ἀσώτους εἶπε παραπλησίους εἶναι συκαῖς ἐπὶ κρημνῷ πεφυκυίαις, ὧν τοῦ καρποῦ ἄνθρωπος μὲν οὐκ ἀπογεύεται, κόρακες δὲ καὶ γῦπες ἐσθίουσι. 
+
+Libertines he compared to figtrees growing upon a cliff: whose fruit is not enjoyed by any man, but is eaten by ravens and vultures. 
+
+Φρύνης Ἀφροδίτην χρυσῆν ἀναθείσης ἐν Δελφοῖς φασὶ τοῦτον ἐπιγράψαι, "ἀπὸ τῆς τῶν Ἑλλήνων ἀκρασίας." 
+
+When Phryne set up a golden statue of Aphrodite in Delphi, Diogenes is said to have written upon it: "From the licentiousness of Greece."
+
+Ἀλεξάνδρου ποτὲ ἐπιστάντος αὐτῷ καὶ εἰπόντος, "ἐγώ εἰμι Ἀλέξανδρος ὁ μέγας βασιλεύς," "κἀγώ," φησί, "Διογένης ὁ κύων." 
+
+Alexander once came and stood opposite him and said, "I am Alexander the great king." "And I," said he, "am Diogenes the Cynic."24 
+
+ἐρωτηθεὶς τί ποιῶν κύων καλεῖται, ἔφη, "τοὺς μὲν διδόντας σαίνων, τοὺς δὲ μὴ διδόντας ὑλακτῶν, τοὺς δὲ πονηροὺς δάκνων."44 
+
+Being asked what he had done to be called a hound, he said, "I fawn on those who give me anything, I yelp at those who refuse, and I set my teeth in rascals."
+#### 61
+[61] Ἀπὸ συκῆς ὠπώριζε: τοῦ δὲ φυλάττοντος εἰπόντος, "αὐτόθεν πρῴην ἄνθρωπος ἀπήγξατο," "ἐγὼ οὖν," φησίν, "αὐτὴν καθαρῶ." 
+
+[61] He was gathering figs, and was told by the keeper that not long before a man had hanged himself on that very fig-tree. "Then," said he, "I will now purge it." 
+
+ἰδὼν Ὀλυμπιονίκην εἰς ἑταίραν πυκνότερον ἀτενίζοντα, "ἴδε," ἔφη, "κριὸν Ἀρειμάνιον ὡς ὑπὸ τοῦ τυχόντος κορασίου τραχηλίζεται." 
+
+Seeing an Olympian victor casting repeated glances at a courtesan, "See," he said, "yonder ram frenzied for battle, how he is held fast by the neck fascinated by a common minx." 
+
+τὰς εὐπρεπεῖς ἑταίρας ἔλεγε θανασίμῳ μελικράτῳ παραπλησίας εἶναι. 
+
+Handsome courtesans he would compare to a deadly honeyed potion. 
+
+ἀριστῶντι αὐτῷ ἐν ἀγορᾷ οἱ περιεστῶτες συνεχὲς ἔλεγον, "κύον:" ὁ δέ, "ὑμεῖς," εἶπεν, "ἐστὲ κύνες, οἵ με ἀριστῶντα περιεστήκατε." δύο μαλακῶν περικρυπτομένων αὐτὸν ἔφη, "μὴ εὐλαβεῖσθε: κύων τευτλία οὐ τρώγει." 
+
+He was breakfasting in the marketplace, and the bystanders gathered round him with cries of "dog." "It is you who are dogs," cried he, "when you stand round and watch me at my breakfast." 
+
+περὶ παιδὸς πεπορνευκότος ἐρωτηθεὶς πόθεν εἴη, "Τεγεάτης," ἔφη. 45
+
+When two cowards hid away from him, he called out, "Don't be afraid, a hound is not fond of beetroot." 
 #### 73
 Μηδέν τε ἄτοπον εἶναι ἐξ ἱεροῦ τι λαβεῖν ἢ τῶν ζῴων τινὸς γεύσασθαι: 
 
@@ -489,6 +694,48 @@ since not only is meat a constituent of bread, but bread of vegetables ; and all
 μουσικῆς τε καὶ γεωμετρικῆς καὶ ἀστρολογίας καὶ τῶν τοιούτων ἀμελεῖν, ὡς ἀχρήστων καὶ οὐκ ἀναγκαίων.
 
 He held that we should neglect music, geometry, astronomy, and the like studies, as useless and unnecessary.
+#### 77
+[77] ἀλλ᾽ ἀνέβα χεῖλος ποτ᾽ ὀδόντας ἐρείσας [καὶ τὸ πνεῦμα συνδακών]. ἦς γὰρ ἀλαθέως Διογένης Ζανὸς γόνος οὐράνιός τε κύων.
+
+[77] But he soared aloft with his lip tightly pressed against his teeth And holding his breath withal. For in truth he was rightly named Diogenes, a true-born son of Zeus, a hound of heaven.
+
+Ἄλλοι φασὶ πολύπουν κυσὶ συμμερίσασθαι βουλόμενον οὕτω δηχθῆναι τοῦ ποδὸς τὸν τένοντα καὶ καταστρέψαι. οἱ μέντοι γνώριμοι αὐτοῦ, καθά φησιν Ἀντισθένης ἐν Διαδοχαῖς, εἴκαζον τὴν τοῦ πνεύματος συγκράτησιν. 
+
+Another version is that, while trying to divide an octopus amongst the dogs, he was so severely bitten on the sinew of the foot that it caused his death. His friends, however, according to Antisthenes in his Successions of Philosophers, conjectured that it was due to the retention of his breath. 
+
+ἐτύγχανε μὲν γὰρ διάγων ἐν τῷ Κρανείῳ τῷ πρὸ τῆς Κορίνθου γυμνασίῳ: 
+
+For he happened to be living in the Craneum, the gymnasium in front of Corinth. 
+
+κατὰ δὲ τὸ ἔθος ἧκον οἱ γνώριμοι καὶ αὐτὸν καταλαμβάνουσιν ἐγκεκαλυμμένον καὶ εἴκασαν αὐτὸν κοιμᾶσθαι: οὐδὲ γὰρ ἦν τις νυσταλέος καὶ ὑπνηλός. 
+
+When his friends came according to custom and found him wrapped up in his cloak, they thought that he must be asleep, although he was by no means of a drowsy or somnolent habit. 
+
+ὅθεν, ἀποπετάσαντες τὸν τρίβωνα ἔκπνουν αὐτὸν καταλαμβάνουσι καὶ ὑπέλαβον τοῦτο πρᾶξαι βουλόμενον λοιπὸν ὑπεξελθεῖν τοῦ βίου.65 
+
+They therefore drew aside his cloak and found that he was dead. This they supposed to have been his deliberate act in order to escape thenceforward from life.
+#### 78
+[78] Ἔνθα καὶ στάσις, ὥς φασιν, ἐγένετο τῶν γνωρίμων, τίνες αὐτὸν θάψουσιν: ἀλλὰ καὶ μέχρι χειρῶν ἦλθον. 
+
+[78] Hence, it is said, arose a quarrel among his disciples as to who should bury him : nay, they even came to blows ; 
+
+ἀφικομένων δὲ τῶν πατέρων καὶ τῶν ὑπερεχόντων, ὑπὸ τούτοις ταφῆναι τὸν ἄνδρα παρὰ τῇ πύλῃ τῇ φερούσῃ εἰς τὸν Ἰσθμόν. 
+
+but, when their fathers and men of influence arrived, under their direction he was buried beside the gate leading to the Isthmus. 
+
+ἐπέστησάν τ᾽ αὐτῷ κίονα καὶ ἐπ᾽ αὐτῷ λίθου Παρίου κύνα. 
+
+Over his grave they set up a pillar and a dog in Parian marble upon it. 
+
+ὕστερον δὲ καὶ οἱ πολῖται αὐτοῦ χαλκαῖς εἰκόσιν ἐτίμησαν αὐτὸν καὶ ἐπέγραψαν οὕτω:
+
+Subsequently his fellow-citizens honoured him with bronze statues, on which these verses were inscribed :
+
+γηράσκει καὶ χαλκὸς ὑπὸ χρόνου, ἀλλὰ σὸν οὔτι κῦδος ὁ πᾶς αἰών, Διόγενες, καθελεῖ:
+
+μοῦνος ἐπεὶ βιοτᾶς αὐτάρκεα δόξαν ἔδειξας θνατοῖς καὶ ζωᾶς οἶμον ἐλαφροτάταν.
+
+Time makes even bronze grow old : but thy glory, Diogenes, all eternity will never destroy. Since thou alone didst point out to mortals the lesson of self-sufficingness and the easiest path of life.33
 # b8
 
 ## c1

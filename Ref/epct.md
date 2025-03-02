@@ -5,6 +5,18 @@ http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0236%3atex
 http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0236%3atext%3ddisc
 ## b3
 ### c15
+##### 8
+[8] οὕτως τινὲς ἰδόντες φιλόσοφον καὶ ἀκούσαντές τινος οὕτως λέγοντος, ὡς Εὐφράτης λέγει （καίτοι τίς οὕτως δύναται εἰπεῖν ὡς ἐκεῖνος;）, θέλουσιν καὶ αὐτοὶ φιλοσοφεῖν. 
+
+Thus some, when they have seen a philosopher, and heard a man speaking like Euphrates,2--though indeed who can speak like him?- have a mind to be philosophers too. 
+##### 9
+[9] ἄνθρωπε, σκέψαι πρῶτον τί ἐστι τὸ πρᾶγμα, εἶτα καὶ τὴν σαυτοῦ φύσιν, τί δύνασαι βαστάσαι. εἰ παλαιστής, ἰδού σου τοὺς ὤμους, τοὺς μηρούς, τὴν ὀσφῦν. 
+
+Consider first, man, what the matter is, and what your own nature is able to bear. If you would be a wrestler, consider your shoulders, your back, your thighs; 
+##### 10
+[10] ἄλλος γὰρ πρὸς ἄλλο τι πέφυκεν. δοκεῖς ὅτι ταῦτα ποιῶν δύνασαι φιλοσοφεῖν; δοκεῖς ὅτι δύνασαι ὡσαύτως ἐσθίειν, ὡσαύτως πίνειν, ὁμοίως ὀργίζεσθαι, ὁμοίως δυσαρεστεῖν;
+
+for different persons are made for different things. Do you think that you can act as you do and be a philosopher; that you can eat, drink, be angry, be discontented, as you are now?
 ##### 11
 [11] ἀγρυπνῆσαι δεῖ, πονῆσαι, νικῆσαί τινας ἐπιθυμίας, ἀπελθεῖν ἀπὸ τῶν οἰκείων, ὑπὸ παιδαρίου καταφρονηθῆναι, ὑπὸ τῶν ἀπαντώντων καταγελασθῆναι, ἐν παντὶ ἔλασσον ἔχειν, ἐν ἀρχῇ, ἐν τιμῇ, ἐν δίκῃ. 
 

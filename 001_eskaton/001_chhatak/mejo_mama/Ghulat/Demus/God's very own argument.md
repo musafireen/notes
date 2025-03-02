@@ -1,11 +1,16 @@
 
+![[surord#8]]
 # no-proof
+
 ## Q:17:95
-![[Qrsi#17:95]]
+![[Qrsi#17:94]]![[Qrsi#17:95]]
 
-## Q:8:33
-![[Qrsi#r8.4.x]]
+## Q:8:32
+![[Qrsi#r8.4.2]]
 
+# Quran-proof
+## Q:29:48
+![[Qrsi#29:48]]![[Qrsi#29:49]]![[Qrsi#29:50]]![[Qrsi#29:51]]![[Qrsi#29.52]]
 # ikhtilaf
 Discrepancy inconsistency
 

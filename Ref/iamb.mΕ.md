@@ -6443,9 +6443,7 @@ Conformably to this, also, the attendants of the Gods are emulous of the self-vi
 
 ### 1
 #### gr
-Τὰ δ’ ἐφεξῆς ἐν οἷς τὴν περὶ τούτων ἄγνοιαν καὶ ἀπάτην, ἀνοσιουργίαν καὶ ἀκαθαρσίαν νενόμικας, προτρέπεις τε ἡμᾶς ἐπὶ τὴν ἀληθῆ περὶ αὐτῶν παράδοσιν, ἔχει
-
-μὲν οὐδεμίαν ἀμφισβήτησιν, ἀλλ’ ὁμολογεῖται παρὰ πᾶσιν ὡσαύτως.
+Τὰ δ’ ἐφεξῆς ἐν οἷς τὴν περὶ τούτων ἄγνοιαν καὶ ἀπάτην, ἀνοσιουργίαν καὶ ἀκαθαρσίαν νενόμικας, προτρέπεις τε ἡμᾶς ἐπὶ τὴν ἀληθῆ περὶ αὐτῶν παράδοσιν, ἔχει μὲν οὐδεμίαν ἀμφισβήτησιν, ἀλλ’ ὁμολογεῖται παρὰ πᾶσιν ὡσαύτως.
 #### en
 In what follows, in which you think that ignorance and deception about these things are impiety and impurity, and in which you exhort us to the true developement of these particulars, is not, indeed, attended with any ambiguity, but is acknowledged by all men.
 #### sn
@@ -6491,7 +6489,7 @@ and because what you assert is rather philosophical and logical, than conformabl
 #### gr
 Ἔστω μὲν γὰρ ἡ ἄγνοια καὶ ἀπάτη πλημμέλεια καὶ ἀσέβεια, οὐ μὴν διὰ τοῦτο ψευδῆ ποιεῖται καὶ τὰ οἰκείως τοῖς θεοῖς προσφερόμενα καὶ τὰ θεῖα ἔργα, οὐδὲ γὰρ ἡ ἔννοια συνάπτει τοῖς θεοῖς τοὺς θεουργούς·
 #### en
-For, let “_ignorance and deception be error and impiety_,” yet it does not follow that, on this account, things which are offered to the Gods, and divine works, are false.
+For, let “_ignorance and deception be error and impiety_,” yet it does not follow that, on this account, things which are offered to the Gods, and divine works, are false. For a conception of the mind does not conjoin theurgists with the Gods;
 #### sn
 Ἔστω μὲν γὰρ ἡ ἄγνοια καὶ ἀπάτη πλημμέλεια καὶ ἀσέβεια, οὐ μὴν διὰ τοῦτο ψευδῆ ποιεῖται καὶ τὰ οἰκείως τοῖς θεοῖς προσφερόμενα καὶ τὰ θεῖα ἔργα, οὐδὲ γὰρ ἡ ἔννοια συνάπτει τοῖς θεοῖς τοὺς θεουργούς·
 #### ar
@@ -6501,7 +6499,7 @@ For, let “_ignorance and deception be error and impiety_,” yet it does not f
 #### gr
 ἐπεὶ τί ἐκώλυε τοὺς θεωρητικῶς φιλοσοφοῦντας ἔχειν τὴν θεουργικὴν ἕνωσιν πρὸς τοὺς θεούς;
 #### en
-For a conception of the mind does not conjoin theurgists with the Gods;
+since, if this were the case, what would hinder those who philosophize theoretically, from having a theurgic union with the Gods?
 #### sn
 ἐπεὶ τί ἐκώλυε τοὺς θεωρητικῶς φιλοσοφοῦντας ἔχειν τὴν θεουργικὴν ἕνωσιν πρὸς τοὺς θεούς;
 #### ar
@@ -6511,7 +6509,7 @@ For a conception of the mind does not conjoin theurgists with the Gods;
 #### gr
 νῦν δὲ οὐκ ἔχει τό γε ἀληθὲς οὕτως.
 #### en
-since, if this were the case, what would hinder those who philosophize theoretically, from having a theurgic union with the Gods?
+Now, however, in reality, this is not the case.
 #### sn
 νῦν δὲ οὐκ ἔχει τό γε ἀληθὲς οὕτως.
 #### ar
@@ -6519,11 +6517,9 @@ since, if this were the case, what would hinder those who philosophize theoretic
 
 ### 8
 #### gr
-ἀλλ’ ἡ τῶν ἔργων τῶν ἀρρήτων καὶ ὑπὲρ πᾶσαν νόησιν θεοπρεπῶς ἐνεργουμένων τελεσιουργία ἡ τε τῶν νοουμένων τοῖς θεοῖς μόνοις συμβόλων ἀφθέγκτων δύ
-
-ναμις ἐντίθησι τὴν θεουργικὴν ἕνωσιν.
+ἀλλ’ ἡ τῶν ἔργων τῶν ἀρρήτων καὶ ὑπὲρ πᾶσαν νόησιν θεοπρεπῶς ἐνεργουμένων τελεσιουργία ἡ τε τῶν νοουμένων τοῖς θεοῖς μόνοις συμβόλων ἀφθέγκτων δύναμις ἐντίθησι τὴν θεουργικὴν ἕνωσιν.
 #### en
-Now, however, in reality, this is not the case.
+For the perfect efficacy of ineffable works, which are divinely performed in a way surpassing all intelligence, and the power of inexplicable symbols, which are known only to the Gods, impart theurgic union.
 #### sn
 ἀλλ’ ἡ τῶν ἔργων τῶν ἀρρήτων καὶ ὑπὲρ πᾶσαν νόησιν θεοπρεπῶς ἐνεργουμένων τελεσιουργία ἡ τε τῶν νοουμένων τοῖς θεοῖς μόνοις συμβόλων ἀφθέγκτων δύ
 
@@ -6537,7 +6533,7 @@ Now, however, in reality, this is not the case.
 #### gr
 διόπερ οὐδὲ τῷ νοεῖν αὐτὰ ἐνεργοῦμεν·
 #### en
-For the perfect efficacy of ineffable works, which are divinely performed in a way surpassing all intelligence, and the power of inexplicable symbols, which are known only to the Gods, impart theurgic union.
+Hence, we do not perform these things through intellectual perception;
 #### sn
 διόπερ οὐδὲ τῷ νοεῖν αὐτὰ ἐνεργοῦμεν·
 #### ar
@@ -6547,7 +6543,7 @@ For the perfect efficacy of ineffable works, which are divinely performed in a w
 #### gr
 ἔσται γὰρ οὕτω νοερὰ αὐτῶν ἡ ἐνέργεια καὶ ἀφ’ ἡμῶν ἐνδιδομένη·
 #### en
-Hence, we do not perform these things through intellectual perception;
+since, if this were the case, the intellectual energy of them would be imparted by us;
 #### sn
 ἔσται γὰρ οὕτω νοερὰ αὐτῶν ἡ ἐνέργεια καὶ ἀφ’ ἡμῶν ἐνδιδομένη·
 #### ar
@@ -6557,7 +6553,7 @@ Hence, we do not perform these things through intellectual perception;
 #### gr
 τὸ δ’ οὐδέτερόν ἐστιν ἀληθές.
 #### en
-since, if this were the case, the intellectual energy of them would be imparted by us;
+neither of which is true.
 #### sn
 τὸ δ’ οὐδέτερόν ἐστιν ἀληθές.
 #### ar
@@ -6567,7 +6563,7 @@ since, if this were the case, the intellectual energy of them would be imparted 
 #### gr
 καὶ γὰρ μὴ νοούντων ἡμῶν αὐτὰ τὰ συνθήματα ἀφ’ ἑαυτῶν δρᾷ τὸ οἰκεῖον ἔργον, καὶ ἡ τῶν θεῶν, πρὸς οὓς ἀνήκει ταῦτα, ἄρρητος δύναμις αὐτὴ ἀφ’ ἑαυτῆς ἐπιγινώσκει τὰς οἰκείας εἰκόνας, ἀλλ’ οὐ τῷ διεγείρεσθαι ὑπὸ τῆς ἡμετέρας νοήσεως·
 #### en
-neither of which is true.
+For when we do not energize intellectually, the _synthemata_[47] themselves perform by themselves their proper work, and the ineffable power of the Gods itself knows, by itself, its own images. It does not, however, know them, as if excited by our intelligence;
 #### sn
 καὶ γὰρ μὴ νοούντων ἡμῶν αὐτὰ τὰ συνθήματα ἀφ’ ἑαυτῶν δρᾷ τὸ οἰκεῖον ἔργον, καὶ ἡ τῶν θεῶν, πρὸς οὓς ἀνήκει ταῦτα, ἄρρητος δύναμις αὐτὴ ἀφ’ ἑαυτῆς ἐπιγινώσκει τὰς οἰκείας εἰκόνας, ἀλλ’ οὐ τῷ διεγείρεσθαι ὑπὸ τῆς ἡμετέρας νοήσεως·
 #### ar
@@ -6577,7 +6573,7 @@ neither of which is true.
 #### gr
 οὐδὲ γὰρ ἔχει φύσιν τὰ περιέχοντα ὑπὸ τῶν περιεχομένων οὐδὲ τὰ τέλεια ὑπὸ τῶν ἀτελῶν οὐδ’ ὑπὸ τῶν μερῶν τὰ ὅλα ἀνακινεῖσθαι.
 #### en
-For when we do not energize intellectually, the _synthemata_[47] themselves perform by themselves their proper work, and the ineffable power of the Gods itself knows, by itself, its own images.
+for neither is it natural that things which comprehend should be excited by those that are comprehended, nor perfect by imperfect natures, nor wholes by parts.
 #### sn
 οὐδὲ γὰρ ἔχει φύσιν τὰ περιέχοντα ὑπὸ τῶν περιεχομένων οὐδὲ τὰ τέλεια ὑπὸ τῶν ἀτελῶν οὐδ’ ὑπὸ τῶν μερῶν τὰ ὅλα ἀνακινεῖσθαι.
 #### ar
@@ -6587,7 +6583,7 @@ For when we do not energize intellectually, the _synthemata_[47] themselves perf
 #### gr
 ὅθεν δὴ οὐδ’ ὑπὸ τῶν ἡμετέρων νοήσεων προηγουμένως τὰ θεῖα αἴτια προκαλεῖται εἰς ἐνέργειαν·
 #### en
-It does not, however, know them, as if excited by our intelligence;
+Hence, neither are divine causes precedaneously called into energy by our intellections;
 #### sn
 ὅθεν δὴ οὐδ’ ὑπὸ τῶν ἡμετέρων νοήσεων προηγουμένως τὰ θεῖα αἴτια προκαλεῖται εἰς ἐνέργειαν·
 #### ar
@@ -6597,7 +6593,7 @@ It does not, however, know them, as if excited by our intelligence;
 #### gr
 ἀλλὰ ταύτας μὲν καὶ τὰς ὅλας τῆς ψυχῆς ἀρίστας διαθέσεις καὶ τὴν περὶ ἡμᾶς καθαρότητα ὡς συναίτια ἄττα προϋποκεῖσθαι χρή, τὰ δ’ ὡς κυρίως ἐγείροντα τὴν θείαν θέλησιν αὐτὰ τὰ θεῖά ἐστι συνθήματα·
 #### en
-for neither is it natural that things which comprehend should be excited by those that are comprehended, nor perfect by imperfect natures, nor wholes by parts.
+but it is requisite to consider these, and all the best dispositions of the soul, and also the purity pertaining to us, as certain concauses; the things which properly excite the divine will being divine synthemata themselves.
 #### sn
 ἀλλὰ ταύτας μὲν καὶ τὰς ὅλας τῆς ψυχῆς ἀρίστας διαθέσεις καὶ τὴν περὶ ἡμᾶς καθαρότητα ὡς συναίτια ἄττα προϋποκεῖσθαι χρή, τὰ δ’ ὡς κυρίως ἐγείροντα τὴν θείαν θέλησιν αὐτὰ τὰ θεῖά ἐστι συνθήματα·
 #### ar
@@ -6607,7 +6603,7 @@ for neither is it natural that things which comprehend should be excited by thos
 #### gr
 καὶ οὕτως τὰ τῶν θεῶν αὐτὰ ὑφ’ ἑαυτῶν ἀνακινεῖται, ὑπ’ οὐδενὸς τῶν ὑποδεεστέρων ἐνδεχόμενά τινα εἰς ἑαυτὰ ἀρχὴν τῆς οἰκείας ἐνεργείας.
 #### en
-Hence, neither are divine causes precedaneously called into energy by our intellections;
+And thus, things pertaining to the Gods, are moved by themselves, and do not receive from any inferior nature a certain principle in themselves of their own proper energy.
 #### sn
 καὶ οὕτως τὰ τῶν θεῶν αὐτὰ ὑφ’ ἑαυτῶν ἀνακινεῖται, ὑπ’ οὐδενὸς τῶν ὑποδεεστέρων ἐνδεχόμενά τινα εἰς ἑαυτὰ ἀρχὴν τῆς οἰκείας ἐνεργείας.
 #### ar
@@ -6617,7 +6613,7 @@ Hence, neither are divine causes precedaneously called into energy by our intell
 #### gr
 Ταῦτα δὴ τοῦδε ἕνεκα ἀπεμήκυνα, ὅπως μὴ νομίζῃς ἀφ’ ἡμῶν εἶναι τὸ πᾶν κῦρος τῆς ἐν ταῖς θεουργίαις ἐνεργείας, μηδ’ ἐν ταῖς ἐννοίαις ταῖς ἡμετέραις ἀληθῶς διακειμέναις ὑπολάβῃς καὶ τὸ ἀληθὲς αὐτῶν ἔργον κατορθοῦσθαι, μηδ’ ἐν τῇ ἀπάτῃ διαψεύδεσθαι.
 #### en
-but it is requisite to consider these, and all the best dispositions of the soul, and also the purity pertaining to us, as certain concauses;
+I have, however, been thus prolix, in order that you may not think all the authority of the energy in theurgic operations is in our power, and that you may not suppose the true work of them consists in our conceptions, or the falsehood of them in our deception.
 #### sn
 Ταῦτα δὴ τοῦδε ἕνεκα ἀπεμήκυνα, ὅπως μὴ νομίζῃς ἀφ’ ἡμῶν εἶναι τὸ πᾶν κῦρος τῆς ἐν ταῖς θεουργίαις ἐνεργείας, μηδ’ ἐν ταῖς ἐννοίαις ταῖς ἡμετέραις ἀληθῶς διακειμέναις ὑπολάβῃς καὶ τὸ ἀληθὲς αὐτῶν ἔργον κατορθοῦσθαι, μηδ’ ἐν τῇ ἀπάτῃ διαψεύδεσθαι.
 #### ar
@@ -6627,7 +6623,7 @@ but it is requisite to consider these, and all the best dispositions of the soul
 #### gr
 οὐδὲ γὰρ ἐὰν γνῶμεν τὰ ἑκάστῳ γένει παρακολουθοῦντα ἴδια, ἤδη καὶ τετυχήκαμεν αὐτῶν τῆς ἐπὶ τῶν ἔργων ἀληθείας.
 #### en
-the things which properly excite the divine will being divine synthemata themselves.
+For though we may know the peculiarities which are consequent to each genus, yet we may not obtain the truth which is in their works.
 #### sn
 οὐδὲ γὰρ ἐὰν γνῶμεν τὰ ἑκάστῳ γένει παρακολουθοῦντα ἴδια, ἤδη καὶ τετυχήκαμεν αὐτῶν τῆς ἐπὶ τῶν ἔργων ἀληθείας.
 #### ar
@@ -6637,7 +6633,7 @@ the things which properly excite the divine will being divine synthemata themsel
 #### gr
 ἀλλ’ οὐκ ἄνευ μὲν τοῦ γνῶναι παραγίνεταί ποτε ἡ δραστικὴ ἕνωσις, οὐ μὴν ἔχει γε πρὸς αὐτὴν ταὐτότητα·
 #### en
-And thus, things pertaining to the Gods, are moved by themselves, and do not receive from any inferior nature a certain principle in themselves of their own proper energy.
+Nevertheless, efficacious union [with divine natures] is not effected without knowledge; yet knowledge does not possess a sameness with this union.
 #### sn
 ἀλλ’ οὐκ ἄνευ μὲν τοῦ γνῶναι παραγίνεταί ποτε ἡ δραστικὴ ἕνωσις, οὐ μὴν ἔχει γε πρὸς αὐτὴν ταὐτότητα·
 #### ar
@@ -6647,7 +6643,7 @@ And thus, things pertaining to the Gods, are moved by themselves, and do not rec
 #### gr
 ὥστε οὐδ’ ἡ καθαρότης ἡ θεία διὰ τῆς ὀρθῆς γνώσεως, ὥσπερ οὐδὲ ἡ τοῦ σώματος διὰ τῆς ὑγιείας, ἀλλὰ καὶ τοῦ γινώσκειν μᾶλλον ὑπερήνωται αὕτη καὶ ἀποκεκάθαρται.
 #### en
-I have, however, been thus prolix, in order that you may not think all the authority of the energy in theurgic operations is in our power, and that you may not suppose the true work of them consists in our conceptions, or the falsehood of them in our deception.
+So that neither is divine purity obtained through right knowledge, as neither is purity of body procured through health; but divine purity is more undefiled than knowledge, and is more transcendently united. 
 #### sn
 ὥστε οὐδ’ ἡ καθαρότης ἡ θεία διὰ τῆς ὀρθῆς γνώσεως, ὥσπερ οὐδὲ ἡ τοῦ σώματος διὰ τῆς ὑγιείας, ἀλλὰ καὶ τοῦ γινώσκειν μᾶλλον ὑπερήνωται αὕτη καὶ ἀποκεκάθαρται.
 #### ar
@@ -6657,7 +6653,7 @@ I have, however, been thus prolix, in order that you may not think all the autho
 #### gr
 οὐδὲ ἄλλο τοίνυν οὐδὲν τῶν ἐν ἡμῖν τοιοῦτον ὑπάρχον, ὁποῖα τὰ ἀνθρώπινα, συνεργεῖ τε πρὸς τὸ τέλος τῶν θείων πράξεων.
 #### en
-For though we may know the peculiarities which are consequent to each genus, yet we may not obtain the truth which is in their works.
+Hence neither this, nor any thing of the like kind which is in us, and is human, cooperates any thing to the end of divine actions. 
 #### sn
 οὐδὲ ἄλλο τοίνυν οὐδὲν τῶν ἐν ἡμῖν τοιοῦτον ὑπάρχον, ὁποῖα τὰ ἀνθρώπινα, συνεργεῖ τε πρὸς τὸ τέλος τῶν θείων πράξεων.
 #### ar
@@ -6667,7 +6663,7 @@ For though we may know the peculiarities which are consequent to each genus, yet
 #### gr
 Δέχου δὴ καὶ τοῦτο ἐν παρέργῳ μὲν εἰρημένον, πρὸς ὅλην δὲ τὴν ἐπίνοιαν τὴν σὴν περὶ τῆς θεουργικῆς τέχνης ἱκανῶς ἐνιστάμενον.
 #### en
-Nevertheless, efficacious union [with divine natures] is not effected without knowledge;
+Accept, therefore, this, which is said indeed incidentally, but is a sufficient reply to the whole of your conception concerning the theurgic art. 
 #### sn
 Δέχου δὴ καὶ τοῦτο ἐν παρέργῳ μὲν εἰρημένον, πρὸς ὅλην δὲ τὴν ἐπίνοιαν τὴν σὴν περὶ τῆς θεουργικῆς τέχνης ἱκανῶς ἐνιστάμενον.
 #### ar
@@ -6675,25 +6671,19 @@ Nevertheless, efficacious union [with divine natures] is not effected without kn
 
 ### 23
 #### gr
-τῆς δὲ αὐτῆς ἔχεται τούτοις
-
-δυνάμεως κἀκεῖνα, ἐν οἷς ὅσιον καὶ ὠφέ λιμον εἶναι νενόμικας τὴν περὶ θεῶν ἐπιστήμην, καὶ τὸ μὲν τῆς ἀγνοίας τῆς περὶ τῶν τιμίων καὶ καλῶν σκότος καλεῖς, φῶς δὲ τὸ τῆς γνώσεως·
+τῆς δὲ αὐτῆς ἔχεται τούτοις δυνάμεως κἀκεῖνα, ἐν οἷς ὅσιον καὶ ὠφέ λιμον εἶναι νενόμικας τὴν περὶ θεῶν ἐπιστήμην, καὶ τὸ μὲν τῆς ἀγνοίας τῆς περὶ τῶν τιμίων καὶ καλῶν σκότος καλεῖς, φῶς δὲ τὸ τῆς γνώσεως·
 #### en
-yet knowledge does not possess a sameness with this union.
+Those assertions, also, of yours pertain to the same thing, in which you say, “_that the science of the Gods is sacred and useful, and call the ignorance of things honourable and beautiful darkness, but the knowledge of them light; 
 #### sn
-τῆς δὲ αὐτῆς ἔχεται τούτοις
-
-δυνάμεως κἀκεῖνα, ἐν οἷς ὅσιον καὶ ὠφέ λιμον εἶναι νενόμικας τὴν περὶ θεῶν ἐπιστήμην, καὶ τὸ μὲν τῆς ἀγνοίας τῆς περὶ τῶν τιμίων καὶ καλῶν σκότος καλεῖς, φῶς δὲ τὸ τῆς γνώσεως·
+τῆς δὲ αὐτῆς ἔχεται τούτοις δυνάμεως κἀκεῖνα, ἐν οἷς ὅσιον καὶ ὠφέ λιμον εἶναι νενόμικας τὴν περὶ θεῶν ἐπιστήμην, καὶ τὸ μὲν τῆς ἀγνοίας τῆς περὶ τῶν τιμίων καὶ καλῶν σκότος καλεῖς, φῶς δὲ τὸ τῆς γνώσεως·
 #### ar
-τῆς δὲ αὐτῆς ἔχεται τούτοις
-
-δυνάμεως κἀκεῖνα, ἐν οἷς ὅσιον καὶ ὠφέ λιμον εἶναι νενόμικας τὴν περὶ θεῶν ἐπιστήμην, καὶ τὸ μὲν τῆς ἀγνοίας τῆς περὶ τῶν τιμίων καὶ καλῶν σκότος καλεῖς, φῶς δὲ τὸ τῆς γνώσεως·
+τῆς δὲ αὐτῆς ἔχεται τούτοις δυνάμεως κἀκεῖνα, ἐν οἷς ὅσιον καὶ ὠφέ λιμον εἶναι νενόμικας τὴν περὶ θεῶν ἐπιστήμην, καὶ τὸ μὲν τῆς ἀγνοίας τῆς περὶ τῶν τιμίων καὶ καλῶν σκότος καλεῖς, φῶς δὲ τὸ τῆς γνώσεως·
 
 ### 24
 #### gr
 καὶ τὸ μὲν ἐμπλῆσαι τίθεσαι πάντων κακῶν τοὺς ἀνθρώπους δι’ ἀμαθίαν καὶ τόλμαν, τὸ δ’ αἴτιον ἡγῇ πάντων ἀγαθῶν.
 #### en
-So that neither is divine purity obtained through right knowledge, as neither is purity of body procured through health;
+and also add, that the ignorance of these things fills men with all evils, through inerudition and audacity, but the knowledge of them is the cause of all good_. ” 
 #### sn
 καὶ τὸ μὲν ἐμπλῆσαι τίθεσαι πάντων κακῶν τοὺς ἀνθρώπους δι’ ἀμαθίαν καὶ τόλμαν, τὸ δ’ αἴτιον ἡγῇ πάντων ἀγαθῶν.
 #### ar
@@ -6703,7 +6693,7 @@ So that neither is divine purity obtained through right knowledge, as neither is
 #### gr
 καὶ γὰρ πάντα πρὸς τὸ αὐτὸ τείνει τοῖς ἔμπροσθεν εἰρημένοις, τετύχηκέ τε λόγου τοῦ προσήκοντος μετ’ ἐκείνων.
 #### en
-but divine purity is more undefiled than knowledge, and is more transcendently united.
+For all these assertions tend to the same thing with the preceding, and obtain together with them an appropriate discussion. 
 #### sn
 καὶ γὰρ πάντα πρὸς τὸ αὐτὸ τείνει τοῖς ἔμπροσθεν εἰρημένοις, τετύχηκέ τε λόγου τοῦ προσήκοντος μετ’ ἐκείνων.
 #### ar
@@ -6713,7 +6703,7 @@ but divine purity is more undefiled than knowledge, and is more transcendently u
 #### gr
 δεῖ τοίνυν ταῦτα μὲν παραλιπεῖν, ἐπὶ δὲ τὰς περὶ τῆς μαντικῆς ζητήσεις μετελθεῖν, καὶ ταύτας διαλῦσαι συντόμως.
 #### en
-Hence neither this, nor any thing of the like kind which is in us, and is human, cooperates any thing to the end of divine actions. Accept, therefore, this, which is said indeed incidentally, but is a sufficient reply to the whole of your conception concerning the theurgic art. Those assertions, also, of yours pertain to the same thing, in which you say, “_that the science of the Gods is sacred and useful, and call the ignorance of things honourable and beautiful darkness, but the knowledge of them light; and also add, that the ignorance of these things fills men with all evils, through inerudition and audacity, but the knowledge of them is the cause of all good_. ” For all these assertions tend to the same thing with the preceding, and obtain together with them an appropriate discussion. It is necessary, therefore to omit them, and to pass on to the inquiries concerning divination, and concisely dissolve them.
+It is necessary, therefore to omit them, and to pass on to the inquiries concerning divination, and concisely dissolve them.
 #### sn
 δεῖ τοίνυν ταῦτα μὲν παραλιπεῖν, ἐπὶ δὲ τὰς περὶ τῆς μαντικῆς ζητήσεις μετελθεῖν, καὶ ταύτας διαλῦσαι συντόμως.
 #### ar

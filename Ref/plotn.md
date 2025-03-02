@@ -3,7 +3,9 @@ https://www.gutenberg.org/files/42930/42930-h/42930-h.htm
 # enn
 https://www.hs-augsburg.de/~harsch/graeca/Chronologia/S_post03/Plotinos/plo_enne.html
 
-http://classics.mit.edu/Plotinus/enneads.5.fifth.html
+https://sacred-texts.com/cla/plotenn/index.htm
+
+http://classics.mit.edu/Plotinus/enneads.html
 ## c5
 
 ### s1
@@ -35,3 +37,89 @@ TO THE THREE PRINCIPLES IN THE UNIVERSE MUST CORRESPOND THREE PRINCIPLES IN US.
 
 10
 Above existence, therefore, is the One. This has by us been proved as far as could reasonably be expected, and as far as such subjects admit of demonstration. In the second rank are Existence and Intelligence; in the third, the Soul. But if these three principles, the One, Intelligence, and the Soul, as we have said, obtain in nature, three principles must also obtain within us. I do not mean that these three principles are in sense-objects, for they are separate therefrom; they are outside of the sense-world, as the three divine principles are outside of the celestial sphere, and, according to Plato's expression,254 they constitute the "the interior man." Our soul, therefore, is something divine; it has a nature different (from sense-nature), which conforms to that of the universal Soul. Now the perfect Soul possesses intelligence; but we must distinguish between the intelligence that reasons (the discursive reason), and the Intelligence that furnishes the principles of reasoning (pure intelligence). The discursive reason of the soul has no need, for operation, of any bodily organ;255 in its operations, it190 preserves all its purity, so that it is capable of reasoning purely. When separated from the body, it must, without any hesitation, be ranked with highest intellectual entities. There is no need of locating it in space; for, if it exist within itself, outside of body, in an immaterial condition, it is evidently not mingled with the body, and has none of its nature. Consequently Plato256 says, "The divinity has spread the Soul around the world." What he here means is that a part of the Soul remains in the intelligible world. Speaking of our soul he also says, "she hides her head in heaven."257 He also advises us to wean the soul from the body; and he does not refer to any local separation, which nature alone could establish. He means that the soul must not incline towards the body, must not abandon herself to the phantoms of imagination, and must not, thus, become alienated from reason. He means that the soul should try to elevate to the intelligible world her lower part which is established in the sense-world, and which is occupied in fashioning the body.258
+### s8
+#### 9
+Τοῦτον τοίνυν τὸν κόσμον, ἑκάστου τῶν μερῶν μένοντος ὅ ἐστι καὶ μὴ συγχεομένου, λάβωμεν τῆι διανοίαι, εἰς ἓν ὁμοῦ πάντα, ὡς οἷόν τε, ὥστε ἑνὸς ὁτουοῦν προφαινομένου, οἷον τῆς ἔξω σφαίρας οὔσης, ἀκολουθεῖν εὐθὺς καὶ τὴν ἡλίου καὶ ὁμοῦ τῶν ἄλλων ἄστρων τὴν φαντασίαν, καὶ γῆν καὶ θάλασσαν καὶ πάντα τὰ ζῶια ὁρᾶσθαι, οἷον ἐπὶ σφαίρας διαφανοῦς καὶ ἔργωι ἂν γένοιτο πάντα ἐνορᾶσθαι. 
+
+Let us, then, make a mental picture of our universe: each member shall remain what it is, distinctly apart; yet all is to form, as far as possible, a complete unity so that whatever comes into view, say the outer orb of the heavens, shall bring immediately with it the vision, on the one plane, of the sun and of all the stars, with earth and sea and all living things as if exhibited upon a transparent globe.
+
+Ἔστω οὖν ἐν τῆι ψυχῆι φωτεινή τις φαντασία σφαίρας ἔχουσα πάντα ἐν αὐτῆι, εἴτε κινούμενα εἴτε ἑστηκότα, ἢ τὰ μὲν κινούμενα, τὰ δ᾽ ἑστηκότα. 
+
+Bring this vision actually before your sight, so that there shall be in your mind the gleaming representation of a sphere, a picture holding all the things of the universe moving or in repose or (as in reality) some at rest, some in motion. 
+
+Φυλάττων δὲ ταύτην ἄλλην παρὰ σαυτῶι ἀφελὼν τὸν ὄγκον λάβε· ἄφελε δὲ καὶ τοὺς τόπους καὶ τὸ τῆς ὕλης ἐν σοὶ φάντασμα, καὶ μὴ πειρῶ αὐτῆς ἄλλην σμικροτέραν λαβεῖν τῶι ὄγκωι, θεὸν δὲ καλέσας τὸν πεποιηκότα ἧς ἔχεις τὸ φάντασμα εὖξαι ἐλθεῖν. 
+
+Keep this sphere before you, and from it imagine another, a sphere stripped of magnitude and of spatial differences; cast out your inborn sense of Matter, taking care not merely to attenuate it: call on God, maker of the sphere whose image you now hold, and pray Him to enter. 
+
+Ὁ δὲ ἥκοι τὸν αὐτοῦ κόσμον φέρων μετὰ πάντων τῶν ἐν αὐτῶι θεῶν εἷς ὢν καὶ πάντες, καὶ ἕκαστος πάντες συνόντες εἰς ἕν, καὶ ταῖς μὲν δυνάμεσιν ἄλλοι, τῆι δὲ μιᾶι ἐκείνηι τῆι πολλῆι πάντες εἷς· 
+
+And may He come bringing His own Universe with all the gods that dwell in it—He who is the one God and all the gods, where each is all, blending into a unity, distinct in powers but all one god in virtue of that one divine power of many facets.
+
+μᾶλλον δὲ ὁ εἷς πάντες· 
+
+More truly, this is the one God who is all the gods; 
+
+οὐ γὰρ ἐπιλείπει αὐτός, ἢν πάντες ἐκεῖνοι γένωνται· 
+
+for, in the coming to be of all those, this, the one, has suffered no diminishing. 
+
+ὁμοῦ δέ εἰσι καὶ ἕκαστος χωρὶς αὖ ἐν στάσει ἀδιαστάτωι οὐ μορφὴν αἰσθητὴν οὐδεμίαν ἔχων – 
+
+He and all have one existence while each again is distinct. It is distinction by state without interval: 
+
+ἤδη γὰρ ἂν ὁ μὲν ἄλλοθι, ὁ δέ που ἀλλαχόθι ἦν, καὶ ἕκαστος δὲ οὐ πᾶς ἐν αὐτῶι – 
+
+there is no outward form to set one here and another there and to prevent any from being an entire identity; 
+
+οὐδὲ μέρη ἄλλα ἔχων ἄλλοις ἢ αὐτῶι, οὐδὲ ἕκαστον οἷον δύναμις κερματισθεῖσα καὶ τοσαύτη οὖσα, ὅσα τὰ μέρη μετρούμενα. 
+
+yet there is no sharing of parts from one to another. Nor is each of those divine wholes a power in fragment, a power totalling to the sum of the measurable segments: 
+
+Τὸ δέ ἐστι [τὸ πᾶν] δύναμις πᾶσα, εἰς ἄπειρον μὲν ἰοῦσα, εἰς ἄπειρον δὲ δυναμένη· 
+
+the divine is one all-power, reaching out to infinity, powerful to infinity; 
+
+καὶ οὕτως ἐστὶν ἐκεῖνος μέγας, ὡς καὶ τὰ μέρη αὐτοῦ ἄπειρα γεγονέναι. 
+
+and so great is God that his very members are infinites. 
+
+Ποῦ γάρ τι ἔστιν εἰπεῖν, ὅπου μὴ φθάνει; 
+
+What place can be named to which He does not reach?
+
+Μέγας μὲν οὖν καὶ ὅδε ὁ οὐρανὸς καὶ αἱ ἐν αὐτῶι πᾶσαι δυνάμεις ὁμοῦ, ἀλλὰ μείζων ἂν ἦν καὶ ὁπόσος οὐδ᾽ ἂν ἦν εἰπεῖν, εἰ μή τις αὐτῶι συνῆν σώματος δύναμις μικρά. 
+
+Great, too, is this firmament of ours and all the powers constellated within it, but it would be greater still, unspeakably, but that there is inbound in it something of the petty power of body; 
+
+Καίτοι μεγάλας ἄν τις φήσειε πυρὸς καὶ τῶν ἄλλων σωμάτων τὰς δυνάμεις· ἀλλὰ ἤδη ἀπειρίαι δυνάμεως ἀληθινῆς φαντάζονται καίουσαι καὶ φθείρουσαι καὶ θλίβουσαι καὶ πρὸς γένεσιν τῶν ζώιων ὑπουργοῦσαι. 
+
+no doubt the powers of fire and other bodily substances might themselves be thought very great, but in fact, it is through their failure in the true power that we see them burning, destroying, wearing things away, and slaving towards the production of life; 
+
+Ἀλλὰ ταῦτα μὲν φθείρει, ὅτι καὶ φθείρεται, καὶ συγγεννᾶι, ὅτι καὶ αὐτὰ γίνεται· 
+
+they destroy because they are themselves in process of destruction, and they produce because they belong to the realm of the produced.
+
+ἡ δὲ δύναμις ἡ ἐκεῖ μόνον τὸ εἶναι ἔχει καὶ μόνον τὸ καλὸν εἶναι. 
+
+The power in that other world has merely Being and Beauty of Being. 
+
+Ποῦ γὰρ ἂν εἴη τὸ καλὸν ἀποστερηθὲν τοῦ εἶναι; Ποῦ δ᾽ ἂν ἡ οὐσία τοῦ καλὸν εἶναι ἐστερημένη; 
+
+Beauty without Being could not be, nor Being voided of Beauty: 
+
+Ἐν τῶι γὰρ ἀπολειφθῆναι τοῦ καλοῦ ἐλλείπει καὶ τῆι οὐσίαι. 
+
+abandoned of Beauty, Being loses something of its essence. 
+
+Διὸ καὶ τὸ εἶναι ποθεινόν ἐστιν, ὅτι ταὐτὸν τῶι καλῶι, καὶ τὸ καλὸν ἐράσμιον, ὅτι τὸ εἶναι. 
+
+Being is desirable because it is identical with Beauty; and Beauty is loved because it is Being. 
+
+Πότερον δὲ ποτέρου αἴτιον τί χρὴ ζητεῖν οὔσης τῆς φύσεως μιᾶς; 
+
+How then can we debate which is the cause of the other, where the nature is one? 
+
+Ἥδε μὲν γὰρ ἡ ψευδὴς οὐσία δεῖται ἐπακτοῦ εἰδώλου καλοῦ, ἵνα καὶ καλὸν φαίνηται καὶ ὅλως ἦι, καὶ κατὰ τοσοῦτόν ἐστι, καθόσον μετείληφε κάλλους τοῦ κατὰ τὸ εἶδος, καὶ λαβοῦσα, ὅσωι ἂν λάβηι, μᾶλλον τελειοτέρα· μᾶλλον γὰρ οὐσία ἧι καλή.
+
+The very figment of Being needs some imposed image of Beauty to make it passable and even to ensure its existence; it exists to the degree in which it has taken some share in the beauty of Idea; and the more deeply it has drawn on this, the less imperfect it is, precisely because the nature which is essentially the beautiful has entered into it the more intimately.
+
