@@ -203,13 +203,22 @@ Tamil
 ஆயிரம் āyira সহস্র 
 திவ்விய tivviya দিব্য
 பிரபந்தம் pirapantam প্রবন্ধ
-### pacuram
+
+### tiruvaymoli
+திருவாய்மொழி tiruvāymoḷi
+திரு tiru শ্রী
+வாய் vāy মুখ
+மொழி moḷi ভাষা
+
 பாசுரம் pācuram 
 நம்ம namma অস্মাকম্
 ஆழ்வார் āḻvār 
 
 பொய்கை poykai 
-
+### tiruppavai
+திருப்பாவை tiruppāvai
+திரு tiru শ্রী
+பாவை pāvai ব্রত
 ஆண்டாள் āṇṭāḷ
 
 பெரிய periya বিশাল

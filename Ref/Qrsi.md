@@ -37056,11 +37056,7 @@ Behold, those who wrongfully devour the properties of orphans only fill their be
 4.11-14
 
 ![[#r4.2.1]]
-![[#r4.20.1]]
-![[#r4.21.1]]
-![[#r4.22.1]]
-![[#r4.23.1]]
-![[#r4.24.1]]
+
 ## r4.2.1
 
 [Q.4.11-14](https://www.islamicstudies.info/tafheem.php?sura=4&verse=11&to=14)

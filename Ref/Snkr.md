@@ -10,9 +10,6 @@ https://sanskritdocuments.org/doc_devii/shaktipIThAni.html
 It means my neck is on the Śrīśaila, and the deity of the Mata of fortune is Mahālakṣmī.
 Bhirava, Sambarananda, is situated in every place. 33॥
 
-# bmSBhs
-https://www.wisdomlib.org/hinduism/book/brahma-sutras-thibaut
-
 # dvdsJL
 
 सौराष्ट्रे सोमनाथं च श्रीशैले मल्लिकार्जुनम्।	
@@ -64,9 +61,14 @@ study:
 https://www.wisdomlib.org/hinduism/essay/soundarya-lahari-of-shri-shankara-study
 
 # brhmSB
+brahma sutra bhasya
 https://www.gitasupersite.iitk.ac.in/brahmasutra_content?language=dv&field_chapter_value=1&field_quarter_value=1&field_nsutra_value=0
 
 https://www.wisdomlib.org/hinduism/book/brahma-sutras
+
+bad: 
+https://www.wisdomlib.org/hinduism/book/brahma-sutras-thibaut
+
 ## b2
 ### c2
 #### 2.2.37

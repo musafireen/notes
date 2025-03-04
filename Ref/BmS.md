@@ -436,6 +436,8 @@ https://www.wisdomlib.org/hinduism/book/brahma-sutras
 #### 2.2.37
 पत्युः, असामञ्जस्यात् ॥ ३७ ॥
 
+/पत्यधिकरणम्।।2.2.37।।
+
 The Lord's (being merely the efficient cause of the world cannot hold good) on account of the inconsistency (of that doctrine).
 #### 2.2.38
 अन्तवत्त्वम् असर्वज्ञता वा । ( ब्रसू-२,२.३८ । )

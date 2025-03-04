@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/RV.md",
+                "file": "Ref/PspS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RV"
+              "title": "PspS"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/ptjYogS.md",
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ptjYogS"
+              "title": "dravida"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha/fahisha_fahsha.md",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fahisha_fahsha"
+              "title": "salah"
             }
           },
           {
@@ -288,7 +288,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "panc",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -310,7 +310,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "52f2f15d1bae5ff6",
@@ -355,7 +355,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha/fahisha_fahsha.md",
+            "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah.md",
             "followCursor": true,
             "showSearch": true,
             "searchQuery": ""
@@ -375,9 +375,23 @@
   },
   "active": "00adfa2219d80aac",
   "lastOpenFiles": [
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah2.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha/fahisha_fahsha.md",
+    "Ref/mdhvA.SDS.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/nalayir.md",
+    "Ref/cankam.md",
+    "Ref/ptjYogS.md",
+    "Ref/PspS.md",
+    "Ref/kaundn.pancathBhs.md",
+    "Ref/Snkr.md",
+    "Ref/Knd.VshS.md",
+    "Ref/BmS.md",
+    "Ref/RV.md",
+    "Ref/Qrsi.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/God's very own argument.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/surord.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha/fahisha_fahsha.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/sa'ah/sa'ah.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha/fahisha.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha",
@@ -388,21 +402,7 @@
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad/Itqan/Itqan_tikkun_techne.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/istihza/istihza_sana_salah.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/dabbah_min_l_ard",
-    "Ref/RV.md",
     "Ref/bbl.john.md",
-    "Ref/bbl.evngl.md",
-    "Ref/bbl.torah.md",
-    "Ref/tptk.sut.vaj.md",
-    "Ref/tptk.sut.ther.md",
-    "Ref/BmS.md",
-    "Ref/SpB.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/Scythian skeptic/vajra_adamantine_tantra_atractus_mandala_sphondyl.md",
-    "Ref/BU.md",
-    "Ref/TS.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/araf/Pythagorean_platonic/Tantra_yantra_prāṇa_pratiṣṭhā_iamblichus_theurgy_golem.md",
-    "Ref/bbl.poetry.md",
-    "Ref/MnSmr.md",
-    "Ref/jtk.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/istihza",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Untitled",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/a'jamī/Indian",
