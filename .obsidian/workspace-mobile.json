@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/PspS.md",
+                "file": "Ref/bmvP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PspS"
+              "title": "bmvP"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.john.md",
+                "file": "Ref/bbl.prop.nev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bbl.john"
+              "title": "bbl.prop.nev"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah.md",
+                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/sa'ah/sa'ah_qiyamah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "salah"
+              "title": "sa'ah_qiyamah"
             }
           },
           {
@@ -251,16 +251,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/guilt as driving force of history.md",
+                "file": "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/heroic_vs_prophylactic_virtue_propagation_cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "guilt as driving force of history"
+              "title": "heroic_vs_prophylactic_virtue_propagation_cycle"
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,7 +287,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "panc",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -310,7 +309,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "52f2f15d1bae5ff6",
@@ -322,12 +321,12 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ref/bnBhtt.md",
-            "collapseAll": false,
+            "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/sa'ah/sa'ah_qiyamah.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": true,
-            "searchQuery": "#1.8.1#",
+            "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -341,7 +340,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ref/bnBhtt.md",
+            "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/sa'ah/sa'ah.md",
             "linksCollapsed": true,
             "unlinkedCollapsed": false
           },
@@ -355,7 +354,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah.md",
+            "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/sa'ah/sa'ah_qiyamah.md",
             "followCursor": true,
             "showSearch": true,
             "searchQuery": ""
@@ -373,36 +372,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "00adfa2219d80aac",
+  "active": "d0bd5a6e7be89323",
   "lastOpenFiles": [
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah2.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha/fahisha_fahsha.md",
-    "Ref/mdhvA.SDS.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/dravida.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/nalayir.md",
-    "Ref/cankam.md",
-    "Ref/ptjYogS.md",
     "Ref/PspS.md",
-    "Ref/kaundn.pancathBhs.md",
-    "Ref/Snkr.md",
-    "Ref/Knd.VshS.md",
-    "Ref/BmS.md",
-    "Ref/RV.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sa'ah/sa'ah_qiyamah.md",
     "Ref/Qrsi.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/dhurriyah/dhurriyyah.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sa'ah/sa'ah_qiyamah (1).md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sa'ah_qiyamah.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/God's very own argument.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/surord.md",
+    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/heroic_vs_prophylactic_virtue_propagation_cycle.md",
+    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/exposure to result data over time corrupts any system.md",
+    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/guilt as driving force of history.md",
+    "boomerang/sylhet_social_media.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/dhurriyah/dhurriyah.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/dhurriyah",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Kafirun/kafir_logic.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/misc_qur.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Free will/No free will in quran.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Kafirun/Kafirun.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/sa'ah/sa'ah.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha/fahisha.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/dabbah_min_l_ard/dabbah_min_l_ard.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/ya'juj_ma'juj.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/ya'juj_ma'juj_2.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad/Itqan/Itqan_tikkun_techne.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/istihza/istihza_sana_salah.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/dabbah_min_l_ard",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/iqra_ḥirā_isḥāq_cadmon_bede.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk4.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk.md",
+    "Ref/bbl.prop.nev.md",
     "Ref/bbl.john.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sa'ah/Distinction of sā'ah & qiyāmah.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sa'ah/qiyamah.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha/fahisha_fahsha.md",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/dabbah_min_l_ard",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/istihza",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Untitled",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/a'jamī/Indian",
@@ -410,7 +410,6 @@
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/tawhid",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad/Itqan",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kawthar",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/74_31_arb.png",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/74_31_eng.png",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.png",

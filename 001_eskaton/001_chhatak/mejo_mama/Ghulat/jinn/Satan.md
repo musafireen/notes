@@ -14,7 +14,7 @@
 
 ![[bbl.history.ketuvim#1_chronicles#c21#1]]
 
-![[bbl.prophecy.neviim#twelve#zechariah#c3#1]]
+![[bbl.prop.nev#twelve#zechariah#c3#1]]
 
 ![[bbl.poetry#job#c1#6]]
 

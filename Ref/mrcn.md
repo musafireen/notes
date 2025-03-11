@@ -187,7 +187,7 @@ upon them the fierceness of his anger, wrath,    the darkness of this Aeon, agai
 and indignation, and trouble, by sending evil    spiritual wickedness in high places
 angels among them (Psalm 78:49).                                       Ephesians 6:12 
 ### 10
-![[bbl.prophecy.neviim#isaiah#c45#7]]
+![[bbl.prop.nev#isaiah#c45#7]]
 
 ![[bbl.poetry#prov#c14#22]]
 
@@ -233,7 +233,7 @@ upon the third and fourth generation            but , until seventy times seven.
 of them that hate me (Exodus 20:5).                                 Matthew 18:23-22 
 
 ### 14
-![[bbl.prophecy.neviim#isaiah#c42#8]]
+![[bbl.prop.nev#isaiah#c42#8]]
 
 ![[bbl.evngl#john#c17#5]]
 

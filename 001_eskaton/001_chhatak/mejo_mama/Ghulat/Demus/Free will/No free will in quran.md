@@ -1,7 +1,6 @@
+no free will in quran?
 
-![[surord#6]]
-# Q:no free will in quran?
-
+![[surord#17]]
 # Q:68:1
 ![[Qrsi#68:1]]
 ## سطر
@@ -28,12 +27,14 @@
 ![[Qrsi#91:8]]![[Qrsi#91:9]]![[Qrsi#91:10]]
 ## نَفْس لهم فَجَر تَقْوَى
 # Q:7:179
-![[Qrsi#7:179]]
+![[Qrsi#r7.22.1]]
 ## *rA Ans kvr jnhnm
 ## *rA qlb laA fqh
 
 # Q:36:47
 ![[Qrsi#36:47]]
+# Q:35:11
+![[Qrsi#35:11]]
 # Q:17:58
 ![[Qrsi#17:58]]
 # Q:10:100

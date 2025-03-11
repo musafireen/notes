@@ -307,7 +307,7 @@ And when they were departed, behold, the angel of the Lord appeareth to Joseph i
 
 et erat ibi usque ad obitum Herodis ut adimpleretur quod dictum est a Domino per prophetam dicentem ex Aegypto vocavi filium meum
 
-And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son. [[bbl.prophecy.neviim#hosea#c11#1]]
+And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son. [[bbl.prop.nev#hosea#c11#1]]
 ### 16
 τοτε ηρωδης ιδων οτι ενεπαιχθη υπο των μαγων εθυμωθη λιαν και αποστειλας ανειλεν παντας τους παιδας τους εν βηθλεεμ και εν πασιν τοις οριοις αυτης απο διετους και κατωτερω κατα τον χρονον ον ηκριβωσεν παρα των μαγων
 

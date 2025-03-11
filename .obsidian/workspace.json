@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d1fa9d4e0f71aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref/bmvP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "salah",
+                "query": "bmvP",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah2.md",
+                "file": "Ref/bmvP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah2.md",
+                "file": "Ref/bmvP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah2.md"
+                "file": "Ref/bmvP.md"
               }
             }
           }
@@ -196,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +216,10 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "5b61b129eebffdee",
+  "active": "3d1fa9d4e0f71aa3",
   "lastOpenFiles": [
+    "Ref/~syncthing~bmvP.md.tmp",
+    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah2.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah.md",
     "Ref/~syncthing~Qrsi.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha/~syncthing~fahisha_fahsha.md.tmp",
@@ -242,8 +256,6 @@
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/hikmah/hikma.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/qarya/Qarya.md",
     "Ref/~syncthing~iamb.mysEg.md.tmp",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn.md",
-    "Ref/Qrsi.md",
     "Ref/Pasted image 20241128002518.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

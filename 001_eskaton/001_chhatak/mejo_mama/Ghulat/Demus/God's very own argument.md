@@ -1,5 +1,5 @@
 
-![[surord#8]]
+![[surord#30]]
 # no-proof
 
 ## Q:17:95
@@ -9,6 +9,8 @@
 ![[Qrsi#r8.4.2]]
 
 # Quran-proof
+## Q:25:5
+![[Qrsi#25:4]]![[Qrsi#25:5]]![[Qrsi#25:6]]
 ## Q:29:48
 ![[Qrsi#29:48]]![[Qrsi#29:49]]![[Qrsi#29:50]]![[Qrsi#29:51]]![[Qrsi#29.52]]
 # ikhtilaf
@@ -214,3 +216,13 @@ All very convincing arguments no doubt. But now, ask yourself, how many of these
 [Q.3:161](https://quran.com/3:161/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#3:161]]
+
+# hawa
+
+![[surord#25]]
+## Q:25:43
+![[Qrsi#25:43]]
+## Q:28:50
+![[Qrsi#28:50]]
+## Q:14:37
+![[Qrsi#14:37]]

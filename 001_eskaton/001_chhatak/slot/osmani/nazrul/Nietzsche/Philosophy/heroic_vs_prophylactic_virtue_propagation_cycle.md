@@ -1,4 +1,11 @@
 
+
+# not action itself but observation of result that makes action virtuous or not
+## when traditional virtuous actions don't bring expected results people swing to different tradition that different action brings desired result
+# overabundance of certain virtue decreases its virtueness
+# virtue is an abstraction over honor
+# values are comparative not binary
+it's not that someone doest value being honored, but whether they value honor more than something else. and that is completely dependent on supply and demand and efficacy of that meme. 
 # heroic virtue gives rise to its opposite
 
 Not just what that nietzschean nzi philosopher meant, but heroic virtue gives rise to virtue signaling, which gives rise to people devaluing that virtue, giving rise to problems that occur due to lack of those virtues, then back to those virtues.

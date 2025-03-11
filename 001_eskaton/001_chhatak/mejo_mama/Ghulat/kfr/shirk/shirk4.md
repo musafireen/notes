@@ -4248,7 +4248,7 @@ Ananke
 
 
 
-![[bbl.prophecy.neviim#jeremiah#c32#35]]
+![[bbl.prop.nev#jeremiah#c32#35]]
 
 ![[bbl.history.neviim#2_kings#c23#10]]
 

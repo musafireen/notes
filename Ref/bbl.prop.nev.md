@@ -1,4 +1,4 @@
-# isaiah
+# is
 ## c6
 ### 8
 וָאֶשְׁמַ֞ע אֶת־ק֤וֹל אֲדֹנָי֙ אֹמֵ֔ר אֶת־מִ֥י אֶשְׁלַ֖ח וּמִ֣י יֵֽלֶךְ־לָ֑נוּ וָאֹמַ֖ר הִנְנִ֥י שְׁלָחֵֽנִי ׃
@@ -56,6 +56,60 @@ I will ascend above the heights of the clouds; I will be like the most High.
 אַ֧ךְ אֶל־שְׁא֛וֹל תּוּרָ֖ד אֶל־יַרְכְּתֵי־בֽוֹר ׃
 
 Yet thou shalt be brought down to hell, to the sides of the pit.
+## c29
+#### 1
+ה֚וֹי אֲרִיאֵ֣ל אֲרִיאֵ֔ל קִרְיַ֖ת חָנָ֣ה דָוִ֑ד סְפ֥וּ שָׁנָ֛ה עַל־שָׁנָ֖ה חַגִּ֥ים יִנְקֹֽפוּ ׃
+
+Woe to Ariel, to Ariel, the city [where] David dwelt ! add ye year to year; let them kill sacrifices. (Woe…: or, O Ariel, that is, the lion of God)(the city: or, of the city)
+#### 2
+וַהֲצִיק֖וֹתִי לַֽאֲרִיאֵ֑ל וְהָיְתָ֤ה תַֽאֲנִיָּה֙ וַֽאֲנִיָּ֔ה וְהָ֥יְתָה לִּ֖י כַּאֲרִיאֵֽל ׃
+
+Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel.
+#### 3
+וַהֲצִיק֖וֹתִי לַֽאֲרִיאֵ֑ל וְהָיְתָ֤ה תַֽאֲנִיָּה֙ וַֽאֲנִיָּ֔ה וְהָ֥יְתָה לִּ֖י כַּאֲרִיאֵֽל ׃
+
+And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.
+#### 7
+וְהָיָ֗ה כַּֽחֲלוֹם֙ חֲז֣וֹן לַ֔יְלָה הֲמוֹן֙ כָּל־הַגּוֹיִ֔ם הַצֹּבְאִ֖ים עַל־אֲרִיאֵ֑ל וְכָל־צֹבֶ֙יהָ֙ וּמְצֹ֣דָתָ֔הּ וְהַמְּצִיקִ֖ים לָֽהּ ׃
+
+And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.
+#### 11
+וַתְּהִ֨י לָכֶ֜ם חָז֣וּת הַכֹּ֗ל כְּדִבְרֵי֮ הַסֵּ֣פֶר הֶֽחָתוּם֒ אֲשֶֽׁר־יִתְּנ֣וּ אֹת֗וֹ אֶל־יוֹדֵ֥עַ הספר לֵאמֹ֖ר קְרָ֣א נָא־זֶ֑ה וְאָמַר֙ לֹ֣א אוּכַ֔ל כִּ֥י חָת֖וּם הֽוּא ׃
+
+And the vision of all is become unto you as the words of a book that is sealed, which [men] deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it [is] sealed:
+#### 12
+וְנִתַּ֣ן הַסֵּ֗פֶר עַל֩ אֲשֶׁ֨ר לֹֽא־יָדַ֥ע סֵ֛פֶר לֵאמֹ֖ר קְרָ֣א נָא־זֶ֑ה וְאָמַ֕ר לֹ֥א יָדַ֖עְתִּי סֵֽפֶר ׃ ס
+
+And the book is delivered to him that is not learned saying, Read this, I pray thee: and he saith, I am not learned.
+#### 13
+וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה ׃
+
+Wherefore the Lord said, Forasmuch as this people draw near [me] with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
+#### 14
+לָכֵ֗ן הִנְנִ֥י יוֹסִ֛ף לְהַפְלִ֥יא אֶת־הָֽעָם־הַזֶּ֖ה הַפְלֵ֣א וָפֶ֑לֶא וְאָֽבְדָה֙ חָכְמַ֣ת חֲכָמָ֔יו וּבִינַ֥ת נְבֹנָ֖יו תִּסְתַּתָּֽר ׃ ס
+
+Therefore, behold, I will proceed to do a marvellous work among this people, [even] a marvellous work and a wonder: for the wisdom of their wise [men] shall perish, and the understanding of their prudent [men] shall be hid.
+#### 17
+הֲלוֹא־עוֹד֙ מְעַ֣ט מִזְעָ֔ר וְשָׁ֥ב לְבָנ֖וֹן לַכַּרְמֶ֑ל וְהַכַּרְמֶ֖ל לַיַּ֥עַר יֵחָשֵֽׁב ׃
+
+[Is] it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest ?
+#### 18
+וְשָׁמְע֧וּ בַיּוֹם־הַה֛וּא הַחֵרְשִׁ֖ים דִּבְרֵי־סֵ֑פֶר וּמֵאֹ֣פֶל וּמֵחֹ֔שֶׁךְ עֵינֵ֥י עִוְרִ֖ים תִּרְאֶֽינָה ׃
+
+And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.
+#### 19
+וְיָסְפ֧וּ עֲנָוִ֛ים בַּֽיהוָ֖ה שִׂמְחָ֑ה וְאֶבְיוֹנֵ֣י אָדָ֔ם בִּקְד֥וֹשׁ יִשְׂרָאֵ֖ל יָגִֽילוּ ׃
+
+The meek also shall increase [their] joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel.
+#### 20
+וְיָסְפ֧וּ עֲנָוִ֛ים בַּֽיהוָ֖ה שִׂמְחָ֑ה וְאֶבְיוֹנֵ֣י אָדָ֔ם בִּקְד֥וֹשׁ יִשְׂרָאֵ֖ל יָגִֽילוּ ׃
+
+For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:
+#### 24
+וְיָדְע֥וּ תֹֽעֵי־ר֖וּחַ בִּינָ֑ה וְרוֹגְנִ֖ים יִלְמְדוּ־לֶֽקַח
+
+They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
+
 ## c42
 ### 8
 אֲנִ֥י יְהוָ֖ה ה֣וּא שְׁמִ֑י וּכְבוֹדִי֙ לְאַחֵ֣ר לֹֽא־אֶתֵּ֔ן וּתְהִלָּתִ֖י לַפְּסִילִֽים ׃

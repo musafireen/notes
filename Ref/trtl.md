@@ -64,7 +64,7 @@ And because 316 Marcion, too, maintains that a good tree ought not to produce ba
 but yet he has mentioned "evil" (in the passage under discussion), which the most good God is incapable of, is there forthcoming any explanation of these "evils," which may render them compatible with even the most Good? There is, We say, in short, that evil in the present case means, not what may be attributed to the Creator's nature as an evil being, but what may be attributed to His power as a judge. 
 
 Isaiah:45:7
-[[bbl.prophecy.neviim#isaiah#c45#7]]
+[[bbl.prop.nev#isaiah#c45#7]]
 In accordance with which He declared, "I
 create evil," 
 
