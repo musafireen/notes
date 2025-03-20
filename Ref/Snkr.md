@@ -130,3 +130,12 @@ The Lord's (being merely the efficient cause of the world cannot hold good) on a
 *Because of the acceptance of the Lord as a special person and the acceptance of the indifference of Puruṣa, there is inconsistency.*
 
 The Vedanta says that the Lord is both the efficient and the material cause of the world. The Naiyayikas, Vaiseshikas, Yogins, and Maheswaras say that the Lord is the efficient cause only, and the material cause is either the atoms according to the Naiyayikas and Vaiseshikas, or the Pradhana according to the Yogins and others. He is the ruler of the Pradhana and the souls, which are different from Him. Such a view leads to inconsistency. How ? Because it makes the Lord partial to some and prejudiced against others, for some people are well off in this world, while others are miserable. The opponents here may say : How does the Vedantin get out of the difficulty ? He replies: The Lord is impartial, but He directs the individuals according to their merit and demerit earned in previous existences. (See Sutras 2. I. 84-35). For the scriptures say so, and if you accept scriptural authority in this, you will have to accept its statement, “I will be many” etc. (Taitt. 2. 6), which shows that the Lord is both the efficient and the material cause.
+# dksnmrt
+
+## ?
+Chitram Vatataror mooley
+Vriddhah shishyaah gurur yuva
+Gurostu maunam vyaakhyanam
+Shishyaastu china Samshaya
+
+Beneath the banyan tree they sit the disciples old men, the Guru a mere youth! The Guru speaks through silence alone. But lo! The questions of disciples dissolver on their own!

@@ -3,17 +3,37 @@ https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0126
 # b1
 ## c1
 #### 1
-Ἡροδότου Ἁλικαρνησσέος ἱστορίης ἀπόδεξις ἥδε, ὡς μήτε τὰ γενόμενα ἐξ ἀνθρώπων τῷ χρόνῳ ἐξίτηλα γένηται, μήτε ἔργα μεγάλα τε καὶ θωμαστά, τὰ μὲν Ἕλλησι τὰ δὲ βαρβάροισι ἀποδεχθέντα, ἀκλεᾶ γένηται, τά τε ἄλλα καὶ δι᾽ ἣν αἰτίην ἐπολέμησαν ἀλλήλοισι.
+Ἡροδότου Ἁλικαρνησσέος ἱστορίης ἀπόδεξις ἥδε, 
 
-This is the display of the inquiry of Herodotus of Halicarnassus, so that things done by man not be forgotten in time, and that great and marvelous deeds, some displayed by the Hellenes, some by the barbarians, not lose their glory, including among others what was the cause of their waging war on each other.
+This is the display of the inquiry of Herodotus of Halicarnassus, 
+
+ὡς μήτε τὰ γενόμενα ἐξ ἀνθρώπων τῷ χρόνῳ ἐξίτηλα γένηται, 
+
+so that things done by man not be forgotten in time, 
+
+μήτε ἔργα μεγάλα τε καὶ θωμαστά, τὰ μὲν Ἕλλησι τὰ δὲ βαρβάροισι ἀποδεχθέντα, ἀκλεᾶ γένηται, 
+
+and that great and marvelous deeds, some displayed by the Hellenes, some by the barbarians, not lose their glory, 
+
+τά τε ἄλλα καὶ δι᾽ ἣν αἰτίην ἐπολέμησαν ἀλλήλοισι.
+
+including among others what was the cause of their waging war on each other.
 
 Περσέων μέν νυν οἱ λόγιοι Φοίνικας αἰτίους φασὶ γενέσθαι τῆς διαφορῆς. 
 
 The Persian learned men say that the Phoenicians were the cause of the dispute. 
 
-τούτους γὰρ ἀπὸ τῆς Ἐρυθρῆς καλεομένης θαλάσσης ἀπικομένους ἐπὶ τήνδε τὴν θάλασσαν, καὶ οἰκήσαντας τοῦτον τὸν χῶρον τὸν καὶ νῦν οἰκέουσι, αὐτίκα ναυτιλίῃσι μακρῇσι ἐπιθέσθαι, ἀπαγινέοντας δὲ φορτία Αἰγύπτιά τε καὶ Ἀσσύρια τῇ τε ἄλλῃ ἐσαπικνέεσθαι καὶ δὴ καὶ ἐς Ἄργος. 
+τούτους γὰρ ἀπὸ τῆς Ἐρυθρῆς καλεομένης θαλάσσης ἀπικομένους ἐπὶ τήνδε τὴν θάλασσαν, 
 
-These (they say) came to our seas from the sea which is called Red,1 and having settled in the country which they still occupy, at once began to make long voyages. Among other places to which they carried Egyptian and Assyrian merchandise, they came to Argos, 
+These (they say) came to our seas from the sea which is called Red,1 
+
+καὶ οἰκήσαντας τοῦτον τὸν χῶρον τὸν καὶ νῦν οἰκέουσι, αὐτίκα ναυτιλίῃσι μακρῇσι ἐπιθέσθαι, 
+
+and having settled in the country which they still occupy, at once began to make long voyages. 
+
+ἀπαγινέοντας δὲ φορτία Αἰγύπτιά τε καὶ Ἀσσύρια τῇ τε ἄλλῃ ἐσαπικνέεσθαι καὶ δὴ καὶ ἐς Ἄργος. 
+
+Among other places to which they carried Egyptian and Assyrian merchandise, they came to Argos, 
 #### 2
 [2] τὸ δὲ Ἄργος τοῦτον τὸν χρόνον προεῖχε ἅπασι τῶν ἐν τῇ νῦν Ἑλλάδι καλεομένῃ χωρῇ. 
 
@@ -1940,6 +1960,51 @@ The Parthians, Chorasmians, Sogdians, Gandarians, and Dadicae in the army had th
 [2] τούτων δὲ ἦρχον οἵδε. Πάρθων μὲν καὶ Χορασμίων Ἀρτάβαζος ὁ Φαρνάκεος, Σόγδων δὲ Ἀζάνης ὁ Ἀρταίου, Γανδαρίων δὲ καὶ Δαδικέων Ἀρτύφιος ὁ Ἀρταβάνου.
 
 [2] The Parthians and Chorasmians had for their commander Artabazus son of Pharnaces, the Sogdians Azanes son of Artaeus, the Gandarians and Dadicae Artyphius son of Artabanus.
+## c89
+#### 1
+τῶν δὲ τριηρέων ἀριθμὸς μὲν ἐγένετο ἑπτὰ καὶ διηκόσιαι καὶ χίλιαι, 
+
+The number of the triremes was twelve hundred and seven, 
+
+παρείχοντο δὲ αὐτὰς οἵδε, 
+
+and they were furnished by the following: 
+
+Φοίνικες μὲν σὺν Σύροισι τοῖσι ἐν τῇ Παλαιστίνῃ τριηκοσίας, 
+
+the Phoenicians with the Syrians of Palestine furnished three hundred; 
+
+ὧδε ἐσκευασμένοι: περὶ μὲν τῇσι κεφαλῇσι κυνέας εἶχον ἀγχοτάτω πεποιημένας τρόπον τὸν Ἑλληνικόν, 
+
+for their equipment, they had on their heads helmets very close to the Greek in style; 
+
+ἐνδεδυκότες δὲ θώρηκας λινέους, ἀσπίδας δὲ ἴτυς οὐκ ἐχούσας εἶχον καὶ ἀκόντια. 
+
+they wore linen breastplates, and carried shields without rims, and javelins. 
+#### 2
+[2] οὗτοι δὲ οἱ Φοίνικες τὸ παλαιὸν οἴκεον, ὡς αὐτοὶ λέγουσι, ἐπὶ τῇ Ἐρυθρῇ θαλάσσῃ, 
+
+[2] These Phoenicians formerly dwelt, as they themselves say, by the Red Sea; 
+
+ἐνθεῦτεν δὲ ὑπερβάντες τῆς Συρίης οἰκέουσι τὸ παρὰ θάλασσαν: 
+
+they crossed from there and now inhabit the seacoast of Syria. 
+
+τῆς δὲ Συρίης τοῦτο τὸ χωρίον καὶ τὸ μέχρι Αἰγύπτου πᾶν Παλαιστίνη καλέεται. 
+
+This part of Syria as far as Egypt is all called Palestine. 
+
+Αἰγύπτιοι δὲ νέας παρείχοντο διηκοσίας. 
+
+[3] The Egyptians furnished two hundred ships. 
+#### 3
+[3] οὗτοι δὲ εἶχον περὶ μὲν τῇσι κεφαλῇσι κράνεα χηλευτά, ἀσπίδας δὲ κοίλας, τὰς ἴτυς μεγάλας ἐχούσας, καὶ δόρατά τε ναύμαχα καὶ τύχους μεγάλους. 
+
+They wore woven helmets and carried hollow shields with broad rims, and spears for sea-warfare, and great battle-axes. 
+
+τὸ δὲ πλῆθος αὐτῶν θωρηκοφόροι ἦσαν, μαχαίρας δὲ μεγάλας εἶχον.
+
+Most of them wore cuirasses and carried long swords.
 # b8
 ## c27
 ### 3

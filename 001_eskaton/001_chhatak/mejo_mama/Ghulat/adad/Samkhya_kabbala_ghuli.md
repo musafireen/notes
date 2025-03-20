@@ -189,6 +189,8 @@ kuṛiñci, mullai, marutam, pālai, neytal
 cēyōṅ, māyōṅ, vēntāṅ, varuṇāṅ, kor̥r̥avai 
 ## smārtadeva
 gaṇeśa, viṣṇu, sūrya, śiva, śakti, 
+## upācāra
+gandha, puṣpa, dīpa, dhūpa, naivedya, 
 ## yajñaprakṛti
 agnihotra, darśapūrṇamāsa, cāturmāsya, paśu, soma (,x)
 [[AitA#2.3.3#9]]
@@ -199,22 +201,35 @@ homa, iṣṭi, (x,),  paśu, soma, sattra
 ## mahābhūta
 ākāśa/nabhas, vāyu/marut, tejas/agni, jala/apas, pṛthvī /bhū 
 ## bhūta
-ākāśa, vāyu, agni, ap, pṛthvī 
-## ?
+ākāśa, vāyu, agni, jala, pṛthvī ,
+
+vyoma, marut, teja, ap, kṣiti, 
+## ?guṇḍi
 nīla, harita, raṅga, śveta, pīta
+
+śyāma, harita, raṇga, śveta, kṛṣṇa, 
 ## stoechia :arist.
 aether, pyr, aer, hydor, ge 
 ## guṇa
+স্বর্ণ, হীরক, 
 ## tanmātra
 śabda, sparṣa, rūpa, rasa, gandha 
 ## buddhīndrīya
 karṇa/śrotra, sparṣa/tvak, cakṣu/dṛk, jihvā/rasana,  nāsikā 
+## pañcaratna
+maṇi, muktā, pravāla, svarṇa, raupya, 
 ## karmendriya
 mukha/vāk, hasta/karaṇa, pada/caraṇa, antra/meḍhra, liṅga/pāyu, upasta 
 ## ?vṛtti
 vacana, ādāna, viharaṇa, utsarga, ānanda 
 ## vāyu
 prāṇa, apāna, udāna, samāna, vyāna ()
+## pallava.bṛhat
+āmra, udumbara, vaṭa, aśvatha, aśoka, 
+## pallava.tantrokta
+āmra, udumbara, bakula, kaṇṭakaphala, pākuḍa,
+
+āmra, vaṭa, bakula/jambu, kaṇṭakaphala, aśvatha, 
 ## waqt
 fajr, zuhr, 'aṣr, maghrib, 'iśā 
 ## kāla
@@ -255,6 +270,11 @@ drāviḍa, andhrapūrva, karṇaṭaka, mahārāṣṭra/deśastha, x
 adoloka, parjanya, idaṃloka, puruṣa, yoṣa
 :[[BU#6.2]]
 :[[Chu#5.3]]-[[ChU#5.10]]
+## pañcaśasya
+ধান্য, যব, মাষ, তিল, মুদ্গ
+## pañcapravṛtti
+কাম, ক্রোধ, লোভ, মোহ/ঈর্ষা, মাৎসর্য, 
+
 # 6
 ## nāṭiq
 adam, nūḥ, ibrāhīm, mūsā, 'īsā, muḥammad 
@@ -316,7 +336,7 @@ imru' l qays o qaryah l faw, labīd o ? /nābigha o rummah, tarafa o gerrha, zuh
 ## pherecydes sphere/peplos
 chronos, eros, pyr, aer, hydor, gaia, chthon 
 ## sindhu
-gaṅgā, yamunā, sindhu, sarasvati, godavari, kaveri, 
+gaṅgā, yamunā, godavari, sarasvati, narmadā, sindhu, kaveri, 
 ## mātṛkā 
 brahmāṇī, vaiṣṇavī, māheśvarī, indrāni, kaumāri, varāhī, cāmuṇḍā (/yāmi), (narasiṃhī/yogeśvarī/mahābhairavī/mahālakṣmī), (vināyakī/varuṇī/kalyānī), (kauberī), (nārāyanī)
 ### RV.9.102.4
@@ -346,7 +366,11 @@ mahat (buddhi), ahaṃkāra, { śabda, sparṣa, rūpa, rasa, gandha },
 ## lokapāla
 ## dhātu
 svarṇa, raupya, tāmra, kaṭhina, śīsā, pitala, lauha, pārada
-
+## abhiṣeka.śākta
+śākta, pūrṇa, kramadika, sāmrājya, mahāsāmrājya, yogadīkṣā, pūrṇadīkṣā
+# 9
+## navapatrikā
+কদলী, দাড়িমী, ধান্য, হরিদ্রা, মানক, কচু, বিল্ব, অশোক, জয়ন্তী, (অপরাজিতা)
 # 10 
 ## aḥwāl
 murāqaba, qurb, wajd, sukr, wudd, 'iśq, yaqīn
@@ -401,6 +425,8 @@ svayambhu, svārociṣa, uttama, tapas, raivata, cakṣus, vaivasvat, sāvarṇi
 manas, { karṇa/śrotra, tvak/sparṣa, ghrāṇa/nāsikā, cakṣu/dṛk, rasana/jihvā }, { vāk/mukha, pāṇi/hasta/karaṇa, pāda/caraṇa, pāyu/antra/meḍhra, upasta/liṅga }, { ākāśa/nabhas, vāyu/marut, tejas/agni, jala/apas, pṛthvī /bhū },
 ## ṛtvik
 hotā, (maitrāvaruṇa, acchāvāka, grāvastut,) adhvaryu, (pratiprasthātā, neṣṭā, unnetā,) udgātā, (prastotā, pratihartā, subrahmaṇya) brahmā, (brāhmaṇācchaṃsī, agnidhrā, potā)
+## upācāra
+আসন, স্বাগত, পাদ্য, অর্ঘ্য, আচমনীয়, স্থানীয়, বসন, ভূষণ, গন্ধ, পুষ্প, ধূপ, দীপ, মধুপর্ক, তাম্বুল, তর্পণ ও নতি।
 # 18
 ## fātimī imām
 'alī, ḥusen, a. zen, m. bāqir, ja'far, ismā'īl, m. b ismā'īl, aḥ. wafī, m. ṭaqī, ḥu. raḍī, aa. maḥdī b l., qāim b 'amr, manṣūr b naṣr, mu'izz b dīn, nizār 'azīz ḥākim b 'amr, z.āhir l i'zāz dīn, mustanṣir b l.,

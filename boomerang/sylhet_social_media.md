@@ -1,10 +1,13 @@
 
 
 # sylheti ex-mollah
-https://www.youtube.com/live/EPFHPZnMwlE?t=6854
+https://www.youtube.com/live/EPFHPZnMwlE?t=6800
 # sylheti ex-muslim
+
 # ex-muslims about sylhet
 https://www.youtube.com/live/Jxt4Iuwbidg?t=3399
+
+https://www.facebook.com/share/18Jt7QxPtK/
 # pro-hindu sylhetis
 ## sylhet ex mayor for hindus
 https://x.com/taslimanasreen/status/1855360604170519031

@@ -2680,6 +2680,7 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829078
 
 “The Ṛbhus have divided unto four the new ladle, the work of the divine Tvaṣṭā
 ## 1.22
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829094.html
 #### 14
 तयो॒रिद्घृ॒तव॒त्पयो॒ विप्रा॑ रिहन्ति धी॒तिभि॑: । ग॒न्ध॒र्वस्य॑ ध्रु॒वे प॒दे ॥
 “The (viprā) wise (reha) taste, through their (dhīti) pious acts, the (ghṛtavat) ghee-resembling (payas) waters of these two, (abiding) in the (dhrūva) permanent (pada) region of the Gandharvas. 
@@ -2712,10 +2713,12 @@ upholding thereby (dharma) righteous acts.”
 “(dṛś) Behold the (karma) deeds of Viṣṇu, through which (the worshipper) has accomplished (pious) (vrata) vows; he is the (yujya) worthy (sakhā) friend of Indra.”
 #### 20
 तद्विष्णो॑: पर॒मं प॒दं सदा॑ पश्यन्ति सू॒रय॑: । 
+
 “The (sūri) wise (sadā) ever (dṛś) contemplate that (parama) supreme (pada) station of Viṣṇu, 
 
-as the (cakṣu) eye ranges over the (dyaus) sky.”
 दि॒वी॑व॒ चक्षु॒रात॑तम् ॥
+
+as the (cakṣu) eye ranges over the (dyaus) sky.”
 ### ?
 ## 1.26
 #### 3

@@ -1,9 +1,9 @@
 
 https://sa.m.wikisource.org/wiki/%E0%A4%B2%E0%A4%BF%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D
 
-https:gretil.sub.uni-goettingen.degretil1_sanskr3_puranalip_1_pu.htm
+https://gretil.sub.uni-goettingen.de/gretil1_sanskr3_puranalip_1_pu.htm
 
-https:www.wisdomlib.orghinduismbookthe-linga-purana
+https://www.wisdomlib.org/hinduism/book/the-linga-purana
 
 # b1
 ## c7
@@ -170,3 +170,39 @@ He made the leading elephant Airāvata of terrible valour the lord of elephants.
 सेनाधिपानां गुहमप्रमेयं श्रुतिस्मृतीनां लकुलीशमीशम्   LiP_1,58.13   
 
 13 He made the lion the lord of animals; the bull the lord of the kine and Śarabha (the fabulous eight-footed beast) the lord of lions; the incomprehensible Guha the lord of all commanders-in-chief and Lakulīśa the lord of Śrutis and Smṛtis.
+## c65
+#### 5
+छाया च तस्मात्सुषुवे सावर्णि भास्कराद्द्विजाः।।
+ततः शनिं च तपतीं विष्टिं चैव यताक्रमम्।। ६५.५ ।।
+
+छाया स्वपुत्राभ्यधिकं स्नेहं चक्रे मनौ तदा।।
+पूर्वो मनुर्न चक्षाम यमस्तु क्रोधमूर्च्छितः।। ६५.६ ।।
+
+संताडयामास रुषा पादमुद्यम्य दक्षिणम्।।
+यमेव ताडिता सा तु छाया वै दुःखिताभवत्।। ६५.७ ।।
+
+छायाशापात्पदं चैकं यमस्य क्लिन्नमुत्तमम्।।
+पूयशोणित संपूर्णं कृमीणां निचयान्वितम्।। ६५.८ ।।
+
+सोपि गोकर्णमाश्रित्य फलकेनानिलाशनः।।
+आराधयन्महादेवं यावद्वर्षायुतायुतम्।। ६५.९ ।।
+
+भवप्रर्सादादागत्य लोकपालत्वमुत्तमम्।।
+पितॄणामाधिपत्यं तु शापमोक्षं तथैव च।। ६५.१೦ ।।
+
+लब्धवान्देवदेवस्य प्रभावाच्छूलपाणिनः।।
+असंहती पुरा भानोस्तेजोमयमनिंदिता।। ६५.११ ।।
+
+10-11a. By the grace of Bhava he attained the excellent guardianship of the Southern, quarter, the overlordship of the Pitṛs and freedom from the curse. He attained these by the power of the trident-armed lord of Devas.
+
+रूपं त्वाष्ट्री स्वदेहात्तु छायाख्यां सा त्वकल्पयत्।।
+वडवारूपमास्थाय तपस्तेपे तु सुव्रता।। ६५.१२ ।।
+
+कालात्प्रयत्नतो ज्ञात्वा छायां छायापतिः प्रभुः।।
+वडवामगमत्संज्ञामश्वरूपेण भास्करः।। ६५.१३ ।।
+
+वडवा च तदा त्वाष्ट्री संज्ञा तस्माद्दिवाकरात्।।
+सुषुवे चाश्विनौ देवौ देवानां तु भिषग्वरौ।। ६५.१४ ।।
+
+लिखितो भास्करः पश्चात्संज्ञापित्रा महात्मना।।
+विष्णोश्चक्रं तु यद्घोरं मंडलाद्भास्करस्य तु।। ६५.१५ ।।
