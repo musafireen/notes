@@ -67,14 +67,17 @@
 # hdt.2.153
 ![[hdt.hist#b2#c153]]
 
-# hdt.hist.154
+# hdt.154
 ![[hdt.hist#b2#c154]]
 
-# hdt.hist.155
+# hdt.155
 ![[hdt.hist#b2#c155]]
 
-# hdt.hist.155
+# hdt.155
 ![[hdt.hist#b2#c156]]
 
 # hdt.3.8
 ![[hdt.hist#b3#c8]]
+
+# hdt.4.59
+![[hdt.hist#b4#c59]]

@@ -4246,10 +4246,10 @@ Ananke
 
 ## مَالِك (malik)
 
-
-
+### molech
+#### jer.32.35
 ![[bbl.prop.nev#jeremiah#c32#35]]
-
+#### 2Ki.23.10
 ![[bbl.history.neviim#2_kings#c23#10]]
 
 

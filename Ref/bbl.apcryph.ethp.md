@@ -1,6 +1,80 @@
 # jubilees
 https://www.sefaria.org/Book_of_Jubilees
 
+https://sacred-texts.com/bib/jub/jub23.htm
+
+## c9
+#### 1
+ויחלק חם לבניו, ויצא הגורל הראשון לכולם לפאת קדמה וימה לפוט וירך מערבו לכנען ולפאת מערב הים...:
+
+And Ham divided amongst his sons, and the first portion came forth for Cush towards the east, and to the west of him for Mizraim, and to the west of him for Put, and to the west of him [and to the west thereof] on the sea for Canaan.
+#### 2
+ויחלק שם גם הוא לבניו, ויצא הגורל הראשון לעילם ולבניו מקדם לנהר חידקל עד לבוא ארץ הקדם:
+
+And Shem also divided amongst his sons, and the first portion came forth for Elam and his sons, to the east of the river Tigris till it approacheth the east,
+#### 3
+כל ארץ הודו ועד ארתרה ומימי דודין וכל ההרים ואילה וכל הארץ שושן, וכל אשר לעבר פרנך עד הים ארתרה ועד הנחל תינה:
+
+the whole land of India, and on the Red Sea on its coast, and the waters of Dêdân, and all the mountains of Mebrî and ’Êlâ, and all the land of Sûsân and all that is on the side of Pharnâk to the Red Sea and the river Tînâ.
+#### 4
+ולאשור יצא הגורל השני ארץ אשור ונינוה ושנער ועד גבול הודו ועלה לכתף הנחל:
+
+And for Asshur came forth the second portion, all the land of Asshur and Nineveh and Shinar and to the border of India, and it ascendeth and skirteth the river.
+#### 5
+ולארפכשד יצא הגורל השלישי כל ארץ חבל הכשדים, לפאת מזרחה לנהר פרת קרוב לים ארתרה:
+
+And for Arpachshad came forth the third portion, all the land of the region of the Chaldees to the east of the Euphrates, bordering on the Red Sea,
+#### 7
+ולארם יצא הגורל הרביעי כל ארץ ארם נהרים, בין חידקל ובין פרת מצפון הכשדים עד לבוא הררי אשור:
+
+And for Aram there came forth the fourth portion, all the land of Mesopotamia between the Tigris and the Euphrates to the north of the Chaldees to the border of the mountains of Asshur and the land of ’Arârâ.
+#### 8
+##### 6
+And there came forth for Lud 8 the fifth portion, the mountains of Asshur and all appertaining to them till it reacheth the Great Sea, and till it reacheth the east of Asshur his brother. 
+#### 8
+וכל יתר הארצות עד הים הגדול והלך וקרב קדמה אל אחיו אשור:
+
+the whole land of India, and on the Red Sea on its coast, and the waters of Dêdân, and all the mountains of Mebrî and ’Êlâ, and all the land of Sûsân and all that is on the side of Pharnâk to the Red Sea and the river Tînâ.
+#### 9
+וגם יפת חילק את ארץ הנחלה לבניו:
+
+And Japheth also divided the land of his inheritance amongst his sons.
+#### 10
+ויצא הגורל הראשון לגומר לפאת קדמה, מן הצפון ועד הנחל תינה:
+
+And the first portion came forth for Gomer to the east from the north side to the river Tînâ;
+#### 11
+ובצפון יצא למגוג כל תוך הצפון עד לבוא אל הים מיעוט:
+
+and in the north there came forth for Magog all the inner portions of the north until it reacheth to the sea of Mê’at (Maeotian/Azov).
+#### 12
+ולמדי יצא לנחלה לרשת אותה לפאת מערבה על פני שני אחיו עד האיים ועד גבולי האיים:
+
+And for Madai came forth as his portion that he should possess from the west of his two brothers to the islands, and to the coasts of the islands.
+#### 13
+וליון יצאה הנחלה הרביעית, כל האי והאיים לכתף אלדוד:
+
+And for Javan came forth the fourth portion every island and the islands which are towards the border of Lud.
+#### 14
+ולתובל יצאה הנחלה החמישית בין הלשון הפונה לפאת אודה נחלת לוד, עד הלשון השניה הנוטה אל תוך הלשון השלישית:
+
+And for Tubal there came forth the fifth portion in the midst of the tongue which approacheth towards the border of the portion of Lud to the second tongue, to the region beyond the second tongue unto the third tongue.
+#### 15
+ולמשך יצאה הנחלה השישית, וכל העבר השני מן הלשון השלישית עד לבוא קדמת גדיר:
+
+And for Meshech came forth the sixth portion, all the region beyond the third tongue till it approaches the east of Gadir.
+#### 16
+ולתירס יצאה הנחלה השביעית, ויהי לו האיים הגדולים בתוך הים אשר בנחלת חם ואיי קמטורי:
+
+And for Tiras there came forth the seventh portion, four great islands in the midst of the sea, which reach to the portion of Ham [and the islands of Kamâtûrî came out by lot
+#### 17
+ולבני ארפכשד יצאה הנחלה המאושרה:
+
+for the sons of Arpachshad as his inheritance].
+#### 18
+ככה התנחלו בני נוח לבניהם לפני נוח אביהם, וישבע אותם בשבועת אלה אם יתחרה איש מהם לכבוש נחלה אשר לא נפלה לו בגורל:
+
+And thus the sons of Noah divided unto their sons in the presence of Noah their father, and he bound them all by an oath, imprecating a curse on every one that sought to seize the portion which had not fallen (to him) by his lot.
 # enoch
 http://enoksbok.se/cgi-bin/interlinear_greek.cgi
 
