@@ -155,6 +155,14 @@ And one of them that stood by drew a sword, and smote a servant of the high prie
 και αποκριθεις ο ιησους ειπεν αυτοις ως επι ληστην εξηλθετε μετα μαχαιρων και ξυλων συλλαβειν με
 
 And Jesus answered and said unto them, Are ye come out, as against a thief, with swords and [with] staves to take me ?
+#### 61
+ο δε εσιωπα και ουδεν απεκρινατο παλιν ο αρχιερευς επηρωτα αυτον και λεγει αυτω συ ει ο χριστος ο υιος του ευλογητου
+
+But he held his peace, and answered nothing. Again the high priest asked him, and said unto him, Art thou the Christ, the Son of the Blessed ?
+#### 62
+ο δε ιησους ειπεν εγω ειμι και οψεσθε τον υιον του ανθρωπου καθημενον εκ δεξιων της δυναμεως και ερχομενον μετα των νεφελων του ουρανου
+
+And Jesus said, I am: and ye shall see the Son of man sitting at the right hand of Power, and coming with the clouds of heaven.
 ## c15
 ### 2
 και επηρωτησεν αυτον ο πιλατος συ ει ο βασιλευς των ιουδαιων ο δε αποκριθεις ειπεν αυτω συ λεγεις
@@ -375,6 +383,11 @@ Think not that I am come to send peace on earth: I came not to send peace, but a
 και εχθροι του ανθρωπου οι οικιακοι αυτου
 
 And a man´s foes [shall be] they of his own household.
+### c11
+#### 27
+παντα μοι παρεδοθη υπο του πατρος μου και ουδεις επιγινωσκει τον υιον ει μη ο πατηρ ουδε τον πατερα τις επιγινωσκει ει μη ο υιος και ω εαν βουληται ο υιος αποκαλυψαι
+
+All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and [he] to whomsoever the Son will reveal [him].
 ## c12
 ### 24
 οι δε φαρισαιοι ακουσαντες ειπον ουτος ουκ εκβαλλει τα δαιμονια ει μη εν τω βεελζεβουλ αρχοντι των δαιμονιων

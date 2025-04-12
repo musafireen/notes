@@ -903,9 +903,11 @@ Now the seed in taking[18] on the additament takes it on with the need of (ulter
 
 otherwise, as there would always be subsidiaries, it would follow that a germ would always be arising from the seed. We shall now have to add to the seed another supplementation by subsidiaries themselves requiring an additament. 
 #### 9
-अथोपकारः कार्यार्थमपेक्ष्यमाणोऽपि बीजादिनिरपेक्षं कार्य जनयति तत्सापेक्षं वा ।
+अथोपकारः कार्यार्थमपेक्ष्यमाणोऽपि 
 
 If when this additament is given, the seed be productive only on condition of subsidiaries as before, there will be established an infinite regression of additaments to (or supplementations of) the seed, to be afforded by the subsidiaries.
+
+बीजादिनिरपेक्षं कार्य जनयति तत्सापेक्षं वा ।
 
 Again, we ask, does the supplementation required for the production of the effect produce its effect independently of the seed and the like, or does it require the seed and the like?
 

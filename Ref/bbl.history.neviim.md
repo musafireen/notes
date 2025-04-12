@@ -81,6 +81,27 @@ Zebulun and Naphtali [were] a people [that] jeoparded their lives unto the death
 בָּ֤אוּ מְלָכִים֙ נִלְחָ֔מוּ אָ֤ז נִלְחֲמוּ֙ מַלְכֵ֣י כְנַ֔עַן בְּתַעְנַ֖ךְ עַל־מֵ֣י מְגִדּ֑וֹ בֶּ֥צַע כֶּ֖סֶף לֹ֥א לָקָֽחוּ ׃
 
 The kings came [and] fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money.
+## c6
+#### 11
+וַיָּבֹ֞א מַלְאַ֣ךְ יְהוָ֗ה וַיֵּ֙שֶׁב֙ תַּ֤חַת הָֽאֵלָה֙ אֲשֶׁ֣ר בְּעָפְרָ֔ה אֲשֶׁ֥ר לְיוֹאָ֖שׁ אֲבִ֣י הָֽעֶזְרִ֑י וְגִדְע֣וֹן בְּנ֗וֹ חֹבֵ֤ט חִטִּים֙ בַּגַּ֔ת לְהָנִ֖יס מִפְּנֵ֥י מִדְיָֽן ׃
+
+And there came an angel of the LORD, and sat under an oak which [was] in Ophrah, that [pertained] unto Joash the Abiezrite: and his son Gideon threshed wheat by the winepress, to hide [it] from the Midianites. (Gideon: Gr. Gedeon)
+#### 12
+וַיֵּרָ֥א אֵלָ֖יו מַלְּאַ֣ךְ יְהוָ֑ה וַיֹּ֣אמֶר אֵלָ֔יו יְהוָ֥ה עִמְּךָ֖ גִּבּ֥וֹר הֶחָֽיִל ׃
+
+And the angel of the LORD appeared unto him, and said unto him, The LORD [is] with thee, thou mighty man of valour.
+#### 14
+וַיִּ֤פֶן אֵלָיו֙ יְהוָ֔ה וַיֹּ֗אמֶר לֵ֚ךְ בְּכֹחֲךָ֣ זֶ֔ה וְהוֹשַׁעְתָּ֥ אֶת־יִשְׂרָאֵ֖ל מִכַּ֣ף מִדְיָ֑ן הֲלֹ֖א שְׁלַחְתִּֽיךָ ׃
+
+And the LORD looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee?
+#### 22
+וַיַּ֣רְא גִּדְע֔וֹן כִּֽי־מַלְאַ֥ךְ יְהוָ֖ה ה֑וּא ס וַיֹּ֣אמֶר גִּדְע֗וֹן אֲהָהּ֙ אֲדֹנָ֣י יְהוִ֔ה כִּֽי־עַל־כֵּ֤ן רָאִ֙יתִי֙ מַלְאַ֣ךְ יְהוָ֔ה פָּנִ֖ים אֶל־פָּנִֽים ׃
+
+And when Gideon perceived that he [was] an angel of the LORD, Gideon said, Alas, O Lord GOD ! for because I have seen an angel of the LORD face to face.
+#### 23
+וַיֹּ֨אמֶר ל֧וֹ יְהוָ֛ה שָׁל֥וֹם לְךָ֖ אַל־תִּירָ֑א לֹ֖א תָּמֽוּת ׃
+
+And the LORD said unto him, Peace [be] unto thee; fear not: thou shalt not die.
 ## c19
 #### 22
 הֵמָּה֮ מֵיטִיבִ֣ים אֶת־לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי־בְלִיַּ֗עַל נָסַ֙בּוּ֙ אֶת־הַבַּ֔יִת מִֽתְדַּפְּקִ֖ים עַל־הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל־הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙ לֵאמֹ֔ר הוֹצֵ֗א אֶת־הָאִ֛ישׁ אֲשֶׁר־בָּ֥א אֶל־בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ ׃

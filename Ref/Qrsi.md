@@ -15572,6 +15572,11 @@ His father said: "My son! Do not relate your dream to your brothers lest they ha
 (As you have seen in the dream), so will your Lord choose you (for His task) and will impart to you the comprehension of the deeper meaning of things and will bestow the full measure of His favour upon you and upon the house of Jacob even as He earlier bestowed it in full measure upon your forefathers, Abraham and Isaac. Surely your Lord is All- Knowing, All-Wise."
 
 
+## r12.2.2
+
+[Q.12.8-20](https://www.islamicstudies.info/tafheem.php?sura=12&verse=8&to=20)
+12.8-20
+
 ### 12:8
 إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَـٰلٍ مُّبِينٍ
 
@@ -31569,9 +31574,7 @@ And establish the Prayer at the two ends of the day and in the first hours of th
 
 ![[#r12.1.1]]
 ![[#r12.1.2]]
-![[#r12.10.1]]
-![[#r12.11.1]]
-![[#r12.12.1]]
+
 ## r12.1.1
 
 [Q.12.1-3](https://www.islamicstudies.info/tafheem.php?sura=12&verse=1&to=3)
@@ -31601,10 +31604,11 @@ We have revealed it as a Recitation1 in Arabic that you may fully understand2.
 12.7-20
 
 ![[#r12.2.1]]
+![[#r12.2.2]]
 ## r12.2.1
 
-[Q.12.7-20](https://www.islamicstudies.info/tafheem.php?sura=12&verse=7&to=20)
-12.7-20
+[Q.12.7](https://www.islamicstudies.info/tafheem.php?sura=12&verse=7&to=7)
+12.7-7
 
 ### 12:7
 ۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَـٰتٌ لِّلسَّآئِلِينَ

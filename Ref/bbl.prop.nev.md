@@ -459,6 +459,23 @@ But thou, Bethlehem Ephratah, [though] thou be little among the thousands of Jud
 ## haggai
 
 ## zechariah
+### c2
+##### 7
+וְהִנֵּ֗ה הַמַּלְאָ֛ךְ הַדֹּבֵ֥ר בִּ֖י יֹצֵ֑א וּמַלְאָ֣ךְ אַחֵ֔ר יֹצֵ֖א לִקְרָאתֽוֹ ׃
+
+Deliver thyself, O Zion, that dwellest [with] the daughter of Babylon.
+##### 8
+וַיֹּ֣אמֶר אֵלָ֔ו רֻ֗ץ דַּבֵּ֛ר אֶל־הַנַּ֥עַר הַלָּ֖ז לֵאמֹ֑ר פְּרָזוֹת֙ תֵּשֵׁ֣ב יְרוּשָׁלִַ֔ם מֵרֹ֥ב אָדָ֛ם וּבְהֵמָ֖ה בְּתוֹכָֽהּ ׃
+
+For thus saith the LORD of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.
+#### 9
+וַאֲנִ֤י אֶֽהְיֶה־לָּהּ֙ נְאֻם־יְהוָ֔ה ח֥וֹמַת אֵ֖שׁ סָבִ֑יב וּלְכָב֖וֹד אֶֽהְיֶ֥ה בְתוֹכָֽהּ ׃ פ
+
+For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the LORD of hosts hath sent me.
+#### 10
+ה֣וֹי ה֗וֹי וְנֻ֛סוּ מֵאֶ֥רֶץ צָפ֖וֹן נְאֻם־יְהוָ֑ה כִּ֠י כְּאַרְבַּ֞ע רוּח֧וֹת הַשָּׁמַ֛יִם פֵּרַ֥שְׂתִּי אֶתְכֶ֖ם נְאֻם־יְהוָֽה ׃
+
+Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the LORD.
 ### c3
 #### 1
 וַיַּרְאֵ֗נִי אֶת־יְהוֹשֻׁ֙עַ֙ הַכֹּהֵ֣ן הַגָּד֔וֹל עֹמֵ֕ד לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן עֹמֵ֥ד עַל־יְמִינ֖וֹ לְשִׂטְנֽוֹ ׃

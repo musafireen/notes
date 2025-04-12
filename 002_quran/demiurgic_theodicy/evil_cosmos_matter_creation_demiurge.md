@@ -49,7 +49,7 @@ Pharaoh drowned which is worst form of death
 152b-141b
 ### daniel.7
 165b ch 7-12 antiochus epiphanies temple desecration 
-![[bbl.prophecy.ketuvim#daniel#c7#13]]
+![[bbl.prop.ketuvim#daniel#c7#13]]
 ### milchama
 70b
 Kittim

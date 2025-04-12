@@ -237,7 +237,7 @@
 ![[Qrsd#14:4]]
 # 14:50
 ![[Qrsd#14:49]]![[Qrsd#14:50]]
-![[bbl.prophecy.ketuvim#daniel#c3#21]]![[bbl.prophecy.ketuvim#daniel#c3#27]]
+![[bbl.prop.ketuvim#daniel#c3#21]]![[bbl.prop.ketuvim#daniel#c3#27]]
 [سرابيل <f سربال f ܫܪܒܠܐ or קַרְטֵיסָא or סַרְבָּלָא <  šarawāra \| شلوار ](https://en.m.wiktionary.org/wiki/%D8%B3%D8%B1%D8%A8%D8%A7%D9%84)
 
 

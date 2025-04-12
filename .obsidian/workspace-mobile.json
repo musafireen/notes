@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.apcryph.ethp.md",
+                "file": "Ref/bbl.prop.ketuvim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bbl.apcryph.ethp"
+              "title": "bbl.prop.ketuvim"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk4.md",
+                "file": "002_quran/sharif/worst_of_the_best_more_visible.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shirk4"
+              "title": "worst_of_the_best_more_visible"
             }
           },
           {
@@ -251,16 +251,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/001_chhatak/mejo_mama/Ghulat/Fitrah khalq form idea idos/nietzsche platonic idea vs thucydides type degeneration hypocracy.md",
+                "file": "002_quran/sharif/athens_democracy_ostracize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nietzsche platonic idea vs thucydides type degeneration hypocracy"
+              "title": "athens_democracy_ostracize"
+            }
+          },
+          {
+            "id": "0052ce140b916515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vegan/traditional_vegan_wisdom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "traditional_vegan_wisdom"
+            }
+          },
+          {
+            "id": "f7cdc1477efc48f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nature_archaeology/species.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "species"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -288,7 +316,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Molech",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -310,7 +338,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "52f2f15d1bae5ff6",
@@ -355,7 +383,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/arsph.md",
+            "file": "002_quran/sharif/worst_of_the_best_more_visible.md",
             "followCursor": true,
             "showSearch": true,
             "searchQuery": ""
@@ -373,50 +401,50 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "906d4dd5c5280b00",
+  "active": "00adfa2219d80aac",
   "lastOpenFiles": [
-    "Ref/arsph.md",
-    "Ref/hdt.hist.md",
-    "Ref/bbl.apcryph.ethp.md",
-    "Ref/bbl.torah.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk4.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/shirk.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah.md",
+    "002_quran/sharif/nobility.md",
+    "002_quran/sharif/worst_of_the_best_more_visible.md",
+    "002_quran/anbiya/ibrahim.md",
+    "Ref/Qrsi.md",
+    "002_quran/fida/fida.md",
+    "002_quran/fida",
+    "002_quran/kfr/shirk/shirk4.md",
+    "002_quran/haram/ka'bah_hajj_qurbani.md",
+    "002_quran/Qurbani/Qurbani_ismail_dinoysus_.md",
+    "Ref/mdhvA.SDS.md",
+    "002_quran/sharif/athens_democracy_ostracize.md",
+    "nature_archaeology/species.md",
+    "nature_archaeology/traditional plants.md",
+    "Ref/bbl.prop.ketuvim.md",
     "Ref/bbl.history.neviim.md",
     "Ref/bbl.prop.nev.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/shirk/interpratio_graeca.md",
-    "Ref/plotn.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/majuj/ionian lydian phrygian magog involvement.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/yunus.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/anbiya/yunus_jonah_arion.md",
-    "Ref/thuc.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Fitrah khalq form idea idos/nietzsche platonic idea vs thucydides type degeneration hypocracy.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Fitrah khalq form idea idos/fitrah khalq change.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sharif/expectation of equality ruins everything.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sharif/natives_vs_immigrants.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/sharif/nobility.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/islam/Iman/faith_conviction_iman_yaqin_indoctrination_dogma.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/islam/Iman/Iman.md",
-    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/hierarchy.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/puja.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/adad/Samkhya_kabbala_ghuli.md",
-    "Ref/lngP.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/dhurriyah",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/fahisha",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/dabbah_min_l_ard",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/istihza",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/Demus/Untitled",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/a'jamī/Indian",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/wiswas",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/tawhid",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/zabad/Itqan",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kawthar",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/74_31_arb.png",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/74_31_eng.png",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.png",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.png",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jinn_shaytan.png",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/shahadat/araf/Pythagorean_platonic/15194409_656388334522608_3437266025718668693_o.jpg",
+    "Ref/bbl.evngl.md",
+    "Ref/bbl.torah.md",
+    "Ref/bbl.apcryph.ethp.md",
+    "Vegan/traditional_vegan_wisdom.md",
+    "002_quran/sharif/natives_vs_immigrants.md",
+    "002_quran/Fitrah khalq form idea idos/nietzsche platonic idea vs thucydides type degeneration hypocracy.md",
+    "003_Ling/bangla/Bangla perisan turkish.md",
+    "003_Ling/Etymology story.md",
+    "003_Ling/english/stirrup styrope.md",
+    "003_Ling/greek_farsi_sanskrit_latin.md",
+    "003_Ling/english",
+    "003_Ling/bangla",
+    "002_quran/majuj/barbarian/tbetan/Tabari make yemeni arab into tibetan pala bengal.md",
+    "002_quran/majuj/dhulqarnayn",
+    "002_quran/majuj/barbarian/steppe",
+    "002_quran/majuj/barbarian/anatolian",
+    "002_quran/majuj/barbarian/steppe/vedic",
+    "002_quran/majuj/barbarian/steppe/iranian",
+    "002_quran/majuj/barbarian/mediterranean",
+    "002_quran/majuj/barbarian/nordic",
+    "002_quran/ahl_kitab/74_31_arb.png",
+    "002_quran/ahl_kitab/74_31_eng.png",
+    "002_quran/ahl_kitab/ahl_kitab.png",
+    "002_quran/kfr/nifaq/nifaq.png",
+    "002_quran/jinn/jinn_shaytan.png",
+    "002_quran/shahadat/araf/Pythagorean_platonic/15194409_656388334522608_3437266025718668693_o.jpg",
     "Ref/Pasted image 20241128002518.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
