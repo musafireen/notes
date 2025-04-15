@@ -195,7 +195,27 @@ Now these [are] the generations of Terah: Terah begat Abram, Nahor, and Haran; a
  וַיָּ֣מָת הָרָ֔ן עַל־פְּנֵ֖י תֶּ֣רַח אָבִ֑יו בְּאֶ֥רֶץ מוֹלַדְתּ֖וֹ בְּא֥וּר כַּשְׂדִּֽים ׃
  
 And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees.
+#### 31
+וַיִּקַּ֨ח תֶּ֜רַח אֶת־אַבְרָ֣ם בְּנ֗וֹ וְאֶת־ל֤וֹט בֶּן־הָרָן֙ בֶּן־בְּנ֔וֹ וְאֵת֙ שָׂרַ֣י כַּלָּת֔וֹ אֵ֖שֶׁת אַבְרָ֣ם בְּנ֑וֹ וַיֵּצְא֨וּ אִתָּ֜ם מֵא֣וּר כַּשְׂדִּ֗ים לָלֶ֙כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֥אוּ עַד־חָרָ֖ן וַיֵּ֥שְׁבוּ
+
+And Terah took Abram his son, and Lot the son of Haran his son´s son, and Sarai his daughter in law, his son Abram´s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.
+#### 32
+וַיִּהְי֣וּ יְמֵי־תֶ֔רַח חָמֵ֥שׁ שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיָּ֥מָת תֶּ֖רַח בְּחָרָֽן ׃ ס
+
+And the days of Terah were two hundred and five years: and Terah died in Haran.
 ## c12
+#### 1
+וַיֹּ֤אמֶר יְהוָה֙ אֶל־אַבְרָ֔ם לֶךְ־לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יךָ אֶל־הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽךָּ ׃
+
+Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father´s house, unto a land that I will shew thee:
+#### 2
+וְאֶֽעֶשְׂךָ֙ לְג֣וֹי גָּד֔וֹל וַאֲבָ֣רֶכְךָ֔ וַאֲגַדְּלָ֖ה שְׁמֶ֑ךָ וֶהְיֵ֖ה בְּרָכָֽה ׃
+
+And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:
+#### 3
+וַאֲבָֽרֲכָה֙ מְבָ֣רְכֶ֔יךָ וּמְקַלֶּלְךָ֖ אָאֹ֑ר וְנִבְרְכ֣וּ בְךָ֔ כֹּ֖ל מִשְׁפְּחֹ֥ת הָאֲדָמָֽה ׃
+
+And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.
 #### 5
 וַיִּקַּ֣ח אַבְרָם֩ אֶת־שָׂרַ֨י אִשְׁתּ֜וֹ וְאֶת־ל֣וֹט בֶּן־אָחִ֗יו וְאֶת־כָּל־רְכוּשָׁם֙ אֲשֶׁ֣ר רָכָ֔שׁוּ וְאֶת־הַנֶּ֖פֶשׁ אֲשֶׁר־עָשׂ֣וּ בְחָרָ֑ן וַיֵּצְא֗וּ לָלֶ֙כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֖אוּ אַ֥רְצָה כְּנָֽעַן ׃
 
@@ -220,6 +240,19 @@ And Abram journeyed, going on still toward the south.
 וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨רֶד אַבְרָ֤ם מִצְרַ֙יְמָה֙ לָג֣וּר שָׁ֔ם כִּֽי־כָבֵ֥ד הָרָעָ֖ב בָּאָֽרֶץ ׃
 
 And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine [was] grievous in the land.
+## c15
+#### 3
+וַיֹּאמֶר אַבְרָם הֵן לִי לֹא נָתַתָּה זָרַע וְהִנֵּהבֶן-בֵּיתִייוֺרֵשׁ אֹתִי 
+
+And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir. 
+#### 5
+וַיּוֹצֵ֨א אֹת֜וֹ הַח֗וּצָה וַיֹּ֙אמֶר֙ הַבֶּט־נָ֣א הַשָּׁמַ֗יְמָה וּסְפֹר֙ הַכּ֣וֹכָבִ֔ים אִם־תּוּכַ֖ל לִסְפֹּ֣ר אֹתָ֑ם וַיֹּ֣אמֶר ל֔וֹ כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ ׃
+
+And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be.
+#### 7
+וַיֹּ֖אמֶר אֵלָ֑יו אֲנִ֣י יְהוָ֗ה אֲשֶׁ֤ר הוֹצֵאתִ֙יךָ֙ מֵא֣וּר כַּשְׂדִּ֔ים לָ֧תֶת לְךָ֛ אֶת־הָאָ֥רֶץ הַזֹּ֖את לְרִשְׁתָּֽהּ ׃
+
+And he said unto him, I [am] the LORD that brought thee out of Ur of the Chaldees, to give thee this land to inherit it.
 ## c17
 #### 19
 וַיֹּאמֶר אֱלֹהִים אֲבָל שָׂרָה אִשְׁתְּךׇ יֹלֶדֶת לְךׇ בֵּן וְקָרָאתָ אֶת-שְׁמוֺ יִצְחָק וַהֲקִמֹתִי אֶת-בְּרִיתִי אִתּוֺ לִבְרִית עוֺלָם לְזַרְעוֺ אַחֲרָיו
@@ -256,6 +289,50 @@ And God opened her eyes, and she saw a well of water; and she went, and filled t
 וַיֵּ֖שֶׁב בְּמִדְבַּ֣ר פָּארָ֑ן וַתִּֽקַּֽח־ל֥וֹ אִמּ֛וֹ אִשָּׁ֖ה מֵאֶ֥רֶץ מִצְרָֽיִם ׃ פ
 
 And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt.
+## c22
+#### 1
+וַיְהִי אַחַר הַדְּבָרִים הָאֵלֶּה וְהָאֱלֹהִים נִסָּהאֶת-אַבְרָהָםוַיֹּאמֶר אֵלָיו אַבְרָהָם וַיֹּאמֶר הִנֵּנִי 
+
+And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, [here] I [am].
+#### 2
+וַיֹּאמֶרקַח-נָאאֶת-בִּנְךׇאֶת-יְחִידְךׇאֲשֶׁר-אָהַבְתָּאֶת-יִצְחָקוְלֶךְ-לְךׇאֶל-אֶרֶץהַמֹּרִיָּה וְהַעֲלֵהוּ שָׁם לְעֹלָה עַל אַחַד הֶהָרִים אֲשֶׁר אֹמַר אֵלֶיךׇ 
+
+And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of. 
+#### 3
+וַיַּשְׁכֵּם אַבְרָהָם בַּבֹּקֶר וַיַּחֲבֹשׁאֶת-חֲמֹרוֺוַיִּקַּחאֶת-שְׁנֵינְעָרָיו אִתּוֺ וְאֵת יִצְחָק בְּנוֺ וַיְבַקַּע עֲצֵי עֹלָה וַיָּקָם וַיֵּלֶךְאֶל-הַמָּקוֺםאֲשֶׁר-אָמַר-לוֺהָאֱלֹהִים 
+
+And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.
+#### 7
+וַיֹּ֨אמֶר יִצְחָ֜ק אֶל־אַבְרָהָ֤ם אָבִיו֙ וַיֹּ֣אמֶר אָבִ֔י וַיֹּ֖אמֶר הִנֶּ֣נִּֽי בְנִ֑י וַיֹּ֗אמֶר הִנֵּ֤ה הָאֵשׁ֙ וְהָ֣עֵצִ֔ים וְאַיֵּ֥ה הַשֶּׂ֖ה לְעֹלָֽה ׃
+
+And Isaac spake unto Abraham his father, and said, My father: and he said, Here [am] I, my son. And he said, Behold the fire and the wood: but where [is] the lamb for a burnt offering ?
+#### 8
+וַיֹּ֙אמֶר֙ אַבְרָהָ֔ם אֱלֹהִ֞ים יִרְאֶה־לּ֥וֹ הַשֶּׂ֛ה לְעֹלָ֖ה בְּנִ֑י וַיֵּלְכ֥וּ שְׁנֵיהֶ֖ם יַחְדָּֽו ׃
+
+And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together. 
+#### 9
+וַיָּבֹ֗אוּ אֶֽל־הַמָּקוֹם֮ אֲשֶׁ֣ר אָֽמַר־ל֣וֹ הָאֱלֹהִים֒ וַיִּ֨בֶן שָׁ֤ם אַבְרָהָם֙ אֶת־הַמִּזְבֵּ֔חַ וַֽיַּעֲרֹ֖ךְ אֶת־הָעֵצִ֑ים וַֽיַּעֲקֹד֙ אֶת־יִצְחָ֣ק בְּנ֔וֹ וַיָּ֤שֶׂם אֹתוֹ֙ עַל־הַמִּזְבֵּ֔חַ מִמַּ֖עַל לָעֵצִֽים ׃
+
+And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood. 
+#### 10
+10וַיִּשְׁלַח אַבְרָהָםאֶת-יָדוֺוַיִּקַּחאֶת-הַמַּאֲכֶלֶתלִשְׁחֹטאֶת-בְּנוֺ
+
+And Abraham stretched forth his hand, and took the knife to slay his son. 
+#### 11
+11וַיִּקְרָא אֵלָיו מַלְאַךְ יְהוָהמִן-הַשָּׁמַיִםוַיֹּאמֶר אַבְרָהָם אַבְרָהָם וַיֹּאמֶר הִנֵּנִי 
+
+And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here [am] I. 
+#### 12
+12וַיֹּאמֶראַל-תִּשְׁלַחיָדְךׇאֶל-הַנַּעַרוְאַל-תַּעַשׂלוֺ מְאוּמָה כִּי עַתָּה יָדַעְתִּיכִּי-יְרֵאאֱלֹהִים אַתָּה וְלֹא חָשַׂכְתָּאֶת-בִּנְךׇאֶת-יְחִידְךׇמִמֶּנִּי 
+
+And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only [son] from me. 
+#### 13
+וַיִּשָּׂ֨א אַבְרָהָ֜ם אֶת־עֵינָ֗יו וַיַּרְא֙ וְהִנֵּה־אַ֔יִל אַחַ֕ר נֶאֱחַ֥ז בַּסְּבַ֖ךְ בְּקַרְנָ֑יו וַיֵּ֤לֶךְ אַבְרָהָם֙ וַיִּקַּ֣ח אֶת־הָאַ֔יִל וַיַּעֲלֵ֥הוּ לְעֹלָ֖ה תַּ֥חַת בְּנֽוֹ ׃
+
+And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. 
+#### 14
+וַיִּקְרָא אַבְרָהָםשֵׁם-הַמָּקוֺםהַהוּא יְהוָה יִרְאֶה אֲשֶׁר יֵאָמֵר הַיּוֺם בְּהַר יְהוָה יֵרָאֶה
+And Abraham called the name of that place Jehovahjireh: as it is said [to] this day, In the mount of the LORD it shall be seen.
 ## c36
 #### 2
 עֵשָׂ֛ו לָקַ֥ח אֶת־נָשָׁ֖יו מִבְּנ֣וֹת כְּנָ֑עַן אֶת־עָדָ֗ה בַּת־אֵילוֹן֙ הַֽחִתִּ֔י וְאֶת־אָהֳלִֽיבָמָה֙ בַּת־עֲנָ֔ה בַּת־צִבְע֖וֹן הַֽחִוִּֽי ׃
@@ -761,7 +838,10 @@ And Israel joined himself unto Baalpeor: and the anger of the LORD was kindled a
 עֵֽינֵיכֶם֙ הָֽרֹאֹ֔ת אֵ֛ת אֲשֶׁר־עָשָׂ֥ה יְהוָ֖ה בְּבַ֣עַל פְּע֑וֹר כִּ֣י כָל־הָאִ֗ישׁ אֲשֶׁ֤ר הָלַךְ֙ אַחֲרֵ֣י בַֽעַל־פְּע֔וֹר הִשְׁמִיד֛וֹ יְהוָ֥ה אֱלֹהֶ֖יךָ מִקִּרְבֶּֽךָ ׃
 
 Your eyes have seen what the LORD did because of Baalpeor: for all the men that followed Baalpeor, the LORD thy God hath destroyed them from among you.
+#### 19
+וּפֶן־תִּשָּׂ֨א עֵינֶ֜יךָ הַשָּׁמַ֗יְמָה וְֽ֠רָאִיתָ אֶת־הַשֶּׁ֨מֶשׁ וְאֶת־הַיָּרֵ֜חַ וְאֶת־הַכּֽוֹכָבִ֗ים כֹּ֚ל צְבָ֣א הַשָּׁמַ֔יִם וְנִדַּחְתָּ֛ וְהִשְׁתַּחֲוִ֥יתָ לָהֶ֖ם וַעֲבַדְתָּ֑ם אֲשֶׁ֨ר חָלַ֜ק יְהוָ֤ה אֱלֹהֶ֙יךָ֙ אֹתָ֔ם לְכֹל֙ הָֽעַמִּ֔ים תַּ֖חַת כָּל־הַשָּׁמָֽיִם ׃
 
+And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, [even] all the host of heaven, shouldest be driven to worship them, and serve them, which the LORD thy God hath divided unto all nations under the whole heaven.
 ## c6
 
 #### 4

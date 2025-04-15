@@ -99,7 +99,7 @@ Book of parables
 Not found in qumran
 70 jewish-christian based on watchers, sybilline oracles
 
-[[bbl.apcryph.ethp#enoch#37]]
+[[bbl.apcr.eth#enoch#37]]
 
 **1 Enoch**: In sections like the _Similitudes of Enoch_ (1 Enoch 37–71), the figure of the "Son of Man" or "Chosen One" is portrayed with divine-like authority, leading to interpretations of dual powers or hypostases in heaven.
 ## john

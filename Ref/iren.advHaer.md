@@ -106,6 +106,6 @@ All the followers of Valentinus, therefore, lose their case, when they say that 
 Wherefore also the Scripture, pointing out what should come to pass, says, that when Adam had hid himself because of his disobedience, the Lord came to him at eventide, called him forth, and said, 
 
 Where are you? Genesis 3:9 
-[[bbl.torah#c3#9]]
+[[bbl.tor#c3#9]]
 
 That means that in the last times the very same Word of God came to call man, reminding him of his doings, living in which he had been hidden from the Lord. For just as at that time God spoke to Adam at eventide, searching him out; so in the last times, by means of the same voice, searching out his posterity, He has visited them.

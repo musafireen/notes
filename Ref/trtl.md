@@ -26,7 +26,7 @@ But yet, when evil afterwards broke out, and the goodness of God began now to ha
 Even His severity then is good, because just: when the judge is good, that is just. Other. qualities likewise are good, by means of which the good work of a good severity runs out its course, whether wrath, or jealousy, or sternness. For all these are as indispensable to severity as severity is to justice. The shamelessness of an age, which ought to have been reverent, had to be avenged. Accordingly, qualities which pertain to the judge, when they are actually free from blame, as the judge himself is, will never be able to be charged upon him as a fault. What would be said, if, when you thought the doctor necessary, you were to find fault with his instruments, because they cut, or cauterize, or amputate, or tighten; whereas there could be no doctor of any value without his professional tools? Censure, if you please, the practitioner who cuts badly, amputates clumsily, is rash in his cautery; and even blame his implements as rough tools of his art. Your conduct is equally unreasonable, when you allow indeed that God is a judge, but at the same time destroy those operations and dispositions by which He discharges His judicial functions. We are taught God by the prophets, and by Christ, not by the philosophers nor by Epicurus. We who believe that God really lived on earth, and took upon Him the low estate of human form, for the purpose of man's salvation, are very far from thinking as those do who refuse to believe that God cares for anything. Whence has found its way to the heretics an argument of this kind: 
 
 If God is angry, and jealous, and roused, and grieved, He must therefore be corrupted, and must therefore die. 
-[[bbl.torah#exod#c20#5]]
+[[bbl.tor#exod#c20#5]]
 
 Fortunately, however, it is a part of the creed of Christians even to believe that God did die, and yet that He is alive for evermore. Superlative is their folly, who prejudge divine things from human; so 310
 
@@ -37,7 +37,7 @@ that, because in man's corrupt condition there are found passions of this descri
 But what parts of the law can I defend as good with a greater confidence than those which heresy has shown such a longing for?--
 
 as the statute of retaliation, requiring eye for eye, tooth for tooth, and stripe for stripe. 
-[[bbl.torah#exod#c21#24]]
+[[bbl.tor#exod#c21#24]]
 
 Now there is not here any smack of a permission to mutual injury; but rather, on the whole, a provision for restraining violence. To a people which was very obdurate, and wanting in faith towards God, it might seem tedious, and even incredible, to expect from God that vengeance which was subsequently to be declared by the prophet: 
 
@@ -79,12 +79,12 @@ What sort of stigmas pertains to these, congruous as they are with God's judicia
 It is now high time that I should, in order to meet all objections of this kind, proceed to the explanation and clearing up of the other trifles, weak points, and inconsistencies, as you deemed them. 
 
 God calls out to Adam, Where art thou? 
-[[bbl.torah#gen#c3#9]]
+[[bbl.tor#gen#c3#9]]
 
 as if ignorant where he was; 
 
 and when he alleged that the shame of his nakedness was the cause (of his hiding himself), He inquired whether he had eaten of the tree, 
-[[bbl.torah#gen#c3#11]]
+[[bbl.tor#gen#c3#11]]
 
 as if He were in doubt. By no means; God was neither uncertain about the commission of the sin, nor ignorant of Adam's whereabouts. It was certainly proper to summon the offender, who was concealing himself from the consciousness of his sin, and to bring him forth into the presence of his Lord, not merely by the calling out of his name, but 317
 
@@ -111,7 +111,7 @@ But I would have attacked Marcion's own Antitheses in closer and fuller combat, 
 Well, even here, too, I will allow that in these causes 
 
 my God has been a jealous God, 
-[[bbl.torah#exod#c20#5]]
+[[bbl.tor#exod#c20#5]]
 
 who has in His own right taken especial care that all things done by Him should be in their beginning of a robuster growth; and this in the way of a good, because rational emulation, which tends to maturity. In this sense the world itself will acknowledge His "antitheses," from the contrariety of its own elements, although it has been regulated with the very highest reason. Wherefore, most thoughtless Marcion, it was your duty to have shown that one (of the two Gods you teach) was a God of light, and the other a God of darkness; and then you would have found it an easier task to persuade us that one was a God of goodness, the other a God of severity. How ever, the "antithesis" (or variety of administration) will rightly be His property, to whom it actually belongs in (the government of) the world.
 ## b4
@@ -133,7 +133,7 @@ These commands the Creator included in one precept by His prophet Isaiah:
 For if they who are our enemies, and hate us, and speak evil of us, and calumniate us, are to be called our brethren, surely He did in effect bid us bless them that hate us, and pray for them who calumniate us, when He instructed us to reckon them as brethren. Well, but Christ plainly teaches a new kind of patience, when He actually prohibits the reprisals which the Creator permitted in requiring 
 
 "an eye for an eye, and a tooth for a tooth," 
-[[bbl.torah#exod#c21#24]]
+[[bbl.tor#exod#c21#24]]
 
 and bids us, on the contrary, 
 
@@ -209,7 +209,7 @@ mony, does really threaten as a judge. Again, that it was no new god which recom
 the recompenses of their reward from God. "See," says Isaiah, "how the righteous perisheth, and no man layeth it to heart; and just men are taken away, and no man considereth." When does this more frequently happen than in the persecution of His saints? This, indeed, is no ordinary matter, no common casualty of the law of nature; but it is that illustrious devotion, that fighting for the faith, wherein whosoever loses his life for God saves it, so that you may here again recognize the Judge who recompenses the evil gain of life with its destruction, and the good loss thereof with its salvation. 
 
 It is, however, a jealous God whom He here presents to me 
-[[bbl.torah#c20#5]]
+[[bbl.tor#c20#5]]
 
 one who returns evil for evil. 
 
@@ -226,12 +226,12 @@ Father,)and own Thee, Lord of heaven, because those things which had been hidden
 However, if they had even failed in any duty towards a god whom they knew not, suppose him now at last to be known still they ought not to have found 
 
 a jealous god 
-[[bbl.torah#exod#c20#5]]
+[[bbl.tor#exod#c20#5]]
 
 in him who is introduced as unlike the Creator. Therefore, since he had neither provided any materials in which he could have hidden anything, nor had any offenders from whom he could have hidden himself: since, again, even if he had had any, he ought not to have hidden himself from them, he will not now be himself the revealer, who was not previously the concealer; so neither will any be the Lord of heaven nor the Father of Christ but He in whom all these attributes consistently meet. For He conceals by His preparatory apparatus of prophetic obscurity, the understanding of which is open to faith (for "if ye will not believe, ye shall not understand"; and He had offenders in those wise and prudent ones who would not seek after God, although He was to be discovered in His so many and mighty works, or who rashly philosophized about Him, and thereby furnished to heretics their arts; and lastly, 
 
 He is a jealous God. 
-[[bbl.torah#exod#c20#5]]
+[[bbl.tor#exod#c20#5]]
 
 Accordingly, that which Christ thanks God for doing, He long ago announced by Isaiah: 
 
@@ -266,6 +266,6 @@ will give Thee the heathen for Thine inheritance." "And all that glory shall ser
 Him the blessings which issue from the same. If (on the other hand) you will have it that it is the coming of your Christ, then, when you ascribe to him the blessings which are to be the result of his advent, you are obliged to impute to him likewise the infliction of the evils which precede his appearance. For the evils which precede, and the blessings which immediately follow, the coming of the Son of man, are both alike indissolubly connected with that event. Consider, therefore, which of the two Christs you choose to place in the person of the Son of man, to whom you may refer the execution of the two dispensations. You make either the Creator a most beneficent God, or else your own god terrible in his nature! Reflect, in short, on the picture presented in the parable: "Behold the fig-tree, and all the trees; when they produce their fruit, men know that summer is at hand. So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is very near." Now, if the fructification of the common trees be an antecedent sign of the approach of summer, so in like manner do the great conflicts of the world indicate the arrival of that kingdom which they precede. But every sign is His, to whom belong the thing of which it is the sign; and to everything is appointed its sign by Him to whom the thing belongs. If, therefore, these tribulations are the signs of the kingdom, just as the maturity of the trees is of the summer, it follows that the kingdom is the Creator's to whom are ascribed the tribulations which are the signs of the kingdom. Since the beneficent Deity had premised that these things must needs come to pass, although so terrible and dreadful, as they had been predicted by the law and the prophets, therefore He did not destroy the law and the prophets, when He affirmed that what had been foretold therein must be certainly fulfilled. He further declares, "that heaven and earth shall not pass away till all things be fulfilled." What things, pray, are these? Are they the things which the Creator made? Then the elements will tractably endure the accomplishment of their Maker's dispensation. If, however, they emanate from your excellent god, I much doubt whether the heaven and earth will peaceabIy allow the completion of things which their Creator's enemy has determined! If the Creator quietly submits to this, then 
 
 He is no "jealous God." 
-[[bbl.torah#exod#c20#5]]
+[[bbl.tor#exod#c20#5]]
 
 But let heaven and earth pass away, since their Lord has so determined; only let His word remain for evermore! And so Isaiah predicted that it should. Let the disciples also be warned, "lest their hearts be overcharged with surfeiting and drunkenness, and cares of this world; and so that day come upon them unawares, like a snare "--if indeed they should forget God amidst the abundance and occupation of the world. Like this will be found the admonition of Moses,--so that He who delivers from "the snare" of that day is none other than He who so long before addressed to men the same admonition? Some places there were in Jerusalem where to teach; other places outside Jerusalem whither to retire--"in the day-time He was teaching in the temple;" just as He had foretold by Hosea: "In my house did they find me, and there did I speak with them." "But at night He went out to the Mount of Olives." For thus had Zechariah pointed out: "And His feet shall stand in that day on the Mount of Olives." Fit hours for an audience there also were. "Early in the morning" must they resort to Him, who (having said by Isaiah, "The Lord giveth me the tongue of the learned") added, "He hath appointed me the morning, and hath also given me an ear to hear." Now if this is to destroy the prophets, what will it be to fulfil them?

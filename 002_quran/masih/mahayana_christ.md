@@ -15,8 +15,8 @@ Rājanartakī
 
 ## magdalene
 
-:[[bbl.apcryph.gnos#evangel_maria]]
+:[[bbl.apcr.gnos#evangel_maria]]
 
-:[[bbl.apcryph.gnos#evangel_thomas]]
+:[[bbl.apcr.gnos#evangel_thomas]]
 # hemis
 

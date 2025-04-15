@@ -88,6 +88,249 @@ me to it, bidding also my wife and her daughter. Forasmuch then as they were my 
 # evgl.phil
 # evgl.mar
 # abrhm
+https://www.pseudepigrapha.com/pseudepigrapha/Apocalypse_of_Abraham.html
+
+https://www.marquette.edu/maqom/kuliktranslation.html
+
+i. Prehistory: Abraham The Iconoclast (1–8)
+
+i.i. Abraham Tests Idols (1–2)
+
+### c1
+i.i.i. Fall of Mar-Umath (1)
+
+1:1 
+On the day when I was destroying the gods of my father Terah and the gods of my brother Nahor, when I was testing which one was the truly strong god, 
+1:2 
+at the time when my lot came up, when I had finished the services of my father Terah’s sacrifice to his gods of wood, stone, gold, silver, brass and iron, 
+1:3 
+I, Abraham, having entered their temple for the service, found a god named Mar-Umath, carved out of stone, fallen at the feet of an iron god, Nakhon. 
+1:4 
+And it came to pass, that when I saw this, my heart was troubled. And I fell to thinking, because I, Abraham, was unable to return him to his place all by myself, since he was heavier than a great stone. 
+1:5 
+And I went and told my father. And he entered with me. 
+1:6 
+And as we both were moving him [Mar-Umath] to return him in his place, his head fell off of him, while I was still holding him by his head. 
+1:7 
+And it came to pass, when my father saw that the head of Mar-Umath had fallen off of him, he said to me, “Abraham!” 
+1:8 
+And I said, “Here am I!” And he said to me, “Bring me an axe and a chisel from the house.” 
+1:9 
+And I brought [them] to him from the house. And he carved another Mar-Umath, out of another stone, without a head, and [placed on him] the head that had been thrown down from Mar-Umath, and smashed the rest of Mar-Umath.
+
+### c2
+
+i.i.ii. Fall of Five Idols (2)
+
+2:1 
+And he made five other gods, and he gave them to me [and] told me to sell them outside in the street of the town. 
+2:2 
+And I saddled my father’s ass and put them on it [and] went out to the main road to sell them. 
+2:3 And behold, merchants from Paddan Aram came with camels to go to Egypt to buy kokonil from the Nile there. 
+2:4 
+And I greeted them and they answered me. And I began to talk with them. One of their camels bellowed. The ass took fright and he ran and threw down the gods. And three of them were smashed and two remained. 
+2:5 
+And it came to pass, when the Syrians saw that I had gods, they said to me, “Why did you not tell us that you had gods? We would have bought them before the ass heard the camel’s cry and you would have had no loss. 
+2:6 
+Give us at least the remaining gods and we will give you a proper price.” 
+2:7 
+And I thought [it over] in my heart. And they gave [also] the price of the smashed gods for the gods that remained. 
+2:8 
+Since I had been distressed in my heart [wondering], “How would I let my father know about the matter?!” 
+2:9 
+And the debris of the smashed [gods] I cast into the water of the river Gur, which was at that place. And they sank into the depths and were no more.
+
+### c3
+
+i.ii. Abraham Reflects on Idolatry (3)
+
+3:1 
+And while I was still walking on the road, my heart was disturbed and my mind was distracted. And I said in my heart, 
+3:2 
+“What is the profit of the labor which my father is doing? 3:3 
+Is not he rather a god of his gods, since by his sculpting, carving and skill they come into being? 
+3:4 
+It would be more fitting for them to worship my father, since they are his work. What gain is there for my father in his own works? 
+3:5 
+Behold, Mar-Umath fell and was unable to get up again in his own temple, nor could I lift him on my own, until my father came and we both lifted him. 
+3:6 
+And as we were unable, his head fell off of him. And he placed it on another stone of another god, which he had made without a head. 
+3:7 
+And [likewise were] the other five gods which were smashed down from the ass, which were able neither to save themselves nor to hurt the ass for it smashed them, nor did their shards come up from the river.” 
+3:8 
+And I said to myself, “If it is thus, how then can my father’s god, Mar-Umath, having a head of one stone and [the rest] being made of another stone, save a man, or hear a man’s prayer and reward him?”
+
+i.iii. Abraham Preaches Monotheism (4–8)
+
+### c4
+
+i.iii.i. Attempt to Persuade Terah (4)
+
+4:1 
+And thinking thus, I came to my father’s house and watered the ass and set out hay for it. I brought out the money and gave it into the hand of my father Terah. 
+4:2 
+When he saw it, he was glad, and he said, “Blessed by my gods are you, Abraham, for you gave honor to the gods, so that my labor was not in vain!” 
+4:3 
+And I declared and said to him, “Hear, Terah, [my] father! It is the gods who are blessed by you, since you are a god to them, since you have made them; since their blessing is perdition, and their power is vain. 
+4:4 
+They could not help themselves, how [then] will they help you or bless me? 
+4:5 
+[In fact] I was for you a kind god of this gain, since it was through my cleverness that I brought you the money for the smashed [gods].” 
+4:6 
+And when he heard my word, his anger was kindled against me, since I had spoken harsh words against his gods.
+
+### c5
+i.iii.ii. Fall of Bar-Eshath (5)
+
+##### 5:1 
+When I saw my father’s anger, I went out. And afterward, when I had gone out, he called me, saying, “Abraham!” 
+##### 5:2 
+And I said, “Here am I!” 
+5:3 
+And he said, “Gather and take the splinters from the wood out of which I was making wooden gods before you came [and] cook me a meal!” 
+5:4 
+And it came to pass, when I was collecting the wooden splinters, I found among them a small god, lying among the pieces of wood on my left. 
+5:5 
+And on his forehead was written: “god Bar-Eshath.” 
+5:6 
+And it came to pass, when I found him, I held back and did not tell my father that I had found the wooden god Bar-Eshath among the chips. And it came to pass, after I had put the splinters on the fire, in order to cook food for my father, that I went out to ask about the food and I put Bar-Eshath near the hearth of fire, saying to him menacingly, 
+5:7 
+“Bar-Eshath, make sure that the fire does not go out before I come back. If the fire does go out, blow on it to make it flare up.” 
+5:8 
+[And] I went out, having kindled my fire. 
+5:9 
+When I came back again I found Bar-Eshath fallen backwards, his feet enveloped in fire and terribly burned. 
+5:10 
+Laughing greatly to myself, I said, “Bar-Eshath, you certainly are able to kindle fire and cook food!” 
+5:11 And it came to pass, while I was speaking laughingly, that he was gradually burned up by the fire and became ashes. 
+5:12 
+And I brought the food to my father, [and] he ate. 
+5:13 
+And I gave him wine and milk, and he drank and satiated himself and blessed Mar-Umath, his god. 
+5:14 
+And I said to him, “Father Terah, do not bless your god Mar-Umath, do not praise him! Praise rather your god Bar-Eshath because, in his love for you he threw himself into the fire in order to cook your food.” 
+5:15 
+And he said to me, “And where is he now?” 
+5:16 
+“He has been reduced to ashes in the fury of the fire and become dust.” 
+5:17 
+And he said, “Great is the power of Bar-Eshath! I shall make another today, and tomorrow he will make my food!”
+
+### c6
+i.iii.iii. Hierarchy of Gods (6)
+
+6:1 
+When I, Abraham, heard such words from my father, I [both] laughed in my mind and [yet] groaned in the bitterness and anger of my soul. 
+6:2 
+And I said, “How can a statue made by my father [ever] be his helper? 
+6:3 
+Or would he have subordinated his body to his soul, his soul to his spirit, then his spirit—to folly and ignorance?” 
+6:4 
+And I said, “Must one put up with evil? Let me risk my life for purity and I shall put forth my own clear thinking before him!” 
+6:5 
+I declared and said, “Father Terah, whichever of these gods you praise, you err in your thinking. 
+6:6 
+Behold, my brother Nahor’s gods standing in the holy temple are more honored than yours. 
+6:7 
+For behold, Zoukh, my brother Nahor’s god, is more honored than your god Mar-Umath, since he is made of gold sold by men. 
+6:8 
+And if he becomes worn out with the years, he will be remade, whereas Mar-Umath, if he is changed or broken, will not be remade, since he is of stone. 
+6:9 
+[And] what about Yoavon, a god who is in the power of another god, who stands beside Zoukh? Since [even] he is more honored than the god Bar-Eshath who is made of wood, while [Yoavon is] forged of silver. And being better proportioned, he is sold by men in order to show him. 
+6:10 
+But Bar-Eshath , your god, before he was made had been rooted in the ground. 
+6:11 
+Being great and wondrous, with branches, flowers and [various] beauties. 
+6:12 
+And you cut him with an ax, and by your skill the god was made. 
+6:13 
+And behold, he has dried up, and his sap is gone. 
+6:14 
+He fell from the heights to the ground, and he went from greatness to insignificance, 
+6:15 
+and his appearance has faded. 
+6:16 
+[Now] he himself has been burned up by the fire, 
+6:17 and he turned into ashes and is no more. 
+6:18 
+Yet you say: “Today I shall make another one, and tomorrow he will make my food.” 
+6:19 
+[But] he retained no strength utterly perishing!
+
+### c7
+i.iii.iv. Hierarchy of Natural Elements and Luminaries (7)
+
+7:1 
+This I say: 
+7:2 
+Fire is the noblest [element] in the image [of the world], since even the things which are [otherwise] unsubdued are subdued in it, and [since] it mocks with its flames the things which perish easily. 
+7:3 
+But I would not call it a god either, since it is subjugated to water. 
+7:4 
+Water is indeed nobler, since it overcomes fire and soaks the earth. 
+7:5 
+But I would not call it a god, since it is subjugated to the earth, running underneath it. 
+7:6 
+I would rather call the earth the noblest, since it overcomes the substance and abundance of water. 
+##### 7:7 
+But neither would I call it gods, since it is dried up by the sun [and since it is] made for men to plow. 
+##### 7:8 
+[So] I would call the sun nobler than the earth, since with its rays it illumines the inhabited world and the various airs. 
+##### 7:9 
+But I would not make it into a god either, since its course is obscured [both] at night [and] by the clouds. 
+##### 7:10 
+Nor, again, would I call the moon and the stars gods, since they too in their times at night can darken their light.
+##### ?
+i.iii.iv. Monotheistic Conclusion (7:11–12)
+
+##### 7:11 
+Listen, Terah, my father, I shall seek in your presence the God who created all the gods which we consider! 
+##### 7:12 
+For who is it, or which one is it who colored heaven and made the sun golden, who has given light to the moon and the stars with it, who has dried the earth in the midst of many waters, who set you yourself among the elements, and who now has chosen me in the distraction of my mind?— Will he reveal himself by himself to us?— [He is] the God!”
+
+### c8
+i.iii.vi. Punishment of Terah (8)
+
+##### 8:1 
+And as I was thinking about these things, here is what happened to my father Terah in the courtyard of his house: The voice of the Mighty One came down from heaven in a stream of fire, saying and calling, “Abraham, Abraham!” 
+##### 8:2 
+And I said, “Here am I!” 
+##### 8:3 
+And he said, “In the wisdom of your heart you are searching for the God of gods and the Creator. I am he! 
+##### 8:4 
+Leave Terah your father, and leave the house, so that you too are not slain for the sins of your father’s house!” 
+##### 8:5 
+And I went out. And it came to pass as I was going out, that I had not even gotten as far as going beyond the doors of the courtyard, 
+##### 8:6 
+when the sound of thunder came forth and burned him and his house and everything in the house, down to the ground [to a distance of] forty cubits.
+
+ii. Revelation (9–32)
+
+ii.i. Sacrifice (9–14)
+
+### c9
+ii.i.i. Command on Sacrifice (9)
+
+##### 9:1 
+Then came a voice saying to me twice, “Abraham, Abraham!” 
+##### 9:2 
+And I said “Here am I!” 
+##### 9:3 
+And he said, “Behold, it is I! Fear not, for I am the primordial and mighty God, who initially created the two luminaries of the world. 
+#### 9:4 
+I protect you and I am your helper. 
+##### 9:5 
+Go, take for me a heifer in her third year, and a she-goat in her third year, and ram in his third year, and a turtledove, and a pigeon, and set out for me a pure sacrifice. And in this sacrifice I shall set before you the ages 
+##### 9:6 
+and make you know secrets, and you will see great things which you have not seen, since you loved to search for me, and I called you ‘my friend.’ 
+##### 9:7 
+But for forty days abstain from every food which issues from fire, and from the drinking of wine, and from anointing [yourself] with oil. 
+##### 9:8 
+And then you shall set out for me the sacrifice which I have commanded you, in the place which I shall show you on a high mountain. 
+##### 9:9 
+And there shall I show you the ages: things built and firmed, made and renewed by my word. 
+##### 9:10 
+And I shall make you know what will come to pass in them on those who have done evil and [those who have done] just things among the race of men.”
 # moses
 https://www2.iath.virginia.edu/anderson/vita/english/vita.gre.html
 

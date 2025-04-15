@@ -1038,28 +1038,18 @@ v.1.p.499
 'This king behaved badly to the Jews; and first he built Kessa, and founded the temple therein, and then built the temple in Heliopolis.
 
 3
-τοῦ-
-
-432
-’τον δὲ γεννῆσαι θυγατέρα Μέρριν, ἣν Χενεφρῇ τινι
+τοῦτον δὲ γεννῆσαι θυγατέρα Μέρριν, ἣν Χενεφρῇ τινι
 κατεγγυῆσαι, τῶν ὑπὲρ Μέμφιν τόπων βασιλεύοντι· πολλοὺς γὰρ τότε τῆς Αἰγύπτου βασιλεύειν· ταύτην δὲ στεῖραν ὑπάρχουσαν ὑποβαλέσθαι τινὸς τῶν Ιουδαίων παιδίον, τοῦτο δὲ Μώϋσον ὀνομάσαι· ὑπὸ δὲ τῶν Ἑλλήνων αὐτὸν ἀνδρωθέντα Μουσαῖον προσαγορευθῆναι.
 
 'He begat a daughter Merris, whom he betrothed to a certain Chenephres, king of the regions above Memphis (for there were at that time many kings in Egypt); and she being barren took a supposititious child from one of the Jews, and called him Mouses (Moses): but by the Greeks he was called, when grown to manhood, Musaeus.
 
 4
-γενέσθαι δὲ τὸν Μώϋσον τοῦτον Ὀρφέως διδάσκαλον· ἀνδρωθέντα δ’ αὐτὸν πολλὰ τοῖς ἀνθρώποις εὔχρηστα παραδοῦναι. καὶ γὰρ πλοῖα καὶ μηχανὰς πρὸς τὰς λιθοθεσίας, καὶ τὰ Αἰγυπτία
-
-b
-ὅπλα, καὶ τὰ ὄργανα τὰ ὑδρευτικὰ καὶ πολεμικὰ καὶ
-τὴν φιλοσοφίαν ἐξευρεῖν· ἔτι δὲ τὴν πόλιν εἰς λς νομοὺς διελεῖν, καὶ ἑκάστῳ τῶν νομῶν ἀποτάξαι τὸν θεὸν σεφθήσεσθαι, τά τε ἱερὰ γράμματα τοῖς ἱερεῦσιν· εἶναι δὲ καὶ αἰλούρους καὶ κύνας καὶ ἴβεις· ἀπονεῖμαι δὲ καὶ τοῖς ἱερεῦσιν ἐξαίρετον χώραν.
+γενέσθαι δὲ τὸν Μώϋσον τοῦτον Ὀρφέως διδάσκαλον· ἀνδρωθέντα δ’ αὐτὸν πολλὰ τοῖς ἀνθρώποις εὔχρηστα παραδοῦναι. καὶ γὰρ πλοῖα καὶ μηχανὰς πρὸς τὰς λιθοθεσίας, καὶ τὰ Αἰγυπτία ὅπλα, καὶ τὰ ὄργανα τὰ ὑδρευτικὰ καὶ πολεμικὰ καὶ τὴν φιλοσοφίαν ἐξευρεῖν· ἔτι δὲ τὴν πόλιν εἰς λς νομοὺς διελεῖν, καὶ ἑκάστῳ τῶν νομῶν ἀποτάξαι τὸν θεὸν σεφθήσεσθαι, τά τε ἱερὰ γράμματα τοῖς ἱερεῦσιν· εἶναι δὲ καὶ αἰλούρους καὶ κύνας καὶ ἴβεις· ἀπονεῖμαι δὲ καὶ τοῖς ἱερεῦσιν ἐξαίρετον χώραν.
 
 'And this Moses, they said, was the teacher of Orpheus; and when grown up he taught mankind many useful things. For he was the inventor of ships, and machines for laying stones, and Egyptian arms, and engines for drawing water and for war, and invented philosophy. Further he divided the State into thirty-six Nomes, and. appointed the god to be worshipped by each Nome, and the sacred writing for the priests, and their gods were cats, and dogs, and ibises: he also apportioned an especial district for the priests.
 
 5
-ταῦτα δὲ πάντα ποιῆσαι χάριν τοῦ τὴν μοναρχίαν βεβαίαν τῷ Χενεφρῇ διαφυλάξαι. πρότερον γὰρ ἀδιατάκτους ὄντας τοὺς ὄχλους ποτὲ μὲν ἐκβάλλειν,
-
-c
-ποτὲ δὲ καθιστάνειν βασιλεῖς, καὶ πολλάκις μὲν τοὺς αὐτοὺς, ἐνιάκις δὲ ἄλλους.
+ταῦτα δὲ πάντα ποιῆσαι χάριν τοῦ τὴν μοναρχίαν βεβαίαν τῷ Χενεφρῇ διαφυλάξαι. πρότερον γὰρ ἀδιατάκτους ὄντας τοὺς ὄχλους ποτὲ μὲν ἐκβάλλειν, ποτὲ δὲ καθιστάνειν βασιλεῖς, καὶ πολλάκις μὲν τοὺς αὐτοὺς, ἐνιάκις δὲ ἄλλους.
 
 'All these things he did for the sake of keeping the sovereignty firm and safe for Chenepbres. For previously the multitudes, being under no order, now expelled and now set up kings, often the same persons, but sometimes others.
 
@@ -1088,45 +1078,29 @@ v.1.p.500
 
 9
 τοὺς οὑν
-περὶ τὸν Μώϋσον διὰ τὸ μέγεθος τῆς στρατιᾶς πόλιν ἐν τούτῳ κτίσαι τῷ τόπῳ καὶ τὴν ἶβιν ἐν αὐτῇ καθιερῶσαι, διὰ τὸ ταύτην τὰ βλάπτοντα ζῷα τοὺς ἀνθρώπους ἀναιρεῖν. προσαγορεῦσαι δὲ αὐτὴν Ἑρμου
-
-433
-πόλιν.
+περὶ τὸν Μώϋσον διὰ τὸ μέγεθος τῆς στρατιᾶς πόλιν ἐν τούτῳ κτίσαι τῷ τόπῳ καὶ τὴν ἶβιν ἐν αὐτῇ καθιερῶσαι, διὰ τὸ ταύτην τὰ βλάπτοντα ζῷα τοὺς ἀνθρώπους ἀναιρεῖν. προσαγορεῦσαι δὲ αὐτὴν Ἑρμου πόλιν.
 
 'So Moses, because of the greatness of his army, built a city in this place, and therein consecrated the ibis, because this bird kills the animals that are noxious to man. And he called it Hermes' city.
 
 10
-οὕτω δὴ τοὺς Αἰθίοπας , καίπερ
-ὄντας πολεμίους , στέρξαι τὸν Μώϋσον ὥστε καὶ τὴν περιτομὴν τῶν αἰδοίων παρ’ ἐκείνου μαθεῖν· οὐ μόνον δὲ τούτους, ἀλλὰ καὶ τοὺς ἱερεῖς ἅπαντας.
+οὕτω δὴ τοὺς Αἰθίοπας , καίπερ ὄντας πολεμίους , στέρξαι τὸν Μώϋσον ὥστε καὶ τὴν περιτομὴν τῶν αἰδοίων παρ’ ἐκείνου μαθεῖν· οὐ μόνον δὲ τούτους, ἀλλὰ καὶ τοὺς ἱερεῖς ἅπαντας.
 
 'Thus then the Aethiopians, though they were enemies, became so fond of Moses, that they even learned from him the custom of circumcision: and not they only, but also all the priests.
 
 11
-τὸν δὲ Χενεφρῆν , λυθέντος τοῦ πολέμου, λόγῳ μὲν αὐτὸν ἀποδέξασθαι, ἔργῳ δὲ ἐπιβουλεύειν. παρελόμενον
-γοῦν αὐτοῦ τοὺς ὄχλους τοὺς μὲν ἐπὶ τὰ ὅρια τῆς Αἰθιοπίας πέμψαι προφυλακῆς χάριν, τοῖς
-
-253
-δὲ προστάξαι τὸν ἐν Δῖός πόλει ναὸν ἐξ ὀπτῆς πλίνθου κατεσκευασμένον καθαιρεῖν , ἕτερον δὲ λίθινον
-b
-κατασκευάσαι τὸ πλησίον ὄρος λατομήσαντας ’ τάξαι
+τὸν δὲ Χενεφρῆν , λυθέντος τοῦ πολέμου, λόγῳ μὲν αὐτὸν ἀποδέξασθαι, ἔργῳ δὲ ἐπιβουλεύειν. παρελόμενον γοῦν αὐτοῦ τοὺς ὄχλους τοὺς μὲν ἐπὶ τὰ ὅρια τῆς Αἰθιοπίας πέμψαι προφυλακῆς χάριν, τοῖς δὲ προστάξαι τὸν ἐν Δῖός πόλει ναὸν ἐξ ὀπτῆς πλίνθου κατεσκευασμένον καθαιρεῖν , ἕτερον δὲ λίθινον κατασκευάσαι τὸ πλησίον ὄρος λατομήσαντας ’ τάξαι
 δὲ ἐπὶ τῆς οἰκοδομίας ἐπιστάτην Ναχέρωτα.
 
 'But when the war was ended, Chenephres pretended to welcome him, while in reality continuing to plot against him. So he took his troops from him, and sent some to the frontiers of Aethiopia for an advanced guard; and ordered others to demolish the temple in Diospolis which had been built of baked brick, and build another of stone from the quarries of the neighbouring mountain, and appointed Nacheros superintendent of the building.
 
 12
 τὸν δὲ ἐλθόντα μετὰ Μωΰσου εἰς Μέμφιν πυθέσθαι παρ’ αὐτοῦ εἴ τι ἄλλο ἐστὶν εὔχρηστον τοῖς ἀνθρώποις· τὸν δὲ φάναι γένος τῶν βοῶν, διὰ τὸ τὴν γῆν ὑπὸ τούτων ἀροῦσθαι· τὸν δὲ Χενεφρῆν, προσαγορεὐσαντα
-ταῦρον Ἄπιν, κελεῦσαι ἱερὸν αὐτοῦ τοὺς ὄχλους καθιδρύσασθαι, καὶ τὰ ζῷα τὰ καθιερωθέντα
-
-v.1.p.501
-ὑπὸ τοῦ Μωΰσου κελεύειν ἐκεῖ φέροντας θάπτειν, κατακρύπτειν θέλοντα τὰ τοῦ Μωΰσου ἐπινοήματα.
+ταῦρον Ἄπιν, κελεῦσαι ἱερὸν αὐτοῦ τοὺς ὄχλους καθιδρύσασθαι, καὶ τὰ ζῷα τὰ καθιερωθέντα v.1.p.501 ὑπὸ τοῦ Μωΰσου κελεύειν ἐκεῖ φέροντας θάπτειν, κατακρύπτειν θέλοντα τὰ τοῦ Μωΰσου ἐπινοήματα.
 
 'And when he was come with Moses to Memphis, he asked him whether there was anything else useful for mankind, and he said the breed of oxen, because by means of them the land is ploughed: and Chenephres having given the name Apis to a bull, commanded the troops to found a temple for him, and bade them bring and bury there the animals which had been consecrated by Moses, because he wished to bury the inventions of Moses in oblivion. 
 
 13
-ἀποξενωσάντων δὲ αὐτὸν τῶν Αἰγυπτίων ὁρκω-
-
-c
-μοτῆσαι τοὺς φίλους μὴ ἐξαγγεῖλαι τῷ Μωΰσῳ τὴν
+ἀποξενωσάντων δὲ αὐτὸν τῶν Αἰγυπτίων ὁρκωμοτῆσαι τοὺς φίλους μὴ ἐξαγγεῖλαι τῷ Μωΰσῳ τὴν
 ἐπισυνισταμένην αὐτῷ ἐπιβουλὴν καὶ προβαλέσθαι τοὺς ἀναιρήσοντας αὐτόν.
 
 'But when the Egyptians were alienated from him, he bound his friends by an oath not to report to Moses the plot which was being contrived against him, and he appointed the men who were to kill him.
@@ -1178,11 +1152,7 @@ b
 'So he made his escape into Arabia, and lived with Raguel the ruler of the district, having married his daughter. And Raguel wished to make an expedition against the Egyptians in order to restore Moses, and procure the government for his daughter and son-in-law; but Moses prevented it, out of regard for his own nation: and Raguel forbidding him to march against the Arabs, ordered him to plunder Egypt.
 
 20
-ὑπὸ δὲ τὸν αὐτὸν χρόνον καὶ τὸν Χενεφρῆν πρῶτον ἁπάντων ἀνθρώπων ἐλεφαντιάσαντα μεταλλάξαι ’ τούτῳ δὲ τῷ πάθει περιπεσεῖν διὰ τὸ τοὺς Ἰουδαίους προσ- τάξαι σινδόνας ἀμφιέννυσθαι , ἐρεᾶν δ’ ἐσθῆτα μὴ
-ἀμπέχεσθαι, ὅπως ὄντες ἐπίσημοι κολάζωνται ὑπ’
-
-c
-αὐτοῦ.
+ὑπὸ δὲ τὸν αὐτὸν χρόνον καὶ τὸν Χενεφρῆν πρῶτον ἁπάντων ἀνθρώπων ἐλεφαντιάσαντα μεταλλάξαι ’ τούτῳ δὲ τῷ πάθει περιπεσεῖν διὰ τὸ τοὺς Ἰουδαίους προσ- τάξαι σινδόνας ἀμφιέννυσθαι , ἐρεᾶν δ’ ἐσθῆτα μὴ ἀμπέχεσθαι, ὅπως ὄντες ἐπίσημοι κολάζωνται ὑπ’ αὐτοῦ.
 
 'About the same time Chenephres died, having been the very first person attacked by elephantiasis; and he is said to have incurred this misfortune because he ordered the Jews to wear linen garments and not to wear woollen clothing, in order that they might be conspicuous, and be punished by him.
 
@@ -1324,6 +1294,799 @@ d
 ἐννέα.”
 
 'But when the Egyptians went in with them and were pursuing them, a fire, it is said, shone out upon them from the front, and the sea overflowed the path again, and the Egyptians were all destroyed by the fire and the flood: but the Jews having escaped this danger spent forty years in the wilderness, God raining down meal for them like millet, similar in colour to snow. And Moses they say was tall and ruddy, with long white hair, and dignified: and he performed these deeds when he was about eighty-nine years old.'
+### c28
+“ Περὶ δὲ τοῦ τὸν Μώϋσον ἐκτεθῆναι ὑπὸ τῆς μητρὸς εἰς τὸ ἕλος καὶ ὑπὸ τῆς τοῦ βασιλέως
+θυγατρὸς ἀναιρεθῆναι καὶ τραφῆναι ἱστορεῖ καὶ Ἐζεκιῆλος ὁ τῶν τραγῳδιῶν ποιητὴς, ἄνωθεν ἀναλαβὼν τὴν ἱστορίαν ἀπὸ τῶν σὺν Ἰακὼβ παραγενομένων εἰς Αἴγυπτον πρὸς Ἰωσήφ. λέγει δὲ οὕτως, τὸν Μώϋσον παρεισάγων λέγοντα
+
+'WITH regard to Moses being exposed by his mother in the marsh, and taken up and reared by the king's daughter, Ezekiel the tragic poet gives an account, taking up the narrative from the beginning when Jacob and his family came into Egypt to Joseph. And he tells it as follows, bringing Moses forward as the speaker: 30
+
+ἀφ’ οὗ δ’ Ἰακὼβ γῆν λιπὼν Χαναναίαν
+437
+κατῆλθ’ ἔχων Αἴγυπτον ἑπτάκις δέκα
+ψυχὰς σὺν αὐτῷ, κἀπεγέννησεν πολὺν
+λαὸν κακῶς πράσσοντα καὶ τεθλιμμένον,
+ἐς ἄχρι τοῦτον τὸν χρόνον κακούμενον
+
+κακῶν ὐπ’ ἀνδρῶν καὶ δυναστείας χερός.
+ἰδὼν γὰρ ἡμῶν γένναν ἅλις ηὐξημένην
+δόλον καθ’ ἡμῶν πολὺν ἐμηχανήσατο
+βασιλεὺς Φαραὼ, τοὺς μὲν ἐν πλινθεύμασιν
+b
+οἰκοδομίας τε βάρεσιν αἰκίζων βροτοὺς,
+
+πόλεις τ’ ἐπύργου, σφῶν ἕκατι δυσμόρων.
+ἔπειτα κηρύσσει μὲν Ἑβραίων γένει
+τἀρσενικὰ ῥίπτειν ποταμὸν ἐς βαθύρροον.
+ἐνταῦθα μήτηρ ἡ τεκοῦσ’ ἔκρυπτέ με
+τρεῖς μῆνας, ὡς ἔφασκεν. οὐ λαθοῦσα δὲ
+v.1.p.506
+c
+ὑπεξέθηκε, κόσμον ἀμφιθεῖσά μοι,
+παρ’ ἄκρα ποταμοῦ, λάσιον, εἰς ἕλος δασύ.
+Μαριὰμ δ’ ἀδελφή μου κατώπτευεν πέλας·
+κἄπειτα θυγάτηρ βασιλέως ἅβραις ὁμοῦ
+κατῆλθε λουτροῖς χρῶτα φαιδρῦναι νέον·
+
+ἰδοῦσα δ’ εὐθὺς καὶ λαβοῦσ’ ἀνείλετο,
+ἔγνω δ’ Ἑβραῖον ὄντα· καὶ λέγει τάδε
+d
+Μαριὰμ ἀδελφὴ προσδραμοῦσα βασιλίδι,
+‘θέλεις τροφόν σοι παιδὶ τῷδ’ εὕρω ταχὺ
+ἐκ Ἑβραίων;' ἡ δ’ ἐπέσπευσεν κόρην·
+
+μολοῦσα δ’ εἶπε μητρὶ, καὶ παρῆν ταχὺ
+αὐτή τε μήτηρ κἄλαβέν μ’ ἐς ἀγκάλας.
+εἶπεν δὲ θυγάτηρ βασιλέως ‘τοῦτον, γύναι,
+256
+τρόφευε, κἀγὼ μισθὸν ἀποδώσω σέθεν.
+ὄνομα δὲ Μωσῆν ὠνόμαζε, τοῦ χάριν
+
+ὑγρὰς ἀνεῖλε ποταμίας ἀπ’ ᾐόνος.
+
+
+"When Jacob from the land of Canaan down 
+To Egypt came, with threescore souls and ten, 
+He there begat a multitudinous race, 
+Who much endured and long, by wicked men 
+And tyrant's hand to this our day crushed down. 
+For when he saw our people had waxed strong, 
+The king with subtle craft our fathers ruled, 
+And some in making bricks ho sore oppressed, 
+And some in raising heavy stones to build 
+His lofty towers, for their despite contrived. 
+Next he commands that all the Hebrew race 
+Cast every man-child in the Nile's deep flood. 
+And I have often heard my mother tell, 
+How at that time she hid me for three months: 
+Fearing detection then, she wrapped me close 
+In rough attire, and laid me secretly 
+'Mid the thick rushes by the river's bank. 
+My sister Miriam close at hand kept watch, 
+Till Pharaoh's daughter with her maids came down 
+To bathe her shining limbs in the cool stream. 
+She saw the babe, and straightway took it up,
+And knew its Hebrew birth. My sister then 
+Ran up, and to the princess thus she spake: 
+'Wilt thou I find as nurse for this fair child 
+Some Hebrew wife?' The princess bade her speed, 
+And to her mother quick she told the tale, 
+Who came with speed, and took me in her arms. 
+Then spake the Pharaoh's daughter, 'Take this child 
+To nurse, good dame, and I will pay thy wage.' 
+'Moses' the name she gave, to mark the fact 
+That from the river's brink she drew me forth."
+
+
+τούτοις μεθ’ ἕτερα ἐπιλέγει καὶ περὶ τούτων ὁ Ἐζεκιῆλος
+438
+ἐν τῇ τραγῳδίᾳ, τὸν Μωυσῆν παρεισάγων λέγοντα
+
+'To this farther on in the tragedy Ezekiel adds more on the following points, bringing Moses forward as speaking:
+
+ἐὶ δὲ καιρὸς νηπίων παρῆλθέ μοι,
+
+ἦγέν με μήτηρ βασιλίδος πρὸς δώματα,
+ἅπαντα μυθεύσασα, καὶ λέξασά μοι
+γένος πατρῷον καὶ θεοῦ δωρήματα.
+ἕως μὲν οὖν τὸν παιδὸς εἴχομεν χρόνον,
+τροφαῖσι βασιλικαῖσι καὶ παιδεύμασιν
+
+b
+ἅπανθ’ ὑπισχνεῖθ', ὡς ἀπὸ σπλάγχνων ἑῶν·
+ἐπεὶ δὲ πλήρης κόλπος ἡμερῶν παρῆν,
+ἐξῆλθον οἴκων βασιλικῶν, πρὸς ἔργα γὰρ
+θυμός μ’ ἄνωγε καὶ τέχνασμα βασιλέως·)
+ὁρῶ δὲ πρῶτον ἄνδρας ἐν χειρῶν νόμῳ,
+
+τὸν μὲν γεγῶθ' Ἑβραῖον, ὃν δ’ Αἰγύπτιον.
+ἰδὼν δ’ ἐρήμους καὶ παρόντα μηδένα
+ἐρρυσάμην ἀδελφὸν, ὃν δ’ ἔκτειν’ ἐγὼ,
+c
+ἔκρυψα δ’ ἄμμῳ τοῦτον, ὥστε μὴ εἰσιδεῖν
+ἕτερόν τιν’ ἡμὰς κἀπογυμνῶσαι φόνον.
+
+τῇ ’παύριον δὲ πάλιν ἰδὼν ἄνδρας δύο,
+μάλιστα δ’ αὐτοὺς συγγενεῖς, πατουμένους,
+v.1.p.507
+λέγω τί τύπτεις ἀσθενέστερον σέθεν;
+ὁ δ εἶπεν ἡμῖν τίς σ ἀπέστειλεν κριτὴν,
+ἢπιστάτην ἐνταῦθα; μὴ κτενεῖς σύ με,
+ὥσπερ τὸν ἐχθὲς ἄνδρα; καὶ δείσας ἐγὼ
+
+ἔλεξα πῶς ἐγένετο συμφανὲς τόδε;
+καὶ πάντα βασιλεῖ ταῦτ ἀπήγγειλεν ταχύ·
+ζητεῖ δὲ Φαραὼ τὴν ἐμὴν ψυχὴν λαβεῖν·
+d
+ἐγὼ δ ἀκούσας ἐκποδὼν μεθίσταμαι,
+καὶ νῦν πλανῶμαι γῆν ἐπ ἀλλοτέρμονα.
+
+"So when my time of infancy was past, 
+My mother led me to the princess' home, 
+But first she told me all the tale, my birth 
+And kindred, and God's gifts of old. 
+The princess then through all my boyhood's years, 
+As I had been a son of her own womb, 
+In royal state and learning nurtured me. 
+But when the circle of the days was full, 
+I left the palace, urged to lofty deeds 
+By my own soul, and by the king's device. 
+Then the first day I saw two men at strife, 
+Egyptian one, and one of Hebrew race. 
+And when I saw that we were quite alone, 
+None else in sight, I to the rescue came, 
+Avenged my kinsman, and the Egyptian slew, 
+And buried in the sand, that none might see 
+What we had ventured, and lay bare the deed. 
+But on the morrow's dawn again I saw 
+Two of our kin in deadly strife, and cried, 
+'Why smitest thou thy weaker brother thus?' 
+But he replied, 'And who made thee a judge, 
+Or ruler here? Me also wouldest thou slay, 
+As that man yestermorn?' Then to myself 
+In fear I said, 'How came that deed abroad?' 
+All this was quickly carried to the king. 
+And Pharaoh sought to take away my life. 
+His plot I learned, and from his hands escaped, 
+And now to other lands am wandering forth."
+
+εἶτα περὶ τῶν τοῦ Ραγουὴλ θυγατέρων οὕτως ἐπιβάλλει,
+
+'Then, concerning the daughters of Raguel he adds this: 
+
+ὁρῶ δὲ ταύτας ἑπτὰ παρθένους τινάς.
+
+"But here, behold! some seven fair maids I see."
+
+ἐρωτήσαντός τε αὐτὰς τίνες εἴησαν αἱ παρθένοι φησὶν ἡ Σεπφώρα
+
+'And on his asking them what maidens they were, Zipporah replies:
+
+Λιβύη μὲν ἡ γῆ πᾶσα κλῄζεται, ξένε,
+οἰκοῦσι δ αὐτὴν φῦλα παντοίων γενῶν,
+Αἰθίοπες ἄνδρες μέλανες· ἄρχων δ ἐστὶ γῆς
+εἷς καὶ τύραννος καὶ στρατηλάτης μόνος.
+ἄρχει δὲ πόλεως τῆσδε καὶ κρίνει βροτοὺς 
+ἱερεὺς, ὅς ἐστ ἐμοῦ τε καὶ τούτων πατήρ.
+
+"The land, O stranger, bears the common name 
+Of Libya, but by various tribes is held 
+Of dark-skinned Aethiops: yet the land is ruled 
+By one sole monarch, and sole chief in war. 
+This city has for ruler and for judge 
+A priest, the father of myself and these."
+
+εἶτα περὶ τοῦ ποτισμοῦ τῶν θρεμμάτων διελθὼν περὶ τοῦ τῆς Σεπφώρας ἐπιβάλλει γάμου, δι ἀμοιβαίων παρεισάγων τόν τε Χοὺμ καὶ τὴν Σεπφώραν λέγοντας,
+
+'He then describes the giving drink to the cattle, and adds the account of his marriage with Zipporah, bringing forward Chum and Zipporah as speaking in alternate verses:
+
+Σ. ὅμως κατειπεῖν χρή σε, Σεπφώρα, τάδε.
+Χ. ξένῳ πατήρ με τῷδ ἔδωκεν εὐνέτιν.”
+
+"Ch. 'Yet this thou need'st must tell me, Zipporah.' 
+Z. 'My father gave me for this stranger's wife.'
+
+### c29
+“Δημήτριος δὲ περὶ τῆς ἀναιρέσεως τοῦ Αἰγυπτίου καὶ τῆς διαφορᾶς τῆς πρὸς τὸν μηνύσαντα τὸν τελευτήσαντα ὁμοίως τῷ τὴν ἱερὰν βίβλον
+γράψαντι ἱστόρησε· φυγεῖν μέντοι γε τὸν Μωσῆν εἰς Μαδιὰν, καὶ συνοικῆσαι ἐκεῖ τῇ Ἰοθὸρ θυγατρὶ Σεπφώρᾳ, ἣν εἶναι, ὅσα στοχάζεσθαι ἀπὸ τῶν ὀνομάτων, τῶν γενομένων ἐκ Χεττούρας, τοῦ Ἀβραὰμ γένους, ἐκ τοῦ Ἰεζὰν τοῦ γενομένου Ἀβραὰμ ἐκ Χεττούρας· v.1.p.508 ἐκ δὲ τοῦ Ἰεζὰν γενέσθαι Δαδὰν, ἐκ δὲ Δαδὰν γουὴλ , ἐκ δὲ Ῥαγουὴλ Ἰοθὸρ καὶ Ἀβὰβ, , ἐκ δὲ tov Ἰοθὸρ Σεπφώραν , ἣν γήμαι Μωσῆν.
+
+'DEMETRIUS described the slaying of the Egyptian, and the quarrel with him who gave information about the deceased man, in the same way as the writer of the Sacred Book. He says, however, that Moses fled into Midian, and there married Zipporah the daughter of Jothor, who was, as far as one may conjecture from the names, one of the descendants of Keturah, of the stock of Abraham, from Jexan who was the son of Abraham by Keturah: and from Jexan was born Dadan, and from Dadan Raguel, and from Raguel, Jothor, and Hobab: and from Jothor Zipporah, whom Moses married.
+
+2
+καὶ τὰς γενεὰς δὲ συμφωνεῖν· τὸν γὰρ Μωσῆν εἶναι ἀπὸ d Ἀβραὰμ ἕβδομον , τὴν δὲ Σεπφώραν ἕκτην. συνοικουντος γὰρ ἤδη τοῦ Ἰσαὰκ, ἀφ’ οὗ Μωσῆν εἶναι, γῆμαι Ἀβραὰμ τὴν Χεττούραν ὄντα ἐτῶν ρμ, καὶ γεννῆσαι Ἰσαὰρ ἐξ αὐτῆς δεύτερον· τὸν δὲ Ἰσαὰκ, ὄντα ἐτῶν ἑκατὸν, γεννῆσαι. ὥστε μβ ἐτῶν ὕστερον γεγονέναι τὸν Ἰσαὰρ, ἀφ’ οὗ τὴν Σεπφώραν γεγενεαλογῆσθαι.
+
+'The generations also agree; for Moses was seventh from Abraham, and Zipporah sixth. For Isaac, from whom Moses descended, was already married when Abraham at the age of a hundred and forty married Keturah, and begat by her a second son Isaar. Now he begat Isaac when he was a hundred years old; so that Isaar, from whom Zipporah derived her descent, was born forty-two years later than Isaac.
+
+3
+οὐδὲν οὑν ἀντιπίπτει τὸν Μωσῆν καὶ τὴν Σεπφώραν κατὰ τοὺς αὐτοὺς γεγονέναι χρόνους. κατοικεῖν δ’ αὐτοὺς Μαδιὰμ πόλιν, ἣν ἀπὸ ἑνὸς τῶν Ἀβραὰμ παίδων ὀνομασθῆναι. φησὶ γὰρ τὸν Ἀβραὰμ τοὺς παῖδας πρὸς ἀνατολὰς ἐπὶ κατοικίαν πέμψαι ·
+διὰ τοῦτο δὲ καὶ Ἀαρὼν καὶ Μαριὰμ εἰπεῖν ἐν Ἀσηρὼθ Μωσῆν Αἰθιοπίδα γῆμαι γυναῖκα.
+
+'There is therefore no inconsistency in Moses and Zipporah having lived at the same time. And they dwelt in the city Madiam, which was called from one of the sons of Abraham. For it says that Abraham sent his sons towards the East to find a dwelling-place: for this reason also Aaron and Miriam said at Hazeroth that Moses had married an Aethiopian woman.
+
+4
+λέγει δὲ περὶ τούτων καὶ Ἐζεκιῆλος ἐν τῇ Ἐξαγωγῇ, προσπαρειληφως τὸν ὄνειρον τὸν ὑπὸ Μώσεως μὲν ἑωραμένον, ὑπὸ δὲ πενθεροῦ διακεκριμένον. λέγει δὲ  αὐτὸς ὁ Μώσης δι’ ἀμοιβαίων πρὸς τὸν πενθερὸν οὐτῶ πως
+
+'Ezekiel also speaks of this in the Exodus, adding to the tradition the dream that was seen by Moses and interpreted by his father-in-law. And Moses himself talks with his father-in-law in alternate verses, as follows:  31
+
+5
+ἔδοξ’ ὄρους κατ’ ἄκρα Σιναίου θρόνον
+μέγαν τιν’ εἶναι μέχρις οὐρανοῦ πτυχὸς,
+ἐν ᾧ καθῆσθαι φῶτα γενναῖόν τινα
+
+διάδημ’ ἔχοντα, καὶ μέγα σκῆπτρον χερὶ
+εὐωνύμῳ μάλιστα. δεξιᾷ δέ μοι
+ἔνευσε, κἀγὼ πρόσθεν ἐστάθην θρόνου.
+b
+σκῆπτρον δέ μοι παρέδωκε, κεἰς θρόνον μέγαν
+εἶπεν καθῆσθαι· βασιλικὸν δ’ ἔδωκέ μοι
+
+διάδημα, καὐτὸς ἐκ θρόνων χωρίζεται.
+• ἐγὼ δ’ ἐσεῖδον γῆν ἅπασαν ἔγκυκλον,
+κανερθε γαίας καξύπερθεν οὐρανοῦ,
+καί μοί τι πλῆθος ἀστέρων πρὸς γούνατα
+v.1.p.509
+ἔπιπτ’, ἐγὼ δὲ πάντας ἠριθμησάμην,
+κἀμοὶ παρῆγεν ὡς παρεμβολὴ βροτῶν.
+c
+εἶτ’ ἐμφοβηθεὶς ἐξανίσταμ’ ἐξ ὕπνου.
+
+
+"Methought upon Mount Sinai's brow I saw 
+A mighty throne that reached to heaven's high vault, 
+Whereon there sat a man of noblest mien 
+Wearing a royal crown; whose left hand held 
+A mighty sceptre; and his right to me 
+Made sign, and I stood forth before the throne. 
+He gave me then the sceptre and the crown, 
+And bade me sit upon the royal throne, 
+From which himself removed. Thence I looked forth 
+Upon the earth's wide circle, and beneath 
+The earth itself, and high above the heaven. 
+Then at my feet, behold! a thousand stars 
+Began to fall, and I their number told, 
+As they passed by me like an armed host: 
+And I in terror started up from sleep."
+
+6
+ὁ δὲ πενθερὸς αὐτοῦ τὸν ὄνειρον ἐπικρίνει οὕτως
+
+ὢ ξένε, καλόν σοι τοῦτ’ ἐσήμηνεν θεός ·
+ζώοιν δ’ ὅταν σοι ταῦτα συμβαίνῃ ποτέ.
+ἆρά γε μέγαν τιν’ ἐξαναστήσεις θρόνον,
+καὐτὸς βραβεύσεις καὶ καθηγήσῃ βροτῶν.
+258
+τὸ δ’ εἰσθεᾶσθαι γῆν ὅλην τ’ οἰκουμένην,
+
+καὶ τὰ ὑπένερθεν χὐπὲρ οὐρανὸν θεοῦ,
+ὄψει τά τ’ ὄντα τά τε προτοῦ τά θ’ ὕστερον.
+d
+
+'Then his father-in-law thus interprets the dream:
+
+"This sign from God bodes good to thee, my friend. 
+Would I might live to see thy lot fulfilled! 
+A mighty throne shalt thou set up, and be 
+Thyself the leader and the judge of men! 
+And as o'er all the peopled earth thine eye 
+Looked forth, and underneath the earth, and high 
+Above God's heaven; so shall thy mind survey 
+All things in time, past, present, and to come."
+
+7
+περὶ δὲ τῆς καιομένης βάτου καὶ τῆς ἀποστολῆς αὐτοῦ τῆς πρὸς Φαραὼ πάλιν παρεισάγει δι’ ἀμοιβαίων τὸν Μωσῆν τῷ θεῷ διαλεγόμενον. φησὶ δὲ
+ὁ Μώσης
+
+ἔα ’ τί μοι σημεῖον ἐκ βάτου τόδε,
+τεράστιόν τε καὶ βροτοῖς ἀπιστία;
+ἄφνω βάτος μὲν καίεται πολλῷ πυρὶ,
+αὐτοῦ δὲ χλωρὸν πᾶν μένει τὸ βλαστάνον.
+
+τί δή; προελθὼν ὄψομαι τεράστιον
+μέγιστον • οὐ γὰρ πίστιν ἀνθρώποις φέρει.
+
+'With regard to the burning bush, and the mission of Moses to Pharaoh, he again brings Moses forward as holding converse alternately with God. Moses speaks thus:
+
+"Ha! see! What sign is this from yonder bush? 
+A marvel such as no man might believe. 
+A sudden mighty fire flames round the bush, 
+And yet its growth remains all green and fresh. 
+What then? I will go forward, and behold 
+This wondrous sign, that passes man's belief."
+
+8
+εἶτα ὁ θεὸς αὐτῷ προσομιλεῖ
+
+ἐπίσχες, ὢ φέριστε, μὴ προσεγγίσῃς,
+Μωσῆ, πρὶν ἣ τῶν σῶν ποδῶν λῦσαι δέσιν·
+
+ἁγία γὰρ ἧς σὺ γῆς ἐφέστηκας πέλει ’
+441
+ὁ δ’ ἐκ βάτου σοι θεῖος ἐκλάμπει λόγος •
+θάρσησον, ὢ παῖ, καὶ λόγων ἄκου’ ἐμῶν·
+ἰδεῖν γὰρ ὄψιν τὴν ἐμὴν ἀμήχανον
+θνητὸν γεγῶτα, τῶν λόγων δ’ ἔξεστί σοι
+
+ἐμῶν ἀκούειν, τῶν ἕκατ’ ἐλήλυθα.
+ἐγὼ θεὸς σῶν, ὧν λέγεις, γεννητόρων,
+Ἀβραάμ τε κ Ἰσαὰκ κ’ Ἰακώβου τρίτου.
+μνησθεὶς δ’ ἐκείνων καὶ ἔτ’ ἐμῶν δωρημάτων
+b
+πάρειμι σῶσαι λαὸν Ἑβραίων ἐμὸν,
+
+ἰδὼν κάκωσιν καὶ πόνον δούλων ἐμῶν.
+ἀλλ’ ἕρπε καὶ σήμαινε τοῖς ἐμοῖς λόγοις,
+v.1.p.510
+πρῶτον μὲν αὐτοῖς πᾶσιν Ἑβραίοις ὁμοῦ,
+ἔπειτα βασιλεῖ, τὰ ὑπ’ ἐμοῦ τεταγμένα,
+ὅπως σὺ λαὸν τὸν ἐμὸν ἐξάγοις χθονός.
+
+'Then God speaks to him:
+
+"Stay, Moses, faithful servant, draw not nigh, 
+Ere thou hast loosed thy shoes from off thy feet: 
+The place thou standest on is holy ground; 
+And from this bush God's word shines forth for thee. 
+Fear not, My son, but hearken to My words. 
+Of mortal birth, thou canst not see My face; 
+Yet mayest thou hear the words I came to speak.
+Thy fathers' God, the God of Abraham,
+Of Isaac, and of Jacob, I am God.
+I do remember all My gifts to them,
+And come to save My people Israel;
+For I have seen their sorrows and their toils.
+Go then, and signify thou in My name,
+First to the Hebrews gathered by themselves,
+Then to the king of Egypt, this My will,
+That thou lead forth My people from the land."
+
+9
+εἶτα ὑποβάς τινα ἀμοιβαῖα αὐτὸς ὁ Μώσης λέγει
+
+'Then lower down Moses himself speaks some lines in answer:
+
+c
+οὐκ εὔλογος πέφυκα, γλῶσσα δ’ ἐστί μου
+
+δύσφραστος, ἰσχνόφωνος, ὥστε μὴ λόγους
+ἐμοὺς γενέσθαι βασιλέως ἐναντίον.
+
+10
+εἶτα πρὸς ταῦτα ὁ θεὸς αὐτῷ ἀποκρίνεται
+
+Αάρωνα πέμψον σὸν κασίγνητον ταχὺ,
+ᾧ πάντα λέξεις τἀξ ἐμοῦ λελεγμένα,
+
+καὐτὸς λαλήσει βασιλέως ἐναντίον,
+σὺ μὲν πρὸς ἡμῶν, ὁ δὲ λαβὼν σέθεν πάρα.
+
+11
+περὶ δὲ τῆς ῥάβδου καὶ τῶν ἄλλων τεράτων οὕτω δι’ ἀμοιβαίων εἴρηκε,
+
+d
+Θ. τί δ’ ἐν χεροῖν σοῖν τοῦτ’ ἔχεις; λέξον τάχος.
+
+Μ. ῥάβδον τετραπόδων καἰ βροτῶν κολάστριαν.
+Θ. ῥῖψον πρὸς οὖδας, κἀποχώρησον ταχύ.
+259
+δράκων γὰρ ἔσται φοβερὸς, ὥστε θαυμάσαι.
+Μ. ἰδοὺ βέβληται· δέσποθ’, ἵλεως γενοῦ·
+ὡς φοβερὸς, ὡς πέλωρος· οἴκτειρον σύ με,
+
+πέφρικ’ ἰδὼν, μέλη δὲ σώματος τρέμει.
+Θ. μηδὲν φοβηθῇς, χεῖρα δ’ ἐκτείνας Με
+οὐρὰν, πάλιν δὲ ῥάβδος ἔσσεθ’ ὥσπερ ἢν.
+442
+ἔνθες δὲ χείρ εἰς κόλπον, ἐξένεγκέ τε.
+ἰδοὺ τὸ ταχθὲν, γέγονεν ὡσπερεὶ χιών.
+
+ἔνθες πάλιν δ’ εἰς κόλπον, ἔσται δ’ ὥσπερ ην.”
+
+12
+τούτοις ἐπάγει, μετά τινα τὰ μεταξὺ αὐτῷ εἰρημέωα, λέγων
+
+“ Ταῦτα δέ φησιν οὕτω καὶ Ἐζεκιῆλος ἐν τῇ Ἐξαγωγῇ λέγων, περὶ μὲν τῶν σημείων τὸν θεὸν παρεισάγων
+λέγοντα οὕτως
+
+ἐν τῇδε ῥάβδῳ πάντα ποιήσεις κακά ’
+πρῶτον μὲν αἷμα ποτάμιον ῥυήσεται,
+πηγαί τε πᾶσαι χυδάτων συστήματα •
+b
+βατράχων τε πλῆθος καὶ σκνίπας ἐμβαλῶ χθονί.
+
+v.1.p.511
+ἔπειτα τέφραν οἶς καμιναίαν πάσω,
+ἀναβλύσει δείν’ ἐν βροτοῖς ἕλκη πικρά.
+κυνόμυια δ’ ἥξει, καὶ βροτοὺς Αἰγυπτίων
+πολλοὺς κακώσει. μετὰ δὲ ταῦτ’ ἔσται πάλιν
+
+λοιμὸς, θανοῦνται δ’ οἶς ἔνεστι καρδία
+σκληρά· πικρανῶ δ’ οὐρανόν· χάλαζα νῦν
+σὺν πυρὶ πεσεῖται, καὶ νεκροὺς θήσει βροτούς.
+c
+καρποί τ’ ὀλοῦνται, τετραπόδων τε σώματα·
+σκότος δὲ θήσω τρεῖς ἐφ’ ἡμέρας ὅλας,
+
+ἀκρίδας τε πέμψω. καὶ περισσὰ βρώματα
+ἅπαντ’ ἀναλώσουσι καἰ καρποῦ χλόην.
+ἐπὶ πᾶσι τούτοις τέκν’ ἀποκτενῶ βροτῶν
+πρωτόγονα. παύσω δ’ ὕβριν ανθρώπων κακῶν.
+Φαραὼ δὲ βασιλεὺς πείσετ’ οὐδὲν ὣν λέγω,
+d
+
+πλὴν τέκνον αὐτοῦ πρωτόγονον ἕξει νεκρόν·
+καὶ τότε φοβηθεὶς λαὸν ἐκπέμψει ταχύ ·
+πρὸς τοῖσδε λέξεις πᾶσιν Ἑβραίοις ὁμοῦ
+ο μεὶς ὅδ’ ὑμῖν πρῶτος ἐνιαυτοῦ πέλει·
+ἐν τῶδ’ ἀπάξω λαὸν εἰς ἄλλην χθόνα,
+
+εἰς ἣν ὑπέστην πατράσιν Ἑβρκαίων γένους.’
+λέξεις δὲ λαῷ παντὶ, μηνὸς οὑ λέγω
+443
+διχομηνίᾳ, τὸ πάσχα θύσαντας θεῷ
+τῇ πρόσθε νυκτὶ, αἵματι ψαῦσαι θύρας,
+ὅπως παρέλθῃ σῆμα δεινὸς ἄγγελος.
+
+ὑμεῖς δὲ νυκτὸς ὀπτὰ δαίσεσθε κρέα.
+σπουδῇ δὲ βασιλεὺς ἐκβαλεῖ πρόπαντ’ ὄχλον.
+ὅταν δὲ μέλλητ’ ἀποτρέχειν, δώσω χάριν
+260
+λαῷ, γυνή τε παρὰ γυναικὸς λήψεται
+σκεύη, κόσμον τε πάνθ’ , ὃν ἄνθρωπος φέρει,
+b
+
+χρυσόν τε καὶ ἄργυρον ἠδὲ καὶ στολὰς, ἴνα
+ἀνθ’ ὧν ἔπραξαν μισθὸν ἀποδῶσιν βροτοῖς.
+ὅταν δ’ ἐς ἴδιον χῶρον εἰσέλθηθ’, ὅπως
+ἀφ’ ἧσπερ ἠοῦς ἐφύγετ’, Αἰγύπτου δ’ ἄπο
+ἑπτὰ διοδοιποροῦντες ἡμερῶν ὁδὸν,
+
+πάντες τοσαύτας ἡμέρας ἔτος κάτα
+ἄζυμ’ ἔδεσθε, καὶ θεῷ λατρεύσετε,
+τὰ πρωτότευκτα ζῷα θύοντες θεῶ,
+c
+ὅσ’ ἂν τέκωσι παρθένοι πρώτως τέκνα
+τἀρσενικὰ, διανοίγοντα μήτρας μητέρων.
+v.1.p.512
+
+13
+καὶ πάλιν περὶ τῆς αὐτῆς ταύτης ἐορτῆς φηςὶν ἐπεξεργαζόενον ἀκριβέστερον εἰρηκέναι
+
+ἀωδρῶν Ἑβραίων τοῦδε τοῦ μηνός λαβών
+κατὰ συγγενείας πρόβατα καὶ μόσκους βοῶν
+ἄμωμα δεκάτῃ· καὶ φυλαχθήτω μέχρι
+
+d
+τετράς ἐριλάμψει δεκάδι, καὶ πρὸς ἑσπέραν
+θύσαντες, ὀπτὰ πάντα σὺν τοῖς ἔνδοθεν
+οὔτω φάγεσθε ταῦτα· περιεζωσμένοι,
+καὶ κοῖλα ποσςὶν ὑποδέδεσθε, καὶ χερὶ
+βακτηρίαν ἔχοντες. ἐν σπουδῇ τε γαρ
+
+βασιλεὺς κελεύσει πάντας ἐκβαλεῖν κθονός·
+κεκλήσεται δὲ πᾶς. ὄταν θύσητε δὲ,
+δεσμην λαβόντες χερςὶν ὐσσώπου κόμς
+εἰς εἶμα βάψαι, καὶ θιγεῖν σταθμῶν δυοῖν,
+ὄπως παρέλθῃ θάωατος Ἑβραίων ἄπο.
+
+ταύτην δ’ ἐορτήν δεσπότῃ τηρήσετε,
+444
+ἔφθ’ ἡμέρας ἄζυμα· κοὐ βρωθήσεται
+ξύμη. κακῶν γὰρ τῶνδ’ ἀραλλαγήσεται,
+καὶ τοῦδε μηνὸς ἔξοδον διδῖ θεός·
+ἀρκή δὲ μηνῶν καὶ κρόνων οὖτος πέλει.”
+
+14
+πάλιν μεθ’ ἔτερα ἐπιλέγει “Φηδὶ δὲ καὶ Ἑξεκιῆλος ἐν τῷ δράματι τῷ ἐπιγραφομένῳ Ἐξαγωγὴ, παρεισάγων ἄγγελον λέγοντα τήν τε τῶν Ἑβραίων διάθεσιν καὶ τὴν τῶν Αἰγυπτίων φθορὰν οὔτως
+
+b
+ὡς γὰρ σὺν ὄχλῳ τῷδ’ ἀφώρμησεν δόμων
+βασιλευς Φαραὼ μυρίων ὄπλων μέτα,
+ἴππου τε τάσης καρμάτων τετραόρων,
+καὶ προστάταισι καὶ παραστάταις ομοῦ,
+ἦν φρικτὸς ἀνδρῶν ἐκτεταγμένων ὄχλος.
+
+πεζοὶ μὲν ἐν μέσοισι καὶ φαλαγγικοὶ
+διεκδρομὰς ἔχοντες ἄρμασιν τόπους·
+261
+ἱππεῖς δ’ ἔταξε, τοὺς μὲν ἐξ εὐωνύμων
+ἐκ δεξιῶν δὲ ράντας Αἰγύπτου δτρατοῦ.
+c
+τὸν πάντας δ’ ἀριθμὸν ἠρόμην ἐγὼ στρατοῦ·
+
+μυριάδες ἦσαν ἑκατον τὐανδρου μεώ.
+v.1.p.513
+ἐπεὶ δ’ Ἐβραίων οὑμὸς ἤντησεν στρατὸς,
+οἱ μὲν παρ’ ἀκτὴν πλησίον βεβλημένοι
+ἐρυθρὰς θαλάσσης ἤσαν ἠθροισμένοι ·
+οἱ μὲν τέκνοισι νηπίοις δίδουν βορὰν,
+
+ὁμοῦ τε καὶ δάμαρσιν, ἔμπονοι κόπῳ ·
+κτήνη τε πολλὰ, καὶ δόμων ἀποσκευὴ,
+αὐτοὶ δ’ ἄνοπλοι πάντες εἰς μάχην χέρας
+d
+ἰδόντες ἡμᾶς ἠλάλαξαν ἔνδακρυν
+φωνὴν, πρὸς αἰθέρα τ’ ἐτάθησαν ἀθρόοι,
+
+θεὸν πατρῷον. ἦν πολὺς δ’ ἀνδρῶν ὄχλος.
+ἡμᾶς δὲ χάρμα πάντας εἶχεν ἐν μέρει.
+ἔπειθ’ ὑπ’ αὐτοὺς θήκαμεν παρεμβολὴν,
+Βεελζεφών τις κλῄζεται πόλις βροτοῖς.
+ἐπεὶ δὲ Τιτᾶν ἥλιος δυσμαῖς προσῆν,
+
+ἐπέσχομεν, θέλοντες ὄρθριον μάχην,
+πεποιθότες λαοῖσι καὶ φρικτοῖς ὅπλοις.
+ἔπειτα θείων ἄρχεται τεραστίων
+θαυμάστ’ ἰδέσθαι. καί τις ἐξαίφνης μέγας
+445
+στῦλος νεφώδης ἐστάθη πρὸ γῆς μέγας.
+
+παρεμβολῆς ἡμῶν τε χἐβραίων μέσος.
+κἄπειθ’ ὁ κείνων ἡγεμὼν Μώσης, λαβὼν
+ῥάβδον θεοῦ, τῇ δὴ πρὶν Αἰγύπτῳ κακὰ
+σημεῖα καὶ τεράστι' ἐξεμήσατο ’
+b
+ἔτυψ’ ἐρυθρᾶς νῶτα κἄσχισεν μέσον
+
+βάθος θαλάσσης · οἱ δὲ σύμπαντες
+ὤρουσαν ὠκεῖς ἁλμυρᾶς δι’ ἀτραποῦ.
+ἡμεῖς δ’ ἐπ’ αὐτῆς ᾠχόμεσθα συντόμως
+κατ’ ἴχνος αὐτῶν· νυκτὸς εἰσεκύρσαμεν
+βοηδρομοῦντες · ἁρμάτων δ’ ἄφνω
+
+οὐκ ἐστρέφοντο, δέσμιοι δ’ ὣς ἥρμοσαν.
+c
+ἀπ’ οὐρανοῦ δὲ φέγγος ὡς πυρὸς μέγα
+ὤφθη τι ἡμῖν· ὡς μὲν εἰκάζειν, παρὴν
+αὐτοῖς ἀρωγὸς ὁ θεός. ὡς δ’ ἤδη πέραν
+ἤσαν θαλάσσης, κῦμα δ’ ἐρροίβδει μέγα
+
+σύνεγγυς ἡμῶν· καί τις ἠλάλαξ’ ἰδὼν,
+φεύγωμεν οἴκοι πρόσθεν ὑψίστου χέρας·
+οἶς μὲν γάρ ἐστ’ ἀρωγὸς, ἡμῖν δ’ ἀθλίοις
+v.1.p.514
+ὄλεθρον ἕρδει· καὶ συνεκλύσθη πόρος
+262
+ἐρυθρᾶς θαλάσσης καὶ στρατὸν διώλεσε.”
+
+15
+καὶ πάλιν μετ’ ὀλίγα ’’ Ἐκεῖθεν ἦλθον ἡμέρας τρεῖς, ὡς αὐτός τε ὁ Δημήτριος λέγει καὶ συμφώνως τούτῳ ἡ ἱερὰ βίβλος.
+μὴ ἔχοντα δὲ ὕδωρ ἐκεῖ γλυκὺ, ἀλλὰ πικρὸν , τοῦ θεοῦ εἰπόντος ξύλον τι ἐμβαλεῖν εἰς τὴν πηγὴν, καὶ γενέσθαι γλυκὺ τὸ ὕδωρ. ἐκεῖθεν δὲ εἰς ’Eλεὶμ ἐλθεῖν, καὶ εὑρεῖν ἐκεῖ δώδεκα μὲν πηγὰς ὑδάτων, ἑβδομήκοντα δὲ στελέχη φοινίκων. περὶ τούτων καὶ
+τοῦ φανέντος ὀρνέου Ἐζεκιῆλος ἐν τῇ Ἐξαγωγῇ παρεισάγει τινὰ λέγοντα τῷ Μώσῃ περὶ μὲν τῶν φοινίκων καὶ τῶν δώδεκα πηγῶν οὕτως
+
+16
+κράτιστε Μωσῆ, πρόσχες, οἷον εὕρομεν
+τόπον πρὸς αὐτῇ τῇδέ γ’ εὐαεῖ νάπῃ.
+
+446
+ἔστιν γὰρ, ὡς που καὶ σὺ τυγχάνεις ὄρων,
+ἐκεῖ. τόθεν δὲ φέγγος ἐξέλαμψέ νιν,
+κατ’ εὐφρόνην σημεῖον ὡς στῦλος πυρός.
+ἐνταῦθα λειμῶν’ εὕρομεν κατάσκιον,
+ὑγράς τε λιβάδας · δαψιλὴς χῶρος βαθὺς,
+
+πηγὰς ἀφύσσων δώδεκ’ ἐκ μιᾶς πέτρας ·
+στελέχη δ’ ἐρυμνὰ πολλὰ φοινίκων πέλει
+ἔγκαρπα, δεκάκις ἑπτὰ, καὶ ἐπίρρυτος
+b
+πέφυκε χλοίη θρέμμασιν χορτάσματα.
+εἶτα ὑποβὰς περὶ τοῦ φανέντος ὀρνέου διεξέρχεται
+ἕτερον δὲ πρὸς τοῖσδ’ εἴδομεν ζῷον ξένον,
+θαυμαστὸν, οἷον οὐδέπω ὥρακέ τις.
+διπλοῦν γὰρ ἤν τὸ μῆκος ἀετοῦ σχεδὸν,
+πτεροῖσι ποικίλοισιν ἠδὲ χρώμασι.
+στῆθος μὲν αὐτοῦ πορφυροῦν ἐφαίνετο,
+
+σκέλη δὲ μιλτόχρωτα, καὶ κατ’ αὐχένα
+κροκωτίνοις μαλλοῖσιν εὐτρεπίζετο.
+c
+κάρα δὲ κοττοῖς ἡμέροις παρεμφερὲς,
+καὶ μηλίνῃ μὲν τῇ κόρῃ προσέβλεπε
+κύκλῳ· κόρη δὲ κόκκος ὡς ἐφαίνετο·
+
+v.1.p.515
+φωνὴν δὲ πάντων εἶχεν ἐκπρεπεστάτην.
+βασκλεὺς δὲ πάντων ὀρνέων ἐφαίνετο,
+ως ἠν νοῆσαι. πάντα γὰρ τὰ πτήν’ ὁμοῦ
+ὄπισθεν αὐτοῦ δειλιῶντ’ ἐπέσσυτο,
+
+αὐτὸς δὲ πρόσθεν, ταῦρος ὣς γαυρούμενος,
+d
+ἔβαινε κραιπνὸν βῆμα βαστάζων ποδός.’
+καὶ μετὰ βραχέα
+‘‘ Ἐπιζητεῖν δέ τινα πῶς οἱ Ἰσραηλῖται ὅπλα ἔσχον ἄνοπλοι ἐξελθόντες. ἔφασαν γὰρ τριῶν ἡμερῶν ὁδὸν
+ἐξελθόντας καὶ θυσιάσαντας πάλιν ἀνακάμψειν. φαίνεται οὖν τοὺς μὴ κατακλυσθέντας τοῖς ἐκείνων ὅπλοις χρήσασθαι.’
+
+"I am not eloquent, O Lord, but slow  
+Of speech my tongue, and weak my stammering voice  
+To utter words of mine before the king?"
+
+'Then God in answer to this says to him:
+
+"Thy brother Aaron I will send with speed:  
+First tell thou him all I have told to thee;  
+And he before the king, and thou with  
+Me Alone shalt speak, he what he hears from thee."
+
+'With regard to the rod, and the other wonders thus he speaks in alternate verse:
+
+"God. 'Say, what is that thou holdest in thine hand? '  
+M. 'A rod, wherewith to smite or beasts or men.'  
+God. 'Cast it upon the ground, and flee in haste; 
+For a fierce serpent will affright thine eye.'  
+N. 'Lo! there I cast it. Save me, gracious Lord!
+How huge, how fierce! In pity spare Thou me.
+I shudder at the sight in every limb.'  
+God. 'Fear not: stretch forth thy hand, and seize the tail.
+Again 'twill be a rod. Now thrust thy hand
+Into thy bosom: take it out again.
+See, at My word, 'tis leprous, white as snow.
+Now thrust it in again, 'tis as before.' "
+
+To this, after some words that he has interposed, he adds the following:
+
+'Now this is what Ezekiel says in The Exodus, when he brings forward God speaking of the signs, as follows:
+
+"With this thy rod thou shalt work all these plagues. 
+The river first shall flow all red with blood,  
+And every spring, and stream, and stagnant pool.  
+Then frogs and lice shall swarm o'er all the land.  
+Next ashes from the furnace sprinkled round 
+In ulcers sore shall burst on man and beast.
+And swarms of flies shall come, and sore afflict
+The bodies of the Egyptians. After that
+On those hard hearts the pestilence and death
+Shall fall. And heaven's wrath let loose on high
+Shall pour down fire and hail and deadly storm
+On man, and beast, and all the fruits of earth.
+Then shall be darkness over all the land
+For three whole days, and locusts shall devour
+All food, all fruits, and every blade of grass.
+Moreover I will slay each first-born child,
+And crush this evil nation's wanton pride.
+Yet none of these My plagues shall touch the king,
+Until he see his first-born son lie dead:
+Then will he send you forth in fear and haste.
+This also speak to all the Hebrew race:
+'This month shall be the first month of your year,
+Wherein I bring you to that other land,
+As to the fathers of your race I sware.'
+Also command the people, in this month,
+At evening ere the moon's full orb appear,
+To sacrifice the Passover to God,
+And strike the side-posts of the door with blood:
+So shall My messenger of death pass by.
+But the flesh eat ye roast with fire at night.
+Then will the king drive forth your gathered host
+In haste; but ere ye go, I will give grace
+To this My people in the Egyptians' eyes,
+So that each woman from her neighbour's store
+All needful vessels freely shall receive,
+Silver and gold, and raiment meet for man,
+To make requital for their evil deeds.
+And when ye shall have reached your promised land,
+Take heed that, from the morn whereon ye fled
+From Egypt and marched onward seven whole days,
+From that same morn so many days each year
+Ye eat unleavened bread, and serve your God,
+Offering the first-born of all living things,
+All males that open first the mother's womb."
+
+'And again concerning this same feast he says that the poet has spoken with more careful elaboration:
+
+"And when the tenth day of this month is come,  
+Let every Hebrew for his household choose  
+Unblemished lambs and calves, and keep them up  
+Until the fourteenth day; and then at eve  
+Offer the solemn sacrifice, and eat  
+The flesh and inward parts all roast with fire.  
+Thus shall ye eat it, with your loins girt up,
+And shoes upon your feet, a staff withal
+Held ready in your hand; for in great haste
+The king will bid them drive you from his land.
+Let each man's eating for the lamb make count;
+And when the victim has been duly slain,
+Take a full bunch of hyssop in your hand,
+Dipped in the sacred blood, and therewith strike
+The posts and upper lintel of the door;
+That death may pass o'er every Hebrew's house.
+Keep ever thus this feast unto the Lord,
+Eating for seven days unleavened bread,
+And in your houses let no leaven be found.
+For ye shall be delivered, and the Lord
+Shall lead you forth from Egypt in this month,
+Henceforth to be tho first month of your year."
+
+Again, after some other passages he further says:
+
+'Ezekiel also, in the drama which is entitled The Exodus, brings forward a Messenger describing both the condition of the Hebrews and the destruction of the Egyptians, as follows:
+
+For when king Pharaoh from his house set forth  
+With all this crowd of countless men-at-arms,  
+With horsemen, and with four-horsed chariots,  
+In serried ranks in front and on each flank,  
+The embattled host was dreadful to behold.  
+The centre footmen held in phalanx deep  
+With spaces for the chariots to drive through.  
+And on the right wing and the left were set 
+The best of all the Egyptian chivalry.  
+The numbers of our army which I asked,  
+Were thousand thousands brave well-armed men.  
+The Hebrews, when o'ertaken by our host,  
+Lay some in groups hard by the Red Sea shore  
+Worn out with toil, and others with their wives  
+To feed their tender infants were intent:  
+Cumbered with flocks and herds and household goods.  
+The men themselves with hands not armed for fight,  
+At sight of us, set up a doleful cry,  
+And all, with hands uplift to heaven, invoked  
+Their fathers' God. Great was their multitude;  
+But on our side all jubilant our camp  
+Behind them close we pitched, where by the sea  
+There lies a city, Baal-zephon hight.  
+And as the sun was near his western couch,  
+We waited, longing for the fight at dawn,  
+Trusting our mighty host and deadly arms.  
+But now the signs of heaven's own wrath began,
+A dread and wondrous sight. For suddenly  
+A pillar of cloud rose high above the earth  
+Midway between the Hebrew camp and ours:  
+And then their leader Moses took his rod  
+Of power divine, which late on Egypt wrought  
+So many baneful signs and prodigies.  
+Therewith he struck the waves, and the deep sea  
+Was cleft asunder; and with eager steps  
+Their host rushed swiftly o'er that briny path.  
+We then upon their track without delay  
+Trod the same path, and marching forward met  
+The darkness of the night; when suddenly,  
+As if fast bound in chains, our chariot wheels
+Refused to turn; and from the sky a flame  
+As of a mighty fire before us shone.  
+Their God, methinks, was there to succour them:  
+For they no sooner reached the farther shore,  
+Than close at hand we heard the mighty roar  
+Of surging waves; and one in terror cried:  
+'Flee from the vengeful hand of the Most High,  
+For it is He that helps our enemies,  
+And works for our destruction.' Then the sea
+Surged o'er our path, and overwhelmed our host.
+
+And again soon after:
+
+'Thence they went forward three days, as Demetrius himself says, and the Holy Scripture agrees with him: but as he found there no sweet water, but bitter, at God's command he cast the wood of a certain tree into the fountain, and the water became sweet. And thence they came to Elim, and found there twelve springs of water, and threescore and ten palm-trees. As to these, and the bird which appeared there, Ezekiel in The Exodus introduces some one who speaks to Moses concerning the palm-trees and the twelve springs thus:
+
+''See, my lord Moses, what a spot is found  
+Fanned by sweet airs from yonder shady grove.  
+For as thyself mayest see, there lies the stream,  
+And thence at night the fiery pillar shed  
+Its welcome guiding light. A meadow there  
+Beside the stream in grateful shadow lies  
+And a deep glen in rich abundance pours  
+From out a single rock twelve sparkling springs.  
+There tall and strong, and laden all with fruit,  
+Stand palms threescore and ten; and plenteous grass  
+Well watered gives sweet pasture to our flocks."
+
+'Then lower down he gives a full description of the bird that appeared:
+
+"Another living thing we saw, more strange  
+And marvellous than man e'er saw before.  
+The noblest eagle scarce was half as large:  
+His outspread wings with varying colours shone;  
+The breast was bright with purple, and the legs  
+With crimson glowed, and on the shapely neck  
+The golden plumage shone in graceful curves:  
+The head was like a gentle nestling's formed:  
+Bright shone the yellow circlet of the eye  
+On all around, and wondrous sweet the voice.  
+The king he seemed of all the winged tribe,  
+As soon was proved; for birds of every kind  
+Hovered in fear behind his stately form:  
+While like a bull, proud leader of the herd,  
+Foremost he marched with swift and haughty step."
+
+And after a few words he adds that:
+
+'Some one asked how the Israelites got weapons, as they came out unarmed. For they said that after they had gone out a three days' journey, and offered sacrifice, they would return again. It appears therefore that these who had not been overwhelmed in the sea made use of the others' arms.'
 ## b11
 ### c3
 #### 8

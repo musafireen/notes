@@ -1,7 +1,7 @@
 # fitrah khalq form idea eidos
 
 https://biblehub.com/genesis/1-27.htm#lexicon
-![[bbl.torah#gen#c1#27]]
+![[bbl.tor#gen#c1#27]]
 
 ![[Qrsi#30:30]]
 

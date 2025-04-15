@@ -28,7 +28,7 @@ Non-standard quran
 ## infancy gospel of thomas
 
 
-:[[bbl.apcryph.gnos#thomas_infancy#?##?]]
+:[[bbl.apcr.gnos#thomas_infancy#?##?]]
 ## luke
 
 

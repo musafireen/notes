@@ -55,7 +55,7 @@ Who among the nations can turn to the Creator, when those whom the prophets name
 It is the Christ of the Other, Supreme God Who was driven to the cross by the hostile powers and authorities of the Creator. The suffering of the cross was not predicted of the Creator's Christ; moreover, it should not be believed that the Creator would expose his son to that kind of death on which he himself had pronounced a curse. "Cursed" says he, "is everyone who hangeth on a tree" (Deuteronomy 21:3, Galatians 3:13).
 ## ANTITHESIS
 ### 1
-![[bbl.torah#gen#c2#9]]
+![[bbl.tor#gen#c2#9]]
 
 
 ![[bbl.evngl#luke#c6#43]]
@@ -77,7 +77,7 @@ of good and evil .                                                           Luk
                                              tree is known by its fruit." Mt.12:33]
 
 ### 2
-![[bbl.torah#gen#c3#9]]
+![[bbl.tor#gen#c3#9]]
 
 ![[bbl.evngl#luke#c5#22]]
 
@@ -88,7 +88,7 @@ unto Adam, and said unto him,                thoughts,  He answering said unto
                        Genesis 3:9           hearts?"                   Luke 5:22 
 
 ### 3
-![[bbl.torah#exod#c21#24]]
+![[bbl.tor#exod#c21#24]]
 
 ![[bbl.evngl#luke#c6#29]]
 
@@ -127,7 +127,7 @@ two children of them.                        of God."
                 2 Kings 2:23,24                                   Mark 10:13,14 
 
 ### 6
-![[bbl.torah#lev#c15#19]]![[bbl.torah#c15#25]]
+![[bbl.tor#lev#c15#19]]![[bbl.tor#c15#25]]
 ![[bbl.evngl#luke#c8#43]]![[bbl.evngl#luke#c8#44]]
 
 And if a woman have issue, and if             And a woman having an issue of 
@@ -141,7 +141,7 @@ woman have an issue of her blood              border of His garment: and immed-
                   Leviticus 15:19,25  
 
 ### 7
-![[bbl.torah#deut#c24#1]]
+![[bbl.tor#deut#c24#1]]
 
 ![[bbl.evngl#matthew#c19#8]]
 
@@ -200,8 +200,8 @@ peace, and create evil: I the Lord Yahweh     ness at all (1 John 1:5b) God is l
 do all these things ( Isaiah 45:7). Do they   (1 John 4:16); [Love] thinketh no
 not err that devise evil? (Proverbs 14:22a     evil (1 Corinthians 13:5d).
 ### 11
- ![[bbl.torah#exod#c20#5]]
- ![[bbl.torah#exod#c34#14]]
+ ![[bbl.tor#exod#c20#5]]
+ ![[bbl.tor#exod#c34#14]]
 ![[bbl.paul#1 cor#c13#4]]
 
 
@@ -222,7 +222,7 @@ then He will turn and do you hurt,
 and consume you...(Joshua 24:13,14)
 
 ### 13
-![[bbl.torah#exod#c20#5]]
+![[bbl.tor#exod#c20#5]]
 
 ![[bbl.evngl#matthew#c18#21]]![[bbl.evngl#matthew#c18#22]]
 

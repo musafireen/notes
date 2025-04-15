@@ -2,6 +2,31 @@
 https://www.sefaria.org/The_Antiquities_of_the_Jews
 
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D8%3Awhiston%20chapter%3D6%3Awhiston%20section%3D1
+## b1
+#### 227
+ἔφερον δὲ σὺν αὐτοῖς ὅσα λοιπὰ πρὸς τὴν θυσίαν ἦν πλὴν ἱερείου. 
+
+Now they had brought with them every thing necessary for a sacrifice, excepting the animal that was to be offered only. 
+
+τοῦ δ᾽ Ἰσάκου πέμπτον τε καὶ εἰκοστὸν ἔτος ἔχοντος 
+
+Now Isaac was twenty-five years old. 
+
+τὸν βωμὸν κατασκευάζοντος 
+
+And as he was building the altar, 
+
+καὶ πυθομένου, τί καὶ μέλλοιεν θύειν ἱερείου μὴ παρόντος, 
+
+he asked his father what he was about to offer, since there was no animal there for an oblation : - to which it was answered, 
+
+τὸν θεὸν αὐτοῖς παρέξειν ἔλεγεν ὄντα ἱκανὸν καὶ τῶν οὐκ ὄντων εἰς εὐπορίαν ἀνθρώποις παραγαγεῖν καὶ τὰ ὄντα τῶν ἐπ᾽ αὐτοῖς θαρρούντων ἀφελέσθαι: 
+
+"That God would provide himself an oblation, he being able to make a plentiful provision for men out of what they have not, and to deprive others of what they already have, when they put too much trust therein; 
+
+δώσειν οὖν κἀκείνῳ ἱερεῖον, εἴπερ εὐμενὴς μέλλει τῇ θυσίᾳ παρατυγχάνειν αὐτοῦ.
+
+that therefore, if God pleased to be present and propitious at this sacrifice, he would provide himself an oblation.
 ## b8
 ### 5.3
 Ταῦτα Σολόμων εἰκοσαετίᾳ κατασκευάσας, ἐπεὶ πολὺν μὲν αὐτῷ χρυσὸν πλείω δ᾽ ἄργυρον ὁ τῶν Τυρίων βασιλεὺς Εἴρωμος εἰς τὴν οἰκοδομίαν συνήνεγκεν ἔτι δὲ καὶ ξύλα κέδρου καὶ πίτυος, ἀντεδωρήσατο καὶ αὐτὸς μεγάλαις δωρεαῖς τὸν Εἴρωμον σῖτόν τε κατ᾽ ἔτος πέμπων αὐτῷ καὶ οἶνον καὶ ἔλαιον, ὧν μάλιστα διὰ τὸ νῆσον οἰκεῖν, ὡς καὶ προειρήκαμεν ἤδη, χρῄζων διετέλει. [142] πρὸς τούτοις δὲ καὶ πόλεις αὐτῷ τῆς Γαλιλαίας εἴκοσι μὲν τὸν ἀριθμὸν οὐ πόρρω δὲ τῆς Τύρου κειμένας ἐχαρίσατο, ἃς ἐπελθὼν καὶ κατανοήσας Εἴρωμος καὶ δυσαρεστήσας τῇ δωρεᾷ πέμψας πρὸς Σολόμωνα μὴ δεῖσθαι τῶν πόλεων ἔλεγε κἄκτοτε προσηγορεύθησαν Χαβαλὼν γῆ: μεθερμηνευόμενον δὲ τὸ χάβαλον κατὰ Φοινίκων γλῶτταν οὐκ ἀρέσκον σημαίνει. [143] καὶ σοφίσματα δὲ καὶ λόγους αἰνιγματώδεις διεπέμψατο πρὸς Σολόμωνα ὁ τῶν Τυρίων βασιλεὺς παρακαλῶν, ὅπως αὐτῷ σαφηνίσῃ τούτους καὶ τῆς ἀπορίας τῶν ἐν αὐτοῖς ζητουμένων ἀπαλλάξῃ. τὸν δὲ δεινὸν ὄντα καὶ συνετὸν οὐδὲν τούτων παρῆλθεν, ἀλλὰ πάντα νικήσας τῷ λογισμῷ καὶ μαθὼν αὐτῶν τὴν διάνοιαν ἐφώτισε.

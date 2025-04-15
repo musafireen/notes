@@ -32,6 +32,56 @@ However, now that he has been created, he should examine his actions that he has
 וְאָמְרִי לַהּ: יְמַשְׁמֵשׁ בְּמַעֲשָׂיו.
 
 And some say: He should scrutinize his planned actions and evaluate whether or not and in what manner those actions should be performed, so that he will not sin.
+## psh
+#### 118a
+##### 20
+וְיֵשׁ אוֹמְרִים: ״וֶאֱמֶת ה׳ לְעוֹלָם״ גַּבְרִיאֵל אֲמָרוֹ. 
+
+And some say that the angel Gabriel recited: 
+
+“And the truth of the Lord endures forever.” 
+
+This Gemara elaborates: 
+
+בְּשָׁעָה שֶׁהִפִּיל נִמְרוֹד הָרָשָׁע אֶת אַבְרָהָם אָבִינוּ לְתוֹךְ כִּבְשַׁן הָאֵשׁ אָמַר גַּבְרִיאֵל לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: 
+
+When the evil Nimrod threw our father, Abraham, into the fiery furnace, Gabriel said before the Holy One, Blessed be He: 
+
+רִבּוֹנוֹ שֶׁל עוֹלָם, אֵרֵד וַאֲצַנֵּן וְאַצִּיל אֶת הַצַּדִּיק מִכִּבְשַׁן הָאֵשׁ. 
+
+Master of the Universe, I will descend and cool the furnace, and I will thereby save the righteous Abraham from the fiery furnace. 
+
+אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא: אֲנִי יָחִיד בְּעוֹלָמִי וְהוּא יָחִיד בְּעוֹלָמוֹ, נָאֶה לַיָּחִיד לְהַצִּיל אֶת הַיָּחִיד. 
+
+The Holy One, Blessed be He, said to him: I am unique in my world and Abraham is still unique in his world. It is fitting for the unique to save the unique. 
+
+וּלְפִי שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא אֵינוֹ מְקַפֵּחַ שְׂכַר כׇּל בְּרִיָּה, 
+
+Therefore, God Himself went down and saved him. And as the Holy One, Blessed be He, does not withhold reward from any creature who sought to perform a good deed, 
+
+אָמַר: תִּזְכֶּה וְתַצִּיל שְׁלֹשָׁה מִבְּנֵי בָנָיו.
+
+He said to Gabriel: You will merit the rescue of three of his descendants under similar circumstances.
+##### 21
+דָּרַשׁ רַבִּי שִׁמְעוֹן הַשִּׁלוֹנִי: 
+
+Rabbi Shimon HaShiloni taught: 
+
+בְּשָׁעָה שֶׁהִפִּיל נְבוּכַדְנֶצַּר הָרָשָׁע חֲנַנְיָה מִישָׁאֵל וַעֲזַרְיָה לְתוֹךְ כִּבְשַׁן הָאֵשׁ, עָמַד יוֹרֶקְמוֹ שַׂר הַבָּרָד לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא, אָמַר לְפָנָיו: 
+
+When the evil Nebuchadnezzar threw Hananiah, Mishael, and Azariah into the fiery furnace, Yurkamo, the ministering angel of hail, stood before the Holy One, Blessed be He, and said before Him: 
+
+רִבּוֹנוֹ שֶׁל עוֹלָם, אֵרֵד וַאֲצַנֵּן אֶת הַכִּבְשָׁן וְאַצִּיל לַצַּדִּיקִים הַלָּלוּ מִכִּבְשַׁן הָאֵשׁ. 
+
+Master of the Universe, I will go down and cool the fiery furnace, and I will save these righteous ones from the fiery furnace. 
+
+אָמַר לוֹ גַּבְרִיאֵל: אֵין גְּבוּרָתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא בְּכָךְ שֶׁאַתָּה שַׂר בָּרָד, וְהַכֹּל יוֹדְעִין שֶׁהַמַּיִם מְכַבִּין אֶת הָאֵשׁ. 
+
+Gabriel said to him: The strength of the Holy One, Blessed be He, will not be evident in this manner, as you are the minister of hail, and everyone knows that water extinguishes fire. 
+
+אֶלָּא, אֲנִי שַׂר שֶׁל אֵשׁ אֵרֵד וַאֲקָרֵר מִבִּפְנִים,
+
+Your action would not be regarded as a great miracle. Rather, I, the ministering angel of fire, will descend, and I will cool the furnace from within,
 ## tnt
 #### 24.a
 ##### 4
@@ -1257,7 +1307,7 @@ Benayahu then asked: What is the reason that when you saw that sorcerer performi
 ##### 14
 תַּרְחֵיהּ גַּבֵּיהּ עַד דְּבַנְיֵיהּ לְבֵית הַמִּקְדָּשׁ. יוֹמָא חַד הֲוָה קָאֵי לְחוֹדֵיהּ, אֲמַר לֵיהּ: כְּתִיב: ״כְּתוֹעֲפוֹת רְאֵם לוֹ״; וְאָמְרִינַן: ״כְּתוֹעֲפוֹת״ – אֵלּוּ מַלְאֲכֵי הַשָּׁרֵת, ״רְאֵם״ – אֵלּוּ הַשֵּׁדִים. מַאי רְבוּתַיְיכוּ מִינַּן?
 
-Solomon kept Ashmedai with him until he completed building the Temple. One day he stood with Ashmedai alone. He said to Ashmedai: It is written: “For him like the lofty horns of the wild ox” [(Numbers 24:8)](bbl.torah#num#c24#8), and the Sages say in explanation of the verse: “Like the lofty horns”; these are the ministering angels. “The wild ox”; these are the demons. In what way are you greater than us? Why does the verse praise your abilities and powers over those of human beings?
+Solomon kept Ashmedai with him until he completed building the Temple. One day he stood with Ashmedai alone. He said to Ashmedai: It is written: “For him like the lofty horns of the wild ox” [(Numbers 24:8)](bbl.tor.md#num#c24#8), and the Sages say in explanation of the verse: “Like the lofty horns”; these are the ministering angels. “The wild ox”; these are the demons. In what way are you greater than us? Why does the verse praise your abilities and powers over those of human beings?
 ##### 15
 אֲמַר לֵיהּ: שְׁקוֹל שׁוּשִׁילְתָּא מִינַּאי, וְהַב לִי עִיזְקְתָךְ, וְאַחְוִי לָךְ רְבוּתַאי. שַׁקְלֵיהּ לְשׁוּשִׁילְתָּא מִינֵּיהּ, וְיָהֵיב לֵיהּ עִיזְקְתֵיהּ. בַּלְעֵיהּ, אוֹתְבֵיהּ לְחַד גַּפֵּיהּ בִּרְקִיעָא, וּלְחַד גַּפֵּיהּ בְּאַרְעָא, פַּתְקֵיהּ אַרְבַּע מְאָה פַּרְסֵי. עַל הַהִיא שַׁעְתָּא אֲמַר שְׁלֹמֹה: ״מַה יִּתְרוֹן לָאָדָם בְּכׇל עֲמָלוֹ שֶׁיַּעֲמֹל תַּחַת הַשָּׁמֶשׁ״.
 

@@ -1,6 +1,6 @@
-![[bbl.torah#num#c22#22]]
+![[bbl.tor#num#c22#22]]
 
-![[bbl.torah#num#c22#32]]
+![[bbl.tor#num#c22#32]]
 
 ![[bbl.history.neviim#1_samuel#c29#4]]
 

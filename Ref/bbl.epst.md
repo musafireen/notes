@@ -4,6 +4,11 @@
 ει γαρ ο θεος αγγελων αμαρτησαντων ουκ εφεισατο αλλα σειραις ζοφου ταρταρωσας παρεδωκεν εις κρισιν τετηρημενους
 
 For if God spared not the angels that sinned, but cast [them] down to hell, and delivered [them] into chains of darkness, to be reserved unto judgment;
+## c3
+#### 8
+εν δε τουτο μη λανθανετω υμας αγαπητοι οτι μια ημερα παρα κυριω ως χιλια ετη και χιλια ετη ως ημερα μια
+
+But, beloved, be not ignorant of this one thing, that one day [is] with the Lord as a thousand years, and a thousand years as one day.
 # 1_j
 ## c1
 ### 5
