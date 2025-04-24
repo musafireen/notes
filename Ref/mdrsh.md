@@ -241,7 +241,140 @@ That is what is written:
  וַיָּמָת הָרָן עַל פְּנֵי תֶּרַח וגו'.
  
  “Haran died in the presence of Teraḥ…”
+### c44
+#### 13
+“He said to him: I am the Lord who took you out of Ur of the Chaldeans, to give you this land to inherit it” (Genesis 15:7).
 
+וַיֹּאמֶר אֵלָיו אֲנִי ה' אֲשֶׁר הוֹצֵאתִיךָ מֵאוּר כַּשְׂדִים וגו' (בראשית טו, ז), 
+
+“He said to him: I am the Lord who took you out of Ur of the Chaldeans…” – 
+
+רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב וְרַבָּנָן, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אָמַר 
+
+Rabbi Eliezer ben Yaakov and the Rabbis, Rabbi Eliezer ben Yaakov said: 
+
+מִיכָאֵל יָרַד וְהִצִּילוֹ מִכִּבְשַׁן הָאֵשׁ. 
+
+Mikhael descended and rescued him from the fiery furnace.43 
+
+וְרַבָּנָן אָמְרֵי הַקָּדוֹשׁ בָּרוּךְ הוּא הִצִּילוֹ, 
+
+The Rabbis said: The Holy One blessed be He Himself rescued him. 
+
+הֲדָא הוּא דִכְתִיב: אֲנִי ה' אֲשֶׁר הוֹצֵאתִיךָ מֵאוּר כַּשְׂדִּים, 
+
+That is what is written: “I am the Lord who took you out of the furnace of the Chaldeans.”
+
+וְאֵימָתַי יָרַד מִיכָאֵל, בַּחֲנַנְיָה מִישָׁאֵל וַעֲזַרְיָה.
+
+When did Mikhael descend [to save someone from a fiery furnace]? It was with Ḥananya, Mishael, and Azarya.
+### c48
+#### 9
+“He lifted his eyes and he saw, and, behold, three men were standing over him; he saw and ran toward them from the entrance of the tent, and prostrated himself to the ground” (Genesis 18:2).
+
+אָמַר עַד שֶׁלֹא מַלְתִּי הָיוּ הָעוֹבְרִים וְהַשָּׁבִים בָּאִים אֶצְלִי, 
+
+He [Abraham] said: ‘Before I was circumcised, passersby would come in to me.’18 
+
+אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא עַד שֶׁלֹא מַלְתָּה הָיוּ בְּנֵי אָדָם עֲרֵלִים בָּאִים, עַכְשָׁו אֲנִי וּבְנֵי פַּמַּלְיָא שֶׁלִּי נִגְלִים עָלֶיךָ, 
+
+The Holy One blessed be He said to him: ‘Before you were circumcised, uncircumcised people would come to you. Now, I and the members of my entourage are revealing ourselves to you.’ 
+
+הֲדָא הוּא דִכְתִיב (בראשית יח, ב): וַיִּשָּׂא עֵינָיו וַיַּרְא וְהִנֵּה שְׁלשָׁה אֲנָשִׁים נִצָּבִים עָלָיו, 
+
+That is what is written: “He lifted his eyes and saw, and, behold, three men were standing near him; [he saw…].” 
+
+וַיַּרְא בַּשְּׁכִינָה, וַיַּרְא בַּמַּלְאָכִים. 
+
+“He saw” – the Divine Presence; “he saw” –the angels.
+
+אָמַר רַבִּי חֲנִינָא שְׁמוֹת חֳדָשִׁים עָלוּ מִבָּבֶל. 
+
+Rabbi Ḥanina said: The names of the months19 ascended from Babylon.20 
+
+רֵישׁ לָקִישׁ אָמַר אַף שְׁמוֹת מַלְאָכִים מִיכָאֵל רְפָאֵל וְגַבְרִיאֵל. 
+
+Reish Lakish said: The names of the angels, Mikhael, Refael, and Gavriel, as well.21
+
+אָמַר רַבִּי לֵוִי אֶחָד נִדְמָה לוֹ בִּדְמוּת סָדָקִי, וְאֶחָד נִדְמָה לוֹ בִּדְמוּת נָוָטִי, וְאֶחָד בִּדְמוּת עֲרָבִי, 
+
+Rabbi Levi said: One appeared to him in the image of a Saracen, one in the image of a Nabatean, and one in the image of an Arab.
+
+אָמַר אִם רוֹאֶה אֲנִי שֶׁשְּׁכִינָה מַמְתֶּנֶת עֲלֵיהֶם אֲנִי יוֹדֵעַ שֶׁהֵן בְּנֵי אָדָם גְּדוֹלִים, וְאִם אֲנִי רוֹאֶה אוֹתָן חוֹלְקִים כָּבוֹד אֵלּוּ לְאֵלּוּ, אֲנִי יוֹדֵעַ שֶׁהֵן בְּנֵי אָדָם מְהוּגָנִין, וְכֵיוָן שֶׁרָאָה אוֹתָן חוֹלְקִין כָּבוֹד אֵלּוּ לְאֵלּוּ, יָדַע שֶׁהֵן בְּנֵי אָדָם מְהוּגָנִין. 
+
+He [Abraham] said: ‘If I see that the Divine Presence waits for them, I will know that they are prominent people. If I see that they act respectfully towards to one another, I will know that they are reputable people.’22 When he saw them acting respectfully towards one another, he knew that they were reputable people.
+
+אָמַר רַבִּי אַבָּהוּ אֹהֶל פְּלָן שֶׁל אָבִינוּ אַבְרָהָם מְפֻלָּשׁ הָיָה, 
+
+Rabbi Abahu said: The main tent of our patriarch Abraham was open on both sides, like a large plaza. 
+
+רַבִּי יוּדָן אָמַר כְּהָדֵין דְּרוֹמִילוֹס, 
+
+אָמַר אִם אֲנִי רוֹאֶה אוֹתָן שֶׁהִפְלִיגוּ אֶת דַּרְכָּם לְהִתְקָרֵב דֶּרֶךְ כָּאן, אֲנִי יוֹדֵעַ שֶׁהֵן בָּאִים אֶצְלִי, 
+
+He said: ‘If I see them, that they turn off from their way to approach this way, I will know that they are coming to me.’ 
+
+כֵּיוָן שֶׁרָאָה אוֹתָן שֶׁהִפְלִיגוּ, מִיָּד וַיָּרָץ לִקְרָאתָם מִפֶּתַח הָאֹהֶל וַיִּשְׁתַּחוּ אָרְצָה.
+
+When he saw that they had turned off the road, he immediately “ran toward them from the entrance of the tent, and prostrated himself to the ground.”
+#### 14
+“He took butter and milk, and the young bull that he had prepared, and placed it before them; he was standing over them beneath the tree, and they ate” (Genesis 18:8).
+
+וַיִּקַּח חֶמְאָה וְחָלָב (בראשית יח, ח), 
+
+“He took butter and milk” – 
+
+אָמַר רַבִּי חֲנִינָא הַמְעֻלֶּה אֶחָד מִשִּׁשִּׁים בֶּחָלָב, וְהַבֵּינוֹנִי אֶחָד מֵאַרְבָּעִים, וְהַקִּבָּר אֶחָד מֵעֶשְׂרִים. 
+
+Rabbi Ḥanina said: The highest quality [butter] is one-sixtieth of the milk,35 the intermediate quality is one-fortieth, and the lowest quality is one-twentieth. 
+
+רַבִּי יוֹנָה אָמַר הַמְעֻלָּה אֶחָד מִמֵּאָה, בֵּינוֹנִי אֶחָד מִשִּׁשִּׁים, וְהַקִּבָּר אֶחָד מֵעֶשְׂרִים. 
+
+Rabbi Yona said: The highest quality [butter] is one-hundredth of the milk, the intermediate quality is one-sixtieth, and the lowest quality is one-twentieth.36
+
+וּפַת הֵיכָן הִיא, אֶפְרַיִם מַקְשָׁאָה תַּלְמִידוֹ דְּרַבִּי מֵאִיר מִשּׁוּם רַבִּי מֵאִיר אָמַר פִּירְסָה נִדָּה וְנִטְמֵאת הָעִסָּה. 
+
+And where was the bread?37 Efrayim Makshaa, a student of Rabbi Meir, said in the name of Rabbi Meir: She began to menstruate [just then] and the dough became ritually impure. 
+
+רַבָּנָן אָמְרֵי אֲפִלּוּ פַּת הֵבִיא לִפְנֵיהֶם, מָה אִם דְּבָרִים שֶׁלֹא אָמַר הֵבִיא לִפְנֵיהֶם, דְּבָרִים שֶׁאָמַר לָהֶם עַל אַחַת כַּמָּה וְכַמָּה. 
+
+The Rabbis say: He did bring the bread before them as well. If he brought these items, which he did not mention [earlier], all the more so did he bring the items that he did mention.38
+
+(בראשית יח, ח): וְהוּא עֹמֵד עֲלֵיהֶם, הָכָא אַתְּ אָמַר וְהוּא עֹמֵד עֲלֵיהֶם, וּלְהַלָּן אָמַר (בראשית יח, ב): 
+
+“He was standing over them” – here it says: “He was standing over them,” but elsewhere it says: “[behold, three men] were standing over him” (Genesis 18:2). 
+
+נִצָּבִים עָלָיו, אֶלָּא עַד שֶׁלֹא יָצָא יְדֵיהֶם נִצָּבִים עָלָיו, כֵּיוָן שֶׁיָּצָא יְדֵיהֶם וְהוּא עֹמֵד עֲלֵיהֶם, אֵימָתוֹ מֻטֶּלֶת עֲלֵיהֶם, מִיכָאֵל מִרְתַּת, גַּבְרִיאֵל מִרְתַּת. 
+
+The explanation is that before he satisfied his obligation to them, they were standing over him.39 Once he satisfied his obligation to them, he was standing over them.40 Awe of him overcame them: Mikhael was trembling, Gavriel was trembling.
+
+רַבִּי תַּנְחוּמָא מִשּׁוּם רַבִּי אֶלְעָזָר וְרַבִּי אָבוּן בְּשֵׁם רַבִּי מֵאִיר, 
+
+Rabbi Tanḥuma in the name of Rabbi Elazar and Rabbi Avun in the name of Rabbi Meir: 
+
+מַתְלָא אֲמַר, 
+
+The parable says: 
+
+עֲלַת לְקַרְתָּא הֲלֵךְ בְּנִימוּסָהּ, 
+
+When you enter a city, follow its customs.41 
+
+לְמַעְלָה שֶׁאֵין אֲכִילָה וּשְׁתִיָּה, עָלָה משֶׁה לַמָּרוֹם וְלֹא אָכַל, שֶׁנֶּאֱמַר 
+
+On High, where there is no eating and drinking, when Moses ascended on High he did not eat, as it is stated: 
+
+(דברים ט, ט): וָאֵשֵׁב בָּהָר אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה לֶחֶם לֹא אָכַלְתִּי וּמַיִם לֹא שָׁתִיתִי, 
+
+“I remained on the mountain forty days and forty nights; bread I did not eat and water I did not drink” (Deuteronomy 9:9). 
+
+אֲבָל לְמַטָּה שֶׁיֵּשׁ אֲכִילָה וּשְׁתִיָּה, וְהוּא עֹמֵד עֲלֵיהֶם תַּחַת הָעֵץ וַיֹּאכֵלוּ, 
+
+But below, where there is eating and drinking: “He was standing over them beneath the tree, and they ate.” 
+
+וְכִי אוֹכְלִין הָיוּ, אֶלָּא נִרְאִין כְּאוֹכְלִין, רִאשׁוֹן רִאשׁוֹן מִסְתַּלֵּק.
+
+Were they actually eating? No, they appeared as though they were eating, the morsels disappearing one by one.
 ### c50
 #### 4
 וַיַּרְא לוֹט וַיָּקָם לִקְרָאתָם וגו' וַיֹּאמֶר הִנֶּה נָּא אֲדֹנַי (בראשית יט, א ב), רַבִּי יוּדָן וְרַבִּי הוּנָא. רַבִּי יוּדָן אָמַר (בראשית יט, ב): סוּרוּ נָא, אֲפִלּוּ אֵינִי כְדַאי, עַקְּמוּ עָלַי אֶת הַדֶּרֶךְ. רַבִּי הוּנָא אָמַר עַקְּמוּ עָלַי אֶת הַדֶּרֶךְ כְּדֵי שֶׁלֹא תִּהְיוּ נִרְאִים בָּאִים אֶצְלִי. (בראשית יט, ב): אֶל בֵּית עַבְדְּכֶם וְלִינוּ וְרַחֲצוּ, אַבְרָהָם מַקְדִּים רְחִיצָה לְלִינָה וְלוֹט מַקְדִּים לִינָה לִרְחִיצָה, אֶלָּא אַבְרָהָם מַקְפִּיד עַל טִנּוֹפֶת עֲבוֹדַת כּוֹכָבִים לְפִיכָךְ הִקְדִּים רְחִיצָה, וְלוֹט אֵינוֹ מַקְפִּיד עַל טִנֹּפֶת עֲבוֹדַת כּוֹכָבִים. וְיֵשׁ אוֹמְרִים אַף זֶה עָשָׂה כַּשּׁוּרָה, כְּדֵי שֶׁיֵּצְאוּ וְיִרְאוּ אָבָק עַל רַגְלֵיהֶם שֶׁלֹא יֹאמְרוּ הֵיכָן לָנוּ. (בראשית יט, ב): וַיֹּאמְרוּ לֹּא כִּי בָרְחוֹב נָלִין, מְמָאֲנִין בְּקָטָן וְאֵין מְמָאֲנִין בְּגָדוֹל. (בראשית יט, ג): וַיִּפְצַר בָּם מְאֹד, הִכְנִיס בָּם אַף וְצָרָה. (בראשית יט, ג): וַיָּסֻרוּ אֵלָיו וַיָּבֹאוּ אֶל בֵּיתוֹ, הֲדָא מְסַיְּעָא לְהַהוּא דְּאָמַר רַב הוּנָא עַקְּמוּ עָלַי אֶת הַדֶּרֶךְ כְּדֵי שֶׁלֹא תִּהְיוּ נִרְאִים בָּאִים אֶצְלִי. (בראשית יט, ג): וַיַּעַשׂ לָהֶם מִשְׁתֶּה, בְּבֵיתוֹ שֶׁל אַבְרָהָם אָבִינוּ הָיָה שֶׁהָיָה מְקַבֵּל אֶת הָעוֹבְרִים וְאֶת הַשָּׁבִים. אָמַר רַבִּי יִצְחָק מַצּוּת גְּדוֹלָה עָמְדָה עַל הַמֶּלַח, דְּהוּא אָמַר לָהּ הַב לְאִלֵּין אַכְסַנְיָא קַלִּיל מֶלַח, וַהֲוַת אָמְרָה לֵיהּ אַף הָדָא סוֹנִיתָא בִּישָׁא אַתּ בָּעֵי מֵילְפָא הָכָא.
@@ -277,3 +410,7 @@ https://www.sefaria.org/Midrash_Tanchuma
 וַיֹּאמֶר קַיִן אֶל הֶבֶל אָחִיו, מָה אָמַר לוֹ? נְחַלֵּק הָעוֹלָם וַאֲנִי בְּכוֹר וְאֶטֹּל פִּי שְׁנָיִם. אָמַר לוֹ הֶבֶל, אֶפְשָׁר. אָמַר לוֹ קַיִן, אִם כֵּן אֲנִי נוֹטֵל יָתֵר חֵלֶק עַל חֶלְקִי מְקוֹם שֶׁנִּתְקַבֵּל בּוֹ קָרְבָּנֶךָ. אָמַר לוֹ הֶבֶל, לֹא תִטֹּל. וְעַל דָּבָר זֶה נָפְלָה קְטָטָה בֵינֵיהֶם, שֶׁנֶּאֱמַר: וַיְהִי בִהְיוֹתָם בַּשָּׂדֶה. וּלְהַלָּן כְּתִיב: צִיּוֹן שָׂדֶה תֵחָרֵשׁ (ירמיה כו, יח).
 
 And Cain spoke unto Abel, his brother (Gen. 4:8). What did he say to him? He said: “Let us divide the world between us, but since I am the eldest, I shall take twice as much.” Abel replied: “Perhaps.” “If we do this,” Cain continued, “I want my share to include the place at which your sacrifice was accepted.” Abel replied: “That, you cannot have.” Thereupon, they began to quarrel, as it is said: And it came to pass while they were in the field that Cain arose (ibid.), and it says elsewhere: Zion shall be plowed as a field (Jer. 26:18).
+
+# prk_elzr
+## c25
+#### 

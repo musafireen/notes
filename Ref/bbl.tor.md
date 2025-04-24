@@ -253,17 +253,104 @@ And he brought him forth abroad, and said, Look now toward heaven, and tell the 
 וַיֹּ֖אמֶר אֵלָ֑יו אֲנִ֣י יְהוָ֗ה אֲשֶׁ֤ר הוֹצֵאתִ֙יךָ֙ מֵא֣וּר כַּשְׂדִּ֔ים לָ֧תֶת לְךָ֛ אֶת־הָאָ֥רֶץ הַזֹּ֖את לְרִשְׁתָּֽהּ ׃
 
 And he said unto him, I [am] the LORD that brought thee out of Ur of the Chaldees, to give thee this land to inherit it.
+#### 8
+וַיֹּאמַ֑ר אֲדֹנָ֣י יֱהוִ֔ה בַּמָּ֥ה אֵדַ֖ע כִּ֥י אִֽירָשֶֽׁנָּה ׃
+
+And he said, Lord GOD, whereby shall I know that I shall inherit it ?
+#### 9
+וַיֹּ֣אמֶר אֵלָ֗יו קְחָ֥ה לִי֙ עֶגְלָ֣ה מְשֻׁלֶּ֔שֶׁת וְעֵ֥ז מְשֻׁלֶּ֖שֶׁת וְאַ֣יִל מְשֻׁלָּ֑שׁ וְתֹ֖ר וְגוֹזָֽל ׃
+
+And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon. 
+#### 10
+וַיִּֽקַּֽח־ל֣וֹ אֶת־כָּל־אֵ֗לֶּה וַיְבַתֵּ֤ר אֹתָם֙ בַּתָּ֔וֶךְ וַיִּתֵּ֥ן אִישׁ־בִּתְר֖וֹ לִקְרַ֣את רֵעֵ֑הוּ וְאֶת־הַצִפֹּ֖ר לֹ֥א בָתָֽר ׃
+
+And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not. 
+#### 11
+וַיֵּ֥רֶד הָעַ֖יִט עַל־הַפְּגָרִ֑ים וַיַּשֵּׁ֥ב אֹתָ֖ם אַבְרָֽם ׃
+
+And when the fowls came down upon the carcases, Abram drove them away.
 ## c17
 #### 19
 וַיֹּאמֶר אֱלֹהִים אֲבָל שָׂרָה אִשְׁתְּךׇ יֹלֶדֶת לְךׇ בֵּן וְקָרָאתָ אֶת-שְׁמוֺ יִצְחָק וַהֲקִמֹתִי אֶת-בְּרִיתִי אִתּוֺ לִבְרִית עוֺלָם לְזַרְעוֺ אַחֲרָיו
 
 And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, [and] with his seed after him.
 ## c18
+#### 1
+וַיֵּרָ֤א אֵלָיו֙ יְהוָ֔ה בְּאֵלֹנֵ֖י מַמְרֵ֑א וְה֛וּא יֹשֵׁ֥ב פֶּֽתַח־הָאֹ֖הֶל כְּחֹ֥ם הַיּֽוֹם ׃
+
+And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day; 
+#### 2
+וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו וַיַּ֗רְא וַיָּ֤רָץ לִקְרָאתָם֙ מִפֶּ֣תַח הָאֹ֔הֶל וַיִּשְׁתַּ֖חוּ אָֽרְצָה ׃
+
+And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw [them], he ran to meet them from the tent door, and bowed himself toward the ground, 
+#### 6 
+6וַיְמַהֵר אַבְרָהָם הָאֹהֱלָהאֶל-שָׂרָהוַיֹּאמֶר מַהֲרִי שְׁלֹשׁ סְאִים קֶמַח סֹלֶת לוּשִׁי וַעֲשִׂי עֻגוֺת 
+
+And Abraham hastened into the tent unto Sarah, and said, Make ready quickly three measures of fine meal, knead [it], and make cakes upon the hearth.
+#### 7
+7וְאֶל-הַבָּקָררָץ אַבְרָהָם וַיִּקַּחבֶּן-בָּקָררַךְ וָטוֺב וַיִּתֵּןאֶל-הַנַּעַרוַיְמַהֵר לַעֲשׂוֺת אֹתוֺ 
+
+And Abraham ran unto the herd, and fetcht a calf tender and good, and gave [it] unto a young man; and he hasted to dress it. 
+#### 8
+וַיִּקַּח חֶמְאָה וְחָלָבוּבֶן-הַבָּקָראֲשֶׁר עָשָׂה וַיִּתֵּן לִפְנֵיהֶםוְהוּא-עֹמֵדעֲלֵיהֶם תַּחַת הָעֵץ וַיֹּאכֵלוּ 
+
+And he took butter, and milk, and the calf which he had dressed, and set [it] before them; and he stood by them under the tree, and they did eat. 
+#### 9
+וַיֹּאמְרוּ אֵלָיו אַיֵּה שָׂרָה אִשְׁתֶּךׇ וַיֹּאמֶר הִנֵּה בָאֹהֶל 
+
+And they said unto him, Where [is] Sarah thy wife ? And he said, Behold, in the tent. 
+#### 10
+וַיֹּאמֶר שׁוֺב אָשׁוּב אֵלֶיךׇ כָּעֵת חַיָּהוְהִנֵּה-בֵןלְשָׂרָה אִשְׁתֶּךׇ וְשָׂרָה שֹׁמַעַת פֶּתַח הָאֹהֶל וְהוּא אַחֲרָיו 
+
+And he said, I will certainly return unto thee according to the time of life; and, lo, Sarah thy wife shall have a son. And Sarah heard [it] in the tent door, which [was] behind him. 
+#### 11
+וְאַבְרָהָם וְשָׂרָה זְקֵנִים בָּאִים בַּיָּמִים חָדַל לִהְיוֺת לְשָׂרָה אֹרַח כַּנָּשִׁים 
+
+Now Abraham and Sarah [were] old [and] well stricken in age; [and] it ceased to be with Sarah after the manner of women. 
 #### 12
 וַתִּצְחַק שָׂרָה בְּקִרְבָּהּ לֵאמֹר אַחֲרֵי בְלֹתִי הָיְתָה-לִּי עֶדְנָה וַאדֹנִי זָקֵן
 
 Therefore Sarah laughed within herself, saying, After I am waxed old shall I have pleasure, my lord being old also ?
+#### 13
+וַיֹּאמֶר יְהוָהאֶל-אַבְרָהָםלָמָּה זֶּה צָחֲקָה שָׂרָה לֵאמֹר הַאַף אֻמְנָם אֵלֵד וַאֲנִי זָקַנְתִּי 
 
+And the LORD said unto Abraham, Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, which am old ? 
+#### 14
+הֲיִפָּלֵא מֵיְהוָה דָּבָר לַמּוֺעֵד אָשׁוּב אֵלֶיךׇ כָּעֵת חַיָּה וּלְשָׂרָה בֵן 
+
+Is any thing too hard for the LORD ? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son. 
+#### 15
+וַתְּכַחֵשׁ שָׂרָה לֵאמֹר לֹא צָחַקְתִּי כִּי יָרֵאָה וַיֹּאמֶר לֹא כִּי צָחָקְתְּ 
+
+Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but thou didst laugh. 
+#### 16
+וַיָּקֻמוּ מִשָּׁם הָאֲנָשִׁים וַיַּשְׁקִפוּעַל-פְּנֵיסְדֹם וְאַבְרָהָם הֹלֵךְ עִמָּם לְשַׁלְּחָם 
+
+And the men rose up from thence, and looked toward Sodom: and Abraham went with them to bring them on the way. 
+#### 17
+וַיהוָה אָמָר הַמְכַסֶּה אֲנִי מֵאַבְרָהָם אֲשֶׁר אֲנִי עֹשֶׂה 
+
+And the LORD said, Shall I hide from Abraham that thing which I do; 
+#### 20
+וַיֹּאמֶר יְהוָה זַעֲקַת סְדֹם וַעֲמֹרָהכִּי-רָבָּהוְחַטָּאתָם כִּי כָבְדָה מְאֹד 
+
+And the LORD said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous; 
+#### 21
+אֵרְדָה-נָּאוְאֶרְאֶה הַכְּצַעֲקָתָהּ הַבָּאָה אֵלַי עָשׂוּ כָּלָהוְאִם-לֹאאֵדָעָה 
+
+I will go down now, and see whether they have done altogether according to the cry of it, which is come unto me; and if not, I will know. 
+#### 22
+וַיִּפְנוּ מִשָּׁם הָאֲנָשִׁים וַיֵּלְכוּ סְדֹמָה וְאַבְרָהָם עוֺדֶנּוּ עֹמֵד לִפְנֵי יְהוָה 
+
+And the men turned their faces from thence, and went toward Sodom: but Abraham stood yet before the LORD. 
+#### 23
+וַיִּגַּשׁ אַבְרָהָם וַיֹּאמַר הַאַף תִּסְפֶּה
+
+And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked ? 
+#### 32
+וַ֠יֹּאמֶר אַל־נָ֞א יִ֤חַר לַֽאדֹנָי֙ וַאֲדַבְּרָ֣ה אַךְ־הַפַּ֔עַם אוּלַ֛י יִמָּצְא֥וּן שָׁ֖ם עֲשָׂרָ֑ה וַיֹּ֙אמֶר֙ לֹ֣א אַשְׁחִ֔ית בַּעֲב֖וּר הָעֲשָׂרָֽה ׃
+
+And he said, Oh let not the Lord be angry, and I will speak yet but this once: Peradventure ten shall be found there. And he said, I will not destroy [it] for ten´s sake. 
 ## c21
 #### 14
 וַיַּשְׁכֵּ֣ם אַבְרָהָ֣ם ׀ בַּבֹּ֡קֶר וַיִּֽקַּֽח־לֶחֶם֩ וְחֵ֨מַת מַ֜יִם וַיִּתֵּ֣ן אֶל־הָ֠גָר שָׂ֧ם עַל־שִׁכְמָ֛הּ וְאֶת־הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ וַתֵּ֣לֶךְ וַתֵּ֔תַע בְּמִדְבַּ֖ר בְּאֵ֥ר שָֽׁבַע ׃

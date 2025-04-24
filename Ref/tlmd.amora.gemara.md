@@ -1338,33 +1338,161 @@ Rav and Shmuel disagreed with regard to this story of Solomon. One said: He was 
 ### c4
 #### 38b
 ##### 1
-גּוּפוֹ מִבָּבֶל, וְרֹאשׁוֹ מֵאֶרֶץ יִשְׂרָאֵל, וְאֵבָרָיו מִשְּׁאָר אֲרָצוֹת. עַגְבוֹתָיו, אָמַר רַב אַחָא: מֵאַקְרָא דְאַגְמָא.
-his torso was fashioned from dust taken from Babylonia, and his head was fashioned from dust taken from Eretz Yisrael, the most important land, and his limbs were fashioned from dust taken from the rest of the lands in the world. With regard to his buttocks, Rav Aḥa says: They were fashioned from dust taken from Akra De’agma, on the outskirts of Babylonia.
+גּוּפוֹ מִבָּבֶל, 
+
+his torso was fashioned from dust taken from Babylonia, 
+
+וְרֹאשׁוֹ מֵאֶרֶץ יִשְׂרָאֵל, 
+
+and his head was fashioned from dust taken from Eretz Yisrael, the most important land, 
+
+וְאֵבָרָיו מִשְּׁאָר אֲרָצוֹת. 
+
+and his limbs were fashioned from dust taken from the rest of the lands in the world. 
+
+עַגְבוֹתָיו, אָמַר רַב אַחָא: מֵאַקְרָא דְאַגְמָא.
+
+With regard to his buttocks, Rav Aḥa says: They were fashioned from dust taken from Akra De’agma, on the outskirts of Babylonia.
 ##### 2
 אָמַר רַבִּי יוֹחָנָן בַּר חֲנִינָא: שְׁתֵּים עֶשְׂרֵה שָׁעוֹת הָוֵי הַיּוֹם. שָׁעָה רִאשׁוֹנָה – הוּצְבַּר עֲפָרוֹ, שְׁנִיָּה – נַעֲשָׂה גּוֹלֶם, שְׁלִישִׁית – נִמְתְּחוּ אֵבָרָיו, רְבִיעִית – נִזְרְקָה בּוֹ נְשָׁמָה, חֲמִישִׁית – עָמַד עַל רַגְלָיו, שִׁשִּׁית – קָרָא שֵׁמוֹת, שְׁבִיעִית – נִזְדַּוְּוגָה לוֹ חַוָּה, שְׁמִינִית – עָלוּ לַמִּטָּה שְׁנַיִם וְיָרְדוּ אַרְבָּעָה, תְּשִׁיעִית – נִצְטַוָּוה שֶׁלֹּא לֶאֱכוֹל מִן הָאִילָן, עֲשִׂירִית – סָרַח, אַחַת עֶשְׂרֵה – נִידּוֹן, שְׁתֵּים עֶשְׂרֵה – נִטְרַד וְהָלַךְ לוֹ, שֶׁנֶּאֱמַר: ״אָדָם בִּיקָר בַּל יָלִין״.
 
 Rabbi Yoḥanan bar Ḥanina says: Daytime is twelve hours long, and the day Adam the first man was created was divided as follows: In the first hour of the day, his dust was gathered. In the second, an undefined figure was fashioned. In the third, his limbs were extended. In the fourth, a soul was cast into him. In the fifth, he stood on his legs. In the sixth, he called the creatures by the names he gave them. In the seventh, Eve was paired with him. In the eighth, they arose to the bed two, and descended four, i.e., Cain and Abel were immediately born. In the ninth, he was commanded not to eat of the Tree of Knowledge. In the tenth, he sinned. In the eleventh, he was judged. In the twelfth, he was expelled and left the Garden of Eden, as it is stated: “But man abides not in honor; he is like the beasts that perish” (Psalms 49:13). Adam did not abide, i.e., sleep, in a place of honor for even one night.
 ##### 4
-(שָׁעָה, בַּסּוֹף, אֲרַמִּי – סִימָן.) אָמַר רַב יְהוּדָה אָמַר רַב: בְּשָׁעָה שֶׁבִּקֵּשׁ הַקָּדוֹשׁ בָּרוּךְ הוּא לִבְראוֹת אֶת הָאָדָם, בָּרָא כַּת אַחַת שֶׁל מַלְאֲכֵי הַשָּׁרֵת. אָמַר לָהֶם: רְצוֹנְכֶם נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ? אָמְרוּ לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, מָה מַעֲשָׂיו? אָמַר לָהֶן: כָּךְ וְכָךְ מַעֲשָׂיו.
+(שָׁעָה, בַּסּוֹף, אֲרַמִּי – סִימָן.) 
 
-The Gemara presents a mnemonic for the statements that follow: At the time, to the end, Aramaic. Rav Yehuda says that Rav says: At the time that the Holy One, Blessed be He, sought to create a person, He created one group of ministering angels. He said to them: If you agree, let us fashion a person in our image. The angels said before him: Master of the Universe, what are the actions of this person You suggest to create? God said to them: His actions are such and such, according to human nature.
+The Gemara presents a mnemonic for the statements that follow: At the time, to the end, Aramaic. 
+
+אָמַר רַב יְהוּדָה אָמַר רַב: בְּשָׁעָה שֶׁבִּקֵּשׁ הַקָּדוֹשׁ בָּרוּךְ הוּא לִבְראוֹת אֶת הָאָדָם, בָּרָא כַּת אַחַת שֶׁל מַלְאֲכֵי הַשָּׁרֵת. 
+
+Rav Yehuda says that Rav says: At the time that the Holy One, Blessed be He, sought to create a person, He created one group of ministering angels. 
+
+אָמַר לָהֶם: רְצוֹנְכֶם נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ? 
+
+He said to them: If you agree, let us fashion a person in our image. 
+
+אָמְרוּ לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, מָה מַעֲשָׂיו? 
+
+The angels said before him: Master of the Universe, what are the actions of this person You suggest to create? 
+
+אָמַר לָהֶן: כָּךְ וְכָךְ מַעֲשָׂיו.
+
+God said to them: His actions are such and such, according to human nature.
 ##### 5
-אָמְרוּ לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, ״מָה אֱנוֹשׁ כִּי תִזְכְּרֶנּוּ וּבֶן אָדָם כִּי תִפְקְדֶנּוּ״? הוֹשִׁיט אֶצְבָּעוֹ קְטַנָּה בֵּינֵיהֶן וּשְׂרָפָם. וְכֵן כַּת שְׁנִיָּה. כַּת שְׁלִישִׁית אָמְרוּ לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, רִאשׁוֹנִים שֶׁאָמְרוּ לְפָנֶיךָ מָה הוֹעִילוּ? כָּל הָעוֹלָם כּוּלּוֹ שֶׁלְּךָ הוּא. כׇּל מָה שֶׁאַתָּה רוֹצֶה לַעֲשׂוֹת בְּעוֹלָמְךָ – עֲשֵׂה.
+אָמְרוּ לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, ״מָה אֱנוֹשׁ כִּי תִזְכְּרֶנּוּ וּבֶן אָדָם כִּי תִפְקְדֶנּוּ״? 
 
-The angels said before him: Master of the Universe: “What is man that You are mindful of him? And the son of man that You think of him?” (Psalms 8:5), i.e., a creature such as this is not worth creating. God outstretched His small finger among them and burned them with fire. And the same occurred with a second group of angels. The third group of angels that He asked said before Him: Master of the Universe, the first two groups who spoke their mind before You, what did they accomplish? The entire world is Yours; whatever You wish to do in Your world, do. God then created the first person.
+The angels said before him: Master of the Universe: “What is man that You are mindful of him? And the son of man that You think of him?” (Psalms 8:5), i.e., a creature such as this is not worth creating. 
+
+הוֹשִׁיט אֶצְבָּעוֹ קְטַנָּה בֵּינֵיהֶן וּשְׂרָפָם. 
+
+God outstretched His small finger among them and burned them with fire. 
+
+וְכֵן כַּת שְׁנִיָּה. 
+
+And the same occurred with a second group of angels. 
+
+כַּת שְׁלִישִׁית אָמְרוּ לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, רִאשׁוֹנִים שֶׁאָמְרוּ לְפָנֶיךָ מָה הוֹעִילוּ? 
+
+The third group of angels that He asked said before Him: Master of the Universe, the first two groups who spoke their mind before You, what did they accomplish? 
+
+כָּל הָעוֹלָם כּוּלּוֹ שֶׁלְּךָ הוּא. כׇּל מָה שֶׁאַתָּה רוֹצֶה לַעֲשׂוֹת בְּעוֹלָמְךָ – עֲשֵׂה.
+
+The entire world is Yours; whatever You wish to do in Your world, do. God then created the first person.
 ##### 6
-כֵּיוָן שֶׁהִגִּיעַ לְאַנְשֵׁי דּוֹר הַמַּבּוּל וְאַנְשֵׁי דּוֹר הַפְּלַגָּה שֶׁמַּעֲשֵׂיהֶן מְקוּלְקָלִין, אָמְרוּ לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, לֹא יָפֶה אָמְרוּ רִאשׁוֹנִים לְפָנֶיךָ? אָמַר לָהֶן: ״וְעַד זִקְנָה אֲנִי הוּא וְעַד שֵׂיבָה אֲנִי אֶסְבֹּל וְגוֹ׳״.
+כֵּיוָן שֶׁהִגִּיעַ לְאַנְשֵׁי דּוֹר הַמַּבּוּל וְאַנְשֵׁי דּוֹר הַפְּלַגָּה שֶׁמַּעֲשֵׂיהֶן מְקוּלְקָלִין, אָמְרוּ לְפָנָיו: 
 
-When history arrived at the time of the people of the generation of the flood and the people of the generation of the dispersion, i.e., the Tower of Babel, whose actions were ruinous, the angels said before God: Master of the Universe, didn’t the first set of angels speak appropriately before You, that human beings are not worthy of having been created? God said to them concerning humanity: “Even to your old age I am the same; and even to hoar hairs will I suffer you; I have made and I will bear; and I will carry, and I will deliver you” (Isaiah 46:4), i.e., having created people, I will even suffer their flaws.
+When history arrived at the time of the people of the generation of the flood and the people of the generation of the dispersion, i.e., the Tower of Babel, whose actions were ruinous, the angels said before God: 
+
+רִבּוֹנוֹ שֶׁל עוֹלָם, לֹא יָפֶה אָמְרוּ רִאשׁוֹנִים לְפָנֶיךָ? 
+
+Master of the Universe, didn’t the first set of angels speak appropriately before You, that human beings are not worthy of having been created? 
+
+אָמַר לָהֶן: ״וְעַד זִקְנָה אֲנִי הוּא וְעַד שֵׂיבָה אֲנִי אֶסְבֹּל וְגוֹ׳״.
+
+God said to them concerning humanity: “Even to your old age I am the same; and even to hoar hairs will I suffer you; I have made and I will bear; and I will carry, and I will deliver you” (Isaiah 46:4), i.e., having created people, I will even suffer their flaws.
 ### c11
 #### 110b
 ##### 11
-(קהלת ה, יב) עושר שמור לבעליו לרעתו אמר ר"ל זה עושרו של קרח (דברים יא, ו) ואת כל היקום אשר ברגליהם א"ר אלעזר זה ממונו של אדם שמעמידו על רגליו ואמר רבי לוי משוי ג' מאות פרדות לבנות היו מפתחות של בית גנזיו של קרח וכולהו אקלידי וקילפי דגילדא
+(קהלת ה, יב) עושר שמור לבעליו לרעתו אמר ר"ל זה עושרו של קרח (דברים יא, ו) ואת כל היקום אשר ברגליהם א"ר אלעזר זה ממונו של אדם שמעמידו על רגליו 
 
-With regard to the verse: “Wealth is kept for the owner to his detriment” (Ecclesiastes 5:12), Reish Lakish says: This is referring to the wealth of Korah, which was of no use to him. The fact that Korah was wealthy is derived from the verse: “And all the substance that was at their feet” (Deuteronomy 11:6), as Rabbi Elazar says: This is referring to a person’s property, which stands him on his feet. And Rabbi Levi says: The keys alone to Korah’s treasury were a burden requiring three hundred white mules to transport them, and moreover, all the keys [aklidei] and locks were of leather. This conveys the vastness of his wealth.
+With regard to the verse: “Wealth is kept for the owner to his detriment” (Ecclesiastes 5:12), Reish Lakish says: This is referring to the wealth of Korah, which was of no use to him. The fact that Korah was wealthy is derived from the verse: “And all the substance that was at their feet” (Deuteronomy 11:6), as Rabbi Elazar says: This is referring to a person’s property, which stands him on his feet. 
+
+ואמר רבי לוי משוי ג' מאות פרדות לבנות היו מפתחות של בית גנזיו של קרח וכולהו אקלידי וקילפי דגילדא
+
+And Rabbi Levi says: The keys alone to Korah’s treasury were a burden requiring three hundred white mules to transport them, and moreover, all the keys [aklidei] and locks were of leather. This conveys the vastness of his wealth.
 ## bvMtz
 #### 85b
+##### 9
+אָמַר רַב חֲבִיבָא: אִשְׁתַּעִי לִי רַב חֲבִיבָא בַּר סוּרְמָקֵי, חֲזֵי לֵיהּ הָהוּא מֵרַבָּנַן דַּהֲוָה שְׁכִיחַ אֵלִיָּהוּ גַּבֵּיהּ, דִּלְצַפְרָא הֲווֹ שַׁפִּירָן עֵינֵיהּ, וּלְאוּרְתָּא דָּמְיָין כִּדְמִיקַּלְיָן בְּנוּרָא. 
 
+Rav Ḥaviva said: Rav Ḥaviva bar Surmakei told me: I once saw one of the Sages whom Elijah the prophet would visit, and his eyes looked beautiful and healthy in the morning, but appeared to be charred by fire in the evening. 
+
+אֲמַרִי לֵיהּ: מַאי הַאי? 
+
+I said to him: What is this phenomenon? 
+
+וַאֲמַר לִי: דַּאֲמַרִי לֵיהּ לְאֵלִיָּהוּ: אַחְוִי לִי רַבָּנַן כִּי סָלְקִי לִמְתִיבְתָּא דְּרָקִיעַ. 
+
+And he said to me: I said to Elijah: Show me the Sages upon their ascension to the heavenly academy. 
+
+אָמַר לִי: בְּכוּלְּהוּ מָצֵית אִסְתַּכּוֹלֵי בְּהוּ, לְבַר מִגּוּהַרְקָא דְּרַבִּי חִיָּיא דְּלָא תִּסְתַּכֵּל בֵּיהּ. 
+
+Elijah said to me: You may gaze at all of them except for those in the chariot [miguharka] of Rabbi Ḥiyya, upon whom you may not gaze. 
+
+מַאי סִימָנַיְיהוּ? 
+
+I asked Elijah: What are the signs of Rabbi Ḥiyya’s chariot, so I will know when not to look? 
+
+בְּכוּלְּהוּ אָזְלִי מַלְאֲכֵי כִּי סָלְקִי וְנָחֲתִי, לְבַר מִגּוּהַרְקָא דְּרַבִּי חִיָּיא דְּמִנַּפְשֵׁיהּ סָלֵיק וּנְחֵית.
+
+He said: Angels accompany all of the other Sages’ chariots as they ascend and descend, except for the chariot of Rabbi Ḥiyya, which ascends and descends of its own accord, due to his greatness.
+##### 13
+אָמְרִי בִּרְקִיעָא: מַאן גַּלִּי רָזַיָּא בְּעָלְמָא? 
+
+They said in heaven: Who is the revealer of secrets in the world? 
+
+אָמְרִי: אֵלִיָּהוּ. 
+
+They said in response: It is Elijah. 
+
+אַתְיוּהּ לְאֵלִיָּהוּ מַחְיוּהּ שִׁתִּין פּוּלְסֵי דְנוּרָא. 
+
+Elijah was brought to heaven, whereupon he was beaten with sixty fiery lashes. 
+
+אֲתָא אִידְּמִי לְהוּ כְּדוּבָּא דְנוּרָא, 
+
+Elijah came back down to earth disguised as a bear of fire. 
+
+עָל בֵּינַיְיהוּ וְטַרְדִינְהוּ.
+
+He came among the congregation and distracted them from their prayers, preventing Rabbi Ḥiyya from reciting the phrase: Who revives the dead.
+#### 86b
+##### 10
+וּלְמָה לִי תְּלָתָא? תִּסְגֵּי בְּחַד. 
+
+The Gemara asks: And why do I need three calves? One calf should be sufficient for three guests. 
+
+אָמַר רַב חָנָן בַּר רָבָא: כְּדֵי לְהַאֲכִילָן שָׁלֹשׁ לְשׁוֹנוֹת בְּחַרְדָּל. 
+
+Rav Ḥanan bar Rava said: Abraham prepared three calves in order to feed the guests three tongues with mustard, a particular delicacy. 
+
+אָמַר רַבִּי תַּנְחוּם בַּר חֲנִילַאי: לְעוֹלָם אַל יְשַׁנֶּה אָדָם מִן הַמִּנְהָג, שֶׁהֲרֵי מֹשֶׁה עָלָה לַמָּרוֹם וְלֹא אָכַל לֶחֶם, מַלְאֲכֵי הַשָּׁרֵת יָרְדוּ לְמַטָּה וְאָכְלוּ לֶחֶם. 
+
+With regard to this incident, Rabbi Tanḥum bar Ḥanilai says: A person should never deviate from the local custom, as Moses ascended to heaven on high and did not eat bread while he was there, whereas the ministering angels descended down to this world, as guests visiting Abraham, and they ate bread. 
+
+וְאָכְלוּ סָלְקָא דַּעְתָּךְ?! 
+You say: And they ate bread? Can it enter your mind that they actually ate food? 
+
+אֶלָּא אֵימָא: נִרְאוּ כְּמִי שֶׁאָכְלוּ וְשָׁתוּ.
+
+Rather, say that they merely appeared as though they ate and drank.
+##### 16
+״יֻקַּח נָא מְעַט מַיִם וְרַחֲצוּ רַגְלֵיכֶם״, 
+
+The Gemara continues its analysis of the verse: “Let now a little water be fetched and wash your feet” (Genesis 18:4). 
+
+אָמַר רַבִּי יַנַּאי בְּרַבִּי יִשְׁמָעֵאל, אָמְרוּ לוֹ: וְכִי בְּעַרְבִיִּים חֲשַׁדְתָּנוּ, שֶׁהֵם מִשְׁתַּחֲוִים לַאֲבַק רַגְלֵיהֶם, כְּבָר יָצָא מִמֶּנּוּ יִשְׁמָעֵאל.
+
+Rabbi Yannai, son of Rabbi Yishmael, said that the guests said to Abraham: Are you suspicious that we are Arabs who bow to the dust of their feet? Yishmael has already issued from him, i.e., your own son acts in this manner.
 ## avdZrh
 #### 11b
 ##### 8

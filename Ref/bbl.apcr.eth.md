@@ -324,101 +324,163 @@ http://enoksbok.se/cgi-bin/interlinear_greek.cgi
 https://pseudepigrapha.org/docs/text/1En
 
 https://www.pseudepigrapha.com/pseudepigrapha/1enoch_all.html
-## c6
+### c6
 #### 1
-ወኮነ፡እምዘ፡በዝኁ፡ውሉደ፡ሰብእ፡በእማንቱ፡መዋዕል፡ተወልዳ፡ሎሙ፡አዋልድ፡ሠናያት፡
+ወኮነ እምዘ በዝኁ ውሉደ ሰብእ በእማንቱ መዋዕል ተወልዳ ሎሙ አዋልድ ሠናያት 
 
 And it came to pass when the children of men had multiplied that in those days were born unto them beautiful and comely daughters.``
 #### 2
-ወርእዩ፡ኪያሆን፡መለእክት፡ውሉደ፡ሰማያት፡ወፈተውዎን፡ወይቤሉ፡በበይናቲሆሙ፡ንዑ፡ንኅረይ፡ለነ፡አንስተ፡እምውሉደ፡ሰብእ፡ወንለድ፡ለነ፡ውሉደ።
+ወርእዩ ኪያሆን መለእክት ውሉደ ሰማያት ወፈተውዎን ወይቤሉ በበይናቲሆሙ ንዑ ንኅረይ ለነ አንስተ እምውሉደ ሰብእ ወንለድ ለነ ውሉደ።
 
 And the angels, the children of the heaven, saw and lusted after them, and said to one another: 'Come, let us choose us wives from among the children of men and beget us children.'	
 #### 3
-ወይቤሎሙ፡ሰምያዛ፡ዘውእቱ፡መልአኮመ፡እፈርህ፡ዮጊ፡ኢትፈቅዱ፡ይትገበር፡ዝንቱ፡ግብር፡ወእከውን፡አነ፡ባሕቲትየ፡ፈዳይሃ፡ለዛቱ፡ኃጢአት፡አበይ።
+ወይቤሎሙ ሰምያዛ ዘውእቱ መልአኮመ እፈርህ ዮጊ ኢትፈቅዱ ይትገበር ዝንቱ ግብር ወእከውን አነ ባሕቲትየ ፈዳይሃ ለዛቱ ኃጢአት አበይ።
 
 And Semjaza, who was their leader, said unto them: 'I fear ye will not indeed agree to do this deed,	and I alone shall have to pay the penalty of a great sin.'
-
-## c9
+### c9
 #### 1
-ወአሜሃ፡ሐወጹ፡ሚካኤል፡ወገብርኤል፡ወሱርያል፡ወኡርያን፡እምሰማይ፡ወርእዩ፡ብዙኃ፡ደመ፡ዘይትከዓው፡በዲበ፡ምድር፡ወኵሎ፡ዓመፃ፡ዙይገበር፡በዲበ፡ምድር
+ወአሜሃ ሐወጹ ሚካኤል ወገብርኤል ወሱርያል ወኡርያን እምሰማይ ወርእዩ ብዙኃ ደመ ዘይትከዓው በዲበ ምድር ወኵሎ ዓመፃ ዙይገበር በዲበ ምድር
 
 And then Michael, Uriel, Raphael, and Gabriel looked down from heaven and saw much blood being shed upon the earth, and all lawlessness being wrought upon the earth.
 #### 2
-ወይቤሉ፡በበይናቲሆሙ፡ቃለ፡ጽራሐቲሆሙ፡ዕራቃ፡ጸርሐት፡ምድር።እስከ፡አንቀጸ፡ሰማይ፡
+ወይቤሉ በበይናቲሆሙ ቃለ ጽራሐቲሆሙ ዕራቃ ጸርሐት ምድር።እስከ አንቀጸ ሰማይ 
 
 And they said one to another:	and said one to another, It is the voice of their cries;	
 'The earth made without inhabitant cries the voice of their cryingst up to the gates of heaven.	
 #### 3
-ወይቤሉ፡በበይናቲሆሙ፡ቃለ፡ጽራሐቲሆሙ፡ዕራቃ፡ጸርሐት፡ምድር።እስከ፡አንቀጸ፡ሰማይ፡
+ወይቤሉ በበይናቲሆሙ ቃለ ጽራሐቲሆሙ ዕራቃ ጸርሐት ምድር።እስከ አንቀጸ ሰማይ 
 
 And now to you, the holy ones of heaven, the souls of men make their suit, saying, "Bring our cause before the Most High."'	
 #### 4
-4 ለእግዚኦሙ፡ንጉሥ፡እስመ፡እግዚኦሙ፡ለአጋዕዝት፡ወአምላኮሙ፡ለአማልክት፡ወንጉሦሙ፡ለነገሥት፤ወመንበረ፡ስብሐቲሁ፡ውስተ፡ኵሉ፡ትውልደ፡ዓለም፡ወስምከ፡ቅዱስ፡ወስቡሕ፡ውስተ፡ኵሉ፡ትውልደ፡ዓለም፡ወቡሩክ፡ወስቡሕ፡
+4 ለእግዚኦሙ ንጉሥ እስመ እግዚኦሙ ለአጋዕዝት ወአምላኮሙ ለአማልክት ወንጉሦሙ ለነገሥት፤ወመንበረ ስብሐቲሁ ውስተ ኵሉ ትውልደ ዓለም ወስምከ ቅዱስ ወስቡሕ ውስተ ኵሉ ትውልደ ዓለም ወቡሩክ ወስቡሕ 
 
 And they said to the Lord of the ages: 'Lord of lords, God of gods, King of kings, and God of the ages, the throne of Thy glory (standeth) unto all the generations of the ages, and Thy name holy and glorious and blessed unto all the ages!
-## c10
+### c10
 #### 1
+ወአሜሃ	ልዑል	ዐቢይ	ወቅዱስ	ተናገረ	ወፈነዎ	ለአርስየላልዩር	ኀበ	ወልደ	ላሜክ	ወይቤሎ	።
+
 Then said the Most High, the Holy and Great One spake,
 
 and sent Uriel to the son of Lamech,	
 
 and said to him: 
 #### 2
+በሎ	በስመ	ዚአየ	ኅባእ	ርእሰከ	ወአግህድ	ሎቱ	ፍጻሜ	ዘይመጽእ	እስመ	ትትሐጐል	ምድር	ኵላ	ወማየ	አይኅ	ይመጽእ	ሀሎ	ዲበ	ኵላ	ምድር	ወይትኀጐል	ዘሀሎ	ውስቴታ	።
+
 'Go to Noah and tell him in my name "Hide thyself!"	
 
 and reveal to him the end that is approaching: that the whole earth will be destroyed, and a deluge is about to come upon the whole earth, and will destroy all that is on it.	
-
 #### 3
+ወይእዜኒ	መሀሮ	ከመ	ይንፍጽ	ወይንበር	ዘርኡ	ለኵሉ	ምድር	።
+
 And now instruct him that he may escape and his seed may be preserved for all the generations of the world.'	
-
 #### 4
-And again the Lord said to Raphael: 'Bind Azazel hand and foot, and cast him into the darkness: and make an opening in the desert, which is in Dudael, and cast him therein.	
+ወይቤሎ	ካዕበ	እግዚእ	ለሩፋኤል	እስሮ	ለአዛዝኤል	በእዴሁ	ወእገሪሁ	ወደዮ	ውስተ	ጽልመት	ወአብቅዋ	ለገዳም	እንተ	ሀለወት	በዱዳኤል	ወደዮ	ህየ	።
 
+And again the Lord said to Raphael: 'Bind Azazel hand and foot, and cast him into the darkness: and make an opening in the desert, which is in Dudael, and cast him therein.	
 #### 5
+ወደይ	ላዕሌሁ	አዕባነ	ጠዋያተ	ወበሊኃተ	ወክድኖ	ጽልመተ	ወህየ	ይኅድር	ለዓለም	ወክድኖ	ለገጹ	ከመ	እይርአይ	ብርሃነ	።
+
 And place upon him rough and jagged rocks, and cover him with darkness, 
 
 and let him abide there for ever, and cover his face that he may not see light.	
-
 #### 6
-And on the day of the great judgement he shall be cast into the fire.	
+6 ወበዕለት ዓባይ እንተ ኵነኔ ከመ ይትፈነው ውስተ ዋዕይ  
 
+And on the day of the great judgement he shall be cast into the fire.	
 #### 7
+7 ወአሕይዋ ለምድር እንተ አማሰኑ መላእክት ወሕይወታ ለምድር አይድዕ ከመ አሕይዋ ለምድር ወኢይትኃጐሉ ኵሎሙ ውሉደ ሰብእ ለምሥጢረ ኵሉ ዘቀተሉ ትጉሃን ወመሐሩ ለውሉዶሙ። 
+
 And heal the earth which the angels have corrupted, and proclaim the healing of the earth, that they may heal the plague,	
 
 and that all the children of men may not perish through all the secret things that the Watchers have disclosed and have taught their sons.
 #### 8
+8 ወማሰነት ኵላ ምድር በትምህርተ ግብሩ ለአዛዝኤል ወላዕሌሁ ጸሐፍ ኵሎ ኃጢአተ። 
+
 And the whole earth has been corrupted through the works that were taught by Azazel: to him ascribe all sin.'
 #### 9
+9 ወለገብርኤል ይቤሎ እግዚአብሔር ሑር ዲቤሆሙ ለመንዚራን ወለምኑናን ወዲበ ውሉደ ዘማ ወአኅጕሎሙ ለውሉደ ዘማ ወለውሉደ ትጉሃን እምሰብእ ወአውፅኦሙ ወፈንዎሙ በበይናቲሆሙ እሙንቱ ወለሊሆሙ በቀትል ይትኃጐሉ እስመ ኑኃ መዋዕል አልቦሙ። 
+
 And to Gabriel said the Lord: 'Proceed against the bastards and the reprobates, and against the children of fornication: and destroy [the children of fornication and] the children of the Watchers from amongst men [and cause them to go forth]: send them one against the other that they may destroy each other in battle: for length of days shall they not have.
 #### 10
+10 ወኵሎሙ ይስእሉከ ወኢይከውን ለአበዊሆሙ በእንቲአሆሙ እስመ ይሴፈዉ ሕይወተ ዘለዓለም ወከመ ይሕየዉ ፩፩ እም(ሕይወተ) ኔሆሙ ፭፻ ክራማተ። 
+
 And no request that they (i.e. their fathers) make of thee shall be granted unto their fathers on their behalf; for they hope to live an eternal life, and that each one of them will live five hundred years.'
 #### 11
+11 ወለሚካኤልኒ ይቤሎ እግዚአብሔር ሑር አይድዕ ለስምያዛ ወለካልኣን እለ ምስሎሁ እለ ኃብሩ ምስለ አንስት ከመ ይማስኑ ምስሌሆን በኵሉ ርኵሰ ዚእሆን። 
+
 And the Lord said unto Michael: 'Go, bind Semjaza and his associates who have united themselves with women so as to have defiled themselves with them in all their uncleanness.
 #### 12
+12 ሶበ ይትራገዙ ኵሉ ውሉዶሙ ወሶበ ይሬእዩ ኃጕሎሙ ለፍቁራኒሆሙ እስሮሙ ለሰብእ ትውልድ በመትሕተ አውግረ ምድር እስከ ዕለተ ኵነኔሆሙ ወተፍጻሜቶሙ እስከ ይትፌጸም ኵነኔ ዘለዓለመ ዓለም። 
+
 And when their sons have slain one another, and they have seen the destruction of their beloved ones, bind them fast for seventy generations in the valleys of the earth, till the day of their judgement and of their consummation, till the judgement that is for ever and ever is consummated.
 #### 13
+13 ወበውእቱ መዋዕል ይወስድዎሙ ውስተ መትሕተ እሳት በፃዕር ወበቤተ ሞቅሕ ይትአፀዉ ለዓለመ ዓለም። 
+
 In those days they shall be led off to the abyss of fire: and to the torment and the prison in which they shall be confined for ever.
 #### 14
+14 ወሶቤሃ ይውዒ ወይማስን እምይእዜ ምስሌሆሙ ኅቡረ ይትአሰሩ እስከ ተፍጻሜተ ትውልደ ትውልድ። 
+
 And whosoever shall be condemned and destroyed will from thenceforth be bound together with them to the end of all generations.
 #### 15
+15 ወአኅጕሎሙ ለኵሎሙ ነፍሳተ ተውኔት ወለውሉዶሙ ለትጉሃን እስመ ገፍዕዎሙ ለሰብእ። 
+
 And destroy all the spirits of the reprobate and the children of the Watchers, because they have wronged mankind.
 #### 16
+16 አኅጕል ኵሎ ግፍዓ እምገጸ ምድር ወኵሉ ምግባር እኩይ የሐልቅ ወያስተርኢ ተክለ ጽድቅ ወርትዕ ወይከውን ለበረከት፤ግብር ጽድቅ ወርትዕ ለዓለም በፍሥሐ ይተከሉ። 
+
 Destroy all wrong from the face of the earth
 and let every evil work come to an end: 
 and let the plant of righteousness and truth appear: and it shall prove a blessing;
 the works of righteousness and truth' shall be planted in truth and joy for evermore.
 #### 17
+17 ወይእዜኒ ኵሎሙ ጻድቃን ይገንዩ ወይከውኑ ሕያዋነ እስከ ይወልዱ ፲፻ ወኵሎ መዋዕለ ውርዙቶሙ:ወሰንበተ ዚአሆሙ ይፌጽሙ በሰላም። 
+
 And then shall all the righteous escape,
 And shall live till they beget thousands of children,
 And all the days of their youth and their old age
 Shall they complete in peace.
 #### 18
+18 ወበእማንቱ መዋዕል ትትገበር ኵላ ምድር በጽድቅ ወኵለንታሃ ትተከል ዕፀወ ወትመልእ በረከተ። 
+
 And then shall the whole earth be tilled in righteousness, and shall all be planted with trees and be full of blessing.
 #### 21
+ወይኩኑ ኵሉ ውሉደ ሰብእ ጻድቃነ ወይኩኑ ኵሎሙ አሕዛብ ያምልክ፧ወይባርኩ ኪያየ ወኵሎሙ ሊተ ይስግዱ።
+
 And all the children of men shall become righteous, and all nations shall offer adoration and shall praise Me, and all shall worship Me.
 ## ?
-#### 37
-#### 71
-# 4 baruch
+c37-71 parables of enoch
+### c37
+### c40
+#### 2
+ርኢኩ	ወበ	፬	ክነፊሁ	ለእግዚአ	መናፍስት	ርኢኢኩ	፬	ገጸ	ካልአ	እምእለ	ይቀውሙ	ወአስማቲሆሙ	አእመርኩ	ዘአይድዐኒ	አስማቲሆሙ	መልአክ	ዘመጽአ	ምስሌየ	ወኵሎ	ኅቡኣተ	አርአየኒ	።
 
+And on the four sides of the Lord of Spirits I saw four presences, different from those that sleep not, and I learnt their names: for the angel that went with me made known to me their names, and showed me all the hidden things.
+#### 7
+ወቃለ	ራብዐ	ሰማዕኩ	እንዘ	ይሰድዶሙ	ለሰይጣናት	ወኢየኀድጎሙ	ይባኡ	ኀበ	እግዚአ	መናፍስት	ከመ	ያስተዋድይዎሙ	ለእለ	የኀድሩ	ዲበ	የብስ	።
+
+And I heard the fourth voice fending off the Satans and forbidding them to come before the Lord of Spirits to accuse them who dwell on the earth.
+### c53
+#### 1
+ወበህየ	ርእያ	አዕይንትየ	ቈላ	ዕሙቀ	ወርኅው	አፉሁ	ወኵሎሙ	እለ	የኀድሩ	ዲበ	የብስ	ወባሕር	ወደሰያት	አምኃ	ወአስትዓ	ወጋዳ	ያመጽኡ	ሎቱ	ወዝክቱሰ	ቈላ	ዕሙቅ	ኢይመልእ	።
+
+And there my eyes saw a deep valley, whose mouth was open, and all those who dwell upon the earth and sea and islands will bring him gifts and presents and tokens of submission, but that deep valley will not be filled.
+#### 3
+እስመ	ርኢክዎሙ	ለመላእክተ	መቅሠፍት	እንዘ	የሐውሩ	ወያስተዳልዉ	ኵሎ	መባዕላተ	ለሰይጣን	።
+
+For I saw all the angels of punishment abiding (there) and preparing all the instruments of Satan.
+### c54
+#### 6
+ሚካኤል	ወገብርኤል	ሩፋኤል	ወፋኑኤል	ውእቶሙ	ያጸንዕዎሙ	በይእቲ	ዕለት	ዐባይ	በውስተ	ዕቶነ	እሳት	ዘይነድድ	ይወድይዎሙ	ውእተ	ዕለተ	ከመ	ይትበቀል	እምኔሆሙ	እግዚአ	መናፍስት	በዐመፃሆሙ	በእንተ	ዘኮኑ	ላእካነ	ለሰይጣን	ወአስሐትዎሙ	ለእለ	የኀድሩ	ዲበ	የብስ	።
+
+And Michael, and Gabriel, and Raphael, and Phanuel shall take hold of them on that great day, and cast them on that day into the burning furnace, that the Lord of Spirits may take vengeance on them for their unrighteousness in becoming subject to Satan and leading astray those who dwell on the earth.'
+### c65
+#### 6
+ወትእዛዝ	ወፅአ	እምኀበ	ገጸ	እግዚእ	ዲበ	እለ	የኀድሩ	ውስተ	የብስ	ከመ	ውእቱ	ይኩን	ኅልቀቶሙ	እስመ	አእመሩ	ኵሎ	ኅቡኣተ	መላእክት	ወኵሎ	ግፍዐ	ሰይጣናት	ወኵሎ	ኀይሎሙ	ኅቡአ	ወኵሎ	ኀይሎሙ	ለእለ	ይገብሩ	ሥራያተ	ወኀይሎሙ	ለኅብራት	ወኀይሎሙ	ለእለ	ይሠብኩ	ሥብኮ	ኵሉ	ምድር	።
+
+And a command has gone forth from the presence of the Lord concerning those who dwell on the earth that their ruin is accomplished because they have learnt all the secrets of the angels, and all the violence of the Satans, and all their powers – the most secret ones – and all the power of those who practice sorcery, and the power of witchcraft, and the power of those who make molten images for the whole earth:
+### c71
+# 4 baruch
+???
+story of jeremiah's servant sleeping through destruction of jerusalem in  cave and wakes up to find donkey and food. parallel to q:2:?
 # josippon

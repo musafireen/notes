@@ -135,7 +135,7 @@ I form the light, and create darkness: I make peace, and create evil: I the LORD
 וְיָצְא֣וּ וְרָא֔וּ בְּפִגְרֵי֙ הָאֲנָשִׁ֔ים הַפֹּשְׁעִ֖ים בִּ֑י כִּ֣י תוֹלַעְתָּ֞ם לֹ֣א תָמ֗וּת וְאִשָּׁם֙ לֹ֣א תִכְבֶּ֔ה וְהָי֥וּ דֵרָא֖וֹן לְכָל־בָּשָֽׂר ׃
 
 And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.
-# jeremiah
+# jrmh
 ## c4
 ### 4
 הִמֹּ֣לוּ לַיהֹוָ֗ה וְהָסִ֙רוּ֙ עָרְל֣וֹת לְבַבְכֶ֔ם אִ֥ישׁ יְהוּדָ֖ה וְיֹשְׁבֵ֣י יְרוּשָׁלִָ֑ם פֶּן־תֵּצֵ֨א כָאֵ֜שׁ חֲמָתִ֗י וּבָעֲרָה֙ וְאֵ֣ין מְכַבֶּ֔ה מִפְּנֵ֖י רֹ֥עַ מַעַלְלֵיכֶֽם ׃
@@ -211,7 +211,7 @@ See, days are coming—declares the LORD—when I will fulfill the promise that 
 בַּיָּמִים הָהֵם וּבָעֵת הַהִיא אַצְמִיחַ לְדָוִד צֶמַח צְדָקָה וְעָשָׂה מִשְׁפָּט וּצְדָקָה בָּאָרֶץ 
 
 In those days and at that time, I will raise up a true branch of David’s line, and he shall do what is just and right in the land.
-# ezekiel
+# ezk
 ## c1
 https://biblehub.com/lexicon/ezekiel/1-26.htm
 ### 3
@@ -295,6 +295,63 @@ Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus
 בְּעֵ֨דֶן גַּן־אֱלֹהִ֜ים הָיִ֗יתָ כָּל־אֶ֨בֶן יְקָרָ֤ה מְסֻכָתֶ֙ךָ֙ אֹ֣דֶם פִּטְדָ֞ה וְיָהֲלֹ֗ם תַּרְשִׁ֥ישׁ שֹׁ֙הַם֙ וְיָ֣שְׁפֵ֔ה סַפִּ֣יר נֹ֔פֶךְ וּבָרְקַ֖ת וְזָהָ֑ב מְלֶ֨אכֶת תֻּפֶּ֤יךָ וּנְקָבֶ֙יךָ֙ בָּ֔ךְ בְּי֥וֹם הִבָּרַאֲךָ֖ כּוֹנָֽנוּ ׃
 
 Thou hast been in Eden the garden of God; every precious stone [was] thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created. (sardius: or, ruby)(beryl: or, chrysolite)
+## c37
+#### 1
+הָיְתָה עָלַייַד-יְהוָהוַיּוֺצִאֵנִי בְרוּחַ יְהוָה וַיְנִיחֵנִי בְּתוֺךְ הַבִּקְעָה וְהִיא מְלֵאָה עֲצָמוֺת 
+
+The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which [was] full of bones, 
+#### 2
+וְהֶעֱבִירַנִי עֲלֵיהֶם סָבִיב סָבִיב וְהִנֵּה רַבּוֺת מְאֹדעַל-פְּנֵיהַבִּקְעָה וְהִנֵּה יְבֵשׁוֺת מְאֹד 
+
+And caused me to pass by them round about: and, behold, [there were] very many in the open valley; and, lo, [they were] very dry.
+#### 3
+וַיֹּאמֶר אֵלַיבֶּן-אָדָםהֲתִחְיֶינָה הָעֲצָמוֺת הָאֵלֶּה וָאֹמַר אֲדֹנָי יְהוִה אַתָּה יָדָעְתָּ 
+
+And he said unto me, Son of man, can these bones live ? And I answered, O Lord GOD, thou knowest. 
+#### 4
+וַיֹּאמֶר אֵלַי הִנָּבֵאעַל-הָעֲצָמוֺתהָאֵלֶּה וְאָמַרְתָּ אֲלֵיהֶם הָעֲצָמוֺת הַיְבֵשׁוֺת שִׁמְעוּדְּבַר-יְהוָה
+
+Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD. 
+#### 5
+כֹּה אָמַר אֲדֹנָי יְהוִה לָעֲצָמוֺת הָאֵלֶּה הִנֵּה אֲנִי מֵבִיא בָכֶם רוּחַ וִחְיִיתֶם 
+
+Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live: 
+#### 6
+וְנָתַתִּי עֲלֵיכֶם גִּידִים וְהַעֲלֵתִי עֲלֵיכֶם בָּשָׂר וְקָרַמְתִּי עֲלֵיכֶם עוֺר וְנָתַתִּי בָכֶם רוּחַ וִחְיִיתֶם וִידַעְתֶּםכִּי-אֲנִייְהוָה 
+
+And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I [am] the LORD. 
+#### 7
+וְנִבֵּאתִי כַּאֲשֶׁר צֻוֵּיתִיוַיְהִי-קוֺלכְּהִנָּבְאִיוְהִנֵּה-רַעַשׁוַתִּקְרְבוּ עֲצָמוֺת עֶצֶםאֶל-עַצְמוֺ
+
+So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone. 
+#### 8
+וְרָאִיתִיוְהִנֵּה-עֲלֵיהֶםגִּדִים וּבָשָׂר עָלָה וַיִּקְרַם עֲלֵיהֶם עוֺר מִלְמָעְלָה וְרוּחַ אֵין בָּהֶם 
+
+And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but [there was] no breath in them. 
+#### 9
+וַיֹּאמֶר אֵלַי הִנָּבֵאאֶל-הָרוּחַהִנָּבֵאבֶן-אָדָםוְאָמַרְתָּאֶל-הָרוּחַכֹּה-אָמַראֲדֹנָי יְהוִה מֵאַרְבַּע רוּחוֺת בֹּאִי הָרוּחַ וּפְחִי בַּהֲרוּגִים הָאֵלֶּה וְיִחְיוּ 
+
+Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord GOD; Come from the four winds, O breath, and breathe upon these slain, that they may live.
+#### 10
+וְהִנַּבֵּאתִי כַּאֲשֶׁר צִוָּנִי וַתָּבוֺא בָהֶם הָרוּחַ וַיִּחְיוּ וַיַּעַמְדוּעַל-רַגְלֵיהֶםחַיִל גָּדוֺלמְאֹד-מְאֹד
+
+So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army. 
+#### 11
+וַיֹּאמֶר אֵלַיבֶּן-אָדָםהָעֲצָמוֺת הָאֵלֶּהכָּל-בֵּיתיִשְׂרָאֵל הֵמָּה הִנֵּה אֹמְרִים יָבְשׁוּ עַצְמוֺתֵינוּ וְאָבְדָה תִקְוָתֵנוּ נִגְזַרְנוּ לָנוּ 
+
+Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts. 
+#### 12
+לָכֵן הִנָּבֵא וְאָמַרְתָּ אֲלֵיהֶםכֹּה-אָמַראֲדֹנָי יְהוִה הִנֵּה אֲנִי פֹתֵחַאֶת-קִבְרוֺתֵיכֶםוְהַעֲלֵיתִי אֶתְכֶם מִקִּבְרוֺתֵיכֶם עַמִּי וְהֵבֵאתִי אֶתְכֶםאֶל-אַדְמַתיִשְׂרָאֵל 
+
+Therefore prophesy and say unto them, Thus saith the Lord GOD; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel. 
+#### 13
+וִידַעְתֶּםכִּי-אֲנִייְהוָה בְּפִתְחִיאֶת-קִבְרוֺתֵיכֶםוּבְהַעֲלוֺתִי אֶתְכֶם מִקִּבְרוֺתֵיכֶם עַמִּי 
+
+And ye shall know that I [am] the LORD, when I have opened your graves, O my people, and brought you up out of your graves, 
+#### 14
+וְנָתַתִּי רוּחִי בָכֶם וִחְיִיתֶם וְהִנַּחְתִּי אֶתְכֶםעַל-אַדְמַתְכֶםוִידַעְתֶּםכִּי-אֲנִייְהוָה דִּבַּרְתִּי וְעָשִׂיתִינְאֻם-יְהוָה
+
+And shall put my spirit in you, and ye shall live, and I shall place you in your own land: then shall ye know that I the LORD have spoken [it], and performed [it], saith the LORD.
 ## c38
 ### 2
 בֶּן־אָדָ֗ם שִׂ֤ים פָּנֶ֙יךָ֙ אֶל־גּוֹג֙ אֶ֣רֶץ הַמָּג֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֣שֶׁךְ וְתֻבָ֑ל וְהִנָּבֵ֖א עָלָֽיו ׃

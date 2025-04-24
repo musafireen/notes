@@ -179,6 +179,11 @@ And there was again a battle in Gob with the Philistines, where Elhanan the son 
 אֶת־אַרְבַּ֥עַת אֵ֛לֶּה יֻלְּד֥וּ לְהָרָפָ֖ה בְּגַ֑ת וַיִּפְּל֥וּ בְיַד־דָּוִ֖ד וּבְיַ֥ד עֲבָדָֽיו ׃ פ
 
 These four were born to the giant in Gath, and fell by the hand of David, and by the hand of his servants.
+## c24
+#### 1
+וַיֹּ֙סֶף֙ אַף־יְהוָ֔ה לַחֲר֖וֹת בְּיִשְׂרָאֵ֑ל וַיָּ֨סֶת אֶת־דָּוִ֤ד בָּהֶם֙ לֵאמֹ֔ר לֵ֛ךְ מְנֵ֥ה אֶת־יִשְׂרָאֵ֖ל וְאֶת־יְהוּדָֽה ׃
+
+And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah.
 # 1_kings
 ## c6
 #### 23
@@ -324,6 +329,18 @@ Then did Solomon build an high place for Chemosh, the abomination of Moab, in th
 וְכֵ֣ן עָשָׂ֔ה לְכָל־נָשָׁ֖יו הַנָּכְרִיּ֑וֹת מַקְטִיר֥וֹת וּֽמְזַבְּח֖וֹת לֵאלֹהֵיהֶֽן ׃
 
 And likewise did he for all his strange wives, which burnt incense and sacrificed unto their gods.
+#### 14
+וַיָּ֨קֶם יְהוָ֤ה שָׂטָן֙ לִשְׁלֹמֹ֔ה אֵ֖ת הֲדַ֣ד הָאֲדֹמִ֑י מִזֶּ֧רַע הַמֶּ֛לֶךְ ה֖וּא בֶּאֱדֽוֹם ׃
+
+And the LORD stirred up an adversary unto Solomon, Hadad the Edomite: he [was] of the king´s seed in Edom. 
+#### 21
+וַהֲדַ֞ד שָׁמַ֣ע בְּמִצְרַ֗יִם כִּֽי־שָׁכַ֤ב דָּוִד֙ עִם־אֲבֹתָ֔יו וְכִי־מֵ֖ת יוֹאָ֣ב שַֽׂר־הַצָּבָ֑א וַיֹּ֤אמֶר הֲדַד֙ אֶל־פַּרְעֹ֔ה שַׁלְּחֵ֖נִי וְאֵלֵ֥ךְ אֶל־אַרְצִֽי ׃
+
+And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country.
+#### 22
+וַיֹּ֧אמֶר ל֣וֹ פַרְעֹ֗ה כִּ֠י מָה־אַתָּ֤ה חָסֵר֙ עִמִּ֔י וְהִנְּךָ֥ מְבַקֵּ֖שׁ לָלֶ֣כֶת אֶל־אַרְצֶ֑ךָ וַיֹּ֣אמֶר ׀ לֹ֔א כִּ֥י שַׁלֵּ֖חַ תְּשַׁלְּחֵֽנִי ׃
+
+Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, thou seekest to go to thine own country ? And he answered, Nothing: howbeit let me go in any wise.
 #### 23
 וַיָּ֨קֶם אֱלֹהִ֥ים לוֹ֙ שָׂטָ֔ן אֶת־רְז֖וֹן בֶּן־אֶלְיָדָ֑ע אֲשֶׁ֣ר בָּרַ֗ח מֵאֵ֛ת הֲדַדְעֶ֥זֶר מֶֽלֶךְ־צוֹבָ֖ה אֲדֹנָֽיו ׃
 

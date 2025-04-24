@@ -237,21 +237,37 @@
 [Q.11:69](https://quran.com/11:69/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#11:69]]
+### bbl.tor.gen.18.1
+![[bbl.tor#gen#c18#1]]
 
-## Q:11:60
+![[bbl.tor#gen#c18#2]]
+
+![[bbl.tor#gen#c18#8]]
+
+## Q:11:70
 ![[Qrsi#11:70]]
 
+## Q:11:71
 ![[Qrsi#11:71]]
-
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#10]]![[bbl.tor#gen#c18#12]]
+## Q:11:72
 ![[Qrsi#11:72]]
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#12]]
 
+## Q:11:74
 ![[Qrsi#11:73]]
+## bbl.tor.gen.18.
+![[bbl.tor#gen#c18#13]]![[bbl.tor#gen#c18#14]]
 
 # Q:11:74
 
 [Q.11:74](https://quran.com/11:74/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#11:74]]
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#23]]
 
 # Q:11:75
 
@@ -264,7 +280,10 @@
 [Q.11:76](https://quran.com/11:76/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#11:76]]
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#32]]
 
+## Q:11:77
 ![[Qrsi#11:77]]
 
 ![[Qrsi#11:78]]
@@ -623,30 +642,58 @@
 ## Q:51:25
 ![[Qrsi#51:25]]
 
+## Q:51:26
 ![[Qrsi#51:26]]
-
+### bbl.tor.gen.18.6-7
+![[bbl.tor#gen#c18#6]]![[bbl.tor#gen#c18#7]]
+## Q:51:27
 ![[Qrsi#51:27]]
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#8]]
 
+## Q:51:28
 ![[Qrsi#51:28]]
 
+## Q:51:29
 ![[Qrsi#51:29]]
-
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#10]]![[bbl.tor#gen#c18#12]]
+## Q:51:30
 ![[Qrsi#51:30]]
 
+## Q:51:31
 ![[Qrsi#51:31]]
-
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#17]]
+## Q:51:32
 ![[Qrsi#51:32]]
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#21]]
 
+## Q:51:33
 ![[Qrsi#51:33]]
+### bbl.tor.gen.18
+![[bbl.tor#gen#c18#23]]
 
+## Q:51:34
 ![[Qrsi#51:34]]
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#20]]
 
+## Q:51:35
 ![[Qrsi#51:35]]
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#32]]
 
+## Q:51:36
 ![[Qrsi#51:36]]
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#32]]
 
+## Q:51:37
 ![[Qrsi#51:37]]
 
+## Q:51:38
 ![[Qrsi#51:38]]
 
 ![[Qrsi#51:39]]
@@ -864,9 +911,16 @@
 [Q.29:31](https://quran.com/29:31/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#29:31]]
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#1]]
+![[bbl.tor#gen#c18#2]]
+![[bbl.tor#gen#c18#10]]
 
+## Q:29:32
 ![[Qrsi#29:32]]
-
+### bbl.tor.gen.18.
+![[bbl.tor#gen#c18#23]]![[bbl.tor#gen#c18#32]]
+## Q:29:33
 ![[Qrsi#29:33]]
 
 ![[Qrsi#29:34]]
@@ -998,6 +1052,27 @@
 [Q.2:260](https://quran.com/2:260/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#2:260]]
+### bbl.tor.gen.15.
+![[bbl.tor#gen#c15#7]]
+![[bbl.tor#gen#c15#8]]
+![[bbl.tor#gen#c15#9]]
+![[bbl.tor#gen#c15#10]]
+![[bbl.tor#gen#c15#11]]
+### bbl.ezek.37.1-14
+![[bbl.prop.nev#ezk#c37#1]]
+![[bbl.prop.nev#ezk#c37#2]]
+![[bbl.prop.nev#ezk#c37#3]]
+![[bbl.prop.nev#ezk#c37#4]]
+![[bbl.prop.nev#ezk#c37#5]]
+![[bbl.prop.nev#ezk#c37#6]]
+![[bbl.prop.nev#ezk#c37#7]]
+![[bbl.prop.nev#ezk#c37#8]]
+![[bbl.prop.nev#ezk#c37#9]]
+![[bbl.prop.nev#ezk#c37#10]]
+![[bbl.prop.nev#ezk#c37#12]]
+![[bbl.prop.nev#ezk#c37#12]]
+![[bbl.prop.nev#ezk#c37#13]]
+![[bbl.prop.nev#ezk#c37#14]]
 
 # Q:3:33
 

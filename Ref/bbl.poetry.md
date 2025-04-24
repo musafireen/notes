@@ -1,12 +1,34 @@
 # job
 ## c1
-### 6
+#### 6
 וַיְהִ֣י הַיּ֔וֹם וַיָּבֹ֙אוּ֙ בְּנֵ֣י הָאֱלֹהִ֔ים לְהִתְיַצֵּ֖ב עַל־יְהוָ֑ה וַיָּב֥וֹא גַֽם־הַשָּׂטָ֖ן בְּתוֹכָֽם ׃
-### 7
+
+Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.(Satan: Heb. the adversary)
+#### 7
 וַיֹּ֧אמֶר יְהוָ֛ה אֶל־הַשָּׂטָ֖ן מֵאַ֣יִן תָּבֹ֑א וַיַּ֨עַן הַשָּׂטָ֤ן אֶת־יְהוָה֙ וַיֹּאמַ֔ר מִשּׁ֣וּט בָּאָ֔רֶץ וּמֵֽהִתְהַלֵּ֖ךְ בָּֽהּ ׃
+
+And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.
+#### 8
+וַיֹּ֤אמֶר יְהוָה֙ אֶל־הַשָּׂטָ֔ן הֲשַׂ֥מְתָּ לִבְּךָ֖ עַל־עַבְדִּ֣י אִיּ֑וֹב כִּ֣י אֵ֤ין כָּמֹ֙הוּ֙ בָּאָ֔רֶץ אִ֣ישׁ תָּ֧ם וְיָשָׁ֛ר יְרֵ֥א אֱלֹהִ֖ים וְסָ֥ר מֵרָֽע ׃
+
+And the LORD said unto Satan, Hast thou considered my servant Job, that [there is] none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil ?
+#### 9
+וַיַּ֧עַן הַשָּׂטָ֛ן אֶת־יְהוָ֖ה וַיֹּאמַ֑ר הַֽחִנָּ֔ם יָרֵ֥א אִיּ֖וֹב אֱלֹהִֽים ׃
+
+Then Satan answered the LORD, and said, Doth Job fear God for nought ?
+#### 10
+הֲלֹֽא־את שַׂ֣כְתָּ בַעֲד֧וֹ וּבְעַד־בֵּית֛וֹ וּבְעַ֥ד כָּל־אֲשֶׁר־ל֖וֹ מִסָּבִ֑יב מַעֲשֵׂ֤ה יָדָיו֙ בֵּרַ֔כְתָּ וּמִקְנֵ֖הוּ פָּרַ֥ץ בָּאָֽרֶץ ׃
+
+Hast not thou made an hedge about him, and about his house, and about all that he hath on every side ? thou hast blessed the work of his hands, and his substance is increased in the land.
+#### 11
+וְאוּלָם֙ שְֽׁלַֽח־נָ֣א יָֽדְךָ֔ וְגַ֖ע בְּכָל־אֲשֶׁר־ל֑וֹ אִם־לֹ֥א עַל־פָּנֶ֖יךָ יְבָרֲכֶֽךָּ ׃
+
+But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.
 ## c2
 ### 7
 וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵאֵ֖ת פְּנֵ֣י יְהוָ֑ה וַיַּ֤ךְ אֶת־אִיּוֹב֙ בִּשְׁחִ֣ין רָ֔ע מִכַּ֥ף רַגְל֖וֹ עד קָדְקֳדֽוֹ ׃
+
+So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.
 ## c3
 ### 3
 יֹ֣אבַד י֭וֹם אִוָּ֣לֶד בּ֑וֹ וְהַלַּ֥יְלָה אָ֝מַ֗ר הֹ֣רָה גָֽבֶר ׃

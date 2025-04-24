@@ -66,7 +66,7 @@ Ananke
 ![[Qrsd#37:125]]
 ## baEol2 ()
 
-![[bbl.history.neviim#1_kings#c18#22]]
+![[bbl.hist.nev#1_kings#c18#22]]
 # Q:39:17
 
 [Q.39:17](https://quran.com/39:17/tafsirs/ar-tafsir-al-tabari)
@@ -85,7 +85,7 @@ Ananke
 
 ![[bbl.prop.nev#jeremiah#c32#35]]
 
-![[bbl.history.neviim#2_kings#c23#10]]
+![[bbl.hist.nev#2_kings#c23#10]]
 
 # Q:16:36
 

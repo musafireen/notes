@@ -489,6 +489,18 @@ On these two commandments hang all the law and the prophets.
 
 But of that day and hour knoweth no [man], no, not the angels of heaven, but my Father only.
 ## c26
+#### 27
+και λαβων το ποτηριον και ευχαριστησας εδωκεν αυτοις λεγων πιετε εξ αυτου παντες
+
+And he took the cup, and gave thanks, and gave [it] to them, saying, Drink ye all of it;
+#### 28
+τουτο γαρ εστιν το αιμα μου το της καινης διαθηκης το περι πολλων εκχυνομενον εις αφεσιν αμαρτιων
+
+For this is my blood of the new testament, which is shed for many for the remission of sins.
+#### 29
+λεγω δε υμιν οτι ου μη πιω απ αρτι εκ τουτου του γεννηματος της αμπελου εως της ημερας εκεινης οταν αυτο πινω μεθ υμων καινον εν τη βασιλεια του πατρος μου
+
+But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father´s kingdom.
 ### 51
 και ιδου εις των μετα ιησου εκτεινας την χειρα απεσπασεν την μαχαιραν αυτου και παταξας τον δουλον του αρχιερεως αφειλεν αυτου το ωτιον
 
@@ -812,6 +824,10 @@ Heaven and earth shall pass away: but my words shall not pass away.
 
 Watch ye therefore, and pray always that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
 ## c22
+#### 20
+ωσαυτως και το ποτηριον μετα το δειπνησαι λεγων τουτο το ποτηριον η καινη διαθηκη εν τω αιματι μου το υπερ υμων εκχυνομενον
+
+And the cup in like manner after supper, saying, This cup is the new covenant in my blood, even that which is poured out for you.
 ### 49
 ιδοντες δε οι περι αυτον το εσομενον ειπον αυτω κυριε ει παταξομεν εν μαχαιρα
 

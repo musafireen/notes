@@ -97,7 +97,7 @@ hand for hand, foot for foot...              the cheek offer also the other...
                      Exodus 21:24                                            Luke 6:29
 
 ### 4
-![[bbl.history.neviim#2_kings#c1#9]]![[bbl.history.neviim#2_kings#c1#10]]
+![[bbl.hist.nev#2_kings#c1#9]]![[bbl.hist.nev#2_kings#c1#10]]
 
 ![[bbl.evngl#luke#c9#54]]![[bbl.evngl#luke#c9#55]]
 
@@ -114,7 +114,7 @@ summed him and his fifty.                     ye are of ;  for the Son of man
 ...there came forth little children          And they brought young children to
 out
 ### 5
-![[bbl.history.neviim#2_kings#c2#23]]![[bbl.history.neviim#2_kings#c2#24]]
+![[bbl.hist.nev#2_kings#c2#23]]![[bbl.hist.nev#2_kings#c2#24]]
 ![[bbl.evngl#mark#c10#13]]![[bbl.evngl#mark#c10#14]]
 
 ...there came forth little children          And they brought young children to
@@ -211,7 +211,7 @@ God (Exodus 20:5)....for the Lord,                       1 Corinthians 13:4
 Whose name is Jealous, is a jealous
 God (Exodus 34:14). 
 ### 12
-![[bbl.history.neviim#joshua#c24#13]]![[bbl.history.neviim#joshua#c24#14]]
+![[bbl.hist.nev#joshua#c24#13]]![[bbl.hist.nev#joshua#c24#14]]
 
 ![[bbl.paul#1 cor#c13#4]]
 
@@ -243,7 +243,7 @@ not give...          Isaiah 42:8                glory I had with Thee before the
                                                 world was.                 John 17:5 
 
 ### 15
-![[bbl.history.neviim#joshua#c10#12]]![[bbl.history.neviim#joshua#c10#13]]![[bbl.history.neviim#joshua#c10#14]]
+![[bbl.hist.nev#joshua#c10#12]]![[bbl.hist.nev#joshua#c10#13]]![[bbl.hist.nev#joshua#c10#14]]
 ![[bbl.paul.pseud#eph#c4#26]]
 
 And the sun stood still, and the moon           Be ye angry, yet not committing sin;

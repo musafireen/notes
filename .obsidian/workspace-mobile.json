@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/pl.phaedr.md",
+                "file": "Ref/eusb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pl.phaedr"
+              "title": "eusb"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.prop.ketuvim.md",
+                "file": "Ref/bbl.apcr.eth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bbl.prop.ketuvim"
+              "title": "bbl.apcr.eth"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.apcr.eth.md",
+                "file": "002_quran/jinn/Satan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bbl.apcr.eth"
+              "title": "Satan"
             }
           },
           {
@@ -330,7 +330,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "genesis",
+            "query": "arimath",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -364,7 +364,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "002_quran/anbiya/ibrahim.md",
+            "file": "002_quran/jinn/Satan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -383,7 +383,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "002_quran/anbiya/ibrahim.md",
+            "file": "002_quran/jinn/Satan.md",
             "linksCollapsed": true,
             "unlinkedCollapsed": false
           },
@@ -397,7 +397,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/bbl.apcr.eth.md",
+            "file": "002_quran/jinn/Satan.md",
             "followCursor": true,
             "showSearch": true,
             "searchQuery": ""
@@ -417,32 +417,32 @@
   },
   "active": "00adfa2219d80aac",
   "lastOpenFiles": [
-    "002_quran/anbiya/ibrahim.md",
-    "Ref/bbl.epst.md",
-    "Ref/bbl.apcr.apcl.md",
+    "Ref/bbl.hist.nev.md",
+    "002_quran/jinn/Satan.md",
     "Ref/bbl.tor.md",
-    "Ref/jrm.md",
-    "Ref/mdrsh.md",
+    "002_quran/majuj/Arthurian_cathar_templar_konigsberg/Joesph_arimathea.md",
     "Ref/bbl.apcr.eth.md",
+    "Ref/bbl.evngl.md",
+    "002_quran/majuj/Arthurian_cathar_templar_konigsberg/grail.md",
+    "002_quran/anbiya/ibrahim.md",
+    "Ref/bbl.history.ketuvim.md",
+    "Ref/bbl.poetry.md",
+    "002_quran/jinn/shaytan.md",
+    "Ref/bbl.prop.ketuvim.md",
+    "Ref/eusb.md",
+    "Ref/pl.phaedr.md",
+    "nature_archaeology/species.md",
+    "Ref/bbl.prop.nev.md",
+    "Ref/mdrsh.md",
+    "Ref/bbl.apcr.apcl.md",
+    "Ref/jcb.srg.md",
+    "Ref/tlmd.amora.gemara.md",
+    "Ref/jubl.md",
+    "Ref/bbl.epst.md",
+    "Ref/jrm.md",
     "Ref/bbl.apcr.syr.md",
     "Ref/bbl.apcr.cath.md",
     "Ref/bbl.apcr.orth.md",
-    "002_quran/demiurgic_theodicy/evil_cosmos_matter_creation_demiurge.md",
-    "Ref/bbl.apcr.gnos.md",
-    "001_eskaton/001_chhatak/slot/nagri/halotunnobi.md",
-    "boomerang/sylhet_social_media.md",
-    "Ref/pl.phaedr.md",
-    "Ref/pl.leges.md",
-    "Ref/pl.tim.md",
-    "Ref/hdt.hist.md",
-    "Ref/eusb.md",
-    "Ref/jsphs.md",
-    "Ref/jcb.srg.md",
-    "Ref/tlmd.amora.gemara.md",
-    "Ref/Qrsi.md",
-    "002_quran/sharif/nobility.md",
-    "002_quran/sharif/worst_of_the_best_more_visible.md",
-    "001_eskaton/001_chhatak/slot/nagri/shat_koinar_bakhan.md",
     "001_eskaton/001_chhatak/slot/nagri",
     "002_quran/fida",
     "003_Ling/english",
