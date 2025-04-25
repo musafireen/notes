@@ -2,7 +2,7 @@
 # Q:81:25
 [Q.81:25](https://quran.com/81:25/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#81:25]]
+![[Qrsi#r81:1]]![[Qrsi#81:25]]
 
 ## شَيْطَٰن
 
@@ -10,7 +10,7 @@
 # Q:38:37
 [Q.38:37](https://quran.com/38:37/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#38:37]]
+![[Qrsi#38:36]]![[Qrsi#38:37]]
 
 ## ~~~ شَيْطَٰن
 1st inst: [[#Q:81:25]]
