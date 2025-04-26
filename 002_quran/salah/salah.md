@@ -2,7 +2,7 @@
 # Q:96:10
 [Q.96:10](https://quran.com/96:10/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#96:9]]![[Qrsi#96:10]]
+![[Qrsi#r96.1]]
 
 ## صلو
 
@@ -18,7 +18,7 @@
 # Q:68:42
 [Q.68:42](https://quran.com/68:42/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#68:42]]
+![[Qrsi#r68.2.x]]
 
 ## سُّجُود
 
@@ -35,30 +35,15 @@
 # Q:73:2
 [Q.73:2](https://quran.com/73:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#73:1]]![[Qrsi#73:2]]![[Qrsi#73:3]]
+![[Qrsi#r73.1.x]]
 
-## قوم <5> لَيْل
-
-
-# Q:73:4
-[Q.73:4](https://quran.com/73:4/tafsirs/ar-tafsir-al-tabari)
-
-![[Qrsi#73:4]]![[Qrsi#73:5]]
-
-## رتل قُرْءَان
-
-# Q:73:6
-[Q.73:6](https://quran.com/73:6/tafsirs/ar-tafsir-al-tabari)
-
-![[Qrsi#73:6]]![[Qrsi#73:7]]![[Qrsi#73:7]]
-
-## نَاشِئَة لَيْل 
+## قوم i <5>لَيْل
 
 
 # Q:74:3
 [Q.74:3](https://quran.com/74:3/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#74:1]]![[Qrsi#74:2]]![[Qrsi#74:3]]![[Qrsi#74:4]]![[Qrsi#74:5]]
+![[Qrsi#r74.1.x]]
 
 ## كبر ii
 
@@ -66,7 +51,7 @@
 # Q:74:43
 [Q.74:43](https://quran.com/74:43/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#74:41]]![[Qrsi#74:42]]![[Qrsi#74:43]]![[Qrsi#74:44]]![[Qrsi#74:45]]![[Qrsi#74:46]]![[Qrsi#74:47]]![[Qrsi#74:48]]
+![[Qrsi#r74.3.x]]
 
 ## مُصَلِّين
 
@@ -74,7 +59,7 @@
 # Q:87:1
 [Q.87:1](https://quran.com/87:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#87:1]]
+![[Qrsi#r87.1]]
 
 ## سبح ii
 
@@ -82,7 +67,7 @@
 # Q:87:15
 [Q.87:15](https://quran.com/87:15/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#87:14]]![[Qrsi#87:15]]
+![[Qrsi#87:15]]
 
 ## ~~~ صلو
 1st inst: [[#Q:96:10]]
@@ -100,7 +85,7 @@
 # Q:53:62
 [Q.53:62](https://quran.com/53:62/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#53:57]]![[Qrsi#53:58]]![[Qrsi#53:59]]![[Qrsi#53:60]]![[Qrsi#53:61]]![[Qrsi#53:62]]
+![[Qrsi#r53.3.x]]
 
 ## ~~~ سجد
 1st inst: [[#Q:96:19]]
@@ -109,7 +94,7 @@
 # Q:75:31
 [Q.75:31](https://quran.com/75:31/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#75.3]]![[Qrsi#75:5]]![[Qrsi#75:6]]![[Qrsi#75:10]]![[Qrsi#75:13]]![[Qrsi#75:14]]![[Qrsi#75:15]]![[Qrsi#r75.2.1]]
+![[Qrsi#r75.2.x]]
 
 ## ~~~ صلو
 1st inst: [[#Q:96:10]]
@@ -119,6 +104,12 @@
 [Q.50:39](https://quran.com/50:39/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#r50.3.x]]
+
+## سبح ii غُرُوب شَمْس قَبْل
+
+
+## سبح ii طُلُوع شَمْس قَبْل
+
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -140,7 +131,7 @@
 # Q:38:18
 [Q.38:18](https://quran.com/38:18/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r38.2.1]]
+![[Qrsi#r38.2.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -157,7 +148,7 @@
 # Q:38:72
 [Q.38:72](https://quran.com/38:72/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r38.5.1]]
+![[Qrsi#r38.5.x]]
 
 ## سَاجِد
 
@@ -183,7 +174,7 @@
 # Q:7:11
 [Q.7:11](https://quran.com/7:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.2.1]]
+![[Qrsi#r7.2.x]]
 
 ## ~~~ سجد
 1st inst: [[#Q:96:19]]
@@ -205,7 +196,7 @@
 # Q:7:29
 [Q.7:29](https://quran.com/7:29/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.3.1]]
+![[Qrsi#r7.3.x]]
 
 ## مَسْجِد
 
@@ -222,7 +213,7 @@
 # Q:7:120
 [Q.7:120](https://quran.com/7:120/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.14.1]]
+![[Qrsi#r7.14.x]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -231,7 +222,7 @@
 # Q:7:161
 [Q.7:161](https://quran.com/7:161/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.20.1]]
+![[Qrsi#r7.20.x]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -240,7 +231,7 @@
 # Q:7:206
 [Q.7:206](https://quran.com/7:206/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.24.1]]
+![[Qrsi#r7.24.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -253,7 +244,7 @@
 # Q:72:18
 [Q.72:18](https://quran.com/72:18/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r72.1.1]]
+![[Qrsi#r72.1.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -262,22 +253,15 @@
 # Q:36:40
 [Q.36:40](https://quran.com/36:40/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r36.3.1]]
+![[Qrsi#r36.3.x]]
 
 ## سبح i
 
 
-# Q:25:32
-[Q.25:32](https://quran.com/25:32/tafsirs/ar-tafsir-al-tabari)
-
-![[Qrsi#25:32]]
-
-## ~~ رتل قُرْءَان
-
 # Q:25:58
 [Q.25:58](https://quran.com/25:58/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r25.5.1]]
+![[Qrsi#r25.5.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -295,7 +279,7 @@
 # Q:25:64
 [Q.25:64](https://quran.com/25:64/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r25.6.1]]
+![[Qrsi#r25.6.x]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -304,7 +288,7 @@
 # Q:35:18
 [Q.35:18](https://quran.com/35:18/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r35.3.1]]
+![[Qrsi#r35.3.x]]
 
 ## قوم iv صَلَوٰة
 
@@ -315,7 +299,7 @@
 # Q:35:29
 [Q.35:29](https://quran.com/35:29/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r35.4.1]]
+![[Qrsi#r35.4.x]]
 
 ## قوم <10>تلو
 
@@ -334,7 +318,7 @@
 # Q:19:11
 [Q.19:11](https://quran.com/19:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r19.1.1]]
+![[Qrsi#r19.1.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -343,7 +327,7 @@
 # Q:19:31
 [Q.19:31](https://quran.com/19:31/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r19.2.1]]
+![[Qrsi#r19.2.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -361,7 +345,7 @@
 # Q:19:59
 [Q.19:59](https://quran.com/19:59/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#19.59]]
+![[Qrsi#19:59]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -370,7 +354,7 @@
 # Q:20:14
 [Q.20:14](https://quran.com/20:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r20.1.1]]
+![[Qrsi#r20.1.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -383,7 +367,7 @@
 # Q:20:33
 [Q.20:33](https://quran.com/20:33/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r20.2.1]]
+![[Qrsi#r20.2.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -392,7 +376,7 @@
 # Q:20:70
 [Q.20:70](https://quran.com/20:70/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r20.3.1]]
+![[Qrsi#r20.3.x]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -401,7 +385,7 @@
 # Q:20:116
 [Q.20:116](https://quran.com/20:116/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r20.6.x]]
+![[Qrsi#r20.7.x]]
 
 ## ~~~ سجد
 1st inst: [[#Q:96:19]]
@@ -410,7 +394,7 @@
 # Q:20:132
 [Q.20:132](https://quran.com/20:132/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#20:132]]
+![[Qrsi#r20.8.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -419,7 +403,7 @@
 # Q:56:74
 [Q.56:74](https://quran.com/56:74/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r56.2.1]]
+![[Qrsi#r56.2.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -437,7 +421,7 @@
 # Q:26:46
 [Q.26:46](https://quran.com/26:46/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.3.1]]
+![[Qrsi#r26.3.x]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -446,7 +430,7 @@
 # Q:26:69
 [Q.26:69](https://quran.com/26:69/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.5.1]]
+![[Qrsi#r26.5.x]]
 
 ## ~~~ قوم <10>تلو
 1st inst: [[#Q:35:29]]
@@ -473,7 +457,7 @@
 # Q:27:3
 [Q.27:3](https://quran.com/27:3/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r27.1.1]]
+![[Qrsi#r27.1.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -486,7 +470,7 @@
 # Q:27:24
 [Q.27:24](https://quran.com/27:24/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r27.2.1]]
+![[Qrsi#r27.2.x]]
 
 ## ~~~ سجد
 1st inst: [[#Q:96:19]]
@@ -504,7 +488,7 @@
 # Q:28:3
 [Q.28:3](https://quran.com/28:3/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r28.1.1]]
+![[Qrsi#r28.1.x]]
 
 ## ~~~ قوم <10>تلو
 1st inst: [[#Q:35:29]]
@@ -513,7 +497,7 @@
 # Q:17:1
 [Q.17:1](https://quran.com/17:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r17.1.1]]
+![[Qrsi#r17.1.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -531,7 +515,7 @@
 # Q:17:44
 [Q.17:44](https://quran.com/17:44/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r17.4.1]]
+![[Qrsi#r17.4.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -582,7 +566,7 @@
 # Q:10:71
 [Q.10:71](https://quran.com/10:71/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.8.1]]
+![[Qrsi#r10.8.x]]
 
 ## ~~~ قوم <10>تلو
 1st inst: [[#Q:35:29]]
@@ -591,7 +575,7 @@
 # Q:10:87
 [Q.10:87](https://quran.com/10:87/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.9.1]]
+![[Qrsi#r10.9.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -604,7 +588,7 @@
 # Q:11:87
 [Q.11:87](https://quran.com/11:87/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r11.8.1]]
+![[Qrsi#r11.8.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -622,7 +606,7 @@
 # Q:12:100
 [Q.12:100](https://quran.com/12:100/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r12.11.1]]
+![[Qrsi#r12.11.x]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -631,7 +615,7 @@
 # Q:15:29
 [Q.15:29](https://quran.com/15:29/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r15.3.1]]
+![[Qrsi#r15.3.x]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -689,7 +673,7 @@
 # Q:6:72
 [Q.6:72](https://quran.com/6:72/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r6.9.1]]
+![[Qrsi#r6.9.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -711,7 +695,7 @@
 # Q:6:162
 [Q.6:162](https://quran.com/6:162/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r6.20.1]]
+![[Qrsi#r6.20.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -720,7 +704,7 @@
 # Q:37:143
 [Q.37:143](https://quran.com/37:143/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r37.5.1]]
+![[Qrsi#r37.5.x]]
 
 ## مُسَبِّحُون
 
@@ -737,7 +721,7 @@
 # Q:31:4
 [Q.31:4](https://quran.com/31:4/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r31.1.1]]
+![[Qrsi#r31.1.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -750,7 +734,7 @@
 # Q:31:17
 [Q.31:17](https://quran.com/31:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r31.2.1]]
+![[Qrsi#r31.2.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -763,15 +747,12 @@
 # Q:39:9
 [Q.39:9](https://quran.com/39:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r39.1.1]]
+![[Qrsi#r39.1.x]]
 
 ## قنت لَيْل
 
 
-## قنت
-
-
-## ءَانَآء لَيْل
+## قَانِت
 
 
 ## ~~~ سَاجِد
@@ -781,7 +762,7 @@
 # Q:39:75
 [Q.39:75](https://quran.com/39:75/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r39.7.1]]
+![[Qrsi#r39.7.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -790,7 +771,7 @@
 # Q:40:7
 [Q.40:7](https://quran.com/40:7/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r40.1.1]]
+![[Qrsi#r40.1.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -799,16 +780,19 @@
 # Q:40:55
 [Q.40:55](https://quran.com/40:55/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r40.6.1]]
+![[Qrsi#r40.6.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
 
 
+## حَمْد عَشِىّ
+
+
 # Q:41:37
 [Q.41:37](https://quran.com/41:37/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r41.5.1]]
+![[Qrsi#r41.5.x]]
 
 ## ~~~ سجد
 1st inst: [[#Q:96:19]]
@@ -826,7 +810,7 @@
 # Q:42:5
 [Q.42:5](https://quran.com/42:5/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r42.1.1]]
+![[Qrsi#r42.1.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -835,7 +819,7 @@
 # Q:42:38
 [Q.42:38](https://quran.com/42:38/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r42.4.1]]
+![[Qrsi#r42.4.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -848,7 +832,7 @@
 # Q:45:5
 [Q.45:5](https://quran.com/45:5/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r45.1.1]]
+![[Qrsi#r45.1.x]]
 
 ## ~~~ قوم <10>تلو
 1st inst: [[#Q:35:29]]
@@ -866,7 +850,7 @@
 # Q:45:31
 [Q.45:31](https://quran.com/45:31/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r45.4.1]]
+![[Qrsi#r45.4.x]]
 
 ## ~~~ قوم <10>تلو
 1st inst: [[#Q:35:29]]
@@ -875,7 +859,7 @@
 # Q:18:21
 [Q.18:21](https://quran.com/18:21/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r18.3.1]]
+![[Qrsi#r18.3.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -884,7 +868,7 @@
 # Q:18:50
 [Q.18:50](https://quran.com/18:50/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r18.7.1]]
+![[Qrsi#r18.7.x]]
 
 ## ~~~ سجد
 1st inst: [[#Q:96:19]]
@@ -893,7 +877,7 @@
 # Q:16:48
 [Q.16:48](https://quran.com/16:48/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r16.6.1]]
+![[Qrsi#r16.6.x]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -911,10 +895,11 @@
 # Q:16:120
 [Q.16:120](https://quran.com/16:120/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r16.16.1]]
+![[Qrsi#r16.16.x]]
 
-## ~~~ قنت
+## ~~~ قَانِت
 1st inst: [[#Q:39:9]]
+
 
 # Q:14:31
 [Q.14:31](https://quran.com/14:31/tafsirs/ar-tafsir-al-tabari)
@@ -932,7 +917,7 @@
 # Q:14:37
 [Q.14:37](https://quran.com/14:37/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r14.6.1]]
+![[Qrsi#r14.6.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -949,14 +934,12 @@
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
-## مُّقِيم صَلَوٓة
-
 
 
 # Q:21:20
 [Q.21:20](https://quran.com/21:20/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r21.2.1]]
+![[Qrsi#r21.2.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -965,7 +948,7 @@
 # Q:21:33
 [Q.21:33](https://quran.com/21:33/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r21.3.1]]
+![[Qrsi#r21.3.x]]
 
 ## ~~~ سبح i
 1st inst: [[#Q:36:40]]
@@ -974,7 +957,7 @@
 # Q:21:73
 [Q.21:73](https://quran.com/21:73/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r21.5.1]]
+![[Qrsi#r21.5.x]]
 
 ## إِقَام صَلَوٰة
 
@@ -986,7 +969,7 @@
 # Q:21:79
 [Q.21:79](https://quran.com/21:79/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r21.6.1]]
+![[Qrsi#r21.6.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -995,7 +978,7 @@
 # Q:23:2
 [Q.23:2](https://quran.com/23:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r23.1.1]]
+![[Qrsi#r23.1.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1013,7 +996,7 @@
 # Q:32:15
 [Q.32:15](https://quran.com/32:15/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r31.2.1]]
+![[Qrsi#r32.2.x]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -1026,16 +1009,24 @@
 # Q:52:48
 [Q.52:48](https://quran.com/52:48/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r52.2.1]]
+![[Qrsi#r52.2.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
+
+
+## ~~~ قوم i <5>لَيْل
+1st inst: [[#Q:73:2]]
 
 
 # Q:52:49
 [Q.52:49](https://quran.com/52:49/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#52:49]]
+
+## ~~~ قوم i <5>لَيْل
+1st inst: [[#Q:73:2]]
+
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -1044,7 +1035,7 @@
 # Q:69:52
 [Q.69:52](https://quran.com/69:52/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r69.2.1]]
+![[Qrsi#r69.2.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -1053,7 +1044,7 @@
 # Q:70:22
 [Q.70:22](https://quran.com/70:22/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r70.1.1]]
+![[Qrsi#r70.1.x]]
 
 ## ~~~ مُصَلِّين
 1st inst: [[#Q:74:43]]
@@ -1080,7 +1071,7 @@
 # Q:79:3
 [Q.79:3](https://quran.com/79:3/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r79.1.1]]
+![[Qrsi#r79.1.x]]
 
 ## سَّٰبِحَٰت
 
@@ -1094,19 +1085,31 @@
 1st inst: [[#Q:96:19]]
 
 
+# Q:30:18
+[Q.30:18](https://quran.com/30:18/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#r30.2.x]]
+
+## ~~~ حَمْد عَشِىّ
+1st inst: [[#Q:40:55]]
+
+
+## حَمْد ظهر iv
+
+
 # Q:30:26
 [Q.30:26](https://quran.com/30:26/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r30.3.1]]
+![[Qrsi#r30.3.x]]
 
-## ~~~ قنت
+## ~~~ قَانِت
 1st inst: [[#Q:39:9]]
 
 
 # Q:30:31
 [Q.30:31](https://quran.com/30:31/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r30.4.1]]
+![[Qrsi#r30.4.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1119,7 +1122,7 @@
 # Q:29:45
 [Q.29:45](https://quran.com/29:45/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r29.5.1]]
+![[Qrsi#r29.5.x]]
 
 ## ~~~ قوم <10>تلو
 1st inst: [[#Q:35:29]]
@@ -1178,6 +1181,10 @@
 
 ![[Qrsi#r73.2.x]]
 
+## ~~~ قوم i <5>لَيْل
+1st inst: [[#Q:73:2]]
+
+
 ## قوم i صَلَوٰة
 
 
@@ -1187,9 +1194,6 @@
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
-
-## ~~ قوم <5> لَيْل
-1st inst: [[#Q:73:2]]
 
 
 # Q:107:4
@@ -1215,14 +1219,13 @@
 
 ![[Qrsi#r77.2.x]]
 
-
 ## ركع
 
 
 # Q:7:170
 [Q.7:170](https://quran.com/7:170/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.21.1]]
+![[Qrsi#r7.21.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1235,7 +1238,7 @@
 # Q:19:58
 [Q.19:58](https://quran.com/19:58/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r19.4.x]]
+![[Qrsi#19:58]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -1244,30 +1247,36 @@
 # Q:20:130
 [Q.20:130](https://quran.com/20:130/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r20.8.x]]
+![[Qrsi#20:130]]
 
-## ~~~ سبح ii
-1st inst: [[#Q:87:1]]
+## ~~~ سبح ii غُرُوب شَمْس قَبْل
+1st inst: [[#Q:50:39]]
+
+
+## ~~~ سبح ii طُلُوع شَمْس قَبْل
+1st inst: [[#Q:50:39]]
+
+
+## سبح ءَانَآء لَيْل
 
 
 ## سبح طَرَف نَهَار
 
 
-## ~~~ ءَانَآء لَيْل
-1st inst: [[#Q:39:9]]
+## ~~~ سبح ii
+1st inst: [[#Q:87:1]]
 
 
 # Q:17:78
 [Q.17:78](https://quran.com/17:78/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r17.7.1]]
+![[Qrsi#r17.7.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
 
 
-## ~~~ صَلَوٰة
-1st inst: [[#Q:35:18]]
+## فَجْر صَلَوٰة
 
 
 ## صلو دُلُوك شَمْس
@@ -1275,18 +1284,24 @@
 
 ## صلو غَسَق لَيْل
 
-## Q:17:79
-[Q.17:79](https://quran.com/17:79/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#17:79]]
+## ~~~ صَلَوٰة
+1st inst: [[#Q:35:18]]
 
-## هجد لَيْل
+
+## فَجْر قُرْءَان
 
 
 # Q:11:114
 [Q.11:114](https://quran.com/11:114/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#r11.10.x]]
+
+## قوم iv صَلَوٰة طَرَف نَهَار
+
+
+## قوم iv صَلَوٰة زُلْفَة لَيْل
+
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1296,13 +1311,21 @@
 1st inst: [[#Q:35:18]]
 
 
-## زُلْفَة لَيْل
+# Q:30:17
+[Q.30:17](https://quran.com/30:17/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#30:17]]
+
+## سُبْحَٰن مسو iv
+
+
+## سُبْحَٰن صبح iv
 
 
 # Q:2:3
 [Q.2:3](https://quran.com/2:3/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.1.1]]
+![[Qrsi#r2.1.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1315,7 +1338,7 @@
 # Q:2:30
 [Q.2:30](https://quran.com/2:30/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.4.1]]
+![[Qrsi#r2.4.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -1333,7 +1356,7 @@
 # Q:2:43
 [Q.2:43](https://quran.com/2:43/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.5.1]]
+![[Qrsi#r2.5.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1376,7 +1399,7 @@
 # Q:2:58
 [Q.2:58](https://quran.com/2:58/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.6.1]]
+![[Qrsi#r2.6.x]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -1385,7 +1408,7 @@
 # Q:2:83
 [Q.2:83](https://quran.com/2:83/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.10.1]]
+![[Qrsi#r2.10.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1398,7 +1421,7 @@
 # Q:2:110
 [Q.2:110](https://quran.com/2:110/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.13.1]]
+![[Qrsi#r2.13.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1411,7 +1434,7 @@
 # Q:2:114
 [Q.2:114](https://quran.com/2:114/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.14.1]]
+![[Qrsi#r2.14.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -1422,14 +1445,14 @@
 
 ![[Qrsi#2:116]]
 
-## ~~~ قنت
+## ~~~ قَانِت
 1st inst: [[#Q:39:9]]
 
 
 # Q:2:125
 [Q.2:125](https://quran.com/2:125/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.15.1]]
+![[Qrsi#r2.15.x]]
 
 ## مُصَلًّى
 
@@ -1445,7 +1468,7 @@
 # Q:2:144
 [Q.2:144](https://quran.com/2:144/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.17.1]]
+![[Qrsi#r2.17.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -1454,7 +1477,7 @@
 # Q:2:149
 [Q.2:149](https://quran.com/2:149/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.18.1]]
+![[Qrsi#r2.18.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -1472,7 +1495,7 @@
 # Q:2:153
 [Q.2:153](https://quran.com/2:153/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.19.1]]
+![[Qrsi#r2.19.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1490,7 +1513,7 @@
 # Q:2:177
 [Q.2:177](https://quran.com/2:177/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.22.1]]
+![[Qrsi#r2.22.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1503,7 +1526,7 @@
 # Q:2:185
 [Q.2:185](https://quran.com/2:185/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.23.1]]
+![[Qrsi#r2.23.x]]
 
 ## ~~~ كبر ii
 1st inst: [[#Q:74:3]]
@@ -1521,7 +1544,7 @@
 # Q:2:191
 [Q.2:191](https://quran.com/2:191/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.24.1]]
+![[Qrsi#r2.24.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -1539,7 +1562,7 @@
 # Q:2:217
 [Q.2:217](https://quran.com/2:217/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.27.1]]
+![[Qrsi#r2.27.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -1548,7 +1571,10 @@
 # Q:2:238
 [Q.2:238](https://quran.com/2:238/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.31.1]]
+![[Qrsi#r2.31.x]]
+
+## وُسْطَىٰ صَلَوٰة
+
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1558,14 +1584,17 @@
 1st inst: [[#Q:73:20]]
 
 
-## ~~~ قنت
+## قوم i قَانِت
+
+
+## ~~~ قَانِت
 1st inst: [[#Q:39:9]]
 
 
 # Q:2:277
 [Q.2:277](https://quran.com/2:277/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.38.1]]
+![[Qrsi#r2.38.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1578,7 +1607,7 @@
 # Q:8:2
 [Q.8:2](https://quran.com/8:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.1.1]]
+![[Qrsi#r8.1.x]]
 
 ## ~~~ قوم <10>تلو
 1st inst: [[#Q:35:29]]
@@ -1612,16 +1641,16 @@
 # Q:3:17
 [Q.3:17](https://quran.com/3:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.2.1]]
+![[Qrsi#r3.2.x]]
 
-## ~~~ قنت
+## ~~~ قَانِت
 1st inst: [[#Q:39:9]]
 
 
 # Q:3:39
 [Q.3:39](https://quran.com/3:39/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.4.1]]
+![[Qrsi#r3.4.x]]
 
 ## ~~~ صلو
 1st inst: [[#Q:96:10]]
@@ -1639,10 +1668,9 @@
 # Q:3:43
 [Q.3:43](https://quran.com/3:43/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.5.1]]
+![[Qrsi#r3.5.x]]
 
-## ~~~ قنت
-1st inst: [[#Q:39:9]]
+## قنت
 
 
 ## ~~~ سجد
@@ -1660,14 +1688,13 @@
 # Q:3:113
 [Q.3:113](https://quran.com/3:113/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.12.1]]
+![[Qrsi#r3.12.x]]
 
 ## ~~~ قوم <10>تلو
 1st inst: [[#Q:35:29]]
 
 
-## ~~~ ءَانَآء لَيْل
-1st inst: [[#Q:39:9]]
+## تلو ءَايَة ءَانَآء لَيْل
 
 
 ## ~~~ سجد
@@ -1677,10 +1704,10 @@
 # Q:33:31
 [Q.33:31](https://quran.com/33:31/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.4.1]]
+![[Qrsi#r33.4.x]]
 
 ## ~~~ قنت
-1st inst: [[#Q:39:9]]
+1st inst: [[#Q:3:43]]
 
 
 # Q:33:33
@@ -1699,16 +1726,19 @@
 # Q:33:35
 [Q.33:35](https://quran.com/33:35/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.5.1]]
+![[Qrsi#r33.5.x]]
 
-## ~~~ قنت
+## ~~~ قَانِت
 1st inst: [[#Q:39:9]]
+
+
+## قَٰنِتَٰت
 
 
 # Q:33:42
 [Q.33:42](https://quran.com/33:42/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.6.1]]
+![[Qrsi#r33.6.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -1726,7 +1756,7 @@
 # Q:33:56
 [Q.33:56](https://quran.com/33:56/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.7.1]]
+![[Qrsi#r33.7.x]]
 
 ## ~~~ صلو
 1st inst: [[#Q:96:10]]
@@ -1735,16 +1765,16 @@
 # Q:4:34
 [Q.4:34](https://quran.com/4:34/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.6.1]]
+![[Qrsi#r4.6.x]]
 
-## ~~~ قنت
-1st inst: [[#Q:39:9]]
+## ~~~ قَٰنِتَٰت
+1st inst: [[#Q:33:35]]
 
 
 # Q:4:43
 [Q.4:43](https://quran.com/4:43/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.7.1]]
+![[Qrsi#r4.7.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1753,7 +1783,7 @@
 # Q:4:77
 [Q.4:77](https://quran.com/4:77/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.11.1]]
+![[Qrsi#r4.11.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1766,7 +1796,7 @@
 # Q:4:101
 [Q.4:101](https://quran.com/4:101/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.15.1]]
+![[Qrsi#r4.15.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1816,7 +1846,7 @@
 # Q:4:142
 [Q.4:142](https://quran.com/4:142/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.21.1]]
+![[Qrsi#r4.21.x]]
 
 ## ~~~ قوم i صَلَوٰة
 1st inst: [[#Q:73:20]]
@@ -1829,7 +1859,7 @@
 # Q:4:154
 [Q.4:154](https://quran.com/4:154/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.22.1]]
+![[Qrsi#r4.22.x]]
 
 ## ~~~ سَاجِد
 1st inst: [[#Q:38:72]]
@@ -1842,14 +1872,12 @@
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
-## ~~ مُّقِيم صَلَوٰة
-1st inst: [[#14:40]]
 
 
 # Q:57:1
 [Q.57:1](https://quran.com/57:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r57.1.1]]
+![[Qrsi#r57.1.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -1858,7 +1886,7 @@
 # Q:13:13
 [Q.13:13](https://quran.com/13:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r13.2.1]]
+![[Qrsi#r13.2.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -1876,7 +1904,7 @@
 # Q:13:22
 [Q.13:22](https://quran.com/13:22/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r13.3.1]]
+![[Qrsi#r13.3.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -1889,7 +1917,7 @@
 # Q:55:6
 [Q.55:6](https://quran.com/55:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r55.1.1]]
+![[Qrsi#r55.1.x]]
 
 ## ~~~ سجد
 1st inst: [[#Q:96:19]]
@@ -1898,7 +1926,7 @@
 # Q:76:26
 [Q.76:26](https://quran.com/76:26/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r76.2.1]]
+![[Qrsi#r76.2.x]]
 
 ## ~~~ سجد
 1st inst: [[#Q:96:19]]
@@ -1945,7 +1973,7 @@
 # Q:59:1
 [Q.59:1](https://quran.com/59:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r59.1.1]]
+![[Qrsi#r59.1.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -1954,7 +1982,7 @@
 # Q:59:24
 [Q.59:24](https://quran.com/59:24/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r59.3.1]]
+![[Qrsi#r59.3.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -1963,7 +1991,7 @@
 # Q:24:36
 [Q.24:36](https://quran.com/24:36/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r24.5.1]]
+![[Qrsi#r24.5.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -1985,7 +2013,7 @@
 # Q:24:41
 [Q.24:41](https://quran.com/24:41/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r24.6.1]]
+![[Qrsi#r24.6.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -2002,7 +2030,7 @@
 # Q:24:56
 [Q.24:56](https://quran.com/24:56/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r24.7.1]]
+![[Qrsi#r24.7.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2015,7 +2043,11 @@
 # Q:24:58
 [Q.24:58](https://quran.com/24:58/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r24.8.1]]
+![[Qrsi#r24.8.x]]
+
+## ~~~ فَجْر صَلَوٰة
+1st inst: [[#Q:17:78]]
+
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2024,7 +2056,7 @@
 # Q:22:18
 [Q.22:18](https://quran.com/22:18/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r22.2.1]]
+![[Qrsi#r22.2.x]]
 
 ## ~~~ سجد
 1st inst: [[#Q:96:19]]
@@ -2033,7 +2065,7 @@
 # Q:22:25
 [Q.22:25](https://quran.com/22:25/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r22.3.1]]
+![[Qrsi#r22.3.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -2042,7 +2074,7 @@
 # Q:22:26
 [Q.22:26](https://quran.com/22:26/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r22.4.1]]
+![[Qrsi#r22.4.x]]
 
 ## ~~~ رَاكِع
 1st inst: [[#Q:38:24]]
@@ -2055,12 +2087,10 @@
 # Q:22:35
 [Q.22:35](https://quran.com/22:35/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r22.5.1]]
+![[Qrsi#r22.5.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
-## ~~ مُّقِيم صَلَوٰة
-1st inst: [[[[#14:40]]]]
 
 
 # Q:22:37
@@ -2075,7 +2105,7 @@
 # Q:22:40
 [Q.22:40](https://quran.com/22:40/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r22.6.1]]
+![[Qrsi#r22.6.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2101,7 +2131,7 @@
 # Q:22:77
 [Q.22:77](https://quran.com/22:77/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r22.10.1]]
+![[Qrsi#r22.10.x]]
 
 ## ~~~ ركع
 1st inst: [[#Q:77:48]]
@@ -2127,7 +2157,7 @@
 # Q:58:13
 [Q.58:13](https://quran.com/58:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r58.2.1]]
+![[Qrsi#r58.2.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2140,25 +2170,25 @@
 # Q:66:5
 [Q.66:5](https://quran.com/66:5/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r66.1.1]]
+![[Qrsi#r66.1.x]]
 
-## ~~~ قنت
-1st inst: [[#Q:39:9]]
+## ~~~ قَٰنِتَٰت
+1st inst: [[#Q:33:35]]
 
 
 # Q:66:12
 [Q.66:12](https://quran.com/66:12/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r66.2.1]]
+![[Qrsi#r66.2.x]]
 
-## ~~~ قنت
+## ~~~ قَانِت
 1st inst: [[#Q:39:9]]
 
 
 # Q:64:1
 [Q.64:1](https://quran.com/64:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r64.1.1]]
+![[Qrsi#r64.1.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -2167,7 +2197,7 @@
 # Q:61:1
 [Q.61:1](https://quran.com/61:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#61:1]]
+![[Qrsi#r61.1.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -2176,7 +2206,7 @@
 # Q:62:1
 [Q.62:1](https://quran.com/62:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r62.1.1]]
+![[Qrsi#r62.1.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -2185,7 +2215,7 @@
 # Q:62:9
 [Q.62:9](https://quran.com/62:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r62.2.1]]
+![[Qrsi#r62.2.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2207,7 +2237,7 @@
 # Q:48:9
 [Q.48:9](https://quran.com/48:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r48.1.1]]
+![[Qrsi#r48.1.x]]
 
 ## ~~~ سبح ii
 1st inst: [[#Q:87:1]]
@@ -2216,7 +2246,7 @@
 # Q:48:25
 [Q.48:25](https://quran.com/48:25/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r48.3.1]]
+![[Qrsi#r48.3.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -2225,7 +2255,7 @@
 # Q:48:27
 [Q.48:27](https://quran.com/48:27/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r48.4.1]]
+![[Qrsi#r48.4.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -2251,7 +2281,7 @@
 # Q:5:2
 [Q.5:2](https://quran.com/5:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.1.1]]
+![[Qrsi#r5.1.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -2260,7 +2290,7 @@
 # Q:5:6
 [Q.5:6](https://quran.com/5:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.2.1]]
+![[Qrsi#r5.2.x]]
 
 ## ~~~ قوم i صَلَوٰة
 1st inst: [[#Q:73:20]]
@@ -2273,7 +2303,7 @@
 # Q:5:12
 [Q.5:12](https://quran.com/5:12/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.3.1]]
+![[Qrsi#r5.3.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2286,7 +2316,7 @@
 # Q:5:26
 [Q.5:26](https://quran.com/5:26/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.4.1]]
+![[Qrsi#r5.4.x]]
 
 ## ~~~ قوم <10>تلو
 1st inst: [[#Q:35:29]]
@@ -2295,7 +2325,7 @@
 # Q:5:27
 [Q.5:27](https://quran.com/5:27/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.5.1]]
+![[Qrsi#r5.5.x]]
 
 ## ~~~ قوم <10>تلو
 1st inst: [[#Q:35:29]]
@@ -2304,7 +2334,7 @@
 # Q:5:55
 [Q.5:55](https://quran.com/5:55/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.8.1]]
+![[Qrsi#r5.8.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2321,7 +2351,7 @@
 # Q:5:58
 [Q.5:58](https://quran.com/5:58/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.9.1]]
+![[Qrsi#r5.9.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2330,7 +2360,7 @@
 # Q:5:91
 [Q.5:91](https://quran.com/5:91/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.12.1]]
+![[Qrsi#r5.12.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2339,7 +2369,7 @@
 # Q:5:106
 [Q.5:106](https://quran.com/5:106/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.14.1]]
+![[Qrsi#r5.14.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2348,7 +2378,7 @@
 # Q:9:5
 [Q.9:5](https://quran.com/9:5/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.1.1]]
+![[Qrsi#r9.1.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2370,7 +2400,7 @@
 # Q:9:11
 [Q.9:11](https://quran.com/9:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.2.1]]
+![[Qrsi#r9.2.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2383,7 +2413,7 @@
 # Q:9:17
 [Q.9:17](https://quran.com/9:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.3.1]]
+![[Qrsi#r9.3.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -2418,7 +2448,7 @@
 # Q:9:28
 [Q.9:28](https://quran.com/9:28/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.4.1]]
+![[Qrsi#r9.4.x]]
 
 ## ~~~ مَسْجِد
 1st inst: [[#Q:7:29]]
@@ -2427,7 +2457,7 @@
 # Q:9:54
 [Q.9:54](https://quran.com/9:54/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.7.1]]
+![[Qrsi#r9.7.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2436,7 +2466,7 @@
 # Q:9:71
 [Q.9:71](https://quran.com/9:71/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.10.1]]
+![[Qrsi#r9.9.x]]
 
 ## ~~~ قوم iv صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2449,7 +2479,7 @@
 # Q:9:84
 [Q.9:84](https://quran.com/9:84/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.11.1]]
+![[Qrsi#r9.11.x]]
 
 ## ~~~ صلو
 1st inst: [[#Q:96:10]]
@@ -2458,7 +2488,7 @@
 # Q:9:99
 [Q.9:99](https://quran.com/9:99/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.12.1]]
+![[Qrsi#r9.12.x]]
 
 ## ~~~ صَلَوٰة
 1st inst: [[#Q:35:18]]
@@ -2467,7 +2497,7 @@
 # Q:9:103
 [Q.9:103](https://quran.com/9:103/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.13.1]]
+![[Qrsi#r9.13.x]]
 
 ## ~~~ صلو
 1st inst: [[#Q:96:10]]
@@ -2498,7 +2528,7 @@
 # Q:9:112
 [Q.9:112](https://quran.com/9:112/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.14.1]]
+![[Qrsi#r9.14.x]]
 
 ## ~~~ رَاكِع
 1st inst: [[#Q:38:24]]
