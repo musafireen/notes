@@ -43,7 +43,7 @@
 # Q:85:8
 [Q.85:8](https://quran.com/85:8/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r85.1]]
+![[Qrsi#85:8]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -52,7 +52,7 @@
 # Q:85:10
 [Q.85:10](https://quran.com/85:10/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r85.1]]
+![[Qrsi#85:10]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -64,7 +64,7 @@
 # Q:85:11
 [Q.85:11](https://quran.com/85:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r85.1]]
+![[Qrsi#85:11]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -81,7 +81,7 @@
 # Q:95:6
 [Q.95:6](https://quran.com/95:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r95.1]]
+![[Qrsi#95:6]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -206,7 +206,7 @@
 # Q:7:76
 [Q.7:76](https://quran.com/7:76/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.10.x]]
+![[Qrsi#7:76]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -224,7 +224,7 @@
 # Q:7:86
 [Q.7:86](https://quran.com/7:86/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.11.x]]
+![[Qrsi#7:86]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -233,7 +233,7 @@
 # Q:7:87
 [Q.7:87](https://quran.com/7:87/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.11.x]]
+![[Qrsi#7:87]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -242,7 +242,7 @@
 # Q:7:88
 [Q.7:88](https://quran.com/7:88/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.11.x]]
+![[Qrsi#7:88]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -263,7 +263,7 @@
 # Q:7:97
 [Q.7:97](https://quran.com/7:97/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.12.x]]
+![[Qrsi#7:97]]
 
 ## ~~~ امن iv <20>امن i
 1st inst: [[#Q:7:96]]
@@ -290,7 +290,7 @@
 # Q:7:123
 [Q.7:123](https://quran.com/7:123/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.14.x]]
+![[Qrsi#7:123]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -299,7 +299,7 @@
 # Q:7:126
 [Q.7:126](https://quran.com/7:126/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.14.x]]
+![[Qrsi#7:126]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -317,7 +317,7 @@
 # Q:7:134
 [Q.7:134](https://quran.com/7:134/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.16.x]]
+![[Qrsi#7:134]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -335,7 +335,7 @@
 # Q:7:146
 [Q.7:146](https://quran.com/7:146/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.17.x]]
+![[Qrsi#7:146]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -353,7 +353,7 @@
 # Q:7:156
 [Q.7:156](https://quran.com/7:156/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.19.x]]
+![[Qrsi#7:156]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -362,7 +362,7 @@
 # Q:7:157
 [Q.7:157](https://quran.com/7:157/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.19.x]]
+![[Qrsi#7:157]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -389,7 +389,7 @@
 # Q:7:188
 [Q.7:188](https://quran.com/7:188/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r7.23.x]]
+![[Qrsi#7:188]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -416,7 +416,7 @@
 # Q:72:13
 [Q.72:13](https://quran.com/72:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r72.1.x]]
+![[Qrsi#72:13]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -434,7 +434,7 @@
 # Q:36:10
 [Q.36:10](https://quran.com/36:10/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r36.1.x]]
+![[Qrsi#36:10]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -524,7 +524,7 @@
 # Q:20:71
 [Q.20:71](https://quran.com/20:71/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r20.3.x]]
+![[Qrsi#20:71]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -533,7 +533,7 @@
 # Q:20:73
 [Q.20:73](https://quran.com/20:73/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r20.3.x]]
+![[Qrsi#20:73]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -542,7 +542,7 @@
 # Q:20:75
 [Q.20:75](https://quran.com/20:75/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r20.3.x]]
+![[Qrsi#20:75]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -587,7 +587,7 @@
 # Q:26:8
 [Q.26:8](https://quran.com/26:8/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.1.x]]
+![[Qrsi#26:8]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -605,7 +605,7 @@
 # Q:26:49
 [Q.26:49](https://quran.com/26:49/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.3.x]]
+![[Qrsi#26:49]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -614,7 +614,7 @@
 # Q:26:51
 [Q.26:51](https://quran.com/26:51/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.3.x]]
+![[Qrsi#26:51]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -641,7 +641,7 @@
 # Q:26:103
 [Q.26:103](https://quran.com/26:103/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.5.x]]
+![[Qrsi#26:103]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -666,7 +666,7 @@
 # Q:26:111
 [Q.26:111](https://quran.com/26:111/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.6.x]]
+![[Qrsi#26:111]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -679,7 +679,7 @@
 # Q:26:114
 [Q.26:114](https://quran.com/26:114/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.6.x]]
+![[Qrsi#26:114]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -688,7 +688,7 @@
 # Q:26:118
 [Q.26:118](https://quran.com/26:118/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.6.x]]
+![[Qrsi#26:118]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -697,7 +697,7 @@
 # Q:26:121
 [Q.26:121](https://quran.com/26:121/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.6.x]]
+![[Qrsi#26:121]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -719,7 +719,7 @@
 # Q:26:139
 [Q.26:139](https://quran.com/26:139/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.7.x]]
+![[Qrsi#26:139]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -741,7 +741,7 @@
 # Q:26:158
 [Q.26:158](https://quran.com/26:158/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.8.x]]
+![[Qrsi#26:158]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -763,7 +763,7 @@
 # Q:26:174
 [Q.26:174](https://quran.com/26:174/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.9.x]]
+![[Qrsi#26:174]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -785,7 +785,7 @@
 # Q:26:190
 [Q.26:190](https://quran.com/26:190/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.10.x]]
+![[Qrsi#26:190]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -807,7 +807,7 @@
 # Q:26:199
 [Q.26:199](https://quran.com/26:199/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.11.x]]
+![[Qrsi#26:199]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -816,7 +816,7 @@
 # Q:26:201
 [Q.26:201](https://quran.com/26:201/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.11.x]]
+![[Qrsi#26:201]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -825,7 +825,7 @@
 # Q:26:215
 [Q.26:215](https://quran.com/26:215/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.11.x]]
+![[Qrsi#26:215]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -843,7 +843,7 @@
 # Q:27:4
 [Q.27:4](https://quran.com/27:4/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r27.1.x]]
+![[Qrsi#27:4]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -879,7 +879,7 @@
 # Q:27:81
 [Q.27:81](https://quran.com/27:81/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r27.6.x]]
+![[Qrsi#27:81]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -906,7 +906,7 @@
 # Q:28:10
 [Q.28:10](https://quran.com/28:10/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r28.1.x]]
+![[Qrsi#28:10]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -951,7 +951,7 @@
 # Q:17:10
 [Q.17:10](https://quran.com/17:10/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r17.1.x]]
+![[Qrsi#17:10]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -996,7 +996,7 @@
 # Q:17:93
 [Q.17:93](https://quran.com/17:93/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r17.8.x]]
+![[Qrsi#17:93]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1032,7 +1032,7 @@
 # Q:10:4
 [Q.10:4](https://quran.com/10:4/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.1.x]]
+![[Qrsi#10:4]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1041,7 +1041,7 @@
 # Q:10:9
 [Q.10:9](https://quran.com/10:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.1.x]]
+![[Qrsi#10:9]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1108,7 +1108,7 @@
 # Q:10:78
 [Q.10:78](https://quran.com/10:78/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.8.x]]
+![[Qrsi#10:78]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -1126,7 +1126,7 @@
 # Q:10:84
 [Q.10:84](https://quran.com/10:84/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.9.x]]
+![[Qrsi#10:84]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1135,7 +1135,7 @@
 # Q:10:87
 [Q.10:87](https://quran.com/10:87/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.9.x]]
+![[Qrsi#10:87]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -1144,7 +1144,7 @@
 # Q:10:88
 [Q.10:88](https://quran.com/10:88/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.9.x]]
+![[Qrsi#10:88]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1153,7 +1153,7 @@
 # Q:10:90
 [Q.10:90](https://quran.com/10:90/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.9.x]]
+![[Qrsi#10:90]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1175,7 +1175,7 @@
 # Q:10:99
 [Q.10:99](https://quran.com/10:99/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.10.x]]
+![[Qrsi#10:99]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1188,7 +1188,7 @@
 # Q:10:100
 [Q.10:100](https://quran.com/10:100/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.10.x]]
+![[Qrsi#10:100]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1197,7 +1197,7 @@
 # Q:10:101
 [Q.10:101](https://quran.com/10:101/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.10.x]]
+![[Qrsi#10:101]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1206,7 +1206,7 @@
 # Q:10:103
 [Q.10:103](https://quran.com/10:103/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.10.x]]
+![[Qrsi#10:103]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1255,7 +1255,7 @@
 # Q:11:40
 [Q.11:40](https://quran.com/11:40/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r11.4.x]]
+![[Qrsi#11:40]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1273,7 +1273,7 @@
 # Q:11:58
 [Q.11:58](https://quran.com/11:58/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r11.5.x]]
+![[Qrsi#11:58]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1300,7 +1300,7 @@
 # Q:11:94
 [Q.11:94](https://quran.com/11:94/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r11.8.x]]
+![[Qrsi#11:94]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1318,7 +1318,7 @@
 # Q:11:121
 [Q.11:121](https://quran.com/11:121/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r11.10.x]]
+![[Qrsi#11:121]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1376,7 +1376,7 @@
 # Q:12:107
 [Q.12:107](https://quran.com/12:107/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r12.12.x]]
+![[Qrsi#12:107]]
 
 ## ~~~ امن iv <20>امن i
 1st inst: [[#Q:7:96]]
@@ -1385,7 +1385,7 @@
 # Q:12:111
 [Q.12:111](https://quran.com/12:111/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r12.12.x]]
+![[Qrsi#12:111]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1439,7 +1439,7 @@
 # Q:6:27
 [Q.6:27](https://quran.com/6:27/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r6.3.x]]
+![[Qrsi#6:27]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -1477,7 +1477,7 @@
 # Q:6:82
 [Q.6:82](https://quran.com/6:82/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r6.9.x]]
+![[Qrsi#6:82]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1525,7 +1525,7 @@
 # Q:6:110
 [Q.6:110](https://quran.com/6:110/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r6.13.x]]
+![[Qrsi#6:110]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1543,7 +1543,7 @@
 # Q:6:113
 [Q.6:113](https://quran.com/6:113/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r6.14.x]]
+![[Qrsi#6:113]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1552,7 +1552,7 @@
 # Q:6:118
 [Q.6:118](https://quran.com/6:118/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r6.14.x]]
+![[Qrsi#6:118]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -1570,7 +1570,7 @@
 # Q:6:125
 [Q.6:125](https://quran.com/6:125/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r6.15.x]]
+![[Qrsi#6:125]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1628,7 +1628,7 @@
 # Q:37:111
 [Q.37:111](https://quran.com/37:111/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r37.3.x]]
+![[Qrsi#37:111]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -1646,7 +1646,7 @@
 # Q:37:132
 [Q.37:132](https://quran.com/37:132/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r37.4.x]]
+![[Qrsi#37:132]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -1682,7 +1682,7 @@
 # Q:34:8
 [Q.34:8](https://quran.com/34:8/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r34.1.x]]
+![[Qrsi#34:8]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1700,7 +1700,7 @@
 # Q:34:21
 [Q.34:21](https://quran.com/34:21/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r34.2.x]]
+![[Qrsi#34:21]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1734,7 +1734,7 @@
 # Q:34:41
 [Q.34:41](https://quran.com/34:41/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r34.5.x]]
+![[Qrsi#34:41]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -1770,7 +1770,7 @@
 # Q:39:52
 [Q.39:52](https://quran.com/39:52/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r39.4.x]]
+![[Qrsi#39:52]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1797,7 +1797,7 @@
 # Q:40:12
 [Q.40:12](https://quran.com/40:12/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r40.2.x]]
+![[Qrsi#40:12]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1815,7 +1815,7 @@
 # Q:40:27
 [Q.40:27](https://quran.com/40:27/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r40.3.x]]
+![[Qrsi#40:27]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1837,7 +1837,7 @@
 # Q:40:30
 [Q.40:30](https://quran.com/40:30/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r40.4.x]]
+![[Qrsi#40:30]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1846,7 +1846,7 @@
 # Q:40:35
 [Q.40:35](https://quran.com/40:35/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r40.4.x]]
+![[Qrsi#40:35]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1864,7 +1864,7 @@
 # Q:40:40
 [Q.40:40](https://quran.com/40:40/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r40.5.x]]
+![[Qrsi#40:40]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -1882,7 +1882,7 @@
 # Q:40:58
 [Q.40:58](https://quran.com/40:58/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r40.6.x]]
+![[Qrsi#40:58]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1891,7 +1891,7 @@
 # Q:40:59
 [Q.40:59](https://quran.com/40:59/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r40.6.x]]
+![[Qrsi#40:59]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1909,7 +1909,7 @@
 # Q:40:85
 [Q.40:85](https://quran.com/40:85/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r40.9.x]]
+![[Qrsi#40:85]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -1954,7 +1954,7 @@
 # Q:42:18
 [Q.42:18](https://quran.com/42:18/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r42.2.x]]
+![[Qrsi#42:18]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1972,7 +1972,7 @@
 # Q:42:26
 [Q.42:26](https://quran.com/42:26/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r42.3.x]]
+![[Qrsi#42:26]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -1999,7 +1999,7 @@
 # Q:42:52
 [Q.42:52](https://quran.com/42:52/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r42.5.x]]
+![[Qrsi#42:52]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -2017,7 +2017,7 @@
 # Q:43:88
 [Q.43:88](https://quran.com/43:88/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r43.7.x]]
+![[Qrsi#43:88]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2035,7 +2035,7 @@
 # Q:44:18
 [Q.44:18](https://quran.com/44:18/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r44.1.x]]
+![[Qrsi#44:18]]
 
 ## ~~~ امن iv <20>أَمِين
 1st inst: [[#Q:95:3]]
@@ -2044,7 +2044,7 @@
 # Q:44:21
 [Q.44:21](https://quran.com/44:21/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r44.1.x]]
+![[Qrsi#44:21]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2066,7 +2066,7 @@
 # Q:45:6
 [Q.45:6](https://quran.com/45:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r45.1.x]]
+![[Qrsi#45:6]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2102,7 +2102,7 @@
 # Q:46:17
 [Q.46:17](https://quran.com/46:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r46.2.x]]
+![[Qrsi#46:17]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2147,7 +2147,7 @@
 # Q:18:6
 [Q.18:6](https://quran.com/18:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r18.1.x]]
+![[Qrsi#18:6]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2174,7 +2174,7 @@
 # Q:18:30
 [Q.18:30](https://quran.com/18:30/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r18.4.x]]
+![[Qrsi#18:30]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2264,7 +2264,7 @@
 # Q:16:99
 [Q.16:99](https://quran.com/16:99/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r16.13.x]]
+![[Qrsi#16:99]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2282,7 +2282,7 @@
 # Q:16:104
 [Q.16:104](https://quran.com/16:104/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r16.14.x]]
+![[Qrsi#16:104]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2291,7 +2291,7 @@
 # Q:16:105
 [Q.16:105](https://quran.com/16:105/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r16.14.x]]
+![[Qrsi#16:105]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2300,7 +2300,7 @@
 # Q:16:106
 [Q.16:106](https://quran.com/16:106/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r16.14.x]]
+![[Qrsi#16:106]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -2340,7 +2340,7 @@
 # Q:14:27
 [Q.14:27](https://quran.com/14:27/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r14.4.x]]
+![[Qrsi#14:27]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2421,7 +2421,7 @@
 # Q:23:44
 [Q.23:44](https://quran.com/23:44/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r23.2.x]]
+![[Qrsi#23:44]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2430,7 +2430,7 @@
 # Q:23:47
 [Q.23:47](https://quran.com/23:47/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r23.2.x]]
+![[Qrsi#23:47]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2448,7 +2448,7 @@
 # Q:23:74
 [Q.23:74](https://quran.com/23:74/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r23.3.x]]
+![[Qrsi#23:74]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2542,7 +2542,7 @@
 # Q:84:25
 [Q.84:25](https://quran.com/84:25/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r84.1]]
+![[Qrsi#84:25]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2587,7 +2587,7 @@
 # Q:30:47
 [Q.30:47](https://quran.com/30:47/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r30.5.x]]
+![[Qrsi#30:47]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -2596,7 +2596,7 @@
 # Q:30:53
 [Q.30:53](https://quran.com/30:53/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r30.5.x]]
+![[Qrsi#30:53]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2632,7 +2632,7 @@
 # Q:29:26
 [Q.29:26](https://quran.com/29:26/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r29.3.x]]
+![[Qrsi#29:26]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2659,7 +2659,7 @@
 # Q:29:47
 [Q.29:47](https://quran.com/29:47/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r29.5.x]]
+![[Qrsi#29:47]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2668,7 +2668,7 @@
 # Q:29:51
 [Q.29:51](https://quran.com/29:51/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r29.5.x]]
+![[Qrsi#29:51]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2686,7 +2686,7 @@
 # Q:29:56
 [Q.29:56](https://quran.com/29:56/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r29.6.x]]
+![[Qrsi#29:56]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2695,7 +2695,7 @@
 # Q:29:58
 [Q.29:58](https://quran.com/29:58/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r29.6.x]]
+![[Qrsi#29:58]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2722,7 +2722,7 @@
 # Q:83:34
 [Q.83:34](https://quran.com/83:34/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r83.1]]
+![[Qrsi#83:34]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2749,7 +2749,7 @@
 # Q:26:227
 [Q.26:227](https://quran.com/26:227/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r26.11.x]]
+![[Qrsi#26:227]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2767,7 +2767,7 @@
 # Q:28:53
 [Q.28:53](https://quran.com/28:53/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r28.6.x]]
+![[Qrsi#28:53]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2776,7 +2776,7 @@
 # Q:10:40
 [Q.10:40](https://quran.com/10:40/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.4.x]]
+![[Qrsi#10:40]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2785,7 +2785,7 @@
 # Q:10:96
 [Q.10:96](https://quran.com/10:96/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r10.10.x]]
+![[Qrsi#10:96]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2794,7 +2794,7 @@
 # Q:11:17
 [Q.11:17](https://quran.com/11:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r11.2.x]]
+![[Qrsi#11:17]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2803,7 +2803,7 @@
 # Q:6:20
 [Q.6:20](https://quran.com/6:20/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r6.2.x]]
+![[Qrsi#6:20]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2812,7 +2812,7 @@
 # Q:42:23
 [Q.42:23](https://quran.com/42:23/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r42.3.x]]
+![[Qrsi#42:23]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2821,7 +2821,7 @@
 # Q:45:14
 [Q.45:14](https://quran.com/45:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r45.2.x]]
+![[Qrsi#45:14]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2848,7 +2848,7 @@
 # Q:32:18
 [Q.32:18](https://quran.com/32:18/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r32.2.x]]
+![[Qrsi#32:18]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -2857,7 +2857,7 @@
 # Q:32:19
 [Q.32:19](https://quran.com/32:19/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r32.2.x]]
+![[Qrsi#32:19]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2866,7 +2866,7 @@
 # Q:29:2
 [Q.29:2](https://quran.com/29:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r29.1.x]]
+![[Qrsi#29:2]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2875,7 +2875,7 @@
 # Q:29:7
 [Q.29:7](https://quran.com/29:7/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r29.1.x]]
+![[Qrsi#29:7]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2884,7 +2884,7 @@
 # Q:29:9
 [Q.29:9](https://quran.com/29:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r29.1.x]]
+![[Qrsi#29:9]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2893,7 +2893,7 @@
 # Q:29:10
 [Q.29:10](https://quran.com/29:10/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r29.1.x]]
+![[Qrsi#29:10]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2902,7 +2902,7 @@
 # Q:29:11
 [Q.29:11](https://quran.com/29:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r29.1.x]]
+![[Qrsi#29:11]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2929,7 +2929,7 @@
 # Q:2:4
 [Q.2:4](https://quran.com/2:4/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.1.x]]
+![[Qrsi#2:4]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2938,7 +2938,7 @@
 # Q:2:6
 [Q.2:6](https://quran.com/2:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.1.x]]
+![[Qrsi#2:6]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2960,7 +2960,7 @@
 # Q:2:9
 [Q.2:9](https://quran.com/2:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.2.x]]
+![[Qrsi#2:9]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2969,7 +2969,7 @@
 # Q:2:13
 [Q.2:13](https://quran.com/2:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.2.x]]
+![[Qrsi#2:13]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2978,7 +2978,7 @@
 # Q:2:14
 [Q.2:14](https://quran.com/2:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.2.x]]
+![[Qrsi#2:14]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -2996,7 +2996,7 @@
 # Q:2:26
 [Q.2:26](https://quran.com/2:26/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.3.x]]
+![[Qrsi#2:26]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3041,7 +3041,7 @@
 # Q:2:76
 [Q.2:76](https://quran.com/2:76/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.9.x]]
+![[Qrsi#2:76]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3050,7 +3050,7 @@
 # Q:2:82
 [Q.2:82](https://quran.com/2:82/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.9.x]]
+![[Qrsi#2:82]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3077,7 +3077,7 @@
 # Q:2:91
 [Q.2:91](https://quran.com/2:91/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.11.x]]
+![[Qrsi#2:91]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3090,7 +3090,7 @@
 # Q:2:93
 [Q.2:93](https://quran.com/2:93/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.11.x]]
+![[Qrsi#2:93]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -3112,7 +3112,7 @@
 # Q:2:100
 [Q.2:100](https://quran.com/2:100/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.12.x]]
+![[Qrsi#2:100]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3121,7 +3121,7 @@
 # Q:2:103
 [Q.2:103](https://quran.com/2:103/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.12.x]]
+![[Qrsi#2:103]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3139,7 +3139,7 @@
 # Q:2:108
 [Q.2:108](https://quran.com/2:108/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.13.x]]
+![[Qrsi#2:108]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -3148,7 +3148,7 @@
 # Q:2:109
 [Q.2:109](https://quran.com/2:109/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.13.x]]
+![[Qrsi#2:109]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -3184,7 +3184,7 @@
 # Q:2:137
 [Q.2:137](https://quran.com/2:137/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.16.x]]
+![[Qrsi#2:137]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3238,7 +3238,7 @@
 # Q:2:178
 [Q.2:178](https://quran.com/2:178/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.22.x]]
+![[Qrsi#2:178]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3256,7 +3256,7 @@
 # Q:2:186
 [Q.2:186](https://quran.com/2:186/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.23.x]]
+![[Qrsi#2:186]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3283,7 +3283,7 @@
 # Q:2:213
 [Q.2:213](https://quran.com/2:213/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.26.x]]
+![[Qrsi#2:213]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3292,7 +3292,7 @@
 # Q:2:214
 [Q.2:214](https://quran.com/2:214/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.26.x]]
+![[Qrsi#2:214]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3310,7 +3310,7 @@
 # Q:2:221
 [Q.2:221](https://quran.com/2:221/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.27.x]]
+![[Qrsi#2:221]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3335,7 +3335,7 @@
 # Q:2:228
 [Q.2:228](https://quran.com/2:228/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.28.x]]
+![[Qrsi#2:228]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3371,7 +3371,7 @@
 # Q:2:253
 [Q.2:253](https://quran.com/2:253/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.33.x]]
+![[Qrsi#2:253]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3389,7 +3389,7 @@
 # Q:2:256
 [Q.2:256](https://quran.com/2:256/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.34.x]]
+![[Qrsi#2:256]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3398,7 +3398,7 @@
 # Q:2:257
 [Q.2:257](https://quran.com/2:257/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.34.x]]
+![[Qrsi#2:257]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3443,7 +3443,7 @@
 # Q:2:278
 [Q.2:278](https://quran.com/2:278/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r2.38.x]]
+![[Qrsi#2:278]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3487,7 +3487,7 @@
 # Q:8:2
 [Q.8:2](https://quran.com/8:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.1.x]]
+![[Qrsi#8:2]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -3500,7 +3500,7 @@
 # Q:8:4
 [Q.8:4](https://quran.com/8:4/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.1.x]]
+![[Qrsi#8:4]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -3509,7 +3509,7 @@
 # Q:8:5
 [Q.8:5](https://quran.com/8:5/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.1.x]]
+![[Qrsi#8:5]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -3527,7 +3527,7 @@
 # Q:8:15
 [Q.8:15](https://quran.com/8:15/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.2.x]]
+![[Qrsi#8:15]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3536,7 +3536,7 @@
 # Q:8:17
 [Q.8:17](https://quran.com/8:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.2.x]]
+![[Qrsi#8:17]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -3545,7 +3545,7 @@
 # Q:8:19
 [Q.8:19](https://quran.com/8:19/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.2.x]]
+![[Qrsi#8:19]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -3563,7 +3563,7 @@
 # Q:8:24
 [Q.8:24](https://quran.com/8:24/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.3.x]]
+![[Qrsi#8:24]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3572,7 +3572,7 @@
 # Q:8:27
 [Q.8:27](https://quran.com/8:27/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.3.x]]
+![[Qrsi#8:27]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3633,7 +3633,7 @@
 # Q:8:64
 [Q.8:64](https://quran.com/8:64/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.8.x]]
+![[Qrsi#8:64]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -3660,7 +3660,7 @@
 # Q:8:74
 [Q.8:74](https://quran.com/8:74/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.10.x]]
+![[Qrsi#8:74]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3673,7 +3673,7 @@
 # Q:8:75
 [Q.8:75](https://quran.com/8:75/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r8.10.x]]
+![[Qrsi#8:75]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3718,7 +3718,7 @@
 # Q:3:52
 [Q.3:52](https://quran.com/3:52/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.5.x]]
+![[Qrsi#3:52]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3727,7 +3727,7 @@
 # Q:3:53
 [Q.3:53](https://quran.com/3:53/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.5.x]]
+![[Qrsi#3:53]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3767,7 +3767,7 @@
 # Q:3:73
 [Q.3:73](https://quran.com/3:73/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.8.x]]
+![[Qrsi#3:73]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3785,7 +3785,7 @@
 # Q:3:84
 [Q.3:84](https://quran.com/3:84/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.9.x]]
+![[Qrsi#3:84]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3794,7 +3794,7 @@
 # Q:3:86
 [Q.3:86](https://quran.com/3:86/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.9.x]]
+![[Qrsi#3:86]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -3803,7 +3803,7 @@
 # Q:3:90
 [Q.3:90](https://quran.com/3:90/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.9.x]]
+![[Qrsi#3:90]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -3821,7 +3821,7 @@
 # Q:3:100
 [Q.3:100](https://quran.com/3:100/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.10.x]]
+![[Qrsi#3:100]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3843,7 +3843,7 @@
 # Q:3:106
 [Q.3:106](https://quran.com/3:106/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.11.x]]
+![[Qrsi#3:106]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -3865,7 +3865,7 @@
 # Q:3:114
 [Q.3:114](https://quran.com/3:114/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.12.x]]
+![[Qrsi#3:114]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3874,7 +3874,7 @@
 # Q:3:118
 [Q.3:118](https://quran.com/3:118/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.12.x]]
+![[Qrsi#3:118]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3883,7 +3883,7 @@
 # Q:3:119
 [Q.3:119](https://quran.com/3:119/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.12.x]]
+![[Qrsi#3:119]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3901,7 +3901,7 @@
 # Q:3:122
 [Q.3:122](https://quran.com/3:122/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.13.x]]
+![[Qrsi#3:122]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -3910,7 +3910,7 @@
 # Q:3:124
 [Q.3:124](https://quran.com/3:124/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.13.x]]
+![[Qrsi#3:124]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -3928,7 +3928,7 @@
 # Q:3:139
 [Q.3:139](https://quran.com/3:139/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.14.x]]
+![[Qrsi#3:139]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -3937,7 +3937,7 @@
 # Q:3:140
 [Q.3:140](https://quran.com/3:140/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.14.x]]
+![[Qrsi#3:140]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3946,7 +3946,7 @@
 # Q:3:141
 [Q.3:141](https://quran.com/3:141/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.14.x]]
+![[Qrsi#3:141]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -3964,7 +3964,7 @@
 # Q:3:152
 [Q.3:152](https://quran.com/3:152/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.16.x]]
+![[Qrsi#3:152]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -3982,7 +3982,7 @@
 # Q:3:160
 [Q.3:160](https://quran.com/3:160/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.17.x]]
+![[Qrsi#3:160]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -3991,7 +3991,7 @@
 # Q:3:164
 [Q.3:164](https://quran.com/3:164/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.17.x]]
+![[Qrsi#3:164]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4000,7 +4000,7 @@
 # Q:3:166
 [Q.3:166](https://quran.com/3:166/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.17.x]]
+![[Qrsi#3:166]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4009,7 +4009,7 @@
 # Q:3:167
 [Q.3:167](https://quran.com/3:167/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.17.x]]
+![[Qrsi#3:167]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -4018,7 +4018,7 @@
 # Q:3:171
 [Q.3:171](https://quran.com/3:171/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.17.x]]
+![[Qrsi#3:171]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4036,7 +4036,7 @@
 # Q:3:175
 [Q.3:175](https://quran.com/3:175/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.18.x]]
+![[Qrsi#3:175]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4045,7 +4045,7 @@
 # Q:3:177
 [Q.3:177](https://quran.com/3:177/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.18.x]]
+![[Qrsi#3:177]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -4054,7 +4054,7 @@
 # Q:3:179
 [Q.3:179](https://quran.com/3:179/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.18.x]]
+![[Qrsi#3:179]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4089,7 +4089,7 @@
 # Q:3:199
 [Q.3:199](https://quran.com/3:199/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.20.x]]
+![[Qrsi#3:199]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4098,7 +4098,7 @@
 # Q:3:200
 [Q.3:200](https://quran.com/3:200/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r3.20.x]]
+![[Qrsi#3:200]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4125,7 +4125,7 @@
 # Q:33:11
 [Q.33:11](https://quran.com/33:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.2.x]]
+![[Qrsi#33:11]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4134,7 +4134,7 @@
 # Q:33:19
 [Q.33:19](https://quran.com/33:19/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.2.x]]
+![[Qrsi#33:19]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4156,7 +4156,7 @@
 # Q:33:23
 [Q.33:23](https://quran.com/33:23/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.3.x]]
+![[Qrsi#33:23]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4165,7 +4165,7 @@
 # Q:33:25
 [Q.33:25](https://quran.com/33:25/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.3.x]]
+![[Qrsi#33:25]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4187,7 +4187,7 @@
 # Q:33:36
 [Q.33:36](https://quran.com/33:36/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.5.x]]
+![[Qrsi#33:36]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4200,7 +4200,7 @@
 # Q:33:37
 [Q.33:37](https://quran.com/33:37/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.5.x]]
+![[Qrsi#33:37]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4218,7 +4218,7 @@
 # Q:33:43
 [Q.33:43](https://quran.com/33:43/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.6.x]]
+![[Qrsi#33:43]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4227,7 +4227,7 @@
 # Q:33:47
 [Q.33:47](https://quran.com/33:47/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.6.x]]
+![[Qrsi#33:47]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4236,7 +4236,7 @@
 # Q:33:49
 [Q.33:49](https://quran.com/33:49/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.6.x]]
+![[Qrsi#33:49]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4249,7 +4249,7 @@
 # Q:33:50
 [Q.33:50](https://quran.com/33:50/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.6.x]]
+![[Qrsi#33:50]]
 
 ## ~~~ مُّؤْمِنَة
 1st inst: [[#Q:2:221]]
@@ -4271,7 +4271,7 @@
 # Q:33:56
 [Q.33:56](https://quran.com/33:56/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.7.x]]
+![[Qrsi#33:56]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4280,7 +4280,7 @@
 # Q:33:58
 [Q.33:58](https://quran.com/33:58/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.7.x]]
+![[Qrsi#33:58]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4311,7 +4311,7 @@
 # Q:33:70
 [Q.33:70](https://quran.com/33:70/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.9.x]]
+![[Qrsi#33:70]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4320,7 +4320,7 @@
 # Q:33:73
 [Q.33:73](https://quran.com/33:73/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r33.9.x]]
+![[Qrsi#33:73]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4342,7 +4342,7 @@
 # Q:60:4
 [Q.60:4](https://quran.com/60:4/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r60.1.x]]
+![[Qrsi#60:4]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4368,7 +4368,7 @@
 # Q:60:11
 [Q.60:11](https://quran.com/60:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r60.2.x]]
+![[Qrsi#60:11]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4377,7 +4377,7 @@
 # Q:60:12
 [Q.60:12](https://quran.com/60:12/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r60.2.x]]
+![[Qrsi#60:12]]
 
 ## ~~~ مُّؤْمِنَٰت
 1st inst: [[#Q:85:10]]
@@ -4386,7 +4386,7 @@
 # Q:60:13
 [Q.60:13](https://quran.com/60:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r60.2.x]]
+![[Qrsi#60:13]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4435,7 +4435,7 @@
 # Q:4:39
 [Q.4:39](https://quran.com/4:39/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.6.x]]
+![[Qrsi#4:39]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4453,7 +4453,7 @@
 # Q:4:46
 [Q.4:46](https://quran.com/4:46/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.7.x]]
+![[Qrsi#4:46]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4462,7 +4462,7 @@
 # Q:4:47
 [Q.4:47](https://quran.com/4:47/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.7.x]]
+![[Qrsi#4:47]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4480,7 +4480,7 @@
 # Q:4:55
 [Q.4:55](https://quran.com/4:55/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.8.x]]
+![[Qrsi#4:55]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4498,7 +4498,7 @@
 # Q:4:59
 [Q.4:59](https://quran.com/4:59/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.9.x]]
+![[Qrsi#4:59]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4507,7 +4507,7 @@
 # Q:4:60
 [Q.4:60](https://quran.com/4:60/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.9.x]]
+![[Qrsi#4:60]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4516,7 +4516,7 @@
 # Q:4:65
 [Q.4:65](https://quran.com/4:65/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.9.x]]
+![[Qrsi#4:65]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4534,7 +4534,7 @@
 # Q:4:76
 [Q.4:76](https://quran.com/4:76/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.10.x]]
+![[Qrsi#4:76]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4565,7 +4565,7 @@
 # Q:4:93
 [Q.4:93](https://quran.com/4:93/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.13.x]]
+![[Qrsi#4:93]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4574,7 +4574,7 @@
 # Q:4:94
 [Q.4:94](https://quran.com/4:94/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.13.x]]
+![[Qrsi#4:94]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4587,7 +4587,7 @@
 # Q:4:95
 [Q.4:95](https://quran.com/4:95/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.13.x]]
+![[Qrsi#4:95]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4623,7 +4623,7 @@
 # Q:4:124
 [Q.4:124](https://quran.com/4:124/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.18.x]]
+![[Qrsi#4:124]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4641,7 +4641,7 @@
 # Q:4:136
 [Q.4:136](https://quran.com/4:136/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.20.x]]
+![[Qrsi#4:136]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4650,7 +4650,7 @@
 # Q:4:137
 [Q.4:137](https://quran.com/4:137/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.20.x]]
+![[Qrsi#4:137]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4659,7 +4659,7 @@
 # Q:4:139
 [Q.4:139](https://quran.com/4:139/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.20.x]]
+![[Qrsi#4:139]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4668,7 +4668,7 @@
 # Q:4:141
 [Q.4:141](https://quran.com/4:141/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.20.x]]
+![[Qrsi#4:141]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4690,7 +4690,7 @@
 # Q:4:146
 [Q.4:146](https://quran.com/4:146/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.21.x]]
+![[Qrsi#4:146]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4699,7 +4699,7 @@
 # Q:4:147
 [Q.4:147](https://quran.com/4:147/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.21.x]]
+![[Qrsi#4:147]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4708,7 +4708,7 @@
 # Q:4:150
 [Q.4:150](https://quran.com/4:150/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.21.x]]
+![[Qrsi#4:150]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4717,7 +4717,7 @@
 # Q:4:152
 [Q.4:152](https://quran.com/4:152/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.21.x]]
+![[Qrsi#4:152]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4735,7 +4735,7 @@
 # Q:4:159
 [Q.4:159](https://quran.com/4:159/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.22.x]]
+![[Qrsi#4:159]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4744,7 +4744,7 @@
 # Q:4:162
 [Q.4:162](https://quran.com/4:162/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.22.x]]
+![[Qrsi#4:162]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4766,7 +4766,7 @@
 # Q:4:171
 [Q.4:171](https://quran.com/4:171/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.23.x]]
+![[Qrsi#4:171]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4784,7 +4784,7 @@
 # Q:4:175
 [Q.4:175](https://quran.com/4:175/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r4.24.x]]
+![[Qrsi#4:175]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4802,7 +4802,7 @@
 # Q:57:8
 [Q.57:8](https://quran.com/57:8/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r57.1.x]]
+![[Qrsi#57:8]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4828,7 +4828,7 @@
 # Q:57:13
 [Q.57:13](https://quran.com/57:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r57.2.x]]
+![[Qrsi#57:13]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4837,7 +4837,7 @@
 # Q:57:16
 [Q.57:16](https://quran.com/57:16/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r57.2.x]]
+![[Qrsi#57:16]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4846,7 +4846,7 @@
 # Q:57:19
 [Q.57:19](https://quran.com/57:19/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r57.2.x]]
+![[Qrsi#57:19]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4873,7 +4873,7 @@
 # Q:57:28
 [Q.57:28](https://quran.com/57:28/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r57.4.x]]
+![[Qrsi#57:28]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4891,7 +4891,7 @@
 # Q:47:3
 [Q.47:3](https://quran.com/47:3/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r47.1.x]]
+![[Qrsi#47:3]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4900,7 +4900,7 @@
 # Q:47:7
 [Q.47:7](https://quran.com/47:7/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r47.1.x]]
+![[Qrsi#47:7]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4909,7 +4909,7 @@
 # Q:47:11
 [Q.47:11](https://quran.com/47:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r47.1.x]]
+![[Qrsi#47:11]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4927,7 +4927,7 @@
 # Q:47:19
 [Q.47:19](https://quran.com/47:19/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r47.2.x]]
+![[Qrsi#47:19]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -4958,7 +4958,7 @@
 # Q:47:36
 [Q.47:36](https://quran.com/47:36/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r47.4.x]]
+![[Qrsi#47:36]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4985,7 +4985,7 @@
 # Q:13:29
 [Q.13:29](https://quran.com/13:29/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r13.4.x]]
+![[Qrsi#13:29]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -4994,7 +4994,7 @@
 # Q:13:31
 [Q.13:31](https://quran.com/13:31/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r13.4.x]]
+![[Qrsi#13:31]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5021,7 +5021,7 @@
 # Q:65:11
 [Q.65:11](https://quran.com/65:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r65.2.x]]
+![[Qrsi#65:11]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5048,7 +5048,7 @@
 # Q:59:9
 [Q.59:9](https://quran.com/59:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r59.1.x]]
+![[Qrsi#59:9]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -5057,7 +5057,7 @@
 # Q:59:10
 [Q.59:10](https://quran.com/59:10/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r59.1.x]]
+![[Qrsi#59:10]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -5079,7 +5079,7 @@
 # Q:59:23
 [Q.59:23](https://quran.com/59:23/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r59.3.x]]
+![[Qrsi#59:23]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5101,7 +5101,7 @@
 # Q:24:3
 [Q.24:3](https://quran.com/24:3/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r24.1.x]]
+![[Qrsi#24:3]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5123,7 +5123,7 @@
 # Q:24:17
 [Q.24:17](https://quran.com/24:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r24.2.x]]
+![[Qrsi#24:17]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5132,7 +5132,7 @@
 # Q:24:19
 [Q.24:19](https://quran.com/24:19/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r24.2.x]]
+![[Qrsi#24:19]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5150,7 +5150,7 @@
 # Q:24:23
 [Q.24:23](https://quran.com/24:23/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r24.3.x]]
+![[Qrsi#24:23]]
 
 ## ~~~ مُّؤْمِنَٰت
 1st inst: [[#Q:85:10]]
@@ -5168,7 +5168,7 @@
 # Q:24:30
 [Q.24:30](https://quran.com/24:30/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r24.4.x]]
+![[Qrsi#24:30]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5177,7 +5177,7 @@
 # Q:24:31
 [Q.24:31](https://quran.com/24:31/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r24.4.x]]
+![[Qrsi#24:31]]
 
 ## ~~~ مُّؤْمِنَٰت
 1st inst: [[#Q:85:10]]
@@ -5212,7 +5212,7 @@
 # Q:24:55
 [Q.24:55](https://quran.com/24:55/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r24.7.x]]
+![[Qrsi#24:55]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5252,7 +5252,7 @@
 # Q:22:17
 [Q.22:17](https://quran.com/22:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r22.2.x]]
+![[Qrsi#22:17]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5279,7 +5279,7 @@
 # Q:22:50
 [Q.22:50](https://quran.com/22:50/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r22.7.x]]
+![[Qrsi#22:50]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5288,7 +5288,7 @@
 # Q:22:56
 [Q.22:56](https://quran.com/22:56/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r22.7.x]]
+![[Qrsi#22:56]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5315,7 +5315,7 @@
 # Q:63:8
 [Q.63:8](https://quran.com/63:8/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r63.1]]
+![[Qrsi#63:8]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5324,7 +5324,7 @@
 # Q:63:9
 [Q.63:9](https://quran.com/63:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r63.1]]
+![[Qrsi#63:9]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5351,7 +5351,7 @@
 # Q:58:10
 [Q.58:10](https://quran.com/58:10/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r58.2.x]]
+![[Qrsi#58:10]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5364,7 +5364,7 @@
 # Q:58:11
 [Q.58:11](https://quran.com/58:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r58.2.x]]
+![[Qrsi#58:11]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5373,7 +5373,7 @@
 # Q:58:12
 [Q.58:12](https://quran.com/58:12/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r58.2.x]]
+![[Qrsi#58:12]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5404,7 +5404,7 @@
 # Q:49:2
 [Q.49:2](https://quran.com/49:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r49.1.x]]
+![[Qrsi#49:2]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5413,7 +5413,7 @@
 # Q:49:6
 [Q.49:6](https://quran.com/49:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r49.1.x]]
+![[Qrsi#49:6]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5422,7 +5422,7 @@
 # Q:49:7
 [Q.49:7](https://quran.com/49:7/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r49.1.x]]
+![[Qrsi#49:7]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -5431,7 +5431,7 @@
 # Q:49:9
 [Q.49:9](https://quran.com/49:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r49.1.x]]
+![[Qrsi#49:9]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5440,7 +5440,7 @@
 # Q:49:10
 [Q.49:10](https://quran.com/49:10/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r49.1.x]]
+![[Qrsi#49:10]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5462,7 +5462,7 @@
 # Q:49:12
 [Q.49:12](https://quran.com/49:12/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r49.2.x]]
+![[Qrsi#49:12]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5471,7 +5471,7 @@
 # Q:49:14
 [Q.49:14](https://quran.com/49:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r49.2.x]]
+![[Qrsi#49:14]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5484,7 +5484,7 @@
 # Q:49:15
 [Q.49:15](https://quran.com/49:15/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r49.2.x]]
+![[Qrsi#49:15]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5497,7 +5497,7 @@
 # Q:49:17
 [Q.49:17](https://quran.com/49:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r49.2.x]]
+![[Qrsi#49:17]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -5515,7 +5515,7 @@
 # Q:66:5
 [Q.66:5](https://quran.com/66:5/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r66.1.x]]
+![[Qrsi#66:5]]
 
 ## ~~~ مُّؤْمِنَٰت
 1st inst: [[#Q:85:10]]
@@ -5524,7 +5524,7 @@
 # Q:66:6
 [Q.66:6](https://quran.com/66:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r66.1.x]]
+![[Qrsi#66:6]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5542,7 +5542,7 @@
 # Q:66:11
 [Q.66:11](https://quran.com/66:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r66.2.x]]
+![[Qrsi#66:11]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5560,7 +5560,7 @@
 # Q:64:8
 [Q.64:8](https://quran.com/64:8/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r64.1.x]]
+![[Qrsi#64:8]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5569,7 +5569,7 @@
 # Q:64:9
 [Q.64:9](https://quran.com/64:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r64.1.x]]
+![[Qrsi#64:9]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5587,7 +5587,7 @@
 # Q:64:13
 [Q.64:13](https://quran.com/64:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r64.2.x]]
+![[Qrsi#64:13]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5596,7 +5596,7 @@
 # Q:64:14
 [Q.64:14](https://quran.com/64:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r64.2.x]]
+![[Qrsi#64:14]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5623,7 +5623,7 @@
 # Q:61:11
 [Q.61:11](https://quran.com/61:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r61.2.x]]
+![[Qrsi#61:11]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5632,7 +5632,7 @@
 # Q:61:13
 [Q.61:13](https://quran.com/61:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r61.2.x]]
+![[Qrsi#61:13]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5641,7 +5641,7 @@
 # Q:61:14
 [Q.61:14](https://quran.com/61:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r61.2.x]]
+![[Qrsi#61:14]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5672,7 +5672,7 @@
 # Q:48:5
 [Q.48:5](https://quran.com/48:5/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r48.1.x]]
+![[Qrsi#48:5]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5685,7 +5685,7 @@
 # Q:48:9
 [Q.48:9](https://quran.com/48:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r48.1.x]]
+![[Qrsi#48:9]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5703,7 +5703,7 @@
 # Q:48:13
 [Q.48:13](https://quran.com/48:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r48.2.x]]
+![[Qrsi#48:13]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5721,7 +5721,7 @@
 # Q:48:20
 [Q.48:20](https://quran.com/48:20/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r48.3.x]]
+![[Qrsi#48:20]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5730,7 +5730,7 @@
 # Q:48:25
 [Q.48:25](https://quran.com/48:25/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r48.3.x]]
+![[Qrsi#48:25]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5743,7 +5743,7 @@
 # Q:48:26
 [Q.48:26](https://quran.com/48:26/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r48.3.x]]
+![[Qrsi#48:26]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5770,7 +5770,7 @@
 # Q:5:2
 [Q.5:2](https://quran.com/5:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.1.x]]
+![[Qrsi#5:2]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5779,7 +5779,7 @@
 # Q:5:5
 [Q.5:5](https://quran.com/5:5/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.1.x]]
+![[Qrsi#5:5]]
 
 ## ~~~ مُّؤْمِنَٰت
 1st inst: [[#Q:85:10]]
@@ -5801,7 +5801,7 @@
 # Q:5:8
 [Q.5:8](https://quran.com/5:8/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.2.x]]
+![[Qrsi#5:8]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5810,7 +5810,7 @@
 # Q:5:9
 [Q.5:9](https://quran.com/5:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.2.x]]
+![[Qrsi#5:9]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5819,7 +5819,7 @@
 # Q:5:11
 [Q.5:11](https://quran.com/5:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.2.x]]
+![[Qrsi#5:11]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5859,7 +5859,7 @@
 # Q:5:41
 [Q.5:41](https://quran.com/5:41/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.6.x]]
+![[Qrsi#5:41]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5868,7 +5868,7 @@
 # Q:5:43
 [Q.5:43](https://quran.com/5:43/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.6.x]]
+![[Qrsi#5:43]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -5886,7 +5886,7 @@
 # Q:5:53
 [Q.5:53](https://quran.com/5:53/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.8.x]]
+![[Qrsi#5:53]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5895,7 +5895,7 @@
 # Q:5:54
 [Q.5:54](https://quran.com/5:54/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.8.x]]
+![[Qrsi#5:54]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5908,7 +5908,7 @@
 # Q:5:55
 [Q.5:55](https://quran.com/5:55/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.8.x]]
+![[Qrsi#5:55]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5917,7 +5917,7 @@
 # Q:5:56
 [Q.5:56](https://quran.com/5:56/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.8.x]]
+![[Qrsi#5:56]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5939,7 +5939,7 @@
 # Q:5:59
 [Q.5:59](https://quran.com/5:59/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.9.x]]
+![[Qrsi#5:59]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5948,7 +5948,7 @@
 # Q:5:61
 [Q.5:61](https://quran.com/5:61/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.9.x]]
+![[Qrsi#5:61]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5957,7 +5957,7 @@
 # Q:5:65
 [Q.5:65](https://quran.com/5:65/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.9.x]]
+![[Qrsi#5:65]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5984,7 +5984,7 @@
 # Q:5:82
 [Q.5:82](https://quran.com/5:82/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.11.x]]
+![[Qrsi#5:82]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -5993,7 +5993,7 @@
 # Q:5:83
 [Q.5:83](https://quran.com/5:83/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.11.x]]
+![[Qrsi#5:83]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6002,7 +6002,7 @@
 # Q:5:84
 [Q.5:84](https://quran.com/5:84/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.11.x]]
+![[Qrsi#5:84]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6020,7 +6020,7 @@
 # Q:5:88
 [Q.5:88](https://quran.com/5:88/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.12.x]]
+![[Qrsi#5:88]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -6029,7 +6029,7 @@
 # Q:5:90
 [Q.5:90](https://quran.com/5:90/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.12.x]]
+![[Qrsi#5:90]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6038,7 +6038,7 @@
 # Q:5:93
 [Q.5:93](https://quran.com/5:93/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.12.x]]
+![[Qrsi#5:93]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6047,7 +6047,7 @@
 # Q:5:94
 [Q.5:94](https://quran.com/5:94/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.12.x]]
+![[Qrsi#5:94]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6056,7 +6056,7 @@
 # Q:5:95
 [Q.5:95](https://quran.com/5:95/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.12.x]]
+![[Qrsi#5:95]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6074,7 +6074,7 @@
 # Q:5:105
 [Q.5:105](https://quran.com/5:105/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.14.x]]
+![[Qrsi#5:105]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6083,7 +6083,7 @@
 # Q:5:106
 [Q.5:106](https://quran.com/5:106/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.14.x]]
+![[Qrsi#5:106]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6101,7 +6101,7 @@
 # Q:5:112
 [Q.5:112](https://quran.com/5:112/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r5.15.x]]
+![[Qrsi#5:112]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -6128,7 +6128,7 @@
 # Q:9:14
 [Q.9:14](https://quran.com/9:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.2.x]]
+![[Qrsi#9:14]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -6137,7 +6137,7 @@
 # Q:9:16
 [Q.9:16](https://quran.com/9:16/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.2.x]]
+![[Qrsi#9:16]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -6155,7 +6155,7 @@
 # Q:9:19
 [Q.9:19](https://quran.com/9:19/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.3.x]]
+![[Qrsi#9:19]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6164,7 +6164,7 @@
 # Q:9:20
 [Q.9:20](https://quran.com/9:20/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.3.x]]
+![[Qrsi#9:20]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6173,7 +6173,7 @@
 # Q:9:23
 [Q.9:23](https://quran.com/9:23/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.3.x]]
+![[Qrsi#9:23]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6195,7 +6195,7 @@
 # Q:9:28
 [Q.9:28](https://quran.com/9:28/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.4.x]]
+![[Qrsi#9:28]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6204,7 +6204,7 @@
 # Q:9:29
 [Q.9:29](https://quran.com/9:29/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.4.x]]
+![[Qrsi#9:29]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6240,7 +6240,7 @@
 # Q:9:45
 [Q.9:45](https://quran.com/9:45/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.7.x]]
+![[Qrsi#9:45]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6249,7 +6249,7 @@
 # Q:9:51
 [Q.9:51](https://quran.com/9:51/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.7.x]]
+![[Qrsi#9:51]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -6271,7 +6271,7 @@
 # Q:9:62
 [Q.9:62](https://quran.com/9:62/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.8.x]]
+![[Qrsi#9:62]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -6280,7 +6280,7 @@
 # Q:9:66
 [Q.9:66](https://quran.com/9:66/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.8.x]]
+![[Qrsi#9:66]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
@@ -6302,7 +6302,7 @@
 # Q:9:72
 [Q.9:72](https://quran.com/9:72/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.9.x]]
+![[Qrsi#9:72]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -6333,7 +6333,7 @@
 # Q:9:88
 [Q.9:88](https://quran.com/9:88/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.11.x]]
+![[Qrsi#9:88]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6351,7 +6351,7 @@
 # Q:9:99
 [Q.9:99](https://quran.com/9:99/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.12.x]]
+![[Qrsi#9:99]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6369,7 +6369,7 @@
 # Q:9:107
 [Q.9:107](https://quran.com/9:107/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.13.x]]
+![[Qrsi#9:107]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -6387,7 +6387,7 @@
 # Q:9:112
 [Q.9:112](https://quran.com/9:112/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.14.x]]
+![[Qrsi#9:112]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -6396,7 +6396,7 @@
 # Q:9:113
 [Q.9:113](https://quran.com/9:113/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.14.x]]
+![[Qrsi#9:113]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6414,7 +6414,7 @@
 # Q:9:122
 [Q.9:122](https://quran.com/9:122/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.15.x]]
+![[Qrsi#9:122]]
 
 ## ~~~ مُؤْمِن
 1st inst: [[#Q:74:31]]
@@ -6423,7 +6423,7 @@
 # Q:9:123
 [Q.9:123](https://quran.com/9:123/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.16.x]]
+![[Qrsi#9:123]]
 
 ## ~~~ امن iv
 1st inst: [[#Q:74:31]]
@@ -6432,7 +6432,7 @@
 # Q:9:124
 [Q.9:124](https://quran.com/9:124/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r9.16.x]]
+![[Qrsi#9:124]]
 
 ## ~~~ إِيمَٰن iv
 1st inst: [[#Q:74:31]]
