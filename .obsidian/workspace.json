@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/islam/Iman/Iman.md",
+                "file": "nature_archaeology/species.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bmvP",
+                "query": "species",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_quran/islam/Iman/Iman.md",
+                "file": "nature_archaeology/species.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_quran/islam/Iman/Iman.md",
+                "file": "nature_archaeology/species.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002_quran/islam/Iman/Iman.md"
+                "file": "nature_archaeology/species.md"
               }
             }
           }
@@ -214,6 +214,14 @@
   },
   "active": "5b61b129eebffdee",
   "lastOpenFiles": [
+    "002_quran/ahl_kitab/ahl_kitab.md",
+    "002_quran/ahl_kitab/ahl_kitab2.md",
+    "002_quran/ahl_kitab/hwd_yahudi_israel.md",
+    "002_quran/haram/ka'bah_hajj_qurbani.md",
+    "002_quran/kfr/hwy_znn_zEm_fry_kdhb.md",
+    "002_quran/kfr/shirk/shirk4.md",
+    "002_quran/kfr/shirk/shirk.md",
+    "002_quran/islam/Iman/Iman.md",
     "Ref/bmvP.md",
     "Ref/~syncthing~bmvP.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah2.md",
@@ -241,17 +249,9 @@
     "Ref/haft.azilla/h.a.14.md",
     "Ref/haft.azilla/h.a.13.md",
     "Ref/haft.azilla/h.a.12.md",
-    "Ref/haft.azilla/h.a.2.md",
-    "Ref/Qrsi.sync-conflict-20250112-235541-AFLIAW3.md",
     "Ref/~syncthing~Qrsi.sync-conflict-20250112-235541-AFLIAW3.md.tmp",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.png",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jann_nahash_asclepius.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/jinn/jann.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.png",
-    "Ref/bn.rushd.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/hikmah/hikma.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/qarya/Qarya.md",
     "Ref/Pasted image 20241128002518.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

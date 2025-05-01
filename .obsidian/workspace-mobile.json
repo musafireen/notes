@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.apcr.eth.md",
+                "file": "Ref/bbl.tor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bbl.apcr.eth"
+              "title": "bbl.tor"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/islam/iman_islam.md",
+                "file": "Demus/Free will/No free will in quran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "iman_islam"
+              "title": "No free will in quran"
             }
           },
           {
@@ -280,7 +280,7 @@
               "type": "markdown",
               "state": {
                 "file": "nature_archaeology/species.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -302,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -330,7 +330,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "arimath",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -397,7 +397,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "002_quran/islam/iman_islam.md",
+            "file": "Ref/bbl.tor.md",
             "followCursor": true,
             "showSearch": true,
             "searchQuery": ""
@@ -415,10 +415,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "00adfa2219d80aac",
+  "active": "320c7906b9921e20",
   "lastOpenFiles": [
-    "002_quran/islam/Iman/Iman.md",
+    "Ref/bbl.apcr.eth.md",
+    "nature_archaeology/species.md",
+    "Demus/Free will/No free will in quran.md",
     "002_quran/islam/iman_islam.md",
+    "002_quran/salah/salah.md",
+    "002_quran/sa'ah/sa'ah_qiyamah.md",
+    "002_quran/fadl/nur_nabi_ummi.md",
+    "002_quran/fadl/fadl.md",
+    "002_quran/anbiya/muhammad.md",
+    "002_quran/islam/Iman/Iman.md",
     "002_quran/jinn/shaytan.md",
     "002_quran/islam/iman_islam.sync-conflict-20250425-093706-AFLIAW3.md",
     "002_quran/jinn/Satan.md",
@@ -426,7 +434,6 @@
     "Ref/bbl.hist.nev.md",
     "Ref/bbl.tor.md",
     "002_quran/majuj/Arthurian_cathar_templar_konigsberg/Joesph_arimathea.md",
-    "Ref/bbl.apcr.eth.md",
     "Ref/bbl.evngl.md",
     "002_quran/majuj/Arthurian_cathar_templar_konigsberg/grail.md",
     "002_quran/anbiya/ibrahim.md",
@@ -435,14 +442,7 @@
     "Ref/bbl.prop.ketuvim.md",
     "Ref/eusb.md",
     "Ref/pl.phaedr.md",
-    "nature_archaeology/species.md",
     "Ref/bbl.prop.nev.md",
-    "Ref/mdrsh.md",
-    "Ref/bbl.apcr.apcl.md",
-    "Ref/jcb.srg.md",
-    "Ref/tlmd.amora.gemara.md",
-    "Ref/jubl.md",
-    "Ref/bbl.epst.md",
     "001_eskaton/001_chhatak/slot/nagri",
     "002_quran/fida",
     "003_Ling/english",

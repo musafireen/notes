@@ -6,6 +6,8 @@ no free will in quran?
 ## سطر
 
 
+
+
 ![[#Q:17:58]]
 
 ![[#Q 57 22]]
@@ -38,7 +40,7 @@ no free will in quran?
 # Q:17:58
 ![[Qrsi#17:58]]
 # Q:10:100
-![[Qrsi#10:100]]
+![[Qrsi#10:99]]![[Qrsi#10:100]]
 ## A*n Amn Alh
 
 # Q:6:111
