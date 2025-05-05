@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/eusb.md",
+                "file": "Ref/trtl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eusb"
+              "title": "trtl"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.tor.md",
+                "file": "Ref/bbl.john.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bbl.tor"
+              "title": "bbl.john"
             }
           },
           {
@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_eskaton/Ling/Hebrew_arabic/Arabic_homonyms.md",
+                "file": "003_Ling/bangla/bengali_farsi_arabic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arabic_homonyms"
+              "title": "bengali_farsi_arabic"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demus/Free will/No free will in quran.md",
+                "file": "002_quran/jinn/istikthar_jinn_ins/jabbar/jabbar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "No free will in quran"
+              "title": "jabbar"
             }
           },
           {
@@ -302,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -352,7 +352,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "52f2f15d1bae5ff6",
@@ -364,7 +364,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "002_quran/jinn/Satan.md",
+            "file": "002_quran/jinn/istikthar_jinn_ins/istikthar_jinn_ins.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -383,7 +383,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "002_quran/jinn/Satan.md",
+            "file": "002_quran/jinn/istikthar_jinn_ins/istikthar_jinn_ins.md",
             "linksCollapsed": true,
             "unlinkedCollapsed": false
           },
@@ -397,7 +397,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/bbl.tor.md",
+            "file": "002_quran/jinn/istikthar_jinn_ins/istikthar_jinn_ins.md",
             "followCursor": true,
             "showSearch": true,
             "searchQuery": ""
@@ -415,44 +415,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "320c7906b9921e20",
+  "active": "00adfa2219d80aac",
   "lastOpenFiles": [
-    "Ref/bbl.apcr.eth.md",
-    "nature_archaeology/species.md",
     "Demus/Free will/No free will in quran.md",
-    "002_quran/islam/iman_islam.md",
-    "002_quran/salah/salah.md",
-    "002_quran/sa'ah/sa'ah_qiyamah.md",
-    "002_quran/fadl/nur_nabi_ummi.md",
-    "002_quran/fadl/fadl.md",
-    "002_quran/anbiya/muhammad.md",
-    "002_quran/islam/Iman/Iman.md",
-    "002_quran/jinn/shaytan.md",
-    "002_quran/islam/iman_islam.sync-conflict-20250425-093706-AFLIAW3.md",
-    "002_quran/jinn/Satan.md",
-    "002_quran/nafs/nfs.md",
-    "Ref/bbl.hist.nev.md",
+    "002_quran/jinn/istikthar_jinn_ins/jabbar/jabbar.md",
+    "Ref/bbl.john.md",
+    "002_quran/jinn/istikthar_jinn_ins/istikthar_jinn_ins.md",
     "Ref/bbl.tor.md",
-    "002_quran/majuj/Arthurian_cathar_templar_konigsberg/Joesph_arimathea.md",
-    "Ref/bbl.evngl.md",
-    "002_quran/majuj/Arthurian_cathar_templar_konigsberg/grail.md",
-    "002_quran/anbiya/ibrahim.md",
-    "Ref/bbl.history.ketuvim.md",
-    "Ref/bbl.poetry.md",
-    "Ref/bbl.prop.ketuvim.md",
+    "002_quran/a'jamī/babil/furat/furat.md",
+    "002_quran/jinn/istikthar_jinn_ins/jabbar/jabbar2.md",
+    "002_quran/jinn/istikthar_jinn_ins/jabbar",
+    "Ref/trtl.md",
+    "002_quran/jinn/jinn.md",
+    "002_quran/jinn/istikthar_jinn_ins",
     "Ref/eusb.md",
-    "Ref/pl.phaedr.md",
-    "Ref/bbl.prop.nev.md",
-    "001_eskaton/001_chhatak/slot/nagri",
-    "002_quran/fida",
-    "003_Ling/english",
-    "003_Ling/bangla",
-    "002_quran/majuj/dhulqarnayn",
-    "002_quran/majuj/barbarian/steppe",
-    "002_quran/majuj/barbarian/anatolian",
-    "002_quran/majuj/barbarian/steppe/vedic",
-    "002_quran/majuj/barbarian/steppe/iranian",
-    "002_quran/majuj/barbarian/mediterranean",
+    "002_quran/a'jamī/babil/harut_marut/harut_marut.md",
+    "002_quran/dabbah_min_l_ard/dabbah_min_l_ard.md",
+    "002_quran/dabbah_min_l_ard/dragon.md",
+    "002_quran/a'jamī/babil/harut_marut",
+    "Ref/bbl.epst.md",
+    "Ref/bbl.paul.md",
+    "003_Ling/bangla/bengali_farsi_arabic.md",
+    "003_Ling/farsi/farsi_sanskrit_noun.md",
+    "003_Ling/bangla/Bengali_persian_vs_arabic.md",
+    "002_quran/a'jamī/bengali_farsi_sanskrit.md",
+    "002_quran/a'jamī/Arabic from greek.md",
+    "002_quran/a'jamī/babil/babil.md",
+    "002_quran/qalam/satar/raqim/raqim.md",
+    "002_quran/qalam",
+    "002_quran/qalam/satar",
+    "002_quran/qalam/satar/raqim/marqum",
+    "002_quran/qalam/satar/raqim",
+    "002_quran/a'jamī/babil/furat/ard/eridu",
+    "002_quran/a'jamī/babil/furat/ard/ard.md",
+    "002_quran/a'jamī/babil/furat/ard",
+    "002_quran/a'jamī/babil/furat",
+    "002_quran/a'jamī/jibt/jibt.md",
+    "Demus/debunking/numerical/Untitled.md",
+    "Ref/bbl.apcr.eth.md",
     "002_quran/ahl_kitab/74_31_arb.png",
     "002_quran/ahl_kitab/74_31_eng.png",
     "002_quran/ahl_kitab/ahl_kitab.png",

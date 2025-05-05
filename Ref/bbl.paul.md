@@ -263,3 +263,9 @@ For our conversation is in heaven; from whence also we look for the Saviour, the
 Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.
 # philmn
 
+# heb
+## c11
+#### 5
+πιστει ενωχ μετετεθη του μη ιδειν θανατον και ουχ ευρισκετο διοτι μετεθηκεν αυτον ο θεος προ γαρ της μεταθεσεως αυτου μεμαρτυρηται ευηρεστηκεναι τω θεω
+
+By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.

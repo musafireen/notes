@@ -102,6 +102,10 @@ And God said unto Noah, The end of all flesh is come before me; for the earth is
 וַיִּרְא֤וּ בְנֵי־הָֽאֱלֹהִים֙ אֶת־בְּנ֣וֹת הָֽאָדָ֔ם כִּ֥י טֹבֹ֖ת הֵ֑נָּה וַיִּקְח֤וּ לָהֶם֙ נָשִׁ֔ים מִכֹּ֖ל אֲשֶׁ֥ר בָּחָֽרוּ ׃
 
 That the sons of God saw the daughters of men that they [were] fair; and they took them wives of all which they chose.
+#### 4
+הַנְּפִלִ֞ים הָי֣וּ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי־כֵ֗ן אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י הָֽאֱלֹהִים֙ אֶל־בְּנ֣וֹת הָֽאָדָ֔ם וְיָלְד֖וּ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעוֹלָ֖ם אַנְשֵׁ֥י הַשֵּֽׁם ׃ פ
+
+There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare [children] to them, the same [became] mighty men which [were] of old, men of renown.
 #### 5
 וַיַּ֣רְא יְהוָ֔ה כִּ֥י רַבָּ֛ה רָעַ֥ת הָאָדָ֖ם בָּאָ֑רֶץ וְכָל־יֵ֙צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ רַ֥ק רַ֖ע כָּל־הַיּֽוֹם ׃
 
@@ -890,6 +894,47 @@ https://bibliaparalela.com/text/leviticus/23-40.htm
 וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיֹּ֣ום הָרִאשֹׁ֗ון פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל וּשְׂמַחְתֶּ֗ם לִפְנֵ֛י יְהוָ֥ה אֱלֹהֵיכֶ֖ם שִׁבְעַ֥ת יָמִֽים
 
 # num
+## c13
+#### 16
+אֵ֚לֶּה שְׁמ֣וֹת הָֽאֲנָשִׁ֔ים אֲשֶׁר־שָׁלַ֥ח מֹשֶׁ֖ה לָת֣וּר אֶת־הָאָ֑רֶץ וַיִּקְרָ֥א מֹשֶׁ֛ה לְהוֹשֵׁ֥עַ בִּן־נ֖וּן יְהוֹשֻֽׁעַ ׃
+
+These [are] the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.
+#### 17
+וַיִּשְׁלַ֤ח אֹתָם֙ מֹשֶׁ֔ה לָת֖וּר אֶת־אֶ֣רֶץ כְּנָ֑עַן וַיֹּ֣אמֶר אֲלֵהֶ֗ם עֲל֥וּ זֶה֙ בַּנֶּ֔גֶב וַעֲלִיתֶ֖ם אֶת־הָהָֽר ׃
+
+And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this [way] southward, and go up into the mountain:
+#### 21
+וַֽיַּעֲל֖וּ וַיָּתֻ֣רוּ אֶת־הָאָ֑רֶץ מִמִּדְבַּר־צִ֥ן עַד־רְחֹ֖ב לְבֹ֥א חֲמָֽת ׃
+
+So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.
+#### 22
+וַיַּעֲל֣וּ בַנֶּגֶב֮ וַיָּבֹ֣א עַד־חֶבְרוֹן֒ וְשָׁ֤ם אֲחִימַן֙ שֵׁשַׁ֣י וְתַלְמַ֔י יְלִידֵ֖י הָעֲנָ֑ק וְחֶבְר֗וֹן שֶׁ֤בַע שָׁנִים֙ נִבְנְתָ֔ה לִפְנֵ֖י צֹ֥עַן מִצְרָֽיִם ׃
+
+And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, [were]. Now Hebron was built seven years before Zoan in Egypt. )
+#### 26
+וַיֵּלְכ֡וּ וַיָּבֹאוּ֩ אֶל־מֹשֶׁ֨ה וְאֶֽל־אַהֲרֹ֜ן וְאֶל־כָּל־עֲדַ֧ת בְּנֵֽי־יִשְׂרָאֵ֛ל אֶל־מִדְבַּ֥ר פָּארָ֖ן קָדֵ֑שָׁה וַיָּשִׁ֨יבוּ אוֹתָ֤ם דָּבָר֙ וְאֶת־כָּל־הָ֣עֵדָ֔ה וַיַּרְא֖וּם אֶת־פְּרִ֥י הָאָֽרֶץ ׃
+
+And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land.
+#### 28
+אֶ֚פֶס כִּֽי־עַ֣ז הָעָ֔ם הַיֹּשֵׁ֖ב בָּאָ֑רֶץ וְהֶֽעָרִ֗ים בְּצֻר֤וֹת גְּדֹלֹת֙ מְאֹ֔ד וְגַם־יְלִדֵ֥י הָֽעֲנָ֖ק רָאִ֥ינוּ שָֽׁם ׃
+
+Nevertheless the people [be] strong that dwell in the land, and the cities [are] walled, [and] very great: and moreover we saw the children of Anak there.
+#### 29
+עֲמָלֵ֥ק יוֹשֵׁ֖ב בְּאֶ֣רֶץ הַנֶּ֑גֶב וְ֠הַֽחִתִּי וְהַיְבוּסִ֤י וְהָֽאֱמֹרִי֙ יוֹשֵׁ֣ב בָּהָ֔ר וְהַֽכְּנַעֲנִי֙ יֹשֵׁ֣ב עַל־הַיָּ֔ם וְעַ֖ל יַ֥ד הַיַּרְדֵּֽן ׃
+
+The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.
+#### 30
+וַיַּ֧הַס כָּלֵ֛ב אֶת־הָעָ֖ם אֶל־מֹשֶׁ֑ה וַיֹּ֗אמֶר עָלֹ֤ה נַעֲלֶה֙ וְיָרַ֣שְׁנוּ אֹתָ֔הּ כִּֽי־יָכ֥וֹל נוּכַ֖ל לָֽהּ ׃
+
+And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
+#### 32
+וַיּוֹצִ֜יאוּ דִּבַּ֤ת הָאָ֙רֶץ֙ אֲשֶׁ֣ר תָּר֣וּ אֹתָ֔הּ אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר הָאָ֡רֶץ אֲשֶׁר֩ עָבַ֨רְנוּ בָ֜הּ לָת֣וּר אֹתָ֗הּ אֶ֣רֶץ אֹכֶ֤לֶת יוֹשְׁבֶ֙יהָ֙ הִ֔וא וְכָל־הָעָ֛ם אֲשֶׁר־רָאִ֥ינוּ בְתוֹכָ֖הּ אַנְשֵׁ֥י מִדּֽוֹת ׃
+
+And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, [is] a land that eateth up the inhabitants thereof; and all the people that we saw in it [are] men of a great stature.
+#### 33
+וְשָׁ֣ם רָאִ֗ינוּ אֶת־הַנְּפִילִ֛ים בְּנֵ֥י עֲנָ֖ק מִן־הַנְּפִלִ֑ים וַנְּהִ֤י בְעֵינֵ֙ינוּ֙ כַּֽחֲגָבִ֔ים וְכֵ֥ן הָיִ֖ינוּ בְּעֵינֵיהֶֽם ׃
+
+And there we saw the giants, the sons of Anak, [which come] of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
 ## c16
 #### 32
 וַתִּפְתַּ֤ח הָאָ֙רֶץ֙ אֶת־פִּ֔יהָ וַתִּבְלַ֥ע אֹתָ֖ם וְאֶת־בָּתֵּיהֶ֑ם וְאֵ֤ת כָּל־הָאָדָם֙ אֲשֶׁ֣ר לְקֹ֔רַח וְאֵ֖ת כָּל־הָרֲכֽוּשׁ ׃

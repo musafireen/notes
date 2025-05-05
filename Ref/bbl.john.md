@@ -1,9 +1,22 @@
-# apocalypse
+# apcl
 ## c6
 ### 14
 και ουρανος απεχωρισθη ως βιβλιον ειλισσομενον και παν ορος και νησος εκ των τοπων αυτων εκινηθησαν
 
 And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
+## c9
+#### 1
+και ο πεμπτος αγγελος εσαλπισεν και ειδον αστερα εκ του ουρανου πεπτωκοτα εις την γην και εδοθη αυτω η κλεις του φρεατος της αβυσσου
+
+And the fifth angel sounded, and I saw a star from heaven fallen unto the earth: and there was given to him the key of the pit of the abyss.
+#### 3
+και εκ του καπνου εξηλθον ακριδες εις την γην και εδοθη αυταις εξουσια ως εχουσιν εξουσιαν οι σκορπιοι της γης
+
+And there came out of the smoke locusts upon the earth: and unto them was given power, as the scorpions of the earth have power.
+#### 11
+και εχουσιν [εφ] αυτων [επ] αυτων βασιλεα τον αγγελον της αβυσσου ονομα αυτω εβραιστι αβαδδων και εν τη ελληνικη ονομα εχει απολλυων
+
+11And they had a king over them, [which is] the angel of the bottomless pit, whose name in the Hebrew tongue [is] Abaddon, but in the Greek tongue hath [his] name Apollyon.
 ## c12
 ### 3
 και ωφθη αλλο σημειον εν τω ουρανω και ιδου δρακων μεγας πυρρος εχων κεφαλας επτα και κερατα δεκα και επι τας κεφαλας αυτου διαδηματα επτα
