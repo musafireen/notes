@@ -19,6 +19,27 @@ Across the Cephisus is an ancient altar of Zeus Meilichius （Gracious）. At th
 
 The first rulers then in this country were Polycaon, the son of Lelex, and Messene his wife. It was to her that Caucon, the son of Celaenus, son of Phlyus, brought the rites of the Great Goddesses from Eleusis. Phlyus himself is said by the Athenians to have been the son of Earth, and the hymn of Musaeus to Demeter made for the Lycomidae agrees.
 # b5
+## c11
+### 10
+ὅσον δὲ τοῦ ἐδάφους ἐστὶν ἔμπροσθεν τοῦ ἀγάλματος, τοῦτο οὐ λευκῷ, μέλανι δὲ κατεσκεύασται τῷ λίθῳ: 
+
+All the floor in front of the image is paved, not with white, but with black tiles. 
+
+περιθεῖ δὲ ἐν κύκλῳ τὸν μέλανα λίθου Παρίου κρηπίς, ἔρυμα εἶναι τῷ ἐλαίῳ τῷ ἐκχεομένῳ. 
+
+In a circle round the black stone runs a raised rim of Parian marble, to keep in the olive oil that is poured out. 
+
+ἔλαιον γὰρ τῷ ἀγάλματί ἐστιν ἐν Ὀλυμπίᾳ συμφέρον, καὶ ἔλαιόν ἐστι τὸ ἀπεῖργον μὴ γίνεσθαι τῷ ἐλέφαντι βλάβος διὰ τὸ ἑλῶδες τῆς Ἄλτεως. 
+
+For olive oil is beneficial to the image at Olympia, and it is olive oil that keeps the ivory from being harmed by the marshiness of the Altis. 
+
+ἐν ἀκροπόλει δὲ τῇ Ἀθηναίων τὴν καλουμένην Παρθένον οὐκ ἔλαιον, ὕδωρ δὲ τὸ ἐς τὸν ἐλέφαντα ὠφελοῦν ἐστιν: 
+
+On the Athenian Acropolis the ivory of the image they call the Maiden is benefited, not by olive oil, but by water. 
+
+ἅτε γὰρ αὐχμηρᾶς τῆς ἀκροπόλεως οὔσης διὰ τὸ ἄγαν ὑψηλόν, τὸ ἄγαλμα ἐλέφαντος πεποιημένον ὕδωρ καὶ δρόσον τὴν ἀπὸ τοῦ ὕδατος ποθεῖ.
+
+For the Acropolis, owing to its great height, is over-dry, so that the image, being made of ivory, needs water or dampness.
 ## c19
 ### 6
 τῶν δὲ Οἰδίποδος παίδων Πολυνείκει πεπτωκότι ἐς γόνυ ἔπεισιν Ἐτεοκλῆς. τοῦ Πολυνείκους δὲ ὄπισθεν γυνὴ ἕστηκεν ὀδόντας τε ἔχουσα οὐδὲν ἡμερωτέρους θηρίου καί οἱ τῶν χειρῶν εἰσιν ἐπικαμπεῖς οἱ ὄνυχες: ἐπίγραμμα δὲ ἐπ᾽ αὐτῇ εἶναί φησι Κῆρα, ὡς τὸν μὲν ὑπὸ τοῦ πεπρωμένου τὸν Πολυνείκην ἀπαχθέντα, Ἐτεοκλεῖ δὲ γενομένης καὶ σὺν τῷ δικαίῳ τῆς τελευτῆς. Διόνυσος δὲ ἐν ἄντρῳ κατακείμενος, γένεια ἔχων καὶ ἔκπωμα χρυσοῦν, ἐνδεδυκώς ἐστι ποδήρη χιτῶνα: δένδρα δὲ ἄμπελοι περὶ αὐτὸν καὶ μηλέαι τέ εἰσι καὶ ῥόαι.
@@ -106,10 +127,12 @@ other visions induced him to send the bones of Linus back to Thebes. But all tha
 
 ## c30
 ### 12
+???
 
 # b10
 ## c5
 ### 6
+???
 ## c9
 ### 11
 τὴν δὲ πληγὴν Ἀθηναῖοι τὴν ἐν Αἰγὸς ποταμοῖς οὐ μετὰ τοῦ δικαίου συμβῆναί σφισιν ὁμολογοῦσι: 

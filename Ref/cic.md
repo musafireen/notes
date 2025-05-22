@@ -52,8 +52,44 @@ Non fuit ille quidem civibus suis utilis, sed ita eloquentia floruit, ut litteri
 He was not indeed of any great service to the community, but was eminent for eloquence, and at the same time he excelled in erudition and liberal knowledge.
 # verr
 ## o2
-### 4.103
+#### 4.77
+Videte quanta religio fuerit apud Segestanos. 
 
+See how great the reverence was among the Segestans. 
+
+Repertum esse, iudices, scitote neminem, neque liberum neque servum, neque civem neque peregrinum, qui illud signum auderet attingere; 
+
+Know, judges, that no one was found—neither free nor slave, neither citizen nor foreigner—who dared to touch that statue.
+
+barbaros quosdam Lilybaeo scitote adductos esse operarios; ii denique illud ignari totius negoti ac religionis mercede accepta sustulerunt. 
+
+Know that some foreign laborers were brought in from Lilybaeum; these men, entirely ignorant of the whole matter and of its sacred nature, removed it for pay.
+
+Quod cum ex oppido exportabatur, quem conventum mulierum factum esse arbitramini, quem fletum maiorum natu? 
+
+When it was being carried out of the town, what sort of gathering of women do you think took place? What weeping among the elders? 
+
+quorum non nulli etiam illum diem memoria tenebant cum illa eadem Diana Segestam Carthagine revecta victoriam populi Romani reditu suo nuntiasset. 
+
+Some of them even remembered the day when that very statue of Diana, having been brought back from Carthage to Segesta, had announced the victory of the Roman people by her return.
+
+Quam dissimilis hic dies illi tempori videbatur! 
+
+How different that day seemed from the present! 
+
+Tum imperator populi Romani, vir clarissimus, deos patrios reportabat Segestanis ex urbe hostium recuperatos: 
+
+Then, a Roman general, a man of great distinction, was returning to the Segestans their ancestral gods, recovered from an enemy city; 
+
+nunc ex urbe sociorum praetor eiusdem populi turpissimus atque impurissimus eosdem illos deos nefario scelere auferebat. 
+
+now, from an allied city, a most vile and corrupt praetor of that same Roman people was stealing those same gods through a criminal act.
+
+Quid hoc tota Sicilia est clarius, quam omnis Segestae matronas et virgines convenisse cum Diana exportaretur ex oppido, unxisse unguentis, complesse coronis et floribus, ture, odoribus incensis usque ad agri finis prosecutas esse?
+
+What is more well-known in all of Sicily than that all the matrons and maidens of Segesta gathered together when Diana was being taken from the town, anointed her with perfumes, adorned her with garlands and flowers, and accompanied her with incense and fragrant offerings all the way to the borders of their land?
+
+#### 4.103
  Insula est Melita, iudices, satis lato a Sicilia1 mari periculosoque diiuncta2; in qua est eodem nomine oppidum, quo iste numquam accessit, quod tamen3 isti textrinum per triennium ad muliebrem vestem conficiendam fuit. ab eo oppido non longe in promunturio fanum est Iunonis antiquum, quod tanta religione semper fuit ut non modo illis Punicis bellis quae in his fere locis navali copia gesta atque versata sunt, sed etiam hac4 praedonum multitudine semper inviolatum sanctumque fuerit. quin etiam hoc memoriae proditum est, classe quondam Masinissae regis ad eum locum adpulsa praefectum regium dentis eburneos incredibili magnitudine e fano sustulisse et eos in Africam portasse Masinissaeque donasse. Regem primo delectatum esse munere; post, ubi audisset unde essent, statim certos homines in quinqueremi misisse ui eos dentis reponerent5. itaque in iis scriptum6 litteris Punicis fuit regem Masinissam imprudentem accepisse, re cognita reportandos reponendosque7 curasse. erat praeterea magna vis eboris, multa ornamenta, in quibus eburneae victoriae antiquo opere ac summa arte perfectae.
 
 There is an island called Melita, O judges, separated from Sicily by a sufficiently wide and perilous navigation, in which there is a town of the same name, to which Verres never went, though it was for three years a manufactory to him for weaving women's garments. Not far from that town, on a promontory, is an ancient temple of Juno, which was always considered so holy, that it was not only always kept inviolate and sacred in those Punic wars, which in those regions were carried on almost wholly by the naval forces, but even by the bands of pirates which ravage those seas. Moreover, it has been handed down to us by tradition, that once, when the fleet of King Masinissa was forced to put into these ports, the king's lieutenant took away some ivory teeth of an incredible size out of the temple, and carried them into Africa, and gave them to Masinissa; that at first the king was delighted with the present, but afterwards, when he heard where they had come from, he immediately sent trustworthy men in a quinquereme to take those teeth back; and that there was engraved on them in Punic characters, “that Masinissa the king had accepted them ignorantly; but that, when he knew the truth, he had taken care that they should be replaced and restored.” There was besides an immense quantity of ivory, and many ornaments, among which were some ivory victories of ancient workmanship, and wrought with exquisite skill.

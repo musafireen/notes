@@ -19,3 +19,4 @@
 
 # 3:75
 ![[A'jamī_Foreign_words_vocab_in_quran#3:75]]
+

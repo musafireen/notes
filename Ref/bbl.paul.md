@@ -186,6 +186,15 @@ After that, he was seen of above five hundred brethren at once; of whom the grea
 τις δε συμφωνησις χριστω προς [βελιαρ] [βελιαλ] η τις μερις πιστω μετα απιστου
 
 And what concord hath Christ with Belial ? or what part hath he that believeth with an infidel ?
+## c20
+#### 3
+εν σαρκι γαρ περιπατουντες ου κατα σαρκα στρατευομεθα
+
+For though we walk in the flesh, we do not war after the flesh:
+#### 4
+τα γαρ οπλα της στρατειας ημων ου σαρκικα αλλα δυνατα τω θεω προς καθαιρεσιν οχυρωματων
+
+(For the weapons of our warfare [are] not carnal, but mighty through God to the pulling down of strong holds; )
 ## c12
 ### 1-12
 #### 2
@@ -251,6 +260,15 @@ Envyings, murders, drunkenness, revellings, and such like: of the which I tell y
 For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.
 # 1 thes
 # philp
+## c2
+#### 9
+διο και ο θεος αυτον υπερυψωσεν και εχαρισατο αυτω ονομα το υπερ παν ονομα
+
+Wherefore God also hath highly exalted him, and given him a name which is above every name:
+#### 10
+ινα εν τω ονοματι ιησου παν γονυ καμψη επουρανιων και επιγειων και καταχθονιων
+
+That at the name of Jesus every knee should bow, of [things] in heaven, and [things] in earth, and [things] under the earth;
 ## c3
 ### 15-21
 #### 20

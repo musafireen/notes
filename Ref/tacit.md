@@ -89,6 +89,51 @@ All have fierce blue eyes, red hair, huge frames, fit only for a sudden exertion
 [3] laboris atque operum non eadem patientia, minimeque sitim aestumque tolerare, frigora atque inediam caelo solove adsueverunt.
 
 They are less able to bear laborious work. Heat and thirst they cannot in the least endure; to cold and hunger their climate and their soil inure them.
+## c45
+#### 2
+[2] illuc usque et fama vera tantum natura. ergo iam dextro Suebici maris litore Aestiorum gentes adluuntur, quibus ritus habitusque Sueborum, lingua Britannicae propior. 
+
+At this point the Suevic sea, on its eastern shore, washes the tribes of the Æstii, whose rites and fashions and style of dress are those of the Suevi, while their language is more. like the British. 
+#### 3
+[3] matrem deum venerantur. 
+
+They worship the mother of the gods, 
+
+insigne superstitionis formas aprorum gestant: 
+
+and wear as a religious symbol the device of a wild boar. 
+
+id pro armis hominumque tutela securum deae cultorem etiam inter hostes praestat. 
+
+This serves as armour, and as a universal defence, rendering the votary of the goddess safe even amidst enemies. 
+#### 4
+rarus ferri, [4] frequens fustium usus. 
+
+They often use clubs, iron weapons but seldom. 
+
+frumenta ceterosque fructus patientius quam pro solita Germanorum inertia laborant. 
+
+They are more patient in cultivating corn and other produce than might be expected from the general indolence of the Germans. 
+
+sed et mare scrutantur, ac soli omnium sucinum, quod ipsi glesum [5] vocant, inter vada atque in ipso litore legunt. 
+
+But they also search the deep, and are the only people who gather amber (which they call “glesum”), in the shallows, and also on the shore itself. 
+#### 6
+nec quae natura quaeve ratio gignat, ut barbaris, quaesitum compertumve; 
+
+Barbarians as they are they have not investigated or discovered what natural cause or process produces it. 
+
+diu quin etiam inter cetera eiectamenta maris iacebat, donec luxuria nostra dedit nomen. 
+
+Nay, it even lay amid the sea's other refuse, till our luxury gave it a name. 
+
+ipsis in nullo usu: 
+
+To them it is utterly useless; 
+
+rude legitur, informe perfertur, pretiumque mirantes [6] accipiunt. 
+
+they gather it in its raw state, bring it to us in shapeless lumps, and marvel at the price which they receive.
 # ann
 ## b11
 ### c14

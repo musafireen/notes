@@ -63,3 +63,19 @@ I am pure, and men do not strike me.
 O prudent olive tree, to you, if ever a corpse  
 is about to burn or to be enclosed in a tomb,  
 they themselves laid me out beneath the ribs of the one who does not breathe...
+# epg
+http://www.perseus.tufts.edu/hopper/text?doc=Call.+Epigr.+51
+## e52
+[51]
+
+[52]
+
+τέσσαρες αἱ Χάριτες, ποτὶ γὰρ μία ταῖς τρισὶ τήναις
+ἄρτι ποτεπλάσθη κἤτι μύροισι νοτεῖ.
+
+Four are the Graces ; for beside those three another has been fashioned lately and is yet wet with perfume. 
+
+εὐαίων ἐν πᾶσιν ἀρίζαλος Βερενίκα,
+ἇς ἄτερ οὐδ᾽ αὐταὶ ταὶ Χάριτες Χάριτες.
+
+Happy Berenice and resplendent among all - without whom even the Graces themselves are not Graces.

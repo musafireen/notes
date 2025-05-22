@@ -272,7 +272,9 @@ virginiana (Magnoliid clade, magnoliales order), champaca: champak, যবদ্
 ## Laurus 
 nobilis (Laurales order)
 ### Cinnamomum
-tamala: indian bayleaf tezpata; verum: srilanka true cinnamon darchin
+tamala: indian bayleaf tezpata; 
+verum: srilanka true cinnamon darchin,
+cassia: chinese cinnamon, 
 ## Piper 
 nigrum: kerala black pepper (marich)
 ## Polyalthia
@@ -331,6 +333,12 @@ mollis: corinthian bearsfoot; ilicifolius: bengali sea holly /holy mangrove (had
 adhatoda: vasaka
 #### Ocimum 
 basilicum: thai sweet basil (pudina);  tenuiflorum: kannauj holy basil
+#### mentha
+spicata: spearmint, 
+piperita: peppermint, 
+##### origanum
+vulgare: oregano,
+majorana: marjoram, 
 ### Calluna
 : heather 
 ### Erica
@@ -434,7 +442,8 @@ carica: fig, turkish anjir; hispida: phalgu, kakdumur; religiosa: peepal, ashwat
 #### Artocarpus 
 altilis: breadfruit; heterophyllus: jackfruit
 ### (Vicia) 
-Sativa: আঁকড়ি হেটকি, Faba: fava bean (Fabid clade, Fabales order, Fabaceae family)
+Sativa: আঁকড়ি হেটকি, 
+Faba: fava bean (Fabid clade, Fabales order, Fabaceae family)
 #### Senegalia
 catechu: khadira, খয়ের
 #### Crotalaria
@@ -493,13 +502,17 @@ glabra: afghan licorice (joṣṭimodhu)
 
 
 ### Malva; 
-sylvestris: mallow; parviflora: dinajpuri napa shak (Malvales, malvaceae)
+sylvestris: mallow; 
+parviflora: dinajpuri napa shak cheeseweed (Malvales, malvaceae)
 #### Bombax 
 ceiba: red cotton, শিমুল
 #### Heritiera
 fomes: sundarban sundari mangrove
 #### Sapindus 
-mukorossi: goa soapberry; rarak: malay; saponaria: Hawaii (sapindales order, sapindaceae)
+mukorossi: nepal goa big soapberry, বড় রিঠা /অরিষ্টক; 
+trifoliata: sylhet রিঠা, 
+rarak: malay; 
+saponaria: Hawaii (sapindales order, sapindaceae)
 ##### Ruta
 : rue (rutaceae)
 ###### Citrus
@@ -519,7 +532,10 @@ simaruba: venezuelan gum tree (burceraceae)
 ###### Boswellia 
 sacra: frankincense, loban; thurifera: indian frankincense, salai guggul
 ###### Commiphora 
-wightii: guggul, indian bdellium, myrrha: yemen myrrh, gileadensis: mecca balsam
+wightii: guggul, indian bdellium, 
+myrrha: yemen myrrh, 
+gileadensis: mecca balsam,
+abyssinica: ,
 ##### Acer
 : maple
 ##### Melia 
@@ -650,6 +666,12 @@ ancistrochaetus: maine bulrush
 
 ## Asparagus
 officinalis: turkey asparagus [asparagaceae, asparagales]
+### iris
+germanica: bearded iris
+kashmiriana: kashmir mazarmund
+#### crocus
+sativus: iran saffron জাফরান
+cartwrighti: crete saffron
 ### Amaryllis 
 belladonna: Capetown march lily [Amaryllidaceae, Amaryllidoideae]
 #### Narcissus 

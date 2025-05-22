@@ -52,6 +52,10 @@ And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye,
 περιπατων δε παρα την θαλασσαν της γαλιλαιας ειδεν σιμωνα και ανδρεαν τον αδελφον αυτου βαλλοντας αμφιβληστρον εν τη θαλασση ησαν γαρ αλιεις
 
 Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.
+#### 34
+και εθεραπευσεν πολλους κακως εχοντας ποικιλαις νοσοις και δαιμονια πολλα εξεβαλεν και ουκ ηφιεν λαλειν τα δαιμονια οτι ηδεισαν αυτον
+
+And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.
 ## c3
 ### 22
 και οι γραμματεις οι απο ιεροσολυμων καταβαντες ελεγον οτι βεελζεβουλ εχει και οτι εν τω αρχοντι των δαιμονιων εκβαλλει τα δαιμονια
@@ -86,12 +90,61 @@ And he said unto them, Unto you it is given to know the mystery of the kingdom o
 ινα βλεποντες βλεπωσιν και μη ιδωσιν και ακουοντες ακουωσιν και μη συνιωσιν μηποτε επιστρεψωσιν και αφεθη αυτοις τα αμαρτηματα
 
 That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and [their] sins should be forgiven them.
+## c5
+#### 5
+και διαπαντος νυκτος και ημερας εν τοις ορεσιν και εν τοις μνημασιν ην κραζων και κατακοπτων εαυτον λιθοις
+
+5And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones. 
+#### 6
+ιδων δε τον ιησουν απο μακροθεν εδραμεν και προσεκυνησεν αυτω
+
+6But when he saw Jesus afar off, he ran and worshipped him, 
+#### 7
+και κραξας φωνη μεγαλη ειπεν τι εμοι και σοι ιησου υιε του θεου του υψιστου ορκιζω σε τον θεον μη με βασανισης
+
+7And cried with a loud voice, and said, What have I to do with thee, Jesus, [thou] Son of the most high God ? I adjure thee by God, that thou torment me not. 
+#### 8
+ελεγεν γαρ αυτω εξελθε το πνευμα το ακαθαρτον εκ του ανθρωπου
+
+For he said unto him, Come out of the man, [thou] unclean spirit.
+#### 9
+και επηρωτα αυτον τι σοι ονομα και απεκριθη λεγων λεγεων ονομα μοι οτι πολλοι εσμεν
+
+9And he asked him, What [is] thy name ? And he answered, saying, My name [is] Legion: for we are many. 
+#### 10
+και παρεκαλει αυτον πολλα ινα μη αυτους αποστειλη εξω της χωρας
+
+10And he besought him much that he would not send them away out of the country. 
+#### 11
+ην δε εκει προς τα ορη αγελη χοιρων μεγαλη βοσκομενη
+
+11Now there was there nigh unto the mountains a great herd of swine feeding. 
+#### 12
+και παρεκαλεσαν αυτον παντες οι δαιμονες λεγοντες πεμψον ημας εις τους χοιρους ινα εις αυτους εισελθωμεν
+
+12And all the devils besought him, saying, Send us into the swine, that we may enter into them. 
+#### 13
+και επετρεψεν αυτοις ευθεως ο ιησους και εξελθοντα τα πνευματα τα ακαθαρτα εισηλθον εις τους χοιρους και ωρμησεν η αγελη κατα του κρημνου εις την θαλασσαν ησαν δε ως δισχιλιοι και επνιγοντο εν τη θαλασση
+
+13And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand; ) and were choked in the sea. 
 ## c6
 ### 3
 ουχ ουτος εστιν ο τεκτων ο υιος μαριας αδελφος δε ιακωβου και ιωση και ιουδα και σιμωνος και ουκ εισιν αι αδελφαι αυτου ωδε προς ημας και εσκανδαλιζοντο εν αυτω
 
 Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon ? and are not his sisters here with us ? And they were offended at him.
 ## c9
+#### 25
+ιδων δε ο ιησους οτι επισυντρεχει οχλος επετιμησεν τω πνευματι τω ακαθαρτω λεγων αυτω το πνευμα το αλαλον και κωφον εγω σοι επιτασσω εξελθε εξ αυτου και μηκετι εισελθης εις αυτον
+
+When Jesus saw that the people came running together, he rebuked the foul spirit, saying unto him, [Thou] dumb and deaf spirit, I charge thee, come out of him, and enter no more into him.
+#### 26
+και κραξαν και πολλα σπαραξαν αυτον εξηλθεν και εγενετο ωσει νεκρος ωστε πολλους λεγειν οτι απεθανεν
+
+And [the spirit] cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead.
+#### 29
+και ειπεν αυτοις τουτο το γενος εν ουδενι δυναται εξελθειν ει μη εν προσευχη και νηστεια
+
+And he said unto them, This kind can come forth by nothing, but by prayer and fasting.
 ### 37
 ος εαν εν των τοιουτων παιδιων δεξηται επι τω ονοματι μου εμε δεχεται και ος εαν εμε δεξηται ουκ εμε δεχεται αλλα τον αποστειλαντα με
 
@@ -205,6 +258,10 @@ And when they looked, they saw that the stone was rolled away: for it was very g
 και εισελθουσαι εις το μνημειον ειδον νεανισκον καθημενον εν τοις δεξιοις περιβεβλημενον στολην λευκην και εξεθαμβηθησαν
 
 And entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.
+#### 17
+σημεια δε τοις πιστευσασιν ταυτα παρακολουθησει εν τω ονοματι μου δαιμονια εκβαλουσιν γλωσσαις λαλησουσιν καιναις
+
+And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
 # matthew
 ## c1
 ### 18
@@ -365,12 +422,29 @@ Enter ye in at the strait gate: for wide [is] the gate, and broad [is] the way, 
 προσεχετε δε απο των ψευδοπροφητων οιτινες ερχονται προς υμας εν ενδυμασιν προβατων εσωθεν δε εισιν λυκοι αρπαγες
 
 Beware of false prophets, which come to you in sheep´s clothing, but inwardly they are ravening wolves.
+#### 22
+πολλοι ερουσιν μοι εν εκεινη τη ημερα κυριε κυριε ου τω σω ονοματι προεφητευσαμεν και τω σω ονοματι δαιμονια εξεβαλομεν και τω σω ονοματι δυναμεις πολλας εποιησαμεν
+
+Many will say to me in that day, Lord, Lord, have we not prophesied in thy name ? and in thy name have cast out devils ? and in thy name done many wonderful works ?
+#### 23
+πολλοι ερουσιν μοι εν εκεινη τη ημερα κυριε κυριε ου τω σω ονοματι προεφητευσαμεν και τω σω ονοματι δαιμονια εξεβαλομεν και τω σω ονοματι δυναμεις πολλας εποιησαμεν
+
+And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
+## c8
+#### 16
+οψιας δε γενομενης προσηνεγκαν αυτω δαιμονιζομενους πολλους και εξεβαλεν τα πνευματα λογω και παντας τους κακως εχοντας εθεραπευσεν
+
+When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with [his] word, and healed all that were sick:
 ## c9
 ### 34
 οι δε φαρισαιοι ελεγον εν τω αρχοντι των δαιμονιων εκβαλλει τα δαιμονια
 
 But the Pharisees said, He casteth out devils through the prince of the devils.
 ## c10
+#### 1
+και προσκαλεσαμενος τους δωδεκα μαθητας αυτου εδωκεν αυτοις εξουσιαν πνευματων ακαθαρτων ωστε εκβαλλειν αυτα και θεραπευειν πασαν νοσον και πασαν μαλακιαν
+
+And when he had called unto [him] his twelve disciples, he gave them power [against] unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.
 ### 30
 υμων δε και αι τριχες της κεφαλης πασαι ηριθμημεναι εισιν
 
@@ -389,11 +463,15 @@ And a man´s foes [shall be] they of his own household.
 
 All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and [he] to whomsoever the Son will reveal [him].
 ## c12
-### 24
+#### 24
 οι δε φαρισαιοι ακουσαντες ειπον ουτος ουκ εκβαλλει τα δαιμονια ει μη εν τω βεελζεβουλ αρχοντι των δαιμονιων
 
 But when the Pharisees heard [it], they said, This [fellow] doth not cast out devils, but by Beelzebub the prince of the devils.
-### 33
+#### 28
+ει δε εγω εν πνευματι θεου εκβαλλω τα δαιμονια αρα εφθασεν εφ υμας η βασιλεια του θεου
+
+But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you.
+#### 33
 η ποιησατε το δενδρον καλον και τον καρπον αυτου καλον η ποιησατε το δενδρον σαπρον και τον καρπον αυτου σαπρον εκ γαρ του καρπου το δενδρον γινωσκεται
 
 Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by [his] fruit.
@@ -410,6 +488,19 @@ Which indeed is the least of all seeds: but when it is grown, it is the greatest
 ουχ ουτος εστιν ο του τεκτονος υιος ουχι η μητηρ αυτου λεγεται μαριαμ και οι αδελφοι αυτου ιακωβος και ιωσης και σιμων και ιουδας
 
 Is not this the carpenter´s son ? is not his mother called Mary ? and his brethren, James, and Joses, and Simon, and Judas ?
+## c17
+#### 18
+και επετιμησεν αυτω ο ιησους και εξηλθεν απ αυτου το δαιμονιον και εθεραπευθη ο παις απο της ωρας εκεινης
+
+And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour.
+#### 20
+ο δε ιησους ειπεν αυτοις δια την απιστιαν υμων αμην γαρ λεγω υμιν εαν εχητε πιστιν ως κοκκον σιναπεως ερειτε τω ορει τουτω μεταβηθι εντευθεν εκει και μεταβησεται και ουδεν αδυνατησει υμιν
+
+And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.
+#### 21
+τουτο δε το γενος ουκ εκπορευεται ει μη εν προσευχη και νηστεια
+
+Howbeit this kind goeth not out but by prayer and fasting.
 ## c18
 ### 1
 εν εκεινη τη ωρα προσηλθον οι μαθηται τω ιησου λεγοντες τις αρα μειζων εστιν εν τη βασιλεια των ουρανων
@@ -530,6 +621,11 @@ Command therefore that the sepulchre be made sure until the third day, lest his 
 εφη δε αυτοις ο πιλατος εχετε κουστωδιαν υπαγετε ασφαλισασθε ως οιδατε
 
 Pilate said unto them, Ye have a watch: go your way, make [it] as sure as ye can.
+## c28
+#### 18
+και προσελθων ο ιησους ελαλησεν αυτοις λεγων εδοθη μοι πασα εξουσια εν ουρανω και επι γης
+
+And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.
 # luke
 ## c1
 ### 19
@@ -653,30 +749,61 @@ Then said he to the multitude that came forth to be baptized of him, O generatio
 ## c4
 ### 1
 ιησους δε πνευματος αγιου πληρης υπεστρεψεν απο του ιορδανου και ηγετο εν τω πνευματι εις την ερημον
+
+1And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness, 
 ### 2
 ημερας τεσσαρακοντα πειραζομενος υπο του διαβολου και ουκ εφαγεν ουδεν εν ταις ημεραις εκειναις και συντελεσθεισων αυτων υστερον επεινασεν
+
+2Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungered. 
 ### 3
 και ειπεν αυτω ο διαβολος ει υιος ει του θεου ειπε τω λιθω τουτω ινα γενηται αρτος
+
+3And the devil said unto him, If thou be the Son of God, command this stone that it be made bread. 
 ### 4
 και απεκριθη ιησους προς αυτον λεγων γεγραπται οτι ουκ επ αρτω μονω ζησεται ο ανθρωπος αλλ επι παντι ρηματι θεου
+
+4And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God. 
 ### 5
 και αναγαγων αυτον ο διαβολος εις ορος υψηλον εδειξεν αυτω πασας τας βασιλειας της οικουμενης εν στιγμη χρονου
+
+5And the devil, taking him up into an high mountain, shewed unto him all the kingdoms of the world in a moment of time. 
 ### 6
 και ειπεν αυτω ο διαβολος σοι δωσω την εξουσιαν ταυτην απασαν και την δοξαν αυτων οτι εμοι παραδεδοται και ω εαν θελω διδωμι
+
+6And the devil said unto him, All this power will I give thee, and the glory of them: for that is delivered unto me; and to whomsoever I will I give it. 
 ### 7
 συ ουν εαν προσκυνησης ενωπιον μου εσται σου παντα
+
+7If thou therefore wilt worship me, all shall be thine.
+n1 worship me: or, fall down before me
 ### 8
 και αποκριθεις αυτω ειπεν ο ιησους υπαγε οπισω μου σατανα γεγραπται γαρ προσκυνησεις κυριον τον θεον σου και αυτω μονω λατρευσεις
+
+8And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve. 
 ### 9
 και ηγαγεν αυτον εις ιερουσαλημ και εστησεν αυτον επι το πτερυγιον του ιερου και ειπεν αυτω ει ο υιος ει του θεου βαλε σεαυτον εντευθεν κατω
+
+9And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said unto him, If thou be the Son of God, cast thyself down from hence: 
 ### 10
 γεγραπται γαρ οτι τοις αγγελοις αυτου εντελειται περι σου του διαφυλαξαι σε
+
+10For it is written, He shall give his angels charge over thee, to keep thee: 
 ### 11
 και οτι επι χειρων αρουσιν σε μηποτε προσκοψης προς λιθον τον ποδα σου
+
+11And in [their] hands they shall bear thee up, lest at any time thou dash thy foot against a stone. 
 ### 12
 και αποκριθεις ειπεν αυτω ο ιησους οτι ειρηται ουκ εκπειρασεις κυριον τον θεον σου
+
+12And Jesus answering said unto him, It is said Thou shalt not tempt the Lord thy God. 
 ### 13
 και συντελεσας παντα πειρασμον ο διαβολος απεστη απ αυτου αχρι καιρου
+
+13And when the devil had ended all the temptation, he departed from him for a season.
+#### 41
+εξηρχετο δε και δαιμονια απο πολλων κραζοντα και λεγοντα οτι συ ει ο χριστος ο υιος του θεου και επιτιμων ουκ εια αυτα λαλειν οτι ηδεισαν τον χριστον αυτον ειναι
+
+And devils also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking [them] suffered them not to speak: for they knew that he was Christ.
 ## c5
 ### 22
 επιγνους δε ο ιησους τους διαλογισμους αυτων αποκριθεις ειπεν προς αυτους τι διαλογιζεσθε εν ταις καρδιαις υμων
@@ -726,6 +853,10 @@ And a woman having an issue of blood twelve years, which had spent all her livin
 
 Came behind [him], and touched the border of his garment: and immediately her issue of blood stanched.
 ## c9
+#### 1
+συγκαλεσαμενος δε τους δωδεκα μαθητας αυτου εδωκεν αυτοις δυναμιν και εξουσιαν επι παντα τα δαιμονια και νοσους θεραπευειν
+
+Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.
 ### 54
 ιδοντες δε οι μαθηται αυτου ιακωβος και ιωαννης ειπον κυριε θελεις ειπωμεν πυρ καταβηναι απο του ουρανου και αναλωσαι αυτους ως και ηλιας εποιησεν
 
@@ -734,6 +865,15 @@ And when his disciples James and John saw [this], they said, Lord, wilt thou tha
 στραφεις δε επετιμησεν αυτοις και ειπεν ουκ οιδατε οιου πνευματος εστε υμεις
 
 But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of.
+## c10
+#### 17
+υπεστρεψαν δε οι εβδομηκοντα μετα χαρας λεγοντες κυριε και τα δαιμονια υποτασσεται ημιν εν τω ονοματι σου
+
+And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.
+#### c19
+ιδου διδωμι υμιν την εξουσιαν του πατειν επανω οφεων και σκορπιων και επι πασαν την δυναμιν του εχθρου και ουδεν υμας ου μη [αδικηση] [αδικησει]
+
+Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.
 ## c11
 ### 20
 ει δε εν δακτυλω θεου εκβαλλω τα δαιμονια αρα εφθασεν εφ υμας η βασιλεια του θεου

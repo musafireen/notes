@@ -35,6 +35,14 @@ But, beloved, be not ignorant of this one thing, that one day [is] with the Lord
 
 This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
 ## c4
+#### 1
+αγαπητοι μη παντι πνευματι πιστευετε αλλα δοκιμαζετε τα πνευματα ει εκ του θεου εστιν οτι πολλοι ψευδοπροφηται εξεληλυθασιν εις τον κοσμον
+
+Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
+#### 4
+υμεις εκ του θεου εστε τεκνια και νενικηκατε αυτους οτι μειζων εστιν ο εν υμιν η ο εν τω κοσμω
+
+Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
 ### 8
 ο μη αγαπων ουκ εγνω τον θεον οτι ο θεος αγαπη εστιν
 

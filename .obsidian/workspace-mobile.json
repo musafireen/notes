@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.john.md",
+                "file": "Ref/bbl.evngl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bbl.john"
+              "title": "bbl.evngl"
             }
           },
           {
@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003_Ling/bangla/bengali_farsi_arabic.md",
+                "file": "003_Ling/bangla/english_doublets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bengali_farsi_arabic"
+              "title": "english_doublets"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/jinn/istikthar_jinn_ins/jabbar/jabbar.md",
+                "file": "002_quran/Rum/mittanni_egypt_hatti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jabbar"
+              "title": "mittanni_egypt_hatti"
             }
           },
           {
@@ -280,7 +280,7 @@
               "type": "markdown",
               "state": {
                 "file": "nature_archaeology/species.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -302,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -397,7 +397,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "002_quran/jinn/istikthar_jinn_ins/istikthar_jinn_ins.md",
+            "file": "Ref/bbl.evngl.md",
             "followCursor": true,
             "showSearch": true,
             "searchQuery": ""
@@ -415,44 +415,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "00adfa2219d80aac",
+  "active": "320c7906b9921e20",
   "lastOpenFiles": [
-    "Demus/Free will/No free will in quran.md",
-    "002_quran/jinn/istikthar_jinn_ins/jabbar/jabbar.md",
-    "Ref/bbl.john.md",
-    "002_quran/jinn/istikthar_jinn_ins/istikthar_jinn_ins.md",
-    "Ref/bbl.tor.md",
-    "002_quran/a'jamī/babil/furat/furat.md",
-    "002_quran/jinn/istikthar_jinn_ins/jabbar/jabbar2.md",
-    "002_quran/jinn/istikthar_jinn_ins/jabbar",
-    "Ref/trtl.md",
-    "002_quran/jinn/jinn.md",
-    "002_quran/jinn/istikthar_jinn_ins",
-    "Ref/eusb.md",
-    "002_quran/a'jamī/babil/harut_marut/harut_marut.md",
-    "002_quran/dabbah_min_l_ard/dabbah_min_l_ard.md",
-    "002_quran/dabbah_min_l_ard/dragon.md",
-    "002_quran/a'jamī/babil/harut_marut",
+    "Ref/bbl.acts.md",
     "Ref/bbl.epst.md",
+    "Ref/bbl.evngl.md",
     "Ref/bbl.paul.md",
-    "003_Ling/bangla/bengali_farsi_arabic.md",
-    "003_Ling/farsi/farsi_sanskrit_noun.md",
-    "003_Ling/bangla/Bengali_persian_vs_arabic.md",
-    "002_quran/a'jamī/bengali_farsi_sanskrit.md",
-    "002_quran/a'jamī/Arabic from greek.md",
-    "002_quran/a'jamī/babil/babil.md",
-    "002_quran/qalam/satar/raqim/raqim.md",
+    "Ref/bbl.paul.pseud.md",
+    "Ref/bbl.john.md",
+    "002_quran/Rum/mittanni_egypt_hatti.md",
+    "002_quran/Rum/sutonnyMJBold.jsx.md",
+    "002_quran/Rum/arialbold.jsx.md",
+    "002_quran/Rum/sutonnyMJBold.jsx",
+    "Ref/pliny.natHist.md",
+    "nature_archaeology/species.md",
+    "Ref/paus.grc.md",
+    "Ref/viitrv.arch.md",
+    "Ref/clmch.md",
+    "Ref/cic.md",
+    "002_quran/Rum/mycenaea.md",
+    "002_quran/Rum/minoan.md",
+    "002_quran/Rum/rome.md",
+    "Ref/tacit.md",
+    "002_quran/Rum/mycenaea 2.md",
+    "002_quran/Rum/phoenician.md",
+    "002_quran/qitr/minerals2.md",
+    "003_Ling/english/english_doublets.md",
+    "002_quran/qitr/minerals.md",
+    "003_Ling/english/english_gaulish.md",
+    "003_Ling/english/english_french_latin.md",
+    "002_quran/qitr",
+    "002_quran/qabail/zaytun",
+    "002_quran/qabail",
+    "002_quran/jinn/istikthar_jinn_ins/jabbar",
+    "002_quran/jinn/istikthar_jinn_ins",
+    "002_quran/a'jamī/babil/harut_marut",
     "002_quran/qalam",
     "002_quran/qalam/satar",
     "002_quran/qalam/satar/raqim/marqum",
-    "002_quran/qalam/satar/raqim",
-    "002_quran/a'jamī/babil/furat/ard/eridu",
-    "002_quran/a'jamī/babil/furat/ard/ard.md",
-    "002_quran/a'jamī/babil/furat/ard",
-    "002_quran/a'jamī/babil/furat",
-    "002_quran/a'jamī/jibt/jibt.md",
-    "Demus/debunking/numerical/Untitled.md",
-    "Ref/bbl.apcr.eth.md",
     "002_quran/ahl_kitab/74_31_arb.png",
     "002_quran/ahl_kitab/74_31_eng.png",
     "002_quran/ahl_kitab/ahl_kitab.png",

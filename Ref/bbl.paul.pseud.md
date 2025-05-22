@@ -1,6 +1,10 @@
 
 # col
+## c2
+#### 15
+απεκδυσαμενος τας αρχας και τας εξουσιας εδειγματισεν εν παρρησια θριαμβευσας αυτους εν αυτω
 
+[And] having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.
 ## c4
 ### 13
 μαρτυρω γαρ αυτω οτι εχει ζηλον πολυν υπερ υμων και των εν λαοδικεια και των εν ιεραπολει

@@ -88,6 +88,243 @@ Isigonus and Nymphodorus inform us that there are in Africa certain families of 
 notabilius esse quod pupillas binas in oculis singulis habeant. huius generis et feminas in scythia, quae bitiae vocantur, prodit apollonides. phylarchus et in ponto thibiorum genus multosque alios eiusdem naturae, quorum notas tradit in altero oculo geminam pupillam, in altero equi effigiem; eosdem praeterea non posse mergi, ne veste quidem degravatos. haut dissimile iis genus pharmacum in aethiopia damon, quorum sudor tabem contactis corporibus afferat. feminas quidem omnes ubique visu nocere quae duplices pupillas habeant, cicero quoque apud nos auctor est. adeo naturae, cum ferarum morem vescendi humanis visceribus in homine genuisset, gignere etiam in toto corpore et in quorundam oculis quoque venena placuit, ne quid usquam mali esset quod in homine non esset.
 
 A still more remarkable circumstance is, the fact that these persons have two pupils in each eye.25 Apollonides says, that there are certain females of this description in Scythia, who are known as Bythiæ, and Phylarchus states that a tribe of the Thibii in Pontus, and many other persons as well, have a double pupil in one eye, and in the other the figure of a horse.26 He also remarks, that the bodies of these persons will not sink in water,27 even though weighed down by their garments. Damon gives an account of a race of people, not very much unlike them, the Pharnaces of Æthiopia, whose perspiration is productive of consumption28 to the body of every person that it touches. Cicero also, one of our own writers, makes the remark, that the glances of all women who have a double pupil is noxious.29
+# b13
+## 2
+vnguentis cognomina dedere aliis patriae, aliis suci, aliis arbores, aliis causae, primumque id scire convenit, mutatam auctoritatem et saepius transisse gloriam. 
+
+The names of unguents are due, some of them, to the original place of their composition, others, again, to the extracts which form their bases, others to the trees from which they are derived, and others to the peculiar circumstance under which they were first made: and it is as well, first of all, to know that in this respect the fashion has often changed, and that the high repute of peculiar kinds has been but transitory. 
+
+laudatissimum fuit antiquitus in delo insula, postea mendesium. 
+
+In ancient times, the perfumes the most esteemed of all were those of the island of Delos,8 and at a later period those of Mendes.9 
+
+nec mixtura et compositione tantum hoc accidit, sed iidem suci varie alibi atque alibi praevaluere aut degeneravere. 
+
+This degree of esteem is founded, not only on the mode of mixing them and the relative proportions, but according to the degree of favour or disfavour in which the various places which produce the ingredients are held, and the comparative excellence or degeneracy of the ingredients themselves. 
+
+irinum corinthi diu maxime placuit, postea cyzici, 
+
+The perfume of iris,10 from Corinth, was long held in the highest esteem, till that of Cyzicus came into fashion. 
+
+simili modo rhodinum phaseli, quam gloriam abstulere neapolis, capua, praeneste. 
+
+It was the same, too, with the perfume of roses,11 from Phaselis,12 the repute of which was afterwards eclipsed by those of Neapolis, Capua, and Præneste. 
+
+crocinum in solis ciliciae diu maxime laudatum est, mox rhodi, 
+
+Oil of saffron,13 from Soli in Cilicia, was for a long time held in repute beyond any other, and then that from Rhodes; 
+
+oenanthinum in cypro, 
+
+after which perfume of œnanthe,14 from Cyprus, came into fashion, 
+
+
+
+and then that of Egypt was preferred. 
+
+post adramytteo, amaracinum in coo, 
+
+At a later period that of Adramytteum came into vogue, and then was supplanted by unguent of marjoram,15 from Cos, 
+
+postea eodem loco praelatum est melinum, 
+
+which in its turn was superseded by quince blossom16 unguent from the same place. 
+
+cyprinum in cypro, deinde in aegypto, ubi mendesium et metopium subito gratius factum est. 
+
+As to perfume of cyprus,17 that from the island of Cyprus was at first preferred, and then that of Egypt; when all on a sudden the unguents of Mendes and metopium18 rose into esteem. 
+
+mox haec abstulit phoenice et cyprini laudem aegypto reliquit. 
+
+In later times Phœnicia eclipsed Egypt in the manufacture of these last two, but left to that country the repute of producing the best unguent of cyprus.
+
+panathenaicum suum athenae perseveranter optinuere. 
+
+Athens has perseveringly maintained the repute of her panathenaicon.19 
+
+fuerat et pardalium in tarso, cuius etiam conpositio et mixtura oblitterata est. 
+
+There was formerly a famous unguent, known as "pardalium,"20 and made at Tarsus; at the present day its very composition and the mode of mixing it are quite unknown there: 
+
+narcissinum quoque ex flore narcisso desiit conponi. 
+
+they have left off, too, making unguent of narcissus21 from the flowers of that plant.
+
+ratio faciendi duplex, sucus et corpus: 
+
+There are two elements which enter into the composition of unguents, the juices and the solid parts. 
+
+ille olei generibus fere constat, hoc odorum; 
+
+The former generally consist of various kinds of oils, the latter of odoriferous substances. 
+
+haec stymmata vocant, illa hedysmata. 
+
+These last are known as hedysmata, while the oils are called stymmata.22 
+
+tertius inter haec est colos multis neglectus; 
+
+There is a third element, which occupies a place between the two, but has been much neglected, the colouring matter, namely. 
+
+huius causa adduntur cinnabaris et anchusa. 
+
+To produce a colour, however, cinnabar23 and alkanet24 are often employed. 
+
+sal adspersus olei naturam coercet. 
+
+If salt25 is sprinkled in the oil, it will aid it in retaining its properties; 
+
+quibus anchusa adiecta est, sal non additur. 
+
+but if alkanet has been employed, salt is never used. 
+
+resina aut cummis adiciuntur ad continendum odorem in corpore; 
+
+Resin and gum are added to fix the odour in the solid perfumes; 
+
+celerrime is evanescit atque defluit, si non sunt haec addita. 
+
+indeed it is apt to die away and disappear with the greatest rapidity if these substances are not employed.
+
+unguentorum expeditissimum fuit primumque, ut verisimile est, e bryo et balanino oleo, de quibus supra diximus et increvit deinde mendesium balanino, resina, murra, magisque etiamnum metopium. oleum hoc est amygdalis amaris expressum in aegypto, cui addidere omphacium, cardamomum, iuncum, calamum, mel, vinum, murram, semen balsami, galbanum, resinam terebinthinam. 
+
+The unguent which is the most readily prepared of all, and indeed, in all probability, the very first that was ever made, is that composed of bryon26 and oil of balanus,27 substances of which we have made mention already. In later times the Mendesian unguent was invented, a more complicated mixture, as resin and myrrh were added to oil of balanus, and at the present day they even add metopion28 as well, an Egyptian oil extracted from bitter almonds; to which have been added omphacium,29 cardamum,30 sweet rush,31 honey,32 wine, myrrh, seed of balsamum,33 galbanum,34 and resin of terebinth,35 as so many ingredients. 
+
+e vilissimis quidem hodieque est - ob id creditum et id e vetustissimis esse - quod constat oleo myrteo, calamo, cupresso, cypro, lentisco, mali granati cortice. 
+
+Among the most common unguents at the present day, and for that reason supposed to be the most ancient, is that composed of oil of myrtle,36 calamus, cypress,37 cyprus, mastich,38 and pomegranate-rind.39 
+
+sed divulgata maxime unguenta crediderim rosa, quae plurima ubique gignitur. 
+
+I am of opinion, however, that the unguents which have been the most universally adopted, are those which are compounded of the rose, a flower that grows everywhere; 
+
+itaque simplicissima rhodini mixtura diu fuit additis omphacio, flore rosae, crocino, cinnabari, calamo, melle, iunco, salis flore aut anchusa, vino. 
+
+and hence for a long time the composition of oil of roses was of the most simple nature, though more recently there have been added omphacium, rose blossoms, cinnabar, calamus, honey, sweet-rush, flour of salt or else alkanet,40 and wine. 
+
+similis ratio et in crocino additis cinnabari, anchusa, vino. 
+
+The same is the case, too, with oil of saffron, to which have been lately addedcinnabar, alkanet, and wine; 
+
+similis et in sampsuchino admixtis omphacio, calamo. 
+
+and with oil of sampsuchum,41 with which omphacium and calamus have been compounded. 
+
+optimum hoc in cypro, mytilenis, ubi plurima sampsuchus. 
+
+The best comes from Cyprus and Mitylene, where sampsuchum abounds in large quantities.
+
+miscentur et viliora genera olei e myrto, lauru, quibus additur sampsuchum, lilium, faenum graecum, murra, casia, nardum, iuncus, cinnamomum. 
+
+The commoner kinds of oil, too, are mixed with those of myrrh and laurel, to which are added sampsuchum, lilies, fenugreek, myrrh, cassia,42 nard,43 sweet-rush, and cinnamon.44 
+
+e malis quoque cotoneis et strutheis fit oleum, ut dicemus, melinum, quod in unguenta transit admixtis omphacio, cyprino, sesamino, balsamo, iunco, casia, habrotono. susinum tenuissimum omnium est; 
+
+There is an oil, too, made of the common quince and the sparrow quince, called melinum, as we shall have occasion to mention hereafter;45 it is used as an ingredient in unguents, mixed with omphacium, oil of cyprus, oil of sesamum,46 balsamum,47 sweet-rush, cassia, and abrotonum.48 Susinum49 is the most fluid of them all: 
+
+constat ex liliis, balanino, calamo, melle, cinnamo, croco, murra; et dein cyprinum ex cypro et omphacio et cardamomo, calamo, aspalatho, habrotono; 
+
+it is made of lilies, oil of balanus, calamus, honey, cinnamon, saffron,50 and myrrh; while the unguent of cyprus51 is compounded of cyprus, omphacium and cardamum, calamus, aspalathus,52 and abrotonum. 
+
+aliqui et cyperum addunt et murram et panacem. 
+
+There are some persons who, when making unguent of cyprus, employ myrrh also, and panax:53 
+
+hoc optimum sidone, mox aegypto. 
+
+the best is that made at Sidon, and the next best that of Egypt: 
+
+si non addatur sesaminum oleum, durat et quadriennio; excitatur cinnamomo. 
+
+care must be taken not to add oil of sesamum: it will keep as long as four years, and its odour is strengthened by the addition of cinnamon. 
+
+telinum fit ex oleo recenti, cypiro, calamo, meliloto, faeno graeco, melle, maro, amaraco. 
+
+Telinum54 is made of fresh olive-oil, cypirus,55 calamus, melilote,56 fenugreek, honey, marum,57 and sweet marjoram. 
+
+hoc multo erat celeberrimum menandri poetae comici aetate; 
+
+This last was the perfume most in vogue in the time of the Comic poet Menander: 
+
+postea successit propter gloriam appellatum megalium, ex oleo balanino, calamo, iunco, xylobalsamo, casia, resina. 
+
+a considerable time after that known as "megalium" took its place, being so called as holding the very highest rank;58 it was composed of oil of balanus, balsamum, calamus, sweet-rush, xylobalsamum,59 cassia, and resin. 
+
+huius proprietas ut ventiletur in coquendo, donec desinat olere; 
+
+One peculiar property of this unguent is, that it requires to be constantly stirred while boiling, until it has lost all smell: 
+
+rursus refrigeratum odorem suum capit. 
+
+when it becomes cold, it recovers its odour.60
+
+singuli quoque suci nobilia unguenta faciunt: 
+
+There are some single essences also which, individually, afford unguents of very high character: 
+
+in primis malobathrum, postea iris illyrica et cyzicena amaracus, herbarum utraque. 
+
+the first rank is due to malobathrum,61 and the next to the iris of Illyricum and the sweet marjoram of Cyzicus, both of them herbs. 
+
+vel pauca his et alia alii miscent; 
+
+There are perfumers who sometimes add some few other ingredients to these: 
+
+qui plurima, alterutri mel, salis florem, omphacium, agni folia, panacem. 
+
+those who use the most, employ for the purpose honey, flour of salt, omphacium, leaves of agnus,62 and panax, all of them foreign ingredients.63 
+
+externa omnia et prodigiosa cinnamomino pretia: 
+
+The price of unguent64 of cinnamon is quite enormous; 
+
+adicitur cinnamo balaninum oleum, xylobalsamum, calamus, iunci, balsami semina, murra, mel odoratum. 
+
+to cinnamon there is added oil of balanus, xylobalsamum, calamus, sweet-rush, seeds of balsamum, myrrh, and perfumed honey: 
+
+unguentorum hoc crassissimum. 
+
+it is the thickest in consistency of all the unguents; 
+
+pretia ei a #1108 xxxv ad #1108 ccc. 
+
+the price at which it sells ranges from thirty-five to three hundred denarii per pound. 
+
+nardinum sive foliatum constat omphacio aut balanino, iunco, costo, nardo, amomo, murra, balsamo. 
+
+Unguent of nard,65 or foliatum, is composed of omphacium or else oil of balanus, sweet-rush, costus,66 nard, amomum,67 myrrh, and balsamum.
+
+in hoc genere conveniet meminisse herbarum, quae nardum indicum imitarentur, species viiii a nobis esse dictas: 
+
+While speaking on this subject, it will be as well to bear in mind that there are nine different kinds of plants of a similar kind, of which we have already made mention68 as being employed for the purpose of imitating Indian nard; 
+
+tanta materia adulterandi est. 
+
+so abundant are the materials that are afforded for adulteration. 
+
+omnia autem acutiora fiunt costo, amomo, quae maxime nares feriunt, crassiora murra suavioraque, medicinae autem utiliora croco, acerrima per se amomo; hoc et capitis dolores facit. 
+
+All these perfumes are rendered still more pungent by the addition of costus and amomum, which have a particularly powerful effect on the olfactory organs; while myrrh gives them greater consistency and additional sweetness, and saffron makes them better adapted for medicinal purposes. They are most pungent, however, when mixed with amomum alone, which will often produce head-ache even. 
+
+quidam satis habent adspergere quae sunt pretiosissima ceteris decoctis, inpendio parcentes, sed non est eadem vis nisi una decoctis. 
+
+There are some persons who content themselves with sprinkling the more precious ingredients upon the others after boiling them down, for the purpose of economy; but the strength of the unguent is not so great as when the ingredients have been boiled together. 
+
+murra et per se unguentum facit sine oleo, stacte dumtaxat, alioqui nimiam amaritudinem adfert. 
+
+Myrrh used by itself, and without the mixture of oil, forms an unguent, but it is stacte69 only that must be used, for otherwise it will be productive of too great bitterness. 
+
+cyprino viride fit, susino unguinosum, mendesio nigrum, rhodino candidum, murra pallidum. 
+
+Unguent of cyprus turns other unguents green, while lily unguent70 makes them more unctuous: the unguent of Mendes turns them black, rose unguent makes them white, and that of myrrh of a pallid hue.
+
+haec sunt antiquae inventionis genera et postea officinarum furta.
+
+Such are the particulars of the ancient inventions, and the various falsifications of the shops in later times; 
+
+we will now pass on to make mention of what is the very height of refinement in these articles of luxury, indeed, I may say, the beau ideal71 of them all. 72
+
+(2.) This is what is called the "regal" unguent, from the fact that it is composed in these proportions for the kings of the Parthians. It consists of myrobalanus,73 costus, amomum, cinnamon, comacum,74 cardamum, spikenard, marum, myrrh, cassia, storax,75 ladanum,76 opobalsamum, Syrian calamus77 and Syrian sweet-rush,78 œnanthe, malobathrum, serichatum,79 cyprus, aspralathus, panax, saffron, cypirus, sweet marjoram, lotus,80 honey, and wine. Not one of the ingredients in this compound is produced either in Italy, that conqueror of the world, or, indeed, in all Europe, with the exception of the iris, which grows in Illyricum, and the nard, which is to be found in Gaul: as to the wine, the rose, the leaves of myrtle, and the olive-oil, they are possessed by pretty nearly all countries in common.
 # b30
 ## c2
 #### 8
