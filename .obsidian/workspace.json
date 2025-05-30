@@ -59,8 +59,12 @@
             "id": "9933e842181072f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ref/pliny.natHist.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -105,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "species",
+                "query": "pliny",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -143,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/mdhvA.SDS.BAK.md",
+                "file": "Ref/pliny.natHist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/mdhvA.SDS.BAK.md",
+                "file": "Ref/pliny.natHist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/mdhvA.SDS.BAK.md"
+                "file": "Ref/pliny.natHist.md"
               }
             }
           }
@@ -202,6 +206,7 @@
   },
   "active": "9933e842181072f7",
   "lastOpenFiles": [
+    "002_quran/majuj/ya'juj_ma'juj.md",
     "nature_archaeology/species.md",
     "002_quran/ahl_kitab/ahl_kitab.md",
     "002_quran/ahl_kitab/ahl_kitab2.md",
@@ -236,7 +241,6 @@
     "Ref/haft.azilla/h.a.16.md",
     "Ref/haft.azilla/h.a.15.md",
     "Ref/haft.azilla/h.a.14.md",
-    "Ref/haft.azilla/h.a.13.md",
     "Ref/~syncthing~Qrsi.sync-conflict-20250112-235541-AFLIAW3.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.png",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.png",

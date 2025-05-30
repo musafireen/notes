@@ -34,6 +34,30 @@ I saw in the night visions, and, behold, [one] like the Son of man came with the
 
 And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.
 ## c8
+### 1
+בִּשְׁנַ֣ת שָׁל֔וֹשׁ לְמַלְכ֖וּת בֵּלְאשַׁצַּ֣ר הַמֶּ֑לֶךְ חָז֞וֹן נִרְאָ֤ה אֵלַי֙ אֲנִ֣י דָנִיֵּ֔אל אַחֲרֵ֛י הַנִּרְאָ֥ה אֵלַ֖י בַּתְּחִלָּֽה ׃
+
+In the third year of the reign of king Belshazzar a vision appeared unto me, [even unto] me Daniel, after that which appeared unto me at the first.
+### 2
+וָֽאֶרְאֶה֮ בֶּחָזוֹן֒ וַיְהִי֙ בִּרְאֹתִ֔י וַאֲנִי֙ בְּשׁוּשַׁ֣ן הַבִּירָ֔ה אֲשֶׁ֖ר בְּעֵילָ֣ם הַמְּדִינָ֑ה וָאֶרְאֶה֙ בֶּֽחָז֔וֹן וַאֲנִ֥י הָיִ֖יתִי עַל־אוּבַ֥ל אוּלָֽי ׃
+
+And I saw in a vision; and it came to pass, when I saw, that I [was] at Shushan [in] the palace, which [is] in the province of Elam; and I saw in a vision, and I was by the river of Ulai.
+### 3
+וָאֶשָּׂ֤א עֵינַי֙ וָאֶרְאֶ֔ה וְהִנֵּ֣ה ׀ אַ֣יִל אֶחָ֗ד עֹמֵ֛ד לִפְנֵ֥י הָאֻבָ֖ל וְל֣וֹ קְרָנָ֑יִם וְהַקְּרָנַ֣יִם גְּבֹה֗וֹת וְהָאַחַת֙ גְּבֹהָ֣ה מִן־הַשֵּׁנִ֔ית וְהַ֨גְּבֹהָ֔ה עֹלָ֖ה בָּאַחֲרֹנָֽה ׃
+
+Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had [two] horns: and the [two] horns [were] high; but one [was] higher than the other, and the higher came up last.
+### 4
+רָאִ֣יתִי אֶת־הָאַ֡יִל מְנַגֵּחַ֩ יָ֨מָּה וְצָפ֜וֹנָה וָנֶ֗גְבָּה וְכָל־חַיּוֹת֙ לֹֽא־יַֽעַמְד֣וּ לְפָנָ֔יו וְאֵ֥ין מַצִּ֖יל מִיָּד֑וֹ וְעָשָׂ֥ה כִרְצֹנ֖וֹ וְהִגְדִּֽיל ׃
+
+I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither [was there any] that could deliver out of his hand; but he did according to his will, and became great.
+### 5
+וַאֲנִ֣י ׀ הָיִ֣יתִי מֵבִ֗ין וְהִנֵּ֤ה צְפִיר־הָֽעִזִּים֙ בָּ֤א מִן־הַֽמַּעֲרָב֙ עַל־פְּנֵ֣י כָל־הָאָ֔רֶץ וְאֵ֥ין נוֹגֵ֖עַ בָּאָ֑רֶץ וְהַ֨צָּפִ֔יר קֶ֥רֶן חָז֖וּת בֵּ֥ין עֵינָֽיו ׃
+
+And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat [had] a notable horn between his eyes. (touched…: or, none touched him in the earth)
+### 6
+וַיָּבֹ֗א עַד־הָאַ֙יִל֙ בַּ֣עַל הַקְּרָנַ֔יִם אֲשֶׁ֣ר רָאִ֔יתִי עֹמֵ֖ד לִפְנֵ֣י הָאֻבָ֑ל וַיָּ֥רָץ אֵלָ֖יו בַּחֲמַ֥ת כֹּחֽוֹ ׃
+
+And he came to the ram that had [two] horns, which I had seen standing before the river, and ran unto him in the fury of his power.
 ### 15
 וַיְהִ֗י בִּרְאֹתִ֛י אֲנִ֥י דָנִיֵּ֖אל אֶת־הֶחָז֑וֹן וָאֲבַקְשָׁ֣ה בִינָ֔ה וְהִנֵּ֛ה עֹמֵ֥ד לְנֶגְדִּ֖י כְּמַרְאֵה־גָֽבֶר ׃
 
@@ -46,7 +70,18 @@ And I heard a man´s voice between [the banks of] Ulai, which called, and said, 
 וַיָּבֹא֙ אֵ֣צֶל עָמְדִ֔י וּבְבֹא֣וֹ נִבְעַ֔תִּי וָאֶפְּלָ֖ה עַל־פָּנָ֑י וַיֹּ֤אמֶר אֵלַי֙ הָבֵ֣ן בֶּן־אָדָ֔ם כִּ֖י לְעֶת־קֵ֥ץ הֶחָזֽוֹן ׃
 
 So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end [shall be] the vision.
+### 20
+הָאַ֥יִל אֲשֶׁר־רָאִ֖יתָ בַּ֣עַל הַקְּרָנָ֑יִם מַלְכֵ֖י מָדַ֥י וּפָרָֽס ׃
 
+The ram which thou sawest having [two] horns [are] the kings of Media and Persia.
+### 21
+וְהַצָּפִ֥יר הַשָּׂעִ֖יר מֶ֣לֶךְ יָוָ֑ן וְהַקֶּ֤רֶן הַגְּדוֹלָה֙ אֲשֶׁ֣ר בֵּין־עֵינָ֔יו ה֖וּא הַמֶּ֥לֶךְ הָרִאשֽׁוֹן ׃
+
+And the rough goat [is] the king of Grecia: and the great horn that [is] between his eyes [is] the first king.
+### 22
+וְהַ֨נִּשְׁבֶּ֔רֶת וַתַּֽעֲמֹ֥דְנָה אַרְבַּ֖ע תַּחְתֶּ֑יהָ אַרְבַּ֧ע מַלְכֻי֛וֹת מִגּ֥וֹי יַעֲמֹ֖דְנָה וְלֹ֥א בְכֹחֽוֹ ׃
+
+Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power.
 ## c9
 ### 21
 וְע֛וֹד אֲנִ֥י מְדַבֵּ֖ר בַּתְּפִלָּ֑ה וְהָאִ֣ישׁ גַּבְרִיאֵ֡ל אֲשֶׁר֩ רָאִ֨יתִי בֶחָז֤וֹן בַּתְּחִלָּה֙ מֻעָ֣ף בִּיעָ֔ף נֹגֵ֣עַ אֵלַ֔י כְּעֵ֖ת מִנְחַת־עָֽרֶב ׃

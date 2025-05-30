@@ -88,7 +88,6 @@ __ lokamātara
 : 9-10th
 \__ trika
 :[[MlnVjT]]
-
 # Kaulajñānanurṇaya
 : matsyendranātha 10th
 \__ kubjikā paścimāmnāya rejects vyākta liṅgatā
@@ -113,6 +112,9 @@ __ lokamātara
 : kṣemarāja 10th
 \__ comment on netratantra
 \__ sahaja śakti amṛta nāḍi nipāta
+
+# mṛnmayī
+1000 bishnupur jagat malla mrinmoyee maa puja
 
 # Iśāṇaśivagurudevapaddhati
 : 10-11th

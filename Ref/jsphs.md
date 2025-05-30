@@ -3,6 +3,165 @@ https://www.sefaria.org/The_Antiquities_of_the_Jews
 
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D8%3Awhiston%20chapter%3D6%3Awhiston%20section%3D1
 ## b1
+### 6.1
+#### 122
+Ἦσαν δὲ τῶν Νώχου παίδων υἱοί, ὧν ἐπὶ τιμῇ τοῖς ἔθνεσι τὰ ὀνόματα ἐπετίθεσαν οἱ γῆν τινα καταλαβόντες. 
+
+Now they were the grandchildren of Noah, in honor of whom names were imposed on the nations by those that first seized upon them. 
+
+Ἰαφθᾶ μὲν οὖν τοῦ Νώχου παιδὸς ἦσαν ἑπτὰ υἱοί. 
+
+Japhet, the son of Noah, had seven sons: 
+
+κατοικοῦσι δὲ οὗτοι ἀπὸ Ταύρου καὶ Ἀμάνου τῶν ὀρῶν ἀρξάμενοι καὶ προῆλθον ἐπὶ μὲν τῆς Ἀσίας ἄχρι ποταμοῦ Τανάιδος, ἐπὶ δὲ τῆς Εὐρώπης ἕως Γαδείρων γῆν 
+
+they inhabited so, that, beginning at the mountains Taurus and Amanus, they proceeded along Asia, as far as the river Tanais, and along Europe to Cadiz; 
+
+ἣν ἔτυχον καταλαμβάνοντες, καὶ μηδενὸς προκατῳκηκότος τὰ ἔθνη τοῖς αὑτῶν ἐκάλουν ὀνόμασιν. 
+
+and settling themselves on the lands which they light upon, which none had inhabited before, they called the nations by their own names. 
+#### 123
+[123] τοὺς γὰρ νῦν ὑφ᾽ Ἑλλήνων Γαλάτας καλουμένους, Γομαρεῖς δὲ λεγομένους, Γόμαρος ἔκτισε. 
+
+For Gomer founded those whom the Greeks now call Galatians, [Galls,] but were then called Gomerites. 
+
+Μαγώγης δὲ τοὺς ἀπ᾽ αὐτοῦ Μαγώγας ὀνομασθέντας ᾤκισεν, Σκύθας δὲ ὑπ᾽ αὐτῶν προσαγορευομένους. 
+
+Magog founded those that from him were named Magogites, but who are by the Greeks called Scythians. 
+#### 124
+[124] τῶν δὲ Ἰαφθᾶ παίδων Ἰαυάνου καὶ Μάδου ἀπὸ μὲν τούτου Μαδαῖοι γίνονται ἔθνος, οἳ πρὸς Ἑλλήνων Μῆδοι κέκληνται, 
+
+Now as to Javan and Madai, the sons of Japhet; from Madai came the Madeans, who are called Medes, by the Greeks; 
+
+ἀπὸ δὲ Ἰαυάνου Ἰωνία καὶ πάντες Ἕλληνες γεγόνασι. 
+
+but from Javan, Ionia, and all the Grecians, are derived. 
+
+κατοικίζει δὲ καὶ Θεοβήλους Θεόβηλος, οἵτινες ἐν τοῖς νῦν Ἴβηρες καλοῦνται. 
+
+Thobel founded the Thobelites, who are now called Iberes; 
+#### 125
+καὶ Μεσχῆνοι δὲ ὑπὸ Μέσχου κτισθέντες Καππάδοκες μὲν ἄρτι κέκληνται, 
+
+and the Mosocheni were founded by Mosoch; now they are Cappadocians. 
+
+τῆς δὲ ἀρχαίας αὐτῶν προσηγορίας σημεῖον δείκνυται: 
+
+There is also a mark of their ancient denomination still to be shown; 
+
+πόλις γάρ ἐστι παρ᾽ αὐτοῖς ἔτι καὶ νῦν Μάζακα, δηλοῦσα τοῖς συνιέναι δυναμένοις οὕτως ποτὲ προσαγορευθὲν πᾶν τὸ ἔθνος. 
+
+for there is even now among them a city called Mazaca, which may inform those that are able to understand, that so was the entire nation once called. 
+
+Θείρης δὲ Θείρας μὲν ἐκάλεσεν ὧν ἦρξεν, Ἕλληνες δὲ Θρᾷκας αὐτοὺς μετωνόμασαν. 
+
+Thiras also called those whom he ruled over Thirasians; but the Greeks changed the name into Thracians. 
+#### 126
+καὶ τοσαῦτα μὲν ἔθνη ὑπὸ τῶν Ἰαφέθου παίδων κατοικεῖται: 
+
+And so many were the countries that had the children of Japhet for their inhabitants. 
+
+Γομάρου δὲ τριῶν υἱῶν γενομένων Ἀσχανάξης μὲν Ἀσχανάξους ᾤκισεν, οἳ νῦν Ῥήγινες ὑπὸ τῶν Ἑλλήνων καλοῦνται, 
+
+Of the three sons of Gomer, Aschanax founded the Aschanaxians, who are now called by the Greeks Rheginians. 
+
+Ῥιφάθης δὲ Ῥιφαθαίους τοὺς Παφλαγόνας λεγομένους, 
+
+So did Riphath found the Ripheans, now called Paphlagonians; 
+
+Θυγράμης δὲ Θυγραμαίους, οἳ δόξαν Ἕλλησι Φρύγες ὠνομάσθησαν. 
+
+and Thrugramma the Thrugrammeans, who, as the Greeks resolved, were named Phrygians. 
+#### 127
+Ἰαυάνου δὲ τοῦ Ἰάφθου τριῶν καὶ αὐτοῦ παίδων γενομένων Ἁλισᾶς μὲν Ἁλισαίους ἐκάλεσεν ὧν ἦρχεν, Αἰολεῖς δὲ νῦν εἰσι, 
+
+Of the three sons of Javan also, the son of Japhet, Elisa gave name to the Eliseans, who were his subjects; they are now the Aeolians. 
+
+Θάρσος δὲ Θαρσεῖς: οὕτως γὰρ ἐκαλεῖτο τὸ παλαιὸν ἡ Κιλικία. 
+
+Tharsus to the Tharsians, for so was Cilicia of old called; 
+
+σημεῖον δέ: Ταρσὸς γὰρ παρ᾽ αὐτοῖς τῶν πόλεων ἡ ἀξιολογωτάτη καλεῖται μητρόπολις οὖσα τὸ ταῦ πρὸς τὴν κλῆσιν ἀντὶ τοῦ θῆτα μεταβαλόντων. 
+
+the sign of which is this, that the noblest city they have, and a metropolis also, is Tarsus, the tau being by change put for the theta. 
+#### 128
+Χέθιμος δὲ Χέθιμα τὴν νῆσον ἔσχε, Κύπρος αὕτη νῦν καλεῖται, 
+
+Cethimus possessed the island Cethima: it is now called Cyprus; 
+
+καὶ ἀπ᾽ αὐτῆς νῆσοί τε πᾶσαι καὶ τὰ πλείω τῶν παρὰ θάλατταν Χέθη ὑπὸ Ἑβραίων ὀνομάζεται: 
+
+and from that it is that all islands, and the greatest part of the sea-coasts, are named Cethim by the Hebrews: 
+
+μάρτυς δέ μου τῷ λόγῳ μία τῶν ἐν Κύπρῳ πόλεων ἰσχύσασα τὴν προσηγορίαν φυλάξαι: 
+
+and one city there is in Cyprus that has been able to preserve its denomination; 
+
+Κίτιον γὰρ ὑπὸ τῶν ἐξελληνισάντων αὐτὴν καλεῖται μηδ᾽ οὕτως διαφυγοῦσα τοῦ Χεθίμου τὸ ὄνομα. 
+
+it has been called Citius by those who use the language of the Greeks, and has not, by the use of that dialect, escaped the name of Cethim. 
+
+Ἰαφθᾶ μὲν δὴ παῖδές τε καὶ υἱωνοὶ τοσαῦτα ἔσχον ἔθνη. 
+
+And so many nations have the children and grandchildren of Japhet possessed. 
+#### 129
+ὃ δ᾽ ἴσως ὑφ᾽ Ἑλλήνων ἀγνοεῖται, τοῦτο προειπὼν τρέψομαι πρὸς τὴν ἀφήγησιν ὧν κατέλιπον. 
+
+Now when I have premised somewhat, which perhaps the Greeks do not know, I will return and explain what I have omitted; 
+
+τὰ γὰρ ὀνόματα διὰ τὸ τῆς γραφῆς εὐπρεπὲς ἡλλήνισται πρὸς ἡδονὴν τῶν ἐντευξομένων: 
+
+for such names are pronounced here after the manner of the Greeks, to please my readers; 
+
+οὐ γὰρ ἐπιχώριος ἡμῖν ὁ τοιοῦτος αὐτῶν τύπος, 
+
+for our own country language does not so pronounce them: 
+
+ἀλλ᾽ ἕν τε αὐτῶν σχῆμα καὶ τελευτὴ μία, 
+
+but the names in all cases are of one and the same ending; 
+
+Νῶχός τέ τοι Νῶε καλεῖται καὶ τοῦτον τὸν τύπον ἐπὶ παντὸς τηρεῖ σχήματος.
+
+for the name we here pronounce Noeas, is there Noah, and in every case retains the same termination.
+### 7.2
+#### 158
+Μνημονεύει δὲ τοῦ πατρὸς ἡμῶν Ἁβράμου Βηρωσός, οὐκ ὀνομάζων, λέγων δ᾽ οὕτως: ‘μετὰ δὲ τὸν κατακλυσμὸν δεκάτῃ γενεᾷ παρὰ Χαλδαίοις τις ἦν δίκαιος ἀνὴρ καὶ μέγας καὶ τὰ οὐράνια ἔμπειρος.’ 
+
+Berosus mentions our father Abram without naming him, when he says thus: "In the tenth generation after the Flood, there was among the Chaldeans a man righteous and great, and skillful in the celestial science." 
+#### 159
+Ἑκαταῖος δὲ καὶ τοῦ μνησθῆναι πλέον τι πεποίηκε: 
+
+But Hecataeus does more than barely mention him; 
+
+βιβλίον γὰρ περὶ αὐτοῦ συνταξάμενος κατέλιπε. 
+
+for he composed, and left behind him, a book concerning him. 
+
+Νικόλαος δὲ ὁ Δαμασκηνὸς ἐν τῇ τετάρτῃ τῶν ἱστοριῶν λέγει οὕτως: ‘
+
+And Nicolaus of Damascus, in the fourth book of his History, says thus: 
+
+Ἁβράμης ἐβασίλευσεν ἔπηλυς σὺν στρατῷ ἀφιγμένος ἐκ τῆς γῆς τῆς ὑπὲρ Βαβυλῶνος Χαλδαίων λεγομένης. 
+
+"Abram reigned at Damascus, being a foreigner, who came with an army out of the land above Babylon, called the land of the Chaldeans: 
+#### 160
+μετ᾽ οὐ πολὺν δὲ χρόνον μεταναστὰς καὶ ἀπὸ ταύτης τῆς χώρας σὺν τῷ σφετέρῳ λαῷ εἰς τὴν τότε μὲν Χαναναίαν λεγομένην νῦν δὲ Ἰουδαίαν μετῴκησε καὶ οἱ ἀπ᾽ ἐκείνου πληθύσαντες, 
+
+but, after a long time, he got him up, and removed from that country also, with his people, and went into the land then called the land of Canaan, but now the land of Judea, and this when his posterity were become a multitude; 
+
+περὶ ὧν ἐν ἑτέρῳ λόγῳ διέξειμι τὰ ἱστορούμενα. 
+
+as to which posterity of his, we relate their history in another work. 
+
+τοῦ δὲ Ἁβράμου ἔτι καὶ νῦν ἐν τῇ Δαμασκηνῇ τὸ ὄνομα δοξάζεται 
+
+Now the name of Abram is even still famous in the country of Damascus; 
+
+καὶ κώμη δείκνυται ἀπ᾽ αὐτοῦ Ἁβράμου οἴκησις λεγομένη.’
+
+and there is shown a village named from him, The Habitation of Abram.
+### 13.2
 #### 227
 ἔφερον δὲ σὺν αὐτοῖς ὅσα λοιπὰ πρὸς τὴν θυσίαν ἦν πλὴν ἱερείου. 
 
@@ -29,18 +188,87 @@ he asked his father what he was about to offer, since there was no animal there 
 that therefore, if God pleased to be present and propitious at this sacrifice, he would provide himself an oblation.
 ## b8
 ### 5.3
-Ταῦτα Σολόμων εἰκοσαετίᾳ κατασκευάσας, ἐπεὶ πολὺν μὲν αὐτῷ χρυσὸν πλείω δ᾽ ἄργυρον ὁ τῶν Τυρίων βασιλεὺς Εἴρωμος εἰς τὴν οἰκοδομίαν συνήνεγκεν ἔτι δὲ καὶ ξύλα κέδρου καὶ πίτυος, ἀντεδωρήσατο καὶ αὐτὸς μεγάλαις δωρεαῖς τὸν Εἴρωμον σῖτόν τε κατ᾽ ἔτος πέμπων αὐτῷ καὶ οἶνον καὶ ἔλαιον, ὧν μάλιστα διὰ τὸ νῆσον οἰκεῖν, ὡς καὶ προειρήκαμεν ἤδη, χρῄζων διετέλει. [142] πρὸς τούτοις δὲ καὶ πόλεις αὐτῷ τῆς Γαλιλαίας εἴκοσι μὲν τὸν ἀριθμὸν οὐ πόρρω δὲ τῆς Τύρου κειμένας ἐχαρίσατο, ἃς ἐπελθὼν καὶ κατανοήσας Εἴρωμος καὶ δυσαρεστήσας τῇ δωρεᾷ πέμψας πρὸς Σολόμωνα μὴ δεῖσθαι τῶν πόλεων ἔλεγε κἄκτοτε προσηγορεύθησαν Χαβαλὼν γῆ: μεθερμηνευόμενον δὲ τὸ χάβαλον κατὰ Φοινίκων γλῶτταν οὐκ ἀρέσκον σημαίνει. [143] καὶ σοφίσματα δὲ καὶ λόγους αἰνιγματώδεις διεπέμψατο πρὸς Σολόμωνα ὁ τῶν Τυρίων βασιλεὺς παρακαλῶν, ὅπως αὐτῷ σαφηνίσῃ τούτους καὶ τῆς ἀπορίας τῶν ἐν αὐτοῖς ζητουμένων ἀπαλλάξῃ. τὸν δὲ δεινὸν ὄντα καὶ συνετὸν οὐδὲν τούτων παρῆλθεν, ἀλλὰ πάντα νικήσας τῷ λογισμῷ καὶ μαθὼν αὐτῶν τὴν διάνοιαν ἐφώτισε.
+141
+Ταῦτα Σολόμων εἰκοσαετίᾳ κατασκευάσας, ἐπεὶ πολὺν μὲν αὐτῷ χρυσὸν πλείω δ᾽ ἄργυρον ὁ τῶν Τυρίων βασιλεὺς Εἴρωμος εἰς τὴν οἰκοδομίαν συνήνεγκεν ἔτι δὲ καὶ ξύλα κέδρου καὶ πίτυος, ἀντεδωρήσατο καὶ αὐτὸς μεγάλαις δωρεαῖς τὸν Εἴρωμον σῖτόν τε κατ᾽ ἔτος πέμπων αὐτῷ καὶ οἶνον καὶ ἔλαιον, ὧν μάλιστα διὰ τὸ νῆσον οἰκεῖν, ὡς καὶ προειρήκαμεν ἤδη, χρῄζων διετέλει. 
 
-When Solomon had completed all this in twenty years' time, because Hiram king of Tyre had contributed a great deal of gold, and more silver to these buildings, as also cedar wood and pine wood, he also rewarded Hiram with rich presents; corn he sent him also year by year, and wine and oil, which were the principal things that he stood in need of, because he inhabited an island, as we have already said. And besides these, he granted him certain cities of Galilee, twenty in number, that lay not far from Tyre; which, when Hiram went to, and viewed, and did not like the gift, he sent word to Solomon that he did not want such cities as they were; and after that time these cities were called the land of Cabul; which name, if it be interpreted according to the language of the Phoenicians, denotes what does not please. Moreover, the king of Tyre sent sophisms and enigmatical sayings to Solomon, and desired he would solve them, and free them from the ambiguity that was in them. Now so sagacious and understanding was Solomon, that none of these problems were too hard for him; but he conquered them all by his reasonings, and discovered their hidden meaning, and brought it to light. 
+When Solomon had completed all this in twenty years' time, because Hiram king of Tyre had contributed a great deal of gold, and more silver to these buildings, as also cedar wood and pine wood, he also rewarded Hiram with rich presents; corn he sent him also year by year, and wine and oil, which were the principal things that he stood in need of, because he inhabited an island, as we have already said. 
+[142] 
+πρὸς τούτοις δὲ καὶ πόλεις αὐτῷ τῆς Γαλιλαίας εἴκοσι μὲν τὸν ἀριθμὸν οὐ πόρρω δὲ τῆς Τύρου κειμένας ἐχαρίσατο, ἃς ἐπελθὼν καὶ κατανοήσας Εἴρωμος καὶ δυσαρεστήσας τῇ δωρεᾷ πέμψας πρὸς Σολόμωνα μὴ δεῖσθαι τῶν πόλεων ἔλεγε κἄκτοτε προσηγορεύθησαν Χαβαλὼν γῆ: μεθερμηνευόμενον δὲ τὸ χάβαλον κατὰ Φοινίκων γλῶτταν οὐκ ἀρέσκον σημαίνει. 
 
-Μέμνηται τούτων τῶν δύο βασιλέων καὶ Μένανδρος ὁ μεταφράσας ἀπὸ τῆς Φοινίκων διαλέκτου τὰ Τυρίων ἀρχεῖα εἰς τὴν Ἑλληνικὴν φωνὴν λέγων οὕτως: ‘τελευτήσαντος δὲ Ἀβιβάλου διεδέξατο τὴν βασιλείαν παρ᾽ αὐτοῦ υἱὸς Εἴρωμος, ὃς βιώσας ἔτη πεντηκοντατρία ἐβασίλευσε τριάκοντα καὶ τέσσαρα. [145] οὗτος ἔχωσε τὸ Εὐρύχωρον τόν τε χρυσοῦν κίονα τὸν ἐν τοῖς τοῦ Διὸς ἀνέθηκεν: ἔτι τε ὕλην ξύλων ἀπελθὼν ἔκοψεν ἀπὸ τοῦ ὄρους τοῦ λεγομένου Λιβάνου εἰς τὰς τῶν ἱερῶν στέγας: [146] καθελών τε τὰ ἀρχαῖα ἱερὰ καὶ ναὸν ᾠκοδόμησε τοῦ Ἡρακλέους καὶ τῆς Ἀστάρτης, πρῶτός τε τοῦ Ἡρακλέους ἔγερσιν ἐποιήσατο ἐν τῷ Περιτίῳ μηνί: 
+And besides these, he granted him certain cities of Galilee, twenty in number, that lay not far from Tyre; which, when Hiram went to, and viewed, and did not like the gift, he sent word to Solomon that he did not want such cities as they were; and after that time these cities were called the land of Cabul; which name, if it be interpreted according to the language of the Phoenicians, denotes what does not please. 
+[143] 
+καὶ σοφίσματα δὲ καὶ λόγους αἰνιγματώδεις διεπέμψατο πρὸς Σολόμωνα ὁ τῶν Τυρίων βασιλεὺς παρακαλῶν, ὅπως αὐτῷ σαφηνίσῃ τούτους καὶ τῆς ἀπορίας τῶν ἐν αὐτοῖς ζητουμένων ἀπαλλάξῃ. τὸν δὲ δεινὸν ὄντα καὶ συνετὸν οὐδὲν τούτων παρῆλθεν, ἀλλὰ πάντα νικήσας τῷ λογισμῷ καὶ μαθὼν αὐτῶν τὴν διάνοιαν ἐφώτισε.
 
-Menander also, one who translated the Tyrian archives out of the dialect of the Phoenicians into the Greek language, makes mention of these two kings, where he says thus: "When Abibalus was dead,. his son Hiram received the kingdom from him, who, when he had lived fifty-three years, reigned thirty-four. He raised a bank in the large place, and dedicated the golden pillar which is in Jupiter's temple. He also went and cut down materials of timber out of the mountain called Libanus, for the roof of temples; and when he had pulled down the ancient temples, he both built the temple of Hercules and that of Astarte; and he first set up the temple of Hercules in the month Peritius; 
+Moreover, the king of Tyre sent sophisms and enigmatical sayings to Solomon, and desired he would solve them, and free them from the ambiguity that was in them. Now so sagacious and understanding was Solomon, that none of these problems were too hard for him; but he conquered them all by his reasonings, and discovered their hidden meaning, and brought it to light. 
 
-τοῖς τε Ἰτυκαίοις ἐπεστρατεύσατο μὴ ἀποδιδοῦσι τοὺς φόρους καὶ ὑποτάξας πάλιν αὑτῷ ἀνέστρεψεν. ἐπὶ τούτου ἦν Ἀβδήμονος παῖς νεώτερος, ὃς ἀεὶ ἐνίκα τὰ προβλήματα, ἃ ἐπέτασσε Σολόμων ὁ Ἱεροσολύμων βασιλεύς.’ [147] μνημονεύει δὲ καὶ Δῖος λέγων οὕτως: ‘Ἀβιβάλου τελευτήσαντος ὁ υἱὸς αὐτοῦ Εἴρωμος ἐβασίλευσεν. οὗτος τὰ πρὸς ἀνατολὰς μέρη τῆς πόλεως προσέχωσε καὶ μεῖζον τὸ ἄστυ ἐποίησε καὶ τοῦ Ὀλυμπίου Διὸς τὸ ἱερὸν καθ᾽ ἑαυτὸ ὂν ἐγχώσας τὸν μεταξὺ τόπον συνῆψε τῇ πόλει καὶ χρυσοῖς ἀναθήμασιν ἐκόσμησεν: ἀναβὰς δὲ εἰς τὸν Λίβανον ὑλοτόμησε πρὸς τὴν τῶν ἱερῶν κατασκευήν. [148] τὸν δὲ τυραννοῦντα Ἱεροσολύμων Σολόμωνα πέμψαι φησὶ πρὸς Εἴρωμον αἰνίγματα καὶ παρ᾽ αὐτοῦ λαβεῖν ἀξιοῦντα, τὸν δὲ μὴ δυνηθέντα διακρῖναι τῷ λύσαντι χρήματα ἀποτίνειν. [149] ὁμολογήσαντα δὲ τὸν Εἴρωμον καὶ μὴ δυνηθέντα λῦσαι τὰ αἰνίγματα πολλὰ τῶν χρημάτων εἰς τὸ ἐπιζήμιον ἀναλῶσαι: εἶτα δὲ Ἀβδήμονά τινα Τύριον ἄνδρα τὰ προτεθέντα λῦσαι καὶ αὐτὸν ἄλλα προβαλεῖν, ἃ μὴ λύσαντα τὸν Σολόμωνα πολλὰ τῷ Εἰρώμῳ προσαποτῖσαι χρήματα.’ καὶ Δῖος μὲν οὕτως εἴρηκεν.
+Μέμνηται τούτων τῶν δύο βασιλέων καὶ Μένανδρος ὁ μεταφράσας ἀπὸ τῆς Φοινίκων διαλέκτου τὰ Τυρίων ἀρχεῖα εἰς τὴν Ἑλληνικὴν φωνὴν λέγων οὕτως: ‘τελευτήσαντος δὲ Ἀβιβάλου διεδέξατο τὴν βασιλείαν παρ᾽ αὐτοῦ υἱὸς Εἴρωμος, ὃς βιώσας ἔτη πεντηκοντατρία ἐβασίλευσε τριάκοντα καὶ τέσσαρα. 
 
-he also made an expedition against the Euchii, or Titii, who did not pay their tribute, and when he had subdued them to himself he returned. Under this king there was Abdemon, a very youth in age, who always conquered the difficult problems which Solomon, king of Jerusalem, commanded him to explain. Dius also makes mention of him, where he says thus: "When Abibalus was dead, his son Hiram reigned. He raised the eastern parts of the city higher, and made the city itself larger. He also joined the temple of Jupiter, which before stood by itself, to the city, by raising a bank in the middle between them; and he adorned it with donations of gold. Moreover, he went up to Mount Libanus, and cut down materials of wood for the building of the temples." He says also, that Solomon, who was then king of Jerusalem, sent riddles to Hiram, and desired to receive the like from him, but that he who could not solve them should pay money to them that did solve them, and that Hiram accepted the conditions; and when he was not able to solve the riddles proposed by Solomon, he paid a great deal of money for his fine; but that he afterward did solve the proposed riddles by means of Abdemon, a man of Tyre; and that Hiram proposed other riddles, which, when Solomon could not solve, he paid back a great deal of money to Hiram." This it is which Dius wrote.
+Menander also, one who translated the Tyrian archives out of the dialect of the Phoenicians into the Greek language, makes mention of these two kings, where he says thus: "When Abibalus was dead,. his son Hiram received the kingdom from him, who, when he had lived fifty-three years, reigned thirty-four. 
+[145] 
+οὗτος ἔχωσε τὸ Εὐρύχωρον τόν τε χρυσοῦν κίονα τὸν ἐν τοῖς τοῦ Διὸς ἀνέθηκεν: ἔτι τε ὕλην ξύλων ἀπελθὼν ἔκοψεν ἀπὸ τοῦ ὄρους τοῦ λεγομένου Λιβάνου εἰς τὰς τῶν ἱερῶν στέγας: 
 
+He raised a bank in the large place, and dedicated the golden pillar which is in Jupiter's temple. He also went and cut down materials of timber out of the mountain called Libanus, for the roof of temples; 
+[146] 
+καθελών τε τὰ ἀρχαῖα ἱερὰ καὶ ναὸν ᾠκοδόμησε τοῦ Ἡρακλέους καὶ τῆς Ἀστάρτης, πρῶτός τε τοῦ Ἡρακλέους ἔγερσιν ἐποιήσατο ἐν τῷ Περιτίῳ μηνί: 
+
+and when he had pulled down the ancient temples, he both built the temple of Hercules and that of Astarte; and he first set up the temple of Hercules in the month Peritius; 
+
+τοῖς τε Ἰτυκαίοις ἐπεστρατεύσατο μὴ ἀποδιδοῦσι τοὺς φόρους καὶ ὑποτάξας πάλιν αὑτῷ ἀνέστρεψεν. ἐπὶ τούτου ἦν Ἀβδήμονος παῖς νεώτερος, ὃς ἀεὶ ἐνίκα τὰ προβλήματα, ἃ ἐπέτασσε Σολόμων ὁ Ἱεροσολύμων βασιλεύς.’ 
+
+he also made an expedition against the Euchii, or Titii, who did not pay their tribute, and when he had subdued them to himself he returned. Under this king there was Abdemon, a very youth in age, who always conquered the difficult problems which Solomon, king of Jerusalem, commanded him to explain. 
+[147] 
+μνημονεύει δὲ καὶ Δῖος λέγων οὕτως: ‘Ἀβιβάλου τελευτήσαντος ὁ υἱὸς αὐτοῦ Εἴρωμος ἐβασίλευσεν. οὗτος τὰ πρὸς ἀνατολὰς μέρη τῆς πόλεως προσέχωσε καὶ μεῖζον τὸ ἄστυ ἐποίησε καὶ τοῦ Ὀλυμπίου Διὸς τὸ ἱερὸν καθ᾽ ἑαυτὸ ὂν ἐγχώσας τὸν μεταξὺ τόπον συνῆψε τῇ πόλει καὶ χρυσοῖς ἀναθήμασιν ἐκόσμησεν: ἀναβὰς δὲ εἰς τὸν Λίβανον ὑλοτόμησε πρὸς τὴν τῶν ἱερῶν κατασκευήν. 
+
+Dius also makes mention of him, where he says thus: "When Abibalus was dead, his son Hiram reigned. He raised the eastern parts of the city higher, and made the city itself larger. He also joined the temple of Jupiter, which before stood by itself, to the city, by raising a bank in the middle between them; and he adorned it with donations of gold. Moreover, he went up to Mount Libanus, and cut down materials of wood for the building of the temples." 
+[148] 
+τὸν δὲ τυραννοῦντα Ἱεροσολύμων Σολόμωνα πέμψαι φησὶ πρὸς Εἴρωμον αἰνίγματα καὶ παρ᾽ αὐτοῦ λαβεῖν ἀξιοῦντα, τὸν δὲ μὴ δυνηθέντα διακρῖναι τῷ λύσαντι χρήματα ἀποτίνειν. 
+
+He says also, that Solomon, who was then king of Jerusalem, sent riddles to Hiram, and desired to receive the like from him, but that he who could not solve them should pay money to them that did solve them, and that Hiram accepted the conditions; 
+[149] 
+ὁμολογήσαντα δὲ τὸν Εἴρωμον καὶ μὴ δυνηθέντα λῦσαι τὰ αἰνίγματα πολλὰ τῶν χρημάτων εἰς τὸ ἐπιζήμιον ἀναλῶσαι: εἶτα δὲ Ἀβδήμονά τινα Τύριον ἄνδρα τὰ προτεθέντα λῦσαι καὶ αὐτὸν ἄλλα προβαλεῖν, ἃ μὴ λύσαντα τὸν Σολόμωνα πολλὰ τῷ Εἰρώμῳ προσαποτῖσαι χρήματα.’ καὶ Δῖος μὲν οὕτως εἴρηκεν.
+
+and when he was not able to solve the riddles proposed by Solomon, he paid a great deal of money for his fine; but that he afterward did solve the proposed riddles by means of Abdemon, a man of Tyre; and that Hiram proposed other riddles, which, when Solomon could not solve, he paid back a great deal of money to Hiram." This it is which Dius wrote.
+
+# bell
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0147%3Abook%3D7%3Awhiston+chapter%3D7%3Awhiston+section%3D4
+## b7
+### 7.4
+#### 244
+Τὸ δὲ τῶν Ἀλανῶν ἔθνος ὅτι μέν εἰσι Σκύθαι περὶ τὸν Τάναϊν καὶ τὴν Μαιῶτιν λίμνην κατοικοῦντες, πρότερόν που δεδηλώκαμεν, 
+
+[244] Now there was a nation of the Alans, which we have formerly mentioned some where as being Scythians and inhabiting at the lake Meotis. 
+#### 245
+κατὰ τούτους δὲ τοὺς χρόνους διανοηθέντες εἰς τὴν Μηδίαν καὶ προσωτέρω ταύτης ἔτι καθ᾽ ἁρπαγὴν ἐμβαλεῖν τῷ βασιλεῖ τῶν Ὑρκανῶν διαλέγονται: 
+
+This nation about this time laid a design of falling upon Media, and the parts beyond it, in order to plunder them; with which intention they treated with the king of Hyrcania; 
+
+τῆς παρόδου γὰρ οὗτος δεσπότης ἐστίν, ἣν ὁ βασιλεὺς Ἀλέξανδρος πύλαις σιδηραῖς κλειστὴν ἐποίησε. 
+
+for he was master of that passage which king Alexander [the Great] shut up with iron gates. 
+#### 246
+κἀκείνου τὴν εἴσοδον αὐτοῖς παρασχόντος ἀθρόοι καὶ μηδὲν προϋποπτεύσασι τοῖς Μήδοις ἐπιπεσόντες χώραν πολυάνθρωπον καὶ παντοίων ἀνάμεστον βοσκημάτων διήρπαζον μηδενὸς αὐτοῖς τολμῶντος ἀνθίστασθαι. 
+
+This king gave them leave to come through them; so they came in great multitudes, and fell upon the Medes unexpectedly, and plundered their country, which they found full of people, and replenished with abundance of cattle, while nobody durst make any resistance against them; 
+#### 247
+καὶ γὰρ ὁ βασιλεύων τῆς χώρας Πάκορος ὑπὸ δέους εἰς τὰς δυσχωρίας ἀναφεύγων τῶν μὲν ἄλλων ἁπάντων παρακεχωρήκει, μόλις δὲ παρ᾽ αὐτῶν ἐρρύσατο τήν τε γυναῖκα καὶ τὰς παλλακὰς αἰχμαλώτους γενομένας ἑκατὸν δοὺς τάλαντα. 
+
+for Pacorus, the king of the country, had fled away for fear into places where they could not easily come at him, and had yielded up every thing he had to them, and had only saved his wife and his concubines from them, and that with difficulty also, after they had been made captives, by giving them a hundred talents for their ransom. 
+#### 248
+μετὰ πολλῆς οὖν ῥᾳστώνης ἀμαχεὶ ποιούμενοι τὰς ἁρπαγὰς μέχρι τῆς Ἀρμενίας προῆλθον πάντα λεηλατοῦντες. 
+
+These Alans therefore plundered the country without opposition, and with great ease, and proceeded as far as Armenia, laying all waste before them. 
+#### 249
+Τιριδάτης δ᾽ αὐτῆς ἐβασίλευεν, ὃς ὑπαντιάσας αὐτοῖς καὶ ποιησάμενος μάχην παρὰ μικρὸν ἦλθεν ἐπ᾽ αὐτῆς ζωὸς ἁλῶναι τῆς παρατάξεως: 
+
+Now Tiridates was king of that country, who met them, and fought them, but had like to have been taken alive in the battle; 
+#### 250
+βρόχον γὰρ αὐτῷ περιβαλών τις ἔμελλεν ἐπισπάσειν, εἰ μὴ τῷ ξίφει θᾶττον ἐκεῖνος τὸν τόνον κόψας ἔφθη διαφυγεῖν. 
+
+for a certain man threw a net over him from a great distance, and had soon drawn him to him, unless he had immediately cut the cord with his sword, and ran away, and prevented it. 
+#### 251
+οἱ δὲ καὶ διὰ τὴν μάχην ἔτι μᾶλλον ἀγριωθέντες τὴν μὲν χώραν ἐλυμήναντο, πολὺ δὲ πλῆθος ἀνθρώπων καὶ τῆς ἄλλης λείας ἄγοντες ἐξ ἀμφοῖν τῶν βασιλειῶν πάλιν εἰς τὴν οἰκείαν ἀνεκομίσθησαν.
+
+So the Alans, being still more provoked by this sight, laid waste the country, and drove a great multitude of the men, and a great quantity of the other prey they had gotten out of both kingdoms, along with them, and then retreated back to their own country.
 # ap
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0216
 ## b1

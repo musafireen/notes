@@ -130,6 +130,8 @@ That they may know from the rising of the sun, and from the west, that [there is
 εγω ο κατασκευασας φως και ποιησας σκοτος ο ποιων ειρηνην και κτιζων κακα εγω κυριος ο θεος ο ποιων ταυτα παντα
 
 I form the light, and create darkness: I make peace, and create evil: I the LORD do all these [things].
+## c54
+
 ## c66
 ### 24
 וְיָצְא֣וּ וְרָא֔וּ בְּפִגְרֵי֙ הָאֲנָשִׁ֔ים הַפֹּשְׁעִ֖ים בִּ֑י כִּ֣י תוֹלַעְתָּ֞ם לֹ֣א תָמ֗וּת וְאִשָּׁם֙ לֹ֣א תִכְבֶּ֔ה וְהָי֥וּ דֵרָא֖וֹן לְכָל־בָּשָֽׂר ׃

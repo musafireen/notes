@@ -565,6 +565,12 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831348
 इ॒मा गिर॑ आदि॒त्येभ्यो॑ घृ॒तस्नू॑: स॒नाद्राज॑भ्यो जु॒ह्वा॑ जुहोमि । शृ॒णोतु॑ मि॒त्रो अ॑र्य॒मा भगो॑ नस्तुविजा॒तो वरु॑णो॒ दक्षो॒ अंश॑: ॥
 
 “I present continually, with the ladle (of speech), these oblation-dropping hymns to the royal Ādityas; may Mitra, Aryaman, Bhaga, the multi-present Varuṇa, the (dakṣa) powerful Aṃśa, hear us.”
+## 2.31
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831398.html
+#### 6
+उ॒त व॒: शंस॑मु॒शिजा॑मिव श्म॒स्यहि॑र्बु॒ध्न्यो॒३॒॑ऽज एक॑पादु॒त । त्रि॒त ऋ॑भु॒क्षाः स॑वि॒ता चनो॑ दधे॒ऽपां नपा॑दाशु॒हेमा॑ धि॒या शमि॑ ॥
+
+“We desire, gods, to repeat the praise of you, who are propitiated by praise; may Ahirbudhnya, Aja ekapād, Trita, Ṛbhukṣin, Savitā, bestow upon us food, and may the swift-moving grandson of the waters, (Agni, be gratified by) our praises and our worship.”
 ## 2.33
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc831415.html
 #### 3
@@ -1051,11 +1057,28 @@ You, Indra, are the (vṛṣā) showerer of (dyau) heaven, the (vṛṣabha) bea
 
 for you, (vṛṣṇa) showerer (of benefits), who are the most excellent (vṛṣabha) shedder of (indu) rain, the (svādū) sweet (rasa) Soma, the (madhupeya) honey-flavoured, is (var) ready to be (pi) quaffed.
 ## 6.45
-
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc834126.html
 #### 1
 य आन॑यत्परा॒वत॒: सुनी॑ती तु॒र्वशं॒ यदु॑म् । इन्द्र॒: स नो॒ युवा॒ सखा॑ ॥
 
 May that (yuva) youthful Indra, who, by (sunīti) good guidance, brought Turvaśa and Yadu from (parāvat) afar, (be) our (sakhā) friend.
+## 6.49
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc834230.html
+#### 14
+तन्नोऽहि॑र्बु॒ध्न्यो॑ अ॒द्भिर॒र्कैस्तत्पर्व॑त॒स्तत्स॑वि॒ता चनो॑ धात् । तदोष॑धीभिर॒भि रा॑ति॒षाचो॒ भग॒: पुरं॑धिर्जिन्वतु॒ प्र रा॒ये ॥
+
+English translation:
+“May Ahirbudhnya (propitiated) by (our) hymns, and Parvata and Savitā give us food with water; may the bountiful (gods supply us), addition, with vegetable (grains); and may the all-wise Bhaga be propitious (to us) for (the acquisition of) riches.”
+## 6.50
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc834246.html
+#### 14
+उ॒त नोऽहि॑र्बु॒ध्न्य॑: शृणोत्व॒ज एक॑पात्पृथि॒वी स॑मु॒द्रः । 
+
+“May Ahirbudhnya, Aja-ekapād, and Earth and Ocean, hear us; 
+
+विश्वे॑ दे॒वा ऋ॑ता॒वृधो॑ हुवा॒नाः स्तु॒ता मन्त्रा॑: कविश॒स्ता अ॑वन्तु ॥
+
+may the universal gods, who are exalted by sacrifice, they who are invoked and praised (by us), to whom mystical prayers are addressed, and who have been glorified by (ancient) sages, preserve us.”
 ## 6.51
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc834262.html
 #### 14

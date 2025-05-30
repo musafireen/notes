@@ -112,6 +112,67 @@ he who knows on this earth only this name (pasuman), becomes rich in cattle.
 मादुषं ह वै नामैतद् यन् मानुषं
 तन् मादुषं सन् मानुषम् इत्य् आचक्षते परोक्षेण
 परोक्षप्रिया इव हि देवाः
+## 3.36
+जातवेदस्यं शंसति
+"He praises Jātavedas (Agni)"
+
+प्रजापतिः प्रजा आसृजत
+"Prajāpati created the creatures"
+
+ताः सृष्टाः पराच्य एवायन्न
+"Those created beings moved away (from him) in the eastward direction"
+
+न व्यावर्तन्त
+"They did not return"
+
+त अग्निना पर्यगच्छत्
+"He (Prajāpati) surrounded them with Agni"
+
+ता अग्निमुपावर्तन्त
+"They turned back toward Agni"
+
+तमेवाद्याप्युपावृत्ताः
+"Even now they still turn toward him (Agni)"
+
+स ओऽब्रवीत् — जाता वै प्रजा अनेनाविदम् इति
+"He said: 'By this indeed the creatures were born'"
+
+यद् अब्रवीत् — जाता वै प्रजा अनेनाविदम् इति
+"Because he said, 'By this indeed the creatures were born'"
+
+तत् जातवेदस्यम् अभवत्
+"That (statement) became the name 'Jātavedaḥ'"
+
+तत् जातवेदसः — जातवेदस् त्वम्
+"Therefore he is Jātavedaḥ — 'you are Jātavedaḥ'"
+
+ता अग्निना परिगता निरुद्धाः शोचन्त्यः दीध्यत्यः अतिष्ठन्
+"Those (creatures), surrounded and restrained by Agni, stood there lamenting and blazing"
+
+ता अद्भिर् अभ्यषिञ्चत्
+"He sprinkled them with water"
+
+तस्मात् उपरिष्टात् जातवेदस्यस्य आपो हिष्ठीयं शंसति
+"Therefore, above Jātavedas, he praises the water as most beneficial"
+
+तस्मात् तच्छमयतेव शंस्तव्यं
+"Therefore, one should chant (his praise) as if it brings peace"
+
+ता अद्भिर् अभिषिच्य निजास्य एवामन्यत
+"Having sprinkled them with water, he considered them as his own again"
+
+तासु वा अहिना बुध्न्येन परोक्षात् तेजः अदधात्
+"In them, the serpent from below (Ahi Budhnya) placed hidden energy"
+
+एष ह वा अहिर्बुध्न्यो यद् अग्निः गार्हपत्यः
+"This indeed is the Ahi Budhnya — namely, the Gārhapatya fire"
+
+अग्निना एवासु तद् गार्हपत्येन परोक्षात् तेजो दधाति
+"Through Agni, through the Gārhapatya fire, he places hidden energy in them"
+
+तस्माद् आहु: जुह्वद् एव अजुह्वतो वसीयान् इति
+"Therefore they say: 'He who offers is superior to one who does not offer'"
+
 # k4
 ## 4.1
 ????
