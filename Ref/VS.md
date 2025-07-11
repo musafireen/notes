@@ -84,6 +84,45 @@ I extol thee for longevity and the acquisition of happiness.
 यत्  सुरामं  व्यपिबः  शचीभि  सरस्वती  त्वा  मधवन्नभिष्णक्  
 
 O wealthy and adorable King, with the force of wisdom, enjoy the gladdening rule of thine, may a learned and devoted wife serve thee. O' Speaker of the Assembly and Commander of the Army, protect the State, following the usages framed by the leamed, as father and mother protect their child..
+# p22
+### 22
+आ ब्रह्मन् बाह्मणो ब्रह्मवर्चसी जायताम्।  
+
+O Brahman, may a Brāhmaṇa full of sacred radiance be born.
+
+राष्ट्रे राजन्यः शूरऽइषव्योऽतिव्याधी महारथो जायताम्।
+
+In the kingdom, may a Kṣatriya be born—brave, skilled with arrows, a great warrior and mighty charioteer.
+
+**दोघ्ध्री धेनुः।**  
+May the cow that yields abundant milk be born.
+
+**वोडानड्‌वान्।**  
+May strong and carrying bulls be born.
+
+**आशुः सप्तिः।**  
+May swift horses be born.
+
+**पुरन्धिर्योषा।**  
+May wise and noble women be born.
+
+**जिष्णुः रपेष्ठाः।**  
+May victorious and generous sons be born.
+
+**सभेयो युयासिः।**  
+May one skilled in assembly and discussion be born.
+
+**यजमानस्य वीरः जायताम्।**  
+May a heroic son be born to the yajamāna (sacrificing patron).
+
+**निकामे निकामे नः पर्जन्यो वर्षतु।**  
+In every season, may Parjanya (the rain god) pour rain for us.
+
+**फलवत्यो नः ओषधयः पश्यन्ताम्।**  
+May our plants be fruitful and flourish.
+
+**योगक्षेमी नः कल्पताम्।**  
+May our well-being and prosperity be established and fulfilled.
 # p23
 ### 20
 ता उभौ चतुरः पदः सम्प्र सारयाव स्वर्गे लोके प्रोर्णुवाथां वृषा वाजी रेतोधा रेतो दधातु \\

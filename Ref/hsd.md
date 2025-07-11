@@ -1,4 +1,6 @@
 # thg
+https://homer.library.northwestern.edu/html/application.html
+
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0129
 ## 22
 αἵ νύ ποθ᾽ Ἡσίοδον καλὴν ἐδίδαξαν ἀοιδήν,
@@ -144,8 +146,37 @@ and the one holds all-seeing light for them on earth, but the other holds in her
 γείναθ᾽ ὑποδμηθεῖσα διὰ χρυσέην Ἀφροδίτην.
 
 # erg_hem
-https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0131
+https://homer.library.northwestern.edu/html/application.html
 
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0131
+### 234-239
+εἰροπόκοι δ' ὅτες μαλλοῖς καταβεβρίθασι:
+
+234 Beautifully woolly their sheep are, fraught with luxuriant fleece. 
+
+10.235
+
+τίκτουσιν δὲ Πα γυναῖκες ἐοικότα τέκνα γονεύσι:
+
+Their Women at term give birth to fine children resembling their fathers.
+
+WD 236
+
+θάλλουσιν δ' ἀγαθοῖσι διαμπερές: οὐδ' ἐπὶ νηῶν
+
+236 Always they flourish with all good things, but they never on shipboard
+
+10.217 νίσονται, 14 καρπόν δὲ 115 φέρει πεζείδωρος άρουρα, 14/15/16
+
+WD.237 Venture, the grain-growing ploughland provides them produce in plenty.
+
+10.238 οἷς δ' ύβρις τε "" μέμηλε κακή 171 11η καὶ 119 σχέτλια ἔργα, 18/19)
+
+238 Zeus son of Cronos who sees far and wide metes justice to those who
+
+το 239 τοῖς δὲ δίκην Κρονίδης 120 τεκμαίρεται 1 εύρύοπα Ζεύς, 201211
+
+WD 239 Care-for evil and violence, foster criminal actions;
 # hrcls
 ## 255
 Τάρταρον ἐς κρυόενθ’

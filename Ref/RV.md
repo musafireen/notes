@@ -1,3 +1,6 @@
+
+https://vedsearch.org/rigved/10/26/5
+
 https://www.sanskrit-trikashaivism.com/en/rigveda-introduction/646
 
 https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/rv/mt/rv.htm
@@ -5,6 +8,24 @@ https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/rv/mt/rv.htm
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/
 
 # b1.51-191
+## 1.51
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829514.html
+#### 8
+वि जा॑नी॒ह्यार्या॒न्ये च॒ दस्य॑वो 
+
+Discriminate between the Āryas and they who are Dasyus; 
+
+ब॒र्हिष्म॑ते रन्धया॒ शास॑दव्र॒तान् । 
+
+restraining those who perform no religious rites, compel them to submit to the performer of sacrifices; 
+
+शाकी॑ भव॒ यज॑मानस्य चोदि॒ता 
+
+be you, who are powerful, the encourager of the sacrificer; 
+
+विश्वेत्ता ते॑ सध॒मादे॑षु चाकन ॥
+
+I am desirous of celebrating all your deeds in ceremonies that give you satisfaction.
 ## 1.54
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829558.html
 #### 3
@@ -77,7 +98,20 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829838
 
 English translation:
 “Indra, the slayer of Vṛtra, has been augmented in strength and satisfaction by (the adoration of) men; we invoke him in great conflicts as well as in little conflicts; may he defend us in battles.”
+## 1.82
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829848.html
+#### 2
+अक्ष॒न्नमी॑मदन्त॒ ह्यव॑ प्रि॒या अ॑धूषत । 
 
+(Your worshippers) have eaten the food which you had given, and have rejoiced, and have trembled through their precious (bodies); 
+
+अस्तो॑षत॒ स्वभा॑नवो॒ विप्रा॒ नवि॑ष्ठया म॒ती 
+
+self-illuminated sages have glorified you with commendable thoughts; 
+
+योजा॒ न्वि॑न्द्र ते॒ हरी॑ ॥
+
+therefore, Indra, quickly yoke your horses.
 ## 1.84
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829862.html
 #### 13
@@ -221,7 +255,20 @@ Destroy, Indra, the tawny-coloured, fearfully-roaring, piśāci; annihilate all 
 ये दे॑वासो दि॒व्येका॑दश॒ स्थ पृ॑थि॒व्यामध्येका॑दश॒ स्थ । अ॒प्सु॒क्षितो॑ महि॒नैका॑दश॒ स्थ ते दे॑वासो य॒ज्ञमि॒मं जु॑षध्वम् ॥
 
 (devās) Gods who (stha) are (ekādaśa) eleven in (dyaus) heaven; who are eleven on (pṛthivī) earth; and who are eleven (kṣita) dwelling with (mahi) glory in (ap) mid-air; may you be (jūṣ) pleased with our (yajña) sacrifice.
+## 1.149
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830612.html
+#### 5
+अ॒यं स होता॒ यो द्वि॒जन्मा॒ 
 
+He is the offerer of oblations, who is of twofold birth; 
+
+विश्वा॑ द॒धे वार्या॑णि श्रव॒स्या । 
+
+and, through desire of (sacrificial) food, has in his keeping all good things; 
+
+मर्तो॒ यो अ॑स्मै सु॒तुको॑ द॒दाश॑ ॥
+
+the man who presents offerings to him is the parent of excellent offspring.
 ## 1.154
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830645.html
 ### 1-5
@@ -1071,14 +1118,30 @@ English translation:
 “May Ahirbudhnya (propitiated) by (our) hymns, and Parvata and Savitā give us food with water; may the bountiful (gods supply us), addition, with vegetable (grains); and may the all-wise Bhaga be propitious (to us) for (the acquisition of) riches.”
 ## 6.50
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc834246.html
+#### 2
+सु॒ज्योति॑षः सूर्य॒ दक्ष॑पितॄननागा॒स्त्वे सु॑महो वीहि दे॒वान् । 
+
+Radiant Sūrya, render the luminous deities, who have Dakṣa for their progenitor, void of offence towards us; 
+
+द्वि॒जन्मा॑नो॒ य ऋ॑त॒साप॑: स॒त्याः 
+
+they who are twice born, desirous of sacrifice, observant of truth, 
+
+स्व॑र्वन्तो यज॒ता अ॑ग्निजि॒ह्वाः ॥
+
+possessors of wealth, deserving of worship, whose tongue is Agni.
 #### 14
 उ॒त नोऽहि॑र्बु॒ध्न्य॑: शृणोत्व॒ज एक॑पात्पृथि॒वी स॑मु॒द्रः । 
 
-“May Ahirbudhnya, Aja-ekapād, and Earth and Ocean, hear us; 
+May Ahirbudhnya, Aja-ekapād, and Earth and Ocean, hear us; 
 
-विश्वे॑ दे॒वा ऋ॑ता॒वृधो॑ हुवा॒नाः स्तु॒ता मन्त्रा॑: कविश॒स्ता अ॑वन्तु ॥
+विश्वे॑ दे॒वा ऋ॑ता॒वृधो॑ हुवा॒नाः स्तु॒ता 
 
-may the universal gods, who are exalted by sacrifice, they who are invoked and praised (by us), to whom mystical prayers are addressed, and who have been glorified by (ancient) sages, preserve us.”
+may the universal gods, who are exalted by sacrifice, they who are invoked and praised (by us), 
+
+मन्त्रा॑: कविश॒स्ता अ॑वन्तु ॥
+
+to whom mystical prayers are addressed, and who have been glorified by (ancient) sages, preserve us.
 ## 6.51
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc834262.html
 #### 14
@@ -1346,8 +1409,17 @@ You chant, Vasiṣṭha a powerful hymn to her who is the most mighty of rivers;
 #### 3
 भ॒द्रमिद्भ॒द्रा कृ॑णव॒त्सर॑स्व॒त्यक॑वारी चेतति वा॒जिनी॑वती । गृ॒णा॒ना ज॑मदग्नि॒वत्स्तु॑वा॒ना च॑ वसिष्ठ॒वत् ॥
 
-May the auspicious Sarasvatī bestow auspicious fortune upon us; may the faultless-movingfood-conferring (goddess) think of us; glorified (as you have been) by Jamadagnī, (be now) glorified byVasiṣṭha.
+May the auspicious Sarasvatī bestow auspicious fortune upon us; may the faultless-movingfood-conferring (goddess) think of us; glorified (as you have been) by Jamadagnī, (be now) glorified by Vasiṣṭha.
+## 7.103
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc835428.html
+#### 1
+सं॒व॒त्स॒रं श॑शया॒ना ब्रा॑ह्म॒णा व्र॑तचा॒रिण॑: । 
 
+Like Brāhmaṇas, observant of their vows, practising penance throughout the year, 
+
+वाचं॑ प॒र्जन्य॑जिन्वितां॒ प्र म॒ण्डूका॑ अवादिषुः ॥
+
+the frogs utter aloud praises agreeable to Parjanya.
 ## 7.104
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc835440.html
 #### 1
@@ -1668,6 +1740,16 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838626
 सं ग॑च्छस्व पि॒तृभि॒: सं य॒मेने॑ष्टापू॒र्तेन॑ पर॒मे व्यो॑मन् । हि॒त्वाया॑व॒द्यं पुन॒रस्त॒मेहि॒ सं ग॑च्छस्व त॒न्वा॑ सु॒वर्चा॑: ॥
 
 “Be united with the Pitṛs, with Yama, and with the fulfilment of your wishes in the highest heaven;discarding iniquity, return to your abode, and unite yourself to a luminous body.”
+## 10.15
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838643.html
+#### 1
+उदी॑रता॒मव॑र॒ उत्परा॑स॒ उन्म॑ध्य॒माः पि॒तर॑: सो॒म्यास॑: । 
+
+“Let the (avara) lower, the (parās) upper, the (madhyama) intermediate Pitṛs, rise up, accepting the Soma libation; 
+
+असुं॒ य ई॒युर॑वृ॒का ऋ॑त॒ज्ञास्ते नो॑ऽवन्तु पि॒तरो॒ हवे॑षु ॥
+
+may those (pitā) progenitors who, (avṛka) unlike wolves, (jña) acknowledging our (ṛta) offerings, have come to preserve our (asu) lives, protect us upon our invocations.”
 ## 10.16
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838658.html
 #### 1
@@ -1722,12 +1804,35 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838732
 अ॒स्मे ता त॑ इन्द्र सन्तु स॒त्याहिं॑सन्तीरुप॒स्पृश॑: । वि॒द्याम॒ यासां॒ भुजो॑ धेनू॒नां न व॑ज्रिवः ॥
 
 “May these our (praises) reaching you, Indra, be successful, doing no detriment (to you), so that,thunderer, we may obtain the benefits derivable from them, as (a cowherd enjoys those) from the kine.”
+## 10.26
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838775.html
+#### 4
+मं॒सी॒महि॑ त्वा व॒यम॒स्माकं॑ देव पूषन् । 
+म॒ती॒नां च॒ साध॑नं॒ 
+
+We glorify you, divine Pūṣan, the accomplisher of our desires, 
+
+विप्रा॑णां चाध॒वम् ॥
+
+who make the pious to quake.
+#### 5
+प्रत्य॑र्धिर्य॒ज्ञाना॑मश्वह॒यो रथा॑नाम् । 
+
+Part of the yagnas, the horse-riding in the chariots, 
+
+ऋषि॒: स यो मनु॑र्हितो॒ विप्र॑स्य यावयत्स॒खः ॥
+
+the seer of all and the man-friendly Pushadeva is the friend who drives away the enemies. (5)
 ## 10.28
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838810.html
 #### 10
-सु॒प॒र्ण इ॒त्था न॒खमा सि॑षा॒याव॑रुद्धः परि॒पदं॒ न सिं॒हः । नि॒रु॒द्धश्चि॑न्महि॒षस्त॒र्ष्यावा॑न्गो॒धा तस्मा॑ अ॒यथं॑ कर्षदे॒तत् ॥
+सु॒प॒र्ण इ॒त्था न॒खमा सि॑षा॒याव॑रुद्धः परि॒पदं॒ न सिं॒हः । 
 
-“The hawk has fastened her claw in heaven; a (simha) lion confined (in a cage) places one foot over the otheṛ As a captive buffalo (is) thirsty, (so) Indra thirsted for the Soma, Ga-yatrī brought it to him easily (from heaven).”
+The hawk has fastened her claw in heaven; a (simha) lion confined (in a cage) places one foot over the other. 
+
+नि॒रु॒द्धश्चि॑न्महि॒षस्त॒र्ष्यावा॑न्गो॒धा तस्मा॑ अ॒यथं॑ कर्षदे॒तत् ॥
+
+As a captive buffalo (is) thirsty, (so) Indra thirsted for the Soma, Ga-yatrī brought it to him easily (from heaven).
 ## 10.33
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838870.html
 #### 1
@@ -1796,6 +1901,24 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839234
 अतू॑र्तपन्थाः पुरु॒रथो॑ अर्य॒मा स॒प्तहो॑ता॒ विषु॑रूपेषु॒ जन्म॑सु ॥
 
 Aryaman, whose course is not hurried, the giver of delight to many, having seven ministering (rays),(proceeds) in his multiform births.”
+## 10.65
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839252.html
+#### 11
+ब्रह्म॒ गामश्वं॑ ज॒नय॑न्त॒ 
+
+generating food (brahma), cows, horses, 
+
+ओष॑धी॒र्वन॒स्पती॑न्पृथि॒वीं पर्व॑ताँ अ॒पः । 
+
+plants, trees, the earth, mountains and waters, 
+
+सूर्यं॑ दि॒वि रो॒हय॑न्तः 
+
+elevating the sun in heaven, 
+
+सु॒दान॑व॒ आर्या॑ व्र॒ता वि॑सृ॒जन्तो॒ अधि॒ क्षमि॑ ॥
+
+munificent, promoting (ārya) sacred (vrata) observances upon the earth, (they abide everywhere).
 ## 10.66
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839279.html
 #### 11

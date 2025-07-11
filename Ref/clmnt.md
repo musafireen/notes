@@ -1350,17 +1350,11 @@ These are mentioned by Heraclides of Pontus in his work On Oracles.
 
 I pass over the Egyptian Sibyl, and the Italian, who inhabited the Carmentale in Rome, whose son was Evander, who built the temple of Pan in Rome, called the Lupercal.
 #### s131
-Ναὶ μὴν Ὀνομάκριτος ὁ Ἀθηναῖος, οὗ τὰ εἰς
-
-Ὀρφέα φερόμεναποιήματα λέγεται εἶναι, κατὰ τὴν τῶν Πεισιστρατιδῶν ἀρχὴν περὶ
-
-τὴν πεντηκοστὴν ὀλυμπιάδα εὑρίσκεται, 
+Ναὶ μὴν Ὀνομάκριτος ὁ Ἀθηναῖος, οὗ τὰ εἰς Ὀρφέα φερόμεναποιήματα λέγεται εἶναι, κατὰ τὴν τῶν Πεισιστρατιδῶν ἀρχὴν περὶ τὴν πεντηκοστὴν ὀλυμπιάδα εὑρίσκεται, 
 
 Further, Onomacritus the Athenian, who is said to have been the author of the poems ascribed to Orpheus, is ascertained to have lived in the reign of the Pisistratidae, about the fiftieth Olympiad. 
 
-Ὀρφεὺς δὲ, ὁ συμπλεύσας 1.21.131.2 
-
-Ἡρακλεῖ, Μουσαίου διδάσκαλος· 
+Ὀρφεὺς δὲ, ὁ συμπλεύσας 1.21.131.2 Ἡρακλεῖ, Μουσαίου διδάσκαλος· 
 
 And Orpheus, who sailed with Hercules, was the pupil of Musaeus. 
 
@@ -1368,81 +1362,47 @@ And Orpheus, who sailed with Hercules, was the pupil of Musaeus.
 
 Amphion precedes the Trojan war by two generations. 
 
-∆ημόδοκος δὲ καὶ Φήμιος μετὰ τὴν Ἰλίου ἅλωσιν ὃ μὲν γὰρ παρὰ τοῖς Φαίαξιν, ὃ δὲ
-
-παρὰ τοῖς μνηστῆρσι) κατὰ τὸ 1.21.131.3 κιθαρίζειν εὐδοκίμουν. 
+∆ημόδοκος δὲ καὶ Φήμιος μετὰ τὴν Ἰλίου ἅλωσιν ὃ μὲν γὰρ παρὰ τοῖς Φαίαξιν, ὃ δὲ παρὰ τοῖς μνηστῆρσι) κατὰ τὸ 1.21.131.3 κιθαρίζειν εὐδοκίμουν. 
 
 And Demodocus and Phemius were posterior to the capture of Troy; for they were famed for playing on the lyre, the former among the Phaeacians, and the latter among the suitors. 
 
-καὶ τοὺς μὲν
-
-ἀναφερομένους εἰς Μουσαῖον χρησμοὺς Ὀνομακρίτου εἶναι λέγουσι, τὸν Κρατῆρα δὲ
-
-τὸν Ὀρφέως Ζωπύρου τοῦ Ἡρακλεώτου τήν τε Εἰς Ἅιδου κατάβασιν
-
-Προδίκου1.21.131.4 τοῦ Σαμίου. 
+καὶ τοὺς μὲν ἀναφερομένους εἰς Μουσαῖον χρησμοὺς Ὀνομακρίτου εἶναι λέγουσι, τὸν Κρατῆρα δὲ τὸν Ὀρφέως Ζωπύρου τοῦ Ἡρακλεώτου τήν τε Εἰς Ἅιδου κατάβασιν Προδίκου1.21.131.4 τοῦ Σαμίου. 
 
 And the Oracles ascribed to Musaeus are said to be the production of Onomacritus, and the Crateres of Orpheus the production of Zopyrus of Heraclea, and The Descent to Hades that of Prodicus of Samos. 
 
-Ἴων δὲ ὁ Χῖος ἐν τοῖς Τριαγμοῖς καὶ Πυθαγόραν εἰς
-
-1.21.131.5 Ὀρφέα ἀνενεγκεῖν τινα ἱστορεῖ. 
+Ἴων δὲ ὁ Χῖος ἐν τοῖς Τριαγμοῖς καὶ Πυθαγόραν εἰς 1.21.131.5 Ὀρφέα ἀνενεγκεῖν τινα ἱστορεῖ. 
 
 Ion of Chios relates in the Triagmi, that Pythagoras ascribed certain works \[of his own\] to Orpheus. 
 
-Ἐπιγένης δὲ ἐν τοῖς Περὶ τῆς εἰς Ὀρφέα
-
-ποιήσεως Κέρκωπος εἶναι λέγει τοῦ Πυθαγορείου τὴν Εἰς Ἅιδου κατάβασιν καὶ τὸν
-
-Ἱερὸν λόγον, τὸν δὲ Πέπλον καὶ τὰ Φυσικὰ 1.21.131.6 Βροντίνου. 
+Ἐπιγένης δὲ ἐν τοῖς Περὶ τῆς εἰς Ὀρφέα ποιήσεως Κέρκωπος εἶναι λέγει τοῦ Πυθαγορείου τὴν Εἰς Ἅιδου κατάβασιν καὶ τὸν Ἱερὸν λόγον, τὸν δὲ Πέπλον καὶ τὰ Φυσικὰ 1.21.131.6 Βροντίνου. 
 
 Epigenes, in his book respecting The Poetry attributed to Orpheus, says that The Descent to Hades and the Sacred Discourse were the production of Cecrops the Pythagorean; and the Peplus and the Physics of Brontinus. 
 
-ναὶ μὴν καὶ
-
-Τέρπανδρον ἀρχαΐζουσί τινες· 
+ναὶ μὴν καὶ Τέρπανδρον ἀρχαΐζουσί τινες· 
 
 Some also make Terpander out ancient. 
 
-Ἑλλάνικος γοῦν τοῦτον ἱστορεῖ κατὰ Μίδαν
-
-γεγονέναι, Φανίας δὲ πρὸ Τερπάνδρου τιθεὶς Λέσχην τὸν Λέσβιον Ἀρχιλόχου
-
-νεώτερον φέρει τὸν Τέρπανδρον, διημιλλῆσθαι δὲ τὸν Λέσχην Ἀρκτίνῳ καὶ
-
-νενικηκέναι· 
+Ἑλλάνικος γοῦν τοῦτον ἱστορεῖ κατὰ Μίδαν γεγονέναι, Φανίας δὲ πρὸ Τερπάνδρου τιθεὶς Λέσχην τὸν Λέσβιον Ἀρχιλόχου νεώτερον φέρει τὸν Τέρπανδρον, διημιλλῆσθαι δὲ τὸν Λέσχην Ἀρκτίνῳ καὶ νενικηκέναι· 
 
 Hellanicus, accordingly, relates that he lived in the time of Midas: but Phanias, who places Lesches the Lesbian before Terpander, makes Terpander younger than Archilochus, and relates that Lesches contended with Arctinus, and gained the victory. 
 
-1.21.131.7 Ξάνθος δὲ ὁ Λυδὸς περὶ τὴν ὀκτωκαιδεκάτην ὀλυμπιάδα (ὡς
-
-δὲ ∆ιονύσιος, περὶ τὴν πεντεκαιδεκάτην) Θάσον ἐκτίσθαι, ὡς εἶναι συμφανὲς τὸν
-
-Ἀρχίλοχον μετὰ τὴν εἰκοστὴν ἤδη γνωρίζεσθαι ὀλυμπιάδα. 
+1.21.131.7 Ξάνθος δὲ ὁ Λυδὸς περὶ τὴν ὀκτωκαιδεκάτην ὀλυμπιάδα (ὡς δὲ ∆ιονύσιος, περὶ τὴν πεντεκαιδεκάτην) Θάσον ἐκτίσθαι, ὡς εἶναι συμφανὲς τὸν Ἀρχίλοχον μετὰ τὴν εἰκοστὴν ἤδη γνωρίζεσθαι ὀλυμπιάδα. 
 
 Xanthus the Lydian says that he lived about the eighteenth Olympiad; as also Dionysius says that Thasus was built about the fifteenth Olympiad: so that it is clear that Archilochus was already known after the twentieth Olympiad. 
 
-μέμνηται γοῦν καὶ τῆς
-
-Μαγνήτων ἀπωλείας προσφάτως γεγενημένης. 
+μέμνηται γοῦν καὶ τῆς Μαγνήτων ἀπωλείας προσφάτως γεγενημένης. 
 
 He accordingly relates the destruction of Magnetes as having recently taken place. 
 
-1.21.131.8 Σιμωνίδης μὲν οὖν κατὰ
-
-Ἀρχίλοχον φέρεται, 
+1.21.131.8 Σιμωνίδης μὲν οὖν κατὰ Ἀρχίλοχον φέρεται, 
 
 Simonides is assigned to the time of Archilochus. 
 
-Καλλῖνος δὲ πρεσβύτερος οὐ μακρῷ· τῶν γὰρ Μαγνήτων ὁ μὲν
-
-Ἀρχίλοχος ἀπολωλότων, ὃ δὲ εὐημερούντων μέμνηται· 
+Καλλῖνος δὲ πρεσβύτερος οὐ μακρῷ· τῶν γὰρ Μαγνήτων ὁ μὲν Ἀρχίλοχος ἀπολωλότων, ὃ δὲ εὐημερούντων μέμνηται· 
 
 Callinns is not much older; for Archilochus refers to Magnetes as destroyed, while the latter refers to it as flourishing. 
 
-Εὔμηλος δὲ ὁ Κορίνθιος
-
-πρεσβύτερος ὢν ἐπιβεβληκέναι Ἀρχίᾳ τῷ Συρακούσας κτίσαντι.
+Εὔμηλος δὲ ὁ Κορίνθιος πρεσβύτερος ὢν ἐπιβεβληκέναι Ἀρχίᾳ τῷ Συρακούσας κτίσαντι.
 
 Eumelus of Corinth being older, is said to have met Archias, who founded Syracuse.
 

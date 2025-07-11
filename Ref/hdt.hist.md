@@ -3108,6 +3108,72 @@ and voyaging over the sea west, they came in the thirtieth month to that place f
 οὕτω καὶ τῆς Ἀσίης, πλὴν τὰ πρὸς ἥλιον ἀνίσχοντα, τὰ ἄλλα ἀνεύρηται ὃμοια παρεχομένη τῇ Λιβύῃ.
 
 Thus it was discovered that Asia, except the parts toward the rising sun, was in other respects like Libya.
+## c46
+#### 1
+ὁ δὲ Πόντος ὁ Εὔξεινος, ἐπ᾽ ὃν ἐστρατεύετο ὁ Δαρεῖος, χωρέων πασέων παρέχεται ἔξω τοῦ Σκυθικοῦ ἔθνεα ἀμαθέστατα. 
+
+Nowhere are men so ignorant as in the lands by the Euxine Pontus (excluding the Scythian nation) into which Darius led his army. 
+
+οὔτε γὰρ ἔθνος τῶν ἐντὸς τοῦ Πόντου οὐδὲν ἔχομεν προβαλέσθαι σοφίης πέρι οὔτε ἄνδρα λόγιον οἴδαμεν γενόμενον, πάρεξ τοῦ Σκυθικοῦ ἔθνεος καὶ Ἀναχάρσιος.
+
+For we cannot show that any nation within the region of the Pontus has any cleverness, nor do we know of (overlooking the Scythian nation and Anacharsis) any notable man born there. 
+#### 2
+τῷ δὲ Σκυθικῶ γένει ἓν μὲν τὸ μέγιστον τῶν ἀνθρωπηίων πρηγμάτων σοφώτατα πάντων ἐξεύρηται τῶν ἡμεῖς ἴδμεν, 
+
+[2] But the Scythian race has made the cleverest discovery that we know in what is the most important of all human affairs; 
+
+τὰ μέντοι ἄλλα οὐκ ἄγαμαι: 
+
+I do not praise the Scythians in all respects,
+
+τὸ δὲ μέγιστον οὕτω σφι ἀνεύρηται ὥστε ἀποφυγεῖν τε μηδένα ἐπελθόντα ἐπὶ σφέας, 
+
+but in this, the most important: that they have contrived that no one who attacks them can escape, 
+
+μὴ βουλομένους τε ἐξευρεθῆναι καταλαβεῖν μὴ οἷον τε εἶναι.
+
+and no one can catch them if they do not want to be found. 
+#### 3
+τοῖσι γὰρ μήτε ἄστεα μήτε τείχεα ἡ ἐκτισμένα, 
+
+[3] For when men have no established cities or forts, 
+
+ἀλλὰ φερέοικοι ἐόντες πάντες ἔωσι ἱπποτοξόται, 
+
+but are all nomads and mounted archers, 
+
+ζῶντες μὴ ἀπ᾽ ἀρότου ἀλλ᾽ ἀπὸ κτηνέων, 
+
+not living by tilling the soil but by raising cattle 
+
+οἰκήματα τε σφι ᾖ ἐπὶ ζευγέων, 
+
+and carrying their dwellings on wagons, 
+
+κῶς οὐκ ἂν εἴησαν οὗτοι ἄμαχοί τε καὶ ἄποροι προσμίσγειν;
+
+how can they not be invincible and unapproachable?
+#### 47
+#### 1
+ἐξεύρηται δέ σφι ταῦτα τῆς τε γῆς ἐούσης ἐπιτηδέης καὶ τῶν ποταμῶν ἐόντων σφι συμμάχων. 
+
+They have made this discovery in a land that suits their purpose and has rivers that are their allies; 
+
+ἥ τε γὰρ γῆ ἐοῦσα πεδιὰς αὕτη ποιώδης τε καὶ εὔυδρος ἐστί, ποταμοί τε δι᾽ αὐτῆς ῥέουσι οὐ πολλῷ τεῳ ἀριθμὸν ἐλάσσονες τῶν ἐν Αἰγύπτῳ διωρύχων. 
+
+for their country is flat and grassy and well-watered, and rivers run through it not very many fewer in number than the canals of Egypt. 
+#### 2
+[2] ὅσοι δὲ ὀνομαστοί τε εἰσὶ αὐτῶν καὶ προσπλωτοὶ ἀπὸ θαλάσσης, τούτους ὀνομανέω1 ... 
+
+[2] As many of them as are famous and can be entered from the sea, I shall name. 
+
+Ἴστρος μὲν πεντάστομος, μετὰ δὲ Τύρης τε καὶ Ὕπανις καὶ Βορυσθένης καὶ Παντικάπης καὶ Ὑπάκυρις καὶ Γέρρος καὶ Τάναϊς. 
+
+There is the Ister, which has five mouths, and the Tyras, and Hypanis, and Borysthenes, and Panticapes, and Hypacuris, and Gerrhus, and Tanaïs. 
+
+ῥέουσι δὲ οἵδε κατὰ τάδε.
+
+Their courses are as I shall indicate.
 ## c59
 #### 1
 τὰ μὲν δὴ μέγιστα οὕτω σφι εὔπορα ἐστί, 
@@ -3276,6 +3342,49 @@ then they carry the blood up on to the pile of sticks and pour it on the scimita
 χεὶρ δὲ τῇ ἂν πέσῃ κέεται, καὶ χωρὶς ὁ νεκρός.
 
 the arm lies where it has fallen, and the body apart from it.
+## c64
+#### 1
+τὰ δ᾽ ἐς πόλεμον ἔχοντα ὧδέ σφι διακέαται: 
+
+As to war, these are their customs. 
+
+ἐπεὰν τὸν πρῶτον ἄνδρα καταβάλῃ ἀνὴρ Σκύθης, τοῦ αἵματος ἐμπίνει, 
+
+A Scythian drinks the blood of the first man whom he has taken down. 
+
+ὅσους δ᾽ ἂν φονεύσῃ ἐν τῇ μάχῃ, τούτων τὰς κεφαλὰς ἀποφέρει τῷ βασιλέι. 
+
+He carries the heads of all whom he has slain in the battle to his king; 
+
+ἀπενείκας μὲν γὰρ κεφαλὴν τῆς ληίης μεταλαμβάνει τὴν ἂν λάβωσι, μὴ ἐνείκας δὲ οὔ. 
+
+for if he brings a head, he receives a share of the booty taken, but not otherwise. 
+#### 2
+[2] ἀποδείρει δὲ αὐτὴν τρόπῳ τοιῷδε: 
+
+περιταμὼν κύκλῳ περὶ τὰ ὦτα καὶ λαβόμενος τῆς κεφαλῆς ἐκσείει, μετὰ δὲ σαρκίσας βοὸς πλευρῇ δέψει τῇσι χερσί, ὀργάσας δὲ αὐτὸ ἅτε χειρόμακτρον ἔκτηται, ἐκ δὲ τῶν χαλινῶν τοῦ ἵππου τὸν αὐτὸς ἐλαύνει, ἐκ τούτου ἐξάπτει καὶ ἀγάλλεται: 
+
+[2] He scalps the head by making a cut around it by the ears, then grasping the scalp and shaking the head off. Then he scrapes out the flesh with the rib of a steer, and kneads the skin with his hands, and having made it supple he keeps it for a hand towel, fastening it to the bridle of the horse which he himself rides, and taking pride in it; 
+
+ὃς γὰρ ἂν πλεῖστα δέρματα χειρόμακτρα ἔχῃ, ἀνὴρ ἄριστος οὗτος κέκριται. 
+
+for he who has most scalps for hand towels is judged the best man. 
+#### 3
+[3] πολλοὶ δὲ αὐτῶν ἐκ τῶν ἀποδερμάτων καὶ χλαίνας ἐπείνυσθαι ποιεῦσι, συρράπτοντες κατά περ βαίτας. 
+
+[3] Many Scythians even make garments to wear out of these scalps, sewing them together like coats of skin. 
+
+πολλοὶ δὲ ἀνδρῶν ἐχθρῶν τὰς δεξιὰς χεῖρας νεκρῶν ἐόντων ἀποδείραντες αὐτοῖσι ὄνυξι καλύπτρας τῶν φαρετρέων ποιεῦνται. 
+
+Many too take off the skin, nails and all, from their dead enemies' right hands, and make coverings for their quivers; 
+
+δέρμα δὲ ἀνθρώπου καὶ παχὺ καὶ λαμπρὸν ἦν ἄρα, σχεδὸν δερμάτων πάντων λαμπρότατον λευκότητι. 
+
+the human skin was, as it turned out, thick and shining, the brightest and whitest skin of all, one might say. 
+#### 4
+[4] πολλοὶ δὲ καὶ ὅλους ἄνδρας ἐκδείραντες καὶ διατείναντες ἐπὶ ξύλων ἐπ᾽ ἵππων περιφέρουσι.
+
+[4] Many flay the skin from the whole body, too, and carry it about on horseback stretched on a wooden frame.
 ## c79
 #### 1
 ἐπείτε δὲ ἔδεέ οἱ κακῶς γενέσθαι, ἐγίνετο ἀπὸ προφάσιος τοιῆσδε. 

@@ -69,8 +69,32 @@ but in addition to 'learning' you must pay a fine of money
 • χαρίζου χᾰρῐ́ζομαι χᾰρῐ́ζω
 • ἀποκρινόμενος
 do me the favor to reply
+### 347c
+[347c] for they are not covetous of honor. 
 
+δεῖ δὴ [347ξ] αὐτοῖς ἀνάγκην προσεῖναι καὶ ζημίαν, εἰ μέλλουσιν ἐθέλειν ἄρχειν—
 
+So there must be imposed some compulsion and penalty to constrain them to rule if they are to consent to hold office. 
+
+ὅθεν κινδυνεύει τὸ ἑκόντα ἐπὶ τὸ ἄρχειν ἰέναι ἀλλὰ μὴ ἀνάγκην περιμένειν αἰσχρὸν νενομίσθαι—
+
+That is perhaps why to seek office oneself and not await compulsion is thought disgraceful. 
+
+τῆς δὲ ζημίας μεγίστη τὸ ὑπὸ πονηροτέρου ἄρχεσθαι, ἐὰν μὴ αὐτὸς ἐθέλῃ ἄρχειν: 
+
+But the chief penalty is to be governed by someone worse1 if a man will not himself hold office and rule. 
+
+ἣν δείσαντές μοι φαίνονται ἄρχειν, ὅταν ἄρχωσιν, οἱ ἐπιεικεῖς, 
+
+It is from fear of this, as it appears to me, that the better sort hold office when they do, 
+
+καὶ τότε ἔρχονται ἐπὶ τὸ ἄρχειν οὐχ ὡς ἐπ᾽ ἀγαθόν τι ἰόντες οὐδ᾽ ὡς εὐπαθήσοντες ἐν αὐτῷ, 
+
+and then they go to it not in the expectation of enjoyment nor as to a good thing,2 
+
+ἀλλ᾽ [347δ] ὡς ἐπ᾽ ἀναγκαῖον καὶ οὐκ ἔχοντες ἑαυτῶν βελτίοσιν ἐπιτρέψαι οὐδὲ ὁμοίοις. 
+
+but as to a necessary evil and because they are unable to turn it over to better men than themselves, [347d] or to their like. 
 # b2
 
 ## 359c
@@ -317,15 +341,125 @@ to strike with thunderbolts
 sordidly greedy of gain
 
 # b6
-## 507b
+### 488a
+δυσαπόδεικτον; 
+
+ἄκουε δ᾽ οὖν τῆς εἰκόνος, ἵν᾽ ἔτι μᾶλλον ἴδῃς ὡς γλίσχρως εἰκάζω. 
+
+so that you may still better see how I strain after1 imagery. 
+
+οὕτω γὰρ χαλεπὸν τὸ πάθος τῶν ἐπιεικεστάτων, ὃ πρὸς τὰς πόλεις πεπόνθασιν, ὥστε οὐδ᾽ ἔστιν ἓν οὐδὲν ἄλλο τοιοῦτον πεπονθός, 
+
+For so cruel is the condition of the better sort in relation to the state that there is no single thing2 like it in nature. 
+
+ἀλλὰ δεῖ ἐκ πολλῶν αὐτὸ συναγαγεῖν εἰκάζοντα καὶ ἀπολογούμενον ὑπὲρ αὐτῶν, οἷον οἱ γραφῆς τραγελάφους καὶ τὰ τοιαῦτα μειγνύντες γράφουσιν. 
+
+But to find a likeness for it and a defence for them one must bring together many things in such a combination as painters mix when they portray goat-stags3 and similar creatures.4 
+
+νόησον γὰρ τοιουτονὶ γενόμενον εἴτε πολλῶν νεῶν πέρι εἴτε μιᾶς: 
+
+Conceive this sort of thing happening either on many ships or on one: 
+### 488b
+ναύκληρον μεγέθει μὲν καὶ [488β] ῥώμῃ ὑπὲρ τοὺς ἐν τῇ νηὶ πάντας, ὑπόκωφον δὲ καὶ ὁρῶντα ὡσαύτως βραχύ τι καὶ γιγνώσκοντα περὶ ναυτικῶν ἕτερα τοιαῦτα, 
+
+Picture a shipmaster5 in height and strength surpassing all others on the ship, [488b] but who is slightly deaf1 and of similarly impaired vision, and whose knowledge of navigation is on a par with2 his sight and hearing. 
+
+τοὺς δὲ ναύτας στασιάζοντας πρὸς ἀλλήλους περὶ τῆς κυβερνήσεως, 
+
+Conceive the sailors to be wrangling with one another for control of the helm, 
+
+ἕκαστον οἰόμενον δεῖν κυβερνᾶν, μήτε μαθόντα πώποτε τὴν τέχνην μέτε ἔχοντα ἀποδεῖξαι διδάσκαλον ἑαυτοῦ μηδὲ χρόνον ἐν ᾧ ἐμάνθανεν, 
+
+each claiming that it is his right to steer though he has never learned the art and cannot point out his teacher3 or any time when he studied it. 
+
+πρὸς δὲ τούτοις φάσκοντας μηδὲ διδακτὸν εἶναι, 
+
+And what is more, they affirm that it cannot be taught at all,4 
+
+ἀλλὰ καὶ τὸν λέγοντα ὡς διδακτὸν ἑτοίμους κατατέμνειν, 
+
+but they are ready to make mincemeat of anyone5 who says that it can be taught,
+### 488c
+[488ξ] ναυκλήρῳ περικεχύσθαι δεομένους καὶ πάντα ποιοῦντας ὅπως ἂν σφίσι τὸ πηδάλιον ἐπιτρέψῃ, 
+
+[488c] and meanwhile they are always clustered about1 the shipmaster importuning him and sticking at nothing2 to induce him to turn over the helm to them. 
+
+ἐνίοτε δ᾽ ἂν μὴ πείθωσιν ἀλλὰ ἄλλοι μᾶλλον, τοὺς μὲν ἄλλους ἢ ἀποκτεινύντας ἢ ἐκβάλλοντας ἐκ τῆς νεώς, 
+
+And sometimes, if they fail and others get his ear, they put the others to death or cast them out3 from the ship, 
+
+τὸν δὲ γενναῖον ναύκληρον μανδραγόρᾳ ἢ μέθῃ ἤ τινι ἄλλῳ συμποδίσαντας 
+
+and then, after binding4 and stupefying the worthy shipmaster5 with mandragora or intoxication or otherwise, 
+
+τῆς νεὼς ἄρχειν χρωμένους τοῖς ἐνοῦσι, καὶ πίνοντάς τε καὶ εὐωχουμένους πλεῖν ὡς τὸ εἰκὸς τοὺς τοιούτους, 
+
+they take command of the ship, consume its stores and, drinking and feasting, make such a voyage6 of it as is to be expected7 from such, 
+### 488d
+πρὸς δὲ τούτοις ἐπαινοῦντας αὐτοὺς δὲ αὐτῷ ἀεὶ τῷ [488δ] ναυτικὸν μὲν καλοῦντας καὶ κυβερνητικὸν καὶ ἐπιστάμενον τὰ κατὰ ναῦν, ὃς ἂν συλλαμβάνειν δεινὸς ᾖ ὅπως ἄρξουσιν ἢ πείθοντες ἢ βιαζόμενοι τὸν ναύκληρον, 
+
+and as if that were not enough, they praise and celebrate as a navigator, [488d] a pilot, a master of shipcraft, the man who is most cunning to lend a hand1 in persuading or constraining the shipmaster to let them rule,2 
+
+τὸν δὲ μὴ τοιοῦτον ψέγοντας ὡς ἄχρηστον, 
+
+while the man who lacks this craft3 they censure as useless. 
+
+τοῦ δὲ ἀληθινοῦ κυβερνήτου πέρι μηδ᾽ ἐπαΐοντες, ὅτι ἀνάγκη αὐτῷ τὴν ἐπιμέλειαν ποιεῖσθαι ἐνιαυτοῦ καὶ ὡρῶν καὶ οὐρανοῦ καὶ ἄστρων καὶ πνευμάτων καὶ πάντων τῶν τῇ τέχνῃ προσηκόντων, εἰ μέλλει τῷ ὄντι νεὼς ἀρχικὸς ἔσεσθαι, 
+
+They have no suspicions4 that the true pilot must give his attention5 to the time of the year, the seasons, the sky, the winds, the stars, and all that pertains to his art if he is to be a true ruler of a ship, 
+
+ὅπως δὲ κυβερνήσει [488ε] ἐάντε τινες βούλωνται ἐάντε μή, μήτε τέχνην τούτου μήτε μελέτην οἰόμενοι δυνατὸν εἶναι λαβεῖν ἅμα καὶ τὴν κυβερνητικήν. 
+
+and that he does not believe that there is any art or science of seizing the helm6 [488e] with or without the consent of others, or any possibility of mastering this alleged art1 and the practice of it at the same time with the science of navigation. 
+### 488e
+τοιούτων δὴ περὶ τὰς ναῦς γιγνομένων τὸν ὡς ἀληθῶς κυβερνητικὸν οὐχ ἡγῇ ἂν τῷ ὄντι μετεωροσκόπον [489α] τε καὶ ἀδολέσχην καὶ ἄχρηστόν σφισι καλεῖσθαι ὑπὸ τῶν ἐν ταῖς οὕτω κατεσκευασμέναις ναυσὶ πλωτήρων;
+
+With such goings-on aboard ship do you not think that the real pilot would in very deed2 be called a star-gazer, an idle babbler, [489a] a useless fellow, by the sailors in ships managed after this fashion?” 
+### 489a
+καὶ μάλα, ἔφη ὁ Ἀδείμαντος.
+
+οὐ δή, ἦν δ᾽ ἐγώ, οἶμαι δεῖσθαί σε ἐξεταζομένην τὴν εἰκόνα ἰδεῖν, ὅτι ταῖς πόλεσι πρὸς τοὺς ἀληθινοὺς φιλοσόφους τὴν διάθεσιν ἔοικεν, ἀλλὰ μανθάνειν ὃ λέγω.
+
+καὶ μάλ᾽, ἔφη.
+
+πρῶτον μὲν τοίνυν ἐκεῖνον τὸν θαυμάζοντα ὅτι οἱ φιλόσοφοι οὐ τιμῶνται ἐν ταῖς πόλεσι δίδασκέ τε τὴν εἰκόνα καὶ πειρῶ πείθειν ὅτι πολὺ ἂν θαυμαστότερον ἦν] [489β] εἰ ἐτιμῶντο.
+
+“Quite so,” said Adeimantus. “You take my meaning, I presume, and do not require us to put the comparison to the proof1 and show that the condition2 we have described is the exact counterpart of the relation of the state to the true philosophers.” “It is indeed,” he said. “To begin with, then, teach this parable3 to the man who is surprised that philosophers are not honored in our cities, and try to convince him that it would be far more surprising [489b] if they were honored.” 
+### 489b
+ἀλλὰ διδάξω, ἔφη. καὶ ὅτι τοίνυν τἀληθῆ λέγεις, 
+
+“I will teach him,”1 he said. “And say to him further:
+
+ὡς ἄχρηστοι τοῖς πολλοῖς οἱ ἐπιεικέστατοι τῶν ἐν φιλοσοφίᾳ: 
+
+You are right in affirming that the finest spirit among the philosophers are of no service to the multitude. 
+
+τῆς μέντοι ἀχρηστίας τοὺς μὴ χρωμένους κέλευε αἰτιᾶσθαι, ἀλλὰ μὴ τοὺς ἐπιεικεῖς. 
+
+But bid him blame for this uselessness,2 not the finer spirits, but those who do not know how to make use of them. 
+
+οὐ γὰρ ἔχει φύσιν κυβερνήτην ναυτῶν δεῖσθαι ἄρχεσθαι ὑφ᾽ αὑτοῦ οὐδὲ τοὺς σοφοὺς ἐπὶ τὰς τῶν πλουσίων θύρας ἰέναι, 
+
+For it is not the natural3 course of things that the pilot should beg the sailors to be ruled by him or that wise men should go to the doors of the rich.4 
+
+ἀλλ᾽ ὁ τοῦτο κομψευσάμενος ἐψεύσατο, 
+
+The author of that epigram5 was a liar. 
+
+τὸ δὲ ἀληθὲς πέφυκεν, ἐάντε πλούσιος ἐάντε πένης κάμνῃ, ἀναγκαῖον
+
+But the true nature of things is that whether the sick man be rich or poor he must needs go to the door of the physician,
+### 507b
 
 τὰ ποῖα; ἦ δ᾽ ὅς.
 
+“What?” said he. 
+
 πολλὰ καλά, ἦν δ᾽ ἐγώ, καὶ πολλὰ ἀγαθὰ καὶ ἕκαστα οὕτως εἶναί φαμέν τε καὶ διορίζομεν τῷ λόγῳ.
 
-φαμὲν γάρ.
+“We predicate ‘to be’1 of many beautiful things and many good things, saying of them severally that they are, and so define them in our speech.” 
 
-“What?” said he. “We predicate ‘to be’1 of many beautiful things and many good things, saying of them severally that they are, and so define them in our speech.” 
+φαμὲν γάρ.
 
 “We do.” 
 

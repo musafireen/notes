@@ -1501,6 +1501,26 @@ While they were seated there, devarshi Narada, pure in soul, also arrived to see
 
 उवाच चैनं कालज्ञः स्मयन्निव स नारदः |
 ब्रह्मर्षे कथ्यतां यत्ते पाण्डवेषु विवक्षितम् ||४७||
+### c199
+##### 7
+राज्ञो महानसे पूर्वं रन्तिदेवस्य वै द्विज 
+द्वे सहस्रे तु वध्येते पशूनामन्वहं तदा
+
+And in days of yore, O Brahmana, two thousand animals used to be killed every day in the kitchen of king Rantideva; 
+
+
+(अहन्‍यहनि वध्‍येते द्वे सहस्रे गवां तथा)
+
+and in the same manner two thousand cows were killed every day; 
+##### 8
+समांसं ददतो ह्यन्नं रन्तिदेवस्य नित्यशः
+अतुला कीर्तिरभवन्नृपस्य द्विजसत्तम
+
+and, O best of regenerate beings, king Rantideva acquired unrivalled reputation by distributing food with meat every day.
+
+चातुर्मास्येषु पशवो वध्यन्त इति नित्यशः
+
+
 ### c213
 ##### 1-2
 ###### 1
@@ -2657,7 +2677,36 @@ O sage! I wish to bestow my beloved daughter on this serpent.’”’
 # p7
 
 ### c59
+### c67
+###### 7.67.1
+नारद उवाच।
 
+Narada said, 
+
+साङ्कृतिं रन्तिदेवं च मृतं सृञ्जय शुश्रुम।
+
+'Rantideva, the son of Srinjaya, we hear, fell a prey to death. 
+
+यस्य द्विशतसाहस्रा आसन्सूदा महात्मनः॥
+
+That high-souled king had two hundred thousand cooks 
+###### 7.67.2
+गृहानभ्यागतान्विप्रानतिथीन्परिवेषकाः।
+पक्वंपक्वं दिवारात्रं वरान्नममृतोपमम्॥
+
+to distribute excellent food, raw and cooked, like unto Amrita, unto the Brahmanas, by day and by night, who might come to his house as guests.
+###### 7.67.17
+आलभ्यन्त तदा गावः सहस्राण्येकविंशतिः।
+Then were slaughtered twenty-one thousand cows.
+
+तत्र स्म सूदाः क्रोशन्ति सुमृष्टमणिकुण्डलाः॥
+There, the cooks cried out, adorned with polished jeweled earrings.
+###### 7.67.18
+सूपं भूयिष्ठमश्नीध्वं नाद्य (मासं?) मांसं यथा पुरा।
+“Eat mostly soup; do not eat meat today as before.”
+
+रन्तिदेवस्य यत्किञ्चित्सौवर्णमभवत्तदा॥
+Whatever little gold Rantideva had at that time—
 # p9
 ### c43
 ##### 6-9
@@ -2954,7 +3003,10 @@ What dharma should be followed by them when they reside within the kingdom?
 
 How can those like me establish all those who earn a living by being bandits?
 ##### ?
+### c188
+##### 8
 ## u3
+
 ### c200
 ###### 8
 महाभूतानि भूतात्मा 
@@ -6618,6 +6670,36 @@ O lord of men! Because they did not honour their eldest, Devarata, fifty of his 
 अवाक्षिरा दिवं नीतो दक्षिणामाश्रितो दिशम् ||९||
 
 Trishanku, the son of Ikshvaku, was abandoned by his relatives. However, he23 affectionately conveyed him to heaven, with his head hanging downwards.
+##### 15
+ध्रुवस्यौत्तानपादस्य ब्रह्मर्षीणां तथैव च
+मध्ये ज्वलति यो नित्यमुदीचीमाश्रितो दिशम्
+
+He always blazes in the northern direction in the midst of the brahmana rishis and Uttanpada’s son, Dhruva.2
+##### 16
+तस्यैतानि च कर्माणि तथान्यानि च कौरव
+
+O Kourava! These and many others are his deeds. 
+
+क्षत्रियस्येत्यतो जातमिदं कौतूहलं मम
+
+This is despite his being born as a kshatriya and I am curious about this.
+##### 17
+किमेतदिति तत्त्वेन प्रब्रूहि भरतर्षभ
+
+O bull among the Bharata lineage! How did this happen? Tell me the truth about this. 
+
+देहान्तरमनासाद्य कथं स ब्राह्मणोऽभवत्
+
+Without taking birth in another body, how did he become a brahmana?
+###### 19
+स्थाने मतंगो ब्राह्मण्यं नालभद्भरतर्षभ
+चण्डालयोनौ जातो हि 
+
+O bull among the Bharata lineage! Having been born in the womb of a chandala, Matanga did not obtain the status of a brahmana. 
+
+कथं ब्राह्मण्यमाप्नुयात्
+
+How did he27 then become a brahmana?”
 ### c4
 ###### 49
 मधुच्छन्दश्च भगवान्देवरातश्च वीर्यवान् |
@@ -6728,6 +6810,81 @@ He held the Pinaka and the vajra. His teeth were sharp. He wore sparkling bracel
 वेदानां लेखकाश्चैव ते वै निरयगामिनः
 
 The Mahabharata (13.24.70) groups people who read and recite the Veda from a written text (rather than memorize it and keep it only in their heads) with corrupters and sellers of the Veda as people heading for hell. 
+### c28
+##### 4
+भीष्म उवाच
+
+Bhishma replied, 
+
+ब्राह्मण्यं तात दुष्प्रापं वर्णैः क्षत्रादिभिस्त्रिभिः
+
+“For a kshatriya and the others, the three varnas, becoming a brahmana is extremely difficult. 
+
+परं हि सर्वभूतानां स्थानमेतद्युधिष्ठिर
+
+For all beings, that is the best state. O son! O Yudhishthira! 
+##### 5
+बह्वीस्तु संसरन्योनीर्जायमानः पुनः पुनः
+पर्याये तात कस्मिंश्चिद्ब्राह्मणो नाम जायते
+
+O son! If one is repeatedly and progressively cooked in the cycle of life, one can then be born as a brahmana.
+##### 7
+द्विजातेः कस्यचित्तात तुल्यवर्णः सुतः प्रभुः
+
+There was a brahmana and this lord obtained a son through a varna that was not his equal.1234 
+
+मतङ्गो नाम नाम्नाभूत्सर्वैः समुदितो गुणैः
+
+His name was Matanga and he possessed all the qualities.
+##### 10
+तं तु तीव्रव्रणं दृष्ट्वा गर्दभी पुत्रगृद्धिनी
+
+The she-ass loved its son. On seeing those terrible wounds, 
+
+उवाच मा शुचः पुत्र 
+
+it said, ‘O son! Do not grieve. 
+
+चण्डालस्त्वाधितिष्ठति
+
+A chandala is driving you. 
+##### 11
+ब्राह्मणे दारुणं नास्ति 
+
+A brahmana is never terrible. 
+
+मैत्रो ब्राह्मण उच्यते
+
+A brahmana is said to be friendly. 
+
+आचार्यः सर्वभूतानां शास्ता 
+
+He is the preceptor of all creatures and their instructor. 
+
+किं प्रहरिष्यति
+
+How can such a person strike?
+##### 12
+अयं तु पापप्रकृतिर्बाले न कुरुते दयाम्
+
+This one is wicked in nature and does not show any compassion, even to someone who is young. 
+
+स्वयोनिं मानयत्येष भावो भावं निगच्छति
+
+By exhibiting his character, he is only exhibiting the nature of his birth.’
+##### 16
+गर्दभ्युवाच
+
+The she-ass said, 
+
+ब्राह्मण्यां वृषलेन त्वं मत्तायां नापितेन ह
+जातस्त्वमसि चण्डालो 
+
+‘There was a brahmana lady who was overcome with desire and you were born through a vrishala who was a barber. That is the reason you have been born as a chandala 
+
+ब्राह्मण्यं तेन तेऽनशत्
+
+and the reason why your status as a brahmana has been destroyed.’
 ### c43
 ###### 16
 भीष्म उवाच||

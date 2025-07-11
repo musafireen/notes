@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/pliny.natHist.md",
+                "file": "002_quran/sarh_haman/sabab.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/pliny.natHist.md",
+                "file": "002_quran/sarh_haman/sabab.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/pliny.natHist.md",
+                "file": "002_quran/sarh_haman/sabab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/pliny.natHist.md"
+                "file": "002_quran/sarh_haman/sabab.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "9933e842181072f7",
   "lastOpenFiles": [
+    "Ref/pliny.natHist.md",
     "002_quran/majuj/ya'juj_ma'juj.md",
     "nature_archaeology/species.md",
     "002_quran/ahl_kitab/ahl_kitab.md",
@@ -240,7 +241,6 @@
     "Ref/haft.azilla/h.a.17.md",
     "Ref/haft.azilla/h.a.16.md",
     "Ref/haft.azilla/h.a.15.md",
-    "Ref/haft.azilla/h.a.14.md",
     "Ref/~syncthing~Qrsi.sync-conflict-20250112-235541-AFLIAW3.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.png",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.png",

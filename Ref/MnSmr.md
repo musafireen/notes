@@ -370,3 +370,82 @@ https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhat
 म्लेच्छवाचश्चार्यवाचः सर्वे ते दस्यवः स्मृताः ॥ ४५ ॥
 
 All those races of the world which are outside the pale of the people ‘born of the mouth, the arms, the thighs and the feet,’—speaking the (mleccha) ‘barbaric’ or the (ārya) ‘refined’ language—are called ‘Dasyu.’—(45)
+# c11
+### 11.92
+कणान् वा भक्षयेदब्दं पिण्याकं वा सकृत्निशि ।
+सुरापानापनुत्त्यर्थं वालवासा जटी ध्वजी ॥ ९२ ॥
+
+Or, for the expiation of the guilt of wine-drinking, he may, for one year, eat only once at night either pieces of grain or oil-cake, clothed in hair-cloth, with his hair matted, and carrying a sign.—(92)
+### 11.210
+यैरभ्युपायैरेनांसि मानवो व्यपकर्षति ।
+तान् वोऽभ्युपायान् वक्ष्यामि देवर्षिपितृसेवितान् ॥ २१० ॥
+
+I am now going to describe to you those methods, adopted by gods and sages and Pitṛs, by means of which a man may wipe off his sins.—(210)
+### 11.211
+त्र्यहं प्रातस्त्र्यहं सायं त्र्यहमद्यादयाचितम् ।
+त्र्यहं परं च नाश्नीयात् प्राजापत्यं चरन् द्विजः ॥ २११ ॥
+
+The twice-born, who is performing the Prājāpatya, shall eat in the morning for three days, then in the evening for three days, then for three days food got unasked, and for the next three days he shall not eat.
+### 11.212
+गोमूत्रं गोमयं क्षीरं दधि सर्पिः कुशोदकम् ।
+
+Taking cow’s urine, cow-dung, milk, curds, clarified butter, kuśa-water,
+
+एकरात्रोपवासश्च कृच्छ्रं सान्तपनं स्मृतम् ॥ २१२ ॥
+
+and fasting for one day,—has been declared to be ‘Sāntapana Kṛcchra’— (212)
+### 11.213
+एकैकं ग्रासमश्नीयात् त्र्यहाणि त्रीणि पूर्ववत् ।
+त्र्यहं चोपवसेदन्त्यमतिकृच्छ्रं चरन् द्विजः ॥ २१३ ॥
+
+The twice-born man who is performing the ‘Atikṛcchra’ shall eat only one mouthful at each of the three times mentioned above, for three days,—and shall fast during the last three days.—(213)
+### 11.216
+एकैकं ह्रासयेत् पिण्डं कृष्णे शुक्ले च वर्धयेत् ।
+
+If one reduces his food by one morsel daily during the dark half of the month, and increases it during the light half,—
+
+उपस्पृशंस्त्रिषवणमेतत्चाण्ड्रायणं स्मृतम् ॥ २१६ ॥
+
+bathing at the three ‘extractions,’—it is what has been called the ‘Cāndrāyaṇa.’—(216)
+### 11.220
+यथा कथं चित् पिण्डानां तिस्रोऽशीतीः समाहितः ।
+मासेनाश्नन् हविष्यस्य चन्द्रस्यैति सलोकताम् ॥ २२० ॥
+
+If a man, with concentrated mind, somehow eats thrice eighty morsels of ‘sacrificial food,’ during a month, he attains the regions of the Moon.
+### 11.221
+एतद् रुद्रास्तथाऽदित्या वसवश्चाचरन् व्रतम् ।
+सर्वाकुशलमोक्षाय मरुतश्च महर्षिभिः ॥ २२१ ॥
+
+The Rudras, Ādityas and the Maruts, along with the Great Sages, have performed this penance, for deliverance from all evils.—(221)
+### 11.223
+त्रिरह्नस्त्रिर्निशायां च सवासा जलमाविशेत् ।
+
+Thrice in the day and thrice in the night shall he enter water along with his clothes; 
+
+स्त्रीशूद्रपतितांश्चैव नाभिभाषेत कर्हि चित् ॥ २२३ ॥
+
+and he shall never converse with women, Śūdras and outcasts.—(223)
+### 11.224
+स्थानासनाभ्यां विहरेदशक्तोऽधः शयीत वा ।
+
+He shall pass his time standing and sitting; or if he is unable to do so, he may lie down on the ground ; 
+
+ब्रह्मचारी व्रती च स्याद् गुरुदेवद्विजार्चकः ॥ २२४ ॥
+
+he shall remain chaste, firm in vows, worshipping his elders, gods and Brāhmaṇas.—(224)
+### 11.225
+सावित्रीं च जपेन्नित्यं पवित्राणि च शक्तितः ।
+
+He shall constantly repeat the Sāvitrī, as also other purificatory texts, to the best of his ability. 
+
+सर्वेष्वेव व्रतेष्वेवं प्रायश्चित्तार्थमादृतः ॥ २२५ ॥
+
+This shall be done with due care, in connection with all penances performed for the sake of expiation.—(225)
+### 11.226
+एतैर्द्विजातयः शोध्या व्रतैराविष्कृतेनसः ।
+
+By means of these penances are those twice-born persons to be purified whose sins have become known; 
+
+अनाविष्कृतपापांस्तु मन्त्रैर्होमैश्च शोधयेत् ॥ २२६ ॥
+
+those whose sins have not become known, one shall purify by means of sacred texts and Homa-offerings.—(226)

@@ -424,6 +424,111 @@ And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught
 #### 14
 וַיִּקְרָא אַבְרָהָםשֵׁם-הַמָּקוֺםהַהוּא יְהוָה יִרְאֶה אֲשֶׁר יֵאָמֵר הַיּוֺם בְּהַר יְהוָה יֵרָאֶה
 And Abraham called the name of that place Jehovahjireh: as it is said [to] this day, In the mount of the LORD it shall be seen.
+## c28
+#### 10
+ לְאִשָּׁה 10וַיֵּצֵא יַעֲקֹב מִבְּאֵר שָׁבַע וַיֵּלֶךְ חָרָנָה 
+ 
+10And Jacob went out from Beersheba, and went toward Haran.
+n1 Haran: Gr. Charran
+#### 11
+11וַיִּפְגַּע בַּמָּקוֺם וַיָּלֶן שָׁםכִּי-בָאהַשֶּׁמֶשׁ וַיִּקַּח מֵאַבְנֵי הַמָּקוֺם וַיָּשֶׂם מְרַאֲשֹׁתָיו וַיִּשְׁכַּב בַּמָּקוֺם הַהוּא 
+
+11And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put [them for] his pillows, and lay down in that place to sleep. 
+#### 12
+12וַיַּחֲלֹם וְהִנֵּה סֻלָּם מֻצָּב אַרְצָה וְרֹאשׁוֺ מַגִּיעַ הַשָּׁמָיְמָה וְהִנֵּה מַלְאֲכֵי אֱלֹהִים עֹלִים וְיֹרְדִים בּוֺ 
+
+12And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it. 
+#### 13
+13וְהִנֵּה יְהוָה נִצָּב עָלָיו וַיֹּאמַר אֲנִי יְהוָה אֱלֹהֵי אַבְרָהָם אָבִיךׇ וֵאלֹהֵי יִצְחָק הָאָרֶץ אֲשֶׁר אַתָּה שֹׁכֵב עָלֶיהָ לְךׇ אֶתְּנֶנָּה וּלְזַרְעֶךׇ 14
+
+13And, behold, the LORD stood above it, and said, I [am] the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed; 
+#### 14
+14וְהָיָה זַרְעֲךׇ כַּעֲפַר הָאָרֶץ וּפָרַצְתָּ יָמָּה וָקֵדְמָה וְצָפֹנָה וָנֶגְבָּה וְנִבְרְכוּ בְךׇכָּל-מִשְׁפְּחֹתהָאֲדָמָה 
+
+14And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed.
+#### 15
+15וְהִנֵּה אָנֹכִי עִמָּךְ וּשְׁמַרְתִּיךׇ בְּכֹלאֲשֶׁר-תֵּלֵךְוַהֲשִׁבֹתִיךׇאֶל-הָאֲדָמָההַזֹּאת כִּי לֹא אֶעֱזָבְךׇ עַד אֲשֶׁראִם-עָשִׂיתִיאֵתאֲשֶׁר-דִּבַּרְתִּילָךְ 
+
+15And, behold, I [am] with thee, and will keep thee in all [places] whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done [that] which I have spoken to thee of. 
+#### 16
+16וַיִּיקַץ יַעֲקֹב מִשְּׁנָתוֺ וַיֹּאמֶר אָכֵן יֵשׁ יְהוָה בַּמָּקוֺם הַזֶּה וְאָנֹכִי לֹא יָדָעְתִּי 
+
+16And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew [it] not. 
+#### 17
+17וַיִּירָא וַיֹּאמַרמַה-נּוֺרָאהַמָּקוֺם הַזֶּה אֵין זֶה כִּיאִם-בֵּיתאֱלֹהִים וְזֶה שַׁעַר הַשָּׁמָיִם 
+
+17And he was afraid, and said, How dreadful [is] this place ! this [is] none other but the house of God, and this [is] the gate of heaven. 
+#### 18
+18וַיַּשְׁכֵּם יַעֲקֹב בַּבֹּקֶר וַיִּקַּחאֶת-הָאֶבֶןאֲשֶׁר-שָׂםמְרַאֲשֹׁתָיו וַיָּשֶׂם אֹתָהּ מַצֵּבָה וַיִּצֹק שֶׁמֶןעַל-רֹאשָׁהּ
+
+18And Jacob rose up early in the morning, and took the stone that he had put [for] his pillows, and set it up [for] a pillar, and poured oil upon the top of it. 
+#### 19
+19וַיִּקְרָאאֶת-שֵׁם-הַמָּקוֺםהַהוּאבֵּית-אֵלוְאוּלָם לוּזשֵׁם-הָעִירלָרִאשֹׁנָה 
+
+19And he called the name of that place Bethel: but the name of that city [was called] Luz at the first.
+n1 Bethel: that is, The house of God
+#### 20
+20וַיִּדַּר יַעֲקֹב נֶדֶר לֵאמֹראִם-יִהְיֶהאֱלֹהִים עִמָּדִי וּשְׁמָרַנִי בַּדֶּרֶךְ הַזֶּה אֲשֶׁר אָנֹכִי הוֺלֵךְוְנָתַן-לִילֶחֶם לֶאֱכֹל וּבֶגֶד לִלְבֹּשׁ 
+
+20And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on, 
+#### 21
+21וְשַׁבְתִּי בְשָׁלוֺםאֶל-בֵּיתאָבִי וְהָיָה יְהוָה לִי לֵאלֹהִים 
+
+21So that I come again to my father´s house in peace; then shall the LORD be my God: 
+#### 22
+22וְהָאֶבֶן הַזֹּאתאֲשֶׁר-שַׂמְתִּימַצֵּבָה יִהְיֶה בֵּית אֱלֹהִים וְכֹל אֲשֶׁרתִּתֶּן-לִיעַ׹ֵּׂר אֲעַ׹ְּׂרֶנּוּ לָךְ
+
+
+22And this stone, which I have set [for] a pillar, shall be God´s house: and of all that thou shalt give me I will surely give the tenth unto thee.
+## c32
+#### 22
+22וַתַּעֲבֹר הַמִּנְחָהעַל-פָּנָיווְהוּא לָןבַּלַּיְלָה-הַהוּאבַּמַּחֲנֶה 
+
+22And he rose up that night, and took his two wives, and his two womenservants, and his eleven sons, and passed over the ford Jabbok. 
+#### 23
+23וַיָּקָם בַּלַּיְלָה הוּא וַיִּקַּחאֶת-שְׁתֵּינָשָׁיווְאֶת-שְׁתֵּישִׁפְחֹתָיווְאֶת-אַחַדעָשָׂר יְלָדָיו וַיַּעֲבֹר אֵת מַעֲבַר יַבֹּק 
+
+23And he took them, and sent them over the brook, and sent over that he had.
+n1 sent them: Heb. caused to pass
+#### 24
+24וַיִּקָּחֵם וַיַּעֲבִרֵםאֶת-הַנָּחַלוַיַּעֲבֵראֶת-אֲשֶׁר-לוֺ
+
+24And Jacob was left alone; and there wrestled a man with him until the breaking of the day.
+n1 breaking…: Heb. ascending of the morning
+#### 25
+25וַיִּוָּתֵר יַעֲקֹב לְבַדּוֺ וַיֵּאָבֵק אִישׁ עִמּוֺ עַד עֲלוֺת הַשָּׁחַר 
+
+25And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob´s thigh was out of joint, as he wrestled with him. 
+#### 26
+26וַיַּרְא כִּי לֹא יָכֹל לוֺ וַיִּגַּעבְּכַף-יְרֵכוֺוַתֵּקַעכַּף-יֶרֶךְיַעֲקֹב בְּהֵאָבְקוֺ עִמּוֺ 
+
+26And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me. 
+#### 27
+27וַיֹּאמֶר שַׁלְּחֵנִי כִּי עָלָה הַשָּׁחַר וַיֹּאמֶר לֹא אֲשַׁלֵּחֲךׇ כִּיאִם-בֵּרַכְתָּנִי
+
+27And he said unto him, What [is] thy name ? And he said, Jacob. 
+#### 28
+28וַיֹּאמֶר אֵלָיומַה-שְּׁמֶךׇוַיֹּאמֶר יַעֲקֹב 
+
+28And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.
+n1 Israel: that is, A prince of God
+#### 29
+29וַיֹּאמֶר לֹא יַעֲקֹב יֵאָמֵר עוֺד שִׁמְךׇ כִּיאִם-יִשְׂרָאֵלכִּי-שָׂרִיתָעִם-אֱלֹהִיםוְעִם-אֲנָשִׁיםוַתּוּכָל 
+
+29And Jacob asked [him], and said, Tell [me], I pray thee, thy name. And he said, Wherefore [is] it [that] thou dost ask after my name ? And he blessed him there. 
+#### 30
+30וַיִּשְׁאַל יַעֲקֹב וַיֹּאמֶרהַגִּידָה-נָּאשְׁמֶךׇ וַיֹּאמֶר לָמָּה זֶּה תִּשְׁאַל לִשְׁמִי וַיְבָרֶךְ אֹתוֺ שָׁם 
+ 
+30And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.
+n1 Peniel: that is, The face of God
+#### 31
+ 31וַיִּקְרָא יַעֲקֹב שֵׁם הַמָּקוֺם פְּנִיאֵלכִּי-רָאִיתִיאֱלֹהִים פָּנִיםאֶל-פָּנִיםוַתִּנָּצֵל נַפְשִׁי 
+
+31And as he passed over Penuel the sun rose upon him, and he halted upon his thigh. 
+#### 32
+32וַיִּזְרַח-לוֺהַשֶּׁמֶשׁ כַּאֲשֶׁר עָבַראֶת-פְּנוּאֵלוְהוּא צֹלֵעַעַל-יְרֵכוֺ33עַל-כֵּןלֹא-יֹאכְלוּבְנֵי-יִשְׂרָאֵלאֶת-גִּידהַנָּשֶׁה אֲשֶׁרעַל-כַּףהַיָּרֵךְ עַד הַיּוֺם הַזֶּה כִּי נָגַעבְּכַף-יֶרֶךְיַעֲקֹב בְּגִיד הַנָּשֶׁה
+ 
+32Therefore the children of Israel eat not [of] the sinew which shrank, which [is] upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob´s thigh in the sinew that shrank.
 ## c36
 #### 2
 עֵשָׂ֛ו לָקַ֥ח אֶת־נָשָׁ֖יו מִבְּנ֣וֹת כְּנָ֑עַן אֶת־עָדָ֗ה בַּת־אֵילוֹן֙ הַֽחִתִּ֔י וְאֶת־אָהֳלִֽיבָמָה֙ בַּת־עֲנָ֔ה בַּת־צִבְע֖וֹן הַֽחִוִּֽי ׃

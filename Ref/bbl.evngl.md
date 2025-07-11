@@ -1003,6 +1003,14 @@ In him was life; and the life was the light of men.
 και ειπεν αυτω ναθαναηλ εκ [ναζαρετ] [ναζαρεθ] δυναται τι αγαθον ειναι λεγει αυτω φιλιππος ερχου και ιδε
 
 And Nathanael said unto him, Can there any good thing come out of Nazareth ? Philip saith unto him, Come and see.
+### 49
+απεκριθη ναθαναηλ και λεγει αυτω ραββι συ ει ο υιος του θεου συ ει ο βασιλευς του ισραηλ
+
+Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.
+### 51
+και λεγει αυτω αμην αμην λεγω υμιν απ αρτι οψεσθε τον ουρανον ανεωγοτα και τους αγγελους του θεου αναβαινοντας και καταβαινοντας επι τον υιον του ανθρωπου
+
+And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.
 ## c8
 #### 1
 ιησους δε επορευθη εις το ορος των ελαιων

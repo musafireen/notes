@@ -1,0 +1,2 @@
+
+it's actually not that different to work humans from working computers. you have to learn both in order to get it to do what you want them to do. except humans don't come with documentation. you have to figure out humans by asking indirect questions.

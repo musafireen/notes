@@ -24,7 +24,7 @@ That being said, there are hymns and passages in the **Shukla Yajurveda** (Vajas
 ### Related Verses in Vajasaneyi Samhita and Shatapatha Brahmana:
 1. **Vajasaneyi Samhita (Shukla Yajurveda)** does contain hymns that praise Prāṇa, but they are presented differently and may not appear as a singular hymn like in Taittiriya Samhita.
    - **Vajasaneyi Samhita 34.5**: References Prāṇa as one of the vital forces in the universe.
-   - ![[VS.md#p34]]
+   - ![[VS#p34]]
    
 2. **Shatapatha Brahmana (associated with Shukla Yajurveda)**:
    - The **Shatapatha Brahmana** contains discussions on **Prāṇa** in the context of rituals, specifically in relation to the fire sacrifice (Agni), as Prāṇa is often equated with the sustaining power of life and the breath of the cosmos. However, these are more philosophical and ritual discussions rather than hymns directly praising Prāṇa.

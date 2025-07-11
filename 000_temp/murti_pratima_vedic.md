@@ -19,7 +19,7 @@ Although the Vedas do not explicitly prescribe the worship of physical images (m
    - **Interpretation**: Some interpret this as indicating that **divinity can manifest in material form**, thus justifying the practice of making **murtis** that represent various forms of the divine. This idea aligns with later philosophical concepts that regard the murti as a physical manifestation of the cosmic principle.
 
 ### 4. **Shukla Yajurveda (Vajasaneyi Samhita 32.3)**:
-![[VS.md#p32#3]]
+![[VS#p32#3]]
    - **Verse**: "Na tasya pratima asti" ("There is no image of Him").
    - **Interpretation**: Although this verse explicitly states that the supreme being has no image or form, later interpreters in the Bhakti and Tantric traditions interpreted this as referring to the **formless nature of the ultimate reality**, while still allowing for the creation of **murtis** as symbolic representations of various aspects or forms of the divine, such as Vishnu, Shiva, or Devi.
 

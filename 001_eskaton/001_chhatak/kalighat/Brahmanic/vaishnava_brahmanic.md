@@ -34,7 +34,7 @@
 ~~ pañcarātra made babara vācaspati :[[TS#7.1.10]]
 # vājasaneyi s
 . - 12th-8th c bce
-~~ puruṣa sūkta :[[VS.md#p31#1-16]]
+~~ puruṣa sūkta :[[VS#p31#1-16]]
 # atharva
 - 12th-6th century BCE
 ~~ all feared at virāṭ's birth, that she will become idam :[[AV.ŚS#8.10#1]]

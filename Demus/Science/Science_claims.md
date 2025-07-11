@@ -1,5 +1,5 @@
 
-![[surord#26]]
+![[surord#52]]
 
 ![[Qrsi#26:187]]
 
@@ -13,19 +13,21 @@ Strict early record keeping of islam meant they couldn't attribute them directly
 
 [Q.75:39](https://quran.com/75:39/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#75:37]]![[Qrsd#75:38]]![[Qrsd#75:39]]
+![[Qrsi#75:37]]![[Qrsi#75:38]]![[Qrsi#75:39]]
 
 # Q:26:187
 ![[Qrsi#26:176]]![[Qrsi#26:177]]![[Qrsi#26:185]]![[Qrsi#26:187]]
 ## سَمَآء كِسْف سقط 
+# Q:36:40
+
+![[Qrsi#36:40]]
 # Q:17:92
 ![[Qrsi#17:89]]
 ![[Qrsi#17:90]]![[Qrsi#17:92]]
 
 ## سَمَآء سقط كِسْف
-# Q:36:40
-
-![[Qrsd#36:40]]
+# Q.:41:9-12
+![[Qrsi#r41.2.x]]
 
 # Q:52:44
 ![[Qrsi#52:44]]
@@ -33,7 +35,7 @@ Strict early record keeping of islam meant they couldn't attribute them directly
 ## كِسف سَمَآء سَحَاب سقط مَركوم
 # Q:79:27-30
 
-![[Qrsd#79:27]]![[Qrsd#79:28]]![[Qrsd#79:30]]![[Qrsd#79:31]]![[Qrsd#79:32]]![[Qrsd#79:33]]
+![[Qrsi#79:27]]![[Qrsi#79:28]]![[Qrsi#79:30]]![[Qrsi#79:31]]![[Qrsi#79:32]]![[Qrsi#79:33]]
 # Q:30:48
 ![[Qrsi#30:48]]
 ## سحاب ثور كسف خلال
@@ -43,17 +45,17 @@ Strict early record keeping of islam meant they couldn't attribute them directly
 ![[Qrsi#13:17]]
 # Q:55:34
 
-![[Qrsd#55:33]]
+![[Qrsi#55:33]]
 
 ## smw nf* ( )
 
 # Q:22:5
 
-![[Qrsd#22:5]]
+![[Qrsi#22:5]]
 
 # Q:22:15
 
-![[Qrsd#22:15]]
+![[Qrsi#22:15]]
 
 ## smw sbb qTE ( )
 

@@ -1,3 +1,189 @@
+
+# ramm.teil
+"Suche 
+gut 
+gebauten 
+achtzehn 
+bis 
+dreißigjährigen 
+zum 
+Schlachten"
+Der 
+Metzgermeister
+
+Heute 
+treff' 
+ich 
+einen 
+Herrn
+Der 
+hat 
+mich 
+zum 
+Fressen 
+gern
+Weiche 
+Teile 
+und 
+auch 
+harte
+Stehen 
+auf 
+der 
+Speisekarte
+
+[Pre-Refrain]
+Denn 
+du 
+bist, 
+was 
+du 
+isst
+Und 
+ihr 
+wisst, 
+was es ist
+
+Es ist 
+mein 
+Teil – 
+nein
+Da-
+das 
+ist mein Teil 
+
+Die 
+stumpfe 
+Klinge 
+gut und 
+recht
+Ich 
+blute 
+stark 
+und 
+mir 
+ist 
+schlecht
+Muss 
+ich auch 
+mit 
+der 
+Ohnmacht 
+kämpfen
+Ich 
+esse 
+weiter 
+unter 
+Krämpfen
+
+Ist 
+doch 
+so 
+gut 
+gewürzt
+Und so 
+schön 
+flambiert
+Und so 
+liebevoll 
+auf 
+Porzellan 
+serviert
+Dazu 
+ein 
+guter 
+Wein
+Und 
+zarter 
+Kerzenschein
+Ja, 
+da 
+lass' 
+ich 
+mir 
+Zeit
+Etwas 
+Kultur 
+muss 
+sein
+
+Ein 
+Schrei 
+wird 
+zum 
+Himmel 
+fahren
+Schneidet 
+sich 
+durch 
+Engelsscharen
+Vom 
+Wolkendach 
+fällt 
+Federfleisch
+Auf meine 
+Kindheit 
+mit 
+Gekreisch
+
+Es ist mein Teil – nein
+Mein Teil – nein
+Denn 
+das ist mein Teil – nein
+# ramm.weh
+Nur für mich bist du am Leben
+Ich steck dir Orden ins Gesicht
+Du bist mir ganz und gar ergeben
+Du liebst mich, denn ich lieb dich nicht
+Du blutest für mein Seelenheil
+Ein kleiner Schnitt und du wirst geil
+Der Körper schon total entstellt
+Egal, erlaubt ist, was gefällt
+Ich tu dir weh
+Tut mir nicht leid
+Das tut dir gut
+Hört, wie es schreit
+Bei dir hab ich die Wahl der Qual
+Stacheldraht im Harnkanal
+Leg dein Fleisch in Salz und Eiter
+Erst stirbst du, doch dann lebst du weiter
+Bisse, Tritte, harte Schläge
+Nadeln, Zangen, stumpfe Säge
+Wünsch dir was, ich sag nicht nein
+Und führ dir Nagetiere ein
+Ich tu dir weh
+Tut mir nicht leid
+Das tut dir gut
+Hört, wie es schreit
+Ich tu dir weh
+Tut mir nicht leid
+Es tut dir gut
+Hört, wie es schreit
+Du bist das Schiff, ich der Kapitän
+Wohin soll denn die Reise gehen?
+Ich seh im Spiegel dein Gesicht
+Du liebst mich, denn ich lieb dich nicht
+Ich tu dir weh
+Tut mir nicht leid
+Das tut dir gut
+Hört, wie es schreit
+Ich tu dir weh
+Tut mir nicht leid
+Das tut dir gut
+Hört, wie es schreit
+Ich tu dir weh
+Tut mir nicht leid
+Es tut dir gut
+Hört, wie es schreit
+# hasst
+du hast mich
+Du hast mich gefragt 
+und ich hab nichts gesagt
+Willst du bis der Tod euch scheidet
+Treu ihr sein für alle Tage?
+Nein!
+Willst du bis zum Tod der Scheide
+Sie lieben auch in schlechten Tagen?
 # ramm.deutchland
 Du hast viel geweint	You have cried a lot
 Im Geist getrennt	In the mind apart
@@ -73,7 +259,7 @@ Deutschland	Germany
 Meine Liebe kann ich dir nicht geben	My love I cannot give to you
 Deutschland	Germany
 
-# seemann
+# ramm.seemann
 Komm in mein Boot
 ein Sturm kommt auf
 und es wird Nacht
@@ -152,6 +338,63 @@ Ohne dich	Without you
 Ohne dich zähl ich die Stunden ohne dich	Without you I count the hours without you
 Mit dir stehen die Sekunden	With you the seconds stand still
 Lohnen nicht ohne dich	They aren’t worth it without you
+# ramm.riechst
+Der Wahnsinn
+Ist nur eine schmale Brücke
+Die Ufer sind Vernunft und Trieb
+Ich steig dir nach
+Das Sonnenlicht den Geist verwirrt
+Ein blindes Kind das vorwärts kriecht
+Weil es seine Mutter riecht
+
+Ich finde dich
+Die Spur ist frisch und auf die Brücke
+Tropft dein Schweiss, dein warmes Blut
+Ich seh dich nicht
+Ich riech dich nur Ich spüre Dich
+Ein Raubtier das vor Hunger schreit
+Wittere ich dich meilenweit
+
+Du riechst so gut
+Du riechst so gut
+Ich geh dir hinterher
+Du riechst so gut
+Ich finde dich
+
+So gut, so gut
+Ich steig dir nach
+Du riechst so gut
+Gleich hab ich dich
+
+Jetzt hab ich dich
+Ich warte bis es dunkel ist
+Dann fass ich an die nasse Haut
+Verrat mich nicht
+Oh, siehst du nicht die Brücke brennt
+Hör auf zu schreien und wehre dich nicht
+Weil sie sonst auseinander bricht
+
+Du riechst so gut
+Du riechst so gut
+Ich geh dir hinterher
+Du riechst so gut
+Ich finde dich
+
+So gut, so gut
+Ich steig dir nach
+Du riechst so gut
+Gleich hab ich dich
+
+Du riechst so gut
+Du riechst so gut
+Ich geh dir hinterher
+Du riechst so gut
+Ich finde Dich
+
+So gut, so gut
+Ich fass dich an
+Du riechst so gut
+Jetzt hab ich dich
 # ramm.rosenrot
 Sah ein Mädchen ein Röslein stehen	A girl saw a little rose
 Blühte dort in lichten Höhen	It bloomed there in bright heights
@@ -177,3 +420,31 @@ Sie will es und so ist es fein	She wants it and that’s fine
 So war es und so wird es immer sein	So it was and so it will always be
 Sie will es und so ist es Brauch	She wants it and that’s the custom
 Was sie will bekommt sie auch	Whatever she wants she gets
+
+# ramm.engel
+Wer zu Lebzeit' gut auf Erden,
+wird nach dem Tod ein Engel werden.
+Den Blick gen' Himmel fragst du dann,
+warum man sie nicht sehen kann.
+Erst wenn die Wolken schlafen gehen,
+kann man uns am Himmel sehen.
+Wir haben Angst und sind allein.
+Gott weiß, ich will kein Engel sein.
+Sie leben hinterm Sonnenschein,
+getrennt von uns unendlich weit.
+Sie müssen sich an Sterne krallen, (ganz fest)
+damit sie nicht vom Himmel fallen.
+Erst wenn die Wolken schlafen gehen,
+kann man uns am Himmel sehen.
+Wir haben Angst und sind allein.
+Gott weiß, ich will kein Engel sein.
+Gott weiß, ich will kein Engel sein.
+Gott weiß, ich will kein Engel sein.
+Erst wenn die Wolken schlafen gehen,
+kann man uns am Himmel sehen.
+Wir haben Angst und sind allein.
+Gott weiß, ich will kein Engel sein.
+Gott weiß, ich will kein Engel sein.
+Gott weiß, ich will kein Engel sein.
+Gott weiß, ich will kein Engel sein.
+Gott weiß, ich will kein Engel sein.

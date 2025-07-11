@@ -47,6 +47,11 @@ Ye are of God, little children, and have overcome them: because greater is he th
 ο μη αγαπων ουκ εγνω τον θεον οτι ο θεος αγαπη εστιν
 
 He that loveth not knoweth not God; for God is love.
+## c5
+#### 19
+οιδαμεν οτι εκ του θεου εσμεν και ο κοσμος ολος εν τω πονηρω κειται
+
+[And] we know that we are of God, and the whole world lieth in wickedness.
 # jude
 ## c1
 ### 1
