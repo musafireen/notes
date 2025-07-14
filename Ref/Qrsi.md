@@ -4634,6 +4634,7 @@ Surely We have made this Qur'an easy as a reminder. Is there, then, any who will
 
 ![[#r54.3.1]]
 ![[#r54.3.2]]
+![[#r54.3.3]]
 ## r54.3.1
 
 [Q.54.41-43](https://www.islamicstudies.info/tafheem.php?sura=54&verse=41&to=43)
