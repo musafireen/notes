@@ -43,23 +43,6 @@
 ## أَكْل
 
 
-# Q:89:20
-[Q.89:20](https://quran.com/89:20/tafsirs/ar-tafsir-al-tabari)
-
-![[Qrsi#89:20]]
-
-## حُبّ
-
-
-# Q:100:8
-[Q.100:8](https://quran.com/100:8/tafsirs/ar-tafsir-al-tabari)
-
-![[Qrsi#r100.1]]
-
-## ~~~ حُبّ
-1st inst: [[#Q:89:20]]
-
-
 # Q:107:3
 [Q.107:3](https://quran.com/107:3/tafsirs/ar-tafsir-al-tabari)
 
@@ -113,12 +96,18 @@
 ## عِنَب
 
 
+## قَضْب
+
+
 # Q:80:29
 [Q.80:29](https://quran.com/80:29/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#80:29]]
 
 ## زَّيْتُون
+
+
+## نَخْل
 
 
 # Q:80:32
@@ -229,6 +218,15 @@
 ## حَصِيد
 
 
+# Q:50:10
+[Q.50:10](https://quran.com/50:10/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#50:10]]
+
+## ~~~ نَخْل
+1st inst: [[#Q:80:29]]
+
+
 # Q:50:11
 [Q.50:11](https://quran.com/50:11/tafsirs/ar-tafsir-al-tabari)
 
@@ -271,6 +269,15 @@
 
 ## ~~~ مَآء
 1st inst: [[#Q:80:25]]
+
+
+# Q:54:20
+[Q.54:20](https://quran.com/54:20/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#54:20]]
+
+## ~~~ نَخْل
+1st inst: [[#Q:80:29]]
 
 
 # Q:54:28
@@ -318,15 +325,6 @@
 
 ## ~~~ ذوق i
 1st inst: [[#Q:54:37]]
-
-
-# Q:38:32
-[Q.38:32](https://quran.com/38:32/tafsirs/ar-tafsir-al-tabari)
-
-![[Qrsi#r38.3.x]]
-
-## ~~~ حُبّ
-1st inst: [[#Q:89:20]]
 
 
 # Q:38:42
@@ -533,6 +531,9 @@
 [Q.36:34](https://quran.com/36:34/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#36:34]]
+
+## نَّخِيل
+
 
 ## ~~~ عِنَب
 1st inst: [[#Q:80:28]]
@@ -759,10 +760,22 @@
 1st inst: [[#Q:35:28]]
 
 
+# Q:19:23
+[Q.19:23](https://quran.com/19:23/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#r19.2.x]]
+
+## نَّخْلَة
+
+
 # Q:19:25
 [Q.19:25](https://quran.com/19:25/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r19.2.x]]
+![[Qrsi#19:25]]
+
+## ~~~ نَّخْلَة
+1st inst: [[#Q:19:23]]
+
 
 ## رُطَب
 
@@ -813,6 +826,15 @@
 
 ## ~~~ نَّعَم
 1st inst: [[#Q:80:32]]
+
+
+# Q:20:71
+[Q.20:71](https://quran.com/20:71/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#r20.3.x]]
+
+## ~~~ نَخْل
+1st inst: [[#Q:80:29]]
 
 
 # Q:20:80
@@ -1002,6 +1024,10 @@
 ## زَرْع
 
 
+## ~~~ نَخْل
+1st inst: [[#Q:80:29]]
+
+
 # Q:26:155
 [Q.26:155](https://quran.com/26:155/tafsirs/ar-tafsir-al-tabari)
 
@@ -1142,6 +1168,10 @@
 [Q.17:91](https://quran.com/17:91/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#r17.8.x]]
+
+## ~~~ نَّخِيل
+1st inst: [[#Q:36:34]]
+
 
 ## ~~~ عِنَب
 1st inst: [[#Q:80:28]]
@@ -1358,15 +1388,6 @@
 
 ## ~~~ اكل i
 1st inst: [[#Q:89:19]]
-
-
-# Q:12:30
-[Q.12:30](https://quran.com/12:30/tafsirs/ar-tafsir-al-tabari)
-
-![[Qrsi#r12.4.x]]
-
-## ~~~ حُبّ
-1st inst: [[#Q:89:20]]
 
 
 # Q:12:36
@@ -1593,6 +1614,10 @@
 1st inst: [[#Q:80:27]]
 
 
+## ~~~ نَخْل
+1st inst: [[#Q:80:29]]
+
+
 ## ~~~ عِنَب
 1st inst: [[#Q:80:28]]
 
@@ -1688,6 +1713,10 @@
 [Q.6:141](https://quran.com/6:141/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#r6.17.x]]
+
+## ~~~ نَخْل
+1st inst: [[#Q:80:29]]
+
 
 ## ~~~ زَرْع
 1st inst: [[#Q:26:148]]
@@ -2421,6 +2450,10 @@
 1st inst: [[#Q:80:28]]
 
 
+## ~~~ نَخْل
+1st inst: [[#Q:80:29]]
+
+
 ## ~~~ زَرْع
 1st inst: [[#Q:26:148]]
 
@@ -2525,6 +2558,10 @@
 1st inst: [[#Q:80:29]]
 
 
+## ~~~ نَّخِيل
+1st inst: [[#Q:36:34]]
+
+
 ## ~~~ عِنَب
 1st inst: [[#Q:80:28]]
 
@@ -2609,6 +2646,10 @@
 
 ## ~~~ ثَمَرَٰت
 1st inst: [[#Q:7:57]]
+
+
+## ~~~ نَّخِيل
+1st inst: [[#Q:36:34]]
 
 
 ## ~~~ عِنَب
@@ -2896,6 +2937,10 @@
 
 ![[Qrsi#23:19]]
 
+## ~~~ نَّخِيل
+1st inst: [[#Q:36:34]]
+
+
 ## ~~~ عِنَب
 1st inst: [[#Q:80:28]]
 
@@ -3069,10 +3114,19 @@
 1st inst: [[#Q:80:25]]
 
 
+# Q:69:7
+[Q.69:7](https://quran.com/69:7/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#r69.1.x]]
+
+## ~~~ نَخْل
+1st inst: [[#Q:80:29]]
+
+
 # Q:69:11
 [Q.69:11](https://quran.com/69:11/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r69.1.x]]
+![[Qrsi#69:11]]
 
 ## ~~~ مَآء
 1st inst: [[#Q:80:25]]
@@ -3653,15 +3707,6 @@
 1st inst: [[#Q:35:28]]
 
 
-# Q:2:165
-[Q.2:165](https://quran.com/2:165/tafsirs/ar-tafsir-al-tabari)
-
-![[Qrsi#2:165]]
-
-## ~~~ حُبّ
-1st inst: [[#Q:89:20]]
-
-
 # Q:2:168
 [Q.2:168](https://quran.com/2:168/tafsirs/ar-tafsir-al-tabari)
 
@@ -3700,15 +3745,6 @@
 
 ## ~~~ اكل i
 1st inst: [[#Q:89:19]]
-
-
-# Q:2:177
-[Q.2:177](https://quran.com/2:177/tafsirs/ar-tafsir-al-tabari)
-
-![[Qrsi#r2.22.x]]
-
-## ~~~ حُبّ
-1st inst: [[#Q:89:20]]
 
 
 # Q:2:184
@@ -3874,6 +3910,10 @@
 
 ![[Qrsi#2:266]]
 
+## ~~~ نَّخِيل
+1st inst: [[#Q:36:34]]
+
+
 ## ~~~ عِنَب
 1st inst: [[#Q:80:28]]
 
@@ -3985,10 +4025,6 @@
 [Q.3:14](https://quran.com/3:14/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#r3.2.x]]
-
-## ~~~ حُبّ
-1st inst: [[#Q:89:20]]
-
 
 ## ~~~ نَّعَم
 1st inst: [[#Q:80:32]]
@@ -4326,6 +4362,10 @@
 1st inst: [[#Q:26:148]]
 
 
+## ~~~ نَّخِيل
+1st inst: [[#Q:36:34]]
+
+
 ## ~~~ سقي i
 1st inst: [[#Q:26:79]]
 
@@ -4383,10 +4423,19 @@
 1st inst: [[#Q:6:141]]
 
 
+# Q:55:11
+[Q.55:11](https://quran.com/55:11/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#r55.1.x]]
+
+## ~~~ نَخْل
+1st inst: [[#Q:80:29]]
+
+
 # Q:55:12
 [Q.55:12](https://quran.com/55:12/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r55.1.x]]
+![[Qrsi#55:12]]
 
 ## ~~~ حَبّ
 1st inst: [[#Q:80:27]]
@@ -4396,6 +4445,10 @@
 [Q.55:68](https://quran.com/55:68/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#r55.3.x]]
+
+## ~~~ نَخْل
+1st inst: [[#Q:80:29]]
+
 
 ## ~~~ رُّمَّان
 1st inst: [[#Q:6:99]]
@@ -4430,10 +4483,6 @@
 
 ## ~~~ طَعَام
 1st inst: [[#Q:73:13]]
-
-
-## ~~~ حُبّ
-1st inst: [[#Q:89:20]]
 
 
 # Q:76:9

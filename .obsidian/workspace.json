@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/shiah/shiah.md",
+                "file": "002_quran/taam/taam.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shiah",
+                "query": "taam",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_quran/shiah/shiah.md",
+                "file": "002_quran/taam/taam.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_quran/shiah/shiah.md",
+                "file": "002_quran/taam/taam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002_quran/shiah/shiah.md"
+                "file": "002_quran/taam/taam.md"
               }
             }
           }
@@ -207,9 +207,9 @@
   "active": "9933e842181072f7",
   "lastOpenFiles": [
     "002_quran/sarh_haman/sabab.md",
+    "002_quran/shiah/shiah.md",
     "Ref/mdhvA.SDS.BAK.md",
     "002_quran/taam/taam.md",
-    "002_quran/shiah/shiah.md",
     "002_quran/shiah/qalil/akthar.md",
     "002_quran/taam/~syncthing~taam.md.tmp",
     "002_quran/shiah/~syncthing~shiah.md.tmp",
