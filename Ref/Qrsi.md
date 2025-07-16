@@ -10490,10 +10490,7 @@ So glorify the name of your Great Lord.
 26.1-9
 
 ![[#r26.1.1]]
-![[#r26.1.1]]
-![[#r26.1.2]]
-![[#r26.1.3]]
-![[#r26.1.4]]
+
 ## r26.1.1
 
 [Q.26.1-9](https://www.islamicstudies.info/tafheem.php?sura=26&verse=1&to=9)

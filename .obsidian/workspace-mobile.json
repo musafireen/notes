@@ -224,7 +224,7 @@
               "type": "markdown",
               "state": {
                 "file": "002_quran/taam/taam.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -352,7 +352,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "52f2f15d1bae5ff6",

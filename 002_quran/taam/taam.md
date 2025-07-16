@@ -1,4 +1,5 @@
 
+
 # Q:73:13
 [Q.73:13](https://quran.com/73:13/tafsirs/ar-tafsir-al-tabari)
 
@@ -110,6 +111,14 @@
 ## نَخْل
 
 
+# Q:80:31
+[Q.80:31](https://quran.com/80:31/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#80:31]]
+
+## فَٰكِهَة
+
+
 # Q:80:32
 [Q.80:32](https://quran.com/80:32/tafsirs/ar-tafsir-al-tabari)
 
@@ -147,6 +156,9 @@
 1st inst: [[#Q:74:44]]
 
 
+## جُوع
+
+
 # Q:77:20
 [Q.77:20](https://quran.com/77:20/tafsirs/ar-tafsir-al-tabari)
 
@@ -168,10 +180,18 @@
 1st inst: [[#Q:80:25]]
 
 
+# Q:77:42
+[Q.77:42](https://quran.com/77:42/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#r77.2.x]]
+
+## فَوَٰكِه
+
+
 # Q:77:43
 [Q.77:43](https://quran.com/77:43/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r77.2.x]]
+![[Qrsi#77:43]]
 
 ## ~~~ اكل i
 1st inst: [[#Q:89:19]]
@@ -339,6 +359,10 @@
 [Q.38:51](https://quran.com/38:51/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#38:51]]
+
+## ~~~ فَٰكِهَة
+1st inst: [[#Q:80:31]]
+
 
 ## ~~~ شَرَاب
 1st inst: [[#Q:38:42]]
@@ -571,6 +595,23 @@
 
 ## ~~~ طعم iv
 1st inst: [[#Q:74:44]]
+
+
+# Q:36:55
+[Q.36:55](https://quran.com/36:55/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#r36.4.x]]
+
+## فَٰكِهِين
+
+
+# Q:36:57
+[Q.36:57](https://quran.com/36:57/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#36:57]]
+
+## ~~~ فَٰكِهَة
+1st inst: [[#Q:80:31]]
 
 
 # Q:36:71
@@ -859,10 +900,18 @@
 1st inst: [[#Q:7:50]]
 
 
+# Q:20:118
+[Q.20:118](https://quran.com/20:118/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#r20.7.x]]
+
+## جوع i
+
+
 # Q:20:121
 [Q.20:121](https://quran.com/20:121/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r20.7.x]]
+![[Qrsi#20:121]]
 
 ## ~~~ اكل i
 1st inst: [[#Q:89:19]]
@@ -887,6 +936,21 @@
 ![[Qrsi#r56.1.x]]
 
 ## أَكْوَاب
+
+
+## أَبَارِيق
+
+
+## كَأْس
+
+
+# Q:56:20
+[Q.56:20](https://quran.com/56:20/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#56:20]]
+
+## ~~~ فَٰكِهَة
+1st inst: [[#Q:80:31]]
 
 
 # Q:56:21
@@ -921,6 +985,15 @@
 
 ## ~~~ مَآء
 1st inst: [[#Q:80:25]]
+
+
+# Q:56:32
+[Q.56:32](https://quran.com/56:32/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#56:32]]
+
+## ~~~ فَٰكِهَة
+1st inst: [[#Q:80:31]]
 
 
 # Q:56:52
@@ -971,6 +1044,14 @@
 
 
 ## زَّٰرِعُون
+
+
+# Q:56:65
+[Q.56:65](https://quran.com/56:65/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#56:65]]
+
+## فكه v
 
 
 # Q:56:68
@@ -1398,6 +1479,9 @@
 ## خَمْر
 
 
+## خُبْز
+
+
 ## ~~~ اكل i
 1st inst: [[#Q:89:19]]
 
@@ -1822,6 +1906,24 @@
 
 ## ~~~ رِزْق
 1st inst: [[#Q:89:16]]
+
+
+# Q:37:42
+[Q.37:42](https://quran.com/37:42/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#37:42]]
+
+## ~~~ فَوَٰكِه
+1st inst: [[#Q:77:42]]
+
+
+# Q:37:45
+[Q.37:45](https://quran.com/37:45/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#37:45]]
+
+## ~~~ كَأْس
+1st inst: [[#Q:56:18]]
 
 
 # Q:37:46
@@ -2255,6 +2357,10 @@
 
 ![[Qrsi#43:73]]
 
+## ~~~ فَٰكِهَة
+1st inst: [[#Q:80:31]]
+
+
 ## ~~~ اكل i
 1st inst: [[#Q:89:19]]
 
@@ -2266,6 +2372,15 @@
 
 ## ~~~ زَرْع
 1st inst: [[#Q:26:148]]
+
+
+# Q:44:27
+[Q.44:27](https://quran.com/44:27/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#44:27]]
+
+## ~~~ فَٰكِهِين
+1st inst: [[#Q:36:55]]
 
 
 # Q:44:43
@@ -2293,6 +2408,15 @@
 
 ## ~~~ ذوق i
 1st inst: [[#Q:54:37]]
+
+
+# Q:44:55
+[Q.44:55](https://quran.com/44:55/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#44:55]]
+
+## ~~~ فَٰكِهَة
+1st inst: [[#Q:80:31]]
 
 
 # Q:44:56
@@ -2404,6 +2528,15 @@
 
 ## ~~~ طَعَام
 1st inst: [[#Q:73:13]]
+
+
+# Q:88:7
+[Q.88:7](https://quran.com/88:7/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#88:7]]
+
+## ~~~ جُوع
+1st inst: [[#Q:106:4]]
 
 
 # Q:88:14
@@ -2748,6 +2881,10 @@
 1st inst: [[#Q:25:19]]
 
 
+## ~~~ جُوع
+1st inst: [[#Q:106:4]]
+
+
 # Q:16:114
 [Q.16:114](https://quran.com/16:114/tafsirs/ar-tafsir-al-tabari)
 
@@ -2945,6 +3082,10 @@
 1st inst: [[#Q:80:28]]
 
 
+## ~~~ فَوَٰكِه
+1st inst: [[#Q:77:42]]
+
+
 ## ~~~ اكل i
 1st inst: [[#Q:89:19]]
 
@@ -3057,10 +3198,19 @@
 1st inst: [[#Q:80:32]]
 
 
+# Q:52:18
+[Q.52:18](https://quran.com/52:18/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#r52.1.x]]
+
+## ~~~ فَٰكِهِين
+1st inst: [[#Q:36:55]]
+
+
 # Q:52:19
 [Q.52:19](https://quran.com/52:19/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r52.1.x]]
+![[Qrsi#52:19]]
 
 ## ~~~ اكل i
 1st inst: [[#Q:89:19]]
@@ -3075,8 +3225,21 @@
 
 ![[Qrsi#52:22]]
 
+## ~~~ فَٰكِهَة
+1st inst: [[#Q:80:31]]
+
+
 ## ~~~ لَحْم
 1st inst: [[#Q:35:12]]
+
+
+# Q:52:23
+[Q.52:23](https://quran.com/52:23/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#52:23]]
+
+## ~~~ كَأْس
+1st inst: [[#Q:56:18]]
 
 
 # Q:67:15
@@ -3223,6 +3386,15 @@
 
 ## ~~~ عِنَب
 1st inst: [[#Q:80:28]]
+
+
+# Q:78:34
+[Q.78:34](https://quran.com/78:34/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#78:34]]
+
+## ~~~ كَأْس
+1st inst: [[#Q:56:18]]
 
 
 # Q:79:31
@@ -3393,6 +3565,14 @@
 
 ## ~~~ شرب i
 1st inst: [[#Q:77:43]]
+
+
+# Q:83:31
+[Q.83:31](https://quran.com/83:31/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#83:31]]
+
+## فَكِهِين
 
 
 # Q:8:35
@@ -3689,6 +3869,10 @@
 [Q.2:155](https://quran.com/2:155/tafsirs/ar-tafsir-al-tabari)
 
 ![[Qrsi#r2.19.x]]
+
+## ~~~ جُوع
+1st inst: [[#Q:106:4]]
+
 
 ## ~~~ ثَمَرَٰت
 1st inst: [[#Q:7:57]]
@@ -4428,6 +4612,10 @@
 
 ![[Qrsi#r55.1.x]]
 
+## ~~~ فَٰكِهَة
+1st inst: [[#Q:80:31]]
+
+
 ## ~~~ نَخْل
 1st inst: [[#Q:80:29]]
 
@@ -4441,10 +4629,23 @@
 1st inst: [[#Q:80:27]]
 
 
+# Q:55:52
+[Q.55:52](https://quran.com/55:52/tafsirs/ar-tafsir-al-tabari)
+
+![[Qrsi#r55.3.x]]
+
+## ~~~ فَٰكِهَة
+1st inst: [[#Q:80:31]]
+
+
 # Q:55:68
 [Q.55:68](https://quran.com/55:68/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#r55.3.x]]
+![[Qrsi#55:68]]
+
+## ~~~ فَٰكِهَة
+1st inst: [[#Q:80:31]]
+
 
 ## ~~~ نَخْل
 1st inst: [[#Q:80:29]]
@@ -4461,6 +4662,10 @@
 
 ## ~~~ شرب i
 1st inst: [[#Q:77:43]]
+
+
+## ~~~ كَأْس
+1st inst: [[#Q:56:18]]
 
 
 # Q:76:6
@@ -4510,6 +4715,10 @@
 
 ## ~~~ سقي iv
 1st inst: [[#Q:77:27]]
+
+
+## ~~~ كَأْس
+1st inst: [[#Q:56:18]]
 
 
 ## زَنجَبِيل
