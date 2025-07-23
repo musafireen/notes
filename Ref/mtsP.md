@@ -91,6 +91,7 @@ One day, he found a little fish and saved it until it grew so big that it terrif
 मंवंतराधिपश्चापि  देवपूज्यो  भविष्यसि  
 
 A remnant or seed, a small group of good people, is saved by a fish (usually identified as one of the several incarnations of the great god Vishnu), who pulls a boat to a mountain, where they survive to repeople the universe.40 (The mountain, the Hindu equivalent of Ararat, is identified with numerous sites throughout India.an)
+### 1.53
 # b2
 ### 2.1
 सूत उवाचएवमुक्तो  मनुस्तेन  पप्रच्छ  मधुसूदनम्
@@ -152,3 +153,17 @@ In several of the myths of her origin, the fire is said to result from the combi
 भुजंगरज्ज्वा  मत्स्यस्य  शृङ्गे  नावमयोजयत्उपर्युपस्थितस्तस्याः  प्रिपत्य  जनार्दनम्  ### 2.19
 
 In this text, Manu saves not himself alone but all creatures, and this time the gods, instead of Manu, build the boat
+
+# b53
+### 53.70
+अष्टादश पुराणानि कृत्वा सत्यवतीसुतः  
+
+The Satyavati-born  having made the eighteen Puranas 
+
+भारताख्यानमखिलं चक्रे तदुपबृंहितम्  
+
+made Bharata Akhyana as its Upabrmhita
+
+लक्षेणैकेन यत्प्रोक्तं वेदार्थपरिबृंहितम् ७०
+
+by one Lakshana whose statements are brmhita by vedartha. 

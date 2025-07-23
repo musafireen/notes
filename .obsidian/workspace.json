@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/taam/taam.md",
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/pauranic.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "taam",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_quran/taam/taam.md",
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/pauranic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_quran/taam/taam.md",
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/pauranic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002_quran/taam/taam.md"
+                "file": "001_eskaton/001_chhatak/kalighat/Brahmanic/pauranic.md"
               }
             }
           }
@@ -206,10 +205,15 @@
   },
   "active": "9933e842181072f7",
   "lastOpenFiles": [
+    "Ref/AV.ŚS.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/pauranic.md",
+    "Ref/RV.md",
+    "Ref/mtsP.md",
+    "001_eskaton/001_chhatak/kalighat/Brahmanic/vaishnava_brahmanic.md",
+    "Ref/mdhvA.SDS.BAK.md",
     "Ref/haft.azilla/h.a.20.md",
     "002_quran/taam/taam.md",
     "Ref/bmvP.md",
-    "Ref/mdhvA.SDS.BAK.md",
     "Ref/mdhvA.SDS.md",
     "Ref/Qrsi.md",
     "002_quran/taam/taam.sync-conflict-20250715-005417-AFLIAW3.md",
@@ -237,11 +241,6 @@
     "002_quran/kfr/shirk/shirk.md",
     "002_quran/islam/Iman/Iman.md",
     "Ref/~syncthing~bmvP.md.tmp",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah2.md",
-    "001_eskaton/001_chhatak/mejo_mama/Ghulat/salah/salah.md",
-    "Ref/kaundn.pancathBhs.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/dravida/nalayir.md",
-    "Ref/bviS.md",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.png",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.png",
     "Ref/Pasted image 20241128002518.png",

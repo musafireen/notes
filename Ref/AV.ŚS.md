@@ -1053,7 +1053,10 @@ https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs___u.htm
 तमितिहासश्च पुराणं च गाथाश्च नाराशंसीश्चानुव्यचलन् | [11]
 
 Itihāsa and Purāna and Gāthās and Nārāsansis followed him.
+#### 12
+इतिहासस्य च वै स पुराणस्य च गाथानां च नाराशंसीनां च प्रियं धाम भवति य एवं वेद
 
+He who knoes this becomes the Dhama of the Purana, the Gathas and the Narasamsis.
 ## 19.6
 
 #### 1
