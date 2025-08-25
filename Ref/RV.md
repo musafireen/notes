@@ -431,15 +431,27 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830743
 #### 1
 अ॒स्य वा॒मस्य॑ पलि॒तस्य॒ होतु॒स्तस्य॒ भ्राता॑ मध्य॒मो अ॒स्त्यश्न॑: । तृ॒तीयो॒ भ्राता॑ घृ॒तपृ॑ष्ठो अ॒स्यात्रा॑पश्यं वि॒श्पतिं॑ स॒प्तपु॑त्रम् ॥
 
-“I have beheld the (viśpati) Lord of men with seven sons; of which delightful and benevolent (deity), who is the object of our invocation, there is an all-pervading middle brother, and a third brother, well fed with (oblations of) ghee.”
+I have beheld the (viśpati) Lord of men with seven sons; of which (vāma) delightful and (palita) benevolent (deity), who is the (hotā) object of our invocation, there is an all-pervading middle brother, and a third brother, well fed with (oblations of) ghee.
 #### 2
 स॒प्त यु॑ञ्जन्ति॒ रथ॒मेक॑चक्र॒मेको॒ अश्वो॑ वहति स॒प्तना॑मा । 
 
-“They yoke the seven (horses) to the one-wheeled car; one horse, named seven, bears it along; 
+They yoke the seven (horses) to the one-wheeled car; one horse, named seven, bears it along; 
 
 त्रि॒नाभि॑ च॒क्रम॒जर॑मन॒र्वं यत्रे॒मा विश्वा॒ भुव॒नाधि॑ त॒स्थुः ॥
 
-the three-axled wheel is undecaying, never loosened, and in it all these regions of the universe abide.”
+the three-axled wheel is undecaying, never loosened, and in it all these regions of the universe abide.
+#### 9
+यु॒क्ता मा॒तासी॑द्धु॒रि दक्षि॑णाया॒ 
+
+The mother, (sky), was associated in (sustaining) the burden of the fulfiller of desires, (the earth); 
+
+अति॑ष्ठ॒द्गर्भो॑ वृज॒नीष्व॒न्तः । 
+
+the embryo (water) rested within the (womb of the) clouds; 
+
+अमी॑मेद्व॒त्सो अनु॒ गाम॑पश्यद्विश्वरू॒प्यं॑ त्रि॒षु योज॑नेषु ॥
+
+thereupon the calf bellowed, and beheld the omniform cow in the three combinations.
 #### 11
 द्वाद॑शारं न॒हि तज्जरा॑य॒ वर्व॑र्ति च॒क्रं परि॒ द्यामृ॒तस्य॑ । 
 

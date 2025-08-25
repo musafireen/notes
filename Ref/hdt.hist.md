@@ -1171,6 +1171,23 @@ for it is impious, too, for one partaking of these rites to be buried in woolen 
 ἔστι δὲ περὶ αὐτῶν ἱρὸς λόγος λεγόμενος.
 
 There is a sacred legend about this.
+## c104
+#### 1
+φαίνονται μὲν γὰρ ἐόντες οἱ Κόλχοι Αἰγύπτιοι, νοήσας δὲ πρότερον αὐτὸς ἢ ἀκούσας ἄλλων λέγω. ὡς δέ μοι ἐν φροντίδι ἐγένετο, εἰρόμην ἀμφοτέρους, καὶ μᾶλλον οἱ Κόλχοι ἐμεμνέατο τῶν Αἰγυπτίων ἢ οἱ Αἰγύπτιοι τῶν Κόλχων:
+
+For it is plain to see that the Colchians are Egyptians; and what I say, I myself noted before I heard it from others. When it occurred to me, I inquired of both peoples; and the Colchians remembered the Egyptians better than the Egyptians remembered the Colchians;
+#### 2
+[2] νομίζειν δ᾽ ἔφασαν οἱ Αἰγύπτιοι τῆς Σεσώστριος στρατιῆς εἶναι τοὺς Κόλχους. αὐτὸς δὲ εἴκασα τῇδε, καὶ ὅτι μελάγχροες εἰσὶ καὶ οὐλότριχες. καὶ τοῦτο μὲν ἐς οὐδὲν ἀνήκει: εἰσὶ γὰρ καὶ ἕτεροι τοιοῦτοι: ἀλλὰ τοῖσιδε καὶ μᾶλλον, ὅτι μοῦνοι πάντων ἀνθρώπων Κόλχοι καὶ Αἰγύπτιοι καὶ Αἰθίοπες περιτάμνονται ἀπ᾽ ἀρχῆς τὰ αἰδοῖα.
+
+[2] the Egyptians said that they considered the Colchians part of Sesostris' army. I myself guessed it, partly because they are dark-skinned and woolly-haired; though that indeed counts for nothing, since other peoples are, too; but my better proof was that the Colchians and Egyptians and Ethiopians are the only nations that have from the first practised circumcision.
+#### 3
+[3] Φοίνικες δὲ καὶ Σύροι οἱ ἐν τῇ Παλαιστίνῃ καὶ αὐτοὶ ὁμολογέουσι παρ᾽ Αἰγυπτίων μεμαθηκέναι, Σύριοι δὲ οἱ περὶ Θερμώδοντα καὶ Παρθένιον ποταμὸν καὶ Μάκρωνες οἱ τούτοισι ἀστυγείτονες ἐόντες ἀπὸ Κόλχων φασὶ νεωστὶ μεμαθηκέναι. οὗτοι γὰρ εἰσὶ οἱ περιταμνόμενοι ἀνθρώπων μοῦνοι, καὶ οὗτοι Αἰγυπτίοισι φαίνονται ποιεῦντες κατὰ ταὐτά.
+
+ The Phoenicians and the Syrians of Palestine acknowledge that they learned the custom from the Egyptians, and the Syrians of the valleys of the Thermodon and the Parthenius, as well as their neighbors the Macrones, say that they learned it lately from the Colchians. These are the only nations that circumcise, and it is seen that they do just as the Egyptians.
+#### 4
+[4] αὐτῶν δὲ Αἰγυπτίων καὶ Αἰθιόπων οὐκ ἔχω εἰπεῖν ὁκότεροι παρὰ τῶν ἑτέρων ἐξέμαθον: ἀρχαῖον γὰρ δή τι φαίνεται ἐόν. ὡς δὲ ἐπιμισγόμενοι Αἰγύπτῳ ἐξέμαθον, μέγα μοι καὶ τόδε τεκμήριον γίνεται: Φοινίκων ὁκόσοι τῇ Ἑλλάδι ἐπιμίσγονται, οὐκέτι Αἰγυπτίους μιμέονται κατὰ τὰ αἰδοῖα. ἀλλὰ τῶν ἐπιγινομένων οὐ περιτάμνουσι τὰ αἰδοῖα.
+
+[4] But as to the Egyptians and Ethiopians themselves, I cannot say which nation learned it from the other; for it is evidently a very ancient custom. That the others learned it through traffic with Egypt, I consider clearly proved by this: that Phoenicians who traffic with Hellas cease to imitate the Egyptians in this matter and do not circumcise their children.
 ## c112
 #### 1
 τούτου δὲ ἐκδέξασθαι τὴν βασιληίην ἔλεγον ἄνδρα Μεμφίτην, τῷ κατὰ τὴν Ἑλλήνων γλῶσσαν οὔνομα Πρωτέα εἶναι: 

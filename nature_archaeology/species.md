@@ -300,7 +300,10 @@ album: sandal, candan (santalales order)
 ### Dianthus 
 Caryophyllus: clove pink (caryophyllales)
 #### Amaranthus 
-viridis: odia shak, amaranth; dubius: lal shak; spinosus: spiny pigweed, noṭeśāk (amaranthaceae)
+viridis: odia shak, amaranth, নটে শাক; 
+dubius: lal shak; 
+spinosus: spiny pigweed, কাঁটা‌নটে শাক;  
+(amaranthaceae)
 ##### Spinacia
 oleracea: spinach
 ##### Beta 
@@ -312,7 +315,9 @@ nigrum: europe nightshade;  lycopersicum: andes tomato; incanum: wild eggplant (
 #### Datura
 metel: metel, devil's trumpet, datura (dhatura)
 #### Capsicum 
-annuum: mexico chilli pepper (lonka maric); chinense: habanero pepper (naga) (capsiceae)
+annuum: mexico chilli pepper, লঙ্কা মরিচ; 
+chinense: habanero pepper, নাগা মরিচ 
+(capsiceae)
 ### Lamium
 purpureum: red nettle (Lamiales, lamiaceae)
 #### Olea
@@ -441,9 +446,28 @@ nigra: mulberry, indica: chapai tunt, alba: silk mulberry (moraceae mulberry fam
 carica: fig, turkish anjir; hispida: phalgu, kakdumur; religiosa: peepal, ashwattha; benghalensis: vata
 #### Artocarpus 
 altilis: breadfruit; heterophyllus: jackfruit
-### (Vicia) 
+### Vicia_(faba)
 Sativa: আঁকড়ি হেটকি, 
 Faba: fava bean (Fabid clade, Fabales order, Fabaceae family)
+Lens: lentil মসুর ডাল
+#### Vigna
+Radiata: Mung bean, green gram, মুঁগ ডাল
+Mungo: black gram, মাষকলাই ডাল
+Unguiculata: black-eyed peas, বিচলিত ডাল
+#### Cajanus
+Cajan: pigeon pea, অড়হর ডাল
+##### Tamarindus 
+indica: tamarind (tintidi)
+#### Cicer
+arientum: chickpea, bengal gram, মটর কলাই, ছোলা, ছানা, বুট ডাল
+#### Lathyrus
+Sativus: grass pea, indian pea, white vetch, খেসারি ডাল
+#### Macrotyloma
+uniflorum: horse gram, কুলথি /ঘোড়ার ডাল
+#### Phaseolus
+vulgaris: mexico kidney beans, পাঞ্জাব রাজমা
+#### Glycyrrhiza
+glabra: afghan licorice, যষ্টিমধু
 #### Senegalia
 catechu: khadira, খয়ের
 #### Crotalaria
@@ -455,6 +479,8 @@ asoca: (ashoka)
 #### Butea
 Monosperma/ Fondosa: (palaasha)
 Wisteria
+#### pisum
+Sativum: pea, মটরশুটি 
 #### Malpighia
 glabra; emerginata: west indian cherry (malpighiales order)
 ##### Salix Alba: willow (salicaceae family)
@@ -492,15 +518,6 @@ armata
 aspera: (shola)
 #### Detarium 
 senegalense: tallow-tree (detarioideae)
-##### Tamarindus 
-indica: tamarind (tintidi)
-#### Cicer
-arientum: chickpea (matar)
-#### Glycyrrhiza
-glabra: afghan licorice (joṣṭimodhu)
-
-
-
 ### Malva; 
 sylvestris: mallow; 
 parviflora: dinajpuri napa shak cheeseweed (Malvales, malvaceae)
@@ -519,6 +536,8 @@ saponaria: Hawaii (sapindales order, sapindaceae)
 limon: লেবু; limonia: rangpur; latifolia: persia lime
 ###### Aegle 
 marmelos: বেল; 
+###### Bergera
+koenigii: curry করী
 ##### Anacardium  
 occidentale: cashew (Anacardiaceae)
 ###### Spondias
@@ -530,9 +549,10 @@ chinensis
 ##### Bursera 
 simaruba: venezuelan gum tree (burceraceae)
 ###### Boswellia 
-sacra: frankincense, loban; thurifera: indian frankincense, salai guggul
+sacra: frankincense, loban; 
+thurifera: indian frankincense, salai guggul, কুন্দুরু, শাল্লাকি, মুকন্দ
 ###### Commiphora 
-wightii: guggul, indian bdellium, 
+wightii: indian bdellium, গুগ্গুল
 myrrha: yemen myrrh, 
 gileadensis: mecca balsam,
 abyssinica: ,
@@ -562,7 +582,7 @@ aromaticum: ceylon \maluku clove (lobongo)
 ###### Terminalia 
 arjuna: arjuna
 #### Brassica
-oleracea: cyprus cauliflower, greek cabbage, broccoli, kale; 
+oleracea: cyprus cauliflower (ফুলকপি), greek cabbage (বাঁধাকপি), broccoli, kale, collard ; 
 juncea: punjab brown mustard (sarisa); 
 nigra: argentina black mustard (brasicales)
 ##### Sinapis
@@ -593,9 +613,12 @@ candidum: lily (Liliales, liliaceae)
 gesneriana: tulip
 ## Alismatales
 ### Arum
+maculatum: cuckoopoint, jack-in-the-pulpit, 
 : [areae tribe, araceae family]
 #### Colocasia
-esculenta: kachu
+esculenta: taro, কচু
+#### amorphophallus
+paeoniifolius: elephant foot yam, ওলকচু
 #### Caladium
 bicolor: columbian elephant ear
 ## Commelina
@@ -614,14 +637,17 @@ utan: malay gebang fan palm (buri); (Corypheae tribe, Coryphoiedeae sub-family)
 flabellifer: indian palmyra palm, তাল (toddy)
 ##### Phoenix
 dactylifera: egypt /saudi? date palm;  
-sylvestris: bengali silver date palm (kharjura); 
+sylvestris: bengali silver date palm,‌ খেজুর, খর্জুর; 
 paludosa: mangrove d.p. (hantal); 
 acaulis: himalayan dwarf d.p.; 
 dactylifera: arabian d.p
 ### Zingiber 
-officiniale: malay ginger (srngavera ada) [zingiberales]
+officiniale: malay ginger, শৃঙ্গবের,  আদা
+[zingiberales]
 #### Musa 
-oranta: sagar kala; paradisiaca: kancha kala, banana; accuminata: wild plantain
+oranta: সাগর কলা; 
+paradisiaca: kancha kala, banana; 
+accuminata: wild plantain, 
 #### Maranta
 leuconeura: brazil prayer plant
 ##### Schumannianthus
@@ -640,19 +666,19 @@ baccifera: bengal bamboo
 #### Desmostachya
 bipinnata: balkh kush darbha grass
 #### Cynodon
-dactylon:burma  bahama grass, durva
+dactylon: burma bahama grass, দুর্বা
 #### Triticum
-durum: wheat
+durum: wheat, গম
 #### Oryza
-sativa: rice
+sativa: rice, ধান, চাল, 
 #### Secale
 cereale: rye
 #### Avena
-sativa: oat
+sativa: oat, জই
 #### Hodeum
-vulgare: barley
+vulgare: barley, যব
 #### Zea
-mays: corn
+mays: corn, maize, ভুট্টা
 #### Imperata
 cylindrica: cogon kunai grass, ulu ghas khor ban
 #### Cyperus
@@ -663,7 +689,19 @@ hirta: europe hammer sedge; riparia: uzbek pond sedge
 ancistrochaetus: maine bulrush
 #### Juncus
 : common /soft rush; acutus: spiny rush [juncaceae]
-
+#### Panicum
+turgidum: 
+miliaceum: russian proso millet, 
+##### Sorghum
+bicolor: sorghum, indian millet, broomcorn, guinea corn, জোয়ার
+##### Cenchrus
+Americanus: Pearl millet, বাজরা
+#### chloris
+cruciata
+##### cynodon
+dactylon: couch/ bermuda grass
+###### Eleusine
+coracana: uganda finger millet, রাগী‌
 ## Asparagus
 officinalis: turkey asparagus [asparagaceae, asparagales]
 ### iris

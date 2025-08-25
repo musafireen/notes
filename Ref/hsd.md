@@ -57,9 +57,123 @@ and dim Tartarus in the depth of the wide-pathed Earth,
 [120] and Eros （Love）, fairest among the deathless gods, 
 
 ## 185
-## 389
+ὣς φάτο: γήθησεν δὲ μέγα φρεσὶ Γαῖα πελώρη:
+εἷσε δέ μιν κρύψασα λόχῳ: ἐνέθηκε δὲ χερσὶν
+175ἅρπην καρχαρόδοντα: δόλον δ᾽ ὑπεθήκατο πάντα.
 
+ἦλθε δὲ νύκτ᾽ ἐπάγων μέγας Οὐρανός, ἀμφὶ δὲ Γαίῃ
+ἱμείρων φιλότητος ἐπέσχετο καί ῥ᾽ ἐτανύσθη
+πάντη: ὃ δ᾽ ἐκ λοχέοιο πάις ὠρέξατο χειρὶ
+σκαιῇ, δεξιτερῇ δὲ πελώριον ἔλλαβεν ἅρπην
+180μακρὴν καρχαρόδοντα, φίλου δ᾽ ἀπὸ μήδεα πατρὸς
+ἐσσυμένως ἤμησε, πάλιν δ᾽ ἔρριψε φέρεσθαι
+ἐξοπίσω: τὰ μὲν οὔ τι ἐτώσια ἔκφυγε χειρός:
+ὅσσαι γὰρ ῥαθάμιγγες ἀπέσσυθεν αἱματόεσσαι,
+πάσας δέξατο Γαῖα: περιπλομένων δ᾽ ἐνιαυτῶν
+185γείνατ᾽ Ἐρινῦς τε κρατερὰς μεγάλους τε Γίγαντας,
+τεύχεσι λαμπομένους, δολίχ᾽ ἔγχεα χερσὶν ἔχοντας,
+Νύμφας θ᾽ ἃς Μελίας καλέουσ᾽ ἐπ᾽ ἀπείρονα γαῖαν.
+μήδεα δ᾽ ὡς τὸ πρῶτον ἀποτμήξας ἀδάμαντι
+κάββαλ᾽ ἀπ᾽ ἠπείροιο πολυκλύστῳ ἐνὶ πόντῳ,
+190ὣς φέρετ᾽ ἂμ πέλαγος πουλὺν χρόνον, ἀμφὶ δὲ λευκὸς
+ἀφρὸς ἀπ᾽ ἀθανάτου χροὸς ὤρνυτο: τῷ δ᾽ ἔνι κούρη
+ἐθρέφθη: πρῶτον δὲ Κυθήροισιν ζαθέοισιν
+ἔπλητ᾽, ἔνθεν ἔπειτα περίρρυτον ἵκετο Κύπρον.
+ἐκ δ᾽ ἔβη αἰδοίη καλὴ θεός, ἀμφὶ δὲ ποίη
+195ποσσὶν ὕπο ῥαδινοῖσιν ἀέξετο: τὴν δ᾽ Ἀφροδίτην
+ἀφρογενέα τε θεὰν καὶ ἐυστέφανον Κυθέρειαν
+κικλῄσκουσι θεοί τε καὶ ἀνέρες, οὕνεκ᾽ ἐν ἀφρῷ
+θρέφθη: ἀτὰρ Κυθέρειαν, ὅτι προσέκυρσε Κυθήροις:
+Κυπρογενέα δ᾽, ὅτι γέντο πολυκλύστῳ ἐνὶ Κύπρῳ:
+200ἠδὲ φιλομμηδέα, ὅτι μηδέων ἐξεφαάνθη.
+τῇ δ᾽ Ἔρος ὡμάρτησε καὶ Ἵμερος ἕσπετο καλὸς
+γεινομένῃ τὰ πρῶτα θεῶν τ᾽ ἐς φῦλον ἰούσῃ.
+ταύτην δ᾽ ἐξ ἀρχῆς τιμὴν ἔχει ἠδὲ λέλογχε
+μοῖραν ἐν ἀνθρώποισι καὶ ἀθανάτοισι θεοῖσι,
+205παρθενίους τ᾽ ὀάρους μειδήματά τ᾽ ἐξαπάτας τε
+τέρψιν τε γλυκερὴν φιλότητά τε μειλιχίην τε.
+
+So he said: and vast Earth rejoiced greatly in spirit, and set and hid him in an ambush, and put in his hands [175] a jagged sickle, and revealed to him the whole plot. And Heaven came, bringing on night and longing for love, and he lay about Earth spreading himself full upon her.1Then the son from his ambush stretched forth his left hand and in his right took the great long sickle [180] with jagged teeth, and swiftly lopped off his own father's members and cast them away to fall behind him. And not vainly did they fall from his hand; for all the bloody drops that gushed forth Earth received, and as the seasons moved round [185] she bore the strong Erinyes and the great Giants with gleaming armour, holding long spears in their hands and the Nymphs whom they call Meliae2all over the boundless earth. And so soon as he had cut off the members with flint and cast them from the land into the surging sea, [190] they were swept away over the main a long time: and a white foam spread around them from the immortal flesh, and in it there grew a maiden. First she drew near holy Cythera, and from there, afterwards, she came to sea-girt Cyprus, and came forth an awful and lovely goddess, and grass [195] grew up about her beneath her shapely feet. Her gods and men call Aphrodite, and the foam-born goddess and rich-crowned Cytherea, because she grew amid the foam, and Cytherea because she reached Cythera, and Cyprogenes because she was born in billowy Cyprus, [200] and Philommedes3 because she sprang from the members. And with her went Eros, and comely Desire followed her at her birth at the first and as she went into the assembly of the gods. This honor she has from the beginning, and this is the portion allotted to her amongst men and undying gods,— [205] the whisperings of maidens and smiles and deceits with sweet delight and love and graciousness.
+## 389
+θεία δ᾽ Ἠέλιόν τε μέγαν λαμπράν τε Σελήνην
+Ἠῶ θ᾽, ἣ πάντεσσιν ἐπιχθονίοισι φαείνει
+ἀθανάτοις τε θεοῖσι, τοὶ οὐρανὸν εὐρὺν ἔχουσι,
+γείναθ᾽ ὑποδμηθεῖσ᾽ Ὑπερίονος ἐν φιλότητι.
+375Κρίῳ δ᾽ Εὐρυβίν τέκεν ἐν φιλότητι μιγεῖσα
+Ἀστραῖόν τε μέγαν Πάλλαντά τε δῖα θεάων
+Πέρσην θ᾽, ὃς καὶ πᾶσι μετέπρεπεν ἰδμοσύνῃσιν.
+
+Ἀστραίῳ δ᾽ Ἠὼς ἀνέμους τέκε καρτεροθύμους,
+ἀργέστην Ζέφυρον Βορέην τ᾽ αἰψηροκέλευθον
+380καὶ Νότον, ἐν φιλότητι θεὰ θεῷ εὐνηθεῖσα.
+τοὺς δὲ μέτ᾽ ἀστέρα τίκτεν Ἑωσφόρον Ἠριγένεια
+ἄστρα τε λαμπετόωντα, τά τ᾽ οὐρανὸς ἐστεφάνωται.
+
+Στὺξ δ᾽ ἔτεκ᾽ Ὠκεανοῦ θυγάτηρ Πάλλαντι μιγεῖσα
+Ζῆλον καὶ Νίκην καλλίσφυρον ἐν μεγάροισιν:
+385καὶ Κράτος ἠδὲ Βίην ἀριδείκετα γείνατο τέκνα,
+τῶν οὐκ ἔστ᾽ ἀπάνευθε Διὸς δόμος, οὐδέ τις ἕδρη,
+οὐδ᾽ ὁδός, ὅππη μὴ κείνοις θεὸς ἡγεμονεύῃ,
+ἀλλ᾽ αἰεὶ πὰρ Ζηνὶ βαρυκτύπῳ ἑδριόωνται.
+ὣς γὰρ ἐβούλευσεν Στὺξ ἄφθιτος Ὠκεανίνη
+390ἤματι τῷ, ὅτε πάντας Ὀλύμπιος ἀστεροπητὴς
+ἀθανάτους ἐκάλεσσε θεοὺς ἐς μακρὸν Ὄλυμπον,
+εἶπε δ᾽, ὃς ἂν μετὰ εἷο θεῶν Τιτῆσι μάχοιτο,
+μή τιν᾽ ἀπορραίσειν γεράων, τιμὴν δὲ ἕκαστον
+ἑξέμεν, ἣν τὸ πάρος γε μετ᾽ ἀθανάτοισι θεοῖσιν
+395 τὸν δ᾽ ἔφαθ᾽, 
+
+And Theia was subject in love to Hyperion and bore great Helius （Sun） and clear Selene （Moon） and Eos （Dawn） who shines upon all that are on earth and upon the deathless Gods who live in the wide heaven. [375] And Eurybia, bright goddess, was joined in love to Crius and bore great Astraeus, and Pallas, and Perses who also was eminent among all men in wisdom. And Eos bore to Astraeus the strong-hearted winds, brightening Zephyrus, and Boreas, headlong in his course, [380] and Notus,—a goddess mating in love with a god. And after these Erigeneia1 bare the star Eosphorus （Dawn-bringer）, and the gleaming stars with which heaven is crowned. And Styx the daughter of Ocean was joined to Pallas and bore Zelus （Emulation） and trim-ankled Nike （Victory） in the house. Also she brought forth [385] Cratos （Strength） and Bia （Force）, wonderful children. These have no house apart from Zeus, nor any dwelling nor path except that wherein God leads them, but they dwell always with Zeus the loud-thunderer. For so did Styx the deathless daughter of Ocean plan [390] on that day when the Olympian Lightning god called all the deathless gods to great Olympus, and said that whosoever of the gods would fight with him against the Titans, he would not cast him out from his rights, but each should have the office which he had before amongst the deathless gods. 
+
+ὅστις ἄτιμος ὑπὸ Κρόνου ἠδ᾽ ἀγέραστος,
+τιμῆς καὶ γεράων ἐπιβησέμεν, ἧ θέμις ἐστίν. 
+
+[395] And he declared that he who was without office or right under Cronos, should be raised to both office and rights as is just. 
+
+1 I.e.Eos, the “Early born.”
 ## 399
+ἦλθε δ᾽ ἄρα πρώτη Στὺξ ἄφθιτος Οὔλυμπόνδε
+σὺν σφοῖσιν παίδεσσι φίλου διὰ μήδεα πατρός.
+τὴν δὲ Ζεὺς τίμησε, περισσὰ δὲ δῶρα δέδωκεν.
+400 αὐτὴν μὲν γὰρ ἔθηκε θεῶν μέγαν ἔμμεναι ὅρκον,
+παῖδας δ᾽ ἤματα πάντα ἑοῦ μεταναιέτας εἶναι.
+ὣς δ᾽ αὔτως πάντεσσι διαμπερές, ὥς περ ὑπέστη,
+ἐξετέλεσσ᾽: αὐτὸς δὲ μέγα κρατεῖ ἠδὲ ἀνάσσει.
+
+So deathless Styx came first to Olympus with her children through the wit of her dear father. And Zeus honored her, and gave her very great gifts, [400] for he appointed her to be the great oath of the gods, and her children to live with him always. And as he promised, so he performed fully unto them all. But he himself mightily reigns and rules.
+## 507
+κούρην δ᾽ Ἰαπετὸς καλλίσφυρον Ὠκεανίνην
+ἠγάγετο Κλυμένην καὶ ὁμὸν λέχος εἰσανέβαινεν.
+ἣ δέ οἱ Ἄτλαντα κρατερόφρονα γείνατο παῖδα:
+
+Now Iapetus took to wife the neat-ankled maid Clymene, daughter of Ocean, and went up with her into one bed. And she bore him a stout-hearted son, Atlas: 
+
+510 τίκτε δ᾽ ὑπερκύδαντα Μενοίτιον ἠδὲ Προμηθέα
+ποικίλον αἰολόμητιν, ἁμαρτίνοόν τ᾽ Ἐπιμηθέα
+ὃς κακὸν ἐξ ἀρχῆς γένετ᾽ ἀνδράσιν ἀλφηστῇσιν:
+
+[510] also she bore very glorious Menoetius and clever Prometheus, full of various wiles, and scatter-brained Epimetheus who from the first was a mischief to men who eat bread; 
+
+πρῶτος γάρ ῥα Διὸς πλαστὴν ὑπέδεκτο γυναῖκα
+παρθένον. 
+
+for it was he who first took of Zeus the woman, the maiden whom he had formed. 
+
+ὑβριστὴν δὲ Μενοίτιον εὐρύοπα Ζεὺς
+515 εἰς Ἔρεβος κατέπεμψε βαλὼν ψολόεντι κεραυνῷ
+εἵνεκ᾽ ἀτασθαλίης τε καὶ ἠνορέης ὑπερόπλου.
+
+But Menoetius was outrageous, and farseeing Zeus [515] struck him with a lurid thunderbolt and sent him down to Erebus because of his mad presumption and exceeding pride. 
+
+Ἄτλας δ᾽ οὐρανὸν εὐρὺν ἔχει κρατερῆς ὑπ᾽ ἀνάγκης
+πείρασιν ἐν γαίης, πρόπαρ Εσπερίδων λιγυφώνων,
+ἑστηὼς κεφαλῇ τε καὶ ἀκαμάτῃσι χέρεσσιν:
+520 ταύτην γάρ οἱ μοῖραν ἐδάσσατο μητίετα Ζεύς.
+
+And Atlas through hard constraint upholds the wide heaven with unwearying head and arms, standing at the borders of the earth before the clear-voiced Hesperides; [520] for this lot wise Zeus assigned to him. 
+## 511
+## 517
+## 520
 ## 744
 Νυκτὸς δ᾽ ἐρεβεννῆς οἰκία δεινὰ
 745 ἕστηκεν νεφέλῃς κεκαλυμμένα κυανέῃσιν.

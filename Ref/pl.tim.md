@@ -118,35 +118,115 @@ Moreover, the military class here, [24b] as no Again, with regard to wisdom, you
 
 [24d] So it was that the Goddess, being herself both a lover of war and a lover of wisdom, chose the spot which was likely to bring forth men most like unto herself, and this first she established. Wherefore you lived under the rule of such laws as these,—yea, and laws still better,—and you surpassed all men in every virtue, as became those who were the offspring and nurslings of gods. Many, in truth, and great are the achievements of your State, which are a marvel to men as they are here recorded; but there is one which stands out above all [24e] both for magnitude and for nobleness. 
 ## 24e
-λέγει γὰρ τὰ γεγραμμένα ὅσην ἡ πόλις ὑμῶν ἔπαυσέν ποτε δύναμιν ὕβρει πορευομένην ἅμα ἐπὶ πᾶσαν Εὐρώπην καὶ Ἀσίαν, ἔξωθεν ὁρμηθεῖσαν ἐκ τοῦ Ἀτλαντικοῦ πελάγους. τότε γὰρ πορεύσιμον ἦν τὸ ἐκεῖ πέλαγος: νῆσον γὰρ πρὸ τοῦ στόματος εἶχεν ὃ καλεῖτε, ὥς φατε, ὑμεῖς Ἡρακλέους στήλας, ἡ δὲ νῆσος ἅμα Λιβύης ἦν καὶ Ἀσίας μείζων, ἐξ ἧς ἐπιβατὸν ἐπὶ τὰς ἄλλας νήσους τοῖς τότε ἐγίγνετο πορευομένοις, ἐκ δὲ τῶν νήσων ’
+λέγει γὰρ τὰ γεγραμμένα ὅσην ἡ πόλις ὑμῶν ἔπαυσέν ποτε δύναμιν 
 
-For it is related in our records how once upon a time your State stayed the course of a mighty host, which, starting from a distant point in the Atlantic ocean, was insolently advancing to attack the whole of Europe, and Asia to boot. For the ocean there was at that time navigable; for in front of the mouth which you Greeks call, as you say, 'the pillars of Heracles,'2 there lay an island which was larger than Libya3 and Asia together; and it was possible for the travellers of that time to cross from it to the other islands, and from the islands to the whole of the continent
+For it is related in our records how once upon a time your State stayed the course of a mighty host, 
+
+ὕβρει πορευομένην ἅμα ἐπὶ πᾶσαν Εὐρώπην καὶ Ἀσίαν, 
+
+which was insolently advancing to attack the whole of Europe, and Asia to boot 
+
+ἔξωθεν ὁρμηθεῖσαν ἐκ τοῦ Ἀτλαντικοῦ πελάγους. 
+
+starting from a distant point in the Atlantic ocean.
+
+τότε γὰρ πορεύσιμον ἦν τὸ ἐκεῖ πέλαγος: 
+
+For the ocean there was at that time navigable; 
+
+νῆσον γὰρ πρὸ τοῦ στόματος εἶχεν ὃ καλεῖτε, ὥς φατε, ὑμεῖς Ἡρακλέους στήλας, ἡ δὲ νῆσος ἅμα Λιβύης ἦν καὶ Ἀσίας μείζων, 
+
+for in front of the mouth which you Greeks call, as you say, 'the pillars of Heracles,'2 there lay an island which was larger than Libya3 and Asia together; 
+
+ἐξ ἧς ἐπιβατὸν ἐπὶ τὰς ἄλλας νήσους τοῖς τότε ἐγίγνετο πορευομένοις, 
+
+and it was possible for the travellers of that time to cross from it to the other islands, 
+
+ἐκ δὲ τῶν νήσων ’ [25a] ἐπὶ τὴν καταντικρὺ πᾶσαν ἤπειρον τὴν περὶ τὸν ἀληθινὸν ἐκεῖνον πόντον. 
+
+and from the islands to the whole of the continent [25a] over against them which encompasses that veritable ocean. 
 # 25
 ## 25a
-[25a] ἐπὶ τὴν καταντικρὺ πᾶσαν ἤπειρον τὴν περὶ τὸν ἀληθινὸν ἐκεῖνον πόντον. τάδε μὲν γάρ, ὅσα ἐντὸς τοῦ στόματος οὗ λέγομεν, φαίνεται λιμὴν στενόν τινα ἔχων εἴσπλουν: ἐκεῖνο δὲ πέλαγος ὄντως ἥ τε περιέχουσα αὐτὸ γῆ παντελῶς ἀληθῶς ὀρθότατ᾽ ἂν λέγοιτο ἤπειρος. ἐν δὲ δὴ τῇ Ἀτλαντίδι νήσῳ ταύτῃ μεγάλη συνέστη καὶ θαυμαστὴ δύναμις βασιλέων, κρατοῦσα μὲν ἁπάσης τῆς νήσου, πολλῶν δὲ ἄλλων νήσων καὶ μερῶν τῆς ἠπείρου: 
+τάδε μὲν γάρ, ὅσα ἐντὸς τοῦ στόματος οὗ λέγομεν, φαίνεται λιμὴν στενόν τινα ἔχων εἴσπλουν: 
 
-[25a] over against them which encompasses that veritable ocean. For all that we have here, lying within the mouth of which we speak,1 is evidently a haven having a narrow entrance; but that yonder is a real ocean, and the land surrounding it may most rightly be called, in the fullest and truest sense, a continent. Now in this island of Atlantis there existed a confederation of kings, of great and marvellous power, which held sway over all the island, and over many other islands also and parts of the continent; 
+For all that we have here, lying within the mouth of which we speak,1 is evidently a haven having a narrow entrance; 
+
+ἐκεῖνο δὲ πέλαγος ὄντως ἥ τε περιέχουσα αὐτὸ γῆ παντελῶς ἀληθῶς ὀρθότατ᾽ ἂν λέγοιτο ἤπειρος. 
+
+but that yonder is a real ocean, and the land surrounding it may most rightly be called, in the fullest and truest sense, a continent. 
+
+ἐν δὲ δὴ τῇ Ἀτλαντίδι νήσῳ ταύτῃ μεγάλη συνέστη καὶ θαυμαστὴ δύναμις βασιλέων, 
+
+Now in this island of Atlantis there existed a confederation of kings, of great and marvellous power, 
+
+κρατοῦσα μὲν ἁπάσης τῆς νήσου, πολλῶν δὲ ἄλλων νήσων καὶ μερῶν τῆς ἠπείρου: 
+
+which held sway over all the island, and over many other islands also and parts of the continent; 
 ## 25b
-πρὸς δὲ τούτοις ἔτι τῶν ἐντὸς τῇδε [25β] Λιβύης μὲν ἦρχον μέχρι πρὸς Αἴγυπτον, τῆς δὲ Εὐρώπης μέχρι Τυρρηνίας. αὕτη δὴ πᾶσα συναθροισθεῖσα εἰς ἓν ἡ δύναμις τόν τε παρ᾽ ὑμῖν καὶ τὸν παρ᾽ ἡμῖν καὶ τὸν ἐντὸς τοῦ στόματος πάντα τόπον μιᾷ ποτὲ ἐπεχείρησεν ὁρμῇ δουλοῦσθαι. τότε οὖν ὑμῶν, ὦ Σόλων, τῆς πόλεως ἡ δύναμις εἰς ἅπαντας ἀνθρώπους διαφανὴς ἀρετῇ τε καὶ ῥώμῃ ἐγένετο: πάντων γὰρ προστᾶσα εὐψυχίᾳ καὶ τέχναις ὅσαι κατὰ πόλεμον, 
+πρὸς δὲ τούτοις ἔτι τῶν ἐντὸς τῇδε [25β] Λιβύης μὲν ἦρχον μέχρι πρὸς Αἴγυπτον, τῆς δὲ Εὐρώπης μέχρι Τυρρηνίας. 
 
-and, moreover, [25b] of the lands here within the Straits they ruled over Libya as far as Egypt, and over Europe as far as Tuscany. So this host, being all gathered together, made an attempt one time to enslave by one single onslaught both your country and ours and the whole of the territory within the Straits. And then it was, Solon, that the manhood of your State showed itself conspicuous for valor and might in the sight of all the world. 
+and, moreover, [25b] of the lands here within the Straits they ruled over Libya as far as Egypt, and over Europe as far as Tuscany. 
+
+αὕτη δὴ πᾶσα συναθροισθεῖσα εἰς ἓν ἡ δύναμις τόν τε παρ᾽ ὑμῖν καὶ τὸν παρ᾽ ἡμῖν καὶ τὸν ἐντὸς τοῦ στόματος πάντα τόπον μιᾷ ποτὲ ἐπεχείρησεν ὁρμῇ δουλοῦσθαι. 
+
+So this host, being all gathered together, made an attempt one time to enslave by one single onslaught both your country and ours and the whole of the territory within the Straits. 
+
+τότε οὖν ὑμῶν, ὦ Σόλων, τῆς πόλεως ἡ δύναμις εἰς ἅπαντας ἀνθρώπους διαφανὴς ἀρετῇ τε καὶ ῥώμῃ ἐγένετο: πάντων γὰρ προστᾶσα εὐψυχίᾳ καὶ τέχναις ὅσαι κατὰ πόλεμον, 
+
+And then it was, Solon, that the manhood of your State showed itself conspicuous for valor and might in the sight of all the world. 
 ## 25c
-[25ξ] τὰ μὲν τῶν Ἑλλήνων ἡγουμένη, τὰ δ᾽ αὐτὴ μονωθεῖσα ἐξ ἀνάγκης τῶν ἄλλων ἀποστάντων, ἐπὶ τοὺς ἐσχάτους ἀφικομένη κινδύνους, κρατήσασα μὲν τῶν ἐπιόντων τρόπαιον ἔστησεν, τοὺς δὲ μήπω δεδουλωμένους διεκώλυσεν δουλωθῆναι, τοὺς δ᾽ ἄλλους, ὅσοι κατοικοῦμεν ἐντὸς ὅρων Ἡρακλείων, ἀφθόνως ἅπαντας ἠλευθέρωσεν. 
+[25ξ] τὰ μὲν τῶν Ἑλλήνων ἡγουμένη, τὰ δ᾽ αὐτὴ μονωθεῖσα ἐξ ἀνάγκης τῶν ἄλλων ἀποστάντων, ἐπὶ τοὺς ἐσχάτους ἀφικομένη κινδύνους, κρατήσασα μὲν τῶν ἐπιόντων τρόπαιον ἔστησεν, 
 
-For it stood pre-eminent above all [25c] in gallantry and all warlike arts, and acting partly as leader of the Greeks, and partly standing alone by itself when deserted by all others, after encountering the deadliest perils, it defeated the invaders and reared a trophy; whereby it saved from slavery such as were not as yet enslaved, and all the rest of us who dwell within the bounds of Heracles it ungrudgingly set free. 
+For it stood pre-eminent above all [25c] in gallantry and all warlike arts, and acting partly as leader of the Greeks, and partly standing alone by itself when deserted by all others, after encountering the deadliest perils, it defeated the invaders and reared a trophy; 
+
+τοὺς δὲ μήπω δεδουλωμένους διεκώλυσεν δουλωθῆναι, 
+
+whereby it saved from slavery such as were not as yet enslaved, 
+
+τοὺς δ᾽ ἄλλους, ὅσοι κατοικοῦμεν ἐντὸς ὅρων Ἡρακλείων, ἀφθόνως ἅπαντας ἠλευθέρωσεν. 
+
+and all the rest of us who dwell within the bounds of Heracles it ungrudgingly set free. 
 ## 25d
-ὑστέρῳ δὲ χρόνῳ σεισμῶν ἐξαισίων καὶ κατακλυσμῶν γενομένων, μιᾶς [25δ] ἡμέρας καὶ νυκτὸς χαλεπῆς ἐπελθούσης, τό τε παρ᾽ ὑμῖν μάχιμον πᾶν ἁθρόον ἔδυ κατὰ γῆς, ἥ τε Ἀτλαντὶς νῆσος ὡσαύτως κατὰ τῆς θαλάττης δῦσα ἠφανίσθη: διὸ καὶ νῦν ἄπορον καὶ ἀδιερεύνητον γέγονεν τοὐκεῖ πέλαγος, πηλοῦ κάρτα βραχέος ἐμποδὼν ὄντος, ὃν ἡ νῆσος ἱζομένη παρέσχετο.’
+ὑστέρῳ δὲ χρόνῳ σεισμῶν ἐξαισίων καὶ κατακλυσμῶν γενομένων, 
 
-But at a later time there occurred portentous earthquakes and floods, [25d] and one grievous day and night befell them, when the whole body of your warriors was swallowed up by the earth, and the island of Atlantis in like manner was swallowed up by the sea and vanished; wherefore also the ocean at that spot has now become impassable and unsearchable, being blocked up by the shoal mud which the island created as it settled down.”
+But at a later time there occurred portentous earthquakes and floods, 
+
+μιᾶς [25δ] ἡμέρας καὶ νυκτὸς χαλεπῆς ἐπελθούσης, 
+
+[25d] and one grievous day and night befell them, 
+
+τό τε παρ᾽ ὑμῖν μάχιμον πᾶν ἁθρόον ἔδυ κατὰ γῆς, 
+
+when the whole body of your warriors was swallowed up by the earth, 
+
+ἥ τε Ἀτλαντὶς νῆσος ὡσαύτως κατὰ τῆς θαλάττης δῦσα ἠφανίσθη: 
+
+and the island of Atlantis in like manner was swallowed up by the sea and vanished; 
+
+διὸ καὶ νῦν ἄπορον καὶ ἀδιερεύνητον γέγονεν τοὐκεῖ πέλαγος, πηλοῦ κάρτα βραχέος ἐμποδὼν ὄντος, ὃν ἡ νῆσος ἱζομένη παρέσχετο.’
+
+wherefore also the ocean at that spot has now become impassable and unsearchable, being blocked up by the shoal mud which the island created as it settled down.”
 ## 25e
-τὰ μὲν δὴ ῥηθέντα, ὦ Σώκρατες, ὑπὸ τοῦ παλαιοῦ [25ε] Κριτίου κατ᾽ ἀκοὴν τὴν Σόλωνος, ὡς συντόμως εἰπεῖν, ἀκήκοας: λέγοντος δὲ δὴ χθὲς σοῦ περὶ πολιτείας τε καὶ τῶν ἀνδρῶν οὓς ἔλεγες, ἐθαύμαζον ἀναμιμνῃσκόμενος αὐτὰ ἃ νῦν λέγω, κατανοῶν ὡς δαιμονίως ἔκ τινος τύχης οὐκ ἄπο σκοποῦ συνηνέχθης τὰ πολλὰ οἷς Σόλων εἶπεν. 
+τὰ μὲν δὴ ῥηθέντα, ὦ Σώκρατες, ὑπὸ τοῦ παλαιοῦ [25ε] Κριτίου κατ᾽ ἀκοὴν τὴν Σόλωνος, ὡς συντόμως εἰπεῖν, ἀκήκοας: 
 
-You have now heard, Socrates, in brief outline, the account given by the elder Critias of what he heard from Solon; [25e] and when you were speaking yesterday about the State and the citizens you were describing, I marvelled as I called to mind the facts I am now relating, reflecting what a strange piece of fortune it was that your description coincided so exactly for the most part with Solon's account. I was loth, however,
+You have now heard, Socrates, in brief outline, the account given by the elder Critias of what he heard from Solon; 
+
+λέγοντος δὲ δὴ χθὲς σοῦ περὶ πολιτείας τε καὶ τῶν ἀνδρῶν οὓς ἔλεγες, 
+
+[25e] and when you were speaking yesterday about the State and the citizens you were describing, 
+
+ἐθαύμαζον ἀναμιμνῃσκόμενος αὐτὰ ἃ νῦν λέγω, 
+
+I marvelled as I called to mind the facts I am now relating, 
+
+κατανοῶν ὡς δαιμονίως ἔκ τινος τύχης οὐκ ἄπο σκοποῦ συνηνέχθης τὰ πολλὰ οἷς Σόλων εἶπεν. 
+
+reflecting what a strange piece of fortune it was that your description coincided so exactly for the most part with Solon's account. 
 # 26
 ## 26a
 οὐ μὴν[26α] ἐβουλήθην παραχρῆμα εἰπεῖν: διὰ χρόνου γὰρ οὐχ ἱκανῶς ἐμεμνήμην. ἐνενόησα οὖν ὅτι χρεὼν εἴη με πρὸς ἐμαυτὸν πρῶτον ἱκανῶς πάντα ἀναλαβόντα λέγειν οὕτως. ὅθεν ταχὺ συνωμολόγησά σοι τὰ ἐπιταχθέντα χθές, ἡγούμενος, ὅπερ ἐν ἅπασι τοῖς τοιοῖσδε μέγιστον ἔργον, λόγον τινὰ πρέποντα τοῖς βουλήμασιν ὑποθέσθαι, τούτου μετρίως ἡμᾶς εὐπορήσειν. οὕτω δή, καθάπερ ὅδ᾽ εἶπεν, χθές τε εὐθὺς ἐνθένδε ἀπιὼν [26β] πρὸς τούσδε ἀνέφερον αὐτὰ ἀναμιμνῃσκόμενος, ἀπελθών τε σχεδόν τι πάντα ἐπισκοπῶν τῆς νυκτὸς ἀνέλαβον. 
 
-[26a] to speak on the instant; for owing to lapse of time my recollection of his account was not sufficiently clear. So I decided that I ought not to relate it until I had first gone over it all carefully in my own mind. Consequently, I readily consented to the theme you proposed yesterday, since I thought that we should be reasonably well provided for the task of furnishing a satisfactory discourse—which in all such cases is the greatest task. So it was that, as Hermocrates has said, the moment I left your place yesterday I began to relate to them the story as I recollected it, [26b] and after I parted from them I pondered it over during the night and recovered, as I may say, the whole story. 
+I was loth, however, [26a] to speak on the instant; for owing to lapse of time my recollection of his account was not sufficiently clear. So I decided that I ought not to relate it until I had first gone over it all carefully in my own mind. Consequently, I readily consented to the theme you proposed yesterday, since I thought that we should be reasonably well provided for the task of furnishing a satisfactory discourse—which in all such cases is the greatest task. So it was that, as Hermocrates has said, the moment I left your place yesterday I began to relate to them the story as I recollected it, [26b] and after I parted from them I pondered it over during the night and recovered, as I may say, the whole story. 
 ## 26b
 ὡς δή τοι, τὸ λεγόμενον, τὰ παίδων μαθήματα θαυμαστὸν ἔχει τι μνημεῖον. ἐγὼ γὰρ ἃ μὲν χθὲς ἤκουσα, οὐκ ἂν οἶδ᾽ εἰ δυναίμην ἅπαντα ἐν μνήμῃ πάλιν λαβεῖν: ταῦτα δὲ ἃ πάμπολυν χρόνον διακήκοα, παντάπασι θαυμάσαιμ᾽ ἂν εἴ τί με αὐτῶν διαπέφευγεν. ἦν μὲν οὖν μετὰ πολλῆς ἡδονῆς καὶ [26ξ] παιδιᾶς τότε ἀκουόμενα, καὶ τοῦ πρεσβύτου προθύμως με διδάσκοντος, ἅτ᾽ ἐμοῦ πολλάκις ἐπανερωτῶντος, ὥστε οἷον ἐγκαύματα ἀνεκπλύτου γραφῆς ἔμμονά μοι γέγονεν: 
 

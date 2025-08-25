@@ -3,6 +3,21 @@ https://www.sefaria.org/The_Antiquities_of_the_Jews
 
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D8%3Awhiston%20chapter%3D6%3Awhiston%20section%3D1
 ## b1
+### 4.2
+[113]
+Ἐξῆρέ τε αὐτοὺς πρός τε ὕβριν τοῦ θεοῦ καὶ καταφρόνησιν Ναβρώδης, ὃς υἱωνὸς μὲν ἦν Χάμου τοῦ Νώχου, τολμηρὸς δὲ καὶ κατὰ χεῖρα γενναῖος: ἔπειθεν οὖν αὐτοὺς μὴ τῷ θεῷ διδόναι τὸ δι᾽ ἐκεῖνον εὐδαιμονεῖν, ἀλλὰ τὴν ἰδίαν ἀρετὴν ταῦτα παρέχειν αὐτοῖς ἡγεῖσθαι, [114] καὶ περιίστα δὲ κατ᾽ ὀλίγον εἰς τυραννίδα τὰ πράγματα μόνως οὕτως νομίζων ἀποστήσειν τοὺς ἀνθρώπους τοῦ φόβου τοῦ παρὰ τοῦ θεοῦ, εἰ χρώμενοι τῇ αὐτοῦ δυνάμει διατελοῖεν, ἀμυνεῖσθαί τε τὸν θεὸν πάλιν ἠπείλει τὴν γῆν ἐπικλύσαι θελήσαντα: πύργον γὰρ οἰκοδομήσειν ὑψηλότερον ἢ τὸ ὕδωρ ἀναβῆναι δυνηθείη, μετελεύσεσθαι δὲ καὶ τῆς τῶν προγόνων ἀπωλείας.
+
+[113] Now it was Nimrod who excited them to such an affront and contempt of God. He was the grandson of Ham, the son of Noah, a bold man, and of great strength of hand. He persuaded them not to ascribe it to God, as if it was through his means they were happy, but to believe that it was their own courage which procured that happiness. He also gradually changed the government into tyranny, seeing no other way of turning men from the fear of God, but to bring them into a constant dependence on his power. He also said he would be revenged on God, if he should have a mind to drown the world again; for that he would build a tower too high for the waters to be able to reach! and that he would avenge himself on God for destroying their forefathers!
+### 4.3
+[115]
+Τὸ δὲ πλῆθος πρόθυμον ἦν τοῖς Ναβρώδου ἕπεσθαι δόγμασι δουλείαν ἡγούμενοι τὸ εἴκειν τῷ θεῷ, καὶ τὸν πύργον ᾠκοδόμουν οὐδὲν ἀπολείποντες σπουδῆς οὐδὲ πρὸς τὸ ἔργον ὀκνηρῶς ἔχοντες: ἐλάμβανε δὲ θᾶττον ὕψος ἢ προσεδόκησεν ἄν τις ὑπὸ πολυχειρίας. [116] τὸ μέντοι πάχος ἦν ἰσχυρὸν τοσοῦτον, ὥσθ᾽ ὑπ᾽ αὐτοῦ μειοῦσθαι τοῖς ὁρῶσι τὸ μῆκος. ᾠκοδομεῖτο δὲ ἐκ πλίνθου ὀπτῆς ἀσφάλτῳ συνδεδεμένης, ὡς ἂν μὴ περιρρέοι. οὕτως δὲ μεμηνότας αὐτοὺς ὁρῶν ὁ θεὸς ἀφανίσαι μὲν ἐκ παντὸς οὐκ ἔκρινεν, ὅτι μηδ᾽ ὑπὸ τῶν πρώτων ἀπολωλότων σωφρονισθεῖεν, [117] εἰς στάσιν δὲ αὐτοὺς ἐνέβαλεν ἀλλογλώσσους ἀπεργασάμενος καὶ ὑπὸ πολυφωνίας ποιήσας ἑαυτῶν ἀσυνέτους εἶναι. ὁ δὲ τόπος ἐν ᾧ τὸν πύργον ᾠκοδόμησαν νῦν Βαβυλὼν καλεῖται διὰ τὴν σύγχυσιν τοῦ περὶ τὴν διάλεκτον πρῶτον ἐναργοῦς: Ἑβραῖοι γὰρ τὴν σύγχυσιν βαβὲλ καλοῦσι. [118] περὶ δὲ τοῦ πύργου τούτου καὶ τῆς ἀλλοφωνίας τῶν ἀνθρώπων μέμνηται καὶ Σίβυλλα λέγουσα οὕτως: ‘πάντων ὁμοφώνων ὄντων τῶν ἀνθρώπων πύργον ᾠκοδόμησάν τινες ὑψηλότατον ὡς ἐπὶ τὸν οὐρανὸν ἀναβησόμενοι δι᾽ αὐτοῦ. οἱ δὲ θεοὶ ἀνέμους ἐπιπέμψαντες ἀνέτρεψαν τὸν πύργον καὶ ἰδίαν ἑκάστῳ φωνὴν ἔδωκαν: καὶ διὰ τοῦτο Βαβυλῶνα συνέβη κληθῆναι τὴν πόλιν.’ [119] περὶ δὲ τοῦ πεδίου τοῦ λεγομένου Σεναὰρ ἐν τῇ Βαβυλωνίᾳ χώρᾳ μνημονεύει Ἑστιαῖος λέγων οὕτως: ‘τῶν δὲ ἱερέων τοὺς διασωθέντας τὰ τοῦ Ἐνυαλίου Διὸς ἱερώματα λαβόντας εἰς Σεναὰρ τῆς Βαβυλωνίας ἐλθεῖν.’
+
+[115] Now the multitude were very ready to follow the determination of Nimrod, and to esteem it a piece of cowardice to submit to God; and they built a tower, neither sparing any pains, nor being in any degree negligent about the work: and, by reason of the multitude of hands employed in it, it grew very high, sooner than any one could expect; but the thickness of it was so great, and it was so strongly built, that thereby its great height seemed, upon the view, to be less than it really was. It was built of burnt brick, cemented together with mortar, made of bitumen, that it might not be liable to admit water. When God saw that they acted so madly, he did not resolve to destroy them utterly, since they were not grown wiser by the destruction of the former sinners; but he caused a tumult among them, by producing in them divers languages, and causing that, through the multitude of those languages, they should not be able to understand one another. The place wherein they built the tower is now called Babylon, because of the confusion of that language which they readily understood before; for the Hebrews mean by the word Babel, confusion. The Sibyl also makes mention of this tower, and of the confusion of the language, when she says thus: "When all men were of one language, some of them built a high tower, as if they would thereby ascend up to heaven, but the gods sent storms of wind and overthrew the tower, and gave every one his peculiar language; and for this reason it was that the city was called Babylon." But as to the plan of Shinar, in the country of Babylonia, Hestiaeus mentions it, when he says thus: "Such of the priests as were saved, took the sacred vessels of Jupiter Enyalius, and came to Shinar of Babylonia.
+### 5.1
+[120]
+Σκίδνανται δὴ τὸ λοιπὸν ἐντεῦθεν ὑπὸ τῆς ἀλλογλωσσίας τὰς ἀποικίας ποιησάμενοι πανταχοῦ, καὶ γῆν ἕκαστοι κατελάμβανον τὴν ἐντυχοῦσαν καὶ εἰς ἣν αὐτοὺς ἦγεν ὁ θεός, ὡς πληρωθῆναι πᾶσαν αὐτῶν ἤπειρον μεσόγεών τε καὶ παράλιον: εἰσὶ δ᾽ οἳ καὶ περαιωσάμενοι ναυσὶ τὰς νήσους κατῴκησαν. [121] καὶ τῶν ἐθνῶν ἔνια μὲν διασώζει τὰς ὑπὸ τῶν κτισάντων κειμένας προσηγορίας, ἔνια δὲ καὶ μετέβαλεν, οἱ δὲ καὶ πρὸς τὸ σαφέστερον εἶναι δοκοῦν τοῖς παροικοῦσι τροπὴν ἔλαβον. Ἕλληνες δ᾽ εἰσὶν οἱ τούτου καταστάντες αἴτιοι: ἰσχύσαντες γὰρ ἐν τοῖς ὕστερον ἰδίαν ἐποιήσαντο καὶ τὴν πάλαι δόξαν καλλωπίσαντες τὰ ἔθνη τοῖς ὀνόμασι πρὸς τὸ συνετὸν αὐτοῖς καὶ κόσμον θέμενοι πολιτείας ὡς ἀφ᾽ αὑτῶν γεγονόσιν.
+
+[120] AFTER this they were dispersed abroad, on account of their languages, and went out by colonies every where; and each colony took possession of that land which they light upon, and unto which God led them; so that the whole continent was filled with them, both the inland and the maritime countries. There were some also who passed over the sea in ships, and inhabited the islands: and some of those nations do still retain the denominations which were given them by their first founders; but some have lost them also, and some have only admitted certain changes in them, that they might be the more intelligible to the inhabitants. And they were the Greeks who became the authors of such mutations. For when in after-ages they grew potent, they claimed to themselves the glory of antiquity; giving names to the nations that sounded well (in Greek) that they might be better understood among themselves; and setting agreeable forms of government over them, as if they were a people derived from themselves.
 ### 6.1
 #### 122
 Ἦσαν δὲ τῶν Νώχου παίδων υἱοί, ὧν ἐπὶ τιμῇ τοῖς ἔθνεσι τὰ ὀνόματα ἐπετίθεσαν οἱ γῆν τινα καταλαβόντες. 
@@ -272,9 +287,95 @@ So the Alans, being still more provoked by this sight, laid waste the country, a
 # ap
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0216
 ## b1
+### c14
+[73] Ἄρξομαι δὲ πρῶτον ἀπὸ τῶν παρ᾽ Αἰγυπτίοις γραμμάτων. αὐτὰ μὲν οὖν οὐχ οἷόν τε παρατίθεσθαι τἀκείνων, Μάνεθως δ᾽ ἦν τὸ γένος Αἰγύπτιος ἀνὴρ τῆς Ἑλληνικῆς μετεσχηκὼς παιδείας, ὡς δῆλός ἐστιν: γέγραφεν γὰρ Ἑλλάδι φωνῇ τὴν πάτριον ἱστορίαν ἔκ τε τῶν ἱερῶν, ὥς φησιν αὐτός, μεταφράσας καὶ πολλὰ τὸν Ἡρόδοτον ἐλέγχει τῶν Αἰγυπτιακῶν ὑπ᾽ ἀγνοίας ἐψευσμένον. 
+
+[73] I shall begin with the writings of the Egyptians; not indeed of those that have written in the Egyptian language, which it is impossible for me to do. But Manetho was a man who was by birth an Egyptian, yet had he made himself master of the Greek learning, as is very evident; for he wrote the history of his own country in the Greek tongue, by translating it, as he saith himself, out of their sacred records; he also finds great fault with Herodotus for his ignorance and false relations of Egyptian affairs. 
+
+[74] οὗτος δὴ τοίνυν ὁ Μάνεθως ἐν τῇ δευτέρᾳ τῶν Αἰγυπτιακῶν ταῦτα περὶ ἡμῶν γράφει. παραθήσομαι δὲ τὴν λέξιν αὐτοῦ καθάπερ αὐτὸν [75] ἐκεῖνον παραγαγὼν μάρτυρα: “* τοῦ τίμαιος ὄνομα. 
+
+Now this Manetho, in the second book of his Egyptian History, writes concerning us in the following manner. I will set down his very words, as if I were to bring the very man himself into a court for a witness: "There was a king of ours whose name was Timaus. 
+
+ἐπὶ τούτου οὐκ οἶδ᾽ ὅπως θεὸς ἀντέπνευσεν καὶ παραδόξως ἐκ τῶν πρὸς ἀνατολὴν μερῶν ἄνθρωποι τὸ γένος ἄσημοι καταθαρρήσαντες ἐπὶ τὴν χώραν ἐστράτευσαν καὶ ῥᾳδίως ἀμαχητὶ ταύτην κατὰ κράτος εἷλον, 
+
+Under him it came to pass, I know not how, that God was averse to us, and there came, after a surprising manner, men of ignoble birth out of the eastern parts, and had boldness enough to make an expedition into our country, and with ease subdued it by force, yet without our hazarding a battle with them. 
+
+[76] καὶ τοὺς ἡγεμονεύσαντας ἐν αὐτῇ χειρωσάμενοι τὸ λοιπὸν τάς τε πόλεις ὠμῶς ἐνέπρησαν καὶ τὰ τῶν θεῶν ἱερὰ κατέσκαψαν, πᾶσι δὲ τοῖς ἐπιχωρίοις ἐχθρότατά πως ἐχρήσαντο τοὺς μὲν σφάζοντες, [77] τῶν δὲ καὶ τὰ τέκνα καὶ γυναῖκας εἰς δουλείαν ἄγοντες. 
+
+So when they had gotten those that governed us under their power, they afterwards burnt down our cities, and demolished the temples of the gods, and used all the inhabitants after a most barbarous manner; nay, some they slew, and led their children and their wives into slavery. 
+
+πέρας δὲ καὶ βασιλέα ἕνα ἐξ αὐτῶν ἐποίησαν, ᾧ ὄνομα ἦν Σάλιτις. καὶ οὗτος ἐν τῇ Μέμφιδι κατεγίνετο τήν τε ἄνω καὶ κάτω χώραν δασμολογῶν καὶ φρουρὰν ἐν τοῖς ἐπιτηδειοτάτοις καταλιπὼν τόποις. μάλιστα δὲ καὶ τὰ πρὸς ἀνατολὴν ἠσφαλίσατο μέρη προορώμενος Ἀσσυρίων ποτὲ μεῖζον ἰσχυόντων ἐσομένην ἐπιθυμίᾳ τῆς αὐτοῦ βασιλείας ἔφοδον. 
+
+At length they made one of themselves king, whose name was Salatis; he also lived at Memphis, and made both the upper and lower regions pay tribute, and left garrisons in places that were the most proper for them. He chiefly aimed to secure the eastern parts, as fore-seeing that the Assyrians, who had then the greatest power, would be desirous of that kingdom, and invade them; 
+
+[78] εὑρὼν δὲ ἐν νομῷ τῷ Σεθροΐτῃ πόλιν ἐπικαιροτάτην, κειμένην μὲν πρὸς ἀνατολὴν τοῦ Βουβαστίτου ποταμοῦ, καλουμένην δ᾽ ἀπό τινος ἀρχαίας θεολογίας Αὔαριν, ταύτην ἔκτισέν τε καὶ τοῖς τείχεσιν ὀχυρωτάτην ἐποίησεν ἐνοικίσας αὐτῇ καὶ πλῆθος ὁπλιτῶν εἰς εἴκοσι καὶ τέσσαρας μυριάδας ἀνδρῶν προφυλακήν. 
+
+and as he found in the Saite Nomos, [Sethroite,] a city very proper for this purpose, and which lay upon the Bubastic channel, but with regard to a certain theologic notion was called Avaris, this he rebuilt, and made very strong by the walls he built about it, and by a most numerous garrison of two hundred and forty thousand armed men whom he put into it to keep it. 
+
+[79] ἔνθα δὲ κατὰ θέρειαν ἤρχετο τὰ μὲν σιτομετρῶν καὶ μισθοφορίαν παρεχόμενος τὰ δὲ καὶ ταῖς ἐξοπλισίαις πρὸς φόβον τῶν ἔξωθεν ἐπιμελῶς γυμνάζων. ἄρξας δ᾽ ἐννεακαίδεκα ἔτη τὸν βίον ἐτελεύτησε. 
+
+Thither Salatis came in summer time, partly to gather his corn, and pay his soldiers their wages, and partly to exercise his armed men, and thereby to terrify foreigners. When this man had reigned thirteen years, 
+
+[80] μετὰ τοῦτον δὲ ἕτερος ἐβασίλευσεν τέσσαρα καὶ τεσσαράκοντα ἔτη καλούμενος Βηών. μεθ᾽ ὃν ἄλλος Ἀπαχνὰς ἓξ καὶ τριάκοντα ἔτη καὶ μῆνας ἑπτά. 
+
+after him reigned another, whose name was Beon, for forty-four years; after him reigned another, called Apachnas, thirty-six years and seven months; 
+
+ἔπειτα δὲ καὶ Ἄπωφις ἓν καὶ ἑξήκοντα [81] καὶ Ἰαννὰς πεντήκοντα καὶ μῆνα ἕνα. ἐπὶ πᾶσι δὲ καὶ Ἄσσις ἐννέα καὶ τεσσαράκοντα καὶ μῆνας δύο. καὶ οὗτοι μὲν ἓξ ἐν αὐτοῖς ἐγενήθησαν πρῶτοι ἄρχοντες ποθοῦντες ἀεὶ καὶ μᾶλλον τῆς Αἰγύπτου [82] ἐξᾶραι τὴν ῥίζαν. 
+
+after him Apophis reigned sixty-one years, and then Janins fifty years and one month; after all these reigned Assis forty-nine years and two months. And these six were the first rulers among them, who were all along making war with the Egyptians, and were very desirous gradually to destroy them to the very roots. 
+
+ἐκαλεῖτο δὲ τὸ σύμπαν αὐτῶν ἔθνος Ὑκσώς, τοῦτο δέ ἐστιν βασιλεῖς ποιμένες: τὸ γὰρ υκ καθ᾽ ἱερὰν γλῶσσαν βασιλέα σημαίνει, τὸ δὲ σὼς ποιμήν ἐστι καὶ ποιμένες κατὰ τὴν κοινὴν διάλεκτον, καὶ οὕτως συντιθέμενον γίνεται Ὑκσώς. 
+
+This whole nation was styled HYCSOS, that is, Shepherd-kings: for the first syllable HYC, according to the sacred dialect, denotes a king, as is SOS a shepherd; but this according to the ordinary dialect; and of these is compounded HYCSOS: 
+
+[83] τινὲς δὲ λέγουσιν αὐτοὺς Ἄραβας εἶναι. ἐν δ᾽ ἄλλῳ ἀντιγράφῳ οὐ βασιλεῖς σημαίνεσθαι διὰ τῆς ϋκ προσηγορίας, ἀλλὰ τοὐναντίον αἰχμαλώτους δηλοῦσθαι ποιμένας: τὸ γὰρ ὓκ πάλιν Αἰγυπτιστὶ καὶ τὸ ἃκ δασυνόμενον αἰχμαλώτους ῥητῶς μηνύει. 
+
+but some say that these people were Arabians." Now in another copy it is said that this word does not denote Kings, but, on the contrary, denotes Captive Shepherds, and this on account of the particle HYC; for that HYC, with the aspiration, in the Egyptian tongue again denotes Shepherds, and that expressly also; 
+
+καὶ τοῦτο μᾶλλον [84] πιθανώτερόν μοι φαίνεται καὶ παλαιᾶς ἱστορίας ἐχόμενον. τούτους τοὺς προκατωνομασμένους βασιλέας καὶ τοὺς τῶν ποιμένων καλουμένων καὶ τοὺς ἐξ αὐτῶν γενομένους κρατῆσαι τῆς Αἰγύπτου [85] φησὶν ἔτη πρὸς τοῖς πεντακοσίοις ἕνδεκα. 
+
+and this to me seems the more probable opinion, and more agreeable to ancient history. [But Manetho goes on]: "These people, whom we have before named kings, and called shepherds also, and their descendants," as he says, "kept possession of Egypt five hundred and eleven years." After these, he says, 
+
+μετὰ ταῦτα δὲ τῶν ἐκ τῆς Θηβαΐδος καὶ τῆς ἄλλης Αἰγύπτου βασιλέων γενέσθαι φησὶν ἐπὶ τοὺς ποιμένας ἐπανάστασιν καὶ πόλεμον συρραγῆναι μέγαν [86] καὶ πολυχρόνιον. 
+
+"That the kings of Thebais and the other parts of Egypt made an insurrection against the shepherds, and that there a terrible and long war was made between them." He says further, 
+
+ἐπὶ δὲ βασιλέως, ᾧ ὄνομα εἶναι Μισφραγμούθωσις, ἡττωμένους φησὶ τοὺς ποιμένας ἐκ μὲν τῆς ἄλλης Αἰγύπτου πάσης ἐκπεσεῖν, κατακλεισθῆναι δ᾽ εἰς τόπον ἀρουρῶν ἔχοντα μυρίων [87] τὴν περίμετρον: 
+
+"That under a king, whose name was Alisphragmuthosis, the shepherds were subdued by him, and were indeed driven out of other parts of Egypt, but were shut up in a place that contained ten thousand acres; 
+
+Αὔαριν ὄνομα τῷ τόπῳ. τοῦτόν φησιν ὁ Μάνεθως ἅπαντα τείχει τε μεγάλῳ καὶ ἰσχυρῷ περιβαλεῖν τοὺς ποιμένας, ὅπως τήν τε κτῆσιν ἅπασαν ἔχωσιν ἐν ὀχυρῷ καὶ τὴν [88] λείαν τὴν ἑαυτῶν. 
+
+this place was named Avaris." Manetho says, "That the shepherds built a wall round all this place, which was a large and a strong wall, and this in order to keep all their possessions and their prey within a place of strength, 
+
+τὸν δὲ Μισφραγμουθώσεως υἱὸν Θούμμωσιν ἐπιχειρῆσαι μὲν αὐτοὺς διὰ πολιορκίας ἑλεῖν κατὰ κράτος ὀκτὼ καὶ τεσσαράκοντα μυριάσι στρατοῦ προσεδρεύσαντα τοῖς τείχεσιν: ἐπεὶ δὲ τὴν πολιορκίαν ἀπέγνω, ποιήσασθαι συμβάσεις, ἵνα τὴν Αἴγυπτον ἐκλιπόντες ὅποι βούλονται πάντες ἀβλαβεῖς ἀπέλθωσι. 
+
+but that Thummosis the son of Alisphragmuthosis made an attempt to take them by force and by siege, with four hundred and eighty thousand men to lie rotund about them, but that, upon his despair of taking the place by that siege, they came to a composition with them, that they should leave Egypt, and go, without any harm to be done to them, whithersoever they would; 
+
+[89] τοὺς δὲ ἐπὶ ταῖς ὁμολογίαις πανοικησίᾳ μετὰ τῶν κτήσεων οὐκ ἐλάττους μυριάδων ὄντας εἴκοσι καὶ τεσσάρων ἀπὸ τῆς Αἰγύπτου [90] τὴν ἔρημον εἰς Συρίαν διοδοιπορῆσαι. 
+
+and that, after this composition was made, they went away with their whole families and effects, not fewer in number than two hundred and forty thousand, and took their journey from Egypt, through the wilderness, for Syria; 
+
+φοβουμένους δὲ τὴν Ἀσσυρίων δυναστείαν, τότε γὰρ ἐκείνους τῆς Ἀσίας κρατεῖν, ἐν τῇ νῦν Ἰουδαίᾳ καλουμένῃ πόλιν οἰκοδομησαμένους τοσαύταις μυριάσιν ἀνθρώπων ἀρκέσουσαν Ἱεροσόλυμα ταύτην ὀνομάσαι. 
+
+but that as they were in fear of the Assyrians, who had then the dominion over Asia, they built a city in that country which is now called Judea, and that large enough to contain this great number of men, and called it Jerusalem. 1
+
+1 Here we have an account of the first building of the city of Jerusalem, according to Manetho, when the Phoenician shepherds were expelled out of Egypt about thirty-seven years before Abraham came out of Harsh.
+
+
+[91] ἐν ἄλλῃ δέ τινι βίβλῳ τῶν Αἰγυπτιακῶν Μάνεθως τοῦτό φησιν τὸ ἔθνος τοὺς καλουμένους ποιμένας αἰχμαλώτους ἐν ταῖς ἱεραῖς αὐτῶν βίβλοις γεγράφθαι λέγων ὀρθῶς: καὶ γὰρ τοῖς ἀνωτάτω προγόνοις ἡμῶν τὸ ποιμαίνειν πάτριον ἦν καὶ νομαδικὸν ἔχοντες τὸν βίον οὕτως ἐκαλοῦντο ποιμένες. 
+
+Now Manetho, in another book of his, says, "That this nation, thus called Shepherds, were also called Captives, in their sacred books." And this account of his is the truth; for feeding of sheep was the employment of our forefathers in the most ancient ages 2 and as they led such a wandering life in feeding sheep, they were called Shepherds. 
+
+2 Genesis 46;32, 34; 47:3, 4.
+
+[92] αἰχμάλωτοί τε πάλιν οὐκ ἀλόγως ὑπὸ τῶν Αἰγυπτίων ἀνεγράφησαν, ἐπειδήπερ ὁ πρόγονος ἡμῶν Ἰώσηπος ἑαυτὸν ἔφη πρὸς τὸν βασιλέα τῶν Αἰγυπτίων αἰχμάλωτον εἶναι, καὶ τοὺς ἀδελφοὺς εἰς τὴν Αἴγυπτον ὕστερον μετεπέμψατο τοῦ βασιλέως ἐπιτρέψαντος. ἀλλὰ περὶ μὲν τούτων ἐν ἄλλοις ποιήσομαι τὴν ἐξέτασιν ἀκριβεστέραν.
+
+Nor was it without reason that they were called Captives by the Egyptians, since one of our ancestors, Joseph, told the king of Egypt that he was a captive, and afterward sent for his brethren into Egypt by the king's permission. But as for these matters, I shall make a more exact inquiry about them elsewhere. 3
+
+3 In our copies of the book of Genesis and of Joseph, this Joseph never calls himself "a captive," when he was with the king of Egypt, though he does call himself "a servant," "a slave," or "captive," many times in the Testament of the Twelve Patriarchs, under Joseph, sect. 1, 11, 13-16.
 ### c26
-[227]
-Ἐφ᾽ ἑνὸς δὲ πρώτου στήσω τὸν λόγον, ᾧ καὶ μάρτυρι [228] μικρὸν ἔμπροσθεν τῆς ἀρχαιότητος ἐχρησάμην. 
+[227] Ἐφ᾽ ἑνὸς δὲ πρώτου στήσω τὸν λόγον, ᾧ καὶ μάρτυρι [228] μικρὸν ἔμπροσθεν τῆς ἀρχαιότητος ἐχρησάμην. 
 
 [227] And now I will turn my discourse to one of their principal writers, whom I have a little before made use of as a witness to our antiquity; 
 
@@ -360,4 +461,30 @@ and gave a particular charge to the priests distinctly, that they should hide th
 
 He then passed on with the rest of the Egyptians, being three hundred thousand of the most warlike of them, against the enemy, who met them. Yet did he not join battle with them; but thinking that would be to fight against the gods, he returned back and came to Memphis, where he took Apis and the other sacred animals which he had sent for to him, and presently marched into Ethiopia, together with his whole army and multitude of Egyptians; for the king of Ethiopia was under an obligation to him, 
 
-on which account he received him, and took care of all the multitude that was with him, while the country supplied all that was necessary for the food of the men. He also allotted cities and villages for this exile, that was to be from its beginning during those fatally determined thirteen years. Moreover, he pitched a camp for his Ethiopian army, as a guard to king Amenophis, upon the borders of Egypt. And this was the state of things in Ethiopia. But for the people of Jerusalem, when they came down together with the polluted Egyptians, they treated the men in such a barbarous manner, that those who saw how they subdued the forementioned country, and the horrid wickedness they were guilty of, thought it a most dreadful thing; for they did not only set the cities and villages on fire but were not satisfied till they had been guilty of sacrilege, and destroyed the images of the gods, and used them in roasting those sacred animals that used to be worshipped, and forced the priests and prophets to be the executioners and murderers of those animals, and then ejected them naked out of the country. It was also reported that the priest, who ordained their polity and their laws, was by birth of Hellopolls, and his name Osarsiph, from Osyris, who was the god of Hellopolls; but that when he was gone over to these people, his name was changed, and he was called Moses.
+[247] ὃς ὑποδεξάμενος καὶ τοὺς ὄχλους πάντας ὑπολαβὼν οἷς ἔσχεν ἡ χώρα τῶν πρὸς ἀνθρωπίνην τροφὴν ἐπιτηδείων, καὶ πόλεις καὶ κώμας πρὸς τὴν τῶν πεπρωμένων τρισκαίδεκα ἐτῶν ἀπὸ τῆς ἀρχῆς αὐτοῦ [εἰς τὴν] ἔκπτωσιν αὐτάρκεις, οὐχ ἧττον δὲ καὶ στρατόπεδον Αἰθιοπικὸν πρὸς φυλακὴν ἐπέταξε τοῖς παρ᾽ [248] Ἀμενώφεως τοῦ βασιλέως ἐπὶ τῶν ὁρίων τῆς Αἰγύπτου. 
+
+on which account he received him, and took care of all the multitude that was with him, while the country supplied all that was necessary for the food of the men. He also allotted cities and villages for this exile, that was to be from its beginning during those fatally determined thirteen years. Moreover, he pitched a camp for his Ethiopian army, as a guard to king Amenophis, upon the borders of Egypt. 
+
+καὶ τὰ μὲν κατὰ τὴν Αἰθιοπίαν τοιαῦτα. οἱ δὲ Σολυμῖται κατελθόντες σὺν τοῖς μιαροῖς τῶν Αἰγυπτίων οὕτως ἀνοσίως καὶ τοῖς ἀνθρώποις προσηνέχθησαν, ὥστε τὴν τῶν προειρημένων κράτησιν χρυσὸν [249] φαίνεσθαι τοῖς τότε τὰ τούτων ἀσεβήματα θεωμένοις: 
+
+And this was the state of things in Ethiopia. But for the people of Jerusalem, when they came down together with the polluted Egyptians, they treated the men in such a barbarous manner, that those who saw how they subdued the forementioned country, and the horrid wickedness they were guilty of, thought it a most dreadful thing; 
+
+καὶ γὰρ οὐ μόνον πόλεις καὶ κώμας ἐνέπρησαν οὐδὲ ἱεροσυλοῦντες οὐδὲ λυμαινόμενοι ξόανα θεῶν ἠρκοῦντο, ἀλλὰ καὶ τοῖς αὐτοῖς ὀπτανίοις τῶν σεβαστευομένων ἱερῶν ζῴων χρώμενοι διετέλουν καὶ θύτας καὶ σφαγεῖς τούτων ἱερεῖς καὶ προφήτας ἠνάγκαζον γίνεσθαι [250] καὶ γυμνοὺς ἐξέβαλλον. 
+
+for they did not only set the cities and villages on fire but were not satisfied till they had been guilty of sacrilege, and destroyed the images of the gods, and used them in roasting those sacred animals that used to be worshipped, and forced the priests and prophets to be the executioners and murderers of those animals, and then ejected them naked out of the country. 
+
+λέγεται δέ, ὅτι τὴν πολιτείαν καὶ τοὺς νόμους αὐτοῖς καταβαλόμενος ἱερεὺς τὸ γένος Ἡλιοπολίτης ὄνομα Ὀσαρσὶφ ἀπὸ τοῦ ἐν Ἡλιουπόλει θεοῦ Ὀσίρεως, ὡς μετέβη εἰς τοῦτο τὸ γένος, μετετέθη τοὔνομα καὶ προσηγορεύθη Μωυσῆς.”
+
+It was also reported that the priest, who ordained their polity and their laws, was by birth of Hellopolls, and his name Osarsiph, from Osyris, who was the god of Hellopolls; but that when he was gone over to these people, his name was changed, and he was called Moses.
+### c27
+[251]Ἃ μὲν οὖν Αἰγύπτιοι φέρουσι περὶ τῶν Ἰουδαίων ταῦτ᾽ ἐστὶ καὶ ἕτερα πλείονα, ἃ παρίημι συντομίας ἕνεκα. λέγει δὲ ὁ Μανεθὼς πάλιν, ὅτι μετὰ ταῦτα ἐπῆλθεν ὁ Ἀμένωφις ἀπὸ Αἰθιοπίας μετὰ μεγάλης δυνάμεως καὶ ὁ υἱὸς αὐτοῦ Ῥάμψης καὶ αὐτὸς ἔχων δύναμιν, καὶ συμβαλόντες οἱ δύο τοῖς ποιμέσι καὶ τοῖς μιαροῖς ἐνίκησαν αὐτοὺς καὶ πολλοὺς ἀποκτείναντες ἐδίωξαν αὐτοὺς ἄχρι τῶν ὁρίων τῆς Συρίας. 
+
+[251] This is what the Egyptians relate about the Jews, with much more, which I omit for the sake of brevity. But still Manetho goes on, that "after this, Amenophis returned back from Ethiopia with a great army, as did his son Rhampses with another army also, and that both of them joined battle with the shepherds and the polluted people, and beat them, and slew a great many of them, and pursued them to the bounds of Syria." 
+
+[252] ταῦτα μὲν καὶ τὰ τοιαῦτα Μανεθὼς συνέγραψεν. ὅτι δὲ ληρεῖ καὶ ψεύδεται περιφανῶς, ἐπιδείξω προδιαστειλάμενος ἐκεῖνο τῶν ὕστερον πρὸς ἄλλους λεχθησομένων ἕνεκα: δέδωκε γὰρ οὗτος ἡμῖν καὶ ὡμολόγηκεν ἐξ ἀρχῆς τε μὴ εἶναι τὸ γένος Αἰγυπτίους, ἀλλ᾽ αὐτοὺς ἔξωθεν ἐπελθόντας κρατῆσαι [253] τῆς Αἰγύπτου καὶ πάλιν ἐξ αὐτῆς ἀπελθεῖν. 
+
+These and the like accounts are written by Manetho. But I will demonstrate that he trifles, and tells arrant lies, after I have made a distinction which will relate to what I am going to say about him; for this Manetho had granted and confessed that this nation was not originally Egyptian, but that they had come from another country, and subdued Egypt, and then went away again out of it. 
+
+ὅτι δ᾽ οὐκ ἀνεμίχθησαν ἡμῖν ὕστερον τῶν Αἰγυπτίων οἱ τὰ σώματα λελωβημένοι, καὶ ὅτι ἐκ τούτων οὐκ ἦν Μωυσῆς ὁ τὸν λαὸν ἀγαγών, ἀλλὰ πολλαῖς ἐγεγόνει γενεαῖς πρότερον, ταῦτα πειράσομαι διὰ τῶν ὑπ᾽ αὐτοῦ λεγομένων ἐλέγχειν.
+
+But that. those Egyptians who were thus diseased in their bodies were not mingled with us afterward, and that Moses who brought the people out was not one of that company, but lived many generations earlier, I shall endeavor to demonstrate from Manetho's own accounts themselves.

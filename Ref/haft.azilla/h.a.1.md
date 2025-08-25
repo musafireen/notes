@@ -25,11 +25,18 @@ Al Mufaddal said "I read to Imam Ja´far al Sadiq (as):
 Imam Ja´far Sadiq said "O Mufaddal, if the people knew the origin of creation, no two people would differ in religion!"
 # 3
 
-قلت: سيدي ومولاي، لا علم لي إلا ما علمتني فسترها لي؟
+قلت: سيدي ومولاي، 
+
+Mufaddal said "My Master, 
+
+لا علم لي إلا ما علمتني 
 [[Qrsi#2:32]]
 
+I have no knowledge except that which you have taught me 
 
-Mufaddal said "My Master, I have no knowledge except that which you have taught me so explain it to me."
+فسترها لي؟
+
+so explain it to me."
 # 4
 فقال: إنها مفسرة في الْأية ولکن أكثر الناس لا يعلمون، :
 
@@ -47,10 +54,10 @@ Do you know that Punishment and Mercy are before the Gathering and before they a
 ## ref.6.1
 ![[Qrsi#36:67]]
 
-## unref.6.1
+## unr.6.1
 ## ref.6.2
 [[rkb]]
-## unref.6.2
+## unr.6.2
 # 7
 قلت: صدق سيدي ما عقابها إلا في يومي هذا؟
 
@@ -99,7 +106,7 @@ verily Allah the Magnificent created Light before Darkness! 
 ![[Qrsi#24:40]]
 
 ![[Qrsi#5:16]]
-## unref.10.1
+## unr.10.1
 وخلق الخير قبل الشر
 
 He created Good before Evil, 
@@ -124,7 +131,7 @@ He created the Souls before the Bodies, 
 
 ## ref.10.1.5
 ![[Qrsi#10:92]]
-## unref.10.1.5
+## unr.10.1.5
 
 وخلق الأبدان قبل الموت،
 
@@ -134,7 +141,7 @@ He created Bodies before Death, 
 ![[Qrsi#40:11]]
 
 ![[Qrsi#2:28]]
-## unref.10.1.6
+## unr.10.1.6
 
 وخلق الموت قبل الفناء،
 
@@ -142,7 +149,7 @@ He created Death before Dissolution, 
 
 ## ref.10.2
 ![[Qrsi#55:26]]![[Qrsi#55:27]]
-## unref.10.2
+## unr.10.2
 
 وخلق الفناء قبل التراكيب،
 
@@ -153,7 +160,7 @@ He created Dissolution before Incarnations.
 ![[Qrsi#82:8]]
 
 [[rkb]]
-## unref.10.3
+## unr.10.3
 وخلق التراكيب قبل القيامة،
 
 He created the Incarnations before Resurrection, 
@@ -168,7 +175,7 @@ He created the Incarnations before Resurrection, 
 
 ![[Qrsi#54:7]]
 
-## unref.10.4
+## unr.10.4
 
 and He created Resurrection before Dissemination 
 
@@ -182,7 +189,7 @@ He created Retribution before Regret 
 
 ## ref.10.5
 ![[Qrsi#10:54]]
-## unref.10.5
+## unr.10.5
 
 وخلق الندامة قبل الحشر  
 
@@ -194,7 +201,7 @@ and He created the Gathering before the Earth was switched with a different Eart
 
 ## ref.10.6
 ![[Qrsi#14:48]]![[Qrsi#14:49]]
-## unref.10.6
+## unr.10.6
 
 
 وبرزوا اللّه الواحد القهار.  
@@ -203,7 +210,7 @@ and Allah the One the Irresistible Emerged."
 
 ## ref.10.7
 ![[Qrsi#14:48]]
-## unref.10.7
+## unr.10.7
 # 11
 قلت: سيدي ما هو أول شيء خلقه اللّه؟  
 
@@ -233,7 +240,7 @@ He created it before He created Water and Earth and the Throne."
 ![[Qrsi#11:7]]
 
 [[Ersh]]
-## unref.13.1
+## unr.13.1
 # 14
 قلت: على أي مثال؟  
 
@@ -250,7 +257,7 @@ Imam Sadiq replied "In His image, 
 ![[Qrsi#82:8]]
 [[Swr]]
 
-## unref.14.1
+## unr.14.1
 # 15
 ثم قسمه إلى أظلة،   
 
@@ -258,7 +265,7 @@ then he split it into many shadows. 
 
 ## ref.15.1
 ![[Qrsi#16:48]]
-## unref.15.1
+## unr.15.1
 
 [[Zll]]
 # 16
@@ -275,7 +282,7 @@ and they saw that they were after they were not.
 ![[Qrsi#36:82]]
 
 ![[Qrsi#2:117]]
-## unref.17.1
+## unr.17.1
 # 18
 والهموا من المعرفة هذا المقدار،   
 
@@ -302,7 +309,7 @@ Imam Sadiq replied "He praised Himself and they praised Him, 
 
 ![[Qrsi#24:41]]
 
-## unref.22.1
+## unr.22.1
 # 23
 وحمد نفسه فحمدوه،   
 
@@ -368,7 +375,7 @@ Then Allah created for them the Seventh Heaven from the Seventh Sky, then Allah 
 
 ## ref.32.1
 ![[Qrsi#53:4]]![[Qrsi#53:5]]![[Qrsi#53:6]]![[Qrsi#53:7]]![[Qrsi#53:8]]![[Qrsi#53:9]]![[Qrsi#53:10]]![[Qrsi#53:12]]![[Qrsi#53:13]]![[Qrsi#53:14]]
-## unref.32.1
+## unr.32.1
 
 ![[Qrsi#53:15]]
 
@@ -393,7 +400,7 @@ Then He created the First Adam and took the covenant upon him and his offspring.
 
 
 ![[Qrsi#2:31]]
-## unref.33.1
+## unr.33.1
 # 34
 قالوا:  
 
@@ -408,7 +415,7 @@ and they responded saying:
 
 ## ref.35.2
 ![[Qrsi#2:33]]
-## unref.35.2
+## unr.35.2
 # 36
 فمن هناك وجبت الحجة على الخلق.   
 
@@ -420,7 +427,7 @@ and from here it became incumbent that there be a Proof (Hujjat) upon Creation.�
 ![[Qrsi#6:148]]![[Qrsi#6:149]]
 
 [[Hjj]]
-## unref.36.3
+## unr.36.3
 # 37
 ثم قال اللّه لهم   
 
@@ -475,7 +482,7 @@ And He created the Second Light better than the Third Light 
 and He created the Shadows from His will into what He wants. 
 ## ref.45.1
 ![[#ref.17.1]]
-## unref.45.1
+## unr.45.1
 # 46
 ثم أتبهم على مثال الأول،
 
@@ -540,7 +547,7 @@ _**"Hold firmly to what We have given you"**_
 
 ## ref.53.1
 ![[Qrsi#7:172]]
-## unref.53.1
+## unr.53.1
 # 54
 فصار ما بين سماء إلى سماء هو،   
 
