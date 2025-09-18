@@ -674,7 +674,7 @@ But thou, Bethlehem Ephratah, [though] thou be little among the thousands of Jud
 
 ## nahum
 
-## habakkuk
+## hbk
 
 ## zephaniah
 

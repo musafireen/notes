@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.evngl.sync-conflict-20250918-191912-5EPZTMQ.md",
+                "file": "002_quran/a'jamī/babil/nimrod/chaldees.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hab",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/bbl.evngl.sync-conflict-20250918-191912-5EPZTMQ.md",
+                "file": "002_quran/a'jamī/babil/nimrod/chaldees.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/bbl.evngl.sync-conflict-20250918-191912-5EPZTMQ.md",
+                "file": "002_quran/a'jamī/babil/nimrod/chaldees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/bbl.evngl.sync-conflict-20250918-191912-5EPZTMQ.md"
+                "file": "002_quran/a'jamī/babil/nimrod/chaldees.md"
               }
             }
           }
@@ -205,32 +206,33 @@
   },
   "active": "9933e842181072f7",
   "lastOpenFiles": [
+    "002_quran/a'jamī/babil/nimrod/~syncthing~chaldees.md.tmp",
+    "Ref/bbl.prop.nev.md",
+    "002_quran/a'jamī/babil/nimrod/chaldees.md",
+    "002_quran/a'jamī/babil/babel.md",
+    "Ref/bbl.tor.md",
+    "Ref/bbl.poetry.md",
+    "Ref/bbl.acts.md",
+    "Ref/bbl.epst.md",
+    "Ref/bbl.apcr.apcl.md",
+    "Ref/bbl.apcr.cath.md",
+    "Ref/bbl.apcr.eth.md",
+    "Ref/bbl.apcr.orth.md",
+    "Ref/bbl.john.md",
+    "002_quran/a'jamī/babil/~syncthing~babel.md.tmp",
     "Ref/bbl.evngl.md",
-    "Ref/bbl.evngl.sync-conflict-20250918-191912-5EPZTMQ.md",
+    "Ref/mdhvA.SDS.BAK.md",
+    "Ref/mdhvA.SDS.md",
+    "Ref/umm.kitab/u.k.5.md",
+    "Ref/bmvP.md",
+    "Ref/bbl.prop.ktv.md",
+    "Ref/bbl.hist.nev.md",
+    "Ref/bbl.hist.ktv.md",
+    "Ref/bbl.history.ketuvim.md",
     "002_quran/a'jamī/babil/babil.md",
+    "Ref/bbl.evngl.sync-conflict-20250918-191912-5EPZTMQ.md",
     "002_quran/a'jamī/babil/babil.sync-conflict-20250918-191910-5EPZTMQ.md",
     "Ref/bbl.tor.sync-conflict-20250918-191912-5EPZTMQ.md",
-    "Ref/bbl.prop.ktv.md",
-    "Ref/Qrsi.sync-conflict-20250918-191912-5EPZTMQ.md",
-    "Ref/haft.azilla/h.a.1.sync-conflict-20250918-191912-5EPZTMQ.md",
-    "Ref/RV.sync-conflict-20250918-191912-5EPZTMQ.md",
-    "Ref/Orig.sync-conflict-20250918-191912-5EPZTMQ.md",
-    "Ref/bbl.hist.nev.sync-conflict-20250918-191912-5EPZTMQ.md",
-    "Ref/tacit.sync-conflict-20250918-191912-5EPZTMQ.md",
-    "Ref/jsphs.sync-conflict-20250918-191911-5EPZTMQ.md",
-    "Ref/bbl.acts.sync-conflict-20250918-191911-5EPZTMQ.md",
-    "Ref/bbl.hist.ktv.md",
-    "Ref/bbl.prop.nev.sync-conflict-20250918-191911-5EPZTMQ.md",
-    "002_quran/kfr/shirk/idols.sync-conflict-20250918-191911-5EPZTMQ.md",
-    "002_quran/a'jamī/babil/nimrod/accad.md",
-    "002_quran/a'jamī/babil/nimrod/erech.md",
-    "002_quran/a'jamī/babil/babel.md",
-    "002_quran/a'jamī/babil/nebuchadnezzar.md",
-    "002_quran/a'jamī/babil/nimrod/ur_chaldees.md",
-    "002_quran/majuj/ajaj.md",
-    "002_quran/a'jamī/babil/nimrod/nimrod.md",
-    "002_quran/a'jamī/babil/nimrod/amorite.md",
-    "002_quran/a'jamī/babil/nimrod/Amraphel.md",
     "Ref/haft.azilla/~syncthing~h.a.1.md.tmp",
     "Ref/~syncthing~bbl.evngl.md.tmp",
     "Ref/~syncthing~RV.md.tmp",
@@ -239,8 +241,6 @@
     "002_quran/a'jamī/babil/nimrod/~syncthing~accad.md.tmp",
     "002_quran/a'jamī/babil/~syncthing~nebuchadnezzar.md.tmp",
     "Ref/~syncthing~jsphs.md.tmp",
-    "002_quran/kfr/shirk/~syncthing~idols.md.tmp",
-    "002_quran/a'jamī/babil/nimrod/~syncthing~amorite.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.png",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.png",
     "Ref/Pasted image 20241128002518.png",
