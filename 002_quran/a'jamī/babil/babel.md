@@ -219,114 +219,7 @@ And all the vessels of the house of God, great and small, and the treasures of t
 וַיֶּגֶל הַשְּׁאֵרִית מִן-הַחֶרֶב אֶל-בָּבֶל וַיִּהְיוּ-לוֺ וּלְבָנָיו לַעֲבָדִים עַד-מְלֹךְ מַלְכוּת פָּרָס	1x
 
 And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:
-# bbl.hist.ktv.ezra:1:11
-![[bbl.hist.ktv#ezra#c1#11]]
 
-כָּל-כֵּלִים לַזָּהָב וְלַכֶּסֶף חֲמֵשֶׁת אֲלָפִים וְאַרְבַּע מֵאוֺת הַכֹּל הֶעֱלָה שֵׁשְׁבַּצַּר עִם הֵעָלוֺת הַגּוֺלָה מִבָּבֶל לִירוּשָׁלִָם	1x
-
-All the vessels of gold and of silver [were] five thousand and four hundred. All [these] did Sheshbazzar bring up with [them of] the captivity that were brought up from Babylon unto Jerusalem.
-# bbl.hist.ktv.ezra:2:1
-![[bbl.hist.ktv#ezra#c2#1]]
-
-וְאֵלֶּה בְּנֵי הַמְּדִינָה הָעֹלִים מִשְּׁבִי הַגּוֺלָה אֲשֶׁר הֶגְלָה נבוכדנצור )נְבוּכַדְנֶצַּר( מֶלֶךְ-בָּבֶל לְבָבֶל וַיָּשׁוּבוּ לִירוּשָׁלִַם וִיהוּדָה אִישׁ לְעִירוֺ	2x
-
-Now these [are] the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;
-# bbl.hist.ktv.ezra:5:12
-![[bbl.hist.ktv#ezra#c5#12]]
-
-לָהֵן מִן-דִּי הַרְגִּזוּ אֲבָהָתַנָא לֶאֱלָהּ שְׁמַיָּא יְהַב הִמּוֺ בְּיַד נְבוּכַדְנֶצַּר מֶלֶךְ-בָּבֶל כסדיא )כַּסְדָּאָה( וּבַיְתָה דְנָה סַתְרֵהּ וְעַמָּה הַגְלִי לְבָבֶל	2x
-
-But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon.
-# bbl.hist.ktv.ezra:5:13
-![[bbl.hist.ktv#ezra#c5#13]]
-
-בְּרַם בִּשְׁנַת חֲדָה לְכוֺרֶשׁ מַלְכָּא דִּי בָבֶל כּוֺרֶשׁ מַלְכָּא שָׂם טְעֵם בֵּית-אֱלָהָא דְנָה לִבְּנֵא	1x
-
-But in the first year of Cyrus the king of Babylon [the same] king Cyrus made a decree to build this house of God.
-# bbl.hist.ktv.ezra:5:14
-![[bbl.hist.ktv#ezra#c5#14]]
-
-וְאַף מָאנַיָּא דִי-בֵית-אֱלָהָא דִּי דַהֲבָה וְכַסְפָּא דִּי נְבוּכַדְנֶצַּר הַנְפֵּק מִן-הֵיכְלָא דִּי בִירוּשְׁלֶם וְהֵיבֵל הִמּוֺ לְהֵיכְלָא דִּי בָבֶל הַנְפֵּק הִמּוֺ כּוֺרֶשׁ מַלְכָּא מִן-הֵיכְלָא דִּי בָבֶל וִיהִיבוּ לְשֵׁשְׁבַּצַּר שְׁמֵהּ דִּי פֶחָה שָׂמֵהּ	2x
-
-And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that [was] in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto [one], whose name [was] Sheshbazzar, whom he had made governor;
-# bbl.hist.ktv.ezra:5:17
-![[bbl.hist.ktv#ezra#c5#17]]
-
-וּכְעַן הֵן עַל-מַלְכָּא טָב יִתְבַּקַּר בְּבֵית גִּנְזַיָּא דִּי-מַלְכָּא תַמָּה דִּי בְּבָבֶל הֵן אִיתַי דִּי-מִן-כּוֺרֶשׁ מַלְכָּא שִׂים טְעֵם לְמִבְנֵא בֵּית-אֱלָהָא דֵךְ בִּירוּשְׁלֶם וּרְעוּת מַלְכָּא עַל-דְּנָה יִשְׁלַח עֲלֶינָא	1x
-
-Now therefore, if [it seem] good to the king, let there be search made in the king´s treasure house, which [is] there at Babylon, whether it be [so], that a decree was made of Cyrus the king to build this house of God at Jerusalem, and let the king send his pleasure to us concerning this matter.
-# bbl.hist.ktv.ezra:6:1
-![[bbl.hist.ktv#ezra#c6#1]]
-
-בֵּאדַיִן דָּרְיָוֶשׁ מַלְכָּא שָׂם טְעֵם וּבַקַּרוּ בְּבֵית סִפְרַיָּא דִּי גִנְזַיָּא מְהַחֲתִין תַּמָּה בְּבָבֶל	1x
-
-Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon. (rolls: Chaldee, books)
-# bbl.hist.ktv.ezra:6:5
-![[bbl.hist.ktv#ezra#c6#5]]
-
-וְאַף מָאנֵי בֵית-אֱלָהָא דִּי דַהֲבָה וְכַסְפָּא דִּי נְבוּכַדְנֶצַּר הַנְפֵּק מִן-הֵיכְלָא דִי-בִירוּשְׁלֶם וְהֵיבֵל לְבָבֶל יַהֲתִיבוּן וִיהָךְ לְהֵיכְלָא דִי-בִירוּשְׁלֶם לְאַתְרֵהּ וְתַחֵת בְּבֵית אֱלָהָא	1x
-
-And also let the golden and silver vessels of the house of God, which Nebuchadnezzar took forth out of the temple which [is] at Jerusalem, and brought unto Babylon, be restored, and brought again unto the temple which [is] at Jerusalem, [every one] to his place, and place [them] in the house of God.
-# bbl.hist.ktv.ezra:7:6
-![[bbl.hist.ktv#ezra#c7#6]]
-
-הוּא עֶזְרָא עָלָה מִבָּבֶל וְהוּא-סֹפֵר מָהִיר בְּתוֺרַת מֹשֶׁה אֲשֶׁר-נָתַן יְהוָה אֱלֹהֵי יִשְׂרָאֵל וַיִּתֶּן-לוֺ הַמֶּלֶךְ כְּיַד-יְהוָה אֱלֹהָיו עָלָיו כֹּל בַּקָּשָׁתוֺ	1x
-
-This Ezra went up from Babylon; and he [was] a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.
-# bbl.hist.ktv.ezra:7:9
-![[bbl.hist.ktv#ezra#c7#9]]
-
-כִּי בְּאֶחָד לַחֹדֶשׁ הָרִאשׁוֺן הוּא יְסֻד הַמַּעֲלָה מִבָּבֶל וּבְאֶחָד לַחֹדֶשׁ הַחֲמִישִׁי בָּא אֶל-יְרוּשָׁלִַם כְּיַד-אֱלֹהָיו הַטּוֺבָה עָלָיו	1x
-
-For upon the first [day] of the first month began he to go up from Babylon, and on the first [day] of the fifth month came he to Jerusalem, according to the good hand of his God upon him.
-# bbl.hist.ktv.ezra:7:16
-![[bbl.hist.ktv#ezra#c7#16]]
-
-וְכֹל כְּסַף וּדְהַב דִּי תְהַשְׁכַּח בְּכֹל מְדִינַת בָּבֶל עִם הִתְנַדָּבוּת עַמָּא וְכָהֲנַיָּא מִתְנַדְּבִין לְבֵית אֱלָהֲהֹם דִּי בִירוּשְׁלֶם	1x
-
-And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which [is] in Jerusalem:
-# bbl.hist.ktv.ezra:8:1
-![[bbl.hist.ktv#ezra#c8#1]]
-
-וְאֵלֶּה רָאשֵׁי אֲבֹתֵיהֶם וְהִתְיַחְשָׂם הָעֹלִים עִמִּי בְּמַלְכוּת אַרְתַּחְשַׁסְתְּא הַמֶּלֶךְ מִבָּבֶל	1x
-
-These [are] now the chief of their fathers, and [this is] the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.
-# bbl.hist.ktv.nehemiah:7:6
-![[bbl.hist.ktv#nehemiah#c7#6]]
-
-אֵלֶּה בְּנֵי הַמְּדִינָה הָעֹלִים מִשְּׁבִי הַגּוֺלָה אֲשֶׁר הֶגְלָה נְבוּכַדְנֶצַּר מֶלֶךְ בָּבֶל וַיָּשׁוּבוּ לִירוּשָׁלִַם וְלִיהוּדָה אִישׁ לְעִירוֺ	1x
-
-These [are] the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city;
-# bbl.hist.ktv.nehemiah:13:6
-![[bbl.hist.ktv#nehemiah#c13#6]]
-
-וּבְכָל-זֶה לֹא הָיִיתִי בִּירוּשָׁלִָם כִּי בִּשְׁנַת שְׁלֹשִׁים וּשְׁתַּיִם לְאַרְתַּחְשַׁסְתְּא מֶלֶךְ-בָּבֶל בָּאתִי אֶל-הַמֶּלֶךְ וּלְקֵץ יָמִים נִשְׁאַלְתִּי מִן-הַמֶּלֶךְ	1x
-
-But in all this [time] was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I unto the king, and after certain days obtained I leave of the king: (after…: Heb. at the end of days)
-# bbl.hist.ktv.esther:2:6
-![[bbl.hist.ktv#esther#c2#6]]
-
-אֲשֶׁר הָגְלָה מִירוּשָׁלַיִם עִם-הַגֹּלָה אֲשֶׁר הָגְלְתָה עִם יְכָנְיָה מֶלֶךְ-יְהוּדָה אֲשֶׁר הֶגְלָה נְבוּכַדְנֶצַּר מֶלֶךְ בָּבֶל	1x
-
-Who had been carried away from Jerusalem with the captivity which had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.
-# bbl.poetry.psalms:87:4
-![[bbl.poetry#psalms#c87#4]]
-
-אַזְכִּיר רַהַב וּבָבֶל לְיֹדְעָי הִנֵּה פְלֶשֶׁת וְצֹר עִם-כּוּשׁ זֶה יֻלַּד-שָׁם	1x
-
-I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this [man] was born there.
-# bbl.poetry.psalms:137:1
-![[bbl.poetry#psalms#c137#1]]
-
-עַל נַהֲרוֺת בָּבֶל שָׁם יָשַׁבְנוּ גַּם-בָּכִינוּ בְּזָכְרֵנוּ אֶת-צִיּוֺן	1x
-
-By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
-# bbl.poetry.psalms:137:8
-![[bbl.poetry#psalms#c137#8]]
-
-בַּת-בָּבֶל הַשְּׁדוּדָה אַשְׁרֵי שֶׁיְשַׁלֶּם-לָךְ אֶת-גְּמוּלֵךְ שֶׁגָּמַלְתְּ לָנוּ	1x
-
-O daughter of Babylon, who art to be destroyed; happy [shall he be], that rewardeth thee as thou hast served us.(destroyed: Heb. wasted)
 # bbl.prop.nev.is:13:1
 ![[bbl.prop.nev#is#c13#1]]
 
@@ -1431,12 +1324,122 @@ Deliver thyself, O Zion, that dwellest [with] the daughter of Babylon.
 לָקוֺחַ מֵאֵת הַגּוֺלָה מֵחֶלְדַּי וּמֵאֵת טוֺבִיָּה וּמֵאֵת יְדַעְיָה וּבָאתָ אַתָּה בַּיּוֺם הַהוּא וּבָאתָ בֵּית יֹאשִׁיָּה בֶן-צְפַנְיָה אֲשֶׁר-בָּאוּ מִבָּבֶל	1x
 
 Take of [them of] the captivity, [even] of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come thou the same day, and go into the house of Josiah the son of Zephaniah;
+
+# bbl.hist.ktv.ezra:1:11
+![[bbl.hist.ktv#ezra#c1#11]]
+
+כָּל-כֵּלִים לַזָּהָב וְלַכֶּסֶף חֲמֵשֶׁת אֲלָפִים וְאַרְבַּע מֵאוֺת הַכֹּל הֶעֱלָה שֵׁשְׁבַּצַּר עִם הֵעָלוֺת הַגּוֺלָה מִבָּבֶל לִירוּשָׁלִָם	1x
+
+All the vessels of gold and of silver [were] five thousand and four hundred. All [these] did Sheshbazzar bring up with [them of] the captivity that were brought up from Babylon unto Jerusalem.
+# bbl.hist.ktv.ezra:2:1
+![[bbl.hist.ktv#ezra#c2#1]]
+
+וְאֵלֶּה בְּנֵי הַמְּדִינָה הָעֹלִים מִשְּׁבִי הַגּוֺלָה אֲשֶׁר הֶגְלָה נבוכדנצור )נְבוּכַדְנֶצַּר( מֶלֶךְ-בָּבֶל לְבָבֶל וַיָּשׁוּבוּ לִירוּשָׁלִַם וִיהוּדָה אִישׁ לְעִירוֺ	2x
+
+Now these [are] the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;
 # bbl.hist.ktv.ezra:4:9
 ![[bbl.hist.ktv#ezra#c4#9]]
 
 אֱדַיִן רְחוּם בְּעֵל-טְעֵם וְשִׁמְשַׁי סָפְרָא וּשְׁאָר כְּנָוָתְהוֺן דִּינָיֵא וַאֲפַרְסַתְכָיֵא טַרְפְּלָיֵא אֲפָרְסָיֵא ארכוי )אַרְכְּוָיֵא( בָבְלָיֵא שׁוּשַׁנְכָיֵא דהוא )דֶּהָיֵא( עֵלְמָיֵא	1x
 
 Then [wrote] Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, [and] the Elamites,
+# bbl.hist.ktv.ezra:5:12
+![[bbl.hist.ktv#ezra#c5#12]]
+
+לָהֵן מִן-דִּי הַרְגִּזוּ אֲבָהָתַנָא לֶאֱלָהּ שְׁמַיָּא יְהַב הִמּוֺ בְּיַד נְבוּכַדְנֶצַּר מֶלֶךְ-בָּבֶל כסדיא )כַּסְדָּאָה( וּבַיְתָה דְנָה סַתְרֵהּ וְעַמָּה הַגְלִי לְבָבֶל	2x
+
+But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon.
+# bbl.hist.ktv.ezra:5:13
+![[bbl.hist.ktv#ezra#c5#13]]
+
+בְּרַם בִּשְׁנַת חֲדָה לְכוֺרֶשׁ מַלְכָּא דִּי בָבֶל כּוֺרֶשׁ מַלְכָּא שָׂם טְעֵם בֵּית-אֱלָהָא דְנָה לִבְּנֵא	1x
+
+But in the first year of Cyrus the king of Babylon [the same] king Cyrus made a decree to build this house of God.
+# bbl.hist.ktv.ezra:5:14
+![[bbl.hist.ktv#ezra#c5#14]]
+
+וְאַף מָאנַיָּא דִי-בֵית-אֱלָהָא דִּי דַהֲבָה וְכַסְפָּא דִּי נְבוּכַדְנֶצַּר הַנְפֵּק מִן-הֵיכְלָא דִּי בִירוּשְׁלֶם וְהֵיבֵל הִמּוֺ לְהֵיכְלָא דִּי בָבֶל הַנְפֵּק הִמּוֺ כּוֺרֶשׁ מַלְכָּא מִן-הֵיכְלָא דִּי בָבֶל וִיהִיבוּ לְשֵׁשְׁבַּצַּר שְׁמֵהּ דִּי פֶחָה שָׂמֵהּ	2x
+
+And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that [was] in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto [one], whose name [was] Sheshbazzar, whom he had made governor;
+# bbl.hist.ktv.ezra:5:17
+![[bbl.hist.ktv#ezra#c5#17]]
+
+וּכְעַן הֵן עַל-מַלְכָּא טָב יִתְבַּקַּר בְּבֵית גִּנְזַיָּא דִּי-מַלְכָּא תַמָּה דִּי בְּבָבֶל הֵן אִיתַי דִּי-מִן-כּוֺרֶשׁ מַלְכָּא שִׂים טְעֵם לְמִבְנֵא בֵּית-אֱלָהָא דֵךְ בִּירוּשְׁלֶם וּרְעוּת מַלְכָּא עַל-דְּנָה יִשְׁלַח עֲלֶינָא	1x
+
+Now therefore, if [it seem] good to the king, let there be search made in the king´s treasure house, which [is] there at Babylon, whether it be [so], that a decree was made of Cyrus the king to build this house of God at Jerusalem, and let the king send his pleasure to us concerning this matter.
+# bbl.hist.ktv.ezra:6:1
+![[bbl.hist.ktv#ezra#c6#1]]
+
+בֵּאדַיִן דָּרְיָוֶשׁ מַלְכָּא שָׂם טְעֵם וּבַקַּרוּ בְּבֵית סִפְרַיָּא דִּי גִנְזַיָּא מְהַחֲתִין תַּמָּה בְּבָבֶל	1x
+
+Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon. (rolls: Chaldee, books)
+# bbl.hist.ktv.ezra:6:5
+![[bbl.hist.ktv#ezra#c6#5]]
+
+וְאַף מָאנֵי בֵית-אֱלָהָא דִּי דַהֲבָה וְכַסְפָּא דִּי נְבוּכַדְנֶצַּר הַנְפֵּק מִן-הֵיכְלָא דִי-בִירוּשְׁלֶם וְהֵיבֵל לְבָבֶל יַהֲתִיבוּן וִיהָךְ לְהֵיכְלָא דִי-בִירוּשְׁלֶם לְאַתְרֵהּ וְתַחֵת בְּבֵית אֱלָהָא	1x
+
+And also let the golden and silver vessels of the house of God, which Nebuchadnezzar took forth out of the temple which [is] at Jerusalem, and brought unto Babylon, be restored, and brought again unto the temple which [is] at Jerusalem, [every one] to his place, and place [them] in the house of God.
+# bbl.hist.ktv.ezra:7:6
+![[bbl.hist.ktv#ezra#c7#6]]
+
+הוּא עֶזְרָא עָלָה מִבָּבֶל וְהוּא-סֹפֵר מָהִיר בְּתוֺרַת מֹשֶׁה אֲשֶׁר-נָתַן יְהוָה אֱלֹהֵי יִשְׂרָאֵל וַיִּתֶּן-לוֺ הַמֶּלֶךְ כְּיַד-יְהוָה אֱלֹהָיו עָלָיו כֹּל בַּקָּשָׁתוֺ	1x
+
+This Ezra went up from Babylon; and he [was] a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.
+# bbl.hist.ktv.ezra:7:9
+![[bbl.hist.ktv#ezra#c7#9]]
+
+כִּי בְּאֶחָד לַחֹדֶשׁ הָרִאשׁוֺן הוּא יְסֻד הַמַּעֲלָה מִבָּבֶל וּבְאֶחָד לַחֹדֶשׁ הַחֲמִישִׁי בָּא אֶל-יְרוּשָׁלִַם כְּיַד-אֱלֹהָיו הַטּוֺבָה עָלָיו	1x
+
+For upon the first [day] of the first month began he to go up from Babylon, and on the first [day] of the fifth month came he to Jerusalem, according to the good hand of his God upon him.
+# bbl.hist.ktv.ezra:7:16
+![[bbl.hist.ktv#ezra#c7#16]]
+
+וְכֹל כְּסַף וּדְהַב דִּי תְהַשְׁכַּח בְּכֹל מְדִינַת בָּבֶל עִם הִתְנַדָּבוּת עַמָּא וְכָהֲנַיָּא מִתְנַדְּבִין לְבֵית אֱלָהֲהֹם דִּי בִירוּשְׁלֶם	1x
+
+And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which [is] in Jerusalem:
+# bbl.hist.ktv.ezra:8:1
+![[bbl.hist.ktv#ezra#c8#1]]
+
+וְאֵלֶּה רָאשֵׁי אֲבֹתֵיהֶם וְהִתְיַחְשָׂם הָעֹלִים עִמִּי בְּמַלְכוּת אַרְתַּחְשַׁסְתְּא הַמֶּלֶךְ מִבָּבֶל	1x
+
+These [are] now the chief of their fathers, and [this is] the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.
+# bbl.hist.ktv.nehemiah:7:6
+![[bbl.hist.ktv#nehemiah#c7#6]]
+
+אֵלֶּה בְּנֵי הַמְּדִינָה הָעֹלִים מִשְּׁבִי הַגּוֺלָה אֲשֶׁר הֶגְלָה נְבוּכַדְנֶצַּר מֶלֶךְ בָּבֶל וַיָּשׁוּבוּ לִירוּשָׁלִַם וְלִיהוּדָה אִישׁ לְעִירוֺ	1x
+
+These [are] the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city;
+# bbl.hist.ktv.nehemiah:13:6
+![[bbl.hist.ktv#nehemiah#c13#6]]
+
+וּבְכָל-זֶה לֹא הָיִיתִי בִּירוּשָׁלִָם כִּי בִּשְׁנַת שְׁלֹשִׁים וּשְׁתַּיִם לְאַרְתַּחְשַׁסְתְּא מֶלֶךְ-בָּבֶל בָּאתִי אֶל-הַמֶּלֶךְ וּלְקֵץ יָמִים נִשְׁאַלְתִּי מִן-הַמֶּלֶךְ	1x
+
+But in all this [time] was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I unto the king, and after certain days obtained I leave of the king: (after…: Heb. at the end of days)
+# bbl.hist.ktv.esther:2:6
+![[bbl.hist.ktv#esther#c2#6]]
+
+אֲשֶׁר הָגְלָה מִירוּשָׁלַיִם עִם-הַגֹּלָה אֲשֶׁר הָגְלְתָה עִם יְכָנְיָה מֶלֶךְ-יְהוּדָה אֲשֶׁר הֶגְלָה נְבוּכַדְנֶצַּר מֶלֶךְ בָּבֶל	1x
+
+Who had been carried away from Jerusalem with the captivity which had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.
+# bbl.poetry.psalms:87:4
+![[bbl.poetry#psalms#c87#4]]
+
+אַזְכִּיר רַהַב וּבָבֶל לְיֹדְעָי הִנֵּה פְלֶשֶׁת וְצֹר עִם-כּוּשׁ זֶה יֻלַּד-שָׁם	1x
+
+I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this [man] was born there.
+# bbl.poetry.psalms:137:1
+![[bbl.poetry#psalms#c137#1]]
+
+עַל נַהֲרוֺת בָּבֶל שָׁם יָשַׁבְנוּ גַּם-בָּכִינוּ בְּזָכְרֵנוּ אֶת-צִיּוֺן	1x
+
+By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
+# bbl.poetry.psalms:137:8
+![[bbl.poetry#psalms#c137#8]]
+
+בַּת-בָּבֶל הַשְּׁדוּדָה אַשְׁרֵי שֶׁיְשַׁלֶּם-לָךְ אֶת-גְּמוּלֵךְ שֶׁגָּמַלְתְּ לָנוּ	1x
+
+O daughter of Babylon, who art to be destroyed; happy [shall he be], that rewardeth thee as thou hast served us.(destroyed: Heb. wasted)
+
 # bbl.prop.nev.ezk:23:15
 ![[bbl.prop.nev#ezk#c23#15]]
 

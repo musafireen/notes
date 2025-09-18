@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/a'jamī/babil/nimrod/chaldees.md",
+                "file": "002_quran/a'jamī/babil/babel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chaldees"
+              "title": "babel"
             }
           },
           {
@@ -148,7 +148,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "nehemia",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -170,7 +170,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "bd9c17bdc3242e2b",
@@ -214,7 +214,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "002_quran/a'jamī/babil/nimrod/chaldees.md",
+            "file": "002_quran/a'jamī/babil/babel.md",
             "followCursor": false,
             "showSearch": true,
             "searchQuery": ""
@@ -235,20 +235,20 @@
   },
   "active": "f949327489917808",
   "lastOpenFiles": [
+    "002_quran/a'jamī/babil/nimrod/chaldees.md",
     "002_quran/a'jamī/babil/babel.md",
+    "002_quran/a'jamī/babil/nimrod/ur_chaldees.md",
     "Ref/bbl.prop.nev.md",
     "002_quran/a'jamī/babil/nebuchadnezzar.md",
     "002_quran/a'jamī/babil/babil.md",
     "Ref/bbl.tor.md",
     "002_quran/a'jamī/babil/nimrod/Amraphel.md",
     "Ref/bbl.hist.ktv.md",
-    "002_quran/a'jamī/babil/nimrod/chaldees.md",
     "Ref/bbl.prop.ktv.md",
     "Ref/tacit.md",
     "Ref/Orig.md",
     "002_quran/kfr/shirk/idols.md",
     "Ref/bbl.hist.nev.md",
-    "002_quran/a'jamī/babil/nimrod/ur_chaldees.md",
     "_.trash",
     "002_quran/majuj/ajaj.md",
     "002_quran/a'jamī/babil/nimrod/erech.md",

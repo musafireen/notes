@@ -1,4 +1,12 @@
 
+# bbl.tor.gen:11:28
+![[bbl.tor#gen#c11#28]]
+
+# bbl.tor.gen:11:31
+![[bbl.tor#gen#c11#31]]
+# bbl.tor.gen:15:7
+![[bbl.tor#gen#c15#7]]
+
 # bbl.tor.gen:31:47
 ![[bbl.tor#gen#c31#47]]
 
@@ -410,6 +418,10 @@ Then Darius the king made a decree, and search was made in the house of the roll
 וּמִנִּי שִׂים טְעֵם לְמָא דִי-תַעַבְדוּן עִם-שָׂבֵי יְהוּדָיֵא אִלֵּךְ לְמִבְנֵא בֵּית-אֱלָהָא דֵךְ וּמִנִּכְסֵי מַלְכָּא דִּי מִדַּת עֲבַר נַהֲרָה אָסְפַּרְנָא נִפְקְתָא תֶּהֱוֵא מִתְיַהֲבָא לְגֻבְרַיָּא אִלֵּךְ דִּי-לָא לְבַטָּלָא
 
 Moreover I make a decree what ye shall do to the elders of these Jews for the building of this house of God: that of the king´s goods, [even] of the tribute beyond the river, forthwith expenses be given unto these men, that they be not hindered. (I make…: Chaldee, by me a decree is made)
+
+# bbl.hist.ktv.neh:9:7
+![[bbl.hist.ktv#nehemiah#c9#7]]
+
 # bbl.prop.ktv.dan:2:10
 ![[bbl.prop.ktv#daniel#c2#10]]
 
