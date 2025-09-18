@@ -50,17 +50,21 @@
             }
           },
           {
-            "id": "ea66345810c048b8",
+            "id": "32b69d7a5c1611d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ref/bbl.evngl.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "bbl.evngl"
             }
           },
           {
-            "id": "32b69d7a5c1611d8",
+            "id": "a8ec24fdbacf08c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,9 +76,51 @@
               "icon": "lucide-file",
               "title": "temp"
             }
+          },
+          {
+            "id": "bf5c8f18a2fae296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref/RV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RV"
+            }
+          },
+          {
+            "id": "f949327489917808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002_quran/a'jamī/babil/babel.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "babel"
+            }
+          },
+          {
+            "id": "4db912d930a9fe6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002_quran/majuj/ajaj.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ajaj"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -102,8 +148,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "manetho",
-            "matchingCase": false,
+            "query": "",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -124,7 +170,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "bd9c17bdc3242e2b",
@@ -168,7 +214,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "nature_archaeology/species.md",
+            "file": "002_quran/a'jamī/babil/babel.md",
             "followCursor": false,
             "showSearch": true,
             "searchQuery": ""
@@ -187,25 +233,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "32b69d7a5c1611d8",
+  "active": "f949327489917808",
   "lastOpenFiles": [
-    "000_temp/temp.md",
-    "Ref/haft.azilla/h.a.1.md",
+    "Ref/bbl.prop.nev.md",
+    "002_quran/a'jamī/babil/babel.md",
+    "002_quran/a'jamī/babil/nebuchadnezzar.md",
+    "002_quran/a'jamī/babil/babil.md",
+    "Ref/bbl.tor.md",
+    "002_quran/a'jamī/babil/nimrod/Amraphel.md",
+    "Ref/bbl.hist.ktv.md",
+    "002_quran/a'jamī/babil/nimrod/chaldees.md",
+    "Ref/bbl.prop.ktv.md",
+    "Ref/tacit.md",
+    "Ref/Orig.md",
+    "002_quran/kfr/shirk/idols.md",
+    "Ref/bbl.hist.nev.md",
+    "002_quran/a'jamī/babil/nimrod/ur_chaldees.md",
+    "_.trash",
+    "002_quran/majuj/ajaj.md",
+    "002_quran/a'jamī/babil/nimrod/erech.md",
+    "002_quran/a'jamī/babil/nimrod/shinar.md",
+    "002_quran/a'jamī/babil/furat/furat.md",
+    "002_quran/a'jamī/babil/nimrod/akkad.md",
+    "002_quran/a'jamī/babil/nimrod/nimrod.md",
+    "002_quran/a'jamī/babil/nimrod/accad.md",
+    "002_quran/a'jamī/babil/nimrod/assur.md",
+    "002_quran/a'jamī/babil/nimrod/amorite.md",
+    "002_quran/a'jamī/babil/nimrod/sumer.md",
+    "002_quran/a'jamī/babil/nimrod",
     "Ref/Qrsi.md",
-    "002_quran/zll/haft_azilla.md",
-    "nature_archaeology/species.md",
-    "Ref/RV.md",
-    "Ref/pl.crit.md",
-    "003_Ling/bangla/Bengali_sanskrit_non_sanatana.md",
-    "Ref/hsd.md",
-    "Ref/pl.tim.md",
-    "Ref/jsphs.md",
-    "Ref/diodSic.biblHist.md",
-    "Ref/hdt.hist.md",
-    "003_Ling/english/English cognate poems (latin, greek).md",
-    "003_Ling/bangla/Bengali_sanskrit.md",
-    "002_quran/dhiyarah/abu.md",
-    "002_quran/taam/taam.md",
-    "001_eskaton/001_chhatak/kalighat/Brahmanic/pauranic.md"
+    "002_quran/majuj/ya'juj_ma'juj.md"
   ]
 }

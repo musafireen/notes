@@ -243,7 +243,31 @@ He says also, that Solomon, who was then king of Jerusalem, sent riddles to Hira
 ὁμολογήσαντα δὲ τὸν Εἴρωμον καὶ μὴ δυνηθέντα λῦσαι τὰ αἰνίγματα πολλὰ τῶν χρημάτων εἰς τὸ ἐπιζήμιον ἀναλῶσαι: εἶτα δὲ Ἀβδήμονά τινα Τύριον ἄνδρα τὰ προτεθέντα λῦσαι καὶ αὐτὸν ἄλλα προβαλεῖν, ἃ μὴ λύσαντα τὸν Σολόμωνα πολλὰ τῷ Εἰρώμῳ προσαποτῖσαι χρήματα.’ καὶ Δῖος μὲν οὕτως εἴρηκεν.
 
 and when he was not able to solve the riddles proposed by Solomon, he paid a great deal of money for his fine; but that he afterward did solve the proposed riddles by means of Abdemon, a man of Tyre; and that Hiram proposed other riddles, which, when Solomon could not solve, he paid back a great deal of money to Hiram." This it is which Dius wrote.
+## b13
+### 10.5
+Ὑρκανῷ δὲ φθόνον ἐκίνησεν παρὰ τῶν Ἰουδαίων ἡ εὐπραγία, μάλιστα δ᾽ οἱ Φαρισαῖοι κακῶς πρὸς αὐτὸν εἶχον, αἵρεσις ὄντες μία τῶν Ἰουδαίων, ὡς καὶ ἐν τοῖς ἐπάνω δεδηλώκαμεν. τοσαύτην δὲ ἔχουσι τὴν ἰσχὺν παρὰ τῷ πλήθει, ὡς καὶ κατὰ βασιλέως τι λέγοντες καὶ κατ᾽ ἀρχιερέως εὐθὺς πιστεύεσθαι. 
 
+[288] However, this prosperous state of affairs moved the Jews to envy Hyrcanus; but they that were the worst disposed to him were the Pharisees, 1 who were one of the sects of the Jews, as we have informed you already. These have so great a power over the multitude, that when they say any thing against the king, or against the high priest, they are presently believed. 
+
+[289] μαθητὴς δὲ αὐτῶν ἦν καὶ Ὑρκανὸς καὶ σφόδρα ὑπ᾽ αὐτῶν ἠγαπᾶτο. καὶ δὴ καλέσας αὐτοὺς ἐφ᾽ ἑστίασιν καὶ φιλοφρόνως ὑποδεξάμενος, ἐπεὶ σφόδρα ἡδομένους ἑώρα, λέγειν ἤρξατο πρὸς αὐτούς, ὡς ἴσασιν μὲν αὐτὸν βουλόμενον εἶναι δίκαιον καὶ πάντα ποιοῦντα ἐξ ὧν ἀρέσειεν ἂν τῷ θεῷ καὶ αὐτοῖς: 
+
+Now Hyrcanus was a disciple of theirs, and greatly beloved by them. And when he once invited them to a feast, and entertained them very kindly, when he saw them in a good humor, he began to say to them, that they knew he was desirous to be a righteous man, and to do all things whereby he might please God, 
+
+[290] οἱ γὰρ Φαρισαῖοι φιλοσοφοῦσιν: 
+
+which was the profession of the Pharisees also. 
+
+ἠξίου γε μήν, εἰ βλέπουσιν αὐτὸν ἁμαρτάνοντα καὶ τῆς ὁδοῦ τῆς δικαίας ἐκτρεπόμενον εἰς αὐτὴν ἐπαναγαγεῖν καὶ ἐπανορθοῦν. τῶν δὲ μαρτυρησάντων αὐτῷ πᾶσαν ἀρετὴν ὁ μὲν ἥσθη τοῖς ἐπαίνοις, 
+
+However, he desired, that if they observed him offending in any point, and going out of the right way, they would call him back and correct him. On which occasion they attested to his being entirely virtuous; with which commendation he was well pleased. 
+
+[291] εἷς δέ τις τῶν κατακειμένων Ἐλεάζαρος ὄνομα, κακοήθης ὢν φύσει καὶ στάσει χαίρων ‘ἐπεί, φησίν, ἠξίωσας γνῶναι τὴν ἀλήθειαν, θέλεις δὲ εἶναι δίκαιος, τὴν ἀρχιερωσύνην ἀπόθου, καὶ μόνον ἀρκείτω σοι τὸ ἄρχειν τοῦ λαοῦ.’ τὴν δ᾽ αἰτίαν αὐτοῦ πυθομένου, 
+
+But still there was one of his guests there, whose name was Eleazar, a man of an ill temper, and delighting in seditious practices. This man said," Since thou desirest to know the truth, if thou wilt be righteous in earnest, lay down the high priesthood, and content thyself with the civil government of the people," 
+
+[292] δι᾽ ἣν ἀποθοῖτο τὴν ἀρχιερωσύνην ‘ὅτι, φησίν, ἀκούομεν παρὰ τῶν πρεσβυτέρων αἰχμάλωτόν σου γεγονέναι τὴν μητέρα βασιλεύοντος Ἀντιόχου τοῦ Ἐπιφανοῦς.’ ψευδὴς λόγος ἦν: καὶ πρὸς αὐτὸν Ὑρκανὸς παρωξύνθη καὶ πάντες δ᾽ οἱ Φαρισαῖοι σφοδρῶς ἠγανάκτησαν. 
+
+And when he desired to know for what cause he ought to lay down the high priesthood, the other replied, "We have heard it from old men, that thy mother had been a captive under the reign of Antiochus Epiphanes. "This story was false, and Hyrcanus was provoked against him; and all the Pharisees had a very great indignation against him.
 # bell
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0147%3Abook%3D7%3Awhiston+chapter%3D7%3Awhiston+section%3D4
 ## b7

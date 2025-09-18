@@ -1059,6 +1059,14 @@ Verily you have made me, Indra, your associate when grinding the head of the (d�
 The (dāsa) slave (Namuci) made (strī) women his (āyudha) weapons what will his (abalā) feminine (senā) hosts do unto me? The two his (khyā) best (dhenā) beloved, (Indra) confined in the inner apartments, and then (prai) went forth to (yudhā) combat against the Dasyus.
 ## 5.40
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc833204.html
+#### 5
+यत्त्वा॑ सूर्य॒ स्व॑र्भानु॒स्तम॒सावि॑ध्यदासु॒रः । 
+
+When, [Sūrya](https://www.wisdomlib.org/definition/surya#hinduism "show Sūrya definitions"), the son of the [Asura](https://www.wisdomlib.org/definition/asura#hinduism "show Asura definitions") [Svarbhānu](https://www.wisdomlib.org/definition/svarbhanu#hinduism "show Svarbhānu definitions"), overspread you with darkness, 
+
+अक्षे॑त्रवि॒द्यथा॑ मु॒ग्धो भुव॑नान्यदीधयुः ॥
+
+the worlds were beheld like one bewildered knowing not his place.
 #### 9
 यं वै सूर्यं॒ स्व॑र्भानु॒स्तम॒सावि॑ध्यदासु॒रः । अत्र॑य॒स्तमन्व॑विन्दन्न॒ह्य१॒॑न्ये अश॑क्नुवन् ॥
 

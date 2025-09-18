@@ -83,7 +83,7 @@ Ananke
 
 ## maAlik (malik)
 
-![[bbl.prop.nev#jeremiah#c32#35]]
+![[bbl.prop.nev#jrmh#c32#35]]
 
 ![[bbl.hist.nev#2_kings#c23#10]]
 

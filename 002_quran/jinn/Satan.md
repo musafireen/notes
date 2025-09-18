@@ -9,7 +9,7 @@
 # bbl.2_sam.24.1
 ![[bbl.hist.nev#2_samuel#c24#1]]
 # bbl.1_chron.21.1
-![[bbl.history.ketuvim#1_chronicles#c21#1]]
+![[bbl.hist.ktv#1_chronicles#c21#1]]
 
 # bbl.1_k.11.14-25
 ![[bbl.hist.nev#1_kings#c11#14]]![[bbl.hist.nev#1_kings#c11#23]]![[bbl.hist.nev#1_kings#c11#25]]

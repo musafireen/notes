@@ -23,7 +23,14 @@ And there was no day like that before it or after it, that the LORD hearkened un
 וְעָלָ֨ה הַגְּב֜וּל גֵּ֣י בֶן־הִנֹּ֗ם אֶל־כֶּ֤תֶף הַיְבוּסִי֙ מִנֶּ֔גֶב הִ֖יא יְרֽוּשָׁלִָ֑ם וְעָלָ֨ה הַגְּב֜וּל אֶל־רֹ֣אשׁ הָהָ֗ר אֲ֠שֶׁר עַל־פְּנֵ֤י גֵֽי־הִנֹּם֙ יָ֔מָּה אֲשֶׁ֛ר בִּקְצֵ֥ה עֵֽמֶק־רְפָאִ֖ים צָפֹֽנָה ׃
 
 And the border went up by the valley of the son of Hinnom unto the south side of the Jebusite; the same [is] Jerusalem: and the border went up to the top of the mountain that [lieth] before the valley of Hinnom westward, which [is] at the end of the valley of the giants northward:
+#### 21
+21וַיִּהְיוּ הֶעָרִים מִקְצֵה לְמַטֵּהבְנֵי-יְהוּדָהאֶל-גְּבוּלאֱדוֺם בַּנֶּגְבָּה קַבְצְאֵל וְעֵדֶר וְיָגוּר 
 
+21And the uttermost cities of the tribe of the children of Judah toward the coast of Edom southward were Kabzeel, and Eder, and Jagur, 
+#### 27
+27וַחֲצַר גַּדָּה וְחֶשְׁמוֺן וּבֵית פָּלֶט 
+
+27And Hazargaddah, and Heshmon, and Bethpalet,
 ## c19
 #### 1
 וַיֵּצֵ֞א הַגּוֹרָ֤ל הַשֵּׁנִי֙ לְשִׁמְע֔וֹן לְמַטֵּ֥ה בְנֵֽי־שִׁמְע֖וֹן לְמִשְׁפְּחוֹתָ֑ם וַֽיְהִי֙ נַֽחֲלָתָ֔ם בְּת֖וֹךְ נַחֲלַ֥ת בְּנֵֽי־יְהוּדָֽה ׃
@@ -483,3 +490,63 @@ And he took away the horses that the kings of Judah had given to the sun, at the
 וְֽאֶת־הַבָּמ֞וֹת אֲשֶׁ֣ר ׀ עַל־פְּנֵ֣י יְרוּשָׁלִַ֗ם אֲשֶׁר֮ מִימִ֣ין לְהַר־הַמַּשְׁחִית֒ אֲשֶׁ֣ר בָּ֠נָה שְׁלֹמֹ֨ה מֶֽלֶךְ־יִשְׂרָאֵ֜ל לְעַשְׁתֹּ֣רֶת ׀ שִׁקֻּ֣ץ צִידֹנִ֗ים וְלִכְמוֹשׁ֙ שִׁקֻּ֣ץ מוֹאָ֔ב וּלְמִלְכֹּ֖ם תּוֹעֲבַ֣ת בְּנֵֽי־עַמּ֑וֹן טִמֵּ֖א הַמֶּֽלֶךְ ׃
 
 And the high places that [were] before Jerusalem, which [were] on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.
+## c24
+#### 1
+בְּיָמָיו עָלָה נְבֻכַדְנֶאצַּר מֶלֶךְ בָּבֶל וַיְהִי-לוֺ יְהוֺיָקִים עֶבֶד שָׁלֹשׁ שָׁנִים וַיָּשָׁב וַיִּמְרָד-בּוֺ	1x
+
+In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.
+#### 2
+וַיְשַׁלַּח יְהוָה בּוֺ אֶת-גְּדוּדֵי כַשְׂדִּים וְאֶת-גְּדוּדֵי אֲרָם וְאֵת גְּדוּדֵי מוֺאָב וְאֵת גְּדוּדֵי בְנֵי-עַמּוֺן וַיְשַׁלְּחֵם בִּיהוּדָה לְהַאֲבִידוֺ כִּדְבַר יְהוָה אֲשֶׁר דִּבֶּר בְּיַד עֲבָדָיו הַנְּבִיאִים	1x
+
+And the LORD sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the LORD, which he spake by his servants the prophets.
+#### 10
+בָּעֵת הַהִיא עלה )עָלוּ( עַבְדֵי נְבֻכַדְנֶאצַּר מֶלֶךְ-בָּבֶל יְרוּשָׁלִָם וַתָּבֹא הָעִיר בַּמָּצוֺר	1x
+
+At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged
+#### 11
+וַיָּבֹא נְבֻכַדְנֶאצַּר מֶלֶךְ-בָּבֶל עַל-הָעִיר וַעֲבָדָיו צָרִים עָלֶיהָ	1x
+
+And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it.
+## c25
+#### 1
+וַיְהִי בִשְׁנַת הַתְּשִׁיעִית לְמָלְכוֺ בַּחֹדֶשׁ הָעֲשִׂירִי בֶּעָשׂוֺר לַחֹדֶשׁ בָּא נְבֻכַדְנֶאצַּר מֶלֶךְ-בָּבֶל הוּא וְכָל-חֵילוֺ עַל-יְרוּשָׁלִַם וַיִּחַן עָלֶיהָ וַיִּבְנוּ עָלֶיהָ דָּיֵק סָבִיב	1x
+
+And it came to pass in the ninth year of his reign, in the tenth month, in the tenth [day] of the month, [that] Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.
+#### 4
+וַתִּבָּקַע הָעִיר וְכָל-אַנְשֵׁי הַמִּלְחָמָה הַלַּיְלָה דֶּרֶךְ שַׁעַר בֵּין הַחֹמֹתַיִם אֲשֶׁר עַל-גַּן הַמֶּלֶךְ וְכַשְׂדִּים עַל-הָעִיר סָבִיב וַיֵּלֶךְ דֶּרֶךְ הָעֲרָבָה	1x
+
+And the city was broken up, and all the men of war [fled] by night by the way of the gate between two walls, which [is] by the king´s garden: (now the Chaldees [were] against the city round about: ) and [the king] went the way toward the plain.
+#### 5
+וַיִּרְדְּפוּ חֵיל-כַּשְׂדִּים אַחַר הַמֶּלֶךְ וַיַּ׹ִּׂגוּ אֹתוֺ בְּעַרְבוֺת יְרֵחוֺ וְכָל-חֵילוֺ נָפֹצוּ מֵעָלָיו	1x
+
+And the army of the Chaldees pursued after the king, and overtook him in the plains of Jericho: and all his army were scattered from him.
+#### 8
+וּבַחֹדֶשׁ הַחֲמִישִׁי בְּשִׁבְעָה לַחֹדֶשׁ הִיא שְׁנַת תְּשַׁע-עֶשְׂרֵה שָׁנָה לַמֶּלֶךְ נְבֻכַדְנֶאצַּר מֶלֶךְ-בָּבֶל בָּא נְבוּזַרְאֲדָן רַב-טַבָּחִים עֶבֶד מֶלֶךְ-בָּבֶל יְרוּשָׁלִָם	1x
+
+And in the fifth month, on the seventh [day] of the month, which [is] the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzaradan, captain of the guard, a servant of the king of Babylon, unto Jerusalem:
+#### 10
+וְאֶת-חוֺמֹת יְרוּשָׁלִַם סָבִיב נָתְצוּ כָּל-חֵיל כַּשְׂדִּים אֲשֶׁר רַב-טַבָּחִים	1x
+
+And all the army of the Chaldees, that [were with] the captain of the guard, brake down the walls of Jerusalem round about.
+#### 11
+
+#### 13
+וְאֶת-עַמּוּדֵי הַנְּחֹשֶׁת אֲשֶׁר בֵּית-יְהוָה וְאֶת-הַמְּכֹנוֺת וְאֶת-יָם הַנְּחֹשֶׁת אֲשֶׁר בְּבֵית-יְהוָה שִׁבְּרוּ כַשְׂדִּים וַיִּשְׂאוּ אֶת-נְחֻשְׁתָּם בָּבֶלָה	1x
+
+And the pillars of brass that [were] in the house of the LORD, and the bases, and the brasen sea that [was] in the house of the LORD, did the Chaldees break in pieces, and carried the brass of them to Babylon.
+#### 22
+וְהָעָם הַנִּשְׁאָר בְּאֶרֶץ יְהוּדָה אֲשֶׁר הִשְׁאִיר נְבוּכַדְנֶאצַּר מֶלֶךְ בָּבֶל וַיַּפְקֵד עֲלֵיהֶם אֶת-גְּדַלְיָהוּ בֶּן-אֲחִיקָם בֶּן-שָׁפָן	1x
+
+And [as for] the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.
+#### 24
+וַיִּשָּׁבַע לָהֶם גְּדַלְיָהוּ וּלְאַנְשֵׁיהֶם וַיֹּאמֶר לָהֶם אַל-תִּירְאוּ מֵעַבְדֵי הַכַּשְׂדִּים שְׁבוּ בָאָרֶץ וְעִבְדוּ אֶת-מֶלֶךְ בָּבֶל וְיִטַב לָכֶם	1x
+
+And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldees: dwell in the land, and serve the king of Babylon; and it shall be well with you.
+#### 25
+וַיְהִי בַּחֹדֶשׁ הַשְּׁבִיעִי בָּא יִשְׁמָעֵאל בֶּן-נְתַנְיָה בֶּן-אֱלִישָׁמָע מִזֶּרַע הַמְּלוּכָה וַעֲשָׂרָה אֲנָשִׁים אִתּוֺ וַיַּכּוּ אֶת-גְּדַלְיָהוּ וַיָּמֹת וְאֶת-הַיְּהוּדִים וְאֶת-הַכַּשְׂדִּים אֲשֶׁר-הָיוּ אִתּוֺ בַּמִּצְפָּה	1x
+
+But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, that he died, and the Jews and the Chaldees that were with him at Mizpah.
+#### 26
+וַיָּקֻמוּ כָל-הָעָם מִקָּטֹן וְעַד-גָּדוֺל וְשָׂרֵי הַחֲיָלִים וַיָּבֹאוּ מִצְרָיִם כִּי יָרְאוּ מִפְּנֵי כַשְׂדִּים	1x
+
+And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.

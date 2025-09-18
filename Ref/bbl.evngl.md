@@ -52,7 +52,7 @@ And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye,
 περιπατων δε παρα την θαλασσαν της γαλιλαιας ειδεν σιμωνα και ανδρεαν τον αδελφον αυτου βαλλοντας αμφιβληστρον εν τη θαλασση ησαν γαρ αλιεις
 
 Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.
-#### 34
+### 34
 και εθεραπευσεν πολλους κακως εχοντας ποικιλαις νοσοις και δαιμονια πολλα εξεβαλεν και ουκ ηφιεν λαλειν τα δαιμονια οτι ηδεισαν αυτον
 
 And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.
@@ -132,7 +132,404 @@ For he said unto him, Come out of the man, [thou] unclean spirit.
 ουχ ουτος εστιν ο τεκτων ο υιος μαριας αδελφος δε ιακωβου και ιωση και ιουδα και σιμωνος και ουκ εισιν αι αδελφαι αυτου ωδε προς ημας και εσκανδαλιζοντο εν αυτω
 
 Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon ? and are not his sisters here with us ? And they were offended at him.
+## c7
+#### 3
+3οι γαρ φαρισαιοι και παντες οι ιουδαιοι εαν μη πυγμη νιψωνται τας χειρας ουκ εσθιουσιν κρατουντες την παραδοσιν των πρεσβυτερων 
+
+3For the Pharisees, and all the Jews, except they wash [their] hands oft, eat not, holding the tradition of the elders.
+n1 oft: or, diligently: in the original, with the fist: Theophylact, up to the elbow
+#### 4
+4και απο αγορας εαν μη βαπτισωνται ουκ εσθιουσιν και αλλα πολλα εστιν α παρελαβον κρατειν βαπτισμους ποτηριων και ξεστων και χαλκιων και κλινων 
+
+4And [when they come] from the market, except they wash, they eat not. And many other things there be, which they have received to hold, [as] the washing of cups, and pots, brasen vessels, and of tables. (pots: sextarius is about a pint and an half)
+n1 tables: or, beds
+#### 5
+5επειτα επερωτωσιν αυτον οι φαρισαιοι και οι γραμματεις δια τι οι μαθηται σου ου περιπατουσιν κατα την παραδοσιν των πρεσβυτερων αλλα ανιπτοις χερσιν εσθιουσιν τον αρτον 
+
+5Then the Pharisees and scribes asked him, Why walk not thy disciples according to the tradition of the elders, but eat bread with unwashen hands ? 
+#### 5
+6ο δε αποκριθεις ειπεν αυτοις οτι καλως προεφητευσεν ησαιας περι υμων των υποκριτων ως γεγραπται ουτος ο λαος τοις χειλεσιν με τιμα η δε καρδια αυτων πορρω απεχει απ εμου 
+
+6He answered and said unto them, Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with [their] lips, but their heart is far from me. 
+#### 7
+7ματην δε σεβονται με διδασκοντες διδασκαλιας ενταλματα ανθρωπων 
+
+7Howbeit in vain do they worship me, teaching [for] doctrines the commandments of men. 
+#### 8
+8αφεντες γαρ την εντολην του θεου κρατειτε την παραδοσιν των ανθρωπων βαπτισμους ξεστων και ποτηριων και αλλα παρομοια τοιαυτα πολλα ποιειτε 
+
+8For laying aside the commandment of God, ye hold the tradition of men, [as] the washing of pots and cups: and many other such like things ye do. 
+#### 9
+9και ελεγεν αυτοις καλως αθετειτε την εντολην του θεου ινα την παραδοσιν υμων τηρησητε 
+
+9And he said unto them, Full well ye reject the commandment of God, that ye may keep your own tradition.
+n1 reject: or, frustrate
+#### 10
+10μωσης γαρ ειπεν τιμα τον πατερα σου και την μητερα σου και ο κακολογων πατερα η μητερα θανατω τελευτατω 
+
+10For Moses said, Honour thy father and thy mother; and, Whoso curseth father or mother, let him die the death: 
+#### 11
+11υμεις δε λεγετε εαν ειπη ανθρωπος τω πατρι η τη μητρι κορβαν ο εστιν δωρον ο εαν εξ εμου ωφεληθης 
+
+11But ye say, If a man shall say to his father or mother, [It is] Corban, that is to say, a gift, by whatsoever thou mightest be profited by me; [he shall be free]. 
+#### 12
+12και ουκετι αφιετε αυτον ουδεν ποιησαι τω πατρι αυτου η τη μητρι αυτου 
+
+12And ye suffer him no more to do ought for his father or his mother; 
+#### 13
+13ακυρουντες τον λογον του θεου τη παραδοσει υμων η παρεδωκατε και παρομοια τοιαυτα πολλα ποιειτε 
+
+13Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye. 
+
+14και προσκαλεσαμενος παντα τον οχλον ελεγεν αυτοις ακουετε μου παντες και συνιετε 
+
+14And when he had called all the people [unto him], he said unto them, Hearken unto me every one [of you], and understand: 
+
+15ουδεν εστιν εξωθεν του ανθρωπου εισπορευομενον εις αυτον ο δυναται αυτον κοινωσαι αλλα τα εκπορευομενα απ αυτου εκεινα εστιν τα κοινουντα τον ανθρωπον 
+
+15There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man. 
+
+16ει τις εχει ωτα ακουειν ακουετω 
+
+16If any man have ears to hear, let him hear. 
+#### 17
+17και οτε εισηλθεν εις οικον απο του οχλου επηρωτων αυτον οι μαθηται αυτου περι της παραβολης 
+
+17And when he was entered into the house from the people, his disciples asked him concerning the parable. 
+#### 16
+18και λεγει αυτοις ουτως και υμεις ασυνετοι εστε ου νοειτε οτι παν το εξωθεν εισπορευομενον εις τον ανθρωπον ου δυναται αυτον κοινωσαι 
+
+18And he saith unto them, Are ye so without understanding also ? Do ye not perceive, that whatsoever thing from without entereth into the man, [it] cannot defile him; 
+#### 19
+19οτι ουκ εισπορευεται αυτου εις την καρδιαν αλλ εις την κοιλιαν και εις τον αφεδρωνα εκπορευεται καθαριζον παντα τα βρωματα 
+
+19Because it entereth not into his heart, but into the belly, and goeth out into the draught, purging all meats ? 
+#### 20
+20ελεγεν δε οτι το εκ του ανθρωπου εκπορευομενον εκεινο κοινοι τον ανθρωπον 
+
+20And he said, That which cometh out of the man, that defileth the man. 
+#### 21
+21εσωθεν γαρ εκ της καρδιας των ανθρωπων οι διαλογισμοι οι κακοι εκπορευονται μοιχειαι πορνειαι φονοι 
+
+21For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders, 
+#### 22
+22κλοπαι πλεονεξιαι πονηριαι δολος ασελγεια οφθαλμος πονηρος βλασφημια υπερηφανια αφροσυνη 
+
+22Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
+n1 covetousness…: Gr. covetousnesses, wickednesses
+#### 23
+23παντα ταυτα τα πονηρα εσωθεν εκπορευεται και κοινοι τον ανθρωπον 
+
+23All these evil things come from within, and defile the man. 
+#### 24
+24και εκειθεν αναστας απηλθεν εις τα μεθορια τυρου και σιδωνος και εισελθων εις την οικιαν ουδενα ηθελεν γνωναι και ουκ ηδυνηθη λαθειν 
+
+24And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know [it]: but he could not be hid. 
+#### 25
+25ακουσασα γαρ γυνη περι αυτου ης ειχεν το θυγατριον αυτης πνευμα ακαθαρτον ελθουσα προσεπεσεν προς τους ποδας αυτου 
+
+25For a [certain] woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet: 
+#### 26
+26ην δε η γυνη ελληνις συροφοινισσα τω γενει και ηρωτα αυτον ινα το δαιμονιον εκβαλλη εκ της θυγατρος αυτης 
+
+26The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter. (Greek: or, Gentile)
+n1 Greek: or, Gentile
+#### 27
+27ο δε ιησους ειπεν αυτη αφες πρωτον χορτασθηναι τα τεκνα ου γαρ καλον εστιν λαβειν τον αρτον των τεκνων και βαλειν τοις κυναριοις 
+
+27But Jesus said unto her, Let the children first be filled: for it is not meet to take the children´s bread, and to cast [it] unto the dogs. 
+#### 28
+28η δε απεκριθη και λεγει αυτω ναι κυριε και γαρ τα κυναρια υποκατω της τραπεζης εσθιει απο των ψιχιων των παιδιων 
+
+28And she answered and said unto him, Yes, Lord: yet the dogs under the table eat of the children´s crumbs. 
+#### 29
+29και ειπεν αυτη δια τουτον τον λογον υπαγε εξεληλυθεν το δαιμονιον εκ της θυγατρος σου 
+
+29And he said unto her, For this saying go thy way; the devil is gone out of thy daughter. 
+
+30και απελθουσα εις τον οικον αυτης ευρεν το δαιμονιον εξεληλυθος και την θυγατερα βεβλημενην επι της κλινης 
+
+30And when she was come to her house, she found the devil gone out, and her daughter laid upon the bed. 
+#### 31
+31και παλιν εξελθων εκ των οριων τυρου και σιδωνος ηλθεν προς την θαλασσαν της γαλιλαιας ανα μεσον των οριων δεκαπολεως 
+
+31And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis. 
+#### 32
+32και φερουσιν αυτω κωφον μογιλαλον και παρακαλουσιν αυτον ινα επιθη αυτω την χειρα 
+
+32And they bring unto him one that was deaf, and had an impediment in his speech; and they beseech him to put his hand upon him. 
+#### 33
+33και απολαβομενος αυτον απο του οχλου κατ ιδιαν εβαλεν τους δακτυλους αυτου εις τα ωτα αυτου και πτυσας ηψατο της γλωσσης αυτου 
+
+33And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue; 
+#### 34
+34και αναβλεψας εις τον ουρανον εστεναξεν και λεγει αυτω εφφαθα ο εστιν διανοιχθητι 
+
+34And looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened. 
+#### 35
+35και ευθεως διηνοιχθησαν αυτου αι ακοαι και ελυθη ο δεσμος της γλωσσης αυτου και ελαλει ορθως 
+
+35And straightway his ears were opened, and the string of his tongue was loosed, and he spake plain. 
+#### 36
+36και διεστειλατο αυτοις ινα μηδενι ειπωσιν οσον δε αυτος αυτοις διεστελλετο μαλλον περισσοτερον εκηρυσσον 
+
+36And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published [it]; 
+#### 37
+37και υπερπερισσως εξεπλησσοντο λεγοντες καλως παντα πεποιηκεν και τους κωφους ποιει ακουειν και τους αλαλους λαλειν
+
+37And were beyond measure astonished, saying, He hath done all things well: he maketh both the deaf to hear, and the dumb to speak.
+## c8
+
+1εν εκειναις ταις ημεραις παμπολλου οχλου οντος και μη εχοντων τι φαγωσιν προσκαλεσαμενος ο ιησους τους μαθητας αυτου λεγει αυτοις 
+
+1In those days the multitude being very great, and having nothing to eat, Jesus called his disciples [unto him], and saith unto them, 
+
+2σπλαγχνιζομαι επι τον οχλον οτι ηδη ημερας τρεις προσμενουσιν μοι και ουκ εχουσιν τι φαγωσιν 
+
+2I have compassion on the multitude, because they have now been with me three days, and have nothing to eat: 
+
+3και εαν απολυσω αυτους νηστεις εις οικον αυτων εκλυθησονται εν τη οδω τινες γαρ αυτων μακροθεν ηκασιν 
+
+3And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far. 
+
+4και απεκριθησαν αυτω οι μαθηται αυτου ποθεν τουτους δυνησεται τις ωδε χορτασαι αρτων επ ερημιας 
+
+4And his disciples answered him, From whence can a man satisfy these [men] with bread here in the wilderness ? 
+
+5και επηρωτα αυτους ποσους εχετε αρτους οι δε ειπον επτα 
+
+5And he asked them, How many loaves have ye ? And they said, Seven. 
+#### 6
+6και παρηγγειλεν τω οχλω αναπεσειν επι της γης και λαβων τους επτα αρτους ευχαριστησας εκλασεν και εδιδου τοις μαθηταις αυτου ινα παραθωσιν και παρεθηκαν τω οχλω 
+
+6And he commanded the people to sit down on the ground: and he took the seven loaves, and gave thanks, and brake, and gave to his disciples to set before [them]; and they did set [them] before the people. 
+#### 7
+7και ειχον ιχθυδια ολιγα και ευλογησας ειπεν παραθειναι και αυτα 
+
+7And they had a few small fishes: and he blessed, and commanded to set them also before [them]. 
+
+8εφαγον δε και εχορτασθησαν και ηραν περισσευματα κλασματων επτα σπυριδας 
+
+8So they did eat, and were filled: and they took up of the broken [meat] that was left seven baskets. 
+#### 9
+9ησαν δε οι φαγοντες ως τετρακισχιλιοι και απελυσεν αυτους 
+
+9And they that had eaten were about four thousand: and he sent them away. 
+#### 10
+10και ευθεως εμβας εις το πλοιον μετα των μαθητων αυτου ηλθεν εις τα μερη δαλμανουθα 
+
+10And straightway he entered into a ship with his disciples, and came into the parts of Dalmanutha. 
+#### 11
+11και εξηλθον οι φαρισαιοι και ηρξαντο συζητειν αυτω ζητουντες παρ αυτου σημειον απο του ουρανου πειραζοντες αυτον 
+
+11And the Pharisees came forth, and began to question with him, seeking of him a sign from heaven, tempting him. 
+#### 12
+12και αναστεναξας τω πνευματι αυτου λεγει τι η γενεα αυτη σημειον επιζητει αμην λεγω υμιν ει δοθησεται τη γενεα ταυτη σημειον 
+
+12And he sighed deeply in his spirit, and saith, Why doth this generation seek after a sign ? verily I say unto you, There shall no sign be given unto this generation. 
+#### 13
+13και αφεις αυτους εμβας παλιν εις το πλοιον απηλθεν εις το περαν 
+
+13And he left them, and entering into the ship again departed to the other side. 
+
+14και επελαθοντο [οι] μαθηται λαβειν αρτους και ει μη ενα αρτον ουκ ειχον μεθ εαυτων εν τω πλοιω 
+
+14Now [the disciples] had forgotten to take bread, neither had they in the ship with them more than one loaf. 
+#### 15
+15και διεστελλετο αυτοις λεγων ορατε βλεπετε απο της ζυμης των φαρισαιων και της ζυμης ηρωδου 
+
+15And he charged them, saying, Take heed, beware of the leaven of the Pharisees, and [of] the leaven of Herod. 
+
+16και διελογιζοντο προς αλληλους λεγοντες οτι αρτους ουκ εχομεν 
+
+16And they reasoned among themselves, saying, [It is] because we have no bread. 
+
+17και γνους ο ιησους λεγει αυτοις τι διαλογιζεσθε οτι αρτους ουκ εχετε ουπω νοειτε ουδε συνιετε ετι πεπωρωμενην εχετε την καρδιαν υμων 
+
+17And when Jesus knew [it], he saith unto them, Why reason ye, because ye have no bread ? perceive ye not yet, neither understand ? have ye your heart yet hardened ? 
+
+18οφθαλμους εχοντες ου βλεπετε και ωτα εχοντες ουκ ακουετε και ου μνημονευετε 
+
+18Having eyes, see ye not ? and having ears, hear ye not ? and do ye not remember ? 
+
+19οτε τους πεντε αρτους εκλασα εις τους πεντακισχιλιους ποσους κοφινους πληρεις κλασματων ηρατε λεγουσιν αυτω δωδεκα 
+
+19When I brake the five loaves among five thousand, how many baskets full of fragments took ye up ? They say unto him, Twelve. 
+
+20οτε δε τους επτα εις τους τετρακισχιλιους ποσων σπυριδων πληρωματα κλασματων ηρατε οι δε ειπον επτα 
+
+20And when the seven among four thousand, how many baskets full of fragments took ye up ? And they said, Seven. 
+
+21και ελεγεν αυτοις πως ου συνιετε 
+
+21And he said unto them, How is it that ye do not understand ? 
+#### 22
+22και ερχεται εις [βηθσαιδαν] [βηθσαιδα] και φερουσιν αυτω τυφλον και παρακαλουσιν αυτον ινα αυτου αψηται 
+
+22And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him. 
+#### 23
+23και επιλαβομενος της χειρος του τυφλου εξηγαγεν αυτον εξω της κωμης και πτυσας εις τα ομματα αυτου επιθεις τας χειρας αυτω επηρωτα αυτον ει τι βλεπει 
+
+23And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, he asked him if he saw ought. 
+#### 24
+24και αναβλεψας ελεγεν βλεπω τους ανθρωπους [οτι] ως δενδρα [ορω] περιπατουντας 
+
+24And he looked up, and said, I see men as trees, walking. 
+#### 25
+25ειτα παλιν επεθηκεν τας χειρας επι τους οφθαλμους αυτου και εποιησεν αυτον αναβλεψαι και αποκατεσταθη και ενεβλεψεν τηλαυγως απαντας 
+
+25After that he put [his] hands again upon his eyes, and made him look up: and he was restored, and saw every man clearly. 
+#### 26
+26και απεστειλεν αυτον εις τον οικον αυτου λεγων μηδε εις την κωμην εισελθης μηδε ειπης τινι εν τη κωμη 
+
+26And he sent him away to his house, saying, Neither go into the town, nor tell [it] to any in the town. 
+#### 27
+27και εξηλθεν ο ιησους και οι μαθηται αυτου εις τας κωμας καισαρειας της φιλιππου και εν τη οδω επηρωτα τους μαθητας αυτου λεγων αυτοις τινα με λεγουσιν οι ανθρωποι ειναι 
+
+27And Jesus went out, and his disciples, into the towns of Caesarea Philippi: and by the way he asked his disciples, saying unto them, Whom do men say that I am ? 
+#### 28
+28οι δε απεκριθησαν ιωαννην τον βαπτιστην και αλλοι ηλιαν αλλοι δε ενα των προφητων 
+
+28And they answered, John the Baptist: but some [say], Elias; and others, One of the prophets. 
+#### 29
+29και αυτος λεγει αυτοις υμεις δε τινα με λεγετε ειναι αποκριθεις δε ο πετρος λεγει αυτω συ ει ο χριστος 
+
+29And he saith unto them, But whom say ye that I am ? And Peter answereth and saith unto him, Thou art the Christ. 
+#### 30
+30και επετιμησεν αυτοις ινα μηδενι λεγωσιν περι αυτου 
+
+30And he charged them that they should tell no man of him. 
+#### 31
+31και ηρξατο διδασκειν αυτους οτι δει τον υιον του ανθρωπου πολλα παθειν και αποδοκιμασθηναι απο των πρεσβυτερων και αρχιερεων και γραμματεων και αποκτανθηναι και μετα τρεις ημερας αναστηναι 
+
+31And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and [of] the chief priests, and scribes, and be killed, and after three days rise again. 
+#### 32
+32και παρρησια τον λογον ελαλει και προσλαβομενος αυτον ο πετρος ηρξατο επιτιμαν αυτω 
+
+32And he spake that saying openly. And Peter took him, and began to rebuke him. 
+#### 33
+33ο δε επιστραφεις και ιδων τους μαθητας αυτου επετιμησεν τω πετρω λεγων υπαγε οπισω μου σατανα οτι ου φρονεις τα του θεου αλλα τα των ανθρωπων 
+
+33But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men. 
+#### 34
+34και προσκαλεσαμενος τον οχλον συν τοις μαθηταις αυτου ειπεν αυτοις οστις θελει οπισω μου ελθειν απαρνησασθω εαυτον και αρατω τον σταυρον αυτου και ακολουθειτω μοι 
+
+34And when he had called the people [unto him] with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me. 
+
+35ος γαρ αν θελη την ψυχην αυτου σωσαι απολεσει αυτην ος δ αν απολεση την ψυχην αυτου ενεκεν εμου και του ευαγγελιου ουτος σωσει αυτην 
+
+35For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel´s, the same shall save it. 
+
+36τι γαρ ωφελησει ανθρωπον εαν κερδηση τον κοσμον ολον και ζημιωθη την ψυχην αυτου 
+
+36For what shall it profit a man, if he shall gain the whole world, and lose his own soul ? 
+
+37η τι δωσει ανθρωπος ανταλλαγμα της ψυχης αυτου 
+
+37Or what shall a man give in exchange for his soul ? 
+
+38ος γαρ αν επαισχυνθη με και τους εμους λογους εν τη γενεα ταυτη τη μοιχαλιδι και αμαρτωλω και ο υιος του ανθρωπου επαισχυνθησεται αυτον οταν ελθη εν τη δοξη του πατρος αυτου μετα των αγγελων των αγιων
+
+38Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.
 ## c9
+#### 1
+1και ελεγεν αυτοις αμην λεγω υμιν οτι εισιν τινες των ωδε εστηκοτων οιτινες ου μη γευσωνται θανατου εως αν ιδωσιν την βασιλειαν του θεου εληλυθυιαν εν δυναμει 
+
+1And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power. 
+#### 2
+2και μεθ ημερας εξ παραλαμβανει ο ιησους τον πετρον και τον ιακωβον και τον ιωαννην και αναφερει αυτους εις ορος υψηλον κατ ιδιαν μονους και μετεμορφωθη εμπροσθεν αυτων 
+
+2And after six days Jesus taketh [with him] Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them. 
+#### 3
+3και τα ιματια αυτου εγενετο στιλβοντα λευκα λιαν ως χιων οια γναφευς επι της γης ου δυναται λευκαναι 
+
+3And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them. 
+#### 4
+4και ωφθη αυτοις ηλιας συν μωσει και ησαν συλλαλουντες τω ιησου 
+
+4And there appeared unto them Elias with Moses: and they were talking with Jesus. 
+#### 5
+5και αποκριθεις ο πετρος λεγει τω ιησου ραββι καλον εστιν ημας ωδε ειναι και ποιησωμεν σκηνας τρεις σοι μιαν και μωσει μιαν και ηλια μιαν 
+
+5And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias. 
+#### 6
+6ου γαρ ηδει τι λαληση ησαν γαρ εκφοβοι 
+
+6For he wist not what to say; for they were sore afraid. 
+#### 7
+7και εγενετο νεφελη επισκιαζουσα αυτοις και ηλθεν φωνη εκ της νεφελης λεγουσα ουτος εστιν ο υιος μου ο αγαπητος αυτου ακουετε 
+
+7And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him. 
+#### 8
+8και εξαπινα περιβλεψαμενοι ουκετι ουδενα ειδον αλλα τον ιησουν μονον μεθ εαυτων 
+
+8And suddenly, when they had looked round about, they saw no man any more, save Jesus only with themselves. 
+#### 9
+9καταβαινοντων δε αυτων απο του ορους διεστειλατο αυτοις ινα μηδενι διηγησωνται α ειδον ει μη οταν ο υιος του ανθρωπου εκ νεκρων αναστη 
+
+9And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead. 
+#### 10
+10και τον λογον εκρατησαν προς εαυτους συζητουντες τι εστιν το εκ νεκρων αναστηναι 
+
+10And they kept that saying with themselves, questioning one with another what the rising from the dead should mean. 
+#### 11
+11και επηρωτων αυτον λεγοντες οτι λεγουσιν οι γραμματεις οτι ηλιαν δει ελθειν πρωτον 
+
+11And they asked him, saying, Why say the scribes that Elias must first come ? 
+#### 12
+12ο δε αποκριθεις ειπεν αυτοις ηλιας μεν ελθων πρωτον αποκαθιστα παντα και πως γεγραπται επι τον υιον του ανθρωπου ινα πολλα παθη και εξουδενωθη 
+
+12And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought. 
+#### 13
+13αλλα λεγω υμιν οτι και ηλιας εληλυθεν και εποιησαν αυτω οσα ηθελησαν καθως γεγραπται επ αυτον 
+
+13But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him.
+#### 14
+14και ελθων προς τους μαθητας ειδεν οχλον πολυν περι αυτους και γραμματεις συζητουντας αυτοις 
+
+14And when he came to [his] disciples, he saw a great multitude about them, and the scribes questioning with them. 
+
+15και ευθεως πας ο οχλος ιδων αυτον εξεθαμβηθη και προστρεχοντες ησπαζοντο αυτον 
+
+15And straightway all the people, when they beheld him, were greatly amazed, and running to [him] saluted him. 
+
+16και επηρωτησεν τους γραμματεις τι συζητειτε προς αυτους 
+
+16And he asked the scribes, What question ye with them ?
+n1 with them: or, among yourselves
+#### 17
+17και αποκριθεις εις εκ του οχλου ειπεν διδασκαλε ηνεγκα τον υιον μου προς σε εχοντα πνευμα αλαλον 
+
+17And one of the multitude answered and said, Master, I have brought unto thee my son, which hath a dumb spirit; 
+#### 18
+18και οπου αν αυτον καταλαβη ρησσει αυτον και αφριζει και τριζει τους οδοντας αυτου και ξηραινεται και ειπον τοις μαθηταις σου ινα αυτο εκβαλωσιν και ουκ ισχυσαν 
+
+18And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not.
+n1 teareth…: or, dasheth him
+
+19ο δε αποκριθεις αυτω λεγει ω γενεα απιστος εως ποτε προς υμας εσομαι εως ποτε ανεξομαι υμων φερετε αυτον προς με 
+
+19He answereth him, and saith, O faithless generation, how long shall I be with you ? how long shall I suffer you ? bring him unto me. 
+#### 20
+20και ηνεγκαν αυτον προς αυτον και ιδων αυτον ευθεως το πνευμα εσπαραξεν αυτον και πεσων επι της γης εκυλιετο αφριζων 
+
+20And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming. 
+
+21και επηρωτησεν τον πατερα αυτου ποσος χρονος εστιν ως τουτο γεγονεν αυτω ο δε ειπεν παιδιοθεν 
+
+21And he asked his father, How long is it ago since this came unto him ? And he said, Of a child. 
+#### 22
+22και πολλακις αυτον και εις πυρ εβαλεν και εις υδατα ινα απολεση αυτον αλλ ει τι δυνασαι βοηθησον ημιν σπλαγχνισθεις εφ ημας 
+
+22And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us. 
+
+23ο δε ιησους ειπεν αυτω το ει δυνασαι πιστευσαι παντα δυνατα τω πιστευοντι 
+
+23Jesus said unto him, If thou canst believe, all things [are] possible to him that believeth. 
+
+24και ευθεως κραξας ο πατηρ του παιδιου μετα δακρυων ελεγεν πιστευω κυριε βοηθει μου τη απιστια 
+
+24And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.
 #### 25
 ιδων δε ο ιησους οτι επισυντρεχει οχλος επετιμησεν τω πνευματι τω ακαθαρτω λεγων αυτω το πνευμα το αλαλον και κωφον εγω σοι επιτασσω εξελθε εξ αυτου και μηκετι εισελθης εις αυτον
 
@@ -170,7 +567,47 @@ Verily I say unto you, Whosoever shall not receive the kingdom of God as a littl
 και γαρ ο υιος του ανθρωπου ουκ ηλθεν διακονηθηναι αλλα διακονησαι και δουναι την ψυχην αυτου λυτρον αντι πολλων
 
 For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
+## c12
+#### 18
+18και ερχονται σαδδουκαιοι προς αυτον οιτινες λεγουσιν αναστασιν μη ειναι και επηρωτησαν αυτον λεγοντες 
 
+18Then come unto him the Sadducees, which say there is no resurrection; and they asked him, saying, 
+#### 19
+19διδασκαλε μωσης εγραψεν ημιν οτι εαν τινος αδελφος αποθανη και καταλιπη γυναικα και τεκνα μη αφη ινα λαβη ο αδελφος αυτου την γυναικα αυτου και εξαναστηση σπερμα τω αδελφω αυτου 
+
+19Master, Moses wrote unto us, If a man's brother die, and leave [his] wife [behind him], and leave no children, that his brother should take his wife, and raise up seed unto his brother. 
+#### 20
+20επτα [ουν] αδελφοι ησαν και ο πρωτος ελαβεν γυναικα και αποθνησκων ουκ αφηκεν σπερμα 
+
+20Now there were seven brethren: and the first took a wife, and dying left no seed. 
+#### 21
+21και ο δευτερος ελαβεν αυτην και απεθανεν και ουδε αυτος αφηκεν σπερμα και ο τριτος ωσαυτως 
+
+21And the second took her, and died, neither left he any seed: and the third likewise. 
+#### 22
+22και ελαβον αυτην οι επτα και ουκ αφηκαν σπερμα εσχατη παντων απεθανεν και η γυνη 
+
+22And the seven had her, and left no seed: last of all the woman died also. 
+#### 23
+23εν τη ουν αναστασει οταν αναστωσιν τινος αυτων εσται γυνη οι γαρ επτα εσχον αυτην γυναικα 
+
+23In the resurrection therefore, when they shall rise, whose wife shall she be of them ? for the seven had her to wife. 
+#### 24
+24και αποκριθεις ο ιησους ειπεν αυτοις ου δια τουτο πλανασθε μη ειδοτες τας γραφας μηδε την δυναμιν του θεου 
+
+24And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God ? 
+#### 25
+25οταν γαρ εκ νεκρων αναστωσιν ουτε γαμουσιν ουτε γαμισκονται αλλ εισιν ως αγγελοι οι εν τοις ουρανοις 
+
+25For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.
+#### 26
+26περι δε των νεκρων οτι εγειρονται ουκ ανεγνωτε εν τη βιβλω μωσεως επι της βατου ως ειπεν αυτω ο θεος λεγων εγω ο θεος αβρααμ και ο θεος ισαακ και ο θεος ιακωβ 
+
+26And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I [am] the God of Abraham, and the God of Isaac, and the God of Jacob ? 
+#### 27
+27ουκ εστιν ο θεος νεκρων αλλα θεος ζωντων υμεις ουν πολυ πλανασθε 
+
+27He is not the God of the dead, but the God of the living: ye therefore do greatly err.
 ## c13
 ### 12
 παραδωσει δε αδελφος αδελφον εις θανατον και πατηρ τεκνον και επαναστησονται τεκνα επι γονεις και θανατωσουσιν αυτους
@@ -404,6 +841,12 @@ But when he heard that Archelaus did reign in Judaea in the room of his father H
 et veniens habitavit in civitate quae vocatur Nazareth ut adimpleretur quod dictum est per prophetas quoniam Nazareus vocabitur
 
 And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.
+## c3
+#### 7
+???
+Matthew 3:7 — John the Baptist rebukes both Pharisees and Sadducees:
+
+“But when he saw many of the Pharisees and Sadducees coming to where he was baptizing, he said to them: ‘You brood of vipers! Who warned you to flee from the coming wrath?’”
 ## c5
 ### 39
 εγω δε λεγω υμιν μη αντιστηναι τω πονηρω αλλ οστις σε ραπισει επι την δεξιαν σου σιαγονα στρεψον αυτω και την αλλην
@@ -488,6 +931,79 @@ Which indeed is the least of all seeds: but when it is grown, it is the greatest
 ουχ ουτος εστιν ο του τεκτονος υιος ουχι η μητηρ αυτου λεγεται μαριαμ και οι αδελφοι αυτου ιακωβος και ιωσης και σιμων και ιουδας
 
 Is not this the carpenter´s son ? is not his mother called Mary ? and his brethren, James, and Joses, and Simon, and Judas ?
+## c16
+#### 1
+???
+Matthew 16:1–12 — Sadducees and Pharisees demand a sign from Jesus; Jesus warns his disciples about their “leaven” (teaching).
+#### 12
+???
+Matthew 16:1–12 — Sadducees and Pharisees demand a sign from Jesus; Jesus warns his disciples about their “leaven” (teaching).
+#### 13
+13ελθων δε ο ιησους εις τα μερη καισαρειας της φιλιππου ηρωτα τους μαθητας αυτου λεγων τινα με λεγουσιν οι ανθρωποι ειναι τον υιον του ανθρωπου 
+
+13When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am ? 
+#### 14
+14οι δε ειπον οι μεν ιωαννην τον βαπτιστην αλλοι δε ηλιαν ετεροι δε ιερεμιαν η ενα των προφητων 
+
+14And they said, Some [say that thou art] John the Baptist: some, Elias; and others, Jeremias, or one of the prophets. 
+#### 15
+15λεγει αυτοις υμεις δε τινα με λεγετε ειναι 
+
+15He saith unto them, But whom say ye that I am ? 
+#### 16
+16αποκριθεις δε σιμων πετρος ειπεν συ ει ο χριστος ο υιος του θεου του ζωντος 
+
+16And Simon Peter answered and said, Thou art the Christ, the Son of the living God. 
+#### 17
+17και αποκριθεις ο ιησους ειπεν αυτω μακαριος ει σιμων βαρ ιωνα [ιωνα] οτι σαρξ και αιμα ουκ απεκαλυψεν σοι αλλ ο πατηρ μου ο εν τοις ουρανοις 
+
+17And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed [it] unto thee, but my Father which is in heaven. 
+#### 18
+18καγω δε σοι λεγω οτι συ ει πετρος και επι ταυτη τη πετρα οικοδομησω μου την εκκλησιαν και πυλαι αδου ου κατισχυσουσιν αυτης 
+
+18And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.
+n1 Peter: this name signifies a rock
+#### 19
+19και δωσω σοι τας κλεις της βασιλειας των ουρανων και ο εαν δησης επι της γης εσται δεδεμενον εν τοις ουρανοις και ο εαν λυσης επι της γης εσται λελυμενον εν τοις ουρανοις 
+
+19And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven. 
+#### 20
+20τοτε διεστειλατο τοις μαθηταις αυτου ινα μηδενι ειπωσιν οτι αυτος εστιν ιησους ο χριστος 
+
+20Then charged he his disciples that they should tell no man that he was Jesus the Christ. 
+#### 21
+21απο τοτε ηρξατο ο ιησους δεικνυειν τοις μαθηταις αυτου οτι δει αυτον απελθειν εις ιεροσολυμα και πολλα παθειν απο των πρεσβυτερων και αρχιερεων και γραμματεων και αποκτανθηναι και τη τριτη ημερα εγερθηναι 
+
+21From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day. 
+#### 22
+22και προσλαβομενος αυτον ο πετρος ηρξατο επιτιμαν αυτω λεγων ιλεως σοι κυριε ου μη εσται σοι τουτο 
+
+22Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee.
+n1 Be…: Gr. Pity thyself
+#### 23
+23ο δε στραφεις ειπεν τω πετρω υπαγε οπισω μου σατανα σκανδαλον μου ει οτι ου φρονεις τα του θεου αλλα τα των ανθρωπων 
+
+23But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men. 
+
+24τοτε ο ιησους ειπεν τοις μαθηταις αυτου ει τις θελει οπισω μου ελθειν απαρνησασθω εαυτον και αρατω τον σταυρον αυτου και ακολουθειτω μοι 
+
+24Then said Jesus unto his disciples, If any [man] will come after me, let him deny himself, and take up his cross, and follow me. 
+
+25ος γαρ αν θελη την ψυχην αυτου σωσαι απολεσει αυτην ος δ αν απολεση την ψυχην αυτου ενεκεν εμου ευρησει αυτην 
+
+25For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it. 
+
+26τι γαρ ωφελειται ανθρωπος εαν τον κοσμον ολον κερδηση την δε ψυχην αυτου ζημιωθη η τι δωσει ανθρωπος ανταλλαγμα της ψυχης αυτου 
+
+26For what is a man profited, if he shall gain the whole world, and lose his own soul ? or what shall a man give in exchange for his soul ? 
+
+27μελλει γαρ ο υιος του ανθρωπου ερχεσθαι εν τη δοξη του πατρος αυτου μετα των αγγελων αυτου και τοτε αποδωσει εκαστω κατα την πραξιν αυτου 
+
+27For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works. 
+#### 28
+28αμην λεγω υμιν εισιν τινες των ωδε εστηκοτων οιτινες ου μη γευσωνται θανατου εως αν ιδωσιν τον υιον του ανθρωπου ερχομενον εν τη βασιλεια αυτου
+
+28Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.
 ## c17
 #### 18
 και επετιμησεν αυτω ο ιησους και εξηλθεν απ αυτου το δαιμονιον και εθεραπευθη ο παις απο της ωρας εκεινης
@@ -558,6 +1074,7 @@ And again I say unto you, It is easier for a camel to go through the eye of a ne
 
 And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name´s sake, shall receive an hundredfold, and shall inherit everlasting life.
 ## c22
+
 ### 37
 ο δε ιησους ειπεν αυτω αγαπησεις κυριον τον θεον σου εν ολη τη καρδια σου και εν ολη τη ψυχη σου και εν ολη τη διανοια σου
 
@@ -823,6 +1340,10 @@ For a good tree bringeth not forth corrupt fruit; neither doth a corrupt tree br
 
 For every tree is known by his own fruit. For of thorns men do not gather figs, nor of a bramble bush gather they grapes.
 ## c7
+### 36
+ηρωτα δε τις αυτον των φαρισαιων ινα φαγη μετ αυτου και εισελθων εις την οικιαν του φαρισαιου ανεκλιθη 
+
+And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee´s house, and sat down to meat.
 ### 37
 και ιδου γυνη εν τη πολει ητις ην αμαρτωλος επιγνουσα οτι ανακειται εν τη οικια του φαρισαιου κομισασα αλαβαστρον μυρου
 
@@ -870,11 +1391,32 @@ But he turned, and rebuked them, and said, Ye know not what manner of spirit ye 
 υπεστρεψαν δε οι εβδομηκοντα μετα χαρας λεγοντες κυριε και τα δαιμονια υποτασσεται ημιν εν τω ονοματι σου
 
 And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.
-#### c19
+#### 19
 ιδου διδωμι υμιν την εξουσιαν του πατειν επανω οφεων και σκορπιων και επι πασαν την δυναμιν του εχθρου και ουδεν υμας ου μη [αδικηση] [αδικησει]
 
 Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.
+### 21
+εν αυτη τη ωρα ηγαλλιασατο τω πνευματι ο ιησους και ειπεν εξομολογουμαι σοι πατερ κυριε του ουρανου και της γης οτι απεκρυψας ταυτα απο σοφων και συνετων και απεκαλυψας αυτα νηπιοις ναι ο πατηρ οτι ουτως εγενετο ευδοκια εμπροσθεν σου
+
+In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight.
 ## c11
+#### 1
+1και εγενετο εν τω ειναι αυτον εν τοπω τινι προσευχομενον ως επαυσατο ειπεν τις των μαθητων αυτου προς αυτον κυριε διδαξον ημας προσευχεσθαι καθως και ιωαννης εδιδαξεν τους μαθητας αυτου 
+
+1And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples. 
+#### 2
+2ειπεν δε αυτοις οταν προσευχησθε λεγετε πατερ ημων ο εν τοις ουρανοις αγιασθητω το ονομα σου ελθετω η βασιλεια σου γενηθητω το θελημα σου ως εν ουρανω και επι της γης 
+
+2And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth. 
+#### 3
+3τον αρτον ημων τον επιουσιον διδου ημιν το καθ ημεραν 
+
+3Give us day by day our daily bread.
+n1 day by day: or, for the day
+#### 4
+4και αφες ημιν τας αμαρτιας ημων και γαρ αυτοι αφιεμεν παντι οφειλοντι ημιν και μη εισενεγκης ημας εις πειρασμον αλλα ρυσαι ημας απο του πονηρου 
+
+4And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil. 
 ### 20
 ει δε εν δακτυλω θεου εκβαλλω τα δαιμονια αρα εφθασεν εφ υμας η βασιλεια του θεου
 
@@ -887,6 +1429,10 @@ And it came to pass, as he spake these things, a certain woman of the company li
 αυτος δε ειπεν μενουνγε μακαριοι οι ακουοντες τον λογον του θεου και φυλασσοντες αυτον
 
 But he said, Yea rather, blessed [are] they that hear the word of God, and keep it.
+### 37
+εν δε τω λαλησαι ηρωτα αυτον φαρισαιος τις οπως αριστηση παρ αυτω εισελθων δε ανεπεσεν 
+
+And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat.
 ## c12
 ### 53
 διαμερισθησεται πατηρ εφ υιω και υιος επι πατρι μητηρ επι θυγατρι και θυγατηρ επι μητρι πενθερα επι την νυμφην αυτης και νυμφη επι την πενθεραν αυτης
@@ -897,10 +1443,26 @@ The father shall be divided against the son, and the son against the father; the
 παρησαν δε τινες εν αυτω τω καιρω απαγγελλοντες αυτω περι των γαλιλαιων ων το αιμα πιλατος εμιξεν μετα των θυσιων αυτων
 
 There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.
+### 11
+και ιδου γυνη ην πνευμα εχουσα ασθενειας ετη δεκα και οκτω και ην συγκυπτουσα και μη δυναμενη ανακυψαι εις το παντελες 
+
+And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up [herself]. 
+### 12
+ιδων δε αυτην ο ιησους προσεφωνησεν και ειπεν αυτη γυναι απολελυσαι της ασθενειας σου
+
+And when Jesus saw her, he called [her to him], and said unto her, Woman, thou art loosed from thine infirmity.
+### 22
+και διεπορευετο κατα πολεις και κωμας διδασκων και πορειαν ποιουμενος εις ιερουσαλημ
+
+And he went through the cities and villages, teaching, and journeying toward Jerusalem.
 ### 24
 αγωνιζεσθε εισελθειν δια της στενης πυλης οτι πολλοι λεγω υμιν ζητησουσιν εισελθειν και ουκ ισχυσουσιν
 
 Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.
+### 31
+31εν αυτη τη ημερα προσηλθον τινες φαρισαιοι λεγοντες αυτω εξελθε και πορευου εντευθεν οτι ηρωδης θελει σε αποκτειναι 
+
+31The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee. 
 
 ## c14
 ### 26
@@ -925,7 +1487,34 @@ And as it was in the days of Noe, so shall it be also in the days of the Son of 
 ησθιον επινον εγαμουν εξεγαμιζοντο αχρι ης ημερας εισηλθεν νωε εις την κιβωτον και ηλθεν ο κατακλυσμος και απωλεσεν απαντας
 
 They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.
+## c18
+#### 9
+9ειπεν δε και προς τινας τους πεποιθοτας εφ εαυτοις οτι εισιν δικαιοι και εξουθενουντας τους λοιπους την παραβολην ταυτην 
+
+9And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:
+n1 that…: or, as being righteous
+#### 10
+10ανθρωποι δυο ανεβησαν εις το ιερον προσευξασθαι ο εις φαρισαιος και ο ετερος τελωνης 
+
+10Two men went up into the temple to pray; the one a Pharisee, and the other a publican. 
+#### 11
+11ο φαρισαιος σταθεις προς εαυτον ταυτα προσηυχετο ο θεος ευχαριστω σοι οτι ουκ ειμι ωσπερ οι λοιποι των ανθρωπων αρπαγες αδικοι μοιχοι η και ως ουτος ο τελωνης 
+
+11The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men [are], extortioners, unjust, adulterers, or even as this publican. 
+#### 12
+12νηστευω δις του σαββατου αποδεκατω παντα οσα κτωμαι 
+
+12I fast twice in the week, I give tithes of all that I possess. 
+#### 13
+13και ο τελωνης μακροθεν εστως ουκ ηθελεν ουδε τους οφθαλμους εις τον ουρανον επαραι αλλ ετυπτεν εις το στηθος αυτου λεγων ο θεος ιλασθητι μοι τω αμαρτωλω
+
+13And the publican, standing afar off, would not lift up so much as [his] eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner. 
+#### 14
+14λεγω υμιν κατεβη ουτος δεδικαιωμενος εις τον οικον αυτου η εκεινος οτι πας ο υψων εαυτον ταπεινωθησεται ο δε ταπεινων εαυτον υψωθησεται
+
+14I tell you, this man went down to his house justified [rather] than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 ## c20
+
 ### 34
 και αποκριθεις ειπεν αυτοις ο ιησους οι υιοι του αιωνος τουτου γαμουσιν και εκγαμισκονται
 

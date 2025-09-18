@@ -31,6 +31,17 @@ For before the child shall have knowledge to cry, My father, and my mother, the 
 και εξελευσεται ραβδος εκ της ριζης ιεσσαι και ανθος εκ της ριζης αναβησεται
 
 And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:
+#### 11
+ 
+ וְהָיָ֣ה ׀ בַּיּ֣וֹם הַה֗וּא יוֹסִ֨יף אֲדֹנָ֤י ׀ שֵׁנִית֙ יָד֔וֹ לִקְנ֖וֹת אֶת־שְׁאָ֣ר עַמּ֑וֹ אֲשֶׁ֣ר יִשָּׁאֵר֩ מֵאַשּׁ֨וּר וּמִמִּצְרַ֜יִם וּמִפַּתְר֣וֹס וּמִכּ֗וּשׁ וּמֵעֵילָ֤ם וּמִשִּׁנְעָר֙ וּמֵ֣חֲמָ֔ת וּמֵאִיֵּ֖י
+ 
+ 11And it shall come to pass in that day, [that] the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea. 
+
+## c13
+#### 19
+וְהָיְתָה בָבֶל צְבִי מַמְלָכוֺת תִּפְאֶרֶת גְּאוֺן כַּשְׂדִּים כְּמַהְפֵּכַת אֱלֹהִים אֶת-סְדֹם וְאֶת-עֲמֹרָה	1x
+
+And Babylon, the glory of kingdoms, the beauty of the Chaldees´ excellency, shall be as when God overthrew Sodom and Gomorrah.
 ## c14
 #### 4
 וְנָשָׂ֜אתָ הַמָּשָׁ֥ל הַזֶּ֛ה עַל־מֶ֥לֶךְ בָּבֶ֖ל וְאָמָ֑רְתָּ אֵ֚יךְ שָׁבַ֣ת נֹגֵ֔שׂ שָׁבְתָ֖ה מַדְהֵבָֽה ׃
@@ -198,7 +209,44 @@ Behold, the days come, saith the LORD, that I will raise unto David a righteous 
 וּבִנְבִיאֵ֥י שֹׁמְר֖וֹן רָאִ֣יתִי תִפְלָ֑ה הִנַּבְּא֣וּ בַבַּ֔עַל וַיַּתְע֥וּ אֶת־עַמִּ֖י אֶת־יִשְׂרָאֵֽל ׃ ס
 
 And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to err.
+## c27
+#### 6
+וְעַתָּה אָנֹכִי נָתַתִּי אֶת-כָּל-הָאֲרָצוֺת הָאֵלֶּה בְּיַד נְבוּכַדְנֶאצַּר מֶלֶךְ-בָּבֶל עַבְדִּי וְגַם אֶת-חַיַּת הַ׹ָּׂדֶה נָתַתִּי לוֺ לְעָבְדוֺ	1x
+
+And now have I given all these lands into the hand of Nebuchadnezzar the king of Babylon, my servant; and the beasts of the field have I given him also to serve him.
+#### 8
+וְהָיָה הַגּוֺי וְהַמַּמְלָכָה אֲשֶׁר לֹא-יַעַבְדוּ אֹתוֺ אֶת-נְבוּכַדְנֶאצַּר מֶלֶךְ-בָּבֶל וְאֵת אֲשֶׁר לֹא-יִתֵּן אֶת-צַוָּארוֺ בְּעֹל מֶלֶךְ בָּבֶל בַּחֶרֶב וּבָרָעָב וּבַדֶּבֶר אֶפְקֹד עַל-הַגּוֺי הַהוּא נְאֻם-יְהוָה עַד-תֻּמִּי אֹתָם בְּיָדוֺ	1x
+
+And it shall come to pass, [that] the nation and kingdom which will not serve the same Nebuchadnezzar the king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I punish, saith the LORD, with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand.
+#### 20
+אֲשֶׁר לֹא-לְקָחָם נְבוּכַדְנֶאצַּר מֶלֶךְ בָּבֶל בַּגְלוֺתוֺ אֶת-יכוניה )יְכָנְיָה( בֶן-יְהוֺיָקִים מֶלֶךְ-יְהוּדָה מִירוּשָׁלִַם בָּבֶלָה וְאֵת כָּל-חֹרֵי יְהוּדָה וִירוּשָׁלִָם	1x
+
+Which Nebuchadnezzar king of Babylon took not, when he carried away captive Jeconiah the son of Jehoiakim king of Judah from Jerusalem to Babylon, and all the nobles of Judah and Jerusalem;
+## c28
+#### 3
+בְּעוֺד שְׁנָתַיִם יָמִים אֲנִי מֵשִׁיב אֶל-הַמָּקוֺם הַזֶּה אֶת-כָּל-כְּלֵי בֵּית יְהוָה אֲשֶׁר לָקַח נְבוּכַדְנֶאצַּר מֶלֶךְ-בָּבֶל מִן-הַמָּקוֺם הַזֶּה וַיְבִיאֵם בָּבֶל	1x
+
+Within two full years will I bring again into this place all the vessels of the LORD´S house, that Nebuchadnezzar king of Babylon took away from this place, and carried them to Babylon:
+#### 11
+וַיֹּאמֶר חֲנַנְיָה לְעֵינֵי כָל-הָעָם לֵאמֹר כֹּה אָמַר יְהוָה כָּכָה אֶשְׁבֹּר אֶת-עֹל נְבֻכַדְנֶאצַּר מֶלֶךְ-בָּבֶל בְּעוֺד שְׁנָתַיִם יָמִים מֵעַל צַוַּאר כָּל-הַגּוֺיִם וַיֵּלֶךְ יִרְמְיָה הַנָּבִיא לְדַרְכּוֺ	1x
+
+And Hananiah spake in the presence of all the people, saying, Thus saith the LORD; Even so will I break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years. And the prophet Jeremiah went his way.
+#### 14
+כִּי כֹה-אָמַר יְהוָה צְבָאוֺת אֱלֹהֵי יִשְׂרָאֵל עֹל בַּרְזֶל נָתַתִּי עַל-צַוַּאר כָּל-הַגּוֺיִם הָאֵלֶּה לַעֲבֹד אֶת-נְבֻכַדְנֶאצַּר מֶלֶךְ-בָּבֶל וַעֲבָדֻהוּ וְגַם אֶת-חַיַּת הַ׹ָּׂדֶה נָתַתִּי לוֺ	1x
+
+For thus saith the LORD of hosts, the God of Israel; I have put a yoke of iron upon the neck of all these nations, that they may serve Nebuchadnezzar king of Babylon; and they shall serve him: and I have given him the beasts of the field also.
+## c29
+#### 1
+וְאֵלֶּה דִּבְרֵי הַסֵּפֶר אֲשֶׁר שָׁלַח יִרְמְיָה הַנָּבִיא מִירוּשָׁלִָם אֶל-יֶתֶר זִקְנֵי הַגּוֺלָה וְאֶל-הַכֹּהֲנִים וְאֶל-הַנְּבִיאִים וְאֶל-כָּל-הָעָם אֲשֶׁר הֶגְלָה נְבוּכַדְנֶאצַּר מִירוּשָׁלִַם בָּבֶלָה	1x
+
+Now these [are] the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;
+#### 3
+בְּיַד אֶלְעָשָׂה בֶן-שָׁפָן וּגְמַרְיָה בֶּן-חִלְקִיָּה אֲשֶׁר שָׁלַח צִדְקִיָּה מֶלֶךְ-יְהוּדָה אֶל-נְבוּכַדְנֶאצַּר מֶלֶךְ בָּבֶל בָּבֶלָה לֵאמֹר	1x
+
+By the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent unto Babylon to Nebuchadnezzar king of Babylon ) saying,
+
 ## c32
+
 ### 35
 וַיִּבְנוּ֩ אֶת־בָּמ֨וֹת הַבַּ֜עַל אֲשֶׁ֣ר ׀ בְּגֵ֣יא בֶן־הִנֹּ֗ם לְ֠הַעֲבִיר אֶת־בְּנֵיהֶ֣ם וְאֶת־בְּנוֹתֵיהֶם֮ לַמֹּלֶךְ֒ אֲשֶׁ֣ר לֹֽא־צִוִּיתִ֗ים וְלֹ֤א עָֽלְתָה֙ עַל־לִבִּ֔י לַעֲשׂ֖וֹת הַתּוֹעֵבָ֣ה הַזֹּ֑את לְמַ֖עַן החטי אֶת־יְהוּדָֽה ׃ ס
 
@@ -213,6 +261,16 @@ See, days are coming—declares the LORD—when I will fulfill the promise that 
 בַּיָּמִים הָהֵם וּבָעֵת הַהִיא אַצְמִיחַ לְדָוִד צֶמַח צְדָקָה וְעָשָׂה מִשְׁפָּט וּצְדָקָה בָּאָרֶץ 
 
 In those days and at that time, I will raise up a true branch of David’s line, and he shall do what is just and right in the land.
+## c34
+#### 1
+הַדָּבָר אֲשֶׁר-הָיָה אֶל-יִרְמְיָהוּ מֵאֵת יְהוָה וּנְבוּכַדְרֶאצַּר מֶלֶךְ-בָּבֶל וְכָל-חֵילוֺ וְכָל-מַמְלְכוֺת אֶרֶץ מֶמְשֶׁלֶת יָדוֺ וְכָל-הָעַמִּים נִלְחָמִים עַל-יְרוּשָׁלִַם וְעַל-כָּל-עָרֶיהָ לֵאמֹר	1x
+
+The word which came unto Jeremiah from the LORD, when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying,
+## c39
+#### 5
+וַיִּרְדְּפוּ חֵיל-כַּשְׂדִּים אַחֲרֵיהֶם וַיַּ׹ִּׂגוּ אֶת-צִדְקִיָּהוּ בְּעַרְבוֺת יְרֵחוֺ וַיִּקְחוּ אוֺתוֺ וַיַּעֲלֻהוּ אֶל-נְבוּכַדְרֶאצַּר מֶלֶךְ-בָּבֶל רִבְלָתָה בְּאֶרֶץ חֲמָת וַיְדַבֵּר אִתּוֺ מִשְׁפָּטִים	1x
+
+But the Chaldeans´ army pursued after them, and overtook Zedekiah in the plains of Jericho: and when they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath, where he gave judgment upon him.
 # ezk
 ## c1
 https://biblehub.com/lexicon/ezekiel/1-26.htm
@@ -268,6 +326,111 @@ The appearance of the wheels and their work [was] like unto the colour of a bery
 et super firmamentum quod erat inminens capiti eorum quasi aspectus lapidis sapphyri similitudo throni et super similitudinem throni similitudo quasi aspectus hominis desuper
 
 And above the firmament that [was] over their heads [was] the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne [was] the likeness as the appearance of a man above upon it.
+## c23
+#### 1
+וַיְהִידְבַר-יְהוָהאֵלַי לֵאמֹר 
+
+1The word of the LORD came again unto me, saying, 
+#### 2
+בֶּן-אָדָםשְׁתַּיִם נָשִׁים בְּנוֺתאֵם-אַחַתהָיוּ 
+
+2Son of man, there were two women, the daughters of one mother: 
+#### 3
+וַתִּזְנֶינָה בְמִצְרַיִם בִּנְעוּרֵיהֶן זָנוּ שָׁמָּה מֹעֲכוּ שְׁדֵיהֶן וְשָׁם עִ׹ּׂוּ דַּדֵּי בְּתוּלֵיהֶן 
+
+3And they committed whoredoms in Egypt; they committed whoredoms in their youth: there were their breasts pressed, and there they bruised the teats of their virginity. 
+#### 4
+וּשְׁמוֺתָן אָהֳלָה הַגְּדוֺלָה וְאָהֳלִיבָה אֲחוֺתָהּ וַתִּהְיֶינָה לִי וַתֵּלַדְנָה בָּנִים וּבָנוֺת וּשְׁמוֺתָן שֹׁמְרוֺן אָהֳלָה וִירוּשָׁלִַם אָהֳלִיבָה 
+
+4And the names of them [were] Aholah the elder, and Aholibah her sister: and they were mine, and they bare sons and daughters. Thus [were] their names; Samaria [is] Aholah, and Jerusalem Aholibah. (Aholah: that is, His tent, or, tabernacle)
+n1 Aholibah: that is, My tabernacle in her
+#### 5
+וַתִּזֶן אָהֳלָה תַּחְתָּי וַתֶּעְגַּבעַל-מְאַהֲבֶיהָאֶל-אַשּׁוּרקְרוֺבִים 
+
+5And Aholah played the harlot when she was mine; and she doted on her lovers, on the Assyrians [her] neighbours, 
+#### 6
+לְבֻשֵׁי תְכֵלֶת פַּחוֺת וּסְגָנִים בַּחוּרֵי חֶמֶד כֻּלָּם פָּרָשִׁים רֹכְבֵי סוּסִים 
+
+6[Which were] clothed with blue, captains and rulers, all of them desirable young men, horsemen riding upon horses. 
+#### 7
+וַתִּתֵּן תַּזְנוּתֶיהָ עֲלֵיהֶם מִבְחַרבְּנֵי-אַשּׁוּרכֻּלָּם וּבְכֹלאֲשֶׁר-עָגְבָהבְּכָל-גִּלּוּלֵיהֶםנִטְמָאָה 
+
+7Thus she committed her whoredoms with them, with all them [that were] the chosen men of Assyria, and with all on whom she doted: with all their idols she defiled herself.(committed…: Heb. bestowed her whoredoms upon them)
+n1 the chosen…: Heb. the choice of the children of Asshur
+#### 8
+וְאֶת-תַּזְנוּתֶיהָמִמִּצְרַיִם לֹא עָזָבָה כִּי אוֺתָהּ שָׁכְבוּ בִנְעוּרֶיהָ וְהֵמָּה עִ׹ּׂוּ דַּדֵּי בְתוּלֶיהָ וַיִּשְׁפְּכוּ תַזְנוּתָם עָלֶיהָ 
+
+8Neither left she her whoredoms [brought] from Egypt: for in her youth they lay with her, and they bruised the breasts of her virginity, and poured their whoredom upon her. 
+#### 9
+לָכֵן נְתַתִּיהָבְּיַד-מְאַהֲבֶיהָבְּיַד בְּנֵי אַשּׁוּר אֲשֶׁר עָגְבָה עֲלֵיהֶם 
+
+9Wherefore I have delivered her into the hand of her lovers, into the hand of the Assyrians, upon whom she doted. 
+#### 10
+הֵמָּה גִּלּוּ עֶרְוָתָהּ בָּנֶיהָ וּבְנוֺתֶיהָ לָקָחוּ וְאוֺתָהּ בַּחֶרֶב הָרָגוּוַתְּהִי-שֵׁםלַנָּשִׁים וּשְׁפוּטִים עָשׂוּ בָהּ 
+
+10These discovered her nakedness: they took her sons and her daughters, and slew her with the sword: and she became famous among women; for they had executed judgment upon her.
+n1 famous: Heb. a name
+#### 11
+וַתֵּרֶא אֲחוֺתָהּ אָהֳלִיבָה וַתַּשְׁחֵת עַגְבָתָהּ מִמֶּנָּהוְאֶת-תַּזְנוּתֶיהָמִזְּנוּנֵי אֲחוֺתָהּ 
+
+11And when her sister Aholibah saw [this], she was more corrupt in her inordinate love than she, and in her whoredoms more than her sister in [her] whoredoms. (she was…: Heb. she corrupted her inordinate love more than, etc)
+n1 more than…: Heb. more than the whoredoms of her sister
+#### 12
+אֶל-בְּנֵיאַשּׁוּר עָגָבָה פַּחוֺת וּסְגָנִים קְרֹבִים לְבֻשֵׁי מִכְלוֺל פָּרָשִׁים רֹכְבֵי סוּסִים בַּחוּרֵי חֶמֶד כֻּלָּם 
+
+12She doted upon the Assyrians [her] neighbours, captains and rulers clothed most gorgeously, horsemen riding upon horses, all of them desirable young men. 
+#### 13
+וָאֵרֶא כִּי נִטְמָאָה דֶּרֶךְ אֶחָד לִשְׁתֵּיהֶן 
+
+13Then I saw that she was defiled, [that] they [took] both one way, 
+#### 14
+וַתּוֺסֶףאֶל-תַּזְנוּתֶיהָוַתֵּרֶא אַנְשֵׁי מְחֻקֶּהעַל-הַקִּירצַלְמֵי כשדיים )כַשְׂדִּים( חֲקֻקִים בַּשָּׁשַׁר 
+
+14And [that] she increased her whoredoms: for when she saw men pourtrayed upon the wall, the images of the Chaldeans pourtrayed with vermilion, 
+#### 15
+חֲגוֺרֵי אֵזוֺר בְּמָתְנֵיהֶם סְרוּחֵי טְבוּלִים בְּרָאשֵׁיהֶם מַרְאֵה שָׁלִשִׁים כֻּלָּם דְּמוּתבְּנֵי-בָבֶלכַּשְׂדִּים אֶרֶץ מוֺלַדְתָּם 
+
+15Girded with girdles upon their loins, exceeding in dyed attire upon their heads, all of them princes to look to, after the manner of the Babylonians of Chaldea, the land of their nativity: 
+#### 16
+ותעגב )וַתַּעְגְּבָה( עֲלֵיהֶם לְמַרְאֵה עֵינֶיהָ וַתִּשְׁלַח מַלְאָכִים אֲלֵיהֶם כַּשְׂדִּימָה 
+16And as soon as she saw them with her eyes, she doted upon them, and sent messengers unto them into Chaldea.
+n1 as soon…: Heb. at the sight of her eyes
+#### 17
+וַיָּבֹאוּ אֵלֶיהָ בְנֵי-בָבֶל לְמִשְׁכַּב  דֹּדִים וַיְטַמְּאוּ אוֺתָהּ בְּתַזְנוּתָםוַתִּטְמָא-בָםוַתֵּקַע נַפְשָׁהּ
+
+17And the Babylonians came to her into the bed of love, and they defiled her with their whoredom, and she was polluted with them, and her mind was alienated from them.(Babylonians: Heb. children of Babel)
+#### 18
+וַתְּגַל תַּזְנוּתֶיהָ וַתְּגַלאֶת-עֶרְוָתָהּוַתֵּקַע נַפְשִׁי מֵעָלֶיהָ כַּאֲשֶׁר נָקְעָה נַפְשִׁי מֵעַל אֲחוֺתָהּ 
+
+18So she discovered her whoredoms, and discovered her nakedness: then my mind was alienated from her, like as my mind was alienated from her sister. 
+#### 19
+וַתַּרְבֶּהאֶת-תַּזְנוּתֶיהָלִזְכֹּראֶת-יְמֵינְעוּרֶיהָ אֲשֶׁר זָנְתָה בְּאֶרֶץ מִצְרָיִם 
+
+19Yet she multiplied her whoredoms, in calling to remembrance the days of her youth, wherein she had played the harlot in the land of Egypt. 
+#### 20
+וַתַּעְגְּבָה עַל פִּלַגְשֵׁיהֶם אֲשֶׁרבְּשַׂר-חֲמוֺרִיםבְּשָׂרָם וְזִרְמַת סוּסִים זִרְמָתָם 
+
+20For she doted upon their paramours, whose flesh [is as] the flesh of asses, and whose issue [is like] the issue of horses. 
+#### 21
+וַתִּפְקְדִי אֵת זִמַּת נְעוּרָיִךְ בַּעְשׂוֺת מִמִּצְרַיִם דַּדַּיִךְ לְמַעַן שְׁדֵי נְעוּרָיִךְ 
+
+21Thus thou calledst to remembrance the lewdness of thy youth, in bruising thy teats by the Egyptians for the paps of thy youth. 
+#### 22
+לָכֵן אָהֳלִיבָהכֹּה-אָמַראֲדֹנָי יְהוִה הִנְנִי מֵעִיראֶת-מְאַהֲבַיִךְעָלַיִךְ אֵתאֲשֶׁר-נָקְעָהנַפְשֵׁךְ מֵהֶם וַהֲבֵאתִים עָלַיִךְ מִסָּבִיב 
+
+22Therefore, O Aholibah, thus saith the Lord GOD; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side; 
+#### 23
+בְּנֵי בָבֶלוְכָל-כַּשְׂדִּיםפְּקוֺד וְשׁוֺעַ וְקוֺעַכָּל-בְּנֵיאַשּׁוּר אוֺתָם בַּחוּרֵי חֶמֶד פַּחוֺת וּסְגָנִים כֻּלָּם שָׁלִשִׁים וּקְרוּאִים רֹכְבֵי סוּסִים כֻּלָּם 
+
+23The Babylonians, and all the Chaldeans, Pekod, and Shoa, and Koa, [and] all the Assyrians with them: all of them desirable young men, captains and rulers, great lords and renowned, all of them riding upon horses. 
+#### 24
+וּבָאוּ עָלַיִךְ הֹצֶן רֶכֶב וְגַלְגַּל וּבִקְהַל עַמִּים צִנָּה וּמָגֵן וְקוֺבַע יָשִׂימוּ עָלַיִךְ סָבִיב וְנָתַתִּי לִפְנֵיהֶם מִשְׁפָּט וּשְׁפָטוּךְ בְּמִשְׁפְּטֵיהֶם 
+
+24And they shall come against thee with chariots, wagons, and wheels, and with an assembly of people, [which] shall set against thee buckler and shield and helmet round about: and I will set judgment before them, and they shall judge thee according to their judgments. 
+#### 25
+וְנָתַתִּי קִנְאָתִי בָּךְ וְעָשׂוּ אוֺתָךְ בְּחֵמָה אַפֵּךְ וְאָזְנַיִךְ יָסִירוּ וְאַחֲרִיתֵךְ בַּחֶרֶב תִּפּוֺל הֵמָּה בָּנַיִךְ וּבְנוֺתַיִךְ יִקָּחוּ וְאַחֲרִיתֵךְ תֵּאָכֵל בָּאֵשׁ
+
+25And I will set my jealousy against thee, and they shall deal furiously with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire. 
 ## c28
 #### 3
 הִנֵּ֥ה חָכָ֛ם אַתָּ֖ה מדנאל כָּל־סָת֖וּם לֹ֥א עֲמָמֽוּךָ ׃
@@ -540,4 +703,13 @@ Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the m
 וַיַּרְאֵ֗נִי אֶת־יְהוֹשֻׁ֙עַ֙ הַכֹּהֵ֣ן הַגָּד֔וֹל עֹמֵ֕ד לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן עֹמֵ֥ד עַל־יְמִינ֖וֹ לְשִׂטְנֽוֹ ׃
 
 And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him.(Satan: that is, an adversary)
+### c5
+#### 10
+וָאֹמַ֕ר אֶל־הַמַּלְאָ֖ךְ הַדֹּבֵ֣ר בִּ֑י אָ֛נָה הֵ֥מָּה מֽוֹלִכ֖וֹת אֶת־הָאֵיפָֽה׃
+
+10Then said I to the angel that talked with me, Whither do these bear the ephah ? 
+#### 11
+וַיֹּ֣אמֶר אֵלַ֔י לִבְנֽוֹת־לָ֥הֿ בַ֖יִת בְּאֶ֣רֶץ שִׁנְעָ֑ר וְהוּכַ֛ן וְהֻנִּ֥יחָה שָּׁ֖ם עַל־מְכֻנָתָֽהּ
+
+11And he said unto me, To build it an house in the land of Shinar: and it shall be established, and set there upon her own base.
 ## malachi

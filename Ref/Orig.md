@@ -183,6 +183,29 @@ And perhaps profounder consideration will show, that as God is not a part, so ne
 and reason will not allow us to believe that the God who is over all is composed of parts, each one of which cannot do what all the other parts, can.
 ## b4
 ### c10
+Μετὰ ταῦτα πάλιν, ὡς σύνηθές ἐστιν αὐτῷ, μηδὲν κατασκευάσας μηδ' ἀποδείξας ὁ Κέλσος, ὡσπερεὶ οὐχ ὁσίως ἡμῶν οὐδ' εὐαγῶς περὶ τοῦ θεοῦ θρυλούντων, φησίν· 
+
+In the next place, Celsus, as is his custom having neither proved nor established anything, proceeds to say, as if we talked of God in a manner that was neither holy nor pious, that 
+
+Ὅτι μὲν οὖν οὐχ ὁσίως οὐδὲ εὐαγῶς ταῦτα περὶ τοῦ θεοῦ θρυλοῦσιν εὔδηλον, 
+
+"it is perfectly manifest that they babble about God in a way that is neither holy nor reverential;" 
+
+καὶ οἴεταί γε ἐπὶ θάμβει τῶν ἰδιωτῶν ταῦθ' ἡμᾶς ποιεῖν, οὐχὶ δὲ τἀληθῆ περὶ κολάσεων λέγοντας ἀναγκαίων τοῖς ἡμαρτηκόσι· 
+
+and he imagines that we do these things to excite the astonishment of the ignorant, and that we do not speak the truth regarding the necessity of punishments for those who have sinned. 
+
+διόπερ ἐξομοιοῖ ἡμᾶς τοῖς ἐν ταῖς Βακχικαῖς τελεταῖς τὰ φάσματα καὶ τὰ δείματα προεισάγουσι. 
+
+And accordingly he likens us to those who "in the Bacchic mysteries introduce phantoms and objects of terror." 
+
+Περὶ μὲν οὖν τῶν Βακχικῶν τελετῶν εἴτε τις ἐστὶ πιθανὸς λόγος εἴτε μηδεὶς τοιοῦτος, λεγέτωσαν Ἕλληνες καὶ ἀκουέτω Κέλσος καὶ οἱ συνθιασῶται αὐτοῦ· 
+
+With respect to the mysteries of Bacchus, whether there is any trustworthy account of them, or none that is such, let the Greeks tell, and let Celsus and his boon-companions listen. 
+
+ἡμεῖς δὲ περὶ τῶν ἡμετέρων ἀπολογούμεθα, λέγοντες ὅτι τὸ προκείμενον ἡμῖν ἐστιν ἐπανορθοῦν τὸ γένος τῶν ἀνθρώπων εἴτε διὰ τῶν περὶ κολάσεων ἀπειλῶν, ἃς πεπείσμεθα ἀναγκαίας εἶναι τῷ παντὶ τάχα δὲ καὶ τοῖς πεισομένοις αὐτὰς οὐκ ἀχρήστους, εἴτε διὰ τῶν ἐπὶ τοὺς καλῶς βεβιωκότας ἐπαγγελιῶν, περιεχουσῶν τὰ περὶ τῆς μακαρίας ἐν τῇ βασιλείᾳ τοῦ θεοῦ τοῖς ἀξίοις ὑπ' αὐτοῦ βασιλεύεσθαι διεξαγωγῆς.
+
+But we defend our own procedure, When we say that our object is to reform the human race, either by the threats of punishments which we are persuaded are necessary for the whole world, and which perhaps are not without use s to those who are to endure them; or by the promises made to those who have lived virtuous lives, and in which are contained the statements regarding the blessed termination which is to be found in the kingdom of God, reserved for those who are worthy of becoming His subjects. 
 ### c51
 Δοκεῖ δέ μοι καὶ ἀκηκοέναι ὅτι ἐστὶ συγγράμματα περιέχοντα τὰς τοῦ νόμου ἀλληγορίας, 
 

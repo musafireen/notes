@@ -52,7 +52,7 @@ And of the people are those who say that the Rewards and Punishments are in this
 
 Do you know that Punishment and Mercy are before the Gathering and before they are turned towards Allah and that occurs in this world through Incarnations into human forms and animal forms and different forms and then they are turned towards the Lord?"
 ## ref.6.1
-![[Qrsi#36:67]]
+![[Qrsi#36.67]]
 
 ## unr.6.1
 ## ref.6.2

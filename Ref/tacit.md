@@ -198,3 +198,87 @@ that, as he said, "the oldest of Italian sciences might not be lost through negl
 saepe adversis rei publicae temporibus accitos, quorum monitu redintegratas caerimonias et in posterum rectius habitas; primoresque Etruriae sponte aut patrum Romanorum impulsu retinuisse scientiam et in familias propagasse: quod nunc segnius fieri publica circa bonas artes socordia, et quia externae superstitiones valescant. et laeta quidem in praesens omnia, sed benignitati deum gratiam referendam, ne ritus sacrorum inter ambigua culti per prospera oblitterarentur. factum ex eo senatus consultum, viderent pontifices quae retinenda firmandaque haruspicum.
 
 It had often happened in evil days for the State that advisers had been summoned at whose suggestion ceremonies had been restored and observed more duly for the future. The nobles of Etruria, whether of their own accord or at the instigation of the Roman Senate, had retained this science, making it the inheritance of distinct families. It was now less zealously studied through the general indifference to all sound learning and to the growth of foreign superstitions. At present all is well, but we must show gratitude to the favour of Heaven, by taking care that the rites observed during times of peril may not be forgotten in prosperity." A resolution of the Senate was accordingly passed, charging the pontiffs to see what should be retained or reformed with respect to the "haruspices.
+
+# hist
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0080%3Abook%3D1%3Achapter%3D1
+## b5
+### c5
+Hi ritus quoquo modo inducti antiquitate defenduntur: 
+
+This worship, however introduced, is upheld by its antiquity; 
+
+cetera instituta, sinistra foeda, pravitate valuere. 
+
+all their other customs, which are at once perverse and disgusting, owe their strength to their very badness. 
+
+nam pessimus quisque spretis religionibus patriis tributa et stipes illuc congerebant, 
+
+The most degraded out of other races, scorning their national beliefs, brought to them their contributions and presents. 
+
+unde auctae Iudaeorum res, et quia apud ipsos fides obstinata, misericordia in promptu, sed adversus omnis alios hostile odium. 
+
+This augmented the wealth of the Jews, as also did the fact, that among themselves they are inflexibly honest and ever ready to shew compassion, though they regard the rest of mankind with all the hatred of enemies. 
+
+separati epulis, discreti cubilibus, proiectissima ad libidinem gens, alienarum concubitu abstinent; 
+
+They sit apart at meals, they sleep apart, and though, as a nation, they are singularly prone to lust, they abstain from intercourse with foreign women; 
+
+inter se nihil inlicitum. 
+
+among themselves nothing is unlawful. 
+
+circumcidere genitalia instituerunt ut diversitate noscantur. 
+
+Circumcision was adopted by them as a mark of difference from other men. 
+
+augendae tamen multitudini consulitur; 
+
+Still they provide for the increase of their numbers. 
+
+nam et necare quemquam ex agnatis nefas, animosque proelio aut suppliciis peremptorum aeternos putant: 
+
+It is a crime among them to kill any newly-born infant. They hold that the souls of all who perish in battle or by the hands of the executioner are immortal. 
+
+hinc generandi amor et moriendi contemptus. 
+
+Hence a passion for propagating their race and a contempt for death. 
+
+corpora condere quam cremare e more Aegyptio, eademque cura et de infernis persuasio, caelestium contra. 
+
+They are wont to bury rather than to burn their dead, following in this the Egyptian custom; they bestow the same care on the dead, and they hold the same belief about the lower world. Quite different is their faith about things divine. 
+
+transgressi in morem eorum idem usurpant, nec quicquam prius imbuuntur quam contemnere deos, exuere patriam, parentes liberos fratres vilia habere. 
+
+Those who come over to their religion adopt the practice, and have this lesson first instilled into them, to despise all gods, to disown their country, and set at nought parents, children, and brethren. 
+
+Aegyptii pleraque animalia effigiesque compositas venerantur, 
+
+The Egyptians worship many animals and images of monstrous form; 
+
+Iudaei mente sola unumque numen intellegunt: 
+
+the Jews have purely mental conceptions of Deity, as one in essence. 
+
+profanos qui deum imagines mortalibus materiis in species hominum effingant; 
+
+They call those profane who make representations of God in human shape out of perishable materials. 
+
+summum illud et aeternum neque imitabile neque interiturum. 
+
+They believe that Being to be supreme and eternal, neither capable of representation, nor of decay. 
+
+igitur nulla simulacra urbibus suis, nedum templis sistunt; 
+
+They therefore do not allow any images to stand in their cities, much less in their temples. 
+
+non regibus haec adulatio, non Caesaribus honor. 
+
+This flattery is not paid to their kings, nor this honour to our Emperors. 
+
+sed quia sacerdotes eorum tibia tympanisque concinebant, hedera vinciebantur vitisque aurea templo reperta, Liberum patrem coli, domitorem Orientis, quidam arbitrati sunt, nequaquam congruentibus institutis. 
+
+From the fact, however, that their priests used to chant to the music of flutes and cymbals, and to wear garlands of ivy, and that a golden vine was found in the temple, some have thought that they worshipped Father Liber, the conqueror of the East, though their institutions do not by any means harmonize with the theory; 
+
+quippe Liber festos laetosque ritus posuit, Iudaeorum mos absurdus sordidusque. 
+
+for Liber established a festive and cheerful worship, while the Jewish religion is tasteless and mean.

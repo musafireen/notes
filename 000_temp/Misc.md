@@ -1,3 +1,8 @@
+
+
+
+1st computer programmer ada lovelace witch
+
 C drive 97,195,700 bytes 90.9gb
 
 Hwinfo

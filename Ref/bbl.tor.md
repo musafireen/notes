@@ -162,6 +162,168 @@ And Noah builded an altar unto the LORD; and took of every clean beast, and of e
 
 And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man´s sake; for the imagination of man´s heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done. (a sweet…: Heb. a savour of rest or, satisfaction)
 ## c10
+#### 1
+וְאֵלֶּה תּוֺלְדֹתבְּנֵי-נֹחַשֵׁם חָם וָיָפֶת וַיִּוָּלְדוּ לָהֶם בָּנִים אַחַר הַמַּבּוּל 
+
+1Now these [are] the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood. 
+
+#### 2
+בְּנֵי יֶפֶת גֹּמֶר וּמָגוֺג וּמָדַי וְיָוָן וְתֻבָל וּמֶשֶׁךְ וְתִירָס 
+
+2The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras. 
+
+#### 3
+וּבְנֵי גֹּמֶר אַשְׁכְּנַז וְרִיפַת וְתֹגַרְמָה 
+
+3And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah. 
+
+#### 4
+וּבְנֵי יָוָן אֱלִישָׁה וְתַרְשִׁישׁ כִּתִּים וְדֹדָנִים 
+
+4And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.
+n1 Dodanim: or, as some read it, Rodanim
+
+#### 5
+מֵאֵלֶּה נִפְרְדוּ אִיֵּי הַגּוֺיִם בְּאַרְצֹתָם אִישׁ לִלְשֹׁנוֺ לְמִשְׁפְּחֹתָם בְּגוֺיֵהֶם 
+
+5By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations. 
+
+#### 6
+וּבְנֵי חָם כּוּשׁ וּמִצְרַיִם וּפוּט וּכְנָעַן 
+
+6And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.
+
+#### 7
+וּבְנֵי כוּשׁ סְבָא וַחֲוִילָה וְסַבְתָּה וְרַעְמָה וְסַבְתְּכָא וּבְנֵי רַעְמָה שְׁבָא וּדְדָן 
+
+7And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan. 
+
+#### 8
+וְכוּשׁ יָלַדאֶת-נִמְרֹדהוּא הֵחֵל לִהְיוֺת גִּבֹּר בָּאָרֶץ 
+
+8And Cush begat Nimrod: he began to be a mighty one in the earth. 
+
+#### 9
+הוּא-הָיָהגִבֹּר-צַיִדלִפְנֵי יְהוָהעַל-כֵּןיֵאָמַר כְּנִמְרֹד גִּבּוֺר צַיִד לִפְנֵי יְהוָה 
+
+9He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD. 
+
+#### 10
+וַתְּהִי רֵאשִׁית מַמְלַכְתּוֺ בָּבֶל וְאֶרֶךְ וְאַכַּד וְכַלְנֵה בְּאֶרֶץ שִׁנְעָר 
+
+10And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.
+n1 Babel: Gr. Babylon
+
+#### 11
+מִן-הָאָרֶץהַהִוא יָצָא אַשּׁוּר וַיִּבֶןאֶת-נִינְוֵהוְאֶת-רְחֹבֹתעִירוְאֶת-כָּלַח
+
+11Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah, (went…: or, he went out into Assyria)
+n1 the city…: or, the streets of the city
+
+#### 12
+וְאֶת-רֶסֶןבֵּין נִינְוֵה וּבֵין כָּלַח הִוא הָעִיר הַגְּדֹלָה 
+
+12And Resen between Nineveh and Calah: the same [is] a great city. 
+
+#### 13
+וּמִצְרַיִם יָלַדאֶת-לוּדִיםוְאֶת-עֲנָמִיםוְאֶת-לְהָבִיםוְאֶת-נַפְתֻּחִים
+
+13And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim, 
+
+#### 14
+וְאֶת-פַּתְרֻסִיםוְאֶת-כַּסְלֻחִיםאֲשֶׁר יָצְאוּ מִשָּׁם פְּלִשְׁתִּיםוְאֶת-כַּפְתֹּרִים
+
+14And Pathrusim, and Casluhim, (out of whom came Philistim, ) and Caphtorim. 
+
+#### 15
+וּכְנַעַן יָלַדאֶת-צִידֹןבְּכֹרוֺוְאֶת-חֵת
+
+15And Canaan begat Sidon his firstborn, and Heth,
+n1 Sidon: Heb. Tzidon
+
+#### 16
+וְאֶת-הַיְבוּסִיוְאֶת-הָאֱמֹרִיוְאֵת הַגִּרְגָּשִׁי 
+
+16And the Jebusite, and the Amorite, and the Girgasite, 
+
+#### 17
+וְאֶת-הַחִוִּיוְאֶת-הַעַרְקִיוְאֶת-הַסִּינִי
+
+17And the Hivite, and the Arkite, and the Sinite, 
+
+#### 18
+וְאֶת-הָאַרְוָדִיוְאֶת-הַצְּמָרִיוְאֶת-הַחֲמָתִיוְאַחַר נָפֹצוּ מִשְׁפְּחוֺת הַכְּנַעֲנִי 
+
+18And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad. 
+
+#### 19
+וַיְהִי גְּבוּל הַכְּנַעֲנִי מִצִּידֹן בֹּאֲכָה גְרָרָהעַד-עַזָּהבֹּאֲכָה סְדֹמָה וַעֲמֹרָה וְאַדְמָה וּצְבֹיִםעַד-לָשַׁע
+
+19And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.
+n1 Gaza: Heb. Azzah
+
+#### 20
+אֵלֶּהבְנֵי-חָםלְמִשְׁפְּחֹתָם לִלְשֹׁנֹתָם בְּאַרְצֹתָם בְּגוֺיֵהֶם 
+
+20These [are] the sons of Ham, after their families, after their tongues, in their countries, [and] in their nations. 
+
+#### 21
+וּלְשֵׁם יֻלַּדגַּם-הוּאאֲבִיכָּל-בְּנֵי-עֵבֶראֲחִי יֶפֶת הַגָּדוֺל 
+
+21Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were [children] born. 
+
+#### 22
+בְּנֵי שֵׁם עֵילָם וְאַשּׁוּר וְאַרְפַּכְשַׁד וְלוּד וַאֲרָם 
+
+22The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
+n1 Arphaxad: Heb. Arpachshad
+
+#### 23
+וּבְנֵי אֲרָם עוּץ וְחוּל וְגֶתֶר וָמַשׁ 
+
+23And the children of Aram; Uz, and Hul, and Gether, and Mash. 
+
+#### 24
+וְאַרְפַּכְשַׁד יָלַדאֶת-שָׁלַחוְשֶׁלַח יָלַדאֶת-עֵבֶר
+
+24And Arphaxad begat Salah; and Salah begat Eber.
+n1 Salah: Heb. Shelah
+
+#### 25
+וּלְעֵבֶר יֻלַּד שְׁנֵי בָנִים שֵׁם הָאֶחָד פֶּלֶג כִּי בְיָמָיו נִפְלְגָה הָאָרֶץ וְשֵׁם אָחִיו יָקְטָן 
+
+25And unto Eber were born two sons: the name of one [was] Peleg; for in his days was the earth divided; and his brother´s name [was] Joktan.
+n1 Peleg: that is Division
+
+#### 26
+וְיָקְטָן יָלַדאֶת-אַלְמוֺדָדוְאֶת-שָׁלֶףוְאֶת-חֲצַרְמָוֶתוְאֶת-יָרַח
+
+26And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah, 
+
+#### 27
+וְאֶת-הֲדוֺרָםוְאֶת-אוּזָלוְאֶת-דִּקְלָה
+
+27And Hadoram, and Uzal, and Diklah, 
+
+#### 28
+וְאֶת-עוֺבָלוְאֶת-אֲבִימָאֵלוְאֶת-שְׁבָא
+
+28And Obal, and Abimael, and Sheba, 
+
+#### 29
+וְאֶת-אוֺפִרוְאֶת-חֲוִילָהוְאֶת-יוֺבָבכָּל-אֵלֶּהבְּנֵי יָקְטָן 
+
+29And Ophir, and Havilah, and Jobab: all these [were] the sons of Joktan. 
+
+#### 30
+וַיְהִי מוֺשָׁבָם מִמֵּשָׁא בֹּאֲכָה סְפָרָה הַר הַקֶּדֶם 
+
+30And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east. 
+
+#### 31
+אֵלֶּהבְנֵי-שֵׁםלְמִשְׁפְּחֹתָם לִלְשֹׁנֹתָם בְּאַרְצֹתָם לְגוֺיֵהֶם 
+
+31These [are] the sons of Shem, after their families, after their tongues, in their lands, after their nations.
 #### 32
 אֵ֣לֶּה מִשְׁפְּחֹ֧ת בְּנֵי־נֹ֛חַ לְתוֹלְדֹתָ֖ם בְּגוֹיֵהֶ֑ם וּמֵאֵ֜לֶּה נִפְרְד֧וּ הַגּוֹיִ֛ם בָּאָ֖רֶץ אַחַ֥ר הַמַּבּֽוּל ׃ פ
 
@@ -244,6 +406,107 @@ And Abram journeyed, going on still toward the south.
 וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨רֶד אַבְרָ֤ם מִצְרַ֙יְמָה֙ לָג֣וּר שָׁ֔ם כִּֽי־כָבֵ֥ד הָרָעָ֖ב בָּאָֽרֶץ ׃
 
 And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine [was] grievous in the land.
+## c14
+#### 1
+וַיְהִ֗י בִּימֵי֙ אַמְרָפֶ֣ל מֶֽלֶךְ־שִׁנְעָ֔ר אַרְי֖וֹךְ מֶ֣לֶךְ אֶלָּסָ֑ר כְּדָרְלָעֹ֙מֶר֙ מֶ֣לֶךְ עֵילָ֔ם וְתִדְעָ֖ל מֶ֥לֶךְ גּוֹיִֽם׃
+
+1And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations; 
+#### 2
+עָשׂ֣וּ מִלְחָמָ֗ה אֶת־בֶּ֙רַע֙ מֶ֣לֶךְ סְדֹ֔ם וְאֶת־בִּרְשַׁ֖ע מֶ֣לֶךְ עֲמֹרָ֑ה שִׁנְאָ֣ב ׀ מֶ֣לֶךְ אַדְמָ֗ה וְשֶׁמְאֵ֙בֶר֙ מֶ֣לֶךְ צביים וּמֶ֥לֶךְ בֶּ֖לַע הִיא־צֹֽעַר׃
+
+2[That these] made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar. 
+#### 3
+כָּל־אֵ֙לֶּה֙ חָֽבְר֔וּ אֶל־עֵ֖מֶק הַשִּׂדִּ֑ים ה֖וּא יָ֥ם הַמֶּֽלַח׃
+
+3All these were joined together in the vale of Siddim, which is the salt sea. 
+#### 4
+שְׁתֵּ֤ים עֶשְׂרֵה֙ שָׁנָ֔ה עָבְד֖וּ אֶת־כְּדָרְלָעֹ֑מֶר וּשְׁלֹשׁ־עֶשְׂרֵ֥ה שָׁנָ֖ה מָרָֽדוּ׃
+
+4Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled. 
+#### 5
+וּבְאַרְבַּע֩ עֶשְׂרֵ֨ה שָׁנָ֜ה בָּ֣א כְדָרְלָעֹ֗מֶר וְהַמְּלָכִים֙ אֲשֶׁ֣ר אִתּ֔וֹ וַיַּכּ֤וּ אֶת־רְפָאִים֙ בְּעַשְׁתְּרֹ֣ת קַרְנַ֔יִם וְאֶת־הַזּוּזִ֖ים בְּהָ֑ם וְאֵת֙ הָֽאֵימִ֔ים בְּשָׁוֵ֖ה קִרְיָתָֽיִם׃
+
+5And in the fourteenth year came Chedorlaomer, and the kings that [were] with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim,
+n1 Shaveh…: or, The plain of Kiriathaim
+#### 6
+וְאֶת־הַחֹרִ֖י בְּהַרְרָ֣ם שֵׂעִ֑יר עַ֚ד אֵ֣יל פָּארָ֔ן אֲשֶׁ֖ר עַל־הַמִּדְבָּֽר׃
+
+6And the Horites in their mount Seir, unto Elparan, which [is] by the wilderness.
+n1 Elparan: or, The plain of Paran
+#### 7
+וַ֠יָּשֻׁבוּ וַיָּבֹ֜אוּ אֶל־עֵ֤ין מִשְׁפָּט֙ הִ֣וא קָדֵ֔שׁ וַיַּכּ֕וּ אֶֽת־כָּל־שְׂדֵ֖ה הָעֲמָלֵקִ֑י וְגַם֙ אֶת־הָ֣אֱמֹרִ֔י הַיֹּשֵׁ֖ב בְּחַֽצְצֹ֥ן תָּמָֽר׃
+
+7And they returned, and came to Enmishpat, which [is] Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezontamar. 
+#### 8
+וַיֵּצֵ֨א מֶֽלֶךְ־סְדֹ֜ם וּמֶ֣לֶךְ עֲמֹרָ֗ה וּמֶ֤לֶךְ אַדְמָה֙ וּמֶ֣לֶךְ צביים וּמֶ֥לֶךְ בֶּ֖לַע הִוא־צֹ֑עַר וַיַּֽעַרְכ֤וּ אִתָּם֙ מִלְחָמָ֔ה בְּעֵ֖מֶק הַשִּׂדִּֽים׃
+
+8And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same [is] Zoar; ) and they joined battle with them in the vale of Siddim; 
+#### 9
+אֵ֣ת כְּדָרְלָעֹ֜מֶר מֶ֣לֶךְ עֵילָ֗ם וְתִדְעָל֙ מֶ֣לֶךְ גּוֹיִ֔ם וְאַמְרָפֶל֙ מֶ֣לֶךְ שִׁנְעָ֔ר וְאַרְי֖וֹךְ מֶ֣לֶךְ אֶלָּסָ֑ר אַרְבָּעָ֥ה מְלָכִ֖ים אֶת־הַחֲמִשָּֽׁה׃
+
+9With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five. 
+#### 10
+וְעֵ֣מֶק הַשִׂדִּ֗ים בֶּֽאֱרֹ֤ת בֶּאֱרֹת֙ חֵמָ֔ר וַיָּנֻ֛סוּ מֶֽלֶךְ־סְדֹ֥ם וַעֲמֹרָ֖ה וַיִּפְּלוּ־שָׁ֑מָּה וְהַנִּשְׁאָרִ֖ים הֶ֥רָה נָּֽסוּ׃
+
+10And the vale of Siddim [was full of] slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain. 
+#### 11
+וַ֠יִּקְחוּ אֶת־כָּל־רְכֻ֨שׁ סְדֹ֧ם וַעֲמֹרָ֛ה וְאֶת־כָּל־אָכְלָ֖ם וַיֵּלֵֽכוּ׃
+
+11And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way. 
+#### 12
+וַיִּקְח֨וּ אֶת־ל֧וֹט וְאֶת־רְכֻשׁ֛וֹ בֶּן־אֲחִ֥י אַבְרָ֖ם וַיֵּלֵ֑כוּ וְה֥וּא יֹשֵׁ֖ב בִּסְדֹֽם׃
+
+12And they took Lot, Abram´s brother´s son, who dwelt in Sodom, and his goods, and departed. 
+#### 13
+וַיָּבֹא֙ הַפָּלִ֔יט וַיַּגֵּ֖ד לְאַבְרָ֣ם הָעִבְרִ֑י וְהוּא֩ שֹׁכֵ֨ן בְּאֵֽלֹנֵ֜י מַמְרֵ֣א הָאֱמֹרִ֗י אֲחִ֤י אֶשְׁכֹּל֙ וַאֲחִ֣י עָנֵ֔ר וְהֵ֖ם בַּעֲלֵ֥י בְרִית־אַבְרָֽם׃
+
+13And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these [were] confederate with Abram. 
+#### 14
+וַיִּשְׁמַ֣ע אַבְרָ֔ם כִּ֥י נִשְׁבָּ֖ה אָחִ֑יו וַיָּ֨רֶק אֶת־חֲנִיכָ֜יו יְלִידֵ֣י בֵית֗וֹ שְׁמֹנָ֤ה עָשָׂר֙ וּשְׁלֹ֣שׁ מֵא֔וֹת וַיִּרְדֹּ֖ף עַד־דָּֽן׃
+
+14And when Abram heard that his brother was taken captive, he armed his trained [servants], born in his own house, three hundred and eighteen, and pursued [them] unto Dan. (armed: or, led forth)
+n1 trained: or, instructed
+#### 15
+וַיֵּחָלֵ֨ק עֲלֵיהֶ֧ם ׀ לַ֛יְלָה ה֥וּא וַעֲבָדָ֖יו וַיַּכֵּ֑ם וַֽיִּרְדְּפֵם֙ עַד־חוֹבָ֔ה אֲשֶׁ֥ר מִשְּׂמֹ֖אל לְדַמָּֽשֶׂק׃
+
+15And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which [is] on the left hand of Damascus. 
+#### 16
+וַיָּ֕שֶׁב אֵ֖ת כָּל־הָרְכֻ֑שׁ וְגַם֩ אֶת־ל֨וֹט אָחִ֤יו וּרְכֻשׁוֹ֙ הֵשִׁ֔יב וְגַ֥ם אֶת־הַנָּשִׁ֖ים וְאֶת־הָעָֽם׃
+
+16And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people. 
+#### 17
+וַיֵּצֵ֣א מֶֽלֶךְ־סְדֹם֮ לִקְרָאתוֹ֒ אַחֲרֵ֣י שׁוּב֗וֹ מֵֽהַכּוֹת֙ אֶת־כְּדָרלָעֹ֔מֶר וְאֶת־הַמְּלָכִ֖ים אֲשֶׁ֣ר אִתּ֑וֹ אֶל־עֵ֣מֶק שָׁוֵ֔ה ה֖וּא עֵ֥מֶק הַמֶּֽלֶךְ׃
+
+17And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that [were] with him, at the valley of Shaveh, which [is] the king´s dale. 
+#### 18
+וּמַלְכִּי־צֶ֙דֶק֙ מֶ֣לֶךְ שָׁלֵ֔ם הוֹצִ֖יא לֶ֣חֶם וָיָ֑יִן וְה֥וּא כֹהֵ֖ן לְאֵ֥ל עֶלְיֽוֹן׃
+
+18And Melchizedek king of Salem brought forth bread and wine: and he [was] the priest of the most high God. 
+#### 19
+וַֽיְבָרְכֵ֖הוּ וַיֹּאמַ֑ר בָּר֤וּךְ אַבְרָם֙ לְאֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃
+
+19And he blessed him, and said, Blessed [be] Abram of the most high God, possessor of heaven and earth: 
+#### 20
+וּבָרוּךְ֙ אֵ֣ל עֶלְי֔וֹן אֲשֶׁר־מִגֵּ֥ן צָרֶ֖יךָ בְּיָדֶ֑ךָ וַיִּתֶּן־ל֥וֹ מַעֲשֵׂ֖ר מִכֹּֽל׃
+
+20And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all. 
+#### 21
+וַיֹּ֥אמֶר מֶֽלֶךְ־סְדֹ֖ם אֶל־אַבְרָ֑ם תֶּן־לִ֣י הַנֶּ֔פֶשׁ וְהָרְכֻ֖שׁ קַֽח־לָֽךְ׃
+
+21And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
+n1 persons: Heb. souls
+#### 22
+וַיֹּ֥אמֶר אַבְרָ֖ם אֶל־מֶ֣לֶךְ סְדֹ֑ם הֲרִימֹ֨תִי יָדִ֤י אֶל־יְהוָה֙ אֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃
+
+22And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth, 
+#### 23
+אִם־מִחוּט֙ וְעַ֣ד שְׂרֽוֹךְ־נַ֔עַל וְאִם־אֶקַּ֖ח מִכָּל־אֲשֶׁר־לָ֑ךְ וְלֹ֣א תֹאמַ֔ר אֲנִ֖י הֶעֱשַׁ֥רְתִּי אֶת־אַבְרָֽם׃
+
+23That I will not [take] from a thread even to a shoelatchet, and that I will not take any thing that [is] thine, lest thou shouldest say, I have made Abram rich: 
+#### 24
+בִּלְעָדַ֗י רַ֚ק אֲשֶׁ֣ר אָֽכְל֣וּ הַנְּעָרִ֔ים וְחֵ֙לֶק֙ הָֽאֲנָשִׁ֔ים אֲשֶׁ֥ר הָלְכ֖וּ אִתִּ֑י עָנֵר֙ אֶשְׁכֹּ֣ל וּמַמְרֵ֔א הֵ֖ם יִקְח֥וּ חֶלְקָֽם׃ס
+
+24Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
 ## c15
 #### 3
 וַיֹּאמֶר אַבְרָם הֵן לִי לֹא נָתַתָּה זָרַע וְהִנֵּהבֶן-בֵּיתִייוֺרֵשׁ אֹתִי 

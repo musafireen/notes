@@ -10356,7 +10356,7 @@ Glorify, then, (O Prophet), the name of your Great Lord.
 56.75-96
 
 ![[#r56.3.1]]
-![[#r56.3.2]]
+![[#r56.3.2]]![[#r56.3.3]]
 ## r56.3.1
 
 [Q.56.75-80](https://www.islamicstudies.info/tafheem.php?sura=56&verse=75&to=80)
@@ -10398,6 +10398,10 @@ which none but the pure may touch;
 a revelation from the Lord of the Universe.
 
 
+## r56.3.3
+
+[Q.56.83-96](https://www.islamicstudies.info/tafheem.php?sura=56&verse=83&to=96)
+56.83-96
 ### 56:83
 فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ
 
@@ -31270,8 +31274,8 @@ Do not turn your eyes covetously towards the embellishments of worldly life that
 
 ## r56.3.2
 
-[Q.56.81-96](https://www.islamicstudies.info/tafheem.php?sura=56&verse=81&to=96)
-56.81-96
+[Q.56.81-82](https://www.islamicstudies.info/tafheem.php?sura=56&verse=81&to=82)
+56.81-82
 
 ### 56:81
 أَفَبِهَـٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ
