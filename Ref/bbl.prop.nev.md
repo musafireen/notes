@@ -67,6 +67,11 @@ I will ascend above the heights of the clouds; I will be like the most High.
 אַ֧ךְ אֶל־שְׁא֛וֹל תּוּרָ֖ד אֶל־יַרְכְּתֵי־בֽוֹר ׃
 
 Yet thou shalt be brought down to hell, to the sides of the pit.
+## c23
+#### 13
+הֵן אֶרֶץ כַּשְׂדִּים זֶה הָעָם לֹא הָיָה אַשּׁוּר יְסָדָהּ לְצִיִּים הֵקִימוּ בחיניו )בַחוּנָיו( עוֺרְרוּ אַרְמְנוֺתֶיהָ שָׂמָהּ לְמַפֵּלָה	1x
+
+Behold the land of the Chaldeans; this people was not, [till] the Assyrian founded it for them that dwell in the wilderness: they set up the towers thereof, they raised up the palaces thereof; [and] he brought it to ruin.
 ## c29
 #### 1
 ה֚וֹי אֲרִיאֵ֣ל אֲרִיאֵ֔ל קִרְיַ֖ת חָנָ֣ה דָוִ֑ד סְפ֥וּ שָׁנָ֛ה עַל־שָׁנָ֖ה חַגִּ֥ים יִנְקֹֽפוּ ׃
@@ -120,7 +125,6 @@ For the terrible one is brought to nought, and the scorner is consumed, and all 
 וְיָדְע֥וּ תֹֽעֵי־ר֖וּחַ בִּינָ֑ה וְרוֹגְנִ֖ים יִלְמְדוּ־לֶֽקַח
 
 They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
-
 ## c42
 ### 8
 אֲנִ֥י יְהוָ֖ה ה֣וּא שְׁמִ֑י וּכְבוֹדִי֙ לְאַחֵ֣ר לֹֽא־אֶתֵּ֔ן וּתְהִלָּתִ֖י לַפְּסִילִֽים ׃
@@ -128,6 +132,12 @@ They also that erred in spirit shall come to understanding, and they that murmur
 εγω κυριος ο θεος τουτο μου εστιν το ονομα την δοξαν μου ετερω ου δωσω ουδε τας αρετας μου τοις γλυπτοιςr
 
 I [am] the LORD: that [is] my name: and my glory will I not give to another, neither my praise to graven images.
+## c43
+
+#### 14
+כֹּה-אָמַר יְהוָה גֹּאַלְכֶם קְדוֺשׁ יִשְׂרָאֵל לְמַעַנְכֶם שִׁלַּחְתִּי בָבֶלָה וְהוֺרַדְתִּי בָרִיחִים כֻּלָּם וְכַשְׂדִּים בָּאֳנִיּוֺת רִנָּתָם	1x
+
+Thus saith the LORD, your redeemer, the Holy One of Israel; For your sake I have sent to Babylon, and have brought down all their nobles, and the Chaldeans, whose cry [is] in the ships.
 ## c45
 ### 6
 לְמַ֣עַן יֵדְע֗וּ מִמִּזְרַח־שֶׁ֙מֶשׁ֙ וּמִמַּ֣עֲרָבָ֔הּ כִּי־אֶ֖פֶס בִּלְעָדָ֑י אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד ׃
@@ -141,6 +151,25 @@ That they may know from the rising of the sun, and from the west, that [there is
 εγω ο κατασκευασας φως και ποιησας σκοτος ο ποιων ειρηνην και κτιζων κακα εγω κυριος ο θεος ο ποιων ταυτα παντα
 
 I form the light, and create darkness: I make peace, and create evil: I the LORD do all these [things].
+## c47
+#### 1
+רְדִי וּשְׁבִי עַל-עָפָר בְּתוּלַת בַּת-בָּבֶל שְׁבִי-לָאָרֶץ אֵין-כִּסֵּא בַּת-כַּשְׂדִּים כִּי לֹא תוֺסִיפִי יִקְרְאוּ-לָךְ רַכָּה וַעֲנֻגָּה	1x
+
+Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: [there is] no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
+#### 5
+שְׁבִי דוּמָם וּבֹאִי בַחֹשֶׁךְ בַּת-כַּשְׂדִּים כִּי לֹא תוֺסִיפִי יִקְרְאוּ-לָךְ גְּבֶרֶת מַמְלָכוֺת	1x
+
+Sit thou silent, and get thee into darkness, O daughter of the Chaldeans: for thou shalt no more be called, The lady of kingdoms.
+## c48
+#### 14
+הִקָּבְצוּ כֻלְּכֶם וּשְׁמָעוּ מִי בָהֶם הִגִּיד אֶת-אֵלֶּה יְהוָה אֲהֵבוֺ יַעֲשֶׂה חֶפְצוֺ בְּבָבֶל וּזְרֹעוֺ כַּשְׂדִּים	1x
+
+All ye, assemble yourselves, and hear; which among them hath declared these [things]? The LORD hath loved him: he will do his pleasure on Babylon, and his arm [shall be on] the Chaldeans.
+#### 20
+צְאוּ מִבָּבֶל בִּרְחוּ מִכַּשְׂדִּים בְּקוֺל רִנָּה הַגִּידוּ הַשְׁמִיעוּ זֹאת הוֺצִיאוּהָ עַד-קְצֵה הָאָרֶץ אִמְרוּ גָּאַל יְהוָה עַבְדּוֺ יַעֲקֹב	1x
+
+Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it [even] to the end of the earth; say ye, The LORD hath redeemed his servant Jacob.
+
 ## c54
 
 ## c66
@@ -198,6 +227,20 @@ Because he slew me not from the womb; or that my mother might have been my grave
 לָ֤מָּה זֶּה֙ מֵרֶ֣חֶם יָצָ֔אתִי לִרְא֥וֹת עָמָ֖ל וְיָג֑וֹן וַיִּכְל֥וּ בְּבֹ֖שֶׁת יָמָֽי ׃ פ
 
 Wherefore came I forth out of the womb to see labour and sorrow, that my days should be consumed with shame ?
+## c21
+#### 4
+כֹּה-אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל הִנְנִי מֵסֵב אֶת-כְּלֵי הַמִּלְחָמָה אֲשֶׁר בְּיֶדְכֶם אֲשֶׁר אַתֶּם נִלְחָמִים בָּם אֶת-מֶלֶךְ בָּבֶל וְאֶת-הַכַּשְׂדִּים הַצָּרִים עֲלֵיכֶם מִחוּץ לַחוֺמָה וְאָסַפְתִּי אוֺתָם אֶל-תּוֺךְ הָעִיר הַזֹּאת	1x
+
+Thus saith the LORD God of Israel; Behold, I will turn back the weapons of war that [are] in your hands, wherewith ye fight against the king of Babylon, and [against] the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city.
+#### 9
+הַיֹּשֵׁב בָּעִיר הַזֹּאת יָמוּת בַּחֶרֶב וּבָרָעָב וּבַדָּבֶר וְהַיּוֺצֵא וְנָפַל עַל-הַכַּשְׂדִּים הַצָּרִים עֲלֵיכֶם יחיה )וְחָיָה( וְהָיְתָה-לּוֺ נַפְשׁוֺ לְשָׁלָל	1x
+
+He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live and his life shall be unto him for a prey.
+## c22
+#### 25
+וּנְתַתִּיךׇ בְּיַד מְבַקְשֵׁי נַפְשֶׁךׇ וּבְיַד אֲשֶׁר-אַתָּה יָגוֺר מִפְּנֵיהֶם וּבְיַד נְבוּכַדְרֶאצַּר מֶלֶךְ-בָּבֶל וּבְיַד הַכַּשְׂדִּים	1x
+
+And I will give thee into the hand of them that seek thy life, and into the hand [of them] whose face thou fearest, even into the hand of Nebuchadrezzar king of Babylon, and into the hand of the Chaldeans.
 ## c23
 ### 5
 הִנֵּ֨ה יָמִ֤ים בָּאִים֙ נְאֻם־יְהוָ֔ה וַהֲקִמֹתִ֥י לְדָוִ֖ד צֶ֣מַח צַדִּ֑יק וּמָ֤לַךְ מֶ֙לֶךְ֙ וְהִשְׂכִּ֔יל וְעָשָׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָֽרֶץ ׃
@@ -209,6 +252,16 @@ Behold, the days come, saith the LORD, that I will raise unto David a righteous 
 וּבִנְבִיאֵ֥י שֹׁמְר֖וֹן רָאִ֣יתִי תִפְלָ֑ה הִנַּבְּא֣וּ בַבַּ֔עַל וַיַּתְע֥וּ אֶת־עַמִּ֖י אֶת־יִשְׂרָאֵֽל ׃ ס
 
 And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to err.
+## c24
+#### 5
+כֹּה-אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל כַּתְּאֵנִים הַטֹּבוֺת הָאֵלֶּה כֵּן-אַכִּיר אֶת-גָּלוּת יְהוּדָה אֲשֶׁר שִׁלַּחְתִּי מִן-הַמָּקוֺם הַזֶּה אֶרֶץ כַּשְׂדִּים לְטוֺבָה	1x
+
+Thus saith the LORD, the God of Israel; Like these good figs, so will I acknowledge them that are carried away captive of Judah, whom I have sent out of this place into the land of the Chaldeans for [their] good.
+## c25
+#### 12
+וְהָיָה כִמְלֹאות שִׁבְעִים שָׁנָה אֶפְקֹד עַל-מֶלֶךְ-בָּבֶל וְעַל-הַגּוֺי הַהוּא נְאֻם-יְהוָה אֶת-עֲוֺנָם וְעַל-אֶרֶץ כַּשְׂדִּים וְשַׂמְתִּי אֹתוֺ לְשִׁמְמוֺת עוֺלָם	1x
+
+And it shall come to pass, when seventy years are accomplished, [that] I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it perpetual desolations.
 ## c27
 #### 6
 וְעַתָּה אָנֹכִי נָתַתִּי אֶת-כָּל-הָאֲרָצוֺת הָאֵלֶּה בְּיַד נְבוּכַדְנֶאצַּר מֶלֶךְ-בָּבֶל עַבְדִּי וְגַם אֶת-חַיַּת הַ׹ָּׂדֶה נָתַתִּי לוֺ לְעָבְדוֺ	1x
@@ -244,15 +297,45 @@ Now these [are] the words of the letter that Jeremiah the prophet sent from Jeru
 בְּיַד אֶלְעָשָׂה בֶן-שָׁפָן וּגְמַרְיָה בֶּן-חִלְקִיָּה אֲשֶׁר שָׁלַח צִדְקִיָּה מֶלֶךְ-יְהוּדָה אֶל-נְבוּכַדְנֶאצַּר מֶלֶךְ בָּבֶל בָּבֶלָה לֵאמֹר	1x
 
 By the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent unto Babylon to Nebuchadnezzar king of Babylon ) saying,
-
 ## c32
+#### 4
+וְצִדְקִיָּהוּ מֶלֶךְ יְהוּדָה לֹא יִמָּלֵט מִיַּד הַכַּשְׂדִּים כִּי הִנָּתֹן יִנָּתֵן בְּיַד מֶלֶךְ-בָּבֶל וְדִבֶּר-פִּיו עִם-פִּיו וְעֵינָיו אֶת-עֵינָו תִּרְאֶינָה	1x
 
-### 35
+And Zedekiah king of Judah shall not escape out of the hand of the Chaldeans, but shall surely be delivered into the hand of the king of Babylon, and shall speak with him mouth to mouth, and his eyes shall behold his eyes;
+#### 5
+וּבָבֶל יוֺלִךְ אֶת-צִדְקִיָּהוּ וְשָׁם יִהְיֶה עַד-פָּקְדִי אֹתוֺ נְאֻם-יְהוָה כִּי תִלָּחֲמוּ אֶת-הַכַּשְׂדִּים לֹא תַצְלִיחוּ	1x
+
+And he shall lead Zedekiah to Babylon, and there shall he be until I visit him, saith the LORD: though ye fight with the Chaldeans, ye shall not prosper.
+#### 24
+
+הִנֵּה הַסֹּלְלוֺת בָּאוּ הָעִיר לְלָכְדָהּ וְהָעִיר נִתְּנָה בְּיַד הַכַּשְׂדִּים הַנִּלְחָמִים עָלֶיהָ מִפְּנֵי הַחֶרֶב וְהָרָעָב וְהַדָּבֶר וַאֲשֶׁר דִּבַּרְתָּ הָיָה וְהִנְּךׇ רֹאֶה	1x
+
+Behold the mounts, they are come unto the city to take it; and the city is given into the hand of the Chaldeans, that fight against it, because of the sword, and of the famine, and of the pestilence: and what thou hast spoken is come to pass; and, behold, thou seest [it].
+#### 25
+וְאַתָּה אָמַרְתָּ אֵלַי אֲדֹנָי יְהוִה קְנֵה-לְךׇ הַ׹ָּׂדֶה בַּכֶּסֶף וְהָעֵד עֵדִים וְהָעִיר נִתְּנָה בְּיַד הַכַּשְׂדִּים	1x
+
+And thou hast said unto me, O Lord GOD, Buy thee the field for money, and take witnesses; for the city is given into the hand of the Chaldeans.
+#### 28
+לָכֵן כֹּה אָמַר יְהוָה הִנְנִי נֹתֵן אֶת-הָעִיר הַזֹּאת בְּיַד הַכַּשְׂדִּים וּבְיַד נְבוּכַדְרֶאצַּר מֶלֶךְ-בָּבֶל וּלְכָדָהּ	1x
+
+Therefore thus saith the LORD; Behold, I will give this city into the hand of the Chaldeans, and into the hand of Nebuchadrezzar king of Babylon, and he shall take it:
+#### 29
+וּבָאוּ הַכַּשְׂדִּים הַנִּלְחָמִים עַל-הָעִיר הַזֹּאת וְהִצִּיתוּ אֶת-הָעִיר הַזֹּאת בָּאֵשׁ וּשְׂרָפוּהָ וְאֵת הַבָּתִּים אֲשֶׁר קִטְּרוּ עַל-גַּגּוֺתֵיהֶם לַבַּעַל וְהִסִּכוּ נְסָכִים לֵאלֹהִים אֲחֵרִים לְמַעַן הַכְעִסֵנִי	1x
+
+And the Chaldeans, that fight against this city, shall come and set fire on this city, and burn it with the houses, upon whose roofs they have offered incense unto Baal, and poured out drink offerings unto other gods, to provoke me to anger.
+#### 35
 וַיִּבְנוּ֩ אֶת־בָּמ֨וֹת הַבַּ֜עַל אֲשֶׁ֣ר ׀ בְּגֵ֣יא בֶן־הִנֹּ֗ם לְ֠הַעֲבִיר אֶת־בְּנֵיהֶ֣ם וְאֶת־בְּנוֹתֵיהֶם֮ לַמֹּלֶךְ֒ אֲשֶׁ֣ר לֹֽא־צִוִּיתִ֗ים וְלֹ֤א עָֽלְתָה֙ עַל־לִבִּ֔י לַעֲשׂ֖וֹת הַתּוֹעֵבָ֣ה הַזֹּ֑את לְמַ֖עַן החטי אֶת־יְהוּדָֽה ׃ ס
 
 And they built the high places of Baal, which [are] in the valley of the son of Hinnom, to cause their sons and their daughters to pass through [the fire] unto Molech; which I commanded them not, neither came it into my mind, that they should do this abomination, to cause Judah to sin.
+#### 43
+וְנִקְנָה הַ׹ָּׂדֶה בָּאָרֶץ הַזֹּאת אֲשֶׁר אַתֶּם אֹמְרִים שְׁמָמָה הִיא מֵאֵין אָדָם וּבְהֵמָה נִתְּנָה בְּיַד הַכַּשְׂדִּים	1x
 
+And fields shall be bought in this land, whereof ye say, [It is] desolate without man or beast; it is given into the hand of the Chaldeans.
 ## c33
+#### 5
+בָּאִים לְהִלָּחֵם אֶת-הַכַּשְׂדִּים וּלְמַלְאָם אֶת-פִּגְרֵי הָאָדָם אֲשֶׁר-הִכֵּיתִי בְאַפִּי וּבַחֲמָתִי וַאֲשֶׁר הִסְתַּרְתִּי פָנַי מֵהָעִיר הַזֹּאת עַל כָּל-רָעָתָם	1x
+
+They come to fight with the Chaldeans, but [it is] to fill them with the dead bodies of men, whom I have slain in mine anger and in my fury, and for all whose wickedness I have hid my face from this city.
 ### 14
 הִנֵּה יָמִים בָּאִיםנְאֻם-יְהוָהוַהֲקִמֹתִיאֶת-הַדָּבָרהַטּוֺב אֲשֶׁר דִּבַּרְתִּיאֶל-בֵּיתיִשְׂרָאֵלוְעַל-בֵּיתיְהוּדָה 
 
@@ -266,11 +349,153 @@ In those days and at that time, I will raise up a true branch of David’s line,
 הַדָּבָר אֲשֶׁר-הָיָה אֶל-יִרְמְיָהוּ מֵאֵת יְהוָה וּנְבוּכַדְרֶאצַּר מֶלֶךְ-בָּבֶל וְכָל-חֵילוֺ וְכָל-מַמְלְכוֺת אֶרֶץ מֶמְשֶׁלֶת יָדוֺ וְכָל-הָעַמִּים נִלְחָמִים עַל-יְרוּשָׁלִַם וְעַל-כָּל-עָרֶיהָ לֵאמֹר	1x
 
 The word which came unto Jeremiah from the LORD, when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying,
+## c35
+#### 11
+וַיְהִי בַּעֲלוֺת נְבוּכַדְרֶאצַּר מֶלֶךְ-בָּבֶל אֶל-הָאָרֶץ וַנֹּאמֶר בֹּאוּ וְנָבוֺא יְרוּשָׁלִַם מִפְּנֵי חֵיל הַכַּשְׂדִּים וּמִפְּנֵי חֵיל אֲרָם וַנֵּשֶׁב בִּירוּשָׁלִָם	1x
+
+But it came to pass, when Nebuchadrezzar king of Babylon came up into the land, that we said, Come, and let us go to Jerusalem for fear of the army of the Chaldeans, and for fear of the army of the Syrians: so we dwell at Jerusalem.
+## c37
+#### 5
+וְחֵיל פַּרְעֹה יָצָא מִמִּצְרָיִם וַיִּשְׁמְעוּ הַכַּשְׂדִּים הַצָּרִים עַל-יְרוּשָׁלִַם אֶת-שִׁמְעָם וַיֵּעָלוּ מֵעַל יְרוּשָׁלִָם	1x
+
+Then Pharaoh´s army was come forth out of Egypt: and when the Chaldeans that besieged Jerusalem heard tidings of them, they departed from Jerusalem.
+#### 8
+
+וְשָׁבוּ הַכַּשְׂדִּים וְנִלְחֲמוּ עַל-הָעִיר הַזֹּאת וּלְכָדֻהָ וּשְׂרָפֻהָ בָאֵשׁ	1x
+
+And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire.
+#### 9
+כֹּה אָמַר יְהוָה אַל-תַּשִּׁאוּ נַפְשֹׁתֵיכֶם לֵאמֹר הָלֹךְ יֵלְכוּ מֵעָלֵינוּ הַכַּשְׂדִּים כִּי-לֹא יֵלֵכוּ	1x
+
+Thus saith the LORD; Deceive not yourselves, saying, The Chaldeans shall surely depart from us: for they shall not depart.
+#### 10
+כִּי אִם-הִכִּיתֶם כָּל-חֵיל כַּשְׂדִּים הַנִּלְחָמִים אִתְּכֶם וְנִשְׁאֲרוּ-בָם אֲנָשִׁים מְדֻקָּרִים אִישׁ בְּאָהֳלוֺ יָקוּמוּ וְשָׂרְפוּ אֶת-הָעִיר הַזֹּאת בָּאֵשׁ	1x
+
+For though ye had smitten the whole army of the Chaldeans that fight against you, and there remained [but] wounded men among them, [yet] should they rise up every man in his tent, and burn this city with fire.
+#### 11
+וְהָיָה בְּהֵעָלוֺת חֵיל הַכַּשְׂדִּים מֵעַל יְרוּשָׁלִָם מִפְּנֵי חֵיל פַּרְעֹה	1x
+
+And it came to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh´s army,
+#### 13
+וַיְהִי-הוּא בְּשַׁעַר בִּנְיָמִן וְשָׁם בַּעַל פְּקִדֻת וּשְׁמוֺ יִרְאִיָּיה בֶּן-שֶׁלֶמְיָה בֶּן-חֲנַנְיָה וַיִּתְפֹּשׂ אֶת-יִרְמְיָהוּ הַנָּבִיא לֵאמֹר אֶל-הַכַּשְׂדִּים אַתָּה נֹפֵל	1x
+
+And when he was in the gate of Benjamin, a captain of the ward [was] there, whose name [was] Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, Thou fallest away to the Chaldeans.
+#### 14
+וַיֹּאמֶר יִרְמְיָהוּ שֶׁקֶר אֵינֶנִּי נֹפֵל עַל-הַכַּשְׂדִּים וְלֹא שָׁמַע אֵלָיו וַיִּתְפֹּשׂ יִרְאִיָּיה בְּיִרְמְיָהוּ וַיְבִאֵהוּ אֶל-הַ׹ָּׂרִים	1x
+
+Then said Jeremiah, [It is] false; I fall not away to the Chaldeans. But he hearkened not to him: so Irijah took Jeremiah, and brought him to the princes.
+## c38
+#### 2
+כֹּה אָמַר יְהוָה הַיֹּשֵׁב בָּעִיר הַזֹּאת יָמוּת בַּחֶרֶב בָּרָעָב וּבַדָּבֶר וְהַיֹּצֵא אֶל-הַכַּשְׂדִּים יחיה )וְחָיָה( וְהָיְתָה-לּוֺ נַפְשׁוֺ לְשָׁלָל וָחָי	1x
+
+Thus saith the LORD, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live
+#### 18
+וְאִם לֹא-תֵצֵא אֶל-שָׂרֵי מֶלֶךְ בָּבֶל וְנִתְּנָה הָעִיר הַזֹּאת בְּיַד הַכַּשְׂדִּים וּשְׂרָפוּהָ בָּאֵשׁ וְאַתָּה לֹא-תִמָּלֵט מִיָּדָם	1x
+
+But if thou wilt not go forth to the king of Babylon´s princes, then shall this city be given into the hand of the Chaldeans, and they shall burn it with fire, and thou shalt not escape out of their hand.
+
+#### 19
+וַיֹּאמֶר הַמֶּלֶךְ צִדְקִיָּהוּ אֶל-יִרְמְיָהוּ אֲנִי דֹאֵג אֶת-הַיְּהוּדִים אֲשֶׁר נָפְלוּ אֶל-הַכַּשְׂדִּים פֶּן-יִתְּנוּ אֹתִי בְּיָדָם וְהִתְעַלְּלוּ-בִי	1x
+
+And Zedekiah the king said unto Jeremiah, I am afraid of the Jews that are fallen to the Chaldeans, lest they deliver me into their hand, and they mock me.
+#### 23
+וְאֶת-כָּל-נָשֶׁיךׇ וְאֶת-בָּנֶיךׇ מוֺצִאִים אֶל-הַכַּשְׂדִּים וְאַתָּה לֹא-תִמָּלֵט מִיָּדָם כִּי בְיַד מֶלֶךְ-בָּבֶל תִּתָּפֵשׂ וְאֶת-הָעִיר הַזֹּאת תִּשְׂרֹף בָּאֵשׁ	1x
+
+So they shall bring out all thy wives and thy children to the Chaldeans: and thou shalt not escape out of their hand, but shalt be taken by the hand of the king of Babylon: and thou shalt cause this city to be burned with fire.
 ## c39
 #### 5
 וַיִּרְדְּפוּ חֵיל-כַּשְׂדִּים אַחֲרֵיהֶם וַיַּ׹ִּׂגוּ אֶת-צִדְקִיָּהוּ בְּעַרְבוֺת יְרֵחוֺ וַיִּקְחוּ אוֺתוֺ וַיַּעֲלֻהוּ אֶל-נְבוּכַדְרֶאצַּר מֶלֶךְ-בָּבֶל רִבְלָתָה בְּאֶרֶץ חֲמָת וַיְדַבֵּר אִתּוֺ מִשְׁפָּטִים	1x
 
 But the Chaldeans´ army pursued after them, and overtook Zedekiah in the plains of Jericho: and when they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath, where he gave judgment upon him.
+#### 8
+וְאֶת-בֵּית הַמֶּלֶךְ וְאֶת-בֵּית הָעָם שָׂרְפוּ הַכַּשְׂדִּים בָּאֵשׁ וְאֶת-חֹמוֺת יְרוּשָׁלִַם נָתָצוּ	1x
+
+And the Chaldeans burned the king´s house, and the houses of the people, with fire, and brake down the walls of Jerusalem.
+## c40
+#### 9
+וַיִּשָּׁבַע לָהֶם גְּדַלְיָהוּ בֶן-אֲחִיקָם בֶּן-שָׁפָן וּלְאַנְשֵׁיהֶם לֵאמֹר אַל-תִּירְאוּ מֵעֲבוֺד הַכַּשְׂדִּים שְׁבוּ בָאָרֶץ וְעִבְדוּ אֶת-מֶלֶךְ בָּבֶל וְיִיטַב לָכֶם	1x
+
+And Gedaliah the son of Ahikam the son of Shaphan sware unto them and to their men, saying, Fear not to serve the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be well with you.
+#### 10
+וַאֲנִי הִנְנִי יֹשֵׁב בַּמִּצְפָּה לַעֲמֹד לִפְנֵי הַכַּשְׂדִּים אֲשֶׁר יָבֹאוּ אֵלֵינוּ וְאַתֶּם אִסְפוּ יַיִן וְקַיִץ וְשֶׁמֶן וְשִׂמוּ בִּכְלֵיכֶם וּשְׁבוּ בְּעָרֵיכֶם אֲשֶׁר-תְּפַשְׂתֶּם	1x
+
+As for me, behold, I will dwell at Mizpah to serve the Chaldeans, which will come unto us: but ye, gather ye wine, and summer fruits, and oil, and put [them] in your vessels, and dwell in your cities that ye have taken.
+## c41
+#### 3
+וְאֵת כָּל-הַיְּהוּדִים אֲשֶׁר-הָיוּ אִתּוֺ אֶת-גְּדַלְיָהוּ בַּמִּצְפָּה וְאֶת-הַכַּשְׂדִּים אֲשֶׁר נִמְצְאוּ-שָׁם אֵת אַנְשֵׁי הַמִּלְחָמָה הִכָּה יִשְׁמָעֵאל	1x
+
+Ishmael also slew all the Jews that were with him, [even] with Gedaliah, at Mizpah, and the Chaldeans that were found there, [and] the men of war.
+#### 18
+מִפְּנֵי הַכַּשְׂדִּים כִּי יָרְאוּ מִפְּנֵיהֶם כִּי-הִכָּה יִשְׁמָעֵאל בֶּן-נְתַנְיָה אֶת-גְּדַלְיָהוּ בֶּן-אֲחִיקָם אֲשֶׁר-הִפְקִיד מֶלֶךְ-בָּבֶל בָּאָרֶץ	1x
+
+Because of the Chaldeans: for they were afraid of them, because Ishmael the son of Nethaniah had slain Gedaliah the son of Ahikam, whom the king of Babylon made governor in the land.
+## c43
+
+#### 3
+כִּי בָּרוּךְ בֶּן-נֵרִיָּה מַסִּית אֹתְךׇ בָּנוּ לְמַעַן תֵּת אֹתָנוּ בְיַד-הַכַּשְׂדִּים לְהָמִית אֹתָנוּ וּלְהַגְלוֺת אֹתָנוּ בָּבֶל	1x
+
+But Baruch the son of Neriah setteth thee on against us, for to deliver us into the hand of the Chaldeans, that they might put us to death, and carry us away captives into Babylon.
+## c50
+#### 1
+הַדָּבָר אֲשֶׁר דִּבֶּר יְהוָה אֶל-בָּבֶל אֶל-אֶרֶץ כַּשְׂדִּים בְּיַד יִרְמְיָהוּ הַנָּבִיא	1x
+
+The word that the LORD spake against Babylon [and] against the land of the Chaldeans by Jeremiah the prophet.
+#### 8
+נֻדוּ מִתּוֺךְ בָּבֶל וּמֵאֶרֶץ כַּשְׂדִּים יצאו )צֵאוּ( וִהְיוּ כְּעַתּוּדִים לִפְנֵי-צֹאן	1x
+
+Remove out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he goats before the flocks.
+#### 10
+וְהָיְתָה כַשְׂדִּים לְשָׁלָל כָּל-שֹׁלְלֶיהָ יִשְׂבָּעוּ נְאֻם-יְהוָה	1x
+
+And Chaldea shall be a spoil: all that spoil her shall be satisfied, saith the LORD.
+#### 25
+פָּתַח יְהוָה אֶת-אוֺצָרוֺ וַיּוֺצֵא אֶת-כְּלֵי זַעְמוֺ כִּי-מְלָאכָה הִיא לַאדֹנָי יְהוִה צְבָאוֺת בְּאֶרֶץ כַּשְׂדִּים	1x
+
+The LORD hath opened his armoury, and hath brought forth the weapons of his indignation: for this [is] the work of the Lord GOD of hosts in the land of the Chaldeans.
+#### 35
+חֶרֶב עַל-כַּשְׂדִּים נְאֻם-יְהוָה וְאֶל-יֹשְׁבֵי בָבֶל וְאֶל-שָׂרֶיהָ וְאֶל-חֲכָמֶיהָ	1x
+
+A sword [is] upon the Chaldeans, saith the LORD, and upon the inhabitants of Babylon, and upon her princes, and upon her wise [men].
+
+#### 45
+לָכֵן שִׁמְעוּ עֲצַת-יְהוָה אֲשֶׁר יָעַץ אֶל-בָּבֶל וּמַחְשְׁבוֺתָיו אֲשֶׁר חָשַׁב אֶל-אֶרֶץ כַּשְׂדִּים אִם-לֹא יִסְחָבוּם צְעִירֵי הַצֹּאן אִם-לֹא יַשִּׁים עֲלֵיהֶם נָוֶה	1x
+
+Therefore hear ye the counsel of the LORD, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely the least of the flock shall draw them out: surely he shall make [their] habitation desolate with them.
+
+## c51
+#### 4
+וְנָפְלוּ חֲלָלִים בְּאֶרֶץ כַּשְׂדִּים וּמְדֻקָּרִים בְּחוּצוֺתֶיהָ	1x
+
+Thus the slain shall fall in the land of the Chaldeans, and [they that are] thrust through in her streets.
+#### 24
+וְשִׁלַּמְתִּי לְבָבֶל וּלְכֹל יוֺשְׁבֵי כַשְׂדִּים אֵת כָּל-רָעָתָם אֲשֶׁר-עָשׂוּ בְצִיּוֺן לְעֵינֵיכֶם נְאֻם יְהוָה	1x
+
+And I will render unto Babylon and to all the inhabitants of Chaldea all their evil that they have done in Zion in your sight, saith the LORD.
+#### 35
+חֲמָסִי וּשְׁאֵרִי עַל-בָּבֶל תֹּאמַר יֹשֶׁבֶת צִיּוֺן וְדָמִי אֶל-יֹשְׁבֵי כַשְׂדִּים תֹּאמַר יְרוּשָׁלִָם	1x
+
+The violence done to me and to my flesh [be] upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say. (The violence…: Heb. My violence)(flesh: or, remainder)
+#### 54
+קוֺל זְעָקָה מִבָּבֶל וְשֶׁבֶר גָּדוֺל מֵאֶרֶץ כַּשְׂדִּים	1x
+
+A sound of a cry [cometh] from Babylon, and great destruction from the land of the Chaldeans:
+## c52
+#### 7
+וַתִּבָּקַע הָעִיר וְכָל-אַנְשֵׁי הַמִּלְחָמָה יִבְרְחוּ וַיֵּצְאוּ מֵהָעִיר לַיְלָה דֶּרֶךְ שַׁעַר בֵּין-הַחֹמֹתַיִם אֲשֶׁר עַל-גַּן הַמֶּלֶךְ וְכַשְׂדִּים עַל-הָעִיר סָבִיב וַיֵּלְכוּ דֶּרֶךְ הָעֲרָבָה	1x
+
+Then the city was broken up, and all the men of war fled, and went forth out of the city by night by the way of the gate between the two walls, which [was] by the king´s garden; (now the Chaldeans [were] by the city round about: ) and they went by the way of the plain.
+#### 8
+וַיִּרְדְּפוּ חֵיל-כַּשְׂדִּים אַחֲרֵי הַמֶּלֶךְ וַיַּ׹ִּׂיגוּ אֶת-צִדְקִיָּהוּ בְּעַרְבֹת יְרֵחוֺ וְכָל-חֵילוֺ נָפֹצוּ מֵעָלָיו	1x
+
+But the army of the Chaldeans pursued after the king, and overtook Zedekiah in the plains of Jericho; and all his army was scattered from him.
+#### 14
+וְאֶת-כָּל-חֹמוֺת יְרוּשָׁלִַם סָבִיב נָתְצוּ כָּל-חֵיל כַּשְׂדִּים אֲשֶׁר אֶת-רַב-טַבָּחִים	1x
+
+And all the army of the Chaldeans, that [were] with the captain of the guard, brake down all the walls of Jerusalem round about.
+#### 17
+וְאֶת-עַמּוּדֵי הַנְּחֹשֶׁת אֲשֶׁר לְבֵית-יְהוָה וְאֶת-הַמְּכֹנוֺת וְאֶת-יָם הַנְּחֹשֶׁת אֲשֶׁר בְּבֵית-יְהוָה שִׁבְּרוּ כַשְׂדִּים וַיִּשְׂאוּ אֶת-כָּל-נְחֻשְׁתָּם בָּבֶלָה	1x
+
+Also the pillars of brass that [were] in the house of the LORD, and the bases, and the brasen sea that [was] in the house of the LORD, the Chaldeans brake, and carried all the brass of them to Babylon.
 # ezk
 ## c1
 https://biblehub.com/lexicon/ezekiel/1-26.htm
@@ -326,6 +551,29 @@ The appearance of the wheels and their work [was] like unto the colour of a bery
 et super firmamentum quod erat inminens capiti eorum quasi aspectus lapidis sapphyri similitudo throni et super similitudinem throni similitudo quasi aspectus hominis desuper
 
 And above the firmament that [was] over their heads [was] the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne [was] the likeness as the appearance of a man above upon it.
+## c11
+#### 24
+וְרוּחַ נְשָׂאַתְנִי וַתְּבִאֵנִי כַשְׂדִּימָה אֶל-הַגּוֺלָה בַּמַּרְאֶה בְּרוּחַ אֱלֹהִים וַיַּעַל מֵעָלַי הַמַּרְאֶה אֲשֶׁר רָאִיתִי	1x
+
+Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me.
+## c12
+#### 13
+וּפָרַשְׂתִּי אֶת-רִשְׁתִּי עָלָיו וְנִתְפַּשׂ בִּמְצוּדָתִי וְהֵבֵאתִי אֹתוֺ בָבֶלָה אֶרֶץ כַּשְׂדִּים וְאוֺתָהּ לֹא-יִרְאֶה וְשָׁם יָמוּת	1x
+
+My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon [to] the land of the Chaldeans; yet shall he not see it, though he shall die there.
+## c16
+#### 3
+וְאָמַרְתָּ כֹּה-אָמַר אֲדֹנָי יְהוִה לִירוּשָׁלִַם מְכֹרֹתַיִךְ וּמֹלְדֹתַיִךְ מֵאֶרֶץ הַכְּנַעֲנִי אָבִיךְ הָאֱמֹרִי וְאִמֵּךְ חִתִּית	1x
+
+And say, Thus saith the Lord GOD unto Jerusalem; Thy birth and thy nativity [is] of the land of Canaan; thy father [was] an Amorite, and thy mother an Hittite.
+#### 29
+וַתַּרְבִּי אֶת-תַּזְנוּתֵךְ אֶל-אֶרֶץ כְּנַעַן כַּשְׂדִּימָה וְגַם-בְּזֹאת לֹא שָׂבָעַתְּ	1x
+
+Thou hast moreover multiplied thy fornication in the land of Canaan unto Chaldea; and yet thou wast not satisfied herewith.
+#### 45
+בַּת-אִמֵּךְ אַתְּ גֹּעֶלֶת אִישָׁהּ וּבָנֶיהָ וַאֲחוֺת אֲחוֺתֵךְ אַתְּ אֲשֶׁר גָּעֲלוּ אַנְשֵׁיהֶן וּבְנֵיהֶן אִמְּכֶן חִתִּית וַאֲבִיכֶן אֱמֹרִי	1x
+
+Thou [art] thy mother´s daughter, that lotheth her husband and her children; and thou [art] the sister of thy sisters, which lothed their husbands and their children: your mother [was] an Hittite, and your father an Amorite.
 ## c23
 #### 1
 וַיְהִידְבַר-יְהוָהאֵלַי לֵאמֹר 
@@ -386,51 +634,51 @@ n1 more than…: Heb. more than the whoredoms of her sister
 #### 14
 וַתּוֺסֶףאֶל-תַּזְנוּתֶיהָוַתֵּרֶא אַנְשֵׁי מְחֻקֶּהעַל-הַקִּירצַלְמֵי כשדיים )כַשְׂדִּים( חֲקֻקִים בַּשָּׁשַׁר 
 
-14And [that] she increased her whoredoms: for when she saw men pourtrayed upon the wall, the images of the Chaldeans pourtrayed with vermilion, 
+And [that] she increased her whoredoms: for when she saw men pourtrayed upon the wall, the images of the Chaldeans pourtrayed with vermilion, 
 #### 15
 חֲגוֺרֵי אֵזוֺר בְּמָתְנֵיהֶם סְרוּחֵי טְבוּלִים בְּרָאשֵׁיהֶם מַרְאֵה שָׁלִשִׁים כֻּלָּם דְּמוּתבְּנֵי-בָבֶלכַּשְׂדִּים אֶרֶץ מוֺלַדְתָּם 
 
-15Girded with girdles upon their loins, exceeding in dyed attire upon their heads, all of them princes to look to, after the manner of the Babylonians of Chaldea, the land of their nativity: 
+Girded with girdles upon their loins, exceeding in dyed attire upon their heads, all of them princes to look to, after the manner of the Babylonians of Chaldea, the land of their nativity: 
 #### 16
 ותעגב )וַתַּעְגְּבָה( עֲלֵיהֶם לְמַרְאֵה עֵינֶיהָ וַתִּשְׁלַח מַלְאָכִים אֲלֵיהֶם כַּשְׂדִּימָה 
-16And as soon as she saw them with her eyes, she doted upon them, and sent messengers unto them into Chaldea.
+And as soon as she saw them with her eyes, she doted upon them, and sent messengers unto them into Chaldea.
 n1 as soon…: Heb. at the sight of her eyes
 #### 17
 וַיָּבֹאוּ אֵלֶיהָ בְנֵי-בָבֶל לְמִשְׁכַּב  דֹּדִים וַיְטַמְּאוּ אוֺתָהּ בְּתַזְנוּתָםוַתִּטְמָא-בָםוַתֵּקַע נַפְשָׁהּ
 
-17And the Babylonians came to her into the bed of love, and they defiled her with their whoredom, and she was polluted with them, and her mind was alienated from them.(Babylonians: Heb. children of Babel)
+And the Babylonians came to her into the bed of love, and they defiled her with their whoredom, and she was polluted with them, and her mind was alienated from them.(Babylonians: Heb. children of Babel)
 #### 18
 וַתְּגַל תַּזְנוּתֶיהָ וַתְּגַלאֶת-עֶרְוָתָהּוַתֵּקַע נַפְשִׁי מֵעָלֶיהָ כַּאֲשֶׁר נָקְעָה נַפְשִׁי מֵעַל אֲחוֺתָהּ 
 
-18So she discovered her whoredoms, and discovered her nakedness: then my mind was alienated from her, like as my mind was alienated from her sister. 
+So she discovered her whoredoms, and discovered her nakedness: then my mind was alienated from her, like as my mind was alienated from her sister. 
 #### 19
 וַתַּרְבֶּהאֶת-תַּזְנוּתֶיהָלִזְכֹּראֶת-יְמֵינְעוּרֶיהָ אֲשֶׁר זָנְתָה בְּאֶרֶץ מִצְרָיִם 
 
-19Yet she multiplied her whoredoms, in calling to remembrance the days of her youth, wherein she had played the harlot in the land of Egypt. 
+Yet she multiplied her whoredoms, in calling to remembrance the days of her youth, wherein she had played the harlot in the land of Egypt. 
 #### 20
 וַתַּעְגְּבָה עַל פִּלַגְשֵׁיהֶם אֲשֶׁרבְּשַׂר-חֲמוֺרִיםבְּשָׂרָם וְזִרְמַת סוּסִים זִרְמָתָם 
 
-20For she doted upon their paramours, whose flesh [is as] the flesh of asses, and whose issue [is like] the issue of horses. 
+For she doted upon their paramours, whose flesh [is as] the flesh of asses, and whose issue [is like] the issue of horses. 
 #### 21
 וַתִּפְקְדִי אֵת זִמַּת נְעוּרָיִךְ בַּעְשׂוֺת מִמִּצְרַיִם דַּדַּיִךְ לְמַעַן שְׁדֵי נְעוּרָיִךְ 
 
-21Thus thou calledst to remembrance the lewdness of thy youth, in bruising thy teats by the Egyptians for the paps of thy youth. 
+Thus thou calledst to remembrance the lewdness of thy youth, in bruising thy teats by the Egyptians for the paps of thy youth. 
 #### 22
 לָכֵן אָהֳלִיבָהכֹּה-אָמַראֲדֹנָי יְהוִה הִנְנִי מֵעִיראֶת-מְאַהֲבַיִךְעָלַיִךְ אֵתאֲשֶׁר-נָקְעָהנַפְשֵׁךְ מֵהֶם וַהֲבֵאתִים עָלַיִךְ מִסָּבִיב 
 
-22Therefore, O Aholibah, thus saith the Lord GOD; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side; 
+Therefore, O Aholibah, thus saith the Lord GOD; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side; 
 #### 23
 בְּנֵי בָבֶלוְכָל-כַּשְׂדִּיםפְּקוֺד וְשׁוֺעַ וְקוֺעַכָּל-בְּנֵיאַשּׁוּר אוֺתָם בַּחוּרֵי חֶמֶד פַּחוֺת וּסְגָנִים כֻּלָּם שָׁלִשִׁים וּקְרוּאִים רֹכְבֵי סוּסִים כֻּלָּם 
 
-23The Babylonians, and all the Chaldeans, Pekod, and Shoa, and Koa, [and] all the Assyrians with them: all of them desirable young men, captains and rulers, great lords and renowned, all of them riding upon horses. 
+The Babylonians, and all the Chaldeans, Pekod, and Shoa, and Koa, [and] all the Assyrians with them: all of them desirable young men, captains and rulers, great lords and renowned, all of them riding upon horses. 
 #### 24
 וּבָאוּ עָלַיִךְ הֹצֶן רֶכֶב וְגַלְגַּל וּבִקְהַל עַמִּים צִנָּה וּמָגֵן וְקוֺבַע יָשִׂימוּ עָלַיִךְ סָבִיב וְנָתַתִּי לִפְנֵיהֶם מִשְׁפָּט וּשְׁפָטוּךְ בְּמִשְׁפְּטֵיהֶם 
 
-24And they shall come against thee with chariots, wagons, and wheels, and with an assembly of people, [which] shall set against thee buckler and shield and helmet round about: and I will set judgment before them, and they shall judge thee according to their judgments. 
+And they shall come against thee with chariots, wagons, and wheels, and with an assembly of people, [which] shall set against thee buckler and shield and helmet round about: and I will set judgment before them, and they shall judge thee according to their judgments. 
 #### 25
 וְנָתַתִּי קִנְאָתִי בָּךְ וְעָשׂוּ אוֺתָךְ בְּחֵמָה אַפֵּךְ וְאָזְנַיִךְ יָסִירוּ וְאַחֲרִיתֵךְ בַּחֶרֶב תִּפּוֺל הֵמָּה בָּנַיִךְ וּבְנוֺתַיִךְ יִקָּחוּ וְאַחֲרִיתֵךְ תֵּאָכֵל בָּאֵשׁ
 
-25And I will set my jealousy against thee, and they shall deal furiously with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire. 
+And I will set my jealousy against thee, and they shall deal furiously with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire. 
 ## c28
 #### 3
 הִנֵּ֥ה חָכָ֛ם אַתָּ֖ה מדנאל כָּל־סָת֖וּם לֹ֥א עֲמָמֽוּךָ ׃
@@ -651,7 +899,15 @@ When Israel [was] a child, then I loved him, and called my son out of Egypt.
 The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come.
 
 ## amos
+### c2
+##### 9
+וְאָנֹכִי הִשְׁמַדְתִּי אֶת-הָאֱמֹרִי מִפְּנֵיהֶם אֲשֶׁר כְּגֹבַהּ אֲרָזִים גָּבְהוֺ וְחָסֹן הוּא כָּאַלּוֺנִים וָאַשְׁמִיד פִּרְיוֺ מִמַּעַל וְשָׁרָשָׁיו מִתָּחַת	1x
 
+Yet destroyed I the Amorite before them, whose height [was] like the height of the cedars, and he [was] strong as the oaks; yet I destroyed his fruit from above, and his roots from beneath.
+##### 10
+וְאָנֹכִי הֶעֱלֵיתִי אֶתְכֶם מֵאֶרֶץ מִצְרָיִם וָאוֺלֵךְ אֶתְכֶם בַּמִּדְבָּר אַרְבָּעִים שָׁנָה לָרֶשֶׁת אֶת-אֶרֶץ הָאֱמֹרִי	1x
+
+Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite.
 ## obadiah
 
 ## jonah
@@ -675,7 +931,11 @@ But thou, Bethlehem Ephratah, [though] thou be little among the thousands of Jud
 ## nahum
 
 ## hbk
+### c1
+##### 6
+כִּֽי־הִנְנִ֤י מֵקִים֙ אֶת־הַכַּשְׂדִּ֔ים הַגּ֖וֹי הַמַּ֣ר וְהַנִּמְהָ֑ר הַֽהוֹלֵךְ֙ לְמֶרְחֲבֵי־אֶ֔רֶץ לָרֶ֖שֶׁת מִשְׁכָּנ֥וֹת לֹּא־לֽוֹ׃
 
+For, lo, I raise up the Chaldeans, [that] bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces [that are] not theirs.
 ## zephaniah
 
 ## haggai

@@ -211,7 +211,7 @@ God (Exodus 20:5)....for the Lord,                       1 Corinthians 13:4
 Whose name is Jealous, is a jealous
 God (Exodus 34:14). 
 ### 12
-![[bbl.hist.nev#joshua#c24#13]]![[bbl.hist.nev#joshua#c24#14]]
+![[bbl.hist.nev#josh#c24#13]]![[bbl.hist.nev#josh#c24#14]]
 
 ![[bbl.paul#1 cor#c13#4]]
 
@@ -233,7 +233,7 @@ upon the third and fourth generation            but , until seventy times seven.
 of them that hate me (Exodus 20:5).                                 Matthew 18:23-22 
 
 ### 14
-![[bbl.prop.nev#isaiah#c42#8]]
+![[bbl.prop.nev#is#c42#8]]
 
 ![[bbl.evngl#john#c17#5]]
 
@@ -243,7 +243,7 @@ not give...          Isaiah 42:8                glory I had with Thee before the
                                                 world was.                 John 17:5 
 
 ### 15
-![[bbl.hist.nev#joshua#c10#12]]![[bbl.hist.nev#joshua#c10#13]]![[bbl.hist.nev#joshua#c10#14]]
+![[bbl.hist.nev#josh#c10#12]]![[bbl.hist.nev#josh#c10#13]]![[bbl.hist.nev#josh#c10#14]]
 ![[bbl.paul.pseud#eph#c4#26]]
 
 And the sun stood still, and the moon           Be ye angry, yet not committing sin;

@@ -24,6 +24,10 @@ Hast not thou made an hedge about him, and about his house, and about all that h
 וְאוּלָם֙ שְֽׁלַֽח־נָ֣א יָֽדְךָ֔ וְגַ֖ע בְּכָל־אֲשֶׁר־ל֑וֹ אִם־לֹ֥א עַל־פָּנֶ֖יךָ יְבָרֲכֶֽךָּ ׃
 
 But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.
+#### 17
+עוֺד זֶה מְדַבֵּר וְזֶה בָּא וַיֹּאמַר כַּשְׂדִּים שָׂמוּ שְׁלֹשָׁה רָאשִׁים וַיִּפְשְׁטוּ עַל הַגְּמַלִּים וַיִּקָּחוּם וְאֶת הַנְּעָרִים הִכּוּ לְפִי חָרֶב וָאִמָּלְטָה רַק אֲנִי לְבַדִּי לְהַגִּיד לָךְ	1x
+
+While he [was] yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
 ## c2
 ### 7
 וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵאֵ֖ת פְּנֵ֣י יְהוָ֑ה וַיַּ֤ךְ אֶת־אִיּוֹב֙ בִּשְׁחִ֣ין רָ֔ע מִכַּ֥ף רַגְל֖וֹ עד קָדְקֳדֽוֹ ׃
@@ -159,7 +163,16 @@ Confounded be all they that serve graven images, that boast themselves of idols:
 שָׁ֣לַֽח חֹ֭שֶׁךְ וַיַּחְשִׁ֑ךְ וְלֹֽא־מָ֝ר֗וּ אֶת־דברוו ׃
 
 He sent darkness, and made it dark; and they rebelled not against his word.
+## c135
+#### 11
+לְסִיחוֺן מֶלֶךְ הָאֱמֹרִי וּלְעוֺג מֶלֶךְ הַבָּשָׁן וּלְכֹל מַמְלְכוֺת כְּנָעַן	1x
 
+Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:
+## c136
+#### 19
+לְסִיחוֺן מֶלֶךְ הָאֱמֹרִי כִּי לְעוֺלָם חַסְדּוֺ
+
+Sihon king of the Amorites: for his mercy [endureth] for ever:
 ## c148
 
 ### 7

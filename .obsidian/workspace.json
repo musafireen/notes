@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/a'jamī/babil/babel.md",
+                "file": "002_quran/a'jamī/babil/nimrod/amorite.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hab",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,8 +146,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_quran/a'jamī/babil/babel.md",
-                "collapseAll": true,
+                "file": "002_quran/a'jamī/babil/nimrod/amorite.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_quran/a'jamī/babil/babel.md",
+                "file": "002_quran/a'jamī/babil/nimrod/amorite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002_quran/a'jamī/babil/babel.md"
+                "file": "002_quran/a'jamī/babil/nimrod/amorite.md"
               }
             }
           }
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,14 +203,29 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "9933e842181072f7",
+  "active": "d43837f788fceb29",
   "lastOpenFiles": [
-    "002_quran/a'jamī/babil/nimrod/~syncthing~chaldees.md.tmp",
-    "002_quran/a'jamī/babil/nimrod/chaldees.md",
-    "Ref/bbl.prop.nev.md",
-    "002_quran/a'jamī/babil/babel.md",
-    "Ref/bbl.tor.md",
+    "002_quran/a'jamī/babil/nimrod/~syncthing~amorite.md.tmp",
+    "002_quran/a'jamī/babil/nimrod/amorite.md",
+    "002_quran/a'jamī/babil/nimrod/amorite.md",
     "Ref/bbl.poetry.md",
+    "Ref/bbl.hist.ktv.md",
+    "Ref/bbl.prop.nev.md",
+    "Ref/bmvP.md",
+    "Ref/mdhvA.SDS.BAK.md",
+    "Ref/mdhvA.SDS.md",
+    "Ref/bbl.hist.nev.md",
+    "Ref/bbl.tor.md",
+    "002_quran/a'jamī/babil/babel.md",
+    "Ref/mrcn.md",
+    "002_quran/a'jamī/babil/babil.md",
+    "002_quran/a'jamī/babil/~syncthing~babil.md.tmp",
+    "002_quran/a'jamī/babil/nimrod/chaldees.md",
+    "Ref/bbl.prop.ktv.md",
+    "Ref/haft.azilla/h.a.20.md",
+    "Ref/umm.kitab/u.k.5.md",
+    "Ref/~syncthing~bbl.prop.nev.md.tmp",
+    "002_quran/a'jamī/babil/nimrod/~syncthing~chaldees.md.tmp",
     "Ref/bbl.acts.md",
     "Ref/bbl.epst.md",
     "Ref/bbl.apcr.apcl.md",
@@ -220,26 +235,11 @@
     "Ref/bbl.john.md",
     "002_quran/a'jamī/babil/~syncthing~babel.md.tmp",
     "Ref/bbl.evngl.md",
-    "Ref/mdhvA.SDS.BAK.md",
-    "Ref/mdhvA.SDS.md",
-    "Ref/umm.kitab/u.k.5.md",
-    "Ref/bmvP.md",
-    "Ref/bbl.prop.ktv.md",
-    "Ref/bbl.hist.nev.md",
-    "Ref/bbl.hist.ktv.md",
-    "Ref/bbl.history.ketuvim.md",
-    "002_quran/a'jamī/babil/babil.md",
-    "Ref/bbl.evngl.sync-conflict-20250918-191912-5EPZTMQ.md",
-    "002_quran/a'jamī/babil/babil.sync-conflict-20250918-191910-5EPZTMQ.md",
-    "Ref/bbl.tor.sync-conflict-20250918-191912-5EPZTMQ.md",
     "Ref/haft.azilla/~syncthing~h.a.1.md.tmp",
     "Ref/~syncthing~bbl.evngl.md.tmp",
     "Ref/~syncthing~RV.md.tmp",
     "Ref/~syncthing~bbl.tor.md.tmp",
     "Ref/~syncthing~bbl.prop.ktv.md.tmp",
-    "002_quran/a'jamī/babil/nimrod/~syncthing~accad.md.tmp",
-    "002_quran/a'jamī/babil/~syncthing~nebuchadnezzar.md.tmp",
-    "Ref/~syncthing~jsphs.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.png",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.png",
     "Ref/Pasted image 20241128002518.png",

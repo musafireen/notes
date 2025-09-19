@@ -1,10 +1,47 @@
-# joshua
+# josh
+## c2
+#### 10
+כִּי שָׁמַעְנוּ אֵת אֲשֶׁר-הוֺבִישׁ יְהוָה אֶת-מֵי יַם-סוּף מִפְּנֵיכֶם בְּצֵאתְכֶם מִמִּצְרָיִם וַאֲשֶׁר עֲשִׂיתֶם לִשְׁנֵי מַלְכֵי הָאֱמֹרִי אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן לְסִיחֹן וּלְעוֺג אֲשֶׁר הֶחֱרַמְתֶּם אוֺתָם	1x
+
+For we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that [were] on the other side Jordan, Sihon and Og, whom ye utterly destroyed.
+## c3
+#### 10
+וַיֹּאמֶר יְהוֺשֻׁעַ בְּזֹאת תֵּדְעוּן כִּי אֵל חַי בְּקִרְבְּכֶם וְהוֺרֵשׁ יוֺרִישׁ מִפְּנֵיכֶם אֶת-הַכְּנַעֲנִי וְאֶת-הַחִתִּי וְאֶת-הַחִוִּי וְאֶת-הַפְּרִזִּי וְאֶת-הַגִּרְגָּשִׁי וְהָאֱמֹרִי וְהַיְבוּסִי	1x
+
+And Joshua said, Hereby ye shall know that the living God [is] among you, and [that] he will without fail drive out from before you the Canaanites, and the Hittites, and the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and the Jebusites.
+## c5
+#### 1
+וַיְהִי כִשְׁמֹעַ כָּל-מַלְכֵי הָאֱמֹרִי אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן יָמָּה וְכָל-מַלְכֵי הַכְּנַעֲנִי אֲשֶׁר עַל-הַיָּם אֵת אֲשֶׁר-הוֺבִישׁ יְהוָה אֶת-מֵי הַיַּרְדֵּן מִפְּנֵי בְנֵי-יִשְׂרָאֵל עַד-עברנו )עָבְרָם( וַיִּמַּס לְבָבָם וְלֹא-הָיָה בָם עוֺד רוּחַ מִפְּנֵי בְּנֵי-יִשְׂרָאֵל	1x
+
+And it came to pass, when all the kings of the Amorites, which [were] on the side of Jordan westward, and all the kings of the Canaanites, which [were] by the sea, heard that the LORD had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.
+## c7
+#### 7
+וַיֹּאמֶר יְהוֺשֻׁעַ אֲהָהּ אֲדֹנָי יְהוִה לָמָה הֵעֲבַרְתָּ הַעֲבִיר אֶת-הָעָם הַזֶּה אֶת-הַיַּרְדֵּן לָתֵת אֹתָנוּ בְּיַד הָאֱמֹרִי לְהַאֲבִידֵנוּ וְלוּ הוֺאַלְנוּ וַנֵּשֶׁב בְּעֵבֶר הַיַּרְדֵּן	1x
+
+And Joshua said, Alas, O Lord GOD, wherefore hast thou at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? would to God we had been content, and dwelt on the other side Jordan !
 ## c8
 #### 29
 וְאֶת־מֶ֧לֶךְ הָעַ֛י תָּלָ֥ה עַל־הָעֵ֖ץ עַד־עֵ֣ת הָעָ֑רֶב וּכְב֣וֹא הַשֶּׁמֶשׁ֩ צִוָּ֨ה יְהוֹשֻׁ֜עַ וַיֹּרִ֧ידוּ אֶת־נִבְלָת֣וֹ מִן־הָעֵ֗ץ וַיַּשְׁלִ֤יכוּ אוֹתָהּ֙ אֶל־פֶּ֙תַח֙ שַׁ֣עַר הָעִ֔יר וַיָּקִ֤ימוּ עָלָיו֙ גַּל־אֲבָנִ֣ים גָּד֔וֹל עַ֖ד הַיּ֥וֹם הַזֶּֽה ׃ פ
 
 And the king of Ai he hanged on a tree until eventide: and as soon as the sun was down, Joshua commanded that they should take his carcase down from the tree, and cast it at the entering of the gate of the city, and raise thereon a great heap of stones, [that remaineth] unto this day.
+## c9
+#### 1
+וַיְהִי כִשְׁמֹעַ כָּל-הַמְּלָכִים אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן בָּהָר וּבַשְּׁפֵלָה וּבְכֹל חוֺף הַיָּם הַגָּדוֺל אֶל-מוּל הַלְּבָנוֺן הַחִתִּי וְהָאֱמֹרִי הַכְּנַעֲנִי הַפְּרִזִּי הַחִוִּי וְהַיְבוּסִי	1x
+
+And it came to pass, when all the kings which [were] on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard [thereof];
+#### 10
+וְאֵת כָּל-אֲשֶׁר עָשָׂה לִשְׁנֵי מַלְכֵי הָאֱמֹרִי אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן לְסִיחוֺן מֶלֶךְ חֶשְׁבּוֺן וּלְעוֺג מֶלֶךְ-הַבָּשָׁן אֲשֶׁר בְּעַשְׁתָּרוֺת	1x
+
+And all that he did to the two kings of the Amorites, that [were] beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which [was] at Ashtaroth.
 ## c10
+#### 5
+וַיֵּאָסְפוּ וַיַּעֲלוּ חֲמֵשֶׁת מַלְכֵי הָאֱמֹרִי מֶלֶךְ יְרוּשָׁלִַם מֶלֶךְ-חֶבְרוֺן מֶלֶךְ-יַרְמוּת מֶלֶךְ-לָכִישׁ מֶלֶךְ-עֶגְלוֺן הֵם וְכָל-מַחֲנֵיהֶם וַיַּחֲנוּ עַל-גִּבְעוֺן וַיִּלָּחֲמוּ עָלֶיהָ	1x
+
+Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon, gathered themselves together, and went up, they and all their hosts, and encamped before Gibeon, and made war against it.
+#### 6
+וַיִּשְׁלְחוּ אַנְשֵׁי גִבְעוֺן אֶל-יְהוֺשֻׁעַ אֶל-הַמַּחֲנֶה הַגִּלְגָּלָה לֵאמֹר אַל-תֶּרֶף יָדֶיךׇ מֵעֲבָדֶיךׇ עֲלֵה אֵלֵינוּ מְהֵרָה וְהוֺשִׁיעָה לָּנוּ וְעָזְרֵנוּ כִּי נִקְבְּצוּ אֵלֵינוּ כָּל-מַלְכֵי הָאֱמֹרִי יֹשְׁבֵי הָהָר	1x
+
+And the men of Gibeon sent unto Joshua to the camp to Gilgal, saying, Slack not thy hand from thy servants; come up to us quickly, and save us, and help us: for all the kings of the Amorites that dwell in the mountains are gathered together against us.
 #### 12
 אָ֣ז יְדַבֵּ֤ר יְהוֹשֻׁעַ֙ לַֽיהוָ֔ה בְּי֗וֹם תֵּ֤ת יְהוָה֙ אֶת־הָ֣אֱמֹרִ֔י לִפְנֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל וַיֹּ֣אמֶר ׀ לְעֵינֵ֣י יִשְׂרָאֵ֗ל שֶׁ֚מֶשׁ בְּגִבְע֣וֹן דּ֔וֹם וְיָרֵ֖חַ בְּעֵ֥מֶק אַיָּלֽוֹן ׃
 
@@ -17,7 +54,33 @@ And the sun stood still, and the moon stayed, until the people had avenged thems
 וְלֹ֨א הָיָ֜ה כַּיּ֤וֹם הַהוּא֙ לְפָנָ֣יו וְאַחֲרָ֔יו לִשְׁמֹ֥עַ יְהוָ֖ה בְּק֣וֹל אִ֑ישׁ כִּ֣י יְהוָ֔ה נִלְחָ֖ם לְיִשְׂרָאֵֽל ׃ פ
 
 And there was no day like that before it or after it, that the LORD hearkened unto the voice of a man: for the LORD fought for Israel.
+## c11
+#### 3
+הַכְּנַעֲנִי מִמִּזְרָח וּמִיָּם וְהָאֱמֹרִי וְהַחִתִּי וְהַפְּרִזִּי וְהַיְבוּסִי בָּהָר וְהַחִוִּי תַּחַת חֶרְמוֺן בְּאֶרֶץ הַמִּצְפָּה	1x
 
+[And to] the Canaanite on the east and on the west, and [to] the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and [to] the Hivite under Hermon in the land of Mizpeh.
+## c12
+#### 2
+סִיחוֺן מֶלֶךְ הָאֱמֹרִי הַיּוֺשֵׁב בְּחֶשְׁבּוֺן מֹשֵׁל מֵעֲרוֺעֵר אֲשֶׁר עַל-שְׂפַת-נַחַל אַרְנוֺן וְתוֺךְ הַנַּחַל וַחֲצִי הַגִּלְעָד וְעַד יַבֹּק הַנַּחַל גְּבוּל בְּנֵי עַמּוֺן	1x
+
+Sihon king of the Amorites, who dwelt in Heshbon, [and] ruled from Aroer, which [is] upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, [which is] the border of the children of Ammon;
+#### 8
+בָּהָר וּבַשְּׁפֵלָה וּבָעֲרָבָה וּבָאֲשֵׁדוֺת וּבַמִּדְבָּר וּבַנֶּגֶב הַחִתִּי הָאֱמֹרִי וְהַכְּנַעֲנִי הַפְּרִזִּי הַחִוִּי וְהַיְבוּסִי	1x
+
+In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:
+## c13
+#### 4
+מִתֵּימָן כָּל-אֶרֶץ הַכְּנַעֲנִי וּמְעָרָה אֲשֶׁר לַצִּידֹנִים עַד-אֲפֵקָה עַד גְּבוּל הָאֱמֹרִי	1x
+
+From the south, all the land of the Canaanites, and Mearah that [is] beside the Sidonians, unto Aphek, to the borders of the Amorites:
+#### 10
+וְכֹל עָרֵי סִיחוֺן מֶלֶךְ הָאֱמֹרִי אֲשֶׁר מָלַךְ בְּחֶשְׁבּוֺן עַד-גְּבוּל בְּנֵי עַמּוֺן	1x
+
+And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon;
+#### 21
+וְכֹל עָרֵי הַמִּישֹׁר וְכָל-מַמְלְכוּת סִיחוֺן מֶלֶךְ הָאֱמֹרִי אֲשֶׁר מָלַךְ בְּחֶשְׁבּוֺן אֲשֶׁר הִכָּה מֹשֶׁה אֹתוֺ וְאֶת-נְשִׂיאֵי מִדְיָן אֶת-אֱוִי וְאֶת-רֶקֶם וְאֶת-צוּר וְאֶת-חוּר וְאֶת-רֶבַע נְסִיכֵי סִיחוֺן יֹשְׁבֵי הָאָרֶץ	1x
+
+And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, [which were] dukes of Sihon, dwelling in the country.
 ## c15
 #### 8
 וְעָלָ֨ה הַגְּב֜וּל גֵּ֣י בֶן־הִנֹּ֗ם אֶל־כֶּ֤תֶף הַיְבוּסִי֙ מִנֶּ֔גֶב הִ֖יא יְרֽוּשָׁלִָ֑ם וְעָלָ֨ה הַגְּב֜וּל אֶל־רֹ֣אשׁ הָהָ֗ר אֲ֠שֶׁר עַל־פְּנֵ֤י גֵֽי־הִנֹּם֙ יָ֔מָּה אֲשֶׁ֛ר בִּקְצֵ֥ה עֵֽמֶק־רְפָאִ֖ים צָפֹֽנָה ׃
@@ -41,6 +104,18 @@ And the second lot came forth to Simeon, [even] for the tribe of the children of
 
 And they had in their inheritance Beersheba, or Sheba, and Moladah,
 ## c24
+#### 8
+ואבאה )וָאָבִא( אֶתְכֶם אֶל-אֶרֶץ הָאֱמֹרִי הַיּוֺשֵׁב בְּעֵבֶר הַיַּרְדֵּן וַיִּלָּחֲמוּ אִתְּכֶם וָאֶתֵּן אוֺתָם בְּיֶדְכֶם וַתִּירְשׁוּ אֶת-אַרְצָם וָאַשְׁמִידֵם מִפְּנֵיכֶם	1x
+
+And I brought you into the land of the Amorites, which dwelt on the other side Jordan; and they fought with you: and I gave them into your hand, that ye might possess their land; and I destroyed them from before you.
+#### 11
+וַתַּעַבְרוּ אֶת-הַיַּרְדֵּן וַתָּבֹאוּ אֶל-יְרִיחוֺ וַיִּלָּחֲמוּ בָכֶם בַּעֲלֵי-יְרִיחוֺ הָאֱמֹרִי וְהַפְּרִזִּי וְהַכְּנַעֲנִי וְהַחִתִּי וְהַגִּרְגָּשִׁי הַחִוִּי וְהַיְבוּסִי וָאֶתֵּן אוֺתָם בְּיֶדְכֶם	1x
+
+And ye went over Jordan, and came unto Jericho: and the men of Jericho fought against you, the Amorites, and the Perizzites, and the Canaanites, and the Hittites, and the Girgashites, the Hivites, and the Jebusites; and I delivered them into your hand.
+#### 12
+וָאֶשְׁלַח לִפְנֵיכֶם אֶת-הַצִּרְעָה וַתְּגָרֶשׁ אוֺתָם מִפְּנֵיכֶם שְׁנֵי מַלְכֵי הָאֱמֹרִי לֹא בְחַרְבְּךׇ וְלֹא בְקַשְׁתֶּךׇ	1x
+
+And I sent the hornet before you, which drave them out from before you, [even] the two kings of the Amorites; [but] not with thy sword, nor with thy bow.
 #### 13
 וָאֶתֵּ֨ן לָכֶ֜ם אֶ֣רֶץ ׀ אֲשֶׁ֧ר לֹֽא־יָגַ֣עְתָּ בָּ֗הּ וְעָרִים֙ אֲשֶׁ֣ר לֹא־בְנִיתֶ֔ם וַתֵּשְׁב֖וּ בָּהֶ֑ם כְּרָמִ֤ים וְזֵיתִים֙ אֲשֶׁ֣ר לֹֽא־נְטַעְתֶּ֔ם אַתֶּ֖ם אֹכְלִֽים ׃
 
@@ -53,8 +128,33 @@ And I have given you a land for which ye did not labour, and cities which ye bui
 και νυν φοβηθητε κυριον και λατρευσατε αυτω εν ευθυτητι και εν δικαιοσυνη και περιελεσθε τους θεους τους αλλοτριους οις ελατρευσαν οι πατερες υμων εν τω περαν του ποταμου και εν αιγυπτω και λατρευετε κυριω
 
 Now therefore fear the LORD, and serve him in sincerity and in truth: and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve ye the LORD.
+#### 15
+וְאִם רַע בְּעֵינֵיכֶם לַעֲבֹד אֶת-יְהוָה בַּחֲרוּ לָכֶם הַיּוֺם אֶת-מִי תַעֲבֹדוּן אִם אֶת-אֱלֹהִים אֲשֶׁר-עָבְדוּ אֲבוֺתֵיכֶם אֲשֶׁר בעבר )מֵעֵבֶר( הַנָּהָר וְאִם אֶת-אֱלֹהֵי הָאֱמֹרִי אֲשֶׁר אַתֶּם יֹשְׁבִים בְּאַרְצָם וְאָנֹכִי וּבֵיתִי נַעֲבֹד אֶת-יְהוָה	1x
 
+And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that [were] on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.
+#### 18
+וַיְגָרֶשׁ יְהוָה אֶת-כָּל-הָעַמִּים וְאֶת-הָאֱמֹרִי יֹשֵׁב הָאָרֶץ מִפָּנֵינוּ גַּם-אֲנַחְנוּ נַעֲבֹד אֶת-יְהוָה כִּי-הוּא אֱלֹהֵינוּ	1x
+
+And the LORD drave out from before us all the people, even the Amorites which dwelt in the land: [therefore] will we also serve the LORD; for he [is] our God.
 # judges
+## c1
+#### 34
+וַיִּלְחֲצוּ הָאֱמֹרִי אֶת-בְּנֵי-דָן הָהָרָה כִּי-לֹא נְתָנוֺ לָרֶדֶת לָעֵמֶק	1x
+
+And the Amorites forced the children of Dan into the mountain: for they would not suffer them to come down to the valley:
+#### 35
+וַיּוֺאֶל הָאֱמֹרִי לָשֶׁבֶת בְּהַר-חֶרֶס בְּאַיָּלוֺן וּבְשַׁעַלְבִים וַתִּכְבַּד יַד בֵּית-יוֺסֵף וַיִּהְיוּ לָמַס	1x
+
+But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries.
+#### 36
+וּגְבוּל הָאֱמֹרִי מִמַּעֲלֵה עַקְרַבִּים מֵהַסֶּלַע וָמָעְלָה	1x
+
+And the coast of the Amorites [was] from the going up to Akrabbim, from the rock, and upward.
+## c3
+#### 5
+וּבְנֵי יִשְׂרָאֵל יָשְׁבוּ בְּקֶרֶב הַכְּנַעֲנִי הַחִתִּי וְהָאֱמֹרִי וְהַפְּרִזִּי וְהַחִוִּי וְהַיְבוּסִי	1x
+
+And the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and Perizzites, and Hivites, and Jebusites:
 ## c5
 #### 1
 וַתָּ֣שַׁר דְּבוֹרָ֔ה וּבָרָ֖ק בֶּן־אֲבִינֹ֑עַם בַּיּ֥וֹם הַה֖וּא לֵאמֹֽר ׃
@@ -89,6 +189,10 @@ Zebulun and Naphtali [were] a people [that] jeoparded their lives unto the death
 
 The kings came [and] fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money.
 ## c6
+#### 10
+וָאֹמְרָה לָכֶם אֲנִי יְהוָה אֱלֹהֵיכֶם לֹא תִירְאוּ אֶת-אֱלֹהֵי הָאֱמֹרִי אֲשֶׁר אַתֶּם יוֺשְׁבִים בְּאַרְצָם וְלֹא שְׁמַעְתֶּם בְּקוֺלִי	1x
+
+And I said unto you, I [am] the LORD your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice.
 #### 11
 וַיָּבֹ֞א מַלְאַ֣ךְ יְהוָ֗ה וַיֵּ֙שֶׁב֙ תַּ֤חַת הָֽאֵלָה֙ אֲשֶׁ֣ר בְּעָפְרָ֔ה אֲשֶׁ֥ר לְיוֹאָ֖שׁ אֲבִ֣י הָֽעֶזְרִ֑י וְגִדְע֣וֹן בְּנ֗וֹ חֹבֵ֤ט חִטִּים֙ בַּגַּ֔ת לְהָנִ֖יס מִפְּנֵ֥י מִדְיָֽן ׃
 
@@ -109,6 +213,33 @@ And when Gideon perceived that he [was] an angel of the LORD, Gideon said, Alas,
 וַיֹּ֨אמֶר ל֧וֹ יְהוָ֛ה שָׁל֥וֹם לְךָ֖ אַל־תִּירָ֑א לֹ֖א תָּמֽוּת ׃
 
 And the LORD said unto him, Peace [be] unto thee; fear not: thou shalt not die.
+## c10
+#### 8
+וַיִּרְעֲצוּ וַיְרֹצְצוּ אֶת-בְּנֵי יִשְׂרָאֵל בַּשָּׁנָה הַהִיא שְׁמֹנֶה עֶשְׂרֵה שָׁנָה אֶת-כָּל-בְּנֵי יִשְׂרָאֵל אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן בְּאֶרֶץ הָאֱמֹרִי אֲשֶׁר בַּגִּלְעָד	1x
+
+And that year they vexed and oppressed the children of Israel: eighteen years, all the children of Israel that [were] on the other side Jordan in the land of the Amorites, which [is] in Gilead.
+#### 11
+וַיֹּאמֶר יְהוָה אֶל-בְּנֵי יִשְׂרָאֵל הֲלֹא מִמִּצְרַיִם וּמִן-הָאֱמֹרִי וּמִן-בְּנֵי עַמּוֺן וּמִן-פְּלִשְׁתִּים	1x
+
+And the LORD said unto the children of Israel, [Did] not [I deliver you] from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines ?
+## c11
+#### 19
+וַיִּשְׁלַח יִשְׂרָאֵל מַלְאָכִים אֶל-סִיחוֺן מֶלֶךְ-הָאֱמֹרִי מֶלֶךְ חֶשְׁבּוֺן וַיֹּאמֶר לוֺ יִשְׂרָאֵל נַעְבְּרָה-נָּא בְאַרְצְךׇ עַד-מְקוֺמִי	1x
+
+And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place.
+
+#### 21
+וַיִּתֵּן יְהוָה אֱלֹהֵי-יִשְׂרָאֵל אֶת-סִיחוֺן וְאֶת-כָּל-עַמּוֺ בְּיַד יִשְׂרָאֵל וַיַּכּוּם וַיִּירַשׁ יִשְׂרָאֵל אֵת כָּל-אֶרֶץ הָאֱמֹרִי יוֺשֵׁב הָאָרֶץ הַהִיא	1x
+
+And the LORD God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country.
+#### 22
+וַיִּירְשׁוּ אֵת כָּל-גְּבוּל הָאֱמֹרִי מֵאַרְנוֺן וְעַד-הַיַּבֹּק וּמִן-הַמִּדְבָּר וְעַד-הַיַּרְדֵּן	1x
+
+And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan.
+#### 23
+וְעַתָּה יְהוָה אֱלֹהֵי יִשְׂרָאֵל הוֺרִישׁ אֶת-הָאֱמֹרִי מִפְּנֵי עַמּוֺ יִשְׂרָאֵל וְאַתָּה תִּירָשֶׁנּוּ	1x
+
+So now the LORD God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possess it?
 ## c19
 #### 22
 הֵמָּה֮ מֵיטִיבִ֣ים אֶת־לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי־בְלִיַּ֗עַל נָסַ֙בּוּ֙ אֶת־הַבַּ֔יִת מִֽתְדַּפְּקִ֖ים עַל־הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל־הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙ לֵאמֹ֔ר הוֹצֵ֗א אֶת־הָאִ֛ישׁ אֲשֶׁר־בָּ֥א אֶל־בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ ׃
@@ -125,6 +256,11 @@ Now therefore deliver [us] the men, the children of Belial, which [are] in Gibea
 וּבְנֵ֥י עֵלִ֖י בְּנֵ֣י בְלִיָּ֑עַל לֹ֥א יָדְע֖וּ אֶת־יְהוָֽה ׃
 
 Now the sons of Eli [were] sons of Belial; they knew not the LORD.
+## c7
+#### 14
+וַתָּשֹׁבְנָה הֶעָרִים אֲשֶׁר לָקְחוּ-פְלִשְׁתִּים מֵאֵת יִשְׂרָאֵל לְיִשְׂרָאֵל מֵעֶקְרוֺן וְעַד-גַּת וְאֶת-גְּבוּלָן הִצִּיל יִשְׂרָאֵל מִיַּד פְּלִשְׁתִּים וַיְהִי שָׁלוֺם בֵּין יִשְׂרָאֵל וּבֵין הָאֱמֹרִי	1x
+
+And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites.
 ## c15
 #### 11
 נִחַ֗מְתִּי כִּֽי־הִמְלַ֤כְתִּי אֶת־שָׁאוּל֙ לְמֶ֔לֶךְ כִּֽי־שָׁב֙ מֵאַֽחֲרַ֔י וְאֶת־דְּבָרַ֖י לֹ֣א הֵקִ֑ים וַיִּ֙חַר֙ לִשְׁמוּאֵ֔ל וַיִּזְעַ֥ק אֶל־יְהוָ֖ה כָּל־הַלָּֽיְלָה ׃
@@ -132,6 +268,7 @@ Now the sons of Eli [were] sons of Belial; they knew not the LORD.
 παρακεκλημαι οτι εβασιλευσα τον σαουλ εις βασιλεα οτι απεστρεψεν απο οπισθεν μου και τους λογους μου ουκ ετηρησεν και ηθυμησεν σαμουηλ και εβοησεν προς κυριον ολην την νυκτα
 
 It repenteth me that I have set up Saul [to be] king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the LORD all night.
+
 ## c29
 #### 1
 וַיִּקְבְּצ֧וּ פְלִשְׁתִּ֛ים אֶת־כָּל־מַחֲנֵיהֶ֖ם אֲפֵ֑קָה וְיִשְׂרָאֵ֣ל חֹנִ֔ים בַּעַ֖יִן אֲשֶׁ֥ר בְּיִזְרְעֶֽאל ׃
@@ -177,6 +314,10 @@ And let it be, when thou hearest the sound of a going in the tops of the mulberr
 #### 22
 וַיַּ֨עַן אֲבִישַׁ֤י בֶּן־צְרוּיָה֙ וַיֹּ֔אמֶר הֲתַ֣חַת זֹ֔את לֹ֥א יוּמַ֖ת שִׁמְעִ֑י כִּ֥י קִלֵּ֖ל אֶת־מְשִׁ֥יחַ יְהוָֽה ׃ ס
 ## c21
+#### 2
+וַיִּקְרָא הַמֶּלֶךְ לַגִּבְעֹנִים וַיֹּאמֶר אֲלֵיהֶם וְהַגִּבְעֹנִים לֹא מִבְּנֵי יִשְׂרָאֵל הֵמָּה כִּי אִם-מִיֶּתֶר הָאֱמֹרִי וּבְנֵי יִשְׂרָאֵל נִשְׁבְּעוּ לָהֶם וַיְבַקֵּשׁ שָׁאוּל לְהַכֹּתָם בְּקַנֹּאתוֺ לִבְנֵי-יִשְׂרָאֵל וִיהוּדָה	1x
+
+And the king called the Gibeonites, and said unto them; now the Gibeonites [were] not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah. )
 #### 19
 וַתְּהִי־ע֧וֹד הַמִּלְחָמָ֛ה בְּג֖וֹב עִם־פְּלִשְׁתִּ֑ים וַיַּ֡ךְ אֶלְחָנָן֩ בֶּן־יַעְרֵ֨י אֹרְגִ֜ים בֵּ֣ית הַלַּחְמִ֗י אֵ֚ת גָּלְיָ֣ת הַגִּתִּ֔י וְעֵ֣ץ חֲנִית֔וֹ כִּמְנ֖וֹר אֹרְגִֽים ׃ ס
 
@@ -192,6 +333,11 @@ These four were born to the giant in Gath, and fell by the hand of David, and by
 
 And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah.
 # 1_kings
+## c4
+#### 19
+גֶּבֶר בֶּן-אֻרִי בְּאֶרֶץ גִּלְעָד אֶרֶץ סִיחוֺן מֶלֶךְ הָאֱמֹרִי וְעֹג מֶלֶךְ הַבָּשָׁן וּנְצִיב אֶחָד אֲשֶׁר בָּאָרֶץ	1x
+
+Geber the son of Uri [was] in the country of Gilead, [in] the country of Sihon king of the Amorites, and of Og king of Bashan; and [he was] the only officer which [was] in the land.
 ## c6
 #### 23
 וַיַּ֣עַשׂ בַּדְּבִ֔יר שְׁנֵ֥י כְרוּבִ֖ים עֲצֵי־שָׁ֑מֶן עֶ֥שֶׂר אַמּ֖וֹת קוֹמָתֽוֹ ׃
@@ -247,6 +393,10 @@ And Solomon built Gezer, and Bethhoron the nether,
 וְאֶֽת־בַּעֲלָ֛ת וְאֶת־תמר בַּמִּדְבָּ֖ר בָּאָֽרֶץ ׃
 
 And Baalath, and Tadmor in the wilderness, in the land,
+#### 20
+כָּל-הָעָם הַנּוֺתָר מִן-הָאֱמֹרִי הַחִתִּי הַפְּרִזִּי הַחִוִּי וְהַיְבוּסִי אֲשֶׁר לֹא-מִבְּנֵי יִשְׂרָאֵל הֵמָּה	1x
+
+[And] all the people [that were] left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which [were] not of the children of Israel,
 #### 26
 וָאֳנִ֡י עָשָׂה֩ הַמֶּ֨לֶךְ שְׁלֹמֹ֜ה בְּעֶצְיֽוֹן־גֶּ֨בֶר אֲשֶׁ֧ר אֶת־אֵל֛וֹת עַל־שְׂפַ֥ת יַם־ס֖וּף בְּאֶ֥רֶץ אֱדֽוֹם ׃
 
@@ -399,6 +549,11 @@ Now therefore send, [and] gather to me all Israel unto mount Carmel, and the pro
 וַיֹּ֤אמֶר אֵלִיָּ֙הוּ֙ אֶל־הָעָ֔ם אֲנִ֞י נוֹתַ֧רְתִּי נָבִ֛יא לַיהוָ֖ה לְבַדִּ֑י וּנְבִיאֵ֣י הַבַּ֔עַל אַרְבַּע־מֵא֥וֹת וַחֲמִשִּׁ֖ים אִֽישׁ ׃
 
 Then said Elijah unto the people, I, [even] I only, remain a prophet of the LORD; but Baal´s prophets [are] four hundred and fifty men.
+## c21
+#### 26
+וַיַּתְעֵב מְאֹד לָלֶכֶת אַחֲרֵי הַגִּלֻּלִים כְּכֹל אֲשֶׁר עָשׂוּ הָאֱמֹרִי אֲשֶׁר הוֺרִישׁ יְהוָה מִפְּנֵי בְּנֵי יִשְׂרָאֵל	1x
+
+And he did very abominably in following idols, according to all [things] as did the Amorites, whom the LORD cast out before the children of Israel.
 ## c22
 #### 10
 וּמֶ֣לֶךְ יִשְׂרָאֵ֡ל וִֽיהוֹשָׁפָ֣ט מֶֽלֶךְ־יְהוּדָ֡ה יֹשְׁבִים֩ אִ֨ישׁ עַל־כִּסְא֜וֹ מְלֻבָּשִׁ֤ים בְּגָדִים֙ בְּגֹ֔רֶן פֶּ֖תַח שַׁ֣עַר שֹׁמְר֑וֹן וְכָ֨ל־הַנְּבִיאִ֔ים מִֽתְנַבְּאִ֖ים לִפְנֵיהֶֽם ׃
@@ -455,7 +610,11 @@ And he went up from thence unto Bethel: and as he was going up by the way, there
 και εξενευσεν οπισω αυτων και ειδεν αυτα και κατηρασατο αυτοις εν ονοματι κυριου και ιδου εξηλθον δυο αρκοι εκ του δρυμου και ανερρηξαν εξ αυτων τεσσαρακοντα και δυο παιδας
 
 And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them.
+## c21
+#### 11
+יַעַן אֲשֶׁר עָשָׂה מְנַשֶּׁה מֶלֶךְ-יְהוּדָה הַתֹּעֵבוֺת הָאֵלֶּה הֵרַע מִכֹּל אֲשֶׁר-עָשׂוּ הָאֱמֹרִי אֲשֶׁר לְפָנָיו וַיַּחֲטִא גַם-אֶת-יְהוּדָה בְּגִלּוּלָיו	1x
 
+Because Manasseh king of Judah hath done these abominations, [and] hath done wickedly above all that the Amorites did, which [were] before him, and hath made Judah also to sin with his idols:
 ## c22
 #### 3
 וַיְהִ֗י בִּשְׁמֹנֶ֤ה עֶשְׂרֵה֙ שָׁנָ֔ה לַמֶּ֖לֶךְ יֹאשִׁיָּ֑הוּ שָׁלַ֣ח הַ֠מֶּלֶךְ אֶת־שָׁפָ֨ן בֶּן־אֲצַלְיָ֤הוּ בֶן־מְשֻׁלָּם֙ הַסֹּפֵ֔ר בֵּ֥ית יְהוָ֖ה לֵאמֹֽר ׃

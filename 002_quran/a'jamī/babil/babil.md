@@ -26,17 +26,22 @@ https://youtu.be/iuWwIH6ib-k
 ##### canaan
 ###### bbl.tor.gen.10.15
 ![[bbl.tor#gen#c10#15]]
+
 ##### amor
 ###### bbl.tor.gen.10.16
 ![[bbl.tor#gen#c10#16]]
-### assur
+
+[[amorite]]
+#### assur
 ![[bbl.tor#gen#c10#11]]![[bbl.tor#gen#c10#12]]
 ### arphachshad
 ur kasdim
 chaldaean
 #### bbl.tor.gen:10:22-30
 ![[bbl.tor#gen#c10#22]]![[bbl.tor#gen#c10#23]]![[bbl.tor#gen#c10#24]]![[bbl.tor#gen#c10#25]]![[bbl.tor#gen#c10#26]]![[bbl.tor#gen#c10#27]]![[bbl.tor#gen#c10#28]]![[bbl.tor#gen#c10#29]]![[bbl.tor#gen#c10#30]]
-#### Ur Chaldees
+### Ur Chaldees
 [[ur_chaldees]]
+### chaldees
+[[chaldees]]
 ### euphrates
 [[furat]]

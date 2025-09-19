@@ -14,6 +14,10 @@ In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar ki
 2וַיִּתֵּן֩ אֲדֹנָ֨י בְּיָד֜וֹ אֶת־יְהוֹיָקִ֣ים מֶֽלֶךְ־יְהוּדָ֗ה וּמִקְצָת֙ כְּלֵ֣י בֵית־הָֽאֱלֹהִ֔ים וַיְבִיאֵ֥ם אֶֽרֶץ־שִׁנְעָ֖ר בֵּ֣ית אֱלֹהָ֑יו וְאֶת־הַכֵּלִ֣ים הֵבִ֔יא בֵּ֖ית אוֹצַ֥ר
 
 And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god. 
+#### 4
+יְלָדִים אֲשֶׁר אֵין-בָּהֶם כָּל-מאוּם וְטוֺבֵי מַרְאֶה וּמַשְׂכִּלִים בְּכָל-חָכְמָה וְיֹדְעֵי דַעַת וּמְבִינֵי מַדָּע וַאֲשֶׁר כֹּחַ בָּהֶם לַעֲמֹד בְּהֵיכַל הַמֶּלֶךְ וּלְלַמְּדָם סֵפֶר וּלְשׁוֺן כַּשְׂדִּים	1x
+
+Children in whom [was] no blemish but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as [had] ability in them to stand in the king´s palace, and whom they might teach the learning and the tongue of the Chaldeans.
 #### 18
 וּלְמִקְצָת הַיָּמִים אֲשֶׁר-אָמַר הַמֶּלֶךְ לַהֲבִיאָם וַיְבִיאֵם שַׂר הַסָּרִיסִים לִפְנֵי נְבֻכַדְנֶצַּר	1x
 
@@ -23,6 +27,18 @@ Now at the end of the days that the king had said he should bring them in, then 
 וּבִשְׁנַת שְׁתַּיִם לְמַלְכוּת נְבֻכַדְנֶצַּר חָלַם נְבֻכַדְנֶצַּר חֲלֹמוֺת וַתִּתְפָּעֶם רוּחוֺ וּשְׁנָתוֺ נִהְיְתָה עָלָיו	2x
 
 And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.
+#### 2
+וַיֹּאמֶר הַמֶּלֶךְ לִקְרֹא לַחַרְטֻמִּים וְלָאַשָּׁפִים וְלַמְכַשְּׁפִים וְלַכַּשְׂדִּים לְהַגִּיד לַמֶּלֶךְ חֲלֹמֹתָיו וַיָּבֹאוּ וַיַּעַמְדוּ לִפְנֵי הַמֶּלֶךְ	1x
+
+Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.
+#### 4
+וַיְדַבְּרוּ הַכַּשְׂדִּים לַמֶּלֶךְ אֲרָמִית מַלְכָּא לְעָלְמִין חֱיִי אֱמַר חֶלְמָא לעבדיך )לְעַבְדָךְ( וּפִשְׁרָא נְחַוֵּא	1x
+
+Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy servants the dream, and we will shew the interpretation.
+#### 5
+עָנֵה מַלְכָּא וְאָמַר לכשדיא )לְכַשְׂדָּאֵי( מִלְּתָה מִנִּי אַזְדָּא הֵן לָא תְהוֺדְעוּנַּנִי חֶלְמָא וּפִשְׁרֵהּ הַדָּמִין תִּתְעַבְדוּן וּבָתֵּיכוֺן נְוָלִי יִתְּשָׂמוּן	1x
+
+The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill.
 #### 10
 עֲנ֨וֹ כשדיא קֳדָם־מַלְכָּא֙ וְאָ֣מְרִ֔ין לָֽא־אִיתַ֤י אֲנָשׁ֙ עַל־יַבֶּשְׁתָּ֔א דִּ֚י מִלַּ֣ת מַלְכָּ֔א יוּכַ֖ל לְהַחֲוָיָ֑ה כָּל־קֳבֵ֗ל דִּ֚י כָּל־מֶ֙לֶךְ֙ רַ֣ב וְשַׁלִּ֔יט מִלָּ֤ה כִדְנָה֙ לָ֣א שְׁאֵ֔ל לְכָל־חַרְטֹּ֖ם וְאָשַׁ֥ף
  
@@ -56,6 +72,10 @@ Then the princes, the governors, and captains, the judges, the treasurers, the c
 כָּל-קֳבֵל דְּנָה בֵּהּ-זִמְנָא כְּדִי שָׁמְעִין כָּל-עַמְמַיָּא קָל קַרְנָא מַשְׁרוֺקִיתָא קיתרס )קַתְרֹס( שַׂבְּכָא פְּסַנְטֵרִין וְכֹל זְנֵי זְמָרָא נָפְלִין כָּל-עַמְמַיָּא אֻמַּיָּא וְלִשָּׁנַיָּא סָגְדִין לְצֶלֶם דַּהֲבָא דִּי הֲקֵים נְבוּכַדְנֶצַּר מַלְכָּא	1x
 
 Therefore at that time, when all the people heard the sound of the cornet, flute, harp sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down [and] worshipped the golden image that Nebuchadnezzar the king had set up.
+#### 8
+כָּל-קֳבֵל דְּנָה בֵּהּ-זִמְנָא קְרִבוּ גֻּבְרִין כַּשְׂדָּאִין וַאֲכַלוּ קַרְצֵיהוֺן דִּי יְהוּדָיֵא	1x
+
+Wherefore at that time certain Chaldeans came near, and accused the Jews.
 #### 9
 עֲנוֺ וְאָמְרִין לִנְבוּכַדְנֶצַּר מַלְכָּא מַלְכָּא לְעָלְמִין חֱיִי	1x
 
@@ -86,6 +106,10 @@ And the princes, governors, and captains, and the king´s counsellors, being gat
 
 #### 4
 
+#### 7
+וְחֶזְוֵי רֵאשִׁי עַל-מִשְׁכְּבִי חָזֵה הֲוֵית וַאֲלוּ אִילָן בְּגוֺ אַרְעָא וְרוּמֵהּ שַׂגִּיא	1x
+
+Then came in the magicians, the astrologers, the Chaldeans, and the soothsayers: and I told the dream before them; but they did not make known unto me the interpretation thereof.
 #### 17
 בִּגְזֵרַ֤ת עִירִין֙ פִּתְגָמָ֔א וּמֵאמַ֥ר קַדִּישִׁ֖ין שְׁאֵֽלְתָ֑א עַד־דִּבְרַ֡ת דִּ֣י יִנְדְּע֣וּן חַ֠יַּיָּא דִּֽי־שַׁלִּ֨יט עליא בְּמַלְכ֣וּת אנושא וּלְמַן־דִּ֤י יִצְבֵּא֙ יִתְּנִנַּ֔הּ וּשְׁפַ֥ל אֲנָשִׁ֖ים יְקִ֥ים עליה ׃
 
@@ -111,6 +135,19 @@ I saw in the night visions, and, behold, [one] like the Son of man came with the
 וְלֵ֨הּ יְהִ֤יב שָׁלְטָן֙ וִיקָ֣ר וּמַלְכ֔וּ וְכֹ֣ל עַֽמְמַיָּ֗א אֻמַיָּ֛א וְלִשָּׁנַיָּ֖א לֵ֣הּ יִפְלְח֑וּן שָׁלְטָנֵ֞הּ שָׁלְטָ֤ן עָלַם֙ דִּֽי־לָ֣א יֶעְדֵּ֔ה וּמַלְכוּתֵ֖הּ דִּי־לָ֥א תִתְחַבַּֽל ׃ פ
 
 And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.
+## c5
+#### 7
+קָרֵא מַלְכָּא בְּחַיִל לְהֶעָלָה לְאָשְׁפַיָּא כשדיא )כַּשְׂדָּאֵי( וְגָזְרַיָּא עָנֵה מַלְכָּא וְאָמַר לְחַכִּימֵי בָבֶל דִּי כָל-אֱנָשׁ דִּי-יִקְרֵה כְּתָבָה דְנָה וּפִשְׁרֵהּ יְחַוִּנַּנִי אַרְגְּוָנָא יִלְבַּשׁ והמנוכא )וְהַמְנִיכָא( דִי-דַהֲבָא עַל-צַוְּארֵהּ וְתַלְתִּי בְמַלְכוּתָא יִשְׁלַט	1x
+
+The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. [And] the king spake, and said to the wise [men] of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and [have] a chain of gold about his neck, and shall be the third ruler in the kingdom. (aloud: Cald. with might)
+#### 11
+אִיתַי גְּבַר בְּמַלְכוּתָךְ דִּי רוּחַ אֱלָהִין קַדִּישִׁין בֵּהּ וּבְיוֺמֵי אֲבוּךְ נַהִירוּ וְשָׂכְלְתָנוּ וְחָכְמָה כְּחָכְמַת-אֱלָהִין הִשְׁתְּכַחַת בֵּהּ וּמַלְכָּא נְבֻכַדְנֶצַּר אֲבוּךְ רַב חַרְטֻמִּין אָשְׁפִין כַּשְׂדָּאִין גָּזְרִין הֲקִימֵהּ אֲבוּךְ מַלְכָּא	1x
+
+There is a man in thy kingdom, in whom [is] the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, [I say], thy father, made master of the magicians, astrologers, Chaldeans, [and] soothsayers;
+#### 30
+בֵּהּ בְּלֵילְיָא קְטִיל בֵּלְאשַׁצַּר מַלְכָּא כשדיא )כַשְׂדָּאָה(	1x
+
+In that night was Belshazzar the king of the Chaldeans slain.
 ## c8
 ### 1
 בִּשְׁנַ֣ת שָׁל֔וֹשׁ לְמַלְכ֖וּת בֵּלְאשַׁצַּ֣ר הַמֶּ֑לֶךְ חָז֞וֹן נִרְאָ֤ה אֵלַי֙ אֲנִ֣י דָנִיֵּ֔אל אַחֲרֵ֛י הַנִּרְאָ֥ה אֵלַ֖י בַּתְּחִלָּֽה ׃
@@ -161,6 +198,10 @@ And the rough goat [is] the king of Grecia: and the great horn that [is] between
 
 Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power.
 ## c9
+#### 1
+בִּשְׁנַת אַחַת לְדָרְיָוֶשׁ בֶּן-אֲחַשְׁוֵרוֺשׁ מִזֶּרַע מָדָי אֲשֶׁר הָמְלַךְ עַל מַלְכוּת כַּשְׂדִּים	1x
+
+In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;
 ### 21
 וְע֛וֹד אֲנִ֥י מְדַבֵּ֖ר בַּתְּפִלָּ֑ה וְהָאִ֣ישׁ גַּבְרִיאֵ֡ל אֲשֶׁר֩ רָאִ֨יתִי בֶחָז֤וֹן בַּתְּחִלָּה֙ מֻעָ֣ף בִּיעָ֔ף נֹגֵ֣עַ אֵלַ֔י כְּעֵ֖ת מִנְחַת־עָֽרֶב ׃
 

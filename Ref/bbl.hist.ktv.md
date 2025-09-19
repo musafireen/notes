@@ -1,6 +1,11 @@
 # ruth
 
 # 1_chronicles
+## c1
+#### 14
+וְאֶת-הַיְבוּסִי וְאֶת-הָאֱמֹרִי וְאֵת הַגִּרְגָּשִׁי	1x
+
+The Jebusite also, and the Amorite, and the Girgashite,
 ## c13
 ## c21
 ### 1
@@ -35,6 +40,11 @@ All [this, said David], the LORD made me understand in writing by [his] hand upo
 שִׁמְעָא בְנוֺ חַגִּיָּה בְנוֺ עֲשָׂיָה בְנוֺ	1x
 
 And Jehozadak went [into captivity], when the LORD carried away Judah and Jerusalem by the hand of Nebuchadnezzar.
+## c8
+#### 7
+כָּל-הָעָם הַנּוֺתָר מִן-הַחִתִּי וְהָאֱמֹרִי וְהַפְּרִזִּי וְהַחִוִּי וְהַיְבוּסִי אֲשֶׁר לֹא מִיִּשְׂרָאֵל הֵמָּה	1x
+
+[As for] all the people [that were] left of the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which [were] not of Israel,
 ## c36
 #### 6
 עָלָיו עָלָה נְבוּכַדְנֶאצַּר מֶלֶךְ בָּבֶל וַיַּאַסְרֵהוּ בַּנְחֻשְׁתַּיִם לְהֹלִיכוֺ בָּבֶלָה	1x
@@ -77,10 +87,23 @@ But after that our fathers had provoked the God of heaven unto wrath, he gave th
 
 And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that [was] in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto [one], whose name [was] Sheshbazzar, whom he had made governor;
 ## c6
+#### 1
+בֵּאדַיִן דָּרְיָוֶשׁ מַלְכָּא שָׂם טְעֵם וּבַקַּרוּ בְּבֵית סִפְרַיָּא דִּי גִנְזַיָּא מְהַחֲתִין תַּמָּה בְּבָבֶל	1x
+
+Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon. (rolls: Chaldee, books)
 #### 5
 וְאַף מָאנֵי בֵית-אֱלָהָא דִּי דַהֲבָה וְכַסְפָּא דִּי נְבוּכַדְנֶצַּר הַנְפֵּק מִן-הֵיכְלָא דִי-בִירוּשְׁלֶם וְהֵיבֵל לְבָבֶל יַהֲתִיבוּן וִיהָךְ לְהֵיכְלָא דִי-בִירוּשְׁלֶם לְאַתְרֵהּ וְתַחֵת בְּבֵית אֱלָהָא	1x
 
 And also let the golden and silver vessels of the house of God, which Nebuchadnezzar took forth out of the temple which [is] at Jerusalem, and brought unto Babylon, be restored, and brought again unto the temple which [is] at Jerusalem, [every one] to his place, and place [them] in the house of God.
+#### 8
+וּמִנִּי שִׂים טְעֵם לְמָא דִי-תַעַבְדוּן עִם-שָׂבֵי יְהוּדָיֵא אִלֵּךְ לְמִבְנֵא בֵּית-אֱלָהָא דֵךְ וּמִנִּכְסֵי מַלְכָּא דִּי מִדַּת עֲבַר נַהֲרָה אָסְפַּרְנָא נִפְקְתָא תֶּהֱוֵא מִתְיַהֲבָא לְגֻבְרַיָּא אִלֵּךְ דִּי-לָא לְבַטָּלָא
+
+Moreover I make a decree what ye shall do to the elders of these Jews for the building of this house of God: that of the king´s goods, [even] of the tribute beyond the river, forthwith expenses be given unto these men, that they be not hindered. (I make…: Chaldee, by me a decree is made)
+## c9
+#### 1
+וּכְכַלּוֺת אֵלֶּה נִגְּשׁוּ אֵלַי הַ׹ָּׂרִים לֵאמֹר לֹא-נִבְדְּלוּ הָעָם יִשְׂרָאֵל וְהַכֹּהֲנִים וְהַלְוִיִּם מֵעַמֵּי הָאֲרָצוֺת כְּתֹעֲבֹתֵיהֶם לַכְּנַעֲנִי הַחִתִּי הַפְּרִזִּי הַיְבוּסִי הָעַמֹּנִי הַמֹּאָבִי הַמִּצְרִי וְהָאֱמֹרִי	1x
+
+Now when these things were done, the princes came to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands, [doing] according to their abominations, [even] of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.
 # nehemiah
 ## c7
 #### 6
@@ -92,6 +115,10 @@ These [are] the children of the province, that went up out of the captivity, of 
 אַתָּה-הוּא יְהוָה הָאֱלֹהִים אֲשֶׁר בָּחַרְתָּ בְּאַבְרָם וְהוֺצֵאתוֺ מֵאוּר כַּשְׂדִּים וְשַׂמְתָּ שְּׁמוֺ אַבְרָהָם	1x
 
 Thou [art] the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;
+#### 8
+וּמָצָאתָ אֶת-לְבָבוֺ נֶאֱמָן לְפָנֶיךׇ וְכָרוֺת עִמּוֺ הַבְּרִית לָתֵת אֶת-אֶרֶץ הַכְּנַעֲנִי הַחִתִּי הָאֱמֹרִי וְהַפְּרִזִּי וְהַיְבוּסִי וְהַגִּרְגָּשִׁי לָתֵת לְזַרְעוֺ וַתָּקֶם אֶת-דְּבָרֶיךׇ כִּי צַדִּיק אָתָּה	1x
+
+And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give [it, I say], to his seed, and hast performed thy words; for thou [art] righteous:
 # esther
 ## c1
 #### 22
