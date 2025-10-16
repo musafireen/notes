@@ -77,6 +77,11 @@ appar, sundarar, sambandar
 vyakta, avyakta, jña
 ## pramāṇa
 dṛṣṭa, anunāna, āptavacana
+
+## ṛgvedahṛdayaśākhā
+[bharadvāja](RV#b6) (6), [viśvāmitra](RV#b3) (3), [vasiśṭha](RV#b7) (7)
+## ṛgvedaparaśākhā
+[gṛtsamāda](RV#b2) (2), [vāmadeva](RV#b4) (4), [atri](RV#b5) (5)
 # 4 
 ## weeks in a month
 ## directions

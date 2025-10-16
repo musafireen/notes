@@ -130,6 +130,10 @@ And God said unto Noah, The end of all flesh is come before me; for the earth is
 וּמִכָּל־הָ֠חַי מִֽכָּל־בָּשָׂ֞ר שְׁנַ֧יִם מִכֹּ֛ל תָּבִ֥יא אֶל־הַתֵּבָ֖ה לְהַחֲיֹ֣ת אִתָּ֑ךְ זָכָ֥ר וּנְקֵבָ֖ה יִֽהְיֽוּ ׃. 
 
 And of every living thing of all flesh, two of every [sort] shalt thou bring into the ark, to keep [them] alive with thee; they shall be male and female.
+#### 18
+וַהֲקִמֹתִי אֶת-בְּרִיתִי אִתָּךְ וּבָאתָ אֶל-הַתֵּבָה אַתָּה וּבָנֶיךׇ וְאִשְׁתְּךׇ וּנְשֵׁי-בָנֶיךׇ אִתָּךְ
+
+But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons´ wives with thee.
 ## c7
 #### 2
 מִכֹּ֣ל ׀ הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה תִּֽקַּח־לְךָ֛ שִׁבְעָ֥ה שִׁבְעָ֖ה אִ֣ישׁ וְאִשְׁתּ֑וֹ וּמִן־הַבְּהֵמָ֡ה אֲ֠שֶׁר לֹ֣א טְהֹרָ֥ה הִ֛וא שְׁנַ֖יִם אִ֥ישׁ וְאִשְׁתּֽוֹ ׃
@@ -161,6 +165,134 @@ And Noah builded an altar unto the LORD; and took of every clean beast, and of e
 וַיָּ֣רַח יְהוָה֮ אֶת־רֵ֣יחַ הַנִּיחֹחַ֒ וַיֹּ֨אמֶר יְהוָ֜ה אֶל־לִבּ֗וֹ לֹֽא־אֹ֠סִף לְקַלֵּ֨ל ע֤וֹד אֶת־הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא־אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת־כָּל־חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי ׃
 
 And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man´s sake; for the imagination of man´s heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done. (a sweet…: Heb. a savour of rest or, satisfaction)
+## c9
+#### 1
+וַיְבָ֣רֶךְ אֱלֹהִ֔ים אֶת־נֹ֖חַ וְאֶת־בָּנָ֑יו וַיֹּ֧אמֶר לָהֶ֛ם פְּר֥וּ וּרְב֖וּ וּמִלְא֥וּ אֶת־הָאָֽרֶץ׃
+
+1And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth. 
+#### 2
+וּמוֹרַאֲכֶ֤ם וְחִתְּכֶם֙ יִֽהְיֶ֔ה עַ֚ל כָּל־חַיַּ֣ת הָאָ֔רֶץ וְעַ֖ל כָּל־ע֣וֹף הַשָּׁמָ֑יִם בְּכֹל֩ אֲשֶׁ֨ר תִּרְמֹ֧שׂ הָֽאֲדָמָ֛ה וּֽבְכָל־דְּגֵ֥י הַיָּ֖ם בְּיֶדְכֶ֥ם נִתָּֽנוּ׃
+
+
+2And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth [upon] the earth, and upon all the fishes of the sea; into your hand are they delivered. 
+
+#### 3
+כָּל־רֶ֙מֶשׂ֙ אֲשֶׁ֣ר הוּא־חַ֔י לָכֶ֥ם יִהְיֶ֖ה לְאָכְלָ֑ה כְּיֶ֣רֶק עֵ֔שֶׂב נָתַ֥תִּי לָכֶ֖ם אֶת־כֹּֽל׃
+
+3Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things. 
+
+#### 4
+אַךְ־בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ׃
+
+4But flesh with the life thereof, [which is] the blood thereof, shall ye not eat. 
+
+#### 5
+וְאַ֨ךְ אֶת־דִּמְכֶ֤ם לְנַפְשֹֽׁתֵיכֶם֙ אֶדְרֹ֔שׁ מִיַּ֥ד כָּל־חַיָּ֖ה אֶדְרְשֶׁ֑נּוּ וּמִיַּ֣ד הָֽאָדָ֗ם מִיַּד֙ אִ֣ישׁ אָחִ֔יו אֶדְרֹ֖שׁ אֶת־נֶ֥פֶשׁ הָֽאָדָֽם׃
+
+5And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man´s brother will I require the life of man. 
+
+#### 6
+שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת־הָאָדָֽם׃
+
+6Whoso sheddeth man´s blood, by man shall his blood be shed: for in the image of God made he man. 
+
+#### 8
+וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־נֹ֔חַ וְאֶל־בָּנָ֥יו אִתּ֖וֹ לֵאמֹֽר׃
+
+8And God spake unto Noah, and to his sons with him, saying, 
+
+#### 9
+וַאֲנִ֕י הִנְנִ֥י מֵקִ֛ים אֶת־בְּרִיתִ֖י אִתְּכֶ֑ם וְאֶֽת־זַרְעֲכֶ֖ם אַֽחֲרֵיכֶֽם׃
+
+9And I, behold, I establish my covenant with you, and with your seed after you; 
+
+#### 10
+וְאֵ֨ת כָּל־נֶ֤פֶשׁ הַֽחַיָּה֙ אֲשֶׁ֣ר אִתְּכֶ֔ם בָּע֧וֹף בַּבְּהֵמָ֛ה וּֽבְכָל־חַיַּ֥ת הָאָ֖רֶץ אִתְּכֶ֑ם מִכֹּל֙ יֹצְאֵ֣י הַתֵּבָ֔ה לְכֹ֖ל חַיַּ֥ת הָאָֽרֶץ׃
+
+10And with every living creature that [is] with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth. 
+
+#### 11
+וַהֲקִמֹתִ֤י אֶת־בְּרִיתִי֙ אִתְּכֶ֔ם וְלֹֽא־יִכָּרֵ֧ת כָּל־בָּשָׂ֛ר ע֖וֹד מִמֵּ֣י הַמַּבּ֑וּל וְלֹֽא־יִהְיֶ֥ה ע֛וֹד מַבּ֖וּל לְשַׁחֵ֥ת הָאָֽרֶץ׃
+
+11And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth. 
+
+#### 12
+וַיֹּ֣אמֶר אֱלֹהִ֗ים זֹ֤את אֽוֹת־הַבְּרִית֙ אֲשֶׁר־אֲנִ֣י נֹתֵ֗ן בֵּינִי֙ וּבֵ֣ינֵיכֶ֔ם וּבֵ֛ין כָּל־נֶ֥פֶשׁ חַיָּ֖ה אֲשֶׁ֣ר אִתְּכֶ֑ם לְדֹרֹ֖ת עוֹלָֽם׃
+
+12And God said, This [is] the token of the covenant which I make between me and you and every living creature that [is] with you, for perpetual generations: 
+
+#### 13
+אֶת־קַשְׁתִּ֕י נָתַ֖תִּי בֶּֽעָנָ֑ן וְהָֽיְתָה֙ לְא֣וֹת בְּרִ֔ית בֵּינִ֖י וּבֵ֥ין הָאָֽרֶץ׃
+
+13I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth. 
+
+#### 16
+וְהָיְתָ֥ה הַקֶּ֖שֶׁת בֶּֽעָנָ֑ן וּרְאִיתִ֗יהָ לִזְכֹּר֙ בְּרִ֣ית עוֹלָ֔ם בֵּ֣ין אֱלֹהִ֔ים וּבֵין֙ כָּל־נֶ֣פֶשׁ חַיָּ֔ה בְּכָל־בָּשָׂ֖ר אֲשֶׁ֥ר עַל־הָאָֽרֶץ׃
+
+16And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that [is] upon the earth. 
+
+#### 18
+וַיִּֽהְי֣וּ בְנֵי־נֹ֗חַ הַיֹּֽצְאִים֙ מִן־הַתֵּבָ֔ה שֵׁ֖ם וְחָ֣ם וָיָ֑פֶת וְחָ֕ם ה֖וּא אֲבִ֥י כְנָֽעַן׃
+
+18And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham [is] the father of Canaan.
+n1 Canaan: Heb. Chenaan
+
+#### 19
+שְׁלֹשָׁ֥ה אֵ֖לֶּה בְּנֵי־נֹ֑חַ וּמֵאֵ֖לֶּה נָֽפְצָ֥ה כָל־הָאָֽרֶץ׃
+
+19These [are] the three sons of Noah: and of them was the whole earth overspread. 
+
+#### 20
+וַיָּ֥חֶל נֹ֖חַ אִ֣ישׁ הָֽאֲדָמָ֑ה וַיִּטַּ֖ע כָּֽרֶם׃
+
+20And Noah began [to be] an husbandman, and he planted a vineyard: 
+
+#### 21
+וַיֵּ֥שְׁתְּ מִן־הַיַּ֖יִן וַיִּשְׁכָּ֑ר וַיִּתְגַּ֖ל בְּת֥וֹךְ אָהֳלֹֽה׃
+
+21And he drank of the wine, and was drunken; and he was uncovered within his tent. 
+
+#### 22
+וַיַּ֗רְא חָ֚ם אֲבִ֣י כְנַ֔עַן אֵ֖ת עֶרְוַ֣ת אָבִ֑יו וַיַּגֵּ֥ד לִשְׁנֵֽי־אֶחָ֖יו בַּחֽוּץ׃
+
+22And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without. 
+
+#### 23
+וַיִּקַּח֩ שֵׁ֨ם וָיֶ֜פֶת אֶת־הַשִּׂמְלָ֗ה וַיָּשִׂ֙ימוּ֙ עַל־שְׁכֶ֣ם שְׁנֵיהֶ֔ם וַיֵּֽלְכוּ֙ אֲחֹ֣רַנִּ֔ית וַיְכַסּ֕וּ אֵ֖ת עֶרְוַ֣ת אֲבִיהֶ֑ם וּפְנֵיהֶם֙ אֲחֹ֣רַנִּ֔ית וְעֶרְוַ֥ת אֲבִיהֶ֖ם לֹ֥א רָאֽוּ׃
+
+23And Shem and Japheth took a garment, and laid [it] upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces [were] backward, and they saw not their father´s nakedness. 
+
+#### 24
+וַיִּ֥יקֶץ נֹ֖חַ מִיֵּינ֑וֹ וַיֵּ֕דַע אֵ֛ת אֲשֶׁר־עָ֥שָׂה־ל֖וֹ בְּנ֥וֹ הַקָּטָֽן׃
+
+24And Noah awoke from his wine, and knew what his younger son had done unto him. 
+
+#### 25
+וַיֹּ֖אמֶר אָר֣וּר כְּנָ֑עַן עֶ֥בֶד עֲבָדִ֖ים יִֽהְיֶ֥ה לְאֶחָֽיו׃
+
+25And he said, Cursed [be] Canaan; a servant of servants shall he be unto his brethren. 
+
+#### 26
+וַיֹּ֕אמֶר בָּר֥וּךְ יְהֹוָ֖ה אֱלֹ֣הֵי שֵׁ֑ם וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃
+
+26And he said, Blessed [be] the LORD God of Shem; and Canaan shall be his servant.
+n1 his servant: or, servant to them
+
+#### 27
+יַ֤פְתְּ אֱלֹהִים֙ לְיֶ֔פֶת וְיִשְׁכֹּ֖ן בְּאָֽהֳלֵי־שֵׁ֑ם וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃
+
+27God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.
+n1 enlarge: or, persuade
+
+#### 28
+וַֽיְחִי־נֹ֖חַ אַחַ֣ר הַמַּבּ֑וּל שְׁלֹ֤שׁ מֵאוֹת֙ שָׁנָ֔ה וַֽחֲמִשִּׁ֖ים שָׁנָֽה׃
+
+28And Noah lived after the flood three hundred and fifty years. 
+
+#### 29
+וַיִּֽהְיוּ֙ כָּל־יְמֵי־נֹ֔חַ תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וַחֲמִשִּׁ֖ים שָׁנָ֑ה וַיָּמֹֽת׃
+
+29And all the days of Noah were nine hundred and fifty years: and he died.
 ## c10
 #### 1
 וְאֵלֶּה תּוֺלְדֹתבְּנֵי-נֹחַשֵׁם חָם וָיָפֶת וַיִּוָּלְדוּ לָהֶם בָּנִים אַחַר הַמַּבּוּל 
@@ -323,7 +455,7 @@ n1 Peleg: that is Division
 #### 31
 אֵלֶּהבְנֵי-שֵׁםלְמִשְׁפְּחֹתָם לִלְשֹׁנֹתָם בְּאַרְצֹתָם לְגוֺיֵהֶם 
 
-31These [are] the sons of Shem, after their families, after their tongues, in their lands, after their nations.
+These [are] the sons of Shem, after their families, after their tongues, in their lands, after their nations.
 #### 32
 אֵ֣לֶּה מִשְׁפְּחֹ֧ת בְּנֵי־נֹ֛חַ לְתוֹלְדֹתָ֖ם בְּגוֹיֵהֶ֑ם וּמֵאֵ֜לֶּה נִפְרְד֧וּ הַגּוֹיִ֛ם בָּאָ֖רֶץ אַחַ֥ר הַמַּבּֽוּל ׃ פ
 
@@ -410,104 +542,112 @@ And there was a famine in the land: and Abram went down into Egypt to sojourn th
 #### 1
 וַיְהִ֗י בִּימֵי֙ אַמְרָפֶ֣ל מֶֽלֶךְ־שִׁנְעָ֔ר אַרְי֖וֹךְ מֶ֣לֶךְ אֶלָּסָ֑ר כְּדָרְלָעֹ֙מֶר֙ מֶ֣לֶךְ עֵילָ֔ם וְתִדְעָ֖ל מֶ֥לֶךְ גּוֹיִֽם׃
 
-1And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations; 
+And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations; 
 #### 2
 עָשׂ֣וּ מִלְחָמָ֗ה אֶת־בֶּ֙רַע֙ מֶ֣לֶךְ סְדֹ֔ם וְאֶת־בִּרְשַׁ֖ע מֶ֣לֶךְ עֲמֹרָ֑ה שִׁנְאָ֣ב ׀ מֶ֣לֶךְ אַדְמָ֗ה וְשֶׁמְאֵ֙בֶר֙ מֶ֣לֶךְ צביים וּמֶ֥לֶךְ בֶּ֖לַע הִיא־צֹֽעַר׃
 
-2[That these] made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar. 
+[That these] made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar. 
 #### 3
 כָּל־אֵ֙לֶּה֙ חָֽבְר֔וּ אֶל־עֵ֖מֶק הַשִּׂדִּ֑ים ה֖וּא יָ֥ם הַמֶּֽלַח׃
 
-3All these were joined together in the vale of Siddim, which is the salt sea. 
+All these were joined together in the vale of Siddim, which is the salt sea. 
 #### 4
 שְׁתֵּ֤ים עֶשְׂרֵה֙ שָׁנָ֔ה עָבְד֖וּ אֶת־כְּדָרְלָעֹ֑מֶר וּשְׁלֹשׁ־עֶשְׂרֵ֥ה שָׁנָ֖ה מָרָֽדוּ׃
 
-4Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled. 
+Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled. 
 #### 5
 וּבְאַרְבַּע֩ עֶשְׂרֵ֨ה שָׁנָ֜ה בָּ֣א כְדָרְלָעֹ֗מֶר וְהַמְּלָכִים֙ אֲשֶׁ֣ר אִתּ֔וֹ וַיַּכּ֤וּ אֶת־רְפָאִים֙ בְּעַשְׁתְּרֹ֣ת קַרְנַ֔יִם וְאֶת־הַזּוּזִ֖ים בְּהָ֑ם וְאֵת֙ הָֽאֵימִ֔ים בְּשָׁוֵ֖ה קִרְיָתָֽיִם׃
 
-5And in the fourteenth year came Chedorlaomer, and the kings that [were] with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim,
+And in the fourteenth year came Chedorlaomer, and the kings that [were] with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim,
 n1 Shaveh…: or, The plain of Kiriathaim
 #### 6
 וְאֶת־הַחֹרִ֖י בְּהַרְרָ֣ם שֵׂעִ֑יר עַ֚ד אֵ֣יל פָּארָ֔ן אֲשֶׁ֖ר עַל־הַמִּדְבָּֽר׃
 
-6And the Horites in their mount Seir, unto Elparan, which [is] by the wilderness.
+And the Horites in their mount Seir, unto Elparan, which [is] by the wilderness.
 n1 Elparan: or, The plain of Paran
 #### 7
 וַ֠יָּשֻׁבוּ וַיָּבֹ֜אוּ אֶל־עֵ֤ין מִשְׁפָּט֙ הִ֣וא קָדֵ֔שׁ וַיַּכּ֕וּ אֶֽת־כָּל־שְׂדֵ֖ה הָעֲמָלֵקִ֑י וְגַם֙ אֶת־הָ֣אֱמֹרִ֔י הַיֹּשֵׁ֖ב בְּחַֽצְצֹ֥ן תָּמָֽר׃
 
-7And they returned, and came to Enmishpat, which [is] Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezontamar. 
+And they returned, and came to Enmishpat, which [is] Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezontamar. 
 #### 8
 וַיֵּצֵ֨א מֶֽלֶךְ־סְדֹ֜ם וּמֶ֣לֶךְ עֲמֹרָ֗ה וּמֶ֤לֶךְ אַדְמָה֙ וּמֶ֣לֶךְ צביים וּמֶ֥לֶךְ בֶּ֖לַע הִוא־צֹ֑עַר וַיַּֽעַרְכ֤וּ אִתָּם֙ מִלְחָמָ֔ה בְּעֵ֖מֶק הַשִּׂדִּֽים׃
 
-8And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same [is] Zoar; ) and they joined battle with them in the vale of Siddim; 
+And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same [is] Zoar; ) and they joined battle with them in the vale of Siddim; 
 #### 9
 אֵ֣ת כְּדָרְלָעֹ֜מֶר מֶ֣לֶךְ עֵילָ֗ם וְתִדְעָל֙ מֶ֣לֶךְ גּוֹיִ֔ם וְאַמְרָפֶל֙ מֶ֣לֶךְ שִׁנְעָ֔ר וְאַרְי֖וֹךְ מֶ֣לֶךְ אֶלָּסָ֑ר אַרְבָּעָ֥ה מְלָכִ֖ים אֶת־הַחֲמִשָּֽׁה׃
 
-9With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five. 
+With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five. 
 #### 10
 וְעֵ֣מֶק הַשִׂדִּ֗ים בֶּֽאֱרֹ֤ת בֶּאֱרֹת֙ חֵמָ֔ר וַיָּנֻ֛סוּ מֶֽלֶךְ־סְדֹ֥ם וַעֲמֹרָ֖ה וַיִּפְּלוּ־שָׁ֑מָּה וְהַנִּשְׁאָרִ֖ים הֶ֥רָה נָּֽסוּ׃
 
-10And the vale of Siddim [was full of] slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain. 
+And the vale of Siddim [was full of] slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain. 
 #### 11
 וַ֠יִּקְחוּ אֶת־כָּל־רְכֻ֨שׁ סְדֹ֧ם וַעֲמֹרָ֛ה וְאֶת־כָּל־אָכְלָ֖ם וַיֵּלֵֽכוּ׃
 
-11And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way. 
+And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way. 
 #### 12
 וַיִּקְח֨וּ אֶת־ל֧וֹט וְאֶת־רְכֻשׁ֛וֹ בֶּן־אֲחִ֥י אַבְרָ֖ם וַיֵּלֵ֑כוּ וְה֥וּא יֹשֵׁ֖ב בִּסְדֹֽם׃
 
-12And they took Lot, Abram´s brother´s son, who dwelt in Sodom, and his goods, and departed. 
+And they took Lot, Abram´s brother´s son, who dwelt in Sodom, and his goods, and departed. 
 #### 13
 וַיָּבֹא֙ הַפָּלִ֔יט וַיַּגֵּ֖ד לְאַבְרָ֣ם הָעִבְרִ֑י וְהוּא֩ שֹׁכֵ֨ן בְּאֵֽלֹנֵ֜י מַמְרֵ֣א הָאֱמֹרִ֗י אֲחִ֤י אֶשְׁכֹּל֙ וַאֲחִ֣י עָנֵ֔ר וְהֵ֖ם בַּעֲלֵ֥י בְרִית־אַבְרָֽם׃
 
-13And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these [were] confederate with Abram. 
+And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these [were] confederate with Abram. 
 #### 14
 וַיִּשְׁמַ֣ע אַבְרָ֔ם כִּ֥י נִשְׁבָּ֖ה אָחִ֑יו וַיָּ֨רֶק אֶת־חֲנִיכָ֜יו יְלִידֵ֣י בֵית֗וֹ שְׁמֹנָ֤ה עָשָׂר֙ וּשְׁלֹ֣שׁ מֵא֔וֹת וַיִּרְדֹּ֖ף עַד־דָּֽן׃
 
-14And when Abram heard that his brother was taken captive, he armed his trained [servants], born in his own house, three hundred and eighteen, and pursued [them] unto Dan. (armed: or, led forth)
+And when Abram heard that his brother was taken captive, he armed his trained [servants], born in his own house, three hundred and eighteen, and pursued [them] unto Dan. (armed: or, led forth)
 n1 trained: or, instructed
 #### 15
 וַיֵּחָלֵ֨ק עֲלֵיהֶ֧ם ׀ לַ֛יְלָה ה֥וּא וַעֲבָדָ֖יו וַיַּכֵּ֑ם וַֽיִּרְדְּפֵם֙ עַד־חוֹבָ֔ה אֲשֶׁ֥ר מִשְּׂמֹ֖אל לְדַמָּֽשֶׂק׃
 
-15And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which [is] on the left hand of Damascus. 
+And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which [is] on the left hand of Damascus. 
 #### 16
 וַיָּ֕שֶׁב אֵ֖ת כָּל־הָרְכֻ֑שׁ וְגַם֩ אֶת־ל֨וֹט אָחִ֤יו וּרְכֻשׁוֹ֙ הֵשִׁ֔יב וְגַ֥ם אֶת־הַנָּשִׁ֖ים וְאֶת־הָעָֽם׃
 
-16And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people. 
+And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people. 
 #### 17
 וַיֵּצֵ֣א מֶֽלֶךְ־סְדֹם֮ לִקְרָאתוֹ֒ אַחֲרֵ֣י שׁוּב֗וֹ מֵֽהַכּוֹת֙ אֶת־כְּדָרלָעֹ֔מֶר וְאֶת־הַמְּלָכִ֖ים אֲשֶׁ֣ר אִתּ֑וֹ אֶל־עֵ֣מֶק שָׁוֵ֔ה ה֖וּא עֵ֥מֶק הַמֶּֽלֶךְ׃
 
-17And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that [were] with him, at the valley of Shaveh, which [is] the king´s dale. 
+And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that [were] with him, at the valley of Shaveh, which [is] the king´s dale. 
 #### 18
 וּמַלְכִּי־צֶ֙דֶק֙ מֶ֣לֶךְ שָׁלֵ֔ם הוֹצִ֖יא לֶ֣חֶם וָיָ֑יִן וְה֥וּא כֹהֵ֖ן לְאֵ֥ל עֶלְיֽוֹן׃
 
-18And Melchizedek king of Salem brought forth bread and wine: and he [was] the priest of the most high God. 
+And Melchizedek king of Salem brought forth bread and wine: and he [was] the priest of the most high God. 
 #### 19
 וַֽיְבָרְכֵ֖הוּ וַיֹּאמַ֑ר בָּר֤וּךְ אַבְרָם֙ לְאֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃
 
-19And he blessed him, and said, Blessed [be] Abram of the most high God, possessor of heaven and earth: 
+And he blessed him, and said, Blessed [be] Abram of the most high God, possessor of heaven and earth: 
 #### 20
 וּבָרוּךְ֙ אֵ֣ל עֶלְי֔וֹן אֲשֶׁר־מִגֵּ֥ן צָרֶ֖יךָ בְּיָדֶ֑ךָ וַיִּתֶּן־ל֥וֹ מַעֲשֵׂ֖ר מִכֹּֽל׃
 
-20And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all. 
+And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all. 
 #### 21
 וַיֹּ֥אמֶר מֶֽלֶךְ־סְדֹ֖ם אֶל־אַבְרָ֑ם תֶּן־לִ֣י הַנֶּ֔פֶשׁ וְהָרְכֻ֖שׁ קַֽח־לָֽךְ׃
 
-21And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
+And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
 n1 persons: Heb. souls
 #### 22
 וַיֹּ֥אמֶר אַבְרָ֖ם אֶל־מֶ֣לֶךְ סְדֹ֑ם הֲרִימֹ֨תִי יָדִ֤י אֶל־יְהוָה֙ אֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃
 
-22And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth, 
+And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth, 
 #### 23
 אִם־מִחוּט֙ וְעַ֣ד שְׂרֽוֹךְ־נַ֔עַל וְאִם־אֶקַּ֖ח מִכָּל־אֲשֶׁר־לָ֑ךְ וְלֹ֣א תֹאמַ֔ר אֲנִ֖י הֶעֱשַׁ֥רְתִּי אֶת־אַבְרָֽם׃
 
-23That I will not [take] from a thread even to a shoelatchet, and that I will not take any thing that [is] thine, lest thou shouldest say, I have made Abram rich: 
+That I will not [take] from a thread even to a shoelatchet, and that I will not take any thing that [is] thine, lest thou shouldest say, I have made Abram rich: 
 #### 24
 בִּלְעָדַ֗י רַ֚ק אֲשֶׁ֣ר אָֽכְל֣וּ הַנְּעָרִ֔ים וְחֵ֙לֶק֙ הָֽאֲנָשִׁ֔ים אֲשֶׁ֥ר הָלְכ֖וּ אִתִּ֑י עָנֵר֙ אֶשְׁכֹּ֣ל וּמַמְרֵ֔א הֵ֖ם יִקְח֥וּ חֶלְקָֽם׃ס
 
-24Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
+Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
 ## c15
+#### 1
+אַחַר הַדְּבָרִים הָאֵלֶּה הָיָה דְבַר-יְהוָה אֶל-אַבְרָם בַּמַּחֲזֶה לֵאמֹר אַל-תִּירָא אַבְרָם אָנֹכִי מָגֵן לָךְ שְׂכָרְךׇ הַרְבֵּה מְאֹד
+
+After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I [am] thy shield, [and] thy exceeding great reward.
+#### 2
+וַיֹּאמֶר אַבְרָם אֲדֹנָי יְהוִה מַה-תִּתֶּן-לִי וְאָנֹכִי הוֺלֵךְ עֲרִירִי וּבֶן-מֶשֶׁק בֵּיתִי הוּא דַּמֶּשֶׂק אֱלִיעֶזֶר
+
+And Abram said, Lord GOD, what wilt thou give me, seeing I go childless, and the steward of my house [is] this Eliezer of Damascus ?
 #### 3
 וַיֹּאמֶר אַבְרָם הֵן לִי לֹא נָתַתָּה זָרַע וְהִנֵּהבֶן-בֵּיתִייוֺרֵשׁ אֹתִי 
 
@@ -516,6 +656,10 @@ And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my h
 וַיּוֹצֵ֨א אֹת֜וֹ הַח֗וּצָה וַיֹּ֙אמֶר֙ הַבֶּט־נָ֣א הַשָּׁמַ֗יְמָה וּסְפֹר֙ הַכּ֣וֹכָבִ֔ים אִם־תּוּכַ֖ל לִסְפֹּ֣ר אֹתָ֑ם וַיֹּ֣אמֶר ל֔וֹ כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ ׃
 
 And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be.
+#### 6
+וְהֶאֱמִן בַּיהוָה וַיַּחְשְׁבֶהָ לּוֺ צְדָקָה
+
+And he believed in the LORD; and he counted it to him for righteousness.
 #### 7
 וַיֹּ֖אמֶר אֵלָ֑יו אֲנִ֣י יְהוָ֗ה אֲשֶׁ֤ר הוֹצֵאתִ֙יךָ֙ מֵא֣וּר כַּשְׂדִּ֔ים לָ֧תֶת לְךָ֛ אֶת־הָאָ֥רֶץ הַזֹּ֖את לְרִשְׁתָּֽהּ ׃
 
@@ -536,15 +680,115 @@ And he took unto him all these, and divided them in the midst, and laid each pie
 וַיֵּ֥רֶד הָעַ֖יִט עַל־הַפְּגָרִ֑ים וַיַּשֵּׁ֥ב אֹתָ֖ם אַבְרָֽם ׃
 
 And when the fowls came down upon the carcases, Abram drove them away.
+#### 12
+וַיְהִי הַשֶּׁמֶשׁ לָבוֺא וְתַרְדֵּמָה נָפְלָה עַל-אַבְרָם וְהִנֵּה אֵימָה חֲשֵׁכָה גְדֹלָה נֹפֶלֶת עָלָיו
+
+And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him.
+#### 13
+וַיֹּאמֶר לְאַבְרָם יָדֹעַ תֵּדַע כִּי-גֵר יִהְיֶה זַרְעֲךׇ בְּאֶרֶץ לֹא לָהֶם וַעֲבָדוּם וְעִנּוּ אֹתָם אַרְבַּע מֵאוֺת שָׁנָה
+
+And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land [that is] not theirs, and shall serve them; and they shall afflict them four hundred years;
 #### 16
 וְדוֺר רְבִיעִי יָשׁוּבוּ הֵנָּה כִּי לֹא-שָׁלֵם עֲוֺן הָאֱמֹרִי עַד-הֵנָּה	1x
 
 But in the fourth generation they shall come hither again: for the iniquity of the Amorites [is] not yet full.
+#### 17
+וַיְהִי הַשֶּׁמֶשׁ בָּאָה וַעֲלָטָה הָיָה וְהִנֵּה תַנּוּר עָשָׁן וְלַפִּיד אֵשׁ אֲשֶׁר עָבַר בֵּין הַגְּזָרִים הָאֵלֶּה
+
+And it came to pass, that, when the sun went down, and it was dark, behold a smoking furnace, and a burning lamp that passed between those pieces.
+#### 18
+בַּיּוֺם הַהוּא כָּרַת יְהוָה אֶת-אַבְרָם בְּרִית לֵאמֹר לְזַרְעֲךׇ נָתַתִּי אֶת-הָאָרֶץ הַזֹּאת מִנְּהַר מִצְרַיִם עַד-הַנָּהָר הַגָּדֹל נְהַר-פְּרָת
+
+In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:
+#### 19
+אֶת-הַקֵּינִי וְאֶת-הַקְּנִזִּי וְאֵת הַקַּדְמֹנִי
+
+The Kenites, and the Kenizzites, and the Kadmonites,
+#### 20
+וְאֶת-הַחִתִּי וְאֶת-הַפְּרִזִּי וְאֶת-הָרְפָאִים
+
+And the Hittites, and the Perizzites, and the Rephaims,
 #### 21
 וְאֶת-הָאֱמֹרִי וְאֶת-הַכְּנַעֲנִי וְאֶת-הַגִּרְגָּשִׁי וְאֶת-הַיְבוּסִי	1x
 
 And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.
+## c16
+#### 1
+וְשָׂרַי אֵשֶׁת אַבְרָם לֹא יָלְדָה לוֺ וְלָהּ שִׁפְחָה מִצְרִית וּשְׁמָהּ הָגָר
+
+Now Sarai Abram´s wife bare him no children: and she had an handmaid, an Egyptian, whose name [was] Hagar.
+#### 3
+וַתִּקַּח שָׂרַי אֵשֶׁת-אַבְרָם אֶת-הָגָר הַמִּצְרִית שִׁפְחָתָהּ מִקֵּץ עֶשֶׂר שָׁנִים לְשֶׁבֶת אַבְרָם בְּאֶרֶץ כְּנָעַן וַתִּתֵּן אֹתָהּ לְאַבְרָם אִישָׁהּ לוֺ לְאִשָּׁה
+
+And Sarai Abram´s wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.
+#### 4
+וַיָּבֹא אֶל-הָגָר וַתַּהַר וַתֵּרֶא כִּי הָרָתָה וַתֵּקַל גְּבִרְתָּהּ בְּעֵינֶיהָ
+
+And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.
+#### 6
+וַיֹּאמֶר אַבְרָם אֶל-שָׂרַי הִנֵּה שִׁפְחָתֵךְ בְּיָדֵךְ עֲשִׂי-לָהּ הַטּוֺב בְּעֵינָיִךְ וַתְּעַנֶּהָ שָׂרַי וַתִּבְרַח מִפָּנֶיהָ
+
+But Abram said unto Sarai, Behold, thy maid [is] in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face. (as…: Heb. that which is good in thine eyes)
+#### 7
+וַיִּמְצָאָהּ מַלְאַךְ יְהוָה עַל-עֵין הַמַּיִם בַּמִּדְבָּר עַל-הָעַיִן בְּדֶרֶךְ שׁוּר
+
+And the angel of the LORD found her by a fountain of water in the wilderness, by the fountain in the way to Shur.
+#### 10
+וַיֹּאמֶר לָהּ מַלְאַךְ יְהוָה הַרְבָּה אַרְבֶּה אֶת-זַרְעֵךְ וְלֹא יִסָּפֵר מֵרֹב
+
+And the angel of the LORD said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude.
+#### 11
+וַיֹּאמֶר לָהּ מַלְאַךְ יְהוָה הִנָּךְ הָרָה וְיֹלַדְתְּ בֵּן וְקָרָאת שְׁמוֺ יִשְׁמָעֵאל כִּי-שָׁמַע יְהוָה אֶל-עָנְיֵךְ
+
+And the angel of the LORD said unto her, Behold, thou [art] with child, and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction.
+#### 12
+וְהוּא יִהְיֶה פֶּרֶא אָדָם יָדוֺ בַכֹּל וְיַד כֹּל בּוֺ וְעַל-פְּנֵי כָל-אֶחָיו יִשְׁכֹּן
+
+And he will be a wild man; his hand [will be] against every man, and every man´s hand against him; and he shall dwell in the presence of all his brethren.
+#### 13
+וַתִּקְרָא שֵׁם-יְהוָה הַדֹּבֵר אֵלֶיהָ אַתָּה אֵל רֳאִי כִּי אָמְרָה הֲגַם הֲלֹם רָאִיתִי אַחֲרֵי רֹאִי
+
+And she called the name of the LORD that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me ?
+#### 14
+עַל-כֵּן קָרָא לַבְּאֵר בְּאֵר לַחַי רֹאִי הִנֵּה בֵין-קָדֵשׁ וּבֵין בָּרֶד
+
+Wherefore the well was called Beerlahairoi; behold, [it is] between Kadesh and Bered.
 ## c17
+#### 1
+פ וַיְהִ֣י אַבְרָ֔ם בֶּן־תִּשְׁעִ֥ים שָׁנָ֖ה וְתֵ֣שַׁע שָׁנִ֑ים וַיֵּרָ֨א יְהוָ֜ה אֶל־אַבְרָ֗ם וַיֹּ֤אמֶר אֵלָיו֙ אֲנִי־אֵ֣ל שַׁדַּ֔י הִתְהַלֵּ֥ךְ לְפָנַ֖י וֶהְיֵ֥ה
+
+And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I [am] the Almighty God; walk before me, and be thou perfect.
+#### 4
+ לֵאמֹֽר׃4אֲנִ֕י הִנֵּ֥ה בְרִיתִ֖י אִתָּ֑ךְ וְהָיִ֕יתָ לְאַ֖ב הֲמ֥וֹן
+ 
+As for me, behold, my covenant [is] with thee, and thou shalt be a father of many nations.
+#### 5
+וְלֹא-יִקָּרֵא עוֺד אֶת-שִׁמְךׇ אַבְרָם וְהָיָה שִׁמְךׇ אַבְרָהָם כִּי אַב-הֲמוֺן גּוֺיִם נְתַתִּיךׇ
+
+Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.
+#### 7
+ יֵצֵֽאוּ׃ וַהֲקִמֹתִ֨י אֶת־בְּרִיתִ֜י בֵּינִ֣י וּבֵינֶ֗ךָ וּבֵ֨ין זַרְעֲךָ֧ אַחֲרֶ֛יךָ לְדֹרֹתָ֖ם לִבְרִ֣ית עוֹלָ֑ם לִהְי֤וֹת לְךָ֙ לֵֽאלֹהִ֔ים וּֽלְזַרְעֲךָ֖
+ 
+And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee. 
+#### 8
+אַחֲרֶֽיךָ׃8וְנָתַתִּ֣י לְ֠ךָ וּלְזַרְעֲךָ֨ אַחֲרֶ֜יךָ אֵ֣ת ׀ אֶ֣רֶץ מְגֻרֶ֗יךָ אֵ֚ת כָּל־אֶ֣רֶץ כְּנַ֔עַן לַאֲחֻזַּ֖ת עוֹלָ֑ם וְהָיִ֥יתִי לָהֶ֖ם
+
+And I will give unto thee, and to thy seed after thee, the land wherein thou art a stranger, all the land of Canaan, for an everlasting possession; and I will be their God.
+#### 10
+ לְדֹרֹתָֽם׃ זֹ֣את בְּרִיתִ֞י אֲשֶׁ֣ר תִּשְׁמְר֗וּ בֵּינִי֙ וּבֵ֣ינֵיכֶ֔ם וּבֵ֥ין זַרְעֲךָ֖ אַחֲרֶ֑יךָ הִמּ֥וֹל לָכֶ֖ם 
+This [is] my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised.
+#### 11
+ כָּל־זָכָֽר׃ וּנְמַלְתֶּ֕ם אֵ֖ת בְּשַׂ֣ר עָרְלַתְכֶ֑ם וְהָיָה֙ לְא֣וֹת בְּרִ֔ית בֵּינִ֖י
+
+And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you. 
+#### 12
+ וּבֵינֵיכֶֽם׃ וּבֶן־שְׁמֹנַ֣ת יָמִ֗ים יִמּ֥וֹל לָכֶ֛ם כָּל־זָכָ֖ר לְדֹרֹתֵיכֶ֑ם יְלִ֣יד בָּ֔יִת וּמִקְנַת־כֶּ֙סֶף֙ מִכֹּ֣ל בֶּן־נֵכָ֔ר אֲשֶׁ֛ר לֹ֥א מִֽזַּרְעֲךָ֖
+ 
+And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which [is] not of thy seed.
+#### 14
+עוֹלָֽם׃ וְעָרֵ֣ל ׀ זָכָ֗ר אֲשֶׁ֤ר לֹֽא־יִמּוֹל֙ אֶת־בְּשַׂ֣ר עָרְלָת֔וֹ וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּ֑יהָ אֶת־בְּרִיתִ֖י
+
+And the uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he hath broken my covenant. 
 #### 19
 וַיֹּאמֶר אֱלֹהִים אֲבָל שָׂרָה אִשְׁתְּךׇ יֹלֶדֶת לְךׇ בֵּן וְקָרָאתָ אֶת-שְׁמוֺ יִצְחָק וַהֲקִמֹתִי אֶת-בְּרִיתִי אִתּוֺ לִבְרִית עוֺלָם לְזַרְעוֺ אַחֲרָיו
 
@@ -626,6 +870,104 @@ And Abraham drew near, and said, Wilt thou also destroy the righteous with the w
 וַ֠יֹּאמֶר אַל־נָ֞א יִ֤חַר לַֽאדֹנָי֙ וַאֲדַבְּרָ֣ה אַךְ־הַפַּ֔עַם אוּלַ֛י יִמָּצְא֥וּן שָׁ֖ם עֲשָׂרָ֑ה וַיֹּ֙אמֶר֙ לֹ֣א אַשְׁחִ֔ית בַּעֲב֖וּר הָעֲשָׂרָֽה ׃
 
 And he said, Oh let not the Lord be angry, and I will speak yet but this once: Peradventure ten shall be found there. And he said, I will not destroy [it] for ten´s sake. 
+## c19
+#### 1
+וַ֠יָּבֹאוּ שְׁנֵ֨י הַמַּלְאָכִ֤ים סְדֹ֙מָה֙ בָּעֶ֔רֶב וְל֖וֹט יֹשֵׁ֣ב בְּשַֽׁעַר־סְדֹ֑ם וַיַּרְא־לוֹט֙ וַיָּ֣קָם לִקְרָאתָ֔ם וַיִּשְׁתַּ֥חוּ אַפַּ֖יִם אָרְצָה
+
+And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing [them] rose up to meet them; and he bowed himself with his face toward the ground;
+#### 3
+ וַיִּפְצַר־בָּ֣ם מְאֹ֔ד וַיָּסֻ֣רוּ אֵלָ֔יו וַיָּבֹ֖אוּ אֶל־בֵּית֑וֹ וַיַּ֤עַשׂ לָהֶם֙ מִשְׁתֶּ֔ה וּמַצּ֥וֹת אָפָ֖ה וַיֹּאכֵלוּ
+ 
+And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat. 
+#### 4
+טֶרֶם֮ יִשְׁכָּבוּ֒ וְאַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֤י סְדֹם֙ נָסַ֣בּוּ עַל־הַבַּ֔יִת מִנַּ֖עַר וְעַד־זָקֵ֑ן כָּל־הָעָ֖ם מִקָּצֶֽה׃
+
+4But before they lay down, the men of the city, [even] the men of Sodom, compassed the house round, both old and young, all the people from every quarter: 
+#### 5
+וַיִּקְרְא֤וּ אֶל־לוֹט֙ וַיֹּ֣אמְרוּ ל֔וֹ אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר־בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה הוֹצִיאֵ֣ם אֵלֵ֔ינוּ וְנֵדְעָ֖ה אֹתָֽם׃
+
+5And they called unto Lot, and said unto him, Where [are] the men which came in to thee this night ? bring them out unto us, that we may know them. 
+#### 6
+וַיֵּצֵ֧א אֲלֵהֶ֛ם ל֖וֹט הַפֶּ֑תְחָה וְהַדֶּ֖לֶת סָגַ֥ר אַחֲרָֽיו׃
+
+6And Lot went out at the door unto them, and shut the door after him, 
+#### 7
+וַיֹּאמַ֑ר אַל־נָ֥א אַחַ֖י תָּרֵֽעוּ׃
+
+7And said, I pray you, brethren, do not so wickedly. 
+#### 8
+הִנֵּה־נָ֨א לִ֜י שְׁתֵּ֣י בָנ֗וֹת אֲשֶׁ֤ר לֹֽא־יָדְעוּ֙ אִ֔ישׁ אוֹצִֽיאָה־נָּ֤א אֶתְהֶן֙ אֲלֵיכֶ֔ם וַעֲשׂ֣וּ לָהֶ֔ן כַּטּ֖וֹב בְּעֵינֵיכֶ֑ם רַ֠ק לָֽאֲנָשִׁ֤ים הָאֵל֙ אַל־תַּעֲשׂ֣וּ דָבָ֔ר כִּֽי־עַל־כֵּ֥ן בָּ֖אוּ בְּצֵ֥ל קֹרָתִֽי׃
+
+8Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as [is] good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof. 
+#### 9
+וַיֹּאמְר֣וּ ׀ גֶּשׁ־הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא־לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת׃
+
+9And they said, Stand back. And they said [again], This one [fellow] came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, [even] Lot, and came near to break the door. 
+#### 10
+וַיִּשְׁלְח֤וּ הָֽאֲנָשִׁים֙ אֶת־יָדָ֔ם וַיָּבִ֧יאוּ אֶת־ל֛וֹט אֲלֵיהֶ֖ם הַבָּ֑יְתָה וְאֶת־הַדֶּ֖לֶת סָגָֽרוּ׃
+
+10But the men put forth their hand, and pulled Lot into the house to them, and shut to the door. 
+#### 11
+וְֽאֶת־הָאֲנָשִׁ֞ים אֲשֶׁר־פֶּ֣תַח הַבַּ֗יִת הִכּוּ֙ בַּסַּנְוֵרִ֔ים מִקָּטֹ֖ן וְעַד־גָּד֑וֹל וַיִּלְא֖וּ לִמְצֹ֥א הַפָּֽתַח׃
+
+11And they smote the men that [were] at the door of the house with blindness, both small and great: so that they wearied themselves to find the door. 
+#### 12
+וַיֹּאמְר֨וּ הָאֲנָשִׁ֜ים אֶל־ל֗וֹט עֹ֚ד מִֽי־לְךָ֣ פֹ֔ה חָתָן֙ וּבָנֶ֣יךָ וּבְנֹתֶ֔יךָ וְכֹ֥ל אֲשֶׁר־לְךָ֖ בָּעִ֑יר הוֹצֵ֖א מִן־הַמָּקֽוֹם׃
+
+12And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring [them] out of this place: 
+#### 13
+כִּֽי־מַשְׁחִתִ֣ים אֲנַ֔חְנוּ אֶת־הַמָּק֖וֹם הַזֶּ֑ה כִּֽי־גָֽדְלָ֤ה צַעֲקָתָם֙ אֶת־פְּנֵ֣י יְהוָ֔ה וַיְשַׁלְּחֵ֥נוּ יְהוָ֖ה לְשַׁחֲתָֽהּ׃
+
+13For we will destroy this place, because the cry of them is waxen great before the face of the LORD; and the LORD hath sent us to destroy it. 
+#### 14
+וַיֵּצֵ֨א ל֜וֹט וַיְדַבֵּ֣ר ׀ אֶל־חֲתָנָ֣יו ׀ לֹקְחֵ֣י בְנֹתָ֗יו וַיֹּ֙אמֶר֙ ק֤וּמוּ צְּאוּ֙ מִן־הַמָּק֣וֹם הַזֶּ֔ה כִּֽי־מַשְׁחִ֥ית יְהוָ֖ה אֶת־הָעִ֑יר וַיְהִ֥י כִמְצַחֵ֖ק בְּעֵינֵ֥י חֲתָנָֽיו׃
+
+14And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the LORD will destroy this city. But he seemed as one that mocked unto his sons in law. 
+#### 15
+וּכְמוֹ֙ הַשַּׁ֣חַר עָלָ֔ה וַיָּאִ֥יצוּ הַמַּלְאָכִ֖ים בְּל֣וֹט לֵאמֹ֑ר קוּם֩ קַ֨ח אֶֽת־אִשְׁתְּךָ֜ וְאֶת־שְׁתֵּ֤י בְנֹתֶ֙יךָ֙ הַנִּמְצָאֹ֔ת פֶּן־תִּסָּפֶ֖ה בַּעֲוֺ֥ן הָעִֽיר׃
+
+15And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city. (are here: Heb. are found)
+n1 iniquity: or, punishment
+#### 16
+וַֽיִּתְמַהְמָ֓הּ ׀ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד־אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י בְנֹתָ֔יו בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר׃
+
+16And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the LORD being merciful unto him: and they brought him forth, and set him without the city
+#### 20
+ הִנֵּה־נָ֠א הָעִ֨יר הַזֹּ֧את קְרֹבָ֛ה לָנ֥וּס שָׁ֖מָּה וְהִ֣יא מִצְעָ֑ר אִמָּלְטָ֨ה נָּ֜א שָׁ֗מָּה הֲלֹ֥א מִצְעָ֛ר הִ֖וא וּתְחִ֥י נַפְשִׁי
+ 
+Behold now, this city [is] near to flee unto, and it [is] a little one: Oh, let me escape thither, ([is] it not a little one ?) and my soul shall live.
+#### 22
+ מַהֵר֙ הִמָּלֵ֣ט שָׁ֔מָּה כִּ֣י לֹ֤א אוּכַל֙ לַעֲשׂ֣וֹת דָּבָ֔ר עַד־בֹּאֲךָ֖ שָׁ֑מָּה עַל־כֵּ֛ן קָרָ֥א שֵׁם־הָעִ֖יר צוֺעַר
+ 
+Haste thee, escape thither; for I cannot do any thing till thou be come thither. Therefore the name of the city was called Zoar.
+#### 24
+וַֽיהוָ֗ה הִמְטִ֧יר עַל־סְדֹ֛ם וְעַל־עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן־הַשָּׁמָֽיִם׃
+
+Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven; 
+#### 25
+וַֽיַּהֲפֹךְ֙ אֶת־הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל־הַכִּכָּ֑ר וְאֵת֙ כָּל־יֹשְׁבֵ֣י הֶעָרִ֔ים וְצֶ֖מַח הָאֲדָמָֽה׃
+
+And he overthrew those cities, and all the plain, and all the inhabitants of the cities, and that which grew upon the ground. 
+#### 26
+וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶלַח
+
+But his wife looked back from behind him, and she became a pillar of salt. 
+#### 31
+בְנֹתָֽיו׃ וַתֹּ֧אמֶר הַבְּכִירָ֛ה אֶל־הַצְּעִירָ֖ה אָבִ֣ינוּ זָקֵ֑ן וְאִ֨ישׁ אֵ֤ין בָּאָ֙רֶץ֙ לָב֣וֹא עָלֵ֔ינוּ כְּדֶ֖רֶךְ כָּל-הָאָרֶץ
+
+And the firstborn said unto the younger, Our father [is] old, and [there is] not a man in the earth to come in unto us after the manner of all the earth:
+#### 32
+32לְכָ֨ה נַשְׁקֶ֧ה אֶת־אָבִ֛ינוּ יַ֖יִן וְנִשְׁכְּבָ֣ה עִמּ֑וֹ וּנְחַיֶּ֥ה מֵאָבִ֖ינוּ זָֽרַע׃
+
+Come, let us make our father drink wine, and we will lie with him, that we may preserve seed of our father.
+#### 37
+37וַתֵּ֤לֶד הַבְּכִירָה֙ בֵּ֔ן וַתִּקְרָ֥א שְׁמ֖וֹ מוֹאָ֑ב ה֥וּא אֲבִֽי־מוֹאָ֖ב עַד־הַיּֽוֹם׃
+
+And the firstborn bare a son, and called his name Moab: the same [is] the father of the Moabites unto this day. 
+#### 38
+38וְהַצְּעִירָ֤ה גַם־הִוא֙ יָ֣לְדָה בֵּ֔ן וַתִּקְרָ֥א שְׁמ֖וֹ בֶּן־עַמִּ֑י ה֛וּא אֲבִ֥י בְנֵֽי־עַמּ֖וֹן עַד־הַיּֽוֹם׃
+
+And the younger, she also bare a son, and called his name Benammi: the same [is] the father of the children of Ammon unto this day.
 ## c21
 #### 14
 וַיַּשְׁכֵּ֣ם אַבְרָהָ֣ם ׀ בַּבֹּ֡קֶר וַיִּֽקַּֽח־לֶחֶם֩ וְחֵ֨מַת מַ֜יִם וַיִּתֵּ֣ן אֶל־הָ֠גָר שָׂ֧ם עַל־שִׁכְמָ֛הּ וְאֶת־הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ וַתֵּ֣לֶךְ וַתֵּ֔תַע בְּמִדְבַּ֖ר בְּאֵ֥ר שָֽׁבַע ׃

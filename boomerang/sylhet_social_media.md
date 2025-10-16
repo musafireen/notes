@@ -5,9 +5,39 @@ https://www.youtube.com/live/EPFHPZnMwlE?t=6800
 # sylheti ex-muslim
 
 # ex-muslims about sylhet
+https://youtube.com/watch?v=U0HFmM-9wIY&lc=Ugw3AI8QJ-Fjq7x0GFx4AaABAg
+
+https://youtube.com/watch?v=U0HFmM-9wIY&lc=UgycfH9fF8i_I6b8eup4AaABAg
+
+https://youtube.com/watch?v=U0HFmM-9wIY&lc=UgyWtT5dwyBo4r1ZlUd4AaABAg&
+
+https://youtube.com/watch?v=U0HFmM-9wIY&lc=UgwtjVH0LF4BaaDlPY94AaABAg
+
+https://youtube.com/watch?v=U0HFmM-9wIY&lc=UgwMBFYLt13ef1zgD3h4AaABAg
+
+https://www.youtube.com/live/U0HFmM-9wIY?t=565
+
+https://youtube.com/watch?v=U0HFmM-9wIY&lc=UgzsDS0bgCjhO_9Mtxh4AaABAg
+
+https://youtu.be/opxH9ugNtaY?t=220
+
+https://youtube.com/watch?v=opxH9ugNtaY&lc=UgwgskddL9FxLRLk6rx4AaABAg
+
+https://youtube.com/watch?v=opxH9ugNtaY&lc=UgxCUUgiHs37aIbilCZ4AaABAg
+
 https://www.youtube.com/live/Jxt4Iuwbidg?t=3399
 
 https://www.facebook.com/share/18Jt7QxPtK/
+
+https://youtube.com/watch?v=opxH9ugNtaY&lc=Ugw7ydg7bFu6o7E_FG14AaABAg
+
+https://youtube.com/watch?v=opxH9ugNtaY&lc=UgyTVIySpbqJVawDGxx4AaABAg
+
+https://youtube.com/watch?v=opxH9ugNtaY&lc=UgziOoSm77y01GmLThF4AaABAg
+
+https://youtube.com/watch?v=opxH9ugNtaY&lc=UgzkrYGU-bnLC2CvJgl4AaABAg
+
+https://youtube.com/watch?v=opxH9ugNtaY&lc=UgyGzULd6vnUfCnWwNd4AaABAg
 # pro-hindu sylhetis
 ## sylhet ex mayor for hindus
 https://x.com/taslimanasreen/status/1855360604170519031
@@ -18,6 +48,7 @@ https://x.com/INSIGHTUK2/status/1856040176302055920
 https://x.com/RobelRashed/status/1871760767810453831
 
 # Sylhet hindu rashtro
+https://youtube.com/watch?v=opxH9ugNtaY&lc=Ugzn0s18Vf5KvUIbr7h4AaABAg
 
 https://x.com/Gaudeshwar/status/1868136687844692075
 
@@ -42,6 +73,10 @@ https://x.com/OpIndia_com/status/1871517777414242657
 
 
 # sylheti hindu pride
+https://www.reddit.com/r/Brahmanraaj/s/YdN68Zw07T
+
+https://youtube.com/watch?v=opxH9ugNtaY&lc=UgxItDCpZ-Xxljkp09h4AaABAg
+
 https://x.com/LyadhkhorB/status/1891836983988846814
 
 https://x.com/shivi1963/status/1838649951355834870

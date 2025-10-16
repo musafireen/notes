@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/a'jamī/babil/nimrod/amorite.md",
+                "file": "Ref/RV.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "RV",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_quran/a'jamī/babil/nimrod/amorite.md",
+                "file": "Ref/RV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_quran/a'jamī/babil/nimrod/amorite.md",
+                "file": "Ref/RV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002_quran/a'jamī/babil/nimrod/amorite.md"
+                "file": "Ref/RV.md"
               }
             }
           }
@@ -203,8 +204,15 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "d43837f788fceb29",
+  "active": "9933e842181072f7",
   "lastOpenFiles": [
+    "Ref/mdhvA.SDS.BAK.md",
+    "Ref/gt.DS.md",
+    "Ref/procp.md",
+    "002_quran/nisa/nushuz/nushuz.md",
+    "002_quran/Rum/kahf/kahf.md",
+    "002_quran/Rum/kahf/decius.md",
+    "mob.md",
     "002_quran/a'jamī/babil/nimrod/~syncthing~amorite.md.tmp",
     "002_quran/a'jamī/babil/nimrod/amorite.md",
     "002_quran/a'jamī/babil/nimrod/amorite.md",
@@ -212,7 +220,6 @@
     "Ref/bbl.hist.ktv.md",
     "Ref/bbl.prop.nev.md",
     "Ref/bmvP.md",
-    "Ref/mdhvA.SDS.BAK.md",
     "Ref/mdhvA.SDS.md",
     "Ref/bbl.hist.nev.md",
     "Ref/bbl.tor.md",
@@ -229,12 +236,7 @@
     "Ref/bbl.acts.md",
     "Ref/bbl.epst.md",
     "Ref/bbl.apcr.apcl.md",
-    "Ref/bbl.apcr.cath.md",
-    "Ref/bbl.apcr.eth.md",
-    "Ref/bbl.apcr.orth.md",
-    "Ref/bbl.john.md",
     "002_quran/a'jamī/babil/~syncthing~babel.md.tmp",
-    "Ref/bbl.evngl.md",
     "Ref/haft.azilla/~syncthing~h.a.1.md.tmp",
     "Ref/~syncthing~bbl.evngl.md.tmp",
     "Ref/~syncthing~RV.md.tmp",
