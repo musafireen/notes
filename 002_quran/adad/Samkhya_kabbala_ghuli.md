@@ -296,6 +296,8 @@ marīci, atri, aṅgirā, pulatsya, pulaha, kratu
 
 ## vedaanga
 Śīkṣā, chanda, vyākaraṇa, nirukta, kalpa, jyotiṣa
+## ṛṣi
+bharadvāja (6), viśvāmitra (3), vasiṣṭha (7), gṛtsamāda (2), vāmadeva (4), atri (5)
 # 7 
 ## ayyām
 ## saptāha

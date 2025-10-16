@@ -379,7 +379,7 @@ Turvaśa, who was presiding (at solemn rites), diligent in sacrifice, (went to S
 #### 7
 आ प॒क्थासो॑ भला॒नसो॑ भन॒न्तालि॑नासो विषा॒णिन॑: शि॒वास॑: । आ योऽन॑यत्सध॒मा आर्य॑स्य ग॒व्या तृत्सु॑भ्यो अजगन्यु॒धा नॄन् ॥
 
-Those who dress the oblation, those who pronounce auspicious words, those who abstain from penance, those who bear horns (in their hands), those who bestow happiness (on the world by sacrifice), glorify that Indra, who recovered the cattle of the Arya from the plunderers, who slew the enemies in battle.
+Those who dress the oblation (paktha), those who pronounce (bhanān) auspicious words (bhalān), those who abstain from penance (alina), those who bear horns (viṣāni) (in their hands), those who bestow happiness (śiva) (on the world by sacrifice), glorify that Indra, who recovered the cattle of the Arya from the plunderers, who slew the enemies in battle.
 #### 8
 दु॒रा॒ध्यो॒३॒॑ अदि॑तिं स्रे॒वय॑न्तोऽचे॒तसो॒ वि ज॑गृभ्रे॒ परु॑ष्णीम् । म॒ह्नावि॑व्यक्पृथि॒वीं पत्य॑मानः प॒शुष्क॒विर॑शय॒च्चाय॑मानः ॥
 
@@ -529,6 +529,15 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc835128
 
 “You whom the gods uphold for their invigoration, both mighty, (pitā) masters of (dakṣa) strength and of diffusive radiance.”
 ## 7.83
+https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc835270.html
+#### 1
+यु॒वां न॑रा॒ पश्य॑मानास॒ आप्यं॑ प्रा॒चा ग॒व्यन्त॑: पृथु॒पर्श॑वो ययुः । 
+
+Indra and Varuṇa, leaders (of rites), contemplating your affinity, and desirous of cattle, the worshippers, armed with large (pṛthu) sickles (parśu), have proceeded to the east (to cut the sacred grass); 
+
+दासा॑ च वृ॒त्रा ह॒तमार्या॑णि च सु॒दास॑मिन्द्रावरु॒णाव॑सावतम् ॥
+
+destroy, Indra and Varuṇa, your enemies, whether Dāsās or Āryās and defend Sudāsa with yor protection.
 #### 4
 इन्द्रा॑वरुणा व॒धना॑भिरप्र॒ति भे॒दं व॒न्वन्ता॒ प्र सु॒दास॑मावतम् । ब्रह्मा॑ण्येषां शृणुतं॒ हवी॑मनि स॒त्या तृत्सू॑नामभवत्पु॒रोहि॑तिः ॥
 
@@ -993,6 +1002,10 @@ Verily you have made me, Indra, your associate when grinding the head of the (d�
 स्त्रियो॒ हि दा॒स आयु॑धानि च॒क्रे किं मा॑ करन्नब॒ला अ॑स्य॒ सेना॑: । अ॒न्तर्ह्यख्य॑दु॒भे अ॑स्य॒ धेने॒ अथोप॒ प्रैद्यु॒धये॒ दस्यु॒मिन्द्र॑: ॥
 
 The (dāsa) slave (Namuci) made (strī) women his (āyudha) weapons what will his (abalā) feminine (senā) hosts do unto me? The two his (khyā) best (dhenā) beloved, (Indra) confined in the inner apartments, and then (prai) went forth to (yudhā) combat against the Dasyus.
+#### 10
+समत्र॒ गावो॒ऽभितो॑ऽनवन्ते॒हेह॑ व॒त्सैर्वियु॑ता॒ यदास॑न् । सं ता इन्द्रो॑ असृजदस्य शा॒कैर्यदीं॒ सोमा॑स॒: सुषु॑ता॒ अम॑न्दन् ॥
+
+When the cows were separated from their calves, they wandered about hither and thither; but when the well-offered libations had exhilarated hi, then Indra, with his vigorous (maruts), reunited them (with their calves).
 ## 5.40
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc833204.html
 #### 5
@@ -2840,6 +2853,12 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840419
 
 “May Viṣṇu construct the womb, may Tvaṣṭā fabricate the members, may Prajāpati sprinkle (the seed), may Dhātā cherish your embryo.”
 
+## 10.191
+#### 2
+सं ग॑च्छध्वं॒ सं व॑दध्वं॒ सं वो॒ मनां॑सि जानताम् । दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥
+
+Meet together, talk together, let your minds apprehend alike; in like manner as the ancient gods concurring accepted their portion of the sacrifice.
+##### sañjāna
 # b1.1-50
 ## 1.1
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc828865.html

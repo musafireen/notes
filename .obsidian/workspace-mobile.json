@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ref/RV.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -154,7 +154,7 @@
               "type": "markdown",
               "state": {
                 "file": "002_quran/adad/Samkhya_kabbala_ghuli.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -277,9 +277,9 @@
   },
   "active": "bf5c8f18a2fae296",
   "lastOpenFiles": [
-    "Ref/MB.md",
-    "Ref/RV.md",
     "002_quran/adad/Samkhya_kabbala_ghuli.md",
+    "Ref/RV.md",
+    "Ref/MB.md",
     "Ref/aps.md",
     "Ref/gt.DS.md",
     "Ref/gt.NyS.md",
