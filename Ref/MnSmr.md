@@ -371,11 +371,17 @@ https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhat
 
 All those races of the world which are outside the pale of the people ‘born of the mouth, the arms, the thighs and the feet,’—speaking the (mleccha) ‘barbaric’ or the (ārya) ‘refined’ language—are called ‘Dasyu.’—(45)
 # c11
+https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201875.html
 ### 11.92
 कणान् वा भक्षयेदब्दं पिण्याकं वा सकृत्निशि ।
 सुरापानापनुत्त्यर्थं वालवासा जटी ध्वजी ॥ ९२ ॥
 
 Or, for the expiation of the guilt of wine-drinking, he may, for one year, eat only once at night either pieces of grain or oil-cake, clothed in hair-cloth, with his hair matted, and carrying a sign.—(92)
+### 11.97
+ यस्य कायगतं ब्रह्म मद्येनाप्लाव्यते सकृत् ।
+तस्य व्यपैति ब्राह्मण्यं शूद्रत्वं च स गच्छति ॥ ९७ ॥
+
+When the ‘Brahman’ resident in his body has been once deluged by wine, the ‘Brāhmaṇahood’ disappears and the man becomes a Śūdra.—(97)
 ### 11.210
 यैरभ्युपायैरेनांसि मानवो व्यपकर्षति ।
 तान् वोऽभ्युपायान् वक्ष्यामि देवर्षिपितृसेवितान् ॥ २१० ॥

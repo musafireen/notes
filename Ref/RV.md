@@ -14,7 +14,7 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc833868
 #### 9
 अध॒ द्यौश्चि॑त्ते॒ अप॒ सा नु वज्रा॑द्द्वि॒तान॑मद्भि॒यसा॒ स्वस्य॑ म॒न्योः । अहिं॒ यदिन्द्रो॑ अ॒भ्योह॑सानं॒ नि चि॑द्वि॒श्वायु॑: श॒यथे॑ ज॒घान॑ ॥
 
-“The heaven bowed down in the two-fold dread of your thunderbolt, and your individual wrath, when Indra, the giver of food, struck to the sleep (of death) the assailing Ahi.”
+The heaven bowed down in the two-fold dread of your thunderbolt, and your individual wrath, when Indra, the giver of food, struck to the sleep (of death) the assailing Ahi.
 #### 10
 अध॒ त्वष्टा॑ ते म॒ह उ॑ग्र॒ वज्रं॑ स॒हस्र॑भृष्टिं ववृतच्छ॒ताश्रि॑म् । निका॑मम॒रम॑णसं॒ येन॒ नव॑न्त॒महिं॒ सं पि॑णगृजीषिन् ॥
 

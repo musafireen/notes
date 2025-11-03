@@ -3,7 +3,46 @@
 
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0026
 ## b1
+### c18
+##### 7
+[7] augur ad laevam eius capite velato sedem cepit, dextra manu baculum sine nodo aduncum tenens, quem lituum appellarunt. 
+
+[7] The augur seated himself on his left hand, with his head covered, and holding in his right hand a curved staff without any knots, which they called a ‘lituus.’ 
+
+[p. 66] inde ubi prospectu in urbem agrumque capto deos3 precatus regiones ab oriente ad occasum determinavit, 
+
+3 A.U.C. 38
+
+After surveying the prospect over the City and surrounding country, he offered prayers and marked out the heavenly regions by an imaginary line from east to west; 
+
+dextras ad meridiem partes, laevas ad septentrionem esse dixit; 
+
+the southern he defined as ‘the right hand,’ the northern as ‘the left hand.’ 
+##### 8
+[8] signum contra, quoad4 longissime conspectum oculi ferebant, animo finivit; tum lituo in laevam manum translato dextra in caput Numae imposita ita precatus est,5 
+
+4 quoad Weissenborn: quod ω: quo p2ς: quo M.
+
+
+5 ita precatus est Walters: precatus est ita ORDL: precatus ita est MPFUBEH.
+
+[8] He then fixed upon an object, as far as he could see, as a corresponding mark, and then transferring the lituus to his left hand, he laid his right upon Numa's head and offered this prayer: 
+##### 9
+[9?] “Iuppiter pater, si est fas hunc Numam Pompilium, cuius ego caput teneo, regem Romae esse, uti tu signa nobis certa adclarassis inter eos fines quos feci.” 
+
+[9] ‘Father Jupiter, if it be heaven's will that this Numa Pompilius, whose head I hold, should be king of Rome, do thou signify it to us by sure signs within those boundaries which I have traced.’ 
+##### 10
+[10] tum peregit verbis auspicia quae mitti vellet. 
+
+[10] Then he described in the usual formula the augury which he desired should be sent. 
+
+quibus missis declaratus rex Numa de templo descendit.
+
+They were sent, and Numa being by them manifested to be king, came down from the ‘templum.’2
+
+2 templum —In taking auspices, the augur or magistrate marked out a rectangular space by noting certain objects, trees or what not, within which the desired signs were to appear, and tracing a corresponding area mentally in the sky. The spot where he took his station, the ‘auguraculum’, was also a small rectangular space; each of these was called a ‘templum.’ All important magisterial acts were preceded by auspices, and the word ‘templum’ was extended to denote the position occupied by the magistrate, such as the senate-house, the platform from which the Assembly was addressed, etc.
 ### c56
+????
 ## b29
 http://www.perseus.tufts.edu/hopper/text?doc=Liv.+29+10&fromdoc=Perseus%3Atext%3A1999.02.0170
 ### c10

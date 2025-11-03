@@ -209,6 +209,8 @@ homa, iṣṭi, (x,),  paśu, soma, sattra
 ākāśa, vāyu, agni, jala, pṛthvī ,
 
 vyoma, marut, teja, ap, kṣiti, 
+## makūn
+duxān/nūr, rīḥ/rūḥ, nār, mā', ṭīn
 ## ?guṇḍi
 nīla, harita, raṅga, śveta, pīta
 
@@ -336,6 +338,10 @@ kaśyapa, ||, bharadvāja, ||, jamadagni, ||, viśvāmitra
 ### jaiminiya vaivasvata saptarṣi
 āgastya, ||, ||, ||, ||, ||, || 
 [[JB#]]
+## apkallu
+uanna, uannedugga, enmedugga, enmegalamma, an-enlilda, utuabzu
+### berosus
+oannes, annedotus, megalarus, daonus, odacon
 ## mu'alallaqāt
 imru' l qays o qaryah l faw, labīd o ? /nābigha o rummah, tarafa o gerrha, zuhayr b abi sulma o ? /a'śa o yamama, antara b śaddād o qusaybah, amr b kulthum o mardin ayn tamr, harith b hilliza o gerrha 
 ## svara saptaka

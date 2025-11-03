@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/RV.md",
+                "file": "boomerang/memes.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/RV.md",
+                "file": "boomerang/memes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/RV.md",
+                "file": "boomerang/memes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/RV.md"
+                "file": "boomerang/memes.md"
               }
             }
           }
@@ -206,6 +206,27 @@
   },
   "active": "9933e842181072f7",
   "lastOpenFiles": [
+    "boomerang/naik_vas.png",
+    "boomerang/naik.jpg",
+    "Ref/RV.md",
+    "002_quran/a'jamī/jibt/egyptian magic.md",
+    "boomerang/memes.md",
+    "002_quran/tin/golem.md",
+    "002_quran/sihr/asa/asa.md",
+    "002_quran/sihr/asa/wand.md",
+    "002_quran/sihr/magic.md",
+    "002_quran/tin/hay'ah.md",
+    "002_quran/tin/tin.md",
+    "002_quran/sihr/~syncthing~magic.md.tmp",
+    "boomerang/~syncthing~memes.md.tmp",
+    "002_quran/a'jamī/jibt/~syncthing~egyptian magic.md.tmp",
+    "002_quran/adad/~syncthing~Samkhya_kabbala_ghuli.md.tmp",
+    "Ref/~syncthing~pgm.md.tmp",
+    "Ref/~syncthing~MnSmr.md.tmp",
+    "Ref/~syncthing~RV.md.tmp",
+    "Ref/~syncthing~livy.md.tmp",
+    "002_quran/tin/~syncthing~tin.md.tmp",
+    "002_quran/tin/~syncthing~hay'ah.md.tmp",
     "Ref/mdhvA.SDS.BAK.md",
     "Ref/gt.DS.md",
     "Ref/procp.md",
@@ -213,7 +234,6 @@
     "002_quran/Rum/kahf/kahf.md",
     "002_quran/Rum/kahf/decius.md",
     "mob.md",
-    "002_quran/a'jamī/babil/nimrod/~syncthing~amorite.md.tmp",
     "002_quran/a'jamī/babil/nimrod/amorite.md",
     "002_quran/a'jamī/babil/nimrod/amorite.md",
     "Ref/bbl.poetry.md",
@@ -223,25 +243,6 @@
     "Ref/mdhvA.SDS.md",
     "Ref/bbl.hist.nev.md",
     "Ref/bbl.tor.md",
-    "002_quran/a'jamī/babil/babel.md",
-    "Ref/mrcn.md",
-    "002_quran/a'jamī/babil/babil.md",
-    "002_quran/a'jamī/babil/~syncthing~babil.md.tmp",
-    "002_quran/a'jamī/babil/nimrod/chaldees.md",
-    "Ref/bbl.prop.ktv.md",
-    "Ref/haft.azilla/h.a.20.md",
-    "Ref/umm.kitab/u.k.5.md",
-    "Ref/~syncthing~bbl.prop.nev.md.tmp",
-    "002_quran/a'jamī/babil/nimrod/~syncthing~chaldees.md.tmp",
-    "Ref/bbl.acts.md",
-    "Ref/bbl.epst.md",
-    "Ref/bbl.apcr.apcl.md",
-    "002_quran/a'jamī/babil/~syncthing~babel.md.tmp",
-    "Ref/haft.azilla/~syncthing~h.a.1.md.tmp",
-    "Ref/~syncthing~bbl.evngl.md.tmp",
-    "Ref/~syncthing~RV.md.tmp",
-    "Ref/~syncthing~bbl.tor.md.tmp",
-    "Ref/~syncthing~bbl.prop.ktv.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.png",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.png",
     "Ref/Pasted image 20241128002518.png",
@@ -253,7 +254,6 @@
     "madaripuria_genz_khil.png",
     "madaripuria_genz_khil3.png",
     "boomerang/tareq_twit_cartoon.jpg",
-    "boomerang/tareq.jpg",
     "Untitled.canvas"
   ]
 }
