@@ -3,7 +3,7 @@
 
 [Q.3:52](https://quran.com/3:52/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#3:52]]
+![[Qrsi#3:52]]
 
 ## Hwr (disciple)
 
@@ -11,16 +11,16 @@
 
 [Q.61:14](https://quran.com/61:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#61:14]]
+![[Qrsi#61:14]]
 
 # Q:5:111
 
 [Q.5:111](https://quran.com/5:111/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:111]]
+![[Qrsi#5:111]]
 
 # Q:5:112
 
 [Q.5:112](https://quran.com/5:112/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:112]]
+![[Qrsi#5:112]]

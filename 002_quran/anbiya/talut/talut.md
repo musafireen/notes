@@ -3,7 +3,7 @@
 
 [Q.2:247](https://quran.com/2:247/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:247]]
+![[Qrsi#2:247]]
 
 ## TaAluwt/jaAluwt ((?:Saul|Talut)/(?:Goliath|Jalut))
 
@@ -11,16 +11,16 @@
 
 [Q.2:249](https://quran.com/2:249/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:249]]
+![[Qrsi#2:249]]
 
 # Q:2:250
 
 [Q.2:250](https://quran.com/2:250/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:250]]
+![[Qrsi#2:250]]
 
 # Q:2:251
 
 [Q.2:251](https://quran.com/2:251/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:251]]
+![[Qrsi#2:251]]

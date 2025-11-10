@@ -3,7 +3,7 @@
 
 [Q.38:48](https://quran.com/38:48/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#38:48]]
+![[Qrsi#38:48]]
 
 ## <isoma`Eiyl ((?:Ishmael|))
 
@@ -11,64 +11,64 @@
 
 [Q.19:54](https://quran.com/19:54/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#19:54]]
+![[Qrsi#19:54]]
 
 # Q:6:86
 
 [Q.6:86](https://quran.com/6:86/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#6:86]]
+![[Qrsi#6:86]]
 
 # Q:14:39
 
 [Q.14:39](https://quran.com/14:39/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#14:39]]
+![[Qrsi#14:39]]
 
 # Q:21:85
 
 [Q.21:85](https://quran.com/21:85/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#21:85]]
+![[Qrsi#21:85]]
 
 # Q:2:125
 
 [Q.2:125](https://quran.com/2:125/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:125]]
+![[Qrsi#2:125]]
 
 # Q:2:127
 
 [Q.2:127](https://quran.com/2:127/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:127]]
+![[Qrsi#2:127]]
 
 # Q:2:133
 
 [Q.2:133](https://quran.com/2:133/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:133]]
+![[Qrsi#2:133]]
 
 # Q:2:136
 
 [Q.2:136](https://quran.com/2:136/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:136]]
+![[Qrsi#2:136]]
 
 # Q:2:140
 
 [Q.2:140](https://quran.com/2:140/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:140]]
+![[Qrsi#2:140]]
 
 # Q:3:84
 
 [Q.3:84](https://quran.com/3:84/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#3:84]]
+![[Qrsi#3:84]]
 
 # Q:4:163
 
 [Q.4:163](https://quran.com/4:163/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#4:163]]
+![[Qrsi#4:163]]

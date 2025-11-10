@@ -1,9 +1,9 @@
 
 # 8.5-19
 
-![[Qrsd#r8.1]]
+![[Qrsi#r8.1.x]]
 
-![[Qrsd#r8.2]]
+![[Qrsi#r8.2.x]]
 
 ## Amn xrj byt frq krh (    )
 ## Twf $wk ( )
@@ -15,59 +15,59 @@
 
 # 8:58
 
-![[Qrsd#r8.7]]
+![[Qrsi#r8.7]]
 
 ## $rd () qaynuqa
 
 # 3:13
 
-![[Qrsd#3:13]]
+![[Qrsi#3:13]]
 
 ## badr
 
 # 3:61
 
-![[Qrsd#3:52]]![[Qrsd#3:54]]![[Qrsd#3.55]]![[Qrsd#3.59]]![[Qrsd#3.61]]
+![[Qrsi#3:52]]![[Qrsi#3:54]]![[Qrsi#3.55]]![[Qrsi#3.59]]![[Qrsi#3.61]]
 
 ## najran khalid b walid
 
 # 3:123
 
-![[Qrsd#r3.13]]
+![[Qrsi#r3.13]]
 
 ## badr
 
 ## bwA qEd ( ) uhud
 # 3:149
 
-![[Qrsd#r3.16]]
+![[Qrsi#r3.16.x]]
 
 ## () uhud
 # 3.165-175
-![[Qrsd#r3.17]]
+![[Qrsi#r3.17.x]]
 
 ## ( ) uhud
 # 3.169
 
-![[Qrsd#3:169]]![[Qrsd#3:170]]![[Qrsd#3:171]]
+![[Qrsi#3:169]]![[Qrsi#3:170]]![[Qrsi#3:171]]
 ## bir mauna
 
 # 3:172
 
-![[Qrsd#3:172]]
+![[Qrsi#3:172]]
 
-![[Qrsd#3:173]]
+![[Qrsi#3:173]]
 
-![[Qrsd#3:174]]
+![[Qrsi#3:174]]
 ## ( ) hamra l asad
 
 # 3.173-176
 
-![[Qrsd#3:175]]![[Qrsd#3:176]]
+![[Qrsi#3:175]]![[Qrsi#3:176]]
 
 # 33:9-13
 
-![[Qrsd#r33.2]]![[Qrsd#r33.3]]
+![[Qrsi#r33.2,x]]![[Qrsi#r33.3,x]]
 ## ahzab/khandaq
 
 ## SyS Ahl ktb qtl Asr (    ) banu qurayza
@@ -75,33 +75,33 @@
 
 # 4:24
 
-![[Qrsd#4:24]]
+![[Qrsi#4:24]]
 
 ## autas
 
 # 4:94
 
-![[Qrsd#4:94]]
+![[Qrsi#4:94]]
 
 ## bat edam
 
 # 4:101
 
-![[Qrsd#4:101]]
+![[Qrsi#4:101]]
 
 ## dhat riqa
 
 # 57:10
 
-![[Qrsd#57:10]]
+![[Qrsi#57:10]]
 
 ## fath makka
 # 47:24
 
-![[Qrsd#r47.1]]![[Qrsd#r47:3]]![[Qrsd#r47.4]]
+![[Qrsi#r47.1.x]]![[Qrsi#r47:3.x]]![[Qrsi#r47.4.x]]
 # 59
 
-![[Qrsd#r59.1]]![[Qrsd#r59.2]]
+![[Qrsi#r59.1.x]]![[Qrsi#r59.2.x]]
 ## fidak
 ## HSn Ahl ktb H$r (   ) banu nadir
 ## jlw (expel) banu nadir
@@ -110,7 +110,7 @@
 
 ## nfq Axw Ahl ktb (   ) banu nadir
 # 48:20,24,27
-![[Qrsd#r48.1]]![[Qrsd#r48.2]]![[Qrsd#r48.3]]![[Qrsd#r48.4]]
+![[Qrsi#r48.1.x]]![[Qrsi#r48.2.x]]![[Qrsi#r48.3.x]]![[Qrsi#r48.4.x]]
 
 ## byE $jr ( ) hudaybiyah
 ## wEd gnm ( ) khaybar
@@ -118,66 +118,66 @@
 
 # 5.11
 
-![[Qrsd#5:11]]
+![[Qrsi#5:11]]
 
 ## dhu amr
 ## dhat riqa
 
 # 5.33-39
 
-![[Qrsd#r5.5]]![[Qrsd#r5.6]]
+![[Qrsi#r5.5.x]]![[Qrsi#r5.6.x]]
 
 ## kurz
 
 # 19:71
 
-![[Qrsd#19:71]]
+![[Qrsi#19:71]]
 
 ## mu'tah
 
 # 9.25-26
 
-![[Qrsd#r9.1]]![[Qrsd#r9.2]]![[Qrsd#r9.3]]![[Qrsd#r9.4]]
+![[Qrsi#r9.1.x]]![[Qrsi#r9.2.x]]![[Qrsi#r9.3.x]]![[Qrsi#r9.4.x]]
 ## hunayn
 
 # 9:29
 
-![[Qrsd#9:29]]
+![[Qrsi#9:29]]
 
 # 9:42-99
 
-![[Qrsd#r9.6]]![[Qrsd#r9.7]]![[Qrsd#r9.8]]![[Qrsd#r9.9]]![[Qrsd#r9.11]]![[Qrsd#r9.12]]
+![[Qrsi#r9.6.x]]![[Qrsi#r9.7.x]]![[Qrsi#r9.8.x]]![[Qrsi#r9.9.x]]![[Qrsi#r9.11.x]]![[Qrsi#r9.12.x]]
 
 ## Amr qlb ftn (  ) uhud
 ## xlf qEd ( ) tabouk
 
 # 9:107
 
-![[Qrsd#9:107]]
+![[Qrsi#9:107]]
 
 ## dirar
 
 # 9:117
 
-![[Qrsd#9:117]]
+![[Qrsi#9:117]]
 
 ## tbE Esr ( ) tabuk
 
 # 9:118
 
-![[Qrsd#9:118]]
+![[Qrsi#9:118]]
 
 ## xlf Dyq ( )
 
 # 9:120
 
-![[Qrsd#9:120]]
+![[Qrsi#9:120]]
 
 ## xlf Erb madiynap (  )
 
 
 # 17:73
 
-![[Qrsd#17:73]]
+![[Qrsi#17:73]]
 
 ## abu sufyan

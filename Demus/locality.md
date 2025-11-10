@@ -3,7 +3,7 @@
 
 [Q.95:2](https://quran.com/95:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#95:2]]
+![[Qrsi#95:2]]
 
 ## siyniyn (sin)
 
@@ -11,7 +11,7 @@
 
 [Q.106:1](https://quran.com/106:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#106:1]]
+![[Qrsi#106:1]]
 
 ## qurayo$ ()
 
@@ -19,7 +19,7 @@
 
 [Q.50:14](Q#50:14)
 
-![[Qrsd#50:14]]
+![[Qrsi#50:14]]
 
 ## tub~aE (tubba)
 
@@ -27,7 +27,7 @@
 
 [Q.27:22](https://quran.com/27:22/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#27:22]]
+![[Qrsi#27:22]]
 
 ## saba< (saba)
 
@@ -35,19 +35,19 @@
 
 [Q.34:15](https://quran.com/34:15/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#34:15]]
+![[Qrsi#34:15]]
 
 # Q:44:37
 
 [Q.44:37](https://quran.com/44:37/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#44:37]]
+![[Qrsi#44:37]]
 
 # Q:30:2
 
 [Q.30:2](https://quran.com/30:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#30:2]]
+![[Qrsi#30:2]]
 
 ## ruwm (rom)
 
@@ -55,7 +55,7 @@
 
 [Q.2:158](https://quran.com/2:158/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:158]]
+![[Qrsi#2:158]]
 
 ## SafaA (safa)
 
@@ -65,7 +65,7 @@
 
 [Q.2:198](https://quran.com/2:198/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:198]]
+![[Qrsi#2:198]]
 
 ## EarafaAt (arafa)
 
@@ -73,7 +73,7 @@
 
 [Q.3:96](https://quran.com/3:96/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#3:96]]
+![[Qrsi#3:96]]
 
 ## bak~ap (bakka)
 
@@ -81,7 +81,7 @@
 
 [Q.3:123](https://quran.com/3:123/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#3:123]]
+![[Qrsi#3:123]]
 
 ## bador (badr)
 
@@ -89,7 +89,7 @@
 
 [Q.33:13](https://quran.com/33:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#33:13]]
+![[Qrsi#33:13]]
 
 ## yavorib (yathrib)
 
@@ -97,7 +97,7 @@
 
 [Q.5:95](https://quran.com/5:95/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:95]]
+![[Qrsi#5:95]]
 
 ## kaEobap (ka'*ba)
 
@@ -105,4 +105,4 @@
 
 [Q.5:97](https://quran.com/5:97/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:97]]
+![[Qrsi#5:97]]

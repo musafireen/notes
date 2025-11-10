@@ -3,7 +3,7 @@
 
 [Q.19:34](https://quran.com/19:34/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#r19.2]]
+![[Qrsi#r19.2]]
 
 ## EiysaY/Aibn maryam (isa/son mary)
 
@@ -11,178 +11,178 @@
 
 [Q.6:85](https://quran.com/6:85/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#r6.10]]
+![[Qrsi#r6.10]]
 
 # Q:42:13
 
 [Q.42:13](https://quran.com/42:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#r42.2]]
+![[Qrsi#r42.2]]
 
 # Q:43:57
 
 [Q.43:57](https://quran.com/43:57/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#43:57]]
-![[Qrsd#43:58]]![[Qrsd#43:59]]![[Qrsd#43:61]]
+![[Qrsi#43:57]]
+![[Qrsi#43:58]]![[Qrsi#43:59]]![[Qrsi#43:61]]
 # Q:43:63
 
 [Q.43:63](https://quran.com/43:63/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#43:63]]
+![[Qrsi#43:63]]
 
 # Q:23:50
 
 [Q.23:50](https://quran.com/23:50/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#23:50]]
+![[Qrsi#23:50]]
 
 # Q:2:87
 
 [Q.2:87](https://quran.com/2:87/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:87]]
+![[Qrsi#2:87]]
 
 # Q:2:136
 
 [Q.2:136](https://quran.com/2:136/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:136]]
+![[Qrsi#2:136]]
 
 # Q:2:253
 
 [Q.2:253](https://quran.com/2:253/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#2:253]]
+![[Qrsi#2:253]]
 
 # Q:3:45
 
 [Q.3:45](https://quran.com/3:45/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#3:45]]
+![[Qrsi#3:45]]
 
 # Q:3:52
 
 [Q.3:52](https://quran.com/3:52/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#3:52]]
+![[Qrsi#3:52]]
 
 # Q:3:55
 
 [Q.3:55](https://quran.com/3:55/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#3:55]]
+![[Qrsi#3:55]]
 
 # Q:3:59
 
 [Q.3:59](https://quran.com/3:59/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#3:59]]
+![[Qrsi#3:59]]
 
 # Q:3:84
 
 [Q.3:84](https://quran.com/3:84/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#3:84]]
+![[Qrsi#3:84]]
 
 # Q:33:7
 
 [Q.33:7](https://quran.com/33:7/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#33:7]]
+![[Qrsi#33:7]]
 
 # Q:4:157
 
 [Q.4:157](https://quran.com/4:157/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#4:157]]
+![[Qrsi#4:157]]
 
 # Q:4:163
 
 [Q.4:163](https://quran.com/4:163/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#4:163]]
+![[Qrsi#4:163]]
 
 # Q:4:171
 
 [Q.4:171](https://quran.com/4:171/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#4:171]]
+![[Qrsi#4:171]]
 
 # Q:57:27
 
 [Q.57:27](https://quran.com/57:27/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#57:27]]
+![[Qrsi#57:27]]
 
 # Q:61:6
 
 [Q.61:6](https://quran.com/61:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#61:6]]
+![[Qrsi#61:6]]
 
 # Q:61:14
 
 [Q.61:14](https://quran.com/61:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#61:14]]
+![[Qrsi#61:14]]
 
 # Q:5:17
 
 [Q.5:17](https://quran.com/5:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:17]]
+![[Qrsi#5:17]]
 
 # Q:5:46
 
 [Q.5:46](https://quran.com/5:46/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:46]]
+![[Qrsi#5:46]]
 
 # Q:5:72
 
 [Q.5:72](https://quran.com/5:72/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:72]]
+![[Qrsi#5:72]]
 
 # Q:5:75
 
 [Q.5:75](https://quran.com/5:75/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:75]]
+![[Qrsi#5:75]]
 
 # Q:5:78
 
 [Q.5:78](https://quran.com/5:78/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:78]]
+![[Qrsi#5:78]]
 
 # Q:5:110
 
 [Q.5:110](https://quran.com/5:110/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:110]]
+![[Qrsi#5:110]]
 
 # Q:5:112
 
 [Q.5:112](https://quran.com/5:112/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:112]]
+![[Qrsi#5:112]]
 
 # Q:5:114
 
 [Q.5:114](https://quran.com/5:114/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:114]]
+![[Qrsi#5:114]]
 
 # Q:5:116
 
 [Q.5:116](https://quran.com/5:116/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#5:116]]
+![[Qrsi#5:116]]
 
 # Q:9:31
 
 [Q.9:31](https://quran.com/9:31/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#9:31]]
+![[Qrsi#9:31]]

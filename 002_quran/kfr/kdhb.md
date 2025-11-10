@@ -407,7 +407,7 @@
 # Q:29:12
 [Q.29:12](https://quran.com/29:12/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#29:12]]![[Qrsi#29:13]]
+![[Qrsi#29:12]]![[Qrsi#29:13]]
 
 ## ~~~ كَٰذِب 24
 1st inst: [[#96:16]]
