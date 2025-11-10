@@ -3,7 +3,7 @@
 
 [Q.19:56](https://quran.com/19:56/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#19:56]]
+![[Qrsi#r19.4.x]]
 
 ## <idoriys ((?:Idris|))
 
@@ -11,4 +11,4 @@
 
 [Q.21:85](https://quran.com/21:85/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#21:85]]
+![[Qrsi#r21.6.x]]

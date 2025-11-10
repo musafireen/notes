@@ -412,6 +412,17 @@ matsyendra, goraksa, cauraṅgī, jalandhara, carpaṭi, kṛṣṇapāda, nāg�
 prāṇa, jīva, karṇa/śrotra, sparṣa/tvak, cakṣu/dṛk, jihvā/rasana, nāsikā
 ## diatonic scale notes
 C, C#, D, D#, E, F, F#, G, G#, A, A#, B
+## titans
+oceanus, tethys, 
+hyperion, theia,
+coeus, phoebe,
+cronus, rhea, 
+mnemosyne, themis, 
+crius, iapetus
+## olympians
+zeus, poseidon, 
+hera, demeter, (hestia,)
+aphrodite, athena, artemis, apollo, ares, hephaestus, hermes, (dionysus)
 ## āditya
 mitra, varuṇa, śakra, aryamā, tvaṣṭā, puṣā, dhāta, bhaga, aṃśa, savitā, viṣṇu, vivasvān
 ## jyotirliṅga

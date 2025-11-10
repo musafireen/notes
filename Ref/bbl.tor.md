@@ -77,26 +77,74 @@ And he said, Who told thee that thou [wast] naked ? Hast thou eaten of the tree,
 So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
 
 ## c4
-#### 6
-וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא־נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג ׃
 
-And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand [was] leprous as snow.
 #### 10
 וַיֹּ֖אמֶר מֶ֣ה עָשִׂ֑יתָ ק֚וֹל דְּמֵ֣י אָחִ֔יךָ צֹעֲקִ֥ים אֵלַ֖י מִן־הָֽאֲדָמָֽה ׃
 
 And he said, What hast thou done ? the voice of thy brother´s blood crieth unto me from the ground.
-#### 11
-וַתִּשָּׁחֵ֥ת הָאָ֖רֶץ לִפְנֵ֣י הָֽאֱלֹהִ֑ים וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס ׃
+#### 16
+וַיֵּצֵא קַיִן מִלִּפְנֵי יְהוָה וַיֵּשֶׁב בְּאֶרֶץ-נוֺד קִדְמַת-עֵדֶן
 
-The earth also was corrupt before God, and the earth was filled with violence.
-#### 12
-וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָאָ֖רֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה כִּֽי־הִשְׁחִ֧ית כָּל־בָּשָׂ֛ר אֶת־דַּרְכּ֖וֹ עַל־הָאָֽרֶץ ׃ ס
+And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.
+#### 17
+וַיֵּדַע קַיִן אֶת-אִשְׁתּוֺ וַתַּהַר וַתֵּלֶד אֶת-חֲנוֺךְ וַיְהִי בֹּנֶה עִיר וַיִּקְרָא שֵׁם הָעִיר כְּשֵׁם בְּנוֺ חֲנוֺךְ
 
-And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.
-#### 13
-וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל־בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי־מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת־הָאָֽרֶץ ׃
+And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.
+#### 18
+לַֽחֲנוֹךְ֙ אֶת־עִירָ֔ד וְעִירָ֕ד יָלַ֖ד אֶת־מְחֽוּיָאֵ֑ל וּמְחִיּיָאֵ֗ל יָלַד֙ אֶת־מְת֣וּשָׁאֵ֔ל וּמְתוּשָׁאֵ֖ל יָלַ֥ד אֶת־לָֽמֶךְ׃
 
-And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.
+18And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.
+n1 Lamech: Heb. Lemech
+#### 19
+וַיִּֽקַּֽח־ל֥וֹ לֶ֖מֶךְ שְׁתֵּ֣י נָשִׁ֑ים שֵׁ֤ם הָֽאַחַת֙ עָדָ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית צִלָּֽה׃
+
+19And Lamech took unto him two wives: the name of the one [was] Adah, and the name of the other Zillah. 
+#### 20
+וַתֵּ֥לֶד עָדָ֖ה אֶת־יָבָ֑ל ה֣וּא הָיָ֔ה אֲבִ֕י יֹשֵׁ֥ב אֹ֖הֶל וּמִקְנֶֽה׃
+
+20And Adah bare Jabal: he was the father of such as dwell in tents, and [of such as have] cattle. 
+#### 21
+ וְשֵׁ֥ם אָחִ֖יו יוּבָ֑ל ה֣וּא הָיָ֔ה אֲבִ֕י כָּל־תֹּפֵ֥שׂ כִּנּ֖וֹר וְעוּגָֽב׃
+ 
+21And his brother´s name [was] Jubal: he was the father of all such as handle the harp and organ. 
+#### 22
+וְצִלָּ֣ה גַם־הִ֗וא יָֽלְדָה֙ אֶת־תּ֣וּבַל קַ֔יִן לֹטֵ֕שׁ כָּל־חֹרֵ֥שׁ נְחֹ֖שֶׁת וּבַרְזֶ֑ל וַֽאֲח֥וֹת תּֽוּבַל־קַ֖יִן נַֽעֲמָֽה׃
+ 
+
+22And Zillah, she also bare Tubalcain, an instructer of every artificer in brass and iron: and the sister of Tubalcain [was] Naamah.
+n1 instructer: Heb. whetter
+#### 23
+וַיֹּ֨אמֶר לֶ֜מֶךְ לְנָשָׁ֗יו עָדָ֤ה וְצִלָּה֙ שְׁמַ֣עַן קוֹלִ֔י נְשֵׁ֣י לֶ֔מֶךְ הַאְזֵ֖נָּה אִמְרָתִ֑י כִּ֣י אִ֤ישׁ הָרַ֙גְתִּי֙ לְפִצְעִ֔י וְיֶ֖לֶד לְחַבֻּרָתִֽי׃
+
+23And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt. (I have…: or, I would slay a man in my wound, etc)
+n1 to my hurt: or, in my hurt
+#### 24
+כִּ֥י שִׁבְעָתַ֖יִם יֻקַּם־קָ֑יִן וְלֶ֖מֶךְ שִׁבְעִ֥ים וְשִׁבְעָֽה׃
+ 
+24If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold. 
+#### 25
+וַיֵּ֨דַע אָדָ֥ם עוֹד֙ אֶת־אִשְׁתּ֔וֹ וַתֵּ֣לֶד בֵּ֔ן וַתִּקְרָ֥א אֶת־שְׁמ֖וֹ שֵׁ֑ת כִּ֣י שָֽׁת־לִ֤י אֱלֹהִים֙ זֶ֣רַע אַחֵ֔ר תַּ֣חַת הֶ֔בֶל כִּ֥י הֲרָג֖וֹ קָֽיִן׃
+ 
+ 
+25And Adam knew his wife again; and she bare a son, and called his name Seth: For God, [said she], hath appointed me another seed instead of Abel, whom Cain slew.
+n1 Seth: Heb. Sheth: that is Appointed, or, Put
+#### 26 
+ וּלְשֵׁ֤ת גַּם־הוּא֙ יֻלַּד־בֵּ֔ן וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ אֱנ֑וֹשׁ אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם יְהוָֽה׃פ
+
+26And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD. (Enos: Heb. Enosh)
+## c5
+#### 18
+וַיְחִי-יֶרֶד שְׁתַּיִם וְשִׁשִּׁים שָׁנָה וּמְאַת שָׁנָה וַיּוֺלֶד אֶת-חֲנוֺךְ
+
+And Jared lived an hundred sixty and two years, and he begat Enoch:
+#### 22
+וַיִּתְהַלֵּךְ חֲנוֺךְ אֶת-הָאֱלֹהִים אַחֲרֵי הוֺלִידוֺ אֶת-מְתוּשֶׁלַח שְׁלֹשׁ מֵאוֺת שָׁנָה וַיּוֺלֶד בָּנִים וּבָנוֺת
+
+And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:
+#### 24
+וַיִּתְהַלֵּךְ חֲנוֺךְ אֶת-הָאֱלֹהִים וְאֵינֶנּוּ כִּי-לָקַח אֹתוֺ אֱלֹהִים
+
+And Enoch walked with God: and he [was] not; for God took him.
 ## c6
 #### 2
 וַיִּרְא֤וּ בְנֵי־הָֽאֱלֹהִים֙ אֶת־בְּנ֣וֹת הָֽאָדָ֔ם כִּ֥י טֹבֹ֖ת הֵ֑נָּה וַיִּקְח֤וּ לָהֶם֙ נָשִׁ֔ים מִכֹּ֖ל אֲשֶׁ֥ר בָּחָֽרוּ ׃
@@ -118,6 +166,10 @@ And it repented the LORD that he had made man on the earth, and it grieved him a
 וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת־הָאָדָ֤ם אֲשֶׁר־בָּרָ֙אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙ עַד־בְּהֵמָ֔ה עַד־רֶ֖מֶשׂ וְעַד־ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם ׃
 
 And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.
+#### 11
+וַתִּשָּׁחֵ֥ת הָאָ֖רֶץ לִפְנֵ֣י הָֽאֱלֹהִ֑ים וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס ׃
+
+The earth also was corrupt before God, and the earth was filled with violence.
 #### 12
 וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָאָ֖רֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה כִּֽי־הִשְׁחִ֧ית כָּל־בָּשָׂ֛ר אֶת־דַּרְכּ֖וֹ עַל־הָאָֽרֶץ ׃ ס
 
@@ -1331,6 +1383,10 @@ And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto t
 
 And I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey.
 ## c4
+#### 6
+וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא־נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג ׃
+
+And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand [was] leprous as snow.
 #### 22
 וְאָמַרְתָּ֖ אֶל־פַּרְעֹ֑ה כֹּ֚ה אָמַ֣ר יְהוָ֔ה בְּנִ֥י בְכֹרִ֖י יִשְׂרָאֵֽל ׃
 

@@ -108,6 +108,10 @@ Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this 
 αλλα λαλουμεν σοφιαν θεου εν μυστηριω την αποκεκρυμμενην ην προωρισεν ο θεος προ των αιωνων εις δοξαν ημων
 
 But we speak the wisdom of God in a mystery, [even] the hidden [wisdom], which God ordained before the world unto our glory:
+### 8
+ην ουδεις των αρχοντων του αιωνος τουτου εγνωκεν ει γαρ εγνωσαν ουκ αν τον κυριον της δοξης εσταυρωσαν
+
+Which none of the princes of this world knew: for had they known [it], they would not have crucified the Lord of glory.
 ### 14
 ψυχικος δε ανθρωπος ου δεχεται τα του πνευματος του θεου μωρια γαρ αυτω εστιν και ου δυναται γνωναι οτι πνευματικως ανακρινεται
 

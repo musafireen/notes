@@ -3,7 +3,7 @@
 
 [Q.50:14](https://quran.com/50:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#50:14]]
+![[Qrsi#50:14]]
 
 ## >ayokap (wood)
 
@@ -11,16 +11,16 @@
 
 [Q.38:13](https://quran.com/38:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#38:13]]
+![[Qrsi#38:13]]
 
 # Q:26:176
 
 [Q.26:176](https://quran.com/26:176/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#26:176]]
+![[Qrsi#26:176]]
 
 # Q:15:78
 
 [Q.15:78](https://quran.com/15:78/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsd#15:78]]
+![[Qrsi#15:78]]
