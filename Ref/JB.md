@@ -139,58 +139,113 @@ https://titus.fkidg1.uni-frankfurt.de/private/texte/indica/vedica/sv/jb/jb.txt
 "'Now, observe your own limbs.
 # k2
 ### 2.1
-स एवैश  प्रजापतिस्  संवत्सरो ऽभवत् //
+
+स एवैश प्रजापतिस् संवत्सरो ऽभवत् //  
+Thus, this year belonged to Prajapati.
 ### ??
+
+(Heading not specified in the text.)
 ### 2.2
-स इदं  सर्वं  स्तब्ध्वा  व्याप्यातिश्श्थत् //
+
+स इदं सर्वं स्तब्ध्वा व्याप्यातिश्श्थत् //  
+He, having stilled all this, pervaded everything.
 ### 2.3
-स  ऐक्शत  --  कया  स्वधया  केनान्नाद्येन  कयोर्जेदम्  अयं  व्यापद् इति //
+
+स ऐक्शत -- कया स्वधया केनान्नाद्येन कयोर्जेदम् अयं व्यापद् इति //  
+He observed: “By which oblation, by what first grain offering, with which food does this all expand?”
+
 ### 2.4
-तस्मिन्न् एतां  स्वधाम् ऊर्जम्  अन्नाद्यम्  अक्शितिं  पर्यप꣫श्यद्  द्वाद꣫श  पौर्ङमासीर्  द्वाद꣫शाश्थका  द्वाद꣫शामावास्या //
+
+तस्मिन्न् एतां स्वधाम् ऊर्जम् अन्नाद्यम् अक्शितिं पर्यप꣫श्यद् द्वाद꣫श पौर्ङमासीर् द्वाद꣫शाश्थका द्वाद꣫शामावास्या //  
+There he perceived this oblation — the energy, the first grain, the seed — in twelve lunar months, twelve fortnights, twelve full-moons.
 ### 2.5
-ताम्  अवारुरुत्सत //
+ताम् अवारुरुत्सत //  
+
+He approached it.
 ### 2.6
-सैनम्  अब्रवीन्  न  मानभि꣫श्रान्ताम्  अवरोत्स्यस इति //
+सैनम् अब्रवीन् न मानभि꣫श्रान्ताम् अवरोत्स्यस इति //  
+
+He said to the ritual: “You shall not be obstructed by exhausted honor.”
 ### 2.7
-स  तपो ऽतप्यत //
+स तपो ऽतप्यत //  
+
+He performed austerity.
 ### 2.8
-स एतं  द्वाद꣫शाहं  यज्ँङम्  अप꣫श्यत् //
+स एतं द्वाद꣫शाहं यज्ँङम् अप꣫श्यत् //  
+
+He observed this twelve-month sacrifice.
 ### 2.9
-तम् आहरत //
+तम् आहरत //  
+
+He carried it.
 ### 2.10
-सो ऽकामयत  --  दीक्शितं  मा  दीक्शिता  याजयेयुर् इति //
+सो ऽकामयत -- दीक्शितं मा दीक्शिता याजयेयुर् इति //  
+
+He wished: “Let what is consecrated not be sacrificed as unconsecrated.”
 ### 2.11
-स  मासां꣫श्  चर्तूं꣫श्  चाब्रवीद्  याजयत  मेति //
+स मासां꣫श् चर्तूं꣫श् चाब्रवीद् याजयत मेति //  
+
+He spoke of the months and fortnights: “Sacrifice them.”
 ### 2.12
-तं  मासा  नाब्रुवन् //
+तं मासा नाब्रुवन् //  
+
+He did not mention the month.
 ### 2.13
-स  वा  अस्मास्व् एव  सत्या  भुनजासा इति //
+स वा अस्मास्व् एव सत्या भुनजासा इति //  
+
+He said: “It is indeed true for us.”
 ### 2.14
-तस्माद् एता  मास्य् एव  सर्वा  पौर्ङमास्यश्थकामावास्या //
+तस्माद् एता मास्य् एव सर्वा पौर्ङमास्यश्थकामावास्या //  
+
+Hence all these months, fortnights, and full moons are to be counted.
 ### 2.15
-तद्  र्तवः  प्रसुते  प꣫श्चेवान्वबुध्यन्त  --प्र  हैभ्यो ऽदाद् इति //
+तद् र्तवः प्रसुते प꣫श्चेवान्वबुध्यन्त --प्र हैभ्यो ऽदाद् इति //  
+
+Then the duties, once born, were to be performed — “give to the priests,” it said.
 ### 2.16
-तम्  अब्रुवन्न्  --  अस्मभ्यम्  अपि  दक्शिङां  प्रयच्छेति //
+तम् अब्रुवन्न् -- अस्मभ्यम् अपि दक्शिङां प्रयच्छेति //  
+
+He instructed: “Give this also to us in the south.”
 ### 2.17
-तेभ्यो ऽन्नाद्यं  प्रायच्छत् //
+तेभ्यो ऽन्नाद्यं प्रायच्छत् //  
+
+He offered them the first grain.
 ### 2.18
-तद् एतद्  यथर्त्व्  अन्नाद्यं  पच्यते //
+तद् एतद् यथर्त्व् अन्नाद्यं पच्यते //  
+
+Thus, this first grain is cooked according to ritual.
 ### 2.19
-स  दीक्शाभिर् एव  पौर्ङमासीर्  अवारुन्धोपसद्भिर्  अश्थका  प्रसुतेनामावास्या //
+स दीक्शाभिर् एव पौर्ङमासीर् अवारुन्धोपसद्भिर् अश्थका प्रसुतेनामावास्या //  
+
+With consecration alone, the months, fortnights, and full moons are joined to the oblation.
 ### 2.20
-स  यो  हैवं  विद्वान्  द्वाद꣫शाहेन  यजत एताम् एव  स्वधाम् ऊर्जम्  अन्नाद्यम्  अक्शितिम्  अवरुन्द्धे //
+स यो हैवं विद्वान् द्वाद꣫शाहेन यजत एताम् एव स्वधाम् ऊर्जम् अन्नाद्यम् अक्शितिम् अवरुन्द्धे //  
+
+He who, learned, offers the sacrifice in the twelve months, joins to it this oblation, energy, first grain, and seed.
 ### 2.21
-प्रत्य्  ॰र्तवो ऽग्॰र्ह्ङन्  न  मासा  प्रतिग्रहम्  अकामयन्त //
+प्रत्य् ॰र्तवो ऽग्॰र्ह्ङन् न मासा प्रतिग्रहम् अकामयन्त //  
+
+The ritual oblation is not returned month by month unwillingly.
 ### 2.22
-तस्मान्  मासा आख्याततरा इव //
+तस्मान् मासा आख्याततरा इव //  
+
+Hence the months are enumerated.
 ### 2.23
-आख्याततर उप  ह्य् एवाप्रतिग्॰र्ह्ङन्  भवति //
+आख्याततर उप ह्य् एवाप्रतिग्॰र्ह्ङन् भवति //  
+
+Once enumerated, it is no longer returned.
 ### 2.24
-तस्माद्  ॰र्तवो  ज्यायांसः //
+तस्माद् ॰र्तवो ज्यायांसः //  
+
+Therefore, the oblation is greater.
 ### 2.25
-ज्यायान्  ह्य् एव  प्रतिग्॰र्ह्ङन्  भवति //
+ज्यायान् ह्य् एव प्रतिग्॰र्ह्ङन् भवति //  
+
+The greater alone is not returned.
 ### 2.26
 ता  ह  वा एतास्  तिस्र एव  रात्रयः  पौर्ङमास्यश्थकामावास्या //
+
+These three alone are the nights of the fortnight, the full moons, and the new moons.
 ### 2.113
 https://aryanthought.wordpress.com/2016/06/28/gosava-and-bovine-mimesis-in-ritual-part-2/
 
@@ -281,8 +336,296 @@ He, verily, right there [at the assembly] excreted [and] said: An elderly man [�
 स हैष स्थविरयज्ञ एव। तेन हैतेनोत्तरवयस्ये यजेत॥2.113॥
 
 That is indeed an elderly man [‘s] sacrifice /34/ Thus, even so, in the last years [of one’s life], let him sacrifice /35/
+### 2.122
+अथैष परिक्रीः। 
+
+Then this ritual took place. 
+
+खण्डिकश्च हौद्भारिः केशी च दार्भ्यः पाञ्चालेषु पस्पृधाते। 
+
+A khandika, a haud-bhari, and Keshi were sprinkled among the Panchalas. 
+
+स खण्डिकः केशिनम् अभिप्रजिघाय। 
+
+The khandika struck Keshi. 
+
+सद्यः क्रिया वै स्यो यक्ष्यत इति। 
+
+“Immediately the act will take effect,” it was said. 
+
+अथ हैतेन प्रोच्य भ्रातृव्याय यजन्ते। 
+
+Then, by his command, they performed the ritual for the brother. 
+
+तस्य हैते ब्राह्मणा आसुराः — अहीना आश्वत्थिः, केशी सात्यकामिर्, गङ्गिना राहक्षितो, लुशाकपिः खार्गलिर् इति। 
+
+Among his ritual assistants were Brahmins and Asuras — Ahina, Ashvattha, Keshi, Satyakama, Ganga-nira-rahkshito, Lushakapih, Khargali, etc. 
+
+ते हैनम् उपसमेयुः। स ध्यायन् निषसाद। 
+
+They approached Ahina. Meditating, he sat down. 
+
+तं होचुः — किं नु राजन् ध्यायतीति। 
+
+He was asked, “O King, are you meditating?” 
+
+स होवाच — न हि मे ध्येयम्। 
+
+He replied, “It is not my meditation.” 
+
+यूयं ब्राह्मणा अनुब्रूथ — 
+
+आदित्याश्च आङ्गिरसश्च स्वर्गे लोकेऽस्पर्धन्त।
+
+You (the Brahmins) said, “The Adityas and Angirasas compete in the heavenly realm.” 
+
+ताः आदित्याः पूर्वे स्वर्गं लोकम् अगच्छन्न् अहीयन्ताङ्गिरस इति। 
+
+The Adityas had first gone to heaven, and Angirasas followed them. 
+
+स येन प्रोच्य भ्रातृव्याय यजते, स एव भवति, परास्य द्विषन् भ्रातृव्यो भवति।
+
+He who performs the ritual as instructed for the brother becomes him; the brother who opposes becomes the rival of the other.
+
+
 ### 2.266
 ![[#2.26]]
+
+### 2.279
+अथैषोऽन्तर्वसुः। 
+
+Then came the internal wealth. 
+
+खण्डिकश्च हौद्भारिः केशी च दार्भ्यः पाञ्चालेषु पस्पृधाते। 
+
+The khandika, the haud-bhari, and Keshi were sprinkled among the Panchalas. 
+
+स खण्डिकः केशिनम् अभिबभूव। 
+
+The khandika seized Keshi. 
+
+स केशी खण्डिकेन निबाढ उच्चैःश्रवसं कौवयेयं जगाम कौरव्यं राजानां मातुर् भ्रातरम्। 
+
+Keshi, held by the khandika, let out a loud cry, and approached the Kaurava king’s maternal brother.
+
+तं होवाच — यज्ञं मे विधेहीति। 
+
+ He said, “Perform my yajña.” 
+
+तथेति होवाच। कथं ते विधास्यामि। 
+
+“So be it,” was said. “How shall I perform it?” 
+
+यथास्मिन् लोक ऋध्नोती, यथा हो अमुष्मी इति। यथास्मिन्निति होवाच। 
+
+“As it thrives in this world,  thus it should be,” he was told. 
+
+स होवाचोत नु स यज्ञं पृच्छति यो यज्ञस्सहयं न वेदेति। 
+
+“Does he who does not know the accompaniment of the yajña ask about it?” 
+
+कथा हेति। अमुष्मै ह्येव लोकाय यज्ञो नास्मा इति। नेति होवाच। 
+
+That is the reason. The yajña indeed exists for the world and not for him. 
+
+खण्डिको वै त्यम् औद्भारिर् अभ्यभूत। 
+
+The khandika struck that haud-bhari. 
+
+स यथा तम् अभिभवाम्य् एवं मे विधेहीति। 
+
+“Thus I seize him; so should you perform my ritual.” 
+
+तस्मात् एतं अन्तर्वसुं विदधौ। सर्वस्तोमोऽग्निष्टोमः। 
+
+Therefore, he placed this internal wealth. The Sarvastoma is Agnistoma: 
+
+इत — ऊर्ध्व — छन्दोमविधं मध्यमम् अहश् — चतुर्विंशं प्रातस्सवनं, चतुश्चत्वारिंशं माध्यंदिनं सवनम्, अष्टाचत्वारिंशं तृतीयसवनम्। 
+
+Upper — the metre rules the middle; 24 prāta-savna, 44 mādhya-savna, 48 tṛtīya-savna. 
+
+सर्वस्तोमोऽतिरात्रः परस्तात् प्रत्यङ्। 
+
+Sarvastoma is the outer night afterwards. 
+
+ब्रह्म वै चतुर्विंश, क्षत्रं चतुश्चत्वारिंशो, विड् अष्टाचत्वारिंशः। 
+
+Brahma has 24, Kshatra 44, Vid 48. 
+
+संवत्सरो वै सर्वस्तोमः। 
+
+The year is Sarvastoma. 
+
+तम् एताभ्यामेव सर्वस्तोमाभ्याम् एतां त्रयीं विशं परिगृह्यात्मन् दधे। 
+
+He combines this Sarvastoma with these two, embracing the threefold Visha, 
+
+तस्यै श्रियं जगाम।
+
+and gives it to himself. To him goes prosperity.
+### 2.280
+ततो वै स खण्डिकं निस्सारयांचकार। 
+
+Then he rendered the khandika powerless. 
+
+ततो वै केशी दार्भ्यो ऽभवत्, परा खण्डिकः। 
+
+Then Keshi became the darbhya, the superior khandika. 
+
+भवत्य् आत्मना, परास्य द्विषन् भ्रातृव्यो भवति, य एवं वेद। 
+
+One becomes himself, the other becomes a rival to the brother, thus it is known. 
+
+स य श्रीकाम स्यात्, स एतेन यजेत। 
+
+He attains prosperity; he performs the ritual with it. 
+
+एताभ्याम् एव सर्वस्तोमाभ्याम् एतां त्रयीं विशं परिगृह्यात्मन् धत्ते। 
+
+Combining the threefold Visha with the Sarvastomas, he gives it to himself. 
+
+तस्यै ह श्रियं गच्छति।  
+
+To him comes prosperity.
+  
+अथैष पराकः। 
+
+Then came the external wealth. 
+
+स्वर्गकामो हैतेन यजेत। 
+
+One who desires heaven should perform it thus. 
+
+तस्य पराञ्च्य् एव स्तोत्राणि भवन्ति, पराञ्चि शस्त्राणि, पराञ्चि पृष्ठानि, पराचीर् विष्टुतयः, पराङ् एव सर्वो भवति। 
+
+To him belong the external stotras, the weapons, the backs, the variegated vestments — everything is external. 
+
+तेन हैतेनोच्चैःश्रवाः कौवेयाय ईजे स्थविरो राजा कौरव्यः। 
+
+With this, with a loud cry, the crow was invoked; the old king of the Kauravas proceeded. 
+
+स हेष्ट्वैव स्वर्गं लोकम् इयाय। 
+
+He directly attained the heavenly realm. 
+
+तेन हैतेनेष्ट्वैव स्वर्गं लोकम् एति। 
+
+Then, with this very rite, he attained heaven.
+
+अथ यस्यैतस्य ज्योतिर् अग्निष्टोमो ज्योतिर् उक्थ्यो ज्योतिर् अतिरात्र इति ब्रह्मवर्चसकामो हैतेन यजेत। 
+
+Now for him whose light is Agnistoma, whose light is Uktha, whose light is Atiratra — he should perform it desiring Brahma’s power. 
+
+ज्योतिर् इव ह वै स भाति यो ब्रह्मवर्चसम् ऋध्नोति। 
+
+Like a light, he shines who attains Brahma’s power. 
+
+ऋध्नोति हैनेन ब्रह्मवर्चसं, ब्रह्मवर्चसी भवति। 
+
+By this, he attains Brahma’s power and becomes full of Brahma’s potency. 
+
+अथ यस्यैतस्य सप्तदशो ऽग्निष्टोमस्, सप्तदश उक्थ्यस्, सप्तदशो ऽतिरात्र इति प्रजापतेर् अश्वमेधः। 
+
+Now, for him whose Agnistoma is seventeen, Ukthas seventeen, Atiratra seventeen — this is for Prajapati’s Ashvamedha; 
+
+प्रजननकामो हैतेन यजेत। 
+
+he should perform it desiring procreation. 
+
+अथ यस्यैतस्यैकविंशो ऽग्निष्टोम, एकविंश उक्थ्य, एकविंशो ऽतिरात्र इत्य् आदित्यस्याश्वमेधः। 
+
+For him whose Agnistoma is twenty-one, Ukthas twenty-one, Atiratra twenty-one — this is for the Adityas’ Ashvamedha; 
+
+स्वर्गकामो हैतेन यजेत॥2.280॥
+
+he should perform it desiring heaven.
+
+### 2.405
+मागधं च पुंश्चलूं च दक्षिणे वेद्यन्ते मिथुनी कारयन्ति, मिथुनत्वाय प्रजननाय।  
+
+Magadha and the Puñchala are in the south end of the Vedi; there the couples engage in sexual union, for the purpose of procreation. 
+
+प्र मिथुनेन जायते य एवं वेद।  
+
+From such union is born that which is thus known.
+
+आर्यं च वर्णं शौद्रं चोपर्युपरि चात्वालं बस्ताजिने व्यायमन्त्य् आर्षभे वा चर्मणि।  
+The Arya (noble) and Shudra castes, in the upper and lower realms, practice sexual activity for progeny, and also in the hide/skin (metaphorically, in the body).
+
+तयोर् अन्तर्वेद्य् आर्यो वर्णो भवति बहिर्वेदि शौद्रः।  
+
+Of the two, the Arya is to be recognized internally as caste; externally, the Shudra.
+
+तयोर् आर्येण वर्णेन शौद्रं वर्णं ज्यपयन्ति।  
+
+By the Arya’s caste, they proclaim the Shudra’s caste.
+
+देवाश् च वा असुराश् चामुष्मिन्न् आदित्ये ऽस्पर्धन्त।  
+
+The gods and the asuras compete in this sunlit realm.
+
+तं देवा असुराणाम् अवृञ्जत।  
+
+The gods overcome the asuras.
+
+तद् यद् आर्येण वर्णेन शौद्रं वर्णं ज्यापयन्त्य्, एतम् एव तद् द्विषतो भ्रातृव्यस्य वृञ्जते।  
+
+When the Arya proclaims the Shudra’s caste, this is what opposes the brotherly enmity.
+
+तयोः आन्यः क्रोशति, प्राण्यश् शंसति।  
+
+Of them, one cries aloud, one praises living beings.
+
+य आक्रोशति, पुनात्य् एवैनान् सः।  
+
+He who cries purifies them indeed.
+
+अथ यः प्रशंसति, पूतेष्व एवैतेषु स इन्द्रियं वीर्यं दधाति।  
+
+He who praises imparts power and vigor to their senses in these acts.
+
+आजिं धावन्ति।  
+
+They run the ritual space (or “circle of ritual” — ājī).
+
+परमं वा एतन् महो यद् आजिः - परमस्यैव महसो ऽवरुद्ध्यै।  
+
+The highest of these is the ājī — it is blocked only by the supreme Mahat.
+
+सन्नद्धा भवन्ति। परमा वै संनद्धे त्विषिः।  
+
+They become armed; the supreme energy is present in the armed.
+
+परमाम् एव तत् त्विषिम् आत्मसु दधते।  
+
+This supreme energy places the shining (tvish) in the self.
+
+पूर्णकु्म्भा मार्जालीयं पर्यायन्ति - पूर्णस्यैवावरुद्ध्यै।  
+
+The full pot (kumbha) flows — blocked only by the full.
+
+है महा है महा इति - महसो ऽवरुद्ध्यै।  
+
+“Hail the great! Hail the great!” — for the great is unblocked.
+
+इदं मध्व् इदं मध्व् इति - मध्व् इव वा एतद् देवेभ्यः क्रियते यन् महाव्रतम्।  
+“This is mead, this is mead!” — thus the great vow (mahavrat) is enacted with mead offered to the gods.
+
+परमो वै मधुनि रसः, परमस्यैव रसस्यावरुद्ध्यै।  
+
+The supreme pleasure is in the sexual act; it is unobstructed for the supreme pleasure.
+
+तद् आहुर् - ईश्वरा आद्या भवितोर् यद् धै महा इदं मध्व् इति गायन्तीः पर्येयुः।  
+
+They say: “The goddess, the primal, shall guide this, for great is this mead!”
+
+है महाम् एव गायन्तीः पर्येयुर् इति।  
+
+“Hail, truly great!” they sing.
+
+तद् उ होवाच शाट्यायनिर् - यदा वै भवति यदास्त्य्, अथाद्यो भवति। किम् असतो ऽद्युः। है महा इदं मध्व् इत्य् एव गायन्तीः पर्येयुर् इति।  
+
+Then Śāṭyāyana said: “When it is, it is; then today it is. What is not, is today? ‘Hail, great! This is mead!’ — thus they sing.”
 # k3
 ### 3.94  
 अथ वार्शम्।  

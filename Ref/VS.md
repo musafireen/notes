@@ -203,6 +203,11 @@ May our well-being and prosperity be established and fulfilled.
 This verse occurs in a section where the creation of the world is being described symbolically through the roles of the **varnas (castes)** and their contributions to the cosmic order.
 The **Brahmanas** are described as the **mouth (mukha)** of the cosmic being (Prajāpati) because they are the ones who chant the Vedic mantras, communicate with the gods, and preserve the sacred knowledge.
 The Devas are described as assuming the form of the Brahmanas (and other varnas) to ensure the proper functioning of the universe, indicating the close connection between divine power and human roles in Vedic rituals.
+# p30
+### 5
+ब्राह्मणे ब्राह्मणं क्षत्राय राजन्यं मरुद्भ्यः वैश्यं तपसे शूद्रं तमसे तस्करं नरकाय वीरहं पाप्माने क्लीबं आक्रयायाय योगूं कामाय पुंस्चलूम् अतिकृष्टाय मागधम्
+
+To a Brahmin, [give] a Brahmin; to a Kshatriya, a Kshatriya; to Maruts, a Vaishya; to the ascetic, a Shudra; to Tamas, a thief; to Naraka, a hero; to the sinful, a weakling; for acquisition, [give] to the yogi; for desire, [give] to the overreaching Punschala; [give] to Magadha.
 # p31
 https://www.stephen-knapp.com/purusha_sukta.htm
 ## 1-16

@@ -1511,13 +1511,37 @@ When the foot-water is ready, they cause the Mahishi to lie down near the horse,
 
 Whilst they are lying there, the Sacrificer addresses the horse (Vajasaneyi Samhita XXIII, 21), “Utsakhya ava gudam dhehi!” No one replies to him, lest there should be some one to rival the Sacrificer.
 ##### 4
-अथाध्वर्युः कुमारीमभिमेथति कुमारि हये॰हये कुमारि यकासकौ शकुन्तिकेति तं कुमारी प्रत्यभिमेथत्यध्वर्यो हये॰हयेऽध्वर्यो यकोऽसकौ शकुन्तक इति
+अथाध्वर्युः कुमारीमभिमेथति
 
-The Adhvaryu then addresses the maiden, “Hey hey maiden, that little bird . . .”—The maiden replies to him, “Adhvaryu! that little bird . . .”
+The Adhvaryu then addresses the maiden, 
+
+कुमारी हये॰हये कुमारि यकासकौ शकुन्तिकेति  
+
+“Hey hey maiden, that little bird is entering you…”—
+
+तं कुमारी प्रत्यभिमेथत्यध्वर्यो हये॰हयेऽध्वर्यो यकोऽसकौ शकुन्तक इति
+
+The maiden replies to him, “Adhvaryu! that little bird is thrusting, spreading its wings inside me…”
 ##### 5
-अथ ब्रह्मा महिषीमभिमेथति महिषि हये॰हये महिषि माता च ते पिता च तेऽग्रम् वृक्षस्य रोहत इति तस्यै शतं राजपुत्र्योऽनुचर्यो भवन्ति ता ब्रह्माणम् प्रत्यभिमेथन्ति ब्रह्मन्हये॰हये ब्रह्मन्माता च ते पिता च तेऽग्रे वृक्षस्य क्रीडत इति
+अथ ब्रह्मा महिषीमभिमेथति  
 
-And the Brahman addresses the Mahishi, “Mahishi, hey hey Mahishi, thy mother and father mount to the top of the tree . . .”—She has a hundred daughters of kings attending upon her: these reply to the Brahman, “Brahman, hey hey Brahman, thy mother and father play on the top of the tree. . .”
+And the Brahman addresses the Mahishi, 
+
+महिषि हये॰हये महिषि माता च ते पिता च तेऽग्रम् वृक्षस्य रोहत इति
+
+“Mahishi, hey hey Mahishi, your mother and father are mounting at the top of the tree, thrusting…”—
+
+तस्यै शतं राजपुत्र्योऽनुचर्यो भवन्ति 
+
+She has a hundred royal daughters attending her, 
+
+ता ब्रह्माणम् प्रत्यभिमेथन्ति 
+
+and they respond, 
+
+ब्रह्मन्हये॰हये ब्रह्मन्माता च ते पिता च तेऽग्रे वृक्षस्य क्रीडत इति
+
+Brahman, hey hey Brahman, thy mother and father are playing on the top of the tree,”—
 ### 13.5.4
 https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1057530.html
 ##### 1

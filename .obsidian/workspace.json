@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/VS.md",
+                "file": "Ref/IU.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TS",
+                "query": "aps",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/VS.md",
+                "file": "Ref/IU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/VS.md",
+                "file": "Ref/IU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/VS.md"
+                "file": "Ref/IU.md"
               }
             }
           }
@@ -206,8 +206,24 @@
   },
   "active": "9933e842181072f7",
   "lastOpenFiles": [
-    "Ref/TS.md",
     "Ref/VS.md",
+    "Ref/SpB.md",
+    "Ref/JB.md",
+    "Ref/baudh.md",
+    "Ref/~syncthing~JB.md.tmp",
+    "Ref/aps.md",
+    "Ref/~syncthing~baudh.md.tmp",
+    "Ref/~syncthing~bRush.md.tmp",
+    "Ref/Snkh.md",
+    "Ref/~syncthing~aps.md.tmp",
+    "Ref/SnkhSrS.md",
+    "Ref/~syncthing~Snkh.md.tmp",
+    "Ref/~syncthing~SnkhSrS.md.tmp",
+    "Untitled.md",
+    "~syncthing~Untitled.md.tmp",
+    "Ref/VP.md",
+    "Ref/~syncthing~VP.md.tmp",
+    "Ref/TS.md",
     "002_quran/anbiya/adam/ins/Ans.md",
     "002_quran/anbiya/adam/ins/ins.md",
     "002_quran/jinn/malak/archon.md",
@@ -224,26 +240,9 @@
     "002_quran/anbiya/yaqub/yaqub.md",
     "002_quran/anbiya/yahya/yahya.md",
     "Demus/Why create.md",
-    "002_quran/anbiya/uzair/uzair.md",
-    "Demus/Science/unscientific.md",
-    "002_quran/anbiya/tubba/Tubba.md",
-    "Youtube/Trickle_down_jabarut_cruelty_from_god_to_muhajir_to_nobles.md",
-    "002_quran/ta'wil/tawil_mantia_mancy.md",
-    "002_quran/fadl/taw3ah.md",
-    "002_quran/anbiya/talut/talut.md",
-    "002_quran/a'jamī/syriac2.md",
-    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/sympathy_peer_pressure_meme_delusion.md",
     "boomerang/naik_vas.png",
     "boomerang/naik.jpg",
     "002_quran/sihr/~syncthing~magic.md.tmp",
-    "boomerang/~syncthing~memes.md.tmp",
-    "002_quran/a'jamī/jibt/~syncthing~egyptian magic.md.tmp",
-    "002_quran/adad/~syncthing~Samkhya_kabbala_ghuli.md.tmp",
-    "Ref/~syncthing~pgm.md.tmp",
-    "Ref/~syncthing~MnSmr.md.tmp",
-    "Ref/~syncthing~RV.md.tmp",
-    "Ref/~syncthing~livy.md.tmp",
-    "002_quran/tin/~syncthing~tin.md.tmp",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/kfr/nifaq/nifaq.png",
     "001_eskaton/001_chhatak/mejo_mama/Ghulat/ahl_kitab/ahl_kitab.png",
     "Ref/Pasted image 20241128002518.png",

@@ -1,4 +1,16 @@
 
+
+# SlS
+https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/baudhsbs/baudh.htm?baudh022.htm
+## c1
+### 12
+??? pythagorean theorem
+
+दीर्घचतु्रश्रस्याक्ष्णयारज्जुः पार्श्वमानी तिर्यङ्मानी च यत्पृथग्भूते कुरुस्तदुभयं करोति  
+
+The long four-stringed instrument, with its side strings and diagonal strings, when played separately, produces a combined sound.
+
+# DhS
 https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/4_dharma/sutra/baudhd_u.htm
 
 https://www.wisdomlib.org/hinduism/book/baudhayana-dharmasutra

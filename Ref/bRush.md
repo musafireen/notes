@@ -3,6 +3,7 @@ https://shamela.ws/author/336
 
 # fasl
 https://shamela.ws/book/12727
+https://www.muslimphilosophy.com/ir/fasl.htm
 
 # nafs
 https://shamela.ws/book/9737
