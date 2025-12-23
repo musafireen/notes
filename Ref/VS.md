@@ -4,6 +4,37 @@ https://vedicheritage.gov.in/samhitas/yajurveda/vajasneyi-madhyandina-samhita/
 https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs.htm
 
 http://www.onlineved.com/yajur-ved/?mantra=27&adhyay=4
+# p1
+### 1
+इषे त्वा ऊर्जे त्वा
+For nourishment I invoke you; for strength I invoke you.
+
+वायव स्थ
+You belong to Vāyu.
+
+देवो वः सविता प्रार्पयतु श्रेष्ठतमाय कर्मणः
+May the god Savitṛ impel you toward the most excellent act.
+
+आ प्यायध्वम् अघ्न्याः
+Grow full and flourish, O unharmed ones.
+
+इन्द्राय भागम्
+[Give] a share to Indra.
+
+प्रजावतीर् अनमीवाः अयक्ष्माः
+Abounding in offspring, free from disease, free from wasting sickness.
+
+मा वः स्तेन ईशत्
+May no thief gain power over you.
+
+माघशंसः
+May no malicious speaker [harm you].
+
+ध्रुवा अस्मिन् गोपतौ स्यात् बह्वी
+May you be firmly established and many under this cattle-lord.
+
+यजमानस्य पशून् पाहि
+Protect the sacrificer’s cattle.
 # p3
 ### 9
 अग्निज्योतिज्योतिरग्निः स्वाहा सूर्यो ज्योतिज्योतिः सूर्यः स्वाहा। अग्निर्वर्थो ज्योतिर्वर्चः स्वाहा सूर्यो वर्यो ज्योतिर्वर्चः स्वाहा। ज्योतिः सूर्यः सूर्यो ज्योतिः स्वाहा ॥ ॥

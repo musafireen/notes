@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "VS",
+                "query": "TS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,6 +206,8 @@
   },
   "active": "9933e842181072f7",
   "lastOpenFiles": [
+    "Ref/TS.md",
+    "Ref/VS.md",
     "002_quran/anbiya/adam/ins/Ans.md",
     "002_quran/anbiya/adam/ins/ins.md",
     "002_quran/jinn/malak/archon.md",
@@ -231,8 +233,6 @@
     "002_quran/anbiya/talut/talut.md",
     "002_quran/a'jamī/syriac2.md",
     "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/sympathy_peer_pressure_meme_delusion.md",
-    "Demus/Summ_bukm_la_aql.md",
-    "002_quran/anbiya/sulaiman/sulaiman.md",
     "boomerang/naik_vas.png",
     "boomerang/naik.jpg",
     "002_quran/sihr/~syncthing~magic.md.tmp",

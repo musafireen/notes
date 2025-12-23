@@ -5,6 +5,56 @@ https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/ts/ts.htm
 
 https://sacred-texts.com/hin/yv/index.htm
 
+## 1.1
+#### 1
+###### 1
+१ इ॒षे त्वो॒र्जे त्वा॑  
+1 For nourishment I take you; for strength I take you.
+
+वा॒यवः॑ स्थोपा॒यव॑स्स्थ  
+You belong to Vāyu; you are fit for purification.
+
+दे॒वो व॑स्सवि॒ता प्रार्प॑यतु  
+May the god Savitṛ impel you forward.
+
+श्रेष्ठ॑तमाय॒ कर्म॑णः  
+Toward the most excellent action.
+
+आ प्या॑यध्वम् अघ्निया  
+Grow full and flourish, O unharmed ones.
+
+देवभा॒गम् ऊर्ज॑स्वतीः॒ पय॑स्वतीः  
+Having the gods as your share, rich in vigor, rich in milk.
+
+प्र॒जाव॑तीर् अनमी॒वाः  
+Abounding in offspring, free from disease.
+
+अ॑य॒क्ष्माः  
+Free from wasting sickness.
+
+मा व॑स्स्ते॒न ई॑शत  
+May no thief gain power over you.
+
+माऽघशꣳ॑सो रु॒द्रस्य॑  
+May no malicious speaker, no wrath of Rudra,
+
+हे॒तिः परि॑ वो वृणक्तु  
+No weapon encompass you.
+
+ध्रु॒वा अ॒स्मिन् गोपतौ स्यात  
+May you be firmly established under this cattle-lord.
+
+ब॒ह्वीः  
+May you be many.
+
+यज॑मानस्य प॒शून्पा॑हि  
+Protect the sacrificer’s cattle.
+
+॥
+
+इ॒षे त्रिच॑त्वारिꣳशत् ॥ १। १। १॥
+
+It's a three-part series. 
 ## 1.6
 #### 8
 २५ यो वै श्र॒द्धामना॑रभ्य य॒ज्ञेन॒ यज॑ते॒ नास्ये॒ष्टाय॒ श्रद्द॑धते॒ऽपः प्र
