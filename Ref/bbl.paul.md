@@ -31,6 +31,14 @@ But now we are delivered from the law, that being dead wherein we were held; tha
 τι ουν ερουμεν ο νομος αμαρτια μη γενοιτο αλλα την αμαρτιαν ουκ εγνων ει μη δια νομου την τε γαρ επιθυμιαν ουκ ηδειν ει μη ο νομος ελεγεν ουκ επιθυμησεις
 
 What shall we say then ? [Is] the law sin ? God forbid Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
+### 8
+αφορμην δε λαβουσα η αμαρτια δια της εντολης κατειργασατο εν εμοι πασαν επιθυμιαν χωρις γαρ νομου αμαρτια νεκρα
+
+But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin [was] dead.
+### 9
+εγω δε εζων χωρις νομου ποτε ελθουσης δε της εντολης η αμαρτια ανεζησεν εγω δε απεθανον
+
+For I was alive without the law once: but when the commandment came, sin revived, and I died.
 ### 23
 βλεπω δε ετερον νομον εν τοις μελεσιν μου αντιστρατευομενον τω νομω του νοος μου και αιχμαλωτιζοντα με τω νομω της αμαρτιας τω οντι εν τοις μελεσιν μου
 
@@ -162,6 +170,23 @@ The wife is bound by the law as long as her husband liveth; but if her husband b
 αλλ οτι α θυει τα εθνη δαιμονιοις θυει και ου θεω ου θελω δε υμας κοινωνους των δαιμονιων γινεσθαι
 
 But [I say], that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.
+## c11
+#### 22
+μη γαρ οικιας ουκ εχετε εις το εσθιειν και πινειν η της εκκλησιας του θεου καταφρονειτε και καταισχυνετε τους μη εχοντας τι υμιν ειπω επαινεσω υμας εν τουτω ουκ επαινω 
+
+What ? have ye not houses to eat and to drink in ? or despise ye the church of God, and shame them that have not ? What shall I say to you ? shall I praise you in this ? I praise [you] not.
+#### 23
+εγω γαρ παρελαβον απο του κυριου ο και παρεδωκα υμιν οτι ο κυριος ιησους εν τη νυκτι η παρεδιδοτο ελαβεν αρτον 
+
+For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the [same] night in which he was betrayed took bread:
+#### 24
+και ευχαριστησας εκλασεν και ειπεν λαβετε φαγετε τουτο μου εστιν το σωμα το υπερ υμων κλωμενον τουτο ποιειτε εις την εμην αναμνησιν
+
+And when he had given thanks, he brake [it], and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
+#### 25
+ωσαυτως και το ποτηριον μετα το δειπνησαι λεγων τουτο το ποτηριον η καινη διαθηκη εστιν εν τω εμω αιματι τουτο ποιειτε οσακις αν πινητε εις την εμην αναμνησιν
+
+After the same manner also [he took] the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink [it], in remembrance of me.
 ## c13
 ### 4
 η αγαπη μακροθυμει χρηστευεται η αγαπη ου ζηλοι η αγαπη ου περπερευεται ου φυσιουται

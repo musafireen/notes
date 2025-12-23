@@ -609,21 +609,145 @@ For even the Son of man came not to be ministered unto, but to minister, and to 
 
 27He is not the God of the dead, but the God of the living: ye therefore do greatly err.
 ## c13
+#### 1
+και εκπορευομενου αυτου εκ του ιερου λεγει αυτω εις των μαθητων αυτου διδασκαλε ιδε ποταποι λιθοι και ποταπαι οικοδομαι
+
+And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings [are here]!
+
+#### 2
+και ο ιησους αποκριθεις ειπεν αυτω βλεπεις ταυτας τας μεγαλας οικοδομας ου μη αφεθη λιθος επι λιθω ος ου μη καταλυθη
+
+And Jesus answering said unto him, Seest thou these great buildings ? there shall not be left one stone upon another, that shall not be thrown down.
+
+#### 3
+και καθημενου αυτου εις το ορος των ελαιων κατεναντι του ιερου επηρωτων αυτον κατ ιδιαν πετρος και ιακωβος και ιωαννης και ανδρεας
+
+And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,
+
+#### 4
+ειπε ημιν ποτε ταυτα εσται και τι το σημειον οταν μελλη παντα ταυτα συντελεισθαι
+
+Tell us, when shall these things be ? and what [shall be] the sign when all these things shall be fulfilled ?
+
+#### 5
+ο δε ιησους αποκριθεις αυτοις ηρξατο λεγειν βλεπετε μη τις υμας πλανηση
+
+And Jesus answering them began to say, Take heed lest any [man] deceive you:
+
+#### 6
+πολλοι γαρ ελευσονται επι τω ονοματι μου λεγοντες οτι εγω ειμι και πολλους πλανησουσιν
+
+For many shall come in my name, saying, I am [Christ]; and shall deceive many.
+
+#### 7
+οταν δε ακουσητε πολεμους και ακοας πολεμων μη θροεισθε δει γαρ γενεσθαι αλλ ουπω το τελος
+
+And when ye shall hear of wars and rumours of wars, be ye not troubled: for [such things] must needs be; but the end [shall] not [be] yet.
+
+#### 8
+εγερθησεται γαρ εθνος επι εθνος και βασιλεια επι βασιλειαν και εσονται σεισμοι κατα τοπους και εσονται λιμοι και ταραχαι αρχαι ωδινων ταυτα
+
+For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these [are] the beginnings of sorrows.
+
+n1 sorrows: the word in the original, importeth; the pains of a woman in travail
+
+#### 9
+βλεπετε δε υμεις εαυτους παραδωσουσιν γαρ υμας εις συνεδρια και εις συναγωγας δαρησεσθε και επι ηγεμονων και βασιλεων [σταθησεσθε] [αχθησεσθε] ενεκεν εμου εις μαρτυριον αυτοις
+
+But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.
+
+#### 10
+και εις παντα τα εθνη δει πρωτον κηρυχθηναι το ευαγγελιον
+
+And the gospel must first be published among all nations
+
+#### 11
+οταν δε αγαγωσιν υμας παραδιδοντες μη προμεριμνατε τι λαλησητε μηδε μελετατε αλλ ο εαν δοθη υμιν εν εκεινη τη ωρα τουτο λαλειτε ου γαρ εστε υμεις οι λαλουντες αλλα το πνευμα το αγιον.
+
+But when they shall lead [you], and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.
 ### 12
 παραδωσει δε αδελφος αδελφον εις θανατον και πατηρ τεκνον και επαναστησονται τεκνα επι γονεις και θανατωσουσιν αυτους
 
 Now the brother shall betray the brother to death, and the father the son; and children shall rise up against [their] parents, and shall cause them to be put to death.
 
+#### 13
+και εσεσθε μισουμενοι υπο παντων δια το ονομα μου ο δε υπομεινας εις τελος ουτος σωθησεται
+
+And ye shall be hated of all [men] for my name´s sake: but he that shall endure unto the end, the same shall be saved.
+
 ### 14
 οταν δε ιδητε το βδελυγμα της ερημωσεως το ρηθεν υπο δανιηλ του προφητου [εστος] [εστως] οπου ου δει ο αναγινωσκων νοειτω τοτε οι εν τη ιουδαια φευγετωσαν εις τα ορη
 
 But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand, ) then let them that be in Judaea flee to the mountains:
-
 ### 15
 ο δε επι του δωματος μη καταβατω εις την οικιαν μηδε εισελθετω αραι τι εκ της οικιας αυτου
 
 And let him that is on the housetop not go down into the house, neither enter [therein], to take any thing out of his house:
 
+#### 16
+και ο εις τον αγρον ων μη επιστρεψατω εις τα οπισω αραι το ιματιον αυτου
+
+And let him that is in the field not turn back again for to take up his garment.
+
+#### 17
+ουαι δε ταις εν γαστρι εχουσαις και ταις θηλαζουσαις εν εκειναις ταις ημεραις
+
+But woe to them that are with child, and to them that give suck in those days !
+
+#### 18
+προσευχεσθε δε ινα μη γενηται η φυγη υμων χειμωνος
+
+And pray ye that your flight be not in the winter.
+
+#### 19
+εσονται γαρ αι ημεραι εκειναι θλιψις οια ου γεγονεν τοιαυτη απ αρχης κτισεως ης εκτισεν ο θεος εως του νυν και ου μη γενηται
+
+For [in] those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.
+
+#### 20
+και ει μη κυριος εκολοβωσεν τας ημερας ουκ αν εσωθη πασα σαρξ αλλα δια τους εκλεκτους ους εξελεξατο εκολοβωσεν τας ημερας
+
+And except that the Lord had shortened those days, no flesh should be saved: but for the elect´s sake, whom he hath chosen, he hath shortened the days.
+
+#### 21
+και τοτε εαν τις υμιν ειπη ιδου ωδε ο χριστος η ιδου εκει μη πιστευσητε
+
+And then if any man shall say to you, Lo, here [is] Christ; or, lo, [he is] there; believe [him] not:
+
+#### 22
+εγερθησονται γαρ ψευδοχριστοι και ψευδοπροφηται και δωσουσιν σημεια και τερατα προς το αποπλαναν ει δυνατον και τους εκλεκτους
+
+For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if [it were] possible, even the elect.
+
+#### 24
+αλλ εν εκειναις ταις ημεραις μετα την θλιψιν εκεινην ο ηλιος σκοτισθησεται και η σεληνη ου δωσει το φεγγος αυτης
+
+But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,
+
+#### 25
+και οι αστερες του ουρανου εσονται εκπιπτοντες και αι δυναμεις αι εν τοις ουρανοις σαλευθησονται
+
+And the stars of heaven shall fall, and the powers that are in heaven shall be shaken.
+
+#### 26
+και τοτε οψονται τον υιον του ανθρωπου ερχομενον εν νεφελαις μετα δυναμεως πολλης και δοξης
+
+And then shall they see the Son of man coming in the clouds with great power and glory.
+
+#### 27
+και τοτε αποστελει τους αγγελους αυτου και επισυναξει τους εκλεκτους αυτου εκ των τεσσαρων ανεμων απ ακρου γης εως ακρου ουρανου
+
+And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.
+
+#### 28
+απο δε της συκης μαθετε την παραβολην οταν αυτης ηδη ο κλαδος απαλος γενηται και εκφυη τα φυλλα γινωσκετε οτι εγγυς το θερος εστιν
+
+Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:
+
+#### 29
+ουτως και υμεις οταν ταυτα ιδητε γινομενα γινωσκετε οτι εγγυς εστιν επι θυραις
+
+So ye in like manner, when ye shall see these things come to pass, know that it is nigh, [even] at the doors.
 ### 30
 αμην λεγω υμιν οτι ου μη παρελθη η γενεα αυτη μεχρις ου παντα ταυτα γενηται
 
@@ -636,12 +760,53 @@ Heaven and earth shall pass away: but my words shall not pass away.
 περι δε της ημερας εκεινης και της ωρας ουδεις οιδεν ουδε οι αγγελοι οι εν ουρανω ουδε ο υιος ει μη ο πατηρ
 
 But of that day and [that] hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
+
+#### 33
+βλεπετε αγρυπνειτε και προσευχεσθε ουκ οιδατε γαρ ποτε ο καιρος εστιν
+
+Take ye heed, watch and pray: for ye know not when the time is.
+
+#### 34
+ως ανθρωπος αποδημος αφεις την οικιαν αυτου και δους τοις δουλοις αυτου την εξουσιαν και εκαστω το εργον αυτου και τω θυρωρω ενετειλατο ινα γρηγορη
+
+[For the Son of man is] as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.
+
+#### 35
+γρηγορειτε ουν ουκ οιδατε γαρ ποτε ο κυριος της οικιας ερχεται οψε η μεσονυκτιου η αλεκτοροφωνιας η πρωι
+
+Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:
+
+#### 36
+μη ελθων εξαιφνης ευρη υμας καθευδοντας
+
+Lest coming suddenly he find you sleeping.
+
+#### 37
+α δε υμιν λεγω πασιν λεγω γρηγορειτε
+
+And what I say unto you I say unto all, Watch.
 ## c14
-### 47
+#### 12
+και τη πρωτη ημερα των αζυμων οτε το πασχα εθυον λεγουσιν αυτω οι μαθηται αυτου που θελεις απελθοντες ετοιμασωμεν ινα φαγης το πασχα
+
+And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt thou that we go and prepare that thou mayest eat the passover ?
+#### 22
+και εσθιοντων αυτων λαβων ο ιησους αρτον ευλογησας εκλασεν και εδωκεν αυτοις και ειπεν λαβετε φαγετε τουτο εστιν το σωμα μου 
+
+And as they did eat, Jesus took bread, and blessed, and brake [it], and gave to them, and said, Take, eat: this is my body. 
+#### 23
+και λαβων το ποτηριον ευχαριστησας εδωκεν αυτοις και επιον εξ αυτου παντες 
+
+And he took the cup, and when he had given thanks, he gave [it] to them: and they all drank of it. 
+#### 24
+και ειπεν αυτοις τουτο εστιν το αιμα μου το της καινης διαθηκης το περι πολλων εκχυνομενον
+
+And he said unto them, This is my blood of the new testament, which is shed for many. 
+#### 47
 εις δε τις των παρεστηκοτων σπασαμενος την μαχαιραν επαισεν τον δουλον του αρχιερεως και αφειλεν αυτου το ωτιον
 
 And one of them that stood by drew a sword, and smote a servant of the high priest, and cut off his ear.
-### 48
+#### 48
 και αποκριθεις ο ιησους ειπεν αυτοις ως επι ληστην εξηλθετε μετα μαχαιρων και ξυλων συλλαβειν με
 
 And Jesus answered and said unto them, Are ye come out, as against a thief, with swords and [with] staves to take me ?
@@ -1092,10 +1257,108 @@ And the second [is] like unto it Thou shalt love thy neighbour as thyself.
 
 On these two commandments hang all the law and the prophets.
 ## c24
-### 36
-περι δε της ημερας εκεινης και της ωρας ουδεις οιδεν ουδε οι αγγελοι των ουρανων ει μη ο πατηρ μου μονος
+#### 14
+και κηρυχθησεται τουτο το ευαγγελιον της βασιλειας εν ολη τη οικουμενη εις μαρτυριον πασιν τοις εθνεσιν και τοτε ηξει το τελος
 
-But of that day and hour knoweth no [man], no, not the angels of heaven, but my Father only.
+And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
+#### 15
+οταν ουν ιδητε το βδελυγμα της ερημωσεως το ρηθεν δια δανιηλ του προφητου [εστος] [εστως] εν τοπω αγιω ο αναγινωσκων νοειτω
+
+When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, whoso readeth, let him understand: )
+#### 20
+προσευχεσθε δε ινα μη γενηται η φυγη υμων χειμωνος μηδε εν σαββατω
+
+But pray ye that your flight be not in the winter, neither on the sabbath day:
+#### 24
+εγερθησονται γαρ ψευδοχριστοι και ψευδοπροφηται και δωσουσιν σημεια μεγαλα και τερατα ωστε πλανησαι ει δυνατον και τους εκλεκτους
+
+For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if [it were] possible, they shall deceive the very elect.
+#### 26
+εαν ουν ειπωσιν υμιν ιδου εν τη ερημω εστιν μη εξελθητε ιδου εν τοις ταμειοις μη πιστευσητε
+
+Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, [he is] in the secret chambers; believe [it] not.
+#### 27
+ωσπερ γαρ η αστραπη εξερχεται απο ανατολων και φαινεται εως δυσμων ουτως εσται και η παρουσια του υιου του ανθρωπου
+
+For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.
+#### 28
+οπου γαρ εαν η το πτωμα εκει συναχθησονται οι αετοι
+
+For wheresoever the carcase is, there will the eagles be gathered together.
+#### 29
+ευθεως δε μετα την θλιψιν των ημερων εκεινων ο ηλιος σκοτισθησεται και η σεληνη ου δωσει το φεγγος αυτης και οι αστερες πεσουνται απο του ουρανου και αι δυναμεις των ουρανων σαλευθησονται
+
+Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
+#### 30
+και τοτε φανησεται το σημειον του υιου του ανθρωπου εν τω ουρανω και τοτε κοψονται πασαι αι φυλαι της γης και οψονται τον υιον του ανθρωπου ερχομενον επι των νεφελων του ουρανου μετα δυναμεως και δοξης πολλης
+
+And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+#### 31
+και αποστελει τους αγγελους αυτου μετα σαλπιγγος φωνης μεγαλης και επισυναξουσιν τους εκλεκτους αυτου εκ των τεσσαρων ανεμων απ ακρων ουρανων εως ακρων αυτων
+
+And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
+#### 37
+ωσπερ δε αι ημεραι του νωε ουτως εσται και η παρουσια του υιου του ανθρωπου
+
+But as the days of Noe [were], so shall also the coming of the Son of man be.
+#### 38
+ωσπερ γαρ ησαν εν ταις ημεραις ταις προ του κατακλυσμου τρωγοντες και πινοντες γαμουντες και εκγαμιζοντες αχρι ης ημερας εισηλθεν νωε εις την κιβωτον
+
+For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,
+#### 39
+και ουκ εγνωσαν εως ηλθεν ο κατακλυσμος και ηρεν απαντας ουτως εσται και η παρουσια του υιου του ανθρωπου
+
+And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.
+#### 40
+τοτε δυο εσονται εν τω αγρω ο εις παραλαμβανεται και ο εις αφιεται
+
+Then shall two be in the field; the one shall be taken, and the other left.
+#### 41
+δυο αληθουσαι εν τω μυλωνι μια παραλαμβανεται και μια αφιεται
+
+Two [women shall be] grinding at the mill; the one shall be taken, and the other left.
+#### 42
+γρηγορειτε ουν οτι ουκ οιδατε ποια ωρα ο κυριος υμων ερχεται
+
+Watch therefore: for ye know not what hour your Lord doth come.
+#### 43
+εκεινο δε γινωσκετε [γινωσκετε] οτι ει ηδει ο οικοδεσποτης ποια φυλακη ο κλεπτης ερχεται εγρηγορησεν αν και ουκ αν ειασεν διορυγηναι την οικιαν αυτου
+
+But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.
+#### 44
+δια τουτο και υμεις γινεσθε ετοιμοι οτι η ωρα ου δοκειτε ο υιος του ανθρωπου ερχεται
+
+Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
+#### 45
+τις αρα εστιν ο πιστος δουλος και φρονιμος ον κατεστησεν ο κυριος αυτου επι της θεραπειας αυτου του διδοναι αυτοις την τροφην εν καιρω
+
+Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season ?
+#### 46
+μακαριος ο δουλος εκεινος ον ελθων ο κυριος αυτου ευρησει ποιουντα ουτως
+
+Blessed [is] that servant, whom his lord when he cometh shall find so doing.
+#### 47
+αμην λεγω υμιν οτι επι πασιν τοις υπαρχουσιν αυτου καταστησει αυτον
+
+Verily I say unto you, That he shall make him ruler over all his goods.
+#### 48
+εαν δε ειπη ο κακος δουλος εκεινος εν τη καρδια αυτου χρονιζει ο κυριος μου ελθειν
+
+But and if that evil servant shall say in his heart, My lord delayeth his coming;
+#### 49
+και αρξηται τυπτειν τους συνδουλους εσθιειν δε και πινειν μετα των μεθυοντων
+
+And shall begin to smite [his] fellowservants, and to eat and drink with the drunken;
+#### 50
+ηξει ο κυριος του δουλου εκεινου εν ημερα η ου προσδοκα και εν ωρα η ου γινωσκει
+
+The lord of that servant shall come in a day when he looketh not for [him], and in an hour that he is not aware of,
+#### 51
+και διχοτομησει αυτον και το μερος αυτου μετα των υποκριτων θησει εκει εσται ο κλαυθμος και ο βρυγμος των οδοντων
+
+And shall cut him asunder, and appoint [him] his portion with the hypocrites: there shall be weeping and gnashing of teeth.
+
+n1 cut…: or, cut him off
 ## c26
 #### 27
 και λαβων το ποτηριον και ευχαριστησας εδωκεν αυτοις λεγων πιετε εξ αυτου παντες
@@ -1528,31 +1791,95 @@ But they which shall be accounted worthy to obtain that world, and the resurrect
 
 Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.
 ## c21
-### 23
-ουαι δε ταις εν γαστρι εχουσαις και ταις θηλαζουσαις εν εκειναις ταις ημεραις εσται γαρ αναγκη μεγαλη επι της γης και οργη εν τω λαω τουτω
+#### 5
+και τινων λεγοντων περι του ιερου οτι λιθοις καλοις και αναθημασιν κεκοσμηται ειπεν
 
-But woe unto them that are with child and to them that give suck, in those days ! for there shall be great distress in the land, and wrath upon this people.
+And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,
+#### 6
+ταυτα α θεωρειτε ελευσονται ημεραι εν αις ουκ αφεθησεται λιθος επι λιθω ος ου καταλυθησεται
+
+[As for] these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.
+#### 11
+σεισμοι τε μεγαλοι κατα τοπους και λιμοι και λοιμοι εσονται φοβητρα τε και σημεια απ ουρανου μεγαλα εσται
+
+And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.
+#### 12
+προ δε τουτων απαντων επιβαλουσιν εφ υμας τας χειρας αυτων και διωξουσιν παραδιδοντες εις συναγωγας και φυλακας αγομενους επι βασιλεις και ηγεμονας ενεκεν του ονοματος μου
+
+But before all these, they shall lay their hands on you, and persecute [you], delivering [you] up to the synagogues, and into prisons, being brought before kings and rulers for my name´s sake.
+#### 13
+αποβησεται δε υμιν εις μαρτυριον
+
+And it shall turn to you for a testimony.
+#### 14
+θεσθε ουν εις τας καρδιας υμων μη προμελεταν απολογηθηναι
+
+Settle [it] therefore in your hearts, not to meditate before what ye shall answer:
+#### 15
+εγω γαρ δωσω υμιν στομα και σοφιαν η ου δυνησονται αντειπειν ουδε αντιστηναι παντες οι αντικειμενοι υμιν
+
+For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
+#### 18
+και θριξ εκ της κεφαλης υμων ου μη αποληται
+
+But there shall not an hair of your head perish.
+#### 20
+οταν δε ιδητε κυκλουμενην υπο στρατοπεδων την ιερουσαλημ τοτε γνωτε οτι ηγγικεν η ερημωσις αυτης
+
+And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.
 ### 24
 και πεσουνται στοματι μαχαιρας και αιχμαλωτισθησονται εις παντα τα εθνη και ιερουσαλημ εσται πατουμενη υπο εθνων αχρι πληρωθωσιν καιροι εθνων
 
 And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.
-### 31
-ουτως και υμεις οταν ιδητε ταυτα γινομενα γινωσκετε οτι εγγυς εστιν η βασιλεια του θεου
-
-So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.
-### 32
-αμην λεγω υμιν οτι ου μη παρελθη η γενεα αυτη εως αν παντα γενηται
-
-Verily I say unto you, This generation shall not pass away, till all be fulfilled.
-### 33
-ο ουρανος και η γη παρελευσονται οι δε λογοι μου ου μη παρελθωσιν
-
-Heaven and earth shall pass away: but my words shall not pass away.
 ### 36
 αγρυπνειτε ουν εν παντι καιρω δεομενοι ινα καταξιωθητε εκφυγειν ταυτα παντα τα μελλοντα γινεσθαι και σταθηναι εμπροσθεν του υιου του ανθρωπου
 
 Watch ye therefore, and pray always that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
+#### 37
+ην δε τας ημερας εν τω ιερω διδασκων τας δε νυκτας εξερχομενος ηυλιζετο εις το ορος το καλουμενον ελαιων
+
+And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called [the mount] of Olives.
 ## c22
+#### 7
+ηλθεν δε η ημερα των αζυμων εν η εδει θυεσθαι το πασχα 
+
+Then came the day of unleavened bread, when the passover must be killed. 
+#### 8
+και απεστειλεν πετρον και ιωαννην ειπων πορευθεντες ετοιμασατε ημιν το πασχα ινα φαγωμεν 
+
+And he sent Peter and John, saying, Go and prepare us the passover, that we may eat. 
+#### 9
+οι δε ειπον αυτω που θελεις ετοιμασωμεν 
+
+And they said unto him, Where wilt thou that we prepare ? 
+#### 10
+ο δε ειπεν αυτοις ιδου εισελθοντων υμων εις την πολιν συναντησει υμιν ανθρωπος κεραμιον υδατος βασταζων ακολουθησατε αυτω εις την οικιαν ου εισπορευεται 
+
+And he said unto them, Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in. 
+#### 11
+και ερειτε τω οικοδεσποτη της οικιας λεγει σοι ο διδασκαλος που εστιν το καταλυμα οπου το πασχα μετα των μαθητων μου φαγω 
+
+And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples ? 
+#### 12
+κακεινος υμιν δειξει ανωγεον μεγα εστρωμενον εκει ετοιμασατε 
+
+And he shall shew you a large upper room furnished: there make ready. 
+#### 13
+απελθοντες δε ευρον καθως ειρηκεν αυτοις και ητοιμασαν το πασχα 
+
+And they went, and found as he had said unto them: and they made ready the passover. 
+#### 14
+και οτε εγενετο η ωρα ανεπεσεν και οι δωδεκα αποστολοι συν αυτω 
+
+And when the hour was come, he sat down, and the twelve apostles with him. 
+#### 15
+και ειπεν προς αυτους επιθυμια επεθυμησα τουτο το πασχα φαγειν μεθ υμων προ του με παθειν 
+
+And he said unto them, With desire I have desired to eat this passover with you before I suffer:
+#### 19
+και λαβων αρτον ευχαριστησας εκλασεν και εδωκεν αυτοις λεγων τουτο εστιν το σωμα μου το υπερ υμων διδομενον τουτο ποιειτε εις την εμην αναμνησιν 
+
+And he took bread, and gave thanks, and brake [it], and gave unto them, saying, This is my body which is given for you: this do in remembrance of me. 
 #### 20
 ωσαυτως και το ποτηριον μετα το δειπνησαι λεγων τουτο το ποτηριον η καινη διαθηκη εν τω αιματι μου το υπερ υμων εκχυνομενον
 
@@ -1600,6 +1927,59 @@ Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art 
 και λεγει αυτω αμην αμην λεγω υμιν απ αρτι οψεσθε τον ουρανον ανεωγοτα και τους αγγελους του θεου αναβαινοντας και καταβαινοντας επι τον υιον του ανθρωπου
 
 And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.
+## c6
+#### 11
+ελαβεν δε τους αρτους ο ιησους και ευχαριστησας διεδωκεν τοις μαθηταις οι δε μαθηται τοις ανακειμενοις ομοιως και εκ των οψαριων οσον ηθελον 
+
+And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would. 
+#### 30
+ειπον ουν αυτω τι ουν ποιεις συ σημειον ινα ιδωμεν και πιστευσωμεν σοι τι εργαζη 
+
+They said therefore unto him, What sign shewest thou then, that we may see, and believe thee ? what dost thou work ?
+#### 31
+οι πατερες ημων το μαννα εφαγον εν τη ερημω καθως εστιν γεγραμμενον αρτον εκ του ουρανου εδωκεν αυτοις φαγειν
+
+Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat.
+#### 32
+ειπεν ουν αυτοις ο ιησους αμην αμην λεγω υμιν ου μωσης δεδωκεν υμιν τον αρτον εκ του ουρανου αλλ ο πατηρ μου διδωσιν υμιν τον αρτον εκ του ουρανου τον αληθινον 
+
+Then Jesus said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven. 
+#### 33
+ο γαρ αρτος του θεου εστιν ο καταβαινων εκ του ουρανου και ζωην διδους τω κοσμω 
+
+For the bread of God is he which cometh down from heaven, and giveth life unto the world. 
+#### 34
+ειπον ουν προς αυτον κυριε παντοτε δος ημιν τον αρτον τουτον 
+
+Then said they unto him, Lord, evermore give us this bread. 
+#### 35
+ειπεν δε αυτοις ο ιησους εγω ειμι ο αρτος της ζωης ο ερχομενος προς με ου μη πειναση και ο πιστευων εις εμε ου μη διψηση πωποτε
+
+And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst. 
+#### 53
+ειπεν ουν αυτοις ο ιησους αμην αμην λεγω υμιν εαν μη φαγητε την σαρκα του υιου του ανθρωπου και πιητε αυτου το αιμα ουκ εχετε ζωην εν εαυτοις 
+
+Then Jesus said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you. 
+#### 54
+ο τρωγων μου την σαρκα και πινων μου το αιμα εχει ζωην αιωνιον και εγω αναστησω αυτον τη εσχατη ημερα to 
+
+Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day. 
+#### 55
+η γαρ σαρξ μου αληθως εστιν βρωσις και το αιμα μου αληθως εστιν ποσις 
+
+For my flesh is meat indeed, and my blood is drink indeed. 
+#### 56
+ο τρωγων μου την σαρκα και πινων μου το αιμα εν εμοι μενει καγω εν αυτω 
+
+He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him. 
+#### 57
+καθως απεστειλεν με ο ζων πατηρ καγω ζω δια τον πατερα και ο τρωγων με κακεινος ζησεται δι εμε 
+
+As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me. 
+#### 58
+ουτος εστιν ο αρτος ο εκ του ουρανου καταβας ου καθως εφαγον οι πατερες υμων το μαννα και απεθανον ο τρωγων τουτον τον αρτον ζησεται εις τον αιωνα
+
+This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever. 
 ## c8
 #### 1
 ιησους δε επορευθη εις το ορος των ελαιων

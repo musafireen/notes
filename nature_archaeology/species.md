@@ -297,27 +297,37 @@ amellus: michaelmas daisy (superasterid, asterid clade)
 annuum: american sunflower
 ### santalum
 album: sandal, candan (santalales order)
-### Dianthus 
+### (Dianthus) caryopyllus
 Caryophyllus: clove pink (caryophyllales)
 #### Amaranthus 
 viridis: odia shak, amaranth, নটে শাক; 
-dubius: lal shak; 
+dubius: lal shak, লাল শাক ; 
 spinosus: spiny pigweed, কাঁটা‌নটে শাক;  
 (amaranthaceae)
 ##### Spinacia
-oleracea: spinach
+oleracea: spinach, পালং
 ##### Beta 
-vulgaris: beet, mangelwurzel
+vulgaris: beet, mangelwurzel, 
+#### portulaca
+oleracea: pursley, little hogweed, common purslane, নুনিয়া শাক
 #### (Cactus) Mammillaria 
 mammillaris: cactus (cactinae, cacteae, cactoideae, cactaceae)
 ### Solanum
-nigrum: europe nightshade;  lycopersicum: andes tomato; incanum: wild eggplant (solanales, solanaceae)
+nigrum: europe nightshade;  
+lycopersicum: andes tomato; 
+incanum: wild eggplant (solanales, solanaceae)
+melongena  : eggplant, brinjal, aubergine, বেগুন 
 #### Datura
-metel: metel, devil's trumpet, datura (dhatura)
+metel: metel, devil's trumpet, datura, ধুতুরা 
 #### Capsicum 
 annuum: mexico chilli pepper, লঙ্কা মরিচ; 
 chinense: habanero pepper, নাগা মরিচ 
 (capsiceae)
+### Convolvulus
+arvensis : field bindweed, 
+#### Ipomea
+aquatica : water spinach, কলমী শাক; 
+batatas : sweet potato, মিষ্টি আলু
 ### Lamium
 purpureum: red nettle (Lamiales, lamiaceae)
 #### Olea
@@ -349,15 +359,15 @@ majorana: marjoram,
 ### Erica
 : heaths (Ericales order)
 #### Sapota 
-kauki: caqui, manilkarna (sapotaceae family)
+kauki: caqui, মণিকর্ণ (sapotaceae family)
 ##### Mimusops 
 elengi: bakula
 ##### Madhuka
-longifolia: mahua (santal drink)
+longifolia: মহুয়া (santal drink)
 #### Lecythis
 ollaria: venezuelan coco de mono (lecythidaceae)
 ##### Barringtonia 
-actuangula: hijol
+actuangula: হিজল
 #### Diospyros
 (Ebenus) cordifolia: tamala; ebenum: ceylon ebony /ablus (Ebeneceae)
 #### Styrax
@@ -365,17 +375,21 @@ benzoin: luban jawi
 ### Apium 
 graveolens: celery (apiales, apiaceae, apioideae)
 #### Daucus 
-carota: carrot (gajor)
+carota: carrot, গাজর
 #### Cuminum 
-cyminum: cumin (jira)
+cyminum: cumin, জিরা
 #### Anethum
-graveolens: cairo dill (śulpha)
+graveolens: cairo dill, শুল্ফ
 #### Foeniculum 
-vulgare: lebanon absinthe fennel (mouri)
+vulgare: lebanon absinthe fennel, মৌরী
 #### Ferula 
-communis: lebanon giant fennel; gummosa: iran barijeh galbanum giant fennel; assa-foetida: kashmir hing (ingu) stinking gum badian
+communis: lebanon giant fennel; 
+gummosa: iran barijeh galbanum giant fennel; 
+assa-foetida: kashmir hing (ingu) stinking gum badian , হিং
 #### Pimpinella 
-anisum: cairo anise (mouri?)
+anisum: cairo anise , মৌরী
+#### Coriandrum
+sativum : coriander, cilantro , ধনে পাতা
 #### Petroselinum 
 crispum: greek parsley
 #### Aralia
@@ -428,10 +442,23 @@ cathartica: tunis? buckthorn (Rhamnaceae)
 jujuba: xinjiang chinese red date /plum; mauritania: indian plum /jujube কুল বরই; lotus: libya lote; lebanon spina-christi: christ's thorn jujube
 ### Cucurbita 
 pepo: pumpkin; squash (cucurbitales, cucurbitaceae)
+#### Benincasa
+hispida: wax gourd, চাল/জালি কুমড়া 
+##### Lagenaria
+siceraria: লাউ, bottle gourd calabash
+##### Momordica
+charantia: bitter gourd, করল্লা
+diooca: spiny gourd, কাকরোল
+#### Sicyos
+angulata : Quebec star cucumber
+##### Trichosanthes
+dioica : pointed gourd , পটল 
+cucumerina : serpent gourd, ধুন্দুল, চিচঙ্গা, 
 #### Cucumis
-sativus: sindh cucumber, melo: bangi /kharmuj, cantaloupe
+sativus: sindh cucumber, শসা
+melo: cantaloupe, বাঙ্গি, খরমুজ
 #### Citrullus 
-colocynthus: watermelon
+colocynthus: watermelon, তরমুজ
 ### Fagus
 : beech (fagales order)
 #### Quercus
@@ -518,9 +545,11 @@ armata
 aspera: (shola)
 #### Detarium 
 senegalense: tallow-tree (detarioideae)
-### Malva; 
+### Malva
 sylvestris: mallow; 
 parviflora: dinajpuri napa shak cheeseweed (Malvales, malvaceae)
+#### Corchorus
+olitorius : jew's mallow , নালি শাক 
 #### Bombax 
 ceiba: red cotton, শিমুল
 #### Heritiera
@@ -561,7 +590,7 @@ abyssinica: ,
 ##### Melia 
 azedarach: balti lilac white cedar chinaberry (Meliaceae)
 ###### Azadirachta 
-indica: neem
+indica: neem , নীম 
 ###### Swietenia
 mahogany: jessore cuba mahogany
 #### Thymelaea 
@@ -616,7 +645,7 @@ gesneriana: tulip
 maculatum: cuckoopoint, jack-in-the-pulpit, 
 : [areae tribe, araceae family]
 #### Colocasia
-esculenta: taro, কচু
+esculenta: taro, কচু, মুখী
 #### amorphophallus
 paeoniifolius: elephant foot yam, ওলকচু
 #### Caladium

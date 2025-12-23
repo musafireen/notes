@@ -93,7 +93,7 @@ hanifa-kufa-balkh, malik-madina, shafi'i-ghaza-makka-fustat, hanbal-basra-harran
 ## 'awālim
 nāsūt, malakūt, jabarūt, lāhūt, hāhūt 
 ## manāzil
-śarī'ah, ṭarīqah, ḥaqīqah, ma'arifah 
+śarī'ah, ṭarīqah, ma'arifah, ḥaqīqah
 ## tan /aḥwāl
 laṭīf, kasif, fanī, baqā' 
 ## dil
@@ -237,6 +237,12 @@ prāṇa, apāna, udāna, samāna, vyāna ()
 āmra, udumbara, bakula, kaṇṭakaphala, pākuḍa,
 
 āmra, vaṭa, bakula/jambu, kaṇṭakaphala, aśvatha, 
+## bhūtasthala
+cidambaram tillai naṭarāja (ākāśa),
+śrīkalahasti (vàyu), 
+tiruvaṇṇamālai aruṇācala (agni),
+tiruvanaikaval jambukeśvaram (jala),
+kāñci ekamban ekāmbaranātha / kedaranātha (pṛthvī), 
 ## waqt
 fajr, zuhr, 'aṣr, maghrib, 'iśā 
 ## kāla

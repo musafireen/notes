@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.evngl.md",
+                "file": "Ref/bbl.tor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bbl.evngl"
+              "title": "bbl.tor"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/RV.md",
+                "file": "Ref/VS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RV"
+              "title": "VS"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/majuj/ajaj.md",
+                "file": "002_quran/ahl_kitab/nasara/Eid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ajaj"
+              "title": "Eid"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bbl.paul.md",
+                "file": "Ref/VjBhrvT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bbl.paul"
+              "title": "VjBhrvT"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/Rum/kahf/kahf.md",
+                "file": "Ref/epct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kahf"
+              "title": "epct"
             }
           },
           {
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -266,11 +266,11 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "002_quran/dhiyarah/Abu.md",
+            "file": "002_quran/ahl_kitab/nasara/ma'idah.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
+            "showSearch": true,
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
@@ -285,6 +285,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "002_quran/ahl_kitab/nasara/ma'idah.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -298,7 +299,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/hdt.hist.md",
+            "file": "Ref/VS.md",
             "followCursor": false,
             "showSearch": true,
             "searchQuery": ""
@@ -317,45 +318,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "077d1f48d2c132c4",
+  "active": "bf5c8f18a2fae296",
   "lastOpenFiles": [
-    "Ref/RV.md",
-    "Ref/MB.md",
-    "Ref/gt.DS.md",
-    "002_quran/anbiya/idris/enoch.md",
+    "Ref/TS.md",
+    "Ref/BP.md",
+    "002_quran/ahl_kitab/nasara/Eid.md",
+    "002_quran/ahl_kitab/nasara/ma'idah.md",
+    "Ref/VjBhrvT.md",
     "Ref/bbl.tor.md",
-    "002_quran/anbiya/ins/enos.md",
-    "002_quran/anbiya/ins/ins.md",
+    "Ref/bbl.evngl.md",
+    "002_quran/shahadat/martyr/martyrdom.md",
+    "000_temp/temp.md",
+    "002_quran/shahadat/shahad.md",
+    "002_quran/shahadat/martyr",
+    "Ref/bbl.paul.md",
+    "002_quran/islam/Iman/Iman.md",
+    "002_quran/islam/Iman/arguments/pascal's wager.md",
+    "Ref/bbl.acts.md",
+    "002_quran/islam/Iman/arguments",
+    "002_quran/shahadat/shahadat_ula.md",
+    "Ref/CaitCaritAmrt.md",
+    "Ref/IU.md",
+    "Ref/RV.md",
+    "002_quran/ahl_kitab/kitab_ahl.md",
+    "Ref/Qrsi.md",
+    "002_quran/ahl_kitab/nasara/eucharist.md",
+    "002_quran/majuj/ajaj.md",
+    "002_quran/ahl_kitab/nasara",
+    "002_quran/a'jamī/babil/furat/ard/firash/lemuria.md",
+    "Ref/SkP.md",
+    "002_quran/adad/Samkhya_kabbala_ghuli.md",
+    "002_quran/a'jamī/babil/furat/ard/ard.md",
+    "002_quran/a'jamī/babil/furat/ard/firash",
     "002_quran/anbiya/ins",
-    "002_quran/anbiya/idris/idris.md",
-    "002_quran/anbiya/salih/salih.md",
-    "001_eskaton/001_chhatak/slot/osmani/nazrul/Nietzsche/Philosophy/Logic/nationalist_universalist_cults_religions.md",
-    "002_quran/anbiya/idris/metatron.md",
     "002_quran/anbiya/tubba",
-    "002_quran/anbiya/shuaib/aykah.md",
     "002_quran/anbiya/salih",
     "002_quran/anbiya/shuaib",
     "002_quran/anbiya/hud",
     "002_quran/anbiya/ayyub",
-    "002_quran/anbiya/harun",
-    "002_quran/anbiya/talut",
-    "002_quran/anbiya/lut",
-    "002_quran/anbiya/luqman",
-    "002_quran/jinn/malak/archon.md",
-    "Ref/bbl.paul.md",
-    "002_quran/jinn/malak/malik.md",
-    "002_quran/jinn/malak/malak.md",
-    "002_quran/sihr/asa/wand.md",
-    "002_quran/tin/golem.md",
-    "002_quran/adad/Samkhya_kabbala_ghuli.md",
-    "002_quran/sihr/Babylon_nisibis_thebes_sais/Food philosophy.md",
-    "boomerang/anti_minority_propadna.md",
-    "boomerang/memes.md",
     "boomerang/naik_vas.png",
-    "boomerang/naik.jpg",
-    "Ref/pgm.md",
-    "Ref/Untitled.md",
-    "002_quran/sihr/asa/asa.md",
-    "002_quran/sihr/magic.md"
+    "boomerang/naik.jpg"
   ]
 }

@@ -277,10 +277,35 @@ O Purusha! The goddesses Hri (modesty) and Sri (Lakshmi, wealth) are Your consor
 मा मा हिꣳसीद् इत्य् एषा ।
 यस्मान् न जात ऽ इत्य् एष ॥
 # p34
-### 5
-यस्मिन्नृचः साम यजूःषि यस्मिन् प्रतिष्ठिता रथनाभाविवाराः। यस्मिँश्चित्तं सर्वमोतं प्रजानां तन्मे मनः शिवस‌ङ्कल्पमस्तु ॥॥
+??? siva sankalpa sutra śiva saṃkalpa shiva 
+### 1
+यज्जाग्रतौ दूरमुदैति दैवं  तदु 
 
-Bhavarth: Wherein the Richas, Samas, Yajur-verses and the Atharva veda, like spokes within a cart's nave, are includ and all the knowledge of human beings is inwoven, may that, my mind, be actuated with the noble resolve of propagating the Vedas.
+That which rises far away in waking is divine. 
+
+सुप्तस्य  तथैवैति 
+
+The same is true of the sleeping. 
+
+दूरंगमं ज्योतिषां ज्योतिरेकं 
+
+The one light of the lights that goes far, 
+
+तन्मे मनः शिवसंकल्पमस्तु  
+
+may my that mind be of Shiva resolution. 
+### 5
+यस्मिन्नृचः साम यजूःषि यस्मिन् प्रतिष्ठिता रथनाभाविवाराः। 
+
+Wherein the Richas, Samas, Yajur-verses and the Atharva veda, like spokes within a cart's nave, are included 
+
+यस्मिँश्चित्तं सर्वमोतं प्रजानां 
+
+and all the knowledge of human beings is inwoven, 
+
+तन्मे मनः शिवस‌ङ्कल्पमस्तु ॥॥
+
+may that, my mind, be actuated with the (śiva) noble resolve of propagating the Vedas.
 # p37
 ### 3
 देवी द्यावापृथिवी मखस्य वामद्य शिरो राध्यासं देवयजने पृथिव्याः। मखाय त्वा मखस्य त्वा शीर्ष्णे ॥॥

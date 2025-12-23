@@ -1,3 +1,6 @@
+
+https://vedabase.io/en/library/sb/
+
 https://prabhupadabooks.com/sb/3/24/20
 
 https://www.sanskrit-trikashaivism.com/en/srimad-bhagavata-purana-introduction/636
@@ -126,7 +129,7 @@ They are just like furious serpents, and they are angrily torn apart by the bill
 ०३२४०४७१ इच्छाद्वेषविहीनेन सर्वत्र समचेतसा
 ०३२४०४७२ भगवद्भक्तियुक्तेन प्राप्ता भागवती गतिः
 # p4
-4.2-4.7 siva pasupata
+4.2-4.7 siva pasupata ????
 ## c2
 #### 14
 प्रेतावासेषु घोरेषु प्रेतैर्भूतगणैर्वृतः ।
@@ -253,3 +256,44 @@ The brothers who were elder than Madhucchandas did not approve of it (the order 
 पशून् द्रुह्यन्ति विश्रब्धाः प्रेत्य खादन्ति ते च तान् ॥ १४ ॥
 
 Those who have no knowledge of these facts and most unholy presumptuously consider themselves saintly, harm innocently trusting animals. After they have left their bodies those animals will eat them
+# p12
+https://vedabase.io/en/library/sb/12/7/8/
+## c7
+8-11 Purana definition ???
+https://youtu.be/W6t4tjVrh3M?t=125
+#### 8
+पुराणलक्षणं ब्रह्मन् ब्रह्मर्षिभिर्निरूपितम् ।
+श‍ृणुष्व बुद्धिमाश्रित्य वेदशास्त्रानुसारत: ॥ ८ ॥
+
+O Śaunaka, please hear with attention the characteristics of a Purāṇa, which have been defined by the most eminent learned brāhmaṇas in accordance with Vedic literature.
+#### 9
+सर्गोऽस्याथ विसर्गश्च वृत्तिरक्षान्तराणि च ।
+वंशो वंशानुचरितं संस्था हेतुरपाश्रय: ॥ ९ ॥
+
+O brāhmaṇa, authorities on the matter understand a Purāṇa to contain ten characteristic topics: the creation of this universe, the subsequent creation of worlds and beings, the maintenance of all living beings, their sustenance, the rule of various Manus, the dynasties of great kings, the activities of such kings, annihilation, motivation and the supreme shelter. Other scholars state that the great Purāṇas deal with these ten topics, while lesser Purāṇas may deal with five.
+#### 10
+दशभिर्लक्षणैर्युक्तं पुराणं तद्विदो विदु: ।
+केचित् पञ्चविधं ब्रह्मन् महदल्पव्यवस्थया ॥ १० ॥
+
+#### 11
+अव्याकृतगुणक्षोभान्महतत्रिस्त्रवृतोऽहम: ।
+भूतसूक्ष्मेन्द्रियार्थानां सम्भव: सर्ग उच्यते ॥ ११ ॥
+
+From the agitation of the original modes within the unmanifest material nature, the mahat-tattva arises. From the mahat-tattva comes the element false ego, which divides into three aspects. This threefold false ego further manifests as the subtle forms of perception, as the senses and as the gross sense objects. The generation of all these is called creation.
+
+???? 22-24 18 major puranas list
+#### 22
+एवंलक्षणलक्ष्याणि पुराणानि पुराविद: ।
+मुनयोऽष्टादश प्राहु: क्षुल्लकानि महान्ति च ॥ २२ ॥
+
+Sages expert in ancient histories have declared that the Purāṇas, according to their various characteristics, can be divided into eighteen major Purāṇas and eighteen secondary Purāṇas.
+#### 23
+ब्राह्मं पाद्मं वैष्णवं च शैवं लैङ्गं सगारुडं ।
+नारदीयं भागवतमाग्नेयं स्कान्दसंज्ञितम् ॥ २३ ॥
+
+Brahma, Padma, Viṣṇu, Śiva, Liṅga, Garuḍa, Nārada, Bhāgavata, Agni, Skanda, 
+#### 24
+भविष्यं ब्रह्मवैवर्तं मार्कण्डेयं सवामनम् ।
+वाराहं मात्स्यं कौर्मं च ब्रह्माण्डाख्यमिति त्रिषट् ॥ २४ ॥
+
+Bhaviṣya, Brahma-vaivarta, Mārkaṇḍeya, Vāmana, Varāha, Matsya, Kūrma and Brahmāṇḍa Purāṇas are the eighteen major Purāṇas. 

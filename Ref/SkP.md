@@ -5,9 +5,32 @@ https://www.wisdomlib.org/hinduism/book/skanda-purana-sanskrit
 
 https://www.wisdomlib.org/hinduism/book/the-skanda-purana
 
+# māheśvara
 # k1
-## u4
-### c19
+## kaumārika
+## c2
+### s37
+##### 1
+श्रीनारद उवाच ।
+
+बर्बरीतीर्थमाहात्म्यमथो वक्ष्यामि तेऽर्जुन ।
+
+1-2. O Arjuna, I shall describe to you the greatness of Barbarī Tīrtha, 
+
+यथा बर्बरिका जाता शतश्रृंगा नृपात्मजा ॥ १ ॥
+
+how the princess Śataśṛṅgā well-known as Kumārikā became Barbarikā (i.e. a she-goat). 
+##### 2
+कुमारिकेति विख्याता तस्या नाम्ना प्रकथ्यते ।
+
+It is after her name that this Khaṇḍa (Section) is called Kaumārikā-Khaṇḍa. 
+
+इदं कौमारिकाखंडं चतुर्वर्गफलप्रदम् ॥ २ ॥
+
+It yields the four-fold aim of life.
+## aruṇācala uttara
+## c4
+### s19
 ##### 52
 उक्त्वा मायालुलायस्य दुर्जयत्वं दुरात्मनः ।
 देवी तां तुष्टुवुर्दुर्गामेवं सप्तापि मातरः ॥ ५२ ॥
@@ -29,7 +52,9 @@ If you had not been born as Kauśikī bringing about the death of Śuṃbha and 
 
 O Vindhyavāsinī (‘Resident of Vindhya’), what fruitful penance has been performed by Vindhya where a friendship with you can be acquired even by the Kirātīs (‘huntresses’)!
 [[RV#b10#10.125]]
-# a5
+# āvanti
+# k5
+## caturaśitiiṅga
 ## c2
 ### s82
 https://www.wisdomlib.org/hinduism/book/the-skanda-purana/d/doc425726.html
@@ -208,7 +233,8 @@ Thus is the origin of Bhṛgukaccha.
 स्वमूर्ति तत्र मुक्त्वा तु ब्रह्मलोकं जगाम ह ॥ ५९ ॥
 
 When the Lord vanished, the excellent Brāhmaṇa Bhṛgu left his Mūrti (idol) there itself and went to Brahmaloka.
-# b7
+# prabhāsa
+# k7
 ## c1
 ### s2
 #### 90-93

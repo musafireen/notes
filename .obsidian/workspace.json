@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/anbiya/adam/ins/Ans.md",
+                "file": "Ref/VS.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ins",
+                "query": "VS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_quran/anbiya/adam/ins/Ans.md",
+                "file": "Ref/VS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_quran/anbiya/adam/ins/Ans.md",
+                "file": "Ref/VS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002_quran/anbiya/adam/ins/Ans.md"
+                "file": "Ref/VS.md"
               }
             }
           }
@@ -205,11 +206,11 @@
   },
   "active": "9933e842181072f7",
   "lastOpenFiles": [
+    "002_quran/anbiya/adam/ins/Ans.md",
     "002_quran/anbiya/adam/ins/ins.md",
     "002_quran/jinn/malak/archon.md",
     "002_quran/anbiya/ins/ins.md",
     "002_quran/anbiya/adam/ins/enos.md",
-    "002_quran/anbiya/adam/ins/Ans.md",
     "002_quran/anbiya/adam/ins",
     "002_quran/anbiya/ins/Ans.md",
     "002_quran/kfr/znn_zEm_fry_kdhb.md",

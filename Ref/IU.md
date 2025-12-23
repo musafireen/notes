@@ -1,4 +1,6 @@
 
+https://vedabase.io/en/library/iso/
+
 https://www.wisdomlib.org/hinduism/book/ishavasya-bhashya-by-sitarama/
 
 # 1.1

@@ -1359,7 +1359,7 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830252
 #### 12
 तद्वां॑ नरा स॒नये॒ दंस॑ उ॒ग्रमा॒विष्कृ॑णोमि तन्य॒तुर्न वृ॒ष्टिम् । द॒ध्यङ्ह॒ यन्मध्वा॑थर्व॒णो वा॒मश्व॑स्य शी॒र्ष्णा प्र यदी॑मु॒वाच॑ ॥
 
-“I proclaim, leadeers (of sacriifce), for the skae of acquiring wealth, that inimitable deed which you performed, as the thunder (announces) rain, when provided by you with the head of a horse. Dadhyañc, the son of Atharvan, taught you the mystic science.”
+I proclaim, leaders (of sacriifce), for the sake of acquiring wealth, that inimitable deed which you performed, as the thunder (announces) rain, when provided by you with the head of a horse, Dadhyañc, the son of Atharvan, taught you the mystic science.
 ## 1.117
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830278.html
 #### 3

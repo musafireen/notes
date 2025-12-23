@@ -17,10 +17,14 @@
 ![[Qrsi#2:57]]
 
 ## baql
+![[species#portulaca]]
 ## qiththa
+![[species#cucumis]]
 ## fum
+![[species#Allium]]
 ## adas
+![[species#Vicia_(faba)]]
 ## basl
-
+![[species#Allium]]
 ### Q:2:61
 ![[Qrsi#2:61]]

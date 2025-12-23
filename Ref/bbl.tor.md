@@ -1378,6 +1378,10 @@ And I am come down to deliver them out of the hand of the Egyptians, and to brin
 και ειπεν ο θεος προς μωυσην εγω ειμι ο ων και ειπεν ουτως ερεις τοις υιοις ισραηλ ο ων απεσταλκεν με προς υμας
 
 And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.
+#### 15
+וַיֹּאמֶר עוֺד אֱלֹהִים אֶל-מֹשֶׁה כֹּה-תֹאמַר אֶל-בְּנֵי יִשְׂרָאֵל יְהוָה אֱלֹהֵי אֲבֹתֵיכֶם אֱלֹהֵי אַבְרָהָם אֱלֹהֵי יִצְחָק וֵאלֹהֵי יַעֲקֹב שְׁלָחַנִי אֲלֵיכֶם זֶה-שְּׁמִי לְעֹלָם וְזֶה זִכְרִי לְדֹר דֹּר
+
+And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this [is] my name for ever, and this [is] my memorial unto all generations.
 #### 17
 וָאֹמַר אַעֲלֶה אֶתְכֶם מֵעֳנִי מִצְרַיִם אֶל-אֶרֶץ הַכְּנַעֲנִי וְהַחִתִּי וְהָאֱמֹרִי וְהַפְּרִזִּי וְהַחִוִּי וְהַיְבוּסִי אֶל-אֶרֶץ זָבַת חָלָב וּדְבָשׁ	1x
 
@@ -1442,12 +1446,26 @@ And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the
 
 Else, if thou wilt not let my people go, behold, I will send swarms [of flies] upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms [of flies], and also the ground whereon they [are].
 ## c9
+#### 13
+וַיֹּ֤אמֶר יְהוָה֙ אֶל־מֹשֶׁ֔ה הַשְׁכֵּ֣ם בַּבֹּ֔קֶר וְהִתְיַצֵּ֖ב לִפְנֵ֣י פַרְעֹ֑ה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּֽה־אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י הָֽעִבְרִ֔ים שַׁלַּ֥ח אֶת־עַמִּ֖י וְיַֽעַבְדֻֽנִי׃
+
+And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.
+#### 20
+הַיָּרֵא֙ אֶת־דְּבַ֣ר יְהוָ֔ה מֵֽעַבְדֵ֖י פַּרְעֹ֑ה הֵנִ֛יס אֶת־עֲבָדָ֥יו וְאֶת־מִקְנֵ֖הוּ אֶל־הַבָּתִּֽים׃
+
+
+
+He that feared the word of the LORD among the servants of Pharaoh made his servants and his cattle flee into the houses:
 #### 25
 וַיֵּ֨ט מֹשֶׁ֣ה אֶת־מַטֵּהוּ֮ עַל־הַשָּׁמַיִם֒ וַֽיהוָ֗ה נָתַ֤ן קֹלֹת֙ וּבָרָ֔ד וַתִּ֥הֲלַךְ אֵ֖שׁ אָ֑רְצָה וַיַּמְטֵ֧ר יְהוָ֛ה בָּרָ֖ד עַל־אֶ֥רֶץ מִצְרָֽיִם ׃
 
 And Moses stretched forth his rod toward heaven: and the LORD sent thunder and hail, and the fire ran along upon the ground; and the LORD rained hail upon the land of Egypt.
 
 ## c10
+#### 7
+וַיֹּאמְרוּ֩ עַבְדֵ֨י פַרְעֹ֜ה אֵלָ֗יו עַד־מָתַי֙ יִהְיֶ֨ה זֶ֥ה לָ֙נוּ֙ לְמוֹקֵ֔שׁ שַׁלַּח֙ אֶת־הָ֣אֲנָשִׁ֔ים וְיַֽעַבְד֖וּ אֶת־יְהוָ֣ה אֱלֹהֵיהֶ֑ם הֲטֶ֣רֶם תֵּדַ֔ע כִּ֥י אָבְדָ֖ה מִצְרָֽיִם׃
+
+And Pharaoh´s servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve the LORD their God: knowest thou not yet that Egypt is destroyed ?
 #### 13
 וַיֵּ֨ט מֹשֶׁ֣ה אֶת־מַטֵּהוּ֮ עַל־אֶ֣רֶץ מִצְרַיִם֒ וַֽיהוָ֗ה נִהַ֤ג ר֥וּחַ קָדִים֙ בָּאָ֔רֶץ כָּל־הַיּ֥וֹם הַה֖וּא וְכָל־הַלָּ֑יְלָה הַבֹּ֣קֶר הָיָ֔ה וְר֙וּחַ֙ הַקָּדִ֔ים נָשָׂ֖א אֶת־הָאַרְבֶּֽה ׃
 

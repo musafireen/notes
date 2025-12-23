@@ -7,11 +7,43 @@ Politically, they seem aligned with the priestly elite and Temple authorities (c
 ???
 Acts 4:1–2 — Sadducees oppose Peter and John for preaching the resurrection of Jesus.
 # c5
-## 17
+### 17
 ???
 Many high priests and members of the Sanhedrin were Sadducees (cf. Acts 5:17).
 
 The high priest (a Sadducee) and his sect arrest the apostles.
+
+αναστας δε ο αρχιερευς και παντες οι συν αυτω η ουσα αιρεσις των σαδδουκαιων επλησθησαν ζηλου
+
+Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees, ) and were filled with indignation,
+### 34
+αναστας δε τις εν τω συνεδριω φαρισαιος ονοματι γαμαλιηλ νομοδιδασκαλος τιμιος παντι τω λαω εκελευσεν εξω βραχυ τι τους αποστολους ποιησαι
+
+Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;
+### 35
+ειπεν τε προς αυτους ανδρες ισραηλιται προσεχετε εαυτοις επι τοις ανθρωποις τουτοις τι μελλετε πρασσειν
+
+And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men.
+### 36
+προ γαρ τουτων των ημερων ανεστη θευδας λεγων ειναι τινα εαυτον ω προσεκολληθη αριθμος ανδρων ωσει τετρακοσιων ος ανηρεθη και παντες οσοι επειθοντο αυτω διελυθησαν και εγενοντο εις ουδεν
+
+For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought.
+
+n1 obeyed: or, believed
+### 37
+μετα τουτον ανεστη ιουδας ο γαλιλαιος εν ταις ημεραις της απογραφης και απεστησεν λαον ικανον οπισω αυτου κακεινος απωλετο και παντες οσοι επειθοντο αυτω διεσκορπισθησαν
+
+After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, [even] as many as obeyed him, were dispersed.
+
+n1 obeyed: or, believed
+### 38
+και τα νυν λεγω υμιν αποστητε απο των ανθρωπων τουτων και εασατε αυτους οτι εαν η εξ ανθρωπων η βουλη αυτη η το εργον τουτο καταλυθησεται
+
+And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:
+### 39
+ει δε εκ θεου εστιν ου δυνασθε καταλυσαι αυτο μηποτε και θεομαχοι ευρεθητε
+
+But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God.
 # c7
 ## 51
 σκληροτραχηλοι και απεριτμητοι τη καρδια και τοις ωσιν υμεις αει τω πνευματι τω αγιω αντιπιπτετε ως οι πατερες υμων και υμεις
