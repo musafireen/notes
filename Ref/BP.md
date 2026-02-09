@@ -258,6 +258,12 @@ The brothers who were elder than Madhucchandas did not approve of it (the order 
 Those who have no knowledge of these facts and most unholy presumptuously consider themselves saintly, harm innocently trusting animals. After they have left their bodies those animals will eat them
 # p12
 https://vedabase.io/en/library/sb/12/7/8/
+## c2
+#### 18
+शम्भलग्राममुख्यस्य ब्राह्मणस्य महात्मन: ।
+भवने विष्णुयशस: कल्कि: प्रादुर्भविष्यति ॥ १८ ॥
+
+Lord Kalki will appear in the home of the most eminent brāhmaṇa of Śambhala village, the great soul Viṣṇuyaśā.
 ## c7
 8-11 Purana definition ???
 https://youtu.be/W6t4tjVrh3M?t=125

@@ -4,53 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "36712a883bba4ea2",
+        "id": "4b2ea20441e0c1e9",
         "type": "tabs",
         "children": [
           {
-            "id": "fdb74d21dca226b7",
+            "id": "bfb89752506cd4d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002_quran/dhiyarah/abu.md",
-                "mode": "source",
+                "file": "002_quran/baql/sidrah.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "abu"
+              "title": "sidrah"
             }
           },
           {
-            "id": "957245e8ce8d7c1c",
+            "id": "542f7826a083af6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature_archaeology/species.md",
-                "mode": "source",
+                "file": "Ref/SkP.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "species"
+              "title": "SkP"
             }
           },
           {
-            "id": "fbc12d5783e6eec5",
+            "id": "222b54f7daefd6c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/haft.azilla/h.a.1.md",
+                "file": "Ref/porph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "h.a.1"
+              "title": "porph"
             }
           },
           {
-            "id": "32b69d7a5c1611d8",
+            "id": "52009d4e73750663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002_quran/sm/sm.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sm"
+            }
+          },
+          {
+            "id": "ac87967bd70fdfc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002_quran/sharif/akthar/kthr.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kthr"
+            }
+          },
+          {
+            "id": "b0c8814247ffbc78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref/aitB.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aitB"
+            }
+          },
+          {
+            "id": "53e52a7286b17755",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,133 +106,21 @@
             }
           },
           {
-            "id": "a8ec24fdbacf08c5",
+            "id": "66a66fc42e2eb809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/tacit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tacit"
-            }
-          },
-          {
-            "id": "bf5c8f18a2fae296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref/JB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JB"
-            }
-          },
-          {
-            "id": "4db912d930a9fe6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002_quran/ahl_kitab/nasara/Eid.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eid"
-            }
-          },
-          {
-            "id": "9e6c3a76e8b4154f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref/VjBhrvT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VjBhrvT"
-            }
-          },
-          {
-            "id": "fce9d1b3f4f4465a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref/epct.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "epct"
-            }
-          },
-          {
-            "id": "4bd36f0959b4ec47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref/gt.DS.md",
+                "file": "Ref/arstl.MetP.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gt.DS"
+              "title": "arstl.MetP"
             }
           },
           {
-            "id": "4555f5594031b20c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002_quran/adad/Samkhya_kabbala_ghuli.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Samkhya_kabbala_ghuli"
-            }
-          },
-          {
-            "id": "d7266095538dfd17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002_quran/anbiya/idris/enoch.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "enoch"
-            }
-          },
-          {
-            "id": "1930e615cdccd436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002_quran/sihr/asa/wand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wand"
-            }
-          },
-          {
-            "id": "077d1f48d2c132c4",
+            "id": "af64ac8b84b6e31e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,23 +132,9 @@
               "icon": "lucide-file",
               "title": "hdt.hist"
             }
-          },
-          {
-            "id": "49cafe3d1bf5619a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref/VS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VS"
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -234,7 +150,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -299,7 +215,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "002_quran/ahl_kitab/nasara/ma'idah.md",
+            "file": "002_quran/sharif/akthar/kthr.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -313,10 +229,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/VS.md",
+            "file": "Ref/arstl.MetP.md",
             "followCursor": false,
             "showSearch": true,
-            "searchQuery": ""
+            "searchQuery": "34:4"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -332,44 +248,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "49cafe3d1bf5619a",
+  "active": "af64ac8b84b6e31e",
   "lastOpenFiles": [
-    "Ref/JB.md",
-    "Ref/baudh.md",
-    "Ref/BGS.md",
-    "Ref/bhrLHyt.md",
-    "Ref/bhrthr.md",
-    "Ref/BmS.md",
-    "Ref/bRush.md",
-    "Ref/bn.rushd.md",
-    "Ref/Buni.md",
-    "Ref/aps.md",
-    "Ref/Snkh.md",
-    "Ref/hdt.hist.md",
-    "Ref/SpB.md",
-    "Ref/VS.md",
-    "Ref/VP.md",
-    "Ref/TS.md",
-    "Ref/BP.md",
-    "002_quran/ahl_kitab/nasara/Eid.md",
-    "002_quran/ahl_kitab/nasara/ma'idah.md",
-    "Ref/VjBhrvT.md",
+    "000_temp/books/hindu/doniger_hindus.md",
+    "000_temp/books/hindu/adamson_indi_phil.md",
+    "000_temp/hindu/adamson_indi_phil.md",
+    "000_temp/hindu",
+    "000_tmp/hindu/adamson_indi_phil",
+    "000_tmp/hindu",
+    "000_tmp",
+    "000_temp/books/greco-roman",
+    "000_temp/books/hindu/flood_wiley_hinduism.md",
+    "000_temp/books/hindu/doniger_hindu.md",
+    "000_temp/books/hindu",
+    "000_temp/books",
+    "Ref/RV.md",
+    "000_temp/inner/2.html.md",
+    "Ref/arstl.MetP.md",
     "Ref/bbl.tor.md",
     "Ref/bbl.evngl.md",
-    "002_quran/shahadat/martyr/martyrdom.md",
-    "000_temp/temp.md",
-    "002_quran/shahadat/shahad.md",
+    "Ref/aitB.md",
+    "Ref/AitA.md",
+    "002_quran/sharif/akthar/kthr.md",
+    "002_quran/sharif/akthar/akthar_nas.md",
+    "002_quran/sharif/akthar",
+    "002_quran/sharif/Untitled.md",
+    "002_quran/sharif/Sharif.md",
+    "002_quran/dabbah_min_l_ard/dabbah_min_l_ard.md",
+    "Ref/bbl.prop.ktv.md",
+    "Ref/bbl.poetry.md",
+    "Ref/bbl.john.md",
+    "Ref/bbl.prop.nev.md",
+    "002_quran/sm/sm.md",
+    "002_quran/sm/smy.md",
+    "nature_archaeology/species.md",
+    "Ref/porph.md",
+    "Ref/BhgG.md",
+    "002_quran/sm",
     "002_quran/shahadat/martyr",
-    "Ref/bbl.paul.md",
-    "002_quran/islam/Iman/arguments",
-    "002_quran/ahl_kitab/nasara",
-    "002_quran/a'jamī/babil/furat/ard/firash",
-    "002_quran/anbiya/ins",
-    "002_quran/anbiya/tubba",
-    "002_quran/anbiya/salih",
-    "002_quran/anbiya/shuaib",
-    "002_quran/anbiya/hud",
-    "002_quran/anbiya/ayyub",
     "boomerang/naik_vas.png",
     "boomerang/naik.jpg"
   ]

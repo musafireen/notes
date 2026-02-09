@@ -80,27 +80,27 @@ Wherefore at that time certain Chaldeans came near, and accused the Jews.
 עֲנוֺ וְאָמְרִין לִנְבוּכַדְנֶצַּר מַלְכָּא מַלְכָּא לְעָלְמִין חֱיִי	1x
 
 They spake and said to the king Nebuchadnezzar, O king, live for ever.
-#### 13
+### 13
 
-#### 14
+### 14
 
-#### 16
+### 16
 
-#### 19
+### 19
 
 ### 21
 בֵּאדַ֜יִן גֻּבְרַיָּ֣א אִלֵּ֗ךְ כְּפִ֙תוּ֙ בְּסַרְבָּלֵיהוֹן֙ פטישיהון וְכַרְבְּלָתְה֖וֹן וּלְבֻשֵׁיה֑וֹן וּרְמִ֕יו לְגֽוֹא־אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא ׃
 
 Then these men were bound in their coats, their hosen and their hats, and their [other] garments, and were cast into the midst of the burning fiery furnace. (coats: or, mantles)
-#### 24
+### 24
 
-#### 26
+### 26
 
-#### 27
+### 27
 וּ֠מִֽתְכַּנְּשִׁין אֲחַשְׁדַּרְפְּנַיָּ֞א סִגְנַיָּ֣א וּפַחֲוָתָא֮ וְהַדָּבְרֵ֣י מַלְכָּא֒ חָזַ֣יִן לְגֻבְרַיָּ֣א אִלֵּ֡ךְ דִּי֩ לָֽא־שְׁלֵ֨ט נוּרָ֜א בְּגֶשְׁמְה֗וֹן וּשְׂעַ֤ר רֵֽאשְׁהוֹן֙ לָ֣א הִתְחָרַ֔ךְ וְסָרְבָּלֵיה֖וֹן לָ֣א שְׁנ֑וֹ וְרֵ֣יחַ נ֔וּר לָ֥א עֲדָ֖ת בְּהֽוֹן ׃
 
 And the princes, governors, and captains, and the king´s counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.
-#### 28
+### 28
 ## c4
 #### 1
 
@@ -122,19 +122,6 @@ This matter [is] by the decree of the watchers, and the demand by the word of th
 
 #### 33
 
-## c7
-#### 9
-חָזֵ֣ה הֲוֵ֗ית עַ֣ד דִּ֤י כָרְסָוָן֙ רְמִ֔יו וְעַתִּ֥יק יוֹמִ֖ין יְתִ֑ב לְבוּשֵׁ֣הּ ׀ כִּתְלַ֣ג חִוָּ֗ר וּשְׂעַ֤ר רֵאשֵׁהּ֙ כַּעֲמַ֣ר נְקֵ֔א כָּרְסְיֵהּ֙ שְׁבִיבִ֣ין דִּי־נ֔וּר גַּלְגִּלּ֖וֹהִי נ֥וּר דָּלִֽק ׃
-
-I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment [was] white as snow, and the hair of his head like the pure wool: his throne [was like] the fiery flame, [and] his wheels [as] burning fire.
-#### 13
-חָזֵ֤ה הֲוֵית֙ בְּחֶזְוֵ֣י לֵֽילְיָ֔א וַאֲרוּ֙ עִם־עֲנָנֵ֣י שְׁמַיָּ֔א כְּבַ֥ר אֱנָ֖שׁ אָתֵ֣ה הֲוָ֑ה וְעַד־עַתִּ֤יק יֽוֹמַיָּא֙ מְטָ֔ה וּקְדָמ֖וֹהִי הַקְרְבֽוּהִי ׃
-
-I saw in the night visions, and, behold, [one] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
-#### 14
-וְלֵ֨הּ יְהִ֤יב שָׁלְטָן֙ וִיקָ֣ר וּמַלְכ֔וּ וְכֹ֣ל עַֽמְמַיָּ֗א אֻמַיָּ֛א וְלִשָּׁנַיָּ֖א לֵ֣הּ יִפְלְח֑וּן שָׁלְטָנֵ֞הּ שָׁלְטָ֤ן עָלַם֙ דִּֽי־לָ֣א יֶעְדֵּ֔ה וּמַלְכוּתֵ֖הּ דִּי־לָ֥א תִתְחַבַּֽל ׃ פ
-
-And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.
 ## c5
 #### 7
 קָרֵא מַלְכָּא בְּחַיִל לְהֶעָלָה לְאָשְׁפַיָּא כשדיא )כַּשְׂדָּאֵי( וְגָזְרַיָּא עָנֵה מַלְכָּא וְאָמַר לְחַכִּימֵי בָבֶל דִּי כָל-אֱנָשׁ דִּי-יִקְרֵה כְּתָבָה דְנָה וּפִשְׁרֵהּ יְחַוִּנַּנִי אַרְגְּוָנָא יִלְבַּשׁ והמנוכא )וְהַמְנִיכָא( דִי-דַהֲבָא עַל-צַוְּארֵהּ וְתַלְתִּי בְמַלְכוּתָא יִשְׁלַט	1x
@@ -148,6 +135,43 @@ There is a man in thy kingdom, in whom [is] the spirit of the holy gods; and in 
 בֵּהּ בְּלֵילְיָא קְטִיל בֵּלְאשַׁצַּר מַלְכָּא כשדיא )כַשְׂדָּאָה(	1x
 
 In that night was Belshazzar the king of the Chaldeans slain.
+## c7
+#### 1
+בִּשְׁנַ֣ת חֲדָ֗ה לְבֵלְאשַׁצַּר֙ מֶ֣לֶךְ בָּבֶ֔ל דָּנִיֵּאל֙ חֵ֣לֶם חֲזָ֔ה וְחֶזְוֵ֥י רֵאשֵׁ֖הּ עַֽל־מִשְׁכְּבֵ֑הּ בֵּאדַ֙יִן֙ חֶלְמָ֣א כְתַ֔ב רֵ֥אשׁ מִלִּ֖ין אֲמַֽר׃
+
+In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, [and] told the sum of the matters. (had: Cald. saw)
+#### 3
+וְאַרְבַּ֤ע חֵיוָן֙ רַבְרְבָ֔ן סָלְקָ֖ן מִן־יַמָּ֑א שָׁנְיָ֖ן דָּ֥א מִן־דָּֽא׃
+
+And four great beasts came up from the sea, diverse one from another.
+#### 6
+בָּאתַ֨ר דְּנָ֜ה חָזֵ֣ה הֲוֵ֗ית וַאֲר֤וּ אָֽחֳרִי֙ כִּנְמַ֔ר וְלַ֨הּ גַּפִּ֥ין אַרְבַּ֛ע דִּי־ע֖וֹף עַל־גביה וְאַרְבְּעָ֤ה רֵאשִׁין֙ לְחֵ֣יוְתָ֔א וְשָׁלְטָ֖ן יְהִ֥יב לַֽהּ׃
+
+After this I beheld and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.
+#### 7
+בָּאתַ֣ר דְּנָה֩ חָזֵ֨ה הֲוֵ֜ית בְּחֶזְוֵ֣י לֵֽילְיָ֗א וַאֲר֣וּ חֵיוָ֣ה רביעיה דְּחִילָה֩ וְאֵֽימְתָנִ֨י וְתַקִּיפָ֜א יַתִּ֗ירָא וְשִׁנַּ֨יִן דִּֽי־פַרְזֶ֥ל לַהּ֙ רַבְרְבָ֔ן אָֽכְלָ֣ה וּמַדֱּקָ֔ה וּשְׁאָרָ֖א ברגליה רָפְסָ֑ה וְהִ֣יא מְשַׁנְּיָ֗ה מִן־כָּל־חֵֽיוָתָא֙ דִּ֣י קָֽדָמַ֔יהּ וְקַרְנַ֥יִן עֲשַׂ֖ר לַֽהּ׃
+
+After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it [was] diverse from all the beasts that [were] before it; and it had ten horns.
+#### 8
+מִשְׂתַּכַּ֨ל הֲוֵ֜ית בְּקַרְנַיָּ֗א וַ֠אֲלוּ קֶ֣רֶן אָחֳרִ֤י זְעֵירָה֙ סִלְקָ֣ת ביניהון וּתְלָ֗ת מִן־קַרְנַיָּא֙ קַדְמָ֣יָתָ֔א אתעקרו מִן־קדמיה וַאֲל֨וּ עַיְנִ֜ין כְּעַיְנֵ֤י אֲנָשָׁא֙ בְּקַרְנָא־דָ֔א וּפֻ֖ם מְמַלִּ֥ל רַבְרְבָֽן׃
+
+I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn [were] eyes like the eyes of man, and a mouth speaking great things.
+#### 9
+חָזֵ֣ה הֲוֵ֗ית עַ֣ד דִּ֤י כָרְסָוָן֙ רְמִ֔יו וְעַתִּ֥יק יוֹמִ֖ין יְתִ֑ב לְבוּשֵׁ֣הּ ׀ כִּתְלַ֣ג חִוָּ֗ר וּשְׂעַ֤ר רֵאשֵׁהּ֙ כַּעֲמַ֣ר נְקֵ֔א כָּרְסְיֵהּ֙ שְׁבִיבִ֣ין דִּי־נ֔וּר גַּלְגִּלּ֖וֹהִי נ֥וּר דָּלִֽק ׃
+
+I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment [was] white as snow, and the hair of his head like the pure wool: his throne [was like] the fiery flame, [and] his wheels [as] burning fire.
+#### 13
+חָזֵ֤ה הֲוֵית֙ בְּחֶזְוֵ֣י לֵֽילְיָ֔א וַאֲרוּ֙ עִם־עֲנָנֵ֣י שְׁמַיָּ֔א כְּבַ֥ר אֱנָ֖שׁ אָתֵ֣ה הֲוָ֑ה וְעַד־עַתִּ֤יק יֽוֹמַיָּא֙ מְטָ֔ה וּקְדָמ֖וֹהִי הַקְרְבֽוּהִי ׃
+
+I saw in the night visions, and, behold, [one] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
+#### 14
+וְלֵ֨הּ יְהִ֤יב שָׁלְטָן֙ וִיקָ֣ר וּמַלְכ֔וּ וְכֹ֣ל עַֽמְמַיָּ֗א אֻמַיָּ֛א וְלִשָּׁנַיָּ֖א לֵ֣הּ יִפְלְח֑וּן שָׁלְטָנֵ֞הּ שָׁלְטָ֤ן עָלַם֙ דִּֽי־לָ֣א יֶעְדֵּ֔ה וּמַלְכוּתֵ֖הּ דִּי־לָ֥א תִתְחַבַּֽל ׃ פ
+
+And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.
+#### 17
+אִלֵּין֙ חֵיוָתָ֣א רַבְרְבָתָ֔א דִּ֥י אִנִּ֖ין אַרְבַּ֑ע אַרְבְּעָ֥ה מַלְכִ֖ין יְקוּמ֥וּן מִן־אַרְעָֽא׃
+
+These great beasts, which are four, [are] four kings, [which] shall arise out of the earth.
 ## c8
 ### 1
 בִּשְׁנַ֣ת שָׁל֔וֹשׁ לְמַלְכ֖וּת בֵּלְאשַׁצַּ֣ר הַמֶּ֑לֶךְ חָז֞וֹן נִרְאָ֤ה אֵלַי֙ אֲנִ֣י דָנִיֵּ֔אל אַחֲרֵ֛י הַנִּרְאָ֥ה אֵלַ֖י בַּתְּחִלָּֽה ׃

@@ -81,17 +81,41 @@ This can be seen from a study of his writings.2
 
 Such, then, as I say, is his account of the nature and number of the first principles.
 
-Λεύκιππος δὲ καὶ ὁ ἑταῖρος [5] αὐτοῦ Δημόκριτος στοιχεῖα μὲν τὸ πλῆρες καὶ τὸ κενὸν εἶναί φασι, λέγοντες τὸ μὲν ὂν τὸ δὲ μὴ ὄν, 
+Λεύκιππος δὲ καὶ ὁ ἑταῖρος [5] αὐτοῦ Δημόκριτος στοιχεῖα μὲν τὸ πλῆρες καὶ τὸ κενὸν εἶναί φασι, 
 
-Leucippus,3 however, and his disciple Democritus4 hold that the elements are the Full and the Void—calling the one "what is" and the other "what is not." 
+Leucippus,3 however, and his disciple Democritus4 hold that the elements are the Full and the Void—
 
-τούτων δὲ τὸ μὲν πλῆρες καὶ στερεὸν τὸ ὄν, τὸ δὲ κενὸν τὸ μὴ ὄν （διὸ καὶ οὐθὲν μᾶλλον τὸ ὂν τοῦ μὴ ὄντος εἶναί φασιν, ὅτι οὐδὲ τοῦ κενοῦ τὸ σῶμα）, αἴτια δὲ τῶν ὄντων ταῦτα ὡς [10] ὕλην. 
+λέγοντες τὸ μὲν ὂν τὸ δὲ μὴ ὄν, 
 
-Of these they identify the full or solid with "what is," and the void or rare with "what is not" (hence they hold that what is not is no less real than what is,5 because Void is as real as Body); and they say that these are the material causes of things.
+calling the one "what is" and the other "what is not." 
 
-καὶ καθάπερ οἱ ἓν ποιοῦντες τὴν ὑποκειμένην οὐσίαν τἆλλα τοῖς πάθεσιν αὐτῆς γεννῶσι, τὸ μανὸν καὶ τὸ πυκνὸν ἀρχὰς τιθέμενοι τῶν παθημάτων, τὸν αὐτὸν τρόπον καὶ οὗτοι τὰς διαφορὰς αἰτίας τῶν ἄλλων εἶναί φασιν. 
+τούτων δὲ τὸ μὲν πλῆρες καὶ στερεὸν τὸ ὄν, τὸ δὲ κενὸν τὸ μὴ ὄν 
 
-And just as those who make the underlying substance a unity generate all other things by means of its modifications, assuming rarity and density as first principles of these modifications, so these thinkers hold that the "differences"6 are the causes of everything else.
+Of these they identify the full or solid with "what is," and the void or rare with "what is not" 
+
+(διὸ καὶ οὐθὲν μᾶλλον τὸ ὂν τοῦ μὴ ὄντος εἶναί φασιν, ὅτι οὐδὲ τοῦ κενοῦ τὸ σῶμα）, 
+
+(hence they hold that what is not is no less real than what is,5 because Void is as real as Body); 
+
+αἴτια δὲ τῶν ὄντων ταῦτα ὡς [10] ὕλην. 
+
+and they say that these are the material causes of things.
+
+καὶ καθάπερ οἱ ἓν ποιοῦντες τὴν ὑποκειμένην οὐσίαν 
+
+And just as those who make the underlying substance a unity 
+
+τἆλλα τοῖς πάθεσιν αὐτῆς γεννῶσι, 
+
+generate all other things by means of its modifications, 
+
+τὸ μανὸν καὶ τὸ πυκνὸν ἀρχὰς τιθέμενοι τῶν παθημάτων, 
+
+assuming rarity and density as first principles of these modifications, 
+
+τὸν αὐτὸν τρόπον καὶ οὗτοι τὰς διαφορὰς αἰτίας τῶν ἄλλων εἶναί φασιν. 
+
+so these thinkers hold that the "differences"6 are the causes of everything else.
 
 ταύτας μέντοι τρεῖς εἶναι λέγουσι, σχῆμά τε καὶ τάξιν καὶ [15] θέσιν: 
 
@@ -101,21 +125,49 @@ These differences, they say, are three: shape, arrangement, and position;
 
 because they hold that what is differs only in contour, inter-contact, and inclination .7
 
-τούτων δὲ ὁ μὲν ῥυσμὸς σχῆμά ἐστιν ἡ δὲ διαθιγὴ τάξις ἡ δὲ τροπὴ θέσις: διαφέρει γὰρ τὸ μὲν Α τοῦ Ν σχήματι τὸ δὲ ΑΝ τοῦ ΝΑ τάξει τὸ δὲ Ζ τοῦ Η θέσει. 
+τούτων δὲ ὁ μὲν ῥυσμὸς σχῆμά ἐστιν ἡ δὲ διαθιγὴ τάξις ἡ δὲ τροπὴ θέσις: 
 
-(Of these contour means shape, inter-contact arrangement, and inclination position.) Thus, e.g., A differs from N in shape, AN from NA in arrangement, and Z from N8 in position.
+(Of these contour means shape, inter-contact arrangement, and inclination position.) 
 
-περὶ δὲ κινήσεως, ὅθεν ἢ πῶς ὑπάρξει τοῖς οὖσι, καὶ [20] οὗτοι παραπλησίως τοῖς ἄλλοις ῥᾳθύμως ἀφεῖσαν. περὶ μὲν οὖν τῶν δύο αἰτιῶν, ὥσπερ λέγομεν, ἐπὶ τοσοῦτον ἔοικεν ἐζητῆσθαι παρὰ τῶν πρότερον.
+διαφέρει γὰρ τὸ μὲν Α τοῦ Ν σχήματι τὸ δὲ ΑΝ τοῦ ΝΑ τάξει τὸ δὲ Ζ τοῦ Η θέσει. 
 
-As for motion, whence and how it arises in things, [20] they casually ignored this point, very much as the other thinkers did. Such, then, as I say, seems to be the extent of the inquiries which the earlier thinkers made into these two kinds of cause.
+Thus, e.g., A differs from N in shape, AN from NA in arrangement, and Z from N8 in position.
 
-ἐν δὲ τούτοις καὶ πρὸ τούτων οἱ καλούμενοι Πυθαγόρειοι τῶν μαθημάτων ἁψάμενοι πρῶτοι ταῦτά τε προήγαγον, καὶ [25] ἐντραφέντες ἐν αὐτοῖς τὰς τούτων ἀρχὰς τῶν ὄντων ἀρχὰς ᾠήθησαν εἶναι πάντων. 
+περὶ δὲ κινήσεως, ὅθεν ἢ πῶς ὑπάρξει τοῖς οὖσι, 
 
-At the same time, however, and even earlier the so-called9 Pythagoreans applied themselves to mathematics, and were the first to develop this science10; and through studying it they came to believe that its principles are the principles of everything.
+As for motion, whence and how it arises in things, 
 
-ἐπεὶ δὲ τούτων οἱ ἀριθμοὶ φύσει πρῶτοι, ἐν δὲ τούτοις ἐδόκουν θεωρεῖν ὁμοιώματα πολλὰ τοῖς οὖσι καὶ γιγνομένοις, μᾶλλον ἢ ἐν πυρὶ καὶ γῇ καὶ ὕδατι, ὅτι τὸ μὲν τοιονδὶ τῶν ἀριθμῶν πάθος δικαιοσύνη [30] τὸ δὲ τοιονδὶ ψυχή τε καὶ νοῦς ἕτερον δὲ καιρὸς καὶ τῶν ἄλλων ὡς εἰπεῖν ἕκαστον ὁμοίως, ἔτι δὲ τῶν ἁρμονιῶν ἐν ἀριθμοῖς ὁρῶντες τὰ πάθη καὶ τοὺς λόγους,
+καὶ [20] οὗτοι παραπλησίως τοῖς ἄλλοις ῥᾳθύμως ἀφεῖσαν. 
 
-And since numbers are by nature first among these principles, and they fancied that they could detect in numbers, to a greater extent than in fire and earth and water, many analogues11 of what is and comes into being—such and such a property of number being justice ,12 and such and such soul or mind , another opportunity , and similarly, more or less, with all the rest—and since they saw further that the properties and ratios of the musical scales are based on numbers,13 
+[20] they casually ignored this point, very much as the other thinkers did. 
+
+περὶ μὲν οὖν τῶν δύο αἰτιῶν, ὥσπερ λέγομεν, ἐπὶ τοσοῦτον ἔοικεν ἐζητῆσθαι παρὰ τῶν πρότερον.
+
+Such, then, as I say, seems to be the extent of the inquiries which the earlier thinkers made into these two kinds of cause.
+
+ἐν δὲ τούτοις καὶ πρὸ τούτων οἱ καλούμενοι Πυθαγόρειοι τῶν μαθημάτων ἁψάμενοι πρῶτοι ταῦτά τε προήγαγον, 
+
+At the same time, however, and even earlier the so-called9 Pythagoreans applied themselves to mathematics, and were the first to develop this science10; 
+
+καὶ [25] ἐντραφέντες ἐν αὐτοῖς τὰς τούτων ἀρχὰς τῶν ὄντων ἀρχὰς ᾠήθησαν εἶναι πάντων. 
+
+and through studying it they came to believe that its principles are the principles of everything.
+
+ἐπεὶ δὲ τούτων οἱ ἀριθμοὶ φύσει πρῶτοι, 
+
+And since numbers are by nature first among these principles, 
+
+ἐν δὲ τούτοις ἐδόκουν θεωρεῖν ὁμοιώματα πολλὰ τοῖς οὖσι καὶ γιγνομένοις, μᾶλλον ἢ ἐν πυρὶ καὶ γῇ καὶ ὕδατι, 
+
+and they fancied that they could detect in numbers, to a greater extent than in fire and earth and water, many analogues11 of what is and comes into being—
+
+ὅτι τὸ μὲν τοιονδὶ τῶν ἀριθμῶν πάθος δικαιοσύνη [30] τὸ δὲ τοιονδὶ ψυχή τε καὶ νοῦς ἕτερον δὲ καιρὸς καὶ τῶν ἄλλων ὡς εἰπεῖν ἕκαστον ὁμοίως, 
+
+such and such a property of number being justice ,12 and such and such soul or mind , another opportunity , and similarly, more or less, with all the rest—
+
+ἔτι δὲ τῶν ἁρμονιῶν ἐν ἀριθμοῖς ὁρῶντες τὰ πάθη καὶ τοὺς λόγους,
+
+and since they saw further that the properties and ratios of the musical scales are based on numbers,13 
 
 ἐπεὶ δὴ τὰ μὲν ἄλλα τοῖς ἀριθμοῖς ἐφαίνοντο τὴν φύσιν ἀφωμοιῶσθαι πᾶσαν, οἱ δ᾽ ἀριθμοὶ πάσης τῆς φύσεως πρῶτοι,
 
@@ -287,10 +339,323 @@ The philosophies described above were succeeded by the system of Plato,4 which i
 
 In his youth Plato first became acquainted with Cratylus5 and the Heraclitean doctrines—that the whole sensible world is always in a state of flux,6 and that there is no scientific knowledge of it—and in after years he still held these opinions.
 ## 990b
-### 31
-(λέγω δ᾽ οἷον, εἴ τι αὐτοδιπλασίου μετέχει, τοῦτο καὶ ἀϊδίου μετέχει, 
+[990β] [1] οἱ δὲ τὰς ἰδέας αἰτίας τιθέμενοι 
 
-I mean, e.g., that if anything participates in "absolute Doubleness" it participates also in "eternal," 
+[990b] [1] As for those who posit the Forms as causes,1 
+
+πρῶτον μὲν ζητοῦντες τωνδὶ τῶν ὄντων λαβεῖν τὰς αἰτίας 
+
+in the first place in their attempt to find the causes of things in our sensible world, 
+
+ἕτερα τούτοις ἴσα τὸν ἀριθμὸν ἐκόμισαν, 
+
+they introduced an equal number of other entities—
+
+ὥσπερ εἴ τις ἀριθμῆσαι βουλόμενος 
+
+as though a man who wishes to count things 
+
+ἐλαττόνων μὲν ὄντων οἴοιτο μὴ δυνήσεσθαι, 
+
+should suppose that it would be impossible when they are few, 
+
+πλείω δὲ ποιήσας ἀριθμοίη 
+
+and should attempt to count them when he has added to them. 
+
+1 For a discussion of the Ideal theory and Aristotle's conception of it see Introduction; and with the whole contents of Aristot. Met. 9.1-15 cf. Aristot. Met. 13.4.6-5.
+
+(σχεδὸν γὰρ ἴσα—ἢ οὐκ [5] ἐλάττω—ἐστὶ τὰ εἴδη τούτοις περὶ ὧν ζητοῦντες τὰς αἰτίας ἐκ τούτων ἐπ᾽ ἐκεῖνα προῆλθον: 
+
+For the Forms are as many as, or not fewer than, the things in search of whose causes these thinkers were led to the Forms; 
+
+καθ᾽ ἕκαστον γὰρ ὁμώνυμόν τι ἔστι καὶ παρὰ τὰς οὐσίας, 
+
+because corresponding to each thing there is a synonymous entity apart from the substances 
+
+τῶν τε ἄλλων ἔστιν ἓν ἐπὶ πολλῶν, 
+
+(and in the case of non-substantial things there is a One over the Many2), 
+
+2 An Idea which represents their common denominator.
+
+καὶ ἐπὶ τοῖσδε καὶ ἐπὶ τοῖς ἀϊδίοις）: 
+
+both in our everyday world and in the realm of eternal entities.3
+
+3 The heavenly bodies.
+
+ἔτι δὲ καθ᾽ οὓς τρόπους δείκνυμεν ὅτι ἔστι τὰ εἴδη, κατ᾽ οὐθένα φαίνεται τούτων: 
+
+Again, not one of the arguments by which we4 try to prove that the Forms exist demonstrates our point: 
+
+4 Aristotle is here speaking as a Platonist. Contrast the language of Aristot. Met. 13.4.7ff., and see Introduction.
+
+[10] ἐξ ἐνίων μὲν γὰρ οὐκ ἀνάγκη γίγνεσθαι συλλογισμόν, ἐξ ἐνίων δὲ καὶ οὐχ ὧν οἰόμεθα τούτων εἴδη γίγνεται. 
+
+from some of them no necessary conclusion follows, and from others it follows that there are Forms of things of which we hold that there are no Forms.
+
+κατά τε γὰρ τοὺς λόγους τοὺς ἐκ τῶν ἐπιστημῶν εἴδη ἔσται πάντων ὅσων ἐπιστῆμαι εἰσί, 
+
+For according to the arguments from the sciences5 there will be Forms of all things of which there are sciences6; 
+
+5 Scientific knowledge must have a permanent object (cf. Aristot. Met. 1.4.2.
+
+6 Including artificial products; cf. Aristot. Met. 1.15.
+
+καὶ κατὰ τὸ ἓν ἐπὶ πολλῶν καὶ τῶν ἀποφάσεων, 
+
+and according to the "One-over-Many" argument,7 of negations too; 
+
+7 The fact that several particulars can have a common quality or nature implies a single Idea of which they all partake (Plat. Rep. 596a).
+
+κατὰ δὲ τὸ νοεῖν τι φθαρέντος τῶν φθαρτῶν: 
+
+and according to the argument that "we have some conception of what has perished," of perishable things; 
+
+φάντασμα [15] γάρ τι τούτων ἔστιν. 
+
+because we have a mental picture of these things.8 
+
+8 The theory always admitted Ideas of perishable things, e.g. "man." The objection here is that if the memory of dead men establishes the Idea of "man," the memory of a dead individual establishes an Idea of that (perishable) individual.
+
+ἔτι δὲ οἱ ἀκριβέστεροι τῶν λόγων οἱ μὲν τῶν πρός τι ποιοῦσιν ἰδέας, 
+
+Again, of Plato's more exact arguments some establish Ideas of relations,9 
+
+9 Plat. Phaedo 74a-77a, Plat. Rep. 479a-480a.
+
+ὧν οὔ φαμεν εἶναι καθ᾽ αὑτὸ γένος, 
+
+which we do not hold to form a separate genus;
+
+οἱ δὲ τὸν τρίτον ἄνθρωπον λέγουσιν. 
+
+and others state the "Third Man."10 
+
+10 Several arguments bore this name. Here the reference is probably to the following: If X is a man because he resembles the Idea of Man, there must be a third "man" in whom the humanity of these two is united. Cf.Plat. Parm. 132a-133a.
+
+ὅλως τε ἀναιροῦσιν οἱ περὶ τῶν εἰδῶν λόγοι ἃ μᾶλλον εἶναι βουλόμεθα οἱ λέγοντες εἴδη τοῦ τὰς ἰδέας εἶναι: 
+
+And in general the arguments for the Forms do away with things which are more important to us exponents of the Forms than the existence of the Ideas; 
+
+συμβαίνει γὰρ μὴ [20] εἶναι τὴν δυάδα πρώτην ἀλλὰ τὸν ἀριθμόν, 
+
+[20] for they imply that it is not the Dyad that is primary, but Number11; 
+
+11 The Indeterminate Dyad, being to Aristotle a glorified 2, falls under the Idea of Number, which is therefore prior to it.
+
+καὶ τὸ πρός τι τοῦ καθ᾽ αὑτό, 
+
+and that the relative is prior to the absolute12; 
+
+12 This seems to be a development of the same objection. Number, which is relative, becomes prior to the supposedly self-subsistent Dyad.
+
+καὶ πάνθ᾽ ὅσα τινὲς ἀκολουθήσαντες ταῖς περὶ τῶν ἰδεῶν δόξαις ἠναντιώθησαν ταῖς ἀρχαῖς.
+
+and all the other conclusions in respect of which certain persons, by following up the views held about the Ideas, have gone against the principles of the theory.
+
+ἔτι κατὰ μὲν τὴν ὑπόληψιν καθ᾽ ἣν εἶναί φαμεν τὰς ἰδέας 
+
+Again, according to the assumption by which we hold that the Ideas exist, 
+
+οὐ μόνον τῶν οὐσιῶν ἔσται εἴδη ἀλλὰ πολλῶν καὶ ἑτέρων 
+
+
+there will be Forms not only of substances but of many other things 
+
+(καὶ γὰρ τὸ [25] νόημα ἓν οὐ μόνον περὶ τὰς οὐσίας 
+
+(since the concept is one not only in the case of substances, 
+
+ἀλλὰ καὶ κατὰ τῶν ἄλλων ἐστί, 
+
+but also in the case of all other things; 
+
+καὶ ἐπιστῆμαι οὐ μόνον τῆς οὐσίας εἰσὶν ἀλλὰ καὶ ἑτέρων, 
+
+and there are sciences not only of substances but of other things as well; 
+
+καὶ ἄλλα δὲ μυρία συμβαίνει τοιαῦτα）: 
+
+and there are a thousand other similar consequences); 
+
+κατὰ δὲ τὸ ἀναγκαῖον 
+
+but according to logical necessity, 
+
+καὶ τὰς δόξας τὰς περὶ αὐτῶν, 
+
+and from the views generally held about them, 
+
+εἰ ἔστι μεθεκτὰ τὰ εἴδη, 
+
+it follows that if the Forms are participated in, 
+
+τῶν οὐσιῶν ἀναγκαῖον ἰδέας εἶναι μόνον. 
+
+then there can only be Ideas of substances. 
+
+οὐ [30] γὰρ κατὰ συμβεβηκὸς μετέχονται 
+
+For they are not participated in qua accidents; 
+
+ἀλλὰ δεῖ ταύτῃ ἑκάστου μετέχειν ᾗ μὴ καθ᾽ ὑποκειμένου λέγεται 
+
+each Form can only be participated in in so far as it is not predicated of a subject.
+### 31
+(λέγω δ᾽ οἷον, εἴ τι αὐτοδιπλασίου μετέχει, 
+
+I mean, e.g., that if anything participates in "absolute Doubleness" 
+
+τοῦτο καὶ ἀϊδίου μετέχει, 
+
+it participates also in "eternal," 
+### 32
+
+ἀλλὰ κατὰ συμβεβηκός: 
+
+but only accidentally; 
+
+συμβέβηκε γὰρ τῷ διπλασίῳ ἀϊδίῳ εἶναι）, 
+
+because it is an accident of Doubleness to be eternal.13
+
+13 Sensible double things are not eternal; therefore they do not, in the proper sense of "participation," participate in the Idea of Doubleness qua having the accidental attribute "eternal." Therefore Ideas, qua participated in, are not attributes but substances.
+
+ὥστ᾽ ἔσται οὐσία τὰ εἴδη: 
+
+Thus the Forms must be substance. 
+
+ταὐτὰ δὲ ἐνταῦθα οὐσίαν σημαίνει κἀκεῖ: 
+
+But the same names denote substance in the sensible as in the Ideal world;
+## 991a
+[991α] [1] ἢ τί ἔσται τὸ εἶναι τι παρὰ ταῦτα, τὸ ἓν ἐπὶ πολλῶν; 
+
+[991a] [1] otherwise what meaning will there be in saying that something exists beside the particulars, i.e. the unity comprising their multiplicity?
+ 
+καὶ εἰ μὲν ταὐτὸ εἶδος τῶν ἰδεῶν καὶ τῶν μετεχόντων, 
+ 
+If the form of the Ideas and of the things which participate in them is the same, 
+ 
+ἔσται τι κοινόν 
+ 
+they will have something in common 
+ 
+(τί γὰρ μᾶλλον ἐπὶ τῶν φθαρτῶν δυάδων, καὶ τῶν πολλῶν μὲν ἀϊδίων δέ, 
+ 
+(for why should Duality mean one and the same thing in the case of perishable "twos"1 and the "twos" which are many but eternal,2 
+
+1 i.e. pairs of sensible objects.
+
+2 i.e. mathematical 2s.
+ 
+τὸ [5] δυὰς ἓν καὶ ταὐτόν, ἢ ἐπί τ᾽ αὐτῆς καὶ τῆς τινός;）: 
+
+and not in the case of the Idea of Duality and a particular "two"?); 
+
+εἰ δὲ μὴ τὸ αὐτὸ εἶδος, ὁμώνυμα ἂν εἴη, 
+ 
+but if the form is not the same, they will simply be homonyms; 
+
+καὶ ὅμοιον ὥσπερ ἂν εἴ τις καλοῖ ἄνθρωπον τόν τε Καλλίαν καὶ τὸ ξύλον, μηδεμίαν κοινωνίαν ἐπιβλέψας αὐτῶν.
+
+just as though one were to call both Callias and a piece of wood "man," without remarking any property common to them.3
+
+3 The argument of 7-8 is: Ideas are substances. The common name which an idea shares with its particulars must mean the same of both; otherwise "participation" is merely homonymy. But as applied to Ideas it denotes substance; therefore particulars must be substances.
+
+πάντων δὲ μάλιστα διαπορήσειεν ἄν τις τί ποτε συμβάλλεται τὰ εἴδη τοῖς [10] ἀϊδίοις τῶν αἰσθητῶν ἢ τοῖς γιγνομένοις καὶ φθειρομένοις: 
+
+Above all we might examine the question what on earth the Forms contribute to sensible things, whether eternal or subject to generation and decay; 
+
+οὔτε γὰρ κινήσεως οὔτε μεταβολῆς οὐδεμιᾶς ἐστὶν αἴτια αὐτοῖς. 
+
+for they are not the cause of any motion or change in them.
+
+ἀλλὰ μὴν οὔτε πρὸς τὴν ἐπιστήμην οὐθὲν βοηθεῖ τὴν τῶν ἄλλων
+
+Again, they are no help towards the knowledge of other things4
+
+4 This objection, like the next, is chiefly directed against the transcendence of the Ideas. It is anticipated by Plato in Plat. Parm. 134d.
+
+(οὐδὲ γὰρ οὐσία ἐκεῖνα τούτων: ἐν τούτοις γὰρ ἂν ἦν）, 
+
+(for they are not the substance of things, otherwise they would be in things), 
+
+οὔτε εἰς τὸ εἶναι, 
+
+nor to their existence, 
+
+μὴ ἐνυπάρχοντά γε τοῖς μετέχουσιν: 
+
+since they are not present in the things which partake of them. 
+
+οὕτω μὲν [15] γὰρ ἂν ἴσως αἴτια δόξειεν εἶναι ὡς τὸ λευκὸν μεμιγμένον τῷ λευκῷ, 
+
+If they were, it might perhaps seem that they are causes, in the sense in which the admixture of white causes a thing to be white;
+
+ἀλλ᾽ οὗτος μὲν ὁ λόγος λίαν εὐκίνητος, ὃν Ἀναξαγόρας μὲν πρῶτος Εὔδοξος δ᾽ ὕστερον καὶ ἄλλοι τινὲς ἔλεγον 
+
+but this theory, which was first stated by Anaxagoras5 and later by Eudoxus6 and others, is very readily refutable, 
+
+5 Anaxagoras Fr. 12ad fin.
+
+6 See note on Aristot. Met. 12.8.9. Apparently he was a Platonist who regarded the Ideas as immanent in particulars.
+
+(ῥᾴδιον γὰρ συναγαγεῖν πολλὰ καὶ ἀδύνατα πρὸς τὴν τοιαύτην δόξαν）: 
+
+for it is easy to adduce plenty of impossibilities against such a view. 
+
+ἀλλὰ μὴν οὐδ᾽ ἐκ τῶν εἰδῶν ἐστὶ τἆλλα [20] κατ᾽ οὐθένα τρόπον τῶν εἰωθότων λέγεσθαι. 
+
+Again, other things are not [20] in any accepted sense derived from the Forms.
+
+τὸ δὲ λέγειν παραδείγματα αὐτὰ εἶναι καὶ μετέχειν αὐτῶν τἆλλα κενολογεῖν ἐστὶ καὶ μεταφορὰς λέγειν ποιητικάς. 
+
+To say that the Forms are patterns, and that other things participate in them, is to use empty phrases and poetical metaphors; 
+
+τί γάρ ἐστι τὸ ἐργαζόμενον πρὸς τὰς ἰδέας ἀποβλέπον; 
+
+for what is it that fashions things on the model of the Ideas7 
+
+7 Plato says "the Demiurgus"?Plat. Tim. 28c, Plat. Tim. 29a.
+
+ἐνδέχεταί τε καὶ εἶναι καὶ γίγνεσθαι ὅμοιον ὁτιοῦν καὶ μὴ εἰκαζόμενον [25] πρὸς ἐκεῖνο, 
+
+Besides, anything may both be and become like something else without being imitated from it; 
+
+ὥστε καὶ ὄντος Σωκράτους καὶ μὴ ὄντος γένοιτ᾽ ἂν οἷος Σωκράτης: 
+
+thus a man may become just like Socrates whether Socrates exists or not,
+
+ὁμοίως δὲ δῆλον ὅτι κἂν εἰ ἦν ὁ Σωκράτης ἀΐδιος. 
+
+and even if Socrates were eternal, clearly the case would be the same. 
+
+ἔσται τε πλείω παραδείγματα τοῦ αὐτοῦ, ὥστε καὶ εἴδη, 
+
+Also there will be several "patterns," and hence Forms, of the same thing; 
+
+οἷον τοῦ ἀνθρώπου τὸ ζῷον καὶ τὸ δίπουν, ἅμα δὲ καὶ τὸ αὐτοάνθρωπος. 
+
+e.g. "animal" and "two-footed" will be patterns of "man," and so too will the Idea of Man.8
+
+8 Why this consequence is objectionable is not quite clear. Perhaps it is on the ground that to "account for appearances" in this way is not economical.
+
+ἔτι οὐ μόνον τῶν αἰσθητῶν [30] παραδείγματα τὰ εἴδη ἀλλὰ καὶ αὐτῶν, 
+
+Further, the Forms will be patterns not only of sensible things but of themselves 
+
+οἷον τὸ γένος, ὡς γένος εἰδῶν: 
+
+(e.g. genus in the sense of genus of species), 
+
+ὥστε τὸ αὐτὸ ἔσται παράδειγμα καὶ εἰκών. 
+
+and thus the same thing will be both pattern and copy.9
+
+9 The species will be the "pattern" of individuals, and the genus of the species.
 # b7
 ## 1032a
 [1] οὐ γὰρ κατὰ συμβεβηκὸς ἓν τὸ ἑνὶ εἶναι καὶ ἕν. ἔτι εἰ ἄλλο ἔσται, εἰς ἄπειρον εἶσιν: τὸ μὲν γὰρ ἔσται τί ἦν εἶναι τοῦ ἑνὸς τὸ δὲ τὸ ἕν, ὥστε καὶ ἐπ᾽ ἐκείνων ὁ αὐτὸς ἔσται λόγος. ὅτι [5] μὲν οὖν ἐπὶ τῶν πρώτων καὶ καθ᾽ αὑτὰ λεγομένων τὸ ἑκάστῳ εἶναι καὶ ἕκαστον τὸ αὐτὸ καὶ ἕν ἐστι, δῆλον: οἱ δὲ σοφιστικοὶ ἔλεγχοι πρὸς τὴν θέσιν ταύτην φανερὸν ὅτι τῇ αὐτῇ λύονται λύσει καὶ εἰ ταὐτὸ Σωκράτης καὶ Σωκράτει εἶναι: οὐδὲν γὰρ διαφέρει οὔτε ἐξ ὧν ἐρωτήσειεν ἄν τις οὔτε ἐξ ὧν [10] λύων ἐπιτύχοι. 

@@ -590,6 +590,73 @@ And Abram journeyed, going on still toward the south.
 וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨רֶד אַבְרָ֤ם מִצְרַ֙יְמָה֙ לָג֣וּר שָׁ֔ם כִּֽי־כָבֵ֥ד הָרָעָ֖ב בָּאָֽרֶץ ׃
 
 And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine [was] grievous in the land.
+## c13
+#### 1
+וַיַּעַל֩ אַבְרָ֨ם מִמִּצְרַ֜יִם ה֠וּא וְאִשְׁתּ֧וֹ וְכָל־אֲשֶׁר־ל֛וֹ וְל֥וֹט עִמּ֖וֹ הַנֶּֽגְבָּה׃
+
+And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
+#### 2
+וְאַבְרָ֖ם כָּבֵ֣ד מְאֹ֑ד בַּמִּקְנֶ֕ה בַּכֶּ֖סֶף וּבַזָּהָֽב׃
+
+And Abram [was] very rich in cattle, in silver, and in gold.
+#### 3
+וַיֵּ֙לֶךְ֙ לְמַסָּעָ֔יו מִנֶּ֖גֶב וְעַד־בֵּֽית־אֵ֑ל עַד־הַמָּק֗וֹם אֲשֶׁר־הָ֨יָה שָׁ֤ם אהלה בַּתְּחִלָּ֔ה בֵּ֥ין בֵּֽית־אֵ֖ל וּבֵ֥ין הָעָֽי׃
+
+And he went on his journeys from the south even to Bethel, unto the place where his tent had been at the beginning, between Bethel and Hai;
+#### 4
+אֶל־מְקוֹם֙ הַמִּזְבֵּ֔חַ אֲשֶׁר־עָ֥שָׂה שָׁ֖ם בָּרִאשֹׁנָ֑ה וַיִּקְרָ֥א שָׁ֛ם אַבְרָ֖ם בְּשֵׁ֥ם
+
+Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD.
+#### 7
+וַֽיְהִי־רִ֗יב בֵּ֚ין רֹעֵ֣י מִקְנֵֽה־אַבְרָ֔ם וּבֵ֖ין רֹעֵ֣י מִקְנֵה־ל֑וֹט וְהַֽכְּנַעֲנִי֙ וְהַפְּרִזִּ֔י אָ֖ז יֹשֵׁ֥ב בָּאָֽרֶץ׃
+
+And there was a strife between the herdmen of Abram´s cattle and the herdmen of Lot´s cattle: and the Canaanite and the Perizzite dwelled then in the land.
+#### 8
+וַיֹּ֨אמֶר אַבְרָ֜ם אֶל־ל֗וֹט אַל־נָ֨א תְהִ֤י מְרִיבָה֙ בֵּינִ֣י וּבֵינֶ֔יךָ וּבֵ֥ין רֹעַ֖י וּבֵ֣ין רֹעֶ֑יךָ כִּֽי־אֲנָשִׁ֥ים אַחִ֖ים אֲנָֽחְנוּ׃
+
+And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we [be] brethren.
+
+n1 brethren: Heb. men brethren
+#### 9
+הֲלֹ֤א כָל־הָאָ֙רֶץ֙ לְפָנֶ֔יךָ הִפָּ֥רֶד נָ֖א מֵעָלָ֑י אִם־הַשְּׂמֹ֣אל וְאֵימִ֔נָה וְאִם־הַיָּמִ֖ין וְאַשְׂמְאִֽילָה׃
+
+[Is] not the whole land before thee ? separate thyself, I pray thee, from me: if [thou wilt take] the left hand, then I will go to the right; or if [thou depart] to the right hand, then I will go to the left.
+#### 10
+וַיִּשָּׂא־ל֣וֹט אֶת־עֵינָ֗יו וַיַּרְא֙ אֶת־כָּל־כִּכַּ֣ר הַיַּרְדֵּ֔ן כִּ֥י כֻלָּ֖הּ מַשְׁקֶ֑ה לִפְנֵ֣י ׀ שַׁחֵ֣ת יְהוָ֗ה אֶת־סְדֹם֙ וְאֶת־עֲמֹרָ֔ה כְּגַן־יְהוָה֙ כְּאֶ֣רֶץ מִצְרַ֔יִם בֹּאֲכָ֖ה צֹֽעַר׃
+
+And Lot lifted up his eyes, and beheld all the plain of Jordan, that it [was] well watered every where, before the LORD destroyed Sodom and Gomorrah, [even] as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.
+#### 11
+וַיִּבְחַר־ל֣וֹ ל֗וֹט אֵ֚ת כָּל־כִּכַּ֣ר הַיַּרְדֵּ֔ן וַיִּסַּ֥ע ל֖וֹט מִקֶּ֑דֶם וַיִּפָּ֣רְד֔וּ אִ֖ישׁ מֵעַ֥ל אָחִֽיו׃
+
+Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
+#### 12
+אַבְרָ֖ם יָשַׁ֣ב בְּאֶֽרֶץ־כְּנָ֑עַן וְל֗וֹט יָשַׁב֙ בְּעָרֵ֣י הַכִּכָּ֔ר וַיֶּאֱהַ֖ל עַד־סְדֹֽם׃
+
+Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched [his] tent toward Sodom.
+#### 13
+וְאַנְשֵׁ֣י סְדֹ֔ם רָעִ֖ים וְחַטָּאִ֑ים לַיהוָ֖ה מְאֹֽד׃
+
+But the men of Sodom [were] wicked and sinners before the LORD exceedingly.
+#### 13
+וַֽיהוָ֞ה אָמַ֣ר אֶל־אַבְרָ֗ם אַחֲרֵי֙ הִפָּֽרֶד־ל֣וֹט מֵֽעִמּ֔וֹ שָׂ֣א נָ֤א עֵינֶ֙יךָ֙ וּרְאֵ֔ה מִן־הַמָּק֖וֹם אֲשֶׁר־אַתָּ֣ה שָׁ֑ם צָפֹ֥נָה וָנֶ֖גְבָּה וָקֵ֥דְמָה וָיָֽמָּה׃
+
+And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:
+#### 15
+כִּ֧י אֶת־כָּל־הָאָ֛רֶץ אֲשֶׁר־אַתָּ֥ה רֹאֶ֖ה לְךָ֣ אֶתְּנֶ֑נָּה וּֽלְזַרְעֲךָ֖ עַד־עוֹלָֽם׃
+
+For all the land which thou seest, to thee will I give it, and to thy seed for ever.
+#### 16
+וְשַׂמְתִּ֥י אֶֽת־זַרְעֲךָ֖ כַּעֲפַ֣ר הָאָ֑רֶץ אֲשֶׁ֣ר ׀ אִם־יוּכַ֣ל אִ֗ישׁ לִמְנוֹת֙ אֶת־עֲפַ֣ר הָאָ֔רֶץ גַּֽם־זַרְעֲךָ֖ יִמָּנֶֽה׃
+
+And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, [then] shall thy seed also be numbered.
+#### 17
+ק֚וּם הִתְהַלֵּ֣ךְ בָּאָ֔רֶץ לְאָרְכָּ֖הּ וּלְרָחְבָּ֑הּ כִּ֥י לְךָ֖ אֶתְּנֶֽנָּה׃
+
+Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee.
+#### 18
+וַיֶּאֱהַ֣ל אַבְרָ֗ם וַיָּבֹ֛א וַיֵּ֛שֶׁב בְּאֵלֹנֵ֥י מַמְרֵ֖א אֲשֶׁ֣ר בְּחֶבְר֑וֹן וַיִּֽבֶן־שָׁ֥ם מִזְבֵּ֖חַ לַֽיהוָֽה׃פ
+
+Then Abram removed [his] tent, and came and dwelt in the plain of Mamre, which [is] in Hebron, and built there an altar unto the LORD.
 ## c14
 #### 1
 וַיְהִ֗י בִּימֵי֙ אַמְרָפֶ֣ל מֶֽלֶךְ־שִׁנְעָ֔ר אַרְי֖וֹךְ מֶ֣לֶךְ אֶלָּסָ֑ר כְּדָרְלָעֹ֙מֶר֙ מֶ֣לֶךְ עֵילָ֔ם וְתִדְעָ֖ל מֶ֥לֶךְ גּוֹיִֽם׃
@@ -1089,6 +1156,10 @@ And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught
 #### 14
 וַיִּקְרָא אַבְרָהָםשֵׁם-הַמָּקוֺםהַהוּא יְהוָה יִרְאֶה אֲשֶׁר יֵאָמֵר הַיּוֺם בְּהַר יְהוָה יֵרָאֶה
 And Abraham called the name of that place Jehovahjireh: as it is said [to] this day, In the mount of the LORD it shall be seen.
+#### 19
+וַיָּ֤שָׁב אַבְרָהָם֙ אֶל־נְעָרָ֔יו וַיָּקֻ֛מוּ וַיֵּלְכ֥וּ יַחְדָּ֖ו אֶל־בְּאֵ֣ר שָׁ֑בַע וַיֵּ֥שֶׁב אַבְרָהָ֖ם בִּבְאֵ֥ר שָֽׁבַע׃פ
+
+So Abraham returned unto his young men, and they rose up and went together to Beersheba; and Abraham dwelt at Beersheba.
 ## c28
 #### 10
  לְאִשָּׁה 10וַיֵּצֵא יַעֲקֹב מִבְּאֵר שָׁבַע וַיֵּלֶךְ חָרָנָה 
@@ -1292,6 +1363,16 @@ Duke Kenaz, duke Teman, duke Mibzar,
 אַלּ֥וּף מַגְדִּיאֵ֖ל אַלּ֣וּף עִירָ֑ם אֵ֣לֶּה ׀ אַלּוּפֵ֣י אֱד֗וֹם לְמֹֽשְׁבֹתָם֙ בְּאֶ֣רֶץ אֲחֻזָּתָ֔ם ה֥וּא עֵשָׂ֖ו אֲבִ֥י אֱדֽוֹם ׃ פ
 
 Duke Magdiel, duke Iram: these [be] the dukes of Edom, according to their habitations in the land of their possession: he [is] Esau the father of the Edomites.
+
+## c37
+#### 26
+וַיֹּ֥אמֶר אֵלָ֖יו יִצְחָ֣ק אָבִ֑יו גְּשָׁה־נָּ֥א וּשְׁקָה־לִּ֖י בְּנִֽי׃
+
+And Judah said unto his brethren, What profit [is it] if we slay our brother, and conceal his blood ?
+#### 27
+27וַיִּגַּשׁ֙ וַיִּשַּׁק־ל֔וֹ וַיָּ֛רַח אֶת־רֵ֥יחַ בְּגָדָ֖יו וַֽיְבָרֲכֵ֑הוּ וַיֹּ֗אמֶר רְאֵה֙ רֵ֣יחַ בְּנִ֔י כְּרֵ֣יחַ שָׂדֶ֔ה אֲשֶׁ֥ר בֵּרֲכ֖וֹ יְהוָֽה׃
+
+Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he [is] our brother [and] our flesh. And his brethren were content.
 
 ## c39
 #### 1
@@ -1558,6 +1639,22 @@ And when the dew that lay was gone up, behold, upon the face of the wilderness [
 
 And when the children of Israel saw [it], they said one to another, It [is] manna: for they wist not what it [was]. And Moses said unto them, This [is] the bread which the LORD hath given you to eat.
 ## c17
+#### 1
+וַיָּבֹ֣אוּ בְנֵֽי־יִ֠שְׂרָאֵל כָּל־הָ֨עֵדָ֤ה מִדְבַּר־צִן֙ בַּחֹ֣דֶשׁ הָֽרִאשׁ֔וֹן וַיֵּ֥שֶׁב הָעָ֖ם בְּקָדֵ֑שׁ וַתָּ֤מָת שָׁם֙ מִרְיָ֔ם וַתִּקָּבֵ֖ר שָֽׁם׃
+
+And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and [there was] no water for the people to drink.
+#### 2
+וְלֹא־הָ֥יָה מַ֖יִם לָעֵדָ֑ה וַיִּקָּ֣הֲל֔וּ עַל־מֹשֶׁ֖ה וְעַֽל־אַהֲרֹֽן׃
+
+Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD ?
+#### 3
+וַיָּ֥רֶב הָעָ֖ם עִם־מֹשֶׁ֑ה וַיֹּאמְר֣וּ לֵאמֹ֔ר וְל֥וּ גָוַ֛עְנוּ בִּגְוַ֥ע אַחֵ֖ינוּ לִפְנֵ֥י יְהוָֽה׃
+
+And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore [is] this [that] thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst ?
+#### 4
+וְלָמָ֤ה הֲבֵאתֶם֙ אֶת־קְהַ֣ל יְהוָ֔ה אֶל־הַמִּדְבָּ֖ר הַזֶּ֑ה לָמ֣וּת שָׁ֔ם אֲנַ֖חְנוּ וּבְעִירֵֽנוּ׃
+
+And Moses cried unto the LORD, saying, What shall I do unto this people ? they be almost ready to stone me.
 #### 5
 וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁ֗ה עֲבֹר֙ לִפְנֵ֣י הָעָ֔ם וְקַ֥ח אִתְּךָ֖ מִזִּקְנֵ֣י יִשְׂרָאֵ֑ל וּמַטְּךָ֗ אֲשֶׁ֨ר הִכִּ֤יתָ בּוֹ֙ אֶת־הַיְאֹ֔ר קַ֥ח בְּיָדְךָ֖ וְהָלָֽכְתָּ ׃
 
@@ -1566,6 +1663,10 @@ And the LORD said unto Moses, Go on before the people, and take with thee of the
 הִנְנִ֣י עֹמֵד֩ לְפָנֶ֨יךָ שָּׁ֥ם ׀ עַֽל־הַצּוּר֮ בְּחֹרֵב֒ וְהִכִּ֣יתָ בַצּ֗וּר וְיָצְא֥וּ מִמֶּ֛נּוּ מַ֖יִם וְשָׁתָ֣ה הָעָ֑ם וַיַּ֤עַשׂ כֵּן֙ מֹשֶׁ֔ה לְעֵינֵ֖י זִקְנֵ֥י יִשְׂרָאֵֽל ׃
 
 Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.
+#### 7
+וַיִּקְרָא֙ שֵׁ֣ם הַמָּק֔וֹם מַסָּ֖ה וּמְרִיבָ֑ה עַל־רִ֣יב ׀ בְּנֵ֣י יִשְׂרָאֵ֗ל וְעַ֨ל נַסֹּתָ֤ם אֶת־יְהוָה֙ לֵאמֹ֔ר הֲיֵ֧שׁ יְהוָ֛ה בְּקִרְבֵּ֖נוּ אִם־אָֽיִן׃פ
+
+And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?(Massah: that is, Temptation)
 ## c20
 #### 3
 לֹֽ֣א יִהְיֶֽה־לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל־פָּנָֽיַ ׃
@@ -1767,6 +1868,61 @@ And there we saw the giants, the sons of Anak, [which come] of the giants: and w
 και ηνοιχθη η γη και κατεπιεν αυτους και τους οικους αυτων και παντας τους ανθρωπους τους οντας μετα κορε και τα κτηνη αυτων
 
 And the earth opened her mouth, and swallowed them up, and their houses, and all the men that [appertained] unto Korah, and all [their] goods.
+## c20
+#### 1
+וַיָּבֹ֣אוּ בְנֵֽי־יִ֠שְׂרָאֵל כָּל־הָ֨עֵדָ֤ה מִדְבַּר־צִן֙ בַּחֹ֣דֶשׁ הָֽרִאשׁ֔וֹן וַיֵּ֥שֶׁב הָעָ֖ם בְּקָדֵ֑שׁ וַתָּ֤מָת שָׁם֙ מִרְיָ֔ם וַתִּקָּבֵ֖ר שָֽׁם׃
+
+Then came the children of Israel, [even] the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.
+#### 2
+וְלֹא־הָ֥יָה מַ֖יִם לָעֵדָ֑ה וַיִּקָּ֣הֲל֔וּ עַל־מֹשֶׁ֖ה וְעַֽל־אַהֲרֹֽן׃
+
+And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.
+#### 3
+וַיָּ֥רֶב הָעָ֖ם עִם־מֹשֶׁ֑ה וַיֹּאמְר֣וּ לֵאמֹ֔ר וְל֥וּ גָוַ֛עְנוּ בִּגְוַ֥ע אַחֵ֖ינוּ לִפְנֵ֥י יְהוָֽה׃
+
+And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the LORD !
+#### 4
+וְלָמָ֤ה הֲבֵאתֶם֙ אֶת־קְהַ֣ל יְהוָ֔ה אֶל־הַמִּדְבָּ֖ר הַזֶּ֑ה לָמ֣וּת שָׁ֔ם אֲנַ֖חְנוּ וּבְעִירֵֽנוּ׃
+
+And why have ye brought up the congregation of the LORD into this wilderness, that we and our cattle should die there?
+#### 5
+וְלָמָ֤ה הֶֽעֱלִיתֻ֙נוּ֙ מִמִּצְרַ֔יִם לְהָבִ֣יא אֹתָ֔נוּ אֶל־הַמָּק֥וֹם הָרָ֖ע הַזֶּ֑ה לֹ֣א ׀ מְק֣וֹם זֶ֗רַע וּתְאֵנָ֤ה וְגֶ֙פֶן֙ וְרִמּ֔וֹן וּמַ֥יִם אַ֖יִן לִשְׁתּֽוֹת׃
+
+And wherefore have ye made us to come up out of Egypt, to bring us in unto this evil place ? it [is] no place of seed, or of figs, or of vines, or of pomegranates; neither [is] there any water to drink.
+#### 6
+וַיָּבֹא֩ מֹשֶׁ֨ה וְאַהֲרֹ֜ן מִפְּנֵ֣י הַקָּהָ֗ל אֶל־פֶּ֙תַח֙ אֹ֣הֶל מוֹעֵ֔ד וַֽיִּפְּל֖וּ עַל־פְּנֵיהֶ֑ם וַיֵּרָ֥א כְבוֹד־יְהוָ֖ה אֲלֵיהֶֽם׃פ
+
+And Moses and Aaron went from the presence of the assembly unto the door of the tabernacle of the congregation, and they fell upon their faces: and the glory of the LORD appeared unto them.
+#### 7
+7וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+
+7And the LORD spake unto Moses, saying,
+#### 8
+קַ֣ח אֶת־הַמַּטֶּ֗ה וְהַקְהֵ֤ל אֶת־הָעֵדָה֙ אַתָּה֙ וְאַהֲרֹ֣ן אָחִ֔יךָ וְדִבַּרְתֶּ֧ם אֶל־הַסֶּ֛לַע לְעֵינֵיהֶ֖ם וְנָתַ֣ן מֵימָ֑יו וְהוֹצֵאתָ֨ לָהֶ֥ם מַ֙יִם֙ מִן־הַסֶּ֔לַע וְהִשְׁקִיתָ֥ אֶת־הָעֵדָ֖ה וְאֶת־בְּעִירָֽם׃
+
+Take the rod, and gather thou the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink.
+#### 10
+וַיַּקְהִ֜לוּ מֹשֶׁ֧ה וְאַהֲרֹ֛ן אֶת־הַקָּהָ֖ל אֶל־פְּנֵ֣י הַסָּ֑לַע וַיֹּ֣אמֶר לָהֶ֗ם שִׁמְעוּ־נָא֙ הַמֹּרִ֔ים הֲמִן־הַסֶּ֣לַע הַזֶּ֔ה נוֹצִ֥יא לָכֶ֖ם מָֽיִם׃
+
+And Moses and Aaron gathered the congregation together before the rock, and he said unto them, Hear now, ye rebels; must we fetch you water out of this rock ?
+#### 11
+וַיָּ֨רֶם מֹשֶׁ֜ה אֶת־יָד֗וֹ וַיַּ֧ךְ אֶת־הַסֶּ֛לַע בְּמַטֵּ֖הוּ פַּעֲמָ֑יִם וַיֵּצְאוּ֙ מַ֣יִם רַבִּ֔ים וַתֵּ֥שְׁתְּ הָעֵדָ֖ה וּבְעִירָֽם׃ס
+
+And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts [also].
+#### 12
+וַיֹּ֣אמֶר יְהוָה֮ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹן֒ יַ֚עַן לֹא־הֶאֱמַנְתֶּ֣ם בִּ֔י לְהַ֨קְדִּישֵׁ֔נִי לְעֵינֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל לָכֵ֗ן לֹ֤א תָבִ֙יאוּ֙ אֶת־הַקָּהָ֣ל הַזֶּ֔ה אֶל־הָאָ֖רֶץ אֲשֶׁר־נָתַ֥תִּי לָהֶֽם׃
+
+And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them.
+#### 13
+הֵ֚מָּה מֵ֣י מְרִיבָ֔ה אֲשֶׁר־רָב֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל אֶת־יְהוָ֑ה וַיִּקָּדֵ֖שׁ בָּֽם׃ס
+
+This [is] the water of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them.
+
+n1 Meribah: that is, Strife
+#### 14
+וַיִּשְׁלַ֨ח מֹשֶׁ֧ה מַלְאָכִ֛ים מִקָּדֵ֖שׁ אֶל־מֶ֣לֶךְ אֱד֑וֹם כֹּ֤ה אָמַר֙ אָחִ֣יךָ יִשְׂרָאֵ֔ל אַתָּ֣ה יָדַ֔עְתָּ אֵ֥ת כָּל־הַתְּלָאָ֖ה אֲשֶׁ֥ר מְצָאָֽתְנוּ׃
+
+And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:
 ## c21
 וַיִּשְׁמַ֞ע הַכְּנַעֲנִ֤י מֶֽלֶךְ־עֲרָד֙ יֹשֵׁ֣ב הַנֶּ֔גֶב כִּ֚י בָּ֣א יִשְׂרָאֵ֔ל דֶּ֖רֶךְ הָאֲתָרִ֑ים וַיִּלָּ֙חֶם֙ בְּיִשְׂרָאֵ֔ל וַיִּ֥שְׁבְּ ׀ מִמֶּ֖נּוּ שֶֽׁבִי ׃
 

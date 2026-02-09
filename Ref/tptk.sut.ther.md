@@ -1,16 +1,86 @@
-https://suttacentral.net/dn16/en/sujato?lang=en&layout=linebyline&reference=ms&notes=asterisk&highlight=true&script=latin
+https://suttacentral.net/dn16/en/sujato?lang=en&layout=linebyline&reference=main&notes=asterisk&highlight=true&script=bengali
 
 # DighN
 : 34 long discourses
 ## silakkhandavagga
 2 Samanala Sutta
 
+### samannaphala
+### p2
+#### rajamaccakatha
+#### s1
+##### dn.2.4
+4.1
+অঞ্ঞতরোপি খো রাজামচ্চো রাজানং মাগধং অজাতসত্তুং বেদেহিপুত্তং এতদবোচ:
+
+Another of the king’s ministers said to him, 
+
+4.2
+“অয়ং, দেব, অজিতো কেসকম্বলো সঙ্ঘী চেব গণী চ গণাচরিয়ো চ ঞাতো যসস্সী তিত্থকরো সাধুসম্মতো বহুজনস্স রত্তঞ্ঞূ চিরপব্বজিতো অদ্ধগতো বয়োঅনুপ্পত্তো।
+
+“Sire, Ajita of the hair blanket leads an order and a community, and tutors a community. He’s a well-known and famous religious founder, deemed holy by many people. He is of long standing, long gone forth; he is advanced in years and has reached the final stage of life. A materialist, he was an early proponent of the ideas later known as Cārvāka. Kesakambala means “hair-blanket”, which was worn as an ascetic practice (AN 3.137). 
+
+4.3
+তং দেবো অজিতং কেসকম্বলং পয়িরুপাসতু।
+
+Let Your Majesty pay homage to him. 
+
+4.4
+অপ্পেব নাম দেবস্স অজিতং কেসকম্বলং পয়িরুপাসতো চিত্তং পসীদেয়্যা”তি।
+
+Hopefully in so doing your mind will find peace.” 
+
+4.5
+এবং বুত্তে, রাজা মাগধো অজাতসত্তু বেদেহিপুত্তো তুণ্হী অহোসি।
+
+But when he had spoken, the king kept silent. 
+#### ajitakesakambalavada
+#### s3
+##### dn.2.23
+23.1
+এবং বুত্তে, ভন্তে, অজিতো কেসকম্বলো মং এতদবোচ: 
+
+He said: 
+23.2
+‘নত্থি, মহারাজ, দিন্নং, নত্থি যিট্ঠং, নত্থি হুতং, নত্থি সুকতদুক্কটানং কম্মানং ফলং বিপাকো, নত্থি অয়ং লোকো, নত্থি পরো লোকো, নত্থি মাতা, নত্থি পিতা, নত্থি সত্তা ওপপাতিকা, নত্থি লোকে সমণব্রাহ্মণা সম্মগ্গতা সম্মাপটিপন্না, যে ইমঞ্চ লোকং পরঞ্চ লোকং সয়ং অভিঞ্ঞা সচ্ছিকত্বা পবেদেন্তি। Variant: paro loko → paraloko (sya-all) | sammaggatā → samaggagatā (sya-all); samaggatā (mr) 
+
+‘Great king, there is no meaning in giving, sacrifice, or offerings. There’s no fruit or result of good and bad deeds. There’s no afterlife. There’s no such thing as mother and father, or beings that are reborn spontaneously. And there’s no ascetic or brahmin who is rightly comported and rightly practiced, and who describes the afterlife after realizing it with their own insight. The denial of “mother and father” is usually interpreted as the denial of moral duty towards one’s parents. However, I think it is a doctrine of conception which denies that a child is created by the mother and father. Rather, the child is produced by the four elements, with parents as mere instigators and incubators. 
+23.3
+চাতুমহাভূতিকো অয়ং পুরিসো, যদা কালং করোতি, পথবী পথবিকায়ং অনুপেতি অনুপগচ্ছতি, আপো আপোকায়ং অনুপেতি অনুপগচ্ছতি, তেজো তেজোকায়ং অনুপেতি অনুপগচ্ছতি, বায়ো বায়োকায়ং অনুপেতি অনুপগচ্ছতি, আকাসং ইন্দ্রিয়ানি সঙ্কমন্তি। 
+
+This person is made up of the four principal states. When they die, the earth in their body merges and coalesces with the substance of earth. The water in their body merges and coalesces with the substance of water. The fire in their body merges and coalesces with the substance of fire. The air in their body merges and coalesces with the substance of air. The faculties are transferred to space. This is a materialist analysis of the person. | The word kāya (“substance”) is central to Jainism. Ācārāṅgasūtra 8.1.11 speaks of the “substances” of earth, water, fire, and air as being imbued with life so one should avoid damaging them. | The Buddha’s use of mahābhūtā (“principal states”) responds to Yājñavalkya’s core teaching at Bṛhadāraṇyaka Upaniṣad 2.4.12, where the several “states” or “real entities” (bhūtā)—namely the diverse manifestations of creation—arise from and dissolve into the “principal state” (mahābhūta) of the Self, singular and infinite. For the Buddha, the “principal states” are themselves plural, as there is no underlying singular reality. Later Sanskrit literature lists the “five states” (pañcabhūta) as earth, water, fire, air, and space. 
+23.4
+আসন্দিপঞ্চমা পুরিসা মতং আদায় গচ্ছন্তি। 
+
+Four men with a bier carry away the corpse. 
+23.5
+যাবাল়াহনা পদানি পঞ্ঞায়ন্তি। 
+
+Their footprints show the way to the cremation ground. 
+23.6
+কাপোতকানি অট্ঠীনি ভবন্তি, ভস্সন্তা আহুতিয়ো। 
+
+The bones become bleached. Offerings dedicated to the gods end in ashes. 
+23.7
+দত্তুপঞ্ঞত্তং যদিদং দানং। 
+
+Giving is a doctrine of morons. 
+23.8
+তেসং তুচ্ছং মুসা বিলাপো যে কেচি অত্থিকবাদং বদন্তি। 
+
+When anyone affirms a positive teaching it’s just hollow, false nonsense. 
+23.9
+বালে চ পণ্ডিতে চ কায়স্স ভেদা উচ্ছিজ্জন্তি বিনস্সন্তি, ন হোন্তি পরং মরণা’তি।
+
+Both the foolish and the astute are annihilated and destroyed when their body breaks up, and don’t exist after death.’ 
+### ? 
 
 41-Kavatia Kavadana Sulta
 
 12-Lohicoa Sulta
 13
 ### kevaṭṭasutta
+### p11
 #### bhūtanirodhesakabhikkhuvatthu
 এবং বুত্তে, কেবট্ট, তাবতিংসা দেবা তং ভিক্খুং এতদবোচুং:
 70.4
@@ -79,6 +149,7 @@ Therefore, mendicant, the misdeed is yours alone, the mistake is yours alone, in
 তস্মাতিহ, ভিক্খু, তুয়্হেবেতং দুক্কটং, তুয়্হেবেতং অপরদ্ধং, যং ত্বং তং ভগবন্তং অতিধাবিত্বা বহিদ্ধা পরিয়েট্ঠিং আপজ্জসি ইমস্স পঞ্হস্স বেয়্যাকরণায়।
 83.11
 ### tevijja
+### p13
 #### vāseṭṭhāmāṇavānuyoga
 “Well, of the brahmins who are proficient in the three Vedas, Vāseṭṭha, is there even a single one who has seen the Divinity with their own eyes?”
 “কিং পন, বাসেট্ঠ, অত্থি কোচি তেবিজ্জানং ব্রাহ্মণানং একব্রাহ্মণোপি, যেন ব্রহ্মা সক্খিদিট্ঠো”তি?

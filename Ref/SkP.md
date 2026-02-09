@@ -52,6 +52,24 @@ If you had not been born as Kauśikī bringing about the death of Śuṃbha and 
 
 O Vindhyavāsinī (‘Resident of Vindhya’), what fruitful penance has been performed by Vindhya where a friendship with you can be acquired even by the Kirātīs (‘huntresses’)!
 [[RV#b10#10.125]]
+
+# vaiṣṇava
+# k2
+## puruṣottamajagannātha
+## c2
+### s12
+##### 103
+तत्कल्पय महाभाग वाजिमेधपुरःसरम् ।।
+विष्णोः कलेवरे तस्मिन्क्षेत्रे श्रीपुरुषोत्तमे ।। ३ ।।
+
+Arrange that, O greatly fortunate one, with the Aśvamedha placed in the forefront,
+in that body of Viṣṇu, in the sacred field of Śrī Puruṣottama.
+##### 104
+अंतर्वेदी महापुण्या विष्णोर्हृदयसंनिभा ।।
+तस्याः संरक्षणायाहं स्थापितो विष्णुनाष्टधा ।। ४ ।। 
+
+The Antarvedī is supremely holy, resembling the heart of Viṣṇu;
+for its protection I have been established by Viṣṇu in eight forms.
 # āvanti
 # k5
 ## caturaśitiiṅga

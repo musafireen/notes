@@ -1853,10 +1853,23 @@ https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838688
 “Rise, woman, (and go) to the world of living beings; come, this man near whom you sleep is lifeless;you have enjoyed this state of being the wife of your husband, the suitor who took you by the band.”
 ## 10.22
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838732.html
-#### 13
-अ॒स्मे ता त॑ इन्द्र सन्तु स॒त्याहिं॑सन्तीरुप॒स्पृश॑: । वि॒द्याम॒ यासां॒ भुजो॑ धेनू॒नां न व॑ज्रिवः ॥
 
-“May these our (praises) reaching you, Indra, be successful, doing no detriment (to you), so that,thunderer, we may obtain the benefits derivable from them, as (a cowherd enjoys those) from the kine.”
+#### 12
+माकु॒ध्र्य॑गिन्द्र शूर॒ वस्वी॑र॒स्मे भू॑वन्न॒भिष्ट॑यः । 
+
+Hero, Indra, let not our manifold (vasu) sacrifices (abhiṣṭi) be unavailing, (akudhryañc)
+
+व॒यंव॑यं त आसां सु॒म्ने स्या॑म वज्रिवः ॥
+
+but may we all, thunderer (vajrivas), (through) your (favour) continue in the fruition (sumna) of these (our desires).
+#### 13
+अ॒स्मे ता त॑ इन्द्र सन्तु स॒त्याहिं॑सन्तीरुप॒स्पृश॑: । 
+
+May these our (praises) reaching you, Indra, be successful, doing no detriment (to you), 
+
+वि॒द्याम॒ यासां॒ भुजो॑ धेनू॒नां न व॑ज्रिवः ॥
+
+so that, thunderer, we may obtain the benefits derivable from them, as (a cowherd enjoys those) from the kine.
 ## 10.26
 https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc838775.html
 #### 4

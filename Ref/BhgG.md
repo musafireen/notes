@@ -46,6 +46,23 @@ Rain clouds are created from sacrifices
 यज्ञः कर्मसमुद्भवः
 
 and sacrifices are created from action
+# c4
+###### 6.26.7
+यदा यदा हि धर्मस्य ग्लानिर्भवति भारत
+
+Whenever there is a decline of dharma, O Bharata, 
+
+अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्
+
+and a predominant rise of adharma, at that time I manifest Myself
+###### 6.26.8
+परित्राणाय साधूनां विनाशाय च दुष्कृताम्
+
+to protect the good, destroy the wicked, 
+
+धर्मसंस्थापनार्थाय संभवामि युगे युगे
+
+to systematize the Form, I somebow in different ages. 
 # c10
 ###### 6.32.28
 आयुधानामहं वज्रं 

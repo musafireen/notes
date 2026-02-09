@@ -250,7 +250,8 @@ communis: juniper
 ### Abies
 alba: normandy fir; pindrow: kashmir fir; spectabilis: nepal fir; densa: bhutan fir
 ### Cedrus
-: cedar, lebanon, kashmir
+libani: lebanon cedar
+deodara: uttarkhand, kashmir দেওদার,‌ দারুক
 ### Taxus
 Baccata: coniferous, yew; Wallichiana: Himalayan Yew, barmi
 
@@ -427,21 +428,31 @@ jatamansi: himalayan muskroot splikenard
 ## Rosa 
 gallica: lancaster red rose; alba: york white rose (rosid clade)
 ### Cannabis 
-indica: bengal /himalaya pot, sativa: burma /china pot, ruderalis: kazakh /thracian pot (cannabaceae family)
+indica: bengal /himalaya pot, 
+sativa: burma /china pot, 
+ruderalis: kazakh /thracian pot (cannabaceae family)
 ### Ulmus 
-minor: field elm; glabra: wych; wallichiana: kashmir elm (ulmuceae)
+minor: field elm; glabra: wych; 
+wallichiana: kashmir elm (ulmuceae)
 ### prunus 
-dulcis /amygdalus: iran almond; persica: persian peach; domestica: bukhara common plum, আলুবোখারা (amygdaloideae)
+dulcis /amygdalus: iran almond; 
+persica: persian peach; 
+domestica: bukhara common plum, আলুবোখারা (amygdaloideae)
 ### Vitis 
 vinifera: iran grapevine, আঙুর (vitaceae vitales)
 ### Malus
-sylvestris: apple; sieversi: kazakh crabapple
+sylvestris: apple; 
+sieversi: kazakh crabapple
 ### Rhamnus 
 cathartica: tunis? buckthorn (Rhamnaceae)
 #### Ziziphus
-jujuba: xinjiang chinese red date /plum; mauritania: indian plum /jujube কুল বরই; lotus: libya lote; lebanon spina-christi: christ's thorn jujube
+jujuba: xinjiang chinese red date /plum jujuba/jujube; 
+mauritania: indian plum /jujube কুল বরই; 
+lotus: libya lote; 
+spina-christi: christ's thorn lebanon jujube
 ### Cucurbita 
-pepo: pumpkin; squash (cucurbitales, cucurbitaceae)
+(cucurbitales, cucurbitaceae)
+pepo: mexico pumpkin (মিষ্টি কুমড়া); squash; zucchini
 #### Benincasa
 hispida: wax gourd, চাল/জালি কুমড়া 
 ##### Lagenaria
@@ -468,11 +479,17 @@ robur: english oak; suber: pyrenees cork oak
 ##### Alnus
 : alder
 ### Morus 
-nigra: mulberry, indica: chapai tunt, alba: silk mulberry (moraceae mulberry family)
+nigra: mulberry, 
+indica: chapai তুঁত, 
+alba: silk mulberry (moraceae mulberry family)
 #### Ficus 
-carica: fig, turkish anjir; hispida: phalgu, kakdumur; religiosa: peepal, ashwattha; benghalensis: vata
+carica: fig, turkish anjir; 
+hispida: ফল্গু, কাকডুমুর; 
+religiosa: peepal, অশ্বথ; 
+benghalensis: বট
 #### Artocarpus 
-altilis: breadfruit; heterophyllus: jackfruit
+altilis: breadfruit; 
+heterophyllus: jackfruit
 ### Vicia_(faba)
 Sativa: আঁকড়ি হেটকি, 
 Faba: fava bean (Fabid clade, Fabales order, Fabaceae family)
@@ -611,11 +628,17 @@ aromaticum: ceylon \maluku clove (lobongo)
 ###### Terminalia 
 arjuna: arjuna
 #### Brassica
-oleracea: cyprus cauliflower (ফুলকপি), greek cabbage (বাঁধাকপি), broccoli, kale, collard ; 
-juncea: punjab brown mustard (sarisa); 
-nigra: argentina black mustard (brasicales)
+(brasicales)
+oleracea: cyprus cauliflower (ফুলকপি); greek cabbage (বাঁধাকপি); broccoli; kale; collard; irish german turnip/cabbage kohlrabi (ওলকপি) ; 
+juncea: punjab brown oilseed mustard (লাই শাক, রাই সরিষা); 
+nigra: argentina black mustard (কালো সরিষা);
+napus: canola rapeseed (সরিষা); swedish turnip rutabaga; 
+rapa: turnip (শালগম); bird's/turnip rape, field mustard, keblock (রাই সরিষা শাক);
+##### raphanus
+sativus: cambodia radish, মূলা; 
+raphanistrum: wild radish, white jointed charlock
 ##### Sinapis
-alba: lebanon white mustard
+alba: lebanon dijon white yellow mustard (সাদা/হলুদ সরিষা)
 #### Althaea 
 officinalis: marshmallow
 #### Abutilon
@@ -647,7 +670,7 @@ maculatum: cuckoopoint, jack-in-the-pulpit,
 #### Colocasia
 esculenta: taro, কচু, মুখী
 #### amorphophallus
-paeoniifolius: elephant foot yam, ওলকচু
+paeoniifolius: cambodia elephant foot yam, মুণ্ডা ওলকচু
 #### Caladium
 bicolor: columbian elephant ear
 ## Commelina

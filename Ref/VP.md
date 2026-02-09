@@ -196,3 +196,10 @@ The branch-divisions of those Vājin texts were fifteen.
 
 काण्वाद्यास्तु महाभाग याज्ञवल्क्यप्रवर्तिताः ॥ २९ ॥  
 The Kāṇva and others, O fortunate one, were propagated by Yājñavalkya.
+
+# b4
+## c24
+#### 98
+श्रौतस्मार्त्ते च धर्मे विप्लवमत्यंतमुपगते क्षीणप्राये च कलावश्षोजगत्स्रष्टुश्चराचरगुरोरादिमध्यांतरहितस्य ब्रह्ममयस्यात्मरूपिणो भगवतो वासुदेवस्यांशश्शंबलग्रामप्रधानब्राह्मणस्य विष्णुयशसो गृहेष्टगुणर्द्धिसमन्वितः कल्किरूपीजगत्यत्रावतीर्य सकलम्लेच्छदस्युदुष्टाचरणचेतसामश्षोआ!णामपरिच्छिन्नशक्तिमाहा-त्म्यः क्षयं करिष्यति स्वधर्मेषु चाखिलमेव संस्थापयिष्यति ९८ ।
+
+When the practices taught by the Vedas and the institutes of law shall nearly have ceased, and the close of the Kali age shall be nigh, a portion of that divine being who exists of his own spiritual nature in the character of Brahma, and who is the beginning and the end, and who comprehends all things, shall descend upon earth: he will be born in the family of Viṣṇuyaśas, an eminent Brahman of Sambhala village, as Kalki, endowed with the eight superhuman faculties. By his irresistible might he will destroy all the Mlecchas and thieves, and all whose minds are devoted to iniquity. He will then reestablish righteousness upon earth; 

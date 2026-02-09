@@ -67,7 +67,64 @@ And they worshipped the dragon which gave power unto the beast: and they worship
 και εδοθη αυτω στομα λαλουν μεγαλα και βλασφημιας και εδοθη αυτω εξουσια ποιησαι μηνας τεσσαρακοντα δυο
 
 And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty [and] two months.
+### 6
+And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
 
+και ηνοιξεν το στομα αυτου εις βλασφημιαν προς τον θεον βλασφημησαι το ονομα αυτου και την σκηνην αυτου και τους εν τω ουρανω σκηνουντας
+### 7
+και εδοθη αυτω πολεμον ποιησαι μετα των αγιων και νικησαι αυτους και εδοθη αυτω εξουσια επι πασαν φυλην και γλωσσαν και εθνος
+
+And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.
+### 8
+και προσκυνησουσιν αυτω παντες οι κατοικουντες επι της γης ων ου γεγραπται τα ονοματα εν τη βιβλω της ζωης του αρνιου εσφαγμενου απο καταβολης κοσμου
+
+And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
+### 9
+ει τις εχει ους ακουσατω
+
+If any man have an ear, let him hear.
+### 10
+ει τις αιχμαλωσιαν συναγει εις αιχμαλωσιαν υπαγει ει τις εν μαχαιρα αποκτενει δει αυτον εν μαχαιρα αποκτανθηναι ωδε εστιν η υπομονη και η πιστις των αγιων
+
+He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.
+### 11
+και ειδον αλλο θηριον αναβαινον εκ της γης και ειχεν κερατα δυο ομοια αρνιω και ελαλει ως δρακων
+
+And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
+### 12
+και την εξουσιαν του πρωτου θηριου πασαν ποιει ενωπιον αυτου και ποιει την γην και τους κατοικουντας εν αυτη ινα προσκυνησωσιν το θηριον το πρωτον ου εθεραπευθη η πληγη του θανατου αυτου
+
+And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
+### 13
+13και ποιει σημεια μεγαλα ινα και πυρ ποιη καταβαινειν εκ του ουρανου εις την γην ενωπιον των ανθρωπων
+
+And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,
+
+### 14
+14και πλανα τους κατοικουντας επι της γης δια τα σημεια α εδοθη αυτω ποιησαι ενωπιον του θηριου λεγων τοις κατοικουσιν επι της γης ποιησαι εικονα τω θηριω ο εχει την πληγην της μαχαιρας και εζησεν
+
+And deceiveth them that dwell on the earth by [the means of] those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
+
+### 15
+15και εδοθη αυτω δουναι πνευμα τη εικονι του θηριου ινα και λαληση η εικων του θηριου και ποιηση οσοι αν μη προσκυνησωσιν την εικονα του θηριου ινα αποκτανθωσιν
+
+And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed
+
+n1 life: Gr. breath
+### 16
+16και ποιει παντας τους μικρους και τους μεγαλους και τους πλουσιους και τους πτωχους και τους ελευθερους και τους δουλους ινα δωση αυτοις χαραγμα επι της χειρος αυτων της δεξιας η επι των μετωπων αυτων
+
+And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
+
+n1 to receive: Gr. to give them
+### 17
+17και ινα μη τις δυνηται αγορασαι η πωλησαι ει μη ο εχων το χαραγμα η το ονομα του θηριου η τον αριθμον του ονοματος αυτου
+
+And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
+### 18
+ωδε η σοφια εστιν ο εχων τον νουν ψηφισατω τον αριθμον του θηριου αριθμος γαρ ανθρωπου εστιν και ο αριθμος αυτου χξς
+
+Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number [is] Six hundred threescore [and] six.
 ## c14
 ### 4
 ουτοι εισιν οι μετα γυναικων ουκ εμολυνθησαν παρθενοι γαρ εισιν ουτοι εισιν οι ακολουθουντες τω αρνιω οπου αν υπαγη ουτοι ηγορασθησαν απο των ανθρωπων απαρχη τω θεω και τω αρνιω
