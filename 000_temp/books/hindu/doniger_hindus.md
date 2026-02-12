@@ -13,14 +13,24 @@ In the Rig Veda’ (the earliest Sanskrit text, from c. 1200 BCE), the word ahim
 ▪ ancient sculptures (such as the Gudimallam linga from the third century BCE) define this image unequivocally as an iconic representation of the male sexual organ in erection (tirupati 
 
 200 (dharanikota satavahans) - 700 (kanchi pallava))
+: k.r srinivasan
 
+![[TS#4.5]]
+# 4
 ▪ “Garland of Games” of Kshemendra, a Brahmin who lived in Kashmir in the eleventh century, refers to the human counterpart of the Shiva linga: “Having locked up the house on the pretext of venerating the linga, Randy scratches her itch with a linga of skin.”4 The first linga in this verse is certainly Shiva’s, and there is an implied parallelism, if not identity, between it and the second one, which could be either a leather dildo or its human prototype, attached to a man (?)
+
+![[ksmndr#nrm]]
+# 5
 
 ▪ some Hindus who see the linga as an abstract symbol therefore object to the interpretations of those who view it anthropomorphically; their Christian counterparts would be people who refuse to acknowledge that the cross ever referred to the passion of Christ. Visitors to the Gudimallam linga in the early twenty-first century noted that while the large linga as a whole remains entirely naked, with all its anatomical detail, the small image of a naked man on the front of the linga was covered with a chaste cloth (?)
 
 ▪ Myth has been called “the smoke of history,”7 (india, keay)
-
+# 7
 ▪ lawmaker Manu too, in the early centuries CE, treats mleccha as a linguistic term, contrasted with Arya (which he correctly regards as a linguistic term) rather than with Dasyu (an ethnic term); those outside the four classes (varnas) are aliens (Dasyus), whether they speak barbarian (mleccha) languages or Arya languages (10.45). (mnSm.10:45)
+
+![[mnsmr#10.45]]
+
+# 8
 
 ▪ in the second or third century CE, the Kama-sutra tells us not only that women had such access but even that they sometimes commissioned such texts to be written (1.3) (kmS.1.3)
 

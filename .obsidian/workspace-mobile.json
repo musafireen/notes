@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/hdt.hist.md",
-                "mode": "source",
+                "file": "Ref/TS.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hdt.hist"
+              "title": "TS"
             }
           }
         ],
@@ -229,7 +229,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ref/arstl.MetP.md",
             "followCursor": false,
             "showSearch": true,
             "searchQuery": "34:4"
@@ -251,6 +250,11 @@
   "active": "af64ac8b84b6e31e",
   "lastOpenFiles": [
     "000_temp/books/hindu/doniger_hindus.md",
+    "Ref/TS.md",
+    "Ref/Ksmndr.md",
+    "Ref/ngj.md",
+    "Ref/MnSmr.md",
+    "Ref/hdt.hist.md",
     "000_temp/books/hindu/adamson_indi_phil.md",
     "000_temp/hindu/adamson_indi_phil.md",
     "000_temp/hindu",
@@ -279,11 +283,6 @@
     "Ref/bbl.poetry.md",
     "Ref/bbl.john.md",
     "Ref/bbl.prop.nev.md",
-    "002_quran/sm/sm.md",
-    "002_quran/sm/smy.md",
-    "nature_archaeology/species.md",
-    "Ref/porph.md",
-    "Ref/BhgG.md",
     "002_quran/sm",
     "002_quran/shahadat/martyr",
     "boomerang/naik_vas.png",

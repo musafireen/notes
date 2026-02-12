@@ -367,9 +367,16 @@ The crow would eat the Sacrificial Cake, and the dog would lick the offering-mat
 https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201731.html
 ### 10.45
 मुखबाहूरुपद्जानां या लोके जातयो बहिः ।
-म्लेच्छवाचश्चार्यवाचः सर्वे ते दस्यवः स्मृताः ॥ ४५ ॥
 
-All those races of the world which are outside the pale of the people ‘born of the mouth, the arms, the thighs and the feet,’—speaking the (mleccha) ‘barbaric’ or the (ārya) ‘refined’ language—are called ‘Dasyu.’—(45)
+Those races of the world which are outside the pale of the people ‘born of the mouth, the arms, the thighs and the feet,’—
+
+म्लेच्छवाचश्चार्यवाचः 
+
+speaking the (mleccha) ‘barbaric’ or the (ārya) ‘refined’ language
+
+सर्वे ते दस्यवः स्मृताः ॥ ४५ ॥
+
+—All are called ‘Dasyu.’—(45)
 # c11
 https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201875.html
 ### 11.92

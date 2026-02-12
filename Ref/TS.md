@@ -799,106 +799,174 @@ e The sky, penetrated by ambrosia, the unconquered (thou art); the Adityas are t
  साष्टा च॑त्वारिꣳशच्च ॥ ४। ४। ५॥
 ## 4.5
 ### 4.5.1
-१ नम॑स्ते रुद्र म॒न्यव॑ उ॒तोत॒ इष॑ वे॒ नमः॑ । नम॑स्ते अस्तु॒ धन्व॑ने
-   बा॒हुभ्या॑मु॒त ते॒ नमः॑ ॥ यात॒ इषुः॑ शि॒वत॑मा शि॒वं ब॒भूव॑
-   ते॒ धनुः॑ । शि॒वा श॑र॒व्या॑ या तव॒ तया॑ नो रुद्र मृडय ॥ या ते॑ रुद्र
-   शि॒वा त॒नूरघो॒रापा॑पकाशिनी । तया॑ नस्त॒नुवा॒ शंत॑मया॒ गिरि॑शन्ता॒भि
-   चा॑कशीहि ॥ यामिषुं॑ गिरिशन्त॒ हस्ते॒
-   
 iv. 5. 1.
+
+१ 
+नम॑स्ते रुद्र म॒न्यव॑ उ॒तोत॒ इष॑ वे॒ नमः॑ । 
+
 a Homage to thy wrath, O Rudra,
 To thine arrow homage also;
+
+नम॑स्ते अस्तु॒ धन्व॑ने
+बा॒हुभ्या॑मु॒त ते॒ नमः॑ ॥ 
+
 Homage to thy bow,
 And homage to thine arms.
+
+यात॒ इषुः॑ शि॒वत॑मा शि॒वं ब॒भूव॑ ते॒ धनुः॑ । 
+
 b With thy most kindly arrow,
 And kindly bow,
+
+शि॒वा श॑र॒व्या॑ या तव॒ तया॑ नो रुद्र मृडय ॥ 
+
 With thy kindly missile,
 Be gentle to us, O Rudra.
+
+या ते॑ रुद्र शि॒वा त॒नूरघो॒रापा॑पकाशिनी । 
+
 c That body of thine, O Rudra, which is kindly,
 Not dread, with auspicious look,
+
+तया॑ नस्त॒नुवा॒ शंत॑मया॒ गिरि॑शन्ता॒भि
+चा॑कशीहि ॥ 
+
 With that body, most potent to heal,
 O haunter of the mountains, do thou look on us.
+
+यामिषुं॑ गिरिशन्त॒ हस्ते॒ २ बिभ॒र्॒ष्यस्त॑वे । 
+
 d The arrow which, O haunter of mountains,
 In thy hand [1] thou bearest to shoot,
+
+शि॒वां गि॑रित्र॒ तां कु॑रु॒ मा हिꣳ॑सीः॒ पुरु॑षं॒ जग॑त् ॥ 
+
 That make thou kindly, O guardian of mountains;
 Harm not the world of men.
 
-२ बिभ॒र्॒ष्यस्त॑वे । शि॒वां गि॑रित्र॒ तां कु॑रु॒ मा हिꣳ॑सीः॒ पुरु॑षं॒
-   जग॑त् ॥ शि॒वेन॒ वच॑सा त्वा॒ गिरि॒शाच्छा॑ वदामसि । यथा॑ नः॒
-   सर्व॒मिज्जग॑दय॒क्ष्मꣳ सु॒मना॒ अस॑त् ॥ अध्य॑वोचदधिव॒क्ता प्र॑थ॒मो
-   दैव्यो॑ भि॒षक् । अहीग्॑श्च॒ सर्वा᳚ञ्जं॒भय॒न्थ्सर्वा᳚श्च यातुधा॒न्यः॑
-   ॥ अ॒सौ यस्ता॒म्रो अ॑रु॒ण उ॒त ब॒भ्रुः सु॑म॒ङ्गलः॑ । ये चे॒माꣳ रु॒द्रा
-   अ॒भितो॑ दि॒क्षु
+शि॒वेन॒ वच॑सा त्वा॒ गिरि॒शाच्छा॑ वदामसि । 
 
 e With kindly utterance thee
 We address, O liver on the mountains,
+
+यथा॑ नः॒ सर्व॒मिज्जग॑दय॒क्ष्मꣳ सु॒मना॒ अस॑त् ॥ 
+
 That all our folk
 Be free from sickness and of good cheer.
+
+अध्य॑वोचदधिव॒क्ता प्र॑थ॒मो दैव्यो॑ भि॒षक् । 
+
 f The advocate hath spoken in advocacy,
 The first divine leech,
+
+अहीग्॑श्च॒ सर्वा᳚ञ्जं॒भय॒न्थ्सर्वा᳚श्च यातुधा॒न्यः॑ ॥ 
+
 Confounding all the serpents
 And all sorceries.
+
+अ॒सौ यस्ता॒म्रो अ॑रु॒ण उ॒त ब॒भ्रुः सु॑म॒ङ्गलः॑ । 
+
 g The dusky, the ruddy,
 The brown, the auspicious,
+
+ये चे॒माꣳ रु॒द्रा अ॒भितो॑ दि॒क्षु ३ श्रि॒ताः स॑हस्र॒शोऽवै॑षा॒ꣳ॒ हेड॑ ईमहे ॥ 
+
 And the Rudras which in thousands
 Lie around this (earth) in the quarters [2],
 Their wrath do we deprecate.
+
+अ॒सौ यो॑ऽव॒सर्प॑ति॒ नील॑ग्रीवो॒ विलो॑हितः । 
+
 h He who creepeth away,
 Blue-necked and ruddy,
+
+उ॒तैनं॑ गो॒पा अ॑दृश॒न्नदृ॑शन्नुदहा॒र्यः॑ ।
+उ॒तैनं॒ विश्वा॑ भू॒तानि॒ 
+
 Him the cowherds have seen,
 Have seen the bearers of water
 And him all creatures;
+
+स दृ॒ष्टो मृ॑डयाति नः ॥ 
+
 May be, seen, be gentle unto us.
 
-३ श्रि॒ताः स॑हस्र॒शोऽवै॑षा॒ꣳ॒ हेड॑ ईमहे ॥ अ॒सौ यो॑ऽव॒सर्प॑ति॒
-   नील॑ग्रीवो॒ विलो॑हितः । उ॒तैनं॑ गो॒पा अ॑दृश॒न्नदृ॑शन्नुदहा॒र्यः॑ ।
-   उ॒तैनं॒ विश्वा॑ भू॒तानि॒ स दृ॒ष्टो मृ॑डयाति नः ॥ नमो॑ अस्तु॒ नील॑ग्रीवाय
-   सहस्रा॒क्षाय॑ मी॒डुषे᳚ । अथो॒ ये अ॑स्य॒ सत्वा॑नो॒ऽहं तेभ्यो॑ऽकरं॒
-   नमः॑ ॥ प्र मु॑ञ्च॒ धन्व॑न॒स्त्वमु॒भयो॒रार्त्नि॑यो॒र्ज्याम् । याश्च॑ ते॒
-   हस्त॒ इष॑वः॒
+नमो॑ अस्तु॒ नील॑ग्रीवाय सहस्रा॒क्षाय॑ मी॒डुषे᳚ । 
 
 i Homage to the blue-necked,
 Thousand-eyed one, the bountiful
+
+अथो॒ ये अ॑स्य॒ सत्वा॑नो॒ऽहं तेभ्यो॑ऽकरं॒ नमः॑ ॥ 
+
 And to those that are his warriors
 I have paid my homage.
+
+प्र मु॑ञ्च॒ धन्व॑न॒स्त्वमु॒भयो॒रार्त्नि॑यो॒र्ज्याम् । 
+
 k Unfasten from the two notches
 Of thy bow the bowstring,
+
+याश्च॑ ते॒ हस्त॒ इष॑वः॒
+४ परा॒ ता भ॑गवो वप ॥ 
+
 And cast thou down
 The arrows in thy hand [3].
+
+अ॒व॒तत्य॒ धनु॒स्त्वꣳ सह॑स्राक्ष॒ शते॑षुधे । 
+
 1 Unstringing thy bow,
 Do thou of a thousand eyes and a hundred quivers,
+
+नि॒शीर्य॑ श॒ल्यानां॒ मुखा॑ शि॒वो नः॑ सु॒मना॑ भव ॥
+
 Destroying the points of thine arrows,
 Be gentle and kindly to us.
 
-४ परा॒ ता भ॑गवो वप ॥ अ॒व॒तत्य॒ धनु॒स्त्वꣳ सह॑स्राक्ष॒
- शते॑षुधे । नि॒शीर्य॑ श॒ल्यानां॒ मुखा॑ शि॒वो नः॑ सु॒मना॑ भव ॥
-
- विज्यं॒ धनुः॑ कप॒र्दिनो॒ विश॑ल्यो॒ बाण॑वाꣳ उ॒त । अने॑शन्न॒स्येष॑व
- आ॒भुर॑स्य निष॒ङ्गथिः॑ ॥ या ते॑ हे॒तिर्मी॑ढुष्टम॒ हस्ते॑ ब॒भूव॑
- ते॒ धनुः॑ । तया॒स्मान्, वि॒श्वत॒स्त्वम॑य॒क्ष्मया॒ परि॑ ब्भुज ॥ नम॑स्ते
- अ॒स्त्वायु॑धा॒याना॑तताय धृ॒ष्णवे᳚ । उ॒भाभ्या॑मु॒त ते॒ नमो॑ बा॒हुभ्यां॒
- तव॒ धन्व॑ने ॥ परि॑ ते॒ धन्व॑नो हे॒तिर॒स्मान्वृ॑णक्तु वि॒श्वतः॑ । अथो॒ य
- इ॑षु॒धिस्तवा॒रे अ॒स्मन्नि धे॑हि॒ तम् ॥ ४। ५। १॥ हस्ते॑ दि॒क्ष्विष॑व उ॒भाभ्यां॒
- द्वा विꣳ॑शतिश्च ॥ ४। ५। १॥
-
+विज्यं॒ धनुः॑ कप॒र्दिनो॒ 
 
 m Unstrung is the bow of him of the braided hair
+
+विश॑ल्यो॒ बाण॑वाꣳ उ॒त । 
+
 And arrowless his quiver;
+
+अने॑शन्न॒स्येष॑व आ॒भुर॑स्य निष॒ङ्गथिः॑ ॥ 
+
 His arrows have departed,
 Empty is his quiver.
+
+या ते॑ हे॒तिर्मी॑ढुष्टम॒ हस्ते॑ ब॒भूव॑ ते॒ धनुः॑ । 
+
 n O most bountiful one, the missile
 That is in thy hand, thy bow,
+
+तया॒स्मान्, वि॒श्वत॒स्त्वम॑य॒क्ष्मया॒ परि॑ ब्भुज ॥ 
+
 With it on all sides do thou guard us,
 Free from sickness.
+
+नम॑स्ते अ॒स्त्वायु॑धा॒याना॑तताय धृ॒ष्णवे᳚ । 
+
 o Homage to thy weapon,
 Unstrung, dread;
+
+उ॒भाभ्या॑मु॒त ते॒ नमो॑ बा॒हुभ्यां॒ तव॒ धन्व॑ने ॥ 
+
 And homage to thy two hands,
 To thy bow.
+
+परि॑ ते॒ धन्व॑नो हे॒तिर॒स्मान्वृ॑णक्तु वि॒श्वतः॑ । 
+
 p May the missile from thy bow
 Avoid us on every side,
+
+अथो॒ य इ॑षु॒धिस्तवा॒रे अ॒स्मन्नि धे॑हि॒ तम् ॥ ४। ५। १॥ 
+
 And do thou lay far from us
 This quiver that is thine.
 
+हस्ते॑ दि॒क्ष्विष॑व उ॒भाभ्यां॒
+द्वा विꣳ॑शतिश्च ॥ ४। ५। १॥
 ### 4.5.2
 ५ नमो॒ हिर॑ण्यबाहवे सेना॒न्ये॑ दि॒शां च॒ पत॑ये॒ नमो॒ नमो॑ वृ॒क्षेभ्यो॒
  हरि॑केशेभ्यः पशू॒नां पत॑ये॒ नमो॒ नमः॑ स॒स्पिञ्ज॑राय॒ त्विषी॑मते
@@ -929,74 +997,151 @@ l Homage to the extender of the world, the offspring of the maker of room, to th
 m Homage to the loud calling, the screaming, to the lord of footmen homage!
 n Homage to the wholly covered, to the running, to the lord of warriors homage!
 ### 4.5.3
-७ नमः॒ सह॑मानाय निव्या॒धिन॑ आव्या॒धिनी॑नां॒ पत॑ये॒ नमो॒ नमः॑ ककु॒भाय॑
- निष॒ङ्गिणे᳚ स्ते॒नानां॒ पत॑ये॒ नमो॒ नमो॑ निष॒ङ्गिण॑ इषुधि॒मते॒
- तस्क॑राणां॒ पत॑ये॒ नमो॒ नमो॒ वञ्च॑ते परि॒वञ्च॑ते स्तायू॒नां पत॑ये॒
- नमो॒ नमो॑ निचे॒रवे॑ परिच॒रायार॑ण्यानां॒ पत॑ये॒ नमो॒ नमः॑ सृका॒विभ्यो॒
- जिघाꣳ॑ सद्भ्यो मुष्ण॒तां पत॑ये॒ नमो॒ नमो॑ऽसि॒मद्भ्यो॒ नक्तं॒ चर॑द्भ्यः
- प्रकृ॒न्तानां॒ पत॑ये॒ नमो॒ नम॑ उष्णी॒षिणे॑ गिरिच॒राय॑ कुलु॒ञ्चानां॒
- पत॑ये॒ नमो॒ नम॒
+७ नमः॒ सह॑मानाय निव्या॒धिन॑ आव्या॒धिनी॑नां॒ पत॑ये॒ नमो॒ 
 
 a Homage to the strong, the piercing, to the lord of assailers homage!
+
+नमः॑ ककु॒भाय॑ निष॒ङ्गिणे᳚ स्ते॒नानां॒ पत॑ये॒ नमो॒ 
+
 b Homage to the leader, the holder of the quiver, to the lord of thieves homage!
+
+नमो॑ निष॒ङ्गिण॑ इषुधि॒मते॒
+तस्क॑राणां॒ पत॑ये॒ नमो॒ 
+
 c Homage to the holder of the quiver, to the owner of the quiver, to the lord of robbers homage!
+
+नमो॒ वञ्च॑ते परि॒वञ्च॑ते स्तायू॒नां पत॑ये॒ नमो॒ 
+
 d Homage to the cheater, the swindler, to the lord of burglars homage!
+
+नमो॑ निचे॒रवे॑ परिच॒रायार॑ण्यानां॒ पत॑ये॒ नमो॒ 
+
 c Homage to the glider, to the wanderer around, to the lord of the forests homage!
+
+नमः॑ सृका॒विभ्यो॒ जिघाꣳ॑ सद्भ्यो मुष्ण॒तां पत॑ये॒ नमो॒ 
+
 f Homage to the bolt-armed destructive ones, to the lord of pilferers homage!
+
+नमो॑ऽसि॒मद्भ्यो॒ नक्तं॒ चर॑द्भ्यः
+प्रकृ॒न्तानां॒ पत॑ये॒ नमो॒ 
+
 g Homage to the bearers of the sword, the night wanderers, to the lord of cut-purses homage!
+
+नम॑ उष्णी॒षिणे॑ गिरिच॒राय॑ कुलु॒ञ्चानां॒
+पत॑ये॒ नमो॒ 
+
 h Homage to the turbaned wanderer on the mountains, to the lord of pluckers homage!
+
+नम॒ ८ इषु॑मद्भ्यो धन्वा॒विभ्य॑श्च वो॒ नमो॒ 
+
 i Homage [1] to you, bearers of arrows, and to you, bowmen, homage!
 
-८ इषु॑मद्भ्यो धन्वा॒विभ्य॑श्च वो॒ नमो॒ नम॑ आतन्वा॒नेभ्यः॑
- प्रति॒दधा॑नेभ्यश्च वो॒ नमो॒ नम॑ आ॒यच्छ॑द्भ्यो विसृ॒जद्भ्य॑श्च वो॒ नमो॒
- नमोऽस्य॑द्भ्यो॒ विध्य॑द्भ्यश्च वो॒ नमो॒ नम॒ आसी॑नेभ्यः॒ शया॑नेभ्यश्च
- वो॒ नमो॒ नमः॑ स्व॒पद्भ्यो॒ जाग्र॑द्भ्यश्च वो॒ नमो॒ नम॒स्तिष्ठ॑द्भ्यो॒
- धाव॑द्भ्यश्च वो॒ नमो॒ नमः॑ स॒भाभ्यः॑ स॒भाप॑तिभ्यश्च वो॒ नमो॒ नमो॒
- अश्वे॒भ्योऽश्व॑पतिभ्यश्च वो॒ नमः॑ ॥ ४। ५। ३॥ कु॒लु॒ङ्चानां॒ पत॑ये॒ नमो॒
- नमोश्व॑पतिभ्य॒स्त्रीणि॑ च ॥ ४। ५। ३॥
+नम॑ आतन्वा॒नेभ्यः॑ प्रति॒दधा॑नेभ्यश्च वो॒ नमो॒ 
 
 k Homage to you that string (the bow), and to you that place (on the arrow), homage!
+
+नम॑ आ॒यच्छ॑द्भ्यो विसृ॒जद्भ्य॑श्च वो॒ नमो॒
+
 l Homage to you that bend (the bow), and to you that let go the arrow) homage!
+
+नमोऽस्य॑द्भ्यो॒ विध्य॑द्भ्यश्च वो॒ नमो॒ 
+
 m Homage to you that hurl, and to you that pierce homage!
+
+नम॒ आसी॑नेभ्यः॒ शया॑नेभ्यश्च वो॒ नमो॒ 
+
 n Homage to you that art seated, and to you that lie homage!
+
+नमः॑ स्व॒पद्भ्यो॒ जाग्र॑द्भ्यश्च वो॒ नमो॒ 
+
 o Homage to you that sleep, and to you that wake homage!
+
+नम॒स्तिष्ठ॑द्भ्यो॒ धाव॑द्भ्यश्च वो॒ नमो॒ 
+
 P Homage to you that stand, and to you that run homage!
+
+नमः॑ स॒भाभ्यः॑ स॒भाप॑तिभ्यश्च वो॒ नमो॒ 
+
 q Homage to you assemblies, and to you, lords of assemblies, homage!
+
+नमो॒ अश्वे॒भ्योऽश्व॑पतिभ्यश्च वो॒ नमः॑ ॥ ४। ५। ३॥ 
+
 r Homage to you horses, and to you, lords of horses, homage!
+
+कु॒लु॒ङ्चानां॒ पत॑ये॒ नमो॒
+
+नमोश्व॑पतिभ्य॒स्त्रीणि॑ च ॥ ४। ५। ३॥
 ### 4.5.4
-९ नम॑ आव्या॒धिनी᳚भ्यो वि॒विध्य॑न्तीभ्यश्च वो॒ नमो॒ नम॒
- उग॑णाभ्यस्तृꣳह॒तीभ्य॑श्च वो॒ नमो॒ नमो॑ गृ॒थ्सेभ्यो॑
- गृ॒थ्सप॑तिभ्यश्च वो॒ नमो॒ नमो॒ व्राते᳚भ्यो॒ व्रात॑पतिभ्यश्च
- वो॒ नमो॒ नमो॑ ग॒णेभ्यो॑ ग॒णप॑तिभ्यश्च वो॒ नमो॒ नमो॒ विरू॑पेभ्यो
- वि॒श्वरू॑पेभ्यश्च वो॒ नमो॒ नमो॑ म॒हद्भ्यः॑, क्षुल्ल॒केभ्य॑श्च वो॒ नमो॒
- नमो॑ र॒थिभ्यो॑ऽर॒थेभ्य॑श्च वो॒ नमो॒ नमो॒ रथे᳚भ्यो॒
+९ नम॑ आव्या॒धिनी᳚भ्यो वि॒विध्य॑न्तीभ्यश्च वो॒ नमो॒ 
+
+b Homage to you that are in bands, and to you that are destructive homage!
+
+नम॒ उग॑णाभ्यस्तृꣳह॒तीभ्य॑श्च वो॒ नमो॒ 
 
 a Homage to you that wound, and to you that pierce homage!
-b Homage to you that are in bands, and to you that are destructive homage!
+
+नमो॑ गृ॒थ्सेभ्यो॑ गृ॒थ्सप॑तिभ्यश्च वो॒ नमो॒ 
+
 c Homage to you sharpers, and to you, lords of sharpers, homage!
+
+नमो॒ व्राते᳚भ्यो॒ व्रात॑पतिभ्यश्च वो॒ नमो॒ 
+
 d Homage to you hosts, and to you, lord of hosts, homage!
+
+नमो॑ ग॒णेभ्यो॑ ग॒णप॑तिभ्यश्च वो॒ नमो॒ 
+
 e Homage to you troops, and to you, lords of troops, homage
+
+नमो॒ विरू॑पेभ्यो वि॒श्वरू॑पेभ्यश्च वो॒ नमो॒ 
+ 
 f Homage to you of misshapen form, and to you of all forms homage!
+
+नमो॑ म॒हद्भ्यः॑, क्षुल्ल॒केभ्य॑श्च वो॒ नमो॒
+
 g Homage to you that are great, and to you that are small homage!
+ 
+नमो॑ र॒थिभ्यो॑ऽर॒थेभ्य॑श्च वो॒ नमो॒ 
+
 h Homage to you that have chariots, and to you that are chariotless homage!
+
+नमो॒ रथे᳚भ्यो॒ १० रथ॑पतिभ्यश्च वो॒ नमो॒ 
+
 i Homage to you chariots [1], and to you, lords of chariots, homage!
 
-१० रथ॑पतिभ्यश्च वो॒ नमो॒ नमः॒ सेना᳚भ्यः सेना॒निभ्य॑श्च वो॒ नमो॒
- नमः॑, क्ष॒त्तृभ्यः॑ संग्रही॒तृभ्य॑श्च वो॒ नमो॒ नम॒स्तक्ष॑भ्यो
- रथका॒रेभ्य॑श्च वो॒ नमो॒ नमः॒ कुला॑लेभ्यः क॒र्मारे᳚भ्यश्च वो॒ नमो॒
- नमः॑ पु॒ञ्जिष्टे᳚भ्यो निषा॒देभ्य॑श्च वो॒ नमो॒ नम॑ इषु॒कृद्भ्यो॑
- धन्व॒कृद्भ्य॑श्च वो॒ नमो॒ नमो॑ मृग॒युभ्यः॑ श्व॒निभ्य॑श्च वो॒
- नमो॒ नमः॒ श्वभ्यः॒ श्वप॑तिभ्यश्च वो॒ नमः॑ ॥ ४। ५। ४॥ रथे᳚भ्यः॒
- श्वप॑तिभ्यश्च॒ द्वे च॑ ॥ ४। ५। ४॥
+नमः॒ सेना᳚भ्यः सेना॒निभ्य॑श्च वो॒ नमो॒
  
 k Homage to you hosts, and to you, lords of hosts, homage!
+
+नमः॑, क्ष॒त्तृभ्यः॑ संग्रही॒तृभ्य॑श्च वो॒ नमो॒ 
+
 I Homage to you, doorkeepers, and to you, charioteers, homage!
+
+नम॒स्तक्ष॑भ्यो रथका॒रेभ्य॑श्च वो॒ नमो॒ 
+
 m Homage to you, carpenters, and to you, makers of chariots, homage!
+
+नमः॒ कुला॑लेभ्यः क॒र्मारे᳚भ्यश्च वो॒ नमो॒
+
 n Homage to you, potters, and to you, smiths, homage!
+
+नमः॑ पु॒ञ्जिष्टे᳚भ्यो निषा॒देभ्य॑श्च वो॒ नमो॒ 
+
 o Homage to you, Puñjistas, and to you, Nisadas, homage!
+
+नम॑ इषु॒कृद्भ्यो॑ धन्व॒कृद्भ्य॑श्च वो॒ नमो॒ 
+
 p Homage to you, makers of arrows, and to you, makers of bows, homage!
+
+नमो॑ मृग॒युभ्यः॑ श्व॒निभ्य॑श्च वो॒ नमो॒ 
+
 q Homage to you, hunters, and to you, dog-leaders, homage!
+
+नमः॒ श्वभ्यः॒ श्वप॑तिभ्यश्च वो॒ नमः॑ ॥ ४। ५। ४॥ 
+
 r Homage to you dogs, and to you, lords of dogs, homage!
+
+रथे᳚भ्यः॒ श्वप॑तिभ्यश्च॒ द्वे च॑ ॥ ४। ५। ४॥
+
 ### 4.5.5
 ११ नमो॑ भ॒वाय॑ च रु॒द्राय॑ च॒ नमः॑ श॒र्वाय॑ च पशु॒पत॑ये च॒ नमो॒
  नील॑ग्रीवाय च शिति॒कण्ठा॑य च॒ नमः॑ कप॒र्दिने॑ च॒ व्यु॑प्तकेशाय च॒

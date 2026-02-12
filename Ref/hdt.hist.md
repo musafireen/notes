@@ -587,6 +587,79 @@ As to the customs of the Persians, I know them to be these. It is not their cust
 [3] τούτοισι μὲν δὴ θύουσι μούνοισι ἀρχῆθεν, ἐπιμεμαθήκασι δὲ καὶ τῇ Οὐρανίῃ θύειν, παρά τε Ἀσσυρίων μαθόντες καὶ Ἀραβίων. καλέουσι δὲ Ἀσσύριοι τὴν Ἀφροδίτην Μύλιττα, Ἀράβιοι δὲ Ἀλιλάτ, Πέρσαι δὲ Μίτραν.
 
 [3] From the beginning, these are the only gods to whom they have ever sacrificed; they learned later to sacrifice to the “heavenly”1 Aphrodite from the Assyrians and Arabians. She is called by the Assyrians Mylitta, by the Arabians Alilat, by the Persians Mitra.
+## c133
+#### 1
+ἡμέρην δὲ ἁπασέων μάλιστα ἐκείνην τιμᾶν νομίζουσι τῇ ἕκαστος ἐγένετο. 
+
+The day which every man values most is his own birthday. 
+
+ἐν ταύτῃ δὲ πλέω δαῖτα τῶν ἀλλέων δικαιεῦσι προτίθεσθαι: 
+
+On this day, he thinks it right to serve a more abundant meal than on other days: 
+
+ἐν τῇ οἱ εὐδαίμονες αὐτῶν βοῦν καὶ ἵππον καὶ κάμηλον καὶ ὄνον προτιθέαται ὅλους ὀπτοὺς ἐν καμίνοισι, 
+
+oxen or horses or camels or asses, roasted whole in ovens, are set before the rich; 
+
+οἱ δὲ πένητες αὐτῶν τὰ λεπτὰ τῶν προβάτων προτιθέαται. 
+
+the poorer serve the lesser kinds of cattle. 
+#### 2
+[2] σίτοισι δὲ ὀλίγοισι χρέωνται, ἐπιφορήμασι δὲ πολλοῖσι καὶ οὐκ ἁλέσι: 
+
+[2] Their courses are few, the dainties that follow many, and not all served together. 
+
+καὶ διὰ τοῦτο φασὶ Πέρσαι τοὺς Ἕλληνας σιτεομένους πεινῶντας παύεσθαι, 
+
+This is why the Persians say of Greeks that they rise from table still hungry, 
+
+ὅτι σφι ἀπὸ δείπνου παραφορέεται οὐδὲν λόγου ἄξιον: 
+
+because not much dessert is set before them: 
+
+εἰ δέ τι παραφέροιτο, ἐσθίοντας ἂν οὐ παύεσθαι. 
+
+were this too given to Greeks (the Persians say) they would never stop eating. 
+#### 3
+[3] οἴνῳ δὲ κάρτα προσκέαται, 
+
+[3] They are very partial to wine. 
+
+καί σφι οὐκ ἐμέσαι ἔξεστι, οὐκὶ οὐρῆσαι ἀντίον ἄλλου. 
+
+No one may vomit or urinate in another's presence: 
+
+ταῦτα μέν νυν οὕτω φυλάσσεται, 
+
+this is prohibited among them. 
+
+μεθυσκόμενοι δὲ ἐώθασι βουλεύεσθαι τὰ σπουδαιέστατα τῶν πρηγμάτων: 
+
+Moreover, it is their custom to deliberate about the gravest matters when they are drunk; 
+#### 4
+[4] τὸ δ᾽ ἂν ἅδῃ σφι βουλευομένοισι, τοῦτο τῇ ὑστεραίῃ νήφουσι προτιθεῖ ὁ στέγαρχος, 
+
+[4] and what they approve in their deliberations is proposed to them the next day, 
+
+ἐν τοῦ ἂν ἐόντες βουλεύωνται, 
+
+when they are sober, by the master of the house where they deliberate; 
+
+καὶ ἢν μὲν ἅδῃ καὶ νήφουσι, χρέωνται αὐτῷ, 
+
+and if, being sober, they still approve it, they act on it, 
+
+ἢν δὲμὴ ἅδῃ, μετιεῖσι. 
+
+but if not, they drop it. 
+
+τὰ δ᾽ ἂν νήφοντες προβουλεύσωνται, 
+
+And if they have deliberated about a matter when sober, 
+
+μεθυσκόμενοι ἐπιδιαγινώσκουσι. 
+
+they decide upon it when they are drunk. 
 ## c153
 #### 1
 ταῦτα εἰπόντος τοῦ κήρυκος, λέγεται Κῦρον ἐπειρέσθαι τοὺς παρεόντας οἱ Ἑλλήνων τινες ἐόντες ἄνθρωποι Λακεδαιμόνιοι καὶ κόσοι πλῆθος ταῦτα ἑωυτῷ προαγορεύουσι: 
