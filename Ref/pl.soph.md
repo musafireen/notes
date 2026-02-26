@@ -178,3 +178,6 @@ And the Eleatic sect in our region, beginning with Xenophanes and even earlier, 
 Ἰάδες δὲ καὶ Σικελαί τινες ὕστερον Μοῦσαι συνενόησαν ὅτι συμπλέκειν [242ε] ἀσφαλέστατον ἀμφότερα καὶ λέγειν ὡς τὸ ὂν πολλά τε καὶ ἕν ἐστιν, ἔχθρᾳ δὲ καὶ φιλίᾳ συνέχεται. 
 
 Then some Ionian2 and later some Sicilian3 Muses reflected [242e] that it was safest to combine the two tales and to say that being is many and one, and is (or are) held together by enmity and friendship. 
+
+## 251a
+http://www.perseus.tufts.edu/hopper/text?doc=Plat.+Soph.+251a&fromdoc=Perseus%3Atext%3A1999.01.0174

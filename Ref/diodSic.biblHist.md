@@ -514,6 +514,43 @@ Furthermore, she discovered also the drug which gives immortality, by means of w
 Δοκεῖ δ´ ὕστατος τῶν θεῶν οὗτος βασιλεῦσαι μετὰ τὴν τοῦ πατρὸς Ὀσίριδος ἐξ ἀνθρώπων μετάστασιν. Τὸν δὲ Ὧρον μεθερμηνευόμενόν φασιν Ἀπόλλωνα ὑπάρχειν, καὶ τήν τε ἰατρικὴν καὶ τὴν μαντικὴν ὑπὸ τῆς μητρὸς Ἴσιδος διδαχθέντα διὰ τῶν χρησμῶν καὶ τῶν θεραπειῶν εὐεργετεῖν τὸ τῶν ἀνθρώπων γένος.
 
 And it appears that Horus was the last of the gods to be king after his father Osiris departed from among men. Moreover, they say that the name Horus, when translated, is Apollo, and that, having been instructed by his mother Isis in both medicine and divination, he is now a benefactor of the race of men through his oracular responses and his healings.
+## c63
+#### 1
+τούτου δὲ τελευτήσαντος ἐπὶ γενεὰς ἑπτὰ διεδέξαντο τὴν ἀρχὴν βασιλεῖς ἀργοὶ παντελῶς καὶ [p. 106] πρὸς ἄνεσιν καὶ τρυφὴν ἅπαντα πράττοντες. διόπερ ἐν ταῖς ἱεραῖς ἀναγραφαῖς οὐδὲν αὐτῶν ἔργον πολυτελὲς οὐδὲ πρᾶξις ἱστορίας ἀξία παραδέδοται πλὴν ἑνὸς Νειλέως, ἀφ᾽ οὗ συμβαίνει τὸν ποταμὸν ὀνομασθῆναι Νεῖλον, τὸ πρὸ τοῦ καλούμενον Αἴγυπτον: οὗτος δὲ πλείστας εὐκαίρους διώρυχας κατασκευάσας καὶ πολλὰ περὶ τὴν εὐχρηστίαν τοῦ Νείλου φιλοτιμηθεὶς αἴτιος κατέστη τῷ ποταμῷ ταύτης τῆς προσηγορίας. 
+
+ 63 1 After Remphis died, kings succeeded to the throne for seven generations who were confirmed sluggards and devoted only to indulgence and luxury. Consequently, in the priestly records, no costly building of theirs nor any deed worthy of historical record is handed down in connection with them, except in the case of one ruler, Nileus, from whom the river came to be named the Nile, though formerly called Aegyptus. This ruler constructed a very great number of canals at opportune places and in many ways showed himself eager to increase the usefulness of the Nile, and therefore became the cause of the present appellation of the river.
+#### 2
+[2] ὄγδοος δὲ βασιλεὺς γενόμενος Χέμμις ὁ Μεμφίτης ἦρξε μὲν ἔτη πεντήκοντα, κατεσκεύασε δὲ τὴν μεγίστην τῶν τριῶν πυραμίδων τῶν ἐν τοῖς ἑπτὰ τοῖς ἐπιφανεστάτοις ἔργοις ἀριθμουμένων. 
+
+2 The eighth king, Chemmis⁠52 of Memphis, ruled fifty years and constructed the largest of the three pyramids, which are numbered among the seven wonders of the world. 
+#### 3
+[3] αὗται δὲ κείμεναι κατὰ τὴν Λιβύην τῆς Μέμφεως ἀπέχουσι σταδίους ἑκατὸν καὶ εἴκοσι, τοῦ δὲ Νείλου πέντε πρὸς τοῖς τετταράκοντα, τῷ δὲ μεγέθει τῶν ἔργων καὶ τῇ κατὰ τὴν χειρουργίαν τέχνῃ θαυμαστήν τινα κατάπληξιν παρέχονται τοῖς θεωμένοις. 
+
+3 These pyramids, which are situated on the side of Egypt which is towards Libya, are one hundred and twenty stades from Memphis and forty-five from the Nile, and by the immensity of their structures and the skill shown in their execution they fill the beholder with wonder and astonishment. 
+#### 3
+[4] ἡ μὲν γὰρ μεγίστη τετράπλευρος οὖσα τῷ σχήματι τὴν ἐπὶ τῆς βάσεως πλευρὰν ἑκάστην ἔχει πλέθρων ἑπτά, τὸ δ᾽ ὕψος πλέον τῶν ἓξ πλέθρων: συναγωγὴν δ᾽ ἐκ τοῦ κατ᾽ ὀλίγον λαμβάνουσα μέχρι τῆς κορυφῆς ἑκάστην πλευρὰν ποιεῖ πηχῶν ἕξ. 
+
+4 For the largest is in the form of a square and  p217 has a base length on each side of seven plethra and a height of over six plethra; it also gradually tapers to the top, where each side is six cubits long.⁠53 
+#### 5
+[5] πᾶσα δὲ στερεοῦ λίθου κατεσκεύασται, τὴν μὲν ἐργασίαν ἔχοντος δυσχερῆ, τὴν δὲ διαμονὴν αἰώνιον: οὐκ ἐλαττόνων γὰρ ἢ χιλίων ἐτῶν, ὥς φασι, διεληλυθότων εἰς τὸν καθ᾽ [p. 107] ἡμᾶς βίον, ὡς δὲ ἔνιοι γράφουσι, πλειόνων ἢ τρισχιλίων καὶ τετρακοσίων, διαμένουσι μέχρι τοῦ νῦν οἱ λίθοι τὴν ἐξ ἀρχῆς σύνθεσιν καὶ τὴν ὅλην κατασκευὴν ἄσηπτον διαφυλάττοντες. 
+
+5 The entire construction is of hard stone, which is difficult to work but lasts for ever; for though no fewer than a thousand years have elapsed, as they say, to our lifetime, or, as some writers have it, more than three thousand four hundred, the stones remain to this day still preserving their original position and the entire structure undecayed. 
+#### 6
+[6] λέγεται δὲ τὸν μὲν λίθον ἐκ τῆς Ἀραβίας ἀπὸ πολλοῦ διαστήματος κομισθῆναι, τὴν δὲ κατασκευὴν διὰ χωμάτων γενέσθαι, μήπω τῶν μηχανῶν εὑρημένων κατ᾽ ἐκείνους τοὺς χρόνους: 
+
+6 It is said that the stone was conveyed over a great distance from Arabia⁠54 and that the construction was effected by means of mounds, since cranes had not yet been invented at that time; 
+#### 7
+[7] καὶ %5τὸ θαυμασιώτατον, τηλικούτων ἔργων κατεσκευασμένων καὶ τοῦ περιέχοντος τόπου παντὸς ἁμμώδους ὄντος οὐδὲν ἴχνος οὔτε τοῦ χώματος οὔτε τῆς τῶν λίθων ξεστουργίας ἀπολείπεσθαι, ὥστε δοκεῖν μὴ κατ᾽ ὀλίγον ὑπ᾽ ἀνθρώπων ἐργασίας, ἀλλὰ συλλήβδην ὥσπερ %5ὑπὸ θεοῦ τινος τὸ κατασκεύασμα τεθῆναι πᾶν εἰς τὴν περιέχουσαν ἅμμον. 
+
+7 and the most remarkable thing in the account is that, though the constructions were on such a great scale and the country round about them consists of nothing but sand, not a trace remains either of any mound or of the dressing of the stones, so that they do not have the appearance of being the slow handiwork of men but look like a sudden creation, as though they had been made by some god and set down bodily in the surrounding sand. 
+#### 8
+[8] ἐπιχειροῦσι δέ τινες τῶν Αἰγυπτίων τερατολογεῖν ὑπὲρ τούτων, λέγοντες ὡς ἐξ ἁλῶν%5 καὶ νίτρου τῶν χωμάτων γεγονότων ἐπαφεθεὶς ὁ ποταμὸς ἔτηξεν αὐτὰ καὶ παντελῶς ἠφάνισεν ἄνευ τῆς χειροποιήτου πραγματείας. 
+
+8 Certain Egyptians would make a marvel out of these things, saying that, inasmuch as the mounds were built of salt and saltpetre, when the river was let in it melted them down and completely effaced them without the intervention of man's hand. 
+#### 9
+[9] οὐ μὴν καὶ τἀληθὲς οὕτως ἔχει, διὰ δὲ τῆς πολυχειρίας τῆς τὰ χώματα βαλούσης πάλιν τὸ πᾶν ἔργον εἰς τὴν προϋπάρχουσαν ἀποκατεστάθη τάξιν: τριάκοντα μὲν γὰρ καὶ ἓξ μυριάδες ἀνδρῶν, ὥς φασι, ταῖς τῶν ἔργων λειτουργίαις προσήδρευσαν, τὸ δὲ πᾶν κατασκεύασμα τέλος ἔσχε μόγις ἐτῶν εἴκοσι διελθόντων
+
+9 However, there is not a  p219 word of truth in this, but the entire material for the mounds, raised as they were by the labour of many hands, was returned by the same means to the place from which it came; for three hundred and sixty thousand men, as they say, were employed on the undertaking, and the whole structure was scarcely completed in twenty years.55
 ## c96
 ### 1
 Τούτων δ´ ἡμῖν διευκρινημένων ῥητέον ὅσοι τῶν παρ´ Ἕλλησι δεδοξασμένων ἐπὶ συνέσει καὶ παιδείᾳ παρέβαλον εἰς Αἴγυπτον ἐν τοῖς ἀρχαίοις χρόνοις, ἵνα τῶν ἐνταῦθα νομίμων καὶ τῆς παιδείας μετάσχωσιν. 

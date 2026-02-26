@@ -845,6 +845,38 @@ excellent than the body, may perish first, being of the nature of a harmony.
 
 And, Cebes, I believe, granted that the soul is more lasting than the body, but said that no one could know that the soul, after wearing out many bodies, did not at last perish itself upon leaving the body; and that this was death—the destruction of the soul, since the body is continually being destroyed. Are those the points, Simmias and Cebes, which we must consider?”
 
+# 100c
+[100ξ] ἀλλὰ μήν, ἔφη ὁ Κέβης, ὡς διδόντος σοι οὐκ ἂν φθάνοις περαίνων.
+
+“You may assume,” said Cebes, “that I grant it, and go on.”
+
+σκόπει δή, ἔφη, τὰ ἑξῆς ἐκείνοις ἐάν σοι συνδοκῇ ὥσπερ ἐμοί. 
+
+“Then,” said he, “see if you agree with me in the next step. 
+
+φαίνεται γάρ μοι, εἴ τί ἐστιν ἄλλο καλὸν πλὴν αὐτὸ τὸ καλόν, 
+
+I think that if anything is beautiful besides absolute beauty 
+
+οὐδὲ δι᾽ ἓν ἄλλο καλὸν εἶναι ἢ διότι μετέχει ἐκείνου τοῦ καλοῦ: 
+
+it is beautiful for no other reason than because it partakes of absolute beauty; 
+
+καὶ πάντα δὴ οὕτως λέγω. 
+
+and this applies to everything. 
+
+τῇ τοιᾷδε αἰτίᾳ συγχωρεῖς;
+
+Do you assent to this view of cause?”
+
+συγχωρῶ, ἔφη.
+
+“I do,” said he.
+
+οὐ τοίνυν, ἦ δ᾽ ὅς, ἔτι μανθάνω οὐδὲ δύναμαι τὰς ἄλλας αἰτίας τὰς σοφὰς ταύτας γιγνώσκειν: 
+
+“Now I do not yet, understand,” he went on, “nor can I perceive those other ingenious causes. 
 # 103e
 
 ## 1

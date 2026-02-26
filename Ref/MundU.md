@@ -25,10 +25,17 @@ This is he, the internal atman of all created things whose head is agni, whose e
 # k3
 ## 3.1
 #### 1
-द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते ।
+द्वा सुपर्णा सयुजा सखाया 
+
+Two inseparable companions of fine plumage 
+
+समानं वृक्षं परिषस्वजाते ।
+
+perch on the self-same tree. 
+
 तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति ॥ १ ॥
 
-Two inseparable companions of fine plumage perch on the self-same tree. One of the two feeds on the delicious fruit. The other not tasting of it looks on.
+One of the two feeds on the delicious fruit. The other not tasting of it looks on.
 #### 2
 समाने वृक्षे पुरुषो निमग्नोऽनिशया शोचति मुह्यमानः ।
 जुष्टं यदा पश्यत्यन्यमीशमस्य महिमानमिति वीतशोकः ॥ २ ॥

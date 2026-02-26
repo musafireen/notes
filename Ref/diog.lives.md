@@ -2227,7 +2227,35 @@ so now we have first to speak of Empedocles,
 κατὰ γάρ τινας Πυθαγόρου διήκουσεν.
 
 for some say he was a pupil of Pythagoras.
+## c2
+#### 54
+[54] Ὅτι δ᾽ ἦν Ἀκραγαντῖνος ἐκ Σικελίας, αὐτὸς ἐναρχόμενος τῶν Καθαρμῶν φησιν:
 
+[54] That he belonged to Agrigentum in Sicily he himself testifies at the beginning of his Purifications6:
+
+ὦ φίλοι οἳ μέγα ἄστυ κατὰ ξανθοῦ Ἀκράγαντος ναίετ᾽ ἀν᾽ ἄκρα πόλεος.
+
+My friends, who dwell in the great city sloping down to yellow Acragas, hard by the citadel.
+
+καὶ τὰ μὲν περὶ τοῦ γένους αὐτοῦ τάδε.
+
+So much for his family.
+
+Ἀκοῦσαι δ᾽ αὐτὸν Πυθαγόρου Τίμαιος διὰ τῆς ἐνάτης ἱστορεῖ, λέγων ὅτι καταγνωσθεὶς ἐπὶ λογοκλοπίᾳ τότε, καθὰ καὶ Πλάτων, τῶν λόγων ἐκωλύθη μετέχειν. 
+
+Timaeus in the ninth book of his Histories says he was a pupil of Pythagoras, adding that, having been convicted at that time of stealing his discourses, he was, like Plato, excluded from taking part in the discussions of the school ; 
+
+μεμνῆσθαι δὲ καὶ αὐτὸν Πυθαγόρου λέγοντα:
+
+and further, that Empedocles himself mentions Pythagoras in the lines7:
+
+ἦν δέ τις ἐν κείνοισιν ἀνὴρ περιώσια εἰδώς, ὃς δὴ μήκιστον πραπίδων ἐκτήσατο πλοῦτον.
+
+And there lived among them a man of superhuman knowledge, who verily possessed the greatest wealth of wisdom.
+
+οἱ δὲ τοῦτο εἰς Παρμενίδην αὐτὸν λέγειν ἀναφέροντα.
+
+Others say that it is to Parmenides that he is here referring. 
 ## b-g
 
 1 1

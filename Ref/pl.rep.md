@@ -463,16 +463,16 @@ But the true nature of things is that whether the sick man be rich or poor he mu
 
 “We do.” 
 
-### 3
+#### 3
 
 καὶ αὐτὸ δὴ καλὸν καὶ αὐτὸ ἀγαθόν, καὶ οὕτω περὶ πάντων ἃ τότε ὡς πολλὰ ἐτίθεμεν, πάλιν αὖ κατ᾽ ἰδέαν μίαν ἑκάστου ὡς μιᾶς οὔσης τιθέντες, ‘ὃ ἔστιν’ ἕκαστον προσαγορεύομεν.
 
 “And again, we speak of a self-beautiful and of a good that is only and merely good, and so, in the case of all the things that we then posited as many, we turn about and posit each as a single idea or aspect, assuming it to be a unity and call it that which each really is.2
-### 4
+#### 4
 ἔστι ταῦτα.
 
 “It is so.” 
-### 5
+#### 5
 καὶ τὰ μὲν δὴ ὁρᾶσθαί φαμεν, νοεῖσθαι δ᾽ οὔ, τὰς δ᾽ αὖ ἰδέας νοεῖσθαι μέν, ὁρᾶσθαι δ᾽ οὔ.
 
 παντάπασι μὲν οὖν.
@@ -480,6 +480,43 @@ But the true nature of things is that whether the sick man be rich or poor he mu
 “And the one class of things we say can be seen but not thought,
 
 # b7
+# b9
+### 585d
+[585δ] οὐκοῦν ὅλως τὰ περὶ τὴν τοῦ σώματος θεραπείαν γένη γῶν γενῶν αὖ τῶν περὶ τὴν τῆς ψυχῆς θεραπείαν ἧττον ἀληθείας τε καὶ οὐσίας μετέχει;
+
+“And is it not generally true  [585d] that the kinds concerned with the service of the body partake less of truth and reality than those that serve the soul?” 
+
+πολύ γε.
+
+“Much less.” 
+
+σῶμα δὲ αὐτὸ ψυχῆς οὐκ οἴει οὕτως;
+
+“And do you not think that the same holds of the body itself in comparison with the soul?” 
+
+ἔγωγε.
+
+“I do.” 
+
+οὐκοῦν τὸ τῶν μᾶλλον ὄντων πληρούμενον καὶ αὐτὸ μᾶλλον ὂν ὄντως μᾶλλον πληροῦται ἢ τὸ τῶν ἧττον ὄντων καὶ αὐτὸ ἧττον ὄν;
+
+“Then is not that which is fulfilled of what more truly is, and which itself more truly is, more truly filled and satisfied than that which being itself less real is filled with more unreal things?” 
+
+πῶς γὰρ οὔ;
+
+“Of course.” 
+### 585e
+εἰ ἄρα τὸ πληροῦσθαι τῶν φύσει προσηκόντων ἡδύ ἐστι, τὸ τῷ ὄντι καὶ τῶν ὄντων πληρούμενον μᾶλλον μᾶλλον [585ε] ὄντως τε καὶ ἀληθεστέρως χαίρειν ἂν ποιοῖ ἡδονῇ ἀληθεῖ, 
+
+“If, then, to be filled with what befits nature is pleasure, then that which is more really filled with real things [585e] would more really and truly cause us to enjoy a true pleasure, 
+
+τὸ δὲ τῶν ἧττον ὄντων μεταλαμβάνον ἧττόν τε ἂν ἀληθῶς καὶ βεβαίως πληροῖτο καὶ ἀπιστοτέρας ἂν ἡδονῆς καὶ ἧττον ἀληθοῦς μεταλαμβάνοι.
+
+while that which partakes of the less truly existent would be less truly and surely filled and would partake of a less trustworthy and less true pleasure.” 
+
+ἀναγκαιότατα, ἔφη. 
+
+“Most inevitably,” he said. 
 # b10
 
 ## 596a

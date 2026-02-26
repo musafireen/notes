@@ -203,3 +203,141 @@ The Kāṇva and others, O fortunate one, were propagated by Yājñavalkya.
 श्रौतस्मार्त्ते च धर्मे विप्लवमत्यंतमुपगते क्षीणप्राये च कलावश्षोजगत्स्रष्टुश्चराचरगुरोरादिमध्यांतरहितस्य ब्रह्ममयस्यात्मरूपिणो भगवतो वासुदेवस्यांशश्शंबलग्रामप्रधानब्राह्मणस्य विष्णुयशसो गृहेष्टगुणर्द्धिसमन्वितः कल्किरूपीजगत्यत्रावतीर्य सकलम्लेच्छदस्युदुष्टाचरणचेतसामश्षोआ!णामपरिच्छिन्नशक्तिमाहा-त्म्यः क्षयं करिष्यति स्वधर्मेषु चाखिलमेव संस्थापयिष्यति ९८ ।
 
 When the practices taught by the Vedas and the institutes of law shall nearly have ceased, and the close of the Kali age shall be nigh, a portion of that divine being who exists of his own spiritual nature in the character of Brahma, and who is the beginning and the end, and who comprehends all things, shall descend upon earth: he will be born in the family of Viṣṇuyaśas, an eminent Brahman of Sambhala village, as Kalki, endowed with the eight superhuman faculties. By his irresistible might he will destroy all the Mlecchas and thieves, and all whose minds are devoted to iniquity. He will then reestablish righteousness upon earth; 
+
+# b6
+## c3
+#### 14
+चतुर्युगसहस्त्रान्ते क्षीणप्राये महीतले ।
+अनावृष्टिरतीवोग्रा जायते शतवार्षिकी ।। ६-३-१४ ।।
+
+At the end of a thousand periods of four ages the earth is for the most part exhausted. A total dearth then ensues, which lasts a hundred years; 
+#### 15
+ततो यान्यल्पसाराणि तानि तत्त्वान्यशेषतः ।
+क्षयं यान्ति मुनिश्वेष्ठ!पार्थिवान्यत्र पीड़नात् ।। ६-३-१५ ।।
+
+and, in consequence of the failure of food, all beings become languid and exanimate, and at last entirely perish. 
+#### 16
+ततः स भगवान् विष्णू रुद्ररूपधरोऽव्ययः ।
+क्षयाय यतते कर्त्तुमात्मस्थाः सकलाः वाजाः ।। ६-३-१६ ।।
+
+The eternal Viṣṇu then assumes the character of Rudra, the destroyer, and descends to reunite all his creatures with himself. 
+#### 17
+ततः स भगवान् विष्णुर्भानोः सप्तसु रश्मिषु ।
+स्थितः पिबत्यशेषाणि जलानि मुनिसत्तम ।। ६-३-१७ ।।
+
+He enters into the seven rays of the sun[5], drinks up all the waters of the globe, 
+#### 18
+पीत्वार्म्भासि समस्तानि प्राणिभूमिगतानि वै ।
+शोषं नयति मैत्रय!समस्तं पृथिवीतलम् ।। ६-३-१८ ।।
+
+and causes all moisture whatever, in living bodies or in the soil, to evaporate; thus drying up the whole earth. 
+#### 19
+सरित्-समुद्र-शैलेषु शैल-प्रस्त्रवणेषु च ।
+पातालेषु च यत्तोय तत् सर्व्वं नयति क्षयम् ।। ६-३-१९ ।। 
+
+The seas, the rivers, the mountain torrents, and springs, are all exhaled; and so are all the waters of Pātāla, the regions below the earth. 
+#### 20
+ततस्तस्यानुभावेन तोयाहारोपवृहिताः ।
+त एव रश्मयः सप्त जायन्ते स्प्त भास्कराः ।। ६-३-२० ।।
+
+Thus fed, through his intervention, with abundant moisture, the seven solar rays dilate to seven suns[6], 
+#### 21
+अधश्वोदूर्ध्वञ्च ते दीप्यास्ततः स्पत दिंवाकराः ।
+दहन्त्यशेषं त्रेलोक्यं सपातालतलं द्रिज ।। ६-३-२१ ।।
+
+whose radiance glows above, below, and on every side, and sets the three worlds and Pātāla on fire.
+#### 22
+दह्यमानन्तु तैर्दीप्तैस्त्रैलोक्यं द्रिज!भास्करेः ।
+साद्रिनद्यर्णावाभोगं निःस्नेहमति जायते ।। ६-३-२२ ।।
+
+The three worlds, consumed by these suns, become rugged and deformed throughout the whole extent of their mountains, rivers, and seas; 
+#### 23
+ततो निर्दग्धवृक्षाम्बु त्रैलोक्यमखिल द्रिज!
+भवत्येका च वसुधा कूर्म्मपृष्ठोपमाकृतिः ।। ६-३-२३ ।।
+
+and the earth, bare of verdure, and destitute of moisture, alone remains, resembling in appearance the back of a tortoise. 
+#### 24
+ततः कालाग्रिरुद्रोऽसौ भूत्वा सर्व्वहरो हरिः ।
+शेषनिः श्वाससम्भूतः पातालानि बभिस्त्यधः ।। ६-३-२४ ।।
+
+The destroyer of all things, Hari, in the form of Rudra, who is the flame of time, becomes the scorching breath of the serpent Śeṣa, and thereby reduces Pātāla to ashes. 
+#### 25
+पातालानि समस्तानि स दग्ध्वा ज्वलनो महान् ।
+भूमिमभ्येत्य सकलं बभस्ति वसुधातलम् ।। ६-३-२५ ।।
+
+The great fire, when it has burnt all the divisions of Pātāla, proceeds to the earth, and consumes it also. 
+#### 26
+भुवर्लोकं ततः सर्व्वं स्वर्लोकञ्च सुदारुणः ।
+ज्वालामालामहावर्त्तस्तत्रैव परिवर्त्तते ।। ६-३-२६ ।।
+
+A vast whirlpool of eddying flame then spreads to the region of the atmosphere, and the sphere of the gods, and wraps them in ruin. 
+#### 27
+अम्बरीषमिवाभाति त्रैलोक्यमखिलं तदा ।
+ज्वालावर्त्तपरीवारमुपक्षीणचराचरम् ।। ६-३-२७ ।।
+
+The three spheres shew like a frying-pan amidst the surrounding flames, that prey upon all moveable or stationary things. 
+#### 28
+ततस्तापपरीतास्तु लोकदूयनिवासिनः ।
+कृताधिकारा गच्छन्ति महर्लोकं महामुने ।। ६-३-२८ ।।
+
+The inhabitants of the two upper spheres, having discharged their functions, and being annoyed by the heat, remove to the sphere above, or Maharloka. 
+### 29
+तस्मादपि महातापतप्ता लोकास्ततः परम् ।
+गच्छन्ति जनलोकं ते दशावृत्त्या परैषिणः ।। ६-३-२९ ।।
+
+When that becomes heated, its tenants, who after the full period of their stay are desirous of ascending to higher regions, depart for the Janaloka[7].
+#### 30
+ततो दग्ध्वा जगत् सर्व्वं रुद्ररूपी जनार्द्दनः।
+मुखनिःश्वासजान् मेघान् करोति मुनिसत्तम् ।। ६-३-३० ।।
+
+Janārddana, in the person of Rudra, having consumed the whole world, breathes forth heavy clouds; 
+#### 31
+ततो गजकुलप्रख्यास्तड़ित्वन्तो निनादिनः ।
+उत्तिष्ठन्ति तदा व्योम्रि घोराः संवर्त्तका घनाः ।। ६-३-३१ ।।
+
+and those called Samvartta, resembling vast elephants in bulk, overspread the sky, roaring, and darting lightnings. 
+#### 32
+केचिन्नीलोतूपलश्यामाः केचित् कुमुदसन्निभाः ।
+धूमवर्णा घनाः केचित् केचित् पीताः परोधराः ।। ६-३-३२ ।।
+
+Some are as black as the blue lotus; some are white as the water-lily; some are dusky, like smoke; and some are yellow; 
+#### 33
+केचिद्रासभवर्णाभा लाक्षारसनिभास्तथा ।
+केचिद्रैदूर्य्यसङ्काशा इन्द्रनीलनिभाः परे ।। ६-३-३३ ।।
+
+some are of a dun colour, like that of an ass; some like ashes sprinkled on the forehead; some are deep blue, as the lapis lazuli; some azure, like the sapphire; 
+#### 34
+शङ्खकुन्दनिभाश्वान्ये जात्यञ्जननिबास्तथा ।
+इन्द्रगोपनिभाः केचिनूमनः शिलनिभास्तथा ।। ६-३-३४ ।।
+
+some are white, as the conch or the jasmine; and some are black, as collyrium; some are of bright red, like the ladybird; some are of the fierceness of red arsenic; 
+#### 35
+चाषपत्रनिभाः केचिदुत्तिष्ठन्ति घना घनाः ।
+केचित् पुरवरावकाराः केचित् पर्व्वतसन्नभाः ।। ६-३-३५ ।।
+
+and some are like the wing of the painted jay. Such are these massy clouds in hue: in form some resemble towns, some mountains, 
+#### 36
+कूटागारनिभाश्वान्ये केचित् स्थूलनिभा घनाः ।
+महारावा महाकायाः पूरयन्ति नभस्तलम् ।। ६-३-३६ ।।
+
+some are like houses and hovels, and some are like columns. Mighty in size, and loud in thunder, they fill all space. 
+#### 37
+वर्षन्तस्ते महासारै-स्तमग्रिमतिभैरवम् ।
+शमयन्त्यखिलं विप्र! त्रैलोक्यान्तरविस्तृतम् ।। ६-३-३७ ।।
+
+Showering down torrents of water, these clouds quench the dreadful fires which involve the three worlds, 
+#### 38
+नष्टे चाग्रौ शतं तेऽपि वर्षाणामनिवारिताः ।
+प्लावयन्तो जगत् सर्वं वर्षन्ति मुनिसत्तम ।। ६-३-३८ ।।
+
+and then they rain uninterruptedly for a hundred years, and deluge the whole world. 
+#### 39
+धाराभिरक्षमात्राभिः प्लावयित्वाखिलं भुवम् ।
+भुवर्लोकं तथैवोर्द्ध्व प्लावयन्ति दिवं द्रिज ।। ६-३-३९ ।।
+
+Pouring down in drops as large as dice, these rains overspread the earth, and fill the middle region, and inundate heaven. 
+#### 40
+अन्धरारीकृते लोके नष्टे स्थावरजङ्गमे ।
+वर्षन्ति ते महामेघा वर्षाणामधिकं शतम ।। ६-३-४० ।।
+
+The world is now enveloped in darkness, and all things, animate or inanimate, having perished, the clouds continue to pour down their waters for more than a hundred years.

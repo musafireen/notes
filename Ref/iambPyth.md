@@ -749,23 +749,51 @@ He adds, that the survey of all heaven, and of the stars that revolve in it, is 
 ## _60
 ------
 
-Εἰ δὲ καὶ πιστευτέον τοσούτοις ἱστορήσασι περὶ αὐτοῦ παλαιοῖς τε ἅμα οὖσι καὶ ἀξιολόγοις, μέχρι τῶν ἀλόγων ζῴων ἀναλυτικόν τι καὶ νουθετητικὸν ἐκέκτητο Πυθαγόρας ἐν τῷ λόγῳ, διὰ τούτου συμβιβάζων ὡς διδασκαλίᾳ πάντα περιγίνεται τοῖς νοῦν ἔχουσιν, ὅπου (γε)
+Εἰ δὲ καὶ πιστευτέον τοσούτοις ἱστορήσασι περὶ αὐτοῦ παλαιοῖς τε ἅμα οὖσι καὶ ἀξιολόγοις, μέχρι τῶν ἀλόγων ζῴων ἀναλυτικόν τι καὶ νουθετητικὸν ἐκέκτητο Πυθαγόρας ἐν τῷ λόγῳ, 
 
-καὶ τοῖς ἀνημέροις τε καὶ ἀμοιρεῖν λόγου νομιζομένοις. τὴν μὲν γὰρ Δαυνίαν ἄρκτον, χαλεπώτατα λυμαινομένην τοὺς ἐνοίκους, κατασχών, ὡς φασί, καὶ ἐπαφησάμενος χρόνον συχνόν, ψωμίσας τε μάζῃ καὶ ἀκροδρύοις, ὁρκώσας μηκέτι ἐμψύχου ἐφάπτεσθαι, ἀπέλυσεν· ἣ δὲ εὐθὺς εἰς τὰ ὄρη καὶ τοὺς δρυμοὺς ἀπαλλαγεῖσα οὐκέτ’ ἕκτοτε ὤφθη τὸ παράπαν ἐπιοῦσα οὐδὲ ἀλογῳ ζῴῳ.
+Moreover, if we may believe in so many ancient and credible historians as have written concerning him, the words of Pythagoras contained something of a recalling and admonitory nature, which extended as far as to irrational animals; 
+
+διὰ τούτου συμβιβάζων ὡς διδασκαλίᾳ πάντα περιγίνεται τοῖς νοῦν ἔχουσιν, ὅπου (γε) καὶ τοῖς ἀνημέροις τε καὶ ἀμοιρεῖν λόγου νομιζομένοις. 
+
+by which it may be inferred that learning predominates in those endued with intellect, since it tames even wild beasts, and those which are considered to be deprived of reason. 
+
+τὴν μὲν γὰρ Δαυνίαν ἄρκτον, χαλεπώτατα λυμαινομένην τοὺς ἐνοίκους, κατασχών, ὡς φασί, καὶ ἐπαφησάμενος χρόνον συχνόν, ψωμίσας τε μάζῃ καὶ ἀκροδρύοις, ὁρκώσας μηκέτι ἐμψύχου ἐφάπτεσθαι, ἀπέλυσεν· 
+
+For it is said that Pythagoras detained the Daunian bear which had most severely injured the inhabitants, and that having gently stroked it with his hand for a long time, fed it with maze and acorns, and compelled it by an oath no longer to touch any living thing, he dismissed it. 
+
+ἣ δὲ εὐθὺς εἰς τὰ ὄρη καὶ τοὺς δρυμοὺς ἀπαλλαγεῖσα οὐκέτ’ ἕκτοτε ὤφθη τὸ παράπαν ἐπιοῦσα οὐδὲ ἀλογῳ ζῴῳ.
+
+But the bear immediately after hid herself in the mountains and woods, and was never seen from that time to attack any irrational animal. 
 
 ## _61
 ------
 
-βοῦν δὲ ἐν Τάραντι ἰδὼν ἐν παμμιγεῖ νομῇ κυάμων χλωρῶν ἐφαπτόμενον, τῷ βουκόλῳ παραστὰς συνεβούλευσεν εἰπεῖν τῷ βοὶ τῶν κυάμων ἀπέχεσθαι. προσπαίξαντος δὲ αὐτῷ τοῦ βουκόλου \[περὶ τοῦ εἰπεῖν\] καὶ οὐ φήσαντος εἰδέναι βοϊστὶ εἰπεῖν, εἰ δὲ αὐτὸς οἶδε, περισσῶς καὶ συμβουλεύειν, δέον τῷ βοὶ παραινεῖν, προσελθὼν αὐτὸς καὶ εἰς τὸ οὖς πολλὴν ὥραν προσψιθυρίσας τῷ ταύρῳ, οὐ μόνον τότε αὐτὸν ἀμελλητὶ ἑκόντα ἀπέστησε τοῦ κυαμῶνος, ἀλλὰ καὶ εἰσαῦθις λέγουσι μηκέτι γεγεῦσθαι κυάμων τὸ παράπαν τὸν βοῦν ἐκεῖνον, μακροχρονιώτατον δὲ ἐν τῇ Τάραντι κατὰ τὸ τῆς Ἥρας ἱερὸν γηρῶντα διαμεμενηκέναι τὸν ἱερὸν ἀνακαλούμενον Πύθαγόρου βοῦν ὑπὸ πάντων, ἀνθρωπίναις τροφαῖς σιτούμενον, ἃς οἱ ἀπαντῶντες αὐτῷ προσώρεγον.
+βοῦν δὲ ἐν Τάραντι ἰδὼν ἐν παμμιγεῖ νομῇ κυάμων χλωρῶν ἐφαπτόμενον, τῷ βουκόλῳ παραστὰς συνεβούλευσεν εἰπεῖν τῷ βοὶ τῶν κυάμων ἀπέχεσθαι. 
+
+Perceiving likewise an ox at Tarentum feeding in a pasture, and eating among other things green beans, he advised the herdsman to tell the ox to abstain from the beans. 
+
+προσπαίξαντος δὲ αὐτῷ τοῦ βουκόλου \[περὶ τοῦ εἰπεῖν\] καὶ οὐ φήσαντος εἰδέναι βοϊστὶ εἰπεῖν, εἰ δὲ αὐτὸς οἶδε, περισσῶς καὶ συμβουλεύειν, δέον τῷ βοὶ παραινεῖν, 
+
+The herdsman, however, laughed at him, and said that he did not understand the language of oxen, but if Pythagoras did, it was in vain to advise him to speak to the ox, but fit that he himself should advise the animal to abstain from such food. 
+
+προσελθὼν αὐτὸς καὶ εἰς τὸ οὖς πολλὴν ὥραν προσψιθυρίσας τῷ ταύρῳ, οὐ μόνον τότε αὐτὸν ἀμελλητὶ ἑκόντα ἀπέστησε τοῦ κυαμῶνος, ἀλλὰ καὶ εἰσαῦθις λέγουσι μηκέτι γεγεῦσθαι κυάμων τὸ παράπαν τὸν βοῦν ἐκεῖνον, 
+
+Pythagoras therefore, approaching tothe ear of the ox, and whispering in it for a long time, not only caused him then to refrain from beans, but it is said that he never after tasted them.
+
+μακροχρονιώτατον δὲ ἐν τῇ Τάραντι κατὰ τὸ τῆς Ἥρας ἱερὸν γηρῶντα διαμεμενηκέναι τὸν ἱερὸν ἀνακαλούμενον Πύθαγόρου βοῦν ὑπὸ πάντων, ἀνθρωπίναις τροφαῖς σιτούμενον, ἃς οἱ ἀπαντῶντες αὐτῷ προσώρεγον.
+
+This ox also lived for a long time at Tarentum near the temple of Juno, where it remained when it was old, and was called the sacred ox of Pythagoras. It was also fed by those that came to it with human food. 
 
 ## _62
 ------
 
-ἀετόν τε ὑπεριπτάμενον Ὀλυμπίασι προσομιλοῦντος
+ἀετόν τε ὑπεριπτάμενον Ὀλυμπίασι προσομιλοῦντος αὐτοῦ τοῖς γνωρίμσις ἀπὸ τύχης περί τε οἰωνῶν καὶ συμβόλων καὶ διοσημιῶν, ὅτι παρὰ θεῶν εἰσὶν ἀγγελίαι τινὲς καὶ αὐτοὶ τοῖς ὡς ἀληθῶς θεοφιλέσι τῶν ἀνθρώπων, καταγαγεῖν λέγεται καὶ καταψήσαντα πάλιν ἀφεῖναι. 
 
-αὐτοῦ τοῖς γνωρίμσις ἀπὸ τύχης περί τε οἰωνῶν καὶ συμβόλων καὶ διοσημιῶν, ὅτι παρὰ θεῶν εἰσὶν ἀγγελίαι τινὲς καὶ αὐτοὶ τοῖς ὡς ἀληθῶς θεοφιλέσι τῶν ἀνθρώπων, καταγαγεῖν λέγεται καὶ καταψήσαντα πάλιν ἀφεῖναι. διὰ τούτων δὴ καὶ τῶν παραπλησίων τούτοις δέδεικται τὴν Ὀρ· φέως ἔχων ἐν τοῖς θηρίοις ἡγεμονίαν καὶ κηλῶν αὐτὰ \[καὶ κατέχων\] τῇ ἀπὸ τοῦ στόματος \[τῆς φωνῆς\] προϊούσῃ δυνάμει.
+When likewise he happened to be conversing with his familiars about birds, symbols, and prodigies, and was observing that all these are the messengers of the Gods, sent by them to those men who are truly dear to the Gods, he is said to have brought down an eagle that was flying over Olympia, and after gently stroking, to have dismissed it. 
 
-Moreover, if we may believe in so many ancient and credible historians as have written concerning him, the words of Pythagoras contained something of a recalling and admonitory nature, which extended as far as to irrational animals; by which it may be inferred that learning predominates in those endued with intellect, since it tames even wild beasts, and those which are considered to be deprived of reason. For it is said that Pythagoras detained the Daunian bear which had most severely injured the inhabitants, and that having gently stroked it with his hand for a long time, fed it with maze and acorns, and compelled it by an oath no longer to touch any living thing, he dismissed it. But the bear immediately after hid herself in the mountains and woods, and was never seen from that time to attack any irrational animal. Perceiving likewise an ox at Tarentum feeding in a pasture, and eating among other things green beans, he advised the herdsman to tell the ox to abstain from the beans. The herdsman, however, laughed at him, and said that he did not understand the language of oxen, but if Pythagoras did, it was in vain to advise him to speak to the ox, but fit that he himself should advise the animal to abstain from such food. Pythagoras therefore, approaching tothe ear of the ox, and whispering in it for a long time, not only caused him then to refrain from beans, but it is said that he never after tasted them. This ox also lived for a long time at Tarentum near the temple of Juno, where it remained when it was old, and was called the sacred ox of Pythagoras. It was also fed by those that came to it with human food. When likewise he happened to be conversing with his familiars about birds, symbols, and prodigies, and was observing that all these are the messengers of the Gods, sent by them to those men who are truly dear to the Gods, he is said to have brought down an eagle that was flying over Olympia, and after gently stroking, to have dismissed it. Through these things, therefore, and other things similar to these, he demonstrated that he possessed the same dominion as Orpheus, over savage animals, and that he allured and detained them by the power of voice proceeding from the mouth.
+διὰ τούτων δὴ καὶ τῶν παραπλησίων τούτοις δέδεικται τὴν Ὀρ· φέως ἔχων ἐν τοῖς θηρίοις ἡγεμονίαν καὶ κηλῶν αὐτὰ \[καὶ κατέχων\] τῇ ἀπὸ τοῦ στόματος \[τῆς φωνῆς\] προϊούσῃ δυνάμει.
+
+Through these things, therefore, and other things similar to these, he demonstrated that he possessed the same dominion as Orpheus, over savage animals, and that he allured and detained them by the power of voice proceeding from the mouth.
 # 14
 =====
 

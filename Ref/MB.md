@@ -6785,6 +6785,89 @@ Ujjayani, Adapekshi, the great rishi Naradi—
 विश्वामित्रात्मजाः सर्वे मुनयो ब्रह्मवादिनः ||५८||
 
 all these sages were knowledgable about the brahman and were descended from Vishvamitra.
+### c14
+##### 95
+पशुपतिवचनाद्भवामि सद्यः; कृमिरथ वा तरुरप्यनेकशाखः
+
+On Pashupati’s words, I am ready to become a worm, or a tree with many branches. 
+
+अपशुपतिवरप्रसादजा मे; त्रिभुवनराज्यविभूतिरप्यनिष्टा
+
+Without Pashupati’s favours, the prosperous kingdom of the three worlds will not bring me any benefit. 
+##### 96
+अपि कीटः पतंगो वा भवेयं शंकराज्ञया
+
+On Shankara’s instructions, I will become a worm or an insect. 
+
+न तु शक्र त्वया दत्तं त्रैलोक्यमपि कामये
+
+O Shakra! However, if they are granted by you, I do not desire the three worlds. 
+##### 97
+यावच्छशाङ्कशकलामलबद्धमौलि;र्न प्रीयते पशुपतिर्भगवान्ममेशः
+
+He wears the sparkling crescent of the moon on his crest. As long as the illustrious lord, Pashupati, is not pleased with me, 
+
+तावज्जरामरणजन्मशताभिघातै;र्दुःखानि देहविहितानि समुद्वहामि
+
+I will bear these hundreds of hardships of old age, death and birth. I will bear these miseries in bodies. 
+##### 98
+दिवसकरशशाङ्कवह्निदीप्तं; 
+
+He blazes like the sun, the moon and the fire. 
+
+त्रिभुवनसारमपारमाद्यमेकम्
+
+He is the single one who conveys across the impermanence of the three worlds. 
+
+अजरममरमप्रसाद्य रुद्रं; 
+
+It is through Rudra’s favours that one overcomes old age and becomes immortal. 
+
+जगति पुमानिह को लभेत शान्तिम्
+
+In this universe, where is the man who can obtain tranquility without him?” 
+##### 99
+शक्र उवाच
+
+Shakra asked, 
+
+कः पुनस्तव हेतुर्वै ईशे कारणकारणे
+
+“What is the reason why you regard him as the cause behind all causes? 
+
+येन देवादृतेऽन्यस्मात्प्रसादं नाभिकाङ्क्षसि
+
+Why don’t you desire the favours of any god other than him?”’
+##### 100
+उपमन्युरुवाच‘
+
+“Upamanyu answered, 
+
+हेतुभिर्वा किमन्यैस्ते ईशः कारणकारणम्
+
+‘Why does one have to think of reasons as to why Isha is the cause behind all causes? 
+
+न शुश्रुम यदन्यस्य लिङ्गमभ्यर्च्यते सुरैः
+
+We have not heard of the gods worshipping anyone else’s signs. 
+##### 101
+कस्यान्यस्य सुरैः सर्वैर्लिङ्गं मुक्त्वा महेश्वरम्
+अर्च्यतेऽर्चितपूर्वं वा 
+
+If we leave aside Maheshvara, who is the other one whom the gods worship in all his signs? Has any such person been worshipped earlier? 
+
+ब्रूहि यद्यस्ति ते श्रुतिः
+
+If you have heard this, tell me. 
+##### 102
+यस्य ब्रह्मा च विष्णुश्च त्वं चापि सह दैवतैः
+अर्चयध्वं सदा लिङ्गं 
+
+You, Brahma, Vishnu and the other gods always worship his signs. 
+
+तस्माच्छ्रेष्ठतमो हि सः
+
+Therefore, he is the supreme one. 
 ### c15
 ##### 9
 रराज भगवांस्तत्र देव्या सह महेश्वरः । 
@@ -6804,6 +6887,23 @@ He wore a crown. He held a club and a trident in his hands. He was attired in ti
 पिनाकिनं वज्रिणं तीक्ष्णदंष्ट्रं शुभाङ्गदं व्यालयज्ञोपवीतम् || 11 || 
 
 He held the Pinaka and the vajra. His teeth were sharp. He wore sparkling bracelets and his sacred thread was a snake.
+### śivasahasranāma
+### c17
+##### 45
+अजश्च मृगरूपश्च गन्धधारी कपर्द्यपि
+ऊर्ध्वरेता ऊर्ध्वलिङ्ग ऊर्ध्वशायी नभस्तलः
+
+(127) Aja;328 (128) Mrigarupa;329 (129) Gandha-dhari;330 (130) Kaparda;331 (131) Urdhvareta;332 (132) Urdhva-linga;333 (133) Urdhva-shayi;334 (134) Nabhastala;335
+##### 74
+चतुर्मुखो महालिङ्गश्चारुलिङ्गस्तथैव च
+लिङ्गाध्यक्षः सुराध्यक्षो लोकाध्यक्षो युगावहः
+
+(341) Chaturmukha;545 (342) Mahalinga;546 (343) Charulinga;547 (344) Lingadhyaksha;548 (345) Suradhyaksha;549 (346) Lokadhyaksha;550 (347) Yugavaha;551
+##### 139
+विश्वक्षेत्रं प्रजाबीजं लिङ्गमाद्यस्त्वनिन्दितः
+सदसद्व्यक्तमव्यक्तं पिता माता पितामहः
+
+(824) Vishvakshetra;1039 (825) Praja-bija;1040 (826) Lingamadya;1041 (.) Anindita;1042 (827) Sadas;1043 (.) Vyakta;1044 (.) Avyakta;1045 (828) Pita;1046 (829) Mata;1047 (830) Pitamaha;1048
 ### c24
 ##### 70
 वेदविक्रयिणश्चैव वेदानां चैव दूषकाः
@@ -7217,6 +7317,93 @@ a एतं मे संशयं देव वद भूतपतेऽनघ
 ###### 13.131.46
 ब्राह्मणो वाप्यसद्वृत्तः सर्वसंकरभोजनः
 ब्राह्मण्यं पुण्यमुत्सृज्य शूद्रो भवति तादृशः
+## c146
+##### 8
+देवानां सुमहान्यच्च यच्चास्य विषयो महान्
+
+He is great among all the gods and his dominion is vast. 
+
+यच्च विश्वं महत्पाति महादेवस्ततः स्मृतः
+
+Since he saves the great universe, he is known to be Mahadeva.1427 
+##### 9
+समेधयति यन्नित्यं सर्वार्थान्सर्वकर्मभिः
+
+In everything that he does, in every way, 
+
+शिवमिच्छन्मनुष्याणां 
+
+he seeks to ensure what is auspicious for men.  
+
+तस्मादेष शिवः स्मृतः
+
+That is the reason he is known as Shiva.1428 
+##### 10
+दहत्यूर्ध्वं स्थितो यच्च प्राणोत्पत्तिः स्थितिश्च यत्
+
+Remaining established above, he burns everything down. He is established in one place for the origins of life. 
+
+स्थिरलिङ्गश्च यन्नित्यं तस्मात्स्थाणुरिति स्मृतः
+
+He is always immobile in the form of a lingam. That is the reason he is spoken of as Sthanu.1429 
+##### 11
+यदस्य बहुधा रूपं भूतं भव्यं भवत्तथा
+स्थावरं जङ्गमं चैव बहुरूपस्ततः स्मृतः
+
+He has many different kinds of forms. He is the past, the present and the future. He is immobile and mobile. That is the reason be is said to be Bahurupa.1430 
+##### 12
+धूम्रं रूपं च यत्तस्य धूर्जटीत्यत उच्यते
+
+He is said be Dhurjati because he has the form of smoke.1431 
+
+विश्वे देवाश्च यत्तस्मिन्विश्वरूपस्ततः स्मृतः
+
+The Vishvadevas are in him. That is the reason he is said to be Vishvarupa. 
+##### 13
+सहस्राक्षोऽयुताक्षो वा सर्वतोक्षिमयोऽपि वा
+
+He possesses one thousand eyes. He possesses ten thousand eyes. He has eyes in every direction. 
+
+चक्षुषः प्रभवस्तेजो नास्त्यन्तोऽथास्य चक्षुषाम्
+
+His energy and power flow through his eyes. He destroys through his eyes. 
+##### 14
+सर्वथा यत्पशून्पाति तैश्च यद्रमते पुनः
+
+He nourishes creatures and also sports with them in every way. 
+
+तेषामधिपतिर्यच्च तस्मात्पशुपतिः स्मृतः
+
+Since he is their lord, he is said to be Pashupati.1432 
+##### 15
+नित्येन ब्रह्मचर्येण लिङ्गमस्य यदा स्थितम्
+
+He is established in the form of a lingam and always practises brahmacharya. 
+
+महयन्त्यस्य लोकाश्च महेश्वर इति स्मृतः
+
+Since he ensures greatness in the worlds, he is known as Maheshvara. 
+##### 16
+विग्रहं पूजयेद्यो वै लिङ्गं वापि महात्मनः
+
+A great-souled person should worship his image and his lingam. 
+
+लिङ्गं पूजयिता नित्यं महतीं श्रियमश्नुते
+
+A person who worships the lingam always obtains great prosperity. 
+##### 17
+ऋषयश्चापि देवाश्च गन्धर्वाप्सरसस्तथा
+लिङ्गमेवार्चयन्ति स्म यत्तदूर्ध्वं समास्थितम्
+
+The rishis, the gods, the gandharvas and the apsaras always worship the lingam, which is stationed, facing upwards. 
+##### 18
+पूज्यमाने ततस्तस्मिन्मोदते स महेश्वरः
+
+When worshipped, the person who provides delight is Maheshvara. 
+
+सुखं ददाति प्रीतात्मा भक्तानां भक्तवत्सलः
+
+He is affectionate towards his devotees. Cheerful in his soul, he grants happiness to his devotees.
 # p18
 ### c5
 ###### 41

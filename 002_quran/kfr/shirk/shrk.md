@@ -2,7 +2,7 @@
 # Q:68:41
 [Q.68:41](https://quran.com/68:41/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#68:41]]
+![[Qrsi#r68.2.x]]
 
 ## شَرِيك
 
@@ -10,7 +10,7 @@
 # Q:7:33
 [Q.7:33](https://quran.com/7:33/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#7:33]]
+![[Qrsi#r7.4.x]]
 
 ## شرك iv
 
@@ -18,7 +18,7 @@
 # Q:7:173
 [Q.7:173](https://quran.com/7:173/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#7:173]]
+![[Qrsi#r7.22.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -27,7 +27,7 @@
 # Q:7:190
 [Q.7:190](https://quran.com/7:190/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#7:190]]
+![[Qrsi#r7.24.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -58,7 +58,7 @@
 # Q:72:2
 [Q.72:2](https://quran.com/72:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#72:2]]
+![[Qrsi#r72.1.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -67,7 +67,7 @@
 # Q:72:20
 [Q.72:20](https://quran.com/72:20/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#72:20]]
+![[Qrsi#r72.2.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -76,7 +76,7 @@
 # Q:25:2
 [Q.25:2](https://quran.com/25:2/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#25:2]]
+![[Qrsi#r25.1.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -85,7 +85,7 @@
 # Q:35:14
 [Q.35:14](https://quran.com/35:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#35:14]]
+![[Qrsi#r35.2.x]]
 
 ## شِرْك
 
@@ -93,7 +93,7 @@
 # Q:35:40
 [Q.35:40](https://quran.com/35:40/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#35:40]]
+![[Qrsi#r35.5.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -106,7 +106,7 @@
 # Q:20:32
 [Q.20:32](https://quran.com/20:32/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#20:32]]
+![[Qrsi#r20.2.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -115,7 +115,7 @@
 # Q:27:59
 [Q.27:59](https://quran.com/27:59/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#27:59]]
+![[Qrsi#r27.5.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -133,7 +133,7 @@
 # Q:28:62
 [Q.28:62](https://quran.com/28:62/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#28:62]]
+![[Qrsi#r28.7.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -169,15 +169,15 @@
 # Q:28:87
 [Q.28:87](https://quran.com/28:87/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#28:87]]
+![[Qrsi#r28.9.x]]
 
-## مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## مُشْرِك
 
 
 # Q:17:64
 [Q.17:64](https://quran.com/17:64/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#17:64]]
+![[Qrsi#r17.5.x]]
 
 ## شرك iii
 
@@ -185,7 +185,7 @@
 # Q:17:111
 [Q.17:111](https://quran.com/17:111/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#17:111]]
+![[Qrsi#r17.10.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -194,7 +194,7 @@
 # Q:10:18
 [Q.10:18](https://quran.com/10:18/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#10:18]]
+![[Qrsi#r10.2.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -203,7 +203,7 @@
 # Q:10:28
 [Q.10:28](https://quran.com/10:28/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#10:28]]
+![[Qrsi#r10.3.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -216,7 +216,7 @@
 # Q:10:34
 [Q.10:34](https://quran.com/10:34/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#10:34]]
+![[Qrsi#r10.4.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -234,7 +234,7 @@
 # Q:10:66
 [Q.10:66](https://quran.com/10:66/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#10:66]]
+![[Qrsi#r10.7.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -243,7 +243,7 @@
 # Q:10:71
 [Q.10:71](https://quran.com/10:71/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#10:71]]
+![[Qrsi#r10.8.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -252,16 +252,16 @@
 # Q:10:105
 [Q.10:105](https://quran.com/10:105/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#10:105]]
+![[Qrsi#r10.11.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:11:54
 [Q.11:54](https://quran.com/11:54/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#11:54]]
+![[Qrsi#r11.5.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -270,7 +270,7 @@
 # Q:12:38
 [Q.12:38](https://quran.com/12:38/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#12:38]]
+![[Qrsi#r12.5.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -279,9 +279,9 @@
 # Q:12:106
 [Q.12:106](https://quran.com/12:106/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#12:106]]
+![[Qrsi#r12.12.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -290,25 +290,25 @@
 
 ![[Qrsi#12:108]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:15:94
 [Q.15:94](https://quran.com/15:94/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#15:94]]
+![[Qrsi#r15.6.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:6:14
 [Q.6:14](https://quran.com/6:14/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:14]]
+![[Qrsi#r6.2.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -324,7 +324,7 @@
 # Q:6:22
 [Q.6:22](https://quran.com/6:22/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:22]]
+![[Qrsi#r6.3.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -337,7 +337,7 @@
 # Q:6:41
 [Q.6:41](https://quran.com/6:41/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:41]]
+![[Qrsi#r6.5.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -346,7 +346,7 @@
 # Q:6:64
 [Q.6:64](https://quran.com/6:64/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:64]]
+![[Qrsi#r6.8.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -355,7 +355,7 @@
 # Q:6:78
 [Q.6:78](https://quran.com/6:78/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:78]]
+![[Qrsi#r6.9.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -366,7 +366,7 @@
 
 ![[Qrsi#6:79]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -391,7 +391,7 @@
 # Q:6:88
 [Q.6:88](https://quran.com/6:88/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:88]]
+![[Qrsi#r6.10.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -400,7 +400,7 @@
 # Q:6:94
 [Q.6:94](https://quran.com/6:94/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:94]]
+![[Qrsi#r6.11.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -409,7 +409,7 @@
 # Q:6:100
 [Q.6:100](https://quran.com/6:100/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:100]]
+![[Qrsi#r6.12.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -418,9 +418,9 @@
 # Q:6:106
 [Q.6:106](https://quran.com/6:106/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:106]]
+![[Qrsi#r6.13.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -436,16 +436,16 @@
 # Q:6:121
 [Q.6:121](https://quran.com/6:121/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:121]]
+![[Qrsi#r6.14.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:6:136
 [Q.6:136](https://quran.com/6:136/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:136]]
+![[Qrsi#r6.16.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -456,7 +456,7 @@
 
 ![[Qrsi#6:137]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -476,7 +476,7 @@
 # Q:6:148
 [Q.6:148](https://quran.com/6:148/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:148]]
+![[Qrsi#r6.18.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -485,9 +485,9 @@
 # Q:6:161
 [Q.6:161](https://quran.com/6:161/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:161]]
+![[Qrsi#r6.20.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -503,16 +503,15 @@
 # Q:37:33
 [Q.37:33](https://quran.com/37:33/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#37:33]]
+![[Qrsi#r37.2.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
-1st inst: [[#Q:28:87]]
+## مُشْتَرِكُون
 
 
 # Q:31:13
 [Q.31:13](https://quran.com/31:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#31:13]]
+![[Qrsi#r31.2.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -534,7 +533,7 @@
 # Q:34:22
 [Q.34:22](https://quran.com/34:22/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#34:22]]
+![[Qrsi#r34.3.x]]
 
 ## ~~~ شِرْك
 1st inst: [[#Q:35:14]]
@@ -552,7 +551,7 @@
 # Q:39:29
 [Q.39:29](https://quran.com/39:29/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#39:29]]
+![[Qrsi#r39.3.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -561,7 +560,7 @@
 # Q:39:65
 [Q.39:65](https://quran.com/39:65/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#39:65]]
+![[Qrsi#r39.6.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -579,7 +578,7 @@
 # Q:40:12
 [Q.40:12](https://quran.com/40:12/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#40:12]]
+![[Qrsi#r40.2.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -588,7 +587,7 @@
 # Q:40:42
 [Q.40:42](https://quran.com/40:42/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#40:42]]
+![[Qrsi#r40.5.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -597,7 +596,7 @@
 # Q:40:73
 [Q.40:73](https://quran.com/40:73/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#40:73]]
+![[Qrsi#r40.8.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -606,25 +605,25 @@
 # Q:40:84
 [Q.40:84](https://quran.com/40:84/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#40:84]]
+![[Qrsi#r40.9.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:41:6
 [Q.41:6](https://quran.com/41:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#41:6]]
+![[Qrsi#r41.1.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:41:47
 [Q.41:47](https://quran.com/41:47/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#41:47]]
+![[Qrsi#r41.6.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -633,16 +632,16 @@
 # Q:42:13
 [Q.42:13](https://quran.com/42:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#42:13]]
+![[Qrsi#r42.2.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:42:21
 [Q.42:21](https://quran.com/42:21/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#42:21]]
+![[Qrsi#r42.3.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -651,16 +650,16 @@
 # Q:43:39
 [Q.43:39](https://quran.com/43:39/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#43:39]]
+![[Qrsi#r43.4.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
-1st inst: [[#Q:28:87]]
+## ~~~ مُشْتَرِكُون
+1st inst: [[#Q:37:33]]
 
 
 # Q:46:4
 [Q.46:4](https://quran.com/46:4/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#46:4]]
+![[Qrsi#r46.1.x]]
 
 ## ~~~ شِرْك
 1st inst: [[#Q:35:14]]
@@ -669,7 +668,7 @@
 # Q:18:26
 [Q.18:26](https://quran.com/18:26/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#18:26]]
+![[Qrsi#r18.4.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -678,7 +677,7 @@
 # Q:18:38
 [Q.18:38](https://quran.com/18:38/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#18:38]]
+![[Qrsi#r18.5.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -696,7 +695,7 @@
 # Q:18:52
 [Q.18:52](https://quran.com/18:52/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#18:52]]
+![[Qrsi#r18.7.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -705,7 +704,7 @@
 # Q:18:110
 [Q.18:110](https://quran.com/18:110/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#18:110]]
+![[Qrsi#r18.12.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -714,7 +713,7 @@
 # Q:16:1
 [Q.16:1](https://quran.com/16:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#16:1]]
+![[Qrsi#r16.1.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -732,7 +731,7 @@
 # Q:16:27
 [Q.16:27](https://quran.com/16:27/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#16:27]]
+![[Qrsi#r16.4.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -741,7 +740,7 @@
 # Q:16:35
 [Q.16:35](https://quran.com/16:35/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#16:35]]
+![[Qrsi#r16.5.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -750,7 +749,7 @@
 # Q:16:54
 [Q.16:54](https://quran.com/16:54/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#16:54]]
+![[Qrsi#r16.7.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -759,7 +758,7 @@
 # Q:16:86
 [Q.16:86](https://quran.com/16:86/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#16:86]]
+![[Qrsi#r16.12.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -772,18 +771,18 @@
 # Q:16:100
 [Q.16:100](https://quran.com/16:100/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#16:100]]
+![[Qrsi#r16.13.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:16:120
 [Q.16:120](https://quran.com/16:120/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#16:120]]
+![[Qrsi#r16.16.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -792,14 +791,14 @@
 
 ![[Qrsi#16:123]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:14:22
 [Q.14:22](https://quran.com/14:22/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#14:22]]
+![[Qrsi#r14.4.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -808,7 +807,7 @@
 # Q:23:59
 [Q.23:59](https://quran.com/23:59/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#23:59]]
+![[Qrsi#r23.3.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -817,7 +816,7 @@
 # Q:23:92
 [Q.23:92](https://quran.com/23:92/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#23:92]]
+![[Qrsi#r23.4.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -826,7 +825,7 @@
 # Q:52:43
 [Q.52:43](https://quran.com/52:43/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#52:43]]
+![[Qrsi#r52.2.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -835,7 +834,7 @@
 # Q:30:13
 [Q.30:13](https://quran.com/30:13/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#30:13]]
+![[Qrsi#r30.2.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -844,7 +843,7 @@
 # Q:30:28
 [Q.30:28](https://quran.com/30:28/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#30:28]]
+![[Qrsi#r30.4.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -855,7 +854,7 @@
 
 ![[Qrsi#30:31]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -893,16 +892,16 @@
 # Q:30:42
 [Q.30:42](https://quran.com/30:42/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#30:42]]
+![[Qrsi#r30.5.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:29:65
 [Q.29:65](https://quran.com/29:65/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#29:65]]
+![[Qrsi#r29.7.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -913,14 +912,14 @@
 
 ![[Qrsi#6:23]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:6:151
 [Q.6:151](https://quran.com/6:151/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#6:151]]
+![[Qrsi#r6.19.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -929,7 +928,7 @@
 # Q:29:8
 [Q.29:8](https://quran.com/29:8/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#29:8]]
+![[Qrsi#r29.1.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -938,7 +937,7 @@
 # Q:2:96
 [Q.2:96](https://quran.com/2:96/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#2:96]]
+![[Qrsi#r2.11.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -947,34 +946,40 @@
 # Q:2:105
 [Q.2:105](https://quran.com/2:105/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#2:105]]
+![[Qrsi#r2.13.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:2:135
 [Q.2:135](https://quran.com/2:135/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#2:135]]
+![[Qrsi#r2.16.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:2:221
 [Q.2:221](https://quran.com/2:221/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#2:221]]
+![[Qrsi#r2.27.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## مُشْرِكَٰت
+
+
+## مُشْرِكَة
+
+
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:3:64
 [Q.3:64](https://quran.com/3:64/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#3:64]]
+![[Qrsi#r3.7.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -985,23 +990,23 @@
 
 ![[Qrsi#3:67]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:3:95
 [Q.3:95](https://quran.com/3:95/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#3:95]]
+![[Qrsi#r3.10.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:3:151
 [Q.3:151](https://quran.com/3:151/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#3:151]]
+![[Qrsi#r3.16.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1010,7 +1015,7 @@
 # Q:3:186
 [Q.3:186](https://quran.com/3:186/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#3:186]]
+![[Qrsi#r3.19.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1019,16 +1024,20 @@
 # Q:33:73
 [Q.33:73](https://quran.com/33:73/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#33:73]]
+![[Qrsi#r33.9.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
+
+
+## ~~~ مُشْرِكَٰت
+1st inst: [[#Q:2:221]]
 
 
 # Q:60:12
 [Q.60:12](https://quran.com/60:12/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#60:12]]
+![[Qrsi#r60.2.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1037,7 +1046,7 @@
 # Q:4:12
 [Q.4:12](https://quran.com/4:12/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#4:12]]
+![[Qrsi#r4.2.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -1046,7 +1055,7 @@
 # Q:4:36
 [Q.4:36](https://quran.com/4:36/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#4:36]]
+![[Qrsi#r4.6.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1055,7 +1064,7 @@
 # Q:4:48
 [Q.4:48](https://quran.com/4:48/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#4:48]]
+![[Qrsi#r4.7.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1064,7 +1073,7 @@
 # Q:4:116
 [Q.4:116](https://quran.com/4:116/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#4:116]]
+![[Qrsi#r4.18.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1073,7 +1082,7 @@
 # Q:13:16
 [Q.13:16](https://quran.com/13:16/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#13:16]]
+![[Qrsi#r13.2.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -1082,7 +1091,7 @@
 # Q:13:33
 [Q.13:33](https://quran.com/13:33/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#13:33]]
+![[Qrsi#r13.5.x]]
 
 ## ~~~ شَرِيك
 1st inst: [[#Q:68:41]]
@@ -1100,9 +1109,9 @@
 # Q:98:1
 [Q.98:1](https://quran.com/98:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#98:1]]
+![[Qrsi#r98.1]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -1111,14 +1120,14 @@
 
 ![[Qrsi#98:6]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:59:23
 [Q.59:23](https://quran.com/59:23/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#59:23]]
+![[Qrsi#r59.3.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1127,16 +1136,20 @@
 # Q:24:3
 [Q.24:3](https://quran.com/24:3/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#24:3]]
+![[Qrsi#r24.1.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِكَة
+1st inst: [[#Q:2:221]]
+
+
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:24:55
 [Q.24:55](https://quran.com/24:55/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#24:55]]
+![[Qrsi#r24.7.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1145,7 +1158,7 @@
 # Q:22:17
 [Q.22:17](https://quran.com/22:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#22:17]]
+![[Qrsi#r22.2.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1154,7 +1167,7 @@
 # Q:22:26
 [Q.22:26](https://quran.com/22:26/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#22:26]]
+![[Qrsi#r22.4.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1165,7 +1178,7 @@
 
 ![[Qrsi#22:31]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -1176,25 +1189,29 @@
 # Q:61:9
 [Q.61:9](https://quran.com/61:9/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#61:9]]
+![[Qrsi#r61.1.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:48:6
 [Q.48:6](https://quran.com/48:6/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#48:6]]
+![[Qrsi#r48.1.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
+
+
+## ~~~ مُشْرِكَٰت
+1st inst: [[#Q:2:221]]
 
 
 # Q:5:72
 [Q.5:72](https://quran.com/5:72/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#5:72]]
+![[Qrsi#r5.10.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1203,7 +1220,7 @@
 # Q:5:82
 [Q.5:82](https://quran.com/5:82/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#5:82]]
+![[Qrsi#r5.11.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1212,9 +1229,9 @@
 # Q:9:1
 [Q.9:1](https://quran.com/9:1/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#9:1]]
+![[Qrsi#r9.1.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -1223,7 +1240,7 @@
 
 ![[Qrsi#9:3]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -1232,7 +1249,7 @@
 
 ![[Qrsi#9:4]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -1241,7 +1258,7 @@
 
 ![[Qrsi#9:5]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -1250,7 +1267,7 @@
 
 ![[Qrsi#9:6]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -1259,32 +1276,32 @@
 
 ![[Qrsi#9:7]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:9:17
 [Q.9:17](https://quran.com/9:17/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#9:17]]
+![[Qrsi#r9.3.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:9:28
 [Q.9:28](https://quran.com/9:28/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#9:28]]
+![[Qrsi#r9.4.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:9:31
 [Q.9:31](https://quran.com/9:31/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#9:31]]
+![[Qrsi#r9.5.x]]
 
 ## ~~~ شرك iv
 1st inst: [[#Q:7:33]]
@@ -1295,7 +1312,7 @@
 
 ![[Qrsi#9:33]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
@@ -1304,15 +1321,15 @@
 
 ![[Qrsi#9:36]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 
 
 # Q:9:113
 [Q.9:113](https://quran.com/9:113/tafsirs/ar-tafsir-al-tabari)
 
-![[Qrsi#9:113]]
+![[Qrsi#r9.14.x]]
 
-## ~~~ مُشْرِك / مُشْرِكَٰت / مُشْرِكَة / مُشْتَرِكُون
+## ~~~ مُشْرِك
 1st inst: [[#Q:28:87]]
 

@@ -5,6 +5,8 @@ https://www.youtube.com/live/EPFHPZnMwlE?t=6800
 # sylheti ex-muslim
 
 # ex-muslims about sylhet
+https://www.youtube.com/live/GCTaQDB1gzo?t=2534&si=_RrPH7ALlN1OnUJv
+
 https://youtube.com/watch?v=U0HFmM-9wIY&lc=Ugw3AI8QJ-Fjq7x0GFx4AaABAg
 
 https://youtube.com/watch?v=U0HFmM-9wIY&lc=UgycfH9fF8i_I6b8eup4AaABAg

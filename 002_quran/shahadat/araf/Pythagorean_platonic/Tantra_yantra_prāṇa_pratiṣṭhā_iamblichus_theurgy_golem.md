@@ -13,7 +13,7 @@ Iamblichus (300)
 
 # metoche/methexis
 
-[[iamb.mysEg#1.1#2]]
+[[iamb.mysEg#1.1#4]]
 Śirk
 Metochus = śarīk
 

@@ -14104,7 +14104,7 @@ These things, therefore, as being a part of sacrifices, are not falsely asserted
 
 ποιήσεως, τὰ δὲ τῶν δαιμόνων καὶ τῶν περιγείων ἢ περικοσμίων θείων δυνάμεων, ὡς πρῶτα προσοικειούμενα κατὰ τὴν ὡς πρὸς ἡμᾶς τάξιν·
 #### en
-We, however, admit all these assertions;
+We, however, admit all these assertions; physical essences, indeed, being coexcited as in one animal, according to aptitude or sympathy, as in another respect being subjects, and following and being subservient to the cause of the efficacy of sacrifices; but dæmons, and terrene or mundane divine powers, being primarily familiarized to our order;
 #### sn
 Ἡμεῖς δὲ πάντα προσιέμεθα, τὰ μὲν φυσικὰ καὶ ὡς ἐν ἑνὶ ζώῳ κατ’ ἐπιτηδειότητα ἢ συμπάθειαν ἢ ἀντιπάθειαν συγκινούμενα, ὡς τηνάλλως ὑποκείμενα καὶ ἐπακολουθοῦντα καὶ δουλεύοντα εἰς τὴν αἰτίαν τῆς τῶν θυσιῶν
 
@@ -14118,7 +14118,7 @@ We, however, admit all these assertions;
 #### gr
 τὰ μέντοι τελειότατα καὶ ἡγεμονικώτατα τῶν αἰτίων τῆς ἐν ταῖς θυσίαις ποιήσεως συνάπτεσθαι λέγομεν ταῖς δημιουργικαῖς καὶ τελειοτάταις δυνάμεσιν·
 #### en
-physical essences, indeed, being coexcited as in one animal, according to aptitude or sympathy, as in another respect being subjects, and following and being subservient to the cause of the efficacy of sacrifices;
+nevertheless, we must say, that the most perfect and leading cause of the efficacy of sacrifices is to be conjoined to demiurgic and the most perfect powers.
 #### sn
 τὰ μέντοι τελειότατα καὶ ἡγεμονικώτατα τῶν αἰτίων τῆς ἐν ταῖς θυσίαις ποιήσεως συνάπτεσθαι λέγομεν ταῖς δημιουργικαῖς καὶ τελειοτάταις δυνάμεσιν·
 #### ar
@@ -14128,7 +14128,7 @@ physical essences, indeed, being coexcited as in one animal, according to aptitu
 #### gr
 ἐπεὶ δὲ αὗται περιέχουσιν ἐν ἑαυταῖς πάντα ὅσα ποτέ ἐστιν αἴτια, συγκινεῖσθαι λέγομεν ἅμα μετὰ τούτων ἀθρόως καὶ πάντα ὅσα ποτέ ἐστι ποιητικά, ἐκ δὲ ἁπάντων κοινὸν κατιέναι τὸ ὄφελος εἰς ὅλην τὴν γένεσιν, ἐνίοτε μὲν κατὰ πόλεις καὶ δήμους ἢ ἔθνη παντοδοπὰ ἢ μείζονας τούτων ἢ ἐλάττονας περιγραφάς, ἄλλοτε δὲ κατὰ οἴκους ἢ κατὰ ἄνδρα ἕκαστον παρεχούσας τὰ ἀγαθὰ ἀφθόνῳ βουλήσει, καὶ οὐ πάθει τῶν χαριζομένων τὴν διανομὴν αὐτῶν ἀπεργαζομένων, νῷ τε ἀπαθεῖ κατ’ οἰκειότητα καὶ συγγένειαν κρινόντων, ὡς δεῖ διδόναι, φιλιάς τε μιᾶς, τῆς τὰ πάντα συνεχούσης, τὸν σύνδεσμον τοῦτον διά τινος ἀρρήτου κοινωνίας ἀπεργαζομένης.
 #### en
-but dæmons, and terrene or mundane divine powers, being primarily familiarized to our order;
+But since these comprehend in themselves all the causes of sacrifice, we say that all the effective causes of it are at once coexcited together with these. And from all these a common utility is imparted to the whole of generation; sometimes through cities and people, or all various nations, or circumscriptions more or less extended than these; but at other times through houses, or an individual, these causes impart good with an unenvying and exuberant will, unaccompanied with passion; conferring their benefits with an impassive intellect, according to adaptation and alliance; one friendship at the same time which connectedly contains all things, producing this bond through a certain ineffable communion.
 #### sn
 ἐπεὶ δὲ αὗται περιέχουσιν ἐν ἑαυταῖς πάντα ὅσα ποτέ ἐστιν αἴτια, συγκινεῖσθαι λέγομεν ἅμα μετὰ τούτων ἀθρόως καὶ πάντα ὅσα ποτέ ἐστι ποιητικά, ἐκ δὲ ἁπάντων κοινὸν κατιέναι τὸ ὄφελος εἰς ὅλην τὴν γένεσιν, ἐνίοτε μὲν κατὰ πόλεις καὶ δήμους ἢ ἔθνη παντοδοπὰ ἢ μείζονας τούτων ἢ ἐλάττονας περιγραφάς, ἄλλοτε δὲ κατὰ οἴκους ἢ κατὰ ἄνδρα ἕκαστον παρεχούσας τὰ ἀγαθὰ ἀφθόνῳ βουλήσει, καὶ οὐ πάθει τῶν χαριζομένων τὴν διανομὴν αὐτῶν ἀπεργαζομένων, νῷ τε ἀπαθεῖ κατ’ οἰκειότητα καὶ συγγένειαν κρινόντων, ὡς δεῖ διδόναι, φιλιάς τε μιᾶς, τῆς τὰ πάντα συνεχούσης, τὸν σύνδεσμον τοῦτον διά τινος ἀρρήτου κοινωνίας ἀπεργαζομένης.
 #### ar
@@ -14140,7 +14140,7 @@ but dæmons, and terrene or mundane divine powers, being primarily familiarized 
 
 τῶν θεῶν οὐσίας καὶ δυνάμεως τυγχάνει ἢ ὃ σὺ καθυπονοεῖς, ὡς ἀτμοῖς θυσιῶν τοῖς ἀπὸ ζώων μάλιστα δελεάζονται·
 #### en
-nevertheless, we must say, that the most perfect and leading cause of the efficacy of sacrifices is to be conjoined to demiurgic and the most perfect powers.
+For these assertions are much more true, and more characteristic of the essence and power of the Gods, than what you suspect to be the case, viz. “_that the Gods are especially allured by the vapours produced in the sacrifices of animals_.
 #### sn
 Πολὺ γὰρ ταῦτα ἀληθέστερά ἐστι καὶ μᾶλλον τῆς
 
@@ -14154,7 +14154,7 @@ nevertheless, we must say, that the most perfect and leading cause of the effica
 #### gr
 εἰ γὰρ τί που καὶ περίκειται τοῖς δαίμοσι σῶμα, ὃ δή τινες τρέφεσθαι ἀπὸ τῶν θυσιῶν νομίζουσιν, ἄτρεπτόν ἐστι τοῦτο καὶ ἀπαθές, αὐγοειδές τε καὶ ἀνενδεές, ὡς μήτε ἀπορρεῖν τι ἀπ’ αὐτοῦ μήτ’ ἐπιρροῆς ἔξωθεν αὐτὸ προσδεῖσθαι.
 #### en
-But since these comprehend in themselves all the causes of sacrifice, we say that all the effective causes of it are at once coexcited together with these.
+” For if dæmons are invested with a certain body, which some think is nourished by sacrifices, yet this body is immutable and impassive, luciform and unindigent; so that neither does any thing flow from it, nor is it in want of any influx externally introduced.
 #### sn
 εἰ γὰρ τί που καὶ περίκειται τοῖς δαίμοσι σῶμα, ὃ δή τινες τρέφεσθαι ἀπὸ τῶν θυσιῶν νομίζουσιν, ἄτρεπτόν ἐστι τοῦτο καὶ ἀπαθές, αὐγοειδές τε καὶ ἀνενδεές, ὡς μήτε ἀπορρεῖν τι ἀπ’ αὐτοῦ μήτ’ ἐπιρροῆς ἔξωθεν αὐτὸ προσδεῖσθαι.
 #### ar
@@ -14164,7 +14164,7 @@ But since these comprehend in themselves all the causes of sacrifice, we say tha
 #### gr
 εἰ δ’ ἄρα καὶ τοῦτό τις θείη, τοῦ κόσμου καὶ τοῦ ἐν αὐτῷ ἀέρος ἀνέκλειπτον ἔχοντος ἀπὸ τῶν περὶ τὴν γῆν ἀναθυμίασιν, περικεχυμένου τε πανταχόθεν ἐπίσης τοῦ τοιούτου ῥεύματος, τίς ἂν ἔτι χρεία αὐτοῖς εἴη τῶν θυσιῶν;
 #### en
-And from all these a common utility is imparted to the whole of generation;
+And if some one should admit that there is this influx, yet since the world and the air contained in it have a never failing abundance of exhalations from terrene places, an efflux of this kind being equally diffused on all sides, what use can there be of sacrifices to dæmons?
 #### sn
 εἰ δ’ ἄρα καὶ τοῦτό τις θείη, τοῦ κόσμου καὶ τοῦ ἐν αὐτῷ ἀέρος ἀνέκλειπτον ἔχοντος ἀπὸ τῶν περὶ τὴν γῆν ἀναθυμίασιν, περικεχυμένου τε πανταχόθεν ἐπίσης τοῦ τοιούτου ῥεύματος, τίς ἂν ἔτι χρεία αὐτοῖς εἴη τῶν θυσιῶν;
 #### ar
@@ -14174,7 +14174,7 @@ And from all these a common utility is imparted to the whole of generation;
 #### gr
 ἀλλ’ οὐδὲ δι’ ἴσου τοῖς ἀπορρέουσιν ἀναπληροῖ τὰ ἐπεισιόντα συμμέτρως, ὡς μήτε ὑπερβολὴν ἐπικρατεῖν μήτε ἔλλειψίν ποτε ἐγγίνεσθαι, ἰσότητα δὲ πάντη καὶ ὁμαλότητα τῶν δαιμονίων σωμάτων ὡσαύτως ὑπάρχειν.
 #### en
-sometimes through cities and people, or all various nations, or circumscriptions more or less extended than these;
+But neither do the influxions equally and commensurately fill the place of the effluxions, so as that neither excess should at any time predominate, nor deficiency be produced, but that there should be a perfect equality and similitude of the bodies of dæmons, and this invariably the same.
 #### sn
 ἀλλ’ οὐδὲ δι’ ἴσου τοῖς ἀπορρέουσιν ἀναπληροῖ τὰ ἐπεισιόντα συμμέτρως, ὡς μήτε ὑπερβολὴν ἐπικρατεῖν μήτε ἔλλειψίν ποτε ἐγγίνεσθαι, ἰσότητα δὲ πάντη καὶ ὁμαλότητα τῶν δαιμονίων σωμάτων ὡσαύτως ὑπάρχειν.
 #### ar
@@ -14184,7 +14184,7 @@ sometimes through cities and people, or all various nations, or circumscriptions
 #### gr
 Οὐ γὰρ δήπου τοῖς μὲν ἐν γῇ καὶ θαλάττῃ πᾶσι ζώοις ὁ δημιουργὸς ἄφθονον καὶ ἕτοιμον διατροφὴν παρέθηκε, τοῖς δὲ κρείττοσιν ἡμῶν ἔνδειαν ταύτης ἐνεποίησεν.
 #### en
-but at other times through houses, or an individual, these causes impart good with an unenvying and exuberant will, unaccompanied with passion;
+For the Demiurgus of the universe has not provided abundant nutriment, and which may be easily obtained, for all the animals in the earth and the sea, but has made the beings superior to us to be in want of it;
 #### sn
 Οὐ γὰρ δήπου τοῖς μὲν ἐν γῇ καὶ θαλάττῃ πᾶσι ζώοις ὁ δημιουργὸς ἄφθονον καὶ ἕτοιμον διατροφὴν παρέθηκε, τοῖς δὲ κρείττοσιν ἡμῶν ἔνδειαν ταύτης ἐνεποίησεν.
 #### ar
@@ -14194,7 +14194,7 @@ but at other times through houses, or an individual, these causes impart good wi
 #### gr
 οὐδὲ τοῖς μὲν ἄλλοις ζώοις ἐξ ἑαυτῶν ἔμφυτον παρέσχε τὴν εὐπορίαν τῶν καθ’ ἡμέραν ἐπιτηδείων, τοῖς δαίμοσι δὲ ἐπείσακτον καὶ παρ’ ἡμῶν τῶν ἀνθρώπων συντελουμένην ἔδωκε τὴν διατροφήν·
 #### en
-conferring their benefits with an impassive intellect, according to adaptation and alliance;
+nor has he imparted to other animals a native abundance of what is daily requisite, but given to dæmons nutriment which is adscititious and procured by us men; 
 #### sn
 οὐδὲ τοῖς μὲν ἄλλοις ζώοις ἐξ ἑαυτῶν ἔμφυτον παρέσχε τὴν εὐπορίαν τῶν καθ’ ἡμέραν ἐπιτηδείων, τοῖς δαίμοσι δὲ ἐπείσακτον καὶ παρ’ ἡμῶν τῶν ἀνθρώπων συντελουμένην ἔδωκε τὴν διατροφήν·
 #### ar
@@ -14204,7 +14204,7 @@ conferring their benefits with an impassive intellect, according to adaptation a
 #### gr
 καὶ ὡς ἔοικεν, ἐὰν ἡμεῖς δι’ ἀργίαν ἢ ἄλλην τινὰ πρόφασιν κατολιγωρήσωμεν τῆς τοιαύτης εἰσφορᾶς, ἐνδεῆ τῶν δαιμόνων τὰ σώματα ἔσται, ἀσυμμετρίας τε καὶ ἀταξίας μεθέξει.
 #### en
-one friendship at the same time which connectedly contains all things, producing this bond through a certain ineffable communion.
+so that if we through indolence, or some other pretext, should neglect an offering of this kind, the bodies of dæmons would be in want of food, and would participate of incommensuration and disorder. 
 #### sn
 καὶ ὡς ἔοικεν, ἐὰν ἡμεῖς δι’ ἀργίαν ἢ ἄλλην τινὰ πρόφασιν κατολιγωρήσωμεν τῆς τοιαύτης εἰσφορᾶς, ἐνδεῆ τῶν δαιμόνων τὰ σώματα ἔσται, ἀσυμμετρίας τε καὶ ἀταξίας μεθέξει.
 #### ar
@@ -14214,7 +14214,7 @@ one friendship at the same time which connectedly contains all things, producing
 #### gr
 Διὰ τί οὖν οἱ ταῦτα λέγοντες οὐ καὶ τὴν ὅλην ἀναστρέφουσι τάξιν, ὥστε ἡμᾶς ἐν καλλίονι ποιεῖν τάξει καὶ δυνατωτέρους;
 #### en
-For these assertions are much more true, and more characteristic of the essence and power of the Gods, than what you suspect to be the case, viz.
+Why, therefore, do not the authors of these assertions subvert the whole order of things, so as to make us to be in a better and more powerful class of beings? 
 #### sn
 Διὰ τί οὖν οἱ ταῦτα λέγοντες οὐ καὶ τὴν ὅλην ἀναστρέφουσι τάξιν, ὥστε ἡμᾶς ἐν καλλίονι ποιεῖν τάξει καὶ δυνατωτέρους;
 #### ar
@@ -14224,7 +14224,7 @@ For these assertions are much more true, and more characteristic of the essence 
 #### gr
 εἰ γὰρ τροφέας ἡμᾶς καὶ ἀποπληρωτὰς ποιοῦσι τῶν δαιμόνων, ἡμεῖς τῶν δαιμόνων ἐσόμεθα αἰτιώτεροι.
 #### en
-“_that the Gods are especially allured by the vapours produced in the sacrifices of animals_.
+For if we supply dæmons with nutriment, we shall much more be the causes of their existence. 
 #### sn
 εἰ γὰρ τροφέας ἡμᾶς καὶ ἀποπληρωτὰς ποιοῦσι τῶν δαιμόνων, ἡμεῖς τῶν δαιμόνων ἐσόμεθα αἰτιώτεροι.
 #### ar
@@ -14234,7 +14234,7 @@ For these assertions are much more true, and more characteristic of the essence 
 #### gr
 ἕκαστον γὰρ ἀφ’ οὗ γέγονεν, ἀπὸ τούτου καὶ τὴν τροφὴν καὶ τελειότητα προσλαμβάνει.
 #### en
-” For if dæmons are invested with a certain body, which some think is nourished by sacrifices, yet this body is immutable and impassive, luciform and unindigent;
+For every thing receives nutriment and perfection from that by which it was generated. 
 #### sn
 ἕκαστον γὰρ ἀφ’ οὗ γέγονεν, ἀπὸ τούτου καὶ τὴν τροφὴν καὶ τελειότητα προσλαμβάνει.
 #### ar
@@ -14244,7 +14244,7 @@ For these assertions are much more true, and more characteristic of the essence 
 #### gr
 καὶ τοῦτο ἴδοι μὲν ἄν τις καὶ ἐπὶ τῶν φανερῶν γενέσεων.
 #### en
-so that neither does any thing flow from it, nor is it in want of any influx externally introduced.
+And this, indeed, may be seen in the visible generations of things; 
 #### sn
 καὶ τοῦτο ἴδοι μὲν ἄν τις καὶ ἐπὶ τῶν φανερῶν γενέσεων.
 #### ar
@@ -14254,7 +14254,7 @@ so that neither does any thing flow from it, nor is it in want of any influx ext
 #### gr
 ἔστι δὲ καὶ ἐπὶ τῶν κοσμικῶν θεωρεῖν·
 #### en
-And if some one should admit that there is this influx, yet since the world and the air contained in it have a never failing abundance of exhalations from terrene places, an efflux of this kind being equally diffused on all sides, what use can there be of sacrifices to dæmons?
+but it may also be surveyed in the heavens and the earth. 
 #### sn
 ἔστι δὲ καὶ ἐπὶ τῶν κοσμικῶν θεωρεῖν·
 #### ar
@@ -14264,7 +14264,7 @@ And if some one should admit that there is this influx, yet since the world and 
 #### gr
 καὶ γὰρ τὰ περίγεια ἀπὸ τῶν οὐρανίων τρέφεται.
 #### en
-But neither do the influxions equally and commensurately fill the place of the effluxions, so as that neither excess should at any time predominate, nor deficiency be produced, but that there should be a perfect equality and similitude of the bodies of dæmons, and this invariably the same.
+For terrestrial are nourished by celestial natures. 
 #### sn
 καὶ γὰρ τὰ περίγεια ἀπὸ τῶν οὐρανίων τρέφεται.
 #### ar
@@ -14274,7 +14274,7 @@ But neither do the influxions equally and commensurately fill the place of the e
 #### gr
 πολὺ δὲ διαφερόντως ἐπὶ τῶν ἀφανῶν αἰτίων κατάδηλον γίνεται.
 #### en
-For the Demiurgus of the universe has not provided abundant nutriment, and which may be easily obtained, for all the animals in the earth and the sea, but has made the beings superior to us to be in want of it;
+But this becomes most eminently manifest in invisible causes. 
 #### sn
 πολὺ δὲ διαφερόντως ἐπὶ τῶν ἀφανῶν αἰτίων κατάδηλον γίνεται.
 #### ar
@@ -14286,7 +14286,7 @@ For the Demiurgus of the universe has not provided abundant nutriment, and which
 
 ἀπὸ τῶν αἰτίων τρέφεται·
 #### en
-nor has he imparted to other animals a native abundance of what is daily requisite, but given to dæmons nutriment which is adscititious and procured by us men;
+For soul indeed, is perfected by intellect; but nature by soul. And other things are in a similar manner nourished by their causes. 
 #### sn
 ψυχὴ μὲν γὰρ ἀπὸ νοῦ τελειοῦται, φύσις δὲ ἀπὸ ψυχῆς, τά τε ἄλλα ὡσαύτως
 
@@ -14300,7 +14300,7 @@ nor has he imparted to other animals a native abundance of what is daily requisi
 #### gr
 εἰ δὲ ἀδύνατον ἀρχηγοὺς ἡμᾶς εἶναι τῶν δαιμόνων, τῷ αὐτῷ λόγῳ καὶ τῆς τροφῆς αὐτῶν ἐσμὲν αἴτιοι.
 #### en
-so that if we through indolence, or some other pretext, should neglect an offering of this kind, the bodies of dæmons would be in want of food, and would participate of incommensuration and disorder. Why, therefore, do not the authors of these assertions subvert the whole order of things, so as to make us to be in a better and more powerful class of beings? For if we supply dæmons with nutriment, we shall much more be the causes of their existence. For every thing receives nutriment and perfection from that by which it was generated. And this, indeed, may be seen in the visible generations of things; but it may also be surveyed in the heavens and the earth. For terrestrial are nourished by celestial natures. But this becomes most eminently manifest in invisible causes. For soul indeed, is perfected by intellect; but nature by soul. And other things are in a similar manner nourished by their causes. If, therefore, it is impossible that we should be the primordial causes of dæmons, it is, for the same reason, impossible that we should be the causes of their nutriment.
+If, therefore, it is impossible that we should be the primordial causes of dæmons, it is, for the same reason, impossible that we should be the causes of their nutriment.
 #### sn
 εἰ δὲ ἀδύνατον ἀρχηγοὺς ἡμᾶς εἶναι τῶν δαιμόνων, τῷ αὐτῷ λόγῳ καὶ τῆς τροφῆς αὐτῶν ἐσμὲν αἴτιοι.
 #### ar

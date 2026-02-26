@@ -760,6 +760,91 @@ f This ocean, the spring of a hundred streams,
 Expanded in the middle of the world,
 Aditi milking ghee for men,
 O Agni, harm not [2] in the highest heaven;
+## 4.3
+#### 4.3.3
+प्राची॑ दि॒शां व॑स॒न्त ऋ॑तू॒नाम॒ग्निर्दे॒वता॒ ब्रह्म॒
+द्रवि॑णं 
+
+a The east of the quarters; the spring of the seasons; Agni the deity; (brahma) holy power the wealth; 
+
+त्रि॒वृथ्स्तोमः॒ स उ॑ पञ्चद॒शव॑र्तनि॒स्त्र्यवि॒र्वयः॑
+
+the Trivrt the Stoma, and it forming the path of the fifteenfold (Stoma); the eighteen-month-old calf the strength; 
+
+कृ॒तमया॑नां पुरोवा॒तो वातः॒ 
+
+the Krta of throws of dice; the east wind the wind; 
+
+सान॑ग॒ ऋषि॑र्दक्षि॒णा दि॒शां ग्री॒ष्म
+ऋ॑तू॒नामिन्द्रो॑ दे॒वता᳚ 
+
+Sanaga the Rsi.
+b The south of the quarters; the summer of the seasons; 
+Indra the deity; 
+
+क्ष॒त्रं द्रवि॑णं पञ्चद॒शः स्तोमः॒ 
+
+the kingly power the wealth; the fifteenfold the Stoma, 
+
+स उ॑
+सप्तद॒शव॑र्तनिर्दित्य॒वाड्वय॒स्त्रेताया॑नां 
+
+and it forming the path of the seventeenfold (Stoma); the two-year-old the strength; the Treta of throws; 
+
+दक्षिणाद्वा॒तो वातः॑ सना॒तन॒
+ऋषिः॑ 
+
+the south wind the wind; Sanatana, the Rsi.
+
+प्र॒तीची॑ दि॒शां व॒र्॒षा ऋ॑तू॒नां विश्वे॑ दे॒वा दे॒वता॒ 
+
+c The west of the quarters; the rains of the seasons; the All-gods the deity; 
+
+विड्
+
+द्रवि॑णꣳ सप्तद॒शः स्तोमः॒ स उ॑ एकवि॒ꣳ॒शव॑र्तनिस्त्रिव॒थ्सो
+वयो᳚ 
+
+the peasants [1] the wealth; the seventeenfold the Stoma, and it forming the path of the twenty-onefold (Stoma); the three-year-old the strength; 
+
+द्वाप॒रोऽया॑नां 
+
+the Dvapara of throws; 
+
+पश्चाद्वा॒तो वातो॑ऽह॒भून॒ ऋषि॒रुदी॑ची दि॒शाꣳ
+श॒रदृ॑तू॒नां 
+
+the west wind the wind; Ahabuna the Rsi.
+d The north of the quarters; the autumn of the seasons; 
+
+मि॒त्रावरु॑णौ दे॒वता॑ पु॒ष्टं द्रवि॑णमेकवि॒ꣳ॒शः स्तोमः॒
+
+Mitra and Varuna the deity; prosperity the wealth; the twenty-onefold the Stoma; 
+
+स उ॑ त्रिण॒वव॑र्तनिस्तुर्य॒वाड्वय॑ आस्क॒न्दोऽया॑नामुत्तराद्वा॒तो वातः॑ 
+
+and it forming a path of the twenty-sevenfold (Stoma); the four-year-old the strength; the Askanda of throws; the north wind the wind; 
+
+प्र॒त्न
+ऋषि॑रू॒र्ध्वा दि॒शाꣳ हे॑मन्तशिशि॒रावृ॑तू॒नां बृह॒स्पति॑र्दे॒वता॒
+
+Pratna the Rsi.
+e The zenith of the quarters; the winter and the cool season of the seasons; Brhaspati the deity; 
+
+वर्चो॒ द्रवि॑णं त्रिण॒वः स्तोमः॒ स उ॑ त्रयस्त्रि॒ꣳ॒शव॑र्तनिः
+पष्ठ॒वाद्वयो॑ऽभि॒भूरया॑नां 
+
+radiance the wealth; the twenty-sevenfold the Stoma, and it forming a path of the thirty-threefold; the draught ox the strength; the Abhibhu of throws; 
+
+विष्वग्वा॒तो वातः॑ सुप॒र्ण ऋषिः॑ 
+
+the wind all through the wind; Suparna the Rsi.
+
+पि॒तरः॑
+पिताम॒हाः परेऽव॑रे॒ ते नः॑ पान्तु॒ ते नो॑ऽवन्त्व॒स्मिन् ब्रह्म॑न्न॒स्मिन्
+क्ष॒त्रे᳚ऽस्यामा॒शिष्य॒स्यां पु॑रो॒धाया॑म॒स्मिन्कर्म॑न्न॒स्यां दे॒वहू᳚त्याम् ॥
+
+f Fathers, grandfathers, near and far, may they protect us, may they help us, in this holy power, this lordly power, this prayer, this Purohita-ship, this rite, this invocation of the gods.
 ## 4.4
 ### 4.4.5
 १८ इ॒न्द्रा॒ग्निभ्यां᳚ त्वा स॒युजा॑ यु॒जा यु॑नज्म्याघा॒राभ्यां॒

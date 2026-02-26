@@ -1925,6 +1925,35 @@ When he said this, he was about ten years old, and the women were amazed;
 τὸν δὲ διαμνημονεύοντα οὕτω δή, ἐπείτε ἀνδρώθη καὶ ἔσχε τὴν βασιληίην, ποιήσασθαι τὴν ἐπ᾽ Αἴγυπτον στρατηίην.
 
 but he kept it in mind, and it was thus that when he grew up and became king, he made the campaign against Egypt.
+## c5
+#### 1
+μούνῃ δὲ ταύτῃ εἰσὶ φανεραὶ ἐσβολαὶ ἐς Αἴγυπτον. 
+
+Now the only apparent way of entry into Egypt is this. 
+
+ἀπὸ γὰρ Φοινίκης μέχρι οὔρων τῶν Καδύτιος πόλιος ἐστὶ Σύρων τῶν Παλαιστίνων καλεομένων: 
+
+The road runs from Phoenicia as far as the borders of the city of Cadytis,1 which belongs to the so-called Syrians of Palestine. 
+
+1 Probably Gaza.
+#### 2
+[2] ἀπὸ δὲ Καδύτιος ἐούσης πόλιος, ὡς ἐμοὶ δοκέει, Σαρδίων οὐ πολλῷ ἐλάσσονος, ἀπὸ ταύτης τὰ ἐμπόρια τὰ ἐπὶ θαλάσσης μέχρι Ἰηνύσου πόλιος ἐστὶ τοῦ Ἀραβίου, 
+
+[2] From Cadytis (which, as I judge, is a city not much smaller than Sardis) to the city of Ienysus the seaports belong to the Arabians; 
+
+ἀπὸ δὲ Ἰηνύσου αὖτις Σύρων μέχρι Σερβωνίδος λίμνης, παρ᾽ ἣν δὴ τὸ Κάσιον ὄρος τείνει ἐς θάλασσαν: 
+
+then they are Syrian again from Ienysus as far as the Serbonian marsh, beside which the Casian promontory stretches seawards; 
+#### 3
+[3] ἀπὸ δὲ Σερβωνίδος λίμνης, ἐν τῇ δὴ λόγος τὸν Τυφῶ κεκρύφθαι, ἀπὸ ταύτης ἤδη Αἴγυπτος. 
+
+[3] from this Serbonian marsh, where Typho is supposed to have been hidden,2 the country is Egypt. 
+
+2 Hot winds and volcanic agency were attributed by Greek mythology to Typhon, cast down from heaven by Zeus and “buried” in hot or volcanic regions. Typhon came to be identified with the Egyptian god Set; and the legend grew that he was buried in the Serbonian marsh.
+
+τὸ δὴ μεταξὺ Ἰηνύσου πόλιος καὶ Κασίου τε ὄρεος καὶ τῆς Σερβωνίδος λίμνης, ἐὸν τοῦτο οὐκ ὀλίγον χωρίον ἀλλὰ ὅσον τε ἐπὶ τρεῖς ἡμέρας ὁδόν, ἄνυδρον ἐστὶ δεινῶς.
+
+Now between Ienysus and the Casian mountain and the Serbonian marsh there lies a wide territory for as much as three days' journey, terribly arid.
 ## c8
 #### 1
 σέβονται δὲ Ἀράβιοι πίστις ἀνθρώπων ὅμοια τοῖσι μάλιστα, 

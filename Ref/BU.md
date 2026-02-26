@@ -1076,10 +1076,51 @@ When this (body) becomes thin—is emaciated through old age or disease—then, 
 एकीभवति, न पश्यतीत्याहुः; एकीभवति, न जिघ्रतीत्याहुः; एकीभवति, न रसयतीत्याहुः; एकीभवति, न वदतीत्याहुः; एकीभवति, न शृणोतीत्याहुः; एकीभवति, न मनुत इत्याहुः; एकीभवति, न स्पृशतीत्याहुः; एकीभवति, न विजानातीत्याहुः; तस्य हैतस्य हृदयस्याग्रं प्रद्योतते; तेन प्रद्योतेनैष आत्मा निष्क्रामति—चक्शुष्टो वा, मूर्ध्नो वा, अन्येभ्यो वा शरीरदेशेभ्यः; तमुत्क्रामन्तं प्राणोऽनूत्क्रामति; प्राणमनूत्क्रामन्तं सर्वे प्राणा अनूत्क्रामन्ति; सविज्ञानो भवति, सविज्ञानमेवान्ववक्रामति । तं विद्याकर्मणी समन्वारभेते पूर्वप्रज्ञा च ॥ २ ॥
 
 (The eye) becomes united (with the subtle body); then people say, ‘He does not see.’ (The nose) becomes united; then they say, ‘He does not smell.’ (The tongue) becomes united; then they say, ‘He does not taste.’ (The vocal organ) becomes united; then they say, ‘He does not speak.’ (The ear) becomes united; then they say, ‘He does not hear.’ (The Manas) becomes united; then they say, ‘He does not think.’ (The skin) becomes united; then they say, ‘He does not touch.’ (The intellect) becomes united; then they say, ‘He does not know.’ The top of the heart brightens. Through that brightened top the self departs,‘either through the eye, or through the head, or through any other part of the body. When it departs, the vital force follows; when the vital force departs, all the organs follow. Then the self has particular consciousness, and goes to the body which is related to that con-scioṇsness. It is followed by knowledge, work and past experience.
+#### 6
+तदेष श्लोको भवति ।
+
+Regarding this there is the following verse: 
+
+तदेव सक्तः सह कर्मणैति
+
+'Being attached, he, together with the work, 
+
+लिङ्गं मनो यत्र निषक्तमस्य ।
+प्राप्यान्तं कर्मणस्तस्य 
+
+attains that result to which his subtle body or mind is attached. 
+
+यत्किञ्चेह करोत्ययम् ।
+
+Exhausting the results of whatever work he did in this life, 
+
+तस्माल्लोकात्पुनरैत्यस्मै लोकाय कर्मणे ॥
+
+he returns from that world to this for (fresh) work.’ 
+
+इति नु कामयमानः; 
+
+Thus does the man who desires (transmigrate). 
+
+अथाकामयमानः—योऽकामो
+
+But the man who does not desire (never transmigrates). Of him who is without desires, 
+
+निष्काम आप्तकाम आत्मकामो 
+
+who is free from desires, the objects of whose desire have been attained, and to whom all objects of desire are but the Self—
+
+न तस्य प्राणा उत्क्रामन्ति,
+
+the organs do not depart. 
+
+ब्रह्मैव सन्ब्रह्माप्येति ॥ ६ ॥
+
+Being but Brahman, he is merged in Brahman.
 #### 7
 तदेष श्लोको भवति ।
-    यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः ।
-    अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुत ॥ इति ।
+यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः ।
+अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुत ॥ इति ।
 तद्यथाहिनिर्व्लयनी वल्मीके मृता प्रत्यस्ता शयीत, एवमेवेदं शरीरं शेते, अथायमशरीरोऽमृतः प्राणो ब्रह्मैव तेज एव; सोऽहं भगवते सहस्रं ददामीति होवाच जनको वैदेहः ॥ ७ ॥
 
 Regarding this there is this verse: ‘When all the desires that dwell in his heart (mind) are gone, then he, having been mortal, becomes immortal, and attains Brahman in this very body.’ Just as the lifeless slough of a snake is cast off and lies in the ant-hill, so does this body lie. Then the self becomes disembodied and immortal, (becomes) the Prāṇa (Supreme Self), Brahman, the Light. ‘I give you a thousand (cows), sir,’ said Janaka, Emperor of Videha.

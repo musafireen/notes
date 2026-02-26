@@ -2,144 +2,104 @@ Wendy Doniger - The Hindus_ An Alternative History-Penguin (Non-Classics) (2010)
 
 # 1
 In the Rig Veda’ (the earliest Sanskrit text, from c. 1200 BCE), the word ahimsa refers primarily to the prevention of injury or violence to the sacrificer and his offspring, as well as his cattle (10.22.13).18 
-
+## RV:10:22:13
 ![[RV#10.22]]
 
 # 2
 ▪ Greek historian Herodotus, c. 430 BCE) would debate every important question first drunk, then (on the next day) sober or, as the case may be, first sober, then drunk (1.133) (hdt.1.133)
 
+## hdt.hist:1:133
 ![[hdt.hist#b1#c133]]
 # 3
 ▪ ancient sculptures (such as the Gudimallam linga from the third century BCE) define this image unequivocally as an iconic representation of the male sexual organ in erection (tirupati 
 
 200 (dharanikota satavahans) - 700 (kanchi pallava))
 : k.r srinivasan
+## TS:4:5
+[[TS#4.5]]
+## SvtU:6:9
 
-![[TS#4.5]]
+![[SvetU#6:7]]
+![[SvetU#6.9]]
+
+## MB:13:14:101
+![[MB#p13#c14#100]]![[MB#p13#c14#101]]![[MB#p13#c14#102]]
+## MB:13:17:45,74,139
+![[MB#p13#c17#45]]![[Mb#p13#c17#74]]![[Mb#p13#c17#139]]
+## MB:13:146:10,15-17
+![[MB#p13#c146#10]]![[MB#p13#c146#15]]![[Mb#p13#c146#16]]![[MB#p13#c146#17]]
 # 4
 ▪ “Garland of Games” of Kshemendra, a Brahmin who lived in Kashmir in the eleventh century, refers to the human counterpart of the Shiva linga: “Having locked up the house on the pretext of venerating the linga, Randy scratches her itch with a linga of skin.”4 The first linga in this verse is certainly Shiva’s, and there is an implied parallelism, if not identity, between it and the second one, which could be either a leather dildo or its human prototype, attached to a man (?)
 
-![[ksmndr#nrm]]
+## ksmnd.nrm:3:44
+![[ksmndr#nrm#c3#44]]
 # 5
 
 ▪ some Hindus who see the linga as an abstract symbol therefore object to the interpretations of those who view it anthropomorphically; their Christian counterparts would be people who refuse to acknowledge that the cross ever referred to the passion of Christ. Visitors to the Gudimallam linga in the early twenty-first century noted that while the large linga as a whole remains entirely naked, with all its anatomical detail, the small image of a naked man on the front of the linga was covered with a chaste cloth (?)
+# 6
 
 ▪ Myth has been called “the smoke of history,”7 (india, keay)
 # 7
 ▪ lawmaker Manu too, in the early centuries CE, treats mleccha as a linguistic term, contrasted with Arya (which he correctly regards as a linguistic term) rather than with Dasyu (an ethnic term); those outside the four classes (varnas) are aliens (Dasyus), whether they speak barbarian (mleccha) languages or Arya languages (10.45). (mnSm.10:45)
-
+## MnSm:10:45
 ![[mnsmr#10.45]]
 
 # 8
 
 ▪ in the second or third century CE, the Kama-sutra tells us not only that women had such access but even that they sometimes commissioned such texts to be written (1.3) (kmS.1.3)
+## kmS:1:3:11
+![[kmS#1.3#11]]
 
+# 9
 ▪ Women in Sanskrit plays generally speak only dialects (Prakrits), while men speak only Sanskrit, but since the men and women converse together, generally without translators, the women must understand the men’s Sanskrit, and the men the women’s dialects (.)
-
+# 10
 ▪ Kama-sutra, in its instructions to the would-be adulterer, presents a strong protofeminist view of what women have to put up with at the hands of inadequate husbands (5.1) (kmS.5.1)
-
+## kmS:5:1:17,36
+![[kmS#5.1#17]]![[kmS#5.1#36]]
+# 11
 ▪ great flood, first recorded in the Shatapatha Brahmana (c. 800 BCE), around the same time as one of the proposed dates for the Mahabharata flood, a myth that has also been linked to Noah’s Ark in Genesis32 as well as to stories of the flood that submerged the Sumerian city of Shuruppak and is described in the Gilgamesh epic (?)
-
+# 12
 ▪ in the Brahmanas, Manu, the first human being, the Indian Adam, finds a tiny fish who asks him to save him from the big fish who will otherwise eat him. This is an early expression of concern about animals being eaten, in this case by other animals; “fish eat fish,” what we call “dog eat dog,” is the Indian term for anarchy. The fish promises, in return for Manu’s help, to save Manu from a great flood that is to come. Manu protects the fish until he is so big that he is “beyond destruction” and then builds a ship (the fish tells him how to do it); the fish pulls the ship to a mountain, and when the floodwaters subside, Manu keeps following them down. The text ends: “The flood swept away all other creatures, and Manu alone remained here.”34 (https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1051636.html
-
-ShBr.1.8.1.1-6: मनवे ह प्रातः | अवनेग्यमुदकमाजह्रुर्यथेदम् पाणिभ्यामवनेजनायाहरन्त्येवम् तस्यावनेनिजानस्य मत्स्यः पाणी आपेदे || स हास्मै वाचमुवाद । बिभृहि मा पारयिष्यामि त्वेति कस्मान्मा पारयिष्यसीत्यौघ इमाः सर्वाः प्रजा निर्वोढा ततस्त्वा पारयितास्मीति कथं ते भृतिरिति ॥ स होवाच । यावद्वै क्षुल्लका भवामो बह्वी वै नस्तावन्नाष्ट्रा भवत्युत मत्स्य एव मत्स्यं गिलति कुम्भ्यां माग्रे बिभरासि स यदा तामतिवर्धा अथ कर्षूं खात्वा तस्यां मा बिभरासि स यदा तामतिवर्धा अथ मा समुद्रमभ्यवहरासि तर्हि वा अतिनाष्ट्रो भवितास्मीति ॥ शश्वद्ध कष आस । स हि ज्येष्ठं वर्धतेऽथेतिथीं समां तदौघ आगन्ता तन्मा नावमुपकल्प्योपासासै स औघ उत्थिते नावमापद्यासै ततस्त्वा पारयितास्मीति ॥ तमेवं भृत्वा समुद्रमभ्यवजहार । स यतिथीं तत्समां परिदिदेश ततिथीं समां नावमुपकल्प्योपासां चक्रे स औघ उत्थिते नावमापेदे तं स मत्स्य उपन्यापुप्लुवे तस्य शृङ्गे नावः पाशं प्रतिमुमोच तेनैतमुत्तरं गिरिमतिदुद्राव ॥ स होवाच । अपीपरं वै त्वा वृक्षे नावम् प्रतिबघ्नीष्व तं तु त्वाः सर्वाः प्रजा मा गिरौ सन्तमुदकमन्तश्चैत्सीद्यावदुदकं समवायात्तावत्तावदन्ववसर्पासीति स ह तावत्तावदेवान्ववससर्प तदप्येतदुत्तरस्य गिरेर्मनोरवसर्पणमित्यौघो ह ताः सर्वाः प्रजा निरुवाहाथेह मनुरेवैकः परिशिषिषे॥)
-
+## SpB:1:8:2:1-7
+![[SpB#1.8.1#1-7]]
+# 13
 ▪ four Ages of time, or Yugas, are a series named after the four throws of the dice (?)
-
+## TS:4:3:3
+![[TS#4.3.3]]
+# 14
 ▪ Krita Yuga (“Winning Age”) or the Satya Yuga (“Age of Truth”), what the Greeks called the Golden Age (for the four Ages of time, or Yugas, formed a quartet in ancient Greece too), is the winning throw of four, a time of happiness, when humans are virtuous and live for a long time. The second Age, the Treta Yuga (“Age of the Trey”), is the throw of three; things are not quite so perfect. In the third Age, the Dvapara Yuga (“Age of the Deuce”), the throw of two, things fall apart. And the Kali Age is the dice throw of snake eyes, the present Age, the Iron Age, the Losing Age, the time when people are no damn good and die young, and barbarians invade India, (?)
-
+## 15
 ▪ each successive Kali Age ends in a doomsday fire and a flood that destroys the cosmos but is then transformed into the primeval flood out of which the cosmos is re-created, undergoing a sea change in a new cosmogony.al (tannūr nūḥ : q)
-
+## VP:6:3
+![[VP#b6#c3]]
+## 16
 ▪ In later retellings of the story of the flood, therefore—to return at last to our story—the fish saves Manu from the doomsday flood that comes at the end of the Kali Age, the final dissolution (pralaya): (Matsya Purana 1.11-34; 2.1-19;)
-
+# 17
 ▪ Manu won from the god Brahma, the creator, the promise that he would be able to protect all creatures, moving and still, when the dissolution took place (http://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_matsyapurANa1-176.htm 
+## MtsP:1:1-28
+![[MtsP#1.11-16]]![[MtsP#1.17-28]]
+# 18
+▪ In this text, Manu saves not himself alone but all creatures, and this time the gods, instead of Manu, build the boat 
+## Mtsp:1:30
+![[MtsP#1.30]]
 
-purā rājā manur nāma cīrṇavān vipulaṃ tapaḥ
-putre rājyaṃ samāropya kṣamāvān ravinandanaḥ // MatsP_1.11
+## MtsP:2:16-19
+![[MtsP#2.16-19]]
 
-malayasyaikadeśe tu sarvātmaguṇasaṃyutaḥ
-samaduḥkhasukho vīraḥ prāptavān yogam uttamam // MatsP_1.12
-
-babhūva varadaś cāsya varṣāyutaśate gate
-varaṃ vṛṇīṣva provāca prītaḥ sa kamalāsanaḥ // MatsP_1.13
-
-evamukto 'bravīd rājā praṇamya sa pitāmaham
-ekam evāham icchāmi tvatto varamanuttamam // MatsP_1.14
-
-bhūtagrāmasya sarvasya sthāvarasya carasya ca
-bhaveyaṃ rakṣaṇāyālaṃ pralaye samupasthite // MatsP_1.15
-
-evamastviti viśvātmā tatraivāntaradhīyata
-puṣpavṛṣṭiḥ sumahatī khātpapāta surārpitā // MatsP_1.16)
-
-▪ One day, he found a little fish and saved it until it grew so big that it terrified him, whereupon he realized that it must be Vishnu (kadācidāśrame tasya kurvataḥ pitṛtarpaṇam
-papāta pāṇyor upari śapharī jalasaṃyutā // MatsP_1.17
-
-dṛṣṭvā tacchapharīrūpaṃ sa dayālurmahīpatiḥ
-rakṣaṇāyākarodyatnaṃ sa tasminkarakodare // MatsP_1.18
-
-ahorātreṇa caikena ṣoḍaśāṅgulavistṛtaḥ
-so 'bhavanmatsyarūpeṇa pāhi pāhīti cābravīt // MatsP_1.19
-
-sa tamādāya maṇike prākṣipajjalacāriṇam
-tatrāpi caikarātreṇa hastatrayam avardhata // MatsP_1.20
-
-punaḥ prāhārtanādena sahasrakiraṇātmajam
-sa matsyaḥ pāhi pāhīti tvāmahaṃ śaraṇaṃ gataḥ // MatsP_1.21
-
-tataḥ sa kūpe taṃ matsyaṃ prāhiṇod ravinandanaḥ
-yadā na māti tatrāpi kūpe matsyaḥ sarovare // MatsP_1.22
-
-kṣipto 'sau pṛthutāmāgāt punar yojanasaṃmitām
-tatrāpyāha punar dīnaḥ pāhi pāhi nṛpottama // MatsP_1.23
-
-tataḥ sa manunā kṣipto gaṅgāyāmapyavardhata
-yadā tadā samudre taṃ prākṣipanmedinīpatiḥ // MatsP_1.24
-
-yadā samudramakhilaṃ vyāpyāsau samupasthitaḥ
-tadā prāha manurbhītaḥ ko 'pi tvamasureśvaraḥ // MatsP_1.25
-
-athavā vāsudevastvam anya īdṛkkathaṃ bhavet
-yojanāyutaviṃśatyā kasya tulyaṃ bhavedvapuḥ // MatsP_1.26
-
-jñātastvaṃ matsyarūpeṇa māṃ khedayasi keśava
-hṛṣīkeśa jagannātha jagaddhāma namo 'stu te // MatsP_1.27
-
-evamuktaḥ sa bhagavān matsyarūpī janārdanaḥ
-sādhu sādhviti covāca samyagjñātas tvayānagha // MatsP_1.28)
-
-▪ In this text, Manu saves not himself alone but all creatures, and this time the gods, instead of Manu, build the boat (naur iyaṃ sarvadevānāṃ nikāyena vinirmitā
-mahājīvanikāyasya rakṣaṇārthaṃ mahīpate // MatsP_1.30
-
-manur apyāsthito yogaṃ vāsudevaprasādajam
-abhyasan yāvad ābhūtasamplavaṃ pūrvasūcitam // MatsP_2.16
-
-kāle yathokte saṃjāte vāsudevamukhodgate
-śṛṅgī prādurbabhūvātha matsyarūpī janārdanaḥ // MatsP_2.17
-
-bhujaṃgo rajjurūpeṇa manoḥ pārśvamupāgamat
-bhūtānsarvānsamākṛṣya yogenāropya dharmavit // MatsP_2.18
-
-bhujaṃgarajjvā matsyasya śṛṅge nāvamayojayat
-uparyupasthitastasyāḥ praṇipatya janārdanam )
-
-▪ In several of the myths of her origin, the fire is said to result from the combined fires of sexual desire and the fire of the ascetic repression of sexual desire,37 or from the fury of the god Shiva when he is excluded from the sacrifice. 38 (aurvānalo 'pi vikṛtiṃ gamiṣyati yugakṣaye
-viṣāgniścāpi pātālāt saṃkarṣaṇamukhacyutaḥ
-bhavasyāpi lalāṭotthas tṛtīyanayanānalaḥ // MatsP_2.5)
-
-▪ A remnant or seed, a small group of good people, is saved by a fish (usually identified as one of the several incarnations of the great god Vishnu), who pulls a boat to a mountain, where they survive to repeople the universe.40 (The mountain, the Hindu equivalent of Ararat, is identified with numerous sites throughout India.an) (yugāntavātābhihatā yadā bhavati naur nṛpa
-śṛṅge 'sminmama rājendra tademāṃ saṃyamiṣyasi // MatsP_1.32
-
-tato layānte sarvasya sthāvarasya carasya ca
-prajāpatistvaṃ bhavitā jagataḥ pṛthivīpate // MatsP_1.33
-
-evaṃ kṛtayugasyādau sarvajño dhṛtimānnṛpaḥ
-manvantarādhipaścāpi devapūjyo bhaviṣyasi // MatsP_1.34
-
+# 19
+▪ In several of the myths of her origin, the fire is said to result from the combined fires of sexual desire and the fire of the ascetic repression of sexual desire,37 or from the fury of the god Shiva when he is excluded from the sacrifice. 38 
+## MtsP:2:5
+![[MtsP#2.5]]
+# 20
+▪ A remnant or seed, a small group of good people, is saved by a fish (usually identified as one of the several incarnations of the great god Vishnu), who pulls a boat to a mountain, where they survive to repeople the universe.40 (The mountain, the Hindu equivalent of Ararat, is identified with numerous sites throughout India.an) 
+## MtsP:1:32-34
+![[MtsP#1:32]]![[MtsP#1:33]]![[MtsP#1:34]]
+## SkP:7:1:32-33
+![[SkP#k7#c1#s32]]
 Skanda Purana 7.1.32.1-128, 33.1-103;
 
 Kumbhakonan is one of them; the name is said to derive from the pot (kumbha) in which Shiva, not Vishnu, floated the survivors to safety. The mountain is also said to be in Kashmir.)
-
+# 21
 ▪ seven concentric continents, the central one surrounded by the salty ocean and each of the other roughly circular continents surrounded by oceans of other liquids: treacle (molasses), wine, ghee (clarified butter), milk, curds, and freshwater (c50 vishnu p.)
 
 ▪ In the center of the central mainland (the “Plum-tree Continent” or Jambu-Dvipa) stands the cosmic mountain Meru, from which four subcontinents radiate out to the east, west, north, and south, like the petals of a lotus; the southernmost petal of this mainland is Bharata-varsha (c50 vishnu p.)
