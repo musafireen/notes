@@ -168,10 +168,24 @@ And when the thousand years are expired, Satan shall be loosed out of his prison
 και εξελευσεται πλανησαι τα εθνη τα εν ταις τεσσαρσιν γωνιαις της γης τον γωγ και τον μαγωγ συναγαγειν αυτους εις πολεμον ων ο αριθμος ως η αμμος της θαλασσης
 
 And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom [is] as the sand of the sea.
+### 9
+και ανεβησαν επι το πλατος της γης και εκυκλωσαν την παρεμβολην των αγιων και την πολιν την ηγαπημενην και κατεβη πυρ απο του θεου εκ του ουρανου και κατεφαγεν αυτους
+
+And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.
 ### 10
 και ο διαβολος ο πλανων αυτους εβληθη εις την λιμνην του πυρος και θειου οπου το θηριον και ο ψευδοπροφητης και βασανισθησονται ημερας και νυκτος εις τους αιωνας των αιωνων
 
 And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet [are], and shall be tormented day and night for ever and ever.
+### 13
+και εδωκεν η θαλασσα τους εν αυτη νεκρους και ο θανατος και ο αδης εδωκαν τους εν αυτοις νεκρους και εκριθησαν εκαστος κατα τα εργα αυτων
+
+And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
+
+n1 hell: or, the grave
+### 14
+και ο θανατος και ο αδης εβληθησαν εις την λιμνην του πυρος ουτος εστιν ο δευτερος θανατος
+
+And death and hell were cast into the lake of fire. This is the second death.
 # 1 john
 ## c1
 ### 5

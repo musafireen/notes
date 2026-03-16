@@ -827,6 +827,10 @@ And Pilate asked him, Art thou the King of the Jews ? And he answering said unto
 ο δε πιλατος βουλομενος τω οχλω το ικανον ποιησαι απελυσεν αυτοις τον βαραββαν και παρεδωκεν τον ιησουν φραγελλωσας ινα σταυρωθη
 
 And [so] Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged [him], to be crucified.
+### 34
+και τη ωρα τη εννατη εβοησεν ο ιησους φωνη μεγαλη λεγων ελωι ελωι λαμμα σαβαχθανι ο εστιν μεθερμηνευομενον ο θεος μου ο θεος μου εις τι με εγκατελιπες
+
+And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani ?[bbl.pslm:22:2](bbl.poetry#psalms#c22#2) which is, being interpreted, My God, my God, why hast thou forsaken me ?[bbl.pslm:22:1](bbl.poetry#psalms#c22#1)
 ### 43
 ηλθεν ιωσηφ ο απο αριμαθαιας ευσχημων βουλευτης ος και αυτος ην προσδεχομενος την βασιλειαν του θεου τολμησας εισηλθεν προς πιλατον και ητησατο το σωμα του ιησου
 

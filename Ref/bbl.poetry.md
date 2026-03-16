@@ -93,6 +93,15 @@ Therefore shalt thou make them turn their back, [when] thou shalt make ready [th
 περιεσχον με ωδινες θανατου και χειμαρροι ανομιας εξεταραξαν με
 
 The sorrows of death compassed me, and the floods of ungodly men made me afraid.
+## c22
+#### 1
+לַמְנַצֵּחַ עַל-אַיֶּלֶת הַשַּׁחַר מִזְמוֺר לְדָוִד
+
+To the chief Musician upon Aijeleth Shahar, A Psalm of David. My God, my God, why hast thou forsaken me? [why art thou so] far from helping me, [and from] the words of my roaring ?(Aijeleth…: or, the hind of the morning)
+#### 2
+אֵלִי אֵלִי לָמָה עֲזַבְתָּנִי רָחוֺק מִישׁוּעָתִי דִּבְרֵי שַׁאֲגָתִי
+
+O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.
 ## c37
 #### 11
 וַעֲנָוִ֥ים יִֽירְשׁוּ־אָ֑רֶץ וְ֝הִתְעַנְּג֗וּ עַל־רֹ֥ב שָׁלֽוֹם

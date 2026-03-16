@@ -281,7 +281,7 @@ The three spheres shew like a frying-pan amidst the surrounding flames, that pre
 कृताधिकारा गच्छन्ति महर्लोकं महामुने ।। ६-३-२८ ।।
 
 The inhabitants of the two upper spheres, having discharged their functions, and being annoyed by the heat, remove to the sphere above, or Maharloka. 
-### 29
+#### 29
 तस्मादपि महातापतप्ता लोकास्ततः परम् ।
 गच्छन्ति जनलोकं ते दशावृत्त्या परैषिणः ।। ६-३-२९ ।।
 
