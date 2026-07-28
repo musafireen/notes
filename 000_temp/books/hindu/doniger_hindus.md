@@ -68,29 +68,58 @@ In the Rig Veda’ (the earliest Sanskrit text, from c. 1200 BCE), the word ahim
 ![[TS#4.3.3]]
 # 14
 ▪ Krita Yuga (“Winning Age”) or the Satya Yuga (“Age of Truth”), what the Greeks called the Golden Age (for the four Ages of time, or Yugas, formed a quartet in ancient Greece too), is the winning throw of four, a time of happiness, when humans are virtuous and live for a long time. The second Age, the Treta Yuga (“Age of the Trey”), is the throw of three; things are not quite so perfect. In the third Age, the Dvapara Yuga (“Age of the Deuce”), the throw of two, things fall apart. And the Kali Age is the dice throw of snake eyes, the present Age, the Iron Age, the Losing Age, the time when people are no damn good and die young, and barbarians invade India, (?)
-## 15
+# 15
 ▪ each successive Kali Age ends in a doomsday fire and a flood that destroys the cosmos but is then transformed into the primeval flood out of which the cosmos is re-created, undergoing a sea change in a new cosmogony.al (tannūr nūḥ : q)
 ## VP:6:3
 ![[VP#b6#c3]]
-## 16
+# 16
 ▪ In later retellings of the story of the flood, therefore—to return at last to our story—the fish saves Manu from the doomsday flood that comes at the end of the Kali Age, the final dissolution (pralaya): (Matsya Purana 1.11-34; 2.1-19;)
 # 17
 ▪ Manu won from the god Brahma, the creator, the promise that he would be able to protect all creatures, moving and still, when the dissolution took place (http://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_matsyapurANa1-176.htm 
-## MtsP:1:1-28
-![[MtsP#1.11-16]]![[MtsP#1.17-28]]
+## MtsP:1:1-16
+![[MtsP#1.11-16]]
 # 18
 ▪ In this text, Manu saves not himself alone but all creatures, and this time the gods, instead of Manu, build the boat 
-## Mtsp:1:30
-![[MtsP#1.30]]
+## Mtsp:1:11-34
+![[MtsP#b1#1.28-34]]
 
-## MtsP:2:16-19
+## MtsP:2:1-19
 ![[MtsP#2.16-19]]
 
 # 19
-▪ In several of the myths of her origin, the fire is said to result from the combined fires of sexual desire and the fire of the ascetic repression of sexual desire,37 or from the fury of the god Shiva when he is excluded from the sacrifice. 38 
+flood now appears more as a solution than as a problem: It puts out the mare fire that is always on the verge of destroying us. For a mare roams at the bottom of the ocean; the flames that shoot out of her mouth are simultaneously bridled by and bridling the waters of the ocean,36 (MB:13.56.4-6, MB:1.169.16-26 ; MB:1.170.1-21; MB:1.171.1-23.)
+
+## MB:13:56:4-6
+![[MB#p13#c56#4-6]]
+## MB:1:171:21-22
+![[MB#p1#c171#21]]![[MB#p1#c171#22]]
+# 20
+▪ In several of the myths of her origin, the fire is said to result from the combined fires of sexual desire and the fire of the ascetic repression of sexual desire,37 
+
+## MB:1:170:11
+![[MB#p1#c170#8]]
+![[MB#p1#c170#11]]
+![[MB#p1#c170#12]]
+
+## MB:13:146:1,5,6,29
+![[MB#p13#c146#1]]
+![[MB#p13#c146#5]]![[MB#p13#c146#6]]![[MB#p13#c146#29]]
+
+## SkP:1:1:30-33
+![[SkP#k1#c1#s27#30-33]]
 ## MtsP:2:5
 ![[MtsP#2.5]]
-# 20
+
+or from the fury of the god Shiva when he is excluded from the sacrifice. 38 
+
+## MB:10:18:21
+![[MB#p10#c18#1]]![[MB#p10#c18#2]]![[MB#p10#c18#3]]![[MB#p10#c18#4]]![[MB#p10#c18#20]]![[MB#p10#c18#21]]
+
+# 21
+end of the Kali Age, the moment of doomsday, when the mare gallops out of the ocean and sets the world on fire, and the newly unchecked ocean leaves its bed and floods the ashes of the universe, which then lie dormant until the next period of creation.39 (Matsya Purana 175.23-63; Harivamsha 1.45.20- 64; Doniger O’Flaherty, Women, 226-72.)
+## MtP:175:23-63
+![[mtsP#b175]]
+# 22
 ▪ A remnant or seed, a small group of good people, is saved by a fish (usually identified as one of the several incarnations of the great god Vishnu), who pulls a boat to a mountain, where they survive to repeople the universe.40 (The mountain, the Hindu equivalent of Ararat, is identified with numerous sites throughout India.an) 
 ## MtsP:1:32-34
 ![[MtsP#1:32]]![[MtsP#1:33]]![[MtsP#1:34]]
@@ -103,6 +132,8 @@ Kumbhakonan is one of them; the name is said to derive from the pot (kumbha) in 
 ▪ seven concentric continents, the central one surrounded by the salty ocean and each of the other roughly circular continents surrounded by oceans of other liquids: treacle (molasses), wine, ghee (clarified butter), milk, curds, and freshwater (c50 vishnu p.)
 
 ▪ In the center of the central mainland (the “Plum-tree Continent” or Jambu-Dvipa) stands the cosmic mountain Meru, from which four subcontinents radiate out to the east, west, north, and south, like the petals of a lotus; the southernmost petal of this mainland is Bharata-varsha (c50 vishnu p.)
+
+▪ The watery world under the earth, which the cobra people (Nagas) inhabit, is also there, in the water table that we encounter every time we sink a well anywhere in the world.
 
 ▪ When the Vindhyas began to grow so tall that even the sun had to go around them (just as it circumambulates Mount Meru), the great sage Agastya asked them to bow their heads before him so that he could cross from North to South India (bringing Sanskrit and the Vedas to the Dravidian lands) and to remain that way until he returned; the Vindhyas agreed to this, and since Agastya never returned from South India, where he established the Tamil language, the Vindhyas remain conveniently low. (c400b ramayana?)
 

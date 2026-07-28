@@ -266,7 +266,8 @@ chinensis: china magnoloa vine; rubriflora: burma magnolia vine (Schisandraceae)
 verum: vietnam star anise (tara mouri)
 
 # Nymphaea 
-alba: white water lily (nymphaeales order) rubra: indian red lotus
+alba: white water lily (nymphaeales order) 
+rubra: indian red lotus
 
 # Magnolia 
 virginiana (Magnoliid clade, magnoliales order), champaca: champak, যবদ্বীপ স্বর্ণচাঁপা
@@ -290,7 +291,7 @@ fragrans: maluku nutmeg [myristiceae
 ## Protea 
 caffra: sugarbush (Proteales order)
 ### Nelumbo 
-nucifera: indian lotus (nelumbonaceae family)]
+nucifera: indian lotus, পদ্ম, কমল (nelumbonaceae family)
 
 ## Aster 
 amellus: michaelmas daisy (superasterid, asterid clade)
@@ -374,7 +375,7 @@ actuangula: হিজল
 #### Styrax
 benzoin: luban jawi
 ### Apium 
-graveolens: celery (apiales, apiaceae, apioideae)
+graveolens: celery, পাথুনি শাক (apiales, apiaceae, apioideae)
 #### Daucus 
 carota: carrot, গাজর
 #### Cuminum 
@@ -510,6 +511,8 @@ Sativus: grass pea, indian pea, white vetch, খেসারি ডাল
 uniflorum: horse gram, কুলথি /ঘোড়ার ডাল
 #### Phaseolus
 vulgaris: mexico kidney beans, পাঞ্জাব রাজমা
+#### Trigonella
+Foenum-graecum : fenugreek, মেথি
 #### Glycyrrhiza
 glabra: afghan licorice, যষ্টিমধু
 #### Senegalia
@@ -655,8 +658,12 @@ geanulata: meadow saxifrage (saxifragales)
 #### Ribes 
 rubrum: reb currant; uva-crispa: gooseberry
 
-
-
+## ranunculus
+sceleratus : cursed buttercup , জলধনিয়া
+### delphinium
+peregrinum : violet larkspur , 
+#### consolida
+ajacis : rocket larkspur
 # Monocots
 
 ## Lilium
@@ -784,3 +791,7 @@ Cotyledon (cup maker)
 Adventitious (chance, accidental)
 
 Runners have been documented to travel over 20 feet in a single season underground.  For this reason, removing an unwanted patch of running bamboo can be quite difficult and may even require excavation to fully remove the plant from the area.
+### scilla
+bifolia : two-leaved squill
+#### hyacinthus
+orientalis : hyacinth , 

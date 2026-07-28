@@ -1,5 +1,53 @@
 # gen
 ## c1
+#### 1
+בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ
+
+In the beginning God created the heaven and the earth.
+#### 2
+וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל-פְּנֵי תְהוֺם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל-פְּנֵי הַמָּיִם
+
+And the earth was without form, and void; and darkness [was] upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+#### 3
+וַיֹּאמֶר אֱלֹהִים יְהִי אוֺר וַיְהִי-אוֺר
+
+And God said, Let there be light: and there was light.
+#### 4
+וַיַּרְא אֱלֹהִים אֶת-הָאוֺר כִּי-טוֺב וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֺר וּבֵין הַחֹשֶׁךְ
+
+And God saw the light, that [it was] good: and God divided the light from the darkness.
+#### 5
+וַיִּקְרָא אֱלֹהִים לָאוֺר יוֺם וְלַחֹשֶׁךְ קָרָא לָיְלָה וַיְהִי-עֶרֶב וַיְהִי-בֹקֶר יוֺם אֶחָד
+
+And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
+#### 6
+וַיֹּאמֶר אֱלֹהִים יְהִי רָקִיעַ בְּתוֺךְ הַמָּיִם וִיהִי מַבְדִּיל בֵּין מַיִם לָמָיִם
+
+And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
+#### 8
+וַיִּקְרָא אֱלֹהִים לָרָקִיעַ שָׁמָיִם וַיְהִי-עֶרֶב וַיְהִי-בֹקֶר יוֺם שֵׁנִי
+
+And God called the firmament Heaven. And the evening and the morning were the second day.
+#### 9
+וַיֹּאמֶר אֱלֹהִים יִקָּווּ הַמַּיִם מִתַּחַת הַשָּׁמַיִם אֶל-מָקוֺם אֶחָד וְתֵרָאֶה הַיַּבָּשָׁה וַיְהִי-כֵן
+
+And God said, Let the waters under the heaven be gathered together unto one place, and let the dry [land] appear: and it was so.
+#### 10
+וַיִּקְרָא אֱלֹהִים לַיַּבָּשָׁה אֶרֶץ וּלְמִקְוֵה הַמַּיִם קָרָא יַמִּים וַיַּרְא אֱלֹהִים כִּי-טוֺב
+
+And God called the dry [land] Earth; and the gathering together of the waters called he Seas: and God saw that [it was] good.
+#### 14
+וַיֹּאמֶר אֱלֹהִים יְהִי מְאֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהַבְדִּיל בֵּין הַיּוֺם וּבֵין הַלָּיְלָה וְהָיוּ לְאֹתֹת וּלְמוֺעֲדִים וּלְיָמִים וְשָׁנִים
+
+And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
+#### 16
+וַיַּעַשׂ אֱלֹהִים אֶת-שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים אֶת-הַמָּאוֺר הַגָּדֹל לְמֶמְשֶׁלֶת הַיּוֺם וְאֶת-הַמָּאוֺר הַקָּטֹן לְמֶמְשֶׁלֶת הַלַּיְלָה וְאֵת הַכּוֺכָבִים
+
+And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: [he made] the stars also.
+#### 22
+וַיִּבְרָא אֱלֹהִים אֶת-הַתַּנִּינִם הַגְּדֹלִים וְאֵת כָּל-נֶפֶשׁ הַחַיָּה הָרֹמֶשֶׂת אֲשֶׁר שָׁרְצוּ הַמַּיִם לְמִינֵהֶם וְאֵת כָּל-עוֺף כָּנָף לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי-טוֺב
+
+And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that [it was] good.
 #### 26
 וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְעֹ֣וף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־הָאָ֔רֶץ וּבְכָל־הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃
 
@@ -1788,10 +1836,18 @@ And if a woman have an issue, [and] her issue in her flesh be blood, she shall b
 
 And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness shall be as the days of her separation: she [shall be] unclean.
 ## c16
+### 8
+וְנָתַן אַהֲרֹן עַל-שְׁנֵי הַ׹ְּׂעִירִם גֹּרָלוֺת גּוֺרָל אֶחָד לַיהוָה וְגוֺרָל אֶחָד לַעֲזָאזֵל
+
+And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat.
 ### 10
 וְהַשָּׂעִ֗יר אֲשֶׁר֩ עָלָ֨ה עָלָ֤יו הַגּוֹרָל֙ לַעֲזָאזֵ֔ל יָֽעֳמַד־חַ֛י לִפְנֵ֥י יְהוָ֖ה לְכַפֵּ֣ר עָלָ֑יו לְשַׁלַּ֥ח אֹת֛וֹ לַעֲזָאזֵ֖ל הַמִּדְבָּֽרָה ׃
 
 But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, [and] to let him go for a scapegoat into the wilderness.
+### 26
+וְהַמְשַׁלֵּחַ אֶת-הַ׹ָּׂעִיר לַעֲזָאזֵל יְכַבֵּס בְּגָדָיו וְרָחַץ אֶת-בְּשָׂרוֺ בַּמָּיִם וְאַחֲרֵי-כֵן יָבוֺא אֶל-הַמַּחֲנֶה
+
+And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp.
 ## c18
 #### 20
 וּמִֽזַּרְעֲךָ֥ לֹא־תִתֵּ֖ן לְהַעֲבִ֣יר לַמֹּ֑לֶךְ וְלֹ֧א תְחַלֵּ֛ל אֶת־שֵׁ֥ם אֱלֹהֶ֖יךָ אֲנִ֥י יְהוָֽה ׃
@@ -1923,6 +1979,10 @@ n1 Meribah: that is, Strife
 וַיִּשְׁלַ֨ח מֹשֶׁ֧ה מַלְאָכִ֛ים מִקָּדֵ֖שׁ אֶל־מֶ֣לֶךְ אֱד֑וֹם כֹּ֤ה אָמַר֙ אָחִ֣יךָ יִשְׂרָאֵ֔ל אַתָּ֣ה יָדַ֔עְתָּ אֵ֥ת כָּל־הַתְּלָאָ֖ה אֲשֶׁ֥ר מְצָאָֽתְנוּ׃
 
 And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:
+#### 17
+נַעְבְּרָה-נָּא בְאַרְצֶךׇ לֹא נַעֲבֹר בְּשָׂדֶה וּבְכֶרֶם וְלֹא נִשְׁתֶּה מֵי בְאֵר דֶּרֶךְ הַמֶּלֶךְ נֵלֵךְ לֹא נִטֶּה יָמִין וּשְׂמֹאול עַד אֲשֶׁר-נַעֲבֹר גְּבֻלֶךׇ
+
+Let us pass, I pray thee, through thy country: we will not pass through the fields, or through the vineyards, neither will we drink [of] the water of the wells: we will go by the king´s [high] way, we will not turn to the right hand nor to the left, until we have passed thy borders.
 ## c21
 וַיִּשְׁמַ֞ע הַכְּנַעֲנִ֤י מֶֽלֶךְ־עֲרָד֙ יֹשֵׁ֣ב הַנֶּ֔גֶב כִּ֚י בָּ֣א יִשְׂרָאֵ֔ל דֶּ֖רֶךְ הָאֲתָרִ֑ים וַיִּלָּ֙חֶם֙ בְּיִשְׂרָאֵ֔ל וַיִּ֥שְׁבְּ ׀ מִמֶּ֖נּוּ שֶֽׁבִי ׃
 

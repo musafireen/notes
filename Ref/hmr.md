@@ -310,6 +310,98 @@ IL.1.30   in my own house, in Argos, far from her own land, going
 Oceanus,tethys
 ### 261
 Nyx, zeus
+
+### 453-469
+IL.1.456   ἤδη νῦν Δαναοῖσιν [7ἀεικέα [8λοιγὸν ἄμυνον.7]8]
+IL.1.456   Beat aside at last the shameful plague from the Danaans.'
+
+IL.1.457   [9[10[11[12ὣς ἔφατ' εὐχόμενος,12] τοῦ δ'11] [13ἔκλυε10] [14Φοῖβος Ἀπόλλων.9]13]14]
+IL.1.457   So he spoke in prayer, and Phoibos Apollo heard him.
+
+IL.1.458   [15[16[17αὐτὰρ ἐπεί ῥ' εὔξαντο καὶ17] οὐλοχύτας προβάλοντο,16]
+IL.1.458   And when all had made prayer and flung down the scattering barley
+
+IL.1.459   αὐέρυσαν μὲν πρῶτα [18καὶ ἔσφαξαν καὶ ἔδειραν,
+IL.1.459   first they drew back the victims' heads and slaughtered them and skinned them,
+
+IL.1.460   μηρούς τ' ἐξέταμον [19[20κατά τε κνίσῃ ἐκάλυψαν
+IL.1.460   and cut away the meat from the thighs and wrapped them in fat,
+
+IL.1.461   δίπτυχα ποιήσαντες, ἐπ' αὐτῶν δ' ὠμοθέτησαν:15]18]20]
+IL.1.461   making a double fold, and laid shreds of flesh upon them.
+
+IL.1.462   καῖε δ' ἐπὶ σχίζῃς ὁ γέρων, ἐπὶ [21δ' [22αἴθοπα οἶνον21]22]
+IL.1.462   The old man burned these on a cleft stick and poured the gleaming
+
+IL.1.463   λεῖβε: νέοι δὲ παρ' αὐτὸν ἔχον πεμπώβολα χερσίν.
+IL.1.463   wine over, while the young men with forks in their hands stood about him.
+
+IL.1.464   [23[24αὐτὰρ ἐπεὶ κατὰ μῆρ' ἐκάη καὶ [25σπλάγχν' ἐπάσαντο,25]
+IL.1.464   But when they had burned the thigh pieces and tasted the vitals,
+
+IL.1.465   [26μίστυλλόν τ' ἄρα19]24]26] [27[28[29τἆλλα [30[31καὶ [32ἀμφ' ὀβελοῖσιν ἔπειραν,29]31]32]
+IL.1.465   they cut all the remainder into pieces and spitted them
+
+IL.1.466   [33[34ὤπτησάν28]30] τε περιφραδέως, ἐρύσαντό τε πάντα.27]34]
+IL.1.466   and roasted all carefully and took off the pieces.
+
+IL.1.467   αὐτὰρ ἐπεὶ [35[36[37[38παύσαντο πόνου38] [39τετύκοντό τε δαῖτα37]39]
+IL.1.467   Then after they had finished the work and got the feast ready
+
+IL.1.468   [40[41[42δαίνυντ', οὐδέ [43τι42] [44θυμὸς [45ἐδεύετο43]44] [46δαιτὸς ἐΐσης.33]36]41]45]46]
+IL.1.468   they feasted, nor was any man's hunger denied a fair portion.
+
+IL.1.469   [39αὐτὰρ ἐπεὶ [40πόσιος καὶ ἐδητύος40] [41ἐξ ἔρον ἕντο,15]27]32]39]41]
+IL.1.469   But when they had put away their desire for eating and drinking,
+
+IL.1.470   κοῦροι μὲν [42[43[44κρητῆρας ἐπεστέψαντο ποτοῖο,44]
+IL.1.470   the young men filled the mixing bowls with pure wine, passing
+
+IL.1.471   [45[46νώμησαν δ' ἄρα πᾶσιν46] [47ἐπαρξάμενοι δεπάεσσιν:43]45]47]
+IL.1.471   a portion to all, when they had offered drink in the goblets.
+
+IL.1.472   οἳ δὲ42] πανημέριοι μολπῇ [48θεὸν ἱλάσκοντο48]
+IL.1.472   All day long they propitiated the god with singing,
+
+IL.1.473   [49καλὸν [50ἀείδοντες49] παιήονα [51κοῦροι Ἀχαιῶν50]51]
+IL.1.473   chanting a splendid hymn to Apollo, these young Achaians,
+
+IL.1.474   μέλποντες ἑκάεργον: ὃ δὲ [40φρένα [41τέρπετ'40] ἀκούων.41]
+IL.1.474   singing to the one who works from afar, who listened in gladness.
+
+IL.1.475   [42[43[44ἦμος [45δ' [46[47ἠέλιος44] κατέδυ45]47] [48καὶ46] ἐπὶ [49κνέφας ἦλθε,43]48]49]
+IL.1.475   Afterwards when the sun went down and darkness came onward
+
+IL.1.476   δὴ τότε [50κοιμήσαντο42] [51παρὰ πρυμνήσια νηός:50]51]
+IL.1.476   they lay down and slept beside the ship's stern cables.
+
+### 571-579
+IL.1.571   τοῖσιν [1δ' [2Ἥφαιστος κλυτοτέχνης1]2] [3ἦρχ' ἀγορεύειν3]
+IL.1.571   Hephaistos the renowned smith rose up to speak among them,
+
+IL.1.572   [4μητρὶ [5φίλῃ4] ἐπίηρα φέρων5] [6λευκωλένῳ Ἥρῃ:6]
+IL.1.572   to bring comfort to his beloved mother, Hera of the white arms:
+
+IL.1.573   [7ἦ δὴ λοίγια ἔργα7] τάδ' ἔσσεται οὐδ' ἔτ' ἀνεκτά,
+IL.1.573   'This will be a disastrous matter and not endurable
+
+IL.1.574   εἰ δὴ σφὼ ἕνεκα θνητῶν ἐριδαίνετον ὧδε,
+IL.1.574   if you two are to quarrel thus for the sake of mortals
+
+IL.1.575   ἐν δὲ θεοῖσι κολῳὸν ἐλαύνετον: [8οὐδέ τι δαιτὸς
+IL.1.575   and bring brawling among the gods. There will be no pleasure
+
+IL.1.576   ἐσθλῆς ἔσσεται ἦδος, ἐπεὶ τὰ χερείονα νικᾷ.8]
+IL.1.576   in the stately feast at all, since vile things will be uppermost.
+
+IL.1.577   μητρὶ δ' ἐγὼ παράφημι καὶ αὐτῇ περ νοεούσῃ
+IL.1.577   And I entreat my mother, though she herself understands it,
+
+IL.1.578   [9πατρὶ [10φίλῳ9] ἐπίηρα [11φέρειν10] Διΐ,11] ὄφρα μὴ αὖτε
+IL.1.578   to be ingratiating toward our father Zeus, that no longer
+
+IL.1.579   νεικείῃσι πατήρ, σὺν δ' ἡμῖν δαῖτα ταράξῃ.
+IL.1.579   our father may scold her and break up the quiet of our feasting.
 ## b3
 #### 189
 ἤματι τῷ 13ὅτε τ' ἦλθον Άμαζόνες ἀντιάνειραι:
@@ -569,6 +661,84 @@ OD.5.406 Right then Odysseus' knees and dear heart were undone,
 
 OD.5.407 130131132 ὀχθήσας δ' ἄρα εἶπε 321 προς 133ὂν 14 μεγαλήτορα θυμόν:33]34) OD.5.407 and troubled, he said to his own great-hearted spirit:
 
+## b8
+#### 296-320
+OD.8.296   τὼ δ' ἐς [4δέμνια βάντε4] κατέδραθον: ἀμφὶ δὲ δεσμοὶ
+OD.8.296   The two climbed into bed and fell asleep. About them flowed
+
+OD.8.297   τεχνήεντες ἔχυντο [5πολύφρονος Ἡφαίστοιο,5]
+OD.8.297   the cunningly contrived bonds of ingenious Hephaestus,
+
+OD.8.298   [6οὐδέ τι κινῆσαι μελέων6] ἦν οὐδ' ἀναεῖραι.
+OD.8.298   and there was no way to either move or lift their limbs.
+
+OD.8.299   [7καὶ τότε δὴ γίνωσκον,7] ὅτ' [8οὐκέτι φυκτὰ πέλοντο.8]
+OD.8.299   Right then they realized there would be no escape.
+
+OD.8.300   [9ἀγχίμολον δέ σφ' ἦλθε9] [10περικλυτὸς ἀμφιγυήεις,10]
+OD.8.300   Then the far-famed twice-lamed one came near them,
+
+OD.8.301   [11αὖτις ὑποστρέψας11] πρὶν Λήμνου [12γαῖαν ἱκέσθαι:12]
+OD.8.301   having turned back before he reached the land of Lemnos,
+
+OD.8.302   Ἠέλιος γάρ οἱ σκοπιὴν [13[14ἔχεν [15εἶπέ14] τε μῦθον.13]15]
+OD.8.302   for Helios was keeping lookout for him and sent word.
+
+OD.8.303   [16[17[18[19βῆ δ' ἴμεναι19] πρὸς18] [20[21δῶμα17] [22φίλον21] [23τετιημένος ἦτορ:16]20]22]23]
+OD.8.303   He made his way home, his dear heart grieving,
+
+OD.8.304   [24ἔστη δ' ἐν προθύροισι,24] [25χόλος δέ μιν ἄγριος ᾕρει:25]
+OD.8.304   stood in the doorway, and fierce anger seized him.
+
+OD.8.305   [26σμερδαλέον δ' ἐβόησε,26] [27γέγωνέ τε [28πᾶσι27] θεοῖσι:28]
+OD.8.305   He cried out terribly and made himself heard by all the gods:
+
+
+
+OD.8.306   [29[30Ζεῦ πάτερ30] ἠδ' ἄλλοι [31[32μάκαρες [33θεοὶ32] αἰὲν ἐόντες,29]31]33]
+OD.8.306   "Father Zeus, and the rest of you blessed gods who are forever,
+
+OD.8.307   δεῦθ', ἵνα ἔργα γελαστὰ καὶ οὐκ ἐπιεικτὰ ἴδησθε,
+OD.8.307   come here, to see ludicrous and intolerable things,
+
+OD.8.308   ὡς ἐμὲ χωλὸν ἐόντα [34[35Διὸς θυγάτηρ35] Ἀφροδίτη34]
+OD.8.308   how Zeus' daughter Aphrodite always dishonors me,
+
+OD.8.309   αἰὲν ἀτιμάζει, φιλέει δ' ἀΐδηλον Ἄρηα,
+OD.8.309   because I'm lame, and loves annihilating Ares,
+
+OD.8.310   οὕνεχ' ὁ μὲν καλός τε καὶ ἀρτίπος, αὐτὰρ ἔγωγε
+OD.8.310   because he's handsome and sound-footed but I myself
+
+OD.8.311   [11ἠπεδανὸς γενόμην.11] [12ἀτὰρ [13οὔ τί μοι12] αἴτιος13] ἄλλος,
+OD.8.311   was born infirm. But I have no one else to blame
+
+OD.8.312   ἀλλὰ τοκῆε δύω, τὼ μὴ γείνασθαι ὄφελλον.
+OD.8.312   but my two parents, whom I wish had never had me.
+
+OD.8.313   ἀλλ' ὄψεσθ', ἵνα τώ γε καθεύδετον ἐν φιλότητι
+OD.8.313   But you'll see for yourselves, how these two climbed into my bed
+
+OD.8.314   εἰς ἐμὰ [14δέμνια βάντες,14] ἐγὼ δ' [15ὁρόων ἀκάχημαι.15]
+OD.8.314   and went to sleep in love, and I'm in grief at the sight.
+
+OD.8.315   οὐ μέν σφεας [16ἔτ' ἔολπα16] μίνυνθά γε κειέμεν οὕτω
+OD.8.315   I don't expect they'll lie this way a moment longer,
+
+OD.8.316   καὶ μάλα περ φιλέοντε: τάχ' οὐκ ἐθελήσετον ἄμφω
+OD.8.316   though very much in love. Both soon won't want to sleep,
+
+OD.8.317   εὕδειν: ἀλλά σφωε δόλος καὶ [17δεσμὸς ἐρύξει,17]
+OD.8.317   but the bonds and snare will restrain them
+
+OD.8.318   [18εἰς ὅ κέ μοι18] μάλα πάντα πατὴρ ἀποδῷσιν ἔεδνα,
+OD.8.318   until her father pays back to me fully the whole bride price,
+
+OD.8.319   ὅσσα οἱ ἐγγυάλιξα [19κυνώπιδος [20εἵνεκα19] κούρης,20]
+OD.8.319   all I put in his palm for his dog-eyed girl,
+
+OD.8.320   οὕνεκά οἱ καλὴ θυγάτηρ, ἀτὰρ οὐκ ἐχέθυμος.
+OD.8.320   since he has a beautiful daughter, but she has no self-restraint."
 ## b11
 ### c12
 OD.11.541   αἱ δ' ἄλλαι8] ψυχαὶ [9νεκύων κατατεθνηώτων9]

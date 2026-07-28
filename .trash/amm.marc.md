@@ -1,5 +1,5 @@
 # res.gest
-https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0082%3Abook%3D14%3Achapter%3D1%3Asection%3D1
+
 
 ## b31
 ### c2

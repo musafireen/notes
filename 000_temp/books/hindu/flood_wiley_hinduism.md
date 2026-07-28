@@ -8,9 +8,9 @@ M. Forster describes his visit to a Hindu temple as a tourist’s pilgrimage dri
 ▪ as Godbole, the novel’s comically inscrutable Brahmin character, avers portentously, how can crime be known so categorically when all participate equally in its commission? If everyone is complicit in acts of evil, would not all have to be punished equally too? It is this jumble of incoherent metaphysical murmurings, apparently sanctioned by Hindu belief, that exasperates Fielding (.)
 
 ▪ Fielding develops an emotional affinity with Indians, particularly the effervescent Muslim doctor Aziz. But even the resilient Fielding is overwhelmed by the bewildering course of events culminating in Aziz’s trial for rape of an English woman and then his subsequent acquittal. The trial turns Aziz into a fiery nationalist, willing to sacrifice even his friendship with Fielding to act upon his newfound political consciousness (.)
-
+# 1
 ▪ Ṛgveda, must have been more or less contemporary with the Mitanni texts of northern Syria/Iraq (1450–1350 BCE); these mention certain Vedic gods (Varuṇa, Mitra, Indra, Nāsatya) and some forms of early Sanskrit that slightly predate the Ṛgveda ( mazdā for Ved. medhā, vašana for Ved. vāhana, etc.) (harran mittani rgvedic yezidi sabian greek chaldean)
-
+# 2
 ▪ RV text was composed before the introduction and massive use of iron, that is before ca. 
 1200–1000 BCE. (.)
 

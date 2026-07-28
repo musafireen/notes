@@ -125,6 +125,11 @@ For the terrible one is brought to nought, and the scorner is consumed, and all 
 וְיָדְע֥וּ תֹֽעֵי־ר֖וּחַ בִּינָ֑ה וְרוֹגְנִ֖ים יִלְמְדוּ־לֶֽקַח
 
 They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
+## c34
+#### 14
+וּפָגְשׁוּ צִיִּים אֶת-אִיִּים וְשָׂעִיר עַל-רֵעֵהוּ יִקְרָא אַךְ-שָׁם הִרְגִּיעָה לִּילִית וּמָצְאָה לָהּ מָנוֺחַ
+
+The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest. (The wild…desert: Heb. Ziim)(the wild…island: Heb. Ijim)
 ## c42
 ### 8
 אֲנִ֥י יְהוָ֖ה ה֣וּא שְׁמִ֑י וּכְבוֹדִי֙ לְאַחֵ֣ר לֹֽא־אֶתֵּ֔ן וּתְהִלָּתִ֖י לַפְּסִילִֽים ׃
@@ -171,6 +176,11 @@ All ye, assemble yourselves, and hear; which among them hath declared these [thi
 Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it [even] to the end of the earth; say ye, The LORD hath redeemed his servant Jacob.
 
 ## c54
+## c55
+#### 11
+כֵּן יִהְיֶה דְבָרִי אֲשֶׁר יֵצֵא מִפִּי לֹא-יָשׁוּב אֵלַי רֵיקָם כִּי אִם-עָשָׂה אֶת-אֲשֶׁר חָפַצְתִּי וְהִצְלִיחַ אֲשֶׁר שְׁלַחְתִּיו
+
+So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper [in the thing] whereto I sent it.
 
 ## c66
 ### 24

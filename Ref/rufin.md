@@ -113,6 +113,10 @@ The third (Ζεὺς), who survived by the artifice of his mother Rhea, she put 
 ### 20
 Conclusion.
 
-Hactenus anilis gentilium fabula et genealogia processerit; sine fine enim est, si velim omnes generationes eorum quos deos appellant, et impia gesta proferre.
+Hactenus anilis gentilium fabula et genealogia processerit; 
 
-“But enough of the old wife’s fables and genealogy of the Gentiles; for it were endless if I should set forth all the generations of those whom they call Gods, and their wicked doings."
+But enough of the old wife’s fables and genealogy of the Gentiles; 
+
+sine fine enim est, si velim omnes generationes eorum quos deos appellant, et impia gesta proferre.
+
+for it were endless if I should set forth all the generations of those whom they call Gods, and their wicked doings.

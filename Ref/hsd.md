@@ -204,6 +204,25 @@ And the house never holds them both within; but always one is without the house 
 ἣ δ᾽ Ὕπνον μετὰ χερσί, κασίγνητον Θανάτοιο. 
 
 and the one holds all-seeing light for them on earth, but the other holds in her arms Sleep the brother of Death, even evil Night, wrapped in a vaporous cloud. 
+
+## 924
+TH.924   αὐτὸς δ' ἐκ κεφαλῆς γλαυκώπιδα [4γείνατ' [5Ἀθήνην,4]
+TH.925   All by himself from his head Zeus fathered grey-eyed Athena,
+## 925
+TH.925   δεινὴν5] ἐγρεκύδοιμον ἀγέστρατον ἀτρυτώνην,
+TH.926   Terrible rouser to battle and leader of armies, that tireless
+## 926
+TH.926   πότνιαν, ᾗ κέλαδοί τε ἅδον [6πόλεμοί τε μάχαι τε:6]
+TH.927   Lady whose pleasure is ever in war-cries and warfare and fighting.
+## 927
+TH.927   Ἥρη δ' [7Ἥφαιστον κλυτὸν7] οὐ [8φιλότητι μιγεῖσα8]
+TH.928   Hera engendered the craftsman Hephaestus, not having engaged in
+## 928
+TH.928   γείνατο, καὶ ζαμένησε καὶ ἤρισεν ᾧ παρακοίτῃ,
+TH.929   Marital intercourse, for she had quarreled, annoyed with her husband--
+## 929
+TH.929   ἐκ πάντων τέχνῃσι κεκασμένον Οὐρανιώνων.
+TH.930   Famous Hephaestus, surpassing in handwork all the immortals.
 ## 939
 Ζηνὶ δ᾽ ἄρ᾽ Ἀτλαντὶς Μαίη τέκε κύδιμον Ἑρμῆν,
 ## 940
@@ -263,6 +282,25 @@ and the one holds all-seeing light for them on earth, but the other holds in her
 https://homer.library.northwestern.edu/html/application.html
 
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0131
+#### 133
+ὕβριν γὰρ ἀτάσθαλον οὐκ ἐθέλεσκον
+ἀλλήλων ἴσχειν, οὐδʼ ἀθανάτους θεραπεύειν
+ἤθελον, 
+
+"Men prone to ill, denied the Gods their due, 
+And by their follies made their days but few. 
+
+οὐδʼ ἔρδειν μακάρων ἱεροῖς ἐπὶ βωμοῖς,
+ἣ θέμις ἀθανάτοις.
+
+The altars of the bless'd neglected stand, |49 
+Without the offerings which the laws demand; 
+
+τοιγὰρ οὖν αὐτοὺς
+Ζεὺς Κρονίδης ἔκρυψε χολούμενος, οὕνεκα τιμὰς
+
+But angry Jove in dust this people laid, 
+Because no honours to the Gods they paid."
 ### 234-239
 εἰροπόκοι δ' ὅτες μαλλοῖς καταβεβρίθασι:
 

@@ -619,20 +619,40 @@ and of framing and controlling all the rest of the human soul which it was still
 
 together with all that belonged thereto, 
 
-καὶ κατὰ δύναμιν ὅτι κάλλιστα καὶ ἄριστα τὸ θνητὸν διακυβερνᾶν ζῷον, ὅτι μὴ κακῶν αὐτὸ ἑαυτῷ γίγνοιτο αἴτιον.
+καὶ κατὰ δύναμιν ὅτι κάλλιστα καὶ ἄριστα τὸ θνητὸν διακυβερνᾶν ζῷον, 
 
-[42e] and of governing this mortal creature in the fairest and best way possible, to the utmost of their power, except in so far as it might itself become the cause of its own evils.
+[42e] and of governing this mortal creature in the fairest and best way possible, to the utmost of their power, 
 
-καὶ ὁ μὲν δὴ ἅπαντα ταῦτα διατάξας ἔμενεν ἐν τῷ ἑαυτοῦ κατὰ τρόπον ἤθει: 
+ὅτι μὴ κακῶν αὐτὸ ἑαυτῷ γίγνοιτο αἴτιον.
 
-So He, then, having given all these commands, was abiding in His own proper and wonted state. 
+except in so far as it might itself become the cause of its own evils.
 
-μένοντος δὲ νοήσαντες οἱ παῖδες τὴν τοῦ πατρὸς τάξιν ἐπείθοντο αὐτῇ, καὶ λαβόντες ἀθάνατον ἀρχὴν θνητοῦ ζῴου, μιμούμενοι τὸν σφέτερον δημιουργόν, πυρὸς καὶ γῆς ὕδατός τε καὶ ἀέρος ἀπὸ τοῦ κόσμου δανειζόμενοι
+καὶ ὁ μὲν δὴ ἅπαντα ταῦτα διατάξας 
 
-And as He thus abode, His children gave heed to their Father's command and obeyed it. They took the immortal principle of the mortal living creature, and imitating their own Maker, they borrowed from the Cosmos portions of fire and earth and water and air,
+So He, then, having given all these commands, 
+
+ἔμενεν ἐν τῷ ἑαυτοῦ κατὰ τρόπον ἤθει: 
+
+was abiding in His own proper and wonted state. 
+
+μένοντος δὲ νοήσαντες οἱ παῖδες τὴν τοῦ πατρὸς τάξιν ἐπείθοντο αὐτῇ, 
+
+And as He thus abode, His children gave heed to their Father's command and obeyed it. 
+
+καὶ λαβόντες ἀθάνατον ἀρχὴν θνητοῦ ζῴου, 
+
+They took the immortal principle of the mortal living creature, 
+
+μιμούμενοι τὸν σφέτερον δημιουργόν, 
+
+and imitating their own Maker, 
+
+πυρὸς καὶ γῆς ὕδατός τε καὶ ἀέρος ἀπὸ τοῦ κόσμου δανειζόμενοι [43α] μόρια
+
+they borrowed from the Cosmos portions of fire and earth and water and air,
 # 43
 ## 43a
-[43α] μόρια ὡς ἀποδοθησόμενα πάλιν, εἰς ταὐτὸν τὰ λαμβανόμενα συνεκόλλων, οὐ τοῖς ἀλύτοις οἷς αὐτοὶ συνείχοντο δεσμοῖς, ἀλλὰ διὰ σμικρότητα ἀοράτοις πυκνοῖς γόμφοις συντήκοντες, ἓν ἐξ ἁπάντων ἀπεργαζόμενοι σῶμα ἕκαστον, τὰς τῆς ἀθανάτου ψυχῆς περιόδους ἐνέδουν εἰς ἐπίρρυτον σῶμα καὶ ἀπόρρυτον. αἱ δ᾽ εἰς ποταμὸν ἐνδεθεῖσαι πολὺν οὔτ᾽ ἐκράτουν οὔτ᾽ ἐκρατοῦντο, βίᾳ δὲ ἐφέροντο καὶ ἔφερον, 
+ὡς ἀποδοθησόμενα πάλιν, εἰς ταὐτὸν τὰ λαμβανόμενα συνεκόλλων, οὐ τοῖς ἀλύτοις οἷς αὐτοὶ συνείχοντο δεσμοῖς, ἀλλὰ διὰ σμικρότητα ἀοράτοις πυκνοῖς γόμφοις συντήκοντες, ἓν ἐξ ἁπάντων ἀπεργαζόμενοι σῶμα ἕκαστον, τὰς τῆς ἀθανάτου ψυχῆς περιόδους ἐνέδουν εἰς ἐπίρρυτον σῶμα καὶ ἀπόρρυτον. αἱ δ᾽ εἰς ποταμὸν ἐνδεθεῖσαι πολὺν οὔτ᾽ ἐκράτουν οὔτ᾽ ἐκρατοῦντο, βίᾳ δὲ ἐφέροντο καὶ ἔφερον, 
 
 [43a] as if meaning to pay them back, and the portions so taken they cemented together; but it was not with those indissoluble bonds wherewith they themselves were joined that they fastened together the portions but with numerous pegs, invisible for smallness; and thus they constructed out of them all each several body, and within bodies subject to inflow and outflow they bound the revolutions of the immortal Soul. The souls, then, being thus bound within a mighty river neither mastered it nor were mastered, but with violence they rolled along and were rolled along themselves, 
 ## 43b

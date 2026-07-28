@@ -760,96 +760,159 @@ Thy Capteines and thy fellowes lucke that tooke the sea with thee.
 
 ### 60
 Pythagoras.
-60Vir fuit hic, ortu Samius, sed fugerat una
-et Samon et dominos odioque tyrannidis exsul
-sponte erat, isque, licet caeli regione remotos,
-mente deos adiit et quae natura negabat
-visibus humanis, oculis ea pectoris hausit,
 
 PYTHAGORAS TEACHES HIS PHILOSOPHY
+
+60Vir fuit hic, ortu Samius, 
+
 Here lived a man, by birth a Samian.
+
+sed fugerat una
+et Samon et dominos odioque tyrannidis exsul
+
 He had fled from Samos and the ruling class,
 a voluntary exile, for his hate
-against all tyranny. He had the gift
+against all tyranny. 
+
+sponte erat, isque, licet caeli regione remotos,
+mente deos adiit 
+
+He had the gift
 of holding mental converse with the gods,
 who live far distant in the highth of heaven;
+
+et quae natura negabat
+visibus humanis, oculis ea pectoris hausit,
+
 and all that Nature has denied to man
 and human vision, he reviewed with eyes
 of his enlightened soul. 
 ### 65
 cumque animo et vigili perspexerat omnia cura,
-in medium discenda dabat coetusque silentum
-dictaque mirantum magni primordia mundi
-et rerum causas et, quid natura, docebat,
-quid deus, unde nives, quae fulminis esset origo,
 
 And, when he had
 examined all things in his careful mind
-with watchful study, he released his thoughts
+with watchful study, 
+
+in medium discenda 
+
+he released his thoughts
 to knowledge of the public.
+
+dabat coetusque silentum
+dictaque mirantum 
+
 He would speak
 to crowds of people, silent and amazed,
+
+magni primordia mundi
+et rerum causas et, quid natura, docebat,
+
 while he revealed to them the origin
-of this vast universe, the cause of things,
-what is nature, what a god, whence came the snow,
+of this vast universe, the cause of things, what is nature, 
+
+quid deus, unde nives, quae fulminis esset origo,
+
+what a god, whence came the snow,
 the cause of lightning—
 ### 70
 Iuppiter an venti discussa nube tonarent,
-quid quateret terras, qua sidera lege mearent —
-et quodcumque latet; primusque animalia mensis
-arguit imponi, primus quoque talibus ora
-docta quidem solvit, sed non et credita, verbis:
 
 was it Jupiter
 or did the winds, that thundered when the cloud
 was rent asunder, cause the lightning flash?
+
+quid quateret terras, qua sidera lege mearent —
+et quodcumque latet; 
+
 What shook the earth, what laws controlled the stars
-as they were moved—and every hidden thing
+as they were moved—
+
+primusque animalia mensis
+arguit imponi, 
+
+and every hidden thing
 he was the first man to forbid the use
 of any animal's flesh as human food,
+
+primus quoque talibus ora
+
 he was the first to speak with learned lips,
+
+docta quidem solvit, sed non et credita, verbis:
+
 though not believed in this, exhorting them.—
 
 ### 75
 “Parcite, mortales, dapibus temerare nefandis
-corpora! Sunt fruges, sunt deducentia ramos
-pondere poma suo tumidaeque in vitibus uvae,
-sunt herbae dulces, sunt quae mitescere flamma
-mollirique queant; nec vobis lacteus umor
+corpora! 
 
 “No, mortals,” he would say, “Do not permit
 pollution of your bodies with such food,
+
+Sunt fruges, sunt deducentia ramos
+pondere poma suo 
+
 for there are grain and good fruits which bear down
-the branches by their weight, and ripened grapes
-upon the vines, and herbs—those sweet by nature
+the branches by their weight, 
+
+tumidaeque in vitibus uvae,
+
+and ripened grapes
+upon the vines, 
+
+sunt herbae dulces, sunt quae mitescere flamma
+mollirique queant; 
+
+and herbs—those sweet by nature
 and those which will grow tender and mellow with
-a fire, and flowing milk is not denied,
+a fire, 
+
+nec vobis lacteus umor
+
+and flowing milk is not denied,
 
 ### 80
 eripitur, nec mella thymi redolentia flore:
-prodiga divitias alimentaque mitia tellus
-suggerit atque epulas sine caede et sanguine praebet.
-Carne ferae sedant ieiunia, nec tamen omnes:
-quippe equus et pecudes armentaque gramine vivunt.
 
 nor honey, redolent of blossoming thyme.
+
+prodiga divitias alimentaque mitia tellus
+suggerit atque epulas sine caede et sanguine praebet.
+
 “The lavish Earth yields rich and healthful food
 affording dainties without slaughter, death,
-and bloodshed. Dull beasts delight to satisfy
-their hunger with torn flesh; and yet not all:
+and bloodshed. 
+
+Carne ferae sedant ieiunia, 
+
+Dull beasts delight to satisfy
+their hunger with torn flesh; 
+
+nec tamen omnes:
+
+and yet not all:
+
+quippe equus et pecudes armentaque gramine vivunt.
+
 horses and sheep and cattle live on grass.
 
 ### 85
 At quibus ingenium est inmansuetumque ferumque,
 Armeniae tigres iracundique leones
-cumque lupis ursi, dapibus cum sanguine gaudent.
-Heu quantum scelus est in viscera viscera condi
-congestoque avidum pinguescere corpore corpus
+cumque lupis ursi, 
 
 But all the savage animals—the fierce
 Armenian tigers and ferocious lions,
 and bears, together with the roving wolves—
+
+dapibus cum sanguine gaudent.
+
 delight in viands reeking with warm blood.
+
+Heu quantum scelus est in viscera viscera condi
+congestoque avidum pinguescere corpore corpus
+
 “Oh, ponder a moment such a monstrous crime—
 vitals in vitals gorged, 
 ### 90
@@ -948,17 +1011,23 @@ affords the warmest coverings for our use,
 their life and not their death would help us more.
 ### 120
 Quid meruere boves, animal sine fraude dolisque,
-innocuum, simplex, natum tolerare labores?
-Inmemor est demum nec frugum munere dignus,
-qui potuit curvi dempto modo pondere aratri
-ruricolam mactare suum, qui trita labore
 
 Why have the oxen of the field deserved
 a sad end—innocent, without deceit,
+
+innocuum, simplex, natum tolerare labores?
+
 and harmless, without guile, born to endure
 hard labor? 
+
+Inmemor est demum nec frugum munere dignus,
+
 Without gratitude is he,
 unworthy of the gift of harvest fields,
+
+qui potuit curvi dempto modo pondere aratri
+ruricolam mactare suum, qui trita labore
+
 who, after he relieved his worker from
 weight of the curving plow could butcher him,
 ### 125
@@ -991,31 +1060,48 @@ the altar. In his ignorance he hears
 one praying, and he sees the very grain
 he labored to produce, fixed on his head
 between the horns, and felled, he stains with blood
-the knife which just before he may have seen
+the knife 
 ### 135
 inficit in liquida praevisos forsitan unda.
+
+which just before he may have seen reflected in clear water. 
+
 Protinus ereptas viventi pectore fibras
 inspiciunt mentesque deum scrutantur in illis:
-unde (fames homini vetitorum tanta ciborum!)
-audetis vesci, genus o mortale? Quod, oro,
 
-reflected in clear water. Instantly
+Instantly
 they snatch out entrails from his throbbing form,
 and seek in them intentions of the gods.
+
+unde (fames homini vetitorum tanta ciborum!)
+audetis vesci, 
+
 Then, in your lust for a forbidden food
 you will presume to batten on his flesh,
+
+genus o mortale? Quod, oro
+ne facite, 
+
 O race of mortals! Do not eat such food!
-Give your attention to my serious words;
+
 ### 140
-ne facite, et monitis animos advertite nostris!
+et monitis animos advertite nostris!
+
+Give your attention to my serious words;
+
 Cumque boum dabitis caesorum membra palato,
+
+and, when you next present the slaughtered flesh
+of oxen to your palates, 
+
 mandere vos vestros scite et sentite colonos.
+
+know and feel
+that you gnaw your fellow tillers of the soil.
+
 Et quoniam deus ora movet, sequar ora moventem
 rite deum Delphosque meos ipsumque recludam
 
-and, when you next present the slaughtered flesh
-of oxen to your palates, know and feel
-that you gnaw your fellow tillers of the soil.
 “And, since a god impels me to speak out,
 I will obey the god who urges me,
 and will disclose to you the heavens above,

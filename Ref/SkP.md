@@ -7,6 +7,40 @@ https://www.wisdomlib.org/hinduism/book/the-skanda-purana
 
 # māheśvara
 # k1
+## kedara
+## c1
+### s27
+#### 30-33
+##### 30
+अथो गिरिजया सार्द्धं महेशो गन्धमादने॥
+एकांते च मतिं चक्रे रमणार्थं स्वरूपवान्॥ २७.३० ॥
+
+Then at Gandhamādana, the great god (Śiva) who had resumed his own form, decided in his mind to indulge in sexual dalliance with Girijā in an isolated place.[6]
+##### 31
+सुरतेनैव महता तपसा हि समागमे॥
+
+Indeed their mutual sexual contact took place through their great penance. 
+
+द्वयोः सुरतमारब्धं तद्द्वयोश्च तदाऽभवत्॥ २७.३१ ॥
+
+Now that their sexual intercourse was begun, that alone became their penance.
+##### 32
+अनिष्टं महदाश्चर्यं प्रलयोपममेव च॥
+
+It was a mysteriously wonderful phenomenon not liked (by Devas), because it could be compared to Pralaya (ultimate annihilation) [see appendix on Skanda’s birth]. 
+
+तस्मिन्महारते प्राप्ते नाविंदंत सुखं परम्॥ २७.३२ ॥
+
+As that great sexual dalliance went on, not ultimate happiness was found
+##### 33
+सर्वे ब्रह्मादयो देवाः कार्याकार्यव्यवस्थितौ॥
+
+by the Devas beginning with Brahmā in the matter of deciding what should be done and what should not be done. 
+
+रेतसा च जगत्सर्वं नष्टं स्थावरजंगमम्॥ २७.३३ ॥ 
+
+On account of the semen virile (of Śiva), the entire universe consisting of mobile and immobile beings perished.
+#### ?
 ## kaumārika
 ## c2
 ### s37

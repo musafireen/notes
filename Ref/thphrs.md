@@ -27,3 +27,40 @@ When he has had a vision, he goes to the soothsayer, the seer, or the augur, to 
 καὶ τῶν περιρραινομένων ἐπὶ θαλάττης ἐπιμελῶς δόξειεν ἂν εἶναι. [14] κἄν ποτε ἐπίδῃ σκορόδῳ ἐστεμμένον τῶν ἐπὶ ταῖς τριόδοις, ἀπελθὼν κατὰ κεφαλῆς λούσασθαι καὶ ἱερείας καλέσας [15] σκίλλῃ ἢ σκύλακι κελεῦσαι αὑτὸν περικαθᾶραι. μαινόμενον δὲ ἰδὼν ἢ ἐπίληπτον φρίξας εἰς κόλπον πτύσαι.
 
 If he observes any one at the cross-roads crowned with garlic, on his return he washes himself from head to foot, summons a priestess, and gives orders to celebrate rites[34] of purification either with an onion or a small dog. Whenever he sees a madman or an epileptic, he shakes with terror and spits in his bosom.
+
+# plnt
+https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0093.tlg001.1st1K-grc1:1.1.1-1.1.5/
+
+https://topostext.org/work/242
+## b9
+### c19
+#### 2
+Ἀλλὰ τάδε εὐηθέστερα καὶ ἀπιθανώτερα τά τε τῶν περιάπτων καὶ ὅλως τῶν ἀλεξιφαρμάκων λεγομένων τοῖς τε σώμασι καὶ ταῖς οἰκίαις. 
+
+On the other hand what is said of amulets and charms in general for the body or the house is somewhat foolish and incredible. 
+
+καὶ ὡς δή φασι τὸ τριπόλιον καθ Ἡσίοδον καὶ Μουσαῖον εἰς πᾶν πρᾶγμα σπουδαῖον χρήσιμον εἶναι, φι ὃ καὶ ὀρύττουσιν αὐτὸ νύκτωρ σκηνὴν πηξάμενοι. 
+
+Thus they say that tripolion according to Hesiod and Musaeus is useful for every good purpose, wherefore they dig it up by night, camping on the spot. 
+
+καὶ τὰ περὶ τῆς εὐκλείας δὲ καὶ εὐδοξίας ὁμοίως ἡ καὶ μᾶλλον· 
+
+So too what is said of good or fair fame as affected by plants is quite as foolish or more so: 
+
+εὔκλειαν γάρ φασι ποιεῖν τὸ ἀντίρρινον καλούμενον· 
+
+for they say that the plant called snapdragon produces fair fame. 
+
+τοῦτο δ ὅμοιόν ἐστι τῇ ἀπαρίνῃ· ῥίζα δὲ οὐχ ὕπεστιν· 
+
+This plant is like bedstraw but it has no root: 
+
+ὁ δὲ καρπὸς ὥσπερ μόσχου ῥῖνας ἔχει. 
+
+and the fruit has what resembles a calf's nostrils. 
+
+τὸν δ ἀπὸ τούτου ἀλειφόμενον εὐδοξεῖν.
+
+The man who anoints himself with this they say wins fair fame. 
+
+And they say that the same result follows, if he crowns himself with the flower of gold-flower, sprinkling it with unguent from a vessel of unfired gold. The flower of gold-flower is like gold, the leaf is white. The stem also is white and hard, the root is slender and does not run deep. Men use it in wine against the bites of serpents, and to make a plaster for burns after burning it and mixing the ashes with honey. Such tales then, as was said before, proceed from men who desire to glorify their own crafts. 

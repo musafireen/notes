@@ -185,6 +185,24 @@ NOTES:
 #### 19
 ??? statue animation telestic 
 #### 29
+# chrest
+
+https://lexarithmos.app/akadimia/omiros/erga/vios-omirou-proklou/
+
+
+https://el.wikisource.org/wiki/%CE%A0%CF%81%CF%8C%CE%BA%CE%BB%CE%BF%CF%85_%CE%92%CE%AF%CE%BF%CF%82_%CE%9F%CE%BC%CE%AE%CF%81%CE%BF%CF%85
+### p231
+Ἑλλάνικος δὲ καὶ Δαμάστης καὶ Φερεκύδης εἰς Ὀρφέα τὸ γένος ἀνάγουσιν αὐτοῦ. 
+
+Hellanicus, Damastes, and Pherecydes trace his [Homer's] lineage back to Orpheus. 
+
+Μαίονα γάρ φασι τὸν Ὁμήρου πατέρα καὶ Δῖον τὸν Ἡσιόδου γενέσθαι Ἀπέλλιδος τοῦ Μελανωποῦ τοῦ Ἐπιφραδέος τοῦ Χαριφήμου τοῦ Φιλοτέρπεος τοῦ Ἰδμονίδα τοῦ Εὐκλέους τοῦ Δωρίωνος τοῦ Ὀρφέως. 
+
+For they say that Maion was the father of Homer, and Dios was the father of Hesiod, and that they were born to Apellis, son of Melanopos, son of Epiphrades, son of Chariphemos, son of Philoterpes, son of Idmonidas, son of Euklees, son of Dorion, son of Orpheus. 
+
+Γοργίας δ᾽ ὁ Λεοντῖνος εἰς Μουσαῖον αὐτὸν ἀνάγει. 
+
+Gorgias of Leontini, however, traces his lineage back to Musaeus.
 # VitHom
 
 ## c26

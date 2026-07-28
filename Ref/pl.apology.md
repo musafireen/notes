@@ -389,51 +389,149 @@ and he is not at all in need of sustenance, but I am needy. So if I must propose
 I propose this
 
 # 40c
-ὅσοι οἰόμεθα κακὸν εἶναι τὸ τεθνάναι. μέγα μοι τεκμήριον τούτου γέγονεν: οὐ γὰρ ἔσθ᾽ ὅπως οὐκ ἠναντιώθη ἄν μοι τὸ εἰωθὸς σημεῖον, εἰ μή τι ἔμελλον ἐγὼ ἀγαθὸν πράξειν.
-ἐννοήσωμεν δὲ καὶ τῇδε ὡς πολλὴ ἐλπίς ἐστιν ἀγαθὸν αὐτὸ εἶναι. δυοῖν γὰρ θάτερόν ἐστιν τὸ τεθνάναι: ἢ γὰρ οἷον μηδὲν εἶναι μηδὲ αἴσθησιν μηδεμίαν μηδενὸς ἔχειν τὸν τεθνεῶτα, ἢ κατὰ τὰ λεγόμενα μεταβολή τις τυγχάνει οὖσα καὶ μετοίκησις τῇ ψυχῇ τοῦ τόπου τοῦ ἐνθένδε εἰς ἄλλον τόπον. καὶ εἴτε δὴ μηδεμία αἴσθησίς ἐστιν ἀλλ᾽
+[40c] ὅσοι οἰόμεθα κακὸν εἶναι τὸ τεθνάναι. 
 
-must be mistaken. A convincing proof of this been given me; for the accustomed sign would surely have opposed me if I had not been going to meet with something good.
-Let us consider in another way also how good reason there is to hope that it is a good thing. For the state of death is one of two things: either it is virtually nothingness, so that the dead has no consciousness of anything, or it is, as people say, a change and migration of the soul from this to another place. And if it is unconsciousness,
+[40c] must be mistaken. 
+
+μέγα μοι τεκμήριον τούτου γέγονεν: 
+
+A convincing proof of this been given me; 
+
+οὐ γὰρ ἔσθ᾽ ὅπως οὐκ ἠναντιώθη ἄν μοι τὸ εἰωθὸς σημεῖον, εἰ μή τι ἔμελλον ἐγὼ ἀγαθὸν πράξειν.
+
+for the accustomed sign would surely have opposed me if I had not been going to meet with something good.
+
+ἐννοήσωμεν δὲ καὶ τῇδε ὡς πολλὴ ἐλπίς ἐστιν ἀγαθὸν αὐτὸ εἶναι. 
+
+Let us consider in another way also how good reason there is to hope that it is a good thing. 
 
 • ἐννοήσωμεν 
 • δὲ καὶ 
 • τῇδε
 let us consider this way
 
+δυοῖν γὰρ θάτερόν ἐστιν τὸ τεθνάναι: 
+
+For the state of death is one of two things: 
+
+ἢ γὰρ οἷον μηδὲν εἶναι 
+
+either it is virtually nothingness, 
+
+μηδὲ αἴσθησιν μηδεμίαν μηδενὸς ἔχειν τὸν τεθνεῶτα, 
+
+so that the dead has no consciousness of anything, 
+
+ἢ κατὰ τὰ λεγόμενα μεταβολή τις τυγχάνει οὖσα καὶ μετοίκησις τῇ ψυχῇ τοῦ τόπου τοῦ ἐνθένδε εἰς ἄλλον τόπον. 
+
+or it is, as people say, a change and migration of the soul from this to another place. 
+
 • κατὰ τὰ 
 • λεγόμενα
 as people say
 
 # 40d
-οἷον ὕπνος ἐπειδάν τις καθεύδων μηδ᾽ ὄναρ μηδὲν ὁρᾷ, θαυμάσιον κέρδος ἂν εἴη ὁ θάνατος—ἐγὼ γὰρ ἂν οἶμαι, εἴ τινα ἐκλεξάμενον δέοι ταύτην τὴν νύκτα ἐν ᾗ οὕτω κατέδαρθεν ὥστε μηδὲ ὄναρ ἰδεῖν, καὶ τὰς ἄλλας νύκτας τε καὶ ἡμέρας τὰς τοῦ βίου τοῦ ἑαυτοῦ ἀντιπαραθέντα ταύτῃ τῇ νυκτὶ δέοι σκεψάμενον εἰπεῖν πόσας ἄμεινον καὶ ἥδιον ἡμέρας καὶ νύκτας ταύτης τῆς νυκτὸς βεβίωκεν ἐν τῷ ἑαυτοῦ βίῳ, οἶμαι ἂν μὴ ὅτι ἰδιώτην τινά, ἀλλὰ τὸν μέγαν βασιλέα εὐαριθμήτους
+καὶ εἴτε δὴ μηδεμία αἴσθησίς ἐστιν ἀλλ᾽ 
 
-like a sleep in which the sleeper does not even dream, death would be a wonderful gain. For I think if any one were to pick out that night in which he slept a dreamless sleep and, comparing with it the other nights and days of his life, were to say, after due consideration, how many days and nights in his life had passed more pleasantly than that night,—I believe that not only any private person, but even the great King of Persia himself
+And if it is unconsciousness,
+
+[40d] οἷον ὕπνος ἐπειδάν τις καθεύδων μηδ᾽ ὄναρ μηδὲν ὁρᾷ, 
+
+like a sleep in which the sleeper does not even dream, 
+
+θαυμάσιον κέρδος ἂν εἴη ὁ θάνατος—
+
+death would be a wonderful gain. 
+
+ἐγὼ γὰρ ἂν οἶμαι, 
+
+For I think 
+
+εἴ τινα ἐκλεξάμενον δέοι ταύτην τὴν νύκτα ἐν ᾗ οὕτω κατέδαρθεν ὥστε μηδὲ ὄναρ ἰδεῖν, 
+
+if any one were to pick out that night in which he slept a dreamless sleep 
+
+• καταδαρθάνω, εις, κατάδαρθε
+to fall asleep; in aor. to be asleep
 
 • ἐκλέγομαι, ἐκλέγῃ, -
 pick out for oneself
 
-• καταδαρθάνω, εις, κατάδαρθε
-to fall asleep; in aor. to be asleep
+καὶ τὰς ἄλλας νύκτας τε καὶ ἡμέρας τὰς τοῦ βίου τοῦ ἑαυτοῦ ἀντιπαραθέντα ταύτῃ τῇ νυκτὶ 
+
+and, comparing with it the other nights and days of his life, 
 
 • ἀντιπαρατίθημι, ἀντιπαρατίθης, ἀντιπαραθές 
 • τι τινι
 contrast and compare sth with wth
 
+δέοι σκεψάμενον εἰπεῖν πόσας ἄμεινον καὶ ἥδιον ἡμέρας καὶ νύκτας ταύτης τῆς νυκτὸς βεβίωκεν ἐν τῷ ἑαυτοῦ βίῳ, 
+
+were to say, after due consideration, how many days and nights in his life had passed more pleasantly than that night,—
+
+# 40e
+οἶμαι ἂν μὴ ὅτι ἰδιώτην τινά, ἀλλὰ τὸν μέγαν βασιλέα εὐαριθμήτους [40ε] ἂν εὑρεῖν αὐτὸν ταύτας πρὸς τὰς ἄλλας ἡμέρας καὶ νύκτας—
+
+I believe that not only any private person, but even the great King of Persia himself [40e] would find that they were few in comparison with the other days and nights. 
+
+εἰ οὖν τοιοῦτον ὁ θάνατός ἐστιν, κέρδος ἔγωγε λέγω: 
+
+So if such is the nature of death, I count it a gain; 
+
+καὶ γὰρ οὐδὲν πλείων ὁ πᾶς χρόνος φαίνεται οὕτω δὴ εἶναι ἢ μία νύξ. 
+
+for in that case, all time seems to be no longer than one night. 
+
+εἰ δ᾽ αὖ οἷον ἀποδημῆσαί ἐστιν ὁ θάνατος ἐνθένδε εἰς ἄλλον τόπον, καὶ ἀληθῆ ἐστιν τὰ λεγόμενα, ὡς ἄρα ἐκεῖ εἰσι πάντες οἱ τεθνεῶτες, τί μεῖζον ἀγαθὸν τούτου εἴη ἄν, ὦ ἄνδρες δικασταί; 
+
+But on the other hand, if death is, as it were, a change of habitation from here to some other place, and if what we are told is true, that all the dead are there, what greater blessing could there be, judges? 
 # 41a
 [41a](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0169%3Atext%3DApol.%3Apage%3D41a)
 
-ἀφικόμενος εἰς Ἅιδου, ἀπαλλαγεὶς τουτωνὶ τῶν φασκόντων δικαστῶν εἶναι, εὑρήσει τοὺς ὡς ἀληθῶς δικαστάς, οἵπερ καὶ λέγονται ἐκεῖ δικάζειν, Μίνως τε καὶ Ῥαδάμανθυς καὶ Αἰακὸς καὶ Τριπτόλεμος καὶ ἄλλοι ὅσοι τῶν ἡμιθέων δίκαιοι ἐγένοντο ἐν τῷ ἑαυτῶν βίῳ, ἆρα φαύλη ἂν εἴη ἡ ἀποδημία; ἢ αὖ Ὀρφεῖ συγγενέσθαι καὶ Μουσαίῳ καὶ Ἡσιόδῳ καὶ Ὁμήρῳ ἐπὶ πόσῳ ἄν τις δέξαιτ᾽ ἂν ὑμῶν; ἐγὼ μὲν γὰρ πολλάκις ἐθέλω τεθνάναι εἰ ταῦτ᾽ ἔστιν ἀληθῆ. ἐπεὶ
+εἰ γάρ τις [41a] ἀφικόμενος εἰς Ἅιδου, 
 
-after leaving behind these who claim to be judges, shall find those who are really judges who are said to sit in judgment there, Minos and Rhadamanthus, and Aeacus and Triptolemus, and all the other demigods who were just men in their lives, would the change of habitation be undesirable? Or again, what would any of you give to meet with Orpheus and Musaeus and Hesiod and Homer? I am willing to die many times over, if these things are true; for I personally should find the life there wonderful,
+For if a man when he reaches the other world,  
+
+ἀπαλλαγεὶς τουτωνὶ τῶν φασκόντων δικαστῶν εἶναι, 
+
+[41a] after leaving behind these who claim to be judges, 
 
 • ἀπαλλάσσω, ἀπαλλάσεις, ἀπάλλαξον
 o set free, deliver from a thing
 
+εὑρήσει τοὺς ὡς ἀληθῶς δικαστάς, 
+
+shall find those who are really judges 
+
+οἵπερ καὶ λέγονται ἐκεῖ δικάζειν, 
+
+who are said to sit in judgment there, 
+
+Μίνως τε καὶ Ῥαδάμανθυς καὶ Αἰακὸς καὶ Τριπτόλεμος 
+
+Minos and Rhadamanthus, and Aeacus and Triptolemus, 
+
+καὶ ἄλλοι ὅσοι τῶν ἡμιθέων δίκαιοι ἐγένοντο ἐν τῷ ἑαυτῶν βίῳ, 
+
+and all the other demigods who were just men in their lives, 
+
 • ἡμίθεος, ου, ὁ
 demigod
 
+ἆρα φαύλη ἂν εἴη ἡ ἀποδημία; 
+
+would the change of habitation be undesirable? 
+
+ἢ αὖ Ὀρφεῖ συγγενέσθαι καὶ Μουσαίῳ καὶ Ἡσιόδῳ καὶ Ὁμήρῳ ἐπὶ πόσῳ ἄν τις δέξαιτ᾽ ἂν ὑμῶν; 
+
+Or again, what would any of you give to meet with Orpheus and Musaeus and Hesiod and Homer? 
+
 • συγγίγνομαι συγγιγνῃ, συγγενοῦ
 associate, keep company with, hold converse with, come together, meet
+
+ἐγὼ μὲν γὰρ πολλάκις ἐθέλω τεθνάναι εἰ ταῦτ᾽ ἔστιν ἀληθῆ. ἐπεὶ
+
+I am willing to die many times over, if these things are true; for I personally should find the life there wonderful,
 
 # 41b
 ἔμοιγε καὶ αὐτῷ θαυμαστὴ ἂν εἴη ἡ διατριβὴ αὐτόθι, ὁπότε ἐντύχοιμι Παλαμήδει καὶ Αἴαντι τῷ Τελαμῶνος καὶ εἴ τις ἄλλος τῶν παλαιῶν διὰ κρίσιν ἄδικον τέθνηκεν, ἀντιπαραβάλλοντι τὰ ἐμαυτοῦ πάθη πρὸς τὰ ἐκείνων—ὡς ἐγὼ οἶμαι, οὐκ ἂν ἀηδὲς εἴη—καὶ δὴ τὸ μέγιστον, τοὺς ἐκεῖ ἐξετάζοντα καὶ ἐρευνῶντα ὥσπερ τοὺς ἐνταῦθα διάγειν, τίς αὐτῶν σοφός ἐστιν καὶ τίς οἴεται μέν, ἔστιν δ᾽ οὔ. ἐπὶ πόσῳ δ᾽ ἄν τις, ὦ ἄνδρες δικασταί, δέξαιτο ἐξετάσαι τὸν ἐπὶ Τροίαν ἀγαγόντα

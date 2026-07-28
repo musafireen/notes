@@ -1,4 +1,5 @@
 
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D1%3Asection%3D338c
 # b1
 ## 336b-338a
 
@@ -95,6 +96,62 @@ and then they go to it not in the expectation of enjoyment nor as to a good thin
 ἀλλ᾽ [347δ] ὡς ἐπ᾽ ἀναγκαῖον καὶ οὐκ ἔχοντες ἑαυτῶν βελτίοσιν ἐπιτρέψαι οὐδὲ ὁμοίοις. 
 
 but as to a necessary evil and because they are unable to turn it over to better men than themselves, [347d] or to their like. 
+## 338
+### 338c
+οἶμαι γάρ σε εὖ ἐρεῖν. 
+
+[338c] For I think that you will speak well.” 
+
+[338ξ] ἄκουε δή, ἦ δ᾽ ὅς. 
+
+“Hearken and hear then,” said he. 
+
+φημὶ γὰρ ἐγὼ εἶναι τὸ δίκαιον οὐκ ἄλλο τι ἢ τὸ τοῦ κρείττονος συμφέρον. 
+
+“I affirm that the just is nothing else than1 the advantage of the stronger.2 
+
+1 For this dogmatic formulation of a definition Cf. Theaetetus 151 E.
+
+2 To idealists law is the perfection of reason, or νοῦ διανομή, Laws 714 A; “her seat is in the bosom of God” (Hooker). To the political positivist there is no justice outside of positive law, and “law is the command of a political superior to a political inferior.” “Whatsoever any state decrees and establishes is just for the state while it is in force,”Theaetetus 177 D. The formula “justice is the advantage of the superior” means, as explained in Laws 714, that the ruling class legislates in its own interest, that is, to keep itself in power. This interpretation is here drawn out of Thrasymachus by Socrates' affected misapprehensions (cf. further Pascal, Pensees iv. 4, “la commodite du souverain.” Leibniz approves Thrasymachus's definition: “justum potentiori utile . . . nam Deus ceteris potentior!”).
+
+ἀλλὰ τί οὐκ ἐπαινεῖς; ἀλλ᾽ οὐκ ἐθελήσεις.
+
+WeIl, why don't you applaud? Nay, you'll do anything but that.” 
+
+ἐὰν μάθω γε πρῶτον, ἔφην, τί λέγεις: 
+
+“Provided only I first understand your meaning,” said I; 
+
+νῦν γὰρ οὔπω οἶδα. 
+
+“for I don't yet apprehend it. 
+
+τὸ τοῦ κρείττονος φῂς συμφέρον δίκαιον εἶναι. 
+
+The advantage of the stronger is what you affirm the just to be. 
+
+καὶ τοῦτο, ὦ Θρασύμαχε, τί ποτε λέγεις; 
+
+But what in the world do you mean by this? 
+
+οὐ γάρ που τό γε τοιόνδε φῄς: εἰ Πουλυδάμας ἡμῶν κρείττων ὁ παγκρατιαστὴς καὶ αὐτῷ συμφέρει τὰ βόεια κρέα πρὸς τὸ σῶμα, 
+
+I presume you don't intend to affirm this, that if Polydamas the pancratiast is stronger than we are and the flesh of beeves3 is advantageous for him, [338d] for his body, 
+
+3 The unwholesomeness of this diet for the ordinary man proves nothing for Plato's alleged vegetarianism. The Athenians ate but little meat.
+
+τοῦτο τὸ [338δ] σιτίον εἶναι καὶ ἡμῖν τοῖς ἥττοσιν ἐκείνου συμφέρον ἅμα καὶ δίκαιον.
+
+this viand is also for us who are weaker than he both advantageous and just.” 
+## 343
+### 343b
+[343β] ὅτι οἴει τοὺς ποιμένας ἢ τοὺς βουκόλους τὸ τῶν προβάτων ἢ τὸ τῶν βοῶν ἀγαθὸν σκοπεῖν καὶ παχύνειν αὐτοὺς καὶ θεραπεύειν πρὸς ἄλλο τι βλέποντας ἢ τὸ τῶν δεσποτῶν ἀγαθὸν καὶ τὸ αὑτῶν, 
+
+“Because you think that the shepherds [343b] and the neat-herds are considering the good of the sheep and the cattle and fatten and tend them with anything else in view than the good of their masters and themselves; 
+
+καὶ δὴ καὶ τοὺς ἐν ταῖς πόλεσιν ἄρχοντας, οἳ ὡς ἀληθῶς ἄρχουσιν, ἄλλως πως ἡγῇ διανοεῖσθαι πρὸς τοὺς ἀρχομένους ἢ ὥσπερ ἄν τις πρὸς πρόβατα διατεθείη, καὶ ἄλλο τι σκοπεῖν αὐτοὺς διὰ νυκτὸς καὶ ἡμέρας ἢ τοῦτο, [343ξ] ὅθεν αὐτοὶ ὠφελήσονται. 
+
+and by the same token you seem to suppose that the rulers in our cities, I mean the real rulers,1 differ at all in their thoughts of the governed from a man's attitude towards his sheep2 or that they think of anything else night and day than [343c] the sources of their own profit. 
 # b2
 
 ## 359c

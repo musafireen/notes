@@ -251,3 +251,9 @@ Yea, better [is he] than both they, which hath not yet been, who hath not seen t
 
 A good name is better than precious oil; and the day of death, than the day of one´s birth.
 # song of songs
+# lam
+## c3
+#### 38
+מִפִּי עֶלְיוֺן לֹא תֵצֵא הָרָעוֺת וְהַטּוֺב
+
+Out of the mouth of the most High proceedeth not evil and good ?

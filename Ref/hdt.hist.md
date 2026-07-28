@@ -769,11 +769,144 @@ These walls are the city's outer armor; within them there is another encircling 
 ἄγαλμα δὲ οὐκ ἔνι οὐδὲν αὐτόθι ἐνιδρυμένον, οὐδὲ νύκτα οὐδεὶς ἐναυλίζεται ἀνθρώπων ὅτι μὴ γυνὴ μούνη τῶν ἐπιχωρίων, τὴν ἂν ὁ θεὸς ἕληται ἐκ πασέων, ὡς λέγουσι οἱ Χαλδαῖοι ἐόντες ἱρέες τούτου τοῦ θεοῦ.
 
 But no image has been set up in the shrine, nor does any human creature lie there for the night, except one native woman, chosen from all women by the god, as the Chaldaeans say, who are priests of this god.
+## c201
+ὡς δὲ τῷ Κύρῳ καὶ τοῦτο τὸ ἔθνος κατέργαστο, ἐπεθύμησε Μασσαγέτας ὑπ᾽ ἑωυτῷ ποιήσασθαι. 
+
+When Cyrus had conquered this nation, too, he wanted to subject the Massagetae. 
+
+τὸ δὲ ἔθνος τοῦτο καὶ μέγα λέγεται εἶναι καὶ ἄλκιμον, οἰκημένον δὲ πρὸς ἠῶ τε καὶ ἡλίου ἀνατολάς, πέρην τοῦ Ἀράξεω ποταμοῦ, ἀντίον δὲ Ἰσσηδόνων ἀνδρῶν. 
+
+These are said to be a great and powerful people dwelling towards the east and the sunrise, beyond the Araxes and opposite the Issedones; 
+
+εἰσὶ δὲ οἵτινες καὶ Σκυθικὸν λέγουσι τοῦτο τὸ ἔθνος εἶναι. 
+
+and some say that they are a Scythian people. 
 ## c202
+#### 1
+ὁ δὲ Ἀράξης λέγεται καὶ μέζων καὶ ἐλάσσων εἶναι τοῦ Ἴστρου: 
+
+The Araxes is said by some to be greater and by some to be less than the Ister. 
+
+νήσους δὲ ἐν αὐτῷ Λέσβῳ μεγάθεα παραπλησίας συχνάς φασι εἶναι, 
+
+It is reported that there are many islands in it as big as Lesbos, 
+
+ἐν δὲ αὐτῇσι ἀνθρώπους οἳ σιτέονται μὲν ῥίζας τὸ θέρος ὀρύσσοντες παντοίας: 
+
+and men on them who in summer live on roots of all kinds that they dig up, 
+
+καρποὺς δὲ ἀπὸ δενδρέων ἐξευρημένους σφι ἐς φορβὴν κατατίθεσθαι ὡραίους, καὶ τούτους σιτέεσθαι τὴν χειμερινήν. 
+
+and in winter on fruit that they have got from trees when it was ripe and stored for food; 
+#### 2
+[2] ἄλλα δέ σφι ἐξευρῆσθαι δένδρεα καρποὺς τοιούσδε τινὰς φέροντα, 
+
+[2] and they know (it is said) of trees bearing a fruit whose effect is this: 
+
+τοὺς ἐπείτε ἂν ἐς τὠυτὸ συνέλθωσι κατὰ εἴλας καὶ πῦρ ἀνακαύσωνται κύκλῳ περιιζομένους ἐπιβάλλειν ἐπὶ τὸ πῦρ, 
+
+gathering in groups and kindling a fire, the people sit around it and throw the fruit into the flames; 
+
+ὀσφραινομένους δὲ καταγιζομένου τοῦ καρποῦ τοῦ ἐπιβαλλομένου μεθύσκεσθαι τῇ ὀσμῇ κατά περ Ἕλληνας τῷ οἴνῳ 
+
+then the fumes of it as it burns make them drunk as the Greeks are with wine, 
+
+πλεῦνος δὲ ἐπιβαλλομένου τοῦ καρποῦ μᾶλλον μεθύσκεσθαι, 
+
+and more and more drunk as more fruit is thrown on the fire, 
+
+ἐς ὃ ἐς ὄρχησίν τε ἀνίστασθαι καὶ ἐς ἀοιδὴν ἀπικνέεσθαι. 
+
+until at last they rise up to dance and even sing. 
+
+τούτων μὲν αὕτη λέγεται δίαιτᾳ εἶναι. 
+
+Such is said to be their way of life. 
+#### 3
+[3] ὁ δὲ Ἀράξης ποταμὸς ῥέει μὲν ἐκ Ματιηνῶν, ὅθεν περ ὁ Γύνδης 
+
+[3] The Araxes1 flows from the country of the Matieni (as does the Gyndes, 
+
+τὸν ἐς τὰς διώρυχας τὰς ἑξήκοντά τε καὶ τριηκοσίας διέλαβε ὁ Κῦρος, 
+
+which Cyrus divided into the three hundred and sixty channels) 
+
+στόμασι δὲ ἐξερεύγεται τεσσεράκοντα, 
+
+and empties itself through forty mouths, 
+
+τῶν τὰ πάντα πλὴν ἑνὸς ἐς ἕλεά τε καὶ τενάγεα ἐκδιδοῖ: 
+
+of which all except one issue into bogs and swamps, 
+
+ἐν τοῖσι ἀνθρώπους κατοικῆσθαι λέγουσι ἰχθῦς ὠμοὺς σιτεομένους, 
+
+where men are said to live whose food is raw fish, 
+
+ἐσθῆτι δὲ νομίζοντας χρᾶσθαι φωκέων δέρμασι. 
+
+and their customary dress sealskins. 
 #### 4
  [4] τὸ δὲ ἓν τῶν στομάτων τοῦ Ἀράξεω ῥέει διὰ καθαροῦ ἐς τὴν Κασπίην θάλασσαν.
  
 The one remaining stream of the Araxes flows in a clear channel into the Caspian sea.
+## c203
+#### 1
+ἡ δὲ Κασπίη θάλασσα ἐστὶ ἐπ᾽ ἑωυτῆς, 
+
+This is a sea by itself, 
+
+οὐ συμμίσγουσα τῇ ἑτέρῃ θαλάσσῃ. 
+
+not joined to the other sea. 
+
+τὴν μὲν γὰρ Ἕλληνὲς ναυτίλλονται πᾶσα καὶ ἡ ἔξω στηλέων θάλασσα ἡ Ἀτλαντὶς καλεομένη 
+
+For that on which the Greeks sail, and the sea beyond the pillars of Heracles, which they call Atlantic, 
+
+καὶ ἡ Ἐρυθρὴ μία ἐοῦσα τυγχάνει. 
+
+and the Red Sea, are all one: 
+
+ἡ δὲ Κασπίη ἐστὶ ἑτέρη ἐπ᾽ ἑωυτῆς, 
+
+but the Caspian is separate and by itself. 
+
+ἐοῦσα μῆκος μὲν πλόου εἰρεσίῃ χρεωμένῳ πεντεκαίδεκα ἡμερέων, 
+
+Its length is what a ship rowed by oars can traverse in fifteen days, 
+
+εὖρος δέ, τῇ εὐρυτάτη ἐστὶ αὐτὴ ἑωυτῆς, ὀκτὼ ἡμερέων. 
+
+and its breadth, where it is broadest, is an eight days' journey. 
+
+καὶ τὰ μὲν πρὸς τὴν ἑσπέρην φέροντα τῆς θαλάσσης ταύτης ὁ Καύκασος παρατείνει, 
+
+Along its western shore stretches the range of Caucasus, 
+
+ἐὸν ὀρέων καὶ πλήθεϊ μέγιστον καὶ μεγάθεϊ ὑψηλότατον. 
+
+which has more and higher peaks than any other range. 
+
+ἔθνεα δὲ ἀνθρώπων πολλὰ καὶ παντοῖα ἐν ἑωυτῷ ἔχει ὁ Καύκασος, 
+
+Many and all kinds of nations dwell in the Caucasus, 
+
+τὰ πολλὰ πάντα ἀπ᾽ ὕλης ἀγρίης ζώοντα: 
+
+and the most of them live on the fruits of the forest. 
+#### 2
+[2] ἐν τοῖσι καὶ δένδρεα φύλλα τοιῆσδε ἰδέης παρεχόμενα εἶναι λέγεται, τὰ τρίβοντάς τε καὶ παραμίσγοντας ὕδωρ ζῷα ἑωυτοῖσι ἐς τὴν ἐσθῆτα ἐγγράφειν: 
+
+[2] Here, it is said, are trees growing leaves that men crush and mix with water and use for painting figures on their clothing; 
+
+τὰ δὲ ζῷα οὐκ ἐκπλύνεσθαι, ἀλλὰ συγκαταγηράσκειν τῷ ἄλλῳ εἰρίῳ κατὰ περ ἐνυφανθέντα ἀρχήν. 
+
+these figures cannot be washed out, but last as long as the wool, as if they had been woven into it from the first. 
+
+μῖξιν δὲ τούτων τῶν ἀνθρώπων εἶναι ἐμφανέα κατὰ περ τοῖσι προβάτοισι. 
+
+Men and women here (they say) have intercourse openly, like beasts of the flock. 
 ## c204
 #### 1
 τὰ μὲν δὴ πρὸς ἑσπέρην τῆς θαλάσσης ταύτης τῆς Κασπίης καλεομένης ὁ Καύκασος ἀπέργει, 
@@ -793,13 +926,173 @@ The greater part of this wide plain is the country of the Massagetae,
 against whom Cyrus was eager to lead his army. 
 ## c205
 #### 1
-ἦν δὲ τοῦ ἀνδρὸς ἀποθανόντος γυνὴ τῶν Μασσαγετέων βασίλεια. Τόμυρίς οἱ ἦν οὔνομα. ταύτην πέμπων ὁ Κῦρος ἐμνᾶτο τῷ λόγῳ θέλων γυναῖκα ἣν ἔχειν. ἡ δὲ Τόμυρις συνιεῖσα οὐκ αὐτήν μιν μνώμενον ἀλλὰ τὴν Μασαγετέων βασιληίην, ἀπείπατο τὴν πρόσοδον. 
+ἦν δὲ τοῦ ἀνδρὸς ἀποθανόντος γυνὴ τῶν Μασσαγετέων βασίλεια. Τόμυρίς οἱ ἦν οὔνομα. 
 
-Now at this time the Massagetae were ruled by a queen called Tomyris, whose husband was dead. Cyrus sent a message with a pretence of wanting her for his wife, but Tomyris would have none of his advances, well understanding that he wanted not her but the kingdom of the Massagetae. 
+Now at this time the Massagetae were ruled by a queen called Tomyris, whose husband was dead. 
+
+ταύτην πέμπων ὁ Κῦρος ἐμνᾶτο τῷ λόγῳ θέλων γυναῖκα ἣν ἔχειν. 
+
+Cyrus sent a message with a pretence of wanting her for his wife, 
+
+ἡ δὲ Τόμυρις συνιεῖσα οὐκ αὐτήν μιν μνώμενον ἀλλὰ τὴν Μασαγετέων βασιληίην, ἀπείπατο τὴν πρόσοδον. 
+
+but Tomyris would have none of his advances, well understanding that he wanted not her but the kingdom of the Massagetae. 
 #### 2
-[2] Κῦρος δὲ μετὰ τοῦτο, ὥς οἱ δόλῳ οὐ προεχώρεε, ἐλάσας ἐπὶ τὸν Ἀράξεα ἐποιέετο ἐκ τοῦ ἐμφανέος ἐπὶ τοὺς Μασσαγέτας στρατηίην, γεφύρας τε ζευγνύων ἐπὶ τοῦ ποταμοῦ διάβασιν τῷ στρατῷ, καὶ πύργους ἐπὶ πλοίων τῶν διαπορθμευόντων τὸν ποταμὸν οἰκοδομεόμενος.
+[2] Κῦρος δὲ μετὰ τοῦτο, ὥς οἱ δόλῳ οὐ προεχώρεε, ἐλάσας ἐπὶ τὸν Ἀράξεα ἐποιέετο ἐκ τοῦ ἐμφανέος ἐπὶ τοὺς Μασσαγέτας στρατηίην, 
 
-[2] So when guile was of no avail, Cyrus marched to the Araxes and openly prepared to attack the Massagetae; he bridged the river for his army to cross, and built towers on the pontoons bridging the river.
+[2] So when guile was of no avail, Cyrus marched to the Araxes and openly prepared to attack the Massagetae; 
+
+γεφύρας τε ζευγνύων ἐπὶ τοῦ ποταμοῦ διάβασιν τῷ στρατῷ, 
+
+he bridged the river for his army to cross, 
+
+καὶ πύργους ἐπὶ πλοίων τῶν διαπορθμευόντων τὸν ποταμὸν οἰκοδομεόμενος.
+
+and built towers on the pontoons bridging the river.
+## c206
+#### 1
+ἔχοντι δέ οἱ τοῦτον τὸν πόνον πέμψασα ἡ Τόμυρις κήρυκα ἔλεγε τάδε. ‘ὦ βασιλεῦ Μήδων, παῦσαι σπεύδων τὰ σπεύδεις: οὐ γὰρ ἂν εἰδείης εἴ τοι ἐς καιρὸν ἔσται ταῦτα τελεόμενα: παυσάμενος δὲ βασίλευε τῶν σεωυτοῦ, καὶ ἡμέας ἀνέχευ ὁρέων ἄρχοντας τῶν περ ἄρχομεν. 
+
+But while he was busy at this, Tomyris sent a herald to him with this message: “O king of the Medes, stop hurrying on what you are hurrying on, for you cannot know whether the completion of this work will be for your advantage. Stop, and be king of your own country; and endure seeing us ruling those whom we rule. 
+#### 2
+[2] οὔκων ἐθελήσεις ὑποθήκῃσι τῇσιδε χρᾶσθαι, ἀλλὰ πάντως μᾶλλον ἢ δι᾽ ἡσυχίης εἶναι: σὺ δὴ εἰ μεγάλως προθυμέαι Μασσαγετέων πειρηθῆναι, φέρε μόχθον μὲν τὸν ἔχεις ζευγνὺς τὸν ποταμὸν ἄπες, σὺ δὲ ἡμέων ἀναχωρησάντων ἀπὸ τοῦ ποταμοῦ τριῶν ἡμερέων ὁδὸν διάβαινε ἐς τὴν ἡμετέρην: 
+
+[2] But if you will not take this advice, and will do anything rather than remain at peace, then if you so greatly desire to try the strength of the Massagetae, stop your present work of bridging the river, and let us withdraw three days' journey from the Araxes; and when that is done, cross into our country. 
+#### 3
+[3] εἰ δ᾽ ἡμέας βούλεαι ἐσδέξασθαι μᾶλλον ἐς τὴν ὑμετέρην, σὺ τὠυτὸ τοῦτο ποίεε.’ ταῦτα δὲ ἀκούσας ὁ Κῦρος συνεκάλεσε Περσέων τοὺς πρώτους, συναγείρας δὲ τούτους ἐς μέσον σφι προετίθεε τὸ πρῆγμα, συμβουλευόμενος ὁκότερα ποιέῃ. τῶν δὲ κατὰ τὠυτὸ αἱ γνῶμαι συνεξέπιπτον κελευόντων ἐσδέκεσθαι Τόμυρίν τε καὶ τὸν στρατὸν αὐτῆς ἐς τὴν χώρην. 
+
+[3] Or if you prefer to receive us into your country, then withdraw yourself as I have said.” Hearing this, Cyrus called together the leading Persians and laid the matter before them, asking them to advise him which he should do. They all spoke to the same end, urging him to let Tomyris and her army enter his country. 
+## c207
+#### 1
+παρεὼν δὲ καὶ μεμφόμενος τὴν γνώμην ταύτην Κροῖσος ὁ Λυδὸς ἀπεδείκνυτο ἐναντίην τῇ προκειμένῃ γνώμῃ, λέγων τάδε. ‘ὦ βασιλεῦ, εἶπον μὲν καὶ πρότερόν τοι ὅτι ἐπεί με Ζεὺς ἔδωκέ τοι, τὸ ἂν ὁρῶ σφάλμα ἐὸν οἴκῳ τῷ σῷ κατὰ δύναμιν ἀποτρέψειν: τὰ δὲ μοι παθήματα ἐόντα ἀχάριτα μαθήματα γέγονε. 
+
+But Croesus the Lydian, who was present, was displeased by their advice and spoke against it. “O King,” he said, “you have before now heard from me that since Zeus has given me to you I will turn aside to the best of my ability whatever misadventure I see threatening your house. And disaster has been my teacher. 
+#### 2
+[2] εἰ μὲν ἀθάνατος δοκέεις εἶναι καὶ στρατιῆς τοιαύτης ἄρχειν, οὐδὲν ἂν εἴη πρῆγμα γνώμας ἐμὲ σοὶ ἀποφαίνεσθαι: εἰ δ᾽ ἔγνωκας ὅτι ἄνθρωπος καὶ σὺ εἶς καὶ ἑτέρων τοιῶνδε ἄρχεις, ἐκεῖνο πρῶτον μάθε, ὡς κύκλος τῶν ἀνθρωπηίων ἐστὶ πρηγμάτων, περιφερόμενος δὲ οὐκ ἐᾷ αἰεὶ τοὺς αὐτοὺς; εὐτυχέειν. 
+
+[2] Now, if you think that you and the army that you lead are immortal, I have no business giving you advice; but if you know that you and those whom you rule are only men, then I must first teach you this: men's fortunes are on a wheel, which in its turning does not allow the same man to prosper forever. 
+#### 3
+[3] ἤδη ὦν ἔχω γνώμην περὶ τοῦ προκειμένου πρήγματος τὰ ἔμπαλιν ἢ οὗτοι. εἰ γὰρ ἐθελήσομεν ἐσδέξασθαι τοὺς πολεμίους ἐς τὴν χώρην, ὅδε τοι ἐν αὐτῷ κίνδυνος ἔνι: ἑσσωθεὶς μὲν προσαπολλύεις πᾶσαν τὴν ἀρχήν. δῆλα γὰρ δὴ ὅτι νικῶντες Μασσαγέται οὐ τὸ ὀπίσω φεύξονται ἀλλ᾽ ἐπ᾽ ἀρχὰς τὰς σὰς ἐλῶσι. 
+
+[3] So, if that is the case, I am not of the same opinion about the business in hand as these other counsellors of yours. This is the danger if we agree to let the enemy enter your country: if you lose the battle, you lose your empire also, for it is plain that if the Massagetae win they will not retreat but will march against your provinces. 
+#### 4
+[4] νικῶν δὲ οὐ νικᾷς τοσοῦτον ὅσον εἰ διαβὰς ἐς τὴν ἐκείνων, νικῶν Μασσαγέτας, ἕποιο φεύγουσι. τὠυτὸ γὰρ ἀντιθήσω ἐκείνῳ, ὅτι νικήσας τοὺς ἀντιουμένους ἐλᾷς ἰθὺ τῆς ἀρχῆς τῆς Τομύριος. 
+
+[4] And if you conquer them, it is a lesser victory than if you crossed into their country and routed the Massagetae and pursued them; for I weigh your chances against theirs, and suppose that when you have beaten your adversaries you will march for the seat of Tomyris' power. 
+#### 5
+[5] χωρίς τε τοῦ ἀπηγημένου αἰσχρὸν καὶ οὐκ ἀνασχετὸν Κῦρόν γε τὸν Καμβύσεω γυναικὶ εἴξαντα ὑποχωρῆσαι τῆς χώρης. νῦν ὦν μοι δοκέει διαβάντας προελθεῖν ὅσον ἂν ἐκεῖνοι ὑπεξίωσι, ἐνθεῦτεν δὲ τάδε ποιεῦντας πειρᾶσθαι ἐκείνων περιγενέσθαι. 
+
+[5] And besides what I have shown, it would be a shameful thing and not to be endured if Cyrus the son of Cambyses should yield and give ground before a woman. Now then, it occurs to me that we should cross and go forward as far as they draw back, and that then we should endeavor to overcome them by doing as I shall show. 
+#### 6
+[6] ὡς γὰρ ἐγὼ πυνθάνομαι, Μασσαγέται εἰσὶ ἀγαθῶν τε Περσικῶν ἄπειροι καὶ καλῶν μεγάλων ἀπαθέες. τούτοισι ὦν τοῖσι ἀνδράσι τῶν προβάτων ἀφειδέως πολλὰ κατακόψαντας καὶ σκευάσαντας προθεῖναι ἐν τῷ στρατοπέδῳ τῷ ἡμετέρῳ δαῖτα, πρὸς δὲ καὶ κρητῆρας ἀφειδέως οἴνου ἀκρήτου καὶ σιτία παντοῖα: 
+
+[6] As I understand, the Massagetae have no experience of the good things of Persia, and have never fared well as to what is greatly desirable. Therefore, I advise you to cut up the meat of many of your sheep and goats into generous portions for these men, and to cook it and serve it as a feast in our camp, providing many bowls of unmixed wine and all kinds of food. 
+#### 7
+[7] ποιήσαντας δὲ ταῦτα, ὑπολιπομένους τῆς στρατιῆς τὸ φλαυρότατον, τοὺς λοιποὺς αὖτις ἐξαναχωρέειν ἐπὶ τὸν ποταμόν. ἢν γὰρ ἐγὼ γνώμης μὴ ἁμάρτω, κεῖνοι ἰδόμενοι ἀγαθὰ πολλὰ τρέψονταί τε πρὸς αὐτὰ καὶ ἡμῖν τὸ ἐνθεῦτεν λείπεται ἀπόδεξις ἔργων μεγάλων.’ 
+
+[7] Then let your army withdraw to the river again, leaving behind that part of it which is of least value. For if I am not mistaken in my judgment, when the Massagetae see so many good things they will give themselves over to feasting on them; and it will be up to us then to accomplish great things.” 
+## c208
+γνῶμαι μὲν αὗται συνέστασαν: Κῦρος δὲ μετεὶς τὴν προτέρην γνώμην, τὴν Κροίσου δὲ ἑλόμενος, προηγόρευε Τομύρι ἐξαναχωρέειν ὡς αὐτοῦ διαβησομένου ἐπ᾽ ἐκείνην. ἣ μὲν δὴ ἐξανεχώρεε κατὰ ὑπέσχετο πρῶτα: Κῦρος δὲ Κροῖσον ἐς τὰς χεῖρας ἐσθεὶς τῷ ἑωυτοῦ παιδὶ Καμβύσῃ, τῷ περ τὴν βασιληίην ἐδίδου, καὶ πολλὰ ἐντειλάμενὸς οἱ τιμᾶν τε αὐτὸν καὶ εὖ ποιέειν, ἢν ἡ διάβασις ἡ ἐπὶ Μασσαγέτας μὴ ὀρθωθῇ, ταῦτα ἐντειλάμενος καὶ ἀποστείλας τούτους ἐς Πέρσας, αὐτὸς διέβαινε τὸν ποταμὸν καὶ ὁ στρατὸς αὐτοῦ. 
+
+So these opinions clashed; and Cyrus set aside his former plan and chose that of Croesus; consequently, he told Tomyris to draw her army off, for he would cross (he said) and attack her; so she withdrew as she had promised before. Then he entrusted Croesus to the care of his own son Cambyses, to whom he would leave his sovereignty, telling Cambyses to honor Croesus and treat him well if the crossing of the river against the Massagetae should not go well. With these instructions, he sent the two back to Persia, and he and his army crossed the river. 
+## c209
+#### 1
+After he had crossed the Araxes, he dreamed that night while sleeping in the country of the Massagetae that he saw the eldest of Hystapes' sons with wings on his shoulders, the one wing overshadowing Asia and the other Europe. 
+
+ἐπείτε δὲ ἐπεραιώθη τὸν Ἀράξεα, νυκτὸς ἐπελθούσης εἶδε ὄψιν εὕδων ἐν τῶν Μασσαγετέων τῇ χωρῇ τοιήνδε: ἐδόκεε ὁ Κῦρος ἐν τῷ ὕπνῳ ὁρᾶν τῶν Ὑστάσπεος παίδων τὸν πρεσβύτατον ἔχοντα ἐπὶ τῶν ὤμων πτέρυγας καὶ τουτέων τῇ μὲν τὴν Ἀσίην τῇ δὲ τὴν Εὐρώπην ἐπισκιάζειν. 
+#### 2
+[2] Ὑστάσπεϊ δὲ τῷ Ἀρσάμεος ἐόντι ἀνδρὶ Ἀχαιμενίδῃ ἦν τῶν παίδων Δαρεῖος πρεσβύτατος, ἐὼν τότε ἡλικίην ἐς εἴκοσί κου μάλιστα ἔτεα, καὶ οὗτος κατελέλειπτο ἐν Πέρσῃσι: οὐ γὰρ εἶχέ κω ἡλικίην στρατεύεσθαι. 
+
+[2] Hystaspes son of Arsames was an Achaemenid, and Darius was the eldest of his sons, then about twenty years old; this Darius had been left behind in Persia, not yet being of an age to go on campaign. 
+#### 3
+[3] ἐπεὶ ὦν δὴ ἐξηγέρθη ὁ Κῦρος, ἐδίδου λόγον ἑωυτῷ περὶ τῆς ὄψιος. ὡς δέ οἱ ἐδόκεε μεγάλη εἶναι ἡ ὄψις, καλέσας Ὑστάσπεα καὶ ἀπολαβὼν μοῦνον εἶπε ‘Ὕστασπες, παῖς σὸς ἐπιβουλεύων ἐμοί τε καὶ τῇ ἐμῇ ἀρχῇ ἑάλωκε. ὡς δὲ ταῦτα ἀτρεκέως οἶδα, ἐγὼ σημανέω: 
+
+[3] So when Cyrus awoke he considered his vision, and because it seemed to him to be of great importance, he sent for Hystaspes and said to him privately, “Hystaspes, I have caught your son plotting against me and my sovereignty; and I will tell you how I know this for certain. 
+#### 4
+[4] ἐμεῦ θεοὶ κήδονται καί μοι πάντα προδεικνύουσι τὰ ἐπιφερόμενα. ἤδη ὦν ἐν τῇ παροιχομένῃ νυκτὶ εὕδων εἶδον τῶν σῶν παίδων τὸν πρεσβύτατον ἔχοντα ἐπὶ τῶν ὤμων πτέρυγας καὶ τουτέων τῇ μὲν τὴν Ἀσίην τῇ δὲ τὴν Εὐρώπην ἐπισκιάζειν. 
+
+[4] The gods care for me and show me beforehand all that is coming. Now then, I have seen in a dream in the past night your eldest son with wings on his shoulders, overshadowing Asia with the one and Europe with the other. 
+#### 5
+[5] οὔκων ἐστὶ μηχανὴ ἀπὸ τῆς ὄψιος ταύτης οὐδεμία τὸ μὴ ἐκεῖνον ἐπιβουλεύειν ἐμοί: σύ νυν τὴν ταχίστην πορεύεο ὀπίσω ἐς Πέρσας καὶ ποίεε ὅκως, ἐπεὰν ἐγὼ τάδε καταστρεψάμενος ἔλθω ἐκεῖ, ὥς μοι καταστήσεις τὸν παῖδα ἐς ἔλεγχον.’ 
+
+[5] From this vision, there is no way that he is not plotting against me. Therefore hurry back to Persia, and see that when I come back after subjecting this country you bring your son before me to be questioned about this.” 
+## c211
+#### 1
+Ὑστάσπης μὲν τούτοισι ἀμειψάμενος καὶ διαβὰς τὸν Ἀράξεα ἤιε ἐς Πέρσας φυλάξων Κύρῳ τὸν παῖδα Δαρεῖον, Κῦρος δὲ προελθὼν ἀπὸ τοῦ Ἀράξεω ἡμέρης ὁδὸν ἐποίεε κατὰ τὰς Κροίσου ὑποθήκας. 
+
+After having given this answer and crossed the Araxes, Hystaspes went to Persia to watch his son for Cyrus; and Cyrus, advancing a day's journey from the Araxes, acted according to Croesus' advice. 
+#### 2
+[2] μετὰ δὲ ταῦτα Κύρου τε καὶ Περσέων τοῦ καθαροῦ στρατοῦ ἀπελάσαντος ὀπίσω ἐπὶ τὸν Ἀράξεα, λειφθέντος δὲ τοῦ ἀχρηίου, ἐπελθοῦσα τῶν Μασσαγετέων τριτημορὶς τοῦ στρατοῦ τούς τε λειφθέντας τῆς Κύρου στρατιῆς ἐφόνευε ἀλεξομένους καὶ τὴν προκειμένην ἰδόντες δαῖτα, ὡς ἐχειρώσαντο τοὺς ἐναντίους, κλιθέντες ἐδαίνυντο, πληρωθέντες δὲ φορβῆς καὶ οἴνου ηὗδον. 
+
+[2] Cyrus and the sound portion of the Persian army marched back to the Araxes, leaving behind those that were useless; a third of the Massagetae forces attacked those of the army who were left behind and destroyed them despite resistance; then, when they had overcome their enemies, seeing the banquet spread they sat down and feasted, and after they had had their fill of food and wine, they fell asleep. 
+#### 3
+[3] οἱ δὲ Πέρσαι ἐπελθόντες πολλοὺς μὲν σφέων ἐφόνευσαν, πολλῷ δ᾽ ἔτι πλεῦνας ἐζώγρησαν καὶ ἄλλους καὶ τὸν τῆς βασιλείης Τομύριος παῖδα στρατηγέοντα Μασσαγετέων, τῷ οὔνομα ἦν Σπαργαπίσης. 
+
+[3] Then the Persians attacked them, killing many and taking many more alive, among whom was the son of Tomyris the queen, Spargapises by name, the leader of the Massagetae. 
+## c212
+#### 1
+ἣ δὲ πυθομένη τά τε περὶ τὴν στρατιὴν γεγονότα καὶ τὰ περὶ τὸν παῖδα, πέμπουσα κήρυκα παρὰ Κῦρον ἔλεγε τάδε. 
+
+When Tomyris heard what had happened to her army and her son, she sent a herald to Cyrus with this message: 
+#### 2
+[2] ‘ἄπληστε αἵματος Κῦρε, μηδὲν ἐπαερθῇς τῷ γεγονότι τῷδε πρήγματι, εἰ ἀμπελίνῳ καρπῷ, τῷ περ αὐτοὶ ἐμπιπλάμενοι μαίνεσθε οὕτω ὥστε κατιόντος τοῦ οἴνου ἐς τὸ σῶμα ἐπαναπλέειν ὑμῖν ἔπεα κακά, τοιούτῳ φαρμάκῳ δολώσας ἐκράτησας παιδὸς τοῦ ἐμοῦ, ἀλλ᾽ οὐ μάχῃ κατὰ τὸ καρτερόν. 
+
+[2] “Cyrus who can never get enough blood, do not be elated by what you have done; it is nothing to be proud of if, by the fruit of the vine—with which you Persians fill yourselves and rage so violently that evil words rise in a flood to your lips when the wine enters your bodies—if, by tricking him with this drug, you got the better of my son, and not by force of arms in battle. 
+#### 3
+[3] νῦν ὦν μευ εὖ παραινεούσης ὑπόλαβε τὸν λόγον: ἀποδούς μοι τὸν παῖδα ἄπιθι ἐκ τῆσδε τῆς χώρης ἀζήμιος, Μασσαγετέων τριτημορίδι τοῦ στρατοῦ κατυβρίσας. εἰ δὲ ταῦτα οὐ ποιήσεις, ἥλιον ἐπόμνυμί τοι τὸν Μασσαγετέων δεσπότην, ἦ μέν σε ἐγὼ καὶ ἄπληστον ἐόντα αἵματος κορέσω.’ 
+
+[3] Now, then, take a word of good advice from me: give me back my son and leave this country unpunished, even though you have savaged a third of the Massagetae army. But if you will not, then I swear to you by the sun, lord of the Massagetae, that I shall give even you who can never get enough of it your fill of blood.” 
+## c213
+Κῦρος μὲν ἐπέων οὐδένα τούτων ἀνενειχθέντων ἐποιέετο λόγον: ὁ δὲ τῆς βασιλείης Τομύριος παῖς Σπαργαπίσης, ὥς μιν ὅ τε οἶνος ἀνῆκε καὶ ἔμαθε ἵνα ἦν κακοῦ, δεηθεὶς Κύρου ἐκ τῶν δεσμῶν λυθῆναι ἔτυχε, ὡς δὲ ἐλύθη τε τάχιστα καὶ τῶν χειρῶν ἐκράτησε, διεργάζεται ἑωυτόν. 
+
+Cyrus dismissed this warning when it was repeated to him. But Spargapises, the son of the queen Tomyris, after the wine wore off and he recognized his evil plight, asked Cyrus to be freed from his bonds; and this was granted him; but as soon as he was freed and had the use of his hands, he did away with himself. 
+## c214
+#### 1
+καὶ δὴ οὗτος μὲν τρόπῳ τοιούτῳ τελευτᾷ: Τόμυρις δέ, ὥς οἱ Κῦρος οὐκ ἐσήκουσε, συλλέξασα πᾶσαν τὴν ἑωυτῆς δύναμιν συνέβαλε Κύρῳ. ταύτην τὴν μάχην, ὅσαι δὴ βαρβάρων ἀνδρῶν μάχαι ἐγένοντο, κρίνω ἰσχυροτάτην γενέσθαι, καὶ δὴ καὶ πυνθάνομαι οὕτω τοῦτο γενόμενον. 
+
+Such was the end of Spargapises. Tomyris, when Cyrus would not listen to her, collected all her forces and engaged him. This fight I judge to have been the fiercest ever fought by men that were not Greek; and indeed I have learned that this was so. 
+#### 2
+[2] πρῶτα μὲν γὰρ λέγεται αὐτοὺς διαστάντας ἐς ἀλλήλους τοξεύειν, μετὰ δὲ ὥς σφι τὰ βέλεα ἐξετετόξευτο, συμπεσόντας τῇσι αἰχμῇσί τε καὶ τοῖσι ἐγχειριδίοισι συνέχεσθαι. χρόνον τε δὴ ἐπὶ πολλὸν συνεστάναι μαχομένους καὶ οὐδετέρους ἐθέλειν φεύγειν. τέλος δὲ οἱ Μασσαγέται περιεγένοντο, 
+
+[2] For first (it is said) they shot arrows at each other from a distance; then, when their arrows were all spent, they rushed at each other and fought with their spears and swords; and for a long time they stood fighting and neither would give ground; but at last the Massagetae got the upper hand. 
+#### 3
+[3] ἥ τε δὴ πολλὴ τῆς Περσικῆς στρατιῆς αὐτοῦ ταύτῃ διεφθάρη καὶ δὴ καὶ αὐτὸς Κῦρος τελευτᾷ, βασιλεύσας τὰ πάντα ἑνὸς δέοντα τριήκοντα ἔτεα. 
+
+[3] The greater part of the Persian army was destroyed there on the spot, and Cyrus himself fell there, after having reigned for one year short of thirty years. 
+#### 4
+[4] ἀσκὸν δὲ πλήσασα αἵματος ἀνθρωπηίου Τόμυρις ἐδίζητο ἐν τοῖσι τεθνεῶσι τῶν Περσέων τὸν Κύρου νέκυν, ὡς δὲ εὗρε, ἐναπῆκε αὐτοῦ τὴν κεφαλὴν ἐς τὸν ἀσκόν, λυμαινομένη δὲ τῷ νεκρῷ ἐπέλεγε τάδε: 
+
+[4] Tomyris filled a skin with human blood, and searched among the Persian dead for Cyrus' body; and when she found it, she pushed his head into the skin, and insulted the dead man in these words: 
+#### 5
+[5] ‘σὺ μὲν ἐμὲ ζῶσάν τε καὶ νικῶσάν σε μάχῃ ἀπώλεσας, παῖδα τὸν ἐμὸν ἑλὼν δόλῳ: σὲ δ᾽ ἐγώ, κατά περ ἠπείλησα, αἵματος κορέσω.’ τὰ μὲν δὴ κατὰ τὴν Κύρου τελευτὴν τοῦ βίου, πολλῶν λόγων λεγομένων, ὅδε μοι ὁ πιθανώτατος εἴρηται. 
+
+[5] “Though I am alive and have defeated you in battle, you have destroyed me, taking my son by guile; but just as I threatened, I give you your fill of blood.” Many stories are told of Cyrus' death; this, that I have told, is the most credible. 
+## c215
+#### 1
+Μασσαγέται δὲ ἐσθῆτά τε ὁμοίην τῇ Σκυθικῇ φορέουσι καὶ δίαιταν ἔχουσι, ἱππόται δὲ εἰσὶ καὶ ἄνιπποι （ἀμφοτέρων γὰρ μετέχουσι） καὶ τοξόται τε καὶ αἰχμοφόροι, σαγάρις νομίζοντες ἔχειν. χρυσῷ δὲ καὶ χαλκῷ τὰ πάντα χρέωνται: ὅσα μὲν γὰρ ἐς αἰχμὰς καὶ ἄρδις καὶ σαγάρις, χαλκῷ τὰ πάντα χρέωνται, ὅσα δὲ περὶ κεφαλὴν καὶ ζωστῆρας καὶ μασχαλιστῆρας, χρυσῷ κοσμέονται. 
+
+These Massagetae are like the Scythians in their dress and way of life. They are both cavalry and infantry (having some of each kind), and spearmen and archers; and it is their custom to carry battle-axes. They always use gold and bronze; all their spear-points and arrow-heads and battle-axes are bronze and the adornment of their headgear and belts and girdles is gold. 
+#### 2
+[2] ὣς δ᾽ αὕτως τῶν ἵππων τὰ μὲν περὶ τὰ στέρνα χαλκέους θώρηκας περιβάλλουσι, τὰ δὲ περὶ τοὺς χαλινοὺς καὶ στόμια καὶ φάλαρα χρυσῷ. σιδήρῳ δὲ οὐδ᾽ ἀργύρῳ χρέωνται οὐδέν: οὐδὲ γὰρ οὐδέ σφι ἐστὶ ἐν τῇ χωρῇ, ὁ δὲ χρυσὸς καὶ ὁ χαλκὸς ἄπλετος. 
+
+[2] They equip their horses similarly, protecting their chests with bronze breastplates and putting gold on reins, bits, and cheekplates. But they never use iron and silver, for there is none at all in their country, but gold and bronze abound. 
+## c216
+#### 1
+νόμοισι δὲ χρέωνται τοιοῖσιδε. γυναῖκα μὲν γαμέει ἕκαστος, ταύτῃσι δὲ ἐπίκοινα χρέωνται: τὸ γὰρ Σκύθας φασὶ Ἕλληνες ποιέειν, οὐ Σκύθαι εἰσὶ οἱ ποιέοντες ἀλλὰ Μασσαγέται: τῆς γὰρ ἐπιθυμήσῃ γυναικὸς Μασσαγέτης ἀνήρ, τὸν φαρετρεῶνα ἀποκρεμάσας πρὸ τῆς ἁμάξης μίσγεται ἀδεῶς. 
+
+Now for their customs: each man marries a wife, but the wives are common to all. The Greeks say this is a Scythian custom; it is not, but a custom of the Massagetae. There, when a man desires a woman, he hangs his quiver before her wagon, and has intercourse with her without fear. 
+#### 2
+[2] οὖρος δὲ ἡλικίης σφι πρόκειται ἄλλος μὲν οὐδείς: ἐπεὰν δὲ γέρων γένηται κάρτα, οἱ προσήκοντές οἱ πάντες συνελθόντες θύουσί μιν καὶ ἄλλα πρόβατα ἅμα αὐτῷ, ἑψήσαντες δὲ τὰ κρέα κατευωχέονται. 
+
+[2] Though they fix no certain term to life, yet when a man is very old all his family meet together and kill him, with beasts of the flock besides, then boil the flesh and feast on it. 
+#### 3
+[3] ταῦτα μὲν τὰ ὀλβιώτατά σφι νενόμισται, τὸν δὲ νούσῳ τελευτήσαντα οὐ κατασιτέονται ἀλλ᾽ γῇ κρύπτουσι, συμφορὴν ποιεύμενοι ὅτι οὐκ ἵκετο ἐς τὸ τυθῆναι. σπείρουσι δὲ οὐδέν, ἀλλ᾽ ἀπὸ κτηνέων ζώουσι καὶ ἰχθύων: οἳ δὲ ἄφθονοί σφι ἐκ τοῦ Ἀράξεω ποταμοῦ παραγίνονται: 
+
+[3] This is held to be the happiest death; when a man dies of an illness, they do not eat him, but bury him in the earth, and lament that he did not live to be killed. They never plant seed; their fare is their livestock and the fish which they take in abundance from the Araxes. 
+#### 4
+[4] γαλακτοπόται δ᾽ εἰσί. θεῶν δὲ μοῦνον ἥλιον σέβονται, τῷ θύουσι ἵππους. νόος δὲ οὗτος τῆς θυσίης: τῶν θεῶν τῷ ταχίστῳ πάντων τῶν θνητῶν τὸ τάχιστον δατέονται. 
+
+[4] Their drink is milk. The sun is the only god whom they worship; they sacrifice horses to him; the reasoning is that he is the swiftest of the gods, and therefore they give him the swiftest of mortal things.
 # b2
 ## c3
 #### 1
@@ -4039,6 +4332,28 @@ the oil,1 which the Persians call rhadinace, is dark and evil-smelling.
 
 Such was the fate of the Eretrians.
 # b7
+## c6
+#### 3
+[3] ἔχοντες Ὀνομάκριτον ἄνδρα Ἀθηναῖον, χρησμολόγον τε καὶ διαθέτην χρησμῶν τῶν Μουσαίου, ἀναβεβήκεσαν, 
+
+[3] They had come up to Sardis with Onomacritus, an Athenian diviner1 who had set in order the oracles of Musaeus. 
+
+1 The word sometimes means “a diviner”; here, probably, rather a “selecter and publisher” of existing oracles, by recitation or otherwise.
+
+τὴν ἔχθρην προκαταλυσάμενοι. 
+
+They had reconciled their previous hostility with him; 
+
+ἐξηλάσθη γὰρ ὑπὸ Ἱππάρχου τοῦ Πεισιστράτου ὁ Ὀνομάκριτος ἐξ Ἀθηνέων, 
+
+Onomacritus had been banished from Athens by Pisistratus' son Hipparchus, 
+
+ἐπ᾽ αὐτοφώρῳ ἁλοὺς ὑπὸ Λάσου τοῦ Ἑρμιονέος ἐμποιέων ἐς τὰ Μουσαίου χρησμόν, ὡς αἱ ἐπὶ Λήμνῳ ἐπικείμεναι νῆσοι ἀφανιζοίατο κατὰ τῆς θαλάσσης. 
+
+when he was caught by Lasus2 of Hermione in the act of interpolating into the writings of Musaeus an oracle showing that the islands off Lemnos would disappear into the sea.
+
+2 A poet and musician, Pindar's teacher.
+
 ## c64
 #### 1
 Βάκτριοι δὲ περὶ μὲν τῇσι κεφαλῇσι ἀγχότατα τῶν Μηδικῶν ἔχοντες ἐστρατεύοντο, τόξα δὲ καλάμινα ἐπιχώρια καὶ αἰχμὰς βραχέας.
@@ -4185,3 +4500,104 @@ and after the sentinels the whole army fled as well.
 ὥστε τετρακισχιλίων κρατῆσαι νεκρῶν καὶ ἀσπίδων Φωκέας, τῶν τὰς μὲν ἡμισέας ἐς Ἄβας ἀνέθεσαν τὰς δὲ ἐς Δελφούς: 
 
 The Phocians made themselves masters of four thousand dead, and their shields, of which they dedicated half at Abae and the rest at Delphi. 
+## c95
+Ἀριστείδης δὲ ὁ Λυσιμάχου ἀνὴρ Ἀθηναῖος, τοῦ καὶ ὀλίγῳ τι πρότερον τούτων ἐπεμνήσθην ὡς ἀνδρὸς ἀρίστου, 
+
+Aristides son of Lysimachus, the Athenian whom I mentioned a little before this as a valiant man, 
+
+οὗτος ἐν τῷ θορύβῳ τούτῳ τῷ περὶ Σαλαμῖνα γενομένῳ τάδε ἐποίεε: 
+
+did this in the commotion that arose at Salamis: 
+
+παραλαβὼν πολλοὺς τῶν ὁπλιτέων οἳ παρατετάχατο παρὰ τὴν ἀκτὴν τῆς Σαλαμινίης χώρης, 
+
+taking many of the armed men who were arrayed along the shore of Salamis, 
+
+γένος ἐόντες Ἀθηναῖοι, ἐς τὴν Ψυττάλειαν νῆσον ἀπέβησε ἄγων, 
+
+he brought them across and landed them on the island of Psyttalea, 
+
+οἳ τοὺς Πέρσας τοὺς ἐν τῇ νησῖδι ταύτῃ κατεφόνευσαν πάντας. 
+
+and they slaughtered all the Persians who were on that islet. 
+## c96
+#### 1
+ὡς δὲ ἡ ναυμαχίη διελέλυτο, 
+
+When the battle was broken off, 
+
+κατειρύσαντες ἐς τὴν Σαλαμῖνα οἱ Ἕλληνες τῶν ναυηγίων ὅσα ταύτῃ ἐτύγχανε ἔτι ἐόντα, ἕτοιμοι ἦσαν ἐς ἄλλην ναυμαχίην, 
+
+the Hellenes towed to Salamis as many of the wrecks as were still there and kept ready for another battle, 
+
+ἐλπίζοντες τῇσι περιεούσῃσι νηυσὶ ἔτι χρήσεσθαι βασιλέα. 
+
+supposing that the king could still make use of his surviving ships. 
+#### 2
+[2] τῶν δὲ ναυηγίων πολλὰ ὑπολαβὼν ἄνεμος ζέφυρος ἔφερε τῆς Ἀττικῆς ἐπὶ τὴν ἠιόνα τὴν καλεομένην Κωλιάδα: 
+
+[2] A west wind had caught many of the wrecks and carried them to the shore in Attica called Colias. 
+
+Thus not only was all the rest of the oracle fulfilled which Bacis and Musaeus had spoken about this battle, 
+
+ὥστε ἀποπλησθῆναι τὸν χρησμὸν τόν τε ἄλλον πάντα τὸν περὶ τῆς ναυμαχίης ταύτης εἰρημένοι Βάκιδι καὶ Μουσαίῳ, 
+
+but also what had been said many years before this in an oracle by Lysistratus, an Athenian soothsayer, concerning the wrecks carried to shore there. 
+
+καὶ δὴ καὶ κατὰ τὰ ναυήγια τὰ ταύτῃ ἐξενειχθέντα τὸ εἰρημένον πολλοῖσι ἔτεσι πρότερον τούτων ἐν χρησμῷ Λυσιστράτῳ Ἀθηναίῳ ἀνδρὶ χρησμολόγῳ, 
+
+τὸ ἐλελήθεε πάντας τοὺς Ἕλληνας, 
+
+Its meaning had eluded all the Hellenes: 
+
+“Κωλιάδες δὲ γυναῖκες ἐρετμοῖσι φρύξουσι” 
+
+“The Colian women will cook with oars."
+
+τοῦτο δὲ ἔμελλε ἀπελάσαντος βασιλέος ἔσεσθαι. 
+
+But this was to happen after the king had marched away.
+
+# b9
+## c43
+#### 1
+τοῦτον δ᾽ ἔγωγε τὸν χρησμόν, τὸν Μαρδόνιος εἶπε ἐς Πέρσας ἔχειν, 
+
+Now for this prophecy, which Mardonius said was spoken of the Persians, 
+
+ἐς Ἰλλυριούς τε καὶ τὸν Ἐγχελέων στρατὸν οἶδα πεποιημένον, ἀλλ᾽ οὐκ ἐς Πέρσας. 
+
+I know it to have been made concerning not them but the Illyrians and the army of the Enchelees.1 
+
+1 Referring to a legendary expedition of these northwestern tribes, directed against Hellas and Delphi in particular.
+
+ἀλλὰ τὰ μὲν Βάκιδι ἐς ταύτην τὴν μάχην ἐστὶ πεποιημένα, 
+
+There is, however, a prophecy made by Bacis concerning this battle: 
+#### 2
+[2] “τὴν δ᾽ ἐπὶ Θερμώδοντι καὶ Ἀσωπῷ λεχεποίῃ
+
+[2] “By Thermodon's stream and the grass-grown banks of Asopus,
+
+Ἑλλήνων σύνοδον καὶ βαρβαρόφωνον ἰυγήν,
+
+Will be a gathering of Greeks for fight and the ring of the barbarian's war-cry;
+
+τῇ πολλοὶ πεσέονται ὑπὲρ λάχεσίν τε μόρον τε
+τοξοφόρων Μήδων, 
+
+Many a Median archer, by death untimely overtaken will fall
+
+ὅταν αἴσιμον ἦμαρ ἐπέλθῃ,” 
+
+There in the battle when the day of his doom is upon him.” 
+
+ταῦτα μὲν καὶ παραπλήσια τούτοισι ἄλλα Μουσαίῳ ἔχοντα οἶδα ἐς Πέρσας. 
+
+I know that these verses and others very similar to them from Musaeus referred to the Persians. 
+
+ὁ δὲ Θερμώδων ποταμὸς ῥέει μεταξὺ Τανάγρης τε καὶ Γλίσαντος. 
+
+As for the river Thermodon, it flows between Tanagra and Glisas.2
+
+2 A little to the northwest of Thebes.

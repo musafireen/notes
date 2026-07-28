@@ -16,7 +16,9 @@
                 "file": "Ref/mdhvA.SDS.BAK.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "mdhvA.SDS.BAK"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Ref/mdhvA.SDS.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "mdhvA.SDS"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Ref/umm.kitab/u.k.5.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "u.k.5"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Ref/haft.azilla/h.a.20.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "h.a.20"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Ref/kmS.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "kmS"
             }
           },
           {
@@ -73,14 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/bmvP.md",
+                "file": "Ref/porph.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "porph"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -99,8 +111,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -109,13 +124,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aps",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -123,11 +140,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref/kmS.md",
+                "file": "Ref/bmvP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +173,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for bmvP"
             }
           },
           {
@@ -164,10 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref/kmS.md",
+                "file": "Ref/bmvP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from bmvP"
             }
           },
           {
@@ -178,7 +200,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-ghost",
+              "title": "tag"
             }
           },
           {
@@ -187,8 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/kmS.md"
-              }
+                "file": "Ref/porph.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of porph"
             }
           }
         ],
@@ -200,12 +229,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false
     }
   },
-  "active": "9933e842181072f7",
+  "active": "3d1fa9d4e0f71aa3",
   "lastOpenFiles": [
+    "Ref/bmvP.md",
+    "Ref/aet.md",
+    "Ref/kmS.md",
     "Ref/IU.md",
     "Ref/VS.md",
     "Ref/SpB.md",
@@ -238,9 +271,6 @@
     "002_quran/anbiya/zakarya/zakariya.md",
     "002_quran/anbiya/yusuf/yusuf.md",
     "002_quran/anbiya/yunus/yunus.md",
-    "002_quran/anbiya/yaqub/yaqub.md",
-    "002_quran/anbiya/yahya/yahya.md",
-    "Demus/Why create.md",
     "boomerang/naik_vas.png",
     "boomerang/naik.jpg",
     "002_quran/sihr/~syncthing~magic.md.tmp",

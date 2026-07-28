@@ -27,6 +27,14 @@ ma'nā, ism/ḥijāb, bāb
 aḥad, 'aql, nafs
 ## hypostases
 hen, nous, psyche 
+
+## ousia/hypostases xenocrates
+doxastos, noetos, aesthetos
+[[platonism#triads#ousia]]
+## philosophy xenocrates
+physics, ethics, logic
+## elements xenocrates
+pyr, aer, hydor
 ## hypostases
 pater, filius, spiritus sanctus 
 ## tantra
@@ -217,6 +225,8 @@ nīla, harita, raṅga, śveta, pīta
 śyāma, harita, raṇga, śveta, kṛṣṇa, 
 ## stoechia :arist.
 aether, pyr, aer, hydor, ge 
+
+![[pseudPlutrch.plac#b2#c7#5]]
 ## guṇa
 স্বর্ণ, হীরক, 
 ## tanmātra

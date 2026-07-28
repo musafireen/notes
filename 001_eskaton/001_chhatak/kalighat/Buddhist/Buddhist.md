@@ -10,6 +10,8 @@ rnying-ma : sthavira/mudgala
 snga-'gyur : ādyanuvāda/pūrvānuvāda
 padma-bYung-gas : padmasambhava
 rin-po-che : ratna
+sBa-bZhed : vetra abhimata
+bSam-yas : cintā upara
 bDe-'bYung : śambhala
 bYams-pa : maitreya
 gTer-ma : khani

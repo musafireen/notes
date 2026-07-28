@@ -11,11 +11,11 @@ Slab grave
 46 Altai
 
 400 turkic language
-# chionite
-Hyaona, hyon
+# 
+Hyaona, hon
 
 Shapur used chionites against rome border towns
-:[[amm.marc#res.gest]]
+:[[mrcl#gest#b19#s2#3]]
 
 # kidarite
 

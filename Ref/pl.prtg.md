@@ -2,9 +2,29 @@
 # 316d
 [pl.protagoras.316d](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0177%3Atext%3DProt.%3Asection%3D316d)
 
-τὴν ἑαυτοῦ συνουσίαν, χρὴ εὐλαβεῖσθαι τὸν ταῦτα πράττοντα: οὐ γὰρ σμικροὶ περὶ αὐτὰ φθόνοι τε γίγνονται καὶ ἄλλαι δυσμένειαί τε καὶ ἐπιβουλαί. ἐγὼ δὲ τὴν σοφιστικὴν τέχνην φημὶ μὲν εἶναι παλαιάν, τοὺς δὲ μεταχειριζομένους αὐτὴν τῶν παλαιῶν ἀνδρῶν, φοβουμένους τὸ ἐπαχθὲς αὐτῆς, πρόσχημα ποιεῖσθαι καὶ προκαλύπτεσθαι, τοὺς μὲν ποίησιν, οἷον Ὅμηρόν τε καὶ Ἡσίοδον καὶ Σιμωνίδην, τοὺς δὲ αὖ τελετάς τε καὶ χρησμῳδίας, τοὺς ἀμφί τε Ὀρφέα καὶ Μουσαῖον: ἐνίους δέ τινας ᾔσθημαι καὶ γυμναστικήν, οἷον Ἴκκος τε ὁ Ταραντῖνος καὶ ὁ νῦν ἔτι ὢν οὐδενὸς ἥττων σοφιστὴς
+τὴν ἑαυτοῦ συνουσίαν, χρὴ εὐλαβεῖσθαι τὸν ταῦτα πράττοντα:
 
-such a proceeding requires great caution; since very considerable jealousies are apt to ensue, and numerous enmities and intrigues. Now I tell you that sophistry is an ancient art, and those men of ancient times who practised it, fearing the odium it involved, disguised it in a decent dress, sometimes of poetry, as in the case of Homer, Hesiod, and Simonides sometimes of mystic rites and soothsayings, as did Orpheus, Musaeus and their sects; and sometimes too, I have observed, of athletics, as with Iccus1 of Tarentum and another still living—as great a sophist as any—
+such a proceeding requires great caution; 
+
+οὐ γὰρ σμικροὶ περὶ αὐτὰ φθόνοι τε γίγνονται καὶ ἄλλαι δυσμένειαί τε καὶ ἐπιβουλαί. 
+
+since very considerable jealousies are apt to ensue, and numerous enmities and intrigues. 
+
+ἐγὼ δὲ τὴν σοφιστικὴν τέχνην φημὶ μὲν εἶναι παλαιάν, τοὺς δὲ μεταχειριζομένους αὐτὴν τῶν παλαιῶν ἀνδρῶν, φοβουμένους τὸ ἐπαχθὲς αὐτῆς, πρόσχημα ποιεῖσθαι καὶ προκαλύπτεσθαι, 
+
+Now I tell you that sophistry is an ancient art, and those men of ancient times who practised it, fearing the odium it involved, disguised it in a decent dress, 
+
+τοὺς μὲν ποίησιν, οἷον Ὅμηρόν τε καὶ Ἡσίοδον καὶ Σιμωνίδην, 
+
+sometimes of poetry, as in the case of Homer, Hesiod, and Simonides, 
+
+τοὺς δὲ αὖ τελετάς τε καὶ χρησμῳδίας, τοὺς ἀμφί τε Ὀρφέα καὶ Μουσαῖον: 
+
+sometimes of mystic rites and soothsayings, as did Orpheus, Musaeus and their sects; 
+
+ἐνίους δέ τινας ᾔσθημαι καὶ γυμναστικήν, οἷον Ἴκκος τε ὁ Ταραντῖνος καὶ ὁ νῦν ἔτι ὢν οὐδενὸς ἥττων σοφιστὴς
+
+and sometimes too, I have observed, of athletics, as with Iccus1 of Tarentum and another still living—as great a sophist as any—
 # 319a
 
 [pl.protagoras.319a](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0177%3Atext%3DProt.%3Asection%3D319a)

@@ -403,6 +403,477 @@ This is the sanction of dharma. Then why are you reproving me? According to Agas
 ###### 1.123.12
 स तु द्रोणस्य शिरसा पादौ गृह्य परंतपः
 अरण्यमनुसंप्राप्तः कृत्वा द्रोणं महीमयम्
+
+### c169
+##### 15
+भूमौ तु निदधुः केचिद्भृगवो धनमक्षयम्
+
+To save their indestructible riches, some of the Bhrigus buried them in the ground. 
+
+ददुः केचिद्द्विजातिभ्यो ज्ञात्वा क्षत्रियतो भयम्
+
+Fearing danger from the Kshatriyas, others gave away their riches to Brahmanas. 
+##### 16
+भृगवस्तु ददुः केचित्तेषां वित्तं यथेप्सितम्
+
+O son! Some of the Bhrigus gave them as much of riches as they wanted, 
+
+क्षत्रियाणां तदा तात कारणान्तरदर्शनात्
+
+thinking that some other use might be found for the Kshatriyas.
+##### 17
+ततो महीतलं तात क्षत्रियेण यदृच्छया
+खनताधिगतं वित्तं केनचिद्भृगुवेश्मनि
+
+‘“‘O son! Then one day, some of the Kshatriyas, according to their wishes, dug up the ground in the dwelling place of the Bhrigus and discovered a treasure. 
+
+तद्वित्तं ददृशुः सर्वे समेताः क्षत्रियर्षभाः
+
+All the bulls among the Kshatriyas, who were assembled there, saw the treasure. 
+##### 18
+अवमन्य ततः कोपाद्भृगूंस्ताञ्शरणागतान्
+
+Thereafter, angry and contemptuous, though the Bhrgus craved for mercy. 
+
+निजघ्नुस्ते महेष्वासाः सर्वांस्तान्निशितैः शरैः
+
+those supreme archers shot them down with their sharp arrows
+
+आ गर्भादनुकृन्तन्तश्चेरुश्चैव वसुंधराम्
+
+They travelled all over the earth, killing even children in wombs. O son! 
+##### 19
+तत उच्छिद्यमानेषु भृगुष्वेवं भयात्तदा
+भृगुपत्न्यो गिरिं तात हिमवन्तं प्रपेदिरे
+
+When they were killed in this way, many Bhrigu wives fled in fear and sought refuge in the mountains of the Himalayas.
+##### 20
+तासामन्यतमा गर्भं भयाद्दाधार तैजसम्
+
+‘“‘Among them a lady kept her immensely energetic embryo hidden, so that it might not be discovered,
+
+ऊरुणैकेन वामोरूर्भर्तुः कुलविवृद्धये
+
+in her thigh, with beautiful thighs. She resolved to perpetuate her husband’s race. 
+
+ददृशुर्ब्राह्मणीं तां ते दीप्यमानां स्वतेजसा
+
+But the Kshatriyas discovered the Brahmana lady, who blazed in her radiance. 
+##### 21
+अथ गर्भः स भित्त्वोरुं ब्राह्मण्या निर्जगाम ह
+
+Then the child appeared, tearing her thigh open 
+
+मुष्णन्दृष्टीः क्षत्रियाणां मध्याह्न इव भास्करः
+
+and blinding the eyes of the Kshatriyas like the midday sun. 
+
+ततश्चक्षुर्वियुक्तास्ते गिरिदुर्गेषु बभ्रमुः
+
+Thereupon, deprived of their eyesight, the Kshatriyas began to wander around in the difficult passes of the mountain. 
+##### 22
+ततस्ते मोघसंकल्पा भयार्ताः क्षत्रियर्षभाः
+
+Frustrated in their desire and frightened, those bulls among the Kshatriyas 
+
+ब्रह्मणीं शरणं जग्मुर्दृष्ट्यर्थं तामनिन्दिताम्
+
+sought refuge with that unblemished Brahmana lady, so that their eyesight might be restored. 
+##### 23
+ऊचुश्चैनां महाभागां क्षत्रियास्ते विचेतसः
+
+Those Kshatriyas spoke to the lady while they were out of their minds with pain. 
+
+ज्योतिःप्रहीणा दुःखार्ताः शान्तार्चिष इवाग्नयः
+
+They had lost their eyesight and were like a fire that has been put out. 
+##### 24
+भगवत्याः प्रसादेन गच्छेत्क्षत्रं सचक्षुषम्
+
+“O illustrious lady! Through your grace, may the Kshatriyas regain their eyesight. 
+
+उपारम्य च गच्छेम सहिताः पापकर्मणः
+
+All of us will depart from here with our evil deeds. 
+##### 25
+सपुत्रा त्वं प्रसादं नः सर्वेषां कर्तुमर्हसि
+
+You and your son should show us mercy. 
+
+पुनर्दृष्टिप्रदानेन राज्ञः संत्रातुमर्हसि
+
+You should save these kings by restoring their eyesight to them.”’”’
+### c170
+##### 1
+ब्राह्मण्युवाच
+
+“‘The Brahmana woman said, 
+
+नाहं गृह्णामि वस्तात दृष्टीर्नास्ति रुषान्विता
+
+‘“O sons! I have not robbed you of your eyesight. Nor am I angry with you. 
+
+अयं तु भार्गवो नूनमूरुजः कुपितोऽद्य वः
+
+It is the Bhargava who has been born from my thigh who is angry with you. 
+##### 2
+तेन चक्षूंषि वस्तात नूनं कोपान्महात्मना
+
+O sons! Your eyesight has been taken away by this great-souled one, whose anger 
+
+स्मरता निहतान्बन्धूनादत्तानि न संशयः
+
+has been aroused on remembering that you had killed his relatives. There is no doubt in that.
+##### 3
+गर्भानपि यदा यूयं भृगूणां घ्नत पुत्रकाः
+
+O sons! When you destroyed even the Bhrigu sons in the wombs, 
+
+तदायमूरुणा गर्भो मया वर्षशतं धृतः
+
+I carried this child in my thigh for 100 years 
+##### 4
+षडङ्गश्चाखिलो वेद इमं गर्भस्थमेव हि
+
+when he was in the womb, all the Vedas, including their six angas,  
+
+विवेश भृगुवंशस्य भूयः प्रियचिकीर्षया
+
+came to him. so that he might do that which is good for the Bhrigu lineage. 
+##### 5
+सोऽयं पितृवधान्नूनं क्रोधाद्वो हन्तुमिच्छति
+
+Angry at the killing of his fathers, he certainly wishes to kill you. 
+
+तेजसा यस्य दिव्येन चक्षूंषि मुषितानि वः
+
+It is through his divine radiance that your eyesight has been destroyed. 
+##### 6
+तमिमं तात याचध्वमौर्वं मम सुतोत्तमम्
+
+O sons! Pray to Ourva, this supreme son of mine. 
+
+अयं वः प्रणिपातेन तुष्टो दृष्टीर्विमोक्ष्यति
+
+If he is placated through your homage, he may restore your eyesight.”’
+##### 7
+गन्धर्व उवाच
+
+‘“Vashishtha said, 
+
+एवमुक्तास्ततः सर्वे राजानस्ते तमूरुजम्
+
+‘Having been thus addressed, all the kings addressed the son who had been born from her thigh 
+
+ऊचुः प्रसीदेति तदा प्रसादं च चकार सः
+
+and begged him for mercy. He was merciful. 
+##### 8
+अनेनैव च विख्यातो नाम्ना लोकेषु सत्तमः
+
+That supreme one came to be known in the worlds by the name 
+
+स और्व इति विप्रर्षिरूरुं भित्त्वा व्यजायत
+
+of Ourva, since that Brahmana rishi was born after splitting open the thigh. 
+##### 9
+चक्षूंषि प्रतिलभ्याथ प्रतिजग्मुस्ततो नृपाः
+
+Regaining their eyesight, the kings returned. 
+
+भार्गवस्तु मुनिर्मेने सर्वलोकपराभवम्
+
+But the Bhargava sage decided to bring about the destruction of the entire world. 
+##### 10
+स चक्रे तात लोकानां विनाशाय महामनाः
+
+O son! That great-souled one decided to bring about the destruction of all the worlds. 
+
+सर्वेषामेव कार्त्स्न्येन मनः प्रवणमात्मनः
+
+##### 11
+इच्छन्नपचितिं कर्तुं भृगूणां भृगुसत्तमः
+
+In order to bring honour to the Bhrigus, that descendant of the Bhrigu lineage 
+
+सर्वलोकविनाशाय तपसा महतैधितः
+
+engaged in great austerities, so as to bring about the destruction of all the worlds. 
+##### 12
+तापयामास लोकान्स सदेवासुरमानुषान्
+
+He burnt the worlds with the gods, the asuras and men, 
+
+तपसोग्रेण महता नन्दयिष्यन्पितामहान्
+
+through his great and severe austerities, and gratified his ancestors. 
+##### 13
+ततस्तं पितरस्तात विज्ञाय भृगुसत्तमम्
+
+On learning what the descendant of the lineage was planning to do, 
+
+पितृलोकादुपागम्य सर्व ऊचुरिदं वचः
+
+the ancestors descended from their world and told him, 
+##### 14
+और्व दृष्टः प्रभावस्ते तपसोग्रस्य पुत्रक
+
+“O Ourva! O son! We have witnessed the power of your severe austerities. 
+
+प्रसादं कुरु लोकानां नियच्छ क्रोधमात्मनः
+
+Have mercy for the worlds and control your anger. 
+##### 15
+नानीशैर्हि तदा तात भृगुभिर्भावितात्मभिः
+
+O son! The self-controlled Bhrigus weren’t powerless. 
+
+वधोऽभ्युपेक्षितः सर्वैः क्षत्रियाणां विहिंसताम्
+
+Nor were they indifferent to slaughter at the hands of the violent Kshatriyas. 
+##### 16
+आयुषा हि प्रकृष्टेन यदा नः खेद आविशत्
+
+O son! When we got tired of our long lives, 
+
+तदास्माभिर्वधस्तात क्षत्रियैरीप्सितः स्वयम्
+
+we ourselves wished for our deaths at the hands of the Kshatriyas. 
+##### 17
+निखातं तद्धि वै वित्तं केनचिद्भृगुवेश्मनि
+
+The riches that were buried in the ground in the dwelling place of the Bhrigus 
+
+वैरायैव तदा न्यस्तं क्षत्रियान्कोपयिष्णुभिः
+
+were placed there with the intention of angering the Kshatriyas and creating enmity with them. 
+
+किं हि वित्तेन नः कार्यं स्वर्गेप्सूनां द्विजर्षभ
+
+O bull among the twice-born! What use are riches to us when we wish to attain heaven? 
+##### 18
+यदा तु मृत्युरादातुं न नः शक्नोति सर्वशः
+
+O son! When we found that death was completely unable to overcome all of us, 
+
+तदास्माभिरयं दृष्ट उपायस्तात संमतः
+
+we thought this would be the most pleasant way. 
+##### 19
+आत्महा च पुमांस्तात न लोकाँल्लभते शुभान्
+
+O son! Those who kill themselves never attain the best worlds. 
+
+ततोऽस्माभिः समीक्ष्यैवं नात्मनात्मा विनाशितः
+
+Remembering that, we did not kill ourselves with our own hands. 
+##### 20
+न चैतन्नः प्रियं तात यदिदं कर्तुमिच्छसि
+
+O son! That which you desire does not please us at all. 
+
+नियच्छेदं मनः पापात्सर्वलोकपराभवात्
+
+Therefore, control your mind and refrain from this evil destruction of all the worlds. 
+##### 21
+न हि नः क्षत्रियाः केचिन्न लोकाः सप्त पुत्रक
+दूषयन्ति तपस्तेजः क्रोधमुत्पतितं जहि
+
+has offended or harmed our austerities. Win over the anger that has arisen in you.”’”’
+### c171
+##### 1
+और्व उवाच
+
+‘“‘Ourva said, 
+
+उक्तवानस्मि यां क्रोधात्प्रतिज्ञां पितरस्तदा
+
+“O ancestors! In anger, I took a vow 
+
+सर्वलोकविनाशाय न सा मे वितथा भवेत्
+
+that all the worlds would be destroyed and that cannot go in vain. 
+##### 2
+वृथारोषप्रतिज्ञो हि नाहं जीवितुमुत्सहे
+
+Because I cannot be one whose anger and vows come to nothing. 
+
+अनिस्तीर्णो हि मां रोषो दहेदग्निरिवारणिम्
+
+Without a doubt, my anger will consume me, the way fire consumes dry kindling.115 
+##### 3
+यो हि कारणतः क्रोधं संजातं क्षन्तुमर्हति
+
+When anger arises from a reason that is just, 
+
+नालं स मनुजः सम्यक्त्रिवर्गं परिरक्षितुम्
+
+a man who suppresses it cannot properly safeguard the three goals.116 
+##### 4
+अशिष्टानां नियन्ता हि शिष्टानां परिरक्षता
+
+Anger has the purpose of restraining the evil and protecting the good. 
+
+स्थाने रोषः प्रयुक्तः स्यान्नृपैः स्वर्गजिगीषुभिः
+
+Kings who wish to conquer heaven use their anger for a just cause. 
+##### 5
+अश्रौषमहमूरुस्थो गर्भशय्यागतस्तदा
+
+I was lying unborn inside my mother’s thigh; I heard 
+
+आरावं मातृवर्गस्य भृगूणां क्षत्रियैर्वधे
+
+cries when my mothers of the Bhrigu lineage were slaughtered by the Kshatriyas. 
+##### 6
+सामरैर्हि यदा लोकैर्भृगूणां क्षत्रियाधमैः
+
+O ancestors! When those worst of the Kshatriyas slaughtered the Bhrigus, 
+
+आगर्भोत्सादनं क्षान्तं तदा मां मन्युराविषत्
+
+including those in wombs and the worlds ignored this, anger entered my heart. 
+##### 7
+आपूर्णकोशाः किल मे मातरः पितरस्तथा
+
+My mothers, heavy in their wombs, and my fathers 
+
+भयात्सर्वेषु लोकेषु नाधिजग्मुः परायणम्
+
+were frightened, but did not find a protector in all the worlds. 
+##### 8
+तान्भृगूणां तदा दारान्कश्चिन्नाभ्यवपद्यत
+
+When the women of the Bhrigu lineage did not find a single protector, 
+
+यदा तदा दधारेयमूरुणैकेन मां शुभा
+
+my fortunate mother hid me in one of her thighs. 
+##### 9
+प्रतिषेद्धा हि पापस्य यदा लोकेषु विद्यते
+
+If there is one who punishes crimes in the worlds, 
+
+तदा सर्वेषु लोकेषु पापकृन्नोपपद्यते
+
+no one in the worlds will dare to commit a crime. 
+##### 10
+यदा तु प्रतिषेद्धारं पापो न लभते क्वचित्
+
+But if a crime doesn’t find a punisher, 
+
+तिष्ठन्ति बहवो लोके तदा पापेषु कर्मसु
+
+many in the worlds will commit crimes. 
+##### 11
+जानन्नपि च यः पापं शक्तिमान्न नियच्छति
+
+A man who has the power to punish a crime and doesn’t do so, despite knowing that a crime has been committed, 
+
+ईशः सन्सोऽपि तेनैव कर्मणा संप्रयुज्यते
+
+is himself tainted by the deed, even if he is the lord. 
+##### 12
+राजभिश्चेश्वरैश्चैव यदि वै पितरो मम
+
+The kings and others were capable of protecting my fathers, 
+
+शक्तैर्न शकिता त्रातुमिष्टं मत्वेह जीवितम्
+
+but failed to do so. Giving themselves up to the pleasures of life, they neglected their duties. 
+##### 13
+अत एषामहं क्रुद्धो लोकानामीश्वरोऽद्य सन्
+
+Therefore, I have justifiable reason to be angry with the worlds and am now their lord. 
+
+भवतां तु वचो नाहमलं समतिवर्तितुम्
+
+Yet, I am not capable of disobeying your instructions, 
+##### 14
+मम चापि भवेदेतदीश्वरस्य सतो महत्
+
+even though I am capable of punishing a crime. 
+
+उपेक्षमाणस्य पुनर्लोकानां किल्बिषाद्भयम्
+
+By refraining from doing so, I will once again encourage the spread of evil in the worlds. 
+##### 15
+यश्चायं मन्युजो मेऽग्निर्लोकानादातुमिच्छति
+
+The anger of my rage wishes to consume the worlds. 
+
+दहेदेष च मामेव निगृहीतः स्वतेजसा
+
+If I suppress it with my own powers, it will consume me with its energy. 
+##### 16
+भवतां च विजानामि सर्वलोकहितेप्सुताम्
+
+I know that you always strive for the welfare of the worlds. 
+
+तस्माद्विदध्वं यच्छ्रेयो लोकानां मम चेश्वराः
+
+O lords! Therefore, instruct me on what is best for the worlds and for me.”
+##### 17
+पितर ऊचुः
+
+‘“‘The ancestors said, 
+
+य एष मन्युजस्तेऽग्निर्लोकानादातुमिच्छति
+
+“This fire that is born from your anger wishes to consume the worlds. 
+
+अप्सु तं मुञ्च भद्रं ते लोका ह्यप्सु प्रतिष्ठिताः
+
+Cast it into the waters and be fortunate, because the worlds are established on water. 
+##### 18
+आपोमयाः सर्वरसाः सर्वमापोमयं जगत्
+
+Every juice consists of water. Indeed, the entire universe is made out of water. 
+
+तस्मादप्सु विमुञ्चेमं क्रोधाग्निं द्विजसत्तम
+
+O best of the twice-born! Therefore, release your anger into the water. O Brahmana! 
+##### 19
+अयं तिष्ठतु ते विप्र यदीच्छसि महोदधौ
+
+If you so desire, let yours be in the great ocean, 
+
+मन्युजोऽग्निर्दहन्नापो लोका ह्यापोमयाः स्मृताः
+
+the anger of your fire, consuming the water, because we have heard that the worlds are made out of water. 
+##### 20
+एवं प्रतिज्ञा सत्येयं तवानघ भविष्यति
+न चैव सामरा लोका गमिष्यन्ति पराभवम्
+
+O unblemished one! In this way, your vow will remain true and the worlds, with their gods, will not be destroyed.”’
+##### 21
+वसिष्ठ उवाच
+
+“Vashishtha said, 
+
+ततस्तं क्रोधजं तात और्वोऽग्निं वरुणालये
+
+‘‘Thereupon, Ourva hurled the fire of his anger into Varuna’s territory 
+
+उत्ससर्ज स चैवाप उपयुङ्क्ते महोदधौ
+
+and the fire consumes the waters of the great ocean. 
+##### 22
+महद्धयशिरो भूत्वा यत्तद्वेदविदो विदुः
+
+Those who are learned in the Vedas know that it has assumed the form of a large horse’s head,117 
+
+तमग्निमुद्गिरन्वक्त्रात्पिबत्यापो महोदधौ
+
+which spouts fire from the mouth and consumes the waters of the great ocean. 
+##### 23
+तस्मात्त्वमपि भद्रं ते न लोकान्हन्तुमर्हसि
+
+Be blessed and refrain from destroying the worlds, 
+
+पराशर परान्धर्माञ्जानञ्ज्ञानवतां वर
+
+O Parashara! You are the foremost among those who are wise. You are familiar with the higher dharma. ”’
 ### c200
 ##### 15-20
 ###### 15
@@ -2949,6 +3420,78 @@ The army looked like the autumn sky, decorated with stars.
 # p10
 ### c14
 ###### 11
+ते अस्त्रे तेजसा लोकांस्तापयन्ती व्यवस्थिते
+
+That weapon was stationed there, scorching the worlds with its energy. 
+
+महर्षी सहितौ तत्र दर्शयामासतुस्तदा
+
+The two maharshis, showed themselves then.
+##### 12
+नारदः स च धर्मात्मा भरतानां पितामहः
+
+Narada, with dharma in his soul, and the grandfather of the Bharatas,35 
+
+उभौ शमयितुं वीरौ भारद्वाजधनंजयौ
+
+They sought to pacify the two brave ones, Bharadvaja’s descendant and Dhananjaya.
+### c18
+##### 1
+वासुदेव उवाच
+
+Vasudeva said, 
+
+ततो देवयुगेऽतीते देवा वै समकल्पयन्
+
+“When the yuga of the gods was over,59 the gods resolved 
+
+यज्ञं वेदप्रमाणेन 
+
+to perform a sacrifice in accordance with the dictates of the Vedas. 
+
+विधिवद्यष्टुमीप्सवः
+
+They made all the due preparations. 
+##### 2
+कल्पयामासुरव्यग्रा देशान्यज्ञोचितांस्ततः
+
+The foremost among the gods thought of an appropriate place where the sacrifice could be performed. 
+
+भागार्हा देवताश्चैव यज्ञियं द्रव्यमेव च
+
+Amongst themselves, the gods apportioned out the shares of the objects offered at the sacrifice. 
+##### 3
+ता वै रुद्रमजानन्त्यो याथातथ्येन देवताः
+
+Despite knowing about Rudra and about his true nature, 
+
+नाकल्पयन्त देवस्य स्थाणोर्भागं नराधिप
+
+O lord of men! the gods did not determine a share for Sthanu. 
+##### 4
+सोऽकल्प्यमाने भागे तु कृत्तिवासा मखेऽमरैः
+
+On knowing that the immortals had not thought of a share for him at the sacrifice, Krittivasa60 
+
+तरसा भागमन्विच्छन्धनुरादौ ससर्ज ह
+
+quickly determined to obtain a share and created a bow.
+##### 20
+ततो विधनुषं देवा देवश्रेष्ठमुपागमन्
+
+The best of the gods was without a bow and the gods approached him 
+
+शरणं सह यज्ञेन प्रसादं चाकरोत्प्रभुः
+
+and sought refuge with him together with the sacrifice. They sought the lord’s favours.
+##### 21
+ततः प्रसन्नो भगवान्प्रास्यत्कोपं जलाशये
+
+The illustrious one was pleased and cast his anger aside into a body of water. 
+
+स जलं पावको भूत्वा शोषयत्यनिशं प्रभो
+
+O lord! That is the fire in the water, which always dries it up.
 ## u3
 # p12
 ### c30
@@ -7059,6 +7602,33 @@ O lord of men! Men should not act out of affection towards them, nor should they
 खेदमास्थाय भुञ्जीत धर्ममास्थाय चैव हि ||२४||
 
 They should be enjoyed regretfully, because that is dharma.
+### c56
+#### 4-6
+##### 4
+तत उत्पत्स्यतेऽस्माकं कुले गोत्रविवर्धनः
+
+Then, in our lineage, a person will be born to extend the line. 
+
+और्वो नाम महातेजा ज्वलनार्कसमद्युतिः
+
+His name will be Ourva and he will be greatly energetic. His resplendence will be like that of the blazing fire. 
+##### 5
+स त्रैलोक्यविनाशाय कोपाग्निं जनयिष्यति
+
+The flames of his anger will be such that they will be capable of destroying the three worlds. 
+
+महीं सपर्वतवनां यः करिष्यति भस्मसात्
+
+He will be capable of reducing the earth, with its mountains and oceans, to ashes. 
+##### 6
+कंचित्कालं तु तं वह्निं स एव शमयिष्यति
+
+He will control the fire of his anger for some time. 
+
+समुद्रे वडवावक्त्रे प्रक्षिप्य मुनिसत्तमः
+
+That supreme of sages will hurl it into the ocean, in the form of the subterranean fire.
+####
 ### c77
 ###### 16
 गवां मूत्रपुरीषस्य नोद्विजेत कदाचन |
@@ -7318,6 +7888,36 @@ a एतं मे संशयं देव वद भूतपतेऽनघ
 ब्राह्मणो वाप्यसद्वृत्तः सर्वसंकरभोजनः
 ब्राह्मण्यं पुण्यमुत्सृज्य शूद्रो भवति तादृशः
 ## c146
+##### 1
+वासुदेव उवाच
+
+‘Vasudeva said, 
+
+युधिष्ठिर महाबाहो 
+
+
+“O Yudhishthira! O mighty-armed one! 
+
+महाभाग्यं महात्मनः
+रुद्राय बहुरूपाय बहुनाम्ने निबोध मे
+
+V Listen to me. I will recite the names of the immensely fortunate and great-souled Rudra, who has many forms.
+##### 5
+आत्मनोऽर्धं तु तस्याग्निरुच्यते भरतर्षभ
+
+O bull among the Bharata lineage! Half of his body is also said to be the fire, 
+
+ब्रह्मचर्यं चरत्येष शिवा यास्य तनुस्तथा
+
+while the half that is auspicious is said to follow brahmacharya. 
+##### 6
+यास्य घोरतमा मूर्तिर्जगत्संहरते तया
+
+The fiercest of his forms is the one which destroys the universe 
+
+ईश्वरत्वान्महत्त्वाच्च महेश्वर इति स्मृतः
+
+and is said to be the great lord or Maheshvara.
 ##### 8
 देवानां सुमहान्यच्च यच्चास्य विषयो महान्
 
@@ -7404,6 +8004,18 @@ When worshipped, the person who provides delight is Maheshvara.
 सुखं ददाति प्रीतात्मा भक्तानां भक्तवत्सलः
 
 He is affectionate towards his devotees. Cheerful in his soul, he grants happiness to his devotees.
+##### 29
+महेश्वरश्च लोकानां महतामीश्वरश्च सः
+
+Since he is the great lord of the worlds, he is known as Maheshvara.
+
+बहुभिर्विविधै रूपैर्विश्वं व्याप्तमिदं जगत्
+
+He pervades the universe in many kinds of different forms.
+
+तस्य देवस्य यद्वक्त्रं समुद्रे वडवामुखम्
+
+This god’s mouth exists in the ocean in the form of the mare-headed fire.”
 # p18
 ### c5
 ###### 41
