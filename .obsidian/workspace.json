@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/porph.md",
+                "file": "000_temp/grecoroman/platonism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "porph"
+              "title": "platonism"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "platonis",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref/porph.md",
+                "file": "000_temp/grecoroman/platonism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of porph"
+              "title": "Outline of platonism"
             }
           }
         ],
@@ -236,6 +237,7 @@
   },
   "active": "3d1fa9d4e0f71aa3",
   "lastOpenFiles": [
+    "Ref/porph.md",
     "Ref/bmvP.md",
     "Ref/aet.md",
     "Ref/kmS.md",
@@ -270,7 +272,6 @@
     "002_quran/kfr/shirk/zann.md",
     "002_quran/anbiya/zakarya/zakariya.md",
     "002_quran/anbiya/yusuf/yusuf.md",
-    "002_quran/anbiya/yunus/yunus.md",
     "boomerang/naik_vas.png",
     "boomerang/naik.jpg",
     "002_quran/sihr/~syncthing~magic.md.tmp",
