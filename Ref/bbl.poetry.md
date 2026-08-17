@@ -153,6 +153,11 @@ I have said, Ye [are] gods; and all of you [are] children of the most High.
 אַ֭שְׁרֵי יוֹשְׁבֵ֣י בֵיתֶ֑ךָ ע֝֗וֹד יְֽהַלְל֥וּךָ סֶּֽלָה ׃
 
 Blessed [is] the man whose strength [is] in thee; in whose heart [are] the ways [of them].
+## c90
+#### 4
+כִּי אֶלֶף שָׁנִים בְּעֵינֶיךׇ כְּיוֺם אֶתְמוֺל כִּי יַעֲבֹר וְאַשְׁמוּרָה בַלָּיְלָה
+
+For a thousand years in thy sight [are but] as yesterday when it is past, and [as] a watch in the night.
 ## c97
 ### 2
 עָנָ֣ן וַעֲרָפֶ֣ל סְבִיבָ֑יו צֶ֥דֶק וּ֝מִשְׁפָּ֗ט מְכ֣וֹן כִּסְאֽוֹ ׃

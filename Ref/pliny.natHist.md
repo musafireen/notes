@@ -245,6 +245,63 @@ Isigonus and Nymphodorus inform us that there are in Africa certain families of 
 notabilius esse quod pupillas binas in oculis singulis habeant. huius generis et feminas in scythia, quae bitiae vocantur, prodit apollonides. phylarchus et in ponto thibiorum genus multosque alios eiusdem naturae, quorum notas tradit in altero oculo geminam pupillam, in altero equi effigiem; eosdem praeterea non posse mergi, ne veste quidem degravatos. haut dissimile iis genus pharmacum in aethiopia damon, quorum sudor tabem contactis corporibus afferat. feminas quidem omnes ubique visu nocere quae duplices pupillas habeant, cicero quoque apud nos auctor est. adeo naturae, cum ferarum morem vescendi humanis visceribus in homine genuisset, gignere etiam in toto corpore et in quorundam oculis quoque venena placuit, ne quid usquam mali esset quod in homine non esset.
 
 A still more remarkable circumstance is, the fact that these persons have two pupils in each eye.25 Apollonides says, that there are certain females of this description in Scythia, who are known as Bythiæ, and Phylarchus states that a tribe of the Thibii in Pontus, and many other persons as well, have a double pupil in one eye, and in the other the figure of a horse.26 He also remarks, that the bodies of these persons will not sink in water,27 even though weighed down by their garments. Damon gives an account of a race of people, not very much unlike them, the Pharnaces of Æthiopia, whose perspiration is productive of consumption28 to the body of every person that it touches. Cicero also, one of our own writers, makes the remark, that the glances of all women who have a double pupil is noxious.29
+# b14
+## c39
+non sunt eorum cinnamomum aut casia, 
+
+Arabia produces neither cinnamon nor cassia; 
+
+et tamen felix appellatur arabia, 
+
+and this is the country styled "Happy" Arabia! 
+
+falsi et ingrati cognominis, 
+
+False and ungrateful does she prove herself in the adoption of this surname, 
+
+quae hoc acceptum superis ferat, 
+
+which she would imply to have been received from the gods above; 
+
+cum plus ex eo inferis debeat. 
+
+whereas, in reality, she is indebted for it far more to the gods below.1 
+
+beatam illam fecit hominum etiam in morte luxuria quae dis intellexerant genita inurentium defunctis. 
+
+It is the luxury which is displayed by man, even in the paraphernalia of death, that has rendered Arabia thus "happy;" and which prompts him to burn with the dead what was originally understood to have been produced for the service of the gods. 
+
+periti rerum adseverant non ferre tantum annuo fetu, quantum nero princeps novissimo poppaeae suae die concremaverit. 
+
+Those who are likely to be the best acquainted with the matter, assert that this country does not produce, in a whole year, so large a quantity of perfumes as was burnt by the Emperor Nero at the funeral obsequies of his wife Poppæa. 
+
+aestimentur post ea toto orbe singulis annis tot funera acervatimque congesta honori cadaverum quae dis per singulas micas dantur. 
+
+And then let us only take into account the vast number of funerals that are celebrated throughout the whole world each year, and the heaps of odours that are piled up in honour of the bodies of the dead; the vast quantities, too, that are offered to the gods in single grains; 
+
+nec minus propitii erant mola salsa supplicantibus, 
+
+and yet, when men were in the habit of offering up to them the salted cake, they did not show themselves any the less propitious;
+
+immo vero, ut palam est, placatiores. 
+
+nay, rather, as the facts themselves prove, they were even more favourable to us than they are now. 
+
+verum arabiae etiamnum felicius mare est; 
+
+But it is the sea of Arabia that has even a still greater right to be called "happy," 
+
+ex illo namque margaritas mittit. 
+
+for it is this that furnishes us with pearls. 
+#### 14.41.84
+minimaque computatione miliens centena milia sestertium annis omnibus india et seres et paeninsula illa imperio nostro adimunt: tanti nobis deliciae et feminae constant. 
+
+At the very lowest computation, India, the Seres, and the Arabian Peninsula, withdraw from our empire one hundred millions of sesterces every year—so dearly do we pay for our luxury and our women. 
+#### ?
+quota enim portio ex illis ad deos, quaeso, iam vel ad inferos pertinet
+
+How large a portion, too, I should like to know, of all these perfumes, really comes to the gods of heaven, and the deities of the shades below? 
 # b13
 ## 2
 vnguentis cognomina dedere aliis patriae, aliis suci, aliis arbores, aliis causae, primumque id scire convenit, mutatam auctoritatem et saepius transisse gloriam. 

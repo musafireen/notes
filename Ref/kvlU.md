@@ -1,4 +1,6 @@
 
+
+https://vishvasa.github.io/AgamaH_shaivaH/upaniShat/kaivalyopaniShat/
 https://sanskritdocuments.org/doc_upanishhat/kaivalya.html
 https://www.wisdomlib.org/hinduism/book/kaivalya-upanishad
 

@@ -1,4 +1,6 @@
 
+
+https://vishvasa.github.io/AgamaH_shaivaH/sampradAyaH/kaulaH_shAktaH/AgamaH/kulArNava-tantram/
 # p2
 ### 2.10
 मथित्वा ज्ञानमन्थेन वेदोगममहार्णवम्  |
@@ -9,3 +11,5 @@
 योगो भोगायते ।
 ### 2.86
 तस्माद् वेदात्मकम् शास्त्रम् विद्धि कौलात्मकम् प्रिये | 
+
+### 11.83

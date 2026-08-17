@@ -1,4 +1,6 @@
 
+https://vishvasa.github.io/AgamaH_shaivaH/sampradAyaH/kaulaH_shAktaH/sampradAyaH/pashchimAmnAyaH_kubjikA/kubjikA-mata-tantram/
+
 https://www.wisdomlib.org/hinduism/book/kubjikamatatantra-sanskrit
 ### 6.35
 पीठमध्यगताभ्यासात्पीठद्वारेऽथवा प्रिये /

@@ -1,4 +1,7 @@
 
+
+https://vishvasa.github.io/AgamaH_shaivaH/sampradAyaH/kaulaH_shAktaH/mukta-bodha-mUlam/unknown/rudrayamalatantra_uttarakANDa__M00074/
+
 ![[VjBhrvT]]
 
 ### 4.74

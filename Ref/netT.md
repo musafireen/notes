@@ -1,4 +1,5 @@
 
+https://vishvasa.github.io/AgamaH_shaivaH/sampradAyaH/kaulaH_shAktaH/sampradAyaH/pUrvAmnAyaH_trikam/00_tantram/netra-tantram/
 # c7
 ### 7.5
 While the inherent power only rises up through the suṣumnā channel in the tantric system, the same power rises up in the Kula system and reaches a reservoir of nectar ( amṛta) in the head which then “drenches” the body on its way down through a multitude of subtle channels ( nāḍī s) causing somatic joy and immortality (NT 7.11–16ab, 44–48). 13 The yogi becomes “a divine body bereft of all disease” (NT 7.5c)" (.)

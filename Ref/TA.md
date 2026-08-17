@@ -234,8 +234,14 @@ five indeed are the great sacrifices, to be performed daily until the end for pe
  अवा॒शिषो॑ रु॒न्धे । अ॒भि सु॑व॒र्गं लो॒कं ज॑यति । तस्मा॑दे॒ष आ᳚श्वि॒न
  प्र॑वया इव । यत्प्र॑व॒र्ग्यः॑ ॥ ०। ५। १। ७॥ उ॒त्क॒रो ह्ये॑ते तृ॑न्दन्ति
  महावीर॒त्वम॑ब्रुवन्नजयन्थ्स॒प्त च॑ ॥ १॥
-# k7-9
-[[TtU]]
+# k7
+![[TtU#b1]]
+
+# k8
+![[TtU#b2]]
+
+# k9
+![[TtU#b3]]
 # k10
 (Mahānārāyana upaniśad)
 ## 10.1

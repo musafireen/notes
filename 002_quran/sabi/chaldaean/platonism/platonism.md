@@ -20,9 +20,13 @@ https://youtu.be/gFLP4C4MRYQ?t=1174
 ### pycna
 
 # plutarch
-https://youtu.be/vZXEtCURKso?si=D-eAMmHcKR2K0ShB
+https://youtu.be/vZXEtCURKso
 
 ## plut.is:46-49
 [[plut#isid#c46]]
 ## plu.animPrcr:27
 [[plut#anim_prcr#c27]]
+
+# marcus aurelius
+
+https://youtu.be/eKIqRBn2iLM?si=ThLsqraXUg-Wtl63

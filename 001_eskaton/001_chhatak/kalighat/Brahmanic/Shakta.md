@@ -68,7 +68,7 @@ marvars ritual suicide in battle for her
 # skanda purāṇa
 : 8th
 \__ vindhyāvāsinī
-
+[[SkP]]
 # śākta upaniṣad: 
 
 # Devī purāṇa
@@ -83,15 +83,15 @@ __ lokamātara
 \__ vindhyāvāsinī merge with haimavata pārvatī under śiva
 \__ kātyāyaṇī upākhyāna: 22-armed, kills viṣṇubhakta ghorāsura mahiṣāsura
 \__ dūrgā pūjā navapatrikā paddhati
-
+:[[DvP]]
 # Mālinīvijayottara tantra
 : 9-10th
 \__ trika
-:[[MlnVjT]]
+:[[AbhNvGp#MlnVjT]]
 # Kaulajñānanurṇaya
 : matsyendranātha 10th
 \__ kubjikā paścimāmnāya rejects vyākta liṅgatā
-
+:[[KaulJnNirn]]
 # Kubjikāmatatantra
 : 10th
 \__ paścimāmnāya,
@@ -101,12 +101,12 @@ __ lokamātara
 
 # Tantrāloka
 :abhinavagupta: 10th
-\__ kula ātman of śaiva :[[tntrlok#35.34]]
+\__ kula ātman of śaiva :[[AbhNvGp#tntrlok#35.34]]
 
 # Tantrasāra
 :abhinavagupta: 10th
 \__ comment on trika mālinīvijayottara
-:[[tntrSar]]
+:[[AbhNvGp#tntrSar]]
 
 # netrodyota
 : kṣemarāja 10th
@@ -122,7 +122,8 @@ __ lokamātara
 
 # Kulārṇavatantra
 : -11th
-\__ urdhāmnāya
+\__ urdhāmnāya 
+:[[klrnvT]]
 
 # Yonitantra
 : bengal 11th
@@ -143,7 +144,7 @@ __ total 10 śaktis (7 of devi māhātmya + 3)
 \__ devī on throne of trimurti viṣṇu śiva brahma
 \__ devī gītā: himavān-mahādevī kathopakathana: 7:31-40:\* - 13-16th c.
 \__ muslim mleccha, yavana: 9:\*:\* - 12-15th c.
-
+:[[dvBhgP]]
 # ciñciṇīmatasārasamuccaya
 : hemacandra 12th
 \__ trika, kālikula, kubjikā, kāmākṣī-tripurāsundarī 4 āmnāya
@@ -152,7 +153,7 @@ __ total 10 śaktis (7 of devi māhātmya + 3)
 : 10th-13
 \__ rudhirādhyāya KP.67 narabali
 \__ kāmākhyā called mahāmāyā, kāli
-
+:[[KalkP]]
 # mahābhāgavata/?devī purāṇa
 : 12-\*th bengal
 \__ satī as kāli
@@ -165,11 +166,11 @@ __ total 10 śaktis (7 of devi māhātmya + 3)
 \__ mahādevī kṛṣṇa
 \__ śakti pīṭha
 \__ kāmarūpa greatest śakti piṭha earning mokṣa to pūjaka
-
+:[[dvP]]
 # Tārābhaktisudhārṇava
 : narahari tīrtha 13th
 \__ 
-
+:[[TarBhkSudhRnv]]
 # Śivasamhita
 : 14th
 \__ 7th cakra added after nātha yogi & sannyāsin
@@ -187,6 +188,7 @@ __ total 10 śaktis (7 of devi māhātmya + 3)
 # ṣaṭcakranirūpana
 : 16th
 \__ śrīvidyā
+:[[StckrNir]]
 
 # ?
 : lakṣmīdhāra 16th
@@ -201,6 +203,7 @@ as opposed to aśvamedha because kaliyuga
 1620 kṛṣṇānanda āgāmavāhīśa
 Popularized kāli pūjā utsava
 1740 [Vaidyas from rarh to srihatta during bargi raid](https://pdfcoffee.com/journal-of-bengali-studies-vol4-no2-pdf-free.html)
+:[[krsndAgmvgs.BrhTSa]]
 # ?
 1750 und kṛṣṇacandra o navadvīpa
 __ śākta rāsa from śākta rāja dharma and caitanya vaiṣṇava
